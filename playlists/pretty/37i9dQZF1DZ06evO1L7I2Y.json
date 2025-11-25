@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3563,
+  "num_followers": 3564,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSD9AAAAAACD3nRNjL9qoEhbxTZQb2LS",
+  "snapshot_id": "aSJOgAAAAAAiUoeJgoxnsJlBuuUtDLXr",
   "tracks": [
     {
       "added_at": null,
@@ -472,17 +472,13 @@
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Porrada de Balinha",
-      "url": "https://open.spotify.com/track/0ulXVWE7PD5SWI9WxQ1beB"
+      "duration_ms": 192676,
+      "name": "Despedidas",
+      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
     },
     {
       "added_at": null,
@@ -568,13 +564,17 @@
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
         }
       ],
-      "duration_ms": 192676,
-      "name": "Despedidas",
-      "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
+      "duration_ms": 166153,
+      "name": "Porrada de Balinha",
+      "url": "https://open.spotify.com/track/0ulXVWE7PD5SWI9WxQ1beB"
     },
     {
       "added_at": null,
@@ -1083,6 +1083,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dysfunktional Family (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Too Street 4 T.V.",
+      "url": "https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PLASMA",
         "url": "https://open.spotify.com/album/6v535oNr1rj96cFrYGIiSL"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 174861,
       "name": "MEC",
       "url": "https://open.spotify.com/track/0vXztPiti2BXzryaC9YxqU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dysfunktional Family (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Too Street 4 T.V.",
-      "url": "https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL"
     }
   ],
   "unique_name": "This Is N.I.N.A",

@@ -2872,8 +2872,8 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
-      "duration_ms": 241106,
+      "date_removed": null,
+      "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
@@ -5552,7 +5552,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 184615,
       "name": "BAM BAM",
       "url": "https://open.spotify.com/track/7yJbZo0ev4D9ZaJgf1kaYX"
@@ -25724,7 +25724,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -26562,7 +26562,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-22",
+      "date_removed": null,
       "duration_ms": 209786,
       "name": "Lioma Se Gremo",
       "url": "https://open.spotify.com/track/5AkFj1SDc22DKJoHADNsnS"
@@ -31908,7 +31908,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 145766,
       "name": "MPAOU MPAOU",
       "url": "https://open.spotify.com/track/2qC7nFwSqzmd8wvZ5lXyaT"
@@ -33550,7 +33550,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Normal",
       "url": "https://open.spotify.com/track/766qL8sOkmsPswhAiOzrRC"
@@ -35066,7 +35066,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 115600,
       "name": "OSEGUERA",
       "url": "https://open.spotify.com/track/20FpoOcsu5Wbb0eRSgizQ6"
@@ -40106,7 +40106,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 147019,
       "name": "REFSTO",
       "url": "https://open.spotify.com/track/6BhYZ6LPloPzRu99m0MIyi"
@@ -41168,7 +41168,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 116363,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/4Vtelze8gubX1KfKWc6aOm"
@@ -43450,7 +43450,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 168428,
       "name": "SOSA",
       "url": "https://open.spotify.com/track/1j8aRXVJFYkDWEUpZeGrdc"
@@ -50358,6 +50358,10 @@
         {
           "name": "YungKapa",
           "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
       "date_added": "2025-11-22",

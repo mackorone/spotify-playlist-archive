@@ -12485,6 +12485,24 @@
     },
     {
       "album": {
+        "name": "Bring Me a Flower",
+        "url": "https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ"
+      },
+      "artists": [
+        {
+          "name": "Baldy Crawlers",
+          "url": "https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215453,
+      "name": "Bring Me a Flower",
+      "url": "https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS"
+    },
+    {
+      "album": {
         "name": "The Grand Dissatisfaction",
         "url": "https://open.spotify.com/album/34uEvpv8GbYYllW1AHtBWg"
       },

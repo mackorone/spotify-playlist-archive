@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Benjazzy
 
-2,075 songs - 4 day 8 hr 54 min
+2,076 songs - 4 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1791,6 +1791,7 @@
 | [WAVES](https://open.spotify.com/track/4CfodbaX3BE71358NP9qAi) | [13ELL](https://open.spotify.com/artist/5QVAFVj5ujNUpjurU1wW9s), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [WAVES](https://open.spotify.com/album/0hi3au2qy3OurbrtdPA6xB) | 2:19 | 2024-06-05 | 2024-07-03 |
 | [WAVEY](https://open.spotify.com/track/31WDWwM3hI8jzcNNeKI2Bl) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [WAVEY](https://open.spotify.com/album/0KJoYEBdgFRtKZgrDNLb8Q) | 3:00 | 2025-08-19 | 2025-09-12 |
 | [Wax On Wax Off](https://open.spotify.com/track/6OOVIYZMAaSGan0VblqAaq) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Wax On Wax Off](https://open.spotify.com/album/7KDGCPHPJBulOmsSAOXVHj) | 2:51 | 2025-07-15 | 2025-09-04 |
+| [Wax On Wax Off \(feat\. R\-指定, NENE, 鎮座DOPENESS & C.O.S.A.\) \[\-Japan Remix\-\]](https://open.spotify.com/track/34JggEOSRwhBnBU0CXCQn3) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Okinawan Wuman](https://open.spotify.com/album/2uISnRUJM9lnew7KyI3z9z) | 4:14 | 2025-11-24 |  |
 | [We Are \(feat\. Tiji Jojo\)](https://open.spotify.com/track/1ONqnJmKl548H1MwMnsLCL) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt) | [We Are \(feat\. Tiji Jojo\)](https://open.spotify.com/album/6ZoiLiOWn1I8TfA0wXQVkU) | 3:07 | 2025-07-29 | 2025-10-24 |
 | [We are the funky](https://open.spotify.com/track/2wsboBeDDcZHgmOSs5r7B9) | [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [We are the funky](https://open.spotify.com/album/16ST4BmuKNjL804sKlBuil) | 3:06 | 2024-03-07 | 2024-04-10 |
 | [We Don't Care](https://open.spotify.com/track/0hmv3cSGXLNCkS61YegpnC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [We Don't Care](https://open.spotify.com/album/471tuwT1A93HEC3bk3Rwc7) | 2:40 | 2025-08-12 | 2025-09-24 |

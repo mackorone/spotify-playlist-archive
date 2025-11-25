@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 50190,
+  "num_followers": 50270,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 67894,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "backroom labyrinth",
         "url": "https://open.spotify.com/album/5gQk4x96WeNGcnwLMj8Wlk"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 226234,
       "name": "lain",
       "url": "https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 67894,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "THIRTY\u4e09\u5341",
-        "url": "https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Buckland",
-          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
-        }
-      ],
-      "duration_ms": 163047,
-      "name": "icosa",
-      "url": "https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "VOCALOID DYSTOPIA",
         "url": "https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 144875,
       "name": "VOCALOID UTOPIA",
       "url": "https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "THIRTY\u4e09\u5341",
+        "url": "https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Buckland",
+          "url": "https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b"
+        }
+      ],
+      "duration_ms": 163047,
+      "name": "icosa",
+      "url": "https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -801,20 +801,20 @@
       "url": "https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll"
     },
     {
-      "added_at": "2023-08-03 17:54:32",
+      "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Umbrae",
-        "url": "https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM"
+        "name": "Visualizer.Eden",
+        "url": "https://open.spotify.com/album/1TQsuV5vpKEadjNeii5ULn"
       },
       "artists": [
         {
-          "name": "hxly xo",
-          "url": "https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH"
+          "name": "yion",
+          "url": "https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE"
         }
       ],
-      "duration_ms": 126751,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y"
+      "duration_ms": 231771,
+      "name": "Visualizer.Eden",
+      "url": "https://open.spotify.com/track/5vweEhyO7Am4GGXrhHvShK"
     }
   ],
   "unique_name": "webcore",

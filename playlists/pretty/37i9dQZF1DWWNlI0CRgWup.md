@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : 63OG
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,541 likes - 67 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,527 likes - 67 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

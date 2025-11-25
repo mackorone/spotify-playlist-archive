@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw\_JxQqKkC0xBdre1Tw">Teni</a> and <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,635 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,637 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 9 | [Busiswa \(feat\. Nevrr49 & PXB DJS\)](https://open.spotify.com/track/6n7ZmuqGmVqFbCxuoVAxWw) | [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Nevrr49](https://open.spotify.com/artist/36h0zByMWDwoORD0klYp3S), [PXB DJS](https://open.spotify.com/artist/3yr93kwZy8ivVTDsdOBBJk) | [Busiswa \(feat\. Nevrr49 & PXB DJS\)](https://open.spotify.com/album/5sYUd2akjshfFIGOkavcbG) | 5:19 |
 | 10 | [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 |
 | 11 | [Legendary](https://open.spotify.com/track/6L4cxH6yHe7jLB9Ux1ubOa) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [DJ Stavo](https://open.spotify.com/artist/0fWdRyi14sgQWsFCNjXXng) | [Legendary](https://open.spotify.com/album/7D0S8MbTaJTTvCNjJyI1Tp) | 3:41 |
-| 12 | [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 2:46 |
+| 12 | [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 3:45 |
 | 13 | [King Of Amapiano](https://open.spotify.com/track/6QfOsTUrX342WStVNP5Ztl) | [Bluenax](https://open.spotify.com/artist/4X1DmCmbbP3c7asjJzo0Id), [Trevor Beats](https://open.spotify.com/artist/5S7rAUDSMBncSXFQHG49Qt) | [King Of Amapiano](https://open.spotify.com/album/6ZzRnAR7o3ThMyKCBy21Dh) | 5:05 |
 | 14 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 |
 | 15 | [Kautaka](https://open.spotify.com/track/1CFb8yXaAWFHicsHC3mtiz) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [JFS Music](https://open.spotify.com/artist/2Y07NCPFAgmTOIjPzvekC1), [King Tone SA](https://open.spotify.com/artist/3DoyERZYghbTIOhr6XSKKA) | [Kautaka](https://open.spotify.com/album/194quVbCyP8bv2di4w7DEA) | 3:19 |

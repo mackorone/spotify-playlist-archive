@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Stick Out!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,572 likes - 361 songs - 23 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,584 likes - 361 songs - 23 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

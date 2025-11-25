@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 
 > Devotional tracks for an immersive Ramadan\. Cover: Ali Zafar
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,764 likes - 74 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,759 likes - 74 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbCdb6frP71o.md) - [plain]
 | 22 | [Ya Nabi Salam Alayka](https://open.spotify.com/track/5HHjEUuf9lNhQWJ1pZeGgI) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(Turkish Version\)](https://open.spotify.com/album/1Wul1gjulHQkgnZ1aZMgne) | 4:56 |
 | 23 | [Mustafa Jaan\-E\-Rehmat](https://open.spotify.com/track/1QSZGKtQ35ZIpU7cPseaa9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Mustafa Jaan\-E\-Rehmat](https://open.spotify.com/album/3srtuCmeKcGj2NunqYMiY6) | 5:07 |
 | 24 | [Faslon Ko Takaluf](https://open.spotify.com/track/0c5XZemmzLDl9xlq9qlpni) | [Shuja Haider](https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt) | [Faslon Ko Takaluf](https://open.spotify.com/album/27YQHZ4KOCOeUI0ftfsjoj) | 5:21 |
-| 25 | [Allah Hoo](https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ) | [BILAL SAEED](https://open.spotify.com/artist/3oRqe1NjDUsVICOfCR2RmV) | [Allah Hoo](https://open.spotify.com/album/67MfQAsIqudWrhvPjP5MAr) | 4:02 |
+| 25 | [Allah Hoo](https://open.spotify.com/track/2oAsqDg6T3r1aCuA6RnXmQ) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ) | [Allah Hoo](https://open.spotify.com/album/67MfQAsIqudWrhvPjP5MAr) | 4:02 |
 | 26 | [Shan E Ramzan](https://open.spotify.com/track/4hylxbiNeIuj997IECSmqd) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D), [Amjad Sabri](https://open.spotify.com/artist/5O8fzkJErOVKDvWgs7bBJ3) | [Shan\-E\-Ramzan \- Single](https://open.spotify.com/album/0L1lEgslkPfwzrJ4d7VVz3) | 4:35 |
 | 27 | [Allah Hoo Allah Hoo](https://open.spotify.com/track/2wHHYI9qHgFka2ixZeqHRA) | [Qari Waheed Zafar Qasmi](https://open.spotify.com/artist/2NkEXPNPJyiuIRnO9oTvnY) | [Hamd](https://open.spotify.com/album/586zkrZs8wYYpxaivUdgkx) | 7:04 |
 | 28 | [Mohamed Nabeina](https://open.spotify.com/track/5sK6ASFSHrXAQdHfsMID13) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [Hamada Helal Collection](https://open.spotify.com/album/3X7CyGVcbSUGO0yN5aB0sL) | 4:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Gerardo Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,785 likes - 233 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,790 likes - 233 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 4 | [Ahora Estoy De Más](https://open.spotify.com/track/6PPgH1NsduSmfKFr3M06ku) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [VI : Venimos X Más](https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB) | 2:36 |
 | 5 | [Me Gustas Me Encantas](https://open.spotify.com/track/0KtPnHL9iQfpzAxqmI8EJh) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [VI : Venimos X Más](https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB) | 2:32 |
 | 6 | [Bellos Momentos](https://open.spotify.com/track/0hyM7A2L3jKdYWBQMwPQfO) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [VI : Venimos X Más](https://open.spotify.com/album/5pFZFzTFHNKdJiutXkfJjB) | 2:57 |
-| 7 | [No Tenerte Duele Más](https://open.spotify.com/track/2Ud8lHgQ7tgLnaAWncwpgL) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 3:06 |
-| 8 | [Somos Peligro](https://open.spotify.com/track/5yzRS2AOgLCAPyL2JOTHOm) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 2:59 |
+| 7 | [no tenerte duele más](https://open.spotify.com/track/2Ud8lHgQ7tgLnaAWncwpgL) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 3:06 |
+| 8 | [somos peligro](https://open.spotify.com/track/5yzRS2AOgLCAPyL2JOTHOm) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 2:59 |
 | 9 | [contrabando](https://open.spotify.com/track/3Z4sKGics3KdJ1GYucaEqG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [La Traición y El Contrabando](https://open.spotify.com/album/1A4gcss7NFXtY2CeLN7Cqs) | 3:10 |
 | 10 | [Dile a Tu Orgullo \- En Vivo](https://open.spotify.com/track/19DnQWh8pdHgrhVc7MQxgi) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [El Flaco y Sus Amigos: Auditorios](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 3:53 |
 | 11 | [El Que Te Amó \- En Vivo](https://open.spotify.com/track/0wS19RsjOizho4unN81Q02) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Flaco y Sus Amigos: Auditorios](https://open.spotify.com/album/2Pn0XWh0ElBVOAf8GpypOs) | 2:58 |

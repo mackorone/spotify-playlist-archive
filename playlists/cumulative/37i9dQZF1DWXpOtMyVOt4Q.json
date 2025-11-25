@@ -382,7 +382,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 80760,
       "name": "Alone Forever",
       "url": "https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM"
@@ -1576,6 +1576,24 @@
       "duration_ms": 277800,
       "name": "Escape",
       "url": "https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER"
+    },
+    {
+      "album": {
+        "name": "eventide",
+        "url": "https://open.spotify.com/album/4OWD5nTZPjmoQNwojXyBcA"
+      },
+      "artists": [
+        {
+          "name": "hallow",
+          "url": "https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa"
+        }
+      ],
+      "date_added": "2025-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121487,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/4Hsu6BYqNRJqGZ42dqvdNB"
     },
     {
       "album": {

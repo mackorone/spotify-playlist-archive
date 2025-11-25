@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 549 likes - 2,042 songs - 4 day 23 hr 42 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,052 songs - 5 day 0 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2050,5 +2050,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2040 | [You've Got This!](https://open.spotify.com/track/0jP1cP68nrgzCUJgtYQWQY) | [Annette Davies](https://open.spotify.com/artist/1IKGoSyqjfq4xQLijteRpj) | [You've Got This!](https://open.spotify.com/album/2g5rQuX0J8CIhzboin3yau) | 3:58 |
 | 2041 | [Arrows](https://open.spotify.com/track/6v74tDWJeRLfMqD0Y0JJmE) | [InspirationNow Series](https://open.spotify.com/artist/0rEWU7S4WJPjoNSNqE3lGj), [Lydia Mel](https://open.spotify.com/artist/3VYuPscNH6XJACzfR1R8Ps) | [Arrows](https://open.spotify.com/album/4DUG5einjelMzfVw3pFinp) | 3:18 |
 | 2042 | [Old as the Hills](https://open.spotify.com/track/3t1Y3TdtUs9iKbe9DPb7cV) | [Thompson Newkirk](https://open.spotify.com/artist/4REmQoYtgtw3WxM75wpLO5) | [Old as the Hills](https://open.spotify.com/album/6qrgOH5ocwXDZZdnryjAe6) | 5:04 |
+| 2043 | [Tears To Sand](https://open.spotify.com/track/5Zv7pEVkiHaCzDXavW1qDP) | [NURE](https://open.spotify.com/artist/75rs5jsRztU6TrsvsbB2Ee) | [Day By Day](https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv) | 3:16 |
+| 2044 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 |
+| 2045 | [Lie With You](https://open.spotify.com/track/1inJFtOcEFLVjpoc1RNONS) | [High Altitudes](https://open.spotify.com/artist/1knSaFBW40lIAI2SW1ljM6), [Terrex](https://open.spotify.com/artist/2hY7mKlJLYWLL9bqa7iEtB) | [Between Two Hearts](https://open.spotify.com/album/5FAutMxEA4pDIXHAcNzMVA) | 3:28 |
+| 2046 | [Vita Nova](https://open.spotify.com/track/7sfHETaHsdaijZkZ0iLJZ3) | [Piet Lazou](https://open.spotify.com/artist/4Yv7SZ3coFaWrd0UFXJnVl) | [Vita Nova](https://open.spotify.com/album/19yS3Ejo1QgEyyfGD88eoN) | 3:31 |
+| 2047 | [Non so perchè](https://open.spotify.com/track/6xOCExbmCTDLGYCx6UGka0) | [Troppofreak](https://open.spotify.com/artist/17hSlSuT49zZZpllmIWHZX) | [Non so perchè](https://open.spotify.com/album/5utoSYLteDukZJaC3IMQvc) | 3:24 |
+| 2048 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 |
+| 2049 | [PEDIGRÍ](https://open.spotify.com/track/3Tn0K8Y8RTxbr6AuUBye6C) | [theKAEL](https://open.spotify.com/artist/2oHvI764GwwQfGn4OSiBuN) | [PEDIGRÍ](https://open.spotify.com/album/5YwVvxICmYcTzlRPITrnGU) | 2:34 |
+| 2050 | [Ler \(Live\)](https://open.spotify.com/track/5aIcdz6eKtYGlQUBde9IKa) | [Yerek](https://open.spotify.com/artist/406dGCdpaq4gKDb4XkQWuD) | [Happy Sin Remains \- Concert Fiction \(Live\)](https://open.spotify.com/album/7w8049JNhfBO2Y7AGHROpM) | 1:50 |
+| 2051 | [Yesterday > Tomorrow](https://open.spotify.com/track/3fjMmRTUetKvTVC3oP4zgd) | [Vividbluesun](https://open.spotify.com/artist/735pkA4IUZDztXYtWLrycM) | [Yesterday > Tomorrow](https://open.spotify.com/album/1uyljuEY7PUon79NDiWxzw) | 3:53 |
+| 2052 | [Child Of Light](https://open.spotify.com/track/1hGYMDIt8I2JW06IBwu6Ga) | [Samuel Bempah](https://open.spotify.com/artist/2aNiY6klY5HLFNPyI07rY5) | [Child Of Light](https://open.spotify.com/album/1QyJJ072gW9Ot1X18RLpkt) | 2:36 |
 
-Snapshot ID: `AAAIiML2AxIwSKaQOxi7kmO5OxdOToX0`
+Snapshot ID: `AAAIkrcyfswaVpABTCbnYDKyruv57RLy`

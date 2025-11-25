@@ -3771,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "6 A.M. / Marauder",
+        "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
+      },
+      "artists": [
+        {
+          "name": "DJ HMC",
+          "url": "https://open.spotify.com/artist/3LpUervcOFfZjMgeXIabZN"
+        }
+      ],
+      "date_added": "2024-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418880,
+      "name": "Marauder",
+      "url": "https://open.spotify.com/track/13lcPOVnZlUOHDlfwqhdhl"
+    },
+    {
+      "album": {
         "name": "Marionette",
         "url": "https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E"
       },
@@ -3834,24 +3852,6 @@
       "duration_ms": 228923,
       "name": "Massive Bells",
       "url": "https://open.spotify.com/track/7w8M9HRuLI36enKabMRdzD"
-    },
-    {
-      "album": {
-        "name": "6 A.M. / Maurader",
-        "url": "https://open.spotify.com/album/7p5TSQFCw8yYPI2FqjE98d"
-      },
-      "artists": [
-        {
-          "name": "DJ HMC",
-          "url": "https://open.spotify.com/artist/3LpUervcOFfZjMgeXIabZN"
-        }
-      ],
-      "date_added": "2024-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 418880,
-      "name": "Maurader",
-      "url": "https://open.spotify.com/track/13lcPOVnZlUOHDlfwqhdhl"
     },
     {
       "album": {

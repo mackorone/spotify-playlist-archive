@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,405 likes - 377 songs - 21 hr 24 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,410 likes - 387 songs - 21 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -385,5 +385,15 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 375 | [i'm fine](https://open.spotify.com/track/0pvxQcEMUO3mcWIB6leHqr) | [kawaiiwork](https://open.spotify.com/artist/5woOnF8Y9rFQOih8vXljoF) | [i'm fine](https://open.spotify.com/album/0SR1flarnKjoz4hYMaxiWn) | 2:15 |
 | 376 | [Weight of the World](https://open.spotify.com/track/16AERcU8M4UZ8NeQuxglRE) | [Electrekated](https://open.spotify.com/artist/1MnywL795Nz1Nxdf6Bsu8m) | [Weight of the World](https://open.spotify.com/album/2vySyfcYRH0mQEpvXmh1rp) | 3:23 |
 | 377 | [Every Place I Go \- Act I](https://open.spotify.com/track/4c0sbgdrm3k9SA522XcMTa) | [SubPersona](https://open.spotify.com/artist/6bEyGSxcQRd8JUrCsq22aD) | [Every Place I Go \- Act I](https://open.spotify.com/album/64OC6thjdlivalgCezlcVs) | 3:47 |
+| 378 | [Everybody Lies to Me](https://open.spotify.com/track/3Kc3osvQeJPciU8r5UbiSz) | [Isin](https://open.spotify.com/artist/62D48N40TKo9Y9yjQPOk7Z) | [Everybody Lies to Me](https://open.spotify.com/album/2eDqGxn9E7TZ6VYVFeTTco) | 3:29 |
+| 379 | [GOD'S CHILD](https://open.spotify.com/track/4pq0igOKeTD0MunPuxQcHR) | [Cristian Lin](https://open.spotify.com/artist/2rse6TXemx1r7yWiop21L8) | [GOD'S CHILD](https://open.spotify.com/album/4yPoozhvZDJl49q1D8g2SO) | 3:20 |
+| 380 | [Letter \(for the Quiet\)](https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ) | [Dave D.](https://open.spotify.com/artist/0Mc5CkhanpC4GIt4aR3gzK) | [Letter \(for the Quiet\)](https://open.spotify.com/album/0fs9NuS5lFG12SLgi4IAuS) | 2:15 |
+| 381 | [Static](https://open.spotify.com/track/1kzWMsaMGoQEg0I4xSNHsB) | [Jay's Expedition](https://open.spotify.com/artist/0E2u7IhwC4nHDtw6oG29jW) | [Static](https://open.spotify.com/album/6D0XQtNHp3uWmCIVjFMZgz) | 2:45 |
+| 382 | [So They Say!](https://open.spotify.com/track/2Y0TI6D3JdqVPBOF6tw5WT) | [LucaVanCharli](https://open.spotify.com/artist/0CxHbhXx71jzyHwlPgEvGu) | [So They Say!](https://open.spotify.com/album/4pxT1iPyErjmPxUjOhufaA) | 3:05 |
+| 383 | [Keep This Heart Beating](https://open.spotify.com/track/3Euwh8xT4GTpQxK5bgRzL4) | [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA) | [Keep This Heart Beating](https://open.spotify.com/album/712SM8HuwdM2QkwQ4Y8j8t) | 3:17 |
+| 384 | [No Tears for Christmas](https://open.spotify.com/track/4YRWqxANglBKBpurhdftal) | [Aaron Lewinter](https://open.spotify.com/artist/0EucucDa2H5UjykSAqjt6S) | [No Tears for Christmas](https://open.spotify.com/album/4ObmuLzRlBnO0RCIT89Rze) | 2:30 |
+| 385 | [This is Love](https://open.spotify.com/track/0WVahHutaHt8VNacElY2us) | [Magic Ruud](https://open.spotify.com/artist/1VZtOpULUxftLi9HOTJ9qW) | [This is Love](https://open.spotify.com/album/18L0aa5ggajmlOEnJDlsMv) | 3:26 |
+| 386 | [Wouldn't Wish This On Anyone](https://open.spotify.com/track/5OcSPogMDhBKpSjbqeZ8Av) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Wouldn't Wish This On Anyone](https://open.spotify.com/album/7HenlyKBqRtjT62BvsS6SP) | 3:25 |
+| 387 | [Erase Your Face](https://open.spotify.com/track/5BTkBL0nfYQGZfDaOTLnsW) | [SidekoDJ](https://open.spotify.com/artist/4fjsxVMNAvYuQevkACGup0) | [Erase Your Face](https://open.spotify.com/album/1e4Fo8vOC9eG63i6zaDoAg) | 2:36 |
 
-Snapshot ID: `AAAxxCU9sboE1klZNkqef6VYRUIQY030`
+Snapshot ID: `AAAxzh83ayYviecImkG4j/Skov10Xrcs`

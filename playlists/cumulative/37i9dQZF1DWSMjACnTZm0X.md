@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw\_JxQqKkC0xBdre1Tw">Teni</a> and <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ">Gunna</a>
 
-428 songs - 1 day 5 hr 46 min
+428 songs - 1 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [KUMA](https://open.spotify.com/track/17LwvKRf3imewn97Ycy5VG) | [Kurtys](https://open.spotify.com/artist/732YXWHf1cGFf2CufOIHsU) | [KUMA](https://open.spotify.com/album/5BIf3ryXTZrp8UUkjGgocJ) | 3:17 | 2025-07-31 | 2025-10-24 |
 | [Kunjani](https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Kunjani](https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S) | 4:21 | 2022-05-23 | 2022-11-11 |
 | [La La \(feat\. Ckay\)](https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:07 | 2022-05-23 | 2022-08-05 |
-| [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 2:46 | 2025-11-21 |  |
+| [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 3:45 | 2025-11-21 |  |
 | [Lagos Dance Riidim \- Wire](https://open.spotify.com/track/6kj8cDqKIaz3BFiKzbUeDi) | [AJIMOVOIX DRUMS](https://open.spotify.com/artist/7yIkWOCQGXIJnArztUyK5e) | [Lagos Dance Riidim \- Wire](https://open.spotify.com/album/4eFqFTPgvJbixwhHS0lWmV) | 1:14 | 2025-07-31 |  |
 | [LATINA](https://open.spotify.com/track/3j0U8FQQzheQ4vzNxRaQSE) | [JC Machin](https://open.spotify.com/artist/2FEnjKB2FwfbtfpCkUlEvi), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [LATINA](https://open.spotify.com/album/3SmQlQU5ZNl1WgKvQg0ZTw) | 2:37 | 2025-07-24 | 2025-08-01 |
 | [Lay It Down \- Freeze](https://open.spotify.com/track/4XUhN77UBA4i0uNa3u0Icz) | [Jean Feier](https://open.spotify.com/artist/6WrdVzyxBFJDRB3EZhqh4G) | [Lay It Down \(Freeze\)](https://open.spotify.com/album/12vCcwi0rhDDbOhVGVHpuM) | 5:28 | 2022-09-09 | 2023-08-16 |

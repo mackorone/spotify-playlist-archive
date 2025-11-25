@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 159058,
+  "num_followers": 159079,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK"
+      },
+      "artists": [
+        {
+          "name": "El Gran Mart\u00edn El\u00edas",
+          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Al Fin Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "M\u00e1s Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 272440,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/6aLCUh6URBoxafrNAIx9nK"
-      },
-      "artists": [
-        {
-          "name": "El Gran Mart\u00edn El\u00edas",
-          "url": "https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Al Fin Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7jZJm3yRLCKxmJ3kxUtp6f"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -999,34 +999,42 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
+        "name": "Vallenato en Accion: Lo M\u00e1s Grande del Vallenato",
+        "url": "https://open.spotify.com/album/2Ew5ixwdQSRVOVS23vCSg5"
       },
       "artists": [
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Silvio Brito",
+          "url": "https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg"
+        },
+        {
+          "name": "Osmel Meri\u00f1o",
+          "url": "https://open.spotify.com/artist/1WtnMuzDmHs7SM0Ow2lMgU"
         }
       ],
-      "duration_ms": 286640,
-      "name": "Mi Diosa Humana",
-      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
+      "duration_ms": 294546,
+      "name": "En Carne Propia",
+      "url": "https://open.spotify.com/track/2LktG0fR2WsNAF7ebHMqaL"
     },
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Con Altura",
-        "url": "https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM"
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 309890,
-      "name": "Despues del Adios",
-      "url": "https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A"
+      "duration_ms": 279560,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1047,22 +1055,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 289253,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/44Bt3ZHq9rVV2G7uDpmXsG"
+      "duration_ms": 286640,
+      "name": "Mi Diosa Humana",
+      "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1083,18 +1087,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "Con Altura",
+        "url": "https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM"
       },
       "artists": [
         {
-          "name": "La Combinaci\u00f3n Vallenata",
-          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
         }
       ],
-      "duration_ms": 316279,
-      "name": "Dime que me quieres",
-      "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
+      "duration_ms": 309890,
+      "name": "Despues del Adios",
+      "url": "https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

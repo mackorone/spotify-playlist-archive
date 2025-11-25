@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥 with Cool Customer
 
-1,251 songs - 2 day 20 hr 2 min
+1,252 songs - 2 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -918,6 +918,7 @@
 | [RIDE](https://open.spotify.com/track/3c805upue925stoIrEG8Ep) | [Big Florida](https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj) | [RIDE](https://open.spotify.com/album/6qGNmsJfmgu08KU9uGej9r) | 2:58 | 2025-05-02 |  |
 | [Riding](https://open.spotify.com/track/6Gr5tygcL4snC03AWPCOQp) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v), [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb) | [Riding](https://open.spotify.com/album/7otuAiLtkeq6HNoFKk6An6) | 3:34 | 2022-05-13 | 2023-02-26 |
 | [Riding](https://open.spotify.com/track/7K0EHTQIjeaG5TXEzzHBRL) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v), [Martay M'Kenzy](https://open.spotify.com/artist/0LVK3Io8yAwy9KLL0lyIHb) | [Riding](https://open.spotify.com/album/3RQ94ZihivquswjmGRt0sx) | 3:34 | 2023-03-31 | 2023-05-13 |
+| [Right Time](https://open.spotify.com/track/48MoatAq65R3q5fRalsXq6) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [The Moab Tapes](https://open.spotify.com/album/1cNIJ8WBmOj3fTMbRDHrXR) | 4:00 | 2025-11-21 |  |
 | [Riot](https://open.spotify.com/track/2npMfTDQAwY1Jga13HS01O) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Thrones of Blood](https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX) | 2:45 | 2023-03-17 | 2024-08-20 |
 | [Riot \- Kompany Remix](https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Riot \(Kompany Remix\)](https://open.spotify.com/album/6fWCkks19NevlyVg5fwRke) | 3:06 | 2023-11-03 | 2025-02-17 |
 | [RIPPLE](https://open.spotify.com/track/36BXjNnD0Vm6CYHf69K7zB) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [RIPPLE](https://open.spotify.com/album/5SEn5FWonTcyPNhTgqU7VO) | 2:17 | 2024-09-13 | 2025-01-18 |
@@ -983,7 +984,7 @@
 | [Shimmer](https://open.spotify.com/track/1zk2MkgS2evrY0py2bWjiT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Shimmer](https://open.spotify.com/album/5mqADkilFicbY2DXyWemZe) | 3:25 | 2022-07-22 | 2023-03-11 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-13 | 2023-05-13 |
 | [SHOCK THERAPY](https://open.spotify.com/track/23qcYNm5ncqa2atmkSK63J) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0) | [SHOCK THERAPY](https://open.spotify.com/album/017OKPUNHd28cCRS0WDc2K) | 3:10 | 2025-04-04 | 2025-08-02 |
-| [SHOCKWAVE](https://open.spotify.com/track/5oVAQRdLfOpnDnfF9CIKqj) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo) | [SHOCKWAVE](https://open.spotify.com/album/2rHyagRSDyu8z5c8q3Z7Of) | 3:24 | 2025-04-25 |  |
+| [SHOCKWAVE](https://open.spotify.com/track/5oVAQRdLfOpnDnfF9CIKqj) | [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo) | [SHOCKWAVE](https://open.spotify.com/album/2rHyagRSDyu8z5c8q3Z7Of) | 3:24 | 2025-04-25 | 2025-11-25 |
 | [Shook](https://open.spotify.com/track/3EZqBIdUYKPUJ4nL35vufg) | [Greg Gatsby](https://open.spotify.com/artist/5BVhWcIwApmOFHiLT7OJS5), [CRVNTIS](https://open.spotify.com/artist/0vtUbzii1Zwoc5IIwQQ1v3), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Shook](https://open.spotify.com/album/0nnRW1mmT4N6jOOHFR1Cw5) | 3:02 | 2021-12-17 | 2022-02-12 |
 | [Show Me](https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv) | [Show Me](https://open.spotify.com/album/3nJo6xciOneTirb3NF98d5) | 2:25 | 2024-09-06 | 2025-02-08 |
 | [Silver](https://open.spotify.com/track/0qNl3TYeofPSRrTwPeHUpd) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [Silver](https://open.spotify.com/album/3RH3p20romGgGgkp4G18Bo) | 3:48 | 2022-08-05 | 2023-08-12 |

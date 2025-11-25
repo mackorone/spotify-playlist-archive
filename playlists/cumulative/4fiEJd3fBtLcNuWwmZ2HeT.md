@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-401 songs - 23 hr 15 min
+402 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Culling!](https://open.spotify.com/track/74hrlXt0b4gf3hJcqjYcom) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:08 | 2025-05-20 |  |
 | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/track/2ltpz0N6g4A7TwwLFk9biF) | [AKUGETSU](https://open.spotify.com/artist/5lMia1loNJEa8ofqQkKFAp), [PARK BYEONG HOON](https://open.spotify.com/artist/0qs2PuNODoOAKG4rIv9fB2) | [Cure \(VIVINOS \- ALNST Original Soundtrack Part.7\)](https://open.spotify.com/album/4dLW62kTXGOTpmFoHIDULe) | 4:07 | 2025-07-24 |  |
 | [curtain call](https://open.spotify.com/track/24NKOHv5J6YUXfYbHUEEhg) | [KANKAN](https://open.spotify.com/artist/2fmKgANQggORAvCBJCUOuD), [yowanecity](https://open.spotify.com/artist/7tZujezUi8x3PLTW0E0nyr) | [curtain call](https://open.spotify.com/album/4KKlVYEQF5TqfhPQHA9bAR) | 3:19 | 2024-07-01 |  |
+| [DAI DAI DAI KIRAI](https://open.spotify.com/track/5IHJVTiUEkaTQYH1tibQVu) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [DENNOSTALGIA](https://open.spotify.com/album/1wWe5h0pGEdpybC4sqri4Z) | 3:14 | 2025-11-24 |  |
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2023-11-20 |  |
 | [Dance In The Game](https://open.spotify.com/track/7kSYwyMv5dnc5aORNwZb15) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [ZAQPOT](https://open.spotify.com/album/623vd5so8U7NFy7tFWmTgV) | 3:28 | 2023-10-07 |  |
 | [Dance of Life](https://open.spotify.com/track/2ECoDhG6Xe9aQ4TuwE22yW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Dance of Life](https://open.spotify.com/album/5h94Q9larv6crjfGZlWo4B) | 3:47 | 2024-08-08 |  |

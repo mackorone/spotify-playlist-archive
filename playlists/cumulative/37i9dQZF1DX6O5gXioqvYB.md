@@ -4,7 +4,7 @@
 
 > Buon natale da Lucio e da tutte le nuove uscite indie 🎄
 
-1,137 songs - 2 day 10 hr 15 min
+1,138 songs - 2 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,8 @@
 | [NOSTALGIA](https://open.spotify.com/track/41hZnjJYL2LMlpsg50yZn5) | [chiaraMente](https://open.spotify.com/artist/6YPphNLpIgRYsXrLgpcTNc) | [NOSTALGIA](https://open.spotify.com/album/4Z6CkD1dWcidZpsSWyVZO8) | 2:39 | 2024-06-27 | 2024-07-05 |
 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 | 2025-04-10 | 2025-06-27 |
 | [NOTTE AMARA](https://open.spotify.com/track/7IhTbfyCCLfeOwJcaXBb0O) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DOVE I FIORI NON NASCONO PIÙ](https://open.spotify.com/album/3NbWTMQF3aoznKd5OrPI4r) | 3:16 | 2025-02-27 | 2025-04-11 |
-| [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 | 2025-11-20 |  |
+| [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 | 2025-11-20 | 2025-11-25 |
+| [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 | 2025-11-24 |  |
 | [notti capogiro](https://open.spotify.com/track/6JGkrcqQUGXkFq92NTmsFb) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [notti capogiro](https://open.spotify.com/album/2alztAKVwX02dR5ORImngE) | 2:32 | 2025-08-07 | 2025-09-19 |
 | [Notti d'estate](https://open.spotify.com/track/58DM5GHaaZLvqqOjJGYS8N) | [LA POSA BULB](https://open.spotify.com/artist/2jibIwCr1hCpcXPIT2iYAv) | [Notti d'estate](https://open.spotify.com/album/4FMsvpawwarkPTE5qUgEVA) | 3:31 | 2025-10-16 | 2025-11-14 |
 | [NSP](https://open.spotify.com/track/2eoUoWgIOorOIXOKNr3kYN) | [chesma](https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH) | [NSP](https://open.spotify.com/album/5gHiHVIBXHSsw0KVjMs8Q2) | 2:47 | 2025-06-05 | 2025-07-18 |

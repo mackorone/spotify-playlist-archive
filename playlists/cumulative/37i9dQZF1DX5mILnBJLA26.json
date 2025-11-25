@@ -8375,6 +8375,36 @@
     },
     {
       "album": {
+        "name": "THE GODMOTHER",
+        "url": "https://open.spotify.com/album/18CRe8T4QPusNzyq9vlqB0"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Tycoon",
+          "url": "https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc"
+        },
+        {
+          "name": "CowBoii",
+          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416283,
+      "name": "DLALA GOGO",
+      "url": "https://open.spotify.com/track/2WY9va9TJG2BV42hRmlqew"
+    },
+    {
+      "album": {
         "name": "Dlala Ka Yona",
         "url": "https://open.spotify.com/album/2WFvybPxXOXOshdDo3P6ZP"
       },
@@ -29864,7 +29894,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 420133,
       "name": "SEKA RIGHT",
       "url": "https://open.spotify.com/track/1cysbpZwiijLwyQGLLTSSw"

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-516 songs - 1 day 0 hr 45 min
+518 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Disengage](https://open.spotify.com/track/5NGLGbbClZvq7n8L4VRnfy) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP) | [Disengage](https://open.spotify.com/album/0yytK65AucnQcLwfMbiKB9) | 3:17 | 2023-04-25 | 2025-04-27 |
 | [Diss You](https://open.spotify.com/track/7zQhHRCbfA5z3rY56O9REd) | [Afroki](https://open.spotify.com/artist/0oPgJ6vm1fLGFGahd3yDrP), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Save My Soul \(feat\. Jordan Grace\)](https://open.spotify.com/album/6bodARPsfzNApsTUOzKDmh) | 2:05 | 2024-05-17 | 2025-04-27 |
 | [Do Not Come](https://open.spotify.com/track/1OleIA0tFVoX8ZNQoIN1Io) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ) | [Do Not Come](https://open.spotify.com/album/097TUD9a7Ni4LAAFxORIpH) | 1:59 | 2025-01-24 | 2025-04-27 |
+| [Don't Hit My Line](https://open.spotify.com/track/77FfSlC9rCXmbSyLLoEjUI) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Crumbcore](https://open.spotify.com/album/6U1ZiuIfbwGMdsdElavUpD) | 2:00 | 2025-11-24 |  |
 | [Don't Wanna Wait \- VIP Mix](https://open.spotify.com/track/6BRq5B5uUrcP5cRtgX5cuk) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Laura Davie](https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f) | [Don’t Wanna Wait \(VIP Mix\)](https://open.spotify.com/album/1WtzNNAKtES4PqaVQrtZ8d) | 2:37 | 2022-05-06 | 2022-07-28 |
 | [Donk Alert](https://open.spotify.com/track/5xvGFPucysPs9keOdFnz6B) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [BEL AIR WITCH](https://open.spotify.com/artist/5ehyiszRBoCkewPb1mTN6x) | [Donk Alert](https://open.spotify.com/album/0MIp9mtloeM1hfWXuVCHr9) | 3:34 | 2022-05-06 | 2022-08-03 |
 | [Don’t Keep Me Waiting \(feat\. Mila Falls\)](https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Don’t Keep Me Waiting \(feat\. Mila Falls\)](https://open.spotify.com/album/2Zm55SQeHeeK2fK9UBJlrE) | 2:38 | 2024-07-08 | 2025-04-27 |
@@ -348,6 +349,7 @@
 | [No Letting Go](https://open.spotify.com/track/07I7Hz83jHYGHXIJikhtff) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [No Letting Go](https://open.spotify.com/album/4iNWYE57VPq610LghtgtIS) | 2:18 | 2025-09-08 |  |
 | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/track/2pPPnvl7lARUARQZZU2e8c) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl), [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [No Turning Back \(feat\. Namelle\)](https://open.spotify.com/album/7jji2t4yyGdhWW4e1LKj47) | 2:55 | 2023-03-24 | 2025-04-27 |
 | [Nothing On You](https://open.spotify.com/track/7xoot19ryXi8maMYeu08FD) | [Sangarang](https://open.spotify.com/artist/1lpYFtlybuldYAw2IyXjyI), [Chris Pree](https://open.spotify.com/artist/7EccQTucmvRW7s6DUy6pQb) | [Nothing On You](https://open.spotify.com/album/6V6eGyclS8zPqEEzLsHsOB) | 3:07 | 2023-12-07 | 2025-04-27 |
+| [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-11-24 |  |
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2025-04-27 |
 | [Ocean](https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Ocean](https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP) | 2:55 | 2023-04-21 | 2025-04-27 |
 | [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 | 2023-12-15 | 2025-04-27 |

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3163959,
+  "num_followers": 3164471,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
-        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
-      },
-      "artists": [
-        {
-          "name": "Stranger & Gladdy",
-          "url": "https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp"
-        }
-      ],
-      "duration_ms": 157253,
-      "name": "Just Like A River",
-      "url": "https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Essential Dub Masters",
         "url": "https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 218680,
       "name": "Fisher Man Dub",
       "url": "https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
+        "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
+      },
+      "artists": [
+        {
+          "name": "Stranger & Gladdy",
+          "url": "https://open.spotify.com/artist/5Dh9VDwHjpxkdR5rTR6Jnp"
+        }
+      ],
+      "duration_ms": 157253,
+      "name": "Just Like A River",
+      "url": "https://open.spotify.com/track/04BTjbEcGVsfzRRPYHr7Y8"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Super Reggae & Soul Hits",
         "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 175026,
       "name": "Let Me Down Easy",
       "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
     },
     {
       "added_at": "2024-01-29 05:18:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 
 > autumn leaves falling like the rain
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,259 likes - 118 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,276 likes - 118 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahsxs9xh0fn.md) - [plain]
 | 18 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 |
 | 19 | [Falls on me](https://open.spotify.com/track/5OsQW2NKnrhS4RjDRLUfje) | [Sylvie](https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ) | [Sylvie](https://open.spotify.com/album/1Bz0ZJqku7OK6S63zfRP7K) | 4:58 |
 | 20 | [Shooting Star](https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [Shooting Star](https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1) | 2:23 |
-| 21 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 21 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1VrFjz3WcDJdvGiayFeXdZ) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 22 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
 | 23 | [Looking at the Geese](https://open.spotify.com/track/7oXq6Rt7YcYGSDSv3ZlzNX) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Looking at the Geese](https://open.spotify.com/album/2x9lOjN6sFLzJJ433DGbdZ) | 4:25 |
 | 24 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Jovanotti in cover con un nuovo album registrato a NYC + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,945 likes - 116 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,951 likes - 116 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 3 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 |
 | 4 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 5 | [sopra di me](https://open.spotify.com/track/24nLMm81ZdOfcv6Zp8TbNE) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [sopra di me](https://open.spotify.com/album/2LaXusaMXAUNg21CTjdoFL) | 3:21 |
-| 6 | [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 |
+| 6 | [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 |
 | 7 | [L'aurora \(feat\. Alicia Keys\)](https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 5:09 |
 | 8 | [The Girl in the Bubble](https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:40 |
 | 9 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 115 | [FERRARI](https://open.spotify.com/track/08oOeIlpOeDt44Nmm5BuJS) | [MIKOLAS](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [II DELUXE EDITION](https://open.spotify.com/album/1jwKdg2W1piSoO9RltiiY0) | 2:34 |
 | 116 | [Telephone Tango](https://open.spotify.com/track/00JmBr4rYb4Iq0cXNHBgK9) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Telephone Tango](https://open.spotify.com/album/3VKZZmGmlbKvRa6Jn0XLZK) | 3:04 |
 
-Snapshot ID: `AAAAAI6vwUkrtrcdRKG3FfO5nOQfikdn`
+Snapshot ID: `AAAAAAbb7ryNmaVpF5zy+gDLrFM/ItEI`

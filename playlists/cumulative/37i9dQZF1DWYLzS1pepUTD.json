@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Metal, Vol. 1",
+        "url": "https://open.spotify.com/album/49dsfRE3UTkeDIHNehNNGk"
+      },
+      "artists": [
+        {
+          "name": "Chris Egert",
+          "url": "https://open.spotify.com/artist/0TuYFLWWgVEQPtJFR2pAHh"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88982,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/3UOxbR6zSCmEjzZsgjmRJz"
+    },
+    {
+      "album": {
         "name": "Cult of Personality (Remastered 2023)",
         "url": "https://open.spotify.com/album/5mIvL5y70jIqMoWwmnZ8KL"
       },
@@ -82,6 +100,28 @@
       "duration_ms": 210894,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3gILDObZFV7LD5pmjSr9zo"
+    },
+    {
+      "album": {
+        "name": "WWE: WrestleMania - The Music 2013",
+        "url": "https://open.spotify.com/album/3VXTgHkhZWYz9qzIY1PXKD"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "Kari Kimmel",
+          "url": "https://open.spotify.com/artist/6w5nIAeqFbZa9qssSwPsyn"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179598,
+      "name": "Let's Light It up (AJ Lee)",
+      "url": "https://open.spotify.com/track/5D3a3lsgr64Z58OmK2Gggs"
     },
     {
       "album": {
@@ -206,10 +246,32 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 166401,
       "name": "WWE: All Fall Down (Remix 2024) [Roxanne Perez]",
       "url": "https://open.spotify.com/track/3FKDTMERYM4rBysMjfBNJY"
+    },
+    {
+      "album": {
+        "name": "WWE: All Fall Down (Remix 2025) [Roxanne Perez]",
+        "url": "https://open.spotify.com/album/4Zkp6omL0TN1eyudmdNbX6"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149676,
+      "name": "WWE: All Fall Down (Remix 2025) [Roxanne Perez]",
+      "url": "https://open.spotify.com/track/7kJpwZJrbY0tsccBKsqhMF"
     },
     {
       "album": {
@@ -316,10 +378,36 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 193031,
       "name": "WWE: Animo (Rey Fenix)",
       "url": "https://open.spotify.com/track/5Zk3wjFiY48JpCwZqnMA6u"
+    },
+    {
+      "album": {
+        "name": "WWE: Animo (Rey Fenix) [feat. Adam Jones]",
+        "url": "https://open.spotify.com/album/5sWfBT5YBPACLHVAQBKCtz"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        },
+        {
+          "name": "Adam Jones",
+          "url": "https://open.spotify.com/artist/0BFnMeMWMyeftxfPqmDgCH"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "WWE: Animo (Rey Fenix) [feat. Adam Jones]",
+      "url": "https://open.spotify.com/track/2jVnus6xlB7cApFiztCBYH"
     },
     {
       "album": {
@@ -338,7 +426,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 188160,
       "name": "WWE: Assemble (Remix 2024) [Wes Lee]",
       "url": "https://open.spotify.com/track/6IaQ5jdrDZl9x399LOnIt1"
@@ -496,7 +584,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 270357,
       "name": "WWE: Bring the Swag (Street Profits)",
       "url": "https://open.spotify.com/track/4YVcgOBWV3pEz8kvfaNgZS"
@@ -606,7 +694,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 172033,
       "name": "WWE: Conquistar (Andrade)",
       "url": "https://open.spotify.com/track/00OwEk3U2PlDKlYXIlBYMn"
@@ -764,7 +852,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 161863,
       "name": "WWE: El Grande (El Grande Americano)",
       "url": "https://open.spotify.com/track/7kVTZlnX4GrinnHMzTIaxj"
@@ -908,6 +996,28 @@
       "duration_ms": 332181,
       "name": "WWE: Gallantry (Defining Moment Remix) [Drew McIntyre]",
       "url": "https://open.spotify.com/track/2iLQ7wYAZLANjQ2NLqj3hR"
+    },
+    {
+      "album": {
+        "name": "WWE: Glamour Is Forever (Blake Monroe)",
+        "url": "https://open.spotify.com/album/1E2iUXelJ2ESYb6wTAXxLW"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174595,
+      "name": "WWE: Glamour Is Forever (Blake Monroe)",
+      "url": "https://open.spotify.com/track/3XUlfaGuJMGkTD3cqRaEHR"
     },
     {
       "album": {
@@ -1465,6 +1575,28 @@
     },
     {
       "album": {
+        "name": "WWE: Mascara (El Grande Americano)",
+        "url": "https://open.spotify.com/album/0fdDtlnfFab8IXGIuw76sC"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145562,
+      "name": "WWE: Mascara (El Grande Americano)",
+      "url": "https://open.spotify.com/track/6PXHjKeooa9d2ttdkVrsnb"
+    },
+    {
+      "album": {
         "name": "WWE: Melo Don't Miss (Carmelo Hayes)",
         "url": "https://open.spotify.com/album/6oLeDz56emktRkQeRMePyl"
       },
@@ -1602,6 +1734,28 @@
       "duration_ms": 139107,
       "name": "WWE: New Lows (Becky Lynch) [feat. The Wonder Years]",
       "url": "https://open.spotify.com/track/54KTIaCe10JWSbkNF6BUJB"
+    },
+    {
+      "album": {
+        "name": "WWE: Next Big Thing (Brock Lesnar)",
+        "url": "https://open.spotify.com/album/3R8G6p4BpPSDAejHgw9tny"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "Jim Johnston",
+          "url": "https://open.spotify.com/artist/6irRU9KRGb0cMtlsBZMg2i"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182842,
+      "name": "WWE: Next Big Thing (Brock Lesnar)",
+      "url": "https://open.spotify.com/track/0ekLsRL37OnzqAYDiVadmU"
     },
     {
       "album": {
@@ -1796,7 +1950,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 168290,
       "name": "WWE: Reigning Warriors (The Kabuki Warriors)",
       "url": "https://open.spotify.com/track/2hZWzjx6iSEU7kfGjSwgNa"
@@ -1818,7 +1972,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 158322,
       "name": "WWE: Remember The Name (Austin Theory)",
       "url": "https://open.spotify.com/track/63WIwoGiNMNlGWteygLJ5v"
@@ -2160,7 +2314,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 186987,
       "name": "WWE: Strictly Business (Tony D'Angelo)",
       "url": "https://open.spotify.com/track/6vs5dScbr5YjoLRXVeyAyh"
@@ -2406,7 +2560,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 201750,
       "name": "WWE: The Rising Sun (Shinsuke Nakamura)",
       "url": "https://open.spotify.com/track/74OQ8faaSDuMOuLRyPstd5"
@@ -2542,7 +2696,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 171894,
       "name": "WWE: Time Out (Noam Dar)",
       "url": "https://open.spotify.com/track/1EAR3Rw2pEUJ2k5TlzaGem"
@@ -2619,6 +2773,28 @@
     },
     {
       "album": {
+        "name": "WWE: Truth And Pain (Shawn Spears)",
+        "url": "https://open.spotify.com/album/1cdl1wj2VYlHbIOPsCti1Z"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174030,
+      "name": "WWE: Truth And Pain (Shawn Spears)",
+      "url": "https://open.spotify.com/track/5bl4AM5aUfUWmkYt1yaWhg"
+    },
+    {
+      "album": {
         "name": "WWE: Visionary (Seth Rollins)",
         "url": "https://open.spotify.com/album/6EoOZJchte37ZVfU8L9lcY"
       },
@@ -2678,7 +2854,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 165427,
       "name": "WWE: Voyager (Kairi Sane)",
       "url": "https://open.spotify.com/track/7wfvCAqi951gkLHVvMD2tz"
@@ -2792,7 +2968,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 165563,
       "name": "WWE: We Want Smoke (The Street Profits)",
       "url": "https://open.spotify.com/track/5jfRVmqByNplDG7D4k8bZj"
@@ -2866,6 +3042,28 @@
       "duration_ms": 193411,
       "name": "WWE: Who Want It (Je'Von Evans)",
       "url": "https://open.spotify.com/track/1JwyTc98Nqvb964lj2p695"
+    },
+    {
+      "album": {
+        "name": "WWE: Win (Jordynne Grace)",
+        "url": "https://open.spotify.com/album/2pU4m1bMMAim7RWNUR0nj8"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151137,
+      "name": "WWE: Win (Jordynne Grace)",
+      "url": "https://open.spotify.com/track/7FofXgtWizNFv6n1V7l3pT"
     },
     {
       "album": {

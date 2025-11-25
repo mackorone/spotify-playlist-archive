@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,611 likes - 760 songs - 1 day 23 hr 35 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,611 likes - 761 songs - 1 day 23 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -768,5 +768,6 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 758 | [Here We Go](https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/4EVGPprwwNEdaUa2ebv1Tx) | 2:48 |
 | 759 | [Intiaani](https://open.spotify.com/track/51GulSjFyZjQXf9G0ojCQ3) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 3:29 |
 | 760 | [Party Time](https://open.spotify.com/track/2ROLG5tbFEpbPg8kV0xxNQ) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 3:41 |
+| 761 | [Anitya](https://open.spotify.com/track/3gAY2oiEDApvv4Qra5JkWA) | [Story Over Night](https://open.spotify.com/artist/0xD1rWlMwDqNGOggf8B7uB) | [Anitya](https://open.spotify.com/album/3fpVPwneQbTQXlH5GBOD8A) | 3:05 |
 
-Snapshot ID: `AAADEZ3Da1bavZn6kkVlvcMzds352edi`
+Snapshot ID: `AAADEnVmBSlT8mntuYOLoB1s5KR+dN4Y`

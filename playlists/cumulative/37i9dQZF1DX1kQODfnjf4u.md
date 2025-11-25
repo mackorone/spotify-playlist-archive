@@ -2,13 +2,13 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: BUKA
+> 50 nejžhavějších hitů v České republice\. Cover: Calin & Ewa Farna
 
-179 songs - 8 hr 47 min
+181 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10 let](https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ) | [FattyPillow](https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ) | [10 let](https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz) | 4:25 | 2025-08-19 |  |
+| [10 let](https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ) | [FattyPillow](https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ) | [10 let](https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz) | 4:25 | 2025-08-19 | 2025-11-25 |
 | [10 Minut](https://open.spotify.com/track/4JJuP53drHC7Q2TafqNEgm) | [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Lil Buca Near](https://open.spotify.com/artist/52OGEbhmyukkdvJ6EDaLH1) | [Space Blues Music](https://open.spotify.com/album/7euuPM8DU5g5vWK4ojNU5P) | 3:02 | 2025-08-25 | 2025-09-16 |
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-25 |  |
 | [415 ft\. Robin Zoot](https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq) | [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [The Underdog](https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B) | 2:42 | 2025-04-07 | 2025-11-18 |
@@ -86,6 +86,7 @@
 | [Jazda](https://open.spotify.com/track/6k0dWRI6L1sUxPwIcZH01F) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [SWAG SIDE STORY](https://open.spotify.com/album/5u0q9Bie9brMl3dCdehhnt) | 2:35 | 2024-10-28 | 2024-12-17 |
 | [Jenom ať nesním.\. \(feat\. Calin\)](https://open.spotify.com/track/1xqRQAe2Gic8HJgg6uGKO2) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [blue.](https://open.spotify.com/album/21WNqI8VHCWS5vA8cJg7YU) | 2:32 | 2025-03-31 | 2025-09-11 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-07 |  |
+| [Já už vidím](https://open.spotify.com/track/5MASkrYZha9TxRywbo0CzS) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 2:00 | 2025-11-24 |  |
 | [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 | 2024-10-14 | 2025-05-13 |
 | [KICKIN’ DOORS](https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [KICKIN’ DOORS](https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb) | 2:57 | 2024-07-01 | 2024-12-31 |
 | [Kiki](https://open.spotify.com/track/4zBNmCPinwFF4mGgN8WqfN) | [Trabo](https://open.spotify.com/artist/19HPN1TcUQ4L5gPdRIELlr) | [Kiki](https://open.spotify.com/album/6jnEQrCjjByCACb1Q7Gx7y) | 2:53 | 2024-11-12 | 2025-02-11 |
@@ -110,8 +111,9 @@
 | [NAVŽDYCKY BLÁZEN](https://open.spotify.com/track/0FvV3lYeJ5xiqhsFDT0rzI) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Victor Kal.](https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in), [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio) | [NAVŽDYCKY BLÁZEN](https://open.spotify.com/album/0oNaM84SO3IYlkDwLypnRD) | 2:45 | 2025-10-20 |  |
 | [Nehaj tak](https://open.spotify.com/track/5SdanljnIl81vy8nsLYea4) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SpecialBeatz](https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:31 | 2025-04-14 |  |
 | [nehledá lásku](https://open.spotify.com/track/3SDPxc5VPZu05EtU2UhxEX) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [nehledá lásku](https://open.spotify.com/album/7Cd1hKXCgCiv0ErYNO0WLW) | 2:36 | 2024-07-01 | 2024-10-29 |
-| [Nejde ti odolat \(feat\. SIMILIVINLIFE\)](https://open.spotify.com/track/0sQEQV5Ne7xXDtAGUYLf1r) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [Nejde ti odolat \(feat\. SIMILIVINLIFE\)](https://open.spotify.com/album/31PDZnm09FbVqlkYdQr2FY) | 3:48 | 2025-10-27 |  |
+| [Nejde ti odolat \(feat\. SIMILIVINLIFE\)](https://open.spotify.com/track/0sQEQV5Ne7xXDtAGUYLf1r) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb), [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x) | [Nejde ti odolat \(feat\. SIMILIVINLIFE\)](https://open.spotify.com/album/31PDZnm09FbVqlkYdQr2FY) | 3:48 | 2025-10-27 | 2025-11-25 |
 | [Nemohl říct](https://open.spotify.com/track/1b2VxV0XkMzqOGPpmZxe8V) | [juli koli](https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Nemohl říct](https://open.spotify.com/album/6Ge3LrbiVP9OmhxhrOgu5S) | 2:20 | 2025-09-01 | 2025-10-14 |
+| [Nemám dost](https://open.spotify.com/track/35TaRseWVfrcAtY18K2X8Q) | [Dominique Alagia](https://open.spotify.com/artist/286zSrCyQui6WEDRQpB8S6) | [ta co chci být...](https://open.spotify.com/album/6rV2bN4ewGJEUuK3RSXCq3) | 2:20 | 2025-11-24 |  |
 | [NENI STRE$S](https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [VOJNA](https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ) | 2:49 | 2024-07-08 |  |
 | [nezavoláš](https://open.spotify.com/track/4hYQXdTNgznOIOcD5qeH3N) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [nezavoláš](https://open.spotify.com/album/3HVv46cbmtWjF6C58xOG6j) | 3:04 | 2025-05-12 | 2025-07-01 |
 | [Nike](https://open.spotify.com/track/47Iik7IcgjxsQ7QWciqtp5) | [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [ROOKIE OF THE YEAR](https://open.spotify.com/album/3OI0wOoWksmZ5PJDsN5Q5S) | 1:56 | 2025-09-01 | 2025-10-07 |

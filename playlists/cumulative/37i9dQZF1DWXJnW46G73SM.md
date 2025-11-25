@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: ويجز
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: احمد كامل
 
-1,605 songs - 3 day 17 hr 31 min
+1,606 songs - 3 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -613,6 +613,7 @@
 | [Lema3lomatak](https://open.spotify.com/track/1Bv6JmoZtPbtM7h7DiokBm) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Lema3lomatak](https://open.spotify.com/album/0JbRsVsstAwVJedePoWkyo) | 3:51 | 2021-12-23 | 2022-01-27 |
 | [Lessa](https://open.spotify.com/track/45PXaa2u56WIkmBnZW4bTK) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Lessa](https://open.spotify.com/album/5QBRakn2OjSs2f4eZacrGm) | 2:59 | 2024-12-19 | 2025-01-24 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2021-12-23 | 2022-02-04 |
+| [Lessa Wahshani](https://open.spotify.com/track/2vLzSY7XCBWHVy6VKAH7Qd) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Lessa Hai](https://open.spotify.com/album/0YsWpEcasU48MkWRJASUp7) | 3:47 | 2025-11-24 |  |
 | [Lih Ma Oltilish](https://open.spotify.com/track/5oXNjQK6LYWZRFp5NJQjMh) | [amadio](https://open.spotify.com/artist/2s7SZA5iFk03lGBl1bGofj) | [Lih Ma Oltilish](https://open.spotify.com/album/4Ec2jrfdmPO4C5Bhf0cvkE) | 3:17 | 2024-10-18 | 2024-12-13 |
 | [Loha Bahta](https://open.spotify.com/track/4qzZfVfmn8eSIRjHANyacT) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Loha Bahta](https://open.spotify.com/album/2f4UyBHV6OigpFp0GG5drs) | 4:22 | 2022-05-11 | 2022-08-21 |
 | [Loon Bahet](https://open.spotify.com/track/2UfG1hvNf8xxe6mFpH2mnE) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW) | [Loon Bahet](https://open.spotify.com/album/392dQFqCmvxjxO9bP02YD9) | 4:02 | 2023-05-04 | 2023-06-13 |
@@ -783,7 +784,7 @@
 | [Paris Dubaï](https://open.spotify.com/track/3n2WhCms25jdQo5msJTvBf) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Paris Dubaï](https://open.spotify.com/album/1Iynd8khQBQ1J7ql4lgFSx) | 3:06 | 2021-12-30 | 2022-03-15 |
 | [Qalby Da2 Da2a](https://open.spotify.com/track/62El47dsyN8T4yfhvkWCMG) | [Sabren Elnegily](https://open.spotify.com/artist/235oUgJq1DUHH7PXVmI7oJ) | [Qalby Da2 Da2a](https://open.spotify.com/album/3Xb1UDBkYMN7OxdPdq5WIM) | 2:39 | 2025-01-02 | 2025-02-07 |
 | [Qalby Ya Nela](https://open.spotify.com/track/0vB9SN81ZyBpUjfS9Gwudv) | [Haitham Nabil](https://open.spotify.com/artist/3OFNnk9OMpPvJ0qnb6v66W) | [Qalby Ya Nela](https://open.spotify.com/album/2pVqzLf1W7RQ0NQnI4L4Sq) | 3:00 | 2024-07-04 | 2024-08-16 |
-| [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 | 2025-08-17 |  |
+| [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 | 2025-08-17 | 2025-11-25 |
 | [Qeset Kol Youmen](https://open.spotify.com/track/25sRDChlQLgk8Id0X3LQwh) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Markeba \(Phase One\)](https://open.spotify.com/album/4LRt35cFkXXU4Gs6DFJsem) | 2:29 | 2024-12-31 | 2025-01-31 |
 | [Qesm El Shakawy](https://open.spotify.com/track/0R83NDHazT9AnwN3PK2QsR) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Qesm El Shakawy](https://open.spotify.com/album/6ff3vRJInbqwl041x1hau9) | 2:21 | 2025-02-07 | 2025-05-16 |
 | [Ra2y 3am](https://open.spotify.com/track/2cXNrefEFkDbm65gOjnUZw) | [Ramy Ashour](https://open.spotify.com/artist/63KnNE9cEnAJ2bkSvLsAdx) | [Ra2y 3am](https://open.spotify.com/album/0Wo2JEEICswHDwy8iTDgJI) | 2:43 | 2024-01-11 | 2024-02-09 |

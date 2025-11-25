@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: kwn
+> Songs from LGBTQIA+ artists\. Cover: <br/>Cubita
 
 1,624 songs - 3 day 15 hr 53 min
 

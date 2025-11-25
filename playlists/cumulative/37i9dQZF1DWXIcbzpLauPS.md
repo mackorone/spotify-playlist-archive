@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,414 songs - 3 day 14 hr 21 min
+1,415 songs - 3 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Chosen](https://open.spotify.com/track/27kgTzYezbn9xxL5VIpqg0) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Chosen](https://open.spotify.com/album/3TuUuY9cn4K5iDxmiQWIN1) | 3:42 | 2022-04-01 | 2022-06-11 |
 | [Cicada](https://open.spotify.com/track/09XcghmEqtPUmGsXHy1VA7) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Cicada](https://open.spotify.com/album/1gJQH2yB80CLagucfP6sze) | 3:01 | 2022-07-13 | 2022-07-15 |
 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 | 2022-06-24 | 2023-05-23 |
+| [City of Gold](https://open.spotify.com/track/4dwAchnLT98JadEnhCHyKB) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq) | [City of Gold](https://open.spotify.com/album/5X13AR12wQwEmZx07lE4Tt) | 2:58 | 2025-11-21 |  |
 | [Close Your Eyes](https://open.spotify.com/track/7sxNMD1pJTmGDx5xftYZZL) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Close Your Eyes](https://open.spotify.com/album/7seWR9BS10N3K8FOyaIuUF) | 2:56 | 2024-11-22 | 2024-12-16 |
 | [Closer](https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Closer](https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9) | 3:19 | 2021-12-17 | 2022-01-22 |
 | [Closure](https://open.spotify.com/track/7wOnoMYUQot21uPASWNdqa) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Closure](https://open.spotify.com/album/6dI8WKFVpJykLgykCKXWLA) | 3:10 | 2025-08-29 | 2025-10-05 |
@@ -929,7 +930,7 @@
 | [Pig](https://open.spotify.com/track/3IMsQ5w6Lq1pJak148cqLK) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Pig](https://open.spotify.com/album/7M8qLO0UvEJfgiJ8lqXwVo) | 3:45 | 2025-03-31 | 2025-08-24 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
 | [Pills From The Start](https://open.spotify.com/track/5veJxMbTFDmUStxWBTthlC) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Pills From The Start](https://open.spotify.com/album/7g5Ve1kCztJb28wuAHDfug) | 3:11 | 2025-10-03 | 2025-11-22 |
-| [Pit of Misery](https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Pit of Misery](https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q) | 5:08 | 2025-03-14 |  |
+| [Pit of Misery](https://open.spotify.com/track/3SM1GyP52v3fUHhl5IBggs) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2) | [Pit of Misery](https://open.spotify.com/album/5ickix0UdA5jqLnzPOWX4Q) | 5:08 | 2025-03-14 | 2025-11-25 |
 | [Pittsburgh \- Redux](https://open.spotify.com/track/4WLnFkOz45jnsDmrFopEIM) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Let The Ocean Take Me \(Redux\)](https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm) | 3:59 | 2024-10-18 | 2025-08-30 |
 | [Pizza Homicide](https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pizza Homicide](https://open.spotify.com/album/4NTGoJrPUvdgihClkErxoM) | 3:00 | 2023-03-10 | 2023-05-06 |
 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 | 2022-10-14 | 2023-05-27 |

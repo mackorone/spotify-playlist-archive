@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: JUSTHIS\)
 
-1,695 songs - 3 day 18 hr 36 min
+1,696 songs - 3 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1552,6 +1552,7 @@
 | [Walk \(Prod\. Czaer\)](https://open.spotify.com/track/7x63NRJmiUmckjwkKapaNy) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [YUNHWAY](https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 3:09 | 2023-08-29 | 2024-01-06 |
 | [WALKIE TALKIE](https://open.spotify.com/track/765Fi19F618cGDZ7lMtfdn) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [DREAM BOY](https://open.spotify.com/album/5HCpTWbukDYS9jT0hxNPfZ) | 2:02 | 2025-07-08 | 2025-10-11 |
 | [Walking Around](https://open.spotify.com/track/1I41WBqBadmFp11obj3C2U) | [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [XYBER ATTACK \(Deluxe\)](https://open.spotify.com/album/4hotM0pz4UnOHJHmbUnJjW) | 3:52 | 2022-09-27 | 2022-10-05 |
+| [Wanna](https://open.spotify.com/track/7BKt9GKyWzJI9FkgnFJjfZ) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Wanna](https://open.spotify.com/album/2ougvzwHXimsjNfkc2YSSz) | 2:13 | 2025-11-24 |  |
 | [Warm\-Up \(Feat\. Boy Wonder, OSWALD\)](https://open.spotify.com/track/6WxSpJgP6UMD9M9HY3kOvu) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Boy Wonder](https://open.spotify.com/artist/3RIJXn3HRrklN6nNGhLe1Y), [OSWALD](https://open.spotify.com/artist/3bXnGP1vNj8mizrlT6rpKA) | [Warm\-Up](https://open.spotify.com/album/4Fz1xdBPsifUBHFf7ys9GL) | 3:00 | 2024-08-08 | 2024-11-28 |
 | [Warrior \(Prod\. sAewoo\)](https://open.spotify.com/track/0GmP4Q5RsowghUZRpGjaLq) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Lil tachi](https://open.spotify.com/artist/4uqXu5Qybes6RYP8ThjoEV), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [AP Alchemy : Side A](https://open.spotify.com/album/5W1I3pow4MLYcqTIqTfEVv) | 4:26 | 2023-03-22 | 2023-06-21 |
 | [Watch Out \(Feat\. sokodomo\)](https://open.spotify.com/track/3su6mx1HnRd2DqoZF9JhoD) | [Vapo](https://open.spotify.com/artist/0GWeXscpEEsdOf9NqX0O0t), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [X](https://open.spotify.com/album/3y8hoaCZeVeVlXzkz8l9O0) | 2:44 | 2023-01-10 | 2023-07-18 |

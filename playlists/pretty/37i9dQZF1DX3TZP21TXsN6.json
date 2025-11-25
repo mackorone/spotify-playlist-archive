@@ -1,13 +1,45 @@
 {
   "description": "Nieuw: YVES, R-D, Flo, Dubbel R en meer",
-  "num_followers": 160025,
+  "num_followers": 160011,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEpnmJpCNoFCZs5fjuoZwCv6ujgA",
+  "snapshot_id": "AAAAANbrz5RnwMwIMmTRqVpGgvO1gTPs",
   "tracks": [
+    {
+      "added_at": "2025-11-20 23:00:53",
+      "album": {
+        "name": "Millie",
+        "url": "https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy"
+      },
+      "artists": [
+        {
+          "name": "Flo",
+          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Millie",
+      "url": "https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD"
+    },
+    {
+      "added_at": "2025-11-20 23:00:53",
+      "album": {
+        "name": "TNAWIES",
+        "url": "https://open.spotify.com/album/6R3q06Xa7wrDlk8Hq20HYV"
+      },
+      "artists": [
+        {
+          "name": "Dubbel R",
+          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
+        }
+      ],
+      "duration_ms": 117583,
+      "name": "TNAWIES",
+      "url": "https://open.spotify.com/track/07zIEXphyaKpjL5J3yLg0X"
+    },
     {
       "added_at": "2025-11-20 23:00:53",
       "album": {
@@ -55,22 +87,6 @@
     {
       "added_at": "2025-11-20 23:00:53",
       "album": {
-        "name": "Millie",
-        "url": "https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy"
-      },
-      "artists": [
-        {
-          "name": "Flo",
-          "url": "https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Millie",
-      "url": "https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD"
-    },
-    {
-      "added_at": "2025-11-20 23:00:53",
-      "album": {
         "name": "Boze ogen",
         "url": "https://open.spotify.com/album/16owWvCC1xuFkIgXRSfzIB"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 187826,
       "name": "Boze ogen",
       "url": "https://open.spotify.com/track/0Cxaf3TvZn4rxNeoXEbTdN"
-    },
-    {
-      "added_at": "2025-11-20 23:00:53",
-      "album": {
-        "name": "TNAWIES",
-        "url": "https://open.spotify.com/album/6R3q06Xa7wrDlk8Hq20HYV"
-      },
-      "artists": [
-        {
-          "name": "Dubbel R",
-          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
-        }
-      ],
-      "duration_ms": 117583,
-      "name": "TNAWIES",
-      "url": "https://open.spotify.com/track/07zIEXphyaKpjL5J3yLg0X"
     },
     {
       "added_at": "2025-11-20 23:00:53",
@@ -199,26 +199,6 @@
       "duration_ms": 188880,
       "name": "Eskimo",
       "url": "https://open.spotify.com/track/0M5fmWyUYR4ZEbOcXVN5ZB"
-    },
-    {
-      "added_at": "2025-11-20 23:00:53",
-      "album": {
-        "name": "VOOR DE FAMILY",
-        "url": "https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p"
-      },
-      "artists": [
-        {
-          "name": "Sluwe Ollie",
-          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
-        },
-        {
-          "name": "Rz",
-          "url": "https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8"
-        }
-      ],
-      "duration_ms": 133917,
-      "name": "VOOR DE FAMILY",
-      "url": "https://open.spotify.com/track/4uvtQck40L034n3mvKQInH"
     },
     {
       "added_at": "2025-11-20 23:00:53",

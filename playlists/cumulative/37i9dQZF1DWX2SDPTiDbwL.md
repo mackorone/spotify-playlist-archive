@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-121 songs - 7 hr 38 min
+122 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 2\. Ya viene el cativo](https://open.spotify.com/track/2nHF7y8PWqX5P4SJECNqX3) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:29 | 2023-09-01 | 2024-04-19 |
 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3, En la mar ay una torre](https://open.spotify.com/track/2rUQEZRYsBXUmWCX6Ma1Le) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/5hnPw4Ot20xORxUYTUMmLO) | 2:14 | 2024-04-05 |  |
 | [7 Spanish songs \(7 Canciones Sefaradies\): No\. 3\. En la mar ay una torre](https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM) | [Oscar Roberto Casares](https://open.spotify.com/artist/4L9F4RTVEkqzY8wDEyor9r), [Flavio Cucchi](https://open.spotify.com/artist/2YJcIfhIWamtbWZkSxj4x5) | [Cucchi, Flavio: American Portraits](https://open.spotify.com/album/1NL9JuaGb5u8EgVerSuFmA) | 2:14 | 2023-09-01 | 2024-04-19 |
+| [Acuarela Mediterranea \(Solo Guitar\)](https://open.spotify.com/track/0mvgUOOFJjKjFdqPa0HlIv) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Acuarela Mediterranea](https://open.spotify.com/album/2zGoSZ5tQzovfBRioel6QH) | 4:04 | 2025-11-24 |  |
 | [Aranjuez](https://open.spotify.com/track/51rgkP5QNQ304AqCmqPW36) | [Robert Michaels](https://open.spotify.com/artist/5oMvKfHAyoVcXM1TkmXw2I) | [Utopia](https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51) | 4:30 | 2023-09-01 |  |
 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 | 2025-05-19 |  |
 | [Armadillo](https://open.spotify.com/track/36JpFEFDkvfZsaTo3iTaqK) | [Jim Stubblefield](https://open.spotify.com/artist/4Sw0O1oVtVbEuWrp87J1zr) | [Inspiracion](https://open.spotify.com/album/4saoCGtkL3Dml00VZjq2yf) | 3:05 | 2023-09-01 |  |

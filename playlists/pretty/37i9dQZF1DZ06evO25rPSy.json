@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25007,
+  "num_followers": 25009,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSD9AAAAAADTjUL2+e9huzQ8pSMcYMaX",
+  "snapshot_id": "aSJOgAAAAACoh3tsBA7LQTRHMMJHIe0B",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 239906,
-      "name": "Los Globos del Cielo",
-      "url": "https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu"
+      "duration_ms": 286026,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/4COvULULVKLsMKMRKIiXUa"
     },
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Lo Olvid\u00e9",
-      "url": "https://open.spotify.com/track/5knDuscjSq3x4mEa1G1wP6"
+      "duration_ms": 229720,
+      "name": "Como las Mariposas",
+      "url": "https://open.spotify.com/track/7guD52BYWJ9QGtYsdAUhNu"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 286026,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/4COvULULVKLsMKMRKIiXUa"
+      "duration_ms": 239906,
+      "name": "Los Globos del Cielo",
+      "url": "https://open.spotify.com/track/0gnsuw6eGZEwph1rKnxzOu"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Como las Mariposas",
-      "url": "https://open.spotify.com/track/7guD52BYWJ9QGtYsdAUhNu"
+      "duration_ms": 238626,
+      "name": "Lo Olvid\u00e9",
+      "url": "https://open.spotify.com/track/5knDuscjSq3x4mEa1G1wP6"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Amor Yo Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/1kiJIuvxjENeBKNIkoOS3m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Degeneracion Actual",
         "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
       },
@@ -431,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Yo Te Perd\u00ed La Fe",
-        "url": "https://open.spotify.com/album/2IWmVsTMYnI3EhFEuEmhzw"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Amor Yo Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/0w73EI2Te3GGbPSZgG93Uc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "Tren Sexual",
-      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
       },
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 248346,
+      "name": "Tren Sexual",
+      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
     },
     {
       "added_at": null,
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 282266,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
+      "duration_ms": 282266,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
     },
     {
       "added_at": null,
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
         {
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 256413,
-      "name": "T\u00fanel del Tiempo",
-      "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 215640,
-      "name": "Estoy cansado de llorar",
-      "url": "https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn"
+      "duration_ms": 238200,
+      "name": "Se Te Parar\u00edan los Pelos",
+      "url": "https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 238200,
-      "name": "Se Te Parar\u00edan los Pelos",
-      "url": "https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr"
+      "duration_ms": 215640,
+      "name": "Estoy cansado de llorar",
+      "url": "https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn"
     },
     {
       "added_at": null,

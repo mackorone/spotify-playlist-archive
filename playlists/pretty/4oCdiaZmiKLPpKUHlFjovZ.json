@@ -1,13 +1,37 @@
 {
-  "description": "Turn this playlist all the way up! Featuring, HoodRich Pablo Juan, Money Man, Peezy &amp; Blxst.",
-  "num_followers": 34705,
+  "description": "Turn this playlist all the way up! Featuring, Shordie Shordie, Money Man, Peezy &amp; Blxst.",
+  "num_followers": 34696,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAb0WwJ1GkGoQr5NZtMOzfN9jHHFY2a",
+  "snapshot_id": "AAAb1Y04IX+YcsTBOor6SZIevAb85kGd",
   "tracks": [
+    {
+      "added_at": "2025-11-24 22:40:24",
+      "album": {
+        "name": "Love Lost",
+        "url": "https://open.spotify.com/album/4waNdD4bWR70HYzHYmTXZs"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 169119,
+      "name": "Let Me Vibe (feat. Tyga & Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/36wDLx5QKOZzoW6attS86u"
+    },
     {
       "added_at": "2025-11-03 19:19:22",
       "album": {
@@ -1999,6 +2023,38 @@
       "duration_ms": 159994,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz"
+    },
+    {
+      "added_at": "2025-11-24 22:40:50",
+      "album": {
+        "name": "6'6 (feat. Zoe Osama, Spank Nitti James, OG Chris & Supparay)",
+        "url": "https://open.spotify.com/album/6KTsmPaDhz2JGJGHSY30Ib"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Spank Nitti James",
+          "url": "https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD"
+        },
+        {
+          "name": "OG Chris",
+          "url": "https://open.spotify.com/artist/7te2hQTQHthko2gYXz58bw"
+        },
+        {
+          "name": "Supparay",
+          "url": "https://open.spotify.com/artist/4Apee9PWVo03S7FSfAz82G"
+        }
+      ],
+      "duration_ms": 208928,
+      "name": "6'6 (feat. Zoe Osama, Spank Nitti James, OG Chris & Supparay)",
+      "url": "https://open.spotify.com/track/7dl0giMdaOEQTNE2DC0B8T"
     }
   ],
   "unique_name": "All The Way Up",

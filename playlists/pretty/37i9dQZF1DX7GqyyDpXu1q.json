@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 92819,
+  "num_followers": 92835,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
-      },
-      "artists": [
-        {
-          "name": "Danny Worsnop",
-          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "A Bad Hand",
         "url": "https://open.spotify.com/album/6b67OZDuDlK6iJkGvxjmfd"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 220852,
       "name": "A Bad Hand",
       "url": "https://open.spotify.com/track/3upRSam0eJrJWhcRVbLXHS"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2sBcoEEW3X9UJLPKoyWx7l"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/6I6RTCNLWEtstBAc9A3Fin"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -891,30 +891,6 @@
       "duration_ms": 272399,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
-        "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
-        "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
-      },
-      "artists": [
-        {
-          "name": "Candlebox",
-          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
-        },
-        {
-          "name": "Don Miggs",
-          "url": "https://open.spotify.com/artist/6d9L7od02ZS10dHH3jGQ9y"
-        },
-        {
-          "name": "Zane Carney",
-          "url": "https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
-      "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -975,18 +951,26 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "Ain't None Watered Down",
-        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
+        "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
+        "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
       "artists": [
         {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        },
+        {
+          "name": "Don Miggs",
+          "url": "https://open.spotify.com/artist/6d9L7od02ZS10dHH3jGQ9y"
+        },
+        {
+          "name": "Zane Carney",
+          "url": "https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl"
         }
       ],
-      "duration_ms": 192436,
-      "name": "Ain't None Watered Down",
-      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
+      "duration_ms": 233250,
+      "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
+      "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
     },
     {
       "added_at": "2025-04-21 21:56:35",
@@ -1003,6 +987,22 @@
       "duration_ms": 234036,
       "name": "15 Minute Smog Check",
       "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "Ain't None Watered Down",
+        "url": "https://open.spotify.com/album/3wdCBshRudtkeU21nlGgk2"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 192436,
+      "name": "Ain't None Watered Down",
+      "url": "https://open.spotify.com/track/3vlkTPYYJ91dZyQYAci4rD"
     },
     {
       "added_at": "2025-04-21 21:56:35",

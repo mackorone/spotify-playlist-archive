@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17947,
+  "num_followers": 17960,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSD9AAAAAABzpu3jVw7BipCz7+0jPZPE",
+  "snapshot_id": "aSJOgAAAAADZg7YTxmQjJA59ZXCR0JR1",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 206146,
       "name": "I Still Hear You",
       "url": "https://open.spotify.com/track/5axTmQJpmmKAPWUOBTJboB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "blue and red horses",
+      "url": "https://open.spotify.com/track/0t3lffLJnXnuJri7pjeeX9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 167640,
       "name": "Miss Misty",
       "url": "https://open.spotify.com/track/1zfxhBOhC0qFa5uIhw7P4s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "blue and red horses",
-      "url": "https://open.spotify.com/track/0t3lffLJnXnuJri7pjeeX9"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a-sides",
-        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        },
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 237066,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/6uSLk87TiYs9uTqf23k0Sw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Better",
         "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 197400,
       "name": "cradle",
       "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a-sides",
+        "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        },
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 237066,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/6uSLk87TiYs9uTqf23k0Sw"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 228640,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
+      "duration_ms": 150266,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
         }
       ],
-      "duration_ms": 150266,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa"
+      "duration_ms": 228640,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/5McZ3LHgxlz8Fpea1oo8Ad"
     },
     {
       "added_at": null,

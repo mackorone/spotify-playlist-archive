@@ -521,6 +521,28 @@
     },
     {
       "album": {
+        "name": "Agalia",
+        "url": "https://open.spotify.com/album/1MHWpV7h92eaDJ7ClBtG93"
+      },
+      "artists": [
+        {
+          "name": "Logos Timis",
+          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
+        },
+        {
+          "name": "Jaul",
+          "url": "https://open.spotify.com/artist/2FSYs9dEFVRoRk9JsYrEhE"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295043,
+      "name": "Agalia",
+      "url": "https://open.spotify.com/track/068Q1SMFDYX1sRKc2AZKvJ"
+    },
+    {
+      "album": {
         "name": "Aggelos Sti Gi",
         "url": "https://open.spotify.com/album/23ozNzbhjBuuWTyisaxkgP"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 124568,
       "name": "Akadimaikos",
       "url": "https://open.spotify.com/track/1uvpgDwaFwttgPmoCzHIMz"
@@ -12424,6 +12446,10 @@
         {
           "name": "YungKapa",
           "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
         }
       ],
       "date_added": "2025-11-20",

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-706 songs - 1 day 22 hr 6 min
+707 songs - 1 day 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Around \- Solomun Vox](https://open.spotify.com/track/5qA35ZZWFOqynheP5x8rty) | [Noir](https://open.spotify.com/artist/2rHW9XpYMGsHj7BmAOSmr9), [Hayze](https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Around](https://open.spotify.com/album/1TaZYikPW0Cjp1f6O685fN) | 6:58 | 2022-07-28 | 2022-09-20 |
 | [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2024-04-11 | 2025-02-21 |
 | [Assumptions \- Jengi Remix](https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Assumptions \(Jengi Remix\)](https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ) | 3:06 | 2023-02-09 | 2024-09-13 |
-| [Automatic](https://open.spotify.com/track/29BkVH95RgsaXHBnx4F4BG) | [AstroHertz](https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c), [Hotinga](https://open.spotify.com/artist/0UKxzPGay2En9BDF9LEtF6) | [Automatic](https://open.spotify.com/album/54oAoS1aEqeTCFAlY6Q0LH) | 4:02 | 2025-07-17 |  |
+| [Automatic](https://open.spotify.com/track/29BkVH95RgsaXHBnx4F4BG) | [AstroHertz](https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c), [Hotinga](https://open.spotify.com/artist/0UKxzPGay2En9BDF9LEtF6) | [Automatic](https://open.spotify.com/album/54oAoS1aEqeTCFAlY6Q0LH) | 4:02 | 2025-07-17 | 2025-11-25 |
 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 | 2022-04-14 | 2024-03-01 |
 | [Baby](https://open.spotify.com/track/5CkqQX3UXxgWW5RJ1Kus2o) | [Old Hermit Crab](https://open.spotify.com/artist/04xdmP44NY4yb14rEgjFm5) | [Baby](https://open.spotify.com/album/3gZ0u7KZCj0WNVMyg6MsJl) | 5:26 | 2025-01-30 | 2025-07-11 |
 | [Baby Voque](https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Baby Voque](https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683) | 5:16 | 2024-09-12 | 2025-10-07 |
@@ -253,6 +253,7 @@
 | [Got This Love](https://open.spotify.com/track/1TTBJlatS49oAHVmROQ02Z) | [Ralph Felix](https://open.spotify.com/artist/3i8emYvhsa8PmLH4zTAvjV) | [Got This Love](https://open.spotify.com/album/2FF5jW6XclssK21QEaYF0F) | 3:05 | 2024-07-22 | 2025-06-21 |
 | [Got To Believe](https://open.spotify.com/track/0ohw5aRHEw91j6SHeldRn2) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [DJ Disciple](https://open.spotify.com/artist/2p0Waz6D8QKzx1MeSlJEm8), [Progression](https://open.spotify.com/artist/4PGVD4TtOm5BqcAnumBqPH) | [Got To Believe](https://open.spotify.com/album/5h0XnAfPfu0j3iIbeIw2db) | 3:19 | 2024-08-01 | 2025-07-14 |
 | [Gotta Dance](https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [Gotta Dance](https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP) | 3:17 | 2023-01-12 | 2024-09-13 |
+| [Gotta Get Up](https://open.spotify.com/track/5jRZWj1ZcZ7dySno7ksMQa) | [miirabelle](https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG), [Lizzie Nightingale](https://open.spotify.com/artist/3spUinMukLrkAhSru3aopv) | [Gotta Get Up](https://open.spotify.com/album/06xTCSwUkJ94sPSGPcXAk8) | 3:29 | 2025-11-20 |  |
 | [Grinnin'](https://open.spotify.com/track/26n2yCFYtlv311GisIGV4B) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Grinnin'](https://open.spotify.com/album/2EsKS35NLXhdvpjMaWAAY2) | 3:32 | 2025-10-06 |  |
 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 | 2025-04-03 | 2025-10-24 |
 | [H O U S E](https://open.spotify.com/track/7zbqPeaFvWCKwkITKFI8V7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Missy](https://open.spotify.com/artist/1YILZCOXQSwtHs7CbbU0S4) | [H O U S E](https://open.spotify.com/album/4LBcLvu0gELWABBgO4DwfA) | 5:42 | 2022-04-14 | 2022-07-29 |

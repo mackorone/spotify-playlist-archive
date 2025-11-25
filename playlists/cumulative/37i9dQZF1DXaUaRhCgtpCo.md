@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-171 songs - 9 hr 39 min
+173 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Main Title](https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: A New Hope \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy) | 5:24 | 2021-05-14 |  |
 | [Main Title and Escape](https://open.spotify.com/track/3eEfx3BsSplMdgktC3r7xK) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 7:25 | 2021-05-14 |  |
 | [Main Title and The Attack on the Jakku Village](https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 6:25 | 2021-05-14 |  |
+| [Mandalorian and Grogu](https://open.spotify.com/track/6Zb8V5txpJgz4NJmUAiyLn) | [Jose "Choco" Reynoso](https://open.spotify.com/artist/2Ri2EWwkdbDoJg3hVQ8Zq1), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 6](https://open.spotify.com/album/2XYVQ8P3elSkxF7Gxl9poe) | 5:03 | 2025-11-24 |  |
 | [March of the Resistance](https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 2:35 | 2024-05-03 |  |
 | [Meet Han](https://open.spotify.com/track/7BVvVmczBoVmVeWr8KMafb) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Solo: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm) | 2:20 | 2021-05-14 |  |
 | [NIAMOS! \(Chandrilian Club Mix\) \- From "Andor \(Season 2\)"](https://open.spotify.com/track/2JaWrIAAugnQwuG1OQAB0F) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [NIAMOS! \(Chandrilian Club Mix\) \[From "Andor \(Season 2\)"\]](https://open.spotify.com/album/6KJMLlCBWkB1gSq0cSYnjd) | 4:14 | 2025-06-10 |  |
@@ -133,6 +134,7 @@
 | [The Asteroid Field](https://open.spotify.com/track/6yj7fSEuePRyaYO5gIbGSx) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 4:15 | 2025-05-05 |  |
 | [The Baby](https://open.spotify.com/track/2hpBErFRab0qwNSzgglCNk) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Mandalorian: Chapter 8 \(Original Score\)](https://open.spotify.com/album/4UbdaOH1jy1l9EG9vLFCle) | 3:20 | 2024-05-03 |  |
 | [The Battle of Crait](https://open.spotify.com/track/77k9CEWfPOcizofgwLTBdH) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 6:47 | 2021-05-14 |  |
+| [The Book of Boba Fett](https://open.spotify.com/track/6Ji8t0bxnkUOwGqsDJQNOL) | [Lucky West](https://open.spotify.com/artist/7EW4xaFyScvYnw467VuHQp), [Star Wars Lofi](https://open.spotify.com/artist/1NLRuDIBQZ0DIM31Kb0b6N) | [Star Wars Lofi: Vol\. 6](https://open.spotify.com/album/2XYVQ8P3elSkxF7Gxl9poe) | 2:55 | 2025-11-24 |  |
 | [The Book of Boba Fett](https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett: Vol\. 1 \(Chapters 1\-4\) \[Original Soundtrack\]](https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju) | 2:55 | 2022-06-28 |  |
 | [The Book of Boba Fett \- From "The Book of Boba Fett"](https://open.spotify.com/track/1YGJWCGQq7YduP7ENxgCJC) | [Ludwig Goransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Book of Boba Fett \(From "The Book of Boba Fett"\)](https://open.spotify.com/album/1JJlW7PNpoGxBVPTftZmHP) | 2:55 | 2021-12-29 | 2022-07-29 |
 | [The Cave](https://open.spotify.com/track/75tWMAX7gSbs3VNKgvlOST) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:59 | 2021-05-14 |  |

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-598 songs - 1 day 1 hr 17 min
+601 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,6 +379,7 @@
 | [Origen](https://open.spotify.com/track/2UtJpKi98wfLk6ERrmXpEC) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Origen](https://open.spotify.com/album/7KWJU3ICNaArmjYfM3N7Oq) | 1:47 | 2022-09-02 | 2023-09-14 |
 | [Ouarzazate](https://open.spotify.com/track/4KLHM8BsHxjA74q1H1wvnx) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Ouarzazate](https://open.spotify.com/album/1RJxkHUhvj6k3a7WGoIaX3) | 2:17 | 2022-12-23 | 2023-10-13 |
 | [Outerinho](https://open.spotify.com/track/07ulGbvQJporStcKaTxnaY) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Pescadores](https://open.spotify.com/album/6PZrP9DIw8EYEwkuyZm7Pj) | 3:05 | 2022-06-17 | 2024-07-30 |
+| [Outono](https://open.spotify.com/track/5yo0kYmqHkg7tMPJv3GKKR) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Outono](https://open.spotify.com/album/1ZMGYAg9qKw7q1ScwxuVlZ) | 3:15 | 2025-11-24 |  |
 | [Pas de regrets](https://open.spotify.com/track/5Ko1nyPgelm5DGLt35AvF4) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Pas de regrets](https://open.spotify.com/album/3RIcJZm8cTD2IbxQW007Zc) | 2:46 | 2022-10-28 | 2023-05-20 |
 | [Paseo](https://open.spotify.com/track/1AVfqtcAyTCKQNp36mdSk9) | [Oliver Leonardo](https://open.spotify.com/artist/2tn2eGCJFEG139hn8b1UIj) | [Leme](https://open.spotify.com/album/2N7E7yXlRKE3pwFMmspN1z) | 2:43 | 2022-06-17 | 2023-04-29 |
 | [Passages](https://open.spotify.com/track/409nrkfFWjJSF0JiWne0HY) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Passages](https://open.spotify.com/album/1XU36ZyjSyRQc6UDpqPVfq) | 2:04 | 2023-09-29 |  |
@@ -452,7 +453,7 @@
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-28 | 2023-06-23 |
 | [Secreto a gritos](https://open.spotify.com/track/4nfhvNVF4APrKYyakiVvbJ) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Secreto a gritos](https://open.spotify.com/album/1awQz7qa436GOIuQJUsdVt) | 3:05 | 2022-10-07 | 2024-01-12 |
 | [See me clearly](https://open.spotify.com/track/74B9UwoACQuEgPVtoQ51Qf) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [See me clearly](https://open.spotify.com/album/5DvQoBQHNBLaJZxVDf2aNY) | 1:52 | 2024-09-10 | 2025-04-03 |
-| [Segredos](https://open.spotify.com/track/1IViniOGSpkCykY4ta6474) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Segredos](https://open.spotify.com/album/6Q7WqOJoglySvCZEbahkuG) | 2:33 | 2025-07-25 |  |
+| [Segredos](https://open.spotify.com/track/1IViniOGSpkCykY4ta6474) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Segredos](https://open.spotify.com/album/6Q7WqOJoglySvCZEbahkuG) | 2:33 | 2025-07-25 | 2025-11-25 |
 | [Senza Fine](https://open.spotify.com/track/2EGESNjQMOr0WPl9RCmtQo) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Senza Fine](https://open.spotify.com/album/2831RPrm9Yal2OCTmcNJ59) | 3:05 | 2022-10-07 | 2025-01-14 |
 | [Sequoia](https://open.spotify.com/track/461cC9CgeIx0ROdpaIkMtw) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Sequoia](https://open.spotify.com/album/1t5CbziFDuyPWv75q3tnCY) | 2:51 | 2022-06-17 | 2022-09-09 |
 | [Serenade of the Pines](https://open.spotify.com/track/4j5AE4ET1c63FQY28xGBkM) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [Serenade of the Pines](https://open.spotify.com/album/6AWJhJV5UVVbzHwW3S5L2j) | 2:43 | 2025-03-25 | 2025-06-17 |
@@ -463,6 +464,7 @@
 | [Shine Over Lakes and Shores](https://open.spotify.com/track/4u4b45LwmUBXoajOZyN37J) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shine Over Lakes and Shores](https://open.spotify.com/album/3xF5capDJabHZi46IIXtaJ) | 3:00 | 2024-11-11 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-12 | 2024-06-28 |
 | [Silent Senses](https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB) | [Jónatan Tinek](https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF) | [Silent Senses](https://open.spotify.com/album/6FM9tmXDgP3cOofFRSFZ8b) | 2:19 | 2023-02-24 | 2023-06-23 |
+| [Silhouette](https://open.spotify.com/track/0hf6nqWArHwj5Uq99oF1rj) | [Mauro Petrone](https://open.spotify.com/artist/2PRWHHZKOawoThzol1h3N5) | [Silhouette](https://open.spotify.com/album/1w8IkoO4XyXNvhu1PBBu0q) | 2:53 | 2025-11-24 |  |
 | [Silver Rain](https://open.spotify.com/track/2cdQ3ro104pXdRecdTdcAT) | [Charles Weller](https://open.spotify.com/artist/1XFRy3zoPzIdsP8yfzXRem) | [Silver Rain](https://open.spotify.com/album/2CPIVrrXY1tHjKgOOxFm4e) | 1:40 | 2022-06-17 | 2023-09-08 |
 | [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 | 2023-10-27 |  |
 | [Simple life](https://open.spotify.com/track/2tb68oGZwNXeh70uAsr3Wj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Simple life](https://open.spotify.com/album/7tBY8hZw8mlLceOA5NFbmp) | 2:47 | 2024-07-18 |  |
@@ -497,6 +499,7 @@
 | [Summer Rain](https://open.spotify.com/track/3M2tYT2LyJi8tISX7j1pbI) | [Max Laugland](https://open.spotify.com/artist/7ASrnmDyLPEBiO97unM9AC) | [Summer Rain](https://open.spotify.com/album/7wvfO96xIIFvY8ShoZjatX) | 3:02 | 2024-10-09 |  |
 | [Sun Beam](https://open.spotify.com/track/5cUqHAqFyRdoh1d84IExHD) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Sun Beam](https://open.spotify.com/album/7Hcg1wCXtBKqxljQFcgywZ) | 3:19 | 2025-04-29 | 2025-05-20 |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 | 2023-05-20 |
+| [Sunlight](https://open.spotify.com/track/300nsu06HwLi0mLzCYz8LI) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Sunlight](https://open.spotify.com/album/4Xk4xXeHvBnyAiT4ztAHbe) | 2:29 | 2025-11-24 |  |
 | [Sunlight Through Leaves](https://open.spotify.com/track/4WE694pRoPuL5HonQ11NEI) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Sunlight Through Leaves](https://open.spotify.com/album/58GXSbSBoi5himWr5hj6he) | 2:41 | 2025-06-16 |  |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-09 | 2024-05-25 |
 | [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 | 2023-11-24 |
@@ -586,7 +589,7 @@
 | [What If She Was Murdered?](https://open.spotify.com/track/1GWoM1VTurLLlYNal9CH9t) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96) | [Vengeance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3YA7TB1egD5ApHIskQv4lK) | 3:49 | 2022-07-29 | 2022-08-05 |
 | [When she walks away](https://open.spotify.com/track/3EjF8vULmYdIQtrEIKoEA7) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [When she walks away](https://open.spotify.com/album/4XotE5zGa8zfVk5b8Guvpk) | 2:19 | 2023-03-24 | 2023-06-23 |
 | [Whispered words](https://open.spotify.com/track/4V4lgyWWYZlZB8GtqCwhE9) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Whispered words](https://open.spotify.com/album/3ty7RAPKAWVWv9LVweZsFn) | 2:55 | 2025-02-24 | 2025-04-17 |
-| [Whispers](https://open.spotify.com/track/2c4ViERSzhgBtLW65P61T3) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers](https://open.spotify.com/album/1MteMNxsPxEDfUizlPAefA) | 2:13 | 2025-07-08 |  |
+| [Whispers](https://open.spotify.com/track/2c4ViERSzhgBtLW65P61T3) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers](https://open.spotify.com/album/1MteMNxsPxEDfUizlPAefA) | 2:13 | 2025-07-08 | 2025-11-25 |
 | [Whispers of Fondne](https://open.spotify.com/track/4IjwqZl1db3DsrO7RtZKJh) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Whispers of Fondne](https://open.spotify.com/album/6lrs71ikfFEAIPB7m4bnoJ) | 2:55 | 2024-02-23 | 2025-10-21 |
 | [Whispers Of The Sea](https://open.spotify.com/track/1z4f7yXUgK5AhE69YtkJJS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Whispers Of The Sea](https://open.spotify.com/album/0PFuWeiLzL8iZHjPiFUBDx) | 1:57 | 2022-07-22 | 2023-02-25 |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-19 | 2023-10-27 |

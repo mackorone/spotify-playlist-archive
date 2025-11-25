@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Buon natale da Lucio e da tutte le nuove uscite indie 🎄
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,362 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,363 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 |
+| 1 | [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 |
 | 2 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 3 | [Piazzale degli Eroi](https://open.spotify.com/track/0HznKHR0rq2ydRPTNdr4yX) | [Tutti Fenomeni](https://open.spotify.com/artist/13jvLDXME7yplEwCweRivE) | [Piazzale degli Eroi](https://open.spotify.com/album/0JkG2md6SYiPWmDqMToBt9) | 3:25 |
 | 4 | [Con la lingua](https://open.spotify.com/track/4NDoVeIP6mpA3r2M9BXYmc) | [MOBRICI](https://open.spotify.com/artist/3BV0pd7wPcsLQzO2rNiupd) | [Con la lingua](https://open.spotify.com/album/1uTS39O1a3cpY1DbGMqSSm) | 3:19 |
 | 5 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 |
-| 6 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:36 |
-| 7 | [Addiaccio](https://open.spotify.com/track/7uFeGyXsHE5yBmulyXptlh) | [Marco Giudici](https://open.spotify.com/artist/04hb6csoUymn42lRJg8fFy) | [Trovarsi soli all'improvviso](https://open.spotify.com/album/3bwH0VsP6E2geTBAAmE8Eo) | 3:34 |
-| 8 | [Con gli occhi di una lepre](https://open.spotify.com/track/5Tmb54XwBBXSpPpj7YzOTy) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Con gli occhi di una lepre](https://open.spotify.com/album/1BnlP0cmJrhp2H9RM7TQs4) | 3:29 |
-| 9 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 |
-| 10 | [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 |
-| 11 | [Chissà](https://open.spotify.com/track/2g2Twb579ss4g17mNqMJ28) | [Rossana De Pace](https://open.spotify.com/artist/5gkWD5byGyu98HtrFUOTz2) | [Chissà](https://open.spotify.com/album/4OO79WVVkGbVTm2bYXjJqn) | 3:14 |
-| 12 | [muozzeco](https://open.spotify.com/track/0opk7SysHBG6XQo9utTIIq) | [juni](https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb) | [nero, attimo](https://open.spotify.com/album/0Wfyq0Ov2iBAZ5KMbGT4JA) | 2:24 |
-| 13 | [Luna Piena](https://open.spotify.com/track/2J5c0O1B5uqcQJibde6ln5) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Notturno](https://open.spotify.com/album/4m1XOK5GYqtp9ekjo3JYlj) | 3:10 |
-| 14 | [Alpha Centauri](https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Alpha Centauri](https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm) | 4:31 |
-| 15 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 |
-| 16 | [rancore](https://open.spotify.com/track/1ehU75GBqxpgNfgNRCtsF9) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [rancore](https://open.spotify.com/album/0bBA717CkOcxsZEJ2jvGwX) | 3:36 |
-| 17 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
+| 6 | [punto](https://open.spotify.com/track/1WLfItpqW8NNP6VanqRKy0) | [eroCaddeo](https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5) | [punto](https://open.spotify.com/album/2G73CooRfo1Ly5YFpCuhrI) | 2:16 |
+| 7 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:36 |
+| 8 | [Addiaccio](https://open.spotify.com/track/7uFeGyXsHE5yBmulyXptlh) | [Marco Giudici](https://open.spotify.com/artist/04hb6csoUymn42lRJg8fFy) | [Trovarsi soli all'improvviso](https://open.spotify.com/album/3bwH0VsP6E2geTBAAmE8Eo) | 3:34 |
+| 9 | [Con gli occhi di una lepre](https://open.spotify.com/track/5Tmb54XwBBXSpPpj7YzOTy) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Con gli occhi di una lepre](https://open.spotify.com/album/1BnlP0cmJrhp2H9RM7TQs4) | 3:29 |
+| 10 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 |
+| 11 | [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 |
+| 12 | [Chissà](https://open.spotify.com/track/2g2Twb579ss4g17mNqMJ28) | [Rossana De Pace](https://open.spotify.com/artist/5gkWD5byGyu98HtrFUOTz2) | [Chissà](https://open.spotify.com/album/4OO79WVVkGbVTm2bYXjJqn) | 3:14 |
+| 13 | [muozzeco](https://open.spotify.com/track/0opk7SysHBG6XQo9utTIIq) | [juni](https://open.spotify.com/artist/3AKqJ5gNjU2hp8Xm8Mywvb) | [nero, attimo](https://open.spotify.com/album/0Wfyq0Ov2iBAZ5KMbGT4JA) | 2:24 |
+| 14 | [Luna Piena](https://open.spotify.com/track/2J5c0O1B5uqcQJibde6ln5) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Notturno](https://open.spotify.com/album/4m1XOK5GYqtp9ekjo3JYlj) | 3:10 |
+| 15 | [Alpha Centauri](https://open.spotify.com/track/2tQBCnq4NmVO4893xO3oUJ) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Alpha Centauri](https://open.spotify.com/album/0I25bmzWmmdnSY0utd4vcm) | 4:31 |
+| 16 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 |
+| 17 | [rancore](https://open.spotify.com/track/1ehU75GBqxpgNfgNRCtsF9) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [rancore](https://open.spotify.com/album/0bBA717CkOcxsZEJ2jvGwX) | 3:36 |
 | 18 | [barche di carta](https://open.spotify.com/track/0oEth0Jxw3hjDutL7oyc1F) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [barche di carta](https://open.spotify.com/album/3ZMuKjeKM3if8cwoKeX4HR) | 3:02 |
 | 19 | [I Laureati](https://open.spotify.com/track/6IL8yNP5qwG3RK4y5D3WRv) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [I Laureati](https://open.spotify.com/album/6CXa9c62lkhAUymNVV7NzF) | 3:43 |
 | 20 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [Il mercato degli abbagli](https://open.spotify.com/track/76ze0LlZyLUcjAPslRQmtD) | [Ribaltavapori](https://open.spotify.com/artist/2JiNAZmisuOT8EnYwpOhFs), [Acqua Distillata](https://open.spotify.com/artist/5qPCNyvxjgOXZMHrCbZIBF) | [Volume Uno + Due](https://open.spotify.com/album/44KFbDn8ntCNCkm2wfRHTP) | 3:47 |
 | 105 | [A Luci Spente](https://open.spotify.com/track/6JLRMYtXE2rAEomsse0uns) | [Feava](https://open.spotify.com/artist/3SfiU1vN892diMx36GOJFW) | [A Luci Spente](https://open.spotify.com/album/2dQE0RL9VUoGiKtqeV0UXa) | 3:31 |
 
-Snapshot ID: `AAAAAAJybEJOcf34OGnJzoPjzeMvGvvR`
+Snapshot ID: `AAAAAB9oq1s/iLLjSBCdxPZPeZe1wn34`

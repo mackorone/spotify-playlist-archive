@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 
 > Soft electronic music for your dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,087 likes - 234 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,097 likes - 234 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kz6Kli3wib.md) - [plain]
 | 233 | [Genuine Foggy](https://open.spotify.com/track/66kHf2V2TLThuiqqSR9sYv) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Open Hat](https://open.spotify.com/album/0gh9B5L7AQPvW3W7LlUiEk) | 3:09 |
 | 234 | [Golden Era](https://open.spotify.com/track/2Ldv2IghBqCWDWh1uJ7YKr) | [Nataya](https://open.spotify.com/artist/1VMiSIx9pA9WcS7ktBjcqo) | [Golden Era](https://open.spotify.com/album/0W1wkLCZsxgLrYsZW1mAAx) | 2:12 |
 
-Snapshot ID: `AAAAALoTjMz+wMYv1WktAfWJQs0NHB+2`
+Snapshot ID: `AAAAAE1uCdS+2ObambEGDgmFsyJYb4nh`

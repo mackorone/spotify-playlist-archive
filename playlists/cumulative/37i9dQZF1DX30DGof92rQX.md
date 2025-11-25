@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Hamza Malik,  Anumpta Sabri
 
-356 songs - 18 hr 40 min
+357 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Ja Rahe](https://open.spotify.com/track/28NsSkD1WSQW5gKZSd1HBS) | [Zeeshan Vicky Haider](https://open.spotify.com/artist/0yjJxYWXNv9286zFPQaAXO) | [Neelofar \- The Film](https://open.spotify.com/album/1uvTjCvn9NUXqSA5s7Ppaf) | 3:34 | 2025-10-31 | 2025-11-08 |
 | [Jaa Rahe Ho Tum](https://open.spotify.com/track/0G0w7oXy6Kb7tocOWaCwbD) | [Ahmad Hassan](https://open.spotify.com/artist/5xtM0QJpr8K2obgiLBzeh7) | [Jaa Rahe Ho Tum](https://open.spotify.com/album/6WAuYjbM87qeR9CKqDePT2) | 2:58 | 2025-05-30 | 2025-08-09 |
 | [Jaaye](https://open.spotify.com/track/0FuAxpzSZdZJApouX4EbjI) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Jaaye](https://open.spotify.com/album/1Gx6bD9vE3Qpu4tCYdyjUg) | 2:24 | 2025-02-11 | 2025-09-18 |
-| [Janay Jaa](https://open.spotify.com/track/1PVbwQTuR2CNXuR1oDMVP6) | [Maanii](https://open.spotify.com/artist/7gBoVbA8sEWClG4vmmSVnH), [Soid](https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3) | [Janay Jaa](https://open.spotify.com/album/4tELAsDsIqAKGkekddIKKE) | 2:48 | 2025-11-07 |  |
+| [Janay Jaa](https://open.spotify.com/track/1PVbwQTuR2CNXuR1oDMVP6) | [Maanii](https://open.spotify.com/artist/7gBoVbA8sEWClG4vmmSVnH), [Soid](https://open.spotify.com/artist/6qKtwpLo4XWAaygLhCypm3) | [Janay Jaa](https://open.spotify.com/album/4tELAsDsIqAKGkekddIKKE) | 2:48 | 2025-11-07 | 2025-11-25 |
 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 | 2024-06-28 | 2024-11-08 |
 | [Jaun Mein Kahan](https://open.spotify.com/track/4f6e4B1wx9ZOiDjYcpS0zr) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Jaun Mein Kahan](https://open.spotify.com/album/3SCMYI0YTENh6MX9gys4Dt) | 3:33 | 2025-10-17 |  |
 | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/track/4XV8zaWcumB5Et8IdhfSUa) | [Fazeel Khan](https://open.spotify.com/artist/3530GQmL0oxC219Lphkr1h) | [Jay tu Akhiyaan de Saamne nai rehna](https://open.spotify.com/album/3csWupL9ILbd6zbuBZR6pF) | 2:07 | 2025-10-24 |  |
@@ -163,6 +163,7 @@
 | [Karde Karam Tu \(From "Parwarish"\)](https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Karde Karam Tu \(From "Parwarish"\)](https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg) | 3:15 | 2025-07-25 | 2025-10-18 |
 | [Karzar\-e\-dua \- Original Score](https://open.spotify.com/track/3J2oIhQGZFuQZS4b0WU51g) | [Wajhi Farooki](https://open.spotify.com/artist/0DQFJkWYOvDE5xEOoO7Voq) | [Karzar\-e\-dua \(Original Score\)](https://open.spotify.com/album/0b3epcpMZfSywlWxCOdeO8) | 4:07 | 2025-08-01 | 2025-11-15 |
 | [Kehte Raho](https://open.spotify.com/track/5gwwfepdfUXI6D1PQzxB5W) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa) | [Kehte Raho](https://open.spotify.com/album/1Xv4yVxbCNZ234TCtyeZzH) | 2:33 | 2024-06-28 | 2025-01-17 |
+| [Khabbay Sajjay](https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Asim Ali](https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y) | 3:08 | 2025-11-24 |  |
 | [Khairaat](https://open.spotify.com/track/1fu5ZWOJIlN2WxRXUu1PJP) | [Salem Sandhu](https://open.spotify.com/artist/0Eh7Sz5p4UQ6AfOcFu5f45) | [Khairaat](https://open.spotify.com/album/5YPr9fLsUVJM3XRJkbqbEH) | 3:01 | 2025-10-03 |  |
 | [KHAT](https://open.spotify.com/track/57wCsgKjm7TNHgvLmyy7ny) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Hassan Rai](https://open.spotify.com/artist/7mdBGoLdvF4OqvedvcgiuE), [Qasim Dahir](https://open.spotify.com/artist/1yk4ylocCYUE7BP6mwRNar) | [KHAT](https://open.spotify.com/album/0Yc93fOJGWuvjKIoEmsEhV) | 3:20 | 2025-11-14 |  |
 | [Khilnay Ko](https://open.spotify.com/track/3afvJxGQgUDWUG3mEAdPQr) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Khilnay Ko](https://open.spotify.com/album/2oka32LC9l4OCvHHWQfllT) | 4:29 | 2025-04-18 | 2025-05-02 |

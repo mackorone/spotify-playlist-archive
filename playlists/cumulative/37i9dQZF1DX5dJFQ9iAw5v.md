@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-124 songs - 10 hr 29 min
+125 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Coral](https://open.spotify.com/track/7bmypsEka2xpEMq4Dd8swE) | [Andres Hayes](https://open.spotify.com/artist/0FKxcGGzdKtRWhU6t7nrC5), [Ernesto Jodos](https://open.spotify.com/artist/7CMEUsgU1PmgGWgJbxXEKb), [Rodrigo Domínguez](https://open.spotify.com/artist/2Aqd1LRu17D1f9WTL5bxNV), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Merlo](https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c), [René Gatica](https://open.spotify.com/artist/3JVGdxsKyaeqmTkXmwZMPC) | [Marea Alta](https://open.spotify.com/album/67KLvUUelqRW1NPNt1gKae) | 8:30 | 2023-12-08 | 2025-03-20 |
 | [Corre Niña](https://open.spotify.com/track/3JB87Mtpxx777llgvhdpzZ) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Corre Niña](https://open.spotify.com/album/5g0VVvKVm6kcqxr7dizJLf) | 4:17 | 2022-08-12 | 2025-11-11 |
 | [Cosa Panicosa](https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1) | [La Mujer Barbuda](https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM) | [Cosa Panicosa](https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm) | 6:28 | 2022-09-09 |  |
+| [Creer en las Hojas](https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM) | [Emi Gimenez](https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ) | [Atemporal](https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY) | 4:52 | 2025-04-14 |  |
 | [Cristal](https://open.spotify.com/track/6ER9Ztzu9g6C1OBWcVHZi3) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Danza](https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN) | 4:32 | 2025-04-14 | 2025-10-10 |
 | [Desde El Corazon](https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7) | [Mensajes Secretos](https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g) | 6:04 | 2022-08-12 | 2025-08-02 |
 | [Diez Fotos Viejas\-Pieza 1](https://open.spotify.com/track/1np704HUCoilDckrl6dqUa) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK), [Facundo Ferreira](https://open.spotify.com/artist/2xDy01Qvws5b7M7iAEYkLH) | [Un Rezo](https://open.spotify.com/album/74E3AY31laalZd0YeWS8OE) | 2:00 | 2025-04-14 |  |
@@ -86,7 +87,7 @@
 | [Mezcalero](https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy), [Martín Telechanski](https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1) | [Mezcalero](https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj) | 4:57 | 2023-12-08 |  |
 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 | 2022-08-12 |  |
 | [Milonga Del Fin Del Mundo](https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Milonga Del Fin Del Mundo](https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw) | 5:24 | 2023-12-08 |  |
-| [Minimal](https://open.spotify.com/track/4Y37i8v2MD4mxRcaM28fti) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [Minimal](https://open.spotify.com/album/5ivhkDkDIU3jwZYuNTuDxL) | 6:35 | 2025-04-14 |  |
+| [Minimal](https://open.spotify.com/track/4Y37i8v2MD4mxRcaM28fti) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [Minimal](https://open.spotify.com/album/5ivhkDkDIU3jwZYuNTuDxL) | 6:35 | 2025-04-14 | 2025-11-25 |
 | [Monumental](https://open.spotify.com/track/6dlFsQKa8km5nQPNpVmaEU) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Monumental](https://open.spotify.com/album/0tcgqfwrBoCcZ4T9LiDcjI) | 5:18 | 2023-12-08 | 2025-04-15 |
 | [No Fear](https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs) | [Fernández 4](https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R), [Cirilo Fernandez](https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG) | [No Fear](https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf) | 5:01 | 2022-08-12 | 2024-04-19 |
 | [NO LA VI VENIR](https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj) | [Hot Shooters](https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr) | [Boticario de Amor](https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL) | 3:05 | 2024-03-08 |  |

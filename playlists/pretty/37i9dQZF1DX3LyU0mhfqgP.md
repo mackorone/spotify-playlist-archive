@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: kwn
+> Songs from LGBTQIA+ artists\. Cover: <br/>Cubita
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,021 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,953 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 7 | [Una llamada de Satanás](https://open.spotify.com/track/6SIPTnMUIIzXnPTP3VZFmH) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [Una llamada de Satanás](https://open.spotify.com/album/1U0QuUzdyj9pxK5fIaweaC) | 4:19 |
 | 8 | [Orrore!](https://open.spotify.com/track/02BsuUGEo4dNbzioXbEhjJ) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Orrore!](https://open.spotify.com/album/6HlAOxR2wMWbjEmbZRw7gQ) | 2:38 |
 | 9 | [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 |
-| 10 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 |
-| 11 | [Little Flowers](https://open.spotify.com/track/5wKPHImMN70gxNasZIAtDv) | [VOJTIK](https://open.spotify.com/artist/1rlNlRenBPGW3YXTt9cRSB) | [Little Flowers](https://open.spotify.com/album/4sOHPl0AFlGgcVrDir0fbk) | 3:19 |
-| 12 | [Wasted](https://open.spotify.com/track/5SqxE0hnHs7oNZfvBSmioi) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:49 |
-| 13 | [Voices](https://open.spotify.com/track/101WWjTm2SfpftR03cGl06) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/6LFXb9bp8S1gnW0fOqTTmH) | 5:38 |
-| 14 | [​​Birthday](https://open.spotify.com/track/2ofvuA5aisQEVWUTlSvBB1) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [​​Birthday](https://open.spotify.com/album/1siEioz4rdjytJs7juSv6R) | 4:43 |
-| 15 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
-| 16 | [Celestial](https://open.spotify.com/track/7r0bbN93tEYoKzXC2n9kgR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Celestial](https://open.spotify.com/album/15sUyX3R3ogXhlN8jpzrGx) | 2:25 |
-| 17 | [Croccante](https://open.spotify.com/track/7qpDTasvlpAvfKF36YzMln) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Croccante, molto croccante](https://open.spotify.com/album/1tWqfXQt566CUuakCHbTot) | 2:33 |
-| 18 | [Evitar](https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Evitar](https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG) | 2:49 |
+| 10 | [Evitar](https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Evitar](https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG) | 2:49 |
+| 11 | [go to hell](https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [go to hell](https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH) | 3:27 |
+| 12 | [Little Flowers](https://open.spotify.com/track/5wKPHImMN70gxNasZIAtDv) | [VOJTIK](https://open.spotify.com/artist/1rlNlRenBPGW3YXTt9cRSB) | [Little Flowers](https://open.spotify.com/album/4sOHPl0AFlGgcVrDir0fbk) | 3:19 |
+| 13 | [Wasted](https://open.spotify.com/track/5SqxE0hnHs7oNZfvBSmioi) | [ADONXS](https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM) | [Wasted](https://open.spotify.com/album/41QJxyII5nFU1czS9QemhG) | 2:49 |
+| 14 | [Voices](https://open.spotify.com/track/101WWjTm2SfpftR03cGl06) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/6LFXb9bp8S1gnW0fOqTTmH) | 5:38 |
+| 15 | [​​Birthday](https://open.spotify.com/track/2ofvuA5aisQEVWUTlSvBB1) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [​​Birthday](https://open.spotify.com/album/1siEioz4rdjytJs7juSv6R) | 4:43 |
+| 16 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 |
+| 17 | [Celestial](https://open.spotify.com/track/7r0bbN93tEYoKzXC2n9kgR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Celestial](https://open.spotify.com/album/15sUyX3R3ogXhlN8jpzrGx) | 2:25 |
+| 18 | [Croccante](https://open.spotify.com/track/7qpDTasvlpAvfKF36YzMln) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Croccante, molto croccante](https://open.spotify.com/album/1tWqfXQt566CUuakCHbTot) | 2:33 |
 | 19 | [Fix Myself](https://open.spotify.com/track/5YMo4RRV1qm0855ir87MeO) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Fix Myself](https://open.spotify.com/album/6IOlmcK8SQp9BGGoXHDSW5) | 2:42 |
 | 20 | [Si me muero mañana](https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Si me muero mañana](https://open.spotify.com/album/4PMkMQqNq63gjMRz5sRWQw) | 4:17 |
 | 21 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Ador](https://open.spotify.com/track/7A3CwgewrTkQI1yvKzv5Ie) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Ador](https://open.spotify.com/album/5gzYfapn3hqSKbFZAmRljC) | 3:09 |
 | 50 | [MAI PIÙ](https://open.spotify.com/track/7EQBu1WZmTq24SXIpUIpTn) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [MAI PIÙ](https://open.spotify.com/album/2b3n7jKsXTfEkREiKejVWJ) | 2:52 |
 
-Snapshot ID: `AAAAALubjUdl5u9eawSFnGTBrPflSjQL`
+Snapshot ID: `AAAAAK819J6fCdDpA3vsWbvnf/B3Sziv`

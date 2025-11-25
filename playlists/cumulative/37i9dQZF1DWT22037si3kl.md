@@ -2,7 +2,7 @@
 
 ### [O Drip](https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl)
 
-> pralém do que se veste, é vc e sua aura\. Foto: Senndy
+> pralém do que se veste, é vc farmando aura\. Foto: Senndy
 
 461 songs - 22 hr 11 min
 

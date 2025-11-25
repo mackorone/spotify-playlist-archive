@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: De La Rose, Yan Block, Hades66 & Ñengo Flow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,494,676 likes - 106 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,642 likes - 106 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

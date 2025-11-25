@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,672 likes - 63 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,679 likes - 63 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkgnpy3H1Kz.md) - [plain]
 | 8 | [Eleven](https://open.spotify.com/track/6n9A7jFhaxK2yH6fq6VnhZ) | [Z.I.P.P.O](https://open.spotify.com/artist/4eZ6EbyIqRsq67WRTV8AAc) | [Eleven](https://open.spotify.com/album/2GW3rQW9FrrH6TA8iHEXuM) | 5:03 |
 | 9 | [i hate all of you](https://open.spotify.com/track/2e9VV2YkZkW8AcsNLqU7aL) | [Alex Wilcox](https://open.spotify.com/artist/7ArfNfDfLqeVEKYfzzPblu) | [i hate all of you](https://open.spotify.com/album/1yhyU1G0U4OKTSBNpbFf9U) | 4:54 |
 | 10 | [Equus](https://open.spotify.com/track/0rbWY02eYdG5BejgctSMBx) | [ASEC](https://open.spotify.com/artist/0u8h5yyvIHdXVf4ZVRT6TH) | [Snake Eater](https://open.spotify.com/album/4pFtgTzqfU2Y9c7WOzWjWi) | 5:35 |
-| 11 | [Cosmic Affliction \- Toi Toi Toi](https://open.spotify.com/track/46UHbvpz7tCUYgTl9wD0RN) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [Neoforma](https://open.spotify.com/album/6suoSX8lLQX99UrMHf1XnO) | 5:05 |
+| 11 | [Cosmic Affliction \- toi toi toi](https://open.spotify.com/track/46UHbvpz7tCUYgTl9wD0RN) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [Neoforma](https://open.spotify.com/album/6suoSX8lLQX99UrMHf1XnO) | 5:05 |
 | 12 | [Frostbite](https://open.spotify.com/track/3iIppdAcj5wFA1oOK090Yd) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Frostbite](https://open.spotify.com/album/2SOtXYZzOZScgZmB1X6nEl) | 4:39 |
 | 13 | [Tetalis \- Ellen Allien Remix](https://open.spotify.com/track/0k7d0CdDmlP18SsmsoBKqS) | [Amotik](https://open.spotify.com/artist/6EROUCmvQtSuBUkZ9nNOOO), [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Vistār Remixes](https://open.spotify.com/album/1YOJWVHftQLe8PZlAvHrbd) | 6:21 |
 | 14 | [The Next](https://open.spotify.com/track/5FUK7WfgNG904JrVsUrEcP) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [The Beltram Releases 1989\-1991](https://open.spotify.com/album/2ihYd2Yo6pgzYNu0PcRLoW) | 4:18 |

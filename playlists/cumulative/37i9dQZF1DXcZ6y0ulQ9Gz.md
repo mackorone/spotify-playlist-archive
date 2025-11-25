@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current indie favourites\. Cover: Saya Gray
 
-781 songs - 1 day 23 hr 6 min
+782 songs - 1 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -501,6 +501,7 @@
 | [Only for the Broken\-Hearted](https://open.spotify.com/track/0LyCj5EIt9LrAxaLtLW5f4) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Only for the Broken\-Hearted](https://open.spotify.com/album/3wvshcjOm45PRidHj6e6Yr) | 3:03 | 2021-01-15 | 2022-04-16 |
 | [Only in Your Eyes](https://open.spotify.com/track/2Ve8jt3csQx5S2q4QsMoyJ) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Only in Your Eyes](https://open.spotify.com/album/3Agu2Lfqz8EnJHq2BUuHDt) | 3:27 | 2022-05-26 | 2022-07-28 |
 | [only tomorrow](https://open.spotify.com/track/7gjo7CYtOAcm0q8hGEHQ23) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [m b v](https://open.spotify.com/album/2SlSnUYW5bgtdWXVymv18a) | 6:21 | 2021-04-22 | 2022-04-14 |
+| [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 | 2025-02-14 |  |
 | [Open Air](https://open.spotify.com/track/2fTdcqOWwVKEePZ79k9rZM) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [TDJ002](https://open.spotify.com/album/2GVbh9Pr7iFbXCRV2oyU4L) | 4:11 | 2021-12-17 | 2022-04-08 |
 | [Open Up!](https://open.spotify.com/track/67h81Q3x4cZ13pZ4flgbwJ) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Soon We'll All Be Smoking](https://open.spotify.com/album/0NiTx4og5ObpzpfY13SG5W) | 4:46 | 2025-02-14 |  |
 | [Orange Hoodie](https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Orange Hoodie](https://open.spotify.com/album/7kjDSALwRw5EjnkNzTyc5t) | 2:59 | 2021-10-13 | 2022-04-10 |
@@ -611,7 +612,7 @@
 | [Slingshot](https://open.spotify.com/track/36upWeYYI9TFzhZFcLQi6L) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Slingshot](https://open.spotify.com/album/1XoD5sPT5MqxXXkTsSJ39c) | 2:32 | 2021-02-22 | 2022-04-14 |
 | [Small Foreign Faction](https://open.spotify.com/track/42ri8tCtPeHfGQJTo7zIVX) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Small Foreign Faction](https://open.spotify.com/album/0ZQupG0Qurk8jDq2fnEb7y) | 3:33 | 2021-01-15 | 2022-07-29 |
 | [Snow Leopard](https://open.spotify.com/track/3jXx5JK8qBWlKgfGVG1qub) | [Young Galaxy](https://open.spotify.com/artist/5xfJLyvC5UElVSiMuLt1ss) | [Snow Leopard](https://open.spotify.com/album/10r6HHMxLMl6w6fGNYzObb) | 6:52 | 2021-02-22 | 2022-04-16 |
-| [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-05 |  |
+| [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-05 | 2025-11-25 |
 | [Sober Up](https://open.spotify.com/track/3UnMcZ7ewqsJgCcuT7hQhu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca \(Deluxe\)](https://open.spotify.com/album/7K1rLdxIp1SappJzswQAbU) | 3:38 | 2021-08-29 | 2022-07-29 |
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2021-02-22 | 2025-09-10 |
 | [Soft](https://open.spotify.com/track/191X37k2bLxVRY1A3M5uHg) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Soft](https://open.spotify.com/album/1tW5yA596wvQW76oKhtQaO) | 3:52 | 2021-01-15 | 2022-07-25 |

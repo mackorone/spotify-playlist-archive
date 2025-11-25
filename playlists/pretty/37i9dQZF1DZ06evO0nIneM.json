@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92740,
+  "num_followers": 92762,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSD9AAAAAADqwfGC8CP//sIRBe4pSlEz",
+  "snapshot_id": "aSJOgAAAAAASzljoAjYKIVZs+TuZTuQj",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boven",
+        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 284706,
+      "name": "Zaterdag",
+      "url": "https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zo Van Ah Yeah",
         "url": "https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 212774,
       "name": "Mannenharten",
       "url": "https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boven",
-        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 284706,
-      "name": "Zaterdag",
-      "url": "https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Het Midden Van Alles",
-        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 278813,
-      "name": "Open Je Ogen",
-      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 216586,
       "name": "Beter",
       "url": "https://open.spotify.com/track/2r4z1ssYMrH8dlEyLXmpNU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Het Midden Van Alles",
+        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 278813,
+      "name": "Open Je Ogen",
+      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 365026,
       "name": "Was Je Maar Hier",
       "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,

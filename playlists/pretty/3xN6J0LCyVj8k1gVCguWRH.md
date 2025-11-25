@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,692 likes - 186 songs - 11 hr 3 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,682 likes - 187 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,15 +184,16 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 174 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 175 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 176 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 177 | [Pressure](https://open.spotify.com/track/2kXyrBlOkLpmHIAZvSbay0) | [Dayjha](https://open.spotify.com/artist/2NHEFFWlJCW69XpDrmVxaS) | [Pressure](https://open.spotify.com/album/5fCtxVsZnqnXpbEecmDKhW) | 2:57 |
-| 178 | [Company](https://open.spotify.com/track/0cSMkNfzQEeYleiCvNedj9) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 3:57 |
-| 179 | [Lonely \(Please Dont\)](https://open.spotify.com/track/6OQSJaTlrdxpivFmcW3oXJ) | [PerryAintReal](https://open.spotify.com/artist/0hqNdcZCxXPbXrG2oiouGA) | [Lonely \(Please Dont\)](https://open.spotify.com/album/6ZTMmsnQSexUOMlsacVhL1) | 2:00 |
-| 180 | [Don’t Call Me Again](https://open.spotify.com/track/0KeGFT8G74oQVN8KhNm3xC) | [Ty Lakes](https://open.spotify.com/artist/3zAomN3m44fUouJXZsLbOO) | [Don’t Call Me Again](https://open.spotify.com/album/1Zx3z9Aiz8OW5BGdPBNoYV) | 2:41 |
-| 181 | [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 |
-| 182 | [Faith \(this world\)](https://open.spotify.com/track/7gCkmOUCmSHQIS7R1giMy5) | [Dayo Time Music](https://open.spotify.com/artist/2HIGfdpSGO2vDcEW50WkgW) | [Faith \(this world\)](https://open.spotify.com/album/6VTuCacLjfuu02ZAFsVNxA) | 4:33 |
-| 183 | [It's Your Thing](https://open.spotify.com/track/2UHFRqS7rewxOuDYsIWpdj) | [The Gold Souls](https://open.spotify.com/artist/6xA6MgahVEsOPTP5JUSehs) | [It's Your Thing](https://open.spotify.com/album/1he9kEH4YW8HW60xABC8fb) | 6:11 |
-| 184 | [Fitted Dress](https://open.spotify.com/track/7JL7B426UdkdTjiR5exBjv) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Fitted Dress](https://open.spotify.com/album/15hekwYsao0XtMrTfvMYNH) | 2:49 |
-| 185 | [super8](https://open.spotify.com/track/6NzoazJ78peF36zq8hk2tg) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [super8](https://open.spotify.com/album/1eJaakdKk9fgdRYoqfBpoH) | 3:43 |
-| 186 | [Someone Like You](https://open.spotify.com/track/4sjivD3qG0JtTPFJYym2ko) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:48 |
+| 177 | [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 |
+| 178 | [Pressure](https://open.spotify.com/track/2kXyrBlOkLpmHIAZvSbay0) | [Dayjha](https://open.spotify.com/artist/2NHEFFWlJCW69XpDrmVxaS) | [Pressure](https://open.spotify.com/album/5fCtxVsZnqnXpbEecmDKhW) | 2:57 |
+| 179 | [Company](https://open.spotify.com/track/0cSMkNfzQEeYleiCvNedj9) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 3:57 |
+| 180 | [Lonely \(Please Dont\)](https://open.spotify.com/track/6OQSJaTlrdxpivFmcW3oXJ) | [PerryAintReal](https://open.spotify.com/artist/0hqNdcZCxXPbXrG2oiouGA) | [Lonely \(Please Dont\)](https://open.spotify.com/album/6ZTMmsnQSexUOMlsacVhL1) | 2:00 |
+| 181 | [Don’t Call Me Again](https://open.spotify.com/track/0KeGFT8G74oQVN8KhNm3xC) | [Ty Lakes](https://open.spotify.com/artist/3zAomN3m44fUouJXZsLbOO) | [Don’t Call Me Again](https://open.spotify.com/album/1Zx3z9Aiz8OW5BGdPBNoYV) | 2:41 |
+| 182 | [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 |
+| 183 | [Faith \(this world\)](https://open.spotify.com/track/7gCkmOUCmSHQIS7R1giMy5) | [Dayo Time Music](https://open.spotify.com/artist/2HIGfdpSGO2vDcEW50WkgW) | [Faith \(this world\)](https://open.spotify.com/album/6VTuCacLjfuu02ZAFsVNxA) | 4:33 |
+| 184 | [It's Your Thing](https://open.spotify.com/track/2UHFRqS7rewxOuDYsIWpdj) | [The Gold Souls](https://open.spotify.com/artist/6xA6MgahVEsOPTP5JUSehs) | [It's Your Thing](https://open.spotify.com/album/1he9kEH4YW8HW60xABC8fb) | 6:11 |
+| 185 | [Fitted Dress](https://open.spotify.com/track/7JL7B426UdkdTjiR5exBjv) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Fitted Dress](https://open.spotify.com/album/15hekwYsao0XtMrTfvMYNH) | 2:49 |
+| 186 | [super8](https://open.spotify.com/track/6NzoazJ78peF36zq8hk2tg) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [super8](https://open.spotify.com/album/1eJaakdKk9fgdRYoqfBpoH) | 3:43 |
+| 187 | [Someone Like You](https://open.spotify.com/track/4sjivD3qG0JtTPFJYym2ko) | [Cali Tucker](https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y) | [Cover Girl](https://open.spotify.com/album/3zsm3T9sgG8bI8xZBhv1NK) | 4:48 |
 
-Snapshot ID: `AAA1swJ15HOSocjFYXPuD2gKFlibLVD7`
+Snapshot ID: `AAA1taZKctOSeb0ZcxEtn90HvHHA7N/s`

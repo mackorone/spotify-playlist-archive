@@ -906,7 +906,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 242050,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/29BkVH95RgsaXHBnx4F4BG"
@@ -5112,6 +5112,28 @@
       "duration_ms": 197796,
       "name": "Gotta Dance",
       "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
+    },
+    {
+      "album": {
+        "name": "Gotta Get Up",
+        "url": "https://open.spotify.com/album/06xTCSwUkJ94sPSGPcXAk8"
+      },
+      "artists": [
+        {
+          "name": "miirabelle",
+          "url": "https://open.spotify.com/artist/2sZWQPBglKu7CxaZ6tJSYG"
+        },
+        {
+          "name": "Lizzie Nightingale",
+          "url": "https://open.spotify.com/artist/3spUinMukLrkAhSru3aopv"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209114,
+      "name": "Gotta Get Up",
+      "url": "https://open.spotify.com/track/5jRZWj1ZcZ7dySno7ksMQa"
     },
     {
       "album": {

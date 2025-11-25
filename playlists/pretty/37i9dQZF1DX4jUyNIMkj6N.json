@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 220390,
+  "num_followers": 220400,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,18 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Find A Home Out There",
-        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
+        "name": "Never Gonna Last",
+        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
       "artists": [
         {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        },
-        {
-          "name": "L'aupaire",
-          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+          "name": "Jesper Lindell",
+          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
         }
       ],
-      "duration_ms": 206440,
-      "name": "Find A Home Out There",
-      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
+      "duration_ms": 234000,
+      "name": "Never Gonna Last - Radio Edit",
+      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
     },
     {
       "added_at": "2025-11-13 23:00:14",
@@ -591,22 +587,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Never Gonna Last",
-        "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
-      },
-      "artists": [
-        {
-          "name": "Jesper Lindell",
-          "url": "https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Never Gonna Last - Radio Edit",
-      "url": "https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "bl\u00f3mi",
         "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 263880,
       "name": "fare thee well",
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Find A Home Out There",
+        "url": "https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp"
+      },
+      "artists": [
+        {
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
+        },
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Find A Home Out There",
+      "url": "https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9"
     },
     {
       "added_at": "2025-11-13 23:00:14",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Feels like That",
-        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
-      },
-      "artists": [
-        {
-          "name": "Victor Lundberg",
-          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
-        }
-      ],
-      "duration_ms": 216955,
-      "name": "Feels like That",
-      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "Alibi",
         "url": "https://open.spotify.com/album/1H4bbyylsgLeduoQrASeGr"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 213293,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/1aLTu59n1Wix22Wwbr1BdE"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Feels like That",
+        "url": "https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq"
+      },
+      "artists": [
+        {
+          "name": "Victor Lundberg",
+          "url": "https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh"
+        }
+      ],
+      "duration_ms": 216955,
+      "name": "Feels like That",
+      "url": "https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp"
     },
     {
       "added_at": "2025-11-13 23:00:14",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Mamma og Pappa",
-        "url": "https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke"
-      },
-      "artists": [
-        {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "Mamma og Pappa",
-      "url": "https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "Brick by Brick",
         "url": "https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 218248,
       "name": "Brick by Brick",
       "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Mamma og Pappa",
+        "url": "https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke"
+      },
+      "artists": [
+        {
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "Mamma og Pappa",
+      "url": "https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX"
     },
     {
       "added_at": "2025-11-13 23:00:14",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Summer Season",
-        "url": "https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT"
-      },
-      "artists": [
-        {
-          "name": "PS.",
-          "url": "https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48"
-        }
-      ],
-      "duration_ms": 162315,
-      "name": "Summer Season",
-      "url": "https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "v\u00e1r",
         "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 231586,
       "name": "v\u00e1r",
       "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Summer Season",
+        "url": "https://open.spotify.com/album/1W6UY4RUUYu8QJHZ4H2bGT"
+      },
+      "artists": [
+        {
+          "name": "PS.",
+          "url": "https://open.spotify.com/artist/0nHLaX2ZYKfNOtkASkDk48"
+        }
+      ],
+      "duration_ms": 162315,
+      "name": "Summer Season",
+      "url": "https://open.spotify.com/track/3TvRQLowsGNEMXMMHB30KK"
     }
   ],
   "unique_name": "Nordic Folk",

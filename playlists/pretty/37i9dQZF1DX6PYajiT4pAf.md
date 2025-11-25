@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz, Bad Gyal, Tainy & Karol G, Ozuna & Beéle & Ovy On The Drums, Juseph & Quevedo y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,252 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,250 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

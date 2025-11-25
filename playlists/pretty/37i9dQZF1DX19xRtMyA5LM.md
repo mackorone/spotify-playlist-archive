@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: sor & ADF Samski
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,561 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,525 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 17 | [Nieuwe Fan](https://open.spotify.com/track/5P2XOpnx1pC0HMb7RySrZZ) | [Flashy](https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd) | [Nieuwe Fan](https://open.spotify.com/album/05GCoudmkKZQviF4rpN3eu) | 2:30 |
 | 18 | [Rondjes](https://open.spotify.com/track/4nJDZctVlsqaQhtCTPZFj2) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Langa](https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs) | [Vrijspel](https://open.spotify.com/album/52cIFs3jvyBOzVuun6nu0r) | 3:03 |
 | 19 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 |
-| 20 | [Hard Voor Weinig](https://open.spotify.com/track/6H07mOMUmUpAqx97rYGUQ9) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Hard Voor Weinig](https://open.spotify.com/album/1MTe3rjsGCcFGD6IuGT6DP) | 2:52 |
+| 20 | [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 |
 | 21 | [Uitweg](https://open.spotify.com/track/0nPkBSykonv44kxTCmeyBE) | [Fatah](https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Uitweg](https://open.spotify.com/album/7gflzTSofjemi0bQrffkpe) | 3:17 |
 | 22 | [10:30](https://open.spotify.com/track/5GRP3fOiczysJeKsREk3NE) | [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB) | [P8](https://open.spotify.com/album/2RV9Urjp8Tz20Czx213aLQ) | 3:06 |
 | 23 | [Soldaat](https://open.spotify.com/track/51P7S9XSy8m9zW7v8lzxeB) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [OMG YES](https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc) | 1:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Fine Sh\*t](https://open.spotify.com/track/4qqrA3hWrSdeHcxoPkF2bM) | [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [Fine Sh\*t](https://open.spotify.com/album/5WMy7wGdcs1fAFshjJg5MJ) | 2:13 |
 | 60 | [Netvlies](https://open.spotify.com/track/6yaxq1G2zh6WAKofZVZSjC) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Romano Santino](https://open.spotify.com/artist/1FqLsYuVoYhNIhUj1gQmzU) | [Netvlies](https://open.spotify.com/album/1N08jfMlRLXRijddi54kkQ) | 2:20 |
 
-Snapshot ID: `AAAAAKENtu5MuI+GAJHPHya12yHydoDc`
+Snapshot ID: `AAAAABRG0VfS1QSvZlIyXyWPp6kxUVoY`

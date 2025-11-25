@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-128 songs - 7 hr 30 min
+129 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Picture](https://open.spotify.com/track/3ZgFdfKBrD643K2BrKNsEH) | [Alla Igityan](https://open.spotify.com/artist/3LPpadMH7fmELWrIbagKon) | [Picture](https://open.spotify.com/album/4i6l5QvEXRRaof4SQFfWmH) | 3:20 | 2024-09-09 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-08-27 |  |
 | [Rainbow Eyes](https://open.spotify.com/track/0MfSlR26pT9XLhfOCopd6Q) | [WUHA](https://open.spotify.com/artist/2Xa5A0dIwmZt8OBZrTv4qQ) | [Rainbow Eyes](https://open.spotify.com/album/0CkBTvg99uxGiUUSiNbb2h) | 3:42 | 2025-11-11 |  |
+| [Rapapa Papam](https://open.spotify.com/track/31eiGVDcWVncSpj5cAkpFF) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [Rapapa Papam](https://open.spotify.com/album/2rdM5JfJHkeGI6rNHr17ah) | 2:36 | 2025-11-24 |  |
 | [Reach](https://open.spotify.com/track/2qejaiHMMcfwiFl4jLuHnG) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Reach](https://open.spotify.com/album/1h0HCwONvT8BZVA8LSg0YD) | 3:15 | 2025-09-26 |  |
 | [Reset Your Timer](https://open.spotify.com/track/71KLcewl8GMQ4ujK4edqAR) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 3:00 | 2025-09-10 |  |
 | [Rule Breakers](https://open.spotify.com/track/6sdx6g2pj2YDMvqQBD3wu4) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Rule Breakers](https://open.spotify.com/album/5S6EUNPDwuZPWOttwz3ZAa) | 3:12 | 2025-09-11 |  |

@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 164318,
       "name": "Drivery",
       "url": "https://open.spotify.com/track/6DVVw7tUxuwHVaVDlLm6it"
@@ -5922,6 +5922,32 @@
     {
       "album": {
         "name": "Piche Piche",
+        "url": "https://open.spotify.com/album/5xj8RCGj7NFX9XQF86xOgJ"
+      },
+      "artists": [
+        {
+          "name": "Navjot Fazalwal",
+          "url": "https://open.spotify.com/artist/1ZC6m7LFMaxVQiM4bqDqCz"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Piche Piche",
+      "url": "https://open.spotify.com/track/5e17tlBjvlBr0GgwXyRAt1"
+    },
+    {
+      "album": {
+        "name": "Piche Piche",
         "url": "https://open.spotify.com/album/4TjdiH6nrVL6mwDgRKOqDL"
       },
       "artists": [
@@ -6760,7 +6786,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 223714,
       "name": "Sheesha",
       "url": "https://open.spotify.com/track/2roVLd05JaRNaiHdAu2oEJ"
@@ -6786,7 +6812,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 223714,
       "name": "Sheesha",
       "url": "https://open.spotify.com/track/1Hlq6E1yOXW2PeWLjed8I3"

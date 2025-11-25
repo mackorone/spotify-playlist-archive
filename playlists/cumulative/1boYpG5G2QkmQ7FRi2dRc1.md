@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,740 songs - 6 day 23 hr 2 min
+2,742 songs - 6 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Compute](https://open.spotify.com/track/7LNsgTO7ipNPLE10Nn7iR7) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Spiritual Milk](https://open.spotify.com/album/4sonMTh4GV9Y1rvJTfdZ8R) | 4:23 | 2023-09-22 | 2023-09-30 |
 | [Confessions](https://open.spotify.com/track/1Ahh7ic1GWQtq5fCT1vZYg) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [Confessions](https://open.spotify.com/album/0lOJdHHS6BlHzLQWob7Zi7) | 3:40 | 2023-07-07 | 2023-07-29 |
 | [Cons](https://open.spotify.com/track/1PbfBMKjXUqrZ1E0VU8s9T) | [Øwalŷ](https://open.spotify.com/artist/2MEVdBoYOnvXuwgtfnR3Y6) | [Cons](https://open.spotify.com/album/5bTw1ViNQumPj7r2N1uzvL) | 5:17 | 2023-09-29 | 2023-10-16 |
+| [Contact](https://open.spotify.com/track/2qVW51nWizKc6g2zhx6r4Z) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Agdem](https://open.spotify.com/artist/1yByhgzjq6NmlE6rFoFBjo) | [Contact](https://open.spotify.com/album/1SggTgSfmP02dOvArVJjYR) | 3:00 | 2025-11-24 |  |
 | [Contrast](https://open.spotify.com/track/1qy67HaS9LW75RmoW4nWET) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Contrast](https://open.spotify.com/album/3VDATZeDfj3U1WOoj52aEY) | 3:39 | 2022-11-12 | 2022-11-19 |
 | [Contrast](https://open.spotify.com/track/4tY0tIL8pNmAFKbIzF6WaL) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Contrast](https://open.spotify.com/album/0vgmXRQkl4dAdxeBanWfQG) | 5:57 | 2023-12-29 | 2024-01-22 |
 | [Control](https://open.spotify.com/track/20bxwqf1CQbZxKmq50q8gn) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:51 | 2023-08-12 | 2023-08-27 |
@@ -1338,6 +1339,7 @@
 | [Lately \- Vintage Culture Remix](https://open.spotify.com/track/3GGSTIZzyCAhTDL96G0RD1) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Inhale / Exhale Remixed, Vol\. 2](https://open.spotify.com/album/1AonxwXjN8rALKh1tfLgg6) | 3:46 | 2025-06-08 | 2025-06-22 |
 | [Laundry](https://open.spotify.com/track/6FFPDNr7TgYXwbfaZhTT7S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Laundry](https://open.spotify.com/album/0czQj2RNlKpEB949Uz7nFU) | 4:48 | 2025-07-19 | 2025-07-26 |
 | [Lazarus Rise](https://open.spotify.com/track/0wpo6zv1KYJDJlF4bnq47m) | [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2), [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Lazarus Rise](https://open.spotify.com/album/4klAO40K3tdFr5F2dwM4mw) | 3:12 | 2025-04-11 | 2025-04-27 |
+| [Lazers \(I Can't Stop Dancing\)](https://open.spotify.com/track/0HLYBXEIFTkQIidzlc8WWy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Lazers \(I Can't Stop Dancing\)](https://open.spotify.com/album/1fxstnAo7RMGP1P09EEzCO) | 3:04 | 2025-11-24 |  |
 | [Le Bon Vieux Temps \- Mosimann Remix](https://open.spotify.com/track/3ipPAyBROoMCeBYxCZ61U1) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK) | [Introspection \(Remixes\)](https://open.spotify.com/album/2u680EuTLOLYxNnEUet4lu) | 3:09 | 2023-07-15 | 2023-07-29 |
 | [Le Homard](https://open.spotify.com/track/2Boeues1XCSIgIXOwz4xA0) | [Leonardo Das Cabrio](https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI), [BOKI](https://open.spotify.com/artist/2xNNVFPSpFiz5ghriXRMjh), [FARA 46](https://open.spotify.com/artist/3sSWn6UMBwLcA3BqTylDno) | [Le Homard](https://open.spotify.com/album/0KlmlpGTnUyzLBjcv7RGaT) | 3:51 | 2023-01-13 | 2023-01-22 |
 | [Le Voie Le Soleil \- Solardo Remix](https://open.spotify.com/track/4n2CXGUdJNC3nsphJbH4tq) | [Patrick Prins](https://open.spotify.com/artist/6IaquY5i703QOVd31pHN2l), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Le Voie Le Soleil \(Solardo Remix\)](https://open.spotify.com/album/5TNvkh1V9WNhWar62vLgvX) | 3:13 | 2023-09-29 | 2023-10-16 |

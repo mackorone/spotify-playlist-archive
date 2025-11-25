@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191744,
+  "num_followers": 191738,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
+        "name": "a woman to you",
+        "url": "https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki"
+      },
+      "artists": [
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
+        }
+      ],
+      "duration_ms": 196171,
+      "name": "a woman to you",
+      "url": "https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
-        "name": "a woman to you",
-        "url": "https://open.spotify.com/album/7yrahMJM7x5Z4Csq4I5zki"
-      },
-      "artists": [
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8"
-        }
-      ],
-      "duration_ms": 196171,
-      "name": "a woman to you",
-      "url": "https://open.spotify.com/track/1EQ2AsGuHvXWSTerAljI8I"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "The Sun Will Rise",
-        "url": "https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "The Sun Will Rise",
-      "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
         "name": "Bird Song (Acoustic)",
         "url": "https://open.spotify.com/album/47UIzMPuChT62FODlRH5sF"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
+        "name": "The Sun Will Rise",
+        "url": "https://open.spotify.com/album/3QC6ggv8vSOBWdIwkLU7BQ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "The Sun Will Rise",
+      "url": "https://open.spotify.com/track/2zEh9FgszAX9ms1rdOeDX0"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
         "name": "Shadowplay",
         "url": "https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq"
       },
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+        "name": "Biotope",
+        "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
       },
       "artists": [
         {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
         }
       ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
+      "duration_ms": 168000,
+      "name": "Biotope",
+      "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -431,18 +431,18 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Biotope",
-        "url": "https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd"
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
       },
       "artists": [
         {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Biotope",
-      "url": "https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL"
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Bright Belief",
-        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Bright Belief",
-      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
         "name": "Cold Comfort",
         "url": "https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 164970,
       "name": "Cold Comfort",
       "url": "https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
+        "name": "Bright Belief",
+        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g"
+      },
+      "artists": [
+        {
+          "name": "GOODWIN",
+          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
         "name": "I Don\u00b4t Feel",
         "url": "https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 172920,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
-        "name": "Whiskey",
-        "url": "https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g"
-      },
-      "artists": [
-        {
-          "name": "GOODWIN",
-          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Bleeding Colours",
-        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
-      },
-      "artists": [
-        {
-          "name": "Benni",
-          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
-        }
-      ],
-      "duration_ms": 220543,
-      "name": "You",
-      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
         "name": "Sunflower Sunset",
         "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
@@ -951,18 +935,34 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Time Drifts",
-        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
+        "name": "Bleeding Colours",
+        "url": "https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6"
       },
       "artists": [
         {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+          "name": "Benni",
+          "url": "https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq"
         }
       ],
-      "duration_ms": 237635,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+      "duration_ms": 220543,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -983,18 +983,18 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+        "name": "Time Drifts",
+        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
       "artists": [
         {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
         }
       ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
+      "duration_ms": 237635,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Sincerely, Sevens",
-        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 250306,
-      "name": "Exit Wounds",
-      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
         "name": "An Hour Per Day",
         "url": "https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 217646,
       "name": "An Hour Per Day",
       "url": "https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
+        "name": "Sincerely, Sevens",
+        "url": "https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "Exit Wounds",
+      "url": "https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Moonlit Parade",
-        "url": "https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat"
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
       },
       "artists": [
         {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+          "name": "Loki Project",
+          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
         }
       ],
-      "duration_ms": 185680,
-      "name": "Moonlit Parade",
-      "url": "https://open.spotify.com/track/1NL10e7NLz2eODtCieADly"
+      "duration_ms": 266466,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU"
+        "name": "Moonlit Parade",
+        "url": "https://open.spotify.com/album/7AHqrOj1zf75jkMjkjqWat"
       },
       "artists": [
         {
-          "name": "Loki Project",
-          "url": "https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs"
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6"
+      "duration_ms": 185680,
+      "name": "Moonlit Parade",
+      "url": "https://open.spotify.com/track/1NL10e7NLz2eODtCieADly"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
-      },
-      "artists": [
-        {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
-        }
-      ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
-    },
-    {
-      "added_at": "2025-11-21 11:44:25",
-      "album": {
         "name": "Where's The Fun In That?",
         "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2025-11-21 11:44:25",
       "album": {
-        "name": "In My Head Today",
-        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
       },
       "artists": [
         {
-          "name": "Send Me Flowers",
-          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
         }
       ],
-      "duration_ms": 148000,
-      "name": "In My Head Today",
-      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2025-11-21 11:44:25",
@@ -1259,6 +1243,22 @@
       "duration_ms": 127440,
       "name": "my moon",
       "url": "https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh"
+    },
+    {
+      "added_at": "2025-11-21 11:44:25",
+      "album": {
+        "name": "In My Head Today",
+        "url": "https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL"
+      },
+      "artists": [
+        {
+          "name": "Send Me Flowers",
+          "url": "https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head Today",
+      "url": "https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL"
     },
     {
       "added_at": "2025-11-21 11:44:25",

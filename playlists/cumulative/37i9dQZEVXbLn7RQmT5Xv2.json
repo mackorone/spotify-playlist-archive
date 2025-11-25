@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 323448,
       "name": "Ana Mosammem",
       "url": "https://open.spotify.com/track/0yDB9QPreJjeDynwlwZ4m2"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 195368,
       "name": "Baba",
       "url": "https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K"
@@ -6692,14 +6692,14 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 206510,
       "name": "I DON'T KNOW",
       "url": "https://open.spotify.com/track/22OA5tPd4pOkrSKai17UQm"
     },
     {
       "album": {
-        "name": "I don't know",
+        "name": "I DON'T KNOW",
         "url": "https://open.spotify.com/album/3g1XbGUEoWnl4HwFdm8gCp"
       },
       "artists": [
@@ -6714,9 +6714,9 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 206511,
-      "name": "I don't know",
+      "name": "I DON'T KNOW",
       "url": "https://open.spotify.com/track/74Egg2GYoPxwPojQnJqhzW"
     },
     {
@@ -7322,7 +7322,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 282430,
       "name": "Kan Mawdo3",
       "url": "https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC"
@@ -8202,6 +8202,28 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
+    },
+    {
+      "album": {
+        "name": "LEH",
+        "url": "https://open.spotify.com/album/0aywGK6kFqvMU2SnkylR4p"
+      },
+      "artists": [
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/2ZizUpffI2ErDfcsqrRGoG"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160004,
+      "name": "LEH",
+      "url": "https://open.spotify.com/track/3S2UO7Oy97Zibylp8rMQuR"
     },
     {
       "album": {
@@ -16194,7 +16216,7 @@
       ],
       "date_added": "2022-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 206112,
       "name": "\u0627\u0644\u0628\u062e\u062a",
       "url": "https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ"
@@ -16778,7 +16800,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 244427,
       "name": "\u0627\u0646\u0627 \u0644\u0628\u0633\u064a \u0627\u0648\u0641\u0631 \u0633\u0627\u064a\u0632",
       "url": "https://open.spotify.com/track/05z8Dj4bvVvFPgFzO09zb0"
@@ -16818,7 +16840,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 277159,
       "name": "\u0627\u0646\u0627 \u0645\u0634 \u062f\u064a\u0644\u0627\u0631 \u064a\u0627 \u062d\u0643\u0648\u0645\u0647",
       "url": "https://open.spotify.com/track/6Ei2nL7KdzySKg6LbdY5Up"
@@ -16960,6 +16982,28 @@
       "duration_ms": 180047,
       "name": "\u0627\u0646\u062a \u0632\u0645\u064a\u0644\u064a - \u0645\u0627\u0631\u0643\u0629 \u062f\u0648\u0644\u064a",
       "url": "https://open.spotify.com/track/79gXDIwQcUhER3uGr4tpMJ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u062a \u0641\u0627\u0631\u062f\u0644\u064a \u0636\u0644\u0648\u0639\u0643 (\u0634\u0628\u0634\u0628 \u0645\u0633\u062a\u0647\u0644\u0633\u0643)",
+        "url": "https://open.spotify.com/album/0tY2hAHFCjge9LVVa8I1KE"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
+          "url": "https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc"
+        },
+        {
+          "name": "Karim Cristiano",
+          "url": "https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237875,
+      "name": "\u0627\u0646\u062a \u0641\u0627\u0631\u062f\u0644\u064a \u0636\u0644\u0648\u0639\u0643 - \u0634\u0628\u0634\u0628 \u0645\u0633\u062a\u0647\u0644\u0633\u0643",
+      "url": "https://open.spotify.com/track/1HcSydOG8O4AmfLLXHx06c"
     },
     {
       "album": {
@@ -17488,7 +17532,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 276757,
       "name": "\u0628\u0644\u0627\u0634 \u062a\u0637\u064a\u0631 \u0639 \u0627\u0644\u0627\u0628\u0644\u0643\u064a\u0634\u0646",
       "url": "https://open.spotify.com/track/29xLo692ljYqLARRzNoJWM"
@@ -19004,7 +19048,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 133823,
       "name": "\u0635\u062d\u0628\u064a \u064a\u0627 \u0635\u062d\u0628\u064a",
       "url": "https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL"

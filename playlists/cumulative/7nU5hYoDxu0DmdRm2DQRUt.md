@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-368 songs - 1 day 11 hr 56 min
+372 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Breathe Underwater \- Robert Hood Remix](https://open.spotify.com/track/6eVEjjTPmvZ0SkcitDD4jn) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV), [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [REMIX02](https://open.spotify.com/album/7GqthxZFfx8vnq28KKRw1p) | 6:47 | 2025-09-29 |  |
 | [Brocken Clock](https://open.spotify.com/track/5WhpodLWwPQ5bQyDcqQm99) | [Arkan](https://open.spotify.com/artist/2bJ08i0BSIRp1OwgEL8e66) | [Lightworker, Pt\. 2](https://open.spotify.com/album/1aLdkQ9gQQs9PWicx8ITwu) | 5:22 | 2024-10-07 | 2025-09-06 |
 | [Bug In A Bassbin](https://open.spotify.com/track/56pcRayzD5RmPJvfBcmlBG) | [Innerzone Orchestra](https://open.spotify.com/artist/3WPdaViSMm79jQvFyVzNO2) | [Desire: The Carl Craig Story](https://open.spotify.com/album/6RtLpopFitxjRgeqfy0Xn0) | 10:23 | 2025-07-18 |  |
+| [Burnt Moon](https://open.spotify.com/track/7xzuOAklVpz2yc3SY9aofw) | [Courtney Bailey](https://open.spotify.com/artist/3lkGl12NbdeNBcsjo7coDQ) | [In Dream](https://open.spotify.com/album/25GRcDA8WBHjuIWTyfeEm0) | 3:42 | 2025-11-24 |  |
 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 | 2025-03-10 |  |
 | [Call Coco](https://open.spotify.com/track/4A6K9m89CCo5ypCdj3HzHI) | [9OASES](https://open.spotify.com/artist/25FaXN9B5WzG0YFQuUqELp) | [Call Coco](https://open.spotify.com/album/58IuU6xLisIrrajmY8EN4i) | 3:19 | 2025-08-02 |  |
 | [Call It \- Turbotito Remix](https://open.spotify.com/track/03CC1U9ugT5di4XVaVHVV2) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD), [Turbotito](https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5) | [The Sunset Manifesto Volume 2](https://open.spotify.com/album/5Qb3xMwzqRADtbOcUye06X) | 5:10 | 2025-07-04 |  |
@@ -186,6 +187,7 @@
 | [Late Night Swim \- Lee Curtiss Remix](https://open.spotify.com/track/5ohFv6omyXWolDkGLRt6g6) | [Wareika](https://open.spotify.com/artist/5QVs44HFX0u3AXqN1EoePc), [dOP](https://open.spotify.com/artist/1HX7ovHKJG8M8cUoSvH6UB), [Lee Curtiss](https://open.spotify.com/artist/5qCdmZXBkJc15PLLbFadVV) | [Late Night Swim \(Lee Curtiss Remix\)](https://open.spotify.com/album/5cbgnoRGsWae3fdD54QfmX) | 6:05 | 2025-09-16 |  |
 | [Let Me Go](https://open.spotify.com/track/1iR7G1waLbAbrSJGqpat7p) | [Hardt Antoine](https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA) | [Let Me Go](https://open.spotify.com/album/0heBIoDokQicX1Rut9vBDz) | 3:44 | 2025-09-16 |  |
 | [Lexica](https://open.spotify.com/track/2OKNDTOmOKPk26scmJP6p3) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Lexica](https://open.spotify.com/album/1KG5lDy1AdnSWWwFNKx1Lr) | 6:15 | 2025-01-02 | 2025-11-11 |
+| [Lifeworld](https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Tranquilizer](https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau) | 3:47 | 2025-11-24 |  |
 | [Livin' Upside Down](https://open.spotify.com/track/1D5tefft8tMcJNchcCjqMd) | [D.D\. Mirage](https://open.spotify.com/artist/4jHyeXxx20HIE8tj2ELqD8) | [Exotic Illusions](https://open.spotify.com/album/73KIKqLBesF2g8DgVpHA7F) | 3:23 | 2025-03-21 |  |
 | [Losing My Head \- Superpitcher Dub](https://open.spotify.com/track/2SezCvw55OO74LgAEVcLlg) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5) | [Early Doors compiled by Andrew Thomson](https://open.spotify.com/album/71e6SZfMUuswCfvsylO2KM) | 9:51 | 2024-11-25 | 2025-11-11 |
 | [Losing Track](https://open.spotify.com/track/2akI6Rq3iVeb4CubrwYxv3) | [The Mole](https://open.spotify.com/artist/3GD3K1YZRnJcqqJ4ZEq9LW) | [High Dreams](https://open.spotify.com/album/26LvXOu1dKCi3y01fprxd2) | 5:24 | 2024-10-26 | 2025-09-06 |
@@ -244,6 +246,7 @@
 | [Pastoral Blend](https://open.spotify.com/track/63oPptuC03xg5oTNXemb9r) | [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t), [Magnus Bang Olsen](https://open.spotify.com/artist/1Q3SVJX8CjdAU14in5l0YH) | [Pastoral Blend](https://open.spotify.com/album/3w0Pq8K2dLV199ACDcsX81) | 3:36 | 2025-07-04 |  |
 | [Patch 2](https://open.spotify.com/track/7MmbZIwm9yLCh2nTerZmaJ) | [Andy Ash](https://open.spotify.com/artist/1fZXR3qMqZ7trS0735fcQi) | [Silent Planet Ep](https://open.spotify.com/album/1ofXmzQQtT3uRt95c4Ul1c) | 6:37 | 2025-11-10 |  |
 | [Penguin](https://open.spotify.com/track/6pod4rlviigcEYlRAyAIFt) | [Sutter & Wangen](https://open.spotify.com/artist/7qeIj2jFhKvqaytVYAMH6m) | [Penguin](https://open.spotify.com/album/7Ents6OUkpEhNFjyW0JmOW) | 4:10 | 2025-09-16 |  |
+| [Penguin](https://open.spotify.com/track/4SxXU8J2uoeX9p8faZA7Z1) | [Sutter & Wangen](https://open.spotify.com/artist/7qeIj2jFhKvqaytVYAMH6m) | [Do You Believe In Spring?](https://open.spotify.com/album/79to0SOTvf3Rb92WgVOoiQ) | 4:10 | 2025-11-24 |  |
 | [People](https://open.spotify.com/track/2qzxzsOxAIAnyNME0XWapy) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [We Are Together](https://open.spotify.com/album/578nh8ZsyB7z51xv3Gkfr2) | 7:18 | 2025-08-21 |  |
 | [Permanent \(Robag Wruhme Ruinalta Forli Remix\)](https://open.spotify.com/track/6SMjnUmiVXscXUxiZSgd1X) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Gespona](https://open.spotify.com/artist/59ewWwEHhZ0yq7SKXxUj0d), [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Permanent EP](https://open.spotify.com/album/3WmPAlw6JPnxuCqWokSrDo) | 7:18 | 2025-04-11 |  |
 | [Phoneglow](https://open.spotify.com/track/5EZcvtoZohyR3RdxgW85j9) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Phoneglow / Eyes Go Blank](https://open.spotify.com/album/64icg3faDn1lGsYpinu6eg) | 9:10 | 2025-02-10 |  |
@@ -282,6 +285,7 @@
 | [Set Me Free](https://open.spotify.com/track/0cTGBktDEddqng7yqcH9lI) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Dream Horizons](https://open.spotify.com/album/3oNmsJKFQhNvD4TqNLzkxZ) | 4:59 | 2025-06-24 |  |
 | [Seta, Seta](https://open.spotify.com/track/56HR8vJR8pQ6zxO4SByYTX) | [Ara Kekedjian](https://open.spotify.com/artist/2BjNI4onSTZ8hW1nDAl2mR) | [Seta, Seta](https://open.spotify.com/album/3n3ly6sFh3gd3FdiHqBfnU) | 2:57 | 2025-11-10 |  |
 | [Sexy Clown](https://open.spotify.com/track/0Z4AYKJNORkb45csie7iJo) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [City Of Clowns](https://open.spotify.com/album/7mDC5vVphFdUarxs1yeUou) | 4:54 | 2025-03-10 |  |
+| [Shockwave](https://open.spotify.com/track/1hMzIiFPqTWfWiJRHd5Mjx) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [My Supernova](https://open.spotify.com/album/3IftXbAVrGtxxvAZ0jGfc5) | 5:37 | 2025-11-24 |  |
 | [Signal to Noise](https://open.spotify.com/track/2Ceqh11ZEaxh092hTd8SJl) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Poly](https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh) | 4:39 | 2025-11-10 |  |
 | [Silver Lines](https://open.spotify.com/track/6a5FfH2xzvdvibpGirhBZy) | [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Twofold \- Ignite](https://open.spotify.com/album/4arZVCVahLUKqWNe2hynOx) | 7:08 | 2025-08-02 |  |
 | [Sinus Amoris](https://open.spotify.com/track/6RlndgUp0Yd5cptLk1lz4O) | [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D), [Freestyle Man](https://open.spotify.com/artist/0J16SQxQ3aevs1yt0LUwv5) | [Sinus Amoris \(Songs from the Bay of Love\)](https://open.spotify.com/album/0pipTnBHvhpExb53m2yPal) | 6:18 | 2025-03-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Pierre Lapointe
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,778 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,773 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 23 | [Neiges \- Remasterisé 2025](https://open.spotify.com/track/35s4bGiNTmxOcGwE9Hig1m) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Neiges \(Remasterisé 2025\)](https://open.spotify.com/album/12veMAOLkjETeLYIziClbr) | 10:00 |
 | 24 | [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau \(promis\)](https://open.spotify.com/album/3xpX4ziPYvlQnFDHKP26wW) | 3:49 |
 | 25 | [Les marées](https://open.spotify.com/track/0qqSadjTXmWlIPINefIjTf) | [Tristan Guay](https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU) | [Les marées](https://open.spotify.com/album/0NEWJ7M79fadRXP68JMK4R) | 3:09 |
-| 26 | [Marianne](https://open.spotify.com/track/135LS8xEi44BRgFd3s2q0d) | [Inouï](https://open.spotify.com/artist/29jLC4V20sCILXE08QRt6J), [Juan Talo Naranjo](https://open.spotify.com/artist/0qH4vtqrYodwlDPEsJFJKO), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Marianne](https://open.spotify.com/album/0w03KZCdFehsQhyigladRz) | 2:51 |
+| 26 | [Marianne](https://open.spotify.com/track/135LS8xEi44BRgFd3s2q0d) | [Inouï](https://open.spotify.com/artist/29jLC4V20sCILXE08QRt6J), [Juan Talo](https://open.spotify.com/artist/5s7hZQbzFphyMHVx0XuXzu), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Marianne](https://open.spotify.com/album/0w03KZCdFehsQhyigladRz) | 2:51 |
 | 27 | [Pousse\-moi pas](https://open.spotify.com/track/1mOkfJmBM5OPLMD2lxw4i6) | [Sam Faye et D\-Track](https://open.spotify.com/artist/4Es6uk5abiwYEh3sPJXh2P) | [Airs de famille](https://open.spotify.com/album/6Wh3F7WPl1qd8bSIuzkgru) | 2:28 |
 | 28 | [Sudation](https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Sudation](https://open.spotify.com/album/1IwxMJRiYNAxmppVqSuVhq) | 3:54 |
 | 29 | [le monde est une femme](https://open.spotify.com/track/6aXtLxcclrmVQwGW58RfK2) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [le monde est une femme](https://open.spotify.com/album/5OQy1FSMBACFkzNns4eDAc) | 3:19 |

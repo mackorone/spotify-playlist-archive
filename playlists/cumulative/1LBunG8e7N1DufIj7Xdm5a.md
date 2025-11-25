@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,592 songs - 7 day 21 hr 56 min
+3,600 songs - 7 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [2 Mondi](https://open.spotify.com/track/6PxuHRxJozA3e8aQPCRh2f) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:16 | 2025-10-23 |  |
 | [2 Picky](https://open.spotify.com/track/6d0doCDApofpA7ZjeLQjzZ) | [Foolish Ty](https://open.spotify.com/artist/61VaOK9lViIQilboP9JEPw) | [Planet Foolie](https://open.spotify.com/album/4lNgbpyvrKkuJIRPRfLrSV) | 2:00 | 2025-03-03 |  |
 | [2 Sides](https://open.spotify.com/track/0xBhNgojs7vbreYwTasT6n) | [SAINT PARIS BABY](https://open.spotify.com/artist/7E26m6GE0DFcwrJLEIjBYA) | [Resurgence: RE\-CUT](https://open.spotify.com/album/3Rket4UWmba64M4W6tZjaf) | 2:03 | 2025-06-23 |  |
+| [23](https://open.spotify.com/track/6HVmyrZU9D3Sfapna1zjnw) | [Whelve Records](https://open.spotify.com/artist/44D4tFTIsjJ0jB9MLI6Lef) | [WASTE OF EMOTIONS](https://open.spotify.com/album/3jPWHVQzNGodCfEcecWm6v) | 3:39 | 2025-11-24 |  |
 | [27 volte](https://open.spotify.com/track/5H9HXGRtfPD1NjErTVZSHP) | [Iride](https://open.spotify.com/artist/1LErffHDNYotcwZRT4KnJf) | [27 VOLTE](https://open.spotify.com/album/09kQvBfJPjd6qBCLBGUyM7) | 2:47 | 2025-06-12 |  |
 | [2FUp](https://open.spotify.com/track/76nvjG0mZrsTrm2bTl9Xux) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [RealWar](https://open.spotify.com/album/5zDHDYDcxcOxVoT7Tv7KGM) | 1:43 | 2025-06-23 |  |
 | [3 Gocce \(Solo un attimo\)](https://open.spotify.com/track/6s4KF5u6wfnRRWdBOeBqyO) | [Iside](https://open.spotify.com/artist/7M52ZML6b1vagpxPL87Ny3) | [3 Gocce \(Solo un attimo\)](https://open.spotify.com/album/6uIYuXIQK0clWBNZhCAabz) | 2:26 | 2025-06-05 |  |
@@ -1064,6 +1065,7 @@
 | [Emo Pop Confessions](https://open.spotify.com/track/6dsJJ7pVay4ZyOO1S8r11W) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:33 | 2025-09-19 |  |
 | [Emperador](https://open.spotify.com/track/5XDp69nJwmGA8O8A2GdY1v) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 4:42 | 2025-06-21 |  |
 | [Empty Step](https://open.spotify.com/track/3bhNbnqorYLz46pgkvVC6g) | [Menervah](https://open.spotify.com/artist/2aiGy5FSWy22PUb03v0qSU) | [Empty Step](https://open.spotify.com/album/0CV20x7R944LLw4vaamRBk) | 5:10 | 2025-06-06 |  |
+| [En Avalo](https://open.spotify.com/track/46YZxqLIFVLGBwCAIFxYCH) | [Sk Sundar](https://open.spotify.com/artist/0dKNHryupKTMDgl1IkFU6r) | [En Avalo](https://open.spotify.com/album/7oSCKIal2A5xlqUrAdV0Y8) | 2:45 | 2025-11-24 |  |
 | [En vela](https://open.spotify.com/track/3anwKbIrj7couM3SHp6W0n) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x) | [En vela](https://open.spotify.com/album/2iUx4IjAbAMli166fHVTpX) | 3:13 | 2025-06-18 |  |
 | [End Of The Year](https://open.spotify.com/track/3pUeuIyIGE3iSpE40NWCx5) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [End Of The Year](https://open.spotify.com/album/5TwdiNWaYiWaBf48k4ixzb) | 3:31 | 2025-07-16 |  |
 | [End of Time](https://open.spotify.com/track/7pBi9yUVL3tX5DPpSluxDw) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [End of Time](https://open.spotify.com/album/05WA58HzK1Odt8Dbavy1VO) | 2:59 | 2025-07-26 |  |
@@ -1552,6 +1554,7 @@
 | [Ilicito en Vivo](https://open.spotify.com/track/17tdA7ZaouZRw8MQJvuvo0) | [Insomnica](https://open.spotify.com/artist/1WGqXSVmEIk0KwwobbUUiV) | [Ilicito en Vivo](https://open.spotify.com/album/0f6DJ5RxuwTJFjP8LX2IJH) | 3:41 | 2025-05-06 |  |
 | [Im In A Band](https://open.spotify.com/track/5leMvTjjnozbyBwW9w5HuH) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [A Modern Job EP](https://open.spotify.com/album/0IZwGu5IVwpP4b6aCDs3zp) | 2:44 | 2025-11-05 |  |
 | [Immaginario collettivo](https://open.spotify.com/track/3rPrcSjquW35M5GitdlBfq) | [LATLETA](https://open.spotify.com/artist/2dupSU3huHKivDrB6cDYW9) | [Immaginario collettivo](https://open.spotify.com/album/02MkZovUKsjublZQa91pRF) | 2:31 | 2025-07-16 |  |
+| [Immer noch](https://open.spotify.com/track/5HASv6LBGiopE4qiROoxTX) | [PATU](https://open.spotify.com/artist/3QnO7k2Q58OIi8j71YbW8O) | [Immer noch](https://open.spotify.com/album/1phwUCGAbTwMjq2j2ZTIli) | 3:38 | 2025-11-24 |  |
 | [Impact \(with xaviersobased\)](https://open.spotify.com/track/2xTk9wtJ6mWf7YV6ppmdCK) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Impact \(with xaviersobased\)](https://open.spotify.com/album/6arkOvLfIMLsXr5dEE1Idr) | 1:55 | 2025-07-28 |  |
 | [Impeto del Fuoco](https://open.spotify.com/track/3U0qq2T4MQ8wvwxAnqAfUD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:08 | 2025-09-18 |  |
 | [Impeto del Fuoco \(another\)](https://open.spotify.com/track/4AvbO9QCvznQ4SrqdfQdow) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:17 | 2025-09-18 |  |
@@ -1908,6 +1911,7 @@
 | [MASERATI](https://open.spotify.com/track/060SKHQxkIbbsWf68z5fAL) | [JO3ZY](https://open.spotify.com/artist/5pdOkU7g3RF9dE7NrEYmxW) | [Repercussions](https://open.spotify.com/album/39sGJGeS4yADQ5fQ96tm1g) | 2:17 | 2025-06-23 |  |
 | [Masks and Dangerous Dreams](https://open.spotify.com/track/561eujaknRkSoqgY0wm3hE) | [V.E.N!](https://open.spotify.com/artist/3sO9u4dOUWYj61kcOTBExd) | [Mystical Songs for Cold Winters](https://open.spotify.com/album/6l3jVkcFNYOOif4UikO0ow) | 4:56 | 2025-06-03 |  |
 | [Masquerade](https://open.spotify.com/track/4UOmzam7Hu6HlHbHrIx5Hg) | [TJ Kidwell](https://open.spotify.com/artist/2NsemkSjtAPqgf57Vl1tpO) | [Masquerade of Me](https://open.spotify.com/album/0vLk7TOQ6eCUQeukDt44Vv) | 3:41 | 2025-11-08 |  |
+| [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-11-24 |  |
 | [Math Is Money](https://open.spotify.com/track/4zzEIBANP1pCQQSl1yxchH) | [Lifter Puller](https://open.spotify.com/artist/5ln57CgiNtmgrZFbBWKsSK) | [Slips Backwards](https://open.spotify.com/album/24S4uwsuS1ttyHh6dJWMZh) | 3:31 | 2025-11-05 |  |
 | [MATRIMONI IN VISTA](https://open.spotify.com/track/7aFPWmrLGhlh30p20LWf07) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:47 | 2025-04-04 |  |
 | [Matrimonio di Riparazione](https://open.spotify.com/track/2G8n3BzI6EZHtxUXFTPQiu) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [CRINGE](https://open.spotify.com/album/5tmgSk2cwKZEne551QfWWE) | 1:44 | 2025-05-12 |  |
@@ -2062,6 +2066,7 @@
 | [Mystic Tides \(another\)](https://open.spotify.com/track/10hGgsOhWgpNycFjIWdAmW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:41 | 2025-09-19 |  |
 | [N'at ammore dint 'e pensier](https://open.spotify.com/track/1SO2P1ZTr5rD34fYFwjDpK) | [SAL](https://open.spotify.com/artist/5ZyXPigN7RUixWEPeXAFFh) | [N'at ammore dint 'e pensier](https://open.spotify.com/album/0KX0POuztCrrgTffaYXguj) | 3:19 | 2025-08-10 |  |
 | [N.G.D \(Never Going Down\)](https://open.spotify.com/track/4BZPA8daCeNH8BvRqHYAgA) | [Bootstrap](https://open.spotify.com/artist/7Ls2DZp2MNL0rycLaYR8od) | [Five Fingers of Life](https://open.spotify.com/album/65hCHILBnhTEKCK4RPZt6B) | 3:05 | 2025-07-02 |  |
+| [N3PTUNE](https://open.spotify.com/track/2JEWefcPFvMlpuA32C2mr2) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [N3PTUNE](https://open.spotify.com/album/4plJoa7mkCGVqZrxJF9pm3) | 2:25 | 2025-11-24 |  |
 | [Na Chhadd Jaavin](https://open.spotify.com/track/5bvtLzLsraav3mXuywZfqe) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 4:02 | 2025-07-02 |  |
 | [Na God](https://open.spotify.com/track/3GFjh0KMFFaD4upHUjVzk2) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 2:30 | 2025-06-04 |  |
 | [Na Sera 'E Maggio](https://open.spotify.com/track/3Pil93LTxlWvrvyYzmCwid) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 3:57 | 2025-09-18 |  |
@@ -2416,6 +2421,7 @@
 | [Pop Soul Music](https://open.spotify.com/track/1ltt0hER7XZkW8e3tEPZVt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sweet Pop Soul Music](https://open.spotify.com/album/55a7hAqwwUnWd8BYrqvUMm) | 2:44 | 2025-09-19 |  |
 | [Pop Soul Music \(another\)](https://open.spotify.com/track/67RLfEhbWmljc8JlMEfIOi) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sweet Pop Soul Music](https://open.spotify.com/album/55a7hAqwwUnWd8BYrqvUMm) | 2:37 | 2025-09-19 |  |
 | [PORRO](https://open.spotify.com/track/6p1WjDnkNCrJkbvExYKaII) | [BLACK SABAG](https://open.spotify.com/artist/5ZUruVNQEwlw2U610skIch) | [VOLUMEN 1](https://open.spotify.com/album/1Ji3tz63vJFuDcjV8cbVJB) | 4:30 | 2025-08-14 |  |
+| [Porvenir](https://open.spotify.com/track/0DpOxxjksdazC0fGkDmRHt) | [Tolever](https://open.spotify.com/artist/18KqOtLdA3nHDFxs0vs44g) | [Porvenir](https://open.spotify.com/album/6GYSTBW1XF1A0RZGHrRU9E) | 2:25 | 2025-11-24 |  |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2025-04-09 |  |
 | [Pose For The Pic](https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pose For The Pic](https://open.spotify.com/album/45rfnyjY7gWPETzgnU3j4a) | 2:44 | 2025-07-28 |  |
 | [Post Blue](https://open.spotify.com/track/6DqR8FPtd3uPT9GLbly6Ok) | [Floor Zero](https://open.spotify.com/artist/28ChXBrWARNsOLTJNKdliE) | [Post Blue](https://open.spotify.com/album/1j2o4B7NPh4AwQmbqAt3oK) | 4:14 | 2025-06-15 |  |
@@ -3033,6 +3039,7 @@
 | [T Y M](https://open.spotify.com/track/6vkHxxwovjZgGYKdDgoMHH) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [T Y M](https://open.spotify.com/album/5fdKs3kGY2k5yci5Yjus48) | 3:22 | 2025-04-27 |  |
 | [Tak Mungkin Bersama](https://open.spotify.com/track/2WSETNHEcFDOjS4BKYpZ2M) | [A.G Sandini](https://open.spotify.com/artist/3ty0sLI51cfXsNZ0E5y2tF), [Mines Mood](https://open.spotify.com/artist/6ZcxZKpuMGvlDYczCi1DTj) | [Tak Mungkin Bersama](https://open.spotify.com/album/0yjCGp4i0YBWBNEJg5F4XC) | 3:21 | 2025-01-28 |  |
 | [take it easy](https://open.spotify.com/track/1dvkX4xCUQuIAx683WIcVK) | [da99y](https://open.spotify.com/artist/78p7U6WueOjS7mtvSCBnl2), [Lana Volkov](https://open.spotify.com/artist/01SqRetauLOJPZnZTb6MXQ) | [take it easy](https://open.spotify.com/album/7zkbc2ZF1y5BFVBLZ0muAl) | 2:02 | 2025-06-23 |  |
+| [Take Me Back](https://open.spotify.com/track/7BCT9UAhxcYuHQN8JVI1g6) | [CJB Jnr](https://open.spotify.com/artist/7BsNlZZVLEHXzDKaAYRgui), [Pulse Music Ent](https://open.spotify.com/artist/1I5ORkmGfHlBxLUssLC0fo) | [Resurrection](https://open.spotify.com/album/62B0vNPOeLFxBbtCe0tRG5) | 4:18 | 2025-11-24 |  |
 | [Take Me On](https://open.spotify.com/track/78ss9sJxFyTLnC0qOmce9J) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [Take Me On](https://open.spotify.com/album/3lC1EqYHqkYxTmH3hOVQzJ) | 2:36 | 2025-08-18 |  |
 | [Take the Night](https://open.spotify.com/track/3BkQ6VtWiFKhkyQ5whtddS) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Take the Night](https://open.spotify.com/album/50snlwgkjDK8Dx5z9pZDhf) | 3:21 | 2025-05-22 |  |
 | [Taklukan Egoku](https://open.spotify.com/track/3OGFKV63C7j7A72ejdGBzL) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Taklukan Egoku](https://open.spotify.com/album/5hRcG8mjx1X1RQICSQWhNt) | 3:05 | 2025-06-11 |  |
@@ -3046,6 +3053,7 @@
 | [Tap Your Little Feet! \(Instructions In Case of a Sudden Demise\)](https://open.spotify.com/track/5syRhA8vSVS3JyGePcV5l5) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 5:20 | 2025-11-05 |  |
 | [Taxman](https://open.spotify.com/track/0uCQ0eSVcZ4LNALVPHoffj) | [Bruise Control](https://open.spotify.com/artist/4jz9bmizJTVIjhWeZqF2u9) | [Taxman](https://open.spotify.com/album/7hfLeIRyf31iAW16zopkrA) | 2:45 | 2025-11-04 |  |
 | [Teal](https://open.spotify.com/track/1jJvNlkbQmtRpG9uIUpiYA) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:11 | 2025-11-04 |  |
+| [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 | 2025-11-24 |  |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2025-04-09 |  |
 | [Tears on Repeat](https://open.spotify.com/track/6fsCd40Tx0NWbcdl6otfa7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Sad love music](https://open.spotify.com/album/3AUNUYgv9UJbhlUNE5JGDo) | 3:02 | 2025-09-19 |  |
 | [Teenage Kicks](https://open.spotify.com/track/4wNATViXFXHOKsGgEehnBT) | [The Undertones](https://open.spotify.com/artist/2WRStKp4ihGVUzlzWfv1Qt) | [The Anthology](https://open.spotify.com/album/5lVtnzCHr3IAncUK710Mkv) | 2:24 | 2025-11-05 |  |

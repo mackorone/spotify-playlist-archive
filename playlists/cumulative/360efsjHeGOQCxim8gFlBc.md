@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-839 songs - 1 day 10 hr 56 min
+841 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1975](https://open.spotify.com/track/5gNAuXravDfHRrg2bWn2y1) | [Eduardo Gutiérrez](https://open.spotify.com/artist/1zDNCrmrKKQXWWKKgePWg0) | [1975](https://open.spotify.com/album/3QfZGCfUsNz9hKsnVM6vK5) | 1:57 | 2025-02-14 |  |
 | [2:41pm](https://open.spotify.com/track/7ao1N0KYNtj01Ut5666Bkn) | [picture frames](https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ) | [2:41pm](https://open.spotify.com/album/5cBg0nj6IUxKNL5yZcQ7Tu) | 3:18 | 2024-09-06 | 2025-07-22 |
 | [3AM](https://open.spotify.com/track/6GKuhudzJ0bg4SUElxmLNa) | [Warren](https://open.spotify.com/artist/1j37oODjhiQehnpvwlKw6t) | [3AM](https://open.spotify.com/album/3M6FaDixxD0y7r6gcF4xOO) | 1:08 | 2024-04-13 | 2025-02-15 |
+| [5 \- Before Dawn](https://open.spotify.com/track/7Io4bWFmXdiCDptXrgjypA) | [x8](https://open.spotify.com/artist/1AVjMLLa0D7KvbXij9kOpe), [vibe](https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr) | [5 \- Before Dawn](https://open.spotify.com/album/7rIsUAUuYVh9EYiO9wEk32) | 1:59 | 2025-11-24 |  |
 | [5:03pm](https://open.spotify.com/track/1n0OpRNNBOEujHxRDohCYc) | [picture frames](https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ) | [5:03pm](https://open.spotify.com/album/0XJ3j4oXtbOtMvBT2LdokG) | 4:44 | 2024-10-23 |  |
 | [7:04pm \- Teesa's rework](https://open.spotify.com/track/5tDGlonCWx6teCdnOfEeZS) | [picture frames](https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8), [Teesa](https://open.spotify.com/artist/2CttZr3C2Hsf3lh3dWRblc) | [7:04pm \- Teesa's Rework](https://open.spotify.com/album/0WhwE1ZuWP7IFXDQhOTW9A) | 2:49 | 2025-01-10 |  |
 | [A Day Of Ponder](https://open.spotify.com/track/5cJlamcOnUOs9Dg2qdd8Jq) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [A Day Of Ponder](https://open.spotify.com/album/0EUtp2vfc9ayvo5NcYxe0R) | 2:16 | 2024-06-17 | 2025-03-02 |
@@ -303,6 +304,7 @@
 | [growing old](https://open.spotify.com/track/1d51vvubceobrHPXDJ6Wvs) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [growing old](https://open.spotify.com/album/5BzW6onKV8CMZTQXGGgUeo) | 2:35 | 2023-10-29 |  |
 | [Growing Stir](https://open.spotify.com/track/3dRd7BC1B47oBewvFhJdNE) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Anna Zoëga](https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Growing Stir](https://open.spotify.com/album/7fAPb4OJetJAkcGEL37OOR) | 1:42 | 2023-10-29 | 2024-04-14 |
 | [Guidance](https://open.spotify.com/track/35cbWQsBEHm2UFkfbrzq07) | [Jovannah](https://open.spotify.com/artist/1ORuRXKDxwmKaCIe3kb9hU) | [Introspective Keys II](https://open.spotify.com/album/207ouJBNWGwvJqbmZDC5x5) | 1:51 | 2024-07-12 | 2025-06-17 |
+| [guiding star](https://open.spotify.com/track/7d2ihVsP0x1UsVo31A53WD) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [guiding star](https://open.spotify.com/album/6NBFwgZjU5uavIHCpUSzN5) | 2:11 | 2025-11-24 |  |
 | [Guizhong's Lullaby \(Piano Version\)](https://open.spotify.com/track/21W2dM2jPfm4voCR4Hjf8a) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh), [Beside Bed](https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj) | [Genshin Impact \- Guizhong's Lullaby](https://open.spotify.com/album/0KPYPglvrs3cXBJKWjZML2) | 1:36 | 2023-10-29 | 2024-10-24 |
 | [Hampen Sø](https://open.spotify.com/track/1UKY5lfkhGQFoGIz58ukGT) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 3:09 | 2024-05-17 | 2025-07-22 |
 | [Hampen Sø \- Take 2](https://open.spotify.com/track/5jadWIA2bHDcVfHxpQvQYQ) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Where You Are](https://open.spotify.com/album/62KDZb7hiNJlqFslBODzTR) | 6:59 | 2024-05-17 | 2025-04-08 |
@@ -426,10 +428,10 @@
 | [Lostnd](https://open.spotify.com/track/1BmWYDuPj0DHvOUYuTPUCv) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Lostnd](https://open.spotify.com/album/6IuOikqXsrRldxQfVnkbgy) | 3:50 | 2024-10-23 |  |
 | [Lotus Blossom](https://open.spotify.com/track/6jCHGqsI9ULtO2iG12w7iA) | [Julie Hanney](https://open.spotify.com/artist/13K0QZ02xfsIptclG3NE5d) | [Wonderment](https://open.spotify.com/album/6mXkFT4UzV1PfYzcTFMr75) | 2:31 | 2025-11-10 |  |
 | [Love Letter](https://open.spotify.com/track/3TfP7ypayc5KCEI1zlcIrf) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Love Letter](https://open.spotify.com/album/5zIBORMYIZQshskLp9GG7p) | 2:15 | 2024-04-13 |  |
-| [love song](https://open.spotify.com/track/2H8VEt9t6fTApmR2WdI4PR) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/5DcrbNHusW1DQRuugdLdgV) | 2:05 | 2025-08-25 | 2025-11-18 |
-| [love song](https://open.spotify.com/track/7MF2wgf4zXyva3w3ntYm4X) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/7f6ek2nZdtjSQCce6L3jSn) | 2:05 | 2025-04-21 |  |
-| [love story](https://open.spotify.com/track/0b8aXwsq9zeyOzHZ9ZP1Nx) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw) | 1:34 | 2025-08-25 | 2025-11-18 |
-| [love story](https://open.spotify.com/track/3hiiDp2Wb8ljCRFUZfZg3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/7vWxv01MBk7Ln8cLbli2HG) | 1:34 | 2025-07-14 |  |
+| [love song](https://open.spotify.com/track/2H8VEt9t6fTApmR2WdI4PR) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/5DcrbNHusW1DQRuugdLdgV) | 2:05 | 2025-08-25 |  |
+| [love song](https://open.spotify.com/track/7MF2wgf4zXyva3w3ntYm4X) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/7f6ek2nZdtjSQCce6L3jSn) | 2:05 | 2025-04-21 | 2025-11-25 |
+| [love story](https://open.spotify.com/track/0b8aXwsq9zeyOzHZ9ZP1Nx) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw) | 1:34 | 2025-08-25 |  |
+| [love story](https://open.spotify.com/track/3hiiDp2Wb8ljCRFUZfZg3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/7vWxv01MBk7Ln8cLbli2HG) | 1:34 | 2025-07-14 | 2025-11-25 |
 | [Loves](https://open.spotify.com/track/6cvAbImWeu3AwErvxMsoU1) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Noah Klein](https://open.spotify.com/artist/0vIlNpYXMDWEBxpvlqTD8o), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Loves](https://open.spotify.com/album/7pnjndOuZeyanOxlZr1WFC) | 1:41 | 2023-10-29 | 2024-04-14 |
 | [Loving Touch](https://open.spotify.com/track/2AWeIgRcR4uRlLk2nPIOXU) | [midnight static](https://open.spotify.com/artist/6NAAEIThA5OpNwZrkLLfE8) | [Dreaming of Stars](https://open.spotify.com/album/53jitbAKPwfFZbPn0sY3SZ) | 2:05 | 2025-01-10 |  |
 | [Lull](https://open.spotify.com/track/1f7I7MLurWVnw73GlXU1zr) | [Jackson Blais](https://open.spotify.com/artist/35LO1ZhXPK0W02dTqBh2WU) | [Still](https://open.spotify.com/album/5pxoxaMsN5ceSQvMpXDrVq) | 1:30 | 2025-03-01 |  |

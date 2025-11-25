@@ -2289,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "Blod",
+        "url": "https://open.spotify.com/album/30FsiBg4znluk97LOPeDhe"
+      },
+      "artists": [
+        {
+          "name": "Lukas S\u00f6derholm",
+          "url": "https://open.spotify.com/artist/6H3bChd6nBuQ7bzGzYSDqB"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175687,
+      "name": "Blod",
+      "url": "https://open.spotify.com/track/7CoZ6nUpEon9JuvGGEKm3z"
+    },
+    {
+      "album": {
         "name": "BLOD & VODKA",
         "url": "https://open.spotify.com/album/00B5qQXF9CXXUFbtt0cESq"
       },

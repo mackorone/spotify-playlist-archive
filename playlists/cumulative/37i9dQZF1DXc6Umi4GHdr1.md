@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-454 songs - 20 hr 5 min
+457 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [The Dunes](https://open.spotify.com/track/0HRRkGGFpMQH1AMLUDYjc1) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [The Dunes](https://open.spotify.com/album/0zHcpVeaC1y6X1hYDKklKL) | 2:47 | 2022-05-13 | 2024-04-06 |
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 |  |
 | [The End of All Rivers](https://open.spotify.com/track/6nS9crd0L3jh2zbGCPGkiC) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Speechless](https://open.spotify.com/album/4YDbl2wUdoTpyErcBzIS74) | 5:55 | 2021-12-10 | 2022-04-06 |
+| [The Garden](https://open.spotify.com/track/0F9j8g0SN51aX4DbPR6Uq6) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [The Garden](https://open.spotify.com/album/4KhFECXZCZeGaqChhA1NAt) | 2:47 | 2025-11-24 |  |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-28 | 2023-06-16 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 |  |
 | [The Mystic Road](https://open.spotify.com/track/6n3iSlWrYxHHazT3mpt8o4) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Mystic Road](https://open.spotify.com/album/7qosCuQM11X2959HiZ6gxI) | 2:08 | 2024-09-03 |  |
@@ -413,6 +414,7 @@
 | [Tree Circle](https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 3:08 | 2021-12-10 | 2023-06-10 |
 | [Tree House](https://open.spotify.com/track/54ecb4bpZDXz6k5dFiP3xg) | [Ashton Foster](https://open.spotify.com/artist/6lleSq8jhlTKsIH0GeGSM4) | [Tree House](https://open.spotify.com/album/7KIVvFb75KSvmUYs8Qf6ss) | 2:25 | 2024-07-29 | 2024-12-18 |
 | [Twin Lakes](https://open.spotify.com/track/5dRdpP3qiQXVfKqHZ5IQwr) | [Elijah Bisbee](https://open.spotify.com/artist/2C06lmmEcAw2OsGFUCOfPH), [Chris Bartels](https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K), [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Twin Lakes](https://open.spotify.com/album/4PUnsy0zjlBSkhm7rI1hrS) | 4:01 | 2022-05-27 | 2022-07-22 |
+| [Two on The Aisle](https://open.spotify.com/track/7dIdBLlE297mJZHjnfpI5i) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Two on The Aisle](https://open.spotify.com/album/58oYLdrSUZgDyMjOcu2dMu) | 2:42 | 2025-11-24 |  |
 | [Uncertainties](https://open.spotify.com/track/76rcijJX0iASTr6adRx4I7) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [Uncertainties](https://open.spotify.com/album/0kPSAerrsANGVNiKCnV1Qu) | 2:57 | 2024-06-14 |  |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-03-10 | 2024-07-18 |
 | [Ungebunden](https://open.spotify.com/track/6gzhnN8gcWTyyU9TRAEyCP) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Ungebunden](https://open.spotify.com/album/4kmDAFoVpyDrDN70opmXnY) | 1:37 | 2022-10-07 | 2023-08-26 |
@@ -424,6 +426,7 @@
 | [Valsinha](https://open.spotify.com/track/1jldmlW5DuWoGzwb0Hu7ad) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [Valsinha](https://open.spotify.com/album/70fAK6UwN0MsoczIxsH7SL) | 2:24 | 2024-02-02 | 2025-09-13 |
 | [Verano](https://open.spotify.com/track/1XrG2glXzkEisIbtNIFQq8) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Verano](https://open.spotify.com/album/0nEzBM5pySgrM3ovEI382k) | 3:34 | 2023-08-11 | 2024-07-18 |
 | [View From an Ocean Window](https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [View From an Ocean Window](https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE) | 2:54 | 2024-03-29 |  |
+| [Violetta](https://open.spotify.com/track/1XVUocouRpADxhKOzXrPiJ) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Violetta](https://open.spotify.com/album/17n0FEGM4SbdV0cRQ8OeTN) | 2:42 | 2025-11-24 |  |
 | [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
 | [Vitral](https://open.spotify.com/track/37PTKBLRzqUSXLW3e05Zuf) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Vitral](https://open.spotify.com/album/04JXDkUvyzG0vSCXf5BK6k) | 2:45 | 2025-03-11 |  |
 | [Viña del Mar](https://open.spotify.com/track/157jiCEqa3UihOdwBpQQao) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Viña del Mar](https://open.spotify.com/album/7Hd589biVwD6MvtfZ1AcUL) | 2:24 | 2023-12-15 | 2025-10-02 |

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-455 songs - 1 day 1 hr 55 min
+456 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [KALO KAKO](https://open.spotify.com/track/6jEZAcHnK8vBGDq1wdcS32) | [el miyu](https://open.spotify.com/artist/3ybkQhkPO8zpkdcatHFOiO) | [KALO KAKO](https://open.spotify.com/album/0FoMIx2LHRSpu7zfsOHClB) | 2:28 | 2024-10-01 | 2024-10-14 |
 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 | 2024-06-21 | 2024-08-03 |
 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 | 2024-06-06 |  |
+| [Killing Time \- Acoustic Version](https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL) | [Marta Knight](https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S) | [Unbothered](https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw) | 3:03 | 2025-11-21 |  |
 | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-07-31 |  |
 | [La Belleza](https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [La Belleza](https://open.spotify.com/album/5KO5GWklzKhPl37V7UXq2B) | 3:19 | 2025-06-07 | 2025-09-19 |
 | [La despedía](https://open.spotify.com/track/6uFo70OQW1xEDeCLyzrlnZ) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [La despedía](https://open.spotify.com/album/5emUivXp1bA0pHQZcVgcKQ) | 3:32 | 2024-07-12 |  |
@@ -442,7 +443,7 @@
 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 | 2025-03-31 | 2025-06-27 |
 | [VOLCANITO DORMIDO](https://open.spotify.com/track/4y4ZvtUZbm9hoB9hDBCfN2) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [fffflashback](https://open.spotify.com/artist/0FQTy3xRVBrOBtijHUp4U1) | [VOLCANITO DORMIDO](https://open.spotify.com/album/5BEd1syiQ3S1vdZq6i66KZ) | 2:23 | 2024-02-08 | 2024-03-15 |
 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 | 2024-02-08 | 2024-06-22 |
-| [Walking on the moon](https://open.spotify.com/track/0myk57gCWPPbfhtU29u1Yd) | [Paul Zinnard](https://open.spotify.com/artist/5mFdFFBF6oXw9iNtExBsgq) | [Walking on the moon](https://open.spotify.com/album/7cFAoOjXYEYKcnNqIh8UB1) | 4:39 | 2025-09-18 |  |
+| [Walking on the moon](https://open.spotify.com/track/0myk57gCWPPbfhtU29u1Yd) | [Paul Zinnard](https://open.spotify.com/artist/5mFdFFBF6oXw9iNtExBsgq) | [Walking on the moon](https://open.spotify.com/album/7cFAoOjXYEYKcnNqIh8UB1) | 4:39 | 2025-09-18 | 2025-11-25 |
 | [Wavespell](https://open.spotify.com/track/24arbdmxql9TYbLUvaSUEk) | [Jordi Cantos](https://open.spotify.com/artist/7EyOOj6cPrgGVWW9kiYqr2), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Anahí Monsalvo](https://open.spotify.com/artist/4xxW0bd5HcurKbVXYsl5A4) | [Wavespell](https://open.spotify.com/album/3kMytkV2JWLxYPkxU6ri0w) | 6:05 | 2025-03-31 | 2025-06-03 |
 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 | 2025-09-18 |  |
 | [Wishing Well](https://open.spotify.com/track/7DKNr6w1S807VC3DIsFGTK) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Wishing Well](https://open.spotify.com/album/1sDJd52CG9r5lYy7D7ir48) | 4:04 | 2024-03-07 | 2024-05-03 |

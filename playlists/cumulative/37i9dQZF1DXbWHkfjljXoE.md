@@ -2,9 +2,9 @@
 
 ### [Power To The People](https://open.spotify.com/playlist/37i9dQZF1DXbWHkfjljXoE)
 
-> Melodies of the movement\. Cover: Outkast
+> Melodies of the movement\. Cover: Jimmy Cliff
 
-118 songs - 9 hr 46 min
+119 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Talkin' Bout a Revolution](https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 2:41 | 2024-02-01 |  |
 | [The American Dream](https://open.spotify.com/track/3ZRKkzNKTR6cGbXOP0vxlM) | [Martin Luther King, Jr.](https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB) | [The Best Of The Speeches](https://open.spotify.com/album/35TEWxAZnVNmZ20PHaV7Up) | 30:54 | 2021-04-16 | 2024-02-02 |
 | [The Charade](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 3:20 | 2024-02-01 |  |
+| [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 | 2025-11-24 |  |
 | [The Message \(feat\. Melle Mel & Duke Bootee\)](https://open.spotify.com/track/5DuTNKFEjJIySAyJH1yNDU) | [Grandmaster Flash & The Furious Five](https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop), [Grandmaster Melle Mel](https://open.spotify.com/artist/0AWhixY9hX7LEPyPMjh4O0), [Duke Bootee](https://open.spotify.com/artist/4DW1Qbu1D3gD9lQEjHurAk) | [The Message](https://open.spotify.com/album/4dEczweFPXeLMMVD1zIdi7) | 7:11 | 2024-02-01 |  |
 | [The Negro and Young People](https://open.spotify.com/track/5z0FmdulgRsE93NMmxrbeF) | [W.E.B\. DuBois](https://open.spotify.com/artist/0B6p2Z41UzVCPIPO94BhqF) | [W.E.B\. DuBois: A Recorded Autobiography, Interview with Moses Asch](https://open.spotify.com/album/6jvNmgzwiWc6R1TI6cjXhQ) | 3:21 | 2021-04-16 | 2024-02-02 |
 | [The People](https://open.spotify.com/track/3r7WTNjlxxTXParQCQeGZ8) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 3:24 | 2024-02-01 |  |

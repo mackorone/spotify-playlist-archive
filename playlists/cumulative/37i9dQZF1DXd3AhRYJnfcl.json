@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0644\u064a\u062c\u064a-\u0633\u064a ",
+  "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u0647\u0627\u0621 \u0633\u0644\u0637\u0627\u0646 ",
   "name": "\u0627\u0644\u062a\u0648\u0628",
   "tracks": [
     {
@@ -2414,6 +2414,28 @@
       "duration_ms": 274050,
       "name": "Kalam Faregh",
       "url": "https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c"
+    },
+    {
+      "album": {
+        "name": "Kalam Forsan (feat. Mohamed Mounir)",
+        "url": "https://open.spotify.com/album/1Qp5YULtFOO9eRjBINHVex"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        },
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kalam Forsan (feat. Mohamed Mounir)",
+      "url": "https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH"
     },
     {
       "album": {
@@ -6930,7 +6952,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 244125,
       "name": "\u0644\u0648\u062d\u062f\u064a \u0641\u064a \u0627\u0644\u0645\u0643\u0627\u0646 \u0645\u0646 \u0641\u064a\u0644\u0645 \u0666 \u0623\u064a\u0627\u0645",
       "url": "https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA"
@@ -6966,7 +6988,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 261230,
       "name": "\u0645\u0623\u0633\u0627\u0629",
       "url": "https://open.spotify.com/track/7EaXHV6fnXKdXtU3z3WDjw"
@@ -7230,6 +7252,24 @@
       "duration_ms": 274350,
       "name": "\u0645\u0634 \u0643\u0641\u0627\u064a\u0629 \u0641\u0631\u0627\u0642",
       "url": "https://open.spotify.com/track/75Ca7I3xIHLqG1S0izGV02"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0639\u0627\u064a\u0627",
+        "url": "https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192284,
+      "name": "\u0645\u0639\u0627\u064a\u0627",
+      "url": "https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c"
     },
     {
       "album": {

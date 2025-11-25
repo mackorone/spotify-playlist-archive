@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60517,
+  "num_followers": 60512,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Superhj\u00e4ltar",
-        "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Lia Lindst\u00e9n",
-          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
-        }
-      ],
-      "duration_ms": 144285,
-      "name": "Superhj\u00e4ltar",
-      "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
         "name": "Tar mig alltid upp",
         "url": "https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg"
       },
@@ -463,6 +443,26 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
+        "name": "Superhj\u00e4ltar",
+        "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Lia Lindst\u00e9n",
+          "url": "https://open.spotify.com/artist/4GnwFUXajKqpZ9cOnIIUnM"
+        }
+      ],
+      "duration_ms": 144285,
+      "name": "Superhj\u00e4ltar",
+      "url": "https://open.spotify.com/track/6mXkroSXhGFLTX1mkOxEiO"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
         "name": "ett minne i taget",
         "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
       },
@@ -479,8 +479,8 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
+        "name": "Feelings You Don't Say Out Loud",
+        "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
       },
       "artists": [
         {
@@ -488,25 +488,9 @@
           "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+      "duration_ms": 174200,
+      "name": "Feel Sorry",
+      "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -523,6 +507,22 @@
       "duration_ms": 211171,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Feelings You Don't Say Out Loud",
-        "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
+        "name": "Before",
+        "url": "https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
         }
       ],
-      "duration_ms": 174200,
-      "name": "Feel Sorry",
-      "url": "https://open.spotify.com/track/279ekaCFBznmQh44Z3Eqpu"
+      "duration_ms": 159400,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -675,18 +675,22 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "N\u00e5n annan tar sm\u00e4llen",
-        "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
+        "name": "F\u00f6rlora dig l\u00e5ngsamt",
+        "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        },
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
         }
       ],
-      "duration_ms": 180195,
-      "name": "N\u00e5n annan tar sm\u00e4llen",
-      "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
+      "duration_ms": 151093,
+      "name": "F\u00f6rlora dig l\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -707,6 +711,22 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
+        "name": "N\u00e5n annan tar sm\u00e4llen",
+        "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
+      },
+      "artists": [
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 180195,
+      "name": "N\u00e5n annan tar sm\u00e4llen",
+      "url": "https://open.spotify.com/track/2hYe3v585VPvZDKGvFZyyL"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
         "name": "l.o.v.e",
         "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
-        "name": "F\u00f6rlora dig l\u00e5ngsamt",
-        "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
-      },
-      "artists": [
-        {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
-        },
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 151093,
-      "name": "F\u00f6rlora dig l\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Bl\u00e5ljus",
-        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Bl\u00e5ljus",
-      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
         "name": "Nostalgi",
         "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 140597,
       "name": "Nostalgi",
       "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
+        "name": "Bl\u00e5ljus",
+        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Bl\u00e5ljus",
+      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
         "name": "sunday night",
         "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 167569,
       "name": "sunday night",
       "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Where It Hurts",
-        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
+        "name": "Camels",
+        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
       },
       "artists": [
         {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+          "name": "Paine Galletto",
+          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
         }
       ],
-      "duration_ms": 180632,
-      "name": "Where It Hurts",
-      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
+      "duration_ms": 114000,
+      "name": "Camels",
+      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -1235,34 +1235,18 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Camels",
-        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
+        "name": "Where It Hurts",
+        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
       },
       "artists": [
         {
-          "name": "Paine Galletto",
-          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Camels",
-      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
-        "name": "PURE ILLUSION",
-        "url": "https://open.spotify.com/album/4Pd2CKdgaxt3GHa2sVqkj0"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 149018,
-      "name": "MISUNDERSTAND",
-      "url": "https://open.spotify.com/track/2cGLPWT5DTBQdvjbf5Gh82"
+      "duration_ms": 180632,
+      "name": "Where It Hurts",
+      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -1279,6 +1263,22 @@
       "duration_ms": 132500,
       "name": "24/7",
       "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
+        "name": "PURE ILLUSION",
+        "url": "https://open.spotify.com/album/4Pd2CKdgaxt3GHa2sVqkj0"
+      },
+      "artists": [
+        {
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
+        }
+      ],
+      "duration_ms": 149018,
+      "name": "MISUNDERSTAND",
+      "url": "https://open.spotify.com/track/2cGLPWT5DTBQdvjbf5Gh82"
     },
     {
       "added_at": "2025-11-20 23:00:58",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Stockholm City",
-        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Stockholm City",
-      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
         "name": "Aa visst",
         "url": "https://open.spotify.com/album/2N9gFHfYGxJnLjYypFL5JZ"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
+        "name": "Stockholm City",
+        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Stockholm City",
+      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
       },
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-11-20 23:00:58",
       "album": {
-        "name": "Gatorna i Bor\u00e5s",
-        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
-      },
-      "artists": [
-        {
-          "name": "Wiktoria",
-          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Gatorna i Bor\u00e5s",
-      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
-    },
-    {
-      "added_at": "2025-11-20 23:00:58",
-      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 127250,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:58",
+      "album": {
+        "name": "Gatorna i Bor\u00e5s",
+        "url": "https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria",
+          "url": "https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi"
+        }
+      ],
+      "duration_ms": 164089,
+      "name": "Gatorna i Bor\u00e5s",
+      "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
     }
   ],
   "unique_name": "p\u00e5 repeat",

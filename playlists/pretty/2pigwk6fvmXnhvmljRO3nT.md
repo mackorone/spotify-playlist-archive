@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,792 songs - 20 day 2 hr 40 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,795 songs - 20 day 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7800,5 +7800,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7790 | [Turn Your Love Around](https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:50 |
 | 7791 | [심술](https://open.spotify.com/track/0xd12UCnFMjLnLlF5oSiWa) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Half Album RED ICKLE](https://open.spotify.com/album/4agalTrdDSEjMB99voEDeP) | 2:38 |
 | 7792 | [Spring Is Gone by chance](https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Girl Who Sees Smell \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/0KLTnRxu16LGkmlWJDAQkE) | 3:21 |
+| 7793 | [R](https://open.spotify.com/track/6Z8J1wZFilJmJ7vsBuAARY) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/5XKUhKpKBGdzcyBCbJa6OH) | 4:45 |
+| 7794 | [LOUDER](https://open.spotify.com/track/3l44Dmif5PXKtkeiHj2Lst) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/2Ae0tAmh18NBNVSplUJFFw) | 3:36 |
+| 7795 | [FIRE BIRD](https://open.spotify.com/track/0qMpU4VmLf6aMNc7CUErzV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/5XKUhKpKBGdzcyBCbJa6OH) | 5:24 |
 
-Snapshot ID: `AAAJiwTou+WrCRTC3Qum6jz0waZ0CAp/`
+Snapshot ID: `AAAJjj0PhLPhxqpVG5zRTbibiKuXro+E`

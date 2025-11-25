@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Grupo Firme, Arcángel
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,386 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 715,478 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 5 | [El Tomate](https://open.spotify.com/track/3ZpMX9D7h8racm8EJiE5dw) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Tomate](https://open.spotify.com/album/31ADV8Q4Xn6eqxaB6l4I1f) | 4:19 |
 | 6 | [SUCIO DOM](https://open.spotify.com/track/3OnkNJm1uONbtGH59P0rKq) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [SUCIO DOM](https://open.spotify.com/album/7bVvTqkKbAuAshshY247bZ) | 3:33 |
 | 7 | [Se Nos Hizo Tarde](https://open.spotify.com/track/1WnkxaxenrjtWci0F7PrmR) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Se Nos Hizo Tarde](https://open.spotify.com/album/0aEI9TCs8ouWNEnkuqZ4YH) | 3:20 |
-| 8 | [Ponganse Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ponganse Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
+| 8 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
 | 9 | [La Barbie](https://open.spotify.com/track/263f8MqBDUWVxVWEMesYh0) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Barbie](https://open.spotify.com/album/4xoctRoEbOSgvPw2wXl0Pw) | 2:30 |
 | 10 | [CENICIENTA](https://open.spotify.com/track/7xuyjnOPrQI84mcB6G8wAZ) | [Oswaldo\_NR](https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx), [Jorge Duran C](https://open.spotify.com/artist/3g3A0QVWCfSiby8NxjuZ1N), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [CENICIENTA](https://open.spotify.com/album/5YftnH3ek4Q7ZbmdKdJONQ) | 3:01 |
 | 11 | [La Cosa Aquí es Calmada \(En Vivo\)](https://open.spotify.com/track/52iil0vXZXYHPfVBEN3yZy) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cosa Aquí es Calmada \(En Vivo\)](https://open.spotify.com/album/1HhsIjtGOgzEB1XhN5QDvl) | 2:33 |

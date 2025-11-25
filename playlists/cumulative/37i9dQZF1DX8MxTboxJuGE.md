@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: Nightwish
 
-133 songs - 9 hr 58 min
+134 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Sacrifice](https://open.spotify.com/track/2267yJzvFWpm6epuBaGKK2) | [Edu Falaschi](https://open.spotify.com/artist/5BrPgtYnoVfEoDYzw0AHGz) | [Eldorado](https://open.spotify.com/album/5jL9PVVgmVZhLJVNjO7SqO) | 6:16 | 2023-09-15 |  |
 | [Serpent Messiah](https://open.spotify.com/track/1jFTIXwJJkZCV1h4EYVBsb) | [Krisiun](https://open.spotify.com/artist/3pzAW9xs16rX8fukH8wV6N) | [Serpent Messiah](https://open.spotify.com/album/3dVbvhK6esUysE2aNih19b) | 4:37 | 2023-07-14 |  |
 | [Seven Stages](https://open.spotify.com/track/6oPKCUNgwU43sIRryisEer) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [Willow Instrumental](https://open.spotify.com/album/3N8WfISStUdrmc7lpVJpVu) | 4:28 | 2023-07-14 | 2023-11-04 |
-| [Seventh Sun](https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Seventh Sun](https://open.spotify.com/album/5rWzNqVFg8nispXCaewxIB) | 5:30 | 2023-07-14 |  |
+| [Seventh Sun](https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Seventh Sun](https://open.spotify.com/album/5rWzNqVFg8nispXCaewxIB) | 5:30 | 2023-07-14 | 2025-11-25 |
 | [Shaped by Fire](https://open.spotify.com/track/1I7yVk8T0iBMpQXWX71GPs) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:38 | 2023-07-14 | 2024-04-19 |
 | [Shaped by Fire](https://open.spotify.com/track/53x2Dean27JHy94loxcLV8) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/331DnqgmsWDJqH5IEZwnXQ) | 3:38 | 2024-04-05 |  |
 | [Sharp Shooter](https://open.spotify.com/track/3EhtFciZg3T3iZbxEaqJiT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [=1](https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq) | 3:44 | 2024-08-30 |  |
@@ -99,6 +99,7 @@
 | [Shotgun Blues](https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Shotgun Blues](https://open.spotify.com/album/4ALN0YC4oFfoaOPY1Hec5u) | 4:27 | 2024-04-05 |  |
 | [Skydiver of the Light](https://open.spotify.com/track/0cVaRVmnr2flEtuRK0wxba) | [Armored Dawn](https://open.spotify.com/artist/1oueQWyrcULGbpk0DyiqGf) | [Viking Zombie \(Deluxe Edition\)](https://open.spotify.com/album/4egyrkRkejuCzKoyOEpqYi) | 3:35 | 2023-07-14 |  |
 | [Slave New World](https://open.spotify.com/track/1rriJU19bJPPSZTkfnOEsH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Sepulquarta](https://open.spotify.com/album/3p9xh35Qupdic1CREgJUIz) | 2:55 | 2023-07-14 |  |
+| [Sunflare](https://open.spotify.com/track/0uM3sQj3oZsKAiAPM5G5oI) | [Falchi](https://open.spotify.com/artist/23y2IZmOo4TJdVWVdT1O2Y) | [Sunflare](https://open.spotify.com/album/4ZMB8xCjWrL60v3Lf4mvpH) | 6:07 | 2025-11-24 |  |
 | [Symptoms](https://open.spotify.com/track/6VMWyTf2jw2DmaquunqTuW) | [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [I JUST DON'T LOVE YOU ANYMORE](https://open.spotify.com/album/2QgLpBT2EWrF39esY0iIsy) | 3:28 | 2023-07-14 | 2023-10-14 |
 | [Sábado](https://open.spotify.com/track/4uIGfX1aejjpvwvy5RH2ri) | [Viper](https://open.spotify.com/artist/6ywWIQgZrAOTcmA3XxGIk7) | [Tem Para Todo Mundo](https://open.spotify.com/album/6EJ5cnVIfkWjtu90F77hxr) | 3:03 | 2025-07-04 |  |
 | [Tainted Love](https://open.spotify.com/track/0i8Tfa791mCIJAXVwc9NEf) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Tainted Love](https://open.spotify.com/album/3AQfYezv6vSxiWrnMyWere) | 3:02 | 2023-07-14 |  |

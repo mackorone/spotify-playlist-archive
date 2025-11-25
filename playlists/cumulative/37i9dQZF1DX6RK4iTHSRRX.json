@@ -1929,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "Cozy Winter",
+        "url": "https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        },
+        {
+          "name": "Zara Hudson-Kozdoj",
+          "url": "https://open.spotify.com/artist/3jgKHHxYf7tw8Y6E61Lygb"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267230,
+      "name": "O Holy Night (Arr. Lawson for Guitar & Cello)",
+      "url": "https://open.spotify.com/track/3KKqkkafvvknSHkQWckXe5"
+    },
+    {
+      "album": {
         "name": "O Holy Night (Guitar)",
         "url": "https://open.spotify.com/album/01GvSNKgaQ9x2hJLV9tA48"
       },

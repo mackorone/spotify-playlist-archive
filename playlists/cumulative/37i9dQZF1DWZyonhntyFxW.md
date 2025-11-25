@@ -2,7 +2,7 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر غلاف: عفروتو
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: كريم أسامة
 
 439 songs - 21 hr 24 min
 

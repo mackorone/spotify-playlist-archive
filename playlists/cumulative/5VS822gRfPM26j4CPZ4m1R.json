@@ -2569,6 +2569,24 @@
     },
     {
       "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa"
+      },
+      "artists": [
+        {
+          "name": "Niall Mutter",
+          "url": "https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167773,
+      "name": "Dixie Diamond",
+      "url": "https://open.spotify.com/track/4m2Qn0sOEeUQkrHX9Yb0nQ"
+    },
+    {
+      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS"
       },

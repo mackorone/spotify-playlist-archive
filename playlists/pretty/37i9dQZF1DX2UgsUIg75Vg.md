@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,666 likes - 250 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,690 likes - 250 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

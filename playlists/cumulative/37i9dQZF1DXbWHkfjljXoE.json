@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Melodies of the movement. Cover: Outkast",
+  "description": "Melodies of the movement. Cover: Jimmy Cliff",
   "name": "Power To The People",
   "tracks": [
     {
@@ -1684,6 +1684,24 @@
       "duration_ms": 200840,
       "name": "The Charade",
       "url": "https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q"
+    },
+    {
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
       "album": {

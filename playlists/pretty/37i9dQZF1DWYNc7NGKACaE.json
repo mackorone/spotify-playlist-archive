@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84420,
+  "num_followers": 84415,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Florxs Speed Up",
-        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Florxs Speed Up",
-      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "BOMBEI AQUELA MSC DO INVEJOSO",
         "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 149538,
       "name": "BOMBEI AQUELA MSC DO INVEJOSO",
       "url": "https://open.spotify.com/track/2z4Z6cYzwjD9cRhNVWPj6W"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Florxs Speed Up",
+        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Florxs Speed Up",
+      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
     },
     {
       "added_at": "2024-07-08 19:10:57",

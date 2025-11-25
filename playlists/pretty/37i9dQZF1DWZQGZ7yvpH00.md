@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Eddy & Ed maverick en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,447 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,359 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 69 | [No Te Pido Mucho](https://open.spotify.com/track/3HEkUA58ydMr4nWxe3KPQo) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [No Te Pido Mucho](https://open.spotify.com/album/4FZyG6QEWIcdaBh2SrPaaX) | 3:50 |
 | 70 | [Pedir Perdón](https://open.spotify.com/track/1yyKIpqVn7n3RS7XMteTnx) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Pedir Perdón](https://open.spotify.com/album/0W1BsSepLSfvwXv4xpD4fs) | 3:02 |
 | 71 | [Estoy Aqui](https://open.spotify.com/track/33tPQDN6hpQ2knusgbe0Jl) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Estoy aqui](https://open.spotify.com/album/2jml7yRfOtF5Mv1zfrxIaO) | 3:24 |
-| 72 | [No Tenerte Duele Más](https://open.spotify.com/track/6wVwkLFuOhCIncRT2l4i7k) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [No Tenerte Duele Más](https://open.spotify.com/album/60jbJZ0xinMww1MlP9UQhU) | 3:06 |
+| 72 | [no tenerte duele más](https://open.spotify.com/track/6wVwkLFuOhCIncRT2l4i7k) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [no tenerte duele más](https://open.spotify.com/album/60jbJZ0xinMww1MlP9UQhU) | 3:06 |
 | 73 | [Ayayay](https://open.spotify.com/track/2bcpAh7D4BHjXo9ZGPLIdU) | [Jorge Cuellar](https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB) | [Dueño del Jardín](https://open.spotify.com/album/0tz8tpENFK4GbkeHgx1hj6) | 2:49 |
 | 74 | [Hablamos Después](https://open.spotify.com/track/0tDFmbPwlKZWndRyNRgK8X) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi) | [Hablamos Después](https://open.spotify.com/album/1mRctRnszaaePAcMvs7tI9) | 2:16 |
 | 75 | [CUL8R](https://open.spotify.com/track/4xAYAJzhXvn9RCI27EpPjM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [CUL8R](https://open.spotify.com/album/76NAIsy3cTG6wNXkKValAq) | 2:18 |

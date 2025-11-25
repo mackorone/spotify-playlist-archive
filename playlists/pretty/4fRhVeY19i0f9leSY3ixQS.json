@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1049,
+  "num_followers": 1051,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAHtgrs229yr/yOIhg551Ov7RJ+xYg5",
+  "snapshot_id": "AAAHust5Wo2JJu5j2Qv9SlQ0seZUHQWL",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -3525,6 +3525,22 @@
       "url": "https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd"
     },
     {
+      "added_at": "2025-11-24 11:39:28",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc"
+      },
+      "artists": [
+        {
+          "name": "People You Know",
+          "url": "https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz"
+        }
+      ],
+      "duration_ms": 270062,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/60Opr83gQPHZd410ykHScx"
+    },
+    {
       "added_at": "2025-11-23 22:08:32",
       "album": {
         "name": "Just Like My Cigarette",
@@ -3587,6 +3603,38 @@
       "duration_ms": 224000,
       "name": "Rise Again",
       "url": "https://open.spotify.com/track/4Dj36QPd18SfcObDNnCxiG"
+    },
+    {
+      "added_at": "2025-11-24 11:38:47",
+      "album": {
+        "name": "Altercations",
+        "url": "https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA"
+      },
+      "artists": [
+        {
+          "name": "Dead Gaze NL",
+          "url": "https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A"
+        }
+      ],
+      "duration_ms": 310613,
+      "name": "Altercations",
+      "url": "https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR"
+    },
+    {
+      "added_at": "2025-11-24 11:39:11",
+      "album": {
+        "name": "SAUSAGE REVOLUTION",
+        "url": "https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2"
+      },
+      "artists": [
+        {
+          "name": "PIMPLES MARMALADE",
+          "url": "https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "FLETCH",
+      "url": "https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL"
     }
   ],
   "unique_name": "Shuffle Roulette",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Dubdogz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,208,175 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,208,007 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 9 | [Long Time](https://open.spotify.com/track/2rHkFYuJsGyr2uOow4eHRu) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Long Time \(Roddy Lima Remix\)](https://open.spotify.com/album/35f4SNQ8irwkaJezII7fVl) | 3:00 |
 | 10 | [take me \(to the sunrise\)](https://open.spotify.com/track/7xFd6J61nBu42RAlDVgQC3) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [take me \(to the sunrise\)](https://open.spotify.com/album/1ePQDyfS4ajFsU8zv1HQcF) | 3:46 |
 | 11 | [Sugar \(feat\. Francesco Yates\) \- ALOK Remix](https://open.spotify.com/track/00aGxt7uUbZVyPsUYYqqok) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Francesco Yates](https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Sugar \(feat\. Francesco Yates\) \[ALOK Remix\]](https://open.spotify.com/album/6hcAlzAQIlxm5M1U7kApO5) | 2:36 |
-| 12 | [Lost in The 90s](https://open.spotify.com/track/4bQJw0NoTkSJcrBjMy1C8G) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Julio Torres](https://open.spotify.com/artist/7feP7Ck9KkzKDdJTo8h8B7), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Lost In The 90s](https://open.spotify.com/album/1HGR2lcF4Xcy6UxZJHcIdu) | 3:28 |
+| 12 | [Lost In The 90s](https://open.spotify.com/track/4bQJw0NoTkSJcrBjMy1C8G) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [Julio Torres](https://open.spotify.com/artist/7feP7Ck9KkzKDdJTo8h8B7), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Lost In The 90s](https://open.spotify.com/album/1HGR2lcF4Xcy6UxZJHcIdu) | 3:28 |
 | 13 | [Hymn For The Weekend](https://open.spotify.com/track/39HuqBgIvo5iTEx7lkh2KY) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq), [Garage King](https://open.spotify.com/artist/26oYihsH236ctvfTwHNvmh) | [Hymn For The Weekend](https://open.spotify.com/album/0ZCAq1Nm12yVkQA2JhSwo9) | 1:47 |
 | 14 | [I'll Be Here](https://open.spotify.com/track/3Sv6liwDwv868Dfodi4V09) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [I'll Be Here](https://open.spotify.com/album/1sJTGib3TPNJZfl4B60O1M) | 4:03 |
 | 15 | [Can't Get Over \(Mojjo Remix\)](https://open.spotify.com/track/2MwQK0evUVt6B9oSMeLBEO) | [KASINO](https://open.spotify.com/artist/3YgQf7LVQtRKQAuCZuZv3M), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [Can't Get Over \(Mojjo Remix\)](https://open.spotify.com/album/4TGLohYWJja7HmR9WsryF7) | 2:49 |

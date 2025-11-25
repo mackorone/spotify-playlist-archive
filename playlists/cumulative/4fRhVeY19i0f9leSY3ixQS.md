@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-216 songs - 12 hr 9 min
+219 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-19 |  |
 | [Adrenaline](https://open.spotify.com/track/1qE3TZ2HuQS7JdxiK9ADv8) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Adrenaline](https://open.spotify.com/album/47rhqCKcQVozQ7fcJWosVr) | 4:30 | 2025-10-27 |  |
 | [Aim For The Bushes](https://open.spotify.com/track/3vpSn9URfdY44csaFkGJBp) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Planet Unknown](https://open.spotify.com/album/4EKeHDDESNGCLpdaT4fWSd) | 2:13 | 2025-08-03 |  |
+| [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2025-11-24 |  |
 | [And Now We Wait](https://open.spotify.com/track/2X785hCIYbBHhHinrGC1Fq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:47 | 2025-08-03 |  |
 | [Angel In Disguise \- Live](https://open.spotify.com/track/2Erq200qCGUhk9yE14VHrM) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:25 | 2025-11-08 |  |
 | [Antlers](https://open.spotify.com/track/7oPb02I3HX5yggAXCMgyUL) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:28 | 2025-08-03 |  |
@@ -29,6 +30,7 @@
 | [Beater](https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 1:14 | 2025-08-03 |  |
 | [Better Days](https://open.spotify.com/track/7yfoUwkMB1PZjV74xvUCpQ) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Missing Since Monday](https://open.spotify.com/album/6rfNqD4BYVSDlko64nP080) | 2:25 | 2025-10-24 |  |
 | [Better Off Alone](https://open.spotify.com/track/3ASkJ5pFksyXQqT9z8KmvH) | [Julie Elody](https://open.spotify.com/artist/4FREcPhEBSBlNVHAQXqanN), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Better Off Alone](https://open.spotify.com/album/0UkrxQZJRAXK8SHLo2TCSA) | 1:56 | 2025-08-03 |  |
+| [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-11-24 |  |
 | [Bodybag](https://open.spotify.com/track/2HMpllgIo6pZGmTa4zxPtb) | [GAMBO HEMP](https://open.spotify.com/artist/5AylFyo3mXfThbd1n6UCIn), [Scum](https://open.spotify.com/artist/39DyOAXVMHpdDSyY0WnoZ9) | [Bodybag](https://open.spotify.com/album/5D8HVIDQalzqh6LYJFhKyU) | 2:45 | 2025-10-31 |  |
 | [Bonus track](https://open.spotify.com/track/3VaxAOlebOyD0eoA2Gh1D1) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Bonus track](https://open.spotify.com/album/1vmZK9GQbvZKGCy8EKcoQk) | 1:03 | 2025-08-03 |  |
 | [Borderline Hitchhike](https://open.spotify.com/track/4o94aMGa2mAsIbKhXpBn9n) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 4:25 | 2025-09-16 |  |
@@ -72,6 +74,7 @@
 | [Falling Standards](https://open.spotify.com/track/4OyewJNyf69I44f3W5iDCJ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:29 | 2025-08-03 |  |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 |  |
 | [Flam Rest](https://open.spotify.com/track/04JOLBR8LDgukIWfY2g2q7) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:19 | 2025-08-03 |  |
+| [FLETCH](https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [SAUSAGE REVOLUTION](https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2) | 2:13 | 2025-11-24 |  |
 | [FOMO](https://open.spotify.com/track/0rDJXMg7OX1POjkAMKOsEc) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:51 | 2025-08-03 |  |
 | [Forsaken Angel Song](https://open.spotify.com/track/6FJvTlJnb1cnNncLk3c5Cc) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:09 | 2025-09-16 |  |
 | [Fur Sure](https://open.spotify.com/track/1zCFzCQucF0rOHH7PK1DAr) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:28 | 2025-08-03 |  |

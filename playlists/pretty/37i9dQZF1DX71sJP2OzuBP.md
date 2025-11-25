@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,853 likes - 120 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,854 likes - 120 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 57 | [別怕，我會恨自己！](https://open.spotify.com/track/4oQkEh2UsKch1gQ3G8rrSF) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [別怕，我會恨自己！](https://open.spotify.com/album/7n9JfBUueY0ZfEtblnnMWw) | 4:13 |
 | 58 | [平平淡](https://open.spotify.com/track/0TBii6V4qS9vBjHW8GKexD) | [Zeon33](https://open.spotify.com/artist/2WgpuitP2obGirFs8imklo) | [Zeon33](https://open.spotify.com/album/7askDqfqUn0Vww5PvIcaEJ) | 2:21 |
 | 59 | [可以是朋友](https://open.spotify.com/track/4LnGoiqCHE2PY7vNJ84rAM) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [蕭景鴻 \(阿弟\)](https://open.spotify.com/artist/6zPThS6v1EdVWmVMNQqlTr) | [可以是朋友](https://open.spotify.com/album/05Y6CnOKdIjygsQdUZ8wFW) | 4:22 |
-| 60 | [练习失去](https://open.spotify.com/track/29KNFAQbJfzvSYF1BsS7Cv) | [D.N.A](https://open.spotify.com/artist/1oepyvIp0DGLIwkRxXEUmK), [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [练习失去](https://open.spotify.com/album/3PD5dewPUs6NRzkdkmZPQ9) | 2:31 |
+| 60 | [练习失去](https://open.spotify.com/track/29KNFAQbJfzvSYF1BsS7Cv) | [D.N.A](https://open.spotify.com/artist/4Hp8m79zYxYMHi6ltSZONo), [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [练习失去](https://open.spotify.com/album/3PD5dewPUs6NRzkdkmZPQ9) | 2:31 |
 | 61 | [讓我成為你的秘密 \(影視劇《餘生有涯》片尾曲\)](https://open.spotify.com/track/1clzOZzYB7QERHCIKnASCJ) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [影視劇《餘生有涯》 原聲帶](https://open.spotify.com/album/4rDcOCckeYs9o7m8yWBgbk) | 3:41 |
 | 62 | [你聽 \(影視劇《餘生有涯》插曲\)](https://open.spotify.com/track/0iDP2RWqa2VuNd4Fl57b4C) | [林凡](https://open.spotify.com/artist/1YmWActCNjKmuIz1TSgSRx) | [影視劇《餘生有涯》 原聲帶](https://open.spotify.com/album/4rDcOCckeYs9o7m8yWBgbk) | 4:17 |
 | 63 | [把我佔有](https://open.spotify.com/track/2biPcMwHKke2scYT0cpxPK) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [把我佔有](https://open.spotify.com/album/4sokpH87aAG2FkaQPTiKpV) | 3:14 |

@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-489 songs - 1 day 6 hr 25 min
+490 songs - 1 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,11 +391,12 @@
 | [Silent Night](https://open.spotify.com/track/2pG1HDAy394Fuq7KMuCpFf) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Have Yourself A Merry Little Christmas / Silent Night](https://open.spotify.com/album/6RVLkAvG9rN7fcDYZYD5Pm) | 3:32 | 2021-12-24 | 2025-10-27 |
 | [Silent Night](https://open.spotify.com/track/3COMbciYueBYOSMSdjcYZV) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Silent Night](https://open.spotify.com/album/1ZVDtoMTHJCDMZfiQtonWo) | 3:11 | 2024-11-17 |  |
 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 | 2024-08-01 | 2025-05-07 |
+| [Silent Night](https://open.spotify.com/track/1z8Jfid7k90zN3UUEnOvrC) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Silent Night](https://open.spotify.com/album/5OS3woEzeXYIlP6fzjTo76) | 2:34 | 2025-11-22 |  |
 | [Silent Night](https://open.spotify.com/track/5c36yPOfMB9Pq7kdkRxGkd) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf), [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Silent Night](https://open.spotify.com/album/6qIpmmge0GlUTpeIgHXPnL) | 4:28 | 2024-11-29 |  |
 | [Silent Night \(with Saviour King\) \- Live](https://open.spotify.com/track/1JqRuf1VFolpmDEBjeRLkF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/4jAmUwcMcth5Dc6FnxssVR) | 7:12 | 2021-12-24 | 2024-08-02 |
 | [Silent Night \- Live](https://open.spotify.com/track/2DfdmOmD8O70gT64e36RPI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Kristyn Getty](https://open.spotify.com/artist/70Rhe5rWMA8u4f6ptC1iMw) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:01 | 2021-12-24 | 2022-07-24 |
 | [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-12-15 | 2025-10-30 |
-| [Silver Bells](https://open.spotify.com/track/7HPEWRrERaNOmLwEWSqaEy) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Olivia Bruce](https://open.spotify.com/artist/4x83S4ablwezU5ABsZarq3) | [Silver Bells](https://open.spotify.com/album/2wxfV6G1kG7J4cU69D1pVM) | 3:45 | 2024-08-01 |  |
+| [Silver Bells](https://open.spotify.com/track/7HPEWRrERaNOmLwEWSqaEy) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Olivia Bruce](https://open.spotify.com/artist/4x83S4ablwezU5ABsZarq3) | [Silver Bells](https://open.spotify.com/album/2wxfV6G1kG7J4cU69D1pVM) | 3:45 | 2024-08-01 | 2025-11-25 |
 | [Snow](https://open.spotify.com/track/1Zl3KJN3eds4LooE9tdJEO) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Snow](https://open.spotify.com/album/2wel4igScXLFmzznj7gB6B) | 2:59 | 2024-08-01 | 2024-11-30 |
 | [Someday At Christmas](https://open.spotify.com/track/608NGSBqPbbmKdser2Fp6B) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Someday At Christmas](https://open.spotify.com/album/4cu7ooyD4yOwE9zfgAtKXd) | 2:51 | 2021-12-24 | 2022-07-23 |
 | [Someone Like Me](https://open.spotify.com/track/5xp9busHkdxMlmlKObfH12) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Someone Like Me](https://open.spotify.com/album/0T4LAUwTj5aClzpGfJAqNc) | 3:38 | 2022-12-11 | 2024-08-02 |

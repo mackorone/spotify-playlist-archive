@@ -1,15 +1,31 @@
 {
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: bongor",
-  "num_followers": 93613,
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: Marics Peti",
+  "num_followers": 93621,
   "original_name": "Hot Hits Magyarorsz\u00e1g",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEEPWCN1t3VOcdWfv2Csp1HUo9s6",
+  "snapshot_id": "AAAAAPftjtoDTgqlLI3bV3/54BiiJmsL",
   "tracks": [
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "TARR B\u00c9LA",
-        "url": "https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "TARR B\u00c9LA",
-      "url": "https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "STARBOY",
         "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
@@ -61,7 +61,43 @@
       "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "TARR B\u00c9LA",
+        "url": "https://open.spotify.com/album/4HTtYynJ90orZbCh4Pqpgu"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "TARR B\u00c9LA",
+      "url": "https://open.spotify.com/track/5p5YCbMMA0J3YBhJWjm3Mc"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "Szem\u00fcveg",
+        "url": "https://open.spotify.com/album/6DERNfzTVl7gTuMGYQcjvk"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Szem\u00fcveg",
+      "url": "https://open.spotify.com/track/3vJy9Cv6Jjy9wlcgocJ1RB"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "AFTERPARTY",
         "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
@@ -81,7 +117,7 @@
       "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Lelkem, Nyugodj",
         "url": "https://open.spotify.com/album/63vYd4u5laaQ7Him1ZRz8q"
@@ -97,7 +133,99 @@
       "url": "https://open.spotify.com/track/1tm4qXlpkzkLrHqs9JPF73"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
+        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
+      },
+      "artists": [
+        {
+          "name": "Mehringer",
+          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
+        },
+        {
+          "name": "sosehol",
+          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
+      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "EXT\u00c1ZIS",
+        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
+      },
+      "artists": [
+        {
+          "name": "bongor",
+          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
+        },
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 142856,
+      "name": "Hol volt\u00e1l?",
+      "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "vemzavr!",
+        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 183931,
+      "name": "vemzavr!",
+      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "PRESSO",
+        "url": "https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 157852,
+      "name": "PRESSO",
+      "url": "https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
+      "album": {
+        "name": "FREY TIMI",
+        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
+      },
+      "artists": [
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+        }
+      ],
+      "duration_ms": 155214,
+      "name": "FREY TIMI",
+      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
+    },
+    {
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Purgat\u00f3rium",
         "url": "https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7"
@@ -121,123 +249,7 @@
       "url": "https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
-        "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
-      },
-      "artists": [
-        {
-          "name": "Mehringer",
-          "url": "https://open.spotify.com/artist/2onsfuh37zW0OHB3lFa3t1"
-        },
-        {
-          "name": "sosehol",
-          "url": "https://open.spotify.com/artist/69McIb2evNk4IXDj7pipai"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "SZEPTEMBER V\u00c9G\u00c9N - STRESSZ",
-      "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "EXT\u00c1ZIS",
-        "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
-      },
-      "artists": [
-        {
-          "name": "bongor",
-          "url": "https://open.spotify.com/artist/5HWC7PRwfVezYNVGggeCYD"
-        },
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 142856,
-      "name": "Hol volt\u00e1l?",
-      "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "vemzavr!",
-        "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 183931,
-      "name": "vemzavr!",
-      "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "PRESSO",
-        "url": "https://open.spotify.com/album/3eJuPUtO2KHScmYHKwJkq3"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 157852,
-      "name": "PRESSO",
-      "url": "https://open.spotify.com/track/0D5QHyA6zijVjWqcTn3huY"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "FREY TIMI",
-        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
-      },
-      "artists": [
-        {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
-        }
-      ],
-      "duration_ms": 155214,
-      "name": "FREY TIMI",
-      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "Shao Leng Leng",
-        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
-      },
-      "artists": [
-        {
-          "name": "hazetomika",
-          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
-        },
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
-        }
-      ],
-      "duration_ms": 158683,
-      "name": "Shao Leng Leng",
-      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "PONT J\u00d3",
         "url": "https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1"
@@ -257,7 +269,7 @@
       "url": "https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "HA MEGHALOK SE",
         "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
@@ -277,7 +289,7 @@
       "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "BABY \u00c9N NEM J\u00c1TSZOM",
         "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
@@ -293,7 +305,7 @@
       "url": "https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Reneg\u00e1t",
         "url": "https://open.spotify.com/album/0TjsGoTydIJLGfZOBywrAl"
@@ -313,7 +325,7 @@
       "url": "https://open.spotify.com/track/0wUyAVmdEqR0pMqyP5AtV9"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "PLETYKA",
         "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
@@ -329,7 +341,7 @@
       "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "skatulya II",
         "url": "https://open.spotify.com/album/2LGDqTbGPaI2veCkaFylVb"
@@ -345,23 +357,7 @@
       "url": "https://open.spotify.com/track/27ku2bPgLSoGNyaCORu2NK"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
-      "album": {
-        "name": "Isten, haza, csal\u00e1d",
-        "url": "https://open.spotify.com/album/4KrKTftUcCmcTGmqr513G0"
-      },
-      "artists": [
-        {
-          "name": "Carson Coma",
-          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        }
-      ],
-      "duration_ms": 168198,
-      "name": "Isten, haza, csal\u00e1d",
-      "url": "https://open.spotify.com/track/0LH3Rcqj6BvT32m62E76jj"
-    },
-    {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Pap\u00edrom",
         "url": "https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf"
@@ -377,7 +373,7 @@
       "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "OHMAMMA",
         "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
@@ -397,7 +393,7 @@
       "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Kimarad\u00e1s",
         "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
@@ -417,7 +413,7 @@
       "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Europa",
         "url": "https://open.spotify.com/album/1WWV9V12Yd9SAw7LuM6z7P"
@@ -433,7 +429,7 @@
       "url": "https://open.spotify.com/track/3itJAWZjdsEmcW3A2785zG"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
@@ -449,7 +445,7 @@
       "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "BE VAGYOK Z\u00c1RVA",
         "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
@@ -465,7 +461,7 @@
       "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "S\u00d6T\u00c9T",
         "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
@@ -481,7 +477,7 @@
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -497,7 +493,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Vinnipu",
         "url": "https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J"
@@ -513,7 +509,7 @@
       "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
@@ -529,7 +525,7 @@
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "SZAR AZ \u00c9LET",
         "url": "https://open.spotify.com/album/1dQ7jejuPoZHDusPiG2vhc"
@@ -553,7 +549,7 @@
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Csurran, cseppen",
         "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
@@ -569,7 +565,7 @@
       "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -585,7 +581,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -601,7 +597,7 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Talpra cig\u00e1nyok",
         "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
@@ -617,7 +613,7 @@
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "STRESSZ",
         "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8"
@@ -657,7 +653,7 @@
       "url": "https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "KETT\u0150/KETT\u0150",
         "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
@@ -673,7 +669,7 @@
       "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -689,7 +685,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -709,7 +705,7 @@
       "url": "https://open.spotify.com/track/6jIOiFrWhqvDGzwONFKl3j"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
@@ -725,7 +721,7 @@
       "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "VID\u00c9KI CSAJSZI",
         "url": "https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq"
@@ -741,7 +737,7 @@
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -773,7 +769,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "PATK\u00c1NY",
         "url": "https://open.spotify.com/album/5QBhS7BWtdqDSz6N9YICeK"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/769BgoDplcfdCwuMKzVMgV"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b"
@@ -829,7 +825,7 @@
       "url": "https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
@@ -845,7 +841,7 @@
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -869,7 +865,7 @@
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "SISS",
         "url": "https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM"
@@ -885,7 +881,7 @@
       "url": "https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"
@@ -905,7 +901,7 @@
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
     },
     {
-      "added_at": "2025-11-20 14:32:47",
+      "added_at": "2025-11-24 13:01:20",
       "album": {
         "name": "rabiga",
         "url": "https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH"

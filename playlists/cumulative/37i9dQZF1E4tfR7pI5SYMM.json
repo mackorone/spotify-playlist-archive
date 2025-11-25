@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With AlligatorX, Nemrud, Seigmen and more",
+  "description": "With AlligatorX, MIK's Reaction, Nemrud and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 378160,
       "name": "All My Youth",
       "url": "https://open.spotify.com/track/06iH0mLdq6a26XXgKxQd9w"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 343573,
       "name": "Ave",
       "url": "https://open.spotify.com/track/7pardS8RjEfqQ0FrGDeHNM"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 214000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/4fUZJo7cnvAQA8lDdx8uDn"
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Black Smoke",
+        "url": "https://open.spotify.com/album/3XnOuYd6ePzO6Np9r4XLpZ"
+      },
+      "artists": [
+        {
+          "name": "Tripod",
+          "url": "https://open.spotify.com/artist/5zM3QAoOGcBN3xNaDSUkK7"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234015,
+      "name": "Cassandra",
+      "url": "https://open.spotify.com/track/2APtDDEO38TTlMBFWujeoz"
+    },
+    {
+      "album": {
         "name": "UNITED",
         "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
       },
@@ -236,7 +254,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 224226,
       "name": "Coming Home (UNITED)",
       "url": "https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW"
@@ -279,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Let the silence begin",
+        "url": "https://open.spotify.com/album/06hhUe2Icd57QUgk8ijWJV"
+      },
+      "artists": [
+        {
+          "name": "PVRS",
+          "url": "https://open.spotify.com/artist/0Cv6bLeQZnhyh3dKBIrzSO"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222434,
+      "name": "Dead With You",
+      "url": "https://open.spotify.com/track/7L0UJEmIekpWgnUC7xAj5a"
+    },
+    {
+      "album": {
         "name": "Glem Elegansen",
         "url": "https://open.spotify.com/album/4kfdoRnEnvI6YeOykHUje4"
       },
@@ -312,10 +348,28 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 308635,
       "name": "Demons",
       "url": "https://open.spotify.com/track/6woaCyTLrwt3h6MRe8UERE"
+    },
+    {
+      "album": {
+        "name": "The Ho Rider Demos",
+        "url": "https://open.spotify.com/album/4QDqisQteghpyw2SQpaZYa"
+      },
+      "artists": [
+        {
+          "name": "The Ho Riders",
+          "url": "https://open.spotify.com/artist/6if6vnHrsPk4RcyiMFkp52"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "Dirty Stripper",
+      "url": "https://open.spotify.com/track/4wTVlDT3sqvZmrwvaqQ7Rz"
     },
     {
       "album": {
@@ -338,7 +392,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 251545,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/4itpcUUnmcsN7PeLohBxoV"
@@ -428,7 +482,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 302852,
       "name": "Echoes of Glory",
       "url": "https://open.spotify.com/track/2NIkgD3Zt5OdHrqNr7GLC4"
@@ -482,7 +536,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 203308,
       "name": "Emotions of Gray",
       "url": "https://open.spotify.com/track/0lSx4ZCLjisMT9mw60l1Nr"
@@ -518,7 +572,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 355067,
       "name": "End of The Day",
       "url": "https://open.spotify.com/track/10vNfy55vyXQYsLbtSNzya"
@@ -680,7 +734,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 246112,
       "name": "Fra Aska",
       "url": "https://open.spotify.com/track/2pXhs4tYZVq6WWrxuo263c"
@@ -752,10 +806,32 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
+    },
+    {
+      "album": {
+        "name": "Godless",
+        "url": "https://open.spotify.com/album/3u3FnNFFVqZopFttmv1r09"
+      },
+      "artists": [
+        {
+          "name": "Storm Kingdom",
+          "url": "https://open.spotify.com/artist/5XgHWolhNhGCCYkTbmDtFY"
+        },
+        {
+          "name": "Ella Baphomet",
+          "url": "https://open.spotify.com/artist/2rcKTRoTVhGZqv3caJGouK"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347500,
+      "name": "Godless",
+      "url": "https://open.spotify.com/track/5gGEuov2uGj7kfiEiBJTEp"
     },
     {
       "album": {
@@ -796,6 +872,24 @@
       "duration_ms": 210843,
       "name": "Hjerteknuser",
       "url": "https://open.spotify.com/track/5mNRj9npMG9VLt6CoRvfK9"
+    },
+    {
+      "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/4MViW7GrNe3i5OBmg2ikiM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Sing & The 31 Days",
+          "url": "https://open.spotify.com/artist/1tDfUZR8uXrOlzGIw14COY"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293013,
+      "name": "How Are You Long Island?",
+      "url": "https://open.spotify.com/track/2wmiE2q3SLAKkeqFpklHEF"
     },
     {
       "album": {
@@ -846,7 +940,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -918,7 +1012,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 212819,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3eAOMeyAK4p2NmCvTNK61P"
@@ -1052,7 +1146,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 316346,
       "name": "Lucifer Shrine",
       "url": "https://open.spotify.com/track/3Axe6hd3pHx9BgeQbFxPsR"
@@ -1070,7 +1164,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -1308,7 +1402,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 227874,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3a5ZsMAujYWWxQ52YHmDwJ"
@@ -1326,7 +1420,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 200275,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/01g3sPb7hPlYm2vbrnlHYW"
@@ -1495,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Radio Fantasia",
+        "url": "https://open.spotify.com/album/5pmqgf5PWdXkRFWqn9b246"
+      },
+      "artists": [
+        {
+          "name": "Love Your Witch",
+          "url": "https://open.spotify.com/artist/6p3SBUohxDHzu6N7Z8MZyu"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185989,
+      "name": "Sleeping on the Spider's Web",
+      "url": "https://open.spotify.com/track/7jVX1M0aG5NeMBknF2x6lS"
+    },
+    {
+      "album": {
         "name": "No Means No",
         "url": "https://open.spotify.com/album/74rb0zn3vPoov87NHvP4sI"
       },
@@ -1506,7 +1618,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 170970,
       "name": "Slowly Goes The Night",
       "url": "https://open.spotify.com/track/3s3YAcAClDrZChvOVk8REW"
@@ -1524,7 +1636,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
@@ -1600,7 +1712,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -1618,7 +1730,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Surviving - Demo",
       "url": "https://open.spotify.com/track/51EjIOlT6UaNTlMQZvd3pa"
@@ -1676,7 +1788,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 424585,
       "name": "The Fate",
       "url": "https://open.spotify.com/track/11D0OdRH2XHmst8sps2tZm"
@@ -1737,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "The Walk (redefined)",
+        "url": "https://open.spotify.com/album/2Q0NAITbbpChJIwJCEjYH4"
+      },
+      "artists": [
+        {
+          "name": "HOLLOW WORDS",
+          "url": "https://open.spotify.com/artist/2fAQPyYJxmNXhz6j4FAJCe"
+        },
+        {
+          "name": "Histheory",
+          "url": "https://open.spotify.com/artist/2qZq8itPEzZU3qyyTUQmhi"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300713,
+      "name": "The Walk (redefined)",
+      "url": "https://open.spotify.com/track/1zSpUOfdFfbMln8XrI6F3v"
+    },
+    {
+      "album": {
         "name": "Tide",
         "url": "https://open.spotify.com/album/2ug8lKYROIJGAAHUsqfoC5"
       },
@@ -1788,7 +1922,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 257180,
       "name": "Tyger of Fate",
       "url": "https://open.spotify.com/track/4HwYKaLUTeFfebAUknUrG4"
@@ -1824,7 +1958,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 302786,
       "name": "UVF",
       "url": "https://open.spotify.com/track/7tigtK8POSBLDGOIfK7Kts"
@@ -1842,10 +1976,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 208402,
       "name": "Void Kingdom",
       "url": "https://open.spotify.com/track/4yOCx7GzTj4fEL0zoJWB9n"
+    },
+    {
+      "album": {
+        "name": "ORK",
+        "url": "https://open.spotify.com/album/0KyKlqd5jerqyuuKI6Q8iH"
+      },
+      "artists": [
+        {
+          "name": "Solar Void",
+          "url": "https://open.spotify.com/artist/5Xh7eRAkDuO1zGMBrNNz4G"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271999,
+      "name": "War of Dakka",
+      "url": "https://open.spotify.com/track/11i9A3qGhpqXVtThUR7OQU"
     },
     {
       "album": {
@@ -1882,6 +2034,24 @@
       "duration_ms": 203572,
       "name": "What's it Matter?",
       "url": "https://open.spotify.com/track/1yq28U2RScvT5PoHkgu9Lc"
+    },
+    {
+      "album": {
+        "name": "Lost in Silence",
+        "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
+      },
+      "artists": [
+        {
+          "name": "Jacobs Fall",
+          "url": "https://open.spotify.com/artist/06p53lE2Tu1sVj4UzMgUTh"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332160,
+      "name": "XIII",
+      "url": "https://open.spotify.com/track/3ugdsdKcNyV0DNmTiPIJcW"
     },
     {
       "album": {
@@ -1932,7 +2102,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 222793,
       "name": "You Still Fall",
       "url": "https://open.spotify.com/track/3I1qI1rO1Pav5EAm0oQzGt"
@@ -1950,7 +2120,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 501726,
       "name": "\uc0ac\ub3c4",
       "url": "https://open.spotify.com/track/0S6zCcxgLmOc5NS9jepnwe"

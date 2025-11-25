@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/6AWiiwIqDvRNpnqPqoJ0Oz"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rojo",
+          "url": "https://open.spotify.com/artist/7jaCrttyvSxbCkiNkPrWHV"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "29",
+      "url": "https://open.spotify.com/track/1Fx1GbGej0wyJkZjBrHVpt"
+    },
+    {
+      "album": {
         "name": "2DK",
         "url": "https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv"
       },

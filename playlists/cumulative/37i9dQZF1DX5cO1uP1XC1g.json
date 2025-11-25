@@ -6203,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "NANCY 11",
+        "url": "https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150570,
+      "name": "Ya Albo",
+      "url": "https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd"
+    },
+    {
+      "album": {
         "name": "Ya Ana Ya La",
         "url": "https://open.spotify.com/album/2Q4vOLpl50g6eIC4sZ9cId"
       },

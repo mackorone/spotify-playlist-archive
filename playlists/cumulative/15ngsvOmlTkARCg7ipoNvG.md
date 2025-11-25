@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,034 songs - 1 day 17 hr 2 min
+2,037 songs - 1 day 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Above](https://open.spotify.com/track/1eXIACWbHAPDMI6gLAojk0) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:30 | 2022-01-12 |  |
 | [Above the Clouds](https://open.spotify.com/track/1Trtqrvf4wB8qQZbp9Ur64) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Dreaming Spaces](https://open.spotify.com/album/77X0MycjOyo8OUpA7xrlfP) | 2:33 | 2022-01-12 | 2024-01-30 |
 | [Above The Skyline](https://open.spotify.com/track/45Dc80XMvyomJiIXkqFthC) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hillside Songs](https://open.spotify.com/album/32e44ep6VLvMxxIEawIlGc) | 1:03 | 2022-02-11 |  |
+| [Above Us](https://open.spotify.com/track/5sawpV9FLE9eW0GVYyTjT7) | [Wonder In Serenity](https://open.spotify.com/artist/1ClhpZHK4uyN4gCCU5Mll4) | [Above Us](https://open.spotify.com/album/0dSuNGrKSAUILoJtsERxto) | 1:00 | 2025-11-24 |  |
 | [Across The Room](https://open.spotify.com/track/67aZo6iC8l0qsaX8rc6ztT) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Softly](https://open.spotify.com/album/22TBoyrFvpJ9idJPCr1jD1) | 1:08 | 2022-01-12 |  |
 | [Adieu \- Cello Version](https://open.spotify.com/track/0OrBrhiYRShpamzEz3Mjfh) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Adieu Again](https://open.spotify.com/album/0x1E4Hqnymr672ghgx112V) | 1:04 | 2024-02-09 | 2024-02-13 |
 | [Adieu \- Piano Version](https://open.spotify.com/track/2z05k4RoYrkBQaWcOGuhJ4) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Adieu](https://open.spotify.com/album/0r4W1ukvZc012C2MJl1ZPo) | 1:03 | 2022-08-25 | 2024-01-30 |
@@ -997,6 +998,7 @@
 | [Light Again](https://open.spotify.com/track/5hy3n7aXrviovbzRI9Q1aV) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Light Again](https://open.spotify.com/album/2rTCoMfmqEzqG5uULSrvBw) | 1:00 | 2024-08-19 |  |
 | [Light In The Darkness](https://open.spotify.com/track/43COSvhvh29nyuFHVZuDPW) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Light In The Darkness](https://open.spotify.com/album/33dPNQcH51hRH642aLr2s7) | 2:03 | 2022-01-12 | 2024-01-30 |
 | [Light In The Garden](https://open.spotify.com/track/4vJfwRp4ziWJbNJw9kZxQc) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Modern Piano Lullabies, Vol\. 2](https://open.spotify.com/album/1KrEVspzMkpUxGwXjzuXhp) | 1:04 | 2022-01-20 | 2024-01-30 |
+| [Light In The Sky](https://open.spotify.com/track/5UHmtb5pRYY2Yyj9yAxgEA) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Light In The Sky](https://open.spotify.com/album/0KiTELqOymTZwAdunMn4K3) | 1:00 | 2025-11-25 |  |
 | [Light Moon](https://open.spotify.com/track/6Q7LlPrMR0CMaDWVej48Bt) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Transformations](https://open.spotify.com/album/7zcrSTb4ci1zBg74hBazBk) | 1:03 | 2022-03-18 |  |
 | [Light My Way](https://open.spotify.com/track/17tOUDNsz1PQz54fgxsccH) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Timeless](https://open.spotify.com/album/3Q1zoGkmvuAfIwBL08Fd4w) | 1:34 | 2022-01-12 |  |
 | [Light Sky \- Cello Version](https://open.spotify.com/track/1Yyzuz7J4m9ZXdQIekxATg) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Light Sky](https://open.spotify.com/album/2iWP1dlviywXYMZbFkc8DC) | 1:00 | 2023-04-19 | 2024-02-13 |
@@ -1558,6 +1560,7 @@
 | [Silent Celebration](https://open.spotify.com/track/7aM5GmqGmzDHmdyUZpt3To) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Carry Me Away](https://open.spotify.com/album/3dlqG3m3IlYnsISyOLygAE) | 1:05 | 2022-03-03 |  |
 | [Silent Ceremony](https://open.spotify.com/track/5sukbOEGYFYBb0xYqUfs18) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:05 | 2022-01-12 |  |
 | [Silent Drift](https://open.spotify.com/track/7wqCeQix4Yh0cCHV3wYK31) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Our Dreams](https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl) | 1:23 | 2022-01-12 |  |
+| [Silent Hope](https://open.spotify.com/track/7kqVadQilpsdXDoNugVLEG) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Silent Hope](https://open.spotify.com/album/5lTyPkr8ISx67wH9yfH0BN) | 1:00 | 2025-11-24 |  |
 | [Silent Joy](https://open.spotify.com/track/2GLGsZPiwD9yNo0H8lVlSM) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Silent Joy](https://open.spotify.com/album/1X1DVB4SKnYfIf5NG21mCC) | 1:00 | 2025-08-12 |  |
 | [Silent Morning](https://open.spotify.com/track/0cgkIn8SnJgsv1U5YQFyuy) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Silent Morning](https://open.spotify.com/album/4pPEUDPxA5mjDIwJHq4fFI) | 1:00 | 2025-08-19 |  |
 | [Silent Rooms](https://open.spotify.com/track/0S6WNxqCEEPFWJukC175u4) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello Reflections](https://open.spotify.com/album/3a4E60s56WkQRylOD84uJB) | 1:34 | 2022-01-20 | 2024-01-30 |

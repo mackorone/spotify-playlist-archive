@@ -109,6 +109,24 @@
     },
     {
       "album": {
+        "name": "Broadway And Beyond The Concert Songs",
+        "url": "https://open.spotify.com/album/1fI9nYHwsiXQYtPnCwt6lZ"
+      },
+      "artists": [
+        {
+          "name": "Colm Wilkinson",
+          "url": "https://open.spotify.com/artist/4hKV8PcRBaHZqBJjSn8OJE"
+        }
+      ],
+      "date_added": "2024-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Bring Him Home",
+      "url": "https://open.spotify.com/track/1MUcDrJgwWma4zv5ZT9OyG"
+    },
+    {
+      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 249066,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/31Irb8d3UBRfEcaHDzQxsK"

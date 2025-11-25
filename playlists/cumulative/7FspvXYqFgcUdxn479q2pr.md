@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-810 songs - 1 day 16 hr 15 min
+811 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Can't Let You Go](https://open.spotify.com/track/4xyJwzNqvqBFxILH40D8fL) | [ELFIGO](https://open.spotify.com/artist/1f7tXw5OzDgWVBpEZ0hjJs) | [Can't Let You Go](https://open.spotify.com/album/5zwa8lXXxsF3SFOLpTdB7R) | 2:34 | 2025-04-10 | 2025-05-31 |
 | [Can't Stop Playing \(feat\. Anne Brun\) \[Cian McFeely Remix\]](https://open.spotify.com/track/4vTvus8VUlimhegjaHwPyA) | [DR\. KUCHO!](https://open.spotify.com/artist/263Gr9lGWR6ScnRGjxa3Ad), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Cian McFeely](https://open.spotify.com/artist/6snaEk0NtSZ01uSHQewZDD), [Anne Brun](https://open.spotify.com/artist/36ZqHTWU9KAN4f6CAe2aOD) | [Can't Stop Playing \(feat\. Ane Brun\) \[Cian McFeely Remix\]](https://open.spotify.com/album/4Oawu4apI0zbcSTZAQOAZF) | 2:11 | 2024-06-20 | 2024-06-29 |
 | [Candy](https://open.spotify.com/track/1aPzuS8Aw7XJbQG2hT2X3J) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Candy](https://open.spotify.com/album/4GiMsN7yVRvaKAjbe0hlU2) | 2:04 | 2025-03-13 | 2025-05-31 |
+| [Candy Cloud](https://open.spotify.com/track/6WlqLgm2PVS4CzuDN3NCdC) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Candy Cloud](https://open.spotify.com/album/41oaqPl9tzYx9GMswupkhe) | 3:58 | 2025-11-24 |  |
 | [Captain Sjaak](https://open.spotify.com/track/1CDp4zqDEPt75lYFooKR7r) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Captain Sjaak](https://open.spotify.com/album/1wgnNPMNI2MRHw0o378U4c) | 2:32 | 2024-10-31 | 2024-11-15 |
 | [Caraluna argü](https://open.spotify.com/track/0JvVHwp42ekpi0UluNeoHJ) | [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna argü](https://open.spotify.com/album/0HJdELbb0k03flIhBUYHIF) | 3:15 | 2024-08-23 | 2024-08-31 |
 | [Carnaval Do Brasil](https://open.spotify.com/track/0sH9GexrcK3yhMCREq2OOX) | [Henk](https://open.spotify.com/artist/5yt5ZGD6Q2FfK1Elw2Efbv) | [Carnaval Do Brasil](https://open.spotify.com/album/6yFxZIQutnNrI4EAEDhvq5) | 2:51 | 2025-10-30 |  |

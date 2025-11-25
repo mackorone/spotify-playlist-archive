@@ -1177,6 +1177,24 @@
     },
     {
       "album": {
+        "name": "Songbird",
+        "url": "https://open.spotify.com/album/63eb3gQjXxJUflcgKMTBy3"
+      },
+      "artists": [
+        {
+          "name": "DataBass",
+          "url": "https://open.spotify.com/artist/2Rvog1SN7fG6KPC2KDbjM4"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222647,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/7FKST7WmlWa4RKcr6RNEQE"
+    },
+    {
+      "album": {
         "name": "Steel Birds Scream",
         "url": "https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO"
       },
@@ -1322,6 +1340,24 @@
       "duration_ms": 214090,
       "name": "The Price of Not Being Me",
       "url": "https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV"
+    },
+    {
+      "album": {
+        "name": "Queso",
+        "url": "https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD"
+      },
+      "artists": [
+        {
+          "name": "Summer in the Attic",
+          "url": "https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157490,
+      "name": "tiny thoughts",
+      "url": "https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN"
     },
     {
       "album": {

@@ -1,4 +1,4 @@
-## Playlists \(9009\)
+## Playlists \(9010\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -1919,7 +1919,7 @@
 - [Dos Íconos: Emmanuel x Mijares](/playlists/pretty/37i9dQZF1DX77dWUhnBuLs.md)
 - [Dos Íconos: José José x Juan Gabriel](/playlists/pretty/37i9dQZF1DX43pSb7XuvgU.md)
 - [Dos Íconos: Luis Miguel x Alejandro Fernández](/playlists/pretty/37i9dQZF1DWSXkKR3NnPZR.md)
-- [Dos Íconos: Prince Royce x Romeo Santos](/playlists/pretty/37i9dQZF1DXcPINDdHzDqa.md)
+- [Dos Íconos: Romeo Santos x Prince Royce](/playlists/pretty/37i9dQZF1DXcPINDdHzDqa.md)
 - [Dos Íconos: Selena x Jenni Rivera](/playlists/pretty/37i9dQZF1DWYTyUvRwFpCv.md)
 - [Dos Íconos: Shakira x Alejandro Sanz](/playlists/pretty/37i9dQZF1DXaKaZNQ3qx4Z.md)
 - [Dos íconos: Daddy Yankee x Nicky Jam](/playlists/pretty/37i9dQZF1DXaB9aWy6BzCT.md)
@@ -6646,6 +6646,7 @@
 - [This Is Jhené Aiko](/playlists/pretty/37i9dQZF1DZ06evO3xhrLa.md)
 - [This Is Jimi Hendrix](/playlists/pretty/37i9dQZF1DZ06evO4cWDcc.md)
 - [This Is Jimin](/playlists/pretty/37i9dQZF1DX7H4XpyC9TgJ.md)
+- [This Is Jimmy Cliff](/playlists/pretty/37i9dQZF1DZ06evO207Hs4.md)
 - [This Is Jimmy Eat World](/playlists/pretty/37i9dQZF1DZ06evO25r82I.md)
 - [This Is Jin](/playlists/pretty/37i9dQZF1DX9ROcoR0cTZM.md)
 - [This Is Joan Baez](/playlists/pretty/37i9dQZF1DZ06evO0V2kc4.md)

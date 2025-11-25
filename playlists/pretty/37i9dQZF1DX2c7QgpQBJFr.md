@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Mara Sattei
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,283 likes - 105 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,290 likes - 105 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 43 | [Privilegio stupendo](https://open.spotify.com/track/4D3MG6NxXULKQR1EA3KQR7) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 3:05 |
 | 44 | [Little Rat](https://open.spotify.com/track/4q3ZKc4CcEwhzuusvsr4Dg) | [Birthh](https://open.spotify.com/artist/6ziYh8Enk7RYoWqEdkEvDn) | [Little Rat](https://open.spotify.com/album/0phrEGKl53xAyL59YMznHX) | 2:43 |
 | 45 | [XOXO](https://open.spotify.com/track/2DEeaawcgxBNpjZCgellqf) | [Jemel](https://open.spotify.com/artist/52xT2TuMy5NKiKE5abawy4) | [XOXO](https://open.spotify.com/album/31y7bnQzigPgueRuWNJCQY) | 1:34 |
-| 46 | [Mi Stresso](https://open.spotify.com/track/5beLgSQ1MQHKnaufnhD9Bg) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG), [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Mi Stresso](https://open.spotify.com/album/4vSB2FP8fSE2FNvwDBwxVo) | 2:19 |
+| 46 | [Mi Stresso \(feat\. Wemme Flow\)](https://open.spotify.com/track/5beLgSQ1MQHKnaufnhD9Bg) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG), [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Mi Stresso \(feat\. Wemme Flow\)](https://open.spotify.com/album/4vSB2FP8fSE2FNvwDBwxVo) | 2:19 |
 | 47 | [Mon Amour](https://open.spotify.com/track/32MSyU9DbEBSmUGQWJm9Q4) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Mon Amour](https://open.spotify.com/album/1k9M6MbGeVeSmDCB5BRKix) | 2:17 |
 | 48 | [Como Tu](https://open.spotify.com/track/6Qe06F7JkIWwjq8pdNyNRc) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [JIMI](https://open.spotify.com/artist/5sA6WPwZsAFjwgKWHKM1E0) | [Como Tu](https://open.spotify.com/album/7kw10I9HNPkUXK5X7y8qOl) | 2:12 |
 | 49 | [Maledetta Rabbia](https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Maledetta Rabbia](https://open.spotify.com/album/5hJ80aNRyLVqXoQhN4qMmy) | 2:35 |

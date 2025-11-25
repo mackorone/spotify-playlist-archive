@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,509 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,508 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 2 | [Kapot](https://open.spotify.com/track/6a6RwdVkTtsjF15DCfi4Wz) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Kapot](https://open.spotify.com/album/2QAQiSleQ9tMNjchs39yXD) | 2:40 |
 | 3 | [Meisje Uit De Klas](https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Meisje Uit De Klas](https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3) | 3:10 |
 | 4 | [Hoogtevrees](https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hoogtevrees](https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0) | 3:35 |
-| 5 | [⁠Tot Het Eind Van Mij](https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij](https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n) | 2:44 |
-| 6 | [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 |
+| 5 | [Woensdag](https://open.spotify.com/track/2uPSbhD8EF8VcE8SY82OGf) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Woensdag](https://open.spotify.com/album/5UNGlTJNPHvD2YhTvJgKRc) | 2:21 |
+| 6 | [⁠Tot Het Eind Van Mij](https://open.spotify.com/track/5MSrJGjtJy0eu2Z0oRXYlP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij](https://open.spotify.com/album/2juwxLM6gQlTe5bPlMn70n) | 2:44 |
 | 7 | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/track/71ASAZJIhXdaJF0OCIXc4S) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8) | 3:33 |
-| 8 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 |
-| 9 | [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Houden van is voor altijd](https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu) | 3:14 |
-| 10 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 |
-| 11 | [Pam Pam](https://open.spotify.com/track/6vBNn5sPtXk2WcFp6dbvY6) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Pam Pam](https://open.spotify.com/album/2Oa5DwwuEWysiyebWHR4L3) | 2:42 |
-| 12 | [Zij is met me](https://open.spotify.com/track/6qAT5esH7IDBJa10al9REG) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Zij is met me](https://open.spotify.com/album/30ieAMDw3MoOtdsS0OYIlF) | 2:35 |
-| 13 | [Please, Blijf!](https://open.spotify.com/track/59FjnJpfLVh2auZIwsNprj) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Please, Blijf!](https://open.spotify.com/album/3dTMVDMHRbohsPNcouA8nK) | 3:05 |
-| 14 | [Misschien](https://open.spotify.com/track/3lRdIeteaMCxBW4iIizQhc) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Misschien](https://open.spotify.com/album/3JtLCyl7880gwx5BASF5Dy) | 2:28 |
-| 15 | [Ik Denk Aan Jou](https://open.spotify.com/track/61fynrd8AHMoqxLLdz5RbD) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Ik Denk Aan Jou](https://open.spotify.com/album/3neg2FwR8vVtWc4bBMCoDJ) | 2:45 |
+| 8 | [Ik Denk Aan Jou](https://open.spotify.com/track/61fynrd8AHMoqxLLdz5RbD) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Ik Denk Aan Jou](https://open.spotify.com/album/3neg2FwR8vVtWc4bBMCoDJ) | 2:45 |
+| 9 | [Jij Verdient Het](https://open.spotify.com/track/1uXrlxv9eSdCnYtUD5hafk) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Jij Verdient Het](https://open.spotify.com/album/1sQLV0R27jVUCxY134ntKB) | 3:26 |
+| 10 | [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Houden van is voor altijd](https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu) | 3:14 |
+| 11 | [Loser](https://open.spotify.com/track/6SxPeeIm0exX9vXLZMZn2J) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:43 |
+| 12 | [Pam Pam](https://open.spotify.com/track/6vBNn5sPtXk2WcFp6dbvY6) | [Adriaan Persons](https://open.spotify.com/artist/1TPrAXJAcBA8sUPNN39eZg) | [Pam Pam](https://open.spotify.com/album/2Oa5DwwuEWysiyebWHR4L3) | 2:42 |
+| 13 | [Zij is met me](https://open.spotify.com/track/6qAT5esH7IDBJa10al9REG) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Zij is met me](https://open.spotify.com/album/30ieAMDw3MoOtdsS0OYIlF) | 2:35 |
+| 14 | [Please, Blijf!](https://open.spotify.com/track/59FjnJpfLVh2auZIwsNprj) | [Lisa Michels](https://open.spotify.com/artist/79CPotbn7wd5Iu7dF9tY7e) | [Please, Blijf!](https://open.spotify.com/album/3dTMVDMHRbohsPNcouA8nK) | 3:05 |
+| 15 | [Misschien](https://open.spotify.com/track/3lRdIeteaMCxBW4iIizQhc) | [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Misschien](https://open.spotify.com/album/3JtLCyl7880gwx5BASF5Dy) | 2:28 |
 | 16 | [Zeg maar niets](https://open.spotify.com/track/5ayQm9rr6dzb4wiTp6Kwib) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zeg maar niets](https://open.spotify.com/album/4wZq7Q7JNZp6oCocTyUQY6) | 2:33 |
 | 17 | [Liefde Onderschat](https://open.spotify.com/track/4ZtkwczmUma3DLweeCjKx3) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Liefde Onderschat](https://open.spotify.com/album/3wA2OYYRZZj9cRs3pkaYzB) | 3:19 |
 | 18 | [Pauze](https://open.spotify.com/track/6AWDTrLLcEZDFn0qHKwzMW) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Pauze](https://open.spotify.com/album/74NVfvXROXqctvQhXYpLdI) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 99 | [Beste Fout](https://open.spotify.com/track/6vYnml6p32VEStxD8ke7aX) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Beste Fout](https://open.spotify.com/album/7dAUv80dbGXyDebYTU489n) | 2:51 |
 | 100 | [Paarse nachten](https://open.spotify.com/track/2s1Kn9W1rG2kkIGYFDVcQs) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Paarse Nachten](https://open.spotify.com/album/2pM0zct61wZz5YKGmexfVl) | 3:12 |
 
-Snapshot ID: `AAAAAEN7L250Igwu81k+4G+Rb2cm0QwU`
+Snapshot ID: `AAAAAA6Ri9bmA54nca5QBaip00TXf/pT`

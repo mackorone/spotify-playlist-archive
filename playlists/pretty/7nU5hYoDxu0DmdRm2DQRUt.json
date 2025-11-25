@@ -1,13 +1,181 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7803,
+  "num_followers": 7806,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOfBrANLuWkQKNGa6J38eImqrP6LDF",
+  "snapshot_id": "AAAOgu4q43Xm8gDadek/qCMhehz+b94L",
   "tracks": [
+    {
+      "added_at": "2025-11-21 11:37:31",
+      "album": {
+        "name": "A Tropical Entropy",
+        "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
+      },
+      "artists": [
+        {
+          "name": "Nick Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
+        },
+        {
+          "name": "Xander Amahd",
+          "url": "https://open.spotify.com/artist/3uWOXQrsmq8Dm6I4Osx55k"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/5tYJU0mqW8WUW9bHkKj04Y"
+    },
+    {
+      "added_at": "2025-11-24 11:15:49",
+      "album": {
+        "name": "Do You Believe In Spring?",
+        "url": "https://open.spotify.com/album/79to0SOTvf3Rb92WgVOoiQ"
+      },
+      "artists": [
+        {
+          "name": "Sutter & Wangen",
+          "url": "https://open.spotify.com/artist/7qeIj2jFhKvqaytVYAMH6m"
+        }
+      ],
+      "duration_ms": 250830,
+      "name": "Penguin",
+      "url": "https://open.spotify.com/track/4SxXU8J2uoeX9p8faZA7Z1"
+    },
+    {
+      "added_at": "2025-11-21 11:37:53",
+      "album": {
+        "name": "Loud Ambient",
+        "url": "https://open.spotify.com/album/5a1UTBrZDRr3rOFxoDCh08"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "duration_ms": 283269,
+      "name": "They Came For My Head",
+      "url": "https://open.spotify.com/track/1yZSrHYMITz0eaxNqwjga3"
+    },
+    {
+      "added_at": "2025-11-21 11:38:52",
+      "album": {
+        "name": "Lind EP",
+        "url": "https://open.spotify.com/album/4mxc9Ume6q6L3ur9358FDK"
+      },
+      "artists": [
+        {
+          "name": "Reboot",
+          "url": "https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H"
+        }
+      ],
+      "duration_ms": 176367,
+      "name": "Danz Danz",
+      "url": "https://open.spotify.com/track/1bldPYOMo2PQ7MvFTWIvcU"
+    },
+    {
+      "added_at": "2025-11-21 11:39:26",
+      "album": {
+        "name": "A Little Further",
+        "url": "https://open.spotify.com/album/0eUiW9fK7gQZupKYz0iMw7"
+      },
+      "artists": [
+        {
+          "name": "Extrawelt",
+          "url": "https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB"
+        },
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "duration_ms": 519427,
+      "name": "Not on a Map",
+      "url": "https://open.spotify.com/track/5iRQdyNBnvPv2ypxwHyELf"
+    },
+    {
+      "added_at": "2025-11-21 11:39:48",
+      "album": {
+        "name": "Nept Polarisation",
+        "url": "https://open.spotify.com/album/6YEsbq57z8arIdnW4NZEPh"
+      },
+      "artists": [
+        {
+          "name": "XENIA REAPER",
+          "url": "https://open.spotify.com/artist/50bJUH7vZt4KzJM0rAHh1I"
+        }
+      ],
+      "duration_ms": 256172,
+      "name": "Drift__",
+      "url": "https://open.spotify.com/track/1znnxhsqOF31Zg2L5pCwia"
+    },
+    {
+      "added_at": "2025-11-21 11:41:08",
+      "album": {
+        "name": "Breaks The Shell",
+        "url": "https://open.spotify.com/album/5WDrU5TNJtapS2133gyvqq"
+      },
+      "artists": [
+        {
+          "name": "Cosimo Damiano",
+          "url": "https://open.spotify.com/artist/64xT4w2YNKVxDahZxTOlxX"
+        }
+      ],
+      "duration_ms": 347316,
+      "name": "Hiss Spite",
+      "url": "https://open.spotify.com/track/2LOmCcJdF7XlWUcJA1JevI"
+    },
+    {
+      "added_at": "2025-11-24 11:13:34",
+      "album": {
+        "name": "My Supernova",
+        "url": "https://open.spotify.com/album/3IftXbAVrGtxxvAZ0jGfc5"
+      },
+      "artists": [
+        {
+          "name": "Wata Igarashi",
+          "url": "https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX"
+        }
+      ],
+      "duration_ms": 337533,
+      "name": "Shockwave",
+      "url": "https://open.spotify.com/track/1hMzIiFPqTWfWiJRHd5Mjx"
+    },
+    {
+      "added_at": "2025-11-24 11:14:04",
+      "album": {
+        "name": "In Dream",
+        "url": "https://open.spotify.com/album/25GRcDA8WBHjuIWTyfeEm0"
+      },
+      "artists": [
+        {
+          "name": "Courtney Bailey",
+          "url": "https://open.spotify.com/artist/3lkGl12NbdeNBcsjo7coDQ"
+        }
+      ],
+      "duration_ms": 222038,
+      "name": "Burnt Moon",
+      "url": "https://open.spotify.com/track/7xzuOAklVpz2yc3SY9aofw"
+    },
+    {
+      "added_at": "2025-11-24 11:14:22",
+      "album": {
+        "name": "Tranquilizer",
+        "url": "https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "Lifeworld",
+      "url": "https://open.spotify.com/track/5qiyA4rvvL5p5xoif6mAPF"
+    },
     {
       "added_at": "2025-11-14 12:51:48",
       "album": {
@@ -4631,110 +4799,6 @@
       "duration_ms": 329486,
       "name": "Vagus",
       "url": "https://open.spotify.com/track/5zWG7WQqS4pRVKY5BXyhWH"
-    },
-    {
-      "added_at": "2025-11-21 11:37:31",
-      "album": {
-        "name": "A Tropical Entropy",
-        "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
-      },
-      "artists": [
-        {
-          "name": "Nick Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2"
-        },
-        {
-          "name": "Xander Amahd",
-          "url": "https://open.spotify.com/artist/3uWOXQrsmq8Dm6I4Osx55k"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/5tYJU0mqW8WUW9bHkKj04Y"
-    },
-    {
-      "added_at": "2025-11-21 11:37:53",
-      "album": {
-        "name": "Loud Ambient",
-        "url": "https://open.spotify.com/album/5a1UTBrZDRr3rOFxoDCh08"
-      },
-      "artists": [
-        {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
-        }
-      ],
-      "duration_ms": 283269,
-      "name": "They Came For My Head",
-      "url": "https://open.spotify.com/track/1yZSrHYMITz0eaxNqwjga3"
-    },
-    {
-      "added_at": "2025-11-21 11:38:52",
-      "album": {
-        "name": "Lind EP",
-        "url": "https://open.spotify.com/album/4mxc9Ume6q6L3ur9358FDK"
-      },
-      "artists": [
-        {
-          "name": "Reboot",
-          "url": "https://open.spotify.com/artist/3MUGWsOTNoR1OmZjgdQS3H"
-        }
-      ],
-      "duration_ms": 176367,
-      "name": "Danz Danz",
-      "url": "https://open.spotify.com/track/1bldPYOMo2PQ7MvFTWIvcU"
-    },
-    {
-      "added_at": "2025-11-21 11:39:26",
-      "album": {
-        "name": "A Little Further",
-        "url": "https://open.spotify.com/album/0eUiW9fK7gQZupKYz0iMw7"
-      },
-      "artists": [
-        {
-          "name": "Extrawelt",
-          "url": "https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB"
-        },
-        {
-          "name": "Dominik Eulberg",
-          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
-        }
-      ],
-      "duration_ms": 519427,
-      "name": "Not on a Map",
-      "url": "https://open.spotify.com/track/5iRQdyNBnvPv2ypxwHyELf"
-    },
-    {
-      "added_at": "2025-11-21 11:39:48",
-      "album": {
-        "name": "Nept Polarisation",
-        "url": "https://open.spotify.com/album/6YEsbq57z8arIdnW4NZEPh"
-      },
-      "artists": [
-        {
-          "name": "XENIA REAPER",
-          "url": "https://open.spotify.com/artist/50bJUH7vZt4KzJM0rAHh1I"
-        }
-      ],
-      "duration_ms": 256172,
-      "name": "Drift__",
-      "url": "https://open.spotify.com/track/1znnxhsqOF31Zg2L5pCwia"
-    },
-    {
-      "added_at": "2025-11-21 11:41:08",
-      "album": {
-        "name": "Breaks The Shell",
-        "url": "https://open.spotify.com/album/5WDrU5TNJtapS2133gyvqq"
-      },
-      "artists": [
-        {
-          "name": "Cosimo Damiano",
-          "url": "https://open.spotify.com/artist/64xT4w2YNKVxDahZxTOlxX"
-        }
-      ],
-      "duration_ms": 347316,
-      "name": "Hiss Spite",
-      "url": "https://open.spotify.com/track/2LOmCcJdF7XlWUcJA1JevI"
     }
   ],
   "unique_name": "KOMPAKT: New Arrivals",

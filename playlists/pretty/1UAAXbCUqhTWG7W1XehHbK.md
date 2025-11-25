@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 130 songs - 7 hr 37 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 589 likes - 131 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,6 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 128 | [Hands](https://open.spotify.com/track/6LflirCCKMmIPoJeb9Kkb8) | [Hosannas](https://open.spotify.com/artist/3MOXu8DfF3VUfC7WmNBb8D) | [Picture Him Protecting You](https://open.spotify.com/album/3Je9xNxfxhvKKp4VqVAI7E) | 4:41 |
 | 129 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 |
 | 130 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 |
+| 131 | [Rapapa Papam](https://open.spotify.com/track/31eiGVDcWVncSpj5cAkpFF) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [Rapapa Papam](https://open.spotify.com/album/2rdM5JfJHkeGI6rNHr17ah) | 2:36 |
 
-Snapshot ID: `AAADYOxYI2N//XYdl37xgOkNf7I0o+IU`
+Snapshot ID: `AAADYV8wr/0Eu33Eu2Ld9Pklgd8VZ9jl`

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-750 songs - 1 day 11 hr 45 min
+751 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 | 2024-04-19 |  |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-04-27 | 2024-07-25 |
 | [Calaboose](https://open.spotify.com/track/2wHTMZwkLbpM6LNkUBs2Xt) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:05 | 2023-03-29 | 2023-07-15 |
+| [California](https://open.spotify.com/track/1SlT79Pmk6vTiyO8l7bEdB) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [California](https://open.spotify.com/album/73T4yFzSVGkDw9WeYsVZtN) | 2:48 | 2025-11-24 |  |
 | [California Love](https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [ANYWAY](https://open.spotify.com/album/64MZHXV7IglO8LE8KplSRw) | 2:55 | 2025-07-15 |  |
 | [Call](https://open.spotify.com/track/4SwNUr2HyPu1HpiIxX3E4R) | [Lopon Sidhu](https://open.spotify.com/artist/6xLk6uOnCRbbyQuS7Qb0uC) | [Lopon Wala Sidhu](https://open.spotify.com/album/6s0jbF0UuD4Dac4J5AjATY) | 2:34 | 2023-12-07 | 2024-01-06 |
 | [Can't Judge](https://open.spotify.com/track/7HI8nsYQlsdz3DA02qbEpl) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Kelly](https://open.spotify.com/artist/4rJT3c6YMsd8gcZNgLpGS5) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 1:59 | 2023-04-14 | 2023-04-21 |
@@ -511,7 +512,7 @@
 | [NOW](https://open.spotify.com/track/1E6UgMP4e9mod52TJDpmdz) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [NOW](https://open.spotify.com/album/4tddGC4KJCTe6OaT4OmnlW) | 2:24 | 2023-11-24 | 2024-01-26 |
 | [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 | 2024-04-11 | 2025-08-14 |
 | [Nukra](https://open.spotify.com/track/113NNK55hGq1KmKOyz7qH2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Nukra](https://open.spotify.com/album/4GI47LHmkl0zcuAOph2lXO) | 2:30 | 2023-03-29 | 2023-04-21 |
-| [ODYSSEY](https://open.spotify.com/track/49Zq4kN3GmkrGvsSfpwGjI) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [ODYSSEY](https://open.spotify.com/album/4k6mvXJJgWRv1mPONFe0kv) | 2:36 | 2025-11-13 |  |
+| [ODYSSEY](https://open.spotify.com/track/49Zq4kN3GmkrGvsSfpwGjI) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [ODYSSEY](https://open.spotify.com/album/4k6mvXJJgWRv1mPONFe0kv) | 2:36 | 2025-11-13 | 2025-11-25 |
 | [Off Limits](https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Off Limits](https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57) | 2:02 | 2024-12-03 |  |
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 | 2024-01-20 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2023-03-29 | 2023-07-06 |

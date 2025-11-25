@@ -1381,6 +1381,32 @@
     },
     {
       "album": {
+        "name": "Vettaikaaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0hUyJVl6Vu09inweWcUDFC"
+      },
+      "artists": [
+        {
+          "name": "Vijay Antony",
+          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Kabilan",
+          "url": "https://open.spotify.com/artist/2MxriAGmcX5lgQt3SFyru6"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275320,
+      "name": "Nan Adicha",
+      "url": "https://open.spotify.com/track/709CXottAkQWL83UqsilQc"
+    },
+    {
+      "album": {
         "name": "Kanchana 3",
         "url": "https://open.spotify.com/album/12OX9m9OjyMXG21wn9piys"
       },
@@ -2008,7 +2034,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 238913,
       "name": "Sodakku",
       "url": "https://open.spotify.com/track/1yotVCnfaPDvp9C7LsdGB1"

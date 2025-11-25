@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Fulana
+> Global crossovers by/with Arab artists\. Cover: Shargeeya
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,412 likes - 53 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,413 likes - 53 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reality Check](https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [MA3ASSALAMA Side B: Begin Again](https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7) | 3:23 |
-| 2 | [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 |
-| 3 | [She Likes a Boy](https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:09 |
-| 4 | [ya sirri](https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ya sirri](https://open.spotify.com/album/5xzNDEQHzMiI3xFN6lt7RQ) | 3:05 |
-| 5 | [If I Must Die](https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [If I Must Die](https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5) | 2:44 |
-| 6 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
+| 1 | [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 |
+| 2 | [She Likes a Boy](https://open.spotify.com/track/76frYoCK0lRG96SBXpJPp0) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:09 |
+| 3 | [ya sirri](https://open.spotify.com/track/0xzGx0wgTBsqx89iabR5Iy) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ya sirri](https://open.spotify.com/album/5xzNDEQHzMiI3xFN6lt7RQ) | 3:05 |
+| 4 | [If I Must Die](https://open.spotify.com/track/1bUdNH9WMnKjjJtMJeVPjy) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [If I Must Die](https://open.spotify.com/album/6d9ZXeO25MhLiiThjPq0W5) | 2:44 |
+| 5 | [Jananto](https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Jananto](https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU) | 3:01 |
+| 6 | [Reality Check](https://open.spotify.com/track/6k7qOESVYyZM8diZIR1BFE) | [Tamtam](https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio) | [MA3ASSALAMA Side B: Begin Again](https://open.spotify.com/album/0XEe9rqLNBP8nlQi9DaAi7) | 3:23 |
 | 7 | [Beaucoup](https://open.spotify.com/track/4IXasJjUsHa69EHAFs1z7E) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Beaucoup](https://open.spotify.com/album/3jrVZmsNfhvh7ItgdxmdG3) | 3:13 |
 | 8 | [Aqua](https://open.spotify.com/track/4r2UrMXc7NVIhYvTeA3eiS) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Butter II](https://open.spotify.com/album/5Yj8eDOb1zGxatLjpi8611) | 3:39 |
 | 9 | [ITTY BITTY](https://open.spotify.com/track/0pcvgRYZOEujTeQIe4LUVj) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [ITTY BITTY](https://open.spotify.com/album/6tL83xMBrDJcRrbSqBelO3) | 2:23 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 52 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 |
 | 53 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
 
-Snapshot ID: `AAAAAEO74pu6uo5Erf/n/DfTleDWK0sA`
+Snapshot ID: `AAAAAI6UJpcZKWhJCRGBiRuNM1i78ofK`

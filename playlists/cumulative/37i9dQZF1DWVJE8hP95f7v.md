@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
 
-108 songs - 6 hr 30 min
+109 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Eu Quero Você](https://open.spotify.com/track/3KnTEmTlB1Pmyb4yjTCZl9) | [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Eu Quero Você](https://open.spotify.com/album/3VPERqLZf3AqEwgPfXoxDr) | 3:10 | 2023-12-08 |  |
 | [Faca Fake](https://open.spotify.com/track/6ExD1ytOeShmnoEkQ6EAy5) | [Aláfia](https://open.spotify.com/artist/2ZzDm7UiS7g3e9HVjTMr29), [Sérgio Vaz](https://open.spotify.com/artist/6vccXOyVtwBKPkOrDmsDJk) | [Liturgia Samba Soul](https://open.spotify.com/album/2XYOFAiPlXl4eUldblrFGb) | 3:03 | 2023-12-08 | 2024-03-16 |
 | [Fim de Fase](https://open.spotify.com/track/0aKDN2OuW7WZYjw2wBuPNf) | [Cammie](https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5) | [Fim de Fase](https://open.spotify.com/album/1MScU97uTx5EW5gUkoMkha) | 2:48 | 2023-12-08 |  |
-| [Foi no Baile Black](https://open.spotify.com/track/4ccOYTposmjfJuHHVauMQ9) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Foi no Baile Black](https://open.spotify.com/album/7eDMalorsA5rYigsjG12sf) | 3:55 | 2023-12-08 |  |
+| [Foi no Baile Black](https://open.spotify.com/track/4ccOYTposmjfJuHHVauMQ9) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Foi no Baile Black](https://open.spotify.com/album/7eDMalorsA5rYigsjG12sf) | 3:55 | 2023-12-08 | 2025-11-25 |
 | [Freedom](https://open.spotify.com/track/1900JESfRMYU1a35cFlqEm) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Freedom](https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT) | 3:38 | 2023-12-08 |  |
 | [garota](https://open.spotify.com/track/6SE86MRyphGonBovNQACII) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d) | [OS GAROTIN DE SÃO GONÇALO](https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ) | 3:14 | 2024-05-10 |  |
 | [Hey, Meu Irmão](https://open.spotify.com/track/4Cw2m0WUG089DQz4d0cA4E) | [OSócio](https://open.spotify.com/artist/22D5otAg5F4m45XKuF9Y2O), [Gerson King Combo](https://open.spotify.com/artist/0trib6wgWtz8KhGTbhLb5m) | [Hey, Meu Irmão](https://open.spotify.com/album/3Ykhvi2tH4a7SEhMgLnikx) | 2:52 | 2024-03-29 |  |
@@ -110,6 +110,7 @@
 | [Só Vem](https://open.spotify.com/track/6pRF997AHPwLzCRxu429th) | [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Só Vem](https://open.spotify.com/album/6c508kN5KWvy2R5F0jtQQv) | 3:00 | 2023-12-08 | 2024-04-19 |
 | [Tanto Faz](https://open.spotify.com/track/4p1Xa19ZjMsJrQ7FcPgHoN) | [Miguel Veleda](https://open.spotify.com/artist/1KtARhr94LMpQvfO8IrY73) | [Tanto Faz](https://open.spotify.com/album/0hDHf8jeylbdNJ1fwqUH3h) | 3:25 | 2023-12-08 |  |
 | [Te Queria](https://open.spotify.com/track/6yTuKiHV6VjroS2PY7CZi4) | [Zeca Do Trombone](https://open.spotify.com/artist/1tqfGIpfy4hVG7TI5I19sx) | [Rota\-Mar](https://open.spotify.com/album/1B6ODhLoto26LTzsZQJgEx) | 2:49 | 2023-12-08 |  |
+| [Tenta a Sorte](https://open.spotify.com/track/403HXmtlfUEBNCKjpcB0Eg) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tenta a Sorte](https://open.spotify.com/album/4cKEJfLC1Ek8Y9Ae7Cmctz) | 3:15 | 2025-11-24 |  |
 | [Tomorrow](https://open.spotify.com/track/7rccgTxP2qi2wGRI0hLCUN) | [Banda Black Rio](https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [Movimento](https://open.spotify.com/album/2Ih0oKZbfwF3PZgsDCqqof) | 4:08 | 2023-12-08 |  |
 | [tudo por você \(tipo pixote\)](https://open.spotify.com/track/4GBTlzpEEmeXa2BrK6ORFW) | [ieti](https://open.spotify.com/artist/12m12DbOfmeDQ3WHailSjx), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Nevs](https://open.spotify.com/artist/4x9tonVUuhOmOuDCpSQUjV), [EricBeatz](https://open.spotify.com/artist/6sPErN4KkLfCtU7vsybzG3), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [tudo por você \(tipo pixote\)](https://open.spotify.com/album/4zQihnvBaehZAK0svGGAcz) | 2:43 | 2023-12-08 | 2024-07-31 |
 | [Vadiagem](https://open.spotify.com/track/2jJh9rkFfCYxkjtfbNdv0l) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Sabor de amor](https://open.spotify.com/album/7ujzNhKq8tpx14MXkTLNBW) | 3:22 | 2023-12-08 |  |

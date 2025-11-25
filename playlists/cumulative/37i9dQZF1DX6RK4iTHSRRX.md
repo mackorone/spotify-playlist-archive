@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-146 songs - 5 hr 59 min
+147 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [O Come, All Ye Faithful \(Guitar Version\)](https://open.spotify.com/track/5HiH2ZR4LixsbrPVvLr0iA) | [Kim Aspen](https://open.spotify.com/artist/0TWDlZlnx5EiVZ1Ik1l2Al) | [Traditional Christmas: Gentle Guitar Versions](https://open.spotify.com/album/7zVcTzMQfUdTzW7GssZk2c) | 2:27 | 2021-12-22 | 2025-09-03 |
 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0uvQWZoaitMC7NOMGoYuwG) | [Dalton Webster](https://open.spotify.com/artist/7JPYRAXuQJ80B5CTpoRkkR) | [O Come, O Come Emmanuel](https://open.spotify.com/album/5TnDzdUs3q3IdYptdg2iqD) | 2:21 | 2022-11-11 | 2023-09-14 |
 | [O Holy Night](https://open.spotify.com/track/2rvx9qwjwMWuMWvESqawdd) | [Malik Ramirez](https://open.spotify.com/artist/2ZUdUlSIt3wle4LOWP91di) | [O Holy Night](https://open.spotify.com/album/6f7mVDqYRK8nAUF7qhaPDT) | 2:15 | 2024-11-06 |  |
+| [O Holy Night \(Arr\. Lawson for Guitar & Cello\)](https://open.spotify.com/track/3KKqkkafvvknSHkQWckXe5) | [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM), [Zara Hudson\-Kozdoj](https://open.spotify.com/artist/3jgKHHxYf7tw8Y6E61Lygb) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 4:27 | 2025-11-24 |  |
 | [O Holy Night \- Guitar](https://open.spotify.com/track/2l7dH2EDZ00SPwDUkzQWDH) | [Thomas McLaughlin](https://open.spotify.com/artist/1Qh7yyJd7zVC83RQ8DIS1u) | [O Holy Night \(Guitar\)](https://open.spotify.com/album/01GvSNKgaQ9x2hJLV9tA48) | 2:13 | 2021-12-22 |  |
 | [O Little Town Of Betlehem](https://open.spotify.com/track/1gheU3qwojggarqd8EykOv) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [O Little Town Of Betlehem](https://open.spotify.com/album/7wq0WEl08o2bduHGQESgNr) | 2:05 | 2021-12-22 | 2025-09-03 |
 | [Oh Christmas Tree](https://open.spotify.com/track/74tw0bOTkQxx8VcUcEz9ec) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Oh Christmas Tree](https://open.spotify.com/album/3YlVYVVYDgVSr3GxGzvs50) | 1:42 | 2024-11-06 |  |

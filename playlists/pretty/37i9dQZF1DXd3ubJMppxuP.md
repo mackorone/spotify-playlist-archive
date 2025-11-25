@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 
 > Hardstyle in het Nederlands\. Feest!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,846 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,851 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3ubJMppxuP.md) - [plain]
 | 17 | [Ik Ben Kachel \- Hardstyle Remix](https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel \(Hardstyle Remix\)](https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U) | 2:31 |
 | 18 | [Gas Geven \- Official Karnaval Festival 2025 Anthem](https://open.spotify.com/track/6BoPa3P3MHKqVmC4KxieID) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Buren Van De Brandweer](https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB), [Villain](https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3) | [Gas Geven \(Official Karnaval Festival 2025 Anthem\)](https://open.spotify.com/album/0Zf2yyiNSJtaaH1TZAf970) | 2:18 |
 | 19 | [Pizza Met Ananas \- Outsiders Remix](https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Pizza Met Ananas \(Outsiders Remix\)](https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v) | 3:04 |
-| 20 | [Huisje Op Wielen \- Outsiders Remix](https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Huisje Op Wielen \(Outsiders Remix\)](https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz) | 3:59 |
+| 20 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
 | 21 | [In De Hemel Is Geen Bier](https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [In De Hemel Is Geen Bier](https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc) | 2:24 |
 | 22 | [Weet Je Wel Wie Wij Zijn](https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn) | [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm) | [Weet Je Wel Wie Wij Zijn](https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0) | 2:50 |
 | 23 | [Dat Heb Jij Gedaan \- Hardstyle Edit](https://open.spotify.com/track/6MQwJRD57i2o2hwrG09ozr) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Dat Heb Jij Gedaan \(Hardstyle Edit\)](https://open.spotify.com/album/6Y0Se3shYP9WuW70ceKLl8) | 3:21 |

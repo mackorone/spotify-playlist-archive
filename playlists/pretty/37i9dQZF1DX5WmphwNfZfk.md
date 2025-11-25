@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Robert Robert
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,131 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,129 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 35 | [Creep](https://open.spotify.com/track/18K2IixA6vPlMariBILxrH) | [Savv4x](https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r), [Capt.](https://open.spotify.com/artist/0pKVXb50HVjL1VJ6jEy0GB), [Fonz0](https://open.spotify.com/artist/1KCn3OSU14kwqCa2sGXMam), [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh) | [Creep](https://open.spotify.com/album/5Wvy7SAUc4n4mV8HDH6k9Q) | 2:10 |
 | 36 | [Do The Most](https://open.spotify.com/track/243eeiV2otLAsCasKezNMx) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Do The Most](https://open.spotify.com/album/2ofb0U53n9aed9da9PgCa9) | 2:33 |
 | 37 | [Scattered Bodies](https://open.spotify.com/track/5iuSKKJcR7Nd4RdqP8GN9O) | [ABBI WOODS](https://open.spotify.com/artist/44GFA4EspGPaCQo4VqLzTR) | [Scattered Bodies](https://open.spotify.com/album/1jOCXq7xvDjNLFHJcLLuOl) | 3:05 |
-| 38 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
+| 38 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 39 | [You Know I Tried](https://open.spotify.com/track/4Ujh6guiAH6kTFFtlxtyd3) | [Jt5k](https://open.spotify.com/artist/489bascphvFqA0IvtYhc3y) | [Lucky Me](https://open.spotify.com/album/472e0hxko0E4kcX3pJsF8g) | 2:43 |
 | 40 | [Déjà trop loin](https://open.spotify.com/track/6PzE9gPiJo5tqcD599IBDa) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Déjà trop loin](https://open.spotify.com/album/798eCVlIUWmB0sWCJEELin) | 4:28 |
 

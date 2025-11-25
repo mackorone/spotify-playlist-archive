@@ -4,7 +4,7 @@
 
 > 
 
-760 songs - 1 day 23 hr 35 min
+761 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Angel](https://open.spotify.com/track/6ocPC3yXhpMdzdOAgiju6y) | [Skies Turn Black](https://open.spotify.com/artist/4sCElMDKCwtdjhP4Ib4gC3) | [Angel](https://open.spotify.com/album/5W9CyC9Z4na5p4yJ0AudRR) | 4:04 | 2025-07-02 |  |
 | [Angel I Needed](https://open.spotify.com/track/3LqNRK1nuPz2yGFE7i4rr8) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2) | [Angel I Needed](https://open.spotify.com/album/0vnpKc0zQlLKzPRlIJxZwv) | 3:07 | 2024-12-12 |  |
 | [Angry Demeanor](https://open.spotify.com/track/4Y0988glkOw6htawXQIUtZ) | [Daniel Whitehead](https://open.spotify.com/artist/0QNSng16ziXqG8Ke1PFtAN) | [Moments Between](https://open.spotify.com/album/5DLM5DYug0qRj1xb8wZ79Q) | 3:04 | 2025-04-24 |  |
+| [Anitya](https://open.spotify.com/track/3gAY2oiEDApvv4Qra5JkWA) | [Story Over Night](https://open.spotify.com/artist/0xD1rWlMwDqNGOggf8B7uB) | [Anitya](https://open.spotify.com/album/3fpVPwneQbTQXlH5GBOD8A) | 3:05 | 2025-11-24 |  |
 | [Another Me](https://open.spotify.com/track/6yRW9K6Ra063o6iEFoudjp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Another Me](https://open.spotify.com/album/4Rzrxe2plr3iRS4Chm2kOW) | 3:52 | 2024-12-12 |  |
 | [Antes do Fim](https://open.spotify.com/track/312pZXdVyBJr8iUTMQjxg9) | [LinkHal](https://open.spotify.com/artist/40K4yTKWbNbFPfUIGeESQa) | [Antes do Fim](https://open.spotify.com/album/6wYELSGAfoVHPOU4jFNgNI) | 2:18 | 2025-05-06 |  |
 | [Apotheosis](https://open.spotify.com/track/7HXONGzA2agswSxiuUdyIB) | [Tears on Paper](https://open.spotify.com/artist/3I8bUKDD6miAP2trqMdWo4) | [Apotheosis](https://open.spotify.com/album/2wHwlWiM6JjioTqakwWZpa) | 5:36 | 2025-08-21 |  |

@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43722,
+  "num_followers": 43719,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAafzJX6y+vEgItUxPl1hRp8YdZ5O7C",
+  "snapshot_id": "AAAagXduRhpc07ZPBhTvGhN8nLvHi62z",
   "tracks": [
+    {
+      "added_at": "2025-11-24 18:25:52",
+      "album": {
+        "name": "CODE/RED",
+        "url": "https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh"
+    },
+    {
+      "added_at": "2025-11-24 18:26:09",
+      "album": {
+        "name": "Crumbcore",
+        "url": "https://open.spotify.com/album/6U1ZiuIfbwGMdsdElavUpD"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "duration_ms": 120454,
+      "name": "Don't Hit My Line",
+      "url": "https://open.spotify.com/track/77FfSlC9rCXmbSyLLoEjUI"
+    },
     {
       "added_at": "2025-11-14 20:04:00",
       "album": {

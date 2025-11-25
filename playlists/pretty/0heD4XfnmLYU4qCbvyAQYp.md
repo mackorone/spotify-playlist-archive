@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,753 likes - 54 songs - 3 hr 37 min
+[Reinhard Zwisler](https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi) - 4,752 likes - 67 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,18 @@ pretty - [cumulative](/playlists/cumulative/0heD4XfnmLYU4qCbvyAQYp.md) - [plain]
 | 52 | [TIME, A precious thing](https://open.spotify.com/track/29aBAdsMAxisxLOjDIGfE8) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [TIME, A precious thing](https://open.spotify.com/album/2CfhRG7iIcQGYLYBmTsT2X) | 3:50 |
 | 53 | [When The Train Leaves The Last Station](https://open.spotify.com/track/6ykYdFOsPrZ6jzZVHOXoOb) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [When The Train Leaves The Last Station](https://open.spotify.com/album/6o9WRu4pCJtArDhsVCJyGQ) | 3:12 |
 | 54 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 |
+| 55 | [Medo](https://open.spotify.com/track/1Pzo6BtYmAvLYo4yyCZBgd) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [An Open Window](https://open.spotify.com/album/0ytewcDY7woiqooEiKMt5a) | 4:42 |
+| 56 | [The Rage I Felt](https://open.spotify.com/track/0OoZTTSWWtFsUuAsBB6QCz) | [Between Two Winters](https://open.spotify.com/artist/1QICrr5xzMMZtjPs9tr2gd) | [Lorenzo](https://open.spotify.com/album/54G9cItsqKUXnpSA8bIElt) | 4:25 |
+| 57 | [Relations](https://open.spotify.com/track/3z4yeBOZWcnC8xn95osAPC) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Relations](https://open.spotify.com/album/6UkWcFTCAGuD1EbbaQhNBM) | 5:16 |
+| 58 | [Felt Cute, Might Delete Later](https://open.spotify.com/track/78RMNtziAVWymdQK6kj1r6) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [Felt Cute, Might Delete Later](https://open.spotify.com/album/3RhJ9xe3wPepN4GZwnx1mK) | 3:12 |
+| 59 | [Sweet Cream](https://open.spotify.com/track/4aroO5zetdRxhBwVyB4tsG) | [The Galentines](https://open.spotify.com/artist/2Xn7EfGdxCwn5fxjEWmNoP) | [1140](https://open.spotify.com/album/4Q0aacEIQ4ClOYnCzzCK4l) | 2:55 |
+| 60 | [Claridad](https://open.spotify.com/track/5cJifL4P0gsUeBThG2aWPq) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 3:45 |
+| 61 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 |
+| 62 | [Silent code](https://open.spotify.com/track/6aYkXZKiZtZdzKogJ5ghFn) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:03 |
+| 63 | [Heavy Hands](https://open.spotify.com/track/0aJlVbtOB0n5oxgJtkSsrn) | [Pebblepimp](https://open.spotify.com/artist/0ASySyTBd1Pb2igFSE6SmV) | [Finish Grade](https://open.spotify.com/album/2YGsZ5MMye11RxtFO2nY6k) | 4:24 |
+| 64 | [Cigarettes & You](https://open.spotify.com/track/7FZVT77Cdxym3m1NIoTMsh) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Cigarettes & You](https://open.spotify.com/album/4RU6yASw82LGwgKQkxXEHp) | 4:43 |
+| 65 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 |
+| 66 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 |
+| 67 | [Slack Rope](https://open.spotify.com/track/3x8nIorifFOoWpOVIeQOhC) | [Marionet](https://open.spotify.com/artist/6gGDtaknwTYnz3uL27y0Cy) | [The Last Party](https://open.spotify.com/album/4m6NOxX7CcquS9izfAs1mO) | 4:20 |
 
-Snapshot ID: `AAAN4AXWPw6Er7aBrIAJjeJ76MSq9kwY`
+Snapshot ID: `AAAN7Ycsqh0fj5z8O4NNiyx+gWcoD4uq`

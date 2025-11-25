@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 264487,
+  "num_followers": 264543,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 187125,
+      "name": "Lydia (please make it better)",
+      "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 278379,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/4WzXJHxNBHuMuGg89mZFh1"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 187125,
-      "name": "Lydia (please make it better)",
-      "url": "https://open.spotify.com/track/04yl0gqAhDRZe3MLAncaiD"
     },
     {
       "added_at": "2025-10-03 08:23:35",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
-      },
-      "artists": [
-        {
-          "name": "Thief Traveler",
-          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "Daybreak",
-      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
-    },
-    {
-      "added_at": "2025-10-03 08:23:35",
-      "album": {
         "name": "WORRY.",
         "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
@@ -899,18 +883,38 @@
     {
       "added_at": "2025-10-03 08:23:35",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0X6uOzPmx1XRmCdvEkJdVG"
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/23Ly2dZl37JelCLEZ3c3NX"
       },
       "artists": [
         {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+          "name": "Thief Traveler",
+          "url": "https://open.spotify.com/artist/4mrLTjLmGbyjfZHuQytlq0"
         }
       ],
-      "duration_ms": 242437,
-      "name": "You",
-      "url": "https://open.spotify.com/track/3VtQjrv6HWQKf3fuJsPfim"
+      "duration_ms": 141818,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/6PsEx3SkcwMW7lG50kdxQY"
+    },
+    {
+      "added_at": "2025-10-03 08:23:35",
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 233009,
+      "name": "Dreaming (feat. Bruno Major)",
+      "url": "https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r"
     }
   ],
   "unique_name": "Melantronic",

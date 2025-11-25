@@ -1,12 +1,12 @@
 {
   "description": "The Hottest Arabic Music.\nCover: DYSTINCT",
-  "num_followers": 579459,
+  "num_followers": 579554,
   "original_name": "Yalla ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACWoyajIbzLJ0RjMp4YumA/ELAJV",
+  "snapshot_id": "AAAAAMeKqhI/ffHY1eKkDGA4rShKQWMl",
   "tracks": [
     {
       "added_at": "2025-11-10 06:33:58",
@@ -83,6 +83,22 @@
       "duration_ms": 257479,
       "name": "Khatfoony",
       "url": "https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg"
+    },
+    {
+      "added_at": "2025-11-24 06:39:06",
+      "album": {
+        "name": "NANCY 11",
+        "url": "https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 150570,
+      "name": "Ya Albo",
+      "url": "https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd"
     },
     {
       "added_at": "2025-11-10 06:33:58",

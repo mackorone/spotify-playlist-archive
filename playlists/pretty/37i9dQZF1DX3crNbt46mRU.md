@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Aya Nakamura, Patent Ochsner,  Tate McRae, Zoë Më, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,051 likes - 95 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,055 likes - 95 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 28 | [GIFTMORD](https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [GIFTMORD](https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh) | 2:48 |
 | 29 | [Schlaf](https://open.spotify.com/track/2ZqEViKZOBwd05aYnDYGil) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Schlaf](https://open.spotify.com/album/1pou2U02feKSGGkT7tTFhW) | 2:19 |
 | 30 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
-| 31 | [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 |
+| 31 | [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 |
 | 32 | [Vivre pour le meilleur](https://open.spotify.com/track/6AoqAr8k5AOkyvOvVpbiV0) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI \(Édition OR\)](https://open.spotify.com/album/2hNZGt3B5r81TDem4XvWYT) | 4:16 |
 | 33 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 |
 | 34 | [Weil du bist wie du bist](https://open.spotify.com/track/21tm4xuevFuJmyAywKXMwk) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Weil du bist wie du bist](https://open.spotify.com/album/1p5jv4Sku72YEPLTN9DkiL) | 2:35 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 94 | [Was bringt mir das letzte Wort?](https://open.spotify.com/track/5YXlafG9TsTVGmyr8JbvCS) | [Fabian Wegerer](https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ), [Xam651](https://open.spotify.com/artist/4OmN6Ve9seRvN4gVcwjCGW) | [Was bringt mir das letzte Wort?](https://open.spotify.com/album/1Oswdgads6HO2DYvIrrXMg) | 2:26 |
 | 95 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |
 
-Snapshot ID: `AAAAAADpVlMc+Typ+8BM73gg1kx2qkqm`
+Snapshot ID: `AAAAAPxli1FTSbRPH/fLQVVMZtWYmRsK`

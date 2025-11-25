@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,454 songs - 12 day 16 hr 47 min
+5,455 songs - 12 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -662,6 +662,7 @@
 | [Bright](https://open.spotify.com/track/7BAUtkWAdGoFLbFbjdqMfr) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Bright](https://open.spotify.com/album/6uNRomKIuONC2y8ljKqvQV) | 2:39 | 2021-06-19 | 2021-07-04 |
 | [Bright Spot II](https://open.spotify.com/track/2MQpOygB884YZAm56yjsLw) | [Blue Canopy](https://open.spotify.com/artist/4DafnLqAVXnrI6C0IAkhGE), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Bright Spot II](https://open.spotify.com/album/7naMJmjNKKoMdJdadE9fhw) | 3:29 | 2024-04-26 | 2024-05-09 |
 | [BRIGHTER DAY](https://open.spotify.com/track/4G5pwamHl8oO31tPX4cF9j) | [Brian Loyde](https://open.spotify.com/artist/3YChbpxtV506Tup3EwFbJH) | [BRIGHTER DAY](https://open.spotify.com/album/7MM4IZJQ0mZmAnFgjLouYy) | 3:22 | 2024-11-22 | 2024-12-05 |
+| [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 | 2025-11-24 |  |
 | [Bring On The Flood](https://open.spotify.com/track/3SrfAYezqfrkRkwjyj9ff7) | [Tasks](https://open.spotify.com/artist/4h0UTYf2qb7E9j0a7I2uZ8) | [The Grand Dissatisfaction](https://open.spotify.com/album/34uEvpv8GbYYllW1AHtBWg) | 4:06 | 2024-12-27 | 2025-01-08 |
 | [Bring On The Rain](https://open.spotify.com/track/1GbOsJIOKcxek838AvxYI6) | [PEP SAMMARTINO](https://open.spotify.com/artist/05G2yJEqbjhaBKN0pk4urS) | [Bring On The Rain](https://open.spotify.com/album/4YhFg9BuYVOVrrYFxVfYe2) | 4:00 | 2023-04-18 | 2023-05-02 |
 | [Broken](https://open.spotify.com/track/4pyRniHDVjQTgMmuO2g0v9) | [Ian\-Carl](https://open.spotify.com/artist/65AuEMrdDZ9qfUTxdkKwVd) | [Broken](https://open.spotify.com/album/1PBwnGxQyvgUUL09o7fqUG) | 4:15 | 2024-10-18 | 2024-10-30 |

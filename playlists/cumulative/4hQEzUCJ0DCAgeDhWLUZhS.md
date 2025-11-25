@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-536 songs - 1 day 7 hr 24 min
+539 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [BIG MACHINE](https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIG MACHINE](https://open.spotify.com/album/1ObhvbWzD8dAHfm9Go4DZw) | 3:17 | 2025-11-11 |  |
 | [Big Youth \(feat\. El\-P\)](https://open.spotify.com/track/7FssY58XwtD4CRhOT9N8Md) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:03 | 2023-10-12 | 2025-06-04 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 | 2025-06-03 |  |
+| [BIRDBRAIN](https://open.spotify.com/track/2Lny6u3Vd8aeBSPlj9WxiQ) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 2:00 | 2025-11-25 |  |
 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 | 2025-06-03 |  |
 | [Black Bull](https://open.spotify.com/track/14PVSmvbws1BrJynbTCJB7) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Black Bull](https://open.spotify.com/album/5jnW68gaF2SWL27bRIkq0I) | 3:07 | 2020-10-10\* | 2021-02-25 |
 | [Black Chandelier](https://open.spotify.com/track/1Lilehka5GXo4nt7LrH0Ae) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites](https://open.spotify.com/album/3oGG66OOobRoldGzZjI31P) | 4:04 | 2020-10-10\* | 2021-02-25 |
@@ -60,6 +61,7 @@
 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 | 2022-02-04 | 2025-06-04 |
 | [Black Summer](https://open.spotify.com/track/4pQB8gTwQ4YJwiWMrqIAHP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Poster Child](https://open.spotify.com/album/7hcWLkAhIDMGJCi2mIUQa8) | 3:52 | 2025-06-03 |  |
 | [Bleeding In The Blur](https://open.spotify.com/track/6NcTKRtXWG6w5TSWnwMHGm) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 4:04 | 2020-10-10\* | 2021-02-25 |
+| [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-25 |  |
 | [blood \(feat\. KennyHoopla & JUDGE\)](https://open.spotify.com/track/4oGdeEvF5iKi3FydasLD7y) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [JUDGE](https://open.spotify.com/artist/1QyROiT6mJDfdLKRZ9HBIz) | [blood \(feat\. KennyHoopla & JUDGE\)](https://open.spotify.com/album/4WP9gLuuR0r17Tw2GI3I11) | 2:38 | 2020-11-03 | 2022-03-18 |
 | [Blood On My Leather](https://open.spotify.com/track/35ZmQdHzKlVrkWZkn8ftwP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Blood On My Leather](https://open.spotify.com/album/6ahaUiVd3ihYcAHTFCa2do) | 2:33 | 2020-10-10\* | 2021-02-25 |
 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 | 2024-01-18 | 2025-06-04 |
@@ -350,6 +352,7 @@
 | [Party Ghost](https://open.spotify.com/track/72CCtQNYzdvIQHYbCHeD9n) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Party Ghost](https://open.spotify.com/album/2UHQxrTwRzVY1ZAfOHyDew) | 2:47 | 2022-04-28 | 2025-06-04 |
 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 | 2020-10-10\* | 2021-05-13 |
 | [Phantom Island](https://open.spotify.com/track/4poGq0eUVXKaCRI8aqNnqI) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:14 | 2025-06-03 |  |
+| [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 | 2025-11-25 |  |
 | [Play](https://open.spotify.com/track/7AcPjydnEiMFE2RN1TqPk9) | [Zed](https://open.spotify.com/artist/4LkIslEZ5nN9DpibfQKOyt) | [Play](https://open.spotify.com/album/0tYtBHH3IkUsDY1HKJ9Elq) | 3:52 | 2024-06-28 | 2025-06-04 |
 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 | 2021-07-31 | 2025-05-28 |
 | [Pollyanna](https://open.spotify.com/track/4b2h4jQxgHpiWuLH8rp8Vu) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Pollyanna](https://open.spotify.com/album/21i1bokXCRyRyszxxNvX19) | 3:15 | 2021-05-22 | 2025-05-28 |

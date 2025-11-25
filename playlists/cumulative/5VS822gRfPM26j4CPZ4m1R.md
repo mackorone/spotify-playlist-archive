@@ -4,7 +4,7 @@
 
 > Playlist
 
-621 songs - 1 day 12 hr 48 min
+622 songs - 1 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Disco Baby](https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 3:46 | 2023-10-25 |  |
 | [Disorder](https://open.spotify.com/track/6PHd6lj7ILzzUzQz1NgCTy) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Disorder](https://open.spotify.com/album/3cIloylSmpuvHdSMm4JdQ3) | 4:05 | 2023-10-25 |  |
 | [Divine Energy](https://open.spotify.com/track/5Z7KxFM4Rh9G30pT7p6PRs) | [Mild Universe](https://open.spotify.com/artist/5yoKxCrbs3rGiUMUuPcknJ) | [Everything Must Change](https://open.spotify.com/album/7JrbVR92TUZZAe1b7PlYay) | 4:09 | 2024-11-14 |  |
+| [Dixie Diamond](https://open.spotify.com/track/4m2Qn0sOEeUQkrHX9Yb0nQ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 2:47 | 2025-11-24 |  |
 | [Do I Make You Feel Shy?](https://open.spotify.com/track/7ABDb890Jh4wqlojTElUra) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 3:14 | 2023-12-11 |  |
 | [Don't Fall Apart on Me Tonight](https://open.spotify.com/track/0U5rOWZm4eQ0WufBimAwrJ) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 4:19 | 2023-10-25 |  |
 | [Don't U Think](https://open.spotify.com/track/3QEF83nsLCaLwdkwEgdOan) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [15Th Floor](https://open.spotify.com/album/3uc2UzR3TBTkZGthcr2Zke) | 3:39 | 2023-10-25 |  |

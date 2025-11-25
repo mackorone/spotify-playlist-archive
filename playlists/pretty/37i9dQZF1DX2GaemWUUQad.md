@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GaemWUUQad.md) - [plain]
 
 > Let these songs be your travel partner this Diwali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 253 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

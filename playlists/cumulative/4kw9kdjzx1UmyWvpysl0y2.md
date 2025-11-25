@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,123 songs - 2 day 14 hr 49 min
+1,124 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Adrenaline](https://open.spotify.com/track/0BnCCDEN50k16bZeGIZPz1) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Adrenaline](https://open.spotify.com/album/26JpOuYZeyN0ker0XjK6Ih) | 3:11 | 2025-10-01 |  |
 | [AF1](https://open.spotify.com/track/3uMe9Jrzjn006oHTAvgvYj) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AF1](https://open.spotify.com/album/6gRSAPkjUctZmxPlG6LN7F) | 1:51 | 2024-09-25 | 2024-12-19 |
 | [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 | 2023-03-15 |
+| [after dark](https://open.spotify.com/track/0NJCqEATpphBXDl9iWk9iW) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [after dark](https://open.spotify.com/album/2kjC0jHNdyYNtc4AFkgc8x) | 3:35 | 2025-11-24 |  |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
 | [Afterglow](https://open.spotify.com/track/02ACX88wFNYy3CAcE3GgTh) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82), [ANYLIA](https://open.spotify.com/artist/5vmyToEQFm8oFq7IurCMNX) | [Afterglow](https://open.spotify.com/album/69JrGNnFGdbfFdOeqwEt8h) | 2:34 | 2025-07-24 | 2025-10-24 |
 | [Afterlife](https://open.spotify.com/track/4081TAnw43uCRlG6cK6nCH) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Afterlife](https://open.spotify.com/album/5YO6ljMF8OGBFZ8IWMIebX) | 3:06 | 2025-07-28 | 2025-10-24 |

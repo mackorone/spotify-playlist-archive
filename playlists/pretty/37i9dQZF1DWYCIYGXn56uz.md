@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: ANTONIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,670 likes - 96 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,643 likes - 96 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 32 | [Effetto Michelangelo](https://open.spotify.com/track/0gjhofGQhOfHRPIMUm4xZR) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Effetto Michelangelo](https://open.spotify.com/album/6UW5e6nybaoQxKWj6rlhFc) | 3:12 |
 | 33 | [Mon Amour](https://open.spotify.com/track/32MSyU9DbEBSmUGQWJm9Q4) | [PRINCIPE](https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH) | [Mon Amour](https://open.spotify.com/album/1k9M6MbGeVeSmDCB5BRKix) | 2:17 |
 | 34 | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/track/1XhTyKFFySgEHONZYsZcdT) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [Genie In A Bottle \- Spotify Singles](https://open.spotify.com/album/6LmGzRqpz6W0XV7fysHXuG) | 3:11 |
-| 35 | [Mi Stresso](https://open.spotify.com/track/5beLgSQ1MQHKnaufnhD9Bg) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG), [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck) | [Mi Stresso](https://open.spotify.com/album/4vSB2FP8fSE2FNvwDBwxVo) | 2:19 |
+| 35 | [Mi Stresso \(feat\. Wemme Flow\)](https://open.spotify.com/track/5beLgSQ1MQHKnaufnhD9Bg) | [TALEA](https://open.spotify.com/artist/1QPMclfrcuAtIuKgXmvP00), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG), [Crytical](https://open.spotify.com/artist/1zcq8tjytfCbpj2VHmGfck), [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny) | [Mi Stresso \(feat\. Wemme Flow\)](https://open.spotify.com/album/4vSB2FP8fSE2FNvwDBwxVo) | 2:19 |
 | 36 | [SAPONE](https://open.spotify.com/track/7GfDT77TQ1HW220mzJ1get) | [ALBE.x](https://open.spotify.com/artist/20pY261He7JCdV1FbbGZQb) | [SAPONE](https://open.spotify.com/album/5nU1vP4AZnSq62xaXcVYhz) | 2:02 |
 | 37 | [Dipendente da te](https://open.spotify.com/track/5j5hvpZ5YCmYdNGFNnWbPz) | [Hanna B](https://open.spotify.com/artist/7dRjWREvbUv6xFii2698fs) | [Dipendente da te](https://open.spotify.com/album/6JOYaQSTZ2yimw8YXQDN47) | 1:57 |
 | 38 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 |

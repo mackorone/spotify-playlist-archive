@@ -4,7 +4,7 @@
 
 > 
 
-298 songs - 18 hr 32 min
+299 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Start The Party](https://open.spotify.com/track/3JTs35pIOfY4SFW37OSCuP) | [George Smeddles](https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2) | [Start The Party](https://open.spotify.com/album/69OjLBCghiR663cJrwuRlP) | 6:40 | 2025-01-24 | 2025-10-06 |
 | [Stay Loose](https://open.spotify.com/track/3S40WtQFsa8Z69UiXnJvI4) | [Nestor Neven](https://open.spotify.com/artist/04QHoBmUIROxR90nrEA18k) | [Stay Loose](https://open.spotify.com/album/1TmndXEFCJW9JTt9bXCAn0) | 5:18 | 2024-10-29 | 2025-10-06 |
 | [Stay With It](https://open.spotify.com/track/1YrrEABN4J40XJTSxiV7LE) | [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Stay With It](https://open.spotify.com/album/4FYAoedqnkIQTBvjEoyMXo) | 5:13 | 2024-07-09 | 2025-10-06 |
+| [Strip](https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Rich Rocka](https://open.spotify.com/artist/5zyFGZT9upznN1km4yW6GQ) | [Back to the Roots](https://open.spotify.com/album/65yj8V45NuI9oc22oCdUOn) | 3:16 | 2025-11-25 |  |
 | [Sublime](https://open.spotify.com/track/4mYFelexMuf7kgSbGBdbJv) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [Sublime](https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv) | 2:55 | 2024-02-14 | 2025-10-06 |
 | [Sugar Daddy](https://open.spotify.com/track/0TVy1MgOle32ptiamyaAxu) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Sugar Daddy](https://open.spotify.com/album/3pAjCG04eTukFMJwx29xSs) | 2:49 | 2024-04-20 | 2025-10-06 |
 | [Suspect](https://open.spotify.com/track/0zZ8UcJq2jSg9uZxoG39nI) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Suspect](https://open.spotify.com/album/2gw6asMoga2yc9BRn4Ryxb) | 2:14 | 2025-05-19 |  |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Aksel Kankaanranta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,366 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,364 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mitä sanoisin](https://open.spotify.com/track/25SoKwDPWrwyHncMPNPg3t) | [Aksel Kankaanranta](https://open.spotify.com/artist/6IEH2DB0MSkCSY3uro9za2) | [Mitä sanoisin](https://open.spotify.com/album/6EKFjeZ4Wsk7gIZgofNW9M) | 3:17 |
 | 2 | [Sydän auki](https://open.spotify.com/track/2wbmOpQNbyDId4SUH6Pdgp) | [Ylva Haru](https://open.spotify.com/artist/5kPC48lvYkLbKkXbbVWees) | [Sydän auki](https://open.spotify.com/album/3593RcgGdPW73DwEeB2YUe) | 4:24 |
-| 3 | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4), [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/album/6rX7ExQmzcWyuqPdKjZXwA) | 2:57 |
-| 4 | [Ehkä elämä voittaa](https://open.spotify.com/track/2zqJMNEDXHSFLFInkToHBb) | [Risto](https://open.spotify.com/artist/0EYsqhRnTOHHV222MPpn4H) | [Ehkä elämä voittaa](https://open.spotify.com/album/49Tp8wjwhK3uFoP0rYArC8) | 3:04 |
-| 5 | [Riivana](https://open.spotify.com/track/1BceEqG69NNs05az1BeG08) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Riivana](https://open.spotify.com/album/5H5gfsg2DRzbCEEsVgjJsN) | 2:37 |
-| 6 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
-| 7 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
+| 3 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
+| 4 | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4), [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/album/6rX7ExQmzcWyuqPdKjZXwA) | 2:57 |
+| 5 | [Ehkä elämä voittaa](https://open.spotify.com/track/2zqJMNEDXHSFLFInkToHBb) | [Risto](https://open.spotify.com/artist/0EYsqhRnTOHHV222MPpn4H) | [Ehkä elämä voittaa](https://open.spotify.com/album/49Tp8wjwhK3uFoP0rYArC8) | 3:04 |
+| 6 | [Riivana](https://open.spotify.com/track/1BceEqG69NNs05az1BeG08) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Riivana](https://open.spotify.com/album/5H5gfsg2DRzbCEEsVgjJsN) | 2:37 |
+| 7 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
 | 8 | [Romanssi](https://open.spotify.com/track/6nb2FSfXsVLdhWErcBX2ea) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Romanssi](https://open.spotify.com/album/1MhBEolokjsYzsm5nk0kH1) | 2:45 |
 | 9 | [Silmät selässä](https://open.spotify.com/track/35hI4PY2rOu1pq41Jv7Xk5) | [Vialea](https://open.spotify.com/artist/3NriCRi6a3RwaQtyJ9WH7D) | [Silmät selässä](https://open.spotify.com/album/2tZ7pjODq8JwaqHQV9koqj) | 3:32 |
 | 10 | [Tahdon](https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae) | [louna0nline](https://open.spotify.com/artist/363l8KbAMnNgWeNfH9m6Jy) | [WEB](https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y) | 3:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Sail Away](https://open.spotify.com/track/5EOSnoLAZ2lhhkyYpljMCG) | [Free Carmen](https://open.spotify.com/artist/6P4zkYj5jjhOHdlob4OUYx) | [Sail Away](https://open.spotify.com/album/4WMg1aYxn4y65SFkUn4QUW) | 3:56 |
 | 80 | [Kuiskaus](https://open.spotify.com/track/06B18ox0YbchjWBO7mxLgc) | [Janne Huu](https://open.spotify.com/artist/2IpVLD7OTKAdzV2kSQkVgl) | [Kuiskaus](https://open.spotify.com/album/4bsLb7ZmK1XwQN7HT09BWv) | 3:28 |
 
-Snapshot ID: `AAAAAGpJRgiW22S4Uy2AXz10cW1o+J9R`
+Snapshot ID: `AAAAAJ0TTPmkNqt9+6Dk1o2a/GEQBPIL`

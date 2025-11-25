@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-323 songs - 13 hr 49 min
+327 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amalie](https://open.spotify.com/track/4tBduWZZ2toaLm1rfJ4Ju0) | [Lane Westland](https://open.spotify.com/artist/2SQWcfUh4dpLWj5J72YdAH) | [Amalie](https://open.spotify.com/album/0uK2lE2FMY1FK0nTHXoLXe) | 3:13 | 2021-12-09 |  |
 | [Amanda's dream](https://open.spotify.com/track/410wWW3Ng4O5qMGECf1zLk) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Amanda's dream](https://open.spotify.com/album/4zoOiGW5M19UdcoBKJ9cIq) | 1:24 | 2024-05-03 | 2025-04-08 |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 | 2023-06-09 |
+| [Approaching A City](https://open.spotify.com/track/4tZrD16JmwGhzN3G2U8uOi) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Approaching A City](https://open.spotify.com/album/6XOCfS8bPU62fR5NbuOyBX) | 2:48 | 2025-11-24 |  |
 | [Apricus](https://open.spotify.com/track/1Qx9oBeA9rFB67iVBmykMN) | [Samuel Kahn](https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb) | [Apricus](https://open.spotify.com/album/5qZtRNKynn3NSGfe76wNWG) | 2:45 | 2024-04-19 |  |
 | [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 | 2025-04-08 |
 | [Arrow Point Port](https://open.spotify.com/track/06RkpwK6SqE0CWNM3lOvmZ) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Arrow Point Port](https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz) | 1:53 | 2022-08-19 | 2023-08-26 |
@@ -81,6 +82,7 @@
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2025-11-13 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2021-12-09 | 2024-06-08 |
 | [Edelweiss](https://open.spotify.com/track/7aa9kUH7qZonH3URpYBZ5k) | [Sleepy Puppies](https://open.spotify.com/artist/2jAIiERKgjiqD2qRpAtii3) | [Edelweiss](https://open.spotify.com/album/4rjTw6MmyKd847DGoO36Pj) | 1:53 | 2022-10-07 | 2023-02-25 |
+| [Eden](https://open.spotify.com/track/5VlARfqrV4W2yEg2T3kCrd) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Eden](https://open.spotify.com/album/7f02shxDg8W0Ej9jElDGsG) | 3:00 | 2025-11-24 |  |
 | [Ellysia's World](https://open.spotify.com/track/4v3kUnQV0aF6cVXNbNSr5q) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [String Theory](https://open.spotify.com/album/4dEUpNvJwcnjRBTYR369SM) | 2:44 | 2022-12-09 | 2023-04-29 |
 | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/track/0GawhkkBNAhPTyiITkqyFR) | [Pathfinder](https://open.spotify.com/artist/4teMSBnvZUn588FGFbu3qE) | [Empire \(Delta Binaural Beat\)](https://open.spotify.com/album/6LFbkAVLD2Reo2NcESuSit) | 2:14 | 2022-04-22 | 2023-04-29 |
 | [End Of Us](https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:52 | 2021-12-09 | 2024-04-05 |
@@ -98,6 +100,7 @@
 | [figurati](https://open.spotify.com/track/1YcdyFscXp5SH6yT0pbjO4) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [figurati](https://open.spotify.com/album/5CN8B0jAv9Ui2fN1apBrYJ) | 1:51 | 2022-05-27 | 2023-06-03 |
 | [Five Cornered Room](https://open.spotify.com/track/41iPgjTzfG65v54L3pwst9) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Five Cornered Room](https://open.spotify.com/album/04AbFpNCNq5Az76OyS0MR1) | 2:46 | 2023-06-08 | 2024-04-20 |
 | [Fjärilens vals](https://open.spotify.com/track/0c8qw1e6EKLoSP0ST7jByu) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Fjärilens vals](https://open.spotify.com/album/5uy8qV2Gc7M3bzfcOyrDBr) | 2:07 | 2022-07-01 | 2023-03-18 |
+| [Floating Forward](https://open.spotify.com/track/0xKjYEWto03CgN1LxLo3Bv) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Floating Forward](https://open.spotify.com/album/1NArt4RVEbgJM83PCWFaJ1) | 2:22 | 2025-11-24 |  |
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-24 |  |
 | [Foggy Morning](https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf) | [Michele Leao](https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF) | [Foggy Morning](https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj) | 3:05 | 2021-12-09 | 2022-05-27 |
 | [For T.](https://open.spotify.com/track/48PAdzQXHcM3A7pJICW6Co) | [Still Tides](https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP) | [For T.](https://open.spotify.com/album/2wYyGrlkOK0hLJ5a6yREzD) | 2:40 | 2024-09-10 | 2025-04-03 |
@@ -124,6 +127,7 @@
 | [Hana](https://open.spotify.com/track/4qbZZl95MzWIsRJXcNGEm5) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Heart Strings](https://open.spotify.com/album/4iorPBHCd2puA6SKUKbiLl) | 3:22 | 2021-12-09 | 2022-04-06 |
 | [Heads of the Valleys Road](https://open.spotify.com/track/0xNNyQG09OtHVd9BctjZ3j) | [Jess Morgan](https://open.spotify.com/artist/3sqUBL66V3rTDWwwG4XGaR) | [Heads of the Valleys Road](https://open.spotify.com/album/3MDqIoYtkq76CCK0FqcYKv) | 2:07 | 2021-12-09 | 2023-06-15 |
 | [Hiver d'une femme](https://open.spotify.com/track/0cOLFPHlAKB6fmBY7pg8Oo) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [Hiver d'une femme](https://open.spotify.com/album/4sZGcsP19LvNokPhHaf1SR) | 2:15 | 2021-12-09 | 2022-09-09 |
+| [Hotel Window](https://open.spotify.com/track/7MXLqbzSxFFnH5Tev8r1JF) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Hotel Window](https://open.spotify.com/album/5Ir8bu9DXkd34iLRWVUEjo) | 2:39 | 2025-11-24 |  |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2021-12-09 | 2025-11-13 |
 | [How Can I](https://open.spotify.com/track/3PMp2l8y9PZfPhLqH6fFW2) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [How Can I](https://open.spotify.com/album/07GAcIemxGblmrul2auuzv) | 2:46 | 2024-04-05 |  |
 | [Hush Little Baby](https://open.spotify.com/track/0AQoulYov7Lbw1fuOiXYFT) | [Espen Knuts](https://open.spotify.com/artist/0Fw24xJ3unietYYhx6jcwS) | [Hush Little Baby](https://open.spotify.com/album/6bETXLIIaW9PNZsU3XRMAF) | 1:53 | 2022-10-14 | 2023-02-25 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 
 ### [Classiques du Rap FR](https://open.spotify.com/playlist/37i9dQZF1DWSrqNVMcxGKc)
 
-> Tous les classiques du rap français dans une seule playlist ! Photo : 113
+> Tous les classiques du rap français dans une seule playlist ! Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,291 likes - 60 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,282 likes - 60 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrqNVMcxGKc.md) - [plain]
 | 29 | [Les princes de la ville](https://open.spotify.com/track/4zu2xquA7ZcrjPZylino4Z) | [113](https://open.spotify.com/artist/5nTMNNNwQMoCYgzUXdUaB6) | [Classics du rap français](https://open.spotify.com/album/5l2SmT405p4eX3IFosyH01) | 4:56 |
 | 30 | [Wati by Night](https://open.spotify.com/track/4g0kyRLFKBYFxDF1vCxj8v) | [Sexion d'Assaut](https://open.spotify.com/artist/4vnmifnGOeRXfNTRtgd4Tj) | [L'école des points vitaux](https://open.spotify.com/album/30ETe6QlIWVL2XProxM1GY) | 4:08 |
 | 31 | [Jeune Demoiselle](https://open.spotify.com/track/42apdJFDH65Ew9RVuldbrb) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 4:10 |
-| 32 | [La Haine](https://open.spotify.com/track/4HNH7bIAIscir2rVqVi2eV) | [Cut Killer](https://open.spotify.com/artist/1qBSTVOOFSTKWn3TQUtWqw) | [HH Classics, Vol\. 1](https://open.spotify.com/album/2nWjZiN1GqmZf5T0XxqL0J) | 2:19 |
+| 32 | [La haine](https://open.spotify.com/track/4HNH7bIAIscir2rVqVi2eV) | [Cut Killer](https://open.spotify.com/artist/1qBSTVOOFSTKWn3TQUtWqw) | [HH Classics, Vol\. 1](https://open.spotify.com/album/2nWjZiN1GqmZf5T0XxqL0J) | 2:19 |
 | 33 | [Tombé pour elle \(feat\. Amel Bent\)](https://open.spotify.com/track/5DCxMQMmW3UFZUj1QtUvVc) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Amel Bent](https://open.spotify.com/artist/15jZ8OLtnGATWHlQkltG7f) | [Aller Retour](https://open.spotify.com/album/520OyGOsfncx674UMNWisB) | 4:38 |
 | 34 | [La fièvre](https://open.spotify.com/track/0t4J6vsfIb5wtYcSdht9yy) | [Suprême NTM](https://open.spotify.com/artist/4ko6Ysxtvx9EY9GEFslrIz) | [Paris sous les bombes](https://open.spotify.com/album/6JebPktdIx7M8WzADPZaD8) | 4:05 |
 | 35 | [La Playa](https://open.spotify.com/track/1gsaKZJuYe7R30yFdHo1aw) | [La Clinique](https://open.spotify.com/artist/47NHcwh7V1kVlxr9Co6k1r) | [Tout saigne](https://open.spotify.com/album/60bz36gQcN2xLdJQ3y3Rvf) | 4:52 |

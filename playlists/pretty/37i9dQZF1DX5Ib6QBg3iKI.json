@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 143358,
+  "num_followers": 143396,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
         "name": "Under The Mistletoe (Deluxe Edition)",
         "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 215160,
       "name": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
       "url": "https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Three Christmas Songs \u2013 An Abbey Road Live To Vinyl Cut",
-        "url": "https://open.spotify.com/album/6fb3shhyfkXN5DlOlXEhcr"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 282536,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "The Very Best Of Mud",
         "url": "https://open.spotify.com/album/6fkg20RDjOK5JSZ3wqt6i4"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 213160,
       "name": "Lonely This Christmas",
       "url": "https://open.spotify.com/track/6ka53p5HloApRQ2ptSpuGB"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Three Christmas Songs \u2013 An Abbey Road Live To Vinyl Cut",
+        "url": "https://open.spotify.com/album/6fb3shhyfkXN5DlOlXEhcr"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 282536,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/4BxLl0Pc6wvDX7iHX1xrMV"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "The Pianoman at Christmas",
         "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 162920,
       "name": "Christmas Never Gets Old",
       "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Together In Electric Dreams",
-        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
+        "name": "Driving Home For Christmas",
+        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 201925,
-      "name": "Together In Electric Dreams",
-      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
+      "duration_ms": 183556,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2hHLrFcL8KdX49WebKIieo"
+        "name": "Together In Electric Dreams",
+        "url": "https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 183556,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
+      "duration_ms": 201925,
+      "name": "Together In Electric Dreams",
+      "url": "https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "2000 Miles",
-        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
-      },
-      "artists": [
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "2000 Miles",
-      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Christmas Wishes",
         "url": "https://open.spotify.com/album/2PPk3TptgPXwwo2qhRP7lI"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "2000 Miles",
+        "url": "https://open.spotify.com/album/1jSTa8MOmxE82tnRgyptV4"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Last December (Mountain Music version)",
-        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 335555,
-      "name": "Last December (Mountain Music version)",
-      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
         "name": "Ultimate Pop Christmas",
         "url": "https://open.spotify.com/album/6gl1gHuuV7DHyMQYaVEnpm"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 188400,
       "name": "It May Be Winter Outside (But In My Heart It's Spring)",
       "url": "https://open.spotify.com/track/5alw7Zld39wnA94riFHOrJ"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
+        "name": "Last December (Mountain Music version)",
+        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 335555,
+      "name": "Last December (Mountain Music version)",
+      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218465,
+      "name": "White Christmas (with Shania Twain)",
+      "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
+    },
+    {
+      "added_at": "2025-10-23 16:02:33",
+      "album": {
         "name": "Stay Another Day",
         "url": "https://open.spotify.com/album/05csGxWijr1PGGfg4oEvGU"
       },
@@ -1279,18 +1299,18 @@
     {
       "added_at": "2025-10-23 16:02:33",
       "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 171826,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/1FRqLI971CD1QedTiJeL3c"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version",
+      "url": "https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD"
     },
     {
       "added_at": "2025-10-23 16:02:33",
@@ -1307,22 +1327,6 @@
       "duration_ms": 133866,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4ricyQVd20UQde1jpXCSuJ"
-    },
-    {
-      "added_at": "2025-10-23 16:02:33",
-      "album": {
-        "name": "A Holly Dolly Christmas",
-        "url": "https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 201754,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/4BOSE2easo41Q7nuvLm979"
     }
   ],
   "unique_name": "Easy Christmas",

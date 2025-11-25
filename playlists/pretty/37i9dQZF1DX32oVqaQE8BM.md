@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,431 likes - 207 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,698 likes - 207 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 206 | [Cold Rain](https://open.spotify.com/track/3LghTGGH0RiVEEHsqFWrMh) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Cold Rain](https://open.spotify.com/album/7Kx1XsWTTpQJzfDzR33D6O) | 2:36 |
 | 207 | [Meet Me There](https://open.spotify.com/track/39rkr0Zx8t2kb8lhEawWJb) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Meet Me There](https://open.spotify.com/album/6uSqI5BwxsZzUB5eoCtlCd) | 1:52 |
 
-Snapshot ID: `AAAAABe8R4a/H43DdzO1CVPbGkKZVAtc`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

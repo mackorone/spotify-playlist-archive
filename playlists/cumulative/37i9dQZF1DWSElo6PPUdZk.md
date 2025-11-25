@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-241 songs - 12 hr 14 min
+242 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [In Love](https://open.spotify.com/track/2m7RdjSUzqVDfS5wSf2Ckq) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc) | [In Love](https://open.spotify.com/album/1jh9RQ2RaDa8YUyKveMeke) | 2:58 | 2024-09-18 | 2024-10-22 |
 | [In My Heart](https://open.spotify.com/track/0HhWckFjxOVD0wzcHAGXqi) | [Veera Takker](https://open.spotify.com/artist/58btbZKsJzY83FBRiIG9kD) | [In My Heart](https://open.spotify.com/album/5fHuiaZ6nYteSrxTEP8Xuq) | 3:09 | 2024-09-12 | 2024-10-12 |
 | [Intezaar](https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL) | [Subhi](https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2) | [Intezaar](https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY) | 3:12 | 2024-08-27 | 2024-09-21 |
-| [Ishq Che Kamla](https://open.spotify.com/track/510sx0cWU4YnFfdbgeJkS8) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Ishq Che Kamla](https://open.spotify.com/album/0kENds2zylGpy52teWDX0F) | 3:09 | 2025-11-06 |  |
+| [Ishq Che Kamla](https://open.spotify.com/track/510sx0cWU4YnFfdbgeJkS8) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Ishq Che Kamla](https://open.spotify.com/album/0kENds2zylGpy52teWDX0F) | 3:09 | 2025-11-06 | 2025-11-25 |
 | [Ishqe Di Maar](https://open.spotify.com/track/6UNjoKh29q5ovirHss4qb5) | [Rani Randeep](https://open.spotify.com/artist/6lfYp7aQFOnsSMPY0pE9oS) | [Ishqe Di Maar](https://open.spotify.com/album/6XUGr2nnRsVyVoRERZdNLu) | 5:58 | 2025-06-02 | 2025-11-06 |
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 | 2024-09-14 |
 | [Jaani Tera Naa](https://open.spotify.com/track/6tkNEWu4xnu4iVSkjVU0Jo) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/3dn0TXrTyr2Hv1Z2s1ue4r) | 3:08 | 2025-03-20 | 2025-10-16 |
@@ -111,6 +111,7 @@
 | [Kala Dhaga](https://open.spotify.com/track/1D7hlxCIxeKvBYUVKTa1P9) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [Kala Dhaga](https://open.spotify.com/album/6vHA6JUcG1QvLcZzRJKRiV) | 2:36 | 2023-03-18 | 2023-05-26 |
 | [Kan Akhiyaan](https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE) | [Ragini Tandan](https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA) | [Kan Akhiyaan](https://open.spotify.com/album/5MKXR6yhcohniMtsKE32xm) | 2:24 | 2024-09-05 | 2024-12-07 |
 | [Kangne](https://open.spotify.com/track/6IF6djka6tJw6Eshve4PIw) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI) | [Kangne](https://open.spotify.com/album/5OYsNcPXF0WdYSgJB0zVMp) | 2:49 | 2023-03-18 | 2024-08-31 |
+| [Kareeb](https://open.spotify.com/track/0v9V1rfbCesbbSQMnvrI0B) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Kareeb](https://open.spotify.com/album/0gDDGqhYncFArjDKOMPoZw) | 3:18 | 2025-11-24 |  |
 | [Katti Jani Aa](https://open.spotify.com/track/6hFHBA0p5z4vUsrwYa0Z8W) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Katti Jani Aa](https://open.spotify.com/album/4gv9YU9KNr7QjWZoHvHGvU) | 3:06 | 2024-10-18 |  |
 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 | 2025-11-05 |  |
 | [Khad Tainu Main Dassa](https://open.spotify.com/track/38SHGnYLRMQJ7MzaU6fkCl) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Khad Tainu Main Dassa](https://open.spotify.com/album/2bN1Z69PB8VSh7K9Omt6By) | 3:24 | 2023-03-18 | 2024-12-10 |

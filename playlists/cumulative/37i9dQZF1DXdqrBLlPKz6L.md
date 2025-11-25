@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: TURY
 
-153 songs - 8 hr 13 min
+154 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Donde No Se Ve](https://open.spotify.com/track/2QSLg4zuaykHGBvhCgCdO0) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Donde No Se Ve](https://open.spotify.com/album/5RBYr28O3Bz4qrlGhTP4mZ) | 3:16 | 2024-05-24 |  |
 | [Doris \(feat\. AG SixTeen\)](https://open.spotify.com/track/4AbYMhCSQ6pFD0rNQNWGYk) | [Underaiki](https://open.spotify.com/artist/55IzEzlyUcBFqGgyam2Seo), [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2) | [Doris \(feat\. AG SixTeen\)](https://open.spotify.com/album/434W3UFGHaAltUecUUY3S7) | 2:38 | 2025-07-23 |  |
 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 | 2021-10-15 |  |
+| [EL FICTICIO](https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL FICTICIO](https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK) | 6:15 | 2025-11-24 |  |
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2021-10-15 | 2025-05-28 |
 | [ELECTROLIBONBON](https://open.spotify.com/track/3CHcEAW2hG6rlT2W1LlOtQ) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [UNA VALIJA EN SENTIMIENTO](https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY) | 4:12 | 2025-08-15 | 2025-10-12 |
 | [En El Cielo](https://open.spotify.com/track/1onDWuF3vVVCzAmwaWRbes) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [En El Cielo](https://open.spotify.com/album/0s4QewlakAhckU6Bz7Aj6V) | 3:14 | 2024-07-19 |  |
@@ -154,7 +155,7 @@
 | [Tóxicos](https://open.spotify.com/track/3d3Fm6zl1r92THmUESENbW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:57 | 2022-04-08 | 2022-09-03 |
 | [Ultra Complicado \(feat\. Sebas\) \- Remix](https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe) | [Kenny Die](https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Sebas](https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J) | [Ultra Complicado \(feat\. Sebas\) \[Remix\]](https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh) | 4:17 | 2025-10-11 |  |
 | [VIBEX](https://open.spotify.com/track/3zTQbyngvaU24Cwri1nmW4) | [UNIVERSE](https://open.spotify.com/artist/6fCxl3Uhiv0cCYGgDElhRV) | [VIBEX](https://open.spotify.com/album/2DIInPe7dtf9TqvgfvHz91) | 1:39 | 2025-08-15 | 2025-10-04 |
-| [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-02 |  |
+| [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-02 | 2025-11-25 |
 | [Véla](https://open.spotify.com/track/1P9P1VwinHyUF2HfsIeZtF) | [Mazio](https://open.spotify.com/artist/5eRJQkfQ1KVZyNoMHZIm2l) | [Véla](https://open.spotify.com/album/2DqWqfgUSM4deAUDDZoYwi) | 2:45 | 2025-04-04 | 2025-07-24 |
 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2021-10-15 | 2022-04-09 |
 | [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 | 2024-08-24 |

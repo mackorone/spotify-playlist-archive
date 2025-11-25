@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Angia Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,572 likes - 249 songs - 14 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,585 likes - 249 songs - 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

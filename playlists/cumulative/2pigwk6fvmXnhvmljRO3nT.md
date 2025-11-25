@@ -4,7 +4,7 @@
 
 > 
 
-7,906 songs - 20 day 9 hr 23 min
+7,909 songs - 20 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1986,6 +1986,7 @@
 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 | 2024-12-10 |  |
 | [Finish Line / Drown \(feat\. T\-Pain, Kirk Franklin, Eryn Allen Kane & Noname\)](https://open.spotify.com/track/2AgnbuzvnfPvq1sAYNB4pj) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3), [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 6:46 | 2024-12-14 |  |
 | [Fire](https://open.spotify.com/track/7oHkit3F3vimtsBbnZkU0G) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 2:20 | 2025-01-03 |  |
+| [FIRE BIRD](https://open.spotify.com/track/0qMpU4VmLf6aMNc7CUErzV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/5XKUhKpKBGdzcyBCbJa6OH) | 5:24 | 2025-11-24 |  |
 | [FIRE BIRD](https://open.spotify.com/track/3wClfr5M3l64ZldVXcig4g) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/2qtBhMhhcR4hO7JQOuyHI5) | 5:24 | 2025-09-08 |  |
 | [Fire in the Hole](https://open.spotify.com/track/77ybhTvFC7kr5IeUqBP2qp) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 3:37 | 2025-01-03 |  |
 | [Fire Squad](https://open.spotify.com/track/6sf35vqrEAN8fOFzrKmv9A) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:48 | 2025-01-03 |  |
@@ -3621,6 +3622,7 @@
 | [LOT OF ME](https://open.spotify.com/track/2ZXxRC6V6AXzMdbLQZMHSB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 2:03 | 2025-01-03 |  |
 | [Lotus Waters](https://open.spotify.com/track/3pPUO0mauGyw4NammmRAp4) | [Urotsuki](https://open.spotify.com/artist/6j0TomnfQZlOzv7UD3OLqM) | [Lotus Waters](https://open.spotify.com/album/0PVqr1npgzhuCZTIiQeDIw) | 1:08 | 2025-01-23 |  |
 | [LOUDER](https://open.spotify.com/track/10D7xUQI6nfHvkmUEiCgwM) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [BLACK SHOUT](https://open.spotify.com/album/0of1hanfT7JpyWpf7NTXq3) | 3:35 | 2025-09-08 |  |
+| [LOUDER](https://open.spotify.com/track/3l44Dmif5PXKtkeiHj2Lst) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/2Ae0tAmh18NBNVSplUJFFw) | 3:36 | 2025-11-24 |  |
 | [Louis V Everything! \(feat\. Summrs\) \- Remix](https://open.spotify.com/track/1sE9PP2WLsVinrRpYS1Rn9) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Louis V Everything! \(feat\. Summrs\) \[Remix\]](https://open.spotify.com/album/6Ak5ZlAAQwweI9mmFyRTcx) | 2:59 | 2025-05-17 |  |
 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 | 2025-01-03 |  |
 | [Love](https://open.spotify.com/track/4At8x7VjqQ4zUiWpKgH6lu) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [LOVE \- The 3rd Album](https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR) | 4:12 | 2025-01-15 |  |
@@ -4793,6 +4795,7 @@
 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 | 2025-01-03 |  |
 | [Quiet air](https://open.spotify.com/track/6dD0iCmtE3sm93eDrIdsiS) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 1:55 | 2025-05-17 |  |
 | [Quiet, The Winter Harbor](https://open.spotify.com/track/1OArWxrw689jZXaJzSErbh) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [Still EP](https://open.spotify.com/album/4bpU9t9wzqJcIg40bmMf3K) | 4:15 | 2025-01-04 |  |
+| [R](https://open.spotify.com/track/6Z8J1wZFilJmJ7vsBuAARY) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/5XKUhKpKBGdzcyBCbJa6OH) | 4:45 | 2025-11-24 |  |
 | [R.I.C.O\. \(feat\. Drake\)](https://open.spotify.com/track/0Y0TOsE1q11qgbi7c5WZsG) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 3:17 | 2025-01-04 |  |
 | [R.I.P.](https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:12 | 2025-01-15 |  |
 | [R.I.P\. Fredo \(feat\. Young Nudy\) \- Notice Me](https://open.spotify.com/track/45Ln3F9PRPYTXBcMFkZMzS) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:41 | 2025-01-15 |  |

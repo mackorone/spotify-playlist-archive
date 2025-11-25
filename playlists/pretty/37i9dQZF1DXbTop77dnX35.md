@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Victony, Tems, DJ Tunez, Burna Boy and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,501 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,616 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 2 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 3 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 4 | [TENSION](https://open.spotify.com/track/2zL3mQUgNwlCNZMgOE98pu) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [TENSION](https://open.spotify.com/album/5hx5Ho1iwisBv0CL1WuxEW) | 2:22 |
-| 5 | [Foolish](https://open.spotify.com/track/7m2NDlX6aeZ0vZECVc9kOt) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Foolish](https://open.spotify.com/album/6J2CjwxIXX272sgIUsPyEq) | 1:31 |
+| 5 | [Foolish](https://open.spotify.com/track/7m2NDlX6aeZ0vZECVc9kOt) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Foolish](https://open.spotify.com/album/6J2CjwxIXX272sgIUsPyEq) | 1:32 |
 | 6 | [The Eagle Has Landed](https://open.spotify.com/track/6tBJsibtPqi9X06zv3W4bD) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [The Eagle Has Landed](https://open.spotify.com/album/3LG35rr8rdPgR3vlLJJyNY) | 2:19 |
 | 7 | [Bad Habits](https://open.spotify.com/track/4UUh6WPTCy0l3BY6pvMOcL) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Bad Habits](https://open.spotify.com/album/6qsQ0MJsBfRYuG8lTz7ncT) | 2:51 |
 | 8 | [EASY WITH ME](https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EASY WITH ME](https://open.spotify.com/album/2GNIedD3ftWWWBdG7i3ftM) | 3:37 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 28 | [Angelina](https://open.spotify.com/track/55KHq8ZXuEaqPdhOZpyXtc) | [Lui Cruz](https://open.spotify.com/artist/6k0kbrbP8g7cjiKnjY3FFT) | [Angelina](https://open.spotify.com/album/49pEF3ZBlENQ1GNVW03GcN) | 2:44 |
 | 29 | [Airplane Mode](https://open.spotify.com/track/2hL6Ujq1kJ0OYdQsUZjw5w) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Airplane Mode](https://open.spotify.com/album/40IJYH4vrOswTAMrVF4V6o) | 2:55 |
 | 30 | [On Daily \(feat\. Jeriq\)](https://open.spotify.com/track/6ZdrUeiTPqAfOl3lAZZmuC) | [Dera](https://open.spotify.com/artist/0fm0WfnKaOf2C8rdvnHlnj), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Deragon](https://open.spotify.com/album/0fdv86ruVamkQ2qMWWmME9) | 2:32 |
-| 31 | [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 2:46 |
+| 31 | [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 3:45 |
 | 32 | [KESHI](https://open.spotify.com/track/7gHGeDDdHwGgCmH1UFxGGn) | [Blak Dave](https://open.spotify.com/artist/7mYCrcfX03kNzC5ChuJJSk), [SoundsofAce](https://open.spotify.com/artist/6KolhxQoubaGZ0kadc85N9) | [KESHI](https://open.spotify.com/album/13QFLV4s7oLFScfkVi2Ze6) | 6:14 |
 | 33 | [Diamantes](https://open.spotify.com/track/1wiH1J8KQqQSb8YMEujf9t) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [Tobi Ibitoye](https://open.spotify.com/artist/5gtWFQFiFnp2y50iY1PWbA) | [Diamantes](https://open.spotify.com/album/2ucUX59dJkTZcFr1midqhv) | 2:27 |
 | 34 | [Let Me Enter](https://open.spotify.com/track/5stvS5iFIjxJqOhYyfPqjU) | [Aina More](https://open.spotify.com/artist/5WOCthKjiANwek3vxklSEa), [Komo](https://open.spotify.com/artist/3vBngkkbx94CR6ieyfHVJu) | [Let Me Enter](https://open.spotify.com/album/0V8ZAOi5Dtt8zbBH4NDAq1) | 2:43 |

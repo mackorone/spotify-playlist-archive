@@ -1,13 +1,93 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22614,
+  "num_followers": 22610,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnJvcckbFgEhvoOcXMp2u8JjuHoY5g",
+  "snapshot_id": "AAAnLZiCIKK0XzZGPNrYnAyr0wt+dDbh",
   "tracks": [
+    {
+      "added_at": "2025-11-24 22:45:41",
+      "album": {
+        "name": "James Worthy",
+        "url": "https://open.spotify.com/album/54Bb7SRYdchPEpm9bfk67w"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "James Worthy",
+      "url": "https://open.spotify.com/track/2rK0TxwiK1jrWhSwOwhVcJ"
+    },
+    {
+      "added_at": "2025-11-24 22:45:51",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/2qBFVnoAB4r4J10K918BFo"
+      },
+      "artists": [
+        {
+          "name": "Gavin Magnus",
+          "url": "https://open.spotify.com/artist/2R111dG82I23SltNvwEdeQ"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/5d2zTko0PeYGES1C9JdANU"
+    },
+    {
+      "added_at": "2025-11-24 22:46:01",
+      "album": {
+        "name": "Show Me Different",
+        "url": "https://open.spotify.com/album/5dy3pbq80pxug1pB807UmB"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Show Me Different",
+      "url": "https://open.spotify.com/track/1CVloj8iueP90KXLpa7kJ7"
+    },
+    {
+      "added_at": "2025-11-24 22:46:12",
+      "album": {
+        "name": "6'6 (feat. Zoe Osama, Spank Nitti James, OG Chris & Supparay)",
+        "url": "https://open.spotify.com/album/6KTsmPaDhz2JGJGHSY30Ib"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        },
+        {
+          "name": "Spank Nitti James",
+          "url": "https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD"
+        },
+        {
+          "name": "OG Chris",
+          "url": "https://open.spotify.com/artist/7te2hQTQHthko2gYXz58bw"
+        },
+        {
+          "name": "Supparay",
+          "url": "https://open.spotify.com/artist/4Apee9PWVo03S7FSfAz82G"
+        }
+      ],
+      "duration_ms": 208928,
+      "name": "6'6 (feat. Zoe Osama, Spank Nitti James, OG Chris & Supparay)",
+      "url": "https://open.spotify.com/track/7dl0giMdaOEQTNE2DC0B8T"
+    },
     {
       "added_at": "2025-11-10 19:26:48",
       "album": {

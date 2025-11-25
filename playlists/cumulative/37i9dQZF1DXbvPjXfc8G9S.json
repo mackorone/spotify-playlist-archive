@@ -1229,6 +1229,28 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos De Rodolfo Aicardi, Vol. 1",
+        "url": "https://open.spotify.com/album/2nZbI4CGmtsPKHpoQTRkOK"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226730,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/3S6RJCUm6TJCGyFnOopr4l"
+    },
+    {
+      "album": {
         "name": "Cari\u00f1itos Y Flores",
         "url": "https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd"
       },
@@ -3426,7 +3448,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 149250,
       "name": "GUAIA",
       "url": "https://open.spotify.com/track/4RLpkB6wWcFQyT0KDcxVNW"

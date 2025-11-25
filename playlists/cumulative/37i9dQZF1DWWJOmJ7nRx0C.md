@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Cenobia
 
-1,627 songs - 4 day 1 hr 22 min
+1,628 songs - 4 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1041,6 +1041,7 @@
 | [Parasite](https://open.spotify.com/track/47yul4OvMZctnAVjrEJ1YC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Parasite](https://open.spotify.com/album/1snJ2mJ2UJXASD7QteQ6PK) | 2:44 | 2023-12-08 | 2024-03-02 |
 | [Parasite](https://open.spotify.com/track/6flXyAriVIl6IcMtkgvb7G) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Parasite](https://open.spotify.com/album/41oKTRBkRzF4qXFR7IFGrl) | 1:56 | 2023-06-30 | 2023-09-23 |
 | [Parasite](https://open.spotify.com/track/7M2xfxOv8C3CXCI21HjyFZ) | [Twiztid](https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7) | [Unlikely Prescription](https://open.spotify.com/album/7HQj66xzgpsf43vlWdwjSZ) | 2:52 | 2021-09-10 | 2022-02-12 |
+| [Parasocial Christ](https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Parasocial Christ](https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x) | 3:20 | 2025-11-24 |  |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2023-04-15 |
 | [Passenger](https://open.spotify.com/track/5EUp0KuPvWprwkD5HVhzmv) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Passenger](https://open.spotify.com/album/4uupmE8nv4sRZQf62HRSM4) | 3:26 | 2022-07-08 | 2022-10-29 |
 | [PASSENGER SEAT](https://open.spotify.com/track/6rNDCD1AW2dchYknbN3dSL) | [Heirloom](https://open.spotify.com/artist/5Atdd8NVwC99330AgFiixH), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [PASSENGER SEAT](https://open.spotify.com/album/3c6zxp5JsX6e4yga5mKqLG) | 2:50 | 2022-12-02 | 2023-04-15 |
@@ -1200,7 +1201,7 @@
 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 | 2022-04-08 | 2022-06-11 |
 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/7goFhrbCC2m2HI3EbBYgU4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC) | 5:16 | 2023-01-20 | 2023-08-19 |
 | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/track/1H0HP2mqLRJtgfYisSEDWo) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Separate Ways \(Worlds Apart\) \[feat\. Lzzy Hale\]](https://open.spotify.com/album/6q3H4YDdXRgKmXeNEdECrQ) | 5:16 | 2023-01-13 | 2023-01-21 |
-| [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 | 2025-10-03 |  |
+| [Sepsis](https://open.spotify.com/track/3ScIZdvkqGTrhW4hZDIL00) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sepsis](https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V) | 3:38 | 2025-10-03 | 2025-11-25 |
 | [September Rain](https://open.spotify.com/track/7F1h4bQ0WZ7NSCPlfIfxLp) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 3:33 | 2023-01-13 | 2023-03-04 |
 | [Set You Free](https://open.spotify.com/track/6BF7U1DflxuUA3uHK6XaVm) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Set You Free](https://open.spotify.com/album/3vxNNFcib1c6mw2uIGngUR) | 3:57 | 2021-09-24 | 2022-02-12 |
 | [Set You Free](https://open.spotify.com/track/4v6CBp84XVSBojVhgA2QHH) | [Crobot](https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi) | [Set You Free](https://open.spotify.com/album/5BzMIuNZ2CYepGPWvuBRrk) | 3:31 | 2022-04-22 | 2022-10-29 |

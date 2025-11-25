@@ -4,7 +4,7 @@
 
 > Enjoy the romantic side of Ani
 
-71 songs - 4 hr 46 min
+72 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Oh Penne](https://open.spotify.com/track/1zAkNzJZVPrWDCnowb1vpZ) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Na.Muthukumar](https://open.spotify.com/artist/3xRtandQusLOaCPqLJ0ia2) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:36 | 2021-08-02 |  |
 | [Onnume Aagala](https://open.spotify.com/track/48ePgAy2q22QcFUPjUv53Z) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [MALIII](https://open.spotify.com/artist/6l1lQ5WaTFT05RImOssYKg) | [Onnume Aagala](https://open.spotify.com/album/4ZUzyasRhtS8trl5wNz3nc) | 4:12 | 2021-08-02 |  |
 | [Osaka Osaka](https://open.spotify.com/track/7xV3MCJ6YI3K4I6Jt1a9H7) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 6:08 | 2021-08-02 |  |
+| [Othaiyadi Pathayila](https://open.spotify.com/track/09Z6o1yu596HJAwWZxTz4m) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe) | [Kanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5MqnE5fKbjWn25aA091gd0) | 4:09 | 2025-11-24 |  |
 | [Paththavaikkum \(From "Devara Part 1"\)](https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd) | [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Paththavaikkum \(From "Devara Part 1"\)](https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB) | 3:42 | 2024-08-05 |  |
 | [Po Nee Po \- Remix \- The Scream of Love](https://open.spotify.com/track/4tC9EKLTfmLEryGR2f7Wjc) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Harish Swaminathan](https://open.spotify.com/artist/3DFIYtEdg2hh7dz3g7idaX) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:43 | 2021-08-02 |  |
 | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/track/4Lm0D6ituSgOi1AXLhUqcx) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Aishwarya Suresh Bindra](https://open.spotify.com/artist/6QOMlTNUkY4dIVIPiJ0KMg), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Rendu Kaadhal \(From "Kaathuvaakula Rendu Kaadhal"\)](https://open.spotify.com/album/3Pbe8ZyeyqvBT0aNNJXsuK) | 4:20 | 2021-08-02 |  |

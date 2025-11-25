@@ -4,7 +4,7 @@
 
 > Hours of comforting sounds of thunder and rain.
 
-325 songs - 14 hr 28 min
+326 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Greek Rain and Thunder](https://open.spotify.com/track/0CYwZoze1eTVaYFZTMu0EV) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol\. 2](https://open.spotify.com/album/4lPzsxOS8SHL3mFg6uZMZa) | 1:42 | 2021-11-10 | 2023-06-16 |
 | [Gråa Moln](https://open.spotify.com/track/5hcIHaO2Vy6NmLC704mM8b) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Blixt](https://open.spotify.com/album/5fadcqG9gCtLnafQBJNY27) | 3:28 | 2021-11-10 | 2025-10-26 |
 | [Hail Rain And Thunder in London](https://open.spotify.com/track/3Xdaw3S3286xOUvGwNWtp9) | [Rain Inc](https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y) | [Rain Sounds Vol 8](https://open.spotify.com/album/75MQavEgk7m6QtSOYiwU6D) | 2:56 | 2023-02-13 |  |
+| [Hailstorm](https://open.spotify.com/track/5BhxpMkdfV4RrQWHrYoM5l) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Liquid Lullabies](https://open.spotify.com/album/4JVbVrmTHlChplgXkmNpvM) | 1:56 | 2025-07-23 |  |
 | [Hard Nature Rain With Thunder](https://open.spotify.com/track/0j8BAcT3HQ8DfrTXqEIlZV) | [We Stay Inside](https://open.spotify.com/artist/5tNyiiNJv5zJndFwXcCo5O) | [Thunderproof](https://open.spotify.com/album/5n0u3iGGXVg300k3WJnztS) | 2:30 | 2022-02-25 |  |
 | [Healing Storm](https://open.spotify.com/track/4twYB7FXbZMS5a0e6GN5Tc) | [Adam Storme](https://open.spotify.com/artist/0eNiH722ChBnOwAjXcKDYI) | [Healing Storm](https://open.spotify.com/album/1qH3TM556rYoUusvBU0V1t) | 3:28 | 2021-11-10 |  |
 | [Heavy Rain \- Far away Thunder](https://open.spotify.com/track/1unfb0iDjqjrRiD6vQuSpz) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 1:59 | 2021-11-10 | 2023-06-16 |
@@ -273,7 +274,7 @@
 | [Thriftless Thunder](https://open.spotify.com/track/1Our3nKwfAPgzhjEDj2Wyp) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Thriftless Thunder](https://open.spotify.com/album/3xzGpHPg2wIR4uBZnzMyhd) | 1:57 | 2021-11-10 | 2023-06-16 |
 | [Thunder & Pouring Rain](https://open.spotify.com/track/4X5XEleEIET9w0rqmdhMoK) | [ABC Tonnerre](https://open.spotify.com/artist/135yPL4ruE1nq7mYgnhV48) | [ABC Tonnerre](https://open.spotify.com/album/3UAAsU1IrpqA6rt6PsfS0e) | 2:10 | 2021-11-10 |  |
 | [Thunder & Streams](https://open.spotify.com/track/3d2loIRK1NH49qP6w7ydDH) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Thunder & Streams](https://open.spotify.com/album/37SSoz3jxhcfdGDvWeEXlg) | 2:42 | 2023-02-13 |  |
-| [Thunder Afternoon \(Rain\)](https://open.spotify.com/track/3EEerX6cdmRrNq1jTzSWah) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:04 | 2021-11-10 |  |
+| [Thunder Afternoon \(Rain\)](https://open.spotify.com/track/3EEerX6cdmRrNq1jTzSWah) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Nature's Rain](https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8) | 3:04 | 2021-11-10 | 2025-11-25 |
 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 | 2023-02-13 |  |
 | [Thunder And Lightning](https://open.spotify.com/track/0ZjxV4mHm76UnZS2ZDK8qW) | [Thunder Dome](https://open.spotify.com/artist/5nlVjMWYwVUiiY4OPrxjLv) | [Thunder Dome](https://open.spotify.com/album/1FbTu8TE2wI4hMKxCoCco5) | 1:13 | 2021-11-10 | 2023-06-16 |
 | [Thunder And Storm](https://open.spotify.com/track/3W1bHskcJ8bcJdwpD2HCBE) | [Stormie](https://open.spotify.com/artist/2brtdNdmDGrLUcEGmE3a8y) | [Storm All Night](https://open.spotify.com/album/0PmO749OkakgoafumE8e7H) | 2:47 | 2021-11-10 |  |

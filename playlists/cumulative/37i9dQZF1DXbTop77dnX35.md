@@ -4,7 +4,7 @@
 
 > New Music from Victony, Tems, DJ Tunez, Burna Boy and more
 
-4,437 songs - 9 day 7 hr 13 min
+4,437 songs - 9 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,7 +1305,7 @@
 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 | 2025-04-18 | 2025-04-25 |
 | [fool me twice](https://open.spotify.com/track/2pTiZDWLDQjucMaCqiJnTW) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [fool's gold](https://open.spotify.com/album/3h3J8rBM1fJmZasYyT9U2U) | 3:02 | 2025-05-23 | 2025-05-30 |
 | [Fool's Paradise \(Breath\)](https://open.spotify.com/track/5IoGnH8nIiTp2z1Nk0LB8w) | [Y4ZI](https://open.spotify.com/artist/52PFt8fBrkL3NwOQMxwfkV), [TKYØ](https://open.spotify.com/artist/5YnVLs1NKId7YHzr2UfQLW) | [Fool's Paradise \(Breath\)](https://open.spotify.com/album/1E8y7fj8EVxUlr17ZHncTV) | 2:37 | 2024-08-02 | 2024-08-09 |
-| [Foolish](https://open.spotify.com/track/7m2NDlX6aeZ0vZECVc9kOt) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Foolish](https://open.spotify.com/album/6J2CjwxIXX272sgIUsPyEq) | 1:31 | 2025-11-21 |  |
+| [Foolish](https://open.spotify.com/track/7m2NDlX6aeZ0vZECVc9kOt) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Foolish](https://open.spotify.com/album/6J2CjwxIXX272sgIUsPyEq) | 1:32 | 2025-11-21 |  |
 | [FOR ABUJA](https://open.spotify.com/track/53M2rmZPUWM7jG1emtKR60) | [Stoner Nwaigbo](https://open.spotify.com/artist/2k3TNZNUnDH3t8XKRmpHQM) | [FOR ABUJA](https://open.spotify.com/album/2EH2GSsJHxxYEvlHIuwk79) | 2:40 | 2024-12-13 | 2024-12-20 |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-01 | 2025-08-08 |
 | [For Days](https://open.spotify.com/track/0dKVKmDEWPrrL2YSqInkgR) | [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ) | [For Days](https://open.spotify.com/album/0OvzAL1Mw4cSTj89R378fK) | 2:15 | 2025-03-21 | 2025-03-28 |
@@ -2114,7 +2114,7 @@
 | [Lagos](https://open.spotify.com/track/2bB5BVbVi7NDJbu2ghwalw) | [Ehiii](https://open.spotify.com/artist/6esjIgCZj6GPbYVWvP3aLf) | [Lagos](https://open.spotify.com/album/7yKD9NfLIBDuhyWTByLLIC) | 3:08 | 2025-06-20 | 2025-06-27 |
 | [LAGOS](https://open.spotify.com/track/3H5ua10iU8NTD93zawcnVo) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [TR1GGA](https://open.spotify.com/artist/4VQFYrDf3IMmLPbQOF7Ve3) | [LAGOS](https://open.spotify.com/album/0kOF0DfPNby1aHYAIi4FXn) | 3:00 | 2025-11-07 | 2025-11-14 |
 | [Lagos 2 Vegas](https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Lagos 2 Vegas](https://open.spotify.com/album/3pEhjim9cIerL9CPVaAwlK) | 2:31 | 2024-10-11 | 2024-10-18 |
-| [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 2:46 | 2025-11-21 |  |
+| [Lagos Crazy](https://open.spotify.com/track/0eF5oiaMjT5f0JsIPUuGB0) | [DJ Phil](https://open.spotify.com/artist/1zPsz8qZkmc6Tss0Vldk3m), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [Lagos Crazy](https://open.spotify.com/album/4qCkykfYEmwkegkrp4ddjW) | 3:45 | 2025-11-21 |  |
 | [Lagos Dance Riidim \- Wire](https://open.spotify.com/track/6kj8cDqKIaz3BFiKzbUeDi) | [AJIMOVOIX DRUMS](https://open.spotify.com/artist/7yIkWOCQGXIJnArztUyK5e) | [Lagos Dance Riidim \- Wire](https://open.spotify.com/album/4eFqFTPgvJbixwhHS0lWmV) | 1:14 | 2025-08-01 | 2025-08-08 |
 | [Lagos is my city \(Pop something\)](https://open.spotify.com/track/0NCzBwaW7ioOyMkkh1ho73) | [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc) | [Pioneer](https://open.spotify.com/album/1yrAWEmohZAWWpREmQujVK) | 1:34 | 2024-08-09 | 2024-08-17 |
 | [Lagos Lovin'](https://open.spotify.com/track/0srNG0mElv2eDhMfuvwVlW) | [Ṣẹwà](https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK) | [Lagos Lovin'](https://open.spotify.com/album/13XnH8sdBpMAH3PBtDTaOv) | 3:43 | 2025-04-11 | 2025-04-18 |

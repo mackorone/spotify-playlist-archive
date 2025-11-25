@@ -111,6 +111,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "Journeyman: Deluxe Edition",
+        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Higher Power - Bonus Track",
+      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "We Are The World (Remastered)",
         "url": "https://open.spotify.com/album/1WIXeACAExhr1gXIV1TL6d"
       },
@@ -223,22 +239,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Journeyman: Deluxe Edition",
-        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Higher Power - Bonus Track",
-      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Black Honey (Lofi)",
         "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
       },
@@ -315,46 +315,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Fairytale of New York",
-        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 194153,
-      "name": "Fairytale of New York",
-      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "MI A\u00d1O G\u00d3TICO",
-        "url": "https://open.spotify.com/album/5npzqycxX70BQyBA0cWs4E"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        },
-        {
-          "name": "Ale Sergi",
-          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
-        }
-      ],
-      "duration_ms": 177825,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/3dGFLMTw4RLDMHYTsLhyMZ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Aquelarre",
         "url": "https://open.spotify.com/album/0BhTECS5bTMUmj1be3VEMG"
       },
@@ -391,6 +351,46 @@
       "duration_ms": 370035,
       "name": "Aquelarre",
       "url": "https://open.spotify.com/track/0TsCXQbFXaWUNMMYZJIYMJ"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "MI A\u00d1O G\u00d3TICO",
+        "url": "https://open.spotify.com/album/5npzqycxX70BQyBA0cWs4E"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+        }
+      ],
+      "duration_ms": 177825,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/3dGFLMTw4RLDMHYTsLhyMZ"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 194153,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -439,50 +439,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Rap de la Monta\u00f1a 2",
-        "url": "https://open.spotify.com/album/1oAbbxPXdnJObWqTYTpjE3"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "DeeJohend",
-          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
-        },
-        {
-          "name": "Matiah Chinaski",
-          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Oro (feat. Matiah Chinaski)",
-      "url": "https://open.spotify.com/track/5HVB8Km11XwIPKBJVLhDW4"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Marriana",
-        "url": "https://open.spotify.com/album/1k91AY2AYlkcsGcEWWKEt8"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 110659,
-      "name": "Paimiti",
-      "url": "https://open.spotify.com/track/1WXR3aTIn352tepO20p6eG"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Gracias A La Vida",
         "url": "https://open.spotify.com/album/2jo9GIbUqggDcC88cIQ3hQ"
       },
@@ -499,6 +455,42 @@
       "duration_ms": 272616,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/0XF6F0GTEdurOJFI26qOxV"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Echoes of Eternity",
+        "url": "https://open.spotify.com/album/4yXbkJD5b9xy4wMsOA6xYV"
+      },
+      "artists": [
+        {
+          "name": "Vangelis Solen",
+          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Echoes of Eternity",
+      "url": "https://open.spotify.com/track/0Ln8XEkzb0VZYga1DmVv6E"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Marriana",
+        "url": "https://open.spotify.com/album/1k91AY2AYlkcsGcEWWKEt8"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 110659,
+      "name": "Paimiti",
+      "url": "https://open.spotify.com/track/1WXR3aTIn352tepO20p6eG"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -527,22 +519,30 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Echoes of Eternity",
-        "url": "https://open.spotify.com/album/4yXbkJD5b9xy4wMsOA6xYV"
+        "name": "Rap de la Monta\u00f1a 2",
+        "url": "https://open.spotify.com/album/1oAbbxPXdnJObWqTYTpjE3"
       },
       "artists": [
         {
-          "name": "Vangelis Solen",
-          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
         },
         {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "DeeJohend",
+          "url": "https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Echoes of Eternity",
-      "url": "https://open.spotify.com/track/0Ln8XEkzb0VZYga1DmVv6E"
+      "duration_ms": 169000,
+      "name": "Oro (feat. Matiah Chinaski)",
+      "url": "https://open.spotify.com/track/5HVB8Km11XwIPKBJVLhDW4"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -590,10 +590,6 @@
         {
           "name": "Bydamian",
           "url": "https://open.spotify.com/artist/078yLpb55BlFWhKk2X0aAc"
-        },
-        {
-          "name": "El Naco",
-          "url": "https://open.spotify.com/artist/7f5Amnduho9NXrFY5XjRqH"
         }
       ],
       "duration_ms": 313000,
@@ -675,22 +671,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Black And Blue (2025 Mix)",
-        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Hand Of Fate - 2025 Mix",
-      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Warning (25th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/02aHyiT3M89F7bDbv8mF5J"
       },
@@ -707,18 +687,18 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+        "name": "Black And Blue (2025 Mix)",
+        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
       },
       "artists": [
         {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 144807,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
+      "duration_ms": 268500,
+      "name": "Hand Of Fate - 2025 Mix",
+      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -739,18 +719,18 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "A World Without Heroes",
-        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
       },
       "artists": [
         {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 166040,
-      "name": "A World Without Heroes",
-      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -767,22 +747,6 @@
       "duration_ms": 92038,
       "name": "Marginados Al Poder",
       "url": "https://open.spotify.com/track/11jKguF1asgdO7DS0rWMfN"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Bold As Love",
-        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Castles Made of Sand - Backwards Guitar",
-      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -811,18 +775,34 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Copies of Old Masters Vol. 1",
-        "url": "https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH"
+        "name": "A World Without Heroes",
+        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
       },
       "artists": [
         {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
         }
       ],
-      "duration_ms": 272070,
-      "name": "Neighbourhood Villain",
-      "url": "https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY"
+      "duration_ms": 166040,
+      "name": "A World Without Heroes",
+      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Bold As Love",
+        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Castles Made of Sand - Backwards Guitar",
+      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -839,6 +819,22 @@
       "duration_ms": 365823,
       "name": "The Zoo - On Stage",
       "url": "https://open.spotify.com/track/59p11hPAygspGvxOEODCb9"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Copies of Old Masters Vol. 1",
+        "url": "https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 272070,
+      "name": "Neighbourhood Villain",
+      "url": "https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -911,8 +907,8 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "THE DEAD HAVE COME (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/50fQ5Zv3p318TGTGgU2yWV"
+        "name": "DEA MUT\u00c1RION (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Hb9gR96bxQDAtfV0zEns3"
       },
       "artists": [
         {
@@ -920,9 +916,9 @@
           "url": "https://open.spotify.com/artist/4DJ9mOfSKt9vg0Zhlwf6te"
         }
       ],
-      "duration_ms": 225493,
-      "name": "Refuge in the Morgue",
-      "url": "https://open.spotify.com/track/39EvwXn6Cw1to71UnmGWqE"
+      "duration_ms": 291413,
+      "name": "Dea Mut\u00e1rion - End Credits",
+      "url": "https://open.spotify.com/track/3PGHyFc6ucNaahggRUkjrP"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -943,22 +939,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "The Life of a Showgirl + Acoustic Collection",
-        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 247268,
-      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
-      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Psycho Killer (The Cube Guys Remix)",
         "url": "https://open.spotify.com/album/10L4h7qD5ddFWr47SjTu3i"
       },
@@ -975,6 +955,22 @@
       "duration_ms": 181693,
       "name": "Psycho Killer - The Cube Guys Remix Radio Edit",
       "url": "https://open.spotify.com/track/190TqRrcEJsodhL7MukpEF"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "The Life of a Showgirl + Acoustic Collection",
+        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247268,
+      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1020,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 449912,
-      "name": "Black Sunday - Remastered 2025, Live",
-      "url": "https://open.spotify.com/track/4PCEMEXofpftdICTB6plbZ"
+      "duration_ms": 217064,
+      "name": "Living In The Past - Remastered 2025, Live",
+      "url": "https://open.spotify.com/track/0bqJr3fbc3heNaOcrE8aBt"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1043,6 +1039,26 @@
       "duration_ms": 404109,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Calaveritas",
+        "url": "https://open.spotify.com/album/0q48qrRkKubSs1b1STixIq"
+      },
+      "artists": [
+        {
+          "name": "D\u00fao Pajarito",
+          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Calaveritas",
+      "url": "https://open.spotify.com/track/1WKIsUymLly0NEGSJgFBoI"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1083,26 +1099,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Calaveritas",
-        "url": "https://open.spotify.com/album/0q48qrRkKubSs1b1STixIq"
-      },
-      "artists": [
-        {
-          "name": "D\u00fao Pajarito",
-          "url": "https://open.spotify.com/artist/11GGQjf5iUVSuwRkeMtLhc"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Calaveritas",
-      "url": "https://open.spotify.com/track/1WKIsUymLly0NEGSJgFBoI"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Inti-Illimani & Valent\u00edn Trujillo",
         "url": "https://open.spotify.com/album/5Udqgm9BEQMWfQexQuqoge"
       },
@@ -1132,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/0X8Pi1W40bewq0jRQ7o3VJ"
         }
       ],
-      "duration_ms": 200531,
-      "name": "BLACKDEMONIUM",
-      "url": "https://open.spotify.com/track/3ObmyKe9kv4raCfgntyBwS"
+      "duration_ms": 170062,
+      "name": "MONOLITH",
+      "url": "https://open.spotify.com/track/4cONRftmjeSRbnZnZd2M3s"
     },
     {
       "added_at": "2025-11-21 03:00:00",

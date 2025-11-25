@@ -1791,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Liquid Lullabies",
+        "url": "https://open.spotify.com/album/4JVbVrmTHlChplgXkmNpvM"
+      },
+      "artists": [
+        {
+          "name": "Pax Natura",
+          "url": "https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ"
+        }
+      ],
+      "date_added": "2025-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Hailstorm",
+      "url": "https://open.spotify.com/track/5BhxpMkdfV4RrQWHrYoM5l"
+    },
+    {
+      "album": {
         "name": "Thunderproof",
         "url": "https://open.spotify.com/album/5n0u3iGGXVg300k3WJnztS"
       },
@@ -4790,7 +4808,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 184000,
       "name": "Thunder Afternoon (Rain)",
       "url": "https://open.spotify.com/track/3EEerX6cdmRrNq1jTzSWah"

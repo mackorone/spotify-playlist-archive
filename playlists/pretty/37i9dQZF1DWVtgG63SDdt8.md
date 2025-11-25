@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,986 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,995 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 49 | [Movin'](https://open.spotify.com/track/3GMAWqfLysQyx0b5kPJve9) | [JustCordell](https://open.spotify.com/artist/4kyOIXivEHCVnJOfSo6lYn) | [Movin'](https://open.spotify.com/album/1LGEQX1mObwzgTq6s1TBxJ) | 2:20 |
 | 50 | [dark like](https://open.spotify.com/track/3W8zXtycMwKq79WPenYg5Q) | [Rob Nor](https://open.spotify.com/artist/0U9HHUbYkMfs2jcuhFTdlo), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [Taelor Gray](https://open.spotify.com/artist/581tKXVRFKxu6aSyhYMqan) | [dark like velvet](https://open.spotify.com/album/4Hqcb6lbWItEEPSuIVAVzP) | 3:27 |
 | 51 | [Walk On The Water](https://open.spotify.com/track/1XWMdc2qi661xSSnYcGLo7) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb) | [Walk On The Water](https://open.spotify.com/album/3Up0KMnnJcDVak5lOu3b1o) | 2:19 |
-| 52 | [HCHM \(Retain Remix\)](https://open.spotify.com/track/5OguLuigxQA3DFMUHU476G) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX), [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Hell Can't Have Me \(Remix\)](https://open.spotify.com/album/6NarSQMXkI7OZfMWlBWS5j) | 2:21 |
+| 52 | [Hell Can’t Have Me \- Retain Remix](https://open.spotify.com/track/5OguLuigxQA3DFMUHU476G) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Gregatron](https://open.spotify.com/artist/4UAW2WE55RisozVgdh7rQX), [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Hell Can’t Have Me \(Retain Remix\)](https://open.spotify.com/album/6NarSQMXkI7OZfMWlBWS5j) | 2:21 |
 | 53 | [YESHUA](https://open.spotify.com/track/6DN7t0VliQJyG51ru98FcP) | [BVSSL7ON](https://open.spotify.com/artist/68eoJvGNNchU2mUZaE8f3X), [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [YESHUA](https://open.spotify.com/album/3odg0mj9RrvZiJD5QDR0jy) | 2:31 |
 | 54 | [Feel The Fire](https://open.spotify.com/track/7btCaqhFvou4hhNrQWWOlJ) | [Sean Daily](https://open.spotify.com/artist/57PqS7EAbP8iX4d3v9J2L1) | [Feel The Fire](https://open.spotify.com/album/6bGnAZ8qDzsf8C7NRTpgKg) | 4:10 |
 | 55 | [How Much Longer?](https://open.spotify.com/track/0GrRkiNOYZZBoBQ9SovC3Y) | [Tree63](https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7) | [How Much Longer?](https://open.spotify.com/album/01bwQUD2rxE4QIBIpscsCQ) | 3:03 |

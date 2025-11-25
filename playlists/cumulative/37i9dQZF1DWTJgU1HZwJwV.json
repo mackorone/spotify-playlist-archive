@@ -6719,6 +6719,24 @@
     },
     {
       "album": {
+        "name": "Outono",
+        "url": "https://open.spotify.com/album/1ZMGYAg9qKw7q1ScwxuVlZ"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195393,
+      "name": "Outono",
+      "url": "https://open.spotify.com/track/5yo0kYmqHkg7tMPJv3GKKR"
+    },
+    {
+      "album": {
         "name": "Pas de regrets",
         "url": "https://open.spotify.com/album/3RIcJZm8cTD2IbxQW007Zc"
       },
@@ -8052,7 +8070,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 153549,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/1IViniOGSpkCykY4ta6474"
@@ -8236,6 +8254,24 @@
       "duration_ms": 139348,
       "name": "Silent Senses",
       "url": "https://open.spotify.com/track/25OjmtlPiAxOBYVK9RJpEB"
+    },
+    {
+      "album": {
+        "name": "Silhouette",
+        "url": "https://open.spotify.com/album/1w8IkoO4XyXNvhu1PBBu0q"
+      },
+      "artists": [
+        {
+          "name": "Mauro Petrone",
+          "url": "https://open.spotify.com/artist/2PRWHHZKOawoThzol1h3N5"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/0hf6nqWArHwj5Uq99oF1rj"
     },
     {
       "album": {
@@ -8848,6 +8884,24 @@
       "duration_ms": 97433,
       "name": "Sunday Breeze",
       "url": "https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl"
+    },
+    {
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/4Xk4xXeHvBnyAiT4ztAHbe"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149370,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/300nsu06HwLi0mLzCYz8LI"
     },
     {
       "album": {
@@ -10468,7 +10522,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 133944,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/2c4ViERSzhgBtLW65P61T3"

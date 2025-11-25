@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: sor & ADF Samski
 
-222 songs - 9 hr 59 min
+223 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [GTI](https://open.spotify.com/track/1Nk44LQVo7gmb6IjKg9LZc) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [GTI](https://open.spotify.com/album/2yV8PThZNcF75DmL0QDGTv) | 2:30 | 2025-07-17 | 2025-08-15 |
 | [Halverwege](https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG) | [Kieks](https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Halverwege](https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI) | 1:57 | 2025-11-03 |  |
 | [HAMBURG](https://open.spotify.com/track/347skOF66jCKg8S8wVW84l) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [UCEF](https://open.spotify.com/artist/5NVwsxoeAOa9CCgOHhAri4) | [HAMBURG](https://open.spotify.com/album/2IUQNfJNA98xqs4hOhqxr3) | 2:58 | 2025-09-11 | 2025-09-19 |
-| [Hard Voor Weinig](https://open.spotify.com/track/6H07mOMUmUpAqx97rYGUQ9) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Hard Voor Weinig](https://open.spotify.com/album/1MTe3rjsGCcFGD6IuGT6DP) | 2:52 | 2025-11-20 |  |
+| [Hard Voor Weinig](https://open.spotify.com/track/6H07mOMUmUpAqx97rYGUQ9) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Hard Voor Weinig](https://open.spotify.com/album/1MTe3rjsGCcFGD6IuGT6DP) | 2:52 | 2025-11-20 | 2025-11-25 |
 | [Hasj In De Air](https://open.spotify.com/track/0zxuJsbL1OkjkZPd1Dn4Xm) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Hasj In De Air](https://open.spotify.com/album/1D4bG7zg4UxOiHkl00fsLk) | 2:44 | 2025-10-16 |  |
 | [Haze & Strains](https://open.spotify.com/track/0L2Fwl6IYdoYJaBvBKA1S9) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk), [Tonic](https://open.spotify.com/artist/2KL07t2Mwl372C5vvpu1Fl) | [Haze & Strains](https://open.spotify.com/album/5DHCQTY8hZ4p0YAKIq6qOH) | 2:20 | 2025-10-02 | 2025-10-17 |
 | [Helle](https://open.spotify.com/track/2aR0lhwRBTcUjgmkSiHhqw) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6), [Monsif](https://open.spotify.com/artist/2zGNNkuDbxiDVcIdt5fUUk) | [Helle](https://open.spotify.com/album/4ScVZ5zfPMjHnql6maEQBW) | 1:58 | 2025-07-17 | 2025-08-15 |
@@ -213,6 +213,7 @@
 | [VIES WERK](https://open.spotify.com/track/5YXASMbz3rIxOO81oTk06V) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [VIES WERK](https://open.spotify.com/album/7tsbtwIYLw9oiF3CeLagJw) | 2:40 | 2025-09-17 | 2025-10-03 |
 | [Voetbalshirtjes](https://open.spotify.com/track/1Vi1s0DvH0BPPgJtIODbJO) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Voetbalshirtjes](https://open.spotify.com/album/6fDzSgKJAS7D0DVLPWv1fL) | 2:17 | 2025-07-17 | 2025-09-12 |
 | [Volgende Ronde](https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Volgende Ronde](https://open.spotify.com/album/3yyw8WO5ipyBhnnETNsR5v) | 2:10 | 2025-09-18 | 2025-10-14 |
+| [VOOR DE FAMILY](https://open.spotify.com/track/4uvtQck40L034n3mvKQInH) | [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx), [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [VOOR DE FAMILY](https://open.spotify.com/album/2OAEEqmPyg6SvMI6kQ398p) | 2:13 | 2025-11-24 |  |
 | [Was Machst Du](https://open.spotify.com/track/3fJOhEiy7FNUpxUrHMtFmE) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o) | [Was Machst Du](https://open.spotify.com/album/2O6ObeXY5q7me8jpCQjhu3) | 3:10 | 2025-09-25 |  |
 | [Wat Als](https://open.spotify.com/track/3MH1FEbQMawB7jR0s6PCpv) | [WAWA](https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ) | [Wat Als](https://open.spotify.com/album/3B2CIvHGONdPbd8S9WrSwG) | 2:19 | 2025-08-07 | 2025-09-04 |
 | [Weinig Liefde](https://open.spotify.com/track/3t990TZlINj5GWoqxK3wBc) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Weinig Liefde](https://open.spotify.com/album/6RPr65uVZIIxuiB4powm3i) | 3:26 | 2025-07-17 | 2025-09-19 |

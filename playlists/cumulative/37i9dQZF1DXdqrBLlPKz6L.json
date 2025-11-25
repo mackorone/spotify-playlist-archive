@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "EL FICTICIO",
+        "url": "https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK"
+      },
+      "artists": [
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "EL FICTICIO",
+      "url": "https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq"
+    },
+    {
+      "album": {
         "name": "EL INCA",
         "url": "https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0"
       },
@@ -3220,7 +3242,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 161086,
       "name": "VICE",
       "url": "https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei"

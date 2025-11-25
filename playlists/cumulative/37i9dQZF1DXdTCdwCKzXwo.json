@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Penthouse And Pavement",
+        "url": "https://open.spotify.com/album/662vZghUEjQCywafYimHtK"
+      },
+      "artists": [
+        {
+          "name": "Heaven 17",
+          "url": "https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261132,
+      "name": "(We Don't Need This) Fascist Groove Thang - Remastered 2006",
+      "url": "https://open.spotify.com/track/5U1UqrvzDDj22eyFocTtmr"
+    },
+    {
+      "album": {
         "name": "80s Alternative",
         "url": "https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf"
       },
@@ -2264,7 +2282,7 @@
       ],
       "date_added": "2018-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"

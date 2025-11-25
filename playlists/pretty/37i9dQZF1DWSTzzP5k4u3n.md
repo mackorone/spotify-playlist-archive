@@ -8,22 +8,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 |
-| 2 | [Et oo enää mun rakas](https://open.spotify.com/track/3hGMl5Q6Tjm7GJMW3BBfCB) | [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Sun täytyy kuulla tää](https://open.spotify.com/album/341JsoGaFAbJkRl1Z8piE6) | 2:53 |
-| 3 | [Päin helvettii](https://open.spotify.com/track/3yHIxHuTIYF0pLFJ9DEKGy) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Päin helvettii](https://open.spotify.com/album/3s6LHPIWnuQPFPwnoDqtqL) | 3:23 |
-| 4 | [Omenapuu](https://open.spotify.com/track/56fgpxzIDxkPmzseiGD6ZQ) | [Pihalla](https://open.spotify.com/artist/292JyZtx8shEK2YEacPHS5) | [Omenapuu](https://open.spotify.com/album/0ZMjpULlz8eUTsU23RSFGv) | 3:13 |
+| 1 | [Omenapuu](https://open.spotify.com/track/56fgpxzIDxkPmzseiGD6ZQ) | [Pihalla](https://open.spotify.com/artist/292JyZtx8shEK2YEacPHS5) | [Omenapuu](https://open.spotify.com/album/0ZMjpULlz8eUTsU23RSFGv) | 3:13 |
+| 2 | [Päin helvettii](https://open.spotify.com/track/3yHIxHuTIYF0pLFJ9DEKGy) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Päin helvettii](https://open.spotify.com/album/3s6LHPIWnuQPFPwnoDqtqL) | 3:23 |
+| 3 | [Hyvästi yö](https://open.spotify.com/track/18jEbz1jc8ODheYWEMuU5B) | [Herra Ylppö](https://open.spotify.com/artist/6NwYl6JuXxC9H8T0hkNg6Q) | [Hyvästi yö](https://open.spotify.com/album/3J7S8PNMx97bjJuRjgW9Rw) | 4:20 |
+| 4 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
 | 5 | [Kaupungin valot](https://open.spotify.com/track/7LgRiW0nCUhY3XmwLsgNIk) | [LINDA](https://open.spotify.com/artist/4yxgOYrj12f0ujNMps2hv9) | [Kaupungin valot](https://open.spotify.com/album/1KwQTv48AIVkltmEC2TsbT) | 2:52 |
-| 6 | [Viimeiseen virtaan](https://open.spotify.com/track/64OWl8gf1QdaaL3vfYA5zL) | [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Viimeiseen virtaan](https://open.spotify.com/album/5gYKu9hStjsaeWOXa39B6l) | 4:52 |
-| 7 | [Unohda mut](https://open.spotify.com/track/5NEGDVHNhQBDOLa1bunLuG) | [Uniklubi](https://open.spotify.com/artist/6CFUvBnAcbb5MvaDE8bwou) | [Unohda mut](https://open.spotify.com/album/0j0WltGVfzrl5UOStHYaY8) | 3:34 |
-| 8 | [Loppuaikana](https://open.spotify.com/track/5lGpLp2RPTGIAuT835JbrK) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Loppuaikana](https://open.spotify.com/album/4Wbjl6LuNdqroP97Nadsyx) | 3:14 |
-| 9 | [Hyvästi yö](https://open.spotify.com/track/18jEbz1jc8ODheYWEMuU5B) | [Herra Ylppö](https://open.spotify.com/artist/6NwYl6JuXxC9H8T0hkNg6Q) | [Hyvästi yö](https://open.spotify.com/album/3J7S8PNMx97bjJuRjgW9Rw) | 4:20 |
-| 10 | [Jumalan hiljaisuus](https://open.spotify.com/track/4ln7rd2xQeLOoUpoTqwrQ8) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Jumalan hiljaisuus](https://open.spotify.com/album/7D9p5fbuKnyakLWLl0V04A) | 3:17 |
-| 11 | [Romanssi](https://open.spotify.com/track/6nb2FSfXsVLdhWErcBX2ea) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Romanssi](https://open.spotify.com/album/1MhBEolokjsYzsm5nk0kH1) | 2:45 |
-| 12 | [Ei vielä](https://open.spotify.com/track/1xyVk2IqrvRmSrnf44NEoQ) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Ei vielä](https://open.spotify.com/album/5vcZIYiuiHY8zoOIL0r8bi) | 3:15 |
-| 13 | [Jussi](https://open.spotify.com/track/2g1Ta75ljBv6bKdmzvosap) | [Mika Rämä](https://open.spotify.com/artist/5mkvW9yhZF8bGFrok0OXJr) | [Jussi](https://open.spotify.com/album/6WY14FHyRBvuDqWkSzjKG0) | 3:49 |
-| 14 | [Matkalla aamuun](https://open.spotify.com/track/5FDeBW7mD9mtikKskVBsCw) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Matkalla aamuun](https://open.spotify.com/album/5UpIRyLz5pf7bK18u47G1j) | 4:14 |
-| 15 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
-| 16 | [Kuinka saisin tän tulen sammumaan](https://open.spotify.com/track/6PcfZT6cIh45zX6l33MFlW) | [51koodia](https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs) | [Kuinka saisin tän tulen sammumaan](https://open.spotify.com/album/5mcets9ey5ZmsdJoLUXx2L) | 3:45 |
+| 6 | [Älä pyydä mua päättää](https://open.spotify.com/track/4rrB1Jo95XOFYjZ7jMm633) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Ihminen](https://open.spotify.com/album/3BFwP8Cjqdoh0EekhBWVth) | 2:52 |
+| 7 | [Kuinka saisin tän tulen sammumaan](https://open.spotify.com/track/6PcfZT6cIh45zX6l33MFlW) | [51koodia](https://open.spotify.com/artist/000BblCiHJeKvtiq5aiHOs) | [Kuinka saisin tän tulen sammumaan](https://open.spotify.com/album/5mcets9ey5ZmsdJoLUXx2L) | 3:45 |
+| 8 | [Et oo enää mun rakas](https://open.spotify.com/track/3hGMl5Q6Tjm7GJMW3BBfCB) | [Johanna von Hertzen](https://open.spotify.com/artist/1vXWdiJwy9Lk0I4MKpRISB) | [Sun täytyy kuulla tää](https://open.spotify.com/album/341JsoGaFAbJkRl1Z8piE6) | 2:53 |
+| 9 | [Unohda mut](https://open.spotify.com/track/5NEGDVHNhQBDOLa1bunLuG) | [Uniklubi](https://open.spotify.com/artist/6CFUvBnAcbb5MvaDE8bwou) | [Unohda mut](https://open.spotify.com/album/0j0WltGVfzrl5UOStHYaY8) | 3:34 |
+| 10 | [Loppuaikana](https://open.spotify.com/track/5lGpLp2RPTGIAuT835JbrK) | [Ismo Alanko](https://open.spotify.com/artist/6h03SuifBwUlydEkwrXVXF) | [Loppuaikana](https://open.spotify.com/album/4Wbjl6LuNdqroP97Nadsyx) | 3:14 |
+| 11 | [Jumalan hiljaisuus](https://open.spotify.com/track/4ln7rd2xQeLOoUpoTqwrQ8) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Jumalan hiljaisuus](https://open.spotify.com/album/7D9p5fbuKnyakLWLl0V04A) | 3:17 |
+| 12 | [Romanssi](https://open.spotify.com/track/6nb2FSfXsVLdhWErcBX2ea) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Romanssi](https://open.spotify.com/album/1MhBEolokjsYzsm5nk0kH1) | 2:45 |
+| 13 | [Ei vielä](https://open.spotify.com/track/1xyVk2IqrvRmSrnf44NEoQ) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Ei vielä](https://open.spotify.com/album/5vcZIYiuiHY8zoOIL0r8bi) | 3:15 |
+| 14 | [Jussi](https://open.spotify.com/track/2g1Ta75ljBv6bKdmzvosap) | [Mika Rämä](https://open.spotify.com/artist/5mkvW9yhZF8bGFrok0OXJr) | [Jussi](https://open.spotify.com/album/6WY14FHyRBvuDqWkSzjKG0) | 3:49 |
+| 15 | [Matkalla aamuun](https://open.spotify.com/track/5FDeBW7mD9mtikKskVBsCw) | [Kormus](https://open.spotify.com/artist/7MHJXNM1lJMAv3Vqo6b8UD) | [Matkalla aamuun](https://open.spotify.com/album/5UpIRyLz5pf7bK18u47G1j) | 4:14 |
+| 16 | [Sama pää kesät talvet](https://open.spotify.com/track/5tNBJDyXOwgUEmkfh5875g) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Sama pää kesät talvet](https://open.spotify.com/album/7iU5j9gO2KaRlPGQMiwUYN) | 4:07 |
 | 17 | [Antaisin kai mitä vaan](https://open.spotify.com/track/0AK1wJhv8vXOBE5N8O91ph) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Antaisin kai mitä vaan](https://open.spotify.com/album/4MyCJBMDANQX1qrwvqbTXz) | 3:08 |
 | 18 | [Viimeinkin sut saan](https://open.spotify.com/track/6cAe2eUGkB7jx7Pe60IZFa) | [Michael Bleu](https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI) | [Viimeinkin sut saan](https://open.spotify.com/album/7iqiJxYzHsFnp6bCY4VHxq) | 2:56 |
 | 19 | [Toivon kuvia](https://open.spotify.com/track/2dDFSu3SuQ6C2TP3jfjP13) | [Pegasos](https://open.spotify.com/artist/6ENrU97gz7eCdHdM77WHdI) | [Toivon kuvia](https://open.spotify.com/album/2gBu731MydIuNCTBF0KK7M) | 4:19 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Muusa](https://open.spotify.com/track/5Kg7XEdypuPNZKJfVPQvTF) | [SÄÄDÖT](https://open.spotify.com/artist/7gs2lkVVM12MZuU1xFT4vb) | [SÄÄDÖT](https://open.spotify.com/album/6A8d1Bkesve4w6H0rZVEpD) | 4:44 |
 | 80 | [Tilttiin](https://open.spotify.com/track/3xC2yYiPgrTdiltspGyzdS) | [Saa Kiljua](https://open.spotify.com/artist/1IEcL95T535T1IVAtXxWbP) | [Ihmisroska](https://open.spotify.com/album/6mvhRAOpWIwOKiaazXaCMJ) | 2:48 |
 
-Snapshot ID: `AAAAAPvzxUQFmTNUBASbft9VwZKq1P4Y`
+Snapshot ID: `AAAAAAyW5BU9QOOtSi/6MUzWc1tYW3Po`

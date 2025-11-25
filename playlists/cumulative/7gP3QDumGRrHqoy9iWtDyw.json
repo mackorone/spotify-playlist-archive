@@ -4887,6 +4887,28 @@
     },
     {
       "album": {
+        "name": "Back to the Roots",
+        "url": "https://open.spotify.com/album/65yj8V45NuI9oc22oCdUOn"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Rich Rocka",
+          "url": "https://open.spotify.com/artist/5zyFGZT9upznN1km4yW6GQ"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196576,
+      "name": "Strip",
+      "url": "https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/4rxSLDjau3Kqk1cPspR3bv"
       },

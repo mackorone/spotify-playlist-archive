@@ -2,7 +2,7 @@
 
 ### [Disney Favorites](https://open.spotify.com/playlist/37i9dQZF1DWVs8I62NcHks)
 
-> All of your Disney Favorites in one playlist, including new music from Disney's Lilo & Stitch.
+> Enjoy your favorite Disney tunes, including "Zoo" from Zootopia 2!
 
 215 songs - 11 hr 6 min
 

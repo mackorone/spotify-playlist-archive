@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Fatpicric
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,421 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,442 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 25 | [Bana Re](https://open.spotify.com/track/4jx8upxPrjgWIClBe8pHEc) | [Duerespect](https://open.spotify.com/artist/26nYzvqIBvWUqDoZoopC5r), [Goatherd](https://open.spotify.com/artist/0ads8ztuM4Antr7ZgjXs8B) | [Let Love Lie](https://open.spotify.com/album/3VqEUcp1eE3kPO2cEG2LuM) | 2:33 |
 | 26 | [Mat Kar Lala](https://open.spotify.com/track/7smgRQwkYfFYjMPSRJ1Isu) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Mat Kar Lala](https://open.spotify.com/album/7sIEpIIWGeH3144FiPP85G) | 2:33 |
 | 27 | [Did You Miss Me](https://open.spotify.com/track/1BYAoJCqaWrOH6iY2qAqL1) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Did You Miss Me](https://open.spotify.com/album/3ZkaEMeH4w6s9EYZOYUgre) | 2:41 |
-| 28 | [Rubaru](https://open.spotify.com/track/14khOROJZV4EZfQb5I6oSo) | [Rath](https://open.spotify.com/artist/43ldcPLtiIsQRiVAMCemMt), [PSYCHO](https://open.spotify.com/artist/3DBSJqmOSuPjXD2HQJXY0m) | [YOU \(Years of Unhealing\)](https://open.spotify.com/album/4cLk14JgXDWsXrZufgU5lk) | 3:46 |
+| 28 | [Rubaru](https://open.spotify.com/track/14khOROJZV4EZfQb5I6oSo) | [Rath](https://open.spotify.com/artist/43ldcPLtiIsQRiVAMCemMt), [PSYCHO](https://open.spotify.com/artist/0LnZXwOKQevvIr3uzaB1E5) | [YOU \(Years of Unhealing\)](https://open.spotify.com/album/4cLk14JgXDWsXrZufgU5lk) | 3:46 |
 | 29 | [22](https://open.spotify.com/track/4bl9ntr2Gk2pTnEQPL8LIj) | [Silent Attack](https://open.spotify.com/artist/2SV9uCVS1nyqhVMRXfiVmM), [nuvoices](https://open.spotify.com/artist/2uUDVhVkKynzUJknr80mpA) | [22](https://open.spotify.com/album/1ZAX0GQH6zPaIZ1btvIC4s) | 2:12 |
 | 30 | [AIN'T NO DEAL](https://open.spotify.com/track/3TkCfcIAtX2OqFdcLuNhEJ) | [Young Aytee](https://open.spotify.com/artist/7eEc91UP4LiMMNOGg2fAzY), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [AIN'T NO DEAL](https://open.spotify.com/album/7gCI2EJP6uEyV8eSEK8Ha1) | 2:00 |
 | 31 | [Dukh Dard Peeda](https://open.spotify.com/track/4wwBAwKjfYd9OymtQECpYC) | [Siyaahi](https://open.spotify.com/artist/3psXqmICFFh7nmcmaj5KPb), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [ACHARYA](https://open.spotify.com/artist/4Dx7ozJLYPppMxZBdIAsHa) | [SULTANATE](https://open.spotify.com/album/1ZrhW6jjnjM6Sg3SDq4U5Q) | 4:25 |

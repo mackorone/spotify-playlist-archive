@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJ Tira, Goldmax
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,388 likes - 79 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,462 likes - 79 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 2 | [Umxhosa \(feat\. QUE DJ, We Dem Boyz & Blaq Kidd\)](https://open.spotify.com/track/1fSBEYrKiAqoqtmA9qhU9F) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [We Dem Boyz](https://open.spotify.com/artist/0UiPZvfKIwLbsxGZcQCWhq), [Blaq Kidd](https://open.spotify.com/artist/5fY1YRsWfFZV1jRE8L18mw) | [Umxhosa \(feat\. QUE DJ, We Dem Boyz & Blaq Kidd\)](https://open.spotify.com/album/4vZA2wqxuFZetICwqsuxPr) | 4:38 |
 | 3 | [Iyobisi](https://open.spotify.com/track/7zojPQCAffyBpPMRJhO8J2) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [JnrScabha](https://open.spotify.com/artist/61gMpjSOP5Bb8LqT2RpVTf), [Senarh](https://open.spotify.com/artist/4DKQzNgfbzTyNJtOtvAhbn) | [Iyobisi](https://open.spotify.com/album/7enb6Mzmoiuq58VjKbLGYq) | 4:16 |
 | 4 | [Thela Wayeka](https://open.spotify.com/track/7vw1Dp8hFjMhGdGJBUTFbE) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Dankie Boi](https://open.spotify.com/artist/2GuftRtL7ZIB4dRuJx644M), [Blacks Jnr](https://open.spotify.com/artist/791GWlP1qgrNMEU9BUAUcZ), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [Rhass](https://open.spotify.com/artist/3rzuWqh8AdnNbZtN3wmc8F), [Woza Sjax](https://open.spotify.com/artist/3qUB99K5nzTvZ0xutpZ5jm) | [Langa](https://open.spotify.com/album/4zpFyM6SQc2rSu9aUAsjLu) | 5:41 |
-| 5 | [NgyaGowa](https://open.spotify.com/track/2FoYgDK9pDxy7HmLyYgH0R) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Stompiiey](https://open.spotify.com/artist/16IdDbuertDHTGF9Si2eCN), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Southside Mixtape](https://open.spotify.com/album/0IaY7EpYoRhsMEo3B5nWBD) | 6:14 |
+| 5 | [NgyaSindelwa](https://open.spotify.com/track/6PUTXnLSGYwKdtSmbTTHXa) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [K.C Driller](https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp) | [Southside Mixtape](https://open.spotify.com/album/0IaY7EpYoRhsMEo3B5nWBD) | 6:25 |
 | 6 | [Brotherhood](https://open.spotify.com/track/081OHS6h12iuWOgP5ANtXn) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Assiye Bongzin](https://open.spotify.com/artist/4LGkmVg5ZuWf8aH9L9C3rC) | [Gqom Revolution](https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9) | 4:11 |
 | 7 | [Gqom industry](https://open.spotify.com/track/2I5gX9ItztL04cna3F3ZcM) | [Static Que](https://open.spotify.com/artist/3LQEFxgxnrUpomMBEO7mrQ), [Licious](https://open.spotify.com/artist/5CBC06FD1wKSlSExfXzD9M) | [Gqom after Gqom](https://open.spotify.com/album/42i6smnnPvXWpzrlslwDR3) | 5:26 |
 | 8 | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/track/5cZ8gcUyakIIOOLwYZdrjW) | [QUE DJ](https://open.spotify.com/artist/6ZKszbUwWSNSc0VydBBAka), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [Da Skoro \(feat\. DJ Lag\)](https://open.spotify.com/album/6pKmKLwY30wQl7h6xLung4) | 4:34 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 78 | [808 BASS](https://open.spotify.com/track/4r6GPafrH1O8NQHvf6Kkcf) | [Naked Souls](https://open.spotify.com/artist/4PUxTOaOojpbLxZIsCmJCQ) | [808 BASS](https://open.spotify.com/album/5jLhaFRduheOjN8ZdCbS7C) | 5:39 |
 | 79 | [Kwandonga Ziyaduma](https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt) | [Mr Thela](https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle), [Njelic](https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1) | [Tronics Land Series 2](https://open.spotify.com/album/7enwXRokiAliOKBLROnp2I) | 7:15 |
 
-Snapshot ID: `AAAAAOZMtjcwdPyqLjit36QqiK0kzD8H`
+Snapshot ID: `AAAAAO2XGJOxKlPxYm85VCPEcpiX89O5`

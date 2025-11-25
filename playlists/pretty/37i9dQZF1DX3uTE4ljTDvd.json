@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 131656,
+  "num_followers": 131677,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
-      },
-      "artists": [
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 341333,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
         "name": "Ele Vem",
         "url": "https://open.spotify.com/album/1cEYntMwveI3wIHUXyJXMT"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 359352,
       "name": "Ele Vem",
       "url": "https://open.spotify.com/track/5oznsuwB77V1VZHBN4PEe2"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/7HwGAK2cFTLCuwIcj2No47"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 341333,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/50pNAEvXwRMdqizML22vXa"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -775,38 +775,6 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
-        "name": "Em Nome de Jesus",
-        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
-        }
-      ],
-      "duration_ms": 307600,
-      "name": "Em Nome de Jesus",
-      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
-        "name": "Algo Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
-      },
-      "artists": [
-        {
-          "name": "Sophia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
-        }
-      ],
-      "duration_ms": 310746,
-      "name": "Algo Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -827,6 +795,38 @@
     {
       "added_at": "2025-07-19 03:19:18",
       "album": {
+        "name": "Algo Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6G0oDvXL16kzbgrMh0Hdxh"
+      },
+      "artists": [
+        {
+          "name": "Sophia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v"
+        }
+      ],
+      "duration_ms": 310746,
+      "name": "Algo Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0rXkY5mbbgVzyu1CyNh9Pr"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
+        "name": "Em Nome de Jesus",
+        "url": "https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh"
+        }
+      ],
+      "duration_ms": 307600,
+      "name": "Em Nome de Jesus",
+      "url": "https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 291253,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
-    },
-    {
-      "added_at": "2025-07-19 03:19:18",
-      "album": {
-        "name": "Passos",
-        "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
-      },
-      "artists": [
-        {
-          "name": "Alma Soul",
-          "url": "https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu"
-        },
-        {
-          "name": "Eduardo Bessa",
-          "url": "https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Passos",
-      "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
     },
     {
       "added_at": "2025-07-19 03:19:18",
@@ -891,6 +871,26 @@
       "duration_ms": 283235,
       "name": "Tu Me Fascinas - Ao Vivo",
       "url": "https://open.spotify.com/track/41NibAItjNsql9NScvLcon"
+    },
+    {
+      "added_at": "2025-07-19 03:19:18",
+      "album": {
+        "name": "Passos",
+        "url": "https://open.spotify.com/album/6C2WBh9NBHy3gazMBinyQc"
+      },
+      "artists": [
+        {
+          "name": "Alma Soul",
+          "url": "https://open.spotify.com/artist/6kL0urQlNvf1wvGKupJgFu"
+        },
+        {
+          "name": "Eduardo Bessa",
+          "url": "https://open.spotify.com/artist/13cmbwyecac2vFdnhFiTdr"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Passos",
+      "url": "https://open.spotify.com/track/0W5TW739qb2vnwdDxOPPTw"
     },
     {
       "added_at": "2025-07-19 03:19:18",

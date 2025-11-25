@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 22557,
+  "num_followers": 22556,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAKeIfxjngmM/SASNgS/oUhXEgnep7U",
+  "snapshot_id": "AAAKe1r2fx1gD36AlxPpUAal4MmC0tJo",
   "tracks": [
+    {
+      "added_at": "2025-11-25 00:35:49",
+      "album": {
+        "name": "Back to the Roots",
+        "url": "https://open.spotify.com/album/65yj8V45NuI9oc22oCdUOn"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Rich Rocka",
+          "url": "https://open.spotify.com/artist/5zyFGZT9upznN1km4yW6GQ"
+        }
+      ],
+      "duration_ms": 196576,
+      "name": "Strip",
+      "url": "https://open.spotify.com/track/5CzGZ3cUdWFB8xxd6C7Shi"
+    },
     {
       "added_at": "2025-10-27 09:18:30",
       "album": {

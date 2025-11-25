@@ -4,7 +4,7 @@
 
 > 
 
-1,227 songs - 2 day 15 hr 22 min
+1,228 songs - 2 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1039,6 +1039,7 @@
 | [SWAG LIKE OHIO PT.2 \(feat\. Lil B\)](https://open.spotify.com/track/0rJ4zjiG51JPL0XhbbJ62i) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 3:00 | 2023-01-20 | 2023-04-24 |
 | [Swag Overload](https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:32 | 2022-10-31 | 2023-05-09 |
 | [Sweet \(feat\. Fousheé\)](https://open.spotify.com/track/2X3noddA1Gi8OmJVRP4eYC) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [How Do You Sleep At Night?](https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF) | 2:12 | 2023-10-03 | 2024-03-05 |
+| [Sweet Black Pussy](https://open.spotify.com/track/5Xc9nrpGF1UVtoMJg0c1Zn) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 4:21 | 2025-11-25 |  |
 | [Sweet Boy](https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 3:00 | 2025-03-12 | 2025-05-21 |
 | [Sweet Lady](https://open.spotify.com/track/6VBuV3fk37EGAqFbDVQjHv) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Purple Summer](https://open.spotify.com/album/0mN9qYcfmWYMfsy0t30xUc) | 4:40 | 2025-11-12 |  |
 | [Sweet November](https://open.spotify.com/track/7swGurTfZlwx7mTOE8PpIc) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 4:03 | 2025-09-09 |  |

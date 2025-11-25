@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-438 songs - 1 day 3 hr 12 min
+439 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Jaalam](https://open.spotify.com/track/57m7Uqgd902GeGsL6sG15r) | [Saju Sreenivas](https://open.spotify.com/artist/6CmEs3zFMHjLjYsanVCK0T) | [Jaalam](https://open.spotify.com/album/24FkJ1b7d5IWcMyTtyPkj0) | 3:33 | 2023-10-27 | 2024-02-19 |
 | [Jaalame](https://open.spotify.com/track/1SEe6PB3qJipGcbtJQS5db) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Jaalame](https://open.spotify.com/album/4PtCiq8SiO8Ve8bWUT9OiT) | 3:20 | 2025-10-10 |  |
 | [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 | 2023-07-28 |
-| [Jeevi Theme Song](https://open.spotify.com/track/2paqshpRPExMo6oMurTSXS) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Devika Maya](https://open.spotify.com/artist/7AEA0KzcB7246IKjHGGHwp) | [Jeevi](https://open.spotify.com/album/5yAUvD2avd8NPgsOJNm6Ds) | 3:40 | 2025-08-18 |  |
+| [Jeevi Theme Song](https://open.spotify.com/track/2paqshpRPExMo6oMurTSXS) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Devika Maya](https://open.spotify.com/artist/7AEA0KzcB7246IKjHGGHwp) | [Jeevi](https://open.spotify.com/album/5yAUvD2avd8NPgsOJNm6Ds) | 3:40 | 2025-08-18 | 2025-11-25 |
 | [Jeevitham Oru Pwoli](https://open.spotify.com/track/0NFQNHxv4kz3pFT88RYDhW) | [Akhilesh Ramachandran](https://open.spotify.com/artist/5w15khBbkCbrbwKaHQ99qw), [SACHYN](https://open.spotify.com/artist/0fqn7UJi5ch6WMfbEIvHTQ) | [Jeevitham Oru Pwoli](https://open.spotify.com/album/6T5U71G1Xs8f45LRqnnTdx) | 3:27 | 2025-08-01 |  |
 | [Jilebi](https://open.spotify.com/track/6XlxMJ9BLCv9rGiS0tvoXa) | [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Jilebi](https://open.spotify.com/album/4LlIvpQJ679HjTlcwfK2AU) | 3:54 | 2024-04-02 | 2024-05-25 |
 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 | 2022-06-23 | 2024-03-09 |
@@ -320,6 +320,7 @@
 | [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 | 2024-05-20 |  |
 | [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Precious Peter](https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 | 2024-07-22 | 2025-04-03 |
 | [Panimathimukhi \- Anilatharala](https://open.spotify.com/track/1voUJLt8701cO62ecgIG6h) | [Ashwathi Hari](https://open.spotify.com/artist/18Huo8X4RsqJ2WHHA7ha2Y) | [Panimathimukhi \- Anilatharala](https://open.spotify.com/album/3vgsy4uegWGgMfCduSThw9) | 4:30 | 2024-09-17 | 2025-02-14 |
+| [Paravakal \- From "Saina Music Indie"](https://open.spotify.com/track/6okT59QPd36GQ8kxheyW0r) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Paravakal \(From "Saina Music Indie"\)](https://open.spotify.com/album/0H7U7Wa67YC8VhXncyfYNp) | 3:00 | 2025-11-24 |  |
 | [Parayathe Parayunna](https://open.spotify.com/track/0q5vrVopEWT359duzBEBPV) | [Nikhil Chandran](https://open.spotify.com/artist/5PNeVXZSF6jNVjvA9NGk9B) | [Parayathe Parayunna](https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA) | 4:17 | 2022-06-23 | 2023-07-28 |
 | [Parudeesa](https://open.spotify.com/track/6sp4cNauunLTbcBXBTV59N) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Parudeesa](https://open.spotify.com/album/5j3jXf1zZCbqNNEsFQxTfS) | 5:24 | 2022-12-27 | 2024-12-11 |
 | [Pathivum Pathirum](https://open.spotify.com/track/6bDJpgfxhFuWaxtG3MQZW8) | [Amal Irfan](https://open.spotify.com/artist/6f6Of8BCyWVvSQQreOgNae), [Anwar Sadath](https://open.spotify.com/artist/0TtA2g54ObDRoPH9VZbS0b), [King Orekh](https://open.spotify.com/artist/65uCxjiUkxVYRfRd4yZiJu) | [Morpheus](https://open.spotify.com/album/44M9MiEzbYYxjW549uWADN) | 1:21 | 2025-07-14 | 2025-11-17 |

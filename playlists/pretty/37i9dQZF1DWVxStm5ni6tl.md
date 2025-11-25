@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Skip Waiters, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,228 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,250 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 42 | [If I Knew About It](https://open.spotify.com/track/67XDmh8yohiX7NCa9Mb5Xg) | [The Liquor Store](https://open.spotify.com/artist/1wTJHudeVpwXvplnDjtdRX), [Malia Laura](https://open.spotify.com/artist/5mR2fZvW33l03cg7mzlwsG) | [If I Knew About It](https://open.spotify.com/album/55cUnJjHrLtLxjvlE6EMpa) | 4:32 |
 | 43 | [R&B](https://open.spotify.com/track/2LPSMJ9qDV6db3xXmpuITl) | [LikeTheNight](https://open.spotify.com/artist/0zuyM7GYL2QtD0lhV4WNGx) | [R&B](https://open.spotify.com/album/6nNG5TxDMqVAyMlX6gJBLv) | 2:30 |
 | 44 | [On Strike](https://open.spotify.com/track/7bW72Hz7MS7ZejnC8BzhJq) | [American Lips](https://open.spotify.com/artist/5srNG8oK8FdG7qe9jiH7p7) | [On Strike!](https://open.spotify.com/album/2ttRRBqXNHGfHUjjC1WCmc) | 2:16 |
-| 45 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
+| 45 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 46 | [FEEL2](https://open.spotify.com/track/7rXKU8tLrFjA9JtLksIkgN) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [What a Life!](https://open.spotify.com/album/5DFMjy4osskmBfXGwI9m1R) | 1:54 |
 | 47 | [What's Next](https://open.spotify.com/track/2ytFflgYrk8Q2GyDju7sMI) | [Boyscoutsam](https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c) | [What's Next](https://open.spotify.com/album/73vDNFQosc0MUWGMwvcQYc) | 2:31 |
 | 48 | [Nuclear Fallout](https://open.spotify.com/track/56Bdkihk1a2N5P2Dik3o13) | [sundayclub](https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM) | [Bannatyne](https://open.spotify.com/album/2WDXgsKAlIHyzk2nKjvg23) | 3:22 |

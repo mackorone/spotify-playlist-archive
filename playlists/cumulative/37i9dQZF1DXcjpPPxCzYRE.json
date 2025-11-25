@@ -3889,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw"
+      },
+      "artists": [
+        {
+          "name": "Marta Knight",
+          "url": "https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183217,
+      "name": "Killing Time - Acoustic Version",
+      "url": "https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL"
+    },
+    {
+      "album": {
         "name": "L.O.V.E.U (feat. hannah bahng)",
         "url": "https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7"
       },
@@ -8344,7 +8362,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 279022,
       "name": "Walking on the moon",
       "url": "https://open.spotify.com/track/0myk57gCWPPbfhtU29u1Yd"

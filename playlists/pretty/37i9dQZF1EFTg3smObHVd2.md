@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 57 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 |
 | 58 | [Not Hopeless](https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Dante Bowe](https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG) | 4:17 |
 | 59 | [Say You're Wrong](https://open.spotify.com/track/0WbSs6CUc3UQxy4VjkaKIu) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Like A Woman](https://open.spotify.com/album/7sTP5Nk2rQJpXpPrJFRdyN) | 2:50 |
-| 60 | [Icon \(feat\. Bebe Black\)](https://open.spotify.com/track/7CIfvriftvuj0R6RZTiyqc) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Bebe Black](https://open.spotify.com/artist/5Hq1Wd8EWM4xqTriypkCsD) | [Icon \(feat\. Bebe Black\)](https://open.spotify.com/album/1tXaJhJ6M4Cxb9mEHVXrIx) | 4:03 |
-| 61 | [DO IT ALL AGAIN](https://open.spotify.com/track/4xnWNcSDeYkOeN90KDKKka) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 3:26 |
+| 60 | [DO IT ALL AGAIN](https://open.spotify.com/track/4xnWNcSDeYkOeN90KDKKka) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 3:26 |
+| 61 | [Icon \(feat\. Bebe Black\)](https://open.spotify.com/track/7CIfvriftvuj0R6RZTiyqc) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Bebe Black](https://open.spotify.com/artist/5Hq1Wd8EWM4xqTriypkCsD) | [Icon \(feat\. Bebe Black\)](https://open.spotify.com/album/1tXaJhJ6M4Cxb9mEHVXrIx) | 4:03 |
 | 62 | [Strong Enough](https://open.spotify.com/track/14ZqDpSueF7QLPCXGdHoUC) | [J'Khai](https://open.spotify.com/artist/6fdldodPKWrfJs3H6uoDnd), [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Strong Enough \- Single](https://open.spotify.com/album/5byNQKNzQav1HCur1QfP46) | 2:59 |
 | 63 | [Good At Being Lonely](https://open.spotify.com/track/4DooiStKq9tcTKGuQiSvpA) | [Naia Izumi](https://open.spotify.com/artist/53isIC5bQVgfxAKE825iia) | [A Residency in the Los Angeles Area](https://open.spotify.com/album/2m3DTEZlDC9cnvTdCUJCTl) | 4:03 |
 | 64 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 99 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 100 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcCYyAAAAAB9YSm+XX8+VsjD/Z/+kHE2`
+Snapshot ID: `AcCeaAAAAACOCK51GidKAXp7qDHrtjIz`

@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-198 songs - 9 hr 48 min
+199 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [25 Etudes, Op.60: No.11](https://open.spotify.com/track/6TE3MimgVYLoDiEyAGZcd3) | [Matteo Carcassi](https://open.spotify.com/artist/0nKUfjTYVwxM6hZrvKhlNU), [Paco Hallak](https://open.spotify.com/artist/7kYwe76ZbSxs1NHDD2EEqm) | [Carcassi: 25 Melodic & Progressive Studies, Op\. 60, Vol\. 2](https://open.spotify.com/album/38hySzyQwwDMHSKT3TnFmT) | 0:52 | 2022-10-07 | 2023-01-11 |
 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 | 2022-03-03 | 2022-07-09 |
 | [A Jornada](https://open.spotify.com/track/6UOzBsaqU5HSL9zu2lpZvs) | [João Gabriel](https://open.spotify.com/artist/4V1IWFM9qKaX5yupmVMHnQ) | [A Jornada](https://open.spotify.com/album/33UL0izdOrtm2Gdhdx8woW) | 3:28 | 2022-03-03 | 2022-07-15 |
+| [Acuarela Mediterranea \(Solo Guitar\)](https://open.spotify.com/track/0mvgUOOFJjKjFdqPa0HlIv) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Acuarela Mediterranea](https://open.spotify.com/album/2zGoSZ5tQzovfBRioel6QH) | 4:04 | 2025-11-24 |  |
 | [Alba](https://open.spotify.com/track/6ZdAV8NlQT0VxSGNiDYPiq) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Alba](https://open.spotify.com/album/6uGJJWjqHEVAXWREA4uISy) | 3:26 | 2022-03-03 |  |
 | [Alejandra](https://open.spotify.com/track/2KNQI5eVgoNyvZY4HJFHpz) | [C.J.Idleman](https://open.spotify.com/artist/24MFSL1z1Lc6ClCc4apYXo) | [Alejandra](https://open.spotify.com/album/5C54XbCesiYYs3GOUa96zN) | 3:24 | 2022-03-03 | 2022-07-09 |
 | [Alta Gracia](https://open.spotify.com/track/010yj9FYqZdw3WfYSxD1xD) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [Alta Gracia](https://open.spotify.com/album/3uBkXH5pj3w8MgWmNIxIAo) | 2:22 | 2022-03-03 | 2025-06-12 |

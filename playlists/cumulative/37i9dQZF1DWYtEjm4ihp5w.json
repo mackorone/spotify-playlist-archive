@@ -1957,6 +1957,28 @@
     },
     {
       "album": {
+        "name": "DEM",
+        "url": "https://open.spotify.com/album/4HFhrKNp5oNrCdxh2lhi2J"
+      },
+      "artists": [
+        {
+          "name": "Lee Browz",
+          "url": "https://open.spotify.com/artist/2sfOdRW5RsJPXuko7qJcjS"
+        },
+        {
+          "name": "Abduh",
+          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195422,
+      "name": "DEM",
+      "url": "https://open.spotify.com/track/1xCAg2vbgoxn8Ae42jpa4D"
+    },
+    {
+      "album": {
         "name": "L8.CALL",
         "url": "https://open.spotify.com/album/1eTqaGYfqQNEYufuLc2IUg"
       },
@@ -2302,7 +2324,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 145914,
       "name": "DRAHEM",
       "url": "https://open.spotify.com/track/7ClvPPBd9kwyxudpMZEXKV"
@@ -2884,7 +2906,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 197142,
       "name": "GAL\u00c8RE",
       "url": "https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ"
@@ -4741,6 +4763,24 @@
     },
     {
       "album": {
+        "name": "PLAN B",
+        "url": "https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202442,
+      "name": "MACHI HAKA",
+      "url": "https://open.spotify.com/track/46vZZCyBcvlABmEF57PLBc"
+    },
+    {
+      "album": {
         "name": "Machi Lkhatri",
         "url": "https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU"
       },
@@ -5632,7 +5672,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 182949,
       "name": "No Love",
       "url": "https://open.spotify.com/track/75EsRQtLXd1p3sZnCqYGtj"
@@ -7014,6 +7054,24 @@
       "duration_ms": 208782,
       "name": "Sociopath",
       "url": "https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9"
+    },
+    {
+      "album": {
+        "name": "PLAN B",
+        "url": "https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181331,
+      "name": "SOLIDE",
+      "url": "https://open.spotify.com/track/0CodDf6ggz8hvHNo8aEV7b"
     },
     {
       "album": {

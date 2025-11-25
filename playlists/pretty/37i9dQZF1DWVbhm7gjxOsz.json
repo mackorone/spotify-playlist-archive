@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 123614,
+  "num_followers": 123665,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2025-05-23 07:54:59",
       "album": {
-        "name": "Songs from La Mission (Original Motion Soundtrack)",
-        "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
-      },
-      "artists": [
-        {
-          "name": "La Mission",
-          "url": "https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG"
-        },
-        {
-          "name": "Orlando Torriente",
-          "url": "https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno"
-        }
-      ],
-      "duration_ms": 251964,
-      "name": "Porque Te Quiero",
-      "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
-    },
-    {
-      "added_at": "2025-05-23 07:54:59",
-      "album": {
         "name": "Takin' All My Lovin'",
         "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2025-05-23 07:54:59",
+      "album": {
+        "name": "Songs from La Mission (Original Motion Soundtrack)",
+        "url": "https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ"
+      },
+      "artists": [
+        {
+          "name": "La Mission",
+          "url": "https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG"
+        },
+        {
+          "name": "Orlando Torriente",
+          "url": "https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno"
+        }
+      ],
+      "duration_ms": 251964,
+      "name": "Porque Te Quiero",
+      "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
     },
     {
       "added_at": "2025-05-23 07:54:59",

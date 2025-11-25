@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "Acuarela Mediterranea",
+        "url": "https://open.spotify.com/album/2zGoSZ5tQzovfBRioel6QH"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Acuarela Mediterranea (Solo Guitar)",
+      "url": "https://open.spotify.com/track/0mvgUOOFJjKjFdqPa0HlIv"
+    },
+    {
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/2PhxV6j84KRNIXW2YAyy51"
       },

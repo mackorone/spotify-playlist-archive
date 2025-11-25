@@ -3403,6 +3403,44 @@
     },
     {
       "album": {
+        "name": "Vettaikaaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0hUyJVl6Vu09inweWcUDFC"
+      },
+      "artists": [
+        {
+          "name": "Vijay Antony",
+          "url": "https://open.spotify.com/artist/6CtYzQvENTdGq5LPPsePdV"
+        },
+        {
+          "name": "Krishna Iyer",
+          "url": "https://open.spotify.com/artist/67hGTEU1yZFyiY77m1Dxyn"
+        },
+        {
+          "name": "Shoba Chandrasekhar",
+          "url": "https://open.spotify.com/artist/2pedpRaJSRtkBRriseRjHG"
+        },
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Annamalai",
+          "url": "https://open.spotify.com/artist/5cnIiIH4PVdtosydleHOpA"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Uchimandai",
+      "url": "https://open.spotify.com/track/4ozRjRsmzHBWtH7h0mhj1w"
+    },
+    {
+      "album": {
         "name": "Velai Illa Pattadhaari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0hUmPPMsBJpU4qWB8HYae9"
       },
@@ -3736,7 +3774,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 281268,
       "name": "Whistle Podu (From \"The Greatest Of All Time\")",
       "url": "https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a"

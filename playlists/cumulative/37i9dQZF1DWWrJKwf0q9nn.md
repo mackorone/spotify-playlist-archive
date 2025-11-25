@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Tiësto
 
-527 songs - 1 day 2 hr 49 min
+528 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Ibiza Love](https://open.spotify.com/track/1Avq5uB1my58dwHoLGwAcU) | [Armando Martinez](https://open.spotify.com/artist/5qjYRdvFJgnx6zGjOsBst3) | [Ibiza Love](https://open.spotify.com/album/5dGhq0CFJFJgGMEHFgBrvT) | 3:24 | 2025-07-17 | 2025-08-09 |
 | [Ik Kijk Soms Naar Jou \- Young Marco Remix](https://open.spotify.com/track/40V5y4EZ6hK88Xa6npTmqQ) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [Ik Kijk Soms Naar Jou \(Young Marco Remix\)](https://open.spotify.com/album/6KlSXuwhPQ63j9R7A1fcsh) | 3:38 | 2025-10-23 | 2025-11-14 |
 | [ILLUSIONS](https://open.spotify.com/track/4auvJ0GGuAiw4bQF9gOF2S) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [ILLUSIONS](https://open.spotify.com/album/4Mph2Eu08tbmHW4orMGDJi) | 2:41 | 2025-09-11 | 2025-10-10 |
-| [Ilê \(feat\. Jéssica Gaspar\)](https://open.spotify.com/track/2LbAw4pKH0t7zISMM8nO0Q) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [sone.](https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Ilê \(feat\. Jéssica Gaspar\)](https://open.spotify.com/album/43JDd4R10gdRsh0ZOPyRZp) | 3:34 | 2025-10-16 |  |
+| [Ilê \(feat\. Jéssica Gaspar\)](https://open.spotify.com/track/2LbAw4pKH0t7zISMM8nO0Q) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [sone.](https://open.spotify.com/artist/0IUu7qzhlQ3OxKomKLpC5c), [Jéssica Gaspar](https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip) | [Ilê \(feat\. Jéssica Gaspar\)](https://open.spotify.com/album/43JDd4R10gdRsh0ZOPyRZp) | 3:34 | 2025-10-16 | 2025-11-25 |
 | [Impossible](https://open.spotify.com/track/6POb8vdUWnpsueqEHCP641) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Impossible](https://open.spotify.com/album/5SvwIKWKLhDN354SrpXsnq) | 2:33 | 2025-09-18 | 2025-10-17 |
 | [In De Olie](https://open.spotify.com/track/6AvgZ3a7cdtuuIGVH63QPP) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [In De Olie](https://open.spotify.com/album/5lkTnqlk46P194Ux5qpnEw) | 2:44 | 2025-10-09 | 2025-11-08 |
 | [In Denial](https://open.spotify.com/track/67PNaFlQvixz8vm3TkEgPX) | [Bukkoy](https://open.spotify.com/artist/2AxWX6zdyCGXu35opfjh4q), [Otto Palmborg](https://open.spotify.com/artist/1YQWn973MCGK5yzVeukVtc) | [In Denial](https://open.spotify.com/album/1WkigkGKp1osPhkhRzul1b) | 3:09 | 2025-09-18 | 2025-10-17 |
@@ -330,6 +330,7 @@
 | [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-11-20 |  |
 | [Obsession](https://open.spotify.com/track/4TM4MUkUP9R3MSUKXggmCa) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Obsession](https://open.spotify.com/album/2h2pdgqbCAJYfhdBsUIJ2x) | 3:47 | 2025-10-23 |  |
 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 | 2025-09-04 | 2025-09-19 |
+| [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 | 2025-11-24 |  |
 | [OK SU KA](https://open.spotify.com/track/5pLZDZ1UaePBUMc2nvLi4z) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [Vall Du Son](https://open.spotify.com/artist/7dxbiWVBTS1j37WGihfBa2) | [OK SU KA](https://open.spotify.com/album/1QsbN12NSzFqF7U4exapgk) | 3:26 | 2025-11-07 |  |
 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 | 2025-07-17 | 2025-08-07 |
 | [On Repeat](https://open.spotify.com/track/2NuKvt8jjaIivq4Za4glMP) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [On Repeat](https://open.spotify.com/album/4shvqvbwtI2KQQyw3T9aK2) | 3:10 | 2025-09-11 | 2025-10-10 |

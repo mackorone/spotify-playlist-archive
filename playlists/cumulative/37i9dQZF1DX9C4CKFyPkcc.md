@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-378 songs - 22 hr 3 min
+379 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Merry Christmas](https://open.spotify.com/track/389HWwxJs2MYGDs7Wdvm6t) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [Merry Christmas](https://open.spotify.com/album/6s6xCxKGKgeDegTRGKlRTO) | 3:05 | 2025-11-16 |  |
 | [MERRY CHRISTMAS](https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [Merry Christmas](https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu) | 3:18 | 2024-07-29 | 2025-11-23 |
 | [Messiah](https://open.spotify.com/track/5AAx2hDyMApvJDags954xB) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Messiah](https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo) | 3:47 | 2021-12-24 | 2024-07-30 |
+| [Mine](https://open.spotify.com/track/1f59Q1JGDzDFy4LErFW3XR) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Mine](https://open.spotify.com/album/7IaxgJxwK5bpMk2FKzh9Is) | 2:26 | 2025-11-22 |  |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2022-11-27 |
 | [Mistletoe](https://open.spotify.com/track/6tuAY9v4QdUcIZB1y0iuwD) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Eastern Star](https://open.spotify.com/album/3wPXGRGzUUxYZfQs3hws9S) | 4:00 | 2024-12-13 |  |
 | [Mistletoe Tipsy](https://open.spotify.com/track/5BYV9T7qbq3fHoevvNqSZO) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Mistletoe Tipsy](https://open.spotify.com/album/04nBlv8vuV6Tw4CtRgUwGq) | 3:17 | 2023-11-27 |  |
@@ -352,7 +353,7 @@
 | [We Need A Little Christmas](https://open.spotify.com/track/0tuY26eUFAtEWxVrj5fojS) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 2:26 | 2021-12-24 |  |
 | [We Three Kings](https://open.spotify.com/track/6c1nLodkZR8OMwI89lQLoY) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [We Three Kings](https://open.spotify.com/album/0zc404XWRURPZZK4RuMJxp) | 3:52 | 2024-11-29 |  |
 | [We Wish You A Merry Christmas \- His Gift Version](https://open.spotify.com/track/1HoVVfoVv3nSnvudzqeWxt) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:27 | 2023-12-15 |  |
-| [Welcome to Our World](https://open.spotify.com/track/1wAMMKFVZJ3AHgGCvYMBpK) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Welcome To Our World](https://open.spotify.com/album/2Xl3s1pssq11jtDsQYOEdm) | 4:07 | 2022-12-11 |  |
+| [Welcome to Our World](https://open.spotify.com/track/1wAMMKFVZJ3AHgGCvYMBpK) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Welcome To Our World](https://open.spotify.com/album/2Xl3s1pssq11jtDsQYOEdm) | 4:07 | 2022-12-11 | 2025-11-25 |
 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 | 2024-07-29 | 2025-11-16 |
 | [What Child is This](https://open.spotify.com/track/4KKbPfcERrgrkG2WcsxVFL) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [What Child is This](https://open.spotify.com/album/6N3UHeRjI6Knjr5QKqJckj) | 2:47 | 2024-11-29 | 2025-04-18 |
 | [What Child Is This?](https://open.spotify.com/track/5rM3dXlmgy5BtkamHPxdQl) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Morgan Ranney](https://open.spotify.com/artist/4NAuhahng7kSZqvfIXHFR9) | [What Child Is This?](https://open.spotify.com/album/2ZbATgq2AqrhhftlpkC0eb) | 2:16 | 2021-12-24 |  |

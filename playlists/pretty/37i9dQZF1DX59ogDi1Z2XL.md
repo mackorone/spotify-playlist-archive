@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,626 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,714 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 24 | [Runnin](https://open.spotify.com/track/5nOnkyjbiIfAyUvBSJv6LG) | [THE Chmst](https://open.spotify.com/artist/7H1HgfrNn9jIqKJUGgQukG), [Tamir](https://open.spotify.com/artist/6IiMfiwSN3v4x3lVuxC6kH), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Runnin](https://open.spotify.com/album/5vHnvp5Gb7nnk5fBOxyFTE) | 3:24 |
 | 25 | [Jungle](https://open.spotify.com/track/4BoQRBPflZB5WhzYWE6SpJ) | [Bijaan](https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Jungle](https://open.spotify.com/album/7L7fa1tIVgrGC0kqnNkZrb) | 2:27 |
 | 26 | [What's the Word](https://open.spotify.com/track/3UUyYiTI5ouWOV5ROmtMSV) | [Derin Falana](https://open.spotify.com/artist/5yjfk1YZOcpDKqLEgvE9WG) | [What's the Word](https://open.spotify.com/album/2mtSYQflHemvLMxB5NwLnc) | 2:58 |
-| 27 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
+| 27 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 28 | [CHESS](https://open.spotify.com/track/0CYab6dZ24lO4fNgcBK6W1) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [None of This Is Real, Vol\. 1](https://open.spotify.com/album/7E7ml2je8z5EaKOFnzlkid) | 2:22 |
 | 29 | [Catering](https://open.spotify.com/track/6rDmv654fvfvBK10sUmla8) | [Kwazii](https://open.spotify.com/artist/6pL2YwV6bUmB8wxbfkvUoa) | [Catering](https://open.spotify.com/album/75NufLWILVEQk7IzQmnA8i) | 2:11 |
 | 30 | [97 Rockies](https://open.spotify.com/track/0HYJIIqSrfjKkA6O3jS2Ca) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [97 Rockies](https://open.spotify.com/album/1ipbLoMrHr4EmJrapPhis2) | 2:33 |

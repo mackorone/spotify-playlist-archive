@@ -369,6 +369,32 @@
     },
     {
       "album": {
+        "name": "Gone With The Wind",
+        "url": "https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r"
+      },
+      "artists": [
+        {
+          "name": "Martin Wind",
+          "url": "https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT"
+        },
+        {
+          "name": "Bill Mays",
+          "url": "https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ"
+        },
+        {
+          "name": "Keith Copeland",
+          "url": "https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499600,
+      "name": "Born To Be Blue",
+      "url": "https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym"
+    },
+    {
+      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -2900,7 +2926,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 447760,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"

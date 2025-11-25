@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "The Mary Wallopers",
+          "url": "https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207017,
+      "name": "Bury the Bones (feat. The Mary Wallopers)",
+      "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
+    },
+    {
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
       },
@@ -330,7 +352,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 207017,
       "name": "Bury the Bones (feat. The Mary Wallopers)",
       "url": "https://open.spotify.com/track/6Sms3RiIGM56FN1jgiD0yx"
@@ -728,7 +750,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 158880,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
@@ -1208,10 +1230,32 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 207331,
       "name": "Longshot (feat. The Scratch)",
       "url": "https://open.spotify.com/track/0VNSdAd66v11AVnFZbS5jp"
+    },
+    {
+      "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207331,
+      "name": "Longshot (feat. The Scratch)",
+      "url": "https://open.spotify.com/track/1yghEKyic4jHAhFZek4w0d"
     },
     {
       "album": {
@@ -1624,7 +1668,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 208108,
       "name": "School Days Over (feat. Billy Bragg)",
       "url": "https://open.spotify.com/track/3018gwHpmqrZK3SdTY5ntU"
@@ -2346,7 +2390,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 262424,
       "name": "The Vultures Circle High (feat. Al Barr)",
       "url": "https://open.spotify.com/track/2Mb3t5X6RzvicYy7gSCYCs"
@@ -2724,7 +2768,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 202080,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"

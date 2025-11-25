@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 267986,
       "name": "Acquiesce - Remastered",
       "url": "https://open.spotify.com/track/11JIdNpBagg6G0NHLDm2v2"
@@ -9338,7 +9338,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 289560,
       "name": "Don't Look Back in Anger - Remastered",
       "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
@@ -13768,7 +13768,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -13826,7 +13826,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 172000,
       "name": "Giros X Jcp",
       "url": "https://open.spotify.com/track/4ozeEk8Vf76ZuFFBW1pjq1"
@@ -18298,7 +18298,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 124830,
       "name": "Latinamerica (feat. Vika)",
       "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
@@ -21066,7 +21066,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 135107,
       "name": "Medio Tana",
       "url": "https://open.spotify.com/track/4wLAJO4gdHqvV8dKlPek7N"
@@ -23196,7 +23196,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 391490,
       "name": "Mundo ganado",
       "url": "https://open.spotify.com/track/0sCtZZ0vqqB3HgEC4PWDwK"
@@ -27236,7 +27236,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 130384,
       "name": "PERREO TH 7",
       "url": "https://open.spotify.com/track/1xVC7ab21v6dK03j0f9bgU"
@@ -31582,10 +31582,28 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 392733,
       "name": "Slide Away",
       "url": "https://open.spotify.com/track/2iDM76B3zHr6khKkiX4vUr"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/1AvavliFQoc2l0ZCCWa5VG"
     },
     {
       "album": {
@@ -32928,7 +32946,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 303133,
       "name": "Stop Crying Your Heart Out",
       "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
@@ -33205,6 +33223,24 @@
     },
     {
       "album": {
+        "name": "Suena en la Previa Vol. 3",
+        "url": "https://open.spotify.com/album/77rBd2Z15R6tthZnBz5C9n"
+      },
+      "artists": [
+        {
+          "name": "Cumbia rocha",
+          "url": "https://open.spotify.com/artist/5Szju6DGR9hcbFOJeXCN0x"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303870,
+      "name": "Suena en la Previa Vol. 3",
+      "url": "https://open.spotify.com/track/7xMgYr3vg1fgbbLZp1UiGc"
+    },
+    {
+      "album": {
         "name": "Suena en la Previa, Vol. 2",
         "url": "https://open.spotify.com/album/79eu6rhT9vJhTbPE0VERmD"
       },
@@ -33216,7 +33252,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 252071,
       "name": "Suena en la Previa, Vol. 2",
       "url": "https://open.spotify.com/track/0LswOwsXAfPYLGVwqRlNyW"
@@ -33898,7 +33934,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 263746,
       "name": "Talk Tonight - Remastered",
       "url": "https://open.spotify.com/track/0nufhlacuDxP6rNm6qLNrc"
@@ -39018,7 +39054,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -39690,7 +39726,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"

@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7262,
+  "num_followers": 7259,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-10-24 16:50:54",
       "album": {
-        "name": "Merry Christmas Mary Jane",
-        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 252388,
-      "name": "Merry Christmas Mary Jane",
-      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
-    },
-    {
-      "added_at": "2025-10-24 16:50:54",
-      "album": {
         "name": "Let It Snow",
         "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 136566,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
+    },
+    {
+      "added_at": "2025-10-24 16:50:54",
+      "album": {
+        "name": "Merry Christmas Mary Jane",
+        "url": "https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 252388,
+      "name": "Merry Christmas Mary Jane",
+      "url": "https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS"
     },
     {
       "added_at": "2025-10-24 16:50:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-24 16:50:54",
       "album": {
-        "name": "Auld Lang Syne",
-        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
-      },
-      "artists": [
-        {
-          "name": "The Wandering Hearts",
-          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
-        }
-      ],
-      "duration_ms": 262941,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
-    },
-    {
-      "added_at": "2025-10-24 16:50:54",
-      "album": {
         "name": "Lonely on Christmas",
         "url": "https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2025-10-24 16:50:54",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y"
       },
       "artists": [
         {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+          "name": "The Wandering Hearts",
+          "url": "https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl"
         }
       ],
-      "duration_ms": 150563,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
+      "duration_ms": 262941,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd"
     },
     {
       "added_at": "2025-10-24 16:50:54",
@@ -627,6 +611,22 @@
       "duration_ms": 159784,
       "name": "Christmas Is All Around",
       "url": "https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV"
+    },
+    {
+      "added_at": "2025-10-24 16:50:54",
+      "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 150563,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt"
     },
     {
       "added_at": "2025-10-24 16:50:54",

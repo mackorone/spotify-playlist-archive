@@ -4,7 +4,7 @@
 
 > This is Arvo Pärt\. The essential tracks, all in one playlist.
 
-83 songs - 6 hr 55 min
+84 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Symphony No\. 4 "Los Angeles": III\. Insistentemente – Con intimo sentimento – Deciso](https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [NFM Wrocław Philharmonic](https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: The Symphonies](https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF) | 8:08 | 2025-10-30 |  |
 | [The Deer's Cry](https://open.spotify.com/track/2vGC9GhnMJ26BwkLKD5nak) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Arvo Pärt: Choral Music](https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx) | 3:59 | 2025-09-02 |  |
 | [The Deer's Cry](https://open.spotify.com/track/4Fjv84kmmnz02yCyAsHYxb) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Vox Clamantis](https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p), [Jaan\-Eik Tulve](https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k) | [Arvo Pärt: The Deer's Cry](https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm) | 4:10 | 2025-09-02 |  |
+| [The Woman with the Alabaster Box](https://open.spotify.com/track/7uiSEQHpyLRiCnu9lHPxhv) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Polyphony](https://open.spotify.com/artist/06TUYAXTcDtfcSuqnB35na), [Stephen Layton](https://open.spotify.com/artist/1K7xwpFg70fiAJnXGWo90o) | [Arvo Pärt: Choral Music](https://open.spotify.com/album/55qYQQ27jqYnHHQi6Zcawx) | 5:43 | 2025-11-25 |  |
 | [These Words…](https://open.spotify.com/track/2t2K02f366I69a4ZBfgSwh) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Tallinn Chamber Orchestra](https://open.spotify.com/artist/5FQKNAnsx5gogBNKeTek5u), [Tõnu Kaljuste](https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT) | [Arvo Pärt: Tractus](https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF) | 12:32 | 2025-10-30 |  |
 | [Variations for the Healing of Arinushka](https://open.spotify.com/track/21hVI9waERujL4G9ixkj0d) | [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg), [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO) | [Arvo Pärt: Variations for the Healing of Arinushka](https://open.spotify.com/album/4eK49eNmA8bukN050hy5HY) | 3:30 | 2025-09-02 | 2025-09-26 |
 | [Variations for the Healing of Arinushka](https://open.spotify.com/track/524E2l95o8aWYX1HdVWJJU) | [Georgijs Osokins](https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO), [Arvo Pärt](https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg) | [For Arvo](https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6) | 3:29 | 2025-10-17 |  |

@@ -1299,6 +1299,32 @@
     },
     {
       "album": {
+        "name": "Bengali Sweete",
+        "url": "https://open.spotify.com/album/0I4gHg1H3K2fdB6OREjxky"
+      },
+      "artists": [
+        {
+          "name": "Ajay Krishnaa",
+          "url": "https://open.spotify.com/artist/7FatQU5xHO9JpAyqOVWP9k"
+        },
+        {
+          "name": "Nigaran",
+          "url": "https://open.spotify.com/artist/6K760C2afrQgI3MxFcBFiK"
+        },
+        {
+          "name": "JS Raja Sha",
+          "url": "https://open.spotify.com/artist/3wQt6celardaexcU1aTHr4"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Bengali Sweete",
+      "url": "https://open.spotify.com/track/6LRWTEd7Szk6W9ZSLQsMEh"
+    },
+    {
+      "album": {
         "name": "Bigger Dreams",
         "url": "https://open.spotify.com/album/4hXSfo4J0e7Ryc4pcVISjX"
       },
@@ -2604,7 +2630,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 180000,
       "name": "Endrendrume",
       "url": "https://open.spotify.com/track/2odH8vMNfYMk9fe9wYnDMr"
@@ -5174,7 +5200,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 116635,
       "name": "Kanjaada",
       "url": "https://open.spotify.com/track/3M83NsjslV7zPdAYdkGqlO"
@@ -6636,7 +6662,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 151644,
       "name": "Manam",
       "url": "https://open.spotify.com/track/3kwDKXEkeK5ZwoYi83Svxa"

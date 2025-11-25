@@ -2,7 +2,7 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Fulana
+> Global crossovers by/with Arab artists\. Cover: Shargeeya
 
 372 songs - 20 hr 19 min
 

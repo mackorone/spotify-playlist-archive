@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-380 songs - 21 hr 22 min
+381 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [cloud9](https://open.spotify.com/track/2KO0sztUM1YycUiP5Ny8Dg) | [cliffe](https://open.spotify.com/artist/0RhZp1X2JrAwdy7z7NQIjy), [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [cloud9](https://open.spotify.com/album/1ueZFUuqoyR9hzRxrgrgoK) | 3:09 | 2022-06-06 | 2024-06-24 |
 | [Cold \(2 AM\)](https://open.spotify.com/track/56ZMz7ERZ7NwLOqDtdsTlq) | [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [Cold \(2 AM\)](https://open.spotify.com/album/4CzVzLksrXIUZAyixlsdE3) | 2:23 | 2022-06-06 | 2022-07-27 |
 | [Cold World](https://open.spotify.com/track/4vYvDdyDOw9CPjTjo6GAvt) | [Teddy](https://open.spotify.com/artist/0a6Q2oHRwUYaZMChVBZWts) | [Teddy](https://open.spotify.com/album/5pYU8aLsqEwutDZqO0vYEj) | 2:33 | 2022-10-24 | 2022-11-13 |
+| [Come to Me](https://open.spotify.com/track/2ir9cmvZIpFYxaeMTa76DS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:55 | 2025-11-24 |  |
 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 | 2022-07-11 | 2022-07-29 |
 | [complicated](https://open.spotify.com/track/27IVr9M62UTAYt6wR6NPWo) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [y?](https://open.spotify.com/album/7yw1daRd2TJxXYeasjXICE) | 3:54 | 2022-06-06 | 2022-07-24 |
 | [Corners](https://open.spotify.com/track/2Olgc28d1IdtLvleeBhtOd) | [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [Corners](https://open.spotify.com/album/078PETq9bWATB06HaidwY8) | 2:59 | 2022-06-13 | 2022-07-27 |
@@ -136,7 +137,7 @@
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2022-06-27 |  |
 | [Fortune Eyes](https://open.spotify.com/track/73nbjwGnfzLd7KsTU3H1mv) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Panda](https://open.spotify.com/album/6rsVdLBZoQUPkXIwc32iUZ) | 2:22 | 2025-08-24 | 2025-10-26 |
 | [Free Form](https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave002](https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU) | 2:47 | 2022-07-25 |  |
-| [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 | 2025-10-26 |  |
+| [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 | 2025-10-26 | 2025-11-25 |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-07-25 |  |
 | [Fuck Love](https://open.spotify.com/track/32p7kD1kyWiy78wuQoICRu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Serpentina](https://open.spotify.com/album/0YM67c7AYsZkvCSpPoYrFJ) | 2:49 | 2022-07-25 | 2022-12-01 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 | 2022-07-25 |  |

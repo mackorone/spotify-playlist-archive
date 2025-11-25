@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,110 songs - 3 day 18 hr 18 min
+2,111 songs - 3 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1841,6 +1841,7 @@
 | [Tenk Inte](https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Tenk Inte](https://open.spotify.com/album/76PgNeucZNboWgBKHP25kB) | 2:53 | 2024-07-11 | 2024-10-25 |
 | [Tequila](https://open.spotify.com/track/74FuEsUBkBwSTdOVreE0f7) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Tequila](https://open.spotify.com/album/6fmX0TZxl74Z41IWUefj7M) | 2:12 | 2024-11-28 | 2025-03-28 |
 | [TEQUILA](https://open.spotify.com/track/02zULMt0W0QUBbNANEiOHt) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [RVN1](https://open.spotify.com/artist/3kNiOipuz26xsMq19AcKxy) | [RVN X JB TEQUILA](https://open.spotify.com/album/3FR8uBALdiYGs0dBPFcKQk) | 2:35 | 2022-12-05 | 2023-01-13 |
+| [THE BAD GUY](https://open.spotify.com/track/7JL2WLLaHZr9EgHyWfsKJk) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [THE BAD GUY](https://open.spotify.com/album/2tYf8Jkc8Aimg7xs2Czl6A) | 2:14 | 2025-11-24 |  |
 | [The Town](https://open.spotify.com/track/0iHQD3mRm4QZMfLSZUQcwl) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [The Town](https://open.spotify.com/album/0IVxLy1T3bsxSPDu9HAeuY) | 2:43 | 2022-01-25 | 2022-03-05 |
 | [THIS IS SWEDEN](https://open.spotify.com/track/3V3JLjSoFwiFpMLR4i2WoZ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [THIS IS SWEDEN](https://open.spotify.com/album/2QMWHihNqo4gLIQQJc4YMF) | 2:36 | 2022-02-03 | 2022-03-21 |
 | [Thug \(feat\. ADAAM\)](https://open.spotify.com/track/0ktvJdYHDM30akporoNJkM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Thug \(feat\. ADAAM\)](https://open.spotify.com/album/4eHXo9XkPM1UaDGHRSoflf) | 2:42 | 2025-04-03 | 2025-06-27 |

@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,320 songs - 2 day 19 hr 19 min
+1,321 songs - 2 day 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Blekgrå](https://open.spotify.com/track/6Fq36MpKdZHSdcBtP98nTX) | [Eden Alm](https://open.spotify.com/artist/4IsTqAm3Q0LnbSwSimAcnw) | [Blekgrå](https://open.spotify.com/album/0iOOkO4HXesEStWpgVqITU) | 3:15 | 2025-03-13 | 2025-04-11 |
 | [Bliss](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Bliss](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-08 | 2025-06-13 |
 | [Bliv her lidt endnu \(feat\. JOSVA\)](https://open.spotify.com/track/7b2TKqfooo8peK9WTE5JeG) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 2:42 | 2025-05-13 | 2025-06-13 |
+| [Blod](https://open.spotify.com/track/7CoZ6nUpEon9JuvGGEKm3z) | [Lukas Söderholm](https://open.spotify.com/artist/6H3bChd6nBuQ7bzGzYSDqB) | [Blod](https://open.spotify.com/album/30FsiBg4znluk97LOPeDhe) | 2:55 | 2025-11-24 |  |
 | [BLOD & VODKA](https://open.spotify.com/track/73zSeH1CdAudlGqSTTXke4) | [Oh Mar](https://open.spotify.com/artist/1FuN1nqOZUFzpJMZih3XMe) | [BLOD & VODKA](https://open.spotify.com/album/00B5qQXF9CXXUFbtt0cESq) | 2:00 | 2025-03-27 | 2025-05-02 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-06-27 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-22 | 2024-09-27 |

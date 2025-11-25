@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 
 > Unwind to the best Indian classical sounds out there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,573 likes - 75 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,590 likes - 75 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 44 | [Moko Kahan](https://open.spotify.com/track/2i6hWZ4s93bxWrrag2fcLI) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Moko Kahan](https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP) | 7:06 |
 | 45 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
 | 46 | [Raga Jhinjhoti \- Raga Jhinjhoti \- Matta Taal](https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Pandit Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL), [Roopak Kulkarni](https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0) | [Celebrating the Legend \- Pt\. Hari Prasad Chaurasia](https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt) | 14:45 |
-| 47 | [Kaahe?](https://open.spotify.com/track/2fqd0aU59n8vaYiSijMdsE) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Kaahe?](https://open.spotify.com/album/1arDw3ffIscGEGImorLw98) | 2:42 |
-| 48 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 |
+| 47 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 |
+| 48 | [Kaahe?](https://open.spotify.com/track/2fqd0aU59n8vaYiSijMdsE) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Kaahe?](https://open.spotify.com/album/1arDw3ffIscGEGImorLw98) | 2:42 |
 | 49 | [Talam: Mahalakshmi Tala \- 9 1/2 Beats \- Pancha Nadai Pallavi \(Ragam Tanam Pallavi\)](https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [T.H\. Vinayakram](https://open.spotify.com/artist/6kF3zpdpcHSckhA72oPCGd), [Caroline](https://open.spotify.com/artist/3BgtwcBb7TUHnvTZEs64C8) | [Pancha Nadai Pallavi](https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p) | 31:15 |
 | 50 | [Kyun Aise Rehti Hai](https://open.spotify.com/track/7CNN4EStQ8H0zEIvZHFMkP) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:49 |
 | 51 | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/track/1c6L8hhEgq8fEvT4MuHmdk) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4), [Ashish Ragwani](https://open.spotify.com/artist/5En4yYFch66YWFTavXtuuO) | [Mori Painjainiya \(Raag Hamsadhwani\)](https://open.spotify.com/album/3j4OOZZ3pOjgu5plv09AAw) | 5:36 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjoRs40XkRL.md) - [plain]
 | 70 | [Jaa Kaga](https://open.spotify.com/track/33mqdecKrXjGk1JZQGuQ5f) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Jaa Kaga](https://open.spotify.com/album/6Rw6ZLW1qBJczNKuJu18E1) | 5:10 |
 | 71 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/21CxzCrRgjPe5nFFe3ks9j) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi 2](https://open.spotify.com/album/4RlDoF53xUIiKYC0TEgbxz) | 21:49 |
 | 72 | [Mora Akhiyaan](https://open.spotify.com/track/6VS6r1lw6XQg1JwE3a6zhK) | [Prayas Pandey](https://open.spotify.com/artist/6zrMaYTtn7Ll4L9nHL9DOS) | [Mora Akhiyaan](https://open.spotify.com/album/0c7dOlWQ6Wa3TkFo7JJ4i8) | 3:43 |
-| 73 | [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 |
-| 74 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 |
+| 73 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 |
+| 74 | [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 |
 | 75 | [Le Aayi](https://open.spotify.com/track/4MM1WM13IhM0wBoKw7v3tv) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Le Aayi](https://open.spotify.com/album/5DuFyiWVmWqLDAvcavvqJp) | 3:06 |
 
 Snapshot ID: `AAAAAGRQ3n4jWCS7wVRQlSwL99+O0REf`

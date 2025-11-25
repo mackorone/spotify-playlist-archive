@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Mentissa, Aya Nakamura, KATNUF, Tate McRae and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,738 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,735 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 70 | [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 |
 | 71 | [L'aurora \(feat\. Alicia Keys\)](https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 5:09 |
 | 72 | [La La La](https://open.spotify.com/track/5zRUoT3xVcGmvfluPYlr4H) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa), [Dorrough Music](https://open.spotify.com/artist/5MAp6rMiUJjRLXMWtArXRS) | [La La La](https://open.spotify.com/album/1p0WQgIEiSukWNr2OVEfhV) | 2:37 |
-| 73 | [Foolish](https://open.spotify.com/track/7m2NDlX6aeZ0vZECVc9kOt) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Foolish](https://open.spotify.com/album/6J2CjwxIXX272sgIUsPyEq) | 1:31 |
+| 73 | [Foolish](https://open.spotify.com/track/7m2NDlX6aeZ0vZECVc9kOt) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Foolish](https://open.spotify.com/album/6J2CjwxIXX272sgIUsPyEq) | 1:32 |
 | 74 | [Hot Like Fire \- Bonus](https://open.spotify.com/track/2hgLE7m6TzT1PyE41r1xbf) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx \(Deluxe\)](https://open.spotify.com/album/10p4597ekqFOqMbttkxggC) | 3:31 |
 | 75 | [Enemigos](https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Enemigos](https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1) | 3:21 |
 | 76 | [Welcome To Lonely Club](https://open.spotify.com/track/52diq8prDOoOZIiUsscTi2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K) | [Welcome To Lonely Club](https://open.spotify.com/album/26WEUWOA07NbIH5F0nUpbu) | 3:16 |

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-543 songs - 1 day 7 hr 30 min
+544 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Nobody Likes The Records That I Play](https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Nobody Likes The Records That I Play](https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj) | 3:13 | 2024-02-23 | 2024-09-06 |
 | [NOBU](https://open.spotify.com/track/3ofuVUxmK3wArR3QCaCT8N) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [KINGH](https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo) | [NOBU](https://open.spotify.com/album/7ATcVnfZiGPVcuvW0xHQVn) | 2:32 | 2025-07-03 |  |
 | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Not Over Yet \(feat\. Tom Grennan\)](https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh) | 2:35 | 2022-09-30 | 2024-06-28 |
-| [Notorious](https://open.spotify.com/track/5pT04hSz0CdiqdtyX0Znwy) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Notorious](https://open.spotify.com/album/30eaztlyRT2WzhZU2xsxA7) | 3:18 | 2025-10-23 |  |
+| [Notorious](https://open.spotify.com/track/5pT04hSz0CdiqdtyX0Znwy) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Notorious](https://open.spotify.com/album/30eaztlyRT2WzhZU2xsxA7) | 3:18 | 2025-10-23 | 2025-11-25 |
 | [Now](https://open.spotify.com/track/7fQ4z6gXY1jwNtouyaaYGO) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Now](https://open.spotify.com/album/2eq6cFlt4XXGBUEajXHqDo) | 2:36 | 2024-10-03 | 2024-10-06 |
 | [Off The Ground](https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Off The Ground](https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h) | 4:02 | 2022-09-30 | 2024-06-28 |
 | [Oh Baby \(feat\. bshp & Issey Cross\)](https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Oh Baby \(feat\. bshp & Issey Cross\)](https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C) | 2:28 | 2023-03-14 | 2024-07-27 |
@@ -423,6 +423,7 @@
 | [Satan's Alley](https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Satan's Alley](https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs) | 4:04 | 2025-10-09 |  |
 | [Savage](https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Savage](https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S) | 3:24 | 2024-08-02 | 2025-05-09 |
 | [Say My Name](https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Say My Name](https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD) | 2:39 | 2024-07-25 | 2025-05-09 |
+| [Scream My Name](https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Sophie\-Grace](https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt) | [Scream My Name](https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187) | 3:26 | 2025-11-14 |  |
 | [SECRETS](https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [FORWARDS](https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4) | 4:13 | 2024-08-29 | 2025-05-09 |
 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 | 2025-07-25 |  |
 | [Security](https://open.spotify.com/track/34XD74XzRNiojWYXAveUKj) | [Big Softy](https://open.spotify.com/artist/2LuFQE3tHH5XJn89nWPazw) | [Security](https://open.spotify.com/album/33mSENjZtsyhTYKXDV3UIZ) | 2:17 | 2025-05-08 | 2025-10-03 |

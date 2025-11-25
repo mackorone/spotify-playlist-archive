@@ -4,10 +4,11 @@
 
 > All the stuff that will blow your speakers!
 
-534 songs - 1 day 1 hr 18 min
+535 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 | 2025-06-26 |  |
 | [2004](https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2004](https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us) | 3:08 | 2024-10-10 |  |
 | [365 Hot!](https://open.spotify.com/track/3HmaA8d5hgIn4t1CKece95) | [TØRISMAD](https://open.spotify.com/artist/48TwJJw5yBLn6sqZqJR5re) | [365 Hot!](https://open.spotify.com/album/6atK82QbiyLYCpF1Fn3hGd) | 2:40 | 2024-11-07 | 2024-12-06 |
 | [4am In A Rave \(feat\. rhys from the sticks\)](https://open.spotify.com/track/5Q7g7bfuumI3oF9GaVtxWP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [rhys from the sticks](https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa) | [4am In A Rave / Speed Is A Deed](https://open.spotify.com/album/7ngZxqJrBFRp5ijYA68orJ) | 2:27 | 2025-03-20 |  |
@@ -484,7 +485,7 @@
 | [Techno Dream](https://open.spotify.com/track/7At9gHq8Gi66Cch4nnBipm) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [David White](https://open.spotify.com/artist/4sQ7XS59ZQebv14J404ZSn) | [Techno Dream](https://open.spotify.com/album/1PvjVmVZFQqFsiS1RGkMVU) | 1:56 | 2025-04-03 | 2025-04-25 |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-31 | 2024-04-05 |
 | [Tekno](https://open.spotify.com/track/6Ac6OAu0NTuJ6uVAiEr9LK) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Antoine Delvig](https://open.spotify.com/artist/5akjwT4cQGhi5DLknDb0Wl), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [Tekno](https://open.spotify.com/album/3QiiysW5CAxLkwmRKZYNHp) | 2:31 | 2024-08-29 | 2025-02-21 |
-| [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 | 2024-02-22 |  |
+| [Tell Me](https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7) | [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp) | [Tell Me](https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL) | 2:04 | 2024-02-22 | 2025-11-25 |
 | [Tell Me Secrets](https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Da Hool](https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW), [Joker Bra](https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM) | [Tell Me Secrets](https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW) | 2:16 | 2023-08-31 | 2024-02-04 |
 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 | 2023-08-31 |  |
 | [Tequila](https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Tequila](https://open.spotify.com/album/4hRnKsXRJ2tjR64XAE8JbL) | 2:46 | 2024-06-20 | 2024-07-27 |

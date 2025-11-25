@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Aberdeen",
+        "url": "https://open.spotify.com/album/4F12OgxvgtSecEQJF8UpiT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Kahn",
+          "url": "https://open.spotify.com/artist/2kgaihMoGZ9AeL17aug2Fb"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Aberdeen",
+      "url": "https://open.spotify.com/track/6VI9IBBjT3EHy0e3z2iafX"
+    },
+    {
+      "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv"
       },
@@ -924,6 +942,24 @@
       "duration_ms": 197315,
       "name": "Ao Clarear",
       "url": "https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx"
+    },
+    {
+      "album": {
+        "name": "Approaching A City",
+        "url": "https://open.spotify.com/album/6XOCfS8bPU62fR5NbuOyBX"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "Approaching A City",
+      "url": "https://open.spotify.com/track/4tZrD16JmwGhzN3G2U8uOi"
     },
     {
       "album": {
@@ -7341,6 +7377,24 @@
     },
     {
       "album": {
+        "name": "Light at Two Lights",
+        "url": "https://open.spotify.com/album/5J3DQ8pf0SLfOYgcyh3qHY"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Light at Two Lights",
+      "url": "https://open.spotify.com/track/6ekehwJu9fAyMSa7F2VneX"
+    },
+    {
+      "album": {
         "name": "Light Touch",
         "url": "https://open.spotify.com/album/5cAJ8glKeq4tXSdlkjDAgj"
       },
@@ -13120,7 +13174,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 128461,
       "name": "The Mural",
       "url": "https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI"

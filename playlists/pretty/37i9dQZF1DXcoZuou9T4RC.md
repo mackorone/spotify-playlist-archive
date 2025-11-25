@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcoZuou9T4RC.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/heatherlowery/">Heather Lowery</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,815 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,825 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

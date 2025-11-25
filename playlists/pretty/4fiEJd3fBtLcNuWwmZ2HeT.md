@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 394 songs - 22 hr 42 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 395 songs - 22 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -402,5 +402,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 392 | [「THE KINKY」](https://open.spotify.com/track/1qwUmmAIB2jdkX4trCXz9P) | [DADAROMA](https://open.spotify.com/artist/65u1WZsa68wCWFOexGZuz1) | [「This is ”LIVE”」](https://open.spotify.com/album/6ihgmiFs9vVhmeMya8039J) | 3:26 |
 | 393 | [sneer](https://open.spotify.com/track/49iPWsVzlm4lkcVbeq6pqN) | [KOMEDAWARA](https://open.spotify.com/artist/5IHeMc4VSgGZyQBBeZhY3F), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [sneer](https://open.spotify.com/album/1DN9zA67aiNNClynWkbwUJ) | 3:59 |
 | 394 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 |
+| 395 | [DAI DAI DAI KIRAI](https://open.spotify.com/track/5IHJVTiUEkaTQYH1tibQVu) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [DENNOSTALGIA](https://open.spotify.com/album/1wWe5h0pGEdpybC4sqri4Z) | 3:14 |
 
-Snapshot ID: `AAAJgSpHM3XQSM3UQFnPrbrYxnnvCjCp`
+Snapshot ID: `AAAJgjBg+MEYXhJL3mRv93qa/8P5G8Qf`

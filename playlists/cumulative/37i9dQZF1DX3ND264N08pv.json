@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 161684,
       "name": "Bad To The Bone!!",
       "url": "https://open.spotify.com/track/5pptbJFvpxSlIjMjy9aqsf"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 118363,
       "name": "Club Banger",
       "url": "https://open.spotify.com/track/2wkQjbEHsp0VbFdbc3FFWS"
@@ -2671,6 +2671,32 @@
     },
     {
       "album": {
+        "name": "Godcore (KATALYZE Remix)",
+        "url": "https://open.spotify.com/album/2ITxhCpJoQtmvKT2qjAKuj"
+      },
+      "artists": [
+        {
+          "name": "The Machine",
+          "url": "https://open.spotify.com/artist/6BbGkI3sJbPytzt3y2PACe"
+        },
+        {
+          "name": "The Geminizers",
+          "url": "https://open.spotify.com/artist/6PhP8RA24Ran29v1vcU8mc"
+        },
+        {
+          "name": "KATALYZE",
+          "url": "https://open.spotify.com/artist/0tqm177gEuN2Sc19zSEBL7"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143038,
+      "name": "Godcore - KATALYZE Remix",
+      "url": "https://open.spotify.com/track/6xBvT890zyxpNADGv7zFbA"
+    },
+    {
+      "album": {
         "name": "Gremlins",
         "url": "https://open.spotify.com/album/1asJFJ8TnBW94hCs9ArRkZ"
       },
@@ -3537,6 +3563,32 @@
     },
     {
       "album": {
+        "name": "BACK2BASICS",
+        "url": "https://open.spotify.com/album/4MlYS0zYSUesAdtxsl3BmR"
+      },
+      "artists": [
+        {
+          "name": "Hans Glock",
+          "url": "https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        },
+        {
+          "name": "Dj Gizmo",
+          "url": "https://open.spotify.com/artist/03pNICpxvPxHdKNAykLzr4"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "In Da House",
+      "url": "https://open.spotify.com/track/5cAx1zeOh4fWTLUafY8mmE"
+    },
+    {
+      "album": {
         "name": "In Synergy",
         "url": "https://open.spotify.com/album/0Wo2VDVsMxrzIxN6oVHN6T"
       },
@@ -3548,7 +3600,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 166800,
       "name": "In Synergy",
       "url": "https://open.spotify.com/track/7oLDdopowUEGNb037AjEAN"
@@ -3778,7 +3830,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 128250,
       "name": "King of the Rave",
       "url": "https://open.spotify.com/track/3w5WJpuy0pTnS2GyAF8omE"
@@ -6985,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "The Nightmare Man",
+        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186002,
+      "name": "The Nightmare Man",
+      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
+    },
+    {
+      "album": {
         "name": "The Oni Retribution",
         "url": "https://open.spotify.com/album/18Wbb2JIGpMv6KAxcg7Cxb"
       },
@@ -7560,6 +7630,28 @@
       "duration_ms": 191428,
       "name": "Underrated",
       "url": "https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7"
+    },
+    {
+      "album": {
+        "name": "Uptempo Airlines",
+        "url": "https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP"
+      },
+      "artists": [
+        {
+          "name": "Gezellige Uptempo",
+          "url": "https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv"
+        },
+        {
+          "name": "Pinotello",
+          "url": "https://open.spotify.com/artist/1WjmW8uqn4LwwsJxrDMM4d"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Uptempo Airlines",
+      "url": "https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km"
     },
     {
       "album": {

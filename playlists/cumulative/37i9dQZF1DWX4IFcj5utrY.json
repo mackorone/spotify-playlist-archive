@@ -19771,6 +19771,32 @@
     },
     {
       "album": {
+        "name": "Southside Mixtape",
+        "url": "https://open.spotify.com/album/0IaY7EpYoRhsMEo3B5nWBD"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Zee Nxumalo",
+          "url": "https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro"
+        },
+        {
+          "name": "K.C Driller",
+          "url": "https://open.spotify.com/artist/4q9iK3DBv5DqV3Pn49ynXp"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385573,
+      "name": "NgyaSindelwa",
+      "url": "https://open.spotify.com/track/6PUTXnLSGYwKdtSmbTTHXa"
+    },
+    {
+      "album": {
         "name": "Niambo",
         "url": "https://open.spotify.com/album/1ONZ1QZXNvboexdG7oahHN"
       },
@@ -21254,7 +21280,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-25",
       "duration_ms": 307210,
       "name": "Party Island",
       "url": "https://open.spotify.com/track/7jfbdpTVF8L3H4TMCnLFzP"

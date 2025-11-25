@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Aya Nakamura, Patent Ochsner,  Tate McRae, Zoë Më, and more.
 
-20,391 songs - 42 day 5 hr 31 min
+20,392 songs - 42 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12984,7 +12984,8 @@
 | [Notice Me](https://open.spotify.com/track/0y5ychpMHo8cdpKks8qhag) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [No Signal](https://open.spotify.com/album/3BLcsAbU41bMIhW3s37bMK) | 2:17 | 2023-04-14 | 2023-04-21 |
 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-11-30 | 2023-12-08 |
 | [NOTRE DAME \(feat\. Angèle\)](https://open.spotify.com/track/7as4miWOGZR7VCNzyDiggN) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [NOTRE DAME \(feat\. Angèle\)](https://open.spotify.com/album/4qar0KwrgbpkVPPxshShhE) | 3:38 | 2024-07-04 | 2024-07-12 |
-| [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 | 2025-11-20 |  |
+| [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 | 2025-11-20 | 2025-11-25 |
+| [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 | 2025-11-24 |  |
 | [Notte Fonda](https://open.spotify.com/track/6cGrb2jhfQnrsVl1gRDG87) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Notte Fonda](https://open.spotify.com/album/5yaW6sXoUdLpL9VBOdvjs2) | 2:50 | 2024-04-11 | 2024-04-19 |
 | [Nottetempo \(feat\. Giorgio Poi\)](https://open.spotify.com/track/2ALrq527Q49iISVve4PEkn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-27 | 2025-04-04 |
 | [NOTTI BLU](https://open.spotify.com/track/7CzFH1BbrmH9lieSTkccoL) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [NOTTI BLU](https://open.spotify.com/album/4jnpTtEfqCusz1HNQXGE6g) | 3:34 | 2022-11-11 | 2022-11-18 |

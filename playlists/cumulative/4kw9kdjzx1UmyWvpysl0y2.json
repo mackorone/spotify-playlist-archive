@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "after dark",
+        "url": "https://open.spotify.com/album/2kjC0jHNdyYNtc4AFkgc8x"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Veela",
+          "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "after dark",
+      "url": "https://open.spotify.com/track/0NJCqEATpphBXDl9iWk9iW"
+    },
+    {
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
       },

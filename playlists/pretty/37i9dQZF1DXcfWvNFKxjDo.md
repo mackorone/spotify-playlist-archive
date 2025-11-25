@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: BOVSKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,032 likes - 91 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,026 likes - 91 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

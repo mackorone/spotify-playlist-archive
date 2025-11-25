@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcPINDdHzDqa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcPINDdHzDqa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcPINDdHzDqa)
 
-### [Dos Íconos: Prince Royce x Romeo Santos](https://open.spotify.com/playlist/37i9dQZF1DXcPINDdHzDqa)
+### [Dos Íconos: Romeo Santos x Prince Royce](https://open.spotify.com/playlist/37i9dQZF1DXcPINDdHzDqa)
 
-> Los grandes éxitos de Prince Royce y Romeo Santos en un mismo lugar\. Can't choose between the two? Listen to both!
+> Los grandes éxitos de Romeo Santos y Prince Royce en un mismo lugar\. Can't choose between the two? Listen to both!
 
 53 songs - 3 hr 18 min
 

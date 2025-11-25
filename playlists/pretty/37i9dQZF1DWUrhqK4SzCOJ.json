@@ -891,34 +891,6 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
-        "name": "\u4e00\u5bb6\u9f50\u56e2\u5706",
-        "url": "https://open.spotify.com/album/0excNpBqIOySFwH3d9kbAI"
-      },
-      "artists": [
-        {
-          "name": "Queenzy Cheng",
-          "url": "https://open.spotify.com/artist/4lHCl1xnQmgYZV95Xb40ZX"
-        },
-        {
-          "name": "\u9648\u5b50\u9896",
-          "url": "https://open.spotify.com/artist/3PH9mbqB8DwGDWjGkJGDk1"
-        },
-        {
-          "name": "Charlotte Seow",
-          "url": "https://open.spotify.com/artist/3BLeLI31JWdOzTm4JbErgz"
-        },
-        {
-          "name": "\u8427\u5b5d\u6770",
-          "url": "https://open.spotify.com/artist/44UYG3ltNXRJPdanmavuqX"
-        }
-      ],
-      "duration_ms": 132940,
-      "name": "\u4e00\u5bb6\u9f50\u56e2\u5706",
-      "url": "https://open.spotify.com/track/2RM3FNEBqEkdJi7Mqp0zAg"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
         "name": "\u6b61\u6b61\u559c\u559cHuaHuaHeHe\uff08ft.\u9054\u9054\uff0c\u73b2\u73b2\uff0c\u79d1\u8c46\uff09",
         "url": "https://open.spotify.com/album/2JOqeh0S5VpKcD8LrvPTY1"
       },
@@ -943,6 +915,34 @@
       "duration_ms": 196601,
       "name": "\u6b61\u6b61\u559c\u559cHuaHuaHeHe (ft.\u9054\u9054\uff0c\u73b2\u73b2\uff0c\u79d1\u8c46)",
       "url": "https://open.spotify.com/track/4pS3jZxeGAmroF9BSv89z6"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
+        "name": "\u4e00\u5bb6\u9f50\u56e2\u5706",
+        "url": "https://open.spotify.com/album/0excNpBqIOySFwH3d9kbAI"
+      },
+      "artists": [
+        {
+          "name": "Queenzy Cheng",
+          "url": "https://open.spotify.com/artist/4lHCl1xnQmgYZV95Xb40ZX"
+        },
+        {
+          "name": "\u9648\u5b50\u9896",
+          "url": "https://open.spotify.com/artist/3PH9mbqB8DwGDWjGkJGDk1"
+        },
+        {
+          "name": "Charlotte Seow",
+          "url": "https://open.spotify.com/artist/3BLeLI31JWdOzTm4JbErgz"
+        },
+        {
+          "name": "\u8427\u5b5d\u6770",
+          "url": "https://open.spotify.com/artist/44UYG3ltNXRJPdanmavuqX"
+        }
+      ],
+      "duration_ms": 132940,
+      "name": "\u4e00\u5bb6\u9f50\u56e2\u5706",
+      "url": "https://open.spotify.com/track/2RM3FNEBqEkdJi7Mqp0zAg"
     },
     {
       "added_at": "2025-11-13 16:00:32",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
-        "name": "\u82b1\u958b\u5bcc\u8cb4\u8fce\u65b0\u6625",
-        "url": "https://open.spotify.com/album/6SolYm0sxnYvF0n1D3iidk"
-      },
-      "artists": [
-        {
-          "name": "Fei Yu-ching",
-          "url": "https://open.spotify.com/artist/6aSJ9LaNaHOKiPchLDYGYl"
-        }
-      ],
-      "duration_ms": 91200,
-      "name": "\u62dc\u5927\u5e74",
-      "url": "https://open.spotify.com/track/70B28gJ603xFPSQXIEGv3a"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
         "name": "\u6625\u98ce\u5f97\u610f",
         "url": "https://open.spotify.com/album/6j7wqB9gXfxcTyK9HXPc1a"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 233653,
       "name": "\u56e2\u5706\u996d",
       "url": "https://open.spotify.com/track/1OdqvjlvIg1UAiacYD2EbR"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
+        "name": "\u82b1\u958b\u5bcc\u8cb4\u8fce\u65b0\u6625",
+        "url": "https://open.spotify.com/album/6SolYm0sxnYvF0n1D3iidk"
+      },
+      "artists": [
+        {
+          "name": "Fei Yu-ching",
+          "url": "https://open.spotify.com/artist/6aSJ9LaNaHOKiPchLDYGYl"
+        }
+      ],
+      "duration_ms": 91200,
+      "name": "\u62dc\u5927\u5e74",
+      "url": "https://open.spotify.com/track/70B28gJ603xFPSQXIEGv3a"
     },
     {
       "added_at": "2025-11-13 16:00:32",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
-        "name": "Steady Zut Zut Dance (feat. Steady Gang)",
-        "url": "https://open.spotify.com/album/41sJYeTMhhaPkmWxiJcG8W"
-      },
-      "artists": [
-        {
-          "name": "\u6731\u6d69\u4ec1",
-          "url": "https://open.spotify.com/artist/1Y2za0XzyluvtDTYtkFwJ7"
-        },
-        {
-          "name": "Steady Gang",
-          "url": "https://open.spotify.com/artist/3CDxpVRKc54eW7fFXMprsm"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Steady Zut Zut Dance (feat. Steady Gang)",
-      "url": "https://open.spotify.com/track/5rHlz1TCz2yVu3ahM6fZLN"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
         "name": "\u300a\u7ea2\u5305\u6536\u6536\u6536\u4e0d\u5b8c\u300b",
         "url": "https://open.spotify.com/album/7e7QEArpRhHdVfD8AfADtd"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 193994,
       "name": "\u300a\u7ea2\u5305\u6536\u6536\u6536\u4e0d\u5b8c\u300b",
       "url": "https://open.spotify.com/track/3nXCAQm4mB36MECJKgZCGb"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
+        "name": "Steady Zut Zut Dance (feat. Steady Gang)",
+        "url": "https://open.spotify.com/album/41sJYeTMhhaPkmWxiJcG8W"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u6d69\u4ec1",
+          "url": "https://open.spotify.com/artist/1Y2za0XzyluvtDTYtkFwJ7"
+        },
+        {
+          "name": "Steady Gang",
+          "url": "https://open.spotify.com/artist/3CDxpVRKc54eW7fFXMprsm"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Steady Zut Zut Dance (feat. Steady Gang)",
+      "url": "https://open.spotify.com/track/5rHlz1TCz2yVu3ahM6fZLN"
     },
     {
       "added_at": "2025-11-13 16:00:32",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
-        "name": "\u86c7\u4e48\u90fd\u597d",
-        "url": "https://open.spotify.com/album/7G4CYlKKF7aoA3Uq7VydyT"
-      },
-      "artists": [
-        {
-          "name": "96.3HAOFM",
-          "url": "https://open.spotify.com/artist/5wyGFYVvhdNvRjjqLrglkX"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "\u86c7\u4e48\u90fd\u597d",
-      "url": "https://open.spotify.com/track/0aoWrbNwptNzizDwWNqmxy"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
         "name": "\u65b0\u5e74\u5feb\u4e50",
         "url": "https://open.spotify.com/album/7KW3n4X9Iq2q4gBt8epCIk"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 183906,
       "name": "\u6625\u4e4b\u6668",
       "url": "https://open.spotify.com/track/1yFkVfQct0pCWj6pwIeHja"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
+        "name": "\u86c7\u4e48\u90fd\u597d",
+        "url": "https://open.spotify.com/album/7G4CYlKKF7aoA3Uq7VydyT"
+      },
+      "artists": [
+        {
+          "name": "96.3HAOFM",
+          "url": "https://open.spotify.com/artist/5wyGFYVvhdNvRjjqLrglkX"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "\u86c7\u4e48\u90fd\u597d",
+      "url": "https://open.spotify.com/track/0aoWrbNwptNzizDwWNqmxy"
     },
     {
       "added_at": "2025-11-13 16:00:32",
@@ -1923,6 +1923,42 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
+        "name": "\u65b0\u5e74\u5feb\u6a02\u597d\u53b2high",
+        "url": "https://open.spotify.com/album/2bV1KgoGQGPqBPuAqtsRJ4"
+      },
+      "artists": [
+        {
+          "name": "Ricky Hsiao",
+          "url": "https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB"
+        },
+        {
+          "name": "\u9ec3\u663a\u7fd4",
+          "url": "https://open.spotify.com/artist/0K2IIg235IYWTi3IKrZxzB"
+        },
+        {
+          "name": "\u674e\u5433\u5144\u5f1f",
+          "url": "https://open.spotify.com/artist/5kCxZLUOudLujL6JQAXlG3"
+        },
+        {
+          "name": "\u5409\u5df4\u5948",
+          "url": "https://open.spotify.com/artist/18JgckGXXSJo40xJKLxwvV"
+        },
+        {
+          "name": "\u65b9\u9e97\u5ead",
+          "url": "https://open.spotify.com/artist/5GDIgJsP8TlxUVE521BMYq"
+        },
+        {
+          "name": "\u694a\u7389\u51e1",
+          "url": "https://open.spotify.com/artist/1WoGcCgqjoufdX96A49UJE"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "\u65b0\u5e74\u5feb\u6a02\u597d\u53b2high",
+      "url": "https://open.spotify.com/track/4Jf5ydHRKy9RvogpjDc3As"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
         "name": "\u88d5\u9f20\u9f20\u7eb3\u798f\u8fce\u6625\u4e50",
         "url": "https://open.spotify.com/album/7GP2MwdXeW664hgixfsstu"
       },
@@ -1971,42 +2007,6 @@
       "duration_ms": 128548,
       "name": "\u6570\u6570\u5e78\u798f",
       "url": "https://open.spotify.com/track/34NfgdS8FAJIbdNTR5onai"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
-        "name": "\u65b0\u5e74\u5feb\u6a02\u597d\u53b2high",
-        "url": "https://open.spotify.com/album/2bV1KgoGQGPqBPuAqtsRJ4"
-      },
-      "artists": [
-        {
-          "name": "Ricky Hsiao",
-          "url": "https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB"
-        },
-        {
-          "name": "\u9ec3\u663a\u7fd4",
-          "url": "https://open.spotify.com/artist/0K2IIg235IYWTi3IKrZxzB"
-        },
-        {
-          "name": "\u674e\u5433\u5144\u5f1f",
-          "url": "https://open.spotify.com/artist/5kCxZLUOudLujL6JQAXlG3"
-        },
-        {
-          "name": "\u5409\u5df4\u5948",
-          "url": "https://open.spotify.com/artist/18JgckGXXSJo40xJKLxwvV"
-        },
-        {
-          "name": "\u65b9\u9e97\u5ead",
-          "url": "https://open.spotify.com/artist/5GDIgJsP8TlxUVE521BMYq"
-        },
-        {
-          "name": "\u694a\u7389\u51e1",
-          "url": "https://open.spotify.com/artist/1WoGcCgqjoufdX96A49UJE"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "\u65b0\u5e74\u5feb\u6a02\u597d\u53b2high",
-      "url": "https://open.spotify.com/track/4Jf5ydHRKy9RvogpjDc3As"
     },
     {
       "added_at": "2025-11-13 16:00:32",
@@ -2163,38 +2163,6 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
-        "name": "\u4eae\u6676\u6676",
-        "url": "https://open.spotify.com/album/4s5YUZG4VuBLVoG5HUoXro"
-      },
-      "artists": [
-        {
-          "name": "China Dolls",
-          "url": "https://open.spotify.com/artist/5av1Q663IrV8YZOKKG1BCa"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "\u5c0f\u5ab3\u5a66\u56de\u5a18\u5bb6",
-      "url": "https://open.spotify.com/track/67ES8w0EBOT5tkKr5FZgIw"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
-        "name": "\u597d\u8fd0\u6765 (\u8d3a\u5c81\u91d1\u66f2)",
-        "url": "https://open.spotify.com/album/6IoFGVg3UlBxJqwEZ15ekj"
-      },
-      "artists": [
-        {
-          "name": "\u5f20\u6c34\u84c9",
-          "url": "https://open.spotify.com/artist/7jjZ1Q9GIpXE90APhrP4O9"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "\u8d22\u795e\u5230",
-      "url": "https://open.spotify.com/track/1VXCHYxuP7GEoHj1aEDKQa"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
         "name": "\u56de\u5bb6\u5718\u5713",
         "url": "https://open.spotify.com/album/0oKo2tpvbrhpRDM360MjxX"
       },
@@ -2223,6 +2191,22 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
+        "name": "\u597d\u8fd0\u6765 (\u8d3a\u5c81\u91d1\u66f2)",
+        "url": "https://open.spotify.com/album/6IoFGVg3UlBxJqwEZ15ekj"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u6c34\u84c9",
+          "url": "https://open.spotify.com/artist/7jjZ1Q9GIpXE90APhrP4O9"
+        }
+      ],
+      "duration_ms": 210613,
+      "name": "\u8d22\u795e\u5230",
+      "url": "https://open.spotify.com/track/1VXCHYxuP7GEoHj1aEDKQa"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
         "name": "\u65b0\u5e74\u597d",
         "url": "https://open.spotify.com/album/1UMMEkiXgShv6Jpx9DTfQ6"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 194165,
       "name": "\u65b0\u5e74\u597d",
       "url": "https://open.spotify.com/track/1GAqPMocFRiQR62kmdp2F7"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
+        "name": "\u4eae\u6676\u6676",
+        "url": "https://open.spotify.com/album/4s5YUZG4VuBLVoG5HUoXro"
+      },
+      "artists": [
+        {
+          "name": "China Dolls",
+          "url": "https://open.spotify.com/artist/5av1Q663IrV8YZOKKG1BCa"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "\u5c0f\u5ab3\u5a66\u56de\u5a18\u5bb6",
+      "url": "https://open.spotify.com/track/67ES8w0EBOT5tkKr5FZgIw"
     },
     {
       "added_at": "2025-11-13 16:00:32",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2025-11-13 16:00:32",
       "album": {
+        "name": "\u65b0\u5e74\u9019\u4e00\u523b",
+        "url": "https://open.spotify.com/album/4ccyDgmsUSutLhqQr9qG5w"
+      },
+      "artists": [
+        {
+          "name": "BEJ48",
+          "url": "https://open.spotify.com/artist/2jNMQae1iHtA8DUYThuNzl"
+        }
+      ],
+      "duration_ms": 248935,
+      "name": "\u65b0\u5e74\u9019\u4e00\u523b",
+      "url": "https://open.spotify.com/track/2kzpgoRnrxmTONArtlwKpO"
+    },
+    {
+      "added_at": "2025-11-13 16:00:32",
+      "album": {
         "name": "\u9f99\u603bAll Right",
         "url": "https://open.spotify.com/album/1CquCJgBNLTYtDU2Z5cFWf"
       },
@@ -2359,22 +2375,6 @@
       "duration_ms": 194258,
       "name": "\u9f99\u603bAll Right",
       "url": "https://open.spotify.com/track/6OAs2ytMgmUGwAEp2yR533"
-    },
-    {
-      "added_at": "2025-11-13 16:00:32",
-      "album": {
-        "name": "\u65b0\u5e74\u9019\u4e00\u523b",
-        "url": "https://open.spotify.com/album/4ccyDgmsUSutLhqQr9qG5w"
-      },
-      "artists": [
-        {
-          "name": "BEJ48",
-          "url": "https://open.spotify.com/artist/2jNMQae1iHtA8DUYThuNzl"
-        }
-      ],
-      "duration_ms": 248935,
-      "name": "\u65b0\u5e74\u9019\u4e00\u523b",
-      "url": "https://open.spotify.com/track/2kzpgoRnrxmTONArtlwKpO"
     },
     {
       "added_at": "2025-11-13 16:00:32",

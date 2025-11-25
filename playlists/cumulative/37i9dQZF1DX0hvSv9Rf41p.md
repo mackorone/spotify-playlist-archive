@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with RL Grime
 
-1,587 songs - 3 day 15 hr 4 min
+1,588 songs - 3 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [AIRPLANE MODE](https://open.spotify.com/track/27K16LGxXQaTGAUTTIAJju) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [AIRPLANE MODE](https://open.spotify.com/album/7s3UIQN7qZ5ubYklMaW4Cf) | 2:36 | 2025-07-25 | 2025-08-23 |
 | [Alarma](https://open.spotify.com/track/0BZWDVGgV3cmi7OOQftmrc) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Alarma](https://open.spotify.com/album/5XM7RBV1slyZgNnFumYn46) | 2:52 | 2025-04-11 | 2025-05-10 |
 | [Alien Communication](https://open.spotify.com/track/5l5eTWEYoBllCByeF4Zjwt) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Alien Communication](https://open.spotify.com/album/0UNMmzWR7e7Ulh1P6tkQJq) | 5:03 | 2024-02-16 | 2024-05-04 |
-| [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 | 2025-09-26 |  |
+| [ALIVE](https://open.spotify.com/track/5uaGvrkuejhZ6ROQGac5Qs) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [9 LIVES](https://open.spotify.com/album/2Y339jvY13XJXPCQ5OtYxb) | 2:13 | 2025-09-26 | 2025-11-25 |
 | [Alive](https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Alive](https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF) | 2:49 | 2023-04-28 | 2023-09-09 |
 | [Alive \- 12th Planet Remix](https://open.spotify.com/track/70GVGpU0PCNX5op7l3qYTp) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o), [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [Alive \(Remixes\)](https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo) | 2:40 | 2021-12-17 | 2022-07-16 |
 | [All Black](https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Feral](https://open.spotify.com/album/2zTTnQ876VSwgZ92uaN1JN) | 2:14 | 2024-08-02 | 2024-09-14 |
@@ -979,6 +979,7 @@
 | [NINE LIVES](https://open.spotify.com/track/02U7sRQrOAom3Q8XCgtxS7) | [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [NINE LIVES](https://open.spotify.com/album/63DUuGk1TfBxtwgdBRNeBU) | 2:50 | 2025-10-03 | 2025-11-15 |
 | [No Blood Left To Bleed \(feat\. Micah Martin\)](https://open.spotify.com/track/2uTcs2JuGoHO8qW0ZzUmaC) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [No Blood Left To Bleed \(feat\. Micah Martin\)](https://open.spotify.com/album/0Kusz73azr9KBr9B74vo5F) | 3:21 | 2021-12-17 | 2022-07-16 |
 | [No Brakes](https://open.spotify.com/track/7t47Clhjv0tivc9lPCV61Q) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [No Brakes](https://open.spotify.com/album/0qiV7IIlpdFca8AUboS3P3) | 1:48 | 2024-10-04 | 2025-06-28 |
+| [No Broke Boys \- AVELLO Remix](https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ) | [No Broke Boys \(AVELLO Remix\)](https://open.spotify.com/album/3rGWp6CCmcTxog8qlfmElD) | 2:44 | 2025-11-24 |  |
 | [NO FEAR](https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [NO FEAR](https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D) | 2:54 | 2023-08-04 | 2023-12-16 |
 | [No Gravity](https://open.spotify.com/track/1DB7f0nDMTvCuiEv5wf7Ny) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [No Gravity](https://open.spotify.com/album/6ymnSDoRxoibJX3gIl46xx) | 3:26 | 2024-09-13 | 2024-09-21 |
 | [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 | 2021-12-17 | 2022-08-27 |
