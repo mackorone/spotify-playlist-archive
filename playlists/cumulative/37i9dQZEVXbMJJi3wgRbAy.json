@@ -16699,6 +16699,36 @@
     },
     {
       "album": {
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/3P5a4yDyIT6q8ZsX7z2Qid"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210576,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/5wPTk2TCDDuQRfqkZukWnk"
+    },
+    {
+      "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
       },
@@ -18020,7 +18050,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 152982,
       "name": "Prisionero",
       "url": "https://open.spotify.com/track/1I03DXMNSPDHDRiJtMbtzt"
@@ -18438,7 +18468,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 168857,
       "name": "Que Se Repita",
       "url": "https://open.spotify.com/track/4kyFxll3kvqsApJ1c4R9hh"
@@ -25096,7 +25126,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

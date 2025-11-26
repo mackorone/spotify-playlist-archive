@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 18787,
+  "num_followers": 18839,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
+      },
+      "artists": [
+        {
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
         "name": "Life, Dream, Love",
         "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 163255,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "TOKYO",
-        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
-      },
-      "artists": [
-        {
-          "name": "Nakajin",
-          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "TOKYO",
-      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -911,18 +911,26 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "Yes",
-        "url": "https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3"
+        "name": "WHAT",
+        "url": "https://open.spotify.com/album/36us3Pylwtw6T1liRpELNk"
       },
       "artists": [
         {
-          "name": "Shinichi Atobe",
-          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+          "name": "CARTOON",
+          "url": "https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT"
+        },
+        {
+          "name": "Jean Pierre",
+          "url": "https://open.spotify.com/artist/59EMBN7eiOECiRgEyM9LeJ"
+        },
+        {
+          "name": "Daitto",
+          "url": "https://open.spotify.com/artist/2Cr1yQSJ738W0CCg1AzI86"
         }
       ],
-      "duration_ms": 475895,
-      "name": "Yes",
-      "url": "https://open.spotify.com/track/2yNmtP6AH5ovZkPsQ4v4JB"
+      "duration_ms": 203020,
+      "name": "WHAT",
+      "url": "https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw"
     }
   ],
   "unique_name": "Tokyo Club Beat",

@@ -1063,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Rebeldes",
+        "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261066,
+      "name": "Como puedes vivir contigo mismo",
+      "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
+    },
+    {
+      "album": {
         "name": "Como Si Nada",
         "url": "https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K"
       },
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 162160,
       "name": "Tu Nombre y el M\u00edo",
       "url": "https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI"

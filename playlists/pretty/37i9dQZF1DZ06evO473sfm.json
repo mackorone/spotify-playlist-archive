@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 536651,
+  "num_followers": 537019,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADcyBnvEstxCHNOhODqH+81",
+  "snapshot_id": "aSOgAAAAAADEOedS88Q3HAQTs+9IYqX5",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mutuo",
+        "url": "https://open.spotify.com/album/5h4frelJxmc9kN32dcH5Ib"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177888,
+      "name": "Mutuo",
+      "url": "https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 219164,
       "name": "AURORA (feat. Armenta)",
       "url": "https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mutuo",
-        "url": "https://open.spotify.com/album/5h4frelJxmc9kN32dcH5Ib"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177888,
-      "name": "Mutuo",
-      "url": "https://open.spotify.com/track/1t5mXc2275dAEBiX6gLyfv"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apodo",
-        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 173954,
-      "name": "Apodo",
-      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUGANDO A QUE NO PASA NADA",
         "url": "https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 191284,
       "name": "YA PEDO QUI\u00c9N SABE",
       "url": "https://open.spotify.com/track/2psxw9j1vNkgIe3BcNOXVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apodo",
+        "url": "https://open.spotify.com/album/1lb7uVplwl2K6b7GnAB0jr"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 173954,
+      "name": "Apodo",
+      "url": "https://open.spotify.com/track/5OQyCrbytLw7anYRZXlEhc"
     },
     {
       "added_at": null,

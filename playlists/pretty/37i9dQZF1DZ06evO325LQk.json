@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37815,
+  "num_followers": 37814,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABbD5VwzJSgEneXpzAIDDI9",
+  "snapshot_id": "aSOgAAAAAACQS1Ef4DaIKLrt8kQ0oWJv",
   "tracks": [
     {
       "added_at": null,
@@ -347,38 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 280286,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1,2,3 dayz up",
         "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
@@ -399,6 +367,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 280286,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/3UYjzTbFu1qJjxkgktKXJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 244839,
       "name": "My Forever (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 126686,
-      "name": "UNISIL",
-      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 219212,
       "name": "Forever - SOPHIE Remix",
       "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 126686,
+      "name": "UNISIL",
+      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
     },
     {
       "added_at": null,

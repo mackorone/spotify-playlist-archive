@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,927 songs - 6 day 9 hr 48 min
+2,928 songs - 6 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2080,7 +2080,7 @@
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 | 2023-03-25 |
 | [River \- Eurovision 2022 \- Poland](https://open.spotify.com/track/6mkQtlv43QQcW6ivLuL9JE) | [Ochman](https://open.spotify.com/artist/45YERUZVQOedUFX24vFcvc) | [Ochman \(Deluxe Edition\)](https://open.spotify.com/album/4cgyAvJqQXpY5dpasG4B2f) | 3:00 | 2022-05-16 | 2022-05-18 |
 | [Robbery Bob](https://open.spotify.com/track/79cQZ70DHX2EIMbdgDiXUq) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Robbery Bob](https://open.spotify.com/album/778bia6HhNWH2ReDuDM5vk) | 2:31 | 2024-06-01 | 2024-06-03 |
-| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-30 |  |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-11-30 | 2025-11-26 |
 | [Rockstar](https://open.spotify.com/track/1o07xfumEmwE01GeYCFz1w) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Rockstar](https://open.spotify.com/album/4qh0oqh6tSVZmgK5fEtoGM) | 3:00 | 2025-02-08 | 2025-02-15 |
 | [Rockstar \(feat\. Clever\)](https://open.spotify.com/track/2cWvzU1eIUOGg7kpzCJO4X) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [BOY WONDER](https://open.spotify.com/album/17NNoDhQk1jYRWeVTuoPSB) | 3:13 | 2021-10-03 | 2021-10-04 |
 | [Rodeo](https://open.spotify.com/track/6mJnb88Q0RupbFaQPScT3R) | [Kiki](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [Rodeo](https://open.spotify.com/album/4MBT4UDaTkcSe3SdS08I7M) | 2:45 | 2022-06-18 | 2022-07-03 |
@@ -2825,6 +2825,7 @@
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-04-10 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-09-22 | 2022-04-30 |
 | [WHERE DO WE GO](https://open.spotify.com/track/2Q3CJ1cDHWUP2U7yysXHlr) | [Methodical Madness](https://open.spotify.com/artist/7qFNklBmzBBi11UOALurxa) | [Methodical Madness](https://open.spotify.com/album/2ELYGFF5akpz6PmGtwE1HN) | 3:21 | 2023-11-15 | 2023-11-17 |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-11-25 |  |
 | [White Christmas](https://open.spotify.com/track/370oYn3s5EKu7ziUpMQQTr) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3MPHjHNBRLa857BxmQUrZE) | 2:23 | 2021-12-24 | 2021-12-27 |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 | 2024-12-25 | 2024-12-27 |
 | [WHITEBOY](https://open.spotify.com/track/1Pr2Fzp0UO1h7NrgCbCHGx) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [WHITEBOY](https://open.spotify.com/album/1dyWwshwRjt9ihNKl1yHsX) | 2:51 | 2024-06-15 | 2025-01-31 |

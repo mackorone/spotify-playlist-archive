@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "12 LAKH",
+        "url": "https://open.spotify.com/album/6Pu9s5xSIY3JVRa29QA9uL"
+      },
+      "artists": [
+        {
+          "name": "RB Gujjar",
+          "url": "https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "12 LAKH",
+      "url": "https://open.spotify.com/track/2D3bCHPLmyyDdu95Y7eb2V"
+    },
+    {
+      "album": {
         "name": "140",
         "url": "https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ"
       },
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 320741,
       "name": "Desi's Anthem",
       "url": "https://open.spotify.com/track/3azIYjhRlTKXXPKfTfRdtB"
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 154666,
       "name": "Noorani",
       "url": "https://open.spotify.com/track/5TOm4km3Y9TYKEXBGByzas"
@@ -8406,6 +8424,32 @@
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "album": {
+        "name": "Qualis",
+        "url": "https://open.spotify.com/album/4Sre88cAaPR1JSHOVedRzO"
+      },
+      "artists": [
+        {
+          "name": "RC Magnum",
+          "url": "https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT"
+        },
+        {
+          "name": "Aman Mangali Aala",
+          "url": "https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR"
+        },
+        {
+          "name": "Manish Gaat",
+          "url": "https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Qualis",
+      "url": "https://open.spotify.com/track/6CX1HrSYjeXdbzimxmEW2P"
     },
     {
       "album": {

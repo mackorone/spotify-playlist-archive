@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 176928,
+  "num_followers": 177013,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAA3hVxX6bbA1mfhpyQuBOYv",
+  "snapshot_id": "aSOgAAAAAAB/Zar4ixtSA+i8qi1qONpB",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERDIDO",
-        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 156470,
-      "name": "PERDIDO",
-      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Querer Queriendo",
         "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERDIDO",
+        "url": "https://open.spotify.com/album/1bySzNQNPElENKhS564NkO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 156470,
+      "name": "PERDIDO",
+      "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
     },
     {
       "added_at": null,
@@ -664,37 +664,17 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+          "name": "Pabblo",
+          "url": "https://open.spotify.com/artist/352qR89UvJCYHGnCSUwMqw"
         },
         {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
         }
       ],
-      "duration_ms": 189812,
-      "name": "X LOS DOS",
-      "url": "https://open.spotify.com/track/2lLmdN5RTJuLzEgK7s0GB4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pelinegra",
-        "url": "https://open.spotify.com/album/2YwIrnPUIEDYtFgp99HNNO"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "La Pelinegra",
-      "url": "https://open.spotify.com/track/5bWomDwuyuF5pfnBZtYNP0"
+      "duration_ms": 186853,
+      "name": "WAXHA",
+      "url": "https://open.spotify.com/track/3D00WFXnh4PNMC3PvSTEKK"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
       "duration_ms": 194062,
       "name": "Que Pedo",
       "url": "https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pienso En Ella",
+        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 159552,
+      "name": "Pienso En Ella",
+      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
     },
     {
       "added_at": null,
@@ -748,37 +748,17 @@
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Pabblo",
-          "url": "https://open.spotify.com/artist/352qR89UvJCYHGnCSUwMqw"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
         }
       ],
-      "duration_ms": 186853,
-      "name": "WAXHA",
-      "url": "https://open.spotify.com/track/3D00WFXnh4PNMC3PvSTEKK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pienso En Ella",
-        "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 159552,
-      "name": "Pienso En Ella",
-      "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+      "duration_ms": 189812,
+      "name": "X LOS DOS",
+      "url": "https://open.spotify.com/track/2lLmdN5RTJuLzEgK7s0GB4"
     },
     {
       "added_at": null,
@@ -1031,6 +1011,26 @@
       "duration_ms": 216525,
       "name": "PICASSO",
       "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 169758,
+      "name": "M\u00e1s Perr\u00f3n Con los Balenciaga",
+      "url": "https://open.spotify.com/track/0iTAeCd05itdDZFkIkwmq3"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

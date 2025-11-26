@@ -4655,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "I Loved You",
+        "url": "https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214264,
+      "name": "Nafrat",
+      "url": "https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI"
+    },
+    {
+      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/74wRH9y0SH3uPbF0288sne"
       },
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 197295,
       "name": "Vigdiyan Heeran (From \"Honey 3.0\")",
       "url": "https://open.spotify.com/track/7qz4tPvG6hm4XeyjtTKNfT"

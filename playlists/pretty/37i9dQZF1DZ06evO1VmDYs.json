@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 197855,
+  "num_followers": 197867,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABhCH4z+dQvV88T8pG2FAzP",
+  "snapshot_id": "aSOgAAAAAADrBxO+ZEYGVZIkdJKAuEoz",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 243466,
-      "name": "El Scorcho",
-      "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
+      "duration_ms": 227733,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 227733,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW"
+      "duration_ms": 243466,
+      "name": "El Scorcho",
+      "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 224353,
-      "name": "Island in the Sun - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raditude (Deluxe)",
         "url": "https://open.spotify.com/album/6J2BJd3FQDDlh2ZjL6QIpF"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 208773,
       "name": "(If You're Wondering If I Want You To) I Want You To",
       "url": "https://open.spotify.com/track/09aDV0TC2RfWFU5IwZfIdG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     },
     {
       "added_at": null,

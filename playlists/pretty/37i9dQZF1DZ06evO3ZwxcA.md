@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,975 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,993 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 22 | [The Messenjah](https://open.spotify.com/track/6xdif5FfdXn6SM0XmzHvVe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:17 |
 | 23 | [Shine with Me \- 2022 Remixed & Remastered](https://open.spotify.com/track/19THfJzvW3lxRUc1TKP07q) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
 | 24 | [BREAKING](https://open.spotify.com/track/7GMVsr90LiDFsNLFCJfsLq) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 4:07 |
-| 25 | [Psalm 150](https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 0:55 |
+| 25 | [Rock the Party \(Off the Hook\) \- Off the Hook; 2006 Remaster](https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 3:26 |
 | 26 | [Change the World \- 2006 Remaster; Warriors EP Version](https://open.spotify.com/track/3Wtl9G9a0EutLyvNXFIwhu) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:03 |
 | 27 | [It Can't Rain Everyday \- 2022 Remixed & Remastered](https://open.spotify.com/track/66ohz8sYtRkVBftnS9mGPp) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:43 |
 | 28 | [Listening For The Silence](https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:51 |
-| 29 | [Rock the Party \(Off the Hook\) \- Off the Hook; 2006 Remaster](https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 3:26 |
+| 29 | [Psalm 150](https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 0:55 |
 | 30 | [Find My Way](https://open.spotify.com/track/40B98PoSxtXqU94PlCxKLe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:09 |
 | 31 | [Higher](https://open.spotify.com/track/6jlQBh3PNUWRUHsATIfQWU) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:22 |
 | 32 | [School Of Hard Knocks \- 2021 Remaster](https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 4:06 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 47 | [Circles](https://open.spotify.com/track/67eAkl0sRvEjcIDwMqxyyn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:27 |
 | 48 | [I'll Be Ready \- 2022 Remixed & Remastered](https://open.spotify.com/track/0AzPcW4jzim6Q6Jwh7xPDc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Marley Girls](https://open.spotify.com/artist/5OiRLtZaj8uyIHKmECFCg8) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:41 |
 | 49 | [Babylon The Murderer](https://open.spotify.com/track/7MozRmzIvmvsoxLjjOoG9O) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 4:18 |
-| 50 | [Lion's Roar](https://open.spotify.com/track/2V3AmXmyIKF7OQM663fFuZ) | [DJ Robinson](https://open.spotify.com/artist/4cAAgDtfxIZiIVB7HCwY6D), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Lion's Roar](https://open.spotify.com/album/50m1akjGfPNjl539KbhcSV) | 4:08 |
+| 50 | [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 |
 
-Snapshot ID: `aSJOgAAAAADCj0Sexyg40dRoc3VEJ0+d`
+Snapshot ID: `aSOgAAAAAACfLCIdP/yzDyCZRkFhM0mZ`

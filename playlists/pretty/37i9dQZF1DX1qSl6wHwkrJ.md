@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,370 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,412 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 17 | [Please Let Me Be Your Santa Claus](https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/2SOkbpUI8lCMFfysGGvnCk) | 4:32 |
 | 18 | [Stay A Little Longer, Santa](https://open.spotify.com/track/46HZyHdHhq2kFyLY24ycv0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 4:22 |
 | 19 | [Lonesome Christmas](https://open.spotify.com/track/5tpYxyS2Ic5rugVnlSKGU0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 3:51 |
-| 20 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
-| 21 | [Hey Santa Claus](https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Presenting The Moonglows](https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v) | 2:25 |
+| 20 | [Hey Santa Claus](https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Presenting The Moonglows](https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v) | 2:25 |
+| 21 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
 | 22 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
 | 23 | [Santa](https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Death Might Be Your Santa Claus](https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH) | 3:45 |
 | 24 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 33 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
 | 34 | [Jingle Bell Rock](https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Jingle Bell Rock](https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2) | 3:32 |
 | 35 | [Christmas Card Blues](https://open.spotify.com/track/4IbVYsXSPIpxJBGcfOyHxI) | [Mickey Jupp](https://open.spotify.com/artist/51rvBqpLHpqtbuaIrs4hAT) | [Little River EP](https://open.spotify.com/album/2AHIk4wV03k832bCuydIOX) | 3:04 |
-| 36 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
-| 37 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
+| 36 | [Christmas Blues](https://open.spotify.com/track/1ZAnNXdkAW8S8Js8xFJaQD) | [Big Joe Williams](https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo) | [Merry Blue Christmas](https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs) | 2:10 |
+| 37 | [Santa Claus, Do You Ever Get The Blues?](https://open.spotify.com/track/5AcudPwgZ7Y7AV2zDEUtFC) | [Roomful Of Blues](https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 3:22 |
 | 38 | [You're A Mean One Mr\. Grinch](https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ) | [Shine Delphi](https://open.spotify.com/artist/4P5ULEfqCWkQD5fZ9YYWgv), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:56 |
 | 39 | [The Christmas Song](https://open.spotify.com/track/0CfPJZkCUwH0VKIqA4v7RX) | [Lee Jackson](https://open.spotify.com/artist/09hjYy5xCR1GImFDt40cDD), [The Cadillac Baby Specials](https://open.spotify.com/artist/3mGedlcm5PjkA3Xd5vlUKx) | [Cadillac Baby's Bea & Baby Records Definitive Collection, Vol\. 3](https://open.spotify.com/album/3zGpMiCx2Xu4ErHOzZRvTv) | 2:34 |
 | 40 | [Silent Night](https://open.spotify.com/track/4aLeuS1Gk6pVw5cHgs4AFP) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [A Blues Christmas](https://open.spotify.com/album/3ZFr62DlxDuO5GLTO8Ci8T) | 2:41 |

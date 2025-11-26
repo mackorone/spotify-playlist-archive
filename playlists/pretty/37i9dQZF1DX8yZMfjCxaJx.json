@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 225619,
+  "num_followers": 225776,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -267,26 +267,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "El Chino (En Vivo)",
-        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 180047,
-      "name": "El Chino (En Vivo)",
-      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "Cholo 7",
         "url": "https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 157500,
       "name": "Cholo 7",
       "url": "https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -439,8 +439,8 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "El Plumas",
-        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+        "name": "Jalense la Gre\u00f1a",
+        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
       },
       "artists": [
         {
@@ -448,13 +448,13 @@
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/5lVrLnOGxIY3q8TTqDd5m2"
         }
       ],
-      "duration_ms": 150528,
-      "name": "El Plumas",
-      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+      "duration_ms": 184773,
+      "name": "El Gerry",
+      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -539,8 +539,8 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Jalense la Gre\u00f1a",
-        "url": "https://open.spotify.com/album/5ggVBjuzCMZUt6E3ObWkqc"
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
       "artists": [
         {
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         },
         {
-          "name": "JR",
-          "url": "https://open.spotify.com/artist/5lVrLnOGxIY3q8TTqDd5m2"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 184773,
-      "name": "El Gerry",
-      "url": "https://open.spotify.com/track/6lDEa9p8HbnxiCMaj9YGUy"
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "La Loteria",
+        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Por La Baja Navegamos",
+      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "La Loteria",
-        "url": "https://open.spotify.com/album/1eOnR7Tb5ajg0OMNi68i4W"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Por La Baja Navegamos",
-      "url": "https://open.spotify.com/track/0OephgF5HKnlnZYLhCuaKQ"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Rebeldes",
-          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
-        }
-      ],
-      "duration_ms": 167402,
-      "name": "Mejor Que Ayer",
-      "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
         "name": "MALA FAMA",
         "url": "https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 200000,
       "name": "R3",
       "url": "https://open.spotify.com/track/4fLNsB5vYYmh01aWhftI7v"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/5TL4AEsMF5T6TSCGFiOfT1"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "duration_ms": 167402,
+      "name": "Mejor Que Ayer",
+      "url": "https://open.spotify.com/track/77R8HuQqh7F6CI9p2n1UCF"
     },
     {
       "added_at": "2025-11-07 18:00:12",

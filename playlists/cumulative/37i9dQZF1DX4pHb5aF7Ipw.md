@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by Khan Bhaini
 
-827 songs - 1 day 14 hr 16 min
+828 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [No Cap](https://open.spotify.com/track/0IP2Z1aAMIixHY5m2IK5eB) | [RAAJA](https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5), [Deepa Bandala](https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca) | [No Cap](https://open.spotify.com/album/7LHedoxvqFKnrkONnbuLHV) | 3:34 | 2025-03-28 | 2025-05-24 |
 | [No Chance](https://open.spotify.com/track/6aYiEyi7wpPux3j9eyY60B) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [No Chance](https://open.spotify.com/album/6M2MOLQshIFQtdQ3RdViow) | 2:29 | 2025-02-06 | 2025-03-05 |
 | [NO CHANCE](https://open.spotify.com/track/4XVwhCuVjLfQVNem3kCtav) | [Ravxo](https://open.spotify.com/artist/1LYokkI2huyH80xHcT5AN1), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [NO CHANCE](https://open.spotify.com/album/0oojlnk1M7Dbenq7GzTk6H) | 3:08 | 2025-05-23 | 2025-06-20 |
+| [No Escape](https://open.spotify.com/track/3VgB3FwRYut1y1m7pB1VTL) | [Prince sunam wala](https://open.spotify.com/artist/2ACbi9lEPZjmdzqVpBctTA), [Still](https://open.spotify.com/artist/0eFqC7KVSJ760f3YOgrleN), [Ishan Johar](https://open.spotify.com/artist/21Nkz5eY80eZkv2DX8qnv5) | [No Escape](https://open.spotify.com/album/3lnlbdaVnkUO4YW51E1Wad) | 2:47 | 2025-11-25 |  |
 | [No Face No Case](https://open.spotify.com/track/1qVHrxabiSRBhh5CxvmsaM) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv) | [No Face No Case](https://open.spotify.com/album/7lJCxzXYm6XjpXJKm573MU) | 2:28 | 2025-09-19 | 2025-11-15 |
 | [NO FEAR NO FUN](https://open.spotify.com/track/08OqoRdIVasfjWq8fijPcu) | [prodssd](https://open.spotify.com/artist/6ht8GFA7fw7HsrExgzBqFS), [Khush Athwal](https://open.spotify.com/artist/2b2otF2sjvHWC1jQQQcY69) | [Taking My Time](https://open.spotify.com/album/2BHillbw1AKFxB7t7P47gt) | 2:01 | 2025-11-21 |  |
 | [No Handouts](https://open.spotify.com/track/7I5R6mK1tvSVzPrTGkv9el) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Youngstarr Pop Boy](https://open.spotify.com/artist/3qQfU4XvZCmz8Hwwu5pSr9) | [No Handouts](https://open.spotify.com/album/5j3wfBsh9khPiX5tdMkBwt) | 2:25 | 2025-07-25 | 2025-09-20 |
@@ -603,7 +604,7 @@
 | [Photo](https://open.spotify.com/track/4ikWBkKI2qs7SADwnWBSEp) | [TOOR](https://open.spotify.com/artist/5EWY7Jo2G1gWqPRnKmGeiX), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Photo](https://open.spotify.com/album/3SRbsDvrVpvyhaWpUcHnC9) | 3:28 | 2025-02-18 | 2025-03-01 |
 | [Piche Aava](https://open.spotify.com/track/3jRBzl4AJMssXH0VQ5Tem1) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Muzzle](https://open.spotify.com/artist/19trpXQWUc00d2UEGLZQVB) | [Boy Drama](https://open.spotify.com/album/7IdRtAuG8gIaDcQfoacL8e) | 2:25 | 2025-09-19 | 2025-11-08 |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2023-10-27 |
-| [Pind Rehnda](https://open.spotify.com/track/61L5NLx7H5Hy6FuG3Cqtq3) | [Lv Nijjar](https://open.spotify.com/artist/2TVUSjd2MO6VokD436FPgB), [The Sam](https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E), [Akash](https://open.spotify.com/artist/1WZqFOJTRvrulxDiIUJv8F) | [Street Legacy](https://open.spotify.com/album/0EE2lSNMp6kENp26KuvGZz) | 1:57 | 2025-10-10 |  |
+| [Pind Rehnda](https://open.spotify.com/track/61L5NLx7H5Hy6FuG3Cqtq3) | [Lv Nijjar](https://open.spotify.com/artist/2TVUSjd2MO6VokD436FPgB), [The Sam](https://open.spotify.com/artist/6ePsxI5AaumPoTJ8xnsQ7E), [Akash](https://open.spotify.com/artist/1WZqFOJTRvrulxDiIUJv8F) | [Street Legacy](https://open.spotify.com/album/0EE2lSNMp6kENp26KuvGZz) | 1:57 | 2025-10-10 | 2025-11-26 |
 | [Piracy](https://open.spotify.com/track/0HBIBnSV8wycBcWufqMUci) | [Raman Brar](https://open.spotify.com/artist/2rQtudwQbw6YDJCZbWj3Hl), [Jashan Brar](https://open.spotify.com/artist/0QdtVLkPwgGujRAwScFz89) | [Piracy](https://open.spotify.com/album/0aAghNO7DURhcMsLnt3C02) | 2:04 | 2025-10-24 |  |
 | [PO](https://open.spotify.com/track/1W6r5thD9Tadno47turNR0) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [PO](https://open.spotify.com/album/3dDTeOeKChpAltxDRciLXD) | 3:35 | 2023-09-06 | 2024-09-18 |
 | [POLICE](https://open.spotify.com/track/3DCnJSjXhN5ct1OSfezFIC) | [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [No Exit](https://open.spotify.com/album/5Zx9lANizOS0cAD2ju3Xeu) | 2:20 | 2025-11-07 |  |

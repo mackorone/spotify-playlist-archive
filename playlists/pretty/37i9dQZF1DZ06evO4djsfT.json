@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27852,
+  "num_followers": 27858,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADmv3GRSSLRr1TIBGgPCe9a",
+  "snapshot_id": "aSOgAAAAAAC4HUELsauKDKnRwSfYh585",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "O God Forgive Us",
-      "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 170911,
       "name": "Familia",
       "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUN WILD. LIVE FREE. LOVE STRONG. (Deluxe Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "O God Forgive Us",
+      "url": "https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J"
     },
     {
       "added_at": null,

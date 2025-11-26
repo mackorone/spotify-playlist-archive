@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1076,
+  "num_followers": 1079,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACkDIehByaKmFOhSau+g2R5",
+  "snapshot_id": "aSOgAAAAAACoyvYB/tn1sLZ8vYHPdtNH",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 144746,
-      "name": "Aroma",
-      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIZUKI // PERFECT DIVIDE",
         "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
       },
@@ -499,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tam Tam",
-        "url": "https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx"
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
       },
       "artists": [
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "JADA",
-          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Tam Tam",
-      "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
+      "duration_ms": 144746,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow"
     },
     {
       "added_at": null,
@@ -543,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VENOLOGY",
-        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+        "name": "Tam Tam",
+        "url": "https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx"
       },
       "artists": [
         {
@@ -552,13 +532,13 @@
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
         },
         {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+          "name": "JADA",
+          "url": "https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM"
         }
       ],
-      "duration_ms": 254333,
-      "name": "The Last Poets",
-      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
+      "duration_ms": 212933,
+      "name": "Tam Tam",
+      "url": "https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
       "duration_ms": 172190,
       "name": "so simple",
       "url": "https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VENOLOGY",
+        "url": "https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "The Last Poets",
+      "url": "https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ways of Knowing",
         "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 130546,
       "name": "Embers (feat Liv.e & Venna)",
       "url": "https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
     },
     {
       "added_at": null,

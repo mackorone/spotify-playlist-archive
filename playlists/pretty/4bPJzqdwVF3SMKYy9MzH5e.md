@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,264 songs - 5 day 1 hr 23 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,266 songs - 5 day 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2272,5 +2272,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2262 | [Great Escape](https://open.spotify.com/track/2yfTDiRcSY6cAt17KyR92N) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA), [cranes](https://open.spotify.com/artist/3RjMDQ6j6FX40b4idQNsZY), [mental](https://open.spotify.com/artist/7rQMXIWKXSMkd7dK8LQ7a4) | [Great Escape/Heaven](https://open.spotify.com/album/6CVZuWiz1PfRHz7SN4eehL) | 2:03 |
 | 2263 | [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 |
 | 2264 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 |
+| 2265 | [Fire\_Field\_187f](https://open.spotify.com/track/2ppmmh30eQGVSoN5lejhzA) | [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [The Taste of Food Is My Reason for Living](https://open.spotify.com/album/1BWm6e51ExFvJMeTJ3fENH) | 2:23 |
+| 2266 | [rayquaza ex](https://open.spotify.com/track/1IhLQFzL8gWnyUUVAap7qi) | [Exodia](https://open.spotify.com/artist/0ndWKGm6Kl92RMNKdEsco1) | [rayquaza ex](https://open.spotify.com/album/6rbdJMeEdLoE9ZHlEwLp3q) | 3:28 |
 
-Snapshot ID: `AAAEziGRIfy8DDSWmFWmXL9Y/GksCXb1`
+Snapshot ID: `AAAE0oguhBZKc37HR9nTxe2OzCIR6MNX`

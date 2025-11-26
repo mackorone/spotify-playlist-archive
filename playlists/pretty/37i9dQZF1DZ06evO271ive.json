@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28593,
+  "num_followers": 28594,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADY+TQeklG4UKvHV0/ppuVG",
+  "snapshot_id": "aSOgAAAAAAAREVG2zGU0hAfkqYoyvD5C",
   "tracks": [
     {
       "added_at": null,
@@ -379,30 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRTY NACHOS",
-        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 186991,
-      "name": "DAMN SHORTY (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embrace It (Remix) (feat. Sexyy Red, Flo Milli, RJ Pasin)",
         "url": "https://open.spotify.com/album/566dEBWNKAa9yh16I1GtrT"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 202434,
       "name": "Embrace It (feat. Sexyy Red, Flo Milli, RJ Pasin) - Remix",
       "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIRTY NACHOS",
+        "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 186991,
+      "name": "DAMN SHORTY (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
     },
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
       "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 167133,
-      "name": "Mami (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID"
+      "duration_ms": 139632,
+      "name": "Fake Jammin",
+      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
       "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
         {
           "name": "Sexyy Red",
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 139632,
-      "name": "Fake Jammin",
-      "url": "https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP"
+      "duration_ms": 167133,
+      "name": "Mami (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MMM HMM (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158137,
+      "name": "MMM HMM (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/3hnstzTuprnjM56Xm1MRSr"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 174967,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/69uzomsgzj5yG6CztWeC56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MMM HMM (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
-      },
-      "artists": [
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158137,
-      "name": "MMM HMM (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoochie Coochie",
-        "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 147450,
-      "name": "Hoochie Coochie",
-      "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "304",
         "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
       },
@@ -923,6 +907,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoochie Coochie",
+        "url": "https://open.spotify.com/album/3AGhrLfPdpOZQnI7s5GBjz"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 147450,
+      "name": "Hoochie Coochie",
+      "url": "https://open.spotify.com/track/7ygjfxmmkgPN0nbyYOMD2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "duration_ms": 155291,
+      "name": "Born By the River",
+      "url": "https://open.spotify.com/track/1dR964asWRagIvbk5FsJqc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -935,22 +955,6 @@
       "duration_ms": 147048,
       "name": "It's My Birthday",
       "url": "https://open.spotify.com/track/5ZjSQmUdjvFhSVhLWpVPWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149958,
-      "name": "Female Gucci Mane",
-      "url": "https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8"
     },
     {
       "added_at": null,

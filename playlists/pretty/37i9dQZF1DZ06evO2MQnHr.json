@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADFRzYQJOKnKWkZgzIuN/I6",
+  "snapshot_id": "aSOgAAAAAAAMbOl5sVgcoPTJjbMJP2MZ",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken Heart Thing (feat. Dustin Lynch)",
-        "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
-        }
-      ],
-      "duration_ms": 186520,
-      "name": "Broken Heart Thing (feat. Dustin Lynch)",
-      "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream House",
         "url": "https://open.spotify.com/album/4ZysfboxjcufMoSnnw4aoh"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 152748,
       "name": "Day One (ft. Madeline Merlo)",
       "url": "https://open.spotify.com/track/17qCaa3TLb3vOXc68p2w9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Heart Thing (feat. Dustin Lynch)",
+        "url": "https://open.spotify.com/album/5y0ocwzDSZ9B8YENtOkEcK"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "duration_ms": 186520,
+      "name": "Broken Heart Thing (feat. Dustin Lynch)",
+      "url": "https://open.spotify.com/track/72ecTORp2pXeLM5f7ayHI4"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motel Flamingo",
-        "url": "https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR"
-      },
-      "artists": [
-        {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        }
-      ],
-      "duration_ms": 212134,
-      "name": "Motel Flamingo",
-      "url": "https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take A Broken Heart",
         "url": "https://open.spotify.com/album/2Gdv4H1aIjyLMklwti30lM"
       },
@@ -275,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unraveling",
-        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
+        "name": "Motel Flamingo",
+        "url": "https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR"
       },
       "artists": [
         {
@@ -284,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Unraveling",
-      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
+      "duration_ms": 212134,
+      "name": "Motel Flamingo",
+      "url": "https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF"
     },
     {
       "added_at": null,
@@ -303,6 +287,22 @@
       "duration_ms": 187146,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/6YJEl1f1oU2232iziGXhQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unraveling",
+        "url": "https://open.spotify.com/album/1DigFIrYSADGMkHyWAb11D"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Unraveling",
+      "url": "https://open.spotify.com/track/6DwP8U1JYIEQPVo8QU9JO7"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You'll Think Of Me",
-        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 247026,
-      "name": "You'll Think Of Me",
-      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
+      "duration_ms": 209933,
+      "name": "YOUNG-ish",
+      "url": "https://open.spotify.com/track/0zPJKHVdjItG4ehe6ZY1Sy"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/1XQ65rtdxl5eag0BwvJnvZ"
+        "name": "You'll Think Of Me",
+        "url": "https://open.spotify.com/album/6KVzYtxuoocc5zGopgHj89"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 209933,
-      "name": "YOUNG-ish",
-      "url": "https://open.spotify.com/track/0zPJKHVdjItG4ehe6ZY1Sy"
+      "duration_ms": 247026,
+      "name": "You'll Think Of Me",
+      "url": "https://open.spotify.com/track/5tnvKlUmIXpHtN79p4jRjF"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+      "duration_ms": 202920,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 202920,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -616,13 +616,17 @@
       },
       "artists": [
         {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 260409,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v"
+      "duration_ms": 223289,
+      "name": "Have You Ever Had so Much Fun",
+      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
     }
   ],
   "unique_name": "This Is Madeline Merlo",

@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "lip bomb",
+        "url": "https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv"
+    },
+    {
+      "album": {
         "name": "With YOU-th",
         "url": "https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR"
       },
@@ -924,6 +942,24 @@
       "duration_ms": 200266,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
+    },
+    {
+      "album": {
+        "name": "msnz <Beyond Beauty>",
+        "url": "https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bubble Gum Girl",
+      "url": "https://open.spotify.com/track/38bky5ZuZZFlBmbphLBgaZ"
     },
     {
       "album": {
@@ -4594,7 +4630,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 190000,
       "name": "Love Your Flower",
       "url": "https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei"
@@ -6122,7 +6158,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 131000,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM"

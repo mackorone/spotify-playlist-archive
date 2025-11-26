@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 714011,
+  "num_followers": 714134,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,22 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -203,30 +203,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "You & Me (Rivo Remix)",
-        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "You & Me - Rivo Remix",
-      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
       },
@@ -243,6 +219,30 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
-        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
-      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ"
       },
@@ -919,6 +899,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Wicked Games (feat. Anna Naklab) [Radio Edit]",
+        "url": "https://open.spotify.com/album/5pqiHmyrsBIRTLUoIhT8oz"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Wicked Games (feat. Anna Naklab) - Radio Edit",
+      "url": "https://open.spotify.com/track/6JrAEmBFd61eYIGVOSPnT4"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Food for the Soul",
         "url": "https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 210562,
       "name": "Food for the Soul",
       "url": "https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -959,22 +975,6 @@
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "The Ocean (feat. Shy Martin)",
+        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
+      },
+      "artists": [
+        {
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "The Ocean (feat. Shy Martin)",
+      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Ease My Mind",
         "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 188360,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "The Ocean (feat. Shy Martin)",
-        "url": "https://open.spotify.com/album/4pgNeQfSctryAw4e0uESHe"
-      },
-      "artists": [
-        {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "The Ocean (feat. Shy Martin)",
-      "url": "https://open.spotify.com/track/2CPqh63wRVscbceKcPxwvv"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Settle (Deluxe Version)",
         "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 244174,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "A Little Closer",
-        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
-      },
-      "artists": [
-        {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "A Little Closer",
-      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1543,30 +1543,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Woke Up in Love",
-        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 216873,
-      "name": "Woke Up in Love",
-      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -1583,6 +1559,26 @@
       "duration_ms": 286879,
       "name": "Could You Be Loved (with LP Giobbi)",
       "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "First Time",
+        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 193511,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -1951,26 +1947,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "To Love Again",
-        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "To Love Again",
-      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1987,6 +1963,26 @@
       "duration_ms": 187126,
       "name": "Heatwave (feat. Akon)",
       "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "To Love Again",
+        "url": "https://open.spotify.com/album/72kTximzJov9lBqocYYphE"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "To Love Again",
+      "url": "https://open.spotify.com/track/52tlNyruZmDlFIviY0nqrg"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -2511,22 +2507,6 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "Can't Stand To Lose",
-        "url": "https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 292620,
-      "name": "Can't Stand To Lose",
-      "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
-    },
-    {
-      "added_at": "2025-10-17 04:00:45",
-      "album": {
         "name": "Nightday (EP)",
         "url": "https://open.spotify.com/album/1sZNLQ70ksj1gVRbaf7yBP"
       },
@@ -2539,6 +2519,22 @@
       "duration_ms": 223386,
       "name": "Faded",
       "url": "https://open.spotify.com/track/27ImR3LOSWgzqrABxD92uq"
+    },
+    {
+      "added_at": "2025-10-17 04:00:45",
+      "album": {
+        "name": "Can't Stand To Lose",
+        "url": "https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 292620,
+      "name": "Can't Stand To Lose",
+      "url": "https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs"
     },
     {
       "added_at": "2025-10-17 04:00:45",
@@ -2831,8 +2827,8 @@
     {
       "added_at": "2025-10-17 04:00:45",
       "album": {
-        "name": "First Time",
-        "url": "https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1"
+        "name": "Woke Up in Love",
+        "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
       "artists": [
         {
@@ -2840,13 +2836,17 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 193511,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
+      "duration_ms": 216873,
+      "name": "Woke Up in Love",
+      "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
     },
     {
       "added_at": "2025-10-17 04:00:45",

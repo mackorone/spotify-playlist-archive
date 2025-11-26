@@ -10,13 +10,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Kui paljon](https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Magic City](https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE) | 1:54 |
 | 2 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 |
-| 3 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 |
-| 4 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 |
+| 3 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 |
+| 4 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 |
 | 5 | [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 |
 | 6 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
-| 7 | [Made it](https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Made it](https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY) | 2:31 |
-| 8 | [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 |
-| 9 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
+| 7 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
+| 8 | [Made it](https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Made it](https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY) | 2:31 |
+| 9 | [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 |
 | 10 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
 | 11 | [Griselda Blanco](https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Griselda Blanco](https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5) | 2:43 |
 | 12 | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Lääke \(Vain elämää kausi 16\)](https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Kultaa](https://open.spotify.com/track/50eX1JtYibpnRVPGqXfweE) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Kultaa](https://open.spotify.com/album/62HSRy8W8RaeRavSVYQyMZ) | 2:54 |
 | 50 | [Kostaa](https://open.spotify.com/track/2OeqKU2TB8glJq5RIY5Xgz) | [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [shawty](https://open.spotify.com/album/4YD626R8qGxvwZAPRaaZwK) | 2:55 |
 
-Snapshot ID: `AAAAAPMbDgz2u3mhcDIXeUH3XawFMkkd`
+Snapshot ID: `AAAAALvk9ljYARWlXomNhX/69OMOC2wG`

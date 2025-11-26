@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tems, DBN Gogo,  Odeal, DJ Stokie and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,847 likes - 69 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,904 likes - 69 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 63 | [uMoya \(feat\. NaCo, Mphoet, Carter IV & Moholo\)](https://open.spotify.com/track/3mieM894syFQ8Zhjv42j2P) | [Soul Nativez](https://open.spotify.com/artist/29OcJ7yI5UobrUXl4zdGOg), [NaCo](https://open.spotify.com/artist/7nigJqtAVhlLKcR8qhLxkv), [Mphoet](https://open.spotify.com/artist/3B5JI7zbJHROUCXrwjhcXo), [Carter IV](https://open.spotify.com/artist/6AKhNwrvLRa7X9xratTu8s), [Moholo](https://open.spotify.com/artist/7rt5mc6KqUQImmxaVKA93y) | [Taelo](https://open.spotify.com/album/4Fv07gEQPfTEpcfaluLKTJ) | 6:16 |
 | 64 | [MALI](https://open.spotify.com/track/1CDBcBh9llcTGzskeItNxJ) | [Inter B & Draad](https://open.spotify.com/artist/0Hf0OBTv0Ly6zhQDM0m7bn), [$ADDYDE$NOWBOII](https://open.spotify.com/artist/0V1BidcZuLV2GR8fhNd8px), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [MALI](https://open.spotify.com/album/1InqpKY1P4m5Y2TFM3r4vs) | 6:11 |
 | 65 | [Can't See](https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Can’t See](https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI) | 2:26 |
-| 66 | [Vuka](https://open.spotify.com/track/0rxzDAzu4V2SO2xp8aRLkp) | [DrummeRTee924](https://open.spotify.com/artist/7EBRU9cmJ711l9hh7uxTNR), [Salga](https://open.spotify.com/artist/1Y52sa19kigw534ZpEHXmF), [Azania](https://open.spotify.com/artist/7v4kgKf8RhZ9wnjeXbubYm) | [Vuka](https://open.spotify.com/album/6n6LfkZUo2rnPVN05dEuEX) | 4:25 |
+| 66 | [Vuka](https://open.spotify.com/track/0rxzDAzu4V2SO2xp8aRLkp) | [DrummeRTee924](https://open.spotify.com/artist/7EBRU9cmJ711l9hh7uxTNR), [Salga](https://open.spotify.com/artist/1Y52sa19kigw534ZpEHXmF), [Azania](https://open.spotify.com/artist/7JmAQ2QgMjmbzPG2oXecTo) | [Vuka](https://open.spotify.com/album/6n6LfkZUo2rnPVN05dEuEX) | 4:25 |
 | 67 | [Nocturnal Groove](https://open.spotify.com/track/6UUemSEvS6DfNhGrZApsL5) | [Young Molz](https://open.spotify.com/artist/0xnQjx6t9qfEFpE6zQed1K) | [Nocturnal Groove](https://open.spotify.com/album/6Wducpjw2GbyfCqLXfROAL) | 7:24 |
 | 68 | [It's Not Over](https://open.spotify.com/track/4evkw9RE6TyYAxKHxlwbtV) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [It's Not Over](https://open.spotify.com/album/7FcDZNuFsSJuU5AmXqqbzL) | 2:21 |
 | 69 | [Taste](https://open.spotify.com/track/7kLipgJlESgTyvjQE67O0U) | [Akeeda](https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK) | [Taste](https://open.spotify.com/album/52klYeor4gwCBr2RPhN497) | 4:16 |

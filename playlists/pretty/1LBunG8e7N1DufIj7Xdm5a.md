@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 231 likes - 3,635 songs - 8 day 0 hr 7 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 231 likes - 3,643 songs - 8 day 0 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3640,8 +3640,16 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3630 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 |
 | 3631 | [Me](https://open.spotify.com/track/1x9os7V76PbeskTgo25YkE) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Me](https://open.spotify.com/album/3xQKo4WKYsPDzNWneFEht1) | 2:42 |
 | 3632 | [Chasing smiles](https://open.spotify.com/track/2hQKzZPnnA9CI2cFeuQ2wV) | [Mirror Vain](https://open.spotify.com/artist/5492DtDN9DpYNYTNeRh3g7) | [Chasing smiles](https://open.spotify.com/album/4FPGa1g6QeaJufbj0jnXcS) | 4:00 |
-| 3633 | [Porvenir](https://open.spotify.com/track/0DpOxxjksdazC0fGkDmRHt) | [Tolever](https://open.spotify.com/artist/18KqOtLdA3nHDFxs0vs44g) | [Porvenir](https://open.spotify.com/album/6GYSTBW1XF1A0RZGHrRU9E) | 2:25 |
-| 3634 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 |
-| 3635 | [Immer noch](https://open.spotify.com/track/5HASv6LBGiopE4qiROoxTX) | [PATU](https://open.spotify.com/artist/3QnO7k2Q58OIi8j71YbW8O) | [Immer noch](https://open.spotify.com/album/1phwUCGAbTwMjq2j2ZTIli) | 3:38 |
+| 3633 | [El Propi Misteri](https://open.spotify.com/track/3C0fym92Uhi7PyWfNXjQVr) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Flora i Fauna](https://open.spotify.com/album/1uN30RsiOCF8Z96pyESgvn) | 5:28 |
+| 3634 | [Tiny Speck](https://open.spotify.com/track/6kPjfKphSOuffaeXzGRBZN) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Un Mal Menor](https://open.spotify.com/album/2YVnJHNShcNAkedJq4GJl3) | 3:26 |
+| 3635 | [El Mismo Sol](https://open.spotify.com/track/1R8xHhsBJiKlSiejjjL6R1) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Radio Cincinnati](https://open.spotify.com/album/4ryhhEUfUyguu3ZISxTGwy) | 3:35 |
+| 3636 | [Quarz](https://open.spotify.com/track/5pgRxx6vP81lugd4WhQUG7) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Hex](https://open.spotify.com/album/1pi1sqdxt3KndTYmJJ7Pye) | 4:21 |
+| 3637 | [Porvenir](https://open.spotify.com/track/0DpOxxjksdazC0fGkDmRHt) | [Tolever](https://open.spotify.com/artist/18KqOtLdA3nHDFxs0vs44g) | [Porvenir](https://open.spotify.com/album/6GYSTBW1XF1A0RZGHrRU9E) | 2:25 |
+| 3638 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 |
+| 3639 | [Immer noch](https://open.spotify.com/track/5HASv6LBGiopE4qiROoxTX) | [PATU](https://open.spotify.com/artist/3QnO7k2Q58OIi8j71YbW8O) | [Immer noch](https://open.spotify.com/album/1phwUCGAbTwMjq2j2ZTIli) | 3:38 |
+| 3640 | [Warm it up](https://open.spotify.com/track/2Svxk5G1Al9Lim42GxioN0) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Warm it up](https://open.spotify.com/album/7LNsEtAubcQLFXwoiIOIV8) | 2:33 |
+| 3641 | [Dis Gyal](https://open.spotify.com/track/42ercX8Nco8gqsu8UCLZL4) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Alien Bwoy](https://open.spotify.com/artist/3RM28AyHsaaPBzw66mLeqF) | [Dis Gyal](https://open.spotify.com/album/2wBdA3hnm3WbGGalJl4N9w) | 2:23 |
+| 3642 | [Owoma](https://open.spotify.com/track/6JeENyAOFPgUfLQgMc27pD) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Owoma](https://open.spotify.com/album/5xLczMEy1ExSiPIIMsL4Sm) | 3:11 |
+| 3643 | [Tuli Babi](https://open.spotify.com/track/1rAR9meKtTImO8vxGlJqZb) | [1Mud Arvie](https://open.spotify.com/artist/08MIueXVv5RBO4d0hBtf4p) | [Tuli Babi](https://open.spotify.com/album/2o4qP2M4MXTT4izKJZTmC1) | 2:47 |
 
-Snapshot ID: `AAAGHKYk1hCg2m731AIfwe5u3ziCGQdp`
+Snapshot ID: `AAAGIjOXEODlcuvUUuTS2RG3vU188++8`

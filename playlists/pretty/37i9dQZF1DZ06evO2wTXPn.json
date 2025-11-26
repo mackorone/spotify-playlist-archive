@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31726,
+  "num_followers": 31727,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABcdg9qGecB2aAg8qIsnEqT",
+  "snapshot_id": "aSOgAAAAAAAvnE9X2jaNDrqC2IPkODcm",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
-      },
-      "artists": [
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 252285,
-      "name": "Leyenda",
-      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecho Para Ti",
         "url": "https://open.spotify.com/album/2wI3BkdUpXavA47z1LbtC3"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 200706,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/2FZFAdvkA8T47FP36wFIoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
+      },
+      "artists": [
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 252285,
+      "name": "Leyenda",
+      "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
     },
     {
       "added_at": null,

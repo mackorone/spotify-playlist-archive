@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Jovanotti in cover con un nuovo album registrato a NYC + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,951 likes - 116 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,947 likes - 116 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

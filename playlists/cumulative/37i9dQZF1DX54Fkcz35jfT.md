@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CRYXIS
+> Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Paledusk
 
-442 songs - 1 day 1 hr 24 min
+443 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Everything is all lies](https://open.spotify.com/track/69IdF6DRfdfVzHcfTKSKGV) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/5YIvr0nyy19d0iNOsAzoPX) | 3:45 | 2023-10-19 | 2023-10-21 |
 | [Everything is all lies](https://open.spotify.com/track/7DW1eA2egBA4eoy0OzFKp2) | [DEVILOOF](https://open.spotify.com/artist/4gSAE6I87LS39XMZpoQGPG) | [Everything is all lies](https://open.spotify.com/album/7r9qMbnNkHSOOl3BgpE937) | 3:45 | 2023-10-19 | 2023-11-08 |
 | [Face My Fate](https://open.spotify.com/track/4lrmQhbKY9PSZ4DyepfHvj) | [WHISPER OUT LOUD](https://open.spotify.com/artist/7594VeFTC59RzlfoXUq8VP) | [Face My Fate](https://open.spotify.com/album/40YpB1ShKLeVkWnvvUiyWC) | 3:30 | 2023-12-19 | 2024-01-17 |
-| [FACE THIS](https://open.spotify.com/track/7vD23tiUJBToi5HmbtbRm4) | [The Cards I Play](https://open.spotify.com/artist/2KjtLNJ7GvxnTeEKp5wTeI) | [FACE THIS](https://open.spotify.com/album/5j25QjcnvfV9GOWzkurs6e) | 3:10 | 2025-08-19 |  |
+| [FACE THIS](https://open.spotify.com/track/7vD23tiUJBToi5HmbtbRm4) | [The Cards I Play](https://open.spotify.com/artist/2KjtLNJ7GvxnTeEKp5wTeI) | [FACE THIS](https://open.spotify.com/album/5j25QjcnvfV9GOWzkurs6e) | 3:10 | 2025-08-19 | 2025-11-26 |
 | [Fake](https://open.spotify.com/track/2WEyvPopAOQbwBdKvghCkd) | [Genesis Girl](https://open.spotify.com/artist/4GRQ4teVPBpAsJjJL89hcw) | [Fake](https://open.spotify.com/album/0IpZ3MqKTDDiazwsOVKZyv) | 4:30 | 2024-02-27 | 2024-03-20 |
 | [Falling Down](https://open.spotify.com/track/4R4wqSahsw27qRmVvtkBVe) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [Falling Down](https://open.spotify.com/album/7cPyMm0ljz5LICHgWSIGkJ) | 2:40 | 2023-07-20 | 2024-06-22 |
 | [Fist for the New Era](https://open.spotify.com/track/2JrGuqTBMB9lxh1w3gICPl) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Fist for the New Era](https://open.spotify.com/album/63S1oYeHHKjODjMIMmHxUk) | 3:53 | 2024-07-09 | 2025-04-14 |
@@ -240,7 +240,7 @@
 | [P.N.E](https://open.spotify.com/track/7ukIMxpXfaRLQjIBWYLbbO) | [Gretchen Grundler](https://open.spotify.com/artist/5b0uSpkn6LIdu7qJlGJTU8) | [P.N.E](https://open.spotify.com/album/3UodGauPJnmZVkVdKn0f3W) | 2:57 | 2024-02-15 | 2024-02-28 |
 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 | 2025-11-18 |  |
 | [PALEHELL](https://open.spotify.com/track/2UvREDGrD9wA4fcSjcRDpg) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:41 | 2024-02-20 | 2024-04-19 |
-| [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 | 2024-04-18 |  |
+| [PALEHELL](https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:41 | 2024-04-18 | 2025-11-26 |
 | [PANDORA](https://open.spotify.com/track/0t5oZjUlb7aWEA5Hq0NAHT) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [PANDORA](https://open.spotify.com/album/5TGGYuJI3ajYoww04In6m6) | 3:56 | 2023-07-20 | 2023-11-22 |
 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 | 2023-07-20 | 2025-11-19 |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-07-20 |  |
@@ -343,6 +343,7 @@
 | [Touchdown the Killer](https://open.spotify.com/track/0pxS0pJKLrPSVo9ZgcdWMU) | [RED ORCA](https://open.spotify.com/artist/1GqbNKmjVqs5j55FCOPR9t) | [beyond the darkn \(Es\) s](https://open.spotify.com/album/6b6aW52OviOUCqISTnjfGk) | 4:11 | 2023-07-20 | 2023-09-27 |
 | [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-07-20 | 2023-11-22 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-10-18 |
+| [Track 7](https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-25 |  |
 | [TRAINWRECK](https://open.spotify.com/track/6M9JP2dPz86JPyXeSIyOoh) | [Tomoya on the Big Moon](https://open.spotify.com/artist/3irvo30qLgiAyKyHGBAFBS), [vinny from Falling Asleep](https://open.spotify.com/artist/2qpkeVa1yPozQVjsQyiIv0) | [TRAINWRECK \(feat\. vinny from Falling Asleep\)](https://open.spotify.com/album/6oyVKEbKfCB2A6wfowachp) | 3:36 | 2024-02-06 | 2024-02-21 |
 | [Tropical Therapy](https://open.spotify.com/track/3gap4AuGFSfeR0oOSPTNsk) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX \(International Version\)](https://open.spotify.com/album/3MAE3S3GzzErgUKqLq2UKr) | 3:28 | 2025-02-25 |  |
 | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF) | 3:53 | 2024-07-30 |  |
@@ -421,7 +422,7 @@
 | [夏ノ大蜥蜴](https://open.spotify.com/track/63fwRBRpMejI4jBL2DIB0V) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [玉屋2060%](https://open.spotify.com/artist/6xKVoR6tKgatCC2ddMnjDa) | [夏ノ大蜥蜴](https://open.spotify.com/album/6U6tzbiFlpJLAa18AMVUFH) | 2:54 | 2025-07-01 | 2025-07-30 |
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-05-14 |  |
 | [完全感覚Dreamer](https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:12 | 2024-04-18 |  |
-| [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 | 2025-11-22 |
+| [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 |  |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-04-19 |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 |  |
 | [山嵐](https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [極上音楽集](https://open.spotify.com/album/34oqkY5B32dJBw54GVnfwU) | 3:17 | 2024-05-07 | 2024-11-27 |

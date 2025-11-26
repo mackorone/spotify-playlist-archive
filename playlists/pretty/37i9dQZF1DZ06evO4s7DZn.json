@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 9137,
+  "num_followers": 9139,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABpR1dbR4Zee61pxFJNgQNU",
+  "snapshot_id": "aSOgAAAAAABqHaQHEYM5ByhEKyVlYLU1",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 185887,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LLegaste A Mi Vida",
         "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
@@ -475,22 +459,6 @@
       "duration_ms": 157760,
       "name": "No Hay Vacante",
       "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 167020,
-      "name": "Morenita - En Vivo",
-      "url": "https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ"
     },
     {
       "added_at": null,
@@ -511,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Todav\u00eda Hay Amor",
         "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 172826,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/7vwSOJwTlaUcXdtHr1lQhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 167020,
+      "name": "Morenita - En Vivo",
+      "url": "https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 207640,
-      "name": "Como Esos Amantes",
-      "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
+      "duration_ms": 181276,
+      "name": "El Brinquito de la Perra Ro\u00f1osa",
+      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 181276,
-      "name": "El Brinquito de la Perra Ro\u00f1osa",
-      "url": "https://open.spotify.com/track/2NgQzD0KeSF1VxOzaD59ob"
+      "duration_ms": 207640,
+      "name": "Como Esos Amantes",
+      "url": "https://open.spotify.com/track/7b7tALqaVhB9LT9CjC6fIo"
     },
     {
       "added_at": null,

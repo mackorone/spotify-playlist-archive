@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358 likes - 170 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 359 likes - 170 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 20 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
 | 21 | [IMPRINT](https://open.spotify.com/track/0nFenpZcQjGiEcy4y0EZKT) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [EMOTIONS](https://open.spotify.com/album/5SJtQAJHiRPgXfkp9PrOUN) | 3:00 |
 | 22 | [ur special to me](https://open.spotify.com/track/2rYXXYRrP3qOOPkUsUTsal) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 1:54 |
-| 23 | [happiness](https://open.spotify.com/track/4hMcb6afvdD4zdPhGSJkxX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 3:16 |
-| 24 | [Nightstand](https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5) | 2:41 |
+| 23 | [Nightstand](https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5) | 2:41 |
+| 24 | [happiness](https://open.spotify.com/track/4hMcb6afvdD4zdPhGSJkxX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 3:16 |
 | 25 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
 | 26 | [Buttered Up](https://open.spotify.com/track/1Uue730zlycJb8dN6n6PHz) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Sensational](https://open.spotify.com/album/6xd9phTkcEIsi1JWhbxZM3) | 2:50 |
 | 27 | [You Feel Like](https://open.spotify.com/track/1sa6exP6ZJyABlnh1BqB0n) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [You Feel Like](https://open.spotify.com/album/3iIBzlYmVim0NepaUlu9yS) | 3:15 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 104 | [Conversations in the Dark \- Violin Remix](https://open.spotify.com/track/6ujkVvJAlQ39Ra0E2tKx8M) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [John Legend x Lindsey Stirling: The Violin Remixes](https://open.spotify.com/album/1K2wTjP6DYiAljLN10283k) | 3:42 |
 | 105 | [Namin’ Names](https://open.spotify.com/track/2UgxbSfjmBmx9TxtTd1EeG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 2:43 |
 | 106 | [Sick of Me Too](https://open.spotify.com/track/6eMq93ZAXM4p3lUTcn5RMb) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Sick of Me Too](https://open.spotify.com/album/3YiObZSEulFloi6gA9V0rf) | 2:31 |
-| 107 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
-| 108 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
+| 107 | [Good Bad & Ugly](https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA) | [JaeyBxrd](https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa) | [Good Bad & Ugly](https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl) | 2:01 |
+| 108 | [growing pains](https://open.spotify.com/track/5DCla4SclRwZhGRlI9Gq4J) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:42 |
 | 109 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
 | 110 | [viisine](https://open.spotify.com/track/3eBj5qFyvabjmyJV1bTm2h) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:19 |
 | 111 | [Dumb \(Good Ol' Time\)](https://open.spotify.com/track/6Vv1swjSxWPCDmvoMglwlJ) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Dumb \(Good Ol' Time\)](https://open.spotify.com/album/4HP3WVJsQNAHDtZEOPzWBW) | 1:55 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 169 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 170 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcCeaAAAAAC8z2ybL8eTQ694sTpZ3H01`
+Snapshot ID: `AcCj9AAAAADT7DvEk+nk//bjPOaABLd5`

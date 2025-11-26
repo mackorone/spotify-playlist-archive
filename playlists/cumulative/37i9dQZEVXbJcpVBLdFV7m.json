@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 198199,
       "name": "Ain't My Problem",
       "url": "https://open.spotify.com/track/1s8kwEysRcSGPZC4Eg12By"
@@ -4591,6 +4591,36 @@
     },
     {
       "album": {
+        "name": "BRABUSI MRABUSI",
+        "url": "https://open.spotify.com/album/5lxwj4cnILIdLeDUSlKYUi"
+      },
+      "artists": [
+        {
+          "name": "ZABRANENA MUZIKA",
+          "url": "https://open.spotify.com/artist/0WZKAZsMXCfWFyR8MRMa76"
+        },
+        {
+          "name": "Adnan Beats",
+          "url": "https://open.spotify.com/artist/1ZQi4OIO9sYLUzCX3GrLzs"
+        },
+        {
+          "name": "Young BB Young",
+          "url": "https://open.spotify.com/artist/0di4TWXg1myI1gObC3iQWq"
+        },
+        {
+          "name": "Tarikata",
+          "url": "https://open.spotify.com/artist/6g2FqVaYfRyTgIAQbE3kNP"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149647,
+      "name": "BRABUSI MRABUSI",
+      "url": "https://open.spotify.com/track/0GjbWMk8SukGkZOZemOHWt"
+    },
+    {
+      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
@@ -5052,6 +5082,28 @@
       "duration_ms": 153982,
       "name": "c'est la vie",
       "url": "https://open.spotify.com/track/5rcsIXmaxt4tEEX42qCQrh"
+    },
+    {
+      "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/6neGsZiPrR0uNJdpIktEXp"
+      },
+      "artists": [
+        {
+          "name": "Pajak",
+          "url": "https://open.spotify.com/artist/38xRgdUspVMjonmfTNWyBo"
+        },
+        {
+          "name": "2bona",
+          "url": "https://open.spotify.com/artist/3gsp4PXZKqOqaOK166AdMh"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/4F6uXcb08oyCiPWGs5wd0R"
     },
     {
       "album": {
@@ -8531,6 +8583,78 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Leslie Kritzer",
+          "url": "https://open.spotify.com/artist/0VJgvx0e4MTvL1A9o2HKQz"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97324,
+      "name": "Don't You Forget",
+      "url": "https://open.spotify.com/track/6XYSYV2avqhOl9BRexar7S"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107338,
+      "name": "Don't You Forget (Reprise)",
+      "url": "https://open.spotify.com/track/4GWl0BXvpoZL6B8e1f6Nn9"
+    },
+    {
+      "album": {
         "name": "Doner Kebab Nacho Alejandro Garnacho",
         "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
       },
@@ -8596,7 +8720,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 110000,
       "name": "Don\u2019t hide",
       "url": "https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X"
@@ -11514,6 +11638,36 @@
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
+    },
+    {
+      "album": {
+        "name": "Gagica-ta (Golden Cypher)",
+        "url": "https://open.spotify.com/album/2MXQCiha96eJp32V624dhb"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        },
+        {
+          "name": "LiToo The Purp",
+          "url": "https://open.spotify.com/artist/06fgskAr7fPSrBKJhp9p19"
+        },
+        {
+          "name": "Vali Miron",
+          "url": "https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU"
+        },
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Gagica-ta - Golden Cypher",
+      "url": "https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY"
     },
     {
       "album": {
@@ -16975,6 +17129,28 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
+    },
+    {
+      "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
       },
@@ -19126,7 +19302,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -22488,7 +22664,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -24062,7 +24238,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 112941,
       "name": "Panic",
       "url": "https://open.spotify.com/track/7eCiTvwXk0GEEhWyNmZ7Rv"
@@ -25822,6 +25998,24 @@
       "duration_ms": 275740,
       "name": "reincarnated",
       "url": "https://open.spotify.com/track/0RgjEkSbeuStKfT2Pa4Zai"
+    },
+    {
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "album": {
@@ -29206,7 +29400,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 257880,
       "name": "Soul to Soul (Live)",
       "url": "https://open.spotify.com/track/2RcZpjBuRLJkMfzpUN4EnA"
@@ -31762,7 +31956,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -37388,7 +37582,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 175143,
       "name": "\u015eark\u0131lar Sokaklara Ait",
       "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
@@ -37744,7 +37938,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 241224,
       "name": "\u0411\u043e\u0433 \u0437\u0430 \u0434\u0435\u043d",
       "url": "https://open.spotify.com/track/5QenJrfNIvnwLtgyhsqsNw"
@@ -38802,6 +38996,28 @@
       "duration_ms": 199121,
       "name": "\u0436\u0438\u0432\u0430 (\u0437\u0430 \u043c\u0430\u043b\u043a\u043e)",
       "url": "https://open.spotify.com/track/66mPfTJAkjbUzyD9fs7wts"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430 \u043d\u0430\u0433\u0440\u0430\u0434\u0430",
+        "url": "https://open.spotify.com/album/1FMtuvnjI9MYqnGtQsL0lN"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238927,
+      "name": "\u0417\u0430 \u043d\u0430\u0433\u0440\u0430\u0434\u0430",
+      "url": "https://open.spotify.com/track/5W0xf9BdxvxpLNbj6M8k5W"
     },
     {
       "album": {
@@ -41324,7 +41540,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 158440,
       "name": "\u0421\u043b\u044a\u043d\u0447\u043e\u0433\u043b\u0435\u0434",
       "url": "https://open.spotify.com/track/6QXckGVukUJFUIX6wCtOCN"

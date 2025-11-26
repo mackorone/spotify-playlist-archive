@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21552,
+  "num_followers": 21553,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 183177,
-      "name": "Villa Crespo",
-      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
         "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
         "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
@@ -551,22 +535,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "El Nuevo Rumbo",
-        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
-          "name": "Amelita Baltar",
-          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
-        },
-        {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 183177,
+      "name": "Villa Crespo",
+      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -583,6 +563,26 @@
       "duration_ms": 258529,
       "name": "La \u00daltima Curda",
       "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
+        "name": "El Nuevo Rumbo",
+        "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
+      },
+      "artists": [
+        {
+          "name": "Amelita Baltar",
+          "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
+        },
+        {
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2024-08-02 17:18:29",

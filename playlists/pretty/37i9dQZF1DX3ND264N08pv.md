@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,222 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,242 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 38 | [Eye Of The Tiger](https://open.spotify.com/track/2ba6ggXCHrYvrnc0jAsAgR) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Eye Of The Tiger](https://open.spotify.com/album/2yznQNSmPM9XGIJ1JjsFF0) | 2:21 |
 | 39 | [Highs In My Dreams](https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Highs In My Dreams](https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v) | 2:26 |
 | 40 | [Hard Gaan](https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y) | [Roosterz](https://open.spotify.com/artist/5oc7w0IUnErPaza4Yu2igm), [Bössels](https://open.spotify.com/artist/5NpFx3WsQcRwlVJ8eq6XwC), [Royalistiq](https://open.spotify.com/artist/61F32Z0pFN56WdwLXRQgLK) | [Hard Gaan](https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ) | 2:31 |
-| 41 | [Path Of The Wisemen](https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [Path Of The Wisemen](https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd) | 3:00 |
-| 42 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
+| 41 | [Voice Of The Underground](https://open.spotify.com/track/0qDh203qtw06cri10ahfjj) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Voice Of The Underground](https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2) | 2:55 |
+| 42 | [Path Of The Wisemen](https://open.spotify.com/track/68Ln2A2umloSrPWrVMOI9h) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB) | [Path Of The Wisemen](https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd) | 3:00 |
 | 43 | [Can You Feel My Heart](https://open.spotify.com/track/0l4ZvPu0rOuzSga9N1851S) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Can You Feel My Heart](https://open.spotify.com/album/2BtzKUQZoPGKq8xRv4JPhF) | 2:32 |
 | 44 | [The End](https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [The End](https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej) | 2:56 |
 | 45 | [Ratata](https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81) | [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN), [Kyle Ramsay](https://open.spotify.com/artist/6Qs0fzALzKhnhfcy1imppW) | [Ratata](https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM) | 5:34 |

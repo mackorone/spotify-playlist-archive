@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-268 songs - 11 hr 50 min
+271 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2022-08-03 |  |
 | [Dust of Morning](https://open.spotify.com/track/43gMP9sW5ssRzGpL5Tf87M) | [Duke Wolverine](https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM) | [Dust of Morning](https://open.spotify.com/album/1qt2UUl2UyWtlfNFkXs9QP) | 2:16 | 2025-06-10 |  |
 | [Dustlight](https://open.spotify.com/track/7lh5pJSumRRSpiK0gqwORR) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Dustlight](https://open.spotify.com/album/2Dn3n3eSJRxPBxWJCuFIRK) | 2:13 | 2025-04-04 | 2025-06-05 |
+| [Edge of Sleep](https://open.spotify.com/track/6jbNt6gowy5n98oiNTCQFC) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Edge of Sleep](https://open.spotify.com/album/4eoJn5nPZeHHLgIF4g2LJ8) | 2:45 | 2025-11-25 |  |
 | [Efteraar](https://open.spotify.com/track/0E9fxTuKGsFLd9nirytamd) | [Mark Jubel](https://open.spotify.com/artist/6QhnbblQwendc1TdZMj6qd) | [Efteraar](https://open.spotify.com/album/5IJrl616LUYdsgjI6GT30K) | 2:24 | 2022-12-06 |  |
 | [El Misterio VII \(solo piano\)](https://open.spotify.com/track/6WwfOCmwiIkkZHjwlTcUu4) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Krabbé Zoekt Kahlo](https://open.spotify.com/album/0V5qBDi0tCD8DFKf8nhWEt) | 2:40 | 2022-09-23 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2022-08-03 |  |
@@ -233,6 +234,7 @@
 | [Spring Roses](https://open.spotify.com/track/62T1anGMtce8jCIdXIQRvL) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Spring Roses](https://open.spotify.com/album/2egZ9KaWhJHiylvZxaUW6F) | 2:41 | 2024-04-03 | 2025-07-08 |
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-08-26 |  |
 | [Starbreath Temple](https://open.spotify.com/track/14j5E6k5FrcLgGOCuHxBsK) | [Phobic](https://open.spotify.com/artist/4pgvre1wDhGGmEbjevWClj) | [Starbreath Temple](https://open.spotify.com/album/0qSi7Ny2JUyE50GnAOPS8E) | 2:07 | 2025-09-15 |  |
+| [Starting Over](https://open.spotify.com/track/1jnu5LMtSf1tm4es25efJo) | [Tim Firth](https://open.spotify.com/artist/5FMPCZsQPH2NtCGxYXAF2K) | [Starting Over](https://open.spotify.com/album/3JIMetqSsoh4CZHuMjA89d) | 2:10 | 2025-11-25 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 | 2025-05-14 |
 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 | 2025-03-18 |  |
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-08-03 | 2025-01-22 |
@@ -242,6 +244,7 @@
 | [Tempered](https://open.spotify.com/track/3OMJ1MqryDgaIEJTWnrvkC) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tempered](https://open.spotify.com/album/5DcXeEG9J7ok6XtGsxpRRx) | 1:24 | 2022-12-21 | 2025-04-09 |
 | [Thank You](https://open.spotify.com/track/0KNqmxuXFi0DsyfvcQ1fS3) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [Equinox](https://open.spotify.com/album/4eacjxBMXpKHtx1OQJa2Ao) | 3:22 | 2022-08-03 | 2024-10-15 |
 | [The Day After](https://open.spotify.com/track/6Yw7ZegbTUDDmDkf9JWvkw) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Day After](https://open.spotify.com/album/26lOYAveXD3qUcfxiWGw8e) | 1:55 | 2023-01-09 | 2025-04-09 |
+| [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 | 2025-11-25 |  |
 | [The Hillside](https://open.spotify.com/track/3UETTv2NYQopmXr2945XBg) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [The Hillside](https://open.spotify.com/album/70LtFFQH2E8bc8neiv7jVd) | 1:58 | 2022-08-03 | 2025-04-09 |
 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 | 2024-12-11 |  |
 | [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 | 2025-05-13 |  |

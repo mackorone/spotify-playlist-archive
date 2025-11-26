@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,908 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,926 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 43 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 44 | [เหตุผลของการมีชีวิตอยู่ คือการได้พบกับเธอ](https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 3:58 |
 | 45 | [จริงๆนะ](https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER) | [The 38 Years Ago](https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8) | [จริงๆนะ](https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo) | 3:30 |
-| 46 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
+| 46 | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG) | 2:56 |
 | 47 | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF) | 3:32 |
-| 48 | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG) | 2:56 |
+| 48 | [ฝากใจ](https://open.spotify.com/track/0WmHAw7c5LppZdca1amE6f) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฝากใจ](https://open.spotify.com/album/4okyxzayrSFXEzGJg79vKa) | 4:19 |
 | 49 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 |
 | 50 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 |
 | 51 | [เพลงส่วนบุคคล](https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [nerd eye view](https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN) | 3:27 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 54 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 |
 | 55 | [การเดินทางที่สวยงาม](https://open.spotify.com/track/5NUcn9d8kMrcoMQyE2CctY) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [การเดินทางที่สวยงาม \(A Beautiful Ride\)](https://open.spotify.com/album/1ydHr5YNHNe5zpI3Az62Os) | 3:33 |
 | 56 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
-| 57 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
-| 58 | [รักแฟน](https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [รักแฟน](https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7) | 2:34 |
+| 57 | [รักแฟน](https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [รักแฟน](https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7) | 2:34 |
+| 58 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 59 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
 | 60 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
 | 61 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,908 likes - 39 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,930 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 10 | [The Imperial March \(Darth Vader's Theme\)](https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 2:59 |
 | 11 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 |
 | 12 | [Reunion of Friends](https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 5:08 |
-| 13 | [Double Trouble](https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:37 |
+| 13 | [Secrets of the Castle](https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 2:32 |
 | 14 | [Rey's Theme](https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 3:11 |
 | 15 | [Harry's Wondrous World \- Extended Version](https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:21 |
 | 16 | [Fawkes Is Reborn](https://open.spotify.com/track/5yh0phgrkE0qQeWJs3x3hf) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:19 |
-| 17 | [Secrets of the Castle](https://open.spotify.com/track/5PUvxyQ0STurZq4TM8yl4F) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 2:32 |
+| 17 | [Double Trouble](https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:37 |
 | 18 | [Sayuri's Theme](https://open.spotify.com/track/0RGZCtszeCpGRgbMyVigAG) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Memoirs of a Geisha \(Remastered\)](https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C) | 1:31 |
 | 19 | [Platform Nine\-and\-Three\-Quarters and the Journey to Hogwarts](https://open.spotify.com/track/72SmD8s1DYkwUhoEkGlnyV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:14 |
 | 20 | [Introducing Colin](https://open.spotify.com/track/4kwclHRtcMJLza1W39BSMB) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 1:49 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1RMsso.md) - [plain]
 | 38 | [Anakin's Betrayal](https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 4:05 |
 | 39 | [Star Wars \(Main Theme\)](https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 5:46 |
 
-Snapshot ID: `aSJOgAAAAAAXPck4smxF1HeV3k6N91es`
+Snapshot ID: `aSOgAAAAAADappa8v/23tHXFZ1ayH3mn`

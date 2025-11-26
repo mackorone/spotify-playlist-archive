@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Piesele potrivite pentru zilele \u0219i nop\u021bile tale chill de toamn\u0103 ",
-  "name": "O toamn\u0103 chill",
+  "description": "Piesele potrivite pentru zilele \u0219i nop\u021bile tale chill de iarn\u0103 ",
+  "name": "O iarn\u0103 chill",
   "tracks": [
     {
       "album": {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-04",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 177148,
       "name": "By Your Side (In My Mind)",
       "url": "https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89"
@@ -458,7 +458,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 302408,
       "name": "canal street",
       "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
@@ -530,7 +530,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Cel mai fericit de pe p\u01cem\u00e2nt",
       "url": "https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX"
@@ -800,6 +800,24 @@
       "duration_ms": 217880,
       "name": "Dispose of Me",
       "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "album": {
+        "name": "do i ever cross your mind",
+        "url": "https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "do i ever cross your mind",
+      "url": "https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou"
     },
     {
       "album": {
@@ -1251,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "I OWE IT TO YOU",
+        "url": "https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "I OWE IT TO YOU",
+      "url": "https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7"
+    },
+    {
+      "album": {
         "name": "I Remember Everything (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/6iiQFr91jK794wZRDMSXkp"
       },
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/58pTPJPBjw1xL9OcLcQczU"
@@ -1356,7 +1392,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-11",
+      "date_removed": null,
       "duration_ms": 176756,
       "name": "Inimi",
       "url": "https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB"
@@ -1667,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269680,
+      "name": "Mio Cristo Piange Diamanti",
+      "url": "https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V"
+    },
+    {
+      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/39BoJYBTShklb8pSJSp8JX"
       },
@@ -1794,7 +1848,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 180000,
       "name": "Neinten\u021bionat",
       "url": "https://open.spotify.com/track/3K5VZfyDi1SvgTjhma4eq2"
@@ -1816,7 +1870,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 166705,
       "name": "neo roneo",
       "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
@@ -2260,7 +2314,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
@@ -2600,7 +2654,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 200592,
       "name": "S\u0103 Fii Tu",
       "url": "https://open.spotify.com/track/4lDQR1LAHAx0wGR2VlgP0A"
@@ -2814,7 +2868,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 316301,
       "name": "There's A Rhythmn",
       "url": "https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC"
@@ -2868,7 +2922,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 245664,
       "name": "Vodka Cranberry",
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
@@ -3130,7 +3184,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
@@ -3300,6 +3354,28 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "album": {
+        "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
+        "url": "https://open.spotify.com/album/5UR6KeCOEX1cZBegHCdw2Y"
+      },
+      "artists": [
+        {
+          "name": "Criss Blaziny",
+          "url": "https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e"
+        },
+        {
+          "name": "Olga Verbitchi",
+          "url": "https://open.spotify.com/artist/6ix59NE6NtKnRyZ45N5RV4"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132858,
+      "name": "\u00cemi pas\u0103 p\u00e2n\u0103 nu-mi mai pas\u0103",
+      "url": "https://open.spotify.com/track/7G8lU0MR2PW7co59XRC5VB"
     },
     {
       "album": {

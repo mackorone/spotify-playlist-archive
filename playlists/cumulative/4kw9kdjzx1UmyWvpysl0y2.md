@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,124 songs - 2 day 14 hr 52 min
+1,125 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1066,6 +1066,7 @@
 | [Wake Up](https://open.spotify.com/track/5S8QwjM8mrw3E5hk03PiJY) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Wake Up](https://open.spotify.com/album/6WgfCROBO4a8fovO886AZ0) | 3:09 | 2024-08-15 | 2024-11-07 |
 | [Wake Up](https://open.spotify.com/track/5hoyYgWURD3d68sZAECzwB) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [Illusions](https://open.spotify.com/album/33jVgupLOP3SgVTAPj4eWv) | 3:10 | 2025-05-23 | 2025-08-16 |
 | [Walk Thru Fire \- Sped Up](https://open.spotify.com/track/3lBW2k1bH1JtuS7wU7rd3x) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Walk Thru Fire](https://open.spotify.com/album/62xVNyBohReR2PQmF4cFVs) | 2:52 | 2024-05-07 | 2024-07-27 |
+| [Walking Away](https://open.spotify.com/track/7rIfZw9MyKIDWz0OKeet6L) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [Walking Away](https://open.spotify.com/album/5Q3vDdZZSwQtuSk9Z82kD8) | 2:50 | 2025-11-25 |  |
 | [WAR](https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [WAR](https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD) | 2:37 | 2023-09-28 | 2024-01-16 |
 | [WAR \- CHYL Remix](https://open.spotify.com/track/7JIQa1w6o7KfEqQisbDAiE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [WAR \(CHYL Remix\)](https://open.spotify.com/album/408b5jf6C0c5Jfmr4FIXFA) | 2:28 | 2023-12-04 | 2024-03-19 |
 | [WARFARE](https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g) | [DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [GORILLA WARFARE](https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx) | 2:36 | 2023-08-17 | 2023-12-14 |

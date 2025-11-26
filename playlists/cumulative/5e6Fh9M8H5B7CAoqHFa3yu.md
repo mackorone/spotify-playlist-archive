@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,603 songs - 4 day 1 hr 39 min
+1,604 songs - 4 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1207,6 +1207,7 @@
 | [Samajhne Doo](https://open.spotify.com/track/5i2vJJB1aFvWJ9Jo0QL1j1) | [ARYAN BHATNAGAR](https://open.spotify.com/artist/4953U4ZTklTgBuY2Lh9e7Q) | [Samajhne Doo](https://open.spotify.com/album/4Anowd1l0Rm9i5VWw9uTKK) | 2:30 | 2025-08-06 |  |
 | [Same Old Story](https://open.spotify.com/track/5dHYtA57E2ZBIOXvElxgCZ) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Same Old Story](https://open.spotify.com/album/1G7aMcB7dRIE0gChH2zi63) | 4:38 | 2024-04-10 |  |
 | [Sampai Kau Kembali](https://open.spotify.com/track/0nAyih1mjCRH347QsMgiN7) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Sampai Kau Kembali](https://open.spotify.com/album/3hhMLe5xs73PXXKmQAo2vU) | 3:08 | 2025-07-17 |  |
+| [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 | 2025-11-25 |  |
 | [Sangue Fluttuante](https://open.spotify.com/track/77ATWA5poUKLZ7oed0irQo) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Paolo Russotto](https://open.spotify.com/artist/2qojmQGNwkXtfulktkX35X) | [Sangue Fluttuante](https://open.spotify.com/album/2EqZSvCTBXsAWu17a41hJH) | 3:49 | 2025-03-14 |  |
 | [Santa Maria strela do dia](https://open.spotify.com/track/0HR1y4lTgRX3UiM9Vrexoc) | [Alfonso X El Sabio](https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:20 | 2025-08-12 |  |
 | [Santa Rosa Sound](https://open.spotify.com/track/2gb6fDizdJ26PsrnSnfkNU) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Graffiti Poets](https://open.spotify.com/album/3PTyAFtTY4qukujGH5n7OW) | 3:46 | 2025-09-09 |  |

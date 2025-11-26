@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,758 likes - 104 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,765 likes - 104 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 17 | [Y Nunca Volverá](https://open.spotify.com/track/6rRoFIoqhUtvAAwtVyAral) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Sebas Collarte](https://open.spotify.com/artist/00LXIEIH3G9E4NaduFkuyQ) | [Y Nunca Volverá](https://open.spotify.com/album/5TYYit4UtzwyLZV4bfP6Lv) | 2:36 |
 | 18 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 |
 | 19 | [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 |
-| 20 | [No Lo Pienses Dos Veces, Está Todo Bien](https://open.spotify.com/track/4DESpkuAs9cBvnLhFmptLx) | [Franny Glass](https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w) | [No Lo Pienses Dos Veces, Está Todo Bien](https://open.spotify.com/album/6k5a6GEr0ppsdG3XXNYple) | 3:18 |
+| 20 | [No Lo Pienses Más](https://open.spotify.com/track/4DESpkuAs9cBvnLhFmptLx) | [Franny Glass](https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w) | [No Lo Pienses Más](https://open.spotify.com/album/6k5a6GEr0ppsdG3XXNYple) | 3:18 |
 | 21 | [El poder sobre una misma](https://open.spotify.com/track/2hFJg5jDMplGOM2ZST6wG0) | [Lorena Álvarez](https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA) | [El poder sobre una misma](https://open.spotify.com/album/17NsKVkljACGaB8ZU83Uf1) | 4:29 |
 | 22 | [Rabo de nube](https://open.spotify.com/track/2VU9Rb4lGTdYaDfys3OOBE) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Luditas](https://open.spotify.com/album/0jnQ8pCG283hYiL9R78dHk) | 5:55 |
 | 23 | [Bruja](https://open.spotify.com/track/6ecEjqnw87g9UexxeJxpY2) | [Nito Serrano y Lapurasangre](https://open.spotify.com/artist/1QWIh3nENBZ0Pz0WtjcEny), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP) | [Bruja](https://open.spotify.com/album/4QELFWOMZddkZnDBb4Fr6D) | 4:33 |

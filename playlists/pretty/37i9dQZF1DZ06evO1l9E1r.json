@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 2825,
+  "num_followers": 2824,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACERw/ct8B2SpEBQc5YcVm+",
+  "snapshot_id": "aSOgAAAAAAADrbZijvbWOop+Z/Yjty9V",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -591,38 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 163157,
       "name": "The Door",
       "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/68tED2DtnZvDSnHbEX8UFn"
     },
     {
       "added_at": null,
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/68tED2DtnZvDSnHbEX8UFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 155374,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -847,42 +867,6 @@
       "duration_ms": 227836,
       "name": "A Move to Neptune",
       "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 149782,
-      "name": "Allegretto - Glass",
-      "url": "https://open.spotify.com/track/62ThxZVQU7svGuJ2zfzJwy"
     },
     {
       "added_at": null,
@@ -935,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hedda (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5vTmpsbl1uM5QTLJ4eZbpq"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 149782,
+      "name": "Allegretto - Glass",
+      "url": "https://open.spotify.com/track/62ThxZVQU7svGuJ2zfzJwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -955,26 +955,6 @@
       "duration_ms": 139174,
       "name": "Examining the Body",
       "url": "https://open.spotify.com/track/2Xqg8IV5BxkSTLuh3F9yrz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 298106,
-      "name": "Leaving Home",
-      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
     },
     {
       "added_at": null,
@@ -1019,6 +999,26 @@
       "duration_ms": 265395,
       "name": "Slow Destruction of Neptune",
       "url": "https://open.spotify.com/track/0PFOZqH9v7VtjEtyUKO2MS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 298106,
+      "name": "Leaving Home",
+      "url": "https://open.spotify.com/track/40D2vS5fPUfudDmYp95Bv8"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

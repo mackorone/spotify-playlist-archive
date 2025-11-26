@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "aux aguets",
+        "url": "https://open.spotify.com/album/5Mo5ZQd5xfN9OcDDsH3Yoh"
+      },
+      "artists": [
+        {
+          "name": "Ethan \u00c9lgar",
+          "url": "https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "aux aguets",
+      "url": "https://open.spotify.com/track/0DPSCh1dZwNd8grbFrAwT4"
+    },
+    {
+      "album": {
         "name": "Balloon",
         "url": "https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 139636,
       "name": "Barely Awake",
       "url": "https://open.spotify.com/track/7xKLiItra445rJi8Fehifn"
+    },
+    {
+      "album": {
+        "name": "Before We Knew",
+        "url": "https://open.spotify.com/album/5Gt05duxvTbV2BIsNCGxgY"
+      },
+      "artists": [
+        {
+          "name": "Eigil Leuc",
+          "url": "https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166479,
+      "name": "Before We Knew",
+      "url": "https://open.spotify.com/track/6U20TztvUrp7ccU75MAvIX"
     },
     {
       "album": {
@@ -2282,7 +2318,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 145500,
       "name": "ruisseau",
       "url": "https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs"
@@ -3204,6 +3240,24 @@
       "duration_ms": 109768,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd"
+    },
+    {
+      "album": {
+        "name": "Unspoken Hours",
+        "url": "https://open.spotify.com/album/7GONsgs1geaxlnoLE7enVS"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142531,
+      "name": "Unspoken Hours",
+      "url": "https://open.spotify.com/track/21oyvgHXWfZ4huyKu2T6QS"
     },
     {
       "album": {

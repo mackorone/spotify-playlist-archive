@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Vanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,663 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,671 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 57 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
 | 58 | [Nasini \- Remix](https://open.spotify.com/track/73dmjfr0I7RX53SV5zR9gZ) | [Jack Sleiman](https://open.spotify.com/artist/4eewS27bMIhWcXGukOdXAj) | [Nasini \(Remix\)](https://open.spotify.com/album/3vww5Ggqg4LjApE9ik6vEU) | 3:10 |
 | 59 | [Ah Ya Alby \- Tweak Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 |
-| 60 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
+| 60 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 
 Snapshot ID: `AAAAAHP29h+04eWdYHykLHHfs6ygb1NO`

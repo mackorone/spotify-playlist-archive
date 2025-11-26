@@ -4,10 +4,11 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-81 songs - 4 hr 52 min
+84 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dream Goes Walking By](https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 5:13 | 2025-11-26 |  |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-11 |  |
 | [Agujas](https://open.spotify.com/track/4E4xgatRQurGBlsXaKfp1z) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 3:45 | 2025-08-29 |  |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 |  |
@@ -20,6 +21,7 @@
 | [Catarsis](https://open.spotify.com/track/6JWcTR6XGT7tumzSkAhRXU) | [Tresgo](https://open.spotify.com/artist/30SINUYIEvH5bICP6gjxUi) | [Zona De Confort](https://open.spotify.com/album/3k2OM7LXB63eaaO8UXCTZx) | 6:09 | 2025-09-17 |  |
 | [Chameleon](https://open.spotify.com/track/6h5960XVC4rZ0LWZQsO1aX) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Chameleon](https://open.spotify.com/album/2VhnmAWAqFcLJ4ehWm6grI) | 5:05 | 2025-11-17 |  |
 | [CHERRIES](https://open.spotify.com/track/5ZsI8sZQCuKddaqgCU23O7) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy) | [CHERRIES](https://open.spotify.com/album/2HUh8kMZwmcnIJOjrreooR) | 3:10 | 2025-11-12 |  |
+| [Cindy Lee, Forever](https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv) | [Ernest Graves](https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB) | [Cindy Lee, Forever](https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy) | 3:02 | 2025-11-26 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 |  |
 | [Dagger](https://open.spotify.com/track/2z085z3HP9wxC1NbZg0l75) | [Rhaina Yasmin](https://open.spotify.com/artist/0HRstpwKkdAHomEsGun6Id) | [Dagger](https://open.spotify.com/album/3uBwu021Fop6TxolWGkf65) | 4:18 | 2025-11-16 |  |
@@ -32,6 +34,7 @@
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 |  |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-11 |  |
 | [Flying High](https://open.spotify.com/track/34Vu65tSCXXHcuKJXZYtrN) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Mark Henes](https://open.spotify.com/artist/1HSODWzFk49xph0BPYAF0l) | [Flying High](https://open.spotify.com/album/6x5RwDFMeEGiHWJtnRQ5so) | 3:15 | 2025-11-11 |  |
+| [For Sale By Owner](https://open.spotify.com/track/6uNX8cb1mLv5pdlNt1CmkJ) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:46 | 2025-11-26 |  |
 | [Forget](https://open.spotify.com/track/57itK4sT9yWj8xL5P0vY7R) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Forget](https://open.spotify.com/album/7oiPL3Rad4NlLcu7DnQEt3) | 2:43 | 2025-11-19 |  |
 | [Freedom at Last](https://open.spotify.com/track/0dyuCmxRKe05ag9qmY7IZ3) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Freedom at Last](https://open.spotify.com/album/4m6FgfAHPZ15OVE2YaijKF) | 3:37 | 2025-09-23 |  |
 | [headnoise](https://open.spotify.com/track/4YiD4uZY0vAYYYktsVLho7) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [headnoise](https://open.spotify.com/album/6WrlzrcGmFuduE71cI8di2) | 2:50 | 2025-10-18 |  |

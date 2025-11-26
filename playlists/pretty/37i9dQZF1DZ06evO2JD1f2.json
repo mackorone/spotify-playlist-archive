@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13088,
+  "num_followers": 13091,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACXBfL2pDjRiulvRhKfhU/E",
+  "snapshot_id": "aSOgAAAAAAAEPeTrIRGyGXrli6fEm0tX",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 156981,
-      "name": "Balloons (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+      "duration_ms": 149807,
+      "name": "Make It Even",
+      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
     },
     {
       "added_at": null,
@@ -535,34 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 149807,
-      "name": "Make It Even",
-      "url": "https://open.spotify.com/track/2L5TxrNsFXE5kD2lOxjTi8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
-      },
-      "artists": [
+        },
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 92903,
-      "name": "geeski ball new intro",
-      "url": "https://open.spotify.com/track/1OA2Q3cBJumQWOMVj9ZK3b"
+      "duration_ms": 156981,
+      "name": "Balloons (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
     },
     {
       "added_at": null,
@@ -583,6 +567,22 @@
       "duration_ms": 195266,
       "name": "CHICKENS (feat. EST Gee)",
       "url": "https://open.spotify.com/track/53wBhj706wDMNuBj4FJ0RI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 92903,
+      "name": "geeski ball new intro",
+      "url": "https://open.spotify.com/track/1OA2Q3cBJumQWOMVj9ZK3b"
     },
     {
       "added_at": null,
@@ -787,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Aint Feeling You",
-        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
+        "name": "Self Esteem Pack (Remixes)",
+        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
       },
       "artists": [
+        {
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
+        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Plug Motivation",
-      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
+      "duration_ms": 197739,
+      "name": "Self Esteem (featuring EST Gee)",
+      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
     },
     {
       "added_at": null,
@@ -847,22 +851,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Esteem Pack (Remixes)",
-        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
+        "name": "I Aint Feeling You",
+        "url": "https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa"
       },
       "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 197739,
-      "name": "Self Esteem (featuring EST Gee)",
-      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
+      "duration_ms": 128571,
+      "name": "Plug Motivation",
+      "url": "https://open.spotify.com/track/2JyZgWvvjshiSiK21gOBvT"
     },
     {
       "added_at": null,
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
+      "duration_ms": 139681,
+      "name": "THE ONE & ONLY",
+      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
     },
     {
       "added_at": null,
@@ -980,9 +980,9 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 139681,
-      "name": "THE ONE & ONLY",
-      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
     }
   ],
   "unique_name": "This Is EST Gee",

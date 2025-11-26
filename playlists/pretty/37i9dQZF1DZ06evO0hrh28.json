@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 256308,
+  "num_followers": 256292,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAA6pkMT3MRdvY2RRyye/HO1",
+  "snapshot_id": "aSOgAAAAAAAljiiNSyPLCHRqwflKG4/3",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "pasarella \ud83d\udc60",
-        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162245,
-      "name": "pasarella \ud83d\udc60",
-      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La_Playlist.mpeg",
         "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
@@ -443,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+        "name": "pasarella \ud83d\udc60",
+        "url": "https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md"
       },
       "artists": [
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
         }
       ],
-      "duration_ms": 181043,
-      "name": "IConic.mp3",
-      "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
+      "duration_ms": 162245,
+      "name": "pasarella \ud83d\udc60",
+      "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
     },
     {
       "added_at": null,
@@ -479,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
       "artists": [
         {
@@ -488,9 +472,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 218120,
-      "name": "perfectas",
-      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
+      "duration_ms": 181043,
+      "name": "IConic.mp3",
+      "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 173052,
       "name": "como si no importara",
       "url": "https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "perfectas",
+      "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita Noche (En Vivo Estadio V\u00e9lez)",
-        "url": "https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 210265,
-      "name": "Maldita Noche - En Vivo Estadio V\u00e9lez",
-      "url": "https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
       },
@@ -591,22 +575,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salgo a Bailar",
-        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 157830,
-      "name": "Salgo a Bailar",
-      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
+      "duration_ms": 158040,
+      "name": "La cita",
+      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldita Noche (En Vivo Estadio V\u00e9lez)",
+        "url": "https://open.spotify.com/album/23FWVbvXgThUs3J3fWKYtH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 210265,
+      "name": "Maldita Noche - En Vivo Estadio V\u00e9lez",
+      "url": "https://open.spotify.com/track/3bVNfqtC79TZsJK7bk9KVg"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
       "duration_ms": 155861,
       "name": "Jagger.mp3",
       "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salgo a Bailar",
+        "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157830,
+      "name": "Salgo a Bailar",
+      "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "La cita",
-      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 130098,
       "name": "Facts.mp3",
       "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "servidora \ud83d\udd76\ufe0f",
-      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "servidora \ud83d\udd76\ufe0f",
+      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
     },
     {
       "added_at": null,

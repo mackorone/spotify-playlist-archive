@@ -1263,6 +1263,28 @@
     },
     {
       "album": {
+        "name": "snow bloom",
+        "url": "https://open.spotify.com/album/0bcQOYqfuOHLIek3brEqnA"
+      },
+      "artists": [
+        {
+          "name": "R Sound Design",
+          "url": "https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "snow bloom (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1WWIHB83HL0VfbYuvr9BB5"
+    },
+    {
+      "album": {
         "name": "Someday'z Coming EP",
         "url": "https://open.spotify.com/album/3EbFTOvjjSRHJbrRAISqjG"
       },
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 166000,
       "name": "The Berserk Gene (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/71DyUigc9sluoMvb245zjR"
@@ -1652,6 +1674,28 @@
       "duration_ms": 182500,
       "name": "\u3044\u3063\u3071\u3044\u30ad\u30e3\u30d1\u30b7\u30c6\u30a3 (feat. VOICEVOX:\u6625\u65e5\u90e8\u3064\u3080\u304e&VOICEVOX:\u305a\u3093\u3060\u3082\u3093)",
       "url": "https://open.spotify.com/track/6tgaOotGVRIzmNT1jC4Nxa"
+    },
+    {
+      "album": {
+        "name": "\u304a\u3046\u305f\u30fb\u30a4\u30f3\u30b6\u30fb\u30ec\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/3xrjP0YWHuffNDcBJXHu8s"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        },
+        {
+          "name": "\u96e8\u8863",
+          "url": "https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135359,
+      "name": "\u304a\u3046\u305f\u30fb\u30a4\u30f3\u30b6\u30fb\u30ec\u30a4\u30f3 (feat. \u96e8\u8863)",
+      "url": "https://open.spotify.com/track/48U6UZUUm2jHEXhaYfg8LM"
     },
     {
       "album": {
@@ -2076,7 +2120,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 161333,
       "name": "\u306d\u306d\u306d\u5bdd (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6PS8aUIGUctf5olI26BWIT"
@@ -2900,7 +2944,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 167903,
       "name": "\u30a6\u30cb (feat. \u96e8\u8863)",
       "url": "https://open.spotify.com/track/1aiwxHCyaXRnKOA8iXD1g9"
@@ -4051,6 +4095,32 @@
     },
     {
       "album": {
+        "name": "\u30c7\u30c3\u30c9\u30ed\u30c3\u30af",
+        "url": "https://open.spotify.com/album/3u2iBdEI5qosF47DFN4HtF"
+      },
+      "artists": [
+        {
+          "name": "\u6cb9\u6027",
+          "url": "https://open.spotify.com/artist/0AxUCpQCsjgVZaMOcsgbcj"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "\u30c7\u30c3\u30c9\u30ed\u30c3\u30af (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/6GwWKblxqho4lwnbgD8yZN"
+    },
+    {
+      "album": {
         "name": "\u30c8\u30e9\u30a4\u30a2\u30f3\u30c9\u30a8\u30e9\u30fc",
         "url": "https://open.spotify.com/album/5VzTUexDxPwTWvyUmgXxLW"
       },
@@ -4494,6 +4564,28 @@
       "duration_ms": 149400,
       "name": "\u30d0\u30c3\u30af\u30ec\u30ea\u30eb\u30cf",
       "url": "https://open.spotify.com/track/0JNGm6QODzBr5UWFxlQlZh"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30c3\u30c9\u30ad\u30e3\u30f3\u30c7\u30a3\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/017LSzvVwxAPBseE79Y49l"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u304b\u3081",
+          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "\u30d0\u30c3\u30c9\u30ad\u30e3\u30f3\u30c7\u30a3\u30ea\u30c3\u30d7 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2XD6P3W4OOlxk4mePBoANi"
     },
     {
       "album": {
@@ -5002,7 +5094,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 196153,
       "name": "\u30de\u30fc\u30d6\u30e9\u30a4\u30ba (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3tTTxEfSGwKtG6jQF8tCxC"
@@ -5872,6 +5964,28 @@
       "duration_ms": 257419,
       "name": "\u534a\u900f\u660e\u306e\u3086\u304f\u3048",
       "url": "https://open.spotify.com/track/5N35ftYqydq8ygZKrVdXh6"
+    },
+    {
+      "album": {
+        "name": "\u539f\u77f3\u306e\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/1e5s07AYrgmzgoHulK85NQ"
+      },
+      "artists": [
+        {
+          "name": "MURASAKI",
+          "url": "https://open.spotify.com/artist/3iC8uRRIPmnEXSTKmYQSBe"
+        },
+        {
+          "name": "\u5922\u30ce\u7d50\u5531 ROSE",
+          "url": "https://open.spotify.com/artist/1fkyVWtgEKb9epNQUD6UQ9"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283208,
+      "name": "\u539f\u77f3\u306e\u8a3c\u660e - ROSE ver - (feat. \u5922\u30ce\u7d50\u5531 ROSE)",
+      "url": "https://open.spotify.com/track/2ZTNIDgoxpopw6hKwiGC0p"
     },
     {
       "album": {
@@ -7680,7 +7794,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 222500,
       "name": "\u7d14\u6c34\u6c37\u7d50 (feat. \u5bae\u821e\u30e2\u30ab)",
       "url": "https://open.spotify.com/track/00LEIF4v2rQBzzQNYBR99p"

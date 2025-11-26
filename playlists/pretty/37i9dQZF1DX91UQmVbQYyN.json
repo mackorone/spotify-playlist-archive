@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: AURORA",
-  "num_followers": 622833,
+  "num_followers": 622847,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+      "duration_ms": 245425,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -107,18 +107,18 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 245425,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
+      },
+      "artists": [
+        {
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
+        }
+      ],
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
         "name": "Night Time, My Time",
         "url": "https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 300360,
       "name": "The greatest",
       "url": "https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
-        "name": "You got time and I got money",
-        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "WILLOW",
-        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Female Energy, Part 2",
-      "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "MAGDALENE",
         "url": "https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 204066,
       "name": "cellophane",
       "url": "https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "WILLOW",
+        "url": "https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Female Energy, Part 2",
+      "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 343289,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "I could",
-        "url": "https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B"
+        "name": "Now & Then",
+        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
       },
       "artists": [
         {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
         }
       ],
-      "duration_ms": 156320,
-      "name": "I could",
-      "url": "https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ"
+      "duration_ms": 205893,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Now & Then",
-        "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
+        "name": "I could",
+        "url": "https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B"
       },
       "artists": [
         {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
+      "duration_ms": 156320,
+      "name": "I could",
+      "url": "https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1183,6 +1183,22 @@
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1215,22 +1231,6 @@
       "duration_ms": 201523,
       "name": "Ring of Past",
       "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2025-09-22 17:46:31",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv"
+      },
+      "artists": [
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 199733,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
         "name": "Animaru",
         "url": "https://open.spotify.com/album/6giorr9WTWilWHmD0Ox4ow"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/15GocbF7ybkkPP03YXtLqv"
-      },
-      "artists": [
-        {
-          "name": "Tirzah",
-          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4RjwMyr4D2W4py79Heop9l"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "empathogen",
         "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-09-22 17:46:31",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
-    },
-    {
-      "added_at": "2025-09-22 17:46:31",
-      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 300045,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/56nsBD9bmnuW7V5wHlyVCx"
+    },
+    {
+      "added_at": "2025-09-22 17:46:31",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2025-09-22 17:46:31",

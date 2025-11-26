@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,309 likes - 49 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,329 likes - 49 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 10 | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/track/2Cv6DwpDGeg1m6gcHG55dc) | [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Railroad Shelter \(with Stick Figure\)](https://open.spotify.com/album/3BNHMe5yqmK0dn332yDD6D) | 4:05 |
 | 11 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 |
 | 12 | [World on Fire \(feat\. Slightly Stoopid\)](https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:58 |
-| 13 | [Sound of the Sea](https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:25 |
-| 14 | [What a Feeling](https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [What a Feeling](https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov) | 3:49 |
+| 13 | [What a Feeling](https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [What a Feeling](https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov) | 3:49 |
+| 14 | [Sound of the Sea](https://open.spotify.com/track/1Gsv8f8KmowkF5BnfMIGKy) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:25 |
 | 15 | [Visions \(with Stick Figure\)](https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Visions](https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB) | 3:47 |
 | 16 | [Easy Runaway](https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:45 |
 | 17 | [Way of Life \(with Slightly Stoopid\)](https://open.spotify.com/track/6kTfQwJJGDimJxFLgUTyfa) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:13 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 36 | [This Is What We Came Here For](https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:02 |
 | 37 | [Mind Block \(with Eric Rachmany\)](https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Eric Rachmany](https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 4:15 |
 | 38 | [Just Another Dream](https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:39 |
-| 39 | [Moon Palace](https://open.spotify.com/track/15XJwvQe5KHO27dSiRLLgF) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Moon Palace](https://open.spotify.com/album/6IPDihWidnBQGLNqytTRCC) | 2:56 |
+| 39 | [Good Life \(with Stick Figure\) \- 2017](https://open.spotify.com/track/7GM1icCPWW3nRxa9p1mS3B) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Good Life \(with Stick Figure\) \[2017\]](https://open.spotify.com/album/5X1KWRLAGVcqe4OIgFI23P) | 2:52 |
 | 40 | [Dub Style Blues](https://open.spotify.com/track/7zedJWSRVibgnoj8hheAKl) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 3:10 |
 | 41 | [Falling Stars](https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:42 |
 | 42 | [Heartland](https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:15 |
-| 43 | [Good Life \(with Stick Figure\) \- 2017](https://open.spotify.com/track/7GM1icCPWW3nRxa9p1mS3B) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Good Life \(with Stick Figure\) \[2017\]](https://open.spotify.com/album/5X1KWRLAGVcqe4OIgFI23P) | 2:52 |
+| 43 | [Moon Palace](https://open.spotify.com/track/15XJwvQe5KHO27dSiRLLgF) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Moon Palace](https://open.spotify.com/album/6IPDihWidnBQGLNqytTRCC) | 2:56 |
 | 44 | [Fools Gold](https://open.spotify.com/track/3mjKFSYhauWShsarAEDtJU) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 1:53 |
 | 45 | [Love Me Easy](https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG) | [ANORA](https://open.spotify.com/artist/08qMY0OdGmQNEuSLmyzeyo), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Love Me Easy](https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj) | 2:50 |
 | 46 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3t7MVW.md) - [plain]
 | 48 | [Rudeboy Riddim](https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:15 |
 | 49 | [Dub Sailin](https://open.spotify.com/track/0Oii31f5us2MVwNWOgjEko) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:49 |
 
-Snapshot ID: `aSJOgAAAAAACdB5po9KGMua4PP9T+2Gt`
+Snapshot ID: `aSOgAAAAAABJO8OjGjIVoXZBs/OYs+oQ`

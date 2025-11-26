@@ -15827,6 +15827,40 @@
     },
     {
       "album": {
+        "name": "Serpentine (The Field Remix)",
+        "url": "https://open.spotify.com/album/12CB8qWStEjeWuj2oeo1oH"
+      },
+      "artists": [
+        {
+          "name": "Disiniblud",
+          "url": "https://open.spotify.com/artist/58yu67FLeWi0auMgHNfIHt"
+        },
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        },
+        {
+          "name": "Nina Keith",
+          "url": "https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i"
+        },
+        {
+          "name": "The Field",
+          "url": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+        },
+        {
+          "name": "Cassandra Croft",
+          "url": "https://open.spotify.com/artist/5P3llffs6Hq1IYsx747anV"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664896,
+      "name": "Serpentine - The Field Remix",
+      "url": "https://open.spotify.com/track/4a9VBJxs84wlqdGIJoEzfE"
+    },
+    {
+      "album": {
         "name": "Meteora (Bonus Edition)",
         "url": "https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL"
       },
@@ -17168,7 +17202,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 429942,
       "name": "Starlight - Echospace Unreleased Mix",
       "url": "https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo"

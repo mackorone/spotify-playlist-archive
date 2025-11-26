@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-6,128 songs - 14 day 3 hr 32 min
+6,129 songs - 14 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3707,7 +3707,7 @@
 | [Next Time](https://open.spotify.com/track/3TCJvznTKPx8qEBQH0Kzlv) | [Bacchae](https://open.spotify.com/artist/2kkzGUcM1xMk6BWxbIINd8) | [Next Time](https://open.spotify.com/album/4UCzJs3PTl2u1t6ud8AWGp) | 3:05 | 2024-05-09 | 2024-05-18 |
 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 | 2024-10-25 | 2024-11-09 |
 | [Ni bien ni mal](https://open.spotify.com/track/0MOlEfrgHvb7cNG8VtzI2A) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Ni bien ni mal](https://open.spotify.com/album/4HjeRDJBkLYkI7Ysw5Wpn4) | 3:23 | 2025-03-21 | 2025-03-29 |
-| [NI EN LOS CAFES PARISINOS](https://open.spotify.com/track/4A7JQK6kfwXVT8dHOXdyL2) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Ni en los puertos italianos, ni en los cafés parisinos](https://open.spotify.com/album/7w1IsXVNmBEFSDTzx3vuE7) | 2:02 | 2025-11-21 |  |
+| [NI EN LOS CAFÉS PARISINOS](https://open.spotify.com/track/4A7JQK6kfwXVT8dHOXdyL2) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Ni en los puertos italianos, ni en los cafés parisinos](https://open.spotify.com/album/7w1IsXVNmBEFSDTzx3vuE7) | 2:02 | 2025-11-21 |  |
 | [Ni Feliz Ni Triste](https://open.spotify.com/track/7gVjCWszGK1EsGaqpfGlZX) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Alta Fidelidad: El Mixtape](https://open.spotify.com/album/42o7ybB55bGnKbfv9nLuhb) | 2:46 | 2025-07-11 | 2025-07-19 |
 | [ni regalao](https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [ni regalao](https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln) | 2:18 | 2024-09-06 | 2024-09-14 |
 | [Ni siquiera mi crueldad](https://open.spotify.com/track/3eWs3RFMXK09wCXHPDHcpN) | [Marban](https://open.spotify.com/artist/13rd4oAW4xak707186Vnun), [Jimena](https://open.spotify.com/artist/0VoTicEedd2WOZheS8tK93) | [Ni siquiera mi crueldad](https://open.spotify.com/album/5Q75nEA9WCNt8DJ2OgFKoz) | 3:15 | 2025-03-14 | 2025-03-22 |
@@ -5451,6 +5451,7 @@
 | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/track/63yWignWm8ZSh1sYcP3gjh) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Tipsy \(feat\. Aitch\)](https://open.spotify.com/album/5fjHswZXTtTNkMoIX8XV7X) | 2:49 | 2024-06-21 | 2024-06-29 |
 | [Tipz & Trickz](https://open.spotify.com/track/0JP27lPyI1QZDO80cZ6SRq) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:41 | 2025-04-11 | 2025-04-26 |
 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-09-05 | 2025-09-12 |
+| [Tirant lo Blanc](https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Tirant lo Blanc](https://open.spotify.com/album/4BnDmTrXNNHZtGPfu3PgxQ) | 3:55 | 2025-11-25 |  |
 | [Tiro al plato](https://open.spotify.com/track/0RlqN9iZXW2hph6AzPvmVI) | [Carmesí](https://open.spotify.com/artist/1U2aGi2viOXT4edeymUqMu) | [Tiro al Plato](https://open.spotify.com/album/52wdV2sNlpLt5LqlzJ0CpR) | 2:58 | 2025-11-14 | 2025-11-22 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-09-26 | 2025-10-04 |
 | [Titiritar](https://open.spotify.com/track/7cJDcvC6nSbkx4quEn7vTk) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Titiritar](https://open.spotify.com/album/55kodOr5aKPVSKUuHa608P) | 3:01 | 2024-05-17 | 2024-05-25 |

@@ -248,7 +248,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 222767,
       "name": "069",
       "url": "https://open.spotify.com/track/6sJqXK6CX4upHkYUBe1qqA"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 145906,
       "name": "1999 Pt. 6 (Gabriel vs. Luzifer)",
       "url": "https://open.spotify.com/track/7eksUI2XbDxcT1CHSXDyPb"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 154746,
       "name": "1999 Pt. III",
       "url": "https://open.spotify.com/track/0VOoFMLU692oDIDlMxSOH9"
@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 160122,
       "name": "BIERZELT SANIT\u00c4TER!",
       "url": "https://open.spotify.com/track/1bgtlNmkIpWvuN0CtPL5Vp"
@@ -12662,7 +12662,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 136791,
       "name": "du tust gut",
       "url": "https://open.spotify.com/track/6o3SDKyhafgyblwMkZouHF"
@@ -15593,6 +15593,36 @@
     },
     {
       "album": {
+        "name": "Wicked: One Wonderful Night (Live) \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/39ixJY2rOByyed4OmCmAe2"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271695,
+      "name": "For Good - Live from the Gershwin Theatre",
+      "url": "https://open.spotify.com/track/2zS3syUBiTkYqJRm9Tn52h"
+    },
+    {
+      "album": {
         "name": "For I Am Death",
         "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
       },
@@ -15652,7 +15682,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 155142,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
@@ -20185,6 +20215,28 @@
     },
     {
       "album": {
+        "name": "Hilton Hotel Barca (1979.)",
+        "url": "https://open.spotify.com/album/3wZYAjgmH2QEAEiKALg5LD"
+      },
+      "artists": [
+        {
+          "name": "blutut",
+          "url": "https://open.spotify.com/artist/0JjazMJhrFPacdVQ53p2jG"
+        },
+        {
+          "name": "Nucci",
+          "url": "https://open.spotify.com/artist/6Zhh8gdOJaHvnoG6lG67G1"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194234,
+      "name": "Hilton Hotel Barca - 1979.",
+      "url": "https://open.spotify.com/track/1vioAUpcgNMXvvWrLAIGBf"
+    },
+    {
+      "album": {
         "name": "TRILOGY",
         "url": "https://open.spotify.com/album/1K2L1hdAil5B33ZgckiNQL"
       },
@@ -22069,6 +22121,24 @@
     },
     {
       "album": {
+        "name": "ich vermisse dich.",
+        "url": "https://open.spotify.com/album/713VKMSzMLRzFwxU01dUJ9"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159982,
+      "name": "ich vermisse dich.",
+      "url": "https://open.spotify.com/track/7ltGb3eEdSDc5xVzBnXHiM"
+    },
+    {
+      "album": {
         "name": "Mufasa: Der K\u00f6nig der L\u00f6wen (Deutscher Original Film-Soundtrack)",
         "url": "https://open.spotify.com/album/4Wawsr2fSXYOkEKRbNOEGL"
       },
@@ -22371,6 +22441,24 @@
     },
     {
       "album": {
+        "name": "Im Puff Frische Ware",
+        "url": "https://open.spotify.com/album/57EnPp6X5PJBGUCFHlLLx7"
+      },
+      "artists": [
+        {
+          "name": "Doktormethoden & Doktormithoden",
+          "url": "https://open.spotify.com/artist/0xsQy6ZpcHBskCcLXKJqDY"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124553,
+      "name": "Im Puff Frische Ware",
+      "url": "https://open.spotify.com/track/0poDViHJs7BLK7bISQktt4"
+    },
+    {
+      "album": {
         "name": "Tinte & Tragik",
         "url": "https://open.spotify.com/album/3tMC54YCti1SfwntXzWPGC"
       },
@@ -22612,7 +22700,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 212333,
       "name": "In meinem Garten",
       "url": "https://open.spotify.com/track/4T9sZmhUcwnAimjnBTl7eW"
@@ -24832,6 +24920,28 @@
       "duration_ms": 189124,
       "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
       "album": {
@@ -31517,6 +31627,28 @@
     },
     {
       "album": {
+        "name": "Nacht Voll Schatten",
+        "url": "https://open.spotify.com/album/3kKlYjogEK1bAUMEQxkCck"
+      },
+      "artists": [
+        {
+          "name": "KEDY",
+          "url": "https://open.spotify.com/artist/2UhsMWCfzJxJKgicJOR3Yq"
+        },
+        {
+          "name": "Marque S",
+          "url": "https://open.spotify.com/artist/2d4FoyoUOhoyC5qC3iOmYH"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133984,
+      "name": "Nacht Voll Schatten",
+      "url": "https://open.spotify.com/track/0362oY8NzSnRrvbEMHOBEp"
+    },
+    {
+      "album": {
         "name": "nachts wach",
         "url": "https://open.spotify.com/album/1btad5Vd6vMvoFHQT6IbfH"
       },
@@ -31940,7 +32072,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 134526,
       "name": "Nie genug",
       "url": "https://open.spotify.com/track/7KjN6zNXcuZTRAgw9ItbrR"
@@ -36559,6 +36691,28 @@
     },
     {
       "album": {
+        "name": "REDE",
+        "url": "https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        },
+        {
+          "name": "benno!",
+          "url": "https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118986,
+      "name": "REDE",
+      "url": "https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2"
+    },
+    {
+      "album": {
         "name": "Redemption (feat. Nemzzz)",
         "url": "https://open.spotify.com/album/6tz75fOe1tirQPA9UPdu8p"
       },
@@ -36614,6 +36768,24 @@
       "duration_ms": 195003,
       "name": "REHAB",
       "url": "https://open.spotify.com/track/5KWlttlxtvmcPigdrfpQnz"
+    },
+    {
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "Reliquia",
+      "url": "https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy"
     },
     {
       "album": {
@@ -43630,7 +43802,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -45760,7 +45932,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 124608,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/73I3Tcfussd9QT9OY6dqSi"
@@ -47361,6 +47533,24 @@
     },
     {
       "album": {
+        "name": "Charlie Kirk Forever Alive",
+        "url": "https://open.spotify.com/album/2a854F8IkCKnrB2vEIc4qJ"
+      },
+      "artists": [
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224479,
+      "name": "We Are Charlie Kirk",
+      "url": "https://open.spotify.com/track/5nC5a57UgrSg1mUxsz1P9D"
+    },
+    {
+      "album": {
         "name": "We Bad, We Know",
         "url": "https://open.spotify.com/album/1XA9CwvIplnuRf06MDq2JR"
       },
@@ -47626,7 +47816,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
@@ -48714,7 +48904,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 177111,
       "name": "WILDFIRE",
       "url": "https://open.spotify.com/track/6xxnwhLLbwoLzw9znCjLDL"
@@ -50180,6 +50370,32 @@
       "duration_ms": 153974,
       "name": "ZEIT, DASS SICH WAS DREHT",
       "url": "https://open.spotify.com/track/1NifMX1JqCz9caJowG8dxq"
+    },
+    {
+      "album": {
+        "name": "PAKO & PENG",
+        "url": "https://open.spotify.com/album/1RSuJJTx4dlowQGIQixnuh"
+      },
+      "artists": [
+        {
+          "name": "pako peng",
+          "url": "https://open.spotify.com/artist/4TcHjciZ5CaAna38txoxJn"
+        },
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi"
+        },
+        {
+          "name": "Pablo Rochat",
+          "url": "https://open.spotify.com/artist/1jrRHAXkOac4wogkGnWubr"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "ZERSPLITTER DEIN GLAS",
+      "url": "https://open.spotify.com/track/3H2ihExUo2zfQ4QVoKG0xq"
     },
     {
       "album": {

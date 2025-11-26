@@ -4,7 +4,7 @@
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-85 songs - 3 hr 52 min
+86 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [No Digas No](https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [No Digas No](https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH) | 2:49 | 2025-10-05 |  |
 | [No Fue Suerte](https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [No Fue Suerte](https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m) | 2:40 | 2024-08-08 |  |
 | [No Te He Podido Olvidar](https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Clave A](https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu) | [No Te He Podido Olvidar](https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv) | 3:38 | 2024-08-08 | 2025-11-25 |
-| [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 | 2024-08-08 |  |
+| [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 | 2024-08-08 | 2025-11-26 |
 | [Pa Que Hablen De Verdad](https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 3:03 | 2024-08-08 | 2025-11-24 |
 | [Plastic Bombastic](https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Plastic Bombastic](https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu) | 2:58 | 2024-08-08 |  |
 | [PVTIVUELTA](https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [PVTIVUELTA](https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E) | 2:23 | 2024-08-08 |  |
@@ -89,6 +89,7 @@
 | [Tirando Barra \- En Vivo](https://open.spotify.com/track/3eACDMVDI0gidg5P8dfTpM) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:42 | 2024-08-14 | 2024-10-25 |
 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 | 2024-08-08 |  |
 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 | 2025-08-03 |  |
+| [ULALA](https://open.spotify.com/track/13dN3RAun3sS8Lpx273XIf) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe) | [AFROLANDIA](https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq) | 2:38 | 2025-11-26 |  |
 | [Ushuaïa](https://open.spotify.com/track/4cg0gPNTUg436ilRwExaTb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Ushuaïa](https://open.spotify.com/album/5CFWq19JlFvvhGXC5qiPzU) | 2:58 | 2025-02-23 |  |
 | [Vino Rosa](https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Vino Rosa](https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz) | 3:19 | 2024-08-08 |  |
 | [Ya Tocó \- En Vivo](https://open.spotify.com/track/5aszJrVkcABWGnFgIWKA61) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Desde CLN Banda Edition \(En Vivo\)](https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn) | 2:24 | 2024-08-14 | 2024-10-23 |

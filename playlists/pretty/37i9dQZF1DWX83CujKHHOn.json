@@ -1,6 +1,6 @@
 {
   "description": "Songs to keep you company.",
-  "num_followers": 3323518,
+  "num_followers": 3323463,
   "original_name": "Alone Again",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Texas Forever",
-        "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        }
-      ],
-      "duration_ms": 203822,
-      "name": "House Again",
-      "url": "https://open.spotify.com/track/1zM8S2pnIclcdTmrfFnWtX"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 248357,
       "name": "18",
       "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Texas Forever",
+        "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 203822,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/1zM8S2pnIclcdTmrfFnWtX"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "To Love Someone",
-        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 196260,
-      "name": "To Love Someone",
-      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 229404,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "To Love Someone",
+        "url": "https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "To Love Someone",
+      "url": "https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Chapter One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Chapter One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2239,18 +2239,18 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Need You Now (Remix)",
-        "url": "https://open.spotify.com/album/5nzSVa3uk2ctc4ELkld7mj"
+        "name": "The Best Damn Thing",
+        "url": "https://open.spotify.com/album/25cV0otMLz4zQDS0Aclyuj"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 236786,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX"
+      "duration_ms": 240493,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/4kxND2rbPDrdb7Sgoo1Fbh"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "The Best Damn Thing",
-        "url": "https://open.spotify.com/album/25cV0otMLz4zQDS0Aclyuj"
+        "name": "Need You Now (Remix)",
+        "url": "https://open.spotify.com/album/5nzSVa3uk2ctc4ELkld7mj"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 240493,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/4kxND2rbPDrdb7Sgoo1Fbh"
+      "duration_ms": 236786,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
+        "name": "Love You From a Distance",
+        "url": "https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Love You From a Distance",
+      "url": "https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq"
       },
@@ -2355,22 +2371,6 @@
     {
       "added_at": "2025-08-08 04:00:42",
       "album": {
-        "name": "Eternal Love",
-        "url": "https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 254480,
-      "name": "How Am I Supposed to Live Without You",
-      "url": "https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
         "name": "Never Be Alone",
         "url": "https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR"
       },
@@ -2383,6 +2383,22 @@
       "duration_ms": 215840,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a"
+    },
+    {
+      "added_at": "2025-08-08 04:00:42",
+      "album": {
+        "name": "Eternal Love",
+        "url": "https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 254480,
+      "name": "How Am I Supposed to Live Without You",
+      "url": "https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -2451,22 +2467,6 @@
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/7xpraKSakDJ6WWgjQEtvgT"
-    },
-    {
-      "added_at": "2025-08-08 04:00:42",
-      "album": {
-        "name": "Love You From a Distance",
-        "url": "https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq"
-      },
-      "artists": [
-        {
-          "name": "Ashley Kutcher",
-          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Love You From a Distance",
-      "url": "https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7"
     },
     {
       "added_at": "2025-08-08 04:00:42",

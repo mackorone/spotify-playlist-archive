@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-296 songs - 16 hr 15 min
+297 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Happy Xmas \(War Is Over\) \(feat\. Sean Ono Lennon\)](https://open.spotify.com/track/5KHzV8Gf3aweIMImliFAOs) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m) | [Happy Xmas \(War Is Over\) \(feat\. Sean Ono Lennon\)](https://open.spotify.com/album/3jy7BUlxTsFNPVZGvawAD0) | 3:40 | 2021-12-24 | 2022-10-26 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2021-12-24 | 2022-07-29 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-12-24 |  |
-| [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 |  |
+| [Hard Candy Christmas](https://open.spotify.com/track/24cTSBqNDT8rX5RjuxAxBR) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/63s2s0ZVgohgW0CEm1NHgd) | 3:28 | 2021-12-24 | 2025-11-26 |
 | [Hard Candy Christmas](https://open.spotify.com/track/5OotiuR5xoCmLqeq1P8PFn) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/29bRAOozywfaeNNM3hQi2r) | 3:28 | 2023-11-23 | 2024-04-19 |
 | [Hard Candy Christmas](https://open.spotify.com/track/6V5MkZb6BkvfcppHRO8zvf) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Hard Candy Christmas](https://open.spotify.com/album/3etDoLyTmP4B9CFJj7rsiz) | 3:28 | 2022-11-30 | 2023-11-30 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [My Kind Of Christmas](https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu) | 4:03 | 2021-12-24 | 2022-11-12 |
@@ -182,6 +182,7 @@
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 | 2021-12-24 |  |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/3EVwJlQpABcNBWQf660X78) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1WWw5IwQsLlzO1iFC90qm4) | 3:51 | 2021-12-24 | 2022-10-26 |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/7d2iMQMa1HAJJm6RcsOjYK) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6kFmsjBclIk7XynM8Px5kp) | 3:51 | 2021-12-24 | 2022-10-13 |
+| [Merry Christmas, i miss you](https://open.spotify.com/track/2GFrDW0pEXpjbNrKvFYI8k) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Merry Christmas, i miss you](https://open.spotify.com/album/1JrnkLclHl6rgCZ6blcaRp) | 4:06 | 2025-11-25 |  |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-24 |  |
 | [Mistletoe \- Recorded at Electric Lady Studios NYC.](https://open.spotify.com/track/7vW6JovXotgbToBedYaznx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps) | 3:04 | 2021-12-24 | 2022-10-26 |
 | [Moonlit Floor \(Kiss Me\) \- Santa Baby Remix](https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\) \(Santa Baby Remix\)](https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl) | 2:35 | 2024-11-29 | 2025-09-06 |

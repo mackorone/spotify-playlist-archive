@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAD6Orl0OEUqzyDFDZBGWInH",
+  "snapshot_id": "aSOgAAAAAABA7AYNvF7oMxGi8206mLNw",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 355265,
+      "name": "Diante da Cruz (At the Cross)",
+      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rompendo em F\u00e9",
         "url": "https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 289459,
       "name": "Rompendo em F\u00e9",
       "url": "https://open.spotify.com/track/1KRamNG1BZ192vALVBasZU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 355265,
-      "name": "Diante da Cruz (At the Cross)",
-      "url": "https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C"
     },
     {
       "added_at": null,
@@ -795,22 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo S\u00e9 Quien Soy",
-        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
       },
       "artists": [
         {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        },
-        {
           "name": "Aline Barros",
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
         }
       ],
-      "duration_ms": 239294,
-      "name": "Yo S\u00e9 Quien Soy",
-      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
     },
     {
       "added_at": null,
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nazareno",
-        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+        "name": "Yo S\u00e9 Quien Soy",
+        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
       },
       "artists": [
         {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+          "name": "Emir Sensini",
+          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
         },
         {
-          "name": "Generaci\u00f3n Gracia M\u00fasica",
-          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 339373,
-      "name": "O Nazareno",
-      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
+      "duration_ms": 239294,
+      "name": "Yo S\u00e9 Quien Soy",
+      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
     },
     {
       "added_at": null,

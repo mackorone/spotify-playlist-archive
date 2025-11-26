@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Jäde
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,868 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,859 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sexe & the city](https://open.spotify.com/track/7w3Oy2C0Sp4ymfEiv1dLbK) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3XZvTKx5MxfalZwcJ3nECT) | 2:29 |
 | 2 | [SPLASH](https://open.spotify.com/track/7qtnRed1TS8ZWp3ZZrI4cj) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE) | [SPLASH](https://open.spotify.com/album/4Q5CLByGguiRe8bE59IXi8) | 2:34 |
 | 3 | [Tout recommencer](https://open.spotify.com/track/3jybB7p4kE9ROW1JqPxenP) | [Hind](https://open.spotify.com/artist/7hn0avwajECN2szcpBTBQr) | [Tout recommencer](https://open.spotify.com/album/5toFeOB6XFjieqy1xwCS3R) | 3:17 |
-| 4 | [Merci](https://open.spotify.com/track/7nU2oIi1GfppgOWFiIhGY5) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [Merci](https://open.spotify.com/album/05qGA2iRX4Bo406SSvoGmO) | 3:39 |
+| 4 | [MERCI](https://open.spotify.com/track/7nU2oIi1GfppgOWFiIhGY5) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2) | [MERCI](https://open.spotify.com/album/05qGA2iRX4Bo406SSvoGmO) | 3:39 |
 | 5 | [Godzilla](https://open.spotify.com/track/4nzbjhXRalSG0ZJwLoyujo) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:59 |
 | 6 | [Excès](https://open.spotify.com/track/2KPoXjRpo2BRvfUwmkq2WE) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Softboy Actif 2](https://open.spotify.com/album/5GqYqD32BN1tPAH7GMN1CF) | 3:02 |
 | 7 | [Ce que tu me fais](https://open.spotify.com/track/0ZiJe4BToIugXNAWqDyYBP) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Ce que tu me fais](https://open.spotify.com/album/2yL3QxmcGIdKXqZEGcj2tl) | 2:18 |

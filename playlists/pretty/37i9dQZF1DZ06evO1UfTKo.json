@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 759423,
+  "num_followers": 759500,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABcIuHcCYBCtkIPf4H2fVQS",
+  "snapshot_id": "aSOgAAAAAAC9Io2m99YhGrnm6jhdjhAe",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Idolos Del Pueblo",
+        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "El Ni\u00f1o Y La Boda",
+      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ultimo Adi\u00f3s",
         "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 237466,
       "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Idolos Del Pueblo",
-        "url": "https://open.spotify.com/album/1NL9uEozaXDi9wET7qCXfG"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "El Ni\u00f1o Y La Boda",
-      "url": "https://open.spotify.com/track/6n4urlKnhlJ9kD3NaagMAx"
     },
     {
       "added_at": null,

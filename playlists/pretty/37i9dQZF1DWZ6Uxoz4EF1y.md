@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,593 likes - 100 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,673 likes - 100 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 19 | [Alabaré Al Señor \(Anástasis\)](https://open.spotify.com/track/2AXa3PWYEyeRo80AAqJLXJ) | [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [El Eco De Su Voz](https://open.spotify.com/album/20Jz9tXb633PF9nGukskgE) | 5:29 |
 | 20 | [Beso Tus Pies](https://open.spotify.com/track/4bEUNyytrIT5dYbeVBsZ5z) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Uniendo Cielo Y Tierra](https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W) | 4:48 |
 | 21 | [Levántate y Resplandece](https://open.spotify.com/track/5tRy42q9tRNbpIW8vpcIk1) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Levántate Y Resplandece](https://open.spotify.com/album/77GhJZHeuVtEMLzQob3AWk) | 5:47 |
-| 22 | [Getsemaní](https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Getsemaní](https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q) | 4:08 |
-| 23 | [Rey de Reyes](https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:23 |
+| 22 | [Rey de Reyes](https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2) | [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [La Bondad de Dios](https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7) | 4:23 |
+| 23 | [Getsemaní](https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1), [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Getsemaní](https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q) | 4:08 |
 | 24 | [Hermoso Nombre](https://open.spotify.com/track/4vcEBtKQLHwJSTVPa42mub) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [HAY MÁS](https://open.spotify.com/album/5X0oCa1m7BHMV0xd09GUG5) | 4:01 |
 | 25 | [Atrae Mi Corazón](https://open.spotify.com/track/7bt8WjPT8Yyy4ovkKkhP9D) | [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Toma Tu Lugar](https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h) | [Toma Tu Lugar](https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo) | 7:05 |
 | 26 | [Obra de Tu Amor](https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 10:05 |

@@ -814,6 +814,28 @@
     {
       "album": {
         "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1QkkXJxjQIOXBjPSxvz7N8"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193239,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/3toKX6oQaoHqy9o193sAiA"
+    },
+    {
+      "album": {
+        "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
       "artists": [
@@ -828,7 +850,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 193239,
       "name": "Punk",
       "url": "https://open.spotify.com/track/4AHH9NSQXomtAgucYN9MSG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 
 > Relaxing instrumental Jazz with a cool and soft sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,926 likes - 210 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,993 likes - 210 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcEjayzrZ4x.md) - [plain]
 | 209 | [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 |
 | 210 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 |
 
-Snapshot ID: `AAAAAEYqmfngTe95+VGvy/YB4q5XxNeA`
+Snapshot ID: `AAAAAOX0JhuVIEtf12T3zMG4QLgUc8FY`

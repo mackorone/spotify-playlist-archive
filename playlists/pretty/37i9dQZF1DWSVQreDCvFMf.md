@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: ALAMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,203 likes - 106 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,260 likes - 106 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

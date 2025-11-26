@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With real silent bloom, Cherri Bomb, Die Mannequin and more",
+  "description": "With real silent bloom, Die Mannequin, Cherri Bomb and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 201142,
       "name": "Better Off Dancing",
       "url": "https://open.spotify.com/track/1DpFP5szxmfhKtmmQseenG"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 215462,
       "name": "Better On My Own",
       "url": "https://open.spotify.com/track/5Qe3fB78MJkOKXWjOgRwVm"
@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "No Retreat",
+        "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
+      },
+      "artists": [
+        {
+          "name": "Orion Cross",
+          "url": "https://open.spotify.com/artist/33qC2xJy3CTPODbQkSkehy"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Break the Chain",
+      "url": "https://open.spotify.com/track/2aiIzGqB0Z7ELmjECGrQjg"
+    },
+    {
+      "album": {
         "name": "Break The Cycle",
         "url": "https://open.spotify.com/album/6ZCHN2MeqnytVSMpTS0KuO"
       },
@@ -322,7 +340,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 195520,
       "name": "Burn the Crown",
       "url": "https://open.spotify.com/track/5ZczBv5X58ZDUHgHOFlUBo"
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 196283,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/0hEQVflnPrNHtubsWoNv2M"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 220080,
       "name": "Firebeat",
       "url": "https://open.spotify.com/track/7njibZDbMF6qHgzBfXkG52"
@@ -689,6 +707,24 @@
     },
     {
       "album": {
+        "name": "No Retreat",
+        "url": "https://open.spotify.com/album/64Y5Leqg4p1Vf6K0EOmJGh"
+      },
+      "artists": [
+        {
+          "name": "Orion Cross",
+          "url": "https://open.spotify.com/artist/33qC2xJy3CTPODbQkSkehy"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261071,
+      "name": "Fuel the Storm",
+      "url": "https://open.spotify.com/track/2kKJtM8NETOVmNPuPqZd8w"
+    },
+    {
+      "album": {
         "name": "From the Grave",
         "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
       },
@@ -754,7 +790,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 209352,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0FFcbTkSeyAi9AZGFQ29Sl"
@@ -790,7 +826,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -815,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Bitchin'",
+        "url": "https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE"
+      },
+      "artists": [
+        {
+          "name": "The Donnas",
+          "url": "https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174236,
+      "name": "Here For The Party",
+      "url": "https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w"
+    },
+    {
+      "album": {
         "name": "I am free",
         "url": "https://open.spotify.com/album/0LbrjbnrshtwOlgbLmgDku"
       },
@@ -826,7 +880,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 274999,
       "name": "I am free",
       "url": "https://open.spotify.com/track/0wAznXcKwvwRz6js95aUa0"
@@ -844,7 +898,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 173856,
       "name": "I Bet You Like That",
       "url": "https://open.spotify.com/track/1aFPttcEHd04oZpEXv6cvu"
@@ -916,7 +970,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 138679,
       "name": "I scream in steel...",
       "url": "https://open.spotify.com/track/0ge748Kr2Fx0j1PjTYoOHM"
@@ -952,7 +1006,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 191795,
       "name": "I Wanna Go",
       "url": "https://open.spotify.com/track/6Nx2PX1w3l5QNaQG0YGzFB"
@@ -1096,10 +1150,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 211448,
       "name": "Join the Infestation",
       "url": "https://open.spotify.com/track/57KIpZZRR6uqDtwAK1uDs3"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Studs",
+        "url": "https://open.spotify.com/album/5Uo6ZxwbP4GwTYih9lGTEz"
+      },
+      "artists": [
+        {
+          "name": "Morningwood",
+          "url": "https://open.spotify.com/artist/5ydhCWsbFCpHyG2OhgO2og"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "Killer Life",
+      "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
     },
     {
       "album": {
@@ -1132,7 +1204,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -1168,7 +1240,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -1510,7 +1582,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 174666,
       "name": "Poor Little Girl",
       "url": "https://open.spotify.com/track/3b3rs0TQ9spLHQItGQAfsH"
@@ -1546,7 +1618,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 227359,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/67nccfATcXJtrpi7uMtgHw"
@@ -1636,7 +1708,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -1690,7 +1762,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 202160,
       "name": "Think Like A Man",
       "url": "https://open.spotify.com/track/6AaBX9BWwQTjDtuqjoHELM"
@@ -1708,7 +1780,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 106110,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/7IiwWCfZ4tzymtKnfG4RL3"
@@ -1726,7 +1798,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 131250,
       "name": "Vibe Killer",
       "url": "https://open.spotify.com/track/2VTCii5cZQLzq1DKEj1dFd"
@@ -1780,7 +1852,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 234720,
       "name": "What I Didn't Say",
       "url": "https://open.spotify.com/track/4CNO4lnM6yZ8GCiCOBoplr"
@@ -1798,7 +1870,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 165836,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/7JLUHfutVqjBAnmj2ZmQzE"

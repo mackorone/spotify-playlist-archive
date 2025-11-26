@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Rosa de Saron
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,917 likes - 70 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,916 likes - 70 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 11 | [Tudo Fica Bem](https://open.spotify.com/track/7aiuugdiL75xtqcU2KYJi6) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Tudo Fica Bem](https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE) | 5:04 |
 | 12 | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/track/7ecqcznNojGqvYN08opRgp) | [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9) | [Acalma Minha Tempestade \(Ao Vivo no Hopi Hari\)](https://open.spotify.com/album/4KwN3i68S1leYaMz96oXTD) | 5:29 |
 | 13 | [Oração](https://open.spotify.com/track/12Eht2IPdkP2EaGf3TltkY) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Oração](https://open.spotify.com/album/5YL3CoA24koZIlSjfmZDnR) | 4:04 |
-| 14 | [Davi \- Ao Vivo](https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Davi \(Ao Vivo\)](https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg) | 3:16 |
-| 15 | [Minha Esperança](https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Minha Esperança](https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq) | 5:21 |
+| 14 | [Minha Esperança](https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5) | [Minha Esperança](https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq) | 5:21 |
+| 15 | [Davi \- Ao Vivo](https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Davi \(Ao Vivo\)](https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg) | 3:16 |
 | 16 | [467 \(Cabo da Nau\)](https://open.spotify.com/track/2Vi9LfNvtOrtkTKFUiNinI) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [467 \(Cabo da Nau\)](https://open.spotify.com/album/3lSHJXrLKFXruAg3A156HA) | 2:37 |
 | 17 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 |
 | 18 | [A Maior Certeza \- Ao Vivo](https://open.spotify.com/track/5oTBJ6Pt17MvQEunGE2CJS) | [NOVA](https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM), [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [A Maior Certeza \(Ao Vivo\)](https://open.spotify.com/album/3T7SizuAmTC0ltM7I1GGn8) | 4:54 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 50 | [Pródigo](https://open.spotify.com/track/5eUfK5MhvRLZGrR3nLu50I) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Pródigo](https://open.spotify.com/album/0d6ziyPIxUUwnKte7nqLIH) | 3:54 |
 | 51 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
 | 52 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 |
-| 53 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 |
-| 54 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
-| 55 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
+| 53 | [Só na Sua Graça](https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod) | [Lenha Music](https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO) | [Só na Sua Graça](https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0) | 4:18 |
+| 54 | [Grito de Katsbarnea](https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR) | [Katsbarnea](https://open.spotify.com/artist/1r454EQgNoAVQqpuo1LvBt) | [Grito de Katsbarnea](https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK) | 3:28 |
+| 55 | [O Começo, o Fim e o Meio](https://open.spotify.com/track/1Gr6dxItPYXuz6DFF8Yfag) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [O Começo, o Fim e o Meio](https://open.spotify.com/album/7CBNZhDZkOBsdqF2O3ptQZ) | 4:07 |
 | 56 | [Até o Fim](https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow) | [Ana Diniz](https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm) | [Até o Fim](https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72) | 4:00 |
 | 57 | [Filho do Homem](https://open.spotify.com/track/68yyZSK9zTuvtCBq7vt2cR) | [Rafa Couto](https://open.spotify.com/artist/6GvcizsywEFhUPUn7Ibkw3), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Filho do Homem](https://open.spotify.com/album/5kKHNpbsFy6TgEUN1JL8Ee) | 2:57 |
 | 58 | [Celebre \- Ao Vivo](https://open.spotify.com/track/39wHeXI2eShSnVgCLtSlw0) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Celebre \(Ao Vivo\)](https://open.spotify.com/album/7fLGb5p4a1mFroUMKDFtqY) | 4:09 |

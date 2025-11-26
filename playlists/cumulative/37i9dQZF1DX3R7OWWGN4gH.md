@@ -4,7 +4,7 @@
 
 > entering my reputation era
 
-319 songs - 17 hr 32 min
+320 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,12 +83,13 @@
 | [Cry Evil!](https://open.spotify.com/track/5CXtNr0l1ItHoclXPpa8aR) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Cry Evil!](https://open.spotify.com/album/31KEFVsVuCEHjVzVU8YE9i) | 2:28 | 2024-08-20 |  |
 | [Cult Leader](https://open.spotify.com/track/1STwouYZSMXAaJ0nCrCsun) | [Cute Whore](https://open.spotify.com/artist/1N91cyUEOTgbI7s90LzhiE) | [Cult Leader](https://open.spotify.com/album/4huVKlLQxEzWjftYB6aRjp) | 5:43 | 2022-03-28 | 2022-07-25 |
 | [cult leader](https://open.spotify.com/track/55FBgJC917EN1RrVJENiB7) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [cult leader](https://open.spotify.com/album/19vsjfRk8H7PmyB2VE7YnK) | 2:43 | 2022-04-22 | 2022-08-31 |
-| [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-01-27 | 2025-10-04 |
+| [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2022-01-27 |  |
 | [Dangerous Woman](https://open.spotify.com/track/2h1IPjP471JJRSShTHRUhi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/4lVR2fg3DAUQpGVJ6DciHW) | 3:55 | 2022-01-27 | 2022-04-21 |
 | [Dangerous Woman](https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 3:55 | 2022-01-27 | 2024-04-19 |
 | [Dark Days](https://open.spotify.com/track/4tPSsSJzDqxf6JGfJY9EnG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Dark Days](https://open.spotify.com/album/6VgSqqV9YvpZaXPRgcPP1I) | 3:21 | 2025-05-02 | 2025-06-21 |
 | [Dark Lady](https://open.spotify.com/track/7ckF0HeHGMOEjNqW5GoTqq) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Universal Masters Collection](https://open.spotify.com/album/6SlRWiNTV4uuona6bAUWId) | 3:25 | 2022-04-18 | 2022-04-21 |
 | [DARKSIDE](https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Wars In A Wonderland](https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ) | 2:48 | 2022-07-18 |  |
+| [Daughter of Eve](https://open.spotify.com/track/7yn85MEYkjsuRwBiU9hfVA) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [Daughter of Eve](https://open.spotify.com/album/1W6gAVieZrMV1zPuLNAhli) | 2:41 | 2025-11-25 |  |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-09-22 | 2023-01-14 |
 | [Deal With The Devil](https://open.spotify.com/track/7eFIg4OmtXa0Wf5eeFOLs4) | [Rory Webley](https://open.spotify.com/artist/2vlC4o7h61xlMUop6QCuvK) | [Deal With The Devil](https://open.spotify.com/album/3sJM5AOASzuZETZOLf77ND) | 2:15 | 2022-01-27 | 2022-07-29 |
 | [Death Of Us](https://open.spotify.com/track/1b7kH8a40bQ0ttYPNdxrn6) | [Elsie Bay](https://open.spotify.com/artist/4YpY98ig3QIOUX50xQ21GE) | [Death Of Us](https://open.spotify.com/album/2LkqNFhcGWp6PTyozndEXd) | 3:08 | 2022-01-27 | 2022-07-28 |
@@ -136,7 +137,7 @@
 | [Golden Age](https://open.spotify.com/track/3hModU6Dy7ym4BO9r7zxFG) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Golden Age](https://open.spotify.com/album/17HxYIWUvrRw9xIpx6AFqM) | 2:56 | 2022-07-21 | 2022-07-29 |
 | [GOOD PUSS](https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [GOOD PUSS](https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn) | 3:40 | 2022-01-27 | 2022-04-19 |
 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7hakBrWzzouKXpopdzq9DI) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:50 | 2022-01-27 | 2022-07-29 |
-| [Hallelujah \(I Don't Think About You\)](https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Dawn of a Misfit](https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb) | 2:55 | 2025-05-30 |  |
+| [Hallelujah \(I Don't Think About You\)](https://open.spotify.com/track/0vM4LQCV9TsBH8hvTWsow9) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Dawn of a Misfit](https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb) | 2:55 | 2025-05-30 | 2025-11-26 |
 | [Happier Than Ever](https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Happier Than Ever](https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO) | 4:14 | 2022-06-16 | 2023-03-10 |
 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 | 2025-06-27 | 2025-09-24 |
 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 | 2023-09-22 | 2024-04-19 |
@@ -240,7 +241,7 @@
 | [Rain \(from The Suicide Squad\)](https://open.spotify.com/track/6gi7qsHSH2JWZsTRHndxqm) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Rain \(from The Suicide Squad\)](https://open.spotify.com/album/3RofvYZbV6xjU5H4RMNPap) | 3:56 | 2022-01-27 | 2022-07-29 |
 | [Read Em And Weep](https://open.spotify.com/track/7k9ggvboitGpFmfBJtjeqG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:23 | 2024-04-05 | 2024-04-17 |
 | [Rebels](https://open.spotify.com/track/7fBKbK8897K5V5zgr7ymIz) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [The Gloomy Tapes, Vol\. 2](https://open.spotify.com/album/3ukdoeD1Xxoh0lTp80Xkzu) | 2:15 | 2022-01-27 | 2022-07-29 |
-| [RED \(from Arena Breakout: Infinite\)](https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 3:05 | 2025-06-27 |  |
+| [RED \(from Arena Breakout: Infinite\)](https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 3:05 | 2025-06-27 | 2025-11-26 |
 | [Reptilia](https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Reptilia](https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU) | 3:41 | 2024-04-19 | 2024-04-27 |
 | [River](https://open.spotify.com/track/0TGTE9TEh9qzuFwmtRNICn) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Bishop Briggs](https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi) | 3:34 | 2022-01-27 | 2022-05-14 |
 | [Rock Me Amadeus](https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU) | [Falco](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW) | [Falco 3](https://open.spotify.com/album/4shdkbv0jIstZhSrpMR9wh) | 3:22 | 2024-02-22 | 2025-06-30 |

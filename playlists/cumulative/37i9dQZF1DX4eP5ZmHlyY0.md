@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: Stray Kids
 
-810 songs - 1 day 20 hr 20 min
+812 songs - 1 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [E\-NERGY BOYS](https://open.spotify.com/track/2Jui39MTkglBvzflZdIlin) | [DA PUMP](https://open.spotify.com/artist/3NRXKeatDxKe4apH6XawKX) | [E\-NERGY BOYS](https://open.spotify.com/album/262JbB9qoH8wrqzP9yKS6Y) | 3:21 | 2024-02-13 | 2024-02-21 |
 | [Earth, Wind & Fire \- Japanese Ver.](https://open.spotify.com/track/51jvR5cPRh3Yfiwo5qdNXw) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Earth, Wind & Fire \(Japanese Ver.\)](https://open.spotify.com/album/6DvZZhY6bGqDuPbCSyZHcx) | 2:59 | 2024-06-18 | 2024-07-10 |
 | [ECHO! \(Prod\. WOOZI\)](https://open.spotify.com/track/2ZmjUVTEA6UjJmqyiRGBBd) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [WORLD OF STREET WOMAN FIGHTER\(WSWF\) Original Vol.2 \(Class Mission\)](https://open.spotify.com/album/7zY5lldzF6MgRVfRajSS4f) | 2:33 | 2025-06-12 | 2025-09-09 |
-| [Echoes](https://open.spotify.com/track/2HcdmAwTWL2zekEICHENEq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [宵 \-YOI\-](https://open.spotify.com/album/3SbFks7Ke2crP3O0RpfDEF) | 3:06 | 2025-07-28 |  |
+| [Echoes](https://open.spotify.com/track/2HcdmAwTWL2zekEICHENEq) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [宵 \-YOI\-](https://open.spotify.com/album/3SbFks7Ke2crP3O0RpfDEF) | 3:06 | 2025-07-28 | 2025-11-26 |
 | [Eighdays](https://open.spotify.com/track/5uTBYCoNktVoHiNYhZTLrF) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [Eighdays](https://open.spotify.com/album/2atzkjLZ1m2rv26VwJ71Jv) | 4:03 | 2024-07-26 | 2024-07-31 |
 | [Eight Eleven](https://open.spotify.com/track/1bA3Iw9z64PdJVohEb8g0D) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/6N0KvZuXQQVp1K8LJmuoMA) | 2:21 | 2025-11-13 |  |
 | [Eight Eleven](https://open.spotify.com/track/7wBIqYptstEtFGMgwOp4KF) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<Eight Eleven>](https://open.spotify.com/album/5qs8gsNwXL8oeBfIrEFbwd) | 2:21 | 2025-11-12 | 2025-11-14 |
@@ -208,7 +208,7 @@
 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 | 2023-11-23 | 2024-01-17 |
 | [FAKE IT](https://open.spotify.com/track/1kBFfTzRCD1yeqpUgEw9dC) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [winderlust](https://open.spotify.com/album/2gmtQpnflHMcFkHyAlxh3O) | 3:10 | 2025-04-03 | 2025-05-02 |
 | [Fake It](https://open.spotify.com/track/2FrtsVTFPEvH77oKfFHgfV) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Fake It](https://open.spotify.com/album/3Xmw8PnZTNZ4o5th7upzAj) | 3:10 | 2024-02-13 | 2024-03-06 |
-| [Fallen Superstar](https://open.spotify.com/track/4cIL0R9GS1XEqZqEyDvxCn) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Fallen Superstar](https://open.spotify.com/album/0VKcbuqSJKDWr5O9NhZPh5) | 2:48 | 2025-11-13 |  |
+| [Fallen Superstar](https://open.spotify.com/track/4cIL0R9GS1XEqZqEyDvxCn) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Fallen Superstar](https://open.spotify.com/album/0VKcbuqSJKDWr5O9NhZPh5) | 2:48 | 2025-11-13 | 2025-11-26 |
 | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/5acxpHJujhst5CfRUXjQBA) | 3:07 | 2025-10-24 |  |
 | [Fame](https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH) | 2:56 | 2025-11-24 |  |
 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-07-15 | 2025-11-18 |
@@ -404,7 +404,7 @@
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 | 2025-01-29 |
 | [Maybe Tomorrow](https://open.spotify.com/track/0zreBeNWNaM1t0YLP7IB2b) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Maybe Tomorrow](https://open.spotify.com/album/4pvg7UjDPlmUVULN9nhmU6) | 3:44 | 2025-05-08 | 2025-09-05 |
 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 | 2024-10-01 | 2024-12-09 |
-| [ME](https://open.spotify.com/track/24M4SqLz7sXuG8h6DGpz1K) | [KANG SEUNG YOON](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE 2](https://open.spotify.com/album/49z7IfB1jZ0VM4RkqnXBNZ) | 3:42 | 2025-11-05 |  |
+| [ME](https://open.spotify.com/track/24M4SqLz7sXuG8h6DGpz1K) | [KANG SEUNG YOON](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE 2](https://open.spotify.com/album/49z7IfB1jZ0VM4RkqnXBNZ) | 3:42 | 2025-11-05 | 2025-11-26 |
 | [Melody](https://open.spotify.com/track/495GBEvMX06OrwhCCZ7H0y) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [Melody](https://open.spotify.com/album/7C22dOSEgyvDKkVKxiSkGV) | 3:14 | 2024-01-19 | 2024-05-08 |
 | [MEME](https://open.spotify.com/track/0OqaPC4BqWWv3vY8BM1NaT) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [MEME](https://open.spotify.com/album/5sHhkERPTJ5KrM8oMSWCmk) | 2:21 | 2024-11-05 | 2025-01-09 |
 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 | 2024-09-24 | 2025-01-20 |
@@ -531,6 +531,7 @@
 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-01 | 2025-11-05 |
 | [REVERSE](https://open.spotify.com/track/5KlKadHo3z2nuSpWZNgpj3) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [REVERSE](https://open.spotify.com/album/2agh9SrSkdac9tUYbHOeum) | 3:30 | 2024-07-30 | 2024-11-06 |
 | [Revolution](https://open.spotify.com/track/1iv9W7OAqcJcMpzy0s8vaT) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [mirror](https://open.spotify.com/album/4c7Xu0FHmZPfXgLAapJvPy) | 3:28 | 2023-11-23 | 2024-01-03 |
+| [RIDE](https://open.spotify.com/track/3ruczO0lHDACpJMdLQyYF9) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [](https://open.spotify.com/album/null) | 3:28 | 2025-11-25 |  |
 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-21 | 2024-09-11 |
 | [Rise](https://open.spotify.com/track/1j3H5bMaTPwFFuXoUydeFG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Rise](https://open.spotify.com/album/4ichGXKR5PCxKXZBy5Hypk) | 3:25 | 2025-04-07 | 2025-05-02 |
 | [Rizz](https://open.spotify.com/track/1Wr3KJN8y31KSsfi3WjVgv) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [UXLXVE](https://open.spotify.com/album/06fkAvfJw3XKoHoUxdRwQ4) | 2:21 | 2025-11-05 | 2025-11-18 |
@@ -769,6 +770,7 @@
 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 | 2024-02-13 | 2024-04-24 |
 | [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 | 2025-02-03 |
 | [メタルなかよし](https://open.spotify.com/track/6V02BcehQcu2u2ugSjvIQj) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [メタルなかよし](https://open.spotify.com/album/39j9M9qIcQtue6TmiAtJ7F) | 3:54 | 2025-04-07 | 2025-04-18 |
+| [メロリ](https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [メロリ](https://open.spotify.com/album/224MMjQyPVB1tVe4yb0OY3) | 3:37 | 2025-11-25 |  |
 | [世界を明るく照らしましょう](https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [世界を明るく照らしましょう](https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv) | 3:47 | 2024-09-17 | 2024-10-30 |
 | [両片想い](https://open.spotify.com/track/1UMIpUFDRaNmTMMu1br8gL) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [両片想い](https://open.spotify.com/album/0N8vRd5AcdsyifTccX4abX) | 3:08 | 2025-07-31 |  |
 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 | 2024-05-07 | 2025-02-12 |

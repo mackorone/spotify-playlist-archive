@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 38612,
+  "num_followers": 38622,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADToLyPWkvPZGLaFANXiQGD",
+  "snapshot_id": "aSOgAAAAAAAgqhuTIIvriBk7dRgehdAr",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ErrTime (feat. Latto) [Remix]",
         "url": "https://open.spotify.com/album/2i2SkQ9IRn6q9E8RjhpOH3"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 146553,
       "name": "ErrTime (feat. Latto) [Remix]",
       "url": "https://open.spotify.com/track/5CanskmqatfFbm9O9Epavt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
       "added_at": null,

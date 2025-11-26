@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,667 songs - 4 day 5 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,668 songs - 4 day 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1675,5 +1675,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1665 | [Tócame](https://open.spotify.com/track/2wqJij98B0rouH14batoif) | [Yunez](https://open.spotify.com/artist/3WqoLbV8XYbKrXUTTScsKI) | [Tócame](https://open.spotify.com/album/4dWm6sgedDn3maMz8HjZ0P) | 2:32 |
 | 1666 | [Fate](https://open.spotify.com/track/6dbK2kIWkKi2KJIH7d8nsm) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [Fate](https://open.spotify.com/album/4RZfPgZAzjpXh722bIQhyw) | 3:06 |
 | 1667 | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/track/2tGj48yEbynyn0L1wa1I78) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/album/4l2lAICEgG8GGUSVzJkBst) | 3:31 |
+| 1668 | [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 |
 
-Snapshot ID: `AAAHZ35XAEY2jdikLM/PKToYxhdyfyCd`
+Snapshot ID: `AAAHaCEctGZPEH0B9giVCOTX49SZ5SoR`

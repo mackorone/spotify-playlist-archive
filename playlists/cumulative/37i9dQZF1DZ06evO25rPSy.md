@@ -4,7 +4,7 @@
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 23 min
+51 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,13 +22,13 @@
 | [Degeneración Actual](https://open.spotify.com/track/58t9Q8VqXGhaqtilMkIkRx) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 5:16 | 2023-08-25 |  |
 | [Déjame Vivir](https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:42 | 2023-08-25 |  |
 | [El Bailador](https://open.spotify.com/track/5Oz2k5OlgGNiB8O8flFdDG) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:33 | 2023-08-25 | 2024-11-09 |
-| [El Triunfo Tan Soñado](https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 4:22 | 2023-08-25 |  |
+| [El Triunfo Tan Soñado](https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 4:22 | 2023-08-25 | 2025-11-26 |
 | [Ella y él](https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:57 | 2023-08-25 |  |
 | [Esa Sí Es una Mujer](https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [No Me Acuerdo Quién Fui](https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF) | 3:51 | 2023-08-25 |  |
-| [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 | 2023-08-25 |  |
+| [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 | 2023-08-25 | 2025-11-26 |
 | [Globo de Gas](https://open.spotify.com/track/50Fne0saOe26pnm0waxN4r) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:08 | 2023-08-25 |  |
 | [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 | 2023-08-25 |  |
-| [Hoy Me Llenaré de Valor \(Tema de Tereso\)](https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:13 | 2023-08-25 |  |
+| [Hoy Me Llenaré de Valor \(Tema de Tereso\)](https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:13 | 2023-08-25 | 2025-11-26 |
 | [Jugamos Todos](https://open.spotify.com/track/3d8lK0ApW7hmXu69QTnvu8) | [Pedro Suárez\-Vértiz®La Banda](https://open.spotify.com/artist/45pJt17HgV2POVNeNN725L), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Jugamos Todos](https://open.spotify.com/album/3FYY7mzDQ0V2cUXeCySlyk) | 4:23 | 2023-08-25 | 2024-04-28 |
 | [La Española](https://open.spotify.com/track/5eBYOK11r072v8FSQGDpq9) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 4:03 | 2023-08-25 | 2025-02-10 |
 | [Lo Olvidé](https://open.spotify.com/track/5knDuscjSq3x4mEa1G1wP6) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 3:58 | 2023-08-25 |  |
@@ -45,9 +45,9 @@
 | [No Pensé Que Era Amor](https://open.spotify.com/track/7jXYUkQiz302VHuZjmMuyI) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:53 | 2023-08-25 |  |
 | [Ponerme a volar](https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:43 | 2023-08-25 |  |
 | [Qué Oscuridad](https://open.spotify.com/track/0lIij3INQIJ8jBkkBa7N1M) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 4:28 | 2025-02-10 |  |
-| [Rara Soledad](https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 2:16 | 2023-08-25 |  |
+| [Rara Soledad](https://open.spotify.com/track/5xAeUE0ty5YgPHj2xZSXiK) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 2:16 | 2023-08-25 | 2025-11-26 |
 | [Recuéstame](https://open.spotify.com/track/7nfSTmx7HF1aAklJuwA2vT) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:55 | 2023-08-25 |  |
-| [Se Te Pararían los Pelos](https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 3:58 | 2024-07-27 |  |
+| [Se Te Pararían los Pelos](https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 3:58 | 2024-07-27 | 2025-11-26 |
 | [Sed](https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno), [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 4:20 | 2023-08-25 |  |
 | [Sentimiento Increible](https://open.spotify.com/track/6DoptxGIpIGzeBoy588rnB) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:29 | 2023-08-25 |  |
 | [Si Escuchas a un Angel](https://open.spotify.com/track/4OZN1r8FyvLXnaZhdZH4f6) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [\(No Existen\) Técnicas para Olvidar](https://open.spotify.com/album/0R0UUOJ6km3KSucmDUPlyS) | 3:01 | 2023-08-25 |  |
@@ -57,6 +57,7 @@
 | [Tema del Adiós](https://open.spotify.com/track/26pzODqyLzJWS0VjMzufRE) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:11 | 2023-08-25 |  |
 | [Tren Sexual](https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:08 | 2023-08-25 |  |
 | [Túnel del Tiempo](https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:16 | 2023-08-25 | 2025-11-25 |
+| [Túnel del Tiempo](https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:16 | 2025-11-26 |  |
 | [Un Vino, Una Cerveza](https://open.spotify.com/track/5Q2J37xbIR60z6ifswoGKe) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:35 | 2023-08-25 |  |
 
 \*This playlist was first scraped on 2023-08-26. Prior content cannot be recovered.

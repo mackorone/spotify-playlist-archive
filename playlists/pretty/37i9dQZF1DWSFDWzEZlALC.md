@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JEREMIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,605 likes - 74 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,616 likes - 74 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [Gegenteil von Glück](https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B) | 2:39 |
 | 3 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:43 |
 | 4 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 |
-| 5 | [Hast Du noch Zeit](https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Hast Du Noch Zeit](https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV) | 3:25 |
+| 5 | [Hast Du Noch Zeit](https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Hast Du Noch Zeit](https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV) | 3:25 |
 | 6 | [WUNDERLICH](https://open.spotify.com/track/2d9aXk7fLqvckuWv0PAzZZ) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [WUNDERLICH](https://open.spotify.com/album/0rE03wb84wU7ajzSrXazie) | 2:20 |
 | 7 | [Eigentlich schön](https://open.spotify.com/track/7mgmd6ZDqRM7to8RIghTLr) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Eigentlich schön](https://open.spotify.com/album/2fD7gag37HevccvJ3awnua) | 2:50 |
 | 8 | [Marlboro Mann](https://open.spotify.com/track/35dP1MzINMO9ABzCQAO6sy) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Marlboro Mann](https://open.spotify.com/album/2L4bP14MasfkUuU8UpTKgB) | 2:56 |

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Aerosmith & YUNGBLUD
 
-1,755 songs - 4 day 5 hr 29 min
+1,756 songs - 4 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,7 +570,7 @@
 | [flashback](https://open.spotify.com/track/7AKbUJwfLdQYOAyoDKDnEI) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [flashback](https://open.spotify.com/album/38lEvVBTBgrTH3ZQLpEl9q) | 3:28 | 2023-10-12 | 2023-10-20 |
 | [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 | 2023-12-14 | 2023-12-22 |
 | [Flow](https://open.spotify.com/track/2NB6ACcaEct5ha069bXw7P) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Flow](https://open.spotify.com/album/5ALiFefXq1BQLwVG7CVJwq) | 3:53 | 2023-06-30 | 2023-07-14 |
-| [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-09-18 |  |
+| [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-09-18 | 2025-11-26 |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-02-17 |
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 | 2025-07-04 |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-05-25 | 2023-06-02 |
@@ -838,6 +838,7 @@
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-03 | 2023-08-18 |
 | [kisses](https://open.spotify.com/track/7LuPjGUfJqxuW14W4gMrU2) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:57 | 2024-02-08 | 2024-03-01 |
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-31 | 2025-08-10 |
+| [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 | 2025-11-20 |  |
 | [Know Better](https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Know Better](https://open.spotify.com/album/091rITH4fXltYccZlmbrzw) | 3:11 | 2023-04-20 | 2023-04-28 |
 | [kodoku gokko](https://open.spotify.com/track/5N73VJc4Q3fJhEV8E7pvDC) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [kodoku gokko](https://open.spotify.com/album/3KlWkxlUSwUzrunfRuTrLi) | 1:45 | 2024-02-29 | 2024-04-05 |
 | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T) | 3:55 | 2025-07-10 | 2025-08-18 |

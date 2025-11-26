@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 824521,
+  "num_followers": 824566,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADlDpAega2WvA67U0sI5AqQ",
+  "snapshot_id": "aSOgAAAAAAC19I+VgUezEWB7/lT9uni/",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Star / In Your World",
-        "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 380760,
       "name": "Space Dementia",
       "url": "https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead Star / In Your World",
+        "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 414960,
-      "name": "Unnatural Selection",
-      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 317000,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/2sCFFlnYg6Lk75GCcfSXEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 414960,
+      "name": "Unnatural Selection",
+      "url": "https://open.spotify.com/track/28FJMlLUu9NHuwlZWFKDn7"
     },
     {
       "added_at": null,

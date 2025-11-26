@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
@@ -9232,7 +9232,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 194139,
       "name": "It Feels Different Now",
       "url": "https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6"
@@ -22270,12 +22270,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
           "name": "Rivo",
           "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
         }
       ],
       "date_added": "2024-01-05",

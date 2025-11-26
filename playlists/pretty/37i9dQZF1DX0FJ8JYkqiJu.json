@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 413675,
+  "num_followers": 413690,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "There is no Neil Frances",
-        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "dancing",
-      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
-    },
-    {
-      "added_at": "2025-09-08 04:00:07",
-      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -359,22 +343,18 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -395,6 +375,26 @@
       "duration_ms": 206585,
       "name": "Love\u2019s A Game",
       "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
+    },
+    {
+      "added_at": "2025-09-08 04:00:07",
+      "album": {
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "Childish",
-        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 331935,
-      "name": "The Deep",
-      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
-    },
-    {
-      "added_at": "2025-09-08 04:00:07",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 189750,
       "name": "Together",
       "url": "https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73"
+    },
+    {
+      "added_at": "2025-09-08 04:00:07",
+      "album": {
+        "name": "Childish",
+        "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 331935,
+      "name": "The Deep",
+      "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -831,26 +831,18 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "MIND GAMES",
-        "url": "https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
       },
       "artists": [
         {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
         }
       ],
-      "duration_ms": 214503,
-      "name": "MIND GAMES",
-      "url": "https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE"
+      "duration_ms": 242376,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -871,18 +863,26 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
+        "name": "MIND GAMES",
+        "url": "https://open.spotify.com/album/6SBcfcAxl1twVZHPBnMm9c"
       },
       "artists": [
         {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
         }
       ],
-      "duration_ms": 242376,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+      "duration_ms": 214503,
+      "name": "MIND GAMES",
+      "url": "https://open.spotify.com/track/0TmrBofXs4U44IpQ0bdBNE"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
-    },
-    {
-      "added_at": "2025-09-08 04:00:07",
-      "album": {
         "name": "Me and You (feat. Vancouver Sleep Clinic)",
         "url": "https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 266666,
       "name": "Me and You (feat. Vancouver Sleep Clinic)",
       "url": "https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP"
+    },
+    {
+      "added_at": "2025-09-08 04:00:07",
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
       },
       "artists": [
         {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
         }
       ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
+      "duration_ms": 195733,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
     },
     {
       "added_at": "2025-09-08 04:00:07",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2025-09-08 04:00:07",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
       },
       "artists": [
         {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
         }
       ],
-      "duration_ms": 195733,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     }
   ],
   "unique_name": "Just Chill",

@@ -784,7 +784,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 256142,
       "name": "El misterio",
       "url": "https://open.spotify.com/track/1GhTst00ttJYciWs8XRo2i"
@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Sufriendo de m\u00e1s",
+      "url": "https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t"
+    },
+    {
+      "album": {
         "name": "SUFRIENDO DE M\u00c1S",
         "url": "https://open.spotify.com/album/0qqBC085ppxcVb1D60L812"
       },
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 233142,
       "name": "SUFRIENDO DE M\u00c1S",
       "url": "https://open.spotify.com/track/1HZgbYDx3D7NnZauT1Kuh6"

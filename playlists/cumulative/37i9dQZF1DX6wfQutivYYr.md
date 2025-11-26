@@ -4,7 +4,7 @@
 
 > Giorgia sulla cover della playlist più grande in Italia 🔥
 
-256 songs - 13 hr 13 min
+257 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,13 +228,14 @@
 | [STORIE BREVI](https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [STORIE BREVI](https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh) | 2:55 | 2024-06-28 | 2024-11-26 |
 | [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK) | 5:01 | 2024-11-04 | 2024-11-29 |
 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 | 2024-08-29 | 2024-10-11 |
+| [Take 6](https://open.spotify.com/track/0j4gmizuiIh5k7F62XISiF) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 6](https://open.spotify.com/album/5rBSou2aGWqVv28GiYx11N) | 2:44 | 2025-11-25 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-05 | 2024-12-07 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-11-14 | 2025-04-04 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-10 | 2024-10-08 |
 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 | 2025-10-06 |  |
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-06-03 | 2025-11-11 |
 | [Tip Tap](https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Tip Tap](https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5) | 2:09 | 2024-12-05 | 2025-01-31 |
-| [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 | 2025-11-13 |  |
+| [Tocco Pitocco](https://open.spotify.com/track/0gYffd4envdyCft10iF45g) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Tocco Pitocco](https://open.spotify.com/album/3agEJPn84PlXKiicWw8iVU) | 2:43 | 2025-11-13 | 2025-11-26 |
 | [TONIGHT](https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:55 | 2025-01-18 | 2025-05-09 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-28 | 2024-07-19 |
 | [Torcida](https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Torcida](https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V) | 2:54 | 2024-06-28 | 2024-11-15 |

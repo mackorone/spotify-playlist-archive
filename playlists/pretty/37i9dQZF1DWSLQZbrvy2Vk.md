@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,100 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,117 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 2 | [Trouble Man](https://open.spotify.com/track/15pYj5ZiUJgBydzD7w6NbJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Trouble Man: 40th Anniversary Expanded Edition](https://open.spotify.com/album/1yBdCWeYUEthIz8aLxztBB) | 3:48 |
 | 3 | [Love Comes And It Goes](https://open.spotify.com/track/1AkTs10ZxW3HwrQ7mBUgSj) | [Big John Hamilton](https://open.spotify.com/artist/7c8hc2J2n5YQj6pmzs9RO9) | [South Side Of Soul Street: The Minaret Soul Singles 1967\-1976](https://open.spotify.com/album/6iWgRfAcbllTcTanlkoQIn) | 3:34 |
 | 4 | [Won't Nobody Listen](https://open.spotify.com/track/32hF9kyUnQa42pLawXZoOW) | [Black Haze Express](https://open.spotify.com/artist/5EcqchmRRBZNjTBStr4TEQ) | [Won't Nobody Listen](https://open.spotify.com/album/2vF8vPq8273HVhk5NgxEGs) | 4:15 |
-| 5 | [Apopse Tin Kithara Mou](https://open.spotify.com/track/2WuxJtsORqwP7c575Incvy) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I) | [Ellinikos Kinimatografos](https://open.spotify.com/album/4KLBNfZWxNZz2saXOFSWqK) | 2:37 |
+| 5 | [Apopse Tin Kithara Mou](https://open.spotify.com/track/2WuxJtsORqwP7c575Incvy) | [Mimis Plessas](https://open.spotify.com/artist/7emTBOtoCY4wkakcYrJ21I), [Orhistra Tis Chrysis Epohis](https://open.spotify.com/artist/5xOmh1p3kgcoyVpjO4LxKG) | [Ellinikos Kinimatografos](https://open.spotify.com/album/4KLBNfZWxNZz2saXOFSWqK) | 2:37 |
 | 6 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 7 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:48 |
 | 8 | [I Don’t Know What It Is, But It Sure Is Funky](https://open.spotify.com/track/0M8Bgyd1DSROXVP0y2Z9Yw) | [Ripple](https://open.spotify.com/artist/3oLqEQCc3rk0vKKwrCaJZA) | [But It Sure Is Funky](https://open.spotify.com/album/3tNDUC7Rfwx6wFNt9ZXNXq) | 3:27 |

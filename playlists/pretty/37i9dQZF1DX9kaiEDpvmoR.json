@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93770,
+  "num_followers": 93766,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 169133,
       "name": "Enough Is Enough",
       "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 195139,
       "name": "St\u00f6rst av allt",
       "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
         "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
         "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 270875,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Just to Make You Laugh",
-        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 188488,
-      "name": "Just to Make You Laugh",
-      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
         "name": "F\u00f6rloraren",
         "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
+        "name": "Just to Make You Laugh",
+        "url": "https://open.spotify.com/album/61RBQcj4nLu3fuPEJexpHF"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 188488,
+      "name": "Just to Make You Laugh",
+      "url": "https://open.spotify.com/track/0WFDKbJBDv64fqiT8ulDyD"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
         "name": "L\u00e5ngholmsgatan 2",
         "url": "https://open.spotify.com/album/6i7vOaZpfoy0qyYCocPAJM"
       },
@@ -703,38 +703,6 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
-        "name": "F\u00f6r evigt ny",
-        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 248624,
-      "name": "F\u00f6r evigt ny",
-      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -775,6 +759,22 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
+        "name": "F\u00f6r evigt ny",
+        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 248624,
+      "name": "F\u00f6r evigt ny",
+      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
         "name": "The First Time Ever I Saw Your Face (with Hozier)",
         "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
       },
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 279186,
       "name": "Tro",
       "url": "https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+        "name": "Andetag (Man m\u00e5ste leva nu)",
+        "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
       "artists": [
         {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j"
         }
       ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+      "duration_ms": 215546,
+      "name": "Andetag (Man m\u00e5ste leva nu)",
+      "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Andetag (Man m\u00e5ste leva nu)",
-        "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
       },
       "artists": [
         {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j"
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Andetag (Man m\u00e5ste leva nu)",
-      "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 179719,
+      "name": "Little Richard\u2019s Bible",
+      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
         "name": "Mjuk extas",
         "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 271875,
       "name": "L\u00e4gg den h\u00e4r, bredvid min",
       "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
-        "name": "Graven vid Gullmars",
-        "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
-      },
-      "artists": [
-        {
-          "name": "Mira Ray",
-          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
-        },
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "duration_ms": 299098,
-      "name": "Graven vid Gullmars",
-      "url": "https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+        "name": "Graven vid Gullmars",
+        "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Mira Ray",
+          "url": "https://open.spotify.com/artist/1CqqL8tzrLhMjrZcFTItul"
         },
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
         }
       ],
-      "duration_ms": 179719,
-      "name": "Little Richard\u2019s Bible",
-      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+      "duration_ms": 299098,
+      "name": "Graven vid Gullmars",
+      "url": "https://open.spotify.com/track/3ehrThyttZSbERKzCbOGKv"
     },
     {
       "added_at": "2025-11-20 23:00:57",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-11-20 23:00:57",
       "album": {
-        "name": "Uteblivna vi",
-        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Uteblivna vi",
-      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
-    },
-    {
-      "added_at": "2025-11-20 23:00:57",
-      "album": {
         "name": "\u00c4lskade v\u00e4n",
         "url": "https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 199336,
       "name": "\u00c4lskade v\u00e4n",
       "url": "https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh"
+    },
+    {
+      "added_at": "2025-11-20 23:00:57",
+      "album": {
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
     },
     {
       "added_at": "2025-11-20 23:00:57",

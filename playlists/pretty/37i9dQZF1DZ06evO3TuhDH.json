@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18841,
+  "num_followers": 18848,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADAKf/SuWxU55RbeOh9n5eK",
+  "snapshot_id": "aSOgAAAAAADm8I9LRse+w5u6dzBoPhfZ",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TWINNEM (Remix)",
-        "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "TWINNEM (Remix) (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Land Of Nothing Real 2",
         "url": "https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 198670,
       "name": "CUFFIN (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TWINNEM (Remix)",
+        "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "TWINNEM (Remix) (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 135613,
       "name": "Black Rose",
       "url": "https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 168013,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/2U2PWiUPxeKBipJrPlTW3u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thieves In Atlanta (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 192048,
-      "name": "Thieves In Atlanta (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1738 (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/5FHpY4unp7zyZiffidiaUm"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 230293,
       "name": "1738 (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/4dwUU7nwU1zKapVA4ebO7H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thieves In Atlanta (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/5NaBcPMcvwIRCLw3wjlkod"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 192048,
+      "name": "Thieves In Atlanta (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/0O6vnplGquhXRh0Zghyr8w"
     },
     {
       "added_at": null,

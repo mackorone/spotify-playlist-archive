@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,776 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,785 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 48 | [Samba Pras Moças \- Remastered 2020](https://open.spotify.com/track/6yzCe61NytUn7FXQAneiLr) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Samba Pras Moças \(Remastered\)](https://open.spotify.com/album/1r0CyGhPtjXHJgkiGS6Xii) | 4:58 |
 | 49 | [Na veia \(Participação especial de Marcelo D2\)](https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3), [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Na Veia](https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH) | 3:08 |
 | 50 | [Herança de Partideiro](https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F) | [Casuarina](https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [+ 100](https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf) | 2:31 |
-| 51 | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \- 20 anos de História, Ao Vivo](https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu) | [Gabrielzinho Do Irajá](https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA), [Enzo Belmonte](https://open.spotify.com/artist/7ze7TSj6bDuk5OUNp9HjMJ) | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \(20 anos de História, Ao Vivo\)](https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR) | 5:25 |
-| 52 | [Nosso Bem Maior](https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Nosso Bem Maior](https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v) | 4:03 |
+| 51 | [Nosso Bem Maior](https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Nosso Bem Maior](https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v) | 4:03 |
+| 52 | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \- 20 anos de História, Ao Vivo](https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu) | [Gabrielzinho Do Irajá](https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA), [Enzo Belmonte](https://open.spotify.com/artist/7ze7TSj6bDuk5OUNp9HjMJ) | [São José De Madureira / Camarão Que Dorme A Onda Leva / Água Da Minha Sede \(20 anos de História, Ao Vivo\)](https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR) | 5:25 |
 | 53 | [Rede Velha](https://open.spotify.com/track/1iGq7wW6mRBP2vapsJeE3o) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Rede Velha](https://open.spotify.com/album/6b0W58L6bB0jocKbIunaRa) | 3:12 |
 | 54 | [Coração Imprudente](https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Grupo Semente](https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36) | [Fundamental \- Teresa Cristina e Grupo Semente](https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv) | 2:36 |
 | 55 | [Traço De União](https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Traço De União](https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB) | 3:31 |

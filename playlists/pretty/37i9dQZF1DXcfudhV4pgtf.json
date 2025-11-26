@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:7icoOm5fKKPo49jVxoj1Cq\">Anfisa Letyago</a>'s favorite tracks. Updated regularly. Curated by Anfisa Letyago. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 28676,
+  "num_followers": 28679,
   "original_name": "Anfisa Letyago's track IDs",
   "owner": {
     "name": "Spotify",
@@ -240,12 +240,12 @@
       },
       "artists": [
         {
-          "name": "Oliver Lieb",
-          "url": "https://open.spotify.com/artist/2dqtBtTSq5NdsycqQlKvVN"
-        },
-        {
           "name": "L.S.G.",
           "url": "https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA"
+        },
+        {
+          "name": "Oliver Lieb",
+          "url": "https://open.spotify.com/artist/2dqtBtTSq5NdsycqQlKvVN"
         }
       ],
       "duration_ms": 236244,

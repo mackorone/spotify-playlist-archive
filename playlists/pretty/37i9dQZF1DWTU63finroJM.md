@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: LUKAS OSCAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,723 likes - 24 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,715 likes - 24 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 3 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
 | 4 | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu) | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY) | 2:20 |
 | 5 | [Peluk](https://open.spotify.com/track/2PkNwX4SGsBpO31fvOg5oM) | [Hael Husaini](https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL), [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Peluk](https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q) | 4:03 |
-| 6 | [poukwa \(elle m'demande\)](https://open.spotify.com/track/3KECoEpKXUzZhkrZra1TAZ) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9 DE LUXE](https://open.spotify.com/album/3VrVgrYmoqSgiEp8zfMSv7) | 2:25 |
-| 7 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
+| 6 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
+| 7 | [poukwa \(elle m'demande\)](https://open.spotify.com/track/3KECoEpKXUzZhkrZra1TAZ) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9 DE LUXE](https://open.spotify.com/album/3VrVgrYmoqSgiEp8zfMSv7) | 2:25 |
 | 8 | [懂事得可以](https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [UNLOCKED](https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn) | 3:49 |
 | 9 | [浪漫致死](https://open.spotify.com/track/374W8rmTZqcf7UTqpgVGcY) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [浪漫致死](https://open.spotify.com/album/5IfCa02BJLNx9Nzg91UNBr) | 2:51 |
 | 10 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |

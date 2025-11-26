@@ -723,22 +723,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Tunnel Vision",
-        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 237280,
-      "name": "Always Jesus",
-      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "duration_ms": 237280,
+      "name": "Always Jesus",
+      "url": "https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 500500,
+      "name": "Waymaker (Live)",
+      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -1431,26 +1447,6 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "The Cry: A Live Worship Experience",
-        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        },
-        {
-          "name": "Daniel Johnson",
-          "url": "https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN"
-        }
-      ],
-      "duration_ms": 467186,
-      "name": "Finished Work - Live From Chattanooga, TN",
-      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+        "name": "The Cry: A Live Worship Experience",
+        "url": "https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b"
       },
       "artists": [
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "Daniel Johnson",
+          "url": "https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN"
         }
       ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
+      "duration_ms": 467186,
+      "name": "Finished Work - Live From Chattanooga, TN",
+      "url": "https://open.spotify.com/track/3jvbdyrWcjXxAXGwbubycq"
     },
     {
       "added_at": "2025-04-06 05:34:41",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
         "name": "Bishop Paul Morton - Let It Rain",
         "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
       },
@@ -1523,38 +1539,6 @@
     {
       "added_at": "2025-04-06 05:34:41",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
-      },
-      "artists": [
-        {
-          "name": "William McDowell",
-          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
-        }
-      ],
-      "duration_ms": 401266,
-      "name": "I Surrender All",
-      "url": "https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
-        "name": "Way Maker (Live)",
-        "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 500500,
-      "name": "Waymaker (Live)",
-      "url": "https://open.spotify.com/track/1cWzzfQCJWqhgaEVO2Ca4l"
-    },
-    {
-      "added_at": "2025-04-06 05:34:41",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 273963,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2025-04-06 05:34:41",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "duration_ms": 401266,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa"
     },
     {
       "added_at": "2025-04-06 05:34:41",

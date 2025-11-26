@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-487 songs - 1 day 6 hr 45 min
+488 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-03-16 | 2023-03-23 |
 | [how many times](https://open.spotify.com/track/4gg6FpCTrY1qA6RboNeyJY) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Intro](https://open.spotify.com/album/4QiOFIkalboEAZI1jaDgo1) | 3:56 | 2023-06-13 | 2023-07-03 |
 | [hug.](https://open.spotify.com/track/7MhElI8fkwK5W4w5o8KMQw) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [Crop](https://open.spotify.com/album/1TV3g1CcsSAQcqAtkLp7Dm) | 3:54 | 2023-09-19 | 2023-10-06 |
-| [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 | 2025-06-10 |  |
+| [I hate this love song](https://open.spotify.com/track/0HwDv2bXxdQnGUJhAuGAqG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [I hate this love song](https://open.spotify.com/album/0R8wB8JasgURZHtMHwRjm4) | 3:18 | 2025-06-10 | 2025-11-26 |
 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 | 2023-10-10 | 2023-11-02 |
 | [i love you](https://open.spotify.com/track/583H4PwxDEj4bOcIN2ZQOG) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [i love you](https://open.spotify.com/album/3hdlZbQm127kMJuMYdLJE2) | 3:29 | 2025-10-14 |  |
 | [I LOVE YOU](https://open.spotify.com/track/0AzVDfSdvMgEiFjPWOt6v2) | [Hiroya Ozaki](https://open.spotify.com/artist/1s014jFLnQ8bmkSrioenmP) | [I LOVE YOU](https://open.spotify.com/album/7iPwD21J6LlU47JxL3iiyG) | 4:21 | 2023-03-28 | 2023-04-04 |
@@ -126,6 +126,7 @@
 | [Love Confession](https://open.spotify.com/track/1lWtiO8O8cr2CdbHxxsJaT) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Love Confession](https://open.spotify.com/album/6sGTFfE8eBhYCCuwQUdyLz) | 2:59 | 2025-02-11 | 2025-03-12 |
 | [Love in the EYE](https://open.spotify.com/track/6xlSFLefgdzaUs5PiwwbbS) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Love in the EYE](https://open.spotify.com/album/5X68eZsoTlDru3Kz3q7IHk) | 2:39 | 2025-02-25 | 2025-03-12 |
 | [Love Letter](https://open.spotify.com/track/2FIt86U56hUH4cb4xuGKuJ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Love Letter](https://open.spotify.com/album/4NA1K3pMzd3RaJOFJXYl4m) | 3:22 | 2023-04-05 | 2023-04-06 |
+| [Love Song](https://open.spotify.com/track/2aAuO61alPO20xyePFHjdf) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Love Song](https://open.spotify.com/album/5NWIfXCP5VKNlZmkfDnPuV) | 4:46 | 2025-11-25 |  |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-09-26 | 2023-12-02 |
 | [Love Song](https://open.spotify.com/track/7dPdKXZjt04R6Ne7vWXZIh) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 4:18 | 2023-11-30 | 2024-04-19 |
 | [Love Syndrome](https://open.spotify.com/track/5vz9Mt6ssUXU2yAyRySza9) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Love Syndrome](https://open.spotify.com/album/7zclHBdRYGqdE9yWurx9kU) | 2:52 | 2025-07-01 | 2025-11-12 |

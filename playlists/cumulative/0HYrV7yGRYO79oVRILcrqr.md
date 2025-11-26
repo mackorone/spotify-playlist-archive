@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-174 songs - 10 hr 50 min
+178 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 |  |
 | [Angel Can You Hear Me](https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y) | [Sam Wilson](https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW) | [Optimist](https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln) | 3:32 | 2025-09-03 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-10-06 |  |
+| [Artık](https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG) | [Aras Arslan](https://open.spotify.com/artist/6BKgIw6tXuCQM0UIs6yyEy) | [Artık](https://open.spotify.com/album/7FuyvKt1vQtehzmxiPDi4i) | 4:15 | 2025-11-25 |  |
 | [Au bout de la nuit](https://open.spotify.com/track/5h2b8NmBP1NuDRcj3MiOY2) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Au bout de la nuit](https://open.spotify.com/album/0fWJ5dT5EhIG9BrosvE55D) | 2:25 | 2025-11-03 |  |
 | [BABY GO](https://open.spotify.com/track/5PsTxRwyKfx1S9vsCM1ouT) | [blacknova](https://open.spotify.com/artist/2oiCextt5oQWllMgsAYBNC) | [ORTO / TEMPO \(frequenze\)](https://open.spotify.com/album/5AikHoo7zXd2G33dcx9kyQ) | 2:55 | 2025-11-13 |  |
 | [Baby!](https://open.spotify.com/track/00bSBI6AygGAYnfgkaxume) | [En Man & En Kvinna](https://open.spotify.com/artist/71ImAICJS2JHrnhQhyCFNX), [Mathijs Van Woerkum](https://open.spotify.com/artist/2SPEwMEX1f3kBWrtIeFxFj) | [Baby!](https://open.spotify.com/album/5ugD2jsFmarYmQd0vAgdw1) | 4:55 | 2025-11-05 |  |
@@ -67,6 +68,7 @@
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2025-09-26 |  |
 | [Especial](https://open.spotify.com/track/7loutfpfEG6vueLszoVZ7S) | [ZETA fvd](https://open.spotify.com/artist/0CbWaaBJmzKzenlZcLgUk5) | [Especial](https://open.spotify.com/album/2ckbNjxdwiDfmRetZf6bUN) | 3:56 | 2025-11-24 |  |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 |  |
+| [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 |  |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 |  |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 |  |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 |  |
@@ -122,6 +124,7 @@
 | [On The Southern Side Of The Road](https://open.spotify.com/track/20BJZCg4s6SmJs8ThVthqI) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [On The Southern Side Of The Road](https://open.spotify.com/album/3RQ3spw3yLGclZHbzNiA31) | 3:31 | 2025-10-27 |  |
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 |  |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 |  |
+| [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 |  |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 |  |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 |  |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-09-29 |  |
@@ -131,6 +134,7 @@
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 |  |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |
+| [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 |  |
 | [Running \- Acoustic Version](https://open.spotify.com/track/5jEbpt1f9Juw7UTdu67SRJ) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [The Classics of Love](https://open.spotify.com/album/3012TUcrbqKtJ3hTsQsvvh) | 2:29 | 2025-10-01 |  |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 |  |
 | [Selling Marilyn](https://open.spotify.com/track/2YK61LSjiXDFmggC3TwVWG) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Selling Marilyn](https://open.spotify.com/album/4q8tEkFrhMyaET5LA0vKuy) | 3:23 | 2025-10-04 |  |

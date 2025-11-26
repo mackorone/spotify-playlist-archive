@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122584,
+  "num_followers": 122621,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADJN7bRB5yU3VmBPBRCJlW3",
+  "snapshot_id": "aSOgAAAAAAAGd3b+nb/LKqtUDACjY//8",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+        "name": "Essential Standards (eBooklet)",
+        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+      "duration_ms": 304906,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards (eBooklet)",
-        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 304906,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
         "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
       },
@@ -451,22 +435,6 @@
       "duration_ms": 255640,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Essential Standards",
-        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 172426,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
     },
     {
       "added_at": null,
@@ -487,6 +455,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Essential Standards",
+        "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 189226,
       "name": "Dancing on the Ceiling",
       "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "You'd Be So Nice To Come Home To - Mono",
+      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 276827,
-      "name": "You'd Be So Nice To Come Home To - Mono",
-      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 186466,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker & Strings",
+        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker & Strings",
-        "url": "https://open.spotify.com/album/6dngHguvEgUGdmjR79OC7S"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/3dV42xSB7JYqvYdmP3Bolo"
     },
     {
       "added_at": null,

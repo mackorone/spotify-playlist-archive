@@ -2,9 +2,9 @@
 
 ### [Christmas K\-Pop \(크리스마스 케이팝\)](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
 
-> Enjoy the wonderful holiday season with K\-Pop! \(Cover: SAAY\)
+> Enjoy the wonderful holiday season with K\-Pop! \(Cover: tripleS\)
 
-234 songs - 13 hr 42 min
+235 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Celebrate](https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Celebration \- The 11th Album Vol.2](https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny) | 3:33 | 2022-12-15 |  |
 | [Christmas Again](https://open.spotify.com/track/1CNmcZ0bv30xYUTPiftBtS) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/6OMA4TLlpQnbfCpx4s6Cmc) | 3:46 | 2024-12-06 | 2025-10-09 |
 | [Christmas Again](https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Christmas Again](https://open.spotify.com/album/5svceOWCU5WtrzUWxS9xHu) | 3:46 | 2021-12-21 | 2024-08-14 |
+| [Christmas Alone](https://open.spotify.com/track/7Cw0Rilu6NxA6IbyCjvhT6) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:51 | 2025-11-25 |  |
 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 | 2024-01-05 |  |
 | [Christmas EveL](https://open.spotify.com/track/0hnsWcb5a4H3IpAbSXeLPg) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/6bW2FgR93NYexY1fuHtUyi) | 2:58 | 2021-12-21 | 2022-07-29 |
 | [Christmas EveL](https://open.spotify.com/track/5npCUsfrlhdyjxyCa32maW) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Christmas EveL](https://open.spotify.com/album/1qVuQI0WRn2Mczbdxx54Ih) | 2:58 | 2021-12-21 | 2024-04-19 |
@@ -204,7 +205,7 @@
 | [welove Christmas](https://open.spotify.com/track/4e7G7lhG4j0C6g0UX00Rej) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/0VmQEAqP4FlTZRRWDO4KlN) | 2:45 | 2023-12-22 | 2024-02-13 |
 | [What I Want For Christmas](https://open.spotify.com/track/1f8y9dfpCSBW7BJRfOjop7) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life \- Winter Special Album, 2016](https://open.spotify.com/album/2c0FB7FpgF1ORH5k5w32Ft) | 3:22 | 2021-12-21 | 2022-07-29 |
 | [What I Want For Christmas](https://open.spotify.com/track/6LYw9XyG9AQSQF178FKjIO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life](https://open.spotify.com/album/3bMotSQLWVaBRY8VpBI3eM) | 3:22 | 2021-12-21 | 2024-04-19 |
-| [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) | 3:05 | 2021-12-21 |  |
+| [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When It Snows mmm \(feat\. Wheein\)](https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3) | 3:05 | 2021-12-21 | 2025-11-26 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-21 |  |
 | [When You Say My Name](https://open.spotify.com/track/1LFFqnGA8n1QHlNcobioF8) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Winter Glow](https://open.spotify.com/album/6ZnV6RIYCZdozre4yDzIOu) | 3:31 | 2024-12-10 |  |
 | [White](https://open.spotify.com/track/3x2WPJdU4Rl2UOgYZyTJje) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [White](https://open.spotify.com/album/2kHbfJSatQE5KAglEKS4dA) | 3:56 | 2023-12-27 |  |

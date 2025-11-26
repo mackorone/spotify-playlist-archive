@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,594 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,589 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 15 | [Stranger](https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 3:21 |
 | 16 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 |
 | 17 | [Good Ol' Days](https://open.spotify.com/track/7BZFBA47IscACSmuGZ67On) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv) | 3:23 |
-| 18 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
-| 19 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
+| 18 | [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 |
+| 19 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
 | 20 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 21 | [This Version Of Us](https://open.spotify.com/track/3ZhgC1o5jAR5pRZvEQ1RJ1) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:10 |
 | 22 | [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:40 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 58 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 59 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |
 | 60 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
-| 61 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
-| 62 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
+| 61 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
+| 62 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
 | 63 | [Break Up With Me](https://open.spotify.com/track/0ualOeipm7OUuUDHe7UUUC) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Break Up With Me](https://open.spotify.com/album/3c31zFKjajk8rpg9No0iuW) | 2:39 |
 | 64 | [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 |
 | 65 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 77 | [i’m too pretty for this](https://open.spotify.com/track/5GHDLL8nYL4dKing77xBiQ) | [Leyla Ebrahimi](https://open.spotify.com/artist/52yWTbMGFG2xpM86QddMvR) | [i’m too pretty for this](https://open.spotify.com/album/7wkhOxwlPuKIzZAbonRET7) | 4:01 |
 | 78 | [hang on the wall what you kill](https://open.spotify.com/track/3ThXubZEb1x9U8AgfYCq8c) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [hang on the wall what you kill](https://open.spotify.com/album/6wTZVm4bY9bTV57xS4G4b2) | 2:27 |
 | 79 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
-| 80 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 |
-| 81 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |
+| 80 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |
+| 81 | [GIVE IN](https://open.spotify.com/track/7DvaIxndt396r0LJeXSe3j) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [GIVE IN](https://open.spotify.com/album/5tRfIKrXKuaIIcuwIuYr2o) | 2:55 |
 | 82 | [Silhouette](https://open.spotify.com/track/1SsL6M9twrTldU3p98mhU3) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Vertigo](https://open.spotify.com/album/5gp3ITvPT0U9jxp3e0sz6R) | 2:37 |
 | 83 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
 | 84 | [In the middle](https://open.spotify.com/track/2wVUvuhjTEBX1UHS15GNJS) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [In the middle](https://open.spotify.com/album/1vsuqdkQj3U6avr1aeqEHL) | 2:49 |
 | 85 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
-| 86 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |
-| 87 | [Wade](https://open.spotify.com/track/0nLL5geExfqitGFZTgh3kD) | [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Wade](https://open.spotify.com/album/1YFyvSlylM5oc8OF7oZtTn) | 3:54 |
-| 88 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 |
-| 89 | [Rodeo](https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm) | [Girl Math](https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rodeo](https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2) | 3:23 |
+| 86 | [Wade](https://open.spotify.com/track/0nLL5geExfqitGFZTgh3kD) | [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Wade](https://open.spotify.com/album/1YFyvSlylM5oc8OF7oZtTn) | 3:54 |
+| 87 | [Rodeo](https://open.spotify.com/track/3KtJMh6nkI5Sv8YUayxsKm) | [Girl Math](https://open.spotify.com/artist/5ME3kZ92gTA4IcXDauJmz5), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rodeo](https://open.spotify.com/album/4lUpiJgxMtkPx0NIQH1uV2) | 3:23 |
+| 88 | [Faded Polaroids](https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Songs From Faded Polaroids](https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci) | 2:55 |
+| 89 | [Sweet Tea](https://open.spotify.com/track/3fDNDxcos3RuOHpkm1Qc4N) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Sweet Tea](https://open.spotify.com/album/53IZCUuAD64yVuiqXToPO1) | 3:28 |
 | 90 | [turkeys](https://open.spotify.com/track/4agWnEJu8AH8mtH5ZDtr57) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [turkeys](https://open.spotify.com/album/2UNNSNU0tPcjWO9kGfFdZ5) | 2:56 |
 
 Snapshot ID: `AAAAAHLKWE44ORhz1t78R4gcv5JNUxnx`

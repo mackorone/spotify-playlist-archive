@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,788 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,850 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 19 | [Let Me Know](https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Let Me Know](https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd) | 2:30 |
 | 20 | [Chasing Ghosts](https://open.spotify.com/track/4uzqcDlCOl0et4pGtfkka5) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Chasing Ghosts](https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4) | 4:12 |
 | 21 | [Last Night](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Last Night](https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib) | 3:42 |
-| 22 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
-| 23 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
+| 22 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 |
+| 23 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
 | 24 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 |
 | 25 | [Love’s A Game](https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Love’s A Game](https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd) | 3:26 |
 | 26 | [Midnight Sun](https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Midnight Sun](https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ) | 3:24 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 56 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 |
 | 57 | [Eusexua \- Anyma Remix](https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Eusexua \(Anyma Remix\)](https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN) | 3:18 |
 | 58 | [Seventeen](https://open.spotify.com/track/7JWcNzIEvT4YIS0hplWZBs) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Seventeen](https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3) | 3:23 |
-| 59 | [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 |
-| 60 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
+| 59 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |
+| 60 | [AIR](https://open.spotify.com/track/3gSIjJhFk9GjUsgD7QjdrF) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [AIR](https://open.spotify.com/album/18gB7JgKL82pJ2SVBsNL2T) | 4:20 |
 
 Snapshot ID: `AAAAAPy1mx0L5ZMMlnU1tEtc64GYVqzf`

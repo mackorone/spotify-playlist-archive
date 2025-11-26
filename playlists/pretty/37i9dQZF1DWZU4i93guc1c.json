@@ -1,6 +1,6 @@
 {
   "description": "X\u0456\u0442\u0438 \u0442\u0430 \u043f\u0440\u043e\u0440\u0438\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u043d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0457 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0457 \u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: \u041a\u0440\u0438\u0445\u0456\u0442\u043a\u0430 & \u0420\u043e\u043c\u0430\u043d \u041d\u0430\u0431\u043e\u0436\u043d\u044f\u043a",
-  "num_followers": 38403,
+  "num_followers": 38404,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
-        "name": "WAKE UP",
-        "url": "https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg"
-      },
-      "artists": [
-        {
-          "name": "GEZWEIRDO",
-          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
-        }
-      ],
-      "duration_ms": 156862,
-      "name": "WAKE UP",
-      "url": "https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx"
-    },
-    {
-      "added_at": "2025-11-20 22:00:20",
-      "album": {
         "name": "\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u043e! \u0440\u043e\u0437\u0431\u0438\u0442\u0435!",
         "url": "https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
-        "name": "\u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0435 \u041b\u0456\u0442\u043e 25",
-        "url": "https://open.spotify.com/album/6BY8DR5U3i1pNXWHAn4yUc"
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg"
       },
       "artists": [
         {
-          "name": "\u041d\u0438\u0446\u043e \u041f\u043e\u0442\u0432\u043e\u0440\u043d\u043e",
-          "url": "https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY"
+          "name": "GEZWEIRDO",
+          "url": "https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46"
         }
       ],
-      "duration_ms": 228777,
-      "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
-      "url": "https://open.spotify.com/track/7GWTHnTSMhideso0NzMwAX"
+      "duration_ms": 156862,
+      "name": "WAKE UP",
+      "url": "https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx"
     },
     {
       "added_at": "2025-11-20 22:00:20",
@@ -727,6 +711,22 @@
       "duration_ms": 201005,
       "name": "\u041a\u0430\u0442\u0435\u0440\u0438\u043d\u0456",
       "url": "https://open.spotify.com/track/0PoE5zJ7XawYOLktYEiZdp"
+    },
+    {
+      "added_at": "2025-11-20 22:00:20",
+      "album": {
+        "name": "\u041d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0435 \u041b\u0456\u0442\u043e 25",
+        "url": "https://open.spotify.com/album/6BY8DR5U3i1pNXWHAn4yUc"
+      },
+      "artists": [
+        {
+          "name": "\u041d\u0438\u0446\u043e \u041f\u043e\u0442\u0432\u043e\u0440\u043d\u043e",
+          "url": "https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY"
+        }
+      ],
+      "duration_ms": 228777,
+      "name": "\u041c\u043e\u043b\u043e\u0434\u0456\u0441\u0442\u044c",
+      "url": "https://open.spotify.com/track/7GWTHnTSMhideso0NzMwAX"
     },
     {
       "added_at": "2025-11-20 22:00:20",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
+        "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
+        "url": "https://open.spotify.com/album/1B5vHqGUt39Kkb5dKt2T2s"
+      },
+      "artists": [
+        {
+          "name": "Shmiska",
+          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
+        }
+      ],
+      "duration_ms": 159692,
+      "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
+      "url": "https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH"
+    },
+    {
+      "added_at": "2025-11-20 22:00:20",
+      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u0442\u0438 \u043f\u043b\u0430\u0447\u0435\u0448",
         "url": "https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 163200,
       "name": "\u041a\u0432\u0456\u0442\u0438",
       "url": "https://open.spotify.com/track/6rRnmfhYK3krADjlEDCtuf"
-    },
-    {
-      "added_at": "2025-11-20 22:00:20",
-      "album": {
-        "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
-        "url": "https://open.spotify.com/album/1B5vHqGUt39Kkb5dKt2T2s"
-      },
-      "artists": [
-        {
-          "name": "Shmiska",
-          "url": "https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY"
-        }
-      ],
-      "duration_ms": 159692,
-      "name": "\u0411\u0430\u043b\u043a\u043e\u043d",
-      "url": "https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH"
     },
     {
       "added_at": "2025-11-20 22:00:20",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
+        "name": "\u041c\u0430\u0440\u0456\u043e\u043d\u0435\u0442\u043a\u0430",
+        "url": "https://open.spotify.com/album/5PYiozd9Uhh8UXrteJaAUl"
+      },
+      "artists": [
+        {
+          "name": "The Elliens",
+          "url": "https://open.spotify.com/artist/5AxRkX51k8fYDb12ebNJpG"
+        }
+      ],
+      "duration_ms": 203517,
+      "name": "\u041c\u0430\u0440\u0456\u043e\u043d\u0435\u0442\u043a\u0430",
+      "url": "https://open.spotify.com/track/30eZiiJp6tsJjqDoTtV0Jd"
+    },
+    {
+      "added_at": "2025-11-20 22:00:20",
+      "album": {
         "name": "\u0445\u0442\u043e\u0441\u044c \u043a\u043e\u0433\u043e\u0441\u044c",
         "url": "https://open.spotify.com/album/7n1NrKF4Lh3rc0woScsUpe"
       },
@@ -971,18 +987,22 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
-        "name": "\u041c\u0430\u0440\u0456\u043e\u043d\u0435\u0442\u043a\u0430",
-        "url": "https://open.spotify.com/album/5PYiozd9Uhh8UXrteJaAUl"
+        "name": "Bliad (Hrushka)",
+        "url": "https://open.spotify.com/album/06K8hf2YOUMFeZ41mIuFig"
       },
       "artists": [
         {
-          "name": "The Elliens",
-          "url": "https://open.spotify.com/artist/5AxRkX51k8fYDb12ebNJpG"
+          "name": "Yuko",
+          "url": "https://open.spotify.com/artist/02fJjARzvtfuvBPVGC99jR"
+        },
+        {
+          "name": "P. PAT",
+          "url": "https://open.spotify.com/artist/5Gc3NWNa6qMfe3719oLUmc"
         }
       ],
-      "duration_ms": 203517,
-      "name": "\u041c\u0430\u0440\u0456\u043e\u043d\u0435\u0442\u043a\u0430",
-      "url": "https://open.spotify.com/track/30eZiiJp6tsJjqDoTtV0Jd"
+      "duration_ms": 253000,
+      "name": "Bliad - Hrushka",
+      "url": "https://open.spotify.com/track/2RkPD7MB1FdDInM2uvJl2L"
     },
     {
       "added_at": "2025-11-20 22:00:20",
@@ -1003,26 +1023,6 @@
       "duration_ms": 120081,
       "name": "\u0437\u0430\u0431\u0430\u0432\u0441\u044f",
       "url": "https://open.spotify.com/track/6VNyKMoDGkM1GFOAMb1izH"
-    },
-    {
-      "added_at": "2025-11-20 22:00:20",
-      "album": {
-        "name": "Bliad (Hrushka)",
-        "url": "https://open.spotify.com/album/06K8hf2YOUMFeZ41mIuFig"
-      },
-      "artists": [
-        {
-          "name": "Yuko",
-          "url": "https://open.spotify.com/artist/02fJjARzvtfuvBPVGC99jR"
-        },
-        {
-          "name": "P. PAT",
-          "url": "https://open.spotify.com/artist/5Gc3NWNa6qMfe3719oLUmc"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Bliad - Hrushka",
-      "url": "https://open.spotify.com/track/2RkPD7MB1FdDInM2uvJl2L"
     },
     {
       "added_at": "2025-11-20 22:00:20",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
+        "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
+        "url": "https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5"
+      },
+      "artists": [
+        {
+          "name": "\u0442\u0443\u0434\u0438-\u0441\u044e\u0434\u0438 \u0456 \u0441\u043c\u0435\u0440\u0442\u044c",
+          "url": "https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK"
+        }
+      ],
+      "duration_ms": 174221,
+      "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
+      "url": "https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn"
+    },
+    {
+      "added_at": "2025-11-20 22:00:20",
+      "album": {
         "name": "\u0432\u0456\u0440\u0438\u0442\u0438 \u0432 \u043b\u044e\u0434\u0435\u0439",
         "url": "https://open.spotify.com/album/4H9nsri8AaiQqAbFwSOca3"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
-        "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
-        "url": "https://open.spotify.com/album/42iSPBEv84GRXSn2cXSPL5"
-      },
-      "artists": [
-        {
-          "name": "\u0442\u0443\u0434\u0438-\u0441\u044e\u0434\u0438 \u0456 \u0441\u043c\u0435\u0440\u0442\u044c",
-          "url": "https://open.spotify.com/artist/6PnFs3tKw82t1j8q5bxrzK"
-        }
-      ],
-      "duration_ms": 174221,
-      "name": "\u0422\u0430\u043c, \u0434\u0435 \u0437\u043d\u0438\u043a\u0430\u044e\u0442\u044c \u0441\u043b\u0456\u0434\u0438",
-      "url": "https://open.spotify.com/track/4A53rAPieSZpOntfcwCaKn"
-    },
-    {
-      "added_at": "2025-11-20 22:00:20",
-      "album": {
         "name": "\u043d\u0435\u043c\u0430",
         "url": "https://open.spotify.com/album/7EtQTck4YqKkwrSjcNk5K8"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
+        "name": "\u043a\u0444\u0441/\u0430\u0434\u0456\u0434\u0430\u0441",
+        "url": "https://open.spotify.com/album/77zFI6GJwqBA3TiAgM91Le"
+      },
+      "artists": [
+        {
+          "name": "Berliner D\u00f6ner",
+          "url": "https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72"
+        }
+      ],
+      "duration_ms": 124714,
+      "name": "\u043a\u0444\u0441/\u0430\u0434\u0456\u0434\u0430\u0441",
+      "url": "https://open.spotify.com/track/4APcAkmMI4L0VB5eMmjl5C"
+    },
+    {
+      "added_at": "2025-11-20 22:00:20",
+      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/0mU5e3ZwYMDDAhk8rUvSnt"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 187384,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3RXAI58cjgUnuk6heeqY0N"
-    },
-    {
-      "added_at": "2025-11-20 22:00:20",
-      "album": {
-        "name": "\u043a\u0444\u0441/\u0430\u0434\u0456\u0434\u0430\u0441",
-        "url": "https://open.spotify.com/album/77zFI6GJwqBA3TiAgM91Le"
-      },
-      "artists": [
-        {
-          "name": "Berliner D\u00f6ner",
-          "url": "https://open.spotify.com/artist/0xF8vLtcDaxlv4s14moz72"
-        }
-      ],
-      "duration_ms": 124714,
-      "name": "\u043a\u0444\u0441/\u0430\u0434\u0456\u0434\u0430\u0441",
-      "url": "https://open.spotify.com/track/4APcAkmMI4L0VB5eMmjl5C"
     },
     {
       "added_at": "2025-11-20 22:00:20",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-11-20 22:00:20",
       "album": {
-        "name": "\u0414\u0438\u0432\u043d\u0438\u0439 \u0441\u043f\u043e\u043a\u0456\u0439",
-        "url": "https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4"
-      },
-      "artists": [
-        {
-          "name": "Darie Lu",
-          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "\u0414\u0438\u0432\u043d\u0438\u0439 \u0441\u043f\u043e\u043a\u0456\u0439",
-      "url": "https://open.spotify.com/track/29Pa0G0nrVe7ags8SGXz30"
-    },
-    {
-      "added_at": "2025-11-20 22:00:20",
-      "album": {
         "name": "\u043c\u0443\u043d\u043b\u0430\u0439\u0442",
         "url": "https://open.spotify.com/album/2lvPf1aFDEDtPfX6zVStK5"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 126857,
       "name": "\u043c\u0443\u043d\u043b\u0430\u0439\u0442",
       "url": "https://open.spotify.com/track/00TKkaqkpJgRUlZBkzBBQd"
+    },
+    {
+      "added_at": "2025-11-20 22:00:20",
+      "album": {
+        "name": "\u0414\u0438\u0432\u043d\u0438\u0439 \u0441\u043f\u043e\u043a\u0456\u0439",
+        "url": "https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4"
+      },
+      "artists": [
+        {
+          "name": "Darie Lu",
+          "url": "https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "\u0414\u0438\u0432\u043d\u0438\u0439 \u0441\u043f\u043e\u043a\u0456\u0439",
+      "url": "https://open.spotify.com/track/29Pa0G0nrVe7ags8SGXz30"
     },
     {
       "added_at": "2025-11-20 22:00:20",

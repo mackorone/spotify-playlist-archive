@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-970 songs - 2 day 16 hr 0 min
+971 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [XXX](https://open.spotify.com/track/3fMYdbxKBDKtLa1HB9iBDK) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [XXX \(Deluxe Version\)](https://open.spotify.com/album/3vyMhFtK8R0cFoMfnBfztb) | 1:50 | 2023-03-28 | 2023-12-14 |
 | [Yer Brothers](https://open.spotify.com/track/7MQjOPsj0Mfi8HLUUC0mEP) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr), [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4), [Nick Wilkerson](https://open.spotify.com/artist/3QiX2OujsOt08Qx3ZbzNbp), [Dragon Inn 3](https://open.spotify.com/artist/4R9OjGQDdKY8sjNSEG5CiR) | [Exquisite Corpse](https://open.spotify.com/album/11aSgmA8YPBrEfJ536AcsA) | 2:02 | 2024-03-04 |  |
 | [Yonder](https://open.spotify.com/track/7LW269UGA2IwIiYLhIH2JP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Agor](https://open.spotify.com/album/2mFlkozkxXwCdQgztSucRz) | 1:41 | 2024-02-14 |  |
+| [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/6ZwdMyNfYEejW0ADt7pZy8) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 2:54 | 2025-11-25 |  |
 | [You Can Get It](https://open.spotify.com/track/18L6KppkJ3SzdM169N0Xbh) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:02 | 2023-04-12 | 2023-05-15 |
 | [you in everything](https://open.spotify.com/track/7qE5nzW83u1ZSiblQv37lx) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 6:51 | 2022-07-04 |  |
 | [You Know It's True](https://open.spotify.com/track/1RsK9pZTstZBOFdcDxrAyB) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Lazer Guided Melodies](https://open.spotify.com/album/0kfT6lwFmXyepSvoItP4sa) | 3:39 | 2022-09-13 |  |

@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Pash
 
-1,494 songs - 3 day 2 hr 29 min
+1,495 songs - 3 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -607,7 +607,7 @@
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-12-23 | 2023-03-11 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-05 | 2023-07-22 |
 | [How Long](https://open.spotify.com/track/3ntYF8MmJNzrMshD7ofFxU) | [Rec Hall](https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97) | [How Long](https://open.spotify.com/album/3xW517EjeSgYvBR95zFxRD) | 2:45 | 2024-04-27 | 2024-06-29 |
-| [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 |  |
+| [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2025-11-26 |
 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 | 2024-04-12 | 2024-06-01 |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 | 2022-05-07 |
 | [Hurt My Feelings](https://open.spotify.com/track/5VuJUyQa6doN53RMjjNo65) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Hurt My Feelings](https://open.spotify.com/album/5FRAelEQwWoSJgZ6liCJzs) | 2:56 | 2022-06-10 | 2022-08-06 |
@@ -1360,6 +1360,7 @@
 | [Try](https://open.spotify.com/track/5gqGq4xbGAypDUD6YZVIUG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Try](https://open.spotify.com/album/2R40H2ayJTqBjqHWLvYuTp) | 2:16 | 2024-02-23 | 2024-04-19 |
 | [Tuesday](https://open.spotify.com/track/7tNHLrbkBhU6xh0GL0gTtQ) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Till Next Time](https://open.spotify.com/album/4II5QvivVfEYgeuZf0kYfT) | 2:08 | 2023-06-23 | 2023-09-09 |
 | [Tunnel Vision](https://open.spotify.com/track/0OUyKkP7ZWv0RgiGur1cCR) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Tunnel Vision](https://open.spotify.com/album/5JMEkkyal1BkdnChE76AzY) | 3:24 | 2024-12-13 | 2025-01-25 |
+| [Turbulence](https://open.spotify.com/track/0jNdXLmiIK7vlgP9Ia1tVQ) | [LURO](https://open.spotify.com/artist/0a1xU25hcAVk5yvxwAiaLN) | [Turbulence](https://open.spotify.com/album/5PpKgHT2abrFWgDC787kkW) | 3:22 | 2025-11-25 |  |
 | [Turtleneck](https://open.spotify.com/track/5knZIccn4zf6Aeh98u744x) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Turtleneck](https://open.spotify.com/album/7mZZf1EqXH17Pbo7QKmZms) | 3:28 | 2024-06-14 | 2024-08-10 |
 | [Twin Flame](https://open.spotify.com/track/1bEgyMW0qkchQo6n3lrHp2) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Twin Flame](https://open.spotify.com/album/78dPFW1kVn6CvDKFhz6MOF) | 3:45 | 2025-07-18 | 2025-09-28 |
 | [TWO SUGARS](https://open.spotify.com/track/5rZrM1ppBHmHogxLcw8wtH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [HDTV](https://open.spotify.com/album/6TIzz9Z4n03E5USTDzBweS) | 2:55 | 2022-09-16 | 2023-03-04 |

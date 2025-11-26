@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Nothing",
+        "url": "https://open.spotify.com/album/3tOaw3YiWcPrrqLKuDxTHK"
+      },
+      "artists": [
+        {
+          "name": "Sheppard",
+          "url": "https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Beautiful Nothing",
+      "url": "https://open.spotify.com/track/1kFojchtdHTel9dzdLNMEm"
+    },
+    {
+      "album": {
         "name": "BED",
         "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
       },
@@ -10318,7 +10336,7 @@
       ],
       "date_added": "2019-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 320680,
       "name": "Love Shack",
       "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
@@ -10416,6 +10434,24 @@
       "duration_ms": 255066,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/3sxMjlC6D0jog23QluyqSK"
+      },
+      "artists": [
+        {
+          "name": "Made You Look",
+          "url": "https://open.spotify.com/artist/6NiKH0kJ369ktMkI85tJFl"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207043,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/2Z6RPzHFMlpqqYFt5FIkuH"
     },
     {
       "album": {
@@ -14046,7 +14082,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"

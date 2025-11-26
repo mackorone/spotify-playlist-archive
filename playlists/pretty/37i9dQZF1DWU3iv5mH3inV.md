@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow pa to el mundo\. Foto: mhtresuno
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,412 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,409 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 4 | [Etel](https://open.spotify.com/track/7eu7zC7BQd6kOq3qgOTmf4) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Etel](https://open.spotify.com/album/23DjBf4OM8IdpwEU0tHyTM) | 2:19 |
 | 5 | [Maldición](https://open.spotify.com/track/6GkjBM5a2BPGYukETXcetc) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 1:50 |
 | 6 | [WEPA](https://open.spotify.com/track/6QDuwTuYA3OsqyHB9l98YA) | [El Mello 06](https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo), [Lil Voz El Dominicano](https://open.spotify.com/artist/094myshjkfowLebPMenCZ8), [Yomal El Maestro](https://open.spotify.com/artist/5NCc0eK7323Bk9mqx5IBNi) | [WEPA](https://open.spotify.com/album/66hWl94AYivVgj0lsQXiYJ) | 1:53 |
-| 7 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
+| 7 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
 | 8 | [Voltio](https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Voltio](https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03) | 1:54 |
 | 9 | [Suave](https://open.spotify.com/track/3D9d0PEHfC9PqQAwKKljDv) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Suave](https://open.spotify.com/album/6TCL50P86nu90beJunHMdV) | 2:30 |
 | 10 | [MIAMI](https://open.spotify.com/track/1icArN1DYAfijXGShx9llW) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Track 4 + Track 14](https://open.spotify.com/album/6Q496E7ViJao8G4N4aDqbJ) | 2:14 |

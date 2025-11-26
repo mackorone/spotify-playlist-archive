@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 447 likes - 472 songs - 1 day 0 hr 30 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 447 likes - 474 songs - 1 day 0 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -480,5 +480,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 470 | [Vamos A La Playa](https://open.spotify.com/track/0yspwHZDIr9AGqD2NmSNrc) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF) | [Vamos A La Playa](https://open.spotify.com/album/10ZpTebByNNtpQKYVSNkwU) | 2:06 |
 | 471 | [DEL BARRIO SOY](https://open.spotify.com/track/6efYvzaUS5vm5UP4zLNlwP) | [JDHXXVI](https://open.spotify.com/artist/26GSmfnmtS0DMD8AU3DToM), [dleongoatprdc](https://open.spotify.com/artist/5eJdZWTjF565VYcJtMhQ4Y) | [DEL BARRIO SOY](https://open.spotify.com/album/4QBJUjp12DiUbDNtjrc1Gx) | 1:44 |
 | 472 | [Lux Æcademia: Androids Forever](https://open.spotify.com/track/31X6rWs3L404onztbBLs2B) | [ΠϢΑϪЄ](https://open.spotify.com/artist/3MkDPKEYw7KgH2WZuCvrPO) | [The First Explorers Of Earth](https://open.spotify.com/album/0tpJ21XRrenBcwj5wGWUMa) | 3:08 |
+| 473 | [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 |
+| 474 | [Boo\-tiful Night](https://open.spotify.com/track/6ZfIawixU7GTjeIlHsljcN) | [ELGA Music](https://open.spotify.com/artist/1tvHQYOl0BTk4ZI1BTkcab) | [Owl You Need For Halloween](https://open.spotify.com/album/5x3j84Ug8diVOCvkVGZ4KI) | 2:10 |
 
-Snapshot ID: `AAAW+ShBlBDXoTDGPuySnj7SGgRUb12I`
+Snapshot ID: `AAAW+y9arI44UbXq6t8eooctb1PMBZJX`

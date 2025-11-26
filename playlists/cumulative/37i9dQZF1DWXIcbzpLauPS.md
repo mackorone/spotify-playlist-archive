@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Architects
 
-1,415 songs - 3 day 14 hr 24 min
+1,416 songs - 3 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Fade](https://open.spotify.com/track/1V4inJk5yBs6RnpRk9R7ba) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Fade](https://open.spotify.com/album/7cFNlL6pXQpLXRn09MvdsI) | 2:51 | 2024-08-12 | 2024-11-09 |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 | 2023-02-18 |
 | [Fading Fast](https://open.spotify.com/track/4cFepTylSUeNpm4cL2Y79m) | [LIMBS](https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX) | [Fading Fast](https://open.spotify.com/album/300WjK5JrLqUWcpiI5h9B3) | 3:30 | 2025-02-21 | 2025-04-26 |
+| [fading faster](https://open.spotify.com/track/5FUPL6Nis7lHEMWsgar3gV) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [liminal](https://open.spotify.com/album/0KgQQBn420fOjGTUuOkO7p) | 2:56 | 2025-11-21 |  |
 | [Fail Me](https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Fail Me](https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl) | 2:59 | 2021-12-17 | 2022-01-22 |
 | [Failstate](https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Failstate](https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT) | 3:02 | 2024-08-12 | 2024-12-19 |
 | [Failure](https://open.spotify.com/track/37yw6KxtQvrEFoGgaPKDk1) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Failure](https://open.spotify.com/album/3B0vlKulcSXR2awd0t7JUU) | 4:01 | 2025-10-24 |  |
@@ -915,7 +916,7 @@
 | [Paradigm Trigger](https://open.spotify.com/track/5sHywETRouJFGWns4QKKlp) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Paradigm Trigger / Angels Weep](https://open.spotify.com/album/1yESM99I8dgP2XBl6gTDkZ) | 3:21 | 2024-02-09 | 2024-03-09 |
 | [PARADOX](https://open.spotify.com/track/4KZUetMsBaYdvWcLQ3bF3x) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm) | [PARADOX](https://open.spotify.com/album/5LqNAnY30ZnanfbMfqkgmb) | 3:20 | 2025-09-19 | 2025-11-12 |
 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 | 2024-07-12 | 2024-09-21 |
-| [Paralyzed](https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Paralyzed](https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE) | 3:09 | 2025-10-03 |  |
+| [Paralyzed](https://open.spotify.com/track/59KSuPsR2uzx7nKoFj3Bf3) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Paralyzed](https://open.spotify.com/album/60vVun2EgKk6rt9ww8fLDE) | 3:09 | 2025-10-03 | 2025-11-26 |
 | [Parasite](https://open.spotify.com/track/4V004qkJIj2kvRUvA28LI3) | [Abyss Walker](https://open.spotify.com/artist/0gJ0dOw0r6daBMmJr6ROvQ), [Sammy SlamDance](https://open.spotify.com/artist/64LYfCjQQZTG2ygTRfFzk1), [Nick Cross](https://open.spotify.com/artist/0YSnq2dV2heq3fiu5kacmH), [Divisive](https://open.spotify.com/artist/7J0ZwYG57Ruw6ExLKls9PC) | [Parasite](https://open.spotify.com/album/0Tr8yRpp0crtdCltwINpYP) | 3:51 | 2022-07-13 | 2022-07-22 |
 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 | 2023-02-24 | 2024-02-10 |
 | [Parting Ways](https://open.spotify.com/track/02z82YXVP6bQlIUt7r3gK5) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Parting Ways](https://open.spotify.com/album/0lQzY4FbjBmUeOWceO268U) | 4:58 | 2025-08-15 | 2025-09-27 |

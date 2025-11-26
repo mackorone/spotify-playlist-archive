@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,614 likes - 107 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,924 likes - 107 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 106 | [Perdón pero con estas gafas no te escucho nada](https://open.spotify.com/track/1CD3JzkGVGylR2NpBgu3Qu) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Perdón pero con estas gafas no te escucho nada](https://open.spotify.com/album/6h1wX7CQWb04qZRzMYFF4O) | 1:58 |
 | 107 | [ya soy, ya tengo](https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb) | [Tarsitano](https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG) | [ya soy, ya tengo](https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L) | 4:09 |
 
-Snapshot ID: `AAAAAG+3YucDNZSakSc5ax+mzW9syjIA`
+Snapshot ID: `AAAAACtM/tk6DUZKoDvUckFhy//+cHUA`

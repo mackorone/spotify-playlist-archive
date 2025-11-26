@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Behold Him",
+        "url": "https://open.spotify.com/album/19qbeTrzKvrsI2LJllXqzX"
+      },
+      "artists": [
+        {
+          "name": "Holly Halliwell",
+          "url": "https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303057,
+      "name": "Behold Him",
+      "url": "https://open.spotify.com/track/2MChV6oQqW209U2i0CFjIO"
+    },
+    {
+      "album": {
         "name": "Behold Messiah",
         "url": "https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b"
       },
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 260566,
       "name": "Go Tell It",
       "url": "https://open.spotify.com/track/6ctaxJwvmHge2hYFIXNg3L"
@@ -6287,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "O Come, All Ye Faithful",
+        "url": "https://open.spotify.com/album/4CvDntVJgG6C6id53AVkgl"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "date_added": "2025-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200200,
+      "name": "O Come, All Ye Faithful",
+      "url": "https://open.spotify.com/track/0eudgPuQrmzBY6qx7UHVGP"
+    },
+    {
+      "album": {
         "name": "The Heart Of Christmas",
         "url": "https://open.spotify.com/album/1maddwERmAiVMeiSgsEx6g"
       },
@@ -8380,7 +8416,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 160941,
       "name": "The Greatest Gift",
       "url": "https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi"

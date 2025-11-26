@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KETTAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,138 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,143 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 11 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/1kUJ7401ShEYzAgdTfg2Dp) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:38 |
 | 12 | [MALPORTADA](https://open.spotify.com/track/1ChPtcjaki0PEjfx4YIWGt) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MALPORTADA](https://open.spotify.com/album/4gRqDrJzy4Ws040mg1LCl0) | 3:39 |
 | 13 | [Entwined](https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Entwined](https://open.spotify.com/album/4M45TZxg8HtnBwCDyqOb6B) | 3:40 |
-| 14 | [Star Signs](https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 3:24 |
-| 15 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 |
+| 14 | [No Voy A Cambiar](https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [No Voy A Cambiar](https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf) | 2:45 |
+| 15 | [Star Signs](https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 3:24 |
 | 16 | [Betty](https://open.spotify.com/track/6QN5ClFa3Ul4kFzsdw3Z8t) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 2:54 |
 | 17 | [Slip](https://open.spotify.com/track/3bUUZznrg3tbLYSM0vMXRo) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 3:32 |
 | 18 | [Noises + JT](https://open.spotify.com/track/36e4mRTGXQL283nBFSA9Tv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:07 |
-| 19 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 20 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
-| 21 | [ego of a man](https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:37 |
+| 19 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
+| 20 | [ego of a man](https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [HOT POT!](https://open.spotify.com/album/7J69akDNK0b1k42YZK7Yg7) | 2:37 |
+| 21 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
 | 22 | [Restless Eyes](https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:51 |
 | 23 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 24 | [baby](https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [baby](https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr) | 3:03 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 51 | [Sibeeria](https://open.spotify.com/track/7f7hbdmYKry7GJHLLw0my9) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Sibeeria](https://open.spotify.com/album/16oynJh4jhy9XX1G2963zT) | 2:51 |
 | 52 | [NOT 2NITE \(feat\. Cansu Kandemir\)](https://open.spotify.com/track/3deDVVLNFHoLccEarFE6UZ) | [Rat Heart](https://open.spotify.com/artist/4bM1ixwFMF5CJhL1Bi7c3e), [Cansu Kandemir](https://open.spotify.com/artist/40psfIeWHQLuytUKWzxrFv) | [Dancin' In The Streets](https://open.spotify.com/album/7cRn8O6Z0BHY6jGpduuUKZ) | 6:09 |
 | 53 | [b 2 b](https://open.spotify.com/track/4p2rGMlMTHCDn3lTNGcsbc) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [b 2 b](https://open.spotify.com/album/4qtZdKxpKsyot1lueCfTWc) | 2:43 |
-| 54 | [LOSE CONTROL](https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [LOSE CONTROL](https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL) | 4:11 |
-| 55 | [Rest Here](https://open.spotify.com/track/3kk2Dvffp73fZW3ZbFrInH) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 3:57 |
+| 54 | [Rest Here](https://open.spotify.com/track/3kk2Dvffp73fZW3ZbFrInH) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 3:57 |
+| 55 | [LOSE CONTROL](https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [LOSE CONTROL](https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL) | 4:11 |
 
 Snapshot ID: `AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Beryl
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,513 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,514 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
-| 2 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1VrFjz3WcDJdvGiayFeXdZ) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 2 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 3 | [Go on, move your body](https://open.spotify.com/track/0lu5lniAIj8Ny08ts1toeP) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Go on, move your body](https://open.spotify.com/album/3VfY62D4awk6JguKmg6eJ3) | 3:35 |
 | 4 | [Looking For Nothing](https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Looking For Nothing](https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu) | 3:58 |
 | 5 | [to earth will you tell me when we land](https://open.spotify.com/track/1tTycAzC9CoC3ODkT6kE81) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [to earth will you tell me when we land](https://open.spotify.com/album/2LGC8eOQWTkqpSDvyH4GeN) | 4:00 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 149 | [bluebird](https://open.spotify.com/track/6ORmNEQrvN0qhPYg1ZKeNj) | [dog eyes](https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc) | [bluebird](https://open.spotify.com/album/0n5VGeSREzMgtPj4yMUN22) | 2:26 |
 | 150 | [the world was big when i was small](https://open.spotify.com/track/3VCJtAMkNkrS1raVz6zOzY) | [earth 2 tiffany](https://open.spotify.com/artist/49Kb8axpqkIvmmYbL5Y4Qi) | [the world was big when i was small](https://open.spotify.com/album/6UfkyKhbccPtJHu0e6QHKp) | 3:05 |
 
-Snapshot ID: `AAAAAKzQA6tqdBB+nBtcXx5106m6zvnb`
+Snapshot ID: `AAAAANnS+lTtEIoNX35bLWkdykVE04JW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,967 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,988 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 2 | [Mera Mahi](https://open.spotify.com/track/445SKNj7J0NZC5tp2in8Cc) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Mera Mahi](https://open.spotify.com/album/4Lavw2Qao6SX3DqcPJRGXs) | 2:59 |
 | 3 | [Pols](https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Pols](https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD) | 2:00 |
 | 4 | [Meinu Heere Heere Akhe](https://open.spotify.com/track/1r49RrZ4aiv4lNMghpkxrf) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Meinu Heere Heere Akhe](https://open.spotify.com/album/4Xei2VENUM83NkxdPGrGpN) | 2:45 |
-| 5 | [Kareeb](https://open.spotify.com/track/0v9V1rfbCesbbSQMnvrI0B) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [Kareeb](https://open.spotify.com/album/0gDDGqhYncFArjDKOMPoZw) | 3:18 |
+| 5 | [Kareeb](https://open.spotify.com/track/0v9V1rfbCesbbSQMnvrI0B) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK), [Akshay Kharodia](https://open.spotify.com/artist/4K1cuoEAWudPp7xRhwXJcT), [Adveeka](https://open.spotify.com/artist/5wiJz1MuzztVsHy6o95gnT) | [Kareeb](https://open.spotify.com/album/0gDDGqhYncFArjDKOMPoZw) | 3:18 |
 | 6 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
 | 7 | [Roohdariyan](https://open.spotify.com/track/7m1Ys2CUSQYVoXGXmzwEYx) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Roohdariyan](https://open.spotify.com/album/1ol8Gz3zfXKDZmrfSmWDGa) | 2:32 |
 | 8 | [Bombshell](https://open.spotify.com/track/1lwIEn4LvceKySirb4olKh) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bombshell](https://open.spotify.com/album/78RIGKdHOd2J4qAhxNdxlU) | 2:34 |

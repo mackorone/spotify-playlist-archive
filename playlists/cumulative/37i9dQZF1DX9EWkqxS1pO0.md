@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Olabilir!
 
-332 songs - 16 hr 44 min
+333 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Dolunay](https://open.spotify.com/track/0nVehOjbqRPByxOzO9keQk) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Dolunay](https://open.spotify.com/album/670sNl07ubMq2HqgvjvX2h) | 2:17 | 2024-06-20 | 2025-08-23 |
 | [Doğru Aşk](https://open.spotify.com/track/0H3YkvvhdOyufTLXpVuxLv) | [Duru](https://open.spotify.com/artist/30f7VIGbxoWl9QzGj9HJql) | [Doğru Aşk](https://open.spotify.com/album/1zhDOAN6mePq5Au54JygvQ) | 2:17 | 2025-08-14 |  |
 | [DURMA](https://open.spotify.com/track/4NJGNIZXwTI9DAT6iwxcgR) | [Alara](https://open.spotify.com/artist/73cy4QAQJslj4bVgTxN5bk) | [DURMA](https://open.spotify.com/album/3UjL3kwbHXGvnuxAp9mllB) | 2:06 | 2024-08-01 | 2024-09-07 |
-| [Durmadan](https://open.spotify.com/track/6L6VVpzmfhJ3tbYyfk39yD) | [Bers](https://open.spotify.com/artist/3UmN757Ds5HnBmZlfnlipA) | [Durmadan](https://open.spotify.com/album/5vzi1QO4uxjYhXUmDRvHT2) | 2:36 | 2025-09-04 |  |
+| [Durmadan](https://open.spotify.com/track/6L6VVpzmfhJ3tbYyfk39yD) | [Bers](https://open.spotify.com/artist/3UmN757Ds5HnBmZlfnlipA) | [Durmadan](https://open.spotify.com/album/5vzi1QO4uxjYhXUmDRvHT2) | 2:36 | 2025-09-04 | 2025-11-26 |
 | [duvarlar](https://open.spotify.com/track/3WjX2XhfsBmctqv3bEgz1a) | [heryol](https://open.spotify.com/artist/07gIXu2S9eYLSxe3SnABHg) | [HERYOL](https://open.spotify.com/album/38Qyt0cKpOjVIWEa4m8ukV) | 3:59 | 2025-08-14 | 2025-09-09 |
 | [Duy Sesimi](https://open.spotify.com/track/104YH2h7OtypkVgBAjcS6O) | [Duhan Demirci](https://open.spotify.com/artist/4xfIX4AK4xyml8Bqj5Mw3F), [Kaan Arslan](https://open.spotify.com/artist/5ML0ingV07lUL61gjbH7u2) | [Duy Sesimi](https://open.spotify.com/album/0hO21Uh7eA7UwbjY5s3QuY) | 2:54 | 2024-07-04 | 2024-09-06 |
 | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/track/1QvY3m3YPL8xGnBnFSiVUl) | [Erdem Yıldırım](https://open.spotify.com/artist/2jBduF7UwhDFLvFiLdWuhm) | [Duyduğum En Güzel Şarkısın](https://open.spotify.com/album/7u2f5B81sVTnO4QkezsIiI) | 2:46 | 2024-06-20 | 2024-10-11 |
@@ -294,6 +294,7 @@
 | [Yarınımız Yokmuş Gibi](https://open.spotify.com/track/599bwrbqRY3VazJJ943iNV) | [Şahıs](https://open.spotify.com/artist/2XTyBo4eOUdoKzNugEwVEc) | [Yarınımız Yokmuş Gibi](https://open.spotify.com/album/18uf6YzS3aeGqNv1363ruD) | 2:28 | 2024-08-29 | 2024-09-10 |
 | [Yasemen](https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Yasemen](https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z) | 2:30 | 2024-10-03 | 2025-07-18 |
 | [Yaz Bitti](https://open.spotify.com/track/0z6LsBCqzznrAZp7aigN9W) | [ARKADAŞ](https://open.spotify.com/artist/2acae8AE80hjsa8PICuc2V) | [Yaz Bitti](https://open.spotify.com/album/7ezkHzv9lDOq3teW1SRONm) | 4:15 | 2025-09-12 | 2025-09-26 |
+| [Yağmur](https://open.spotify.com/track/420BoEoyj0XcR3xgpjV0vq) | [Berat Toksöz](https://open.spotify.com/artist/0ogb737dZXh69nhv0ET777) | [Yağmur](https://open.spotify.com/album/4KCh4JrQKYjpiwct7KjXTv) | 2:29 | 2025-11-14 |  |
 | [Yağmur](https://open.spotify.com/track/6erkUcvYjpO1PXl2MB55ni) | [Siren](https://open.spotify.com/artist/4uY69xEo1jXgSSKiO06GGy) | [Yağmur](https://open.spotify.com/album/5gbArrtM07TEIO0PuM8GMl) | 3:20 | 2025-05-15 | 2025-07-11 |
 | [YAĞMURLAR](https://open.spotify.com/track/2oJnCi64nLa32Sbqp728YT) | [Anıl Selvi](https://open.spotify.com/artist/1H6jTzPmJTIZLfxQ26iYqE) | [YAĞMURLAR](https://open.spotify.com/album/7wNhAfC0cR3u068t2y8mTa) | 3:12 | 2024-06-20 |  |
 | [Yeni Bir Gün](https://open.spotify.com/track/5qMhceikype5djlWRVTLLa) | [Klor](https://open.spotify.com/artist/70dKeCF38TiiLV0Z3FVGo7) | [Yeni Bir Gün](https://open.spotify.com/album/1jeiXkl0YhRTd0JdUBY8Pp) | 3:13 | 2024-06-20 |  |

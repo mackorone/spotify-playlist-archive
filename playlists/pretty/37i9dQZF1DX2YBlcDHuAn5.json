@@ -599,6 +599,22 @@
     {
       "added_at": "2025-11-20 23:00:36",
       "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
+    },
+    {
+      "added_at": "2025-11-20 23:00:36",
+      "album": {
         "name": "New Country (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 198760,
       "name": "New Country (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
-    },
-    {
-      "added_at": "2025-11-20 23:00:36",
-      "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2025-11-20 23:00:36",

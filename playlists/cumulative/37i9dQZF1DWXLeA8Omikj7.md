@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,142 songs - 3 day 11 hr 12 min
+1,143 songs - 3 day 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -843,6 +843,7 @@
 | [September Sun](https://open.spotify.com/track/7pe5y4jwqdFuGZenu7Fnal) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/0M9HU37Cgb23PgVh72o3ld) | 3:29 | 2022-09-09 | 2024-04-19 |
 | [Serene](https://open.spotify.com/track/0KNrPsq3ny0d7pfI4Ujl2s) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Serene](https://open.spotify.com/album/73dpopJTXHYaGTNH5u2PJC) | 4:09 | 2025-02-14 | 2025-10-10 |
 | [Serious Mood](https://open.spotify.com/track/6KdqE1loutetHOOJCTt0qc) | [Point Point](https://open.spotify.com/artist/5L67d6oZKOOmXcBcMMJdZZ), [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Serious Mood](https://open.spotify.com/album/3DwWwVJ52qLRAlWEo1JSQt) | 3:39 | 2019-06-19\* | 2020-10-22 |
+| [Serpentine \- The Field Remix](https://open.spotify.com/track/4a9VBJxs84wlqdGIJoEzfE) | [Disiniblud](https://open.spotify.com/artist/58yu67FLeWi0auMgHNfIHt), [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ), [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS), [Cassandra Croft](https://open.spotify.com/artist/5P3llffs6Hq1IYsx747anV) | [Serpentine \(The Field Remix\)](https://open.spotify.com/album/12CB8qWStEjeWuj2oeo1oH) | 11:04 | 2025-11-21 |  |
 | [Session](https://open.spotify.com/track/5KNJ2qBD92lNfdcdcHmzEY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0y13VbGddQ4azdVWakksAL) | 2:23 | 2019-07-25 | 2020-08-26 |
 | [Seven](https://open.spotify.com/track/66cGEca0mM1syYeB0jIKci) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Seven](https://open.spotify.com/album/2DfpchZyQ3r7kLgSajX2o3) | 5:55 | 2024-05-10 | 2024-08-06 |
 | [Seven Peaceful Deities](https://open.spotify.com/track/6XhgPsCzUI4eFZcHpxGFz6) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Luminosity Device](https://open.spotify.com/album/1P1k0VL2WAraMix5pgIb6B) | 2:18 | 2019-06-19\* | 2020-06-12 |
@@ -914,7 +915,7 @@
 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 | 2019-05-26\* | 2020-10-22 |
 | [Starbeam](https://open.spotify.com/track/2i7ynLHCA3ZcBaHWHT522D) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Starbeam](https://open.spotify.com/album/1ribwcOXBbRU2xXDVWLvkf) | 5:50 | 2021-11-26 | 2022-07-29 |
 | [Starlight](https://open.spotify.com/track/5epMdylltsD0tLc8TCkt9M) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Starlight](https://open.spotify.com/album/1Ff2oSlw18ClcWPl5TsVM1) | 2:50 | 2019-06-19\* |  |
-| [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 | 2025-10-24 |  |
+| [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 | 2025-10-24 | 2025-11-26 |
 | [Stay Here](https://open.spotify.com/track/1y5R89Y60XQEaB3d4ZziqD) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [Stay Here](https://open.spotify.com/album/1CVqowMvToHt4p2wGRUoqg) | 5:51 | 2024-11-11 | 2025-02-26 |
 | [Still Think](https://open.spotify.com/track/3lBmRItELTgJjFMgI76Onm) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Chrome Sparks](https://open.spotify.com/album/5Y0yPA0zZetcpimqsegK1i) | 5:35 | 2019-06-19\* | 2020-10-21 |
 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 | 2023-07-17 |  |

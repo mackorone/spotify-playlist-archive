@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 589 likes - 131 songs - 7 hr 40 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 588 likes - 134 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,5 +139,8 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 129 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 |
 | 130 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 |
 | 131 | [Rapapa Papam](https://open.spotify.com/track/31eiGVDcWVncSpj5cAkpFF) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [Rapapa Papam](https://open.spotify.com/album/2rdM5JfJHkeGI6rNHr17ah) | 2:36 |
+| 132 | [Cat](https://open.spotify.com/track/3F13JAmJpksrb4b6Yn9afI) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Cat](https://open.spotify.com/album/53NqTLQtljXFYJZlpgedwo) | 4:08 |
+| 133 | [The same old café](https://open.spotify.com/track/6iy0PiiR9SXohvgxYftqVN) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy), [Pupille](https://open.spotify.com/artist/0Dn2cJkN3xEZT0m5QP6MCI) | [L'ambiguïté](https://open.spotify.com/album/6EgZJxDdJwYfEBdRYA9v2h) | 4:55 |
+| 134 | [GYPSY GIRL](https://open.spotify.com/track/6QJgtgwOBQRAm3rXI0fQ4f) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [GYPSY GIRL](https://open.spotify.com/album/4LwRyoHz6c7T5Hwj9f0lqS) | 3:13 |
 
-Snapshot ID: `AAADYV8wr/0Eu33Eu2Ld9Pklgd8VZ9jl`
+Snapshot ID: `AAADZB/BGZ+M2E3cSOZfHkMXJi6b+wOn`

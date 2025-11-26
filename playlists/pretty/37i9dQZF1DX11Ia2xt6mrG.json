@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. VV Brujo en portada.",
-  "num_followers": 68705,
+  "num_followers": 68727,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
+        "name": "Te quiero",
+        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
+      },
+      "artists": [
+        {
+          "name": "Jaycc",
+          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
+        }
+      ],
+      "duration_ms": 273999,
+      "name": "Te quiero",
+      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
+    },
+    {
+      "added_at": "2025-10-24 06:00:17",
+      "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
-    },
-    {
-      "added_at": "2025-10-24 06:00:17",
-      "album": {
-        "name": "Te quiero",
-        "url": "https://open.spotify.com/album/7I6R1TefizulQxwYchpARi"
-      },
-      "artists": [
-        {
-          "name": "Jaycc",
-          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
-        }
-      ],
-      "duration_ms": 273999,
-      "name": "Te quiero",
-      "url": "https://open.spotify.com/track/5KAtz23nX31PdwgLW8SSJy"
     },
     {
       "added_at": "2025-10-24 06:00:17",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
-        "name": "La Diabla (Electro Remix)",
-        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
-      },
-      "artists": [
-        {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
-        }
-      ],
-      "duration_ms": 136477,
-      "name": "La Diabla (Electro Remix)",
-      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
-    },
-    {
-      "added_at": "2025-10-24 06:00:17",
-      "album": {
         "name": "EXTAPHORIC!",
         "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 85520,
       "name": "THIRST FOR ME!",
       "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2025-10-24 06:00:17",
+      "album": {
+        "name": "La Diabla (Electro Remix)",
+        "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
+      },
+      "artists": [
+        {
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+        }
+      ],
+      "duration_ms": 136477,
+      "name": "La Diabla (Electro Remix)",
+      "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
       "added_at": "2025-10-24 06:00:17",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
-        "name": "Bella Peligrosa (Radio Edit)",
-        "url": "https://open.spotify.com/album/77UrvszcMvxxYUAB3nkQRG"
-      },
-      "artists": [
-        {
-          "name": "Le Twins",
-          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 144761,
-      "name": "Bella Peligrosa - Radio Edit",
-      "url": "https://open.spotify.com/track/0q1m66WPH3beH6JhSXpWAC"
-    },
-    {
-      "added_at": "2025-10-24 06:00:17",
-      "album": {
         "name": "LIV - Spotify Singles",
         "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": "2025-10-24 06:00:17",
+      "album": {
+        "name": "Bella Peligrosa (Radio Edit)",
+        "url": "https://open.spotify.com/album/77UrvszcMvxxYUAB3nkQRG"
+      },
+      "artists": [
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 144761,
+      "name": "Bella Peligrosa - Radio Edit",
+      "url": "https://open.spotify.com/track/0q1m66WPH3beH6JhSXpWAC"
     },
     {
       "added_at": "2025-10-24 06:00:17",
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
-        "name": "SUSTANCIAS",
-        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
       },
       "artists": [
         {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
         },
         {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 228923,
-      "name": "SUSTANCIAS",
-      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+      "duration_ms": 195271,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
     },
     {
       "added_at": "2025-10-24 06:00:17",
@@ -1527,22 +1527,22 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
-        "name": "SOL",
-        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
+        "name": "SUSTANCIAS",
+        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
       },
       "artists": [
         {
-          "name": "The Wookies",
-          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
         },
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
         }
       ],
-      "duration_ms": 195271,
-      "name": "SOL",
-      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
+      "duration_ms": 228923,
+      "name": "SUSTANCIAS",
+      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
     },
     {
       "added_at": "2025-10-24 06:00:17",
@@ -1739,30 +1739,6 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
-        "name": "Bandidas",
-        "url": "https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 142714,
-      "name": "Bandidas",
-      "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
-    },
-    {
-      "added_at": "2025-10-24 06:00:17",
-      "album": {
         "name": "Living on Video (The Wookies Remix)",
         "url": "https://open.spotify.com/album/2z3kKzncLPsYHOTk2QhXzt"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 338181,
       "name": "Living on Video - The Wookies Remix",
       "url": "https://open.spotify.com/track/2JGthAWXjnTVQK8cwhvftv"
+    },
+    {
+      "added_at": "2025-10-24 06:00:17",
+      "album": {
+        "name": "Porque La Demora",
+        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 169761,
+      "name": "Porque La Demora",
+      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
     },
     {
       "added_at": "2025-10-24 06:00:17",
@@ -1835,26 +1835,18 @@
     {
       "added_at": "2025-10-24 06:00:17",
       "album": {
-        "name": "Porque La Demora",
-        "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
+        "name": "999 (Goer)",
+        "url": "https://open.spotify.com/album/1OVXU74d1lygEMbdTxEuBb"
       },
       "artists": [
         {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
         }
       ],
-      "duration_ms": 169761,
-      "name": "Porque La Demora",
-      "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
+      "duration_ms": 160857,
+      "name": "999 (Goer)",
+      "url": "https://open.spotify.com/track/17naw7wiDD3bL2ePAIrIVk"
     }
   ],
   "unique_name": "electro mx ",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: SAAY)",
+  "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: tripleS)",
   "name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "tracks": [
     {
@@ -542,6 +542,24 @@
       "duration_ms": 226493,
       "name": "Christmas Again",
       "url": "https://open.spotify.com/track/5ILo7uxYAwyLoWazhHxGnD"
+    },
+    {
+      "album": {
+        "name": "msnz <Beyond Beauty>",
+        "url": "https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Christmas Alone",
+      "url": "https://open.spotify.com/track/7Cw0Rilu6NxA6IbyCjvhT6"
     },
     {
       "album": {
@@ -3996,7 +4014,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 185240,
       "name": "When It Snows mmm (feat. Wheein)",
       "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"

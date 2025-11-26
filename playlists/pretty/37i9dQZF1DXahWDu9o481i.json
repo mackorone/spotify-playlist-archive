@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KETTAMA",
-  "num_followers": 51138,
+  "num_followers": 51143,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Solace & The Vices",
-        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 204308,
-      "name": "Star Signs",
-      "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "No Voy A Cambiar",
         "url": "https://open.spotify.com/album/1kgLWHrvpuZuZ40DguJmbf"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 165865,
       "name": "No Voy A Cambiar",
       "url": "https://open.spotify.com/track/7mLqaJfinPdwZ9evLFaG5p"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 204308,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/1P9I8lE5sm4k8ZkkVVjeGP"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 157080,
       "name": "ego of a man",
       "url": "https://open.spotify.com/track/4QmonUBs8sq51Sgbw26Yg4"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "LOSE CONTROL",
-        "url": "https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
-        },
-        {
-          "name": "Giulia Tess",
-          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
-        }
-      ],
-      "duration_ms": 251575,
-      "name": "LOSE CONTROL",
-      "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Rest Here",
         "url": "https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 237508,
       "name": "Rest Here",
       "url": "https://open.spotify.com/track/3kk2Dvffp73fZW3ZbFrInH"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "LOSE CONTROL",
+        "url": "https://open.spotify.com/album/5vBNUYPcrNmbxnwQSptcsL"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        },
+        {
+          "name": "Giulia Tess",
+          "url": "https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3"
+        }
+      ],
+      "duration_ms": 251575,
+      "name": "LOSE CONTROL",
+      "url": "https://open.spotify.com/track/5FX1K48DqqyQ9Nby7HzEYn"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of October",

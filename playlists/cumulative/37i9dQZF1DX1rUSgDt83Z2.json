@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Houden van is voor altijd",
+        "url": "https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu"
+      },
+      "artists": [
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194243,
+      "name": "Houden Van Is Voor Altijd",
+      "url": "https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo"
+    },
+    {
+      "album": {
         "name": "Huil Maar Niet Om Mij",
         "url": "https://open.spotify.com/album/17myds3ynEuOM29OFacYpD"
       },
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 132754,
       "name": "Zij Bij Mij",
       "url": "https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN"

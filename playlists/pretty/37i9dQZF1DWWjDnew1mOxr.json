@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: Tom A. Smith",
-  "num_followers": 129586,
+  "num_followers": 129588,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -543,8 +543,8 @@
     {
       "added_at": "2025-10-10 13:09:08",
       "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 211964,
-      "name": "Break the Girl",
-      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+      "duration_ms": 189009,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
     },
     {
       "added_at": "2025-10-10 13:09:08",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-10-10 13:09:08",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/6aj0THdfoTZmLqFOeN2bQy"
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 189009,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4LJ9rJfTgp1L2HS37wkPhx"
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
     },
     {
       "added_at": "2025-10-10 13:09:08",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-10-10 13:09:08",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/4eQEJgxCdf7B0OF2JTccgQ"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 138129,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9"
-    },
-    {
-      "added_at": "2025-10-10 13:09:08",
-      "album": {
         "name": "Here's The Thing",
         "url": "https://open.spotify.com/album/63MATGJoOix8OypoCqnJga"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
+    },
+    {
+      "added_at": "2025-10-10 13:09:08",
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/4eQEJgxCdf7B0OF2JTccgQ"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 138129,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/3a5roaSfggDql7oHpBMKb9"
     },
     {
       "added_at": "2025-10-10 13:09:08",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-10-10 13:09:08",
       "album": {
-        "name": "When Youth Fades Away",
-        "url": "https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u"
-      },
-      "artists": [
-        {
-          "name": "Somebody's Child",
-          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
-        }
-      ],
-      "duration_ms": 216998,
-      "name": "Life Will Go On",
-      "url": "https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm"
-    },
-    {
-      "added_at": "2025-10-10 13:09:08",
-      "album": {
         "name": "Gravestone",
         "url": "https://open.spotify.com/album/3Cx0kxwDoDBpWSMPjWlw7h"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 235000,
       "name": "Gravestone",
       "url": "https://open.spotify.com/track/2WSY9RWtQ1CTnadExfLubq"
+    },
+    {
+      "added_at": "2025-10-10 13:09:08",
+      "album": {
+        "name": "When Youth Fades Away",
+        "url": "https://open.spotify.com/album/0WenS8ahh6G50q8btP6d5u"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "duration_ms": 216998,
+      "name": "Life Will Go On",
+      "url": "https://open.spotify.com/track/6RROmIv49NQkzE3fuE5yrm"
     },
     {
       "added_at": "2025-10-10 13:09:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-10-10 13:09:08",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM"
-      },
-      "artists": [
-        {
-          "name": "The Clause",
-          "url": "https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ"
-        }
-      ],
-      "duration_ms": 204620,
-      "name": "Fever Dream",
-      "url": "https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK"
-    },
-    {
-      "added_at": "2025-10-10 13:09:08",
-      "album": {
         "name": "Death & Love, Pt. 1",
         "url": "https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 200740,
       "name": "Let's Leave Together",
       "url": "https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH"
+    },
+    {
+      "added_at": "2025-10-10 13:09:08",
+      "album": {
+        "name": "Ballad Of A Bystander",
+        "url": "https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ"
+      },
+      "artists": [
+        {
+          "name": "The Reytons",
+          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0"
     },
     {
       "added_at": "2025-10-10 13:09:08",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2025-10-10 13:09:08",
       "album": {
-        "name": "Ballad Of A Bystander",
-        "url": "https://open.spotify.com/album/3tbVVoG2U5m4IAnJTF3YyZ"
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/1eceK22Ob6mCkjz4yYrFWM"
       },
       "artists": [
         {
-          "name": "The Reytons",
-          "url": "https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ"
+          "name": "The Clause",
+          "url": "https://open.spotify.com/artist/7KpYPnMoADYtIMt1XPvmzZ"
         }
       ],
-      "duration_ms": 180133,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/2fgktVdVpJnMcsrCtkzGm0"
+      "duration_ms": 204620,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/0GYauYXRLca27TmK3VsiVK"
     },
     {
       "added_at": "2025-10-10 13:09:08",

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165908,
+  "num_followers": 165917,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Get A Good Feeling",
+        "url": "https://open.spotify.com/album/6dNMokUQFRKfTYGs6n1Qow"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "Get A Good Feeling",
+      "url": "https://open.spotify.com/track/3GxOVUOw8hwoo1O1NVpcdO"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 181689,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Get A Good Feeling",
-        "url": "https://open.spotify.com/album/6dNMokUQFRKfTYGs6n1Qow"
-      },
-      "artists": [
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Get A Good Feeling",
-      "url": "https://open.spotify.com/track/3GxOVUOw8hwoo1O1NVpcdO"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -699,26 +699,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Bringing the pain",
-        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "Bringing the pain",
-      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Back 2 Back",
         "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
       },
@@ -739,22 +719,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
+        "name": "Bringing the pain",
+        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
       },
       "artists": [
         {
-          "name": "Friction",
-          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
         },
         {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 210500,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
+      "duration_ms": 201299,
+      "name": "Bringing the pain",
+      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -779,6 +759,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/6c2lgEoa6569HdwpGghy5C"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/6ElhC5DxYjhCzhjtrn3GUU"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Stay The Night",
         "url": "https://open.spotify.com/album/6cxNU0yLOIDn6yR5Yb3a6U"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 182069,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -819,22 +835,6 @@
       "duration_ms": 186751,
       "name": "Gas",
       "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 182069,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -935,18 +935,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Vandal",
-        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
       },
       "artists": [
         {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
         }
       ],
-      "duration_ms": 161379,
-      "name": "Vandal",
-      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
+      "duration_ms": 222000,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -971,22 +975,18 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/5Fzg5JxyGtVdt10KoyHwYc"
+        "name": "Vandal",
+        "url": "https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml"
       },
       "artists": [
         {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
-        },
-        {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Out of Control",
-      "url": "https://open.spotify.com/track/6QPmvFHUfdCMg2ubBjZdFh"
+      "duration_ms": 161379,
+      "name": "Vandal",
+      "url": "https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Arctic",
+        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 146371,
+      "name": "Arctic",
+      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "MMM",
         "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
       },
@@ -1071,22 +1091,18 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Arctic",
-        "url": "https://open.spotify.com/album/7lnZnX50hruW4tLEKahF5E"
+        "name": "Count That",
+        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+          "name": "SHOSH",
+          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
         }
       ],
-      "duration_ms": 146371,
-      "name": "Arctic",
-      "url": "https://open.spotify.com/track/4tNkhfKqbJSzOTKX6D276Q"
+      "duration_ms": 216214,
+      "name": "Count That",
+      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1171,22 +1187,6 @@
       "duration_ms": 182068,
       "name": "TEK (feat.Killa P)",
       "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Count That",
-        "url": "https://open.spotify.com/album/00pIU5WVxQYOR5xSNb96Xt"
-      },
-      "artists": [
-        {
-          "name": "SHOSH",
-          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
-        }
-      ],
-      "duration_ms": 216214,
-      "name": "Count That",
-      "url": "https://open.spotify.com/track/4WnCJ3dIGqH2dbI45WhuiK"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Rigid Lord",
+        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
+      },
+      "artists": [
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
+        }
+      ],
+      "duration_ms": 225856,
+      "name": "Rigid Lord",
+      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "Satan's Alley",
         "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
       },
@@ -1451,26 +1471,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Rigid Lord",
-        "url": "https://open.spotify.com/album/0wUZn5ztqivzJzwoPwq4Dn"
-      },
-      "artists": [
-        {
-          "name": "Cesco",
-          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/0u4uzzMGK1exfnG33MII0b"
-        }
-      ],
-      "duration_ms": 225856,
-      "name": "Rigid Lord",
-      "url": "https://open.spotify.com/track/0zlBYfthuEV22L3DMhGiJu"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Whose It",
         "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Foreshadow / Third Kit",
-        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
-      },
-      "artists": [
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        }
-      ],
-      "duration_ms": 224914,
-      "name": "Foreshadow",
-      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Mob Deep",
         "url": "https://open.spotify.com/album/2TjLCvrgccR5RjdACRDZgC"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 237267,
       "name": "Mob Deep",
       "url": "https://open.spotify.com/track/0WpgioIi0lNOaYHrMaRn2S"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Foreshadow / Third Kit",
+        "url": "https://open.spotify.com/album/61WgIYQeew0VOM10AdHOAC"
+      },
+      "artists": [
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        }
+      ],
+      "duration_ms": 224914,
+      "name": "Foreshadow",
+      "url": "https://open.spotify.com/track/5HbUnTEsbEplFBEUvVVlvZ"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
-        }
-      ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
         "name": "Need Me So",
         "url": "https://open.spotify.com/album/436ZStM0BChnsKqvBdU1ki"
       },
@@ -1795,18 +1775,22 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
-        "name": "Romance EP",
-        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
       "artists": [
         {
-          "name": "Monrroe",
-          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Mudcrab",
-      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1871,6 +1855,42 @@
     {
       "added_at": "2025-11-14 00:00:20",
       "album": {
+        "name": "Romance EP",
+        "url": "https://open.spotify.com/album/2DMEFv7wDdSCICaYXGZ1EL"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Mudcrab",
+      "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Scream My Name",
+        "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
+      },
+      "artists": [
+        {
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        },
+        {
+          "name": "Sophie-Grace",
+          "url": "https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt"
+        }
+      ],
+      "duration_ms": 206774,
+      "name": "Scream My Name",
+      "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
         "name": "RUDEBOI",
         "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
       },
@@ -1887,6 +1907,26 @@
       "duration_ms": 204342,
       "name": "RUDEBOI",
       "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
+    },
+    {
+      "added_at": "2025-11-14 00:00:20",
+      "album": {
+        "name": "Call The Hurse",
+        "url": "https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6"
+      },
+      "artists": [
+        {
+          "name": "Benny Page",
+          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
+        },
+        {
+          "name": "Mad Sam",
+          "url": "https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L"
+        }
+      ],
+      "duration_ms": 169431,
+      "name": "Call The Hurse",
+      "url": "https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k"
     },
     {
       "added_at": "2025-11-14 00:00:20",
@@ -1919,46 +1959,6 @@
       "duration_ms": 335233,
       "name": "Goldikus (feat. Cleveland Watkiss) - Phase Remix",
       "url": "https://open.spotify.com/track/3qFC07G7mup6YO7rxe57tQ"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Scream My Name",
-        "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
-      },
-      "artists": [
-        {
-          "name": "Georgie Riot",
-          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
-        },
-        {
-          "name": "Sophie-Grace",
-          "url": "https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt"
-        }
-      ],
-      "duration_ms": 206774,
-      "name": "Scream My Name",
-      "url": "https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7"
-    },
-    {
-      "added_at": "2025-11-14 00:00:20",
-      "album": {
-        "name": "Call The Hurse",
-        "url": "https://open.spotify.com/album/3KeEMKBTOVMrua11nE9kj6"
-      },
-      "artists": [
-        {
-          "name": "Benny Page",
-          "url": "https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1"
-        },
-        {
-          "name": "Mad Sam",
-          "url": "https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L"
-        }
-      ],
-      "duration_ms": 169431,
-      "name": "Call The Hurse",
-      "url": "https://open.spotify.com/track/0G3ONeSlmFgHtw1ft1kg1k"
     }
   ],
   "unique_name": "Proper Naughty ",

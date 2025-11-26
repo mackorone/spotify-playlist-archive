@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 314,
+  "num_followers": 317,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAB+fahsAgC/2/GtxH7fYLmRk3w9rt3",
+  "snapshot_id": "AAAB/JFWa5CIss/aRB47FnGMfO07Cqsy",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1343,6 +1343,54 @@
       "duration_ms": 201410,
       "name": "In Gloom",
       "url": "https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli"
+    },
+    {
+      "added_at": "2025-11-26 02:43:47",
+      "album": {
+        "name": "Turn Past Tomorrow",
+        "url": "https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw"
+      },
+      "artists": [
+        {
+          "name": "Hat Pin Panic",
+          "url": "https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj"
+        }
+      ],
+      "duration_ms": 226336,
+      "name": "For Sale By Owner",
+      "url": "https://open.spotify.com/track/6uNX8cb1mLv5pdlNt1CmkJ"
+    },
+    {
+      "added_at": "2025-11-26 03:27:49",
+      "album": {
+        "name": "Songs For The Eternity.",
+        "url": "https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY"
+      },
+      "artists": [
+        {
+          "name": "TURN BLUE.",
+          "url": "https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL"
+        }
+      ],
+      "duration_ms": 313559,
+      "name": "A Dream Goes Walking By",
+      "url": "https://open.spotify.com/track/0fUwJ39xEsvWS6ynNhTK6k"
+    },
+    {
+      "added_at": "2025-11-26 03:30:48",
+      "album": {
+        "name": "Cindy Lee, Forever",
+        "url": "https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy"
+      },
+      "artists": [
+        {
+          "name": "Ernest Graves",
+          "url": "https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB"
+        }
+      ],
+      "duration_ms": 182601,
+      "name": "Cindy Lee, Forever",
+      "url": "https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

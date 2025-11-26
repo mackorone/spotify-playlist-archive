@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 51,157 likes - 80 songs - 4 hr 8 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 51,154 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/1ZV5KQP9n81oexu6dOST7q.md) - [plain]
 | 45 | [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sami Brielle](https://open.spotify.com/artist/6V6BALByk0ltXfNPJPvwSK) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 |
 | 46 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 |
 | 47 | [Don't Wake Me Up](https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Don't Wake Me Up](https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg) | 2:34 |
-| 48 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
+| 48 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 | 49 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 |
 | 50 | [April](https://open.spotify.com/track/2g4WU3DW5CtHRohxMWw2wH) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [April](https://open.spotify.com/album/77SSFBy29ddxQnSq6K0zlT) | 3:15 |
 | 51 | [Back In My Bed](https://open.spotify.com/track/5Ptt8Whisd1IwucwgXEyeT) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Y2J!](https://open.spotify.com/artist/4j9xWaq0mEloOvk8GW6aNb) | [Back In My Bed](https://open.spotify.com/album/5oKNITqLnzMlc1B0733IKd) | 2:23 |

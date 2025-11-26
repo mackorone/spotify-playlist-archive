@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Dry Cleaning
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,081 likes - 145 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,067 likes - 145 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

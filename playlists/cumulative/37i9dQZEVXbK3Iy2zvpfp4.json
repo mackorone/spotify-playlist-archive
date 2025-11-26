@@ -962,7 +962,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 142417,
       "name": "22",
       "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 210859,
       "name": "Antarktida",
       "url": "https://open.spotify.com/track/1IeSKALeTrDx7H17xqxlXT"
@@ -16937,6 +16937,44 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107338,
+      "name": "Don't You Forget (Reprise)",
+      "url": "https://open.spotify.com/track/4GWl0BXvpoZL6B8e1f6Nn9"
+    },
+    {
+      "album": {
         "name": "Doner Kebab Nacho Alejandro Garnacho",
         "url": "https://open.spotify.com/album/6XKiLPKfDoXaaQIbodB8EN"
       },
@@ -18116,7 +18154,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 256965,
       "name": "Dying To Love",
       "url": "https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0"
@@ -26002,6 +26040,28 @@
       "duration_ms": 211408,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/2QenFYgqiJnSXUznQw1jfb"
+    },
+    {
+      "album": {
+        "name": "HAPPY MEAL",
+        "url": "https://open.spotify.com/album/6o0ESU4YKaFWv3zaaTCdzf"
+      },
+      "artists": [
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141994,
+      "name": "HAPPY MEAL",
+      "url": "https://open.spotify.com/track/5zANdrALvG2nZ7YwzxSLcm"
     },
     {
       "album": {
@@ -34395,6 +34455,28 @@
     },
     {
       "album": {
+        "name": "Kr\u00e1ska a Zviera",
+        "url": "https://open.spotify.com/album/72nqEMlgeOD0WG4VpV1wc2"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Ricci",
+          "url": "https://open.spotify.com/artist/2UhBmcuoKcVGsYsFi24wqn"
+        },
+        {
+          "name": "Mina Koniarikova",
+          "url": "https://open.spotify.com/artist/42oX8dQ3FPMuR0w0vDCZq3"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Kr\u00e1ska a Zviera",
+      "url": "https://open.spotify.com/track/6eGpuYOSXnDrBx1BN7GpRA"
+    },
+    {
+      "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
       },
@@ -34888,6 +34970,28 @@
       "duration_ms": 189124,
       "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "La Perla",
+      "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
       "album": {
@@ -39162,7 +39266,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 77419,
       "name": "marec",
       "url": "https://open.spotify.com/track/0DHmjgh0lXSMzYr0teVt4S"
@@ -41049,6 +41153,24 @@
     },
     {
       "album": {
+        "name": "Milujem",
+        "url": "https://open.spotify.com/album/3vt44kUpyLMlwF7LxtF52k"
+      },
+      "artists": [
+        {
+          "name": "Sima Magu\u0161inov\u00e1",
+          "url": "https://open.spotify.com/artist/4xeF2tvFdmijcLw8LNY2Pn"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263168,
+      "name": "Milujem",
+      "url": "https://open.spotify.com/track/44zVzwZpjzc9IVtNoN8Jpq"
+    },
+    {
+      "album": {
         "name": "Miluju riskovat",
         "url": "https://open.spotify.com/album/0keORQotjHhzH7MhMAvCE8"
       },
@@ -41104,7 +41226,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 140560,
       "name": "Mimosa 2000",
       "url": "https://open.spotify.com/track/79bWkyd08EFDO0ZZuu7IRT"
@@ -41394,7 +41516,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-15",
+      "date_removed": null,
       "duration_ms": 130461,
       "name": "Mist",
       "url": "https://open.spotify.com/track/2NLOyWzztMiW5FmNhD83K6"
@@ -41610,7 +41732,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 260600,
       "name": "Modlitba Pro Martu",
       "url": "https://open.spotify.com/track/68glVrjxlFKiFYuSh9LXrk"
@@ -43106,6 +43228,24 @@
       "duration_ms": 204200,
       "name": "Mork n Mindy",
       "url": "https://open.spotify.com/track/06GBeo9UxaThL6monvFzHe"
+    },
+    {
+      "album": {
+        "name": "Most",
+        "url": "https://open.spotify.com/album/70dyxgCVIBXqioL9urAxum"
+      },
+      "artists": [
+        {
+          "name": "Dynamic",
+          "url": "https://open.spotify.com/artist/3RcKItopZ61WKKGMqwsvct"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149002,
+      "name": "Most",
+      "url": "https://open.spotify.com/track/4VXQamyp7CIA49dWglGpqN"
     },
     {
       "album": {
@@ -45673,6 +45813,28 @@
     },
     {
       "album": {
+        "name": "Nesquik",
+        "url": "https://open.spotify.com/album/3mdNsccoshHku9u2tRYJk4"
+      },
+      "artists": [
+        {
+          "name": "Ani\u010dka",
+          "url": "https://open.spotify.com/artist/3WP2gRW5lXhZ7MgWl0ENTL"
+        },
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76656,
+      "name": "Nesquik",
+      "url": "https://open.spotify.com/track/6fbJpZt1XPzFQO0rUKH4qp"
+    },
+    {
+      "album": {
         "name": "VOJNA",
         "url": "https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ"
       },
@@ -47124,6 +47286,24 @@
       "duration_ms": 193070,
       "name": "No! (feat. Snoop Dogg)",
       "url": "https://open.spotify.com/track/4eWNNFDYZVlKuxrU8JjOoG"
+    },
+    {
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2jqWKUmzUE9xVTqlNqxdyM"
+      },
+      "artists": [
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4PcUhNQarvbJQ3Vui6pwep"
     },
     {
       "album": {
@@ -52892,7 +53072,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 97714,
       "name": "Prague",
       "url": "https://open.spotify.com/track/7gZxliU9pWwAQ3QdyQfdga"
@@ -54243,6 +54423,32 @@
     },
     {
       "album": {
+        "name": "P\u00e1slo Diev\u010da P\u00e1vy",
+        "url": "https://open.spotify.com/album/4uKTBRTh8ok17GZ6QDFL44"
+      },
+      "artists": [
+        {
+          "name": "Ley Lofaj",
+          "url": "https://open.spotify.com/artist/3T7vQs2QNG3MjG8ewYf6LV"
+        },
+        {
+          "name": "Pokyman",
+          "url": "https://open.spotify.com/artist/1NjxlPOM0y5DQyrhE5VAVv"
+        },
+        {
+          "name": "Ormay",
+          "url": "https://open.spotify.com/artist/2W5CrMkYFNKxo2Oy1ZVqjy"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224516,
+      "name": "P\u00e1slo Diev\u010da P\u00e1vy",
+      "url": "https://open.spotify.com/track/7MaPoJhpj0auGI8nj5QRcL"
+    },
+    {
+      "album": {
         "name": "Impostor syndrom",
         "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
       },
@@ -54480,7 +54686,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -58240,7 +58446,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 120541,
       "name": "Sera's Confession",
       "url": "https://open.spotify.com/track/3SEVc1OeCtFmVVJPtWzq3P"
@@ -60280,7 +60486,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 357320,
       "name": "Slubili sme si lasku",
       "url": "https://open.spotify.com/track/1LZTZ5oJLvEVWUgO54aYPH"
@@ -60316,7 +60522,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 209053,
       "name": "Slune\u010dn\u00fd Hrob",
       "url": "https://open.spotify.com/track/4suvrg9ElsEcCjOHnD3FJu"
@@ -62376,6 +62582,24 @@
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
+    },
+    {
+      "album": {
+        "name": "STARBOY",
+        "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "STARBOY",
+      "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
     },
     {
       "album": {
@@ -72126,7 +72350,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
@@ -73458,7 +73682,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 171269,
       "name": "Where Have You Been - Orchestra",
       "url": "https://open.spotify.com/track/0Vim6lw9lUkALW01kaGfDS"

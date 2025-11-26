@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676 likes - 101 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 675 likes - 102 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,16 +98,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 88 | [Used To The Pain](https://open.spotify.com/track/0o7LYztO3clVrcUvHGaENR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:41 |
 | 89 | [Don't Shut Me Out](https://open.spotify.com/track/01nszy9ovNvMr06hV084SD) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:54 |
 | 90 | [Raise The Barn](https://open.spotify.com/track/11T0fu2X5fcs3VD2Oq1doc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 5:11 |
-| 91 | [Rollercoaster](https://open.spotify.com/track/16FpBXCh6zQG9QWZCtp565) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 2:54 |
-| 92 | [I'll Walk In Sunshine Again](https://open.spotify.com/track/0dGfG8Ut0YFyay1adcMhhH) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up](https://open.spotify.com/album/0ZyQMdyPw4nRD0cMNBJjfp) | 3:13 |
-| 93 | [Ghost In This Guitar](https://open.spotify.com/track/6kzUKOvSpSzlkdB7rRKKeK) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 4:11 |
-| 94 | [Out On My Own](https://open.spotify.com/track/3vis2zgOYKGs9nOjwssXF9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:56 |
-| 95 | [Freedom's Finally Mine](https://open.spotify.com/track/2Z2rEkZngii5tSDAHr0WU8) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 3:51 |
-| 96 | [Clutterbilly](https://open.spotify.com/track/7fnBbHufKVd2mgYCaSYM3z) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 2:41 |
-| 97 | [She Does](https://open.spotify.com/track/7AKls3pxbhAPrQwGsljDlS) | [Locksley](https://open.spotify.com/artist/5RNwd3Bm5pgaERdZcBr7om) | [The Coolest Songs in the World! Vol\. 6](https://open.spotify.com/album/6zDWqkDvOQLtAM0q07TLcb) | 1:50 |
-| 98 | [Billy](https://open.spotify.com/track/4m4JRP31PUde8ghvk0Pgoh) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 3:46 |
-| 99 | [Sunburned Country](https://open.spotify.com/track/6jem5ayssg5LZ3q7mewnr1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [\(2\)](https://open.spotify.com/album/1ERi78WxPuTTHMKvxV4Wts) | 5:37 |
-| 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
-| 101 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
+| 91 | [One Day Longer](https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Songwriter](https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48) | 4:07 |
+| 92 | [Rollercoaster](https://open.spotify.com/track/16FpBXCh6zQG9QWZCtp565) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 2:54 |
+| 93 | [I'll Walk In Sunshine Again](https://open.spotify.com/track/0dGfG8Ut0YFyay1adcMhhH) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Fire It Up](https://open.spotify.com/album/0ZyQMdyPw4nRD0cMNBJjfp) | 3:13 |
+| 94 | [Ghost In This Guitar](https://open.spotify.com/track/6kzUKOvSpSzlkdB7rRKKeK) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 4:11 |
+| 95 | [Out On My Own](https://open.spotify.com/track/3vis2zgOYKGs9nOjwssXF9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:56 |
+| 96 | [Freedom's Finally Mine](https://open.spotify.com/track/2Z2rEkZngii5tSDAHr0WU8) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 3:51 |
+| 97 | [Clutterbilly](https://open.spotify.com/track/7fnBbHufKVd2mgYCaSYM3z) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 2:41 |
+| 98 | [She Does](https://open.spotify.com/track/7AKls3pxbhAPrQwGsljDlS) | [Locksley](https://open.spotify.com/artist/5RNwd3Bm5pgaERdZcBr7om) | [The Coolest Songs in the World! Vol\. 6](https://open.spotify.com/album/6zDWqkDvOQLtAM0q07TLcb) | 1:50 |
+| 99 | [Billy](https://open.spotify.com/track/4m4JRP31PUde8ghvk0Pgoh) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 3:46 |
+| 100 | [Sunburned Country](https://open.spotify.com/track/6jem5ayssg5LZ3q7mewnr1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [\(2\)](https://open.spotify.com/album/1ERi78WxPuTTHMKvxV4Wts) | 5:37 |
+| 101 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
+| 102 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `AcCeaAAAAACJFZx1CtaNPPEjHe1scEMH`
+Snapshot ID: `AcCj9AAAAACGOGULYeLN5y7H4Lu2r5kP`

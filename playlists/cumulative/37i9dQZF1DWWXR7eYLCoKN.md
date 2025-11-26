@@ -4,7 +4,7 @@
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-165 songs - 9 hr 44 min
+166 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Cabide](https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 2:33 | 2023-04-28 |  |
 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 | 2023-04-28 |  |
 | [Carinhoso](https://open.spotify.com/track/5VLsvYg9dlDHXNwlX6r9QO) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW), [Pixinguinha](https://open.spotify.com/artist/0pMRwfwerzk1N0cUov351R) | [A Enluarada Elizeth](https://open.spotify.com/album/73tYzmMaMZRaowHFuhk3gm) | 2:34 | 2023-04-28 | 2023-08-05 |
+| [Cetim](https://open.spotify.com/track/4otIb6ZwtjOES9Z6NPoJzZ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:51 | 2025-11-25 |  |
 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 | 2023-04-28 |  |
 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 | 2023-04-28 |  |
 | [Com Que Roupa?](https://open.spotify.com/track/6n6wwaPId9WkfkBqbBr6mr) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Noel Rosa Songbook](https://open.spotify.com/album/7ePeVwqqLVIDrCIIa33JDJ) | 4:03 | 2024-01-19 |  |
@@ -135,7 +136,7 @@
 | [Samba De Um Minuto](https://open.spotify.com/track/4GwuvVBaYtO7UwQgKMVoTh) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Belo E Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/2MqIA0xrVH7qubLhN4JEdZ) | 4:33 | 2024-01-19 |  |
 | [Samba de um Minuto](https://open.spotify.com/track/3HLUpp7deS78Y3LE7xRbpw) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Que Belo Estranho Dia Pra Se Ter Alegria](https://open.spotify.com/album/5q8JrwUqI6GcvxsDH6seKu) | 4:33 | 2023-04-28 | 2024-04-19 |
 | [Samba E Amor](https://open.spotify.com/track/4uEYpkj1LftTpAXpUwqQo0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque De Hollanda Nº4](https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf) | 3:19 | 2023-04-28 | 2024-07-19 |
-| [Samba Jambo](https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ) | [Jorge Mautner](https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg) | [Mil E Uma Noites De Bagdá](https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S) | 3:12 | 2023-04-28 |  |
+| [Samba Jambo](https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ) | [Jorge Mautner](https://open.spotify.com/artist/6IyBL2HQ7NB6V6xqgl3jBg) | [Mil E Uma Noites De Bagdá](https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S) | 3:12 | 2023-04-28 | 2025-11-26 |
 | [Samba Jazz, de Raiz](https://open.spotify.com/track/3F2ib87cmlI1B9VaU12bnB) | [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Samba Jazz, de Raiz Cláudio Jorge 70](https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4) | 4:09 | 2023-07-28 |  |
 | [Samba Teresa](https://open.spotify.com/track/5RMVWN6PTVptYaVE7kE6QN) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry), [Clara Coral](https://open.spotify.com/artist/5vBtTV3EdmAiUxpw3tDEEz) | [Samba Teresa](https://open.spotify.com/album/6G39y3eaasUT4iJSer4Hvx) | 3:13 | 2023-04-28 | 2024-04-19 |
 | [Samba Teresa](https://open.spotify.com/track/6T5q4r6hkDijDJIOLoRAiC) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry), [Clara Coral](https://open.spotify.com/artist/6GwtobxROOKPPMzEE2C8p0) | [Samba Teresa](https://open.spotify.com/album/0DvigiW2nGQZwDVllPsiOs) | 3:13 | 2024-01-19 |  |

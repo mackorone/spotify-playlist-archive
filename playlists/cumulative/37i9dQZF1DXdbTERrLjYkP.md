@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Kerr Mercer
 
-974 songs - 2 day 4 hr 24 min
+975 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-02 |
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 | 2023-08-12 |
 | [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-04-19 |
-| [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 |  |
+| [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 | 2025-11-26 |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-09-10 |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-14 | 2022-03-12 |
 | [Beach Zombies](https://open.spotify.com/track/5h1cU6XlKTEoiyCIAh2nbF) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Beach Zombies](https://open.spotify.com/album/4OI0wbuC4u0WhjpKttX4ym) | 2:37 | 2023-03-03 | 2023-07-01 |
@@ -290,7 +290,7 @@
 | [Figure Everything Out](https://open.spotify.com/track/2s5A2Eqy8svOzV4Wldbk2e) | [Dominique](https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc) | [Rediscovery](https://open.spotify.com/album/5acYEs232reu6u2vhEKcFy) | 3:34 | 2022-11-18 | 2022-12-24 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-14 | 2022-05-20 |
 | [Finish Line](https://open.spotify.com/track/1FzXRK8g8TxVdL8UjSWaRC) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Finish Line](https://open.spotify.com/album/2igSIienylWy0mgiUDWQAz) | 2:38 | 2022-01-14 | 2022-02-12 |
-| [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 | 2025-08-29 |  |
+| [First And Last](https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [First And Last](https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N) | 2:58 | 2025-08-29 | 2025-11-26 |
 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 | 2023-04-14 | 2023-08-19 |
 | [First Time Around](https://open.spotify.com/track/23psMZPlDbapkhRYmJsjlv) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/6rypi6Trg8qZLNbimsZuYb) | 4:45 | 2023-01-27 | 2023-02-16 |
 | [First Time Around](https://open.spotify.com/track/7ttmCexFPcRrE4T6REFmWj) | [Sophia James](https://open.spotify.com/artist/23xulTZL2CvclAu5Q1eMaN) | [First Time Around](https://open.spotify.com/album/02FbrawyS5PpJ11VVONnyJ) | 4:45 | 2023-02-03 | 2023-04-29 |
@@ -468,6 +468,7 @@
 | [If You Were A Person \(Ruby's Song\)](https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Ruby](https://open.spotify.com/album/034C9JToBoiKfx0ftERpiy) | 2:46 | 2024-09-20 | 2025-03-15 |
 | [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-02 | 2025-02-15 |
 | [If You'll Be Mine](https://open.spotify.com/track/7zU6Wxahb3l4ZOz4V0RljM) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [If You'll Be Mine](https://open.spotify.com/album/2hWRvVLlBOGkTVfB776DaF) | 2:51 | 2023-12-15 | 2024-08-17 |
+| [Immune](https://open.spotify.com/track/257vYk90jZBxKvgW2ZZH0D) | [Róise](https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq) | [Television](https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO) | 3:24 | 2025-11-25 |  |
 | [In a Few Months](https://open.spotify.com/track/6FAMGlXpqVkgCpTgA5iEYs) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [In a Few Months](https://open.spotify.com/album/2tGxcCJyqcipZtervTeD77) | 2:52 | 2023-01-27 | 2023-04-15 |
 | [In Between](https://open.spotify.com/track/6MpH0CFS4ikDVF8nc8mEY3) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [In Between](https://open.spotify.com/album/3GPnRyr4N0RBZM5sAgTYH0) | 3:54 | 2025-11-21 |  |
 | [in my head](https://open.spotify.com/track/4E4K8qooKOsDHpZrmquBGm) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [in my head](https://open.spotify.com/album/6LxluJA87ubb7G4prSX07I) | 3:44 | 2023-04-28 | 2023-09-02 |
@@ -843,7 +844,7 @@
 | [The Garden](https://open.spotify.com/track/3J0ALYQczECrd6tmUr5WUH) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/4tGIrqpwEBRV2EbB0ckVDe) | 3:16 | 2025-03-07 | 2025-06-20 |
 | [The Gift You Gave Me](https://open.spotify.com/track/0RPA0br4CEgb7RNKp38PXv) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [The Gift You Gave Me](https://open.spotify.com/album/3fknXxnIlMlk8tLRrTQxdG) | 2:49 | 2024-12-20 | 2025-04-19 |
 | [The Girl Who Cried Love](https://open.spotify.com/track/68zmVEhY9iI1WumxzVqAoi) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Blurry Vision](https://open.spotify.com/album/442bxdGV3makrW5UlF1Ws4) | 2:57 | 2024-01-19 | 2024-07-02 |
-| [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1VrFjz3WcDJdvGiayFeXdZ) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 | 2025-11-07 |  |
+| [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 | 2025-11-07 |  |
 | [the last laugh](https://open.spotify.com/track/4j25oHEZNvFt1m3P9WUJlv) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:17 | 2023-03-31 | 2023-08-12 |
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2024-06-15 |
 | [The New Me](https://open.spotify.com/track/0E8Torj5fhTNBghR1LlPNg) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [The New Me](https://open.spotify.com/album/0cqSltNGK7v8cGQmpw2QAF) | 2:23 | 2022-01-14 | 2022-06-09 |

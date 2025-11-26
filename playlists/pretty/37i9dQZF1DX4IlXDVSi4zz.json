@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 979966,
+  "num_followers": 980167,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -120,12 +120,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
           "name": "Rivo",
           "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
         }
       ],
       "duration_ms": 208524,
@@ -779,30 +779,6 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
-        "name": "Sauti",
-        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Faul & Wad",
-          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
-        },
-        {
-          "name": "African Children's Choir",
-          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
-        }
-      ],
-      "duration_ms": 208770,
-      "name": "Sauti",
-      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
-    },
-    {
-      "added_at": "2025-11-21 14:13:51",
-      "album": {
         "name": "Jackie B",
         "url": "https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
+    },
+    {
+      "added_at": "2025-11-21 14:13:51",
+      "album": {
+        "name": "Sauti",
+        "url": "https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Faul & Wad",
+          "url": "https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5"
+        },
+        {
+          "name": "African Children's Choir",
+          "url": "https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud"
+        }
+      ],
+      "duration_ms": 208770,
+      "name": "Sauti",
+      "url": "https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz"
     },
     {
       "added_at": "2025-11-21 14:13:51",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
-    },
-    {
-      "added_at": "2025-11-21 14:13:51",
-      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
+    },
+    {
+      "added_at": "2025-11-21 14:13:51",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-11-21 14:13:51",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
-        "name": "Amana",
-        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 338210,
-      "name": "Amana",
-      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
-    },
-    {
-      "added_at": "2025-11-21 14:13:51",
-      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -1967,6 +1947,26 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
+        "name": "Amana",
+        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 338210,
+      "name": "Amana",
+      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
+    },
+    {
+      "added_at": "2025-11-21 14:13:51",
+      "album": {
         "name": "Sunrise (Remixes)",
         "url": "https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1"
       },
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
+        "name": "Campe\u00f3n",
+        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        }
+      ],
+      "duration_ms": 173777,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
+    },
+    {
+      "added_at": "2025-11-21 14:13:51",
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2025-11-21 14:13:51",
-      "album": {
-        "name": "Campe\u00f3n",
-        "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
-      },
-      "artists": [
-        {
-          "name": "ZULAN",
-          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
-        }
-      ],
-      "duration_ms": 173777,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
     },
     {
       "added_at": "2025-11-21 14:13:51",
@@ -2095,6 +2095,26 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 223731,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+    },
+    {
+      "added_at": "2025-11-21 14:13:51",
+      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
         "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
       },
@@ -2119,22 +2139,22 @@
     {
       "added_at": "2025-11-21 14:13:51",
       "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+        "name": "Secreto de Amor (Las Noches) EP",
+        "url": "https://open.spotify.com/album/6beY717xGgNQnQtcPYXGPH"
       },
       "artists": [
         {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         },
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 223731,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+      "duration_ms": 258387,
+      "name": "M\u00e1s All\u00e1 del Sol - La Luna",
+      "url": "https://open.spotify.com/track/0tPCfeskeq62RaeDRUZkcn"
     },
     {
       "added_at": "2025-11-21 14:13:51",
@@ -2179,26 +2199,6 @@
       "duration_ms": 165135,
       "name": "In Love Today",
       "url": "https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj"
-    },
-    {
-      "added_at": "2025-11-21 14:13:51",
-      "album": {
-        "name": "Secreto de Amor (Las Noches) EP",
-        "url": "https://open.spotify.com/album/6beY717xGgNQnQtcPYXGPH"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 258387,
-      "name": "M\u00e1s All\u00e1 del Sol - La Luna",
-      "url": "https://open.spotify.com/track/0tPCfeskeq62RaeDRUZkcn"
     }
   ],
   "unique_name": "Tulum Party",

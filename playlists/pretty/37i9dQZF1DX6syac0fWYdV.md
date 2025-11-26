@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,568 likes - 273 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,632 likes - 273 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 272 | [Feet in Sand](https://open.spotify.com/track/6YbkG0VobN5rBaN9QW14Ih) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Feet in Sand](https://open.spotify.com/album/4YCnbj7uIHHXFmljXzkLCP) | 2:54 |
 | 273 | [Time On You](https://open.spotify.com/track/6kimjJ50NnZjkzoSs6oYMk) | [Purple Motive](https://open.spotify.com/artist/6dXR6tFXPIoJBljuOKJK53) | [Time On You](https://open.spotify.com/album/0kVYwamSZUeI3XAOvlWwpA) | 2:10 |
 
-Snapshot ID: `AAAAAEeelR19i1PkKMBYvK3PQtkb1XxO`
+Snapshot ID: `AAAAAD44ObyGrYNEOhWmhaEuyT+v4Edz`

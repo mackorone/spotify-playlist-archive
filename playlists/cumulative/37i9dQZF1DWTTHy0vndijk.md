@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: ILLIT\(아일릿\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-514 songs - 1 day 4 hr 3 min
+516 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
+| [Bloom](https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [lip bomb](https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H) | 2:56 | 2025-11-25 |  |
 | [BLOOM](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:23 | 2024-03-08 | 2024-05-23 |
 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 | 2024-04-08 | 2024-10-17 |
 | [Boo](https://open.spotify.com/track/6i7mQOXDa23mOJb5TjPqQc) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Growing Up](https://open.spotify.com/album/2xJZSgxlKvcOCR2aLA8Pq2) | 3:23 | 2022-04-04 | 2022-04-10 |
@@ -59,6 +60,7 @@
 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 | 2022-10-29 | 2024-03-13 |
 | [Bubble](https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [TEENFRESH](https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x) | 2:59 | 2023-08-18 | 2025-04-16 |
 | [Bubble Gum](https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:20 | 2024-06-12 | 2025-09-15 |
+| [Bubble Gum Girl](https://open.spotify.com/track/38bky5ZuZZFlBmbphLBgaZ) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:48 | 2025-11-25 |  |
 | [BUBIBU](https://open.spotify.com/track/5hqPBajIgiuL9bcxnKd2kQ) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [BUBIBU](https://open.spotify.com/album/7xUQp6x6q1EcezukD3rsEH) | 3:39 | 2021-11-29 | 2022-04-20 |
 | [Butterfly](https://open.spotify.com/track/3P5M7SoBB0PiAPWhm3FY4F) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:53 | 2022-03-29 | 2022-05-17 |
 | [BUTTERFLY](https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Neverland](https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi) | 3:37 | 2021-11-29 | 2022-07-28 |
@@ -261,7 +263,7 @@
 | [Love Me Out Loud](https://open.spotify.com/track/1zFT6Z2zT4Z4kUFnerd9lE) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Bare&Rare, Pt\. 1](https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR) | 3:24 | 2022-07-12 | 2022-08-02 |
 | [Love O'clock](https://open.spotify.com/track/5KVKiMVV9OlJzc22DzGEEr) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [SECRET GARDEN](https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN) | 3:56 | 2021-11-29 | 2022-07-19 |
 | [LOVE WHISPER](https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 5th Mini Album <PARALLEL>](https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf) | 3:31 | 2021-11-29 | 2022-07-06 |
-| [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 | 2025-09-17 |  |
+| [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 | 2025-09-17 | 2025-11-26 |
 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 | 2022-10-24 | 2023-05-07 |
 | [LOVEADE](https://open.spotify.com/track/0q7U1KqAYPGHdwC8HVw67y) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 2nd Mini Album 'Summer Vibe'](https://open.spotify.com/album/3C9klin5PNVtOaR91eqEGz) | 3:38 | 2022-07-07 | 2022-07-09 |
 | [Lucky](https://open.spotify.com/track/7eirSc5kjfrK1R7Wo06pos) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:04 | 2022-04-04 | 2022-04-14 |
@@ -345,7 +347,7 @@
 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 | 2021-11-29 | 2022-04-20 |
 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-24 |  |
 | [PROMISE \(for UNICEF Promise Campaign\)](https://open.spotify.com/track/2Gceplet3jzhweUib54mhf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [EVERGLOW FOR UNICEF PROMISE CAMPAIGN](https://open.spotify.com/album/1Sp9Cm6n0ZzTAuwAKCS0Wd) | 3:34 | 2021-11-29 | 2022-07-29 |
-| [Psycho](https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Psycho \(From "Operation: True Love"\)](https://open.spotify.com/album/2nanNUoMsYRnX9U6jvdUkw) | 2:11 | 2025-11-21 |  |
+| [Psycho](https://open.spotify.com/track/09Kgz5rQuikCMwaB3eqevM) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [Psycho \(From "Operation: True Love"\)](https://open.spotify.com/album/2nanNUoMsYRnX9U6jvdUkw) | 2:11 | 2025-11-21 | 2025-11-26 |
 | [Pure Love](https://open.spotify.com/track/5pjRQhcBP1fJkJt1lIluWK) | [Seorina](https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP) | [MARHEN.J : SUSTAIN](https://open.spotify.com/album/5E2gfnDgVuApKHVnmyswjB) | 3:13 | 2022-07-08 | 2022-07-29 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-07-29 |
 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 | 2021-11-29 |  |

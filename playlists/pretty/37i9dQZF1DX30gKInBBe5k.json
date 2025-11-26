@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212697,
+  "num_followers": 212705,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "Moveys",
+        "url": "https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 200025,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "Viva Last Blues",
         "url": "https://open.spotify.com/album/2spOqnVm8xI2koT8HQxsFW"
       },
@@ -927,22 +943,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Horse Jumper of Love",
-        "url": "https://open.spotify.com/album/4f49uPuntbmcWXz0TUHYSk"
-      },
-      "artists": [
-        {
-          "name": "Horse Jumper of Love",
-          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
-        }
-      ],
-      "duration_ms": 176703,
-      "name": "Ugly Brunette",
-      "url": "https://open.spotify.com/track/10sW0aDGSqVtlkzNmU6nOZ"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Kid A",
         "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 356333,
       "name": "How To Disappear Completely",
       "url": "https://open.spotify.com/track/69pwmeyvQMuHMtkCmpEWhQ"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Horse Jumper of Love",
+        "url": "https://open.spotify.com/album/4f49uPuntbmcWXz0TUHYSk"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 176703,
+      "name": "Ugly Brunette",
+      "url": "https://open.spotify.com/track/10sW0aDGSqVtlkzNmU6nOZ"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
-      },
-      "artists": [
-        {
-          "name": "Idaho",
-          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
-        }
-      ],
-      "duration_ms": 190731,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Stratosphere",
         "url": "https://open.spotify.com/album/35QrvQ2SlbEwZD8oq2yxBH"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 300893,
       "name": "Topical Solution",
       "url": "https://open.spotify.com/track/1DrJC3J11DolsHxVd8cAmq"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/4XcXyoxuSTavad15AaOTIp"
+      },
+      "artists": [
+        {
+          "name": "Idaho",
+          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
+        }
+      ],
+      "duration_ms": 190731,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/1Z1lzLOYf6CuAsrbNbmdDl"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "WhatFunLifeWas",
-        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
-      },
-      "artists": [
-        {
-          "name": "Bedhead",
-          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
-        }
-      ],
-      "duration_ms": 284301,
-      "name": "Bedside Table",
-      "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 200025,
-      "name": "Montana",
-      "url": "https://open.spotify.com/track/1kodYJ3wtJuVozLPRKWDOR"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Red House Painters I",
         "url": "https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5"
       },
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Spiderland",
-        "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
-      },
-      "artists": [
-        {
-          "name": "Slint",
-          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
-        }
-      ],
-      "duration_ms": 459333,
-      "name": "Good Morning, Captain",
-      "url": "https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "The For Carnation",
         "url": "https://open.spotify.com/album/76jj5JVBFyQZqKvtVTJiFC"
       },
@@ -1275,6 +1243,38 @@
       "duration_ms": 492360,
       "name": "Emp. Man's Blues",
       "url": "https://open.spotify.com/track/08AaYagr9AUBTcjwyYxNfV"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "WhatFunLifeWas",
+        "url": "https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae"
+      },
+      "artists": [
+        {
+          "name": "Bedhead",
+          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
+        }
+      ],
+      "duration_ms": 284301,
+      "name": "Bedside Table",
+      "url": "https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Spiderland",
+        "url": "https://open.spotify.com/album/0cp3HJ6szImZfnVSPHDqAU"
+      },
+      "artists": [
+        {
+          "name": "Slint",
+          "url": "https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC"
+        }
+      ],
+      "duration_ms": 459333,
+      "name": "Good Morning, Captain",
+      "url": "https://open.spotify.com/track/154qGmayKVoKeeqv8Yy0QC"
     },
     {
       "added_at": "2025-08-07 23:00:59",

@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-207 songs - 9 hr 51 min
+208 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2023-11-20 | 2024-06-27 |
 | [Improvisation 7](https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Chopin +](https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg) | 1:13 | 2023-11-20 | 2024-06-02 |
 | [In Love In Vain](https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [In Love In Vain](https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT) | 2:54 | 2023-12-25 | 2025-11-06 |
+| [In The Dark Hours](https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [In The Dark Hours](https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh) | 2:55 | 2025-11-24 |  |
 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 | 2024-07-01 | 2024-08-13 |
 | [Interconnectivity](https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S) | [Sigríður](https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT) | [Interconnectivity](https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY) | 1:43 | 2023-11-20 | 2024-02-08 |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2023-11-20 |  |
@@ -183,7 +184,7 @@
 | [The End Of A Love Affair](https://open.spotify.com/track/121BsQV03zxG11taJmpnUe) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [April In Paris](https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR) | 3:02 | 2024-07-15 |  |
 | [The Giant](https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [The Giant](https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU) | 3:03 | 2024-02-12 | 2025-01-08 |
 | [The Inner World](https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu) | [Ruben Galloway](https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX) | [Origins](https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A) | 3:22 | 2025-10-20 |  |
-| [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2025-08-11 |  |
+| [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2025-08-11 | 2025-11-26 |
 | [The Music Of The Night](https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS) | [Niila Alto](https://open.spotify.com/artist/2Dx4S8w95AxrvdhJKQVkmC) | [The Music Of The Night](https://open.spotify.com/album/19gJXpMuISfxSL8E95p2bN) | 4:29 | 2023-11-20 |  |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2025-11-24 |  |
 | [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2023-11-20 | 2023-12-12 |

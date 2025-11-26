@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-301 songs - 13 hr 38 min
+303 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [luft holen](https://open.spotify.com/track/4LOGPJg8TsT0RC5xyvLN30) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [nur liebe, immer.](https://open.spotify.com/album/5Smkfw2oCHkVJeGWgo0ylD) | 2:26 | 2024-06-28 | 2024-07-31 |
 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 | 2024-06-28 |  |
 | [Lüg mich nicht an](https://open.spotify.com/track/4QOcHsWgyt5be1NqIw5iH6) | [FANJI](https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy) | [Lüg mich nicht an](https://open.spotify.com/album/0i5bmeRJeIQpNQwqFaEWnM) | 2:29 | 2024-11-18 | 2025-01-17 |
-| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 |  |
+| [Ma Baby 2](https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Ma Baby 2](https://open.spotify.com/album/0uNb0PeBohxk17utB3gcJY) | 2:30 | 2025-03-24 | 2025-11-26 |
 | [Ma Shawty](https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Ma Shawty](https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ) | 2:57 | 2025-10-16 |  |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-06-28 |  |
 | [Malediven](https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Ich lieb mich, ich lieb mich nicht](https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf) | 2:03 | 2025-09-18 |  |
@@ -219,6 +219,7 @@
 | [Passion \(feat\. Paula Hartmann\)](https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 2:40 | 2024-06-28 |  |
 | [Pflaster](https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i) | [Pflaster](https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2) | 2:13 | 2024-11-25 | 2025-02-04 |
 | [Plastikblumen](https://open.spotify.com/track/3xlGxCgwVwU08zL3Hrna95) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Helldunkel](https://open.spotify.com/album/2zGXSLw6MPbYn5eyUAkbaa) | 1:48 | 2024-08-26 | 2024-11-13 |
+| [Plug](https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Plug](https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK) | 2:55 | 2025-11-25 |  |
 | [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 | 2025-06-24 | 2025-08-23 |
 | [Porsche 911](https://open.spotify.com/track/1vP18y049pwS2OWUrvDjIE) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:10 | 2025-08-28 |  |
 | [Princess Treatment](https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Princess Treatment](https://open.spotify.com/album/0mF21ARJoYWYQ1mQ62viCC) | 2:15 | 2024-10-10 | 2024-12-10 |
@@ -238,7 +239,7 @@
 | [Scherbenland](https://open.spotify.com/track/5GDTwl4kG9ChWUcXZY6TB9) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [Scherbenland](https://open.spotify.com/album/1osObReGJXfg65fHNcSgv1) | 2:27 | 2025-08-07 | 2025-09-22 |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2024-06-28 | 2024-12-19 |
 | [Schwarze Wolke](https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Schwarze Wolke](https://open.spotify.com/album/1WZAhXI5YWAjDonYilGnzy) | 2:57 | 2024-11-11 | 2025-01-16 |
-| [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 |  |
+| [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 | 2025-11-26 |
 | [Schön, dass du da warst](https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schön, dass du da warst](https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30) | 2:47 | 2025-07-17 |  |
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-09-18 |  |
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 | 2025-08-07 |
@@ -287,6 +288,7 @@
 | [Weg zu weit](https://open.spotify.com/track/5lOM8wfa2HMTqFYO39ADCX) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Weg zu weit](https://open.spotify.com/album/3qZ5Mp7tGNKbQhPEAnI3ag) | 2:31 | 2024-12-16 |  |
 | [Wegen Dir](https://open.spotify.com/track/6e8jTJ7CE1Kt4M2mlooZ5J) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT), [FRIO](https://open.spotify.com/artist/2Z7cjLnzuXsFlU4D5Pz05c) | [Wegen Dir](https://open.spotify.com/album/5R1Nffl5bcDFWDwIKbJctl) | 3:10 | 2024-06-28 | 2024-10-26 |
 | [Wegen dir](https://open.spotify.com/track/7K7lwROeMUBD2qqYA9bNqu) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Wegen dir](https://open.spotify.com/album/3blfKL2lsNGEgrfQIWKKJ8) | 2:30 | 2024-11-18 | 2025-10-03 |
+| [Weinst du](https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ) | [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Weinst du](https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1) | 2:16 | 2025-11-25 |  |
 | [Weisse Orchideen](https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Weisse Orchideen](https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2) | 2:57 | 2024-06-28 |  |
 | [Wellness am Scherbenmeer](https://open.spotify.com/track/2dHskhyGCWoZdEagnUORUh) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Wellness am Scherbenmeer](https://open.spotify.com/album/27XEKmEg5kok4QosVdsH95) | 3:04 | 2024-06-28 | 2024-07-27 |
 | [Wenn der Himmel weint](https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Wenn der Himmel weint](https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ) | 2:08 | 2025-02-24 |  |

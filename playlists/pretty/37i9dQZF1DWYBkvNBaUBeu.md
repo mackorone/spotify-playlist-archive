@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,155 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,165 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

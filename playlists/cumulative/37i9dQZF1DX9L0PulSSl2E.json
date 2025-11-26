@@ -487,6 +487,32 @@
     },
     {
       "album": {
+        "name": "GIVE IT BACK",
+        "url": "https://open.spotify.com/album/5xWHmiobO7M4dtfLPu8KVu"
+      },
+      "artists": [
+        {
+          "name": "Vee Kapoor",
+          "url": "https://open.spotify.com/artist/6HLcCtYEqZkc4BpCuoogyY"
+        },
+        {
+          "name": "13 JAY",
+          "url": "https://open.spotify.com/artist/0F6bPWNx3E6HhZTZi1Z9bE"
+        },
+        {
+          "name": "Agni Varan Ruhela",
+          "url": "https://open.spotify.com/artist/5PDvs9cePuBWfxMfijRj27"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "GIVE IT BACK",
+      "url": "https://open.spotify.com/track/5QSpjbIjMhK91UL9gIgR9g"
+    },
+    {
+      "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
       },
@@ -830,6 +856,32 @@
       "duration_ms": 158000,
       "name": "Kufar",
       "url": "https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1"
+    },
+    {
+      "album": {
+        "name": "Lagda Na Dil",
+        "url": "https://open.spotify.com/album/1lFY6bcXn6qTK7e7BBJF4N"
+      },
+      "artists": [
+        {
+          "name": "RAAJA",
+          "url": "https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        },
+        {
+          "name": "Deepa Bandala",
+          "url": "https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186997,
+      "name": "Lagda Na Dil",
+      "url": "https://open.spotify.com/track/7Fjl2QuvHWjNofOZGpHNMe"
     },
     {
       "album": {
@@ -1192,7 +1244,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 184447,
       "name": "Sun Jattiye",
       "url": "https://open.spotify.com/track/46rVOty2daqfk47eU5kwtw"
@@ -1394,7 +1446,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 179469,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy"

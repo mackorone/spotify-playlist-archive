@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,387 likes - 340 songs - 21 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,389 likes - 340 songs - 21 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 197 | [Big Girl Little Girl](https://open.spotify.com/track/4W2t7IWugHayILQdV3FLun) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 4:18 |
 | 198 | [You're Mine](https://open.spotify.com/track/3wfiYtFeCtlijiqmTIlBFQ) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 3:38 |
 | 199 | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/track/2yJgLxRS3qzh8MwPogWG7d) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Diamond Eyes \(feat\. Sia\)](https://open.spotify.com/album/1Wz4TaOdgu0xzFcn4itx7M) | 3:43 |
-| 200 | [I Am Me](https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [I Am Me](https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg) | 4:08 |
-| 201 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
+| 200 | [Eye To Eye](https://open.spotify.com/track/6IEz7AX56qZ2PDH4cCEVpq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:19 |
+| 201 | [I Am Me](https://open.spotify.com/track/3DV7noSx1US7DCWIlF2OC6) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [I Am Me](https://open.spotify.com/album/7Bgtodjks7aKmZHI91xwUg) | 4:08 |
 | 202 | [I Am](https://open.spotify.com/track/3kCNhgO03URvgUqVtv2z8C) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 3:52 |
 | 203 | [Playground](https://open.spotify.com/track/3RgMXNXwRoxxdJpRwGNfZE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:28 |
 | 204 | [The Bully](https://open.spotify.com/track/0UUNAZasnJ37nGFZH46AWF) | [Richard Swift](https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr) | [Ground Trouble Jaw](https://open.spotify.com/album/5Bz9Xq3rMsruOs0WUkhMid) | 2:27 |
@@ -327,9 +327,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 317 | [Time Wave Zero](https://open.spotify.com/track/1IT1QXgq61RFe1E1hWXMIH) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:23 |
 | 318 | [Crush Me With Your Love](https://open.spotify.com/track/3YJvOg1AqvtUqAiTHmBxWZ) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:19 |
 | 319 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
-| 320 | [Sweet One \(feat\. Sia\)](https://open.spotify.com/track/4fYW8D26oT3GjmaBYK3Pm9) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr), [The Captains](https://open.spotify.com/artist/37JtJzCZlbzsJqpkRSoXiG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Emperor's Box](https://open.spotify.com/album/6MuRAdOhzqvhItkS8lUPST) | 4:07 |
-| 321 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
-| 322 | [Everything You Needed](https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 3:50 |
+| 320 | [Everything You Needed](https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 3:50 |
+| 321 | [Sweet One \(feat\. Sia\)](https://open.spotify.com/track/4fYW8D26oT3GjmaBYK3Pm9) | [Katie Noonan](https://open.spotify.com/artist/4ch5DvHFpBlRtZAERVcfHr), [The Captains](https://open.spotify.com/artist/37JtJzCZlbzsJqpkRSoXiG), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Emperor's Box](https://open.spotify.com/album/6MuRAdOhzqvhItkS8lUPST) | 4:07 |
+| 322 | [Anthem](https://open.spotify.com/track/3pA0YN34JkVK2oR4hE5byb) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 1:22 |
 | 323 | [Matrix](https://open.spotify.com/track/1b0PJgINRReqrrmCAv6OLL) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 4:36 |
 | 324 | [Oh Boy](https://open.spotify.com/track/2LZEddxkwZC8gYf6PxDOZT) | [Kayliah](https://open.spotify.com/artist/5vUkpDxDVZIggZLIdDKTNN) | [On A Tous Besoin De Croire](https://open.spotify.com/album/6hJWXCcdDF0GF5jn5FuPwh) | 3:10 |
 | 325 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 339 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 340 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcCeaAAAAAAFyATopQbx5lx5aTwm7zmA`
+Snapshot ID: `AcCj9AAAAAABboiGOL/Osi1nsFCcS1QO`

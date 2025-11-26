@@ -4,11 +4,12 @@
 
 > Experience the epic conclusion of Wicked: For Good with the official playlist\. You will be changed...
 
-42 songs - 2 hr 55 min
+43 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Sentimental Man](https://open.spotify.com/track/2Nox49biysRuKoIaDWMemm) | [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 2:12 | 2024-11-22 |  |
+| [A Wicked Good Finale \(feat\. Ariana Grande & Cynthia Erivo\)](https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP), [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Wicked Movie Cast](https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4) | [A Wicked Good Finale](https://open.spotify.com/album/7cw1RA5QNAnGuPxcvbrOAQ) | 4:39 | 2025-11-25 |  |
 | [As Long As You’re Mine](https://open.spotify.com/track/59vtqGF0p7RgNjnzC9Zk2p) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Jonathan Bailey](https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 4:06 | 2025-11-21 |  |
 | [Black Magic](https://open.spotify.com/track/6rmXhRIemCTPyMYZRDN7Qg) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 3:31 | 2024-11-18 | 2025-11-22 |
 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 | 2024-11-18 | 2025-11-22 |

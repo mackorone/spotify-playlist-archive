@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 141157,
+  "num_followers": 141187,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-10-13 07:38:37",
       "album": {
+        "name": "Udd Chala",
+        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 286181,
+      "name": "Udd Chala",
+      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
+    },
+    {
+      "added_at": "2025-10-13 07:38:37",
+      "album": {
         "name": "Dilbar",
         "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 168545,
       "name": "Dilbar",
       "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
-    },
-    {
-      "added_at": "2025-10-13 07:38:37",
-      "album": {
-        "name": "Udd Chala",
-        "url": "https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 286181,
-      "name": "Udd Chala",
-      "url": "https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I"
     },
     {
       "added_at": "2025-10-13 07:38:37",

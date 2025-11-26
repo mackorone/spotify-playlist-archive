@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "November fever",
+        "url": "https://open.spotify.com/album/1igEbgW1Zu3F1YDJmQ7HYf"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "November fever",
+      "url": "https://open.spotify.com/track/1YPkRZKDY5OEYDkjZtm200"
+    },
+    {
+      "album": {
         "name": "ntmc",
         "url": "https://open.spotify.com/album/0fX3WUSEfcnVU3zXir9iLz"
       },

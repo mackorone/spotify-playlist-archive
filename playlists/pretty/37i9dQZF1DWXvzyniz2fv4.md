@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,293 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,304 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 56 | [Doses](https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr) | [Kaê](https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY) | [Doses](https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd) | 3:26 |
 | 57 | [Visões](https://open.spotify.com/track/6bBJHkIhYhQCARd5xqO8eO) | [Zero Pacceli](https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh) | [Visões](https://open.spotify.com/album/1WKOJzsIGF9y2ZxWysT9R7) | 2:39 |
 | 58 | [Perto do Sol](https://open.spotify.com/track/7nnxD1h7mXYgWVTKsb2uib) | [RNT](https://open.spotify.com/artist/5oQCmIhv8pxJm3mhIvrg9d) | [Perto do Sol](https://open.spotify.com/album/7rrUcWBn8BA67KRpL6rS0r) | 2:48 |
-| 59 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
-| 60 | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [MC FAEL](https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H), [NK da Grota](https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7) | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw) | 4:08 |
+| 59 | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [Mc Orelha](https://open.spotify.com/artist/06dPHHGcFjSDdj2ybbf7vD), [Caslu](https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T), [MC FAEL](https://open.spotify.com/artist/1Ljw2Sjawn2CBZ63ewLP1H), [NK da Grota](https://open.spotify.com/artist/4wl79pGMKbRmcia2uxVpc7) | [Da Ponte Pra Cá \#1 \(feat\. Caslu, MC FAEL & NK da Grota\)](https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw) | 4:08 |
+| 60 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
 
 Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`

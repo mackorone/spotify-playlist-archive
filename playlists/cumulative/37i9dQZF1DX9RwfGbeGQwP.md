@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,581 songs - 2 day 11 hr 26 min
+1,583 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1249,6 +1249,7 @@
 | [Snow](https://open.spotify.com/track/7gDD63ZLoB08QdUkamY9cc) | [FRANZ](https://open.spotify.com/artist/4pAtdFcsdl8iMusalbOlLS), [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Snow](https://open.spotify.com/album/5FHTW00QwPLbDBa3uJZHqp) | 2:34 | 2022-07-29 | 2022-11-12 |
 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 | 2022-01-27 | 2024-05-14 |
 | [Social Jazz](https://open.spotify.com/track/7GzdWuACBcAB9nmz0JJ4Pl) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Social Jazz](https://open.spotify.com/album/2FOY9O0VU5AEfvmEXQYbQT) | 2:01 | 2022-06-10 | 2023-08-04 |
+| [Sodium Light](https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Sodium Light](https://open.spotify.com/album/4dv5BXCczbIXYggQzKETcG) | 2:05 | 2025-11-25 |  |
 | [SoFi](https://open.spotify.com/track/00ZXkrMBoVMBMXgVOz8nWX) | [Glozone](https://open.spotify.com/artist/3tL52hfMx8eyd3ee1bM0yw) | [SoFi](https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6) | 2:11 | 2024-06-21 | 2025-08-23 |
 | [Soft Garden](https://open.spotify.com/track/2a2MBD0XGNCPAHPKQNHusQ) | [jaxtun](https://open.spotify.com/artist/6OmeKMPyPWWmugowWQ68Pn) | [Soft Garden](https://open.spotify.com/album/3WyZrSpAVXW6d62wshYc8b) | 2:04 | 2022-01-27 | 2022-04-22 |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-01-27 | 2022-07-15 |
@@ -1324,6 +1325,7 @@
 | [sunburn](https://open.spotify.com/track/4U5WqVdkISyQaKIlAOICAt) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [sunburn](https://open.spotify.com/album/6NZfxSxsfouv5exah4wkzZ) | 2:10 | 2023-09-22 |  |
 | [Sunday Coffee](https://open.spotify.com/track/0nFRjElVFDu9605P1eYk1z) | [Sir Nicolas](https://open.spotify.com/artist/3X8CvGF1mqdrFIcfNS2HEW), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Lifted LoFi](https://open.spotify.com/artist/0rgw0PdrFhmiayr1srwKkH) | [Sunday Coffee](https://open.spotify.com/album/08AaXh2e0CIkcsW71lPVQB) | 3:12 | 2022-12-16 | 2023-03-25 |
 | [Sunday Stroller](https://open.spotify.com/track/1SYlHEWr5qbtIHZMZnMbi5) | [Jon Beauté](https://open.spotify.com/artist/1ExH27k1fKzrvoKkRWlCPv) | [Sunday Stroller](https://open.spotify.com/album/0q3HyHdqrYLMSeZYPTgrs9) | 2:20 | 2024-07-25 | 2025-08-23 |
+| [Sunflower](https://open.spotify.com/track/7cyRcqDorziVOShnNrypwU) | [Billy Bass](https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6) | [Sunflower](https://open.spotify.com/album/5SfF1luK89kcjD3TvNJv3G) | 2:00 | 2025-11-25 |  |
 | [Sunflower](https://open.spotify.com/track/4ng2LSEKmQ1s1jL3FGmI2j) | [SeanBeats](https://open.spotify.com/artist/6gxWrSNJaCqSVq9cYqjZIQ) | [Sunflower](https://open.spotify.com/album/4Sr7kNZLsdF59C13I83lft) | 2:22 | 2023-03-08 | 2025-10-28 |
 | [Sunflower](https://open.spotify.com/track/3a2fLFjazrZlinsXTZB3T3) | [Velvet Static](https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1) | [Sunflower](https://open.spotify.com/album/6q2ce3gSOf1osMaAHJBAEl) | 2:13 | 2024-09-27 | 2025-11-06 |
 | [sunflowers](https://open.spotify.com/track/2lsu6It5U15RZzhFylH5yb) | [chilltrap](https://open.spotify.com/artist/33QpdTC6EssmdARvxTLOMm) | [sunflowers](https://open.spotify.com/album/1xIBjY2QdM61QZBkrsDqUW) | 1:25 | 2022-01-27 | 2022-09-09 |
@@ -1426,7 +1428,7 @@
 | [Things you do](https://open.spotify.com/track/1iNaJc7fgR9gcgF6eqDzEl) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Things you do](https://open.spotify.com/album/7xQgDd1Vwxogr1SqW8RDWD) | 1:43 | 2023-02-07 | 2023-10-27 |
 | [Think Twice](https://open.spotify.com/track/2E4GnQYz1yUF58LDJrczdK) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z) | [Think Twice](https://open.spotify.com/album/0KUrUu4Z3WdgCiuxWmNtgl) | 2:52 | 2022-06-24 | 2022-07-01 |
 | [Thinking](https://open.spotify.com/track/358NCBqAG94tv26dHgZIbk) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H) | [Thinking](https://open.spotify.com/album/7bojxhEDb5wB3dm4OT23uP) | 2:41 | 2022-04-22 | 2022-11-26 |
-| [thrift shoppin](https://open.spotify.com/track/1jcUoFAF6SrzRx3voj4xu5) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [thrift shoppin](https://open.spotify.com/album/7A33uW9KngTEObjPsKwQKf) | 2:08 | 2025-05-09 |  |
+| [thrift shoppin](https://open.spotify.com/track/1jcUoFAF6SrzRx3voj4xu5) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [thrift shoppin](https://open.spotify.com/album/7A33uW9KngTEObjPsKwQKf) | 2:08 | 2025-05-09 | 2025-11-26 |
 | [Thunder Hug](https://open.spotify.com/track/6KBnGr2g6uOLkZVlgEbiuV) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Thunder Hug](https://open.spotify.com/album/1CLuSyb4VMc7B1E7aQWksJ) | 2:34 | 2023-11-17 | 2024-02-10 |
 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 | 2022-01-27 | 2022-09-03 |
 | [time to time](https://open.spotify.com/track/1Kgg2zTVznqr6Cv6jxIKcN) | [Calm Zeq](https://open.spotify.com/artist/430cEz06w8yMWvjqLwpIar) | [time to time](https://open.spotify.com/album/0XwAkpXN3w5RRNVbHqLUot) | 2:00 | 2023-03-08 | 2023-06-06 |
@@ -1495,7 +1497,7 @@
 | [Verde Basilico](https://open.spotify.com/track/2uyrWn2J9Wbvd78xCihZHz) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Verde Basilico](https://open.spotify.com/album/6AJ0Jj5CtKo6hDTn82Km6u) | 2:12 | 2023-07-13 | 2023-10-20 |
 | [Vibrational Rotation](https://open.spotify.com/track/6A3fdF6XmMbybxQJrjQIfE) | [Chris Karns](https://open.spotify.com/artist/6kX9nrscnZcHzpkxRdcwBY), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Hunter Roberts](https://open.spotify.com/artist/1SaECNvZYrwxBvBpcCvbaa) | [Vibrational Rotation](https://open.spotify.com/album/4Usf391EnJR1KD9WSMRzDN) | 2:06 | 2022-06-03 | 2022-06-26 |
 | [vintage landscapes](https://open.spotify.com/track/2uLsD4apV6zjuY2ekztXlp) | [metabolar](https://open.spotify.com/artist/1AnyVsimkm8D6kViojzN9i) | [vintage landscapes](https://open.spotify.com/album/66ixXEar501O1uSaRDr5QW) | 1:40 | 2022-01-27 | 2022-10-15 |
-| [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 | 2025-04-04 |  |
+| [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 | 2025-04-04 | 2025-11-26 |
 | [Violets](https://open.spotify.com/track/4IkeTPhhp2fOAXNW56t3KQ) | [Hologram Tiger](https://open.spotify.com/artist/4uEqtLOBlxSY4aNvRtfyke) | [Violets](https://open.spotify.com/album/1w9TvlaSc6kwKi0f6CjF12) | 3:25 | 2022-01-27 | 2023-03-09 |
 | [visions](https://open.spotify.com/track/0AXavmNLkcAphlTGQ8ryS5) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [visions](https://open.spotify.com/album/51ksQiSeWO0c4j6SNSZBZ5) | 2:20 | 2022-11-25 | 2023-08-04 |
 | [Vitae](https://open.spotify.com/track/1Qm8jGs8iEgrvfbPCAawqR) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Vitae](https://open.spotify.com/album/4GgfRSypBrqRIevwH3kriJ) | 2:12 | 2023-10-13 | 2025-11-06 |

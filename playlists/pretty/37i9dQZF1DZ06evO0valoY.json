@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 213153,
+  "num_followers": 213168,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAD2QFf00uRAjDlzIttUXfhd",
+  "snapshot_id": "aSOgAAAAAABJVM3Hol2ELVQa/PfUuCxr",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
+        "name": "Tu Veneno Mortal",
+        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS"
+      "duration_ms": 242442,
+      "name": "Tentacion",
+      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
     },
     {
       "added_at": null,
@@ -867,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Veneno Mortal",
-        "url": "https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx"
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/78GGHOJMRmOy2WlmZSQomL"
       },
       "artists": [
         {
           "name": "Eslabon Armado",
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 242442,
-      "name": "Tentacion",
-      "url": "https://open.spotify.com/track/1dccdhKRYUcjPVdMGjRQ1H"
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS"
     }
   ],
   "unique_name": "This Is Eslabon Armado",

@@ -1,6 +1,6 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 113857,
+  "num_followers": 113909,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Salsa",
         "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 266400,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Picadillo A La Criolla",
         "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 290960,
       "name": "Temperatura",
       "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Una Dimensi\u00f3n De \u00c9xitos",
+        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+      },
+      "artists": [
+        {
+          "name": "La Dimensi\u00f3n Latina",
+          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
+        }
+      ],
+      "duration_ms": 229355,
+      "name": "Sigue Tu Camino",
+      "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -395,6 +411,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Roberto Roena Y Su Apollo Sound",
+        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Roena Y Su Apollo Sound",
+          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
+        }
+      ],
+      "duration_ms": 199049,
+      "name": "Tu Loco Loco Y Yo Tranquilo",
+      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -411,38 +443,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Una Dimensi\u00f3n De \u00c9xitos",
-        "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
-      },
-      "artists": [
-        {
-          "name": "La Dimensi\u00f3n Latina",
-          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
-        }
-      ],
-      "duration_ms": 229355,
-      "name": "Sigue Tu Camino",
-      "url": "https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Roberto Roena Y Su Apollo Sound",
-        "url": "https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Roena Y Su Apollo Sound",
-          "url": "https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry"
-        }
-      ],
-      "duration_ms": 199049,
-      "name": "Tu Loco Loco Y Yo Tranquilo",
-      "url": "https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Fe, Esperanza y Caridad",
+        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
+      },
+      "artists": [
+        {
+          "name": "Henry Fiol",
+          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
+        }
+      ],
+      "duration_ms": 469840,
+      "name": "La juma de ayer",
+      "url": "https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Colecci\u00f3n \u00c9xitos Joe Arroyo (Vol. 2)",
         "url": "https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 311676,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/5zghcVb5R77fbZPUj2jZTm"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Fe, Esperanza y Caridad",
-        "url": "https://open.spotify.com/album/6vJ37s97d7zDUj9rvlJsII"
-      },
-      "artists": [
-        {
-          "name": "Henry Fiol",
-          "url": "https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB"
-        }
-      ],
-      "duration_ms": 469840,
-      "name": "La juma de ayer",
-      "url": "https://open.spotify.com/track/3pL77Aed5ZBnS5IRjPcGF4"
     },
     {
       "added_at": "2024-06-24 22:23:31",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
+        "name": "Salsa",
+        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        }
+      ],
+      "duration_ms": 314960,
+      "name": "El Paso De Encarnaci\u00f3n",
+      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
         "name": "Jala Jala y Boogaloo",
         "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/5168U0L9JW0QWszjyrBogt"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
-        "name": "Salsa",
-        "url": "https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Harlow",
-          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
-        }
-      ],
-      "duration_ms": 314960,
-      "name": "El Paso De Encarnaci\u00f3n",
-      "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
     },
     {
       "added_at": "2024-06-24 22:23:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,163 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,171 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 37 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 38 | [take me up](https://open.spotify.com/track/08FabaAEFMOUHU0LROM95K) | [zachy](https://open.spotify.com/artist/7MWQhu1TA9OE4Lps563bN4) | [take me up](https://open.spotify.com/album/6LeWwKA2yk89fLHHP7Bsug) | 2:56 |
 | 39 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
-| 40 | [Roseanne](https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Roseanne](https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF) | 3:59 |
-| 41 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
+| 40 | [Blue Feathers](https://open.spotify.com/track/0kHMXTI8NEW8n2UKStiRpm) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Blue Feathers](https://open.spotify.com/album/3SFWafNRbmr116vu2qEe5w) | 2:44 |
+| 41 | [Roseanne](https://open.spotify.com/track/1NdXyZ5LszDOul0fVZ6iPO) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Roseanne](https://open.spotify.com/album/4qSA4zR0a7mzv46SW9eXJF) | 3:59 |
 | 42 | [Sparrows \- Acoustic](https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Sparrows \(Acoustic\)](https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo) | 3:28 |
 | 43 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |
 | 44 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 64 | [The Fence](https://open.spotify.com/track/0Zm5s1se6F6ns4y9s3JLxl) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [The Fence](https://open.spotify.com/album/7lEbC8i3ZWrsCPgvMHUHXP) | 3:22 |
 | 65 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
 
-Snapshot ID: `AAAAAHAZ+mQT4hl4YmyR6HtoCfoI22IX`
+Snapshot ID: `AAAAAANKWJ+VpFlxNQUcrOqEqfY+pbkZ`

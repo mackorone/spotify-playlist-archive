@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 232213,
+  "num_followers": 232246,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Shouted, Written Down & Quoted",
-        "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 207841,
-      "name": "Merely Avoiding",
-      "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208453,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Shouted, Written Down & Quoted",
+        "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 207841,
+      "name": "Merely Avoiding",
+      "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
-      },
-      "artists": [
-        {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
-        }
-      ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Southern Family",
         "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+      },
+      "artists": [
+        {
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+        }
+      ],
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -963,26 +963,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Long in the Tooth",
-        "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 186152,
-      "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Long in the Tooth",
+        "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 186152,
+      "name": "Hard to Be an Outlaw (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 161023,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
-      },
-      "artists": [
-        {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Birds Of St. Marks",
-        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
         }
       ],
-      "duration_ms": 262746,
-      "name": "The Birds Of St. Marks",
-      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 198840,
       "name": "Whole Lotta Highway (With A Million Miles to Go)",
       "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Birds Of St. Marks",
+        "url": "https://open.spotify.com/album/47xdUCicow9gTRSZTrXxzX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "The Birds Of St. Marks",
+      "url": "https://open.spotify.com/track/2ujVYgTcckQCzaV7bxFKhG"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "All The Good Times",
-        "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
+        "name": "I Could Have Told You",
+        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
       },
       "artists": [
         {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        },
-        {
-          "name": "David Rawlings",
-          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 212308,
-      "name": "Jackson",
-      "url": "https://open.spotify.com/track/0Vc2d6rwDyTNfNRUUV1TkT"
+      "duration_ms": 216520,
+      "name": "I Could Have Told You",
+      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1399,34 +1395,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "I Could Have Told You",
-        "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
+        "name": "All The Good Times",
+        "url": "https://open.spotify.com/album/3J6294UKc6u7arMq07H2HR"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "I Could Have Told You",
-      "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Love Wore A Halo (Back Before the War)",
-        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
-      },
-      "artists": [
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
         {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Love Wore A Halo (Back Before The War)",
-      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
+      "duration_ms": 212308,
+      "name": "Jackson",
+      "url": "https://open.spotify.com/track/0Vc2d6rwDyTNfNRUUV1TkT"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 148960,
       "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Love Wore A Halo (Back Before the War)",
+        "url": "https://open.spotify.com/album/2x8OEDxtiQgLN4wM2AVroS"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Love Wore A Halo (Back Before The War)",
+      "url": "https://open.spotify.com/track/06xZ2a9SEOMAx64KuuLTTh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Can't Be There Today",
-        "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
-      },
-      "artists": [
-        {
-          "name": "Billy Bragg",
-          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Can't Be There Today",
-      "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Damage",
         "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 241739,
       "name": "The Damage",
       "url": "https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Can't Be There Today",
+        "url": "https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8"
+      },
+      "artists": [
+        {
+          "name": "Billy Bragg",
+          "url": "https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Can't Be There Today",
+      "url": "https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF"
     },
     {
       "added_at": "2024-08-30 04:00:00",

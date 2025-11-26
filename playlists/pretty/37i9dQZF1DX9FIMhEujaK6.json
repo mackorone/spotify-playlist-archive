@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 652960,
+  "num_followers": 652982,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-08-22 11:26:14",
       "album": {
+        "name": "Found In The Wild",
+        "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 205233,
+      "name": "Fire To Fire",
+      "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
+    },
+    {
+      "added_at": "2025-08-22 11:26:14",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 214108,
       "name": "Money",
       "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
-    },
-    {
-      "added_at": "2025-08-22 11:26:14",
-      "album": {
-        "name": "Found In The Wild",
-        "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 205233,
-      "name": "Fire To Fire",
-      "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
     },
     {
       "added_at": "2025-08-22 11:26:14",
@@ -955,22 +955,22 @@
     {
       "added_at": "2025-08-22 11:26:14",
       "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+        "name": "oceanic (feat. Vagabon) [rebirth]",
+        "url": "https://open.spotify.com/album/1UK7VjiYaBeFTwVXLcr7ay"
       },
       "artists": [
         {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         },
         {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
+      "duration_ms": 142280,
+      "name": "oceanic (feat. Vagabon) [rebirth]",
+      "url": "https://open.spotify.com/track/5yMT0cRoY8G9fbWOEJ2JOE"
     }
   ],
   "unique_name": "Ibiza Sunset",

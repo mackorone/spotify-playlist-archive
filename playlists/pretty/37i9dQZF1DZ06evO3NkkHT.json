@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 70679,
+  "num_followers": 70767,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACFIqi4ztcSdIuGNOObL5SE",
+  "snapshot_id": "aSOgAAAAAABe2UijUFSGViJzpohsN334",
   "tracks": [
     {
       "added_at": null,
@@ -31,8 +31,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell At Night (feat. Ella Langley)",
-        "url": "https://open.spotify.com/album/1Nn0cOJPNZqKJlkq4AgY2V"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
@@ -46,27 +46,7 @@
       ],
       "duration_ms": 179240,
       "name": "Hell At Night (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/0U1nO2frLx8w2dIsfvlP1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Way (feat. Bailey Zimmerman)",
-        "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "All The Way (feat. Bailey Zimmerman)",
-      "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
+      "url": "https://open.spotify.com/track/6r1lboTadi5swMquaAWDzh"
     },
     {
       "added_at": null,
@@ -119,8 +99,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+        "name": "I Hope You're Happy (Commentary Version)",
+        "url": "https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5"
       },
       "artists": [
         {
@@ -128,13 +108,13 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         },
         {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Holy Ground (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
+      "duration_ms": 165000,
+      "name": "All The Way (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/59F5qOMpqqclD21cIAxFEo"
     },
     {
       "added_at": null,
@@ -167,6 +147,26 @@
       "duration_ms": 146133,
       "name": "Texas",
       "url": "https://open.spotify.com/track/7j7ud2oFTJ8BjmeI8bjkQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
     },
     {
       "added_at": null,

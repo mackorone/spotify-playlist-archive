@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Improviso",
+        "url": "https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231707,
+      "name": "Cetim",
+      "url": "https://open.spotify.com/track/4otIb6ZwtjOES9Z6NPoJzZ"
+    },
+    {
+      "album": {
         "name": "Beth",
         "url": "https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 192400,
       "name": "Samba Jambo",
       "url": "https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ"

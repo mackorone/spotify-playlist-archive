@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Ryokuoushoku Shakai",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: B'z",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -2596,6 +2596,28 @@
       "duration_ms": 206600,
       "name": "DANBIRA",
       "url": "https://open.spotify.com/track/0fzdUtI0wUeKK2p6GkNtbs"
+    },
+    {
+      "album": {
+        "name": "Dancing in my bad life (feat.CLAN QUEEN)",
+        "url": "https://open.spotify.com/album/3nEakkMSAOhDPIz7Bt4EQJ"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        },
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248165,
+      "name": "Dancing in my bad life - feat.CLAN QUEEN",
+      "url": "https://open.spotify.com/track/4AEw2WCrbdjvYw6AVCksGg"
     },
     {
       "album": {
@@ -7930,7 +7952,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 299631,
       "name": "MATHRHYTHM",
       "url": "https://open.spotify.com/track/2NnwT3reaFZLgCTj9tev3g"
@@ -8388,7 +8410,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 183350,
       "name": "moonlit",
       "url": "https://open.spotify.com/track/61812KfVWT9RURx4idulmo"
@@ -9955,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "Peach Pit and Cyanide",
+        "url": "https://open.spotify.com/album/3gcO9Qy2Vr6wDcl8Punthe"
+      },
+      "artists": [
+        {
+          "name": "Mili",
+          "url": "https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190131,
+      "name": "Peach Pit and Cyanide",
+      "url": "https://open.spotify.com/track/2Zd0JQ3LDmUV3oDUHyRtWL"
+    },
+    {
+      "album": {
         "name": "Persona",
         "url": "https://open.spotify.com/album/011oK7g20IZJ6Ie7HXskgt"
       },
@@ -10218,7 +10258,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 231606,
       "name": "Present Perfect",
       "url": "https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX"
@@ -11424,7 +11464,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 184206,
       "name": "SCARY MONSTER",
       "url": "https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB"
@@ -12785,6 +12825,24 @@
     },
     {
       "album": {
+        "name": "THE KIDS",
+        "url": "https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF"
+      },
+      "artists": [
+        {
+          "name": "Suchmos",
+          "url": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298746,
+      "name": "STAY TUNE",
+      "url": "https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7"
+    },
+    {
+      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -13536,7 +13594,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 262333,
       "name": "The Beyond",
       "url": "https://open.spotify.com/track/3NhdX5K3gCxDF69nBWDOTh"
@@ -13688,6 +13746,24 @@
       "duration_ms": 262294,
       "name": "The Haunted",
       "url": "https://open.spotify.com/track/0onxAgb0IFzPdzZh947SWj"
+    },
+    {
+      "album": {
+        "name": "FYOP",
+        "url": "https://open.spotify.com/album/1YcrCGi9NDl9EI0bZPC0on"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254070,
+      "name": "The IIIRD Eye",
+      "url": "https://open.spotify.com/track/6RcnoVEUeKJUjvEzUcRfFI"
     },
     {
       "album": {
@@ -14305,6 +14381,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7"
+    },
+    {
+      "album": {
         "name": "tragedy",
         "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
       },
@@ -14844,7 +14938,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 253006,
       "name": "UNITE",
       "url": "https://open.spotify.com/track/0pmVqC9qinx3ALaInYKg63"
@@ -20000,7 +20094,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 204566,
       "name": "\u30d5\u30eb\u30ab\u30a6\u30f3\u30c8",
       "url": "https://open.spotify.com/track/7nBOWrg8tHNsgtuVVTFXF5"

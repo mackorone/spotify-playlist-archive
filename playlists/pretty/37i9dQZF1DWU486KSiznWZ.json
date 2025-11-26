@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0627\u064a\u0636",
-  "num_followers": 261176,
+  "num_followers": 261210,
   "original_name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACdjlbYXTtX5RZUBE3hpT6h7N8/4",
+  "snapshot_id": "AAAAANDoIYAvT/zAkpFwa5aNB7Ao/sdt",
   "tracks": [
     {
       "added_at": "2025-10-15 11:51:20",
@@ -23,6 +23,38 @@
       "duration_ms": 204250,
       "name": "\u062f\u0648\u0631 \u0639\u0630\u0631",
       "url": "https://open.spotify.com/track/3xdIuk8WVIX9xedX4TZMzB"
+    },
+    {
+      "added_at": "2025-11-25 07:17:18",
+      "album": {
+        "name": "Abos Khashmah",
+        "url": "https://open.spotify.com/album/60hjfsJrWFcAmAWJ1718JV"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 269692,
+      "name": "Abos Khashmah",
+      "url": "https://open.spotify.com/track/5lO2lZQVvyBNl5XFZSUXgX"
+    },
+    {
+      "added_at": "2025-11-25 10:31:49",
+      "album": {
+        "name": "Al Riyadh W Al Hilla",
+        "url": "https://open.spotify.com/album/1jcVfp86BLqrHSxUz57Qup"
+      },
+      "artists": [
+        {
+          "name": "Waleed Al Shami",
+          "url": "https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz"
+        }
+      ],
+      "duration_ms": 262060,
+      "name": "Al Riyadh W Al Hilla",
+      "url": "https://open.spotify.com/track/2TxRVkPLaXgdIH2uJhduqg"
     },
     {
       "added_at": "2025-08-08 12:05:13",

@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152440,
+  "num_followers": 152429,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAAuKDir5VhQ4MxrTGSHgGqA",
+  "snapshot_id": "aSOgAAAAAADKeIF0lnLhp0rCorazPSHO",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yuri y Sus Amigos del Regional Mexicano",
         "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 226032,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 200269,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/71EfepU1MC4gdWG8sOXiFp"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aguachile",
         "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
@@ -683,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALA PERDIDA",
-        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "BALA PERDIDA",
-      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bolero",
         "url": "https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy"
       },
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+        "name": "BALA PERDIDA",
+        "url": "https://open.spotify.com/album/2ioboE0aQ66tLoGHB7XCxK"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/5kO0DN979g7zybB5jqEOiI"
+      "duration_ms": 224000,
+      "name": "BALA PERDIDA",
+      "url": "https://open.spotify.com/track/4vO9XibywfpscabvLgwGYH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: NESS
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,325 likes - 88 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,291 likes - 88 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 22 | [Ist das ok?](https://open.spotify.com/track/1YRsteGM849hNObauBMGaF) | [Julia Meladin](https://open.spotify.com/artist/26N7IKzjFJ57y84GdXBd4A) | [Perlen um den Hals \(Deluxe Edition\)](https://open.spotify.com/album/64HwzGdGAsjCSmyNHdBXur) | 2:49 |
 | 23 | [Lang nicht hier](https://open.spotify.com/track/4d452ROWWkwbPKM8DEWfUx) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Lang nicht hier](https://open.spotify.com/album/4628arDB54DP5t93g9txDT) | 2:59 |
 | 24 | [Danke für die Zeit](https://open.spotify.com/track/7C8b8QoAe3xuv2fi0PBzW7) | [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Danke für die Zeit](https://open.spotify.com/album/35JjZI9lEYb22g9S8XyLED) | 2:50 |
-| 25 | [Hast Du noch Zeit](https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Hast Du Noch Zeit](https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV) | 3:25 |
+| 25 | [Hast Du Noch Zeit](https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Hast Du Noch Zeit](https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV) | 3:25 |
 | 26 | [Eigentlich wollte ich dir nie sagen](https://open.spotify.com/track/6HuaKPtc8djPMFirBUydm8) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Die Wollen Nur Spielen](https://open.spotify.com/album/5eggIcGiHPUAzuXmhSDXdI) | 2:50 |
 | 27 | [Mein Löwe](https://open.spotify.com/track/0yGbo7BeoP40DEdrBWEnzD) | [Unheilig](https://open.spotify.com/artist/6f1kv0aUPG9I0Rp3dmLCPi) | [Mein Löwe](https://open.spotify.com/album/2FH8PUUTfI8sykjGiQLofy) | 3:17 |
 | 28 | [Adieu](https://open.spotify.com/track/5GCadjq15wCiYe5l8CAUfL) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP) | [Adieu](https://open.spotify.com/album/2kAvTA4eyLVM8e3w38GPqd) | 2:46 |

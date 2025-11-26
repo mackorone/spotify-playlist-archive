@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 592463,
+  "num_followers": 592504,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACW5lAc7viPKoUKj5QnauV5",
+  "snapshot_id": "aSOgAAAAAADjRXkSGoZWz1So5bi/EJP4",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 242493,
       "name": "Wild Is the Wind",
       "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 309821,
-      "name": "Through - Live",
-      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 263506,
       "name": "Brother Can You Spare a Dime?",
       "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 309821,
+      "name": "Through - Live",
+      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
     },
     {
       "added_at": null,
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 269891,
-      "name": "Idol - Live",
-      "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -915,6 +899,26 @@
       "duration_ms": 105946,
       "name": "My Baby Just Cares for Me",
       "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 323320,
+      "name": "How Do You Keep the Music Playing? (with George Michael)",
+      "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
     }
   ],
   "unique_name": "This Is George Michael",

@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 590676,
+  "num_followers": 590864,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
         "name": "I'm Countryfied",
         "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 144186,
       "name": "Louisiana Saturday Night",
       "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
+    },
+    {
+      "added_at": "2025-11-03 22:16:59",
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 285797,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "The Very Best Of Rosanne Cash",
-        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
       },
       "artists": [
         {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 195080,
-      "name": "Tennessee Flat Top Box",
-      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
       "added_at": "2025-11-03 22:16:59",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2025-11-03 22:16:59",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
       "artists": [
         {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Heartaches By The Number",
-      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+      "duration_ms": 195080,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
     },
     {
       "added_at": "2025-11-03 22:16:59",

@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "Blue Eyes - Remastered 2003",
       "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
@@ -2002,6 +2002,36 @@
       "duration_ms": 27666,
       "name": "Chromatica III",
       "url": "https://open.spotify.com/track/6kXRZSe28BawCiEdME8YLk"
+    },
+    {
+      "album": {
+        "name": "The Lion King: Original Broadway Cast Recording",
+        "url": "https://open.spotify.com/album/1y6p6tINBthUWsQVQJmiYK"
+      },
+      "artists": [
+        {
+          "name": "Tsidii Le Loka",
+          "url": "https://open.spotify.com/artist/478Cvh1XjJiURpkqbM23SV"
+        },
+        {
+          "name": "Ensemble - The Lion King",
+          "url": "https://open.spotify.com/artist/0s0Hfb6ckk9qTjDeUOZXJp"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        },
+        {
+          "name": "Faca Kulu",
+          "url": "https://open.spotify.com/artist/43YEHQb9ZzZBBgTMKtgJmG"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269173,
+      "name": "Circle of Life with Nants' Ingonyama",
+      "url": "https://open.spotify.com/track/5qdmxwRkULsZY1BxNvSGx4"
     },
     {
       "album": {
@@ -7460,7 +7490,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 343240,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"

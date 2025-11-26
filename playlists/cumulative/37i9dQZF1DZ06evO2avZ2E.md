@@ -4,7 +4,7 @@
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 38 min
+64 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Hasta la Fantasía](https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:23 | 2023-12-26 |  |
 | [Hbls Mucho](https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 3:39 | 2023-12-26 |  |
 | [Horizonte \(feat\. Vanessa Zamora\)](https://open.spotify.com/track/35E2vrO2uLzUJrh84lv84S) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [A Mi Lado](https://open.spotify.com/album/6IF6c4Mwlb4ohDEk81XOUS) | 2:52 | 2023-12-26 | 2024-08-03 |
-| [Hubo Algo](https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 5:11 | 2023-12-26 |  |
+| [Hubo Algo](https://open.spotify.com/track/0A8Fsda6CkdYuxYW5aoDB6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/65MFa2jVOo72kSn4WNz41Q) | 5:11 | 2025-11-26 |  |
+| [Hubo Algo](https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 5:11 | 2023-12-26 | 2025-11-26 |
 | [Idiota](https://open.spotify.com/track/4t3wmSSJR4pIQM76pqfcgg) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Una Caricia](https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK) | 3:27 | 2025-03-30 | 2025-07-06 |
 | [Idiota](https://open.spotify.com/track/7MDhm9FYj70sbX3U0w4E3m) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Una Caricia](https://open.spotify.com/album/5w5SEY5U50140We5w2gk1f) | 3:28 | 2023-12-26 |  |
 | [japón](https://open.spotify.com/track/2diEP69UZV3N8vuRiLyHvR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:34 | 2023-12-26 |  |

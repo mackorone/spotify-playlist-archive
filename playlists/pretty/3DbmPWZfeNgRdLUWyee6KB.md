@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,004 likes - 244 songs - 15 hr 0 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,004 likes - 257 songs - 15 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -252,5 +252,18 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 242 | [Photographs](https://open.spotify.com/track/3IKbxWwUD73DWsEnC7JpMt) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Photographs](https://open.spotify.com/album/73mMrzIKfiutjKbQjCFfFi) | 6:06 |
 | 243 | [En ti](https://open.spotify.com/track/6epke6LUhFb20S5zCYzMAp) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [En ti](https://open.spotify.com/album/0oFooP7WHD6zKw0J8HqvHA) | 4:11 |
 | 244 | [Ahhh](https://open.spotify.com/track/2vxr60lrZFVBxq1UmyTX1d) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Instinto Animal](https://open.spotify.com/album/1J7Dz8Fw98iGdyc5zkVqBy) | 2:50 |
+| 245 | [Wo wo wo wooo](https://open.spotify.com/track/1RfGQhhdSt8tdnAgy9qI6a) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Fragmento](https://open.spotify.com/album/4nhYrd1DdIpHKqWnwM18Ha) | 2:55 |
+| 246 | [La vida es tan corta](https://open.spotify.com/track/76CdKpx2YFJen1lY769Tmr) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:44 |
+| 247 | [Cristal](https://open.spotify.com/track/1ynOQL9168ge8jkyxRSbPl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 3:20 |
+| 248 | [Tengo](https://open.spotify.com/track/3kNqJjZyw1IC49IafzLZGm) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Entre gargantas y oídos](https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx) | 2:50 |
+| 249 | [Nada a favor](https://open.spotify.com/track/15K9yOgfmxOzhJGmLPp7nP) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Instinto animal](https://open.spotify.com/album/3LHoTzJioCqWN8lC3ecAP7) | 3:19 |
+| 250 | [¡Sálvese quien pueda!](https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¡Sálvese quien pueda!](https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G) | 3:38 |
+| 251 | [Princesa ruda](https://open.spotify.com/track/6WtsuLdzBznR8kWY39azdo) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Amor = Triste Agonía](https://open.spotify.com/album/029GPDxDNEeaaWgkAvdpIg) | 2:59 |
+| 252 | [Que es la felicidad](https://open.spotify.com/track/2CLeVG1WqYZjfbIGXKScpK) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 2:39 |
+| 253 | [Más equivocado](https://open.spotify.com/track/01fGmw3f3jYtCexQwz6Dl8) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:12 |
+| 254 | [Medio lleno el vaso](https://open.spotify.com/track/62xTr4b4oXgrbMWHV5qHgU) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:55 |
+| 255 | [Tu ausencia](https://open.spotify.com/track/6rJGg89ohWCGPpNFqF7oyS) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:46 |
+| 256 | [Scars](https://open.spotify.com/track/7BoYRULbFPGNvnT2vVhcOf) | [tWIN](https://open.spotify.com/artist/1APguz6a6pgYym9jUAia5K), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Scars](https://open.spotify.com/album/59kHXQO88dKgGeOiNyMIoM) | 3:07 |
+| 257 | [Trust Issues](https://open.spotify.com/track/7wgXjF0bJgfEsXAzYsbpdX) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Trust Issues](https://open.spotify.com/album/0kyV92eXT3VyZxas1mPOd8) | 3:21 |
 
-Snapshot ID: `AAAM6PhqS6x8hk2fWDKWS93mcT+tEisq`
+Snapshot ID: `AAAM9ei15XFAVKfmHlOIUUVZ2/UaLUwL`

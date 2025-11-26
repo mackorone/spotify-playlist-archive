@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 66039,
+  "num_followers": 66059,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAA7XOl9j8caJmImZYozFjD8",
+  "snapshot_id": "aSOgAAAAAADBl2Of5UzyI386smDaI6Mk",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pos' Que No...Claro Que Si",
-        "url": "https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "A Punto De Llorar",
-      "url": "https://open.spotify.com/track/3Z2ZbacXEi2SCNNZhQNzrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 234093,
       "name": "Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pos' Que No...Claro Que Si",
+        "url": "https://open.spotify.com/album/5tOoa6i00CvfkkBGJSrJtP"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "A Punto De Llorar",
+      "url": "https://open.spotify.com/track/3Z2ZbacXEi2SCNNZhQNzrr"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rifare Mi Suerte",
-        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Tu Ultimo Verano",
-      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Historicos, Vol. 2",
         "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 191546,
       "name": "Renunciacion",
       "url": "https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rifare Mi Suerte",
+        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Tu Ultimo Verano",
+      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 154533,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
+      "duration_ms": 236173,
+      "name": "Capricho Maldito",
+      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 236173,
-      "name": "Capricho Maldito",
-      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
+      "duration_ms": 154533,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed De Dolido",
-        "url": "https://open.spotify.com/album/7cQk5n7IGnEVH86jVP8t4r"
+        "name": "20 Exitos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 161059,
-      "name": "As\u00ed De Dolido",
-      "url": "https://open.spotify.com/track/3Hgmymo5ZhyVc11a34YSRf"
+      "duration_ms": 209333,
+      "name": "Tu y las Nubes",
+      "url": "https://open.spotify.com/track/2QlvSbUggsc1f6eyta9vnD"
     }
   ],
   "unique_name": "This Is Los Rieleros Del Norte",

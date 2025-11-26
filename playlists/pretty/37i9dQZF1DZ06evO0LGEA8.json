@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 300619,
+  "num_followers": 300779,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAB+VTCHM4M9IVJOtVEM0N8o",
+  "snapshot_id": "aSOgAAAAAAAGGuWo0Djw8eMtI3ug5di+",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Se Yo",
+        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 205403,
+      "name": "Que Se Yo",
+      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CRISTIAN",
         "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 227911,
       "name": "LLEVARTE",
       "url": "https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Se Yo",
-        "url": "https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 205403,
-      "name": "Que Se Yo",
-      "url": "https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hits Visuales, Vol. 4",
-        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 186137,
-      "name": "Estamos al Aire",
-      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuera de \u00d3rbita",
         "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 139075,
       "name": "Como la Espuma",
       "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hits Visuales, Vol. 4",
+        "url": "https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 186137,
+      "name": "Estamos al Aire",
+      "url": "https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Mirada Triste",
+      "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 182700,
       "name": "La Misi\u00f3n",
       "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Mirada Triste",
-      "url": "https://open.spotify.com/track/3Jr10ANwlJcLEOqz8IZ27S"
     },
     {
       "added_at": null,

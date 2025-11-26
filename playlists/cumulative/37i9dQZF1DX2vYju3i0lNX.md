@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,271 songs - 3 day 2 hr 42 min
+1,273 songs - 3 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -488,7 +488,7 @@
 | [I Will](https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [I Will](https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5) | 2:48 | 2023-06-15 | 2024-12-17 |
 | [I Will Wait for You](https://open.spotify.com/track/5cZFCu2PN2XQXonjZqR8Dq) | [Golden Age Trio](https://open.spotify.com/artist/7h8bgvb1KzukDb7UikoxAJ) | [I Will Wait for You](https://open.spotify.com/album/7LpSoP4gyRJdq1IvkTgTs6) | 2:58 | 2022-10-13 | 2025-03-04 |
 | [I Wish I Knew](https://open.spotify.com/track/2ixKm55QpuEkEKHVGHWCNQ) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [I Wish I Knew](https://open.spotify.com/album/1evoLQf85MODIetg4eJqx7) | 3:49 | 2023-01-26 | 2023-10-27 |
-| [I Wonder Why](https://open.spotify.com/track/7nrEqjAOU6LYdNRYiWHkSk) | [The Bruce Brady Trio](https://open.spotify.com/artist/75Wq0vgFRSA0Nhx7tg49zW) | [I Wonder Why](https://open.spotify.com/album/5lijkHpVDFVNqct6LqR1A6) | 3:45 | 2024-11-05 |  |
+| [I Wonder Why](https://open.spotify.com/track/7nrEqjAOU6LYdNRYiWHkSk) | [The Bruce Brady Trio](https://open.spotify.com/artist/75Wq0vgFRSA0Nhx7tg49zW) | [I Wonder Why](https://open.spotify.com/album/5lijkHpVDFVNqct6LqR1A6) | 3:45 | 2024-11-05 | 2025-11-26 |
 | [I'll Be Seeing You](https://open.spotify.com/track/48w1IYrxtNKmm0bBMICOdu) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I'll Be Seeing You](https://open.spotify.com/album/2gPUo8oL5vW9LC5o7SnCSU) | 3:33 | 2021-12-07 | 2025-01-21 |
 | [I'll Be There](https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I'll Be There](https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH) | 3:50 | 2023-12-22 | 2024-10-22 |
 | [I'll Give You My Heartache](https://open.spotify.com/track/4tIfVGVF30szIEmcCYsvpq) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [I'll Give You My Heartache](https://open.spotify.com/album/4TQm9IHWhgw91qgRmxE5KE) | 3:47 | 2024-11-12 |  |
@@ -731,7 +731,7 @@
 | [Monbeams](https://open.spotify.com/track/67L4wduApJ1QEGpPdeYt7o) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Moonbeams](https://open.spotify.com/album/0mB3FyjsQJsw7SIs9dHwVU) | 3:47 | 2023-06-08 | 2024-08-07 |
 | [Monica](https://open.spotify.com/track/63BOtS2JTJ6WQcLVbcVf3n) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Monica](https://open.spotify.com/album/79SnG6MLViQI6TX2v8ZKHZ) | 2:58 | 2024-08-26 | 2024-11-26 |
 | [Monk's Mood](https://open.spotify.com/track/7ojUoFuu49TkZ8mvMEndt0) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Monk's Mood](https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C) | 5:00 | 2022-01-18 | 2023-01-20 |
-| [Monk's Mood](https://open.spotify.com/track/2mmXPA4ls7XrJEkB77CgjR) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Monk's Mood](https://open.spotify.com/album/0mrljhlF6CynTt3zOsiW56) | 3:16 | 2024-12-16 |  |
+| [Monk's Mood](https://open.spotify.com/track/2mmXPA4ls7XrJEkB77CgjR) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Monk's Mood](https://open.spotify.com/album/0mrljhlF6CynTt3zOsiW56) | 3:16 | 2024-12-16 | 2025-11-26 |
 | [Moody Promenade](https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moody Promenade](https://open.spotify.com/album/2fHHkpZFQAjV1lCrC2AY4U) | 2:57 | 2023-03-30 | 2024-08-27 |
 | [Moon River](https://open.spotify.com/track/4vHQWVCZuQuOmv14z7bLbQ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Moon River](https://open.spotify.com/album/6Ad66s7PrIyltwAWkaSC2N) | 3:13 | 2021-12-07 | 2023-06-02 |
 | [Moon Side](https://open.spotify.com/track/4gZIqCz8djBkwsT5yFsVSb) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Rue Crémieux](https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO) | 3:03 | 2022-12-22 | 2024-06-25 |
@@ -898,6 +898,7 @@
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2025-11-19 |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-30 | 2024-11-13 |
 | [Rising Apple Tree of Hope](https://open.spotify.com/track/3lXhXavD2xl20yELJfAT3U) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Rising Apple Tree of Hope](https://open.spotify.com/album/5EBSKClKn3AF6vEwiRqbYz) | 2:49 | 2022-08-30 | 2024-08-07 |
+| [Riverbed Reverie](https://open.spotify.com/track/4tVMhRSZj9S13VInXxFCxf) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Riverbed Reverie](https://open.spotify.com/album/1y8gJlET7fkMddu3h46zHw) | 3:42 | 2025-11-25 |  |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 | 2025-11-19 |
 | [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-04-20 | 2025-11-19 |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-02 | 2025-11-19 |
@@ -926,6 +927,7 @@
 | [Short Intermission](https://open.spotify.com/track/2RLd480e9nMzuvgds9fSqg) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Short Intermission](https://open.spotify.com/album/6bDsTyNw02QSceWcDRmNKd) | 2:32 | 2024-02-02 |  |
 | [Silent Conversations](https://open.spotify.com/track/0pXoYk7kHx1iY0WiYX543Y) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Silent Conversations](https://open.spotify.com/album/5ZiGiz1Hmapc3IHOPPpaix) | 3:30 | 2025-07-23 | 2025-11-19 |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2021-12-07 | 2024-07-02 |
+| [Silent Heartside](https://open.spotify.com/track/4Ys2ZJxW3WP6fF5Qq74hGJ) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [Silent Heartside](https://open.spotify.com/album/1tTd4b5ZEvq94akMRonJLl) | 2:16 | 2025-11-25 |  |
 | [Silent Streets](https://open.spotify.com/track/0FrtYU16g7KDBnG9F5tCHe) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Silent Streets](https://open.spotify.com/album/1vQAltisCxDsgosm4JeRjf) | 3:15 | 2023-05-11 |  |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 | 2025-11-19 |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-12 | 2025-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from The Kid LAROI, Tate McRae, Ninajirachi, Frost Children, 5 Seconds of Summer\. Fred again.., Sammy Virji + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,632 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,618 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

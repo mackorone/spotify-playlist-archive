@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 497 likes - 436 songs - 21 hr 3 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 498 likes - 437 songs - 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -444,5 +444,6 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 434 | [Over The Hill](https://open.spotify.com/track/5V2xNM2mfjQmY7hu2oMsks) | [Lucciago](https://open.spotify.com/artist/6RDDG29KAd3bKVMreXYnwY) | [Over The Hill](https://open.spotify.com/album/3d1D2K1JJK3nHWDPExuqcX) | 2:32 |
 | 435 | [HEY](https://open.spotify.com/track/0z5mPZLAet4h0U2ChLhZZE) | [Isa\-Aura](https://open.spotify.com/artist/4ba4F0jnalxz5si2A6cfdD), [MOOMAK](https://open.spotify.com/artist/6cVjiY6xN6r3ZdbNfT7Cpn) | [HEY](https://open.spotify.com/album/13PhR9OzgvdqziZpZg57FF) | 3:32 |
 | 436 | [Want It Back](https://open.spotify.com/track/4lWZXCNTmcbvZkoqqyTKHK) | [Truth](https://open.spotify.com/artist/1BwSuDXZMbyM1IpziuwCKk), [Da Beatminerz](https://open.spotify.com/artist/02AnZfp6mEFw5LprUPv8SD) | [Nostalgia ThEraPy 2](https://open.spotify.com/album/66yNoveATBaoShrS6iv81z) | 2:43 |
+| 437 | [Mahakaal Tera Gungan](https://open.spotify.com/track/5sMhNlTz5KAbA4Ak7ehS8P) | [Pruthvi Pawar](https://open.spotify.com/artist/6s4l3B5BsMiIXqUhYE7p0J), [Sagar Date](https://open.spotify.com/artist/16sC4mCzwahbSw1ReTntR5) | [Mahakaal Tera Gungan](https://open.spotify.com/album/0q6R1TEr0VwumApn1mLOh2) | 4:27 |
 
-Snapshot ID: `AAABVMhru+cs5ST8tbe7x1b84MuctIkQ`
+Snapshot ID: `AAABVdrs38Tv2/Ey9UbhDUE3SEpYXjwJ`

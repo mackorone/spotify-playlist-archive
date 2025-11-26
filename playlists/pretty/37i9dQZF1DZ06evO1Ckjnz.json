@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20008,
+  "num_followers": 20009,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAACT7HaZwZrtUi997Jmoi+b",
+  "snapshot_id": "aSOgAAAAAABR2U5cT2ipAUgP9+Oqe5uv",
   "tracks": [
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arintintin",
-        "url": "https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "Arintintin",
-      "url": "https://open.spotify.com/track/0gExQivfnTQxzD85envbyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 196576,
       "name": "Pop (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/1pqG8egYsdWZiHSMT1QTaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arintintin",
+        "url": "https://open.spotify.com/album/18WiTeK26yzhOpIYSHDA4T"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "Arintintin",
+      "url": "https://open.spotify.com/track/0gExQivfnTQxzD85envbyy"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jealous (feat. Rico Nasty)",
-        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Jealous (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anger Management",
         "url": "https://open.spotify.com/album/5JbeU5WL1WAGxy1u5fsOmf"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 140346,
       "name": "Hatin",
       "url": "https://open.spotify.com/track/3Wk4qCyx4m5aoafRxftp43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jealous (feat. Rico Nasty)",
+        "url": "https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Jealous (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K"
     },
     {
       "added_at": null,

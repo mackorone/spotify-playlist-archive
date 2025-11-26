@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-610 songs - 1 day 14 hr 19 min
+612 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [If You & I](https://open.spotify.com/track/4if0PZ2yt6r8PTOHHy9bZP) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [If You & I](https://open.spotify.com/album/5hdgLxWOdgZGJaqTPOLiku) | 2:49 | 2025-11-03 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-11 | 2025-09-12 |
 | [Imagination](https://open.spotify.com/track/3zkcVHhBj6hkbyE0G5xHfM) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Imagination](https://open.spotify.com/album/4KOOHdX5UgHqPqfNYzflZx) | 4:33 | 2022-11-24 | 2025-10-01 |
-| [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 | 2024-02-09 |  |
+| [Imogene](https://open.spotify.com/track/6py54bF1qKFbA1kjz3rKdG) | [Sand Quartet](https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA) | [Imogene](https://open.spotify.com/album/1cLToydVxdvrwNklrhtYXr) | 3:58 | 2024-02-09 | 2025-11-26 |
 | [In A Sentimental Mood](https://open.spotify.com/track/0GLnrfMwiuJEqeb6IDsUMO) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [In A Sentimental Mood](https://open.spotify.com/album/16uDEITezuspL8l4igLdHZ) | 4:02 | 2022-10-27 | 2025-10-01 |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-01-07 | 2022-12-02 |
 | [In Every Way](https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [In Every Way](https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze) | 3:02 | 2024-09-13 |  |
@@ -295,6 +295,7 @@
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-03-03 | 2024-02-09 |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-01 |  |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-11-24 | 2025-09-12 |
+| [Last Train](https://open.spotify.com/track/5lHrND462cXqX61b8pCCxx) | [The Low Light Trio](https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT) | [Last Train](https://open.spotify.com/album/68SD0G8vUSfrfbDG7s2vFx) | 3:21 | 2025-11-25 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2021-12-07 | 2022-09-07 |
 | [Late Night Waltz](https://open.spotify.com/track/0OUDCEDG4JQb4CnC9I67Qe) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Late Night Waltz](https://open.spotify.com/album/1GQKoxlCGfmH0Ume4YzHU5) | 4:33 | 2024-01-12 | 2025-10-01 |
 | [Late Nocturne](https://open.spotify.com/track/3aIvfacaZq4AUlXcebMnrp) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Late Nocturne](https://open.spotify.com/album/6LJBIF7JqtPzQFAgVN6bTK) | 3:55 | 2024-02-09 |  |
@@ -420,7 +421,7 @@
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-08-11 | 2023-09-29 |
 | [Please, Stay](https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w) | [Hviid Larsen](https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO) | [Please, Stay](https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK) | 3:08 | 2023-05-25 |  |
 | [Polkadots And Moonbeams](https://open.spotify.com/track/1zXfSEEkoSsMNuoUSre4R5) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Polkadots And Moonbeams](https://open.spotify.com/album/6M3uviUycHWyhTrPeA8aZA) | 3:42 | 2022-08-17 | 2025-10-01 |
-| [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 | 2021-12-07 |  |
+| [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 | 2021-12-07 | 2025-11-26 |
 | [Prelude to a whisper](https://open.spotify.com/track/57FS8xmkOgEMy5HYMCBXnO) | [The Fading Light Trio](https://open.spotify.com/artist/3ORrNORmkA0W8UamB9B3IC) | [Prelude to a whisper](https://open.spotify.com/album/0S7q9yNcfJmztVrUjlHx7T) | 3:05 | 2025-09-30 |  |
 | [Presumptuous of you](https://open.spotify.com/track/1oZ0ZELvVsaqBtzRlZk8KH) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Presumptuous of you](https://open.spotify.com/album/5SgpcmvdbrXpnhZ7q4mJr9) | 3:10 | 2023-08-17 | 2025-09-12 |
 | [Prisoner Of Love](https://open.spotify.com/track/6lO3wImM4oMAhOzDptCqa6) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 4:12 | 2021-12-07 | 2022-09-15 |
@@ -438,6 +439,7 @@
 | [Reutlingen](https://open.spotify.com/track/5IXC0ObkxCvH5i2olqCm6A) | [Martin Hoper](https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc) | [Reutlingen](https://open.spotify.com/album/12nVEHdB9d9JjFe7wcqIrT) | 4:15 | 2024-11-25 |  |
 | [Rialto Bridge](https://open.spotify.com/track/156iMNrpnu8qLxfDpj9xfW) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Rialto Bridge](https://open.spotify.com/album/1l54o9QqcN2L5bKXbD5WKd) | 3:58 | 2024-11-11 |  |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2025-10-01 |
+| [Riverbed Reverie](https://open.spotify.com/track/4tVMhRSZj9S13VInXxFCxf) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Riverbed Reverie](https://open.spotify.com/album/1y8gJlET7fkMddu3h46zHw) | 3:42 | 2025-11-25 |  |
 | [Romeo's Mood](https://open.spotify.com/track/1a3tNp1HDtuG9vDIjrgWpZ) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:44 | 2022-10-06 |  |
 | [Room to swing](https://open.spotify.com/track/2kHkJgD9qDwq7FYAtbsg8a) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Room to swing](https://open.spotify.com/album/1nF6vcmW2D785uIe8AvbRV) | 2:37 | 2023-10-06 | 2024-11-12 |
 | [Ruby My Dear](https://open.spotify.com/track/0VWMeGBrCBB5vFsDWAnXCi) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [Ruby My Dear](https://open.spotify.com/album/0mVhiB4QTDZPFSkTF9FDTq) | 3:32 | 2022-08-11 | 2023-09-01 |

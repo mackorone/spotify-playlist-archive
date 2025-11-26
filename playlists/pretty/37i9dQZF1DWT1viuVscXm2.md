@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,533 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,356,834 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 99 | [Tu Dolor \- Versión Cumbia](https://open.spotify.com/track/4Gp0JXyZpPM3e942W7ipr0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Tu Dolor \- Versión Cumbia](https://open.spotify.com/album/0Fm2jY3lo6AcruyHqryyjt) | 3:14 |
 | 100 | [El Liston de Tu Pelo](https://open.spotify.com/track/0URKAkRgFg97sZj6lOG2Zr) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [El Listón de Tu Pelo](https://open.spotify.com/album/4oei4M2FnGxR99GP7Fctsz) | 4:06 |
 
-Snapshot ID: `AAAAAJDKsFM0Z8gutT9bYVQ/thGe7H/Y`
+Snapshot ID: `AAAAAJnIz1LyAlluVKIguzbnlHNqqciX`

@@ -2,7 +2,7 @@
 
 ### [Popronde 2025](https://open.spotify.com/playlist/37i9dQZF1DXcTSvDxgY1oa)
 
-> Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Syot
+> Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: XXJULÍA
 
 261 songs - 14 hr 4 min
 

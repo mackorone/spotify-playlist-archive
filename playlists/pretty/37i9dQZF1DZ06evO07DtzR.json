@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41102,
+  "num_followers": 41107,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADWEh62IFuv0m5bDJmt/fuy",
+  "snapshot_id": "aSOgAAAAAADQf3ApB7ACCat1rS2+r32o",
   "tracks": [
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
+        "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
+        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 247973,
-      "name": "1.4.2",
-      "url": "https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5"
+      "duration_ms": 254706,
+      "name": "\u6c38\u9060",
+      "url": "https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u82f1\u96c4\u3000\u904b\u547d\u306e\u8a69",
-        "url": "https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6YHmti57sy3833VRHXR5bI"
       },
       "artists": [
         {
@@ -340,25 +340,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 254706,
-      "name": "\u6c38\u9060",
-      "url": "https://open.spotify.com/track/0esGPhsobf4wut5WyVhtRf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 95333,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
-      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
+      "duration_ms": 247973,
+      "name": "1.4.2",
+      "url": "https://open.spotify.com/track/4f34ChSJuD35faJXkZrcx5"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 308000,
       "name": "\u30ad\u30df\u30bd\u30e9\u30ad\u30bb\u30ad",
       "url": "https://open.spotify.com/track/3QmB37HACwhTHZluGoZTOi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 95333,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
+      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS",
-        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
         "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 291240,
       "name": "\u597d\u304d\u3068\u8a00\u308f\u308c\u305f\u65e5 (from BEST AL\u201cALTER EGO\u201d)",
       "url": "https://open.spotify.com/track/0TQw7jTUAbTRyx58vwg53E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KABANERI OF THE IRON FORTRESS",
+        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
+        "name": "Fallen-TV edit-",
+        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 90260,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
-      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
+      "duration_ms": 89990,
+      "name": "Fallen-TV edit-",
+      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fallen-TV edit-",
-        "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+        "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 89990,
-      "name": "Fallen-TV edit-",
-      "url": "https://open.spotify.com/track/1CYwRtu4PBxvkaWwE20byN"
+      "duration_ms": 90260,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
+      "url": "https://open.spotify.com/track/4lhRGkiHL6opuapwlpMUlV"
     },
     {
       "added_at": null,

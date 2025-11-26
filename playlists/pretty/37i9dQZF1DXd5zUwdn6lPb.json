@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 573112,
+  "num_followers": 573258,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -155,26 +155,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
-        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Soule",
-          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
-        },
-        {
-          "name": "Daniil Trifonov",
-          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
-        }
-      ],
-      "duration_ms": 147142,
-      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
-      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Soule: Secunda (Transcr. Trifonov for Piano) [From \"The Elder Scrolls: Skyrim\"]",
+        "url": "https://open.spotify.com/album/4Ue8hjaZEDACgXgZTbp2x9"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Soule",
+          "url": "https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "duration_ms": 147142,
+      "name": "Secunda (Transcr. Trifonov for Piano) - From \"The Elder Scrolls: Skyrim\"",
+      "url": "https://open.spotify.com/track/4xEbrGC6A3Bw7hCw3yuwJz"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -471,26 +471,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
-      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+        "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "duration_ms": 254653,
+      "name": "12 Etudes, Op. 10: No. 3 in E Major \"Tristesse\"",
+      "url": "https://open.spotify.com/track/4RpTrk9iBG4W6P7pSkUyVQ"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Respiro 1",
+        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 181984,
+      "name": "Respiro 1",
+      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Gjeilo: Winter Light",
         "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 170080,
       "name": "Winter Light",
       "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Respiro 1",
-        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 181984,
-      "name": "Respiro 1",
-      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Make-believe",
+        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Make-believe",
+      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
-        "name": "Make-believe",
-        "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "Make-believe",
-      "url": "https://open.spotify.com/track/5jyrGs0Cp3Nrue8Q9ZVf2t"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 326400,
-      "name": "Jeux d\u2019eau, M 30",
-      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "W.F. Bach: Sinfonias",
         "url": "https://open.spotify.com/album/0AHlJDfnuTSujoKtK0y9FX"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 153800,
       "name": "Sinfonia in F Major, Fk 67 \"Dissonant\": IV. Menuet No. 1 - Menuet No. 2",
       "url": "https://open.spotify.com/track/5CfhrXtZ1II9jl8BV1v1a2"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 326400,
+      "name": "Jeux d\u2019eau, M 30",
+      "url": "https://open.spotify.com/track/5DmiFGgPMz8bupvKHrAtu4"
     },
     {
       "added_at": "2025-10-10 08:36:30",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
+        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
+        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Mariani Klavierquartett",
+          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
+        }
+      ],
+      "duration_ms": 518539,
+      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
+      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Brahms: Piano Quartet in C Minor, Op. 60: III. Andante",
-        "url": "https://open.spotify.com/album/07s0jJx49pPo80YuhoN01B"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Mariani Klavierquartett",
-          "url": "https://open.spotify.com/artist/4zk6W7OAOXtLumHsQiBbiU"
-        }
-      ],
-      "duration_ms": 518539,
-      "name": "Piano Quartet in C Minor, Op. 60: III. Andante",
-      "url": "https://open.spotify.com/track/4qVzF5LkxvBiodQY7IhiPY"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-10-10 08:36:30",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
-      },
-      "artists": [
-        {
-          "name": "Regn\u00f8r",
-          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
-        }
-      ],
-      "duration_ms": 144415,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
-    },
-    {
-      "added_at": "2025-10-10 08:36:30",
-      "album": {
         "name": "Beethoven: Piano Sonatas, Vol. 7",
         "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 180200,
       "name": "Piano Sonata No.20 in G Major, Op. 49 No.2: II. Tempo di Menuetto",
       "url": "https://open.spotify.com/track/688T7aVGomCvoPqH4YL9yc"
+    },
+    {
+      "added_at": "2025-10-10 08:36:30",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "duration_ms": 144415,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
     },
     {
       "added_at": "2025-10-10 08:36:30",

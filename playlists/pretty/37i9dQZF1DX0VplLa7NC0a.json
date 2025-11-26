@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 40175,
+  "num_followers": 40177,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini: String Sonatas, etc.",
+        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 429160,
+      "name": "Serenata in E flat",
+      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 273200,
       "name": "Rossini: Stabat Mater: IX. Quando corpus morietur",
       "url": "https://open.spotify.com/track/1OtTF78hnHqx0NDhPvtL5p"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: String Sonatas, etc.",
-        "url": "https://open.spotify.com/album/5ggYuXtjLMHHYlEfr06Jwu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 429160,
-      "name": "Serenata in E flat",
-      "url": "https://open.spotify.com/track/4qjZkq9W5CPdJMKTJuvKl6"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -479,30 +479,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
-        }
-      ],
-      "duration_ms": 95360,
-      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
-      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: La Cenerentola",
         "url": "https://open.spotify.com/album/7Ls1fcaC61JEMXHxeoR7CZ"
       },
@@ -527,6 +503,30 @@
       "duration_ms": 305493,
       "name": "La Cenerentola, Act II: Aria. Sia qualunque delle figlie",
       "url": "https://open.spotify.com/track/5Wv2CIRajNnmUDeZJgwR4s"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -843,30 +843,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini: Giovanna d'Arco; 19 songs",
-        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Cecilia Bartoli",
-          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
-        },
-        {
-          "name": "Charles Spencer",
-          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
-      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: String Sonatas, Vol.2",
         "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 230666,
       "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
       "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini: Giovanna d'Arco; 19 songs",
+        "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "La regata veneziana: 1. Anzoleta avanti la regata",
+      "url": "https://open.spotify.com/track/0Xe9mqXpAHD95aCsCVjloG"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -975,6 +975,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 137733,
+      "name": "La Cenerentola / Act 2: Temporale",
+      "url": "https://open.spotify.com/track/2cDk0buBUvgDy0N87SNaNC"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini-Oeuvres vocales-Duo des chats-Ave maria-Promenade",
         "url": "https://open.spotify.com/album/1hWOXOktfgLpGq9WB5STV4"
       },
@@ -1007,30 +1031,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini: La Cenerentola",
-        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Orchestra del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 137733,
-      "name": "La Cenerentola / Act 2: Temporale",
-      "url": "https://open.spotify.com/track/2cDk0buBUvgDy0N87SNaNC"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Rossini: Guillaume Tell",
         "url": "https://open.spotify.com/album/0VUKsuxE8eQoRMKCCNjfdE"
       },
@@ -1051,6 +1051,34 @@
       "duration_ms": 91506,
       "name": "Rossini: Guillaume Tell, Act 3: Pas de trois. Danse",
       "url": "https://open.spotify.com/track/62IaVX0eGIuGRbJB7ndHxC"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Rossini: Stabat Mater & Petite messe solennelle",
+        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Agnes Baltsa",
+          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
+      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -1091,34 +1119,6 @@
       "duration_ms": 567306,
       "name": "Rossini: Stabat Mater: I. Stabat Mater dolorosa",
       "url": "https://open.spotify.com/track/4hXaE6TgZCasb00D0BQyFa"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: Stabat Mater & Petite messe solennelle",
-        "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
-        },
-        {
-          "name": "Agnes Baltsa",
-          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "Rossini: Stabat Mater: VII. Fac, ut portem Christi mortem",
-      "url": "https://open.spotify.com/track/5ZgFZ6eyspxp3bcAGiQGxw"
     },
     {
       "added_at": "2025-09-15 14:00:16",

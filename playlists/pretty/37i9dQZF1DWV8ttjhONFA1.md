@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: Carolina Donati
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,435 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,960 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 99 | [Frambuesa](https://open.spotify.com/track/0OINpXqaDeHo0oqvabV1EF) | [Di Lorenzo](https://open.spotify.com/artist/0eNqhuG7pcEcIrcFGYjhTn) | [Frambuesa](https://open.spotify.com/album/0pMBn1RUM4z79EYae2Qn3s) | 3:00 |
 | 100 | [Alas Rosadas](https://open.spotify.com/track/14YNYZiyT5QrKgLXSGxDpP) | [Julia Arbós](https://open.spotify.com/artist/1B5s6KerZjNiMjZAzRULyp), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Alas Rosadas](https://open.spotify.com/album/1bCAxxDnO6FLiXoIUs9DGH) | 4:00 |
 
-Snapshot ID: `AAAAAF/1ab9M9/P8XeiWRYT52HnJEwi4`
+Snapshot ID: `AAAAAMK9p/tdgsBvMNFOxMLNVy7jgP/n`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Judika
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,701 likes - 119 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,712 likes - 119 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

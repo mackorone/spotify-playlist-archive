@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: EREN
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,394 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,389 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 53 | [Người bình thường](https://open.spotify.com/track/4zYy58BpDH8b7UnS8eifup) | [Namchan](https://open.spotify.com/artist/50nO5ayfr3HKGM19l7vsO6), [Huông](https://open.spotify.com/artist/30JCoaqvbonz0DY1x5qTuA) | [CHUYẾN YÊU](https://open.spotify.com/album/6WnNYmLCgeKINT5P3nVN4p) | 3:11 |
 | 54 | [Đóa Hoa Lả Lơi](https://open.spotify.com/track/1WE9ZqiL4NKK1IAVexgc2k) | [TiHi](https://open.spotify.com/artist/1yFYZte32EDLcXlRX6DV3L) | [Đóa Hoa Lả Lơi](https://open.spotify.com/album/5RhYp9EpjuQOvo6b2Jh6m5) | 4:07 |
 | 55 | [Đậu thần](https://open.spotify.com/track/6QokXuBpqoMXAKAtA9YXin) | [Dreamwork](https://open.spotify.com/artist/65aZV0VGC3Fk2AC4VO7tCw) | [Bán thời gian](https://open.spotify.com/album/2QzRhVsJ2KkVbB7XxG45Ai) | 2:59 |
-| 56 | [L A S T i M E](https://open.spotify.com/track/5gtXsdAbTaUagIp56ubprR) | [Hiếu Vinylls](https://open.spotify.com/artist/0R6KOQa3fTRenQSxA9l2ey), [MayBae](https://open.spotify.com/artist/15RKeJqxSbkcmwkBFoALjs) | [L A S T i M E](https://open.spotify.com/album/0gzyDU5l4FB7ZcNiYgNtg2) | 3:43 |
+| 56 | [L A S T i M E](https://open.spotify.com/track/5gtXsdAbTaUagIp56ubprR) | [Hiếu Vinylls](https://open.spotify.com/artist/0R6KOQa3fTRenQSxA9l2ey), [MayBae](https://open.spotify.com/artist/15RKeJqxSbkcmwkBFoALjs) | [L A S T i M E](https://open.spotify.com/album/0gzyDU5l4FB7ZcNiYgNtg2) | 3:46 |
 | 57 | [Ánh Mắt Lạc Loài](https://open.spotify.com/track/7yvXM9NnXJrNKmvDmBnJVJ) | [giangimgs](https://open.spotify.com/artist/5cOX2910hNJR9e1cxaVNQp), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Ánh Mắt Lạc Loài](https://open.spotify.com/album/5CZBS6eA3pt9uwW7STICGy) | 3:02 |
 | 58 | [Đà Lạt Tháng 6](https://open.spotify.com/track/6tLF74jINx9SovHyA51pvM) | [GepolyG](https://open.spotify.com/artist/4yZp1B11Rid5FP066ibtsP), [AK49](https://open.spotify.com/artist/0PsYNWoA9eUOHO4VUOSp8F), [Tuyết](https://open.spotify.com/artist/09pDLc11jZN8ECK9dz4r2K) | [Đà Lạt Tháng 6](https://open.spotify.com/album/0Gbf1cu1k47SEq1BSK7iqn) | 3:46 |
 | 59 | [Cảm Ơn Những Ngày Dài Tăm Tối](https://open.spotify.com/track/3a2kKaivLwQLaJaBJYrf59) | [BNAT](https://open.spotify.com/artist/2WCb99VwcaEJXORWyr4lFf), [August](https://open.spotify.com/artist/3XRhzorKPzkvbW9A6db8bZ) | [Cảm Ơn Những Ngày Dài Tăm Tối](https://open.spotify.com/album/2t6Unztd9qkrBRodQOWeM0) | 2:52 |

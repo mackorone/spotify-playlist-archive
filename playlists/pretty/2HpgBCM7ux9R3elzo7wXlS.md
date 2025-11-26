@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,042 songs - 2 day 16 hr 0 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,045 songs - 2 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1050,5 +1050,8 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1040 | [Serpent Lullaby](https://open.spotify.com/track/5L0YAr8FVgUi6QJXlkTqHi) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Serpent Lullaby](https://open.spotify.com/album/1BXIvy3pI9teSxPPntvzwz) | 3:17 |
 | 1041 | [The Moon Will Sing](https://open.spotify.com/track/4v0Zqmuhlbt5nCj712Y26n) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 3:40 |
 | 1042 | [Rosemary](https://open.spotify.com/track/2WzbImUwpFZYnl6Zn44API) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers](https://open.spotify.com/album/6NRPQ8RjivuC1pd2raPEuz) | 3:36 |
+| 1043 | [For Good](https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 6:17 |
+| 1044 | [Pose \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6e9biVAugkOfydEN8OiJpi) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pose \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/6nIe8wxpDcAzUJVj4v2v5r) | 2:50 |
+| 1045 | [The Largest](https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Largest](https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144) | 2:12 |
 
-Snapshot ID: `AAAHvKpqWy5wjV2h8ahdjYApjtxYRpTe`
+Snapshot ID: `AAAHvzK1Fu7xO5uRQjIQ20kTkSjan4ep`

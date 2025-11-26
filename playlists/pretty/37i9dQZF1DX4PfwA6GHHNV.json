@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22356,
+  "num_followers": 22366,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Fiona",
-        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
-      },
-      "artists": [
-        {
-          "name": "BENSH47",
-          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Fiona",
-      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "Bandidas Tamb\u00e9m Falam de Amor",
         "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 143551,
       "name": "Bonita & Gostosa",
       "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "Fiona",
+        "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
+      },
+      "artists": [
+        {
+          "name": "BENSH47",
+          "url": "https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Fiona",
+      "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "P\u00f4kas / Mfalme",
-        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
-      },
-      "artists": [
-        {
-          "name": "Amiri",
-          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
-        },
-        {
-          "name": "Deryck Cabrera",
-          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
-        }
-      ],
-      "duration_ms": 345022,
-      "name": "P\u00f4kas",
-      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "fases",
         "url": "https://open.spotify.com/album/2yT1thUgDc2RHUVpv37Uyb"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 163018,
       "name": "fases",
       "url": "https://open.spotify.com/track/65N0Fdt4dgCqjgg2uq6S9o"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "P\u00f4kas / Mfalme",
+        "url": "https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh"
+      },
+      "artists": [
+        {
+          "name": "Amiri",
+          "url": "https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p"
+        },
+        {
+          "name": "Deryck Cabrera",
+          "url": "https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd"
+        }
+      ],
+      "duration_ms": 345022,
+      "name": "P\u00f4kas",
+      "url": "https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN"
     },
     {
       "added_at": "2025-11-14 03:03:04",

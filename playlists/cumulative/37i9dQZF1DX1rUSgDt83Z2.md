@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-189 songs - 9 hr 48 min
+190 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/track/4v4FKaaPqjDJcvLGqJ6ubz) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Hoe Zou Het Nu Gaan?](https://open.spotify.com/album/4l2fsFB7cnPiYkVk7JrlGi) | 3:10 | 2025-11-06 | 2025-11-21 |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-09-19 |  |
 | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/track/1BmKQoSJjf617wC1zbQ8WR) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Horizon \(ft\. Julia Zahra\)](https://open.spotify.com/album/7rOWMke1nsdCGJgwtceL9B) | 3:11 | 2024-07-22 | 2024-12-13 |
+| [Houden Van Is Voor Altijd](https://open.spotify.com/track/5D9WdVs3ge60agllfVHZVo) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [Houden van is voor altijd](https://open.spotify.com/album/3ROIn9vmPzyQ1dXpONbOqu) | 3:14 | 2025-11-21 |  |
 | [Huil maar niet om mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 | 2024-06-24 | 2024-10-04 |
 | [Huis van Zwart en Rood](https://open.spotify.com/track/01ePjjnb3JX85NDzzt4aWs) | [De Nachtwacht](https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp) | [Huis van Zwart en Rood / Cederhout](https://open.spotify.com/album/0u3Aq3qOZpLFa9zU275XBe) | 2:16 | 2025-07-09 | 2025-11-07 |
 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 | 2025-11-06 |  |
@@ -192,7 +193,7 @@
 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 | 2024-06-24 | 2025-01-09 |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-27 | 2025-04-17 |
 | [zij aan zij](https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY) | [zij aan zij](https://open.spotify.com/album/3Mjo5eqIC0FEcjlnTtcQc2) | 2:54 | 2024-09-12 | 2025-01-23 |
-| [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 | 2025-05-08 |  |
+| [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 | 2025-05-08 | 2025-11-26 |
 | [Zin In Het Leven](https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zin In Het Leven](https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON) | 3:25 | 2024-09-12 | 2025-03-21 |
 | [Zolang We Samen Zijn](https://open.spotify.com/track/4yt0cEaT2lpNigs3k5jCKI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Zolang We Samen Zijn](https://open.spotify.com/album/4UIvEYoJOB6uGyHaV4uplL) | 2:55 | 2025-05-15 | 2025-06-23 |
 | [Zomaar Zomer](https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zomaar Zomer](https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO) | 2:18 | 2024-07-22 | 2025-01-23 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4404,
+  "num_followers": 4402,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAC29Unw4ePdg3XR19Sq2l4g",
+  "snapshot_id": "aSOgAAAAAAAW+RttePBrK4AB+UlPdsll",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,354 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set Dj Br da Tijuca 2",
+        "url": "https://open.spotify.com/album/3J6S6wPIgYQU4y7DfG7uBJ"
+      },
+      "artists": [
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Agatha",
+          "url": "https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i"
+        },
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "MC Neg\u00e3o da BL",
+          "url": "https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "Mc Max",
+          "url": "https://open.spotify.com/artist/3eCFjjDBb2VCcFADfzFKD3"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Meno Bom",
+          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
+        },
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 432367,
+      "name": "Set Dj Br da Tijuca 2",
+      "url": "https://open.spotify.com/track/1UEknJ3tmxgeQI6CoXvDHx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Dj Gm 3.0",
+        "url": "https://open.spotify.com/album/41SaVrBv4KhINcfAyC8ePE"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "MC Dede",
+          "url": "https://open.spotify.com/artist/45Hr5etuwmSx4gSyn5qSeW"
+        },
+        {
+          "name": "Mc Nathan ZK",
+          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc Henny",
+          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
+        },
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        },
+        {
+          "name": "MC Yuri",
+          "url": "https://open.spotify.com/artist/2FHS70d0Slskx7fTNkGRzF"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
+        },
+        {
+          "name": "MC Liro",
+          "url": "https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 390315,
+      "name": "Set Dj Gm 3.0",
+      "url": "https://open.spotify.com/track/5z9RaVCvG9NkxCLbyHKaf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surtou",
+        "url": "https://open.spotify.com/album/2yZb13O8WdkBnsA4VMNNoW"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 152343,
+      "name": "Surtou",
+      "url": "https://open.spotify.com/track/3Rn06bf6UmHALTqa2S5dXW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seu Desejo",
+        "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "GREGO",
+          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
+        },
+        {
+          "name": "DJ Pedro Vieira",
+          "url": "https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Seu Desejo",
+      "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 por Essa Noite",
+        "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Nandela",
+          "url": "https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 171130,
+      "name": "S\u00f3 por Essa Noite",
+      "url": "https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 168961,
+      "name": "FALSA FANTASIA",
+      "url": "https://open.spotify.com/track/2cHow13oEjdUhLwj1PyCJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Dj Br da Tijuca",
+        "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Leo da Zona Sul",
+          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Meno Bom",
+          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
+        },
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        },
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Set Dj Br da Tijuca",
+      "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enquanto",
+        "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "Enquanto",
+      "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dj Br da Tijuca 4",
         "url": "https://open.spotify.com/album/2FJgFYjUd550Kd2UqMA5pH"
       },
@@ -247,290 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surtou",
-        "url": "https://open.spotify.com/album/2yZb13O8WdkBnsA4VMNNoW"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Chris Beats Zn",
-          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 152343,
-      "name": "Surtou",
-      "url": "https://open.spotify.com/track/3Rn06bf6UmHALTqa2S5dXW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set Dj Gm 3.0",
-        "url": "https://open.spotify.com/album/41SaVrBv4KhINcfAyC8ePE"
-      },
-      "artists": [
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "MC Dede",
-          "url": "https://open.spotify.com/artist/45Hr5etuwmSx4gSyn5qSeW"
-        },
-        {
-          "name": "Mc Nathan ZK",
-          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc Henny",
-          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
-        },
-        {
-          "name": "MC Lemos",
-          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
-        },
-        {
-          "name": "Mc Piedro",
-          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
-        },
-        {
-          "name": "MC Yuri",
-          "url": "https://open.spotify.com/artist/2FHS70d0Slskx7fTNkGRzF"
-        },
-        {
-          "name": "Mc Neguinho do ITR",
-          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
-        },
-        {
-          "name": "MC Liro",
-          "url": "https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 390315,
-      "name": "Set Dj Gm 3.0",
-      "url": "https://open.spotify.com/track/5z9RaVCvG9NkxCLbyHKaf2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seu Desejo",
-        "url": "https://open.spotify.com/album/3adNSP3xdQtHLXDiKt7AMU"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "GREGO",
-          "url": "https://open.spotify.com/artist/4v4g6B3AmczdtPlNE4t39X"
-        },
-        {
-          "name": "DJ Pedro Vieira",
-          "url": "https://open.spotify.com/artist/6Nc0KutYK7ABhJ2jC1K2mn"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Seu Desejo",
-      "url": "https://open.spotify.com/track/2YcIs0ze3MeObnD9zXTifZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reca\u00edda",
-        "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Reca\u00edda",
-      "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set Dj Br da Tijuca 2",
-        "url": "https://open.spotify.com/album/3J6S6wPIgYQU4y7DfG7uBJ"
-      },
-      "artists": [
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Agatha",
-          "url": "https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i"
-        },
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "MC Neg\u00e3o da BL",
-          "url": "https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "Mc Max",
-          "url": "https://open.spotify.com/artist/3eCFjjDBb2VCcFADfzFKD3"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Meno Bom",
-          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
-        },
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 432367,
-      "name": "Set Dj Br da Tijuca 2",
-      "url": "https://open.spotify.com/track/1UEknJ3tmxgeQI6CoXvDHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00f3 por Essa Noite",
-        "url": "https://open.spotify.com/album/6TbQKxOD27HGaPDd0PXClr"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Nandela",
-          "url": "https://open.spotify.com/artist/5ZBgyN7hk6t2s74XcQyxrY"
-        },
-        {
-          "name": "Matheus Muniz",
-          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
-        }
-      ],
-      "duration_ms": 171130,
-      "name": "S\u00f3 por Essa Noite",
-      "url": "https://open.spotify.com/track/2VD1sXwbJEWsfJX4ZRSHYA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 168961,
-      "name": "FALSA FANTASIA",
-      "url": "https://open.spotify.com/track/2cHow13oEjdUhLwj1PyCJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enquanto",
-        "url": "https://open.spotify.com/album/2WhQ5e5IxfkUSEWCIjZz2w"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 183243,
-      "name": "Enquanto",
-      "url": "https://open.spotify.com/track/2utvil6oMSQHMfX3Z6eEED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SP NIGHTS",
         "url": "https://open.spotify.com/album/1SX7FU8W8lOiwUT4smFTtb"
       },
@@ -595,66 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set Dj Br da Tijuca",
-        "url": "https://open.spotify.com/album/30Rici9GQYROvdO1MLaV9g"
+        "name": "Pouco Assunto",
+        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
       },
       "artists": [
         {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Leo da Zona Sul",
-          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
-        },
-        {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Meno Bom",
-          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
-        },
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        },
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
         }
       ],
-      "duration_ms": 432000,
-      "name": "Set Dj Br da Tijuca",
-      "url": "https://open.spotify.com/track/7gjiDfXZTBIrh4VNvYE4rh"
+      "duration_ms": 166491,
+      "name": "Pouco Assunto",
+      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pouco Assunto",
-        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Pouco Assunto",
-      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
       "added_at": null,
@@ -787,70 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set Dj Br da Tijuca 3",
-        "url": "https://open.spotify.com/album/01aO02GNBxfZPcYu7C48pc"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
       },
       "artists": [
         {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        },
-        {
-          "name": "Meno Bom",
-          "url": "https://open.spotify.com/artist/2becfxwincSfFiB1duhonS"
-        },
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+          "name": "Mc Vittin PV",
+          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
-        },
-        {
-          "name": "Leo da Zona Sul",
-          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Agatha",
-          "url": "https://open.spotify.com/artist/212rAq8nUlNPTaWl7Y0b5i"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 399252,
-      "name": "Set Dj Br da Tijuca 3",
-      "url": "https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im"
+      "duration_ms": 238075,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
       "added_at": null,
@@ -903,26 +855,6 @@
       "duration_ms": 206197,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
-      },
-      "artists": [
-        {
-          "name": "Mc Vittin PV",
-          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 238075,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
       "added_at": null,
@@ -1423,6 +1355,26 @@
       "duration_ms": 411428,
       "name": "Time dos Sonhos",
       "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
     }
   ],
   "unique_name": "This Is Hyperanhas",

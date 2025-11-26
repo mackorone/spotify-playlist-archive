@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-224 songs - 16 hr 5 min
+226 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aady](https://open.spotify.com/track/51xCLTYjK5IhySDDdnSCzy) | [Talal Sam](https://open.spotify.com/artist/72mJx5QexvdKQK1mi5CB4T), [Amy Roko](https://open.spotify.com/artist/4MYTbyu2ZNKAiImWWrAMjQ) | [Aady](https://open.spotify.com/album/11hE157XbnuTAeJnboNR7Y) | 2:49 | 2022-04-07 | 2023-01-28 |
 | [Aba Eash](https://open.spotify.com/track/2fvUCYURev6Iah2hy5gR6H) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2024](https://open.spotify.com/album/7q9ZsaQ6tyCoB4aJq1Lma7) | 3:51 | 2024-09-05 | 2024-11-12 |
 | [Abader](https://open.spotify.com/track/7clpLRhperdFynKEaIsG7I) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG) | [Abader](https://open.spotify.com/album/749eE00Y5A8hauiQJi2V2S) | 3:24 | 2024-06-27 |  |
+| [Abos Khashmah](https://open.spotify.com/track/5lO2lZQVvyBNl5XFZSUXgX) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Abos Khashmah](https://open.spotify.com/album/60hjfsJrWFcAmAWJ1718JV) | 4:29 | 2025-11-25 |  |
 | [Adeel El Rooh](https://open.spotify.com/track/1BVO4w4limnbFYynPV1sOG) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Hayen](https://open.spotify.com/album/28ms6jlPHDk4zbSLKUqnnO) | 3:31 | 2024-12-26 |  |
 | [Admentik](https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Admentik](https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi) | 4:18 | 2024-09-03 | 2024-11-19 |
 | [Ah Men Qalbi](https://open.spotify.com/track/4IKkoJtURxPMEgWtT6Prtv) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 4:17 | 2025-01-28 |  |
@@ -27,6 +28,7 @@
 | [Al Hob Al Abadi](https://open.spotify.com/track/6vkY5teXdfYxRaxEcQh48d) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Hob Al Abadi](https://open.spotify.com/album/5VICXQWh9ziCz38ABNiFms) | 4:37 | 2024-04-18 | 2024-11-12 |
 | [Al Madina](https://open.spotify.com/track/4IXFCKbDeVXSEoNOMDxrFU) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 4:20 | 2024-11-11 | 2024-11-19 |
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 | 2024-10-16 |
+| [Al Riyadh W Al Hilla](https://open.spotify.com/track/2TxRVkPLaXgdIH2uJhduqg) | [Waleed Al Shami](https://open.spotify.com/artist/05LLsyiJRSjBpe54u0jJRz) | [Al Riyadh W Al Hilla](https://open.spotify.com/album/1jcVfp86BLqrHSxUz57Qup) | 4:22 | 2025-11-25 |  |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-07 | 2023-08-28 |
 | [Alam Aloshag](https://open.spotify.com/track/1zgIuawYbW1aRZ9MTTmnwt) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Alam Aloshag](https://open.spotify.com/album/3j2GXRSfXtgyL2QtQnP32F) | 2:39 | 2024-05-15 |  |
 | [Alfin Bab](https://open.spotify.com/track/0xwJYYm0zG7580yqF5KDpR) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alfin Bab](https://open.spotify.com/album/0k3gP9ljtof6e1BJ1WH0Pa) | 4:45 | 2024-04-18 | 2024-10-26 |

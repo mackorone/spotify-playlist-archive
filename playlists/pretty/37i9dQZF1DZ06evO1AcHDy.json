@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37585,
+  "num_followers": 37584,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADaahoU+rqkZ6SaJCvim46G",
+  "snapshot_id": "aSOgAAAAAADOQu0ydUNKr9UzpNvHZusn",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where U Are",
-        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Where U Are",
-      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RINA",
         "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205573,
       "name": "Take Me as I Am",
       "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where U Are",
+        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Where U Are",
+      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RINA",
         "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 227037,
       "name": "Ordinary Superstar",
       "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
       "duration_ms": 180270,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SAWAYAMA (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        },
-        {
-          "name": "Coco Morier",
-          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
-        }
-      ],
-      "duration_ms": 106832,
-      "name": "Bees & Honey (Bonus Track)",
-      "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
     },
     {
       "added_at": null,

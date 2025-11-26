@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,676 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,679 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 | 11 | [Modularity](https://open.spotify.com/track/0ofzNL3FhJTrg8w2p2YUlg) | [Cignol](https://open.spotify.com/artist/6Ii0i59HI1QIBHATgI3vOl) | [Guidance Release](https://open.spotify.com/album/3teTYdWUqNMh0AJELuQev8) | 7:35 |
 | 12 | [Supersoaker](https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Trinity](https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA) | 3:04 |
 | 13 | [Peschi](https://open.spotify.com/track/6nRpI24IMqbPwO3GoGLYBM) | [Reload](https://open.spotify.com/artist/1MCmMOrKs2un1kNH8QiwNs), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [The Theory of Evolution](https://open.spotify.com/album/7LUwUDiGu3f1wpzNuCePIi) | 5:05 |
-| 14 | [Lonely Casseopaya \- Album Edit](https://open.spotify.com/track/0lCSvHv3ZhHeoimKBu8sUl) | [Oliver Lieb](https://open.spotify.com/artist/2dqtBtTSq5NdsycqQlKvVN), [L.S.G.](https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA) | [Rendezvous In Outer Space \(Remastered\)](https://open.spotify.com/album/54heHVFTO0DS5f14dN8fRx) | 3:56 |
+| 14 | [Lonely Casseopaya \- Album Edit](https://open.spotify.com/track/0lCSvHv3ZhHeoimKBu8sUl) | [L.S.G.](https://open.spotify.com/artist/5bLpYSmewYdnv9djU3kwpA), [Oliver Lieb](https://open.spotify.com/artist/2dqtBtTSq5NdsycqQlKvVN) | [Rendezvous In Outer Space \(Remastered\)](https://open.spotify.com/album/54heHVFTO0DS5f14dN8fRx) | 3:56 |
 | 15 | [Emotional Text Message Service](https://open.spotify.com/track/2Hqr5YgEhYpFXRgzKdpgEq) | [Faerber](https://open.spotify.com/artist/6dgYu3wCSnxs4rzN5bQxB6) | [LAP 001](https://open.spotify.com/album/754bEPTZz6Mt3eIHOE4fZJ) | 5:54 |
 | 16 | [Feelin'](https://open.spotify.com/track/4mm3PG3fwbfLpmdVUmjM3T) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Feelin'](https://open.spotify.com/album/0RTmBSVTMfd6oIQ1Z0WwCv) | 2:45 |
 | 17 | [Will U](https://open.spotify.com/track/2fIC3Uy9pi0nSwAsTVt4WC) | [Oprofessionell](https://open.spotify.com/artist/35niYtdYOBS0VmZEYuNgs1) | [UTE003](https://open.spotify.com/album/0rVccOc3vA7BUFOjH0lnqd) | 7:35 |

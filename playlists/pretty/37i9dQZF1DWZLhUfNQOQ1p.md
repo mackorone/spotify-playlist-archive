@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,135 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,116 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 60 | [Pantelleria](https://open.spotify.com/track/1noLY7KbrMKKKYXNuPevOI) | [Barbara Boeing](https://open.spotify.com/artist/7uf1b4UI1VVKwwcQO0laWZ) | [Pantelleria](https://open.spotify.com/album/2Xa8YoSKWyJkiC1yPbmCPk) | 5:00 |
 | 61 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
 | 62 | [Blackpool Boulevard \- Edit](https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Blackpool Boulevard](https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R) | 3:35 |
-| 63 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
-| 64 | [Ithaque](https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [Ithaque](https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp) | 3:09 |
+| 63 | [Ithaque](https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [Ithaque](https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp) | 3:09 |
+| 64 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 |
 | 65 | [Karibu](https://open.spotify.com/track/0lJJAJEaVkPMG2PdeLu0Pg) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3t5LUHkurItcGrnKberJpd) | 4:02 |
 | 66 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
 | 67 | [Bar Mediterraneo](https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 3:04 |
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 79 | [Leave My Home](https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Leave My Home](https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX) | 3:41 |
 | 80 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 81 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
-| 82 | [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 |
-| 83 | [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 |
-| 84 | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq) | 2:29 |
+| 82 | [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 |
+| 83 | [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 |
+| 84 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 |
 | 85 | [Lingua di Sole](https://open.spotify.com/track/2m0uaHMnqVr4b7ed70mXmW) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Stone Island](https://open.spotify.com/album/7bOyXQPzwjYlr4zRcqa3nf) | 5:30 |
 | 86 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 |
-| 87 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 |
+| 87 | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Move On Up \(Mark Knight Remix\)](https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq) | 2:29 |
 | 88 | [All This Love](https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [All This Love](https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb) | 3:53 |
 | 89 | [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 |
 | 90 | [you know](https://open.spotify.com/track/2FE9FSOPgRkXp1LYyKzcuh) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [you know](https://open.spotify.com/album/1BKD6vVXfVrTSChRmtsID0) | 4:11 |

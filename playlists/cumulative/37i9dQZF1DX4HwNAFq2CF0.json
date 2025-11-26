@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "MCID",
+        "url": "https://open.spotify.com/album/16ah4zHJlxx3wjRFg3nkSl"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "date_added": "2025-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278656,
+      "name": "16",
+      "url": "https://open.spotify.com/track/7jHJ2MzIKO1kIMxGamKRKn"
+    },
+    {
+      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 204676,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ"

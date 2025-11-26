@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 945156,
+  "num_followers": 945136,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Cara Bacana",
-        "url": "https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 232727,
-      "name": "Cara Bacana",
-      "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "Surtada (Remix Brega Funk)",
         "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Cara Bacana",
+        "url": "https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "Cara Bacana",
+      "url": "https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1731,18 +1731,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Baile de Favela",
-        "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
+        "name": "Espirra o Lan\u00e7a",
+        "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
       "artists": [
         {
-          "name": "GR6",
-          "url": "https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx"
+          "name": "Dj Serpinha",
+          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
+        },
+        {
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
         }
       ],
-      "duration_ms": 180088,
-      "name": "Baile de Favela",
-      "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
+      "duration_ms": 190055,
+      "name": "Espirra o Lan\u00e7a",
+      "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1763,26 +1767,6 @@
       "duration_ms": 147335,
       "name": "Se Prepara 2",
       "url": "https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Espirra o Lan\u00e7a",
-        "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
-      },
-      "artists": [
-        {
-          "name": "Dj Serpinha",
-          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
-        },
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        }
-      ],
-      "duration_ms": 190055,
-      "name": "Espirra o Lan\u00e7a",
-      "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1863,6 +1847,22 @@
       "duration_ms": 240666,
       "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
       "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Baile de Favela",
+        "url": "https://open.spotify.com/album/38MDuoyZ7bF7TWn0JrYXiS"
+      },
+      "artists": [
+        {
+          "name": "GR6",
+          "url": "https://open.spotify.com/artist/3d7FBhUWvESoiRg2J4gXUx"
+        }
+      ],
+      "duration_ms": 180088,
+      "name": "Baile de Favela",
+      "url": "https://open.spotify.com/track/5SsEySoOu9eSiNjiZoIe8B"
     },
     {
       "added_at": "2023-06-26 14:06:50",

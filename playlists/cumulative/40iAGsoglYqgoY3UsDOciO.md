@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-436 songs - 21 hr 3 min
+437 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Lose Control](https://open.spotify.com/track/6DosDlIOZEtYMwC8ZLoZCr) | [SECRET](https://open.spotify.com/artist/1VtwZaDVhc2NcowcojfeKs), [Farlake](https://open.spotify.com/artist/2Blul3A9WZy6d9LIsqvX7y) | [Lose Control](https://open.spotify.com/album/66bM67OXG3Qe7QqAezO1qE) | 3:54 | 2024-09-03 |  |
 | [LOVE KILLS](https://open.spotify.com/track/4cfM2UziwJLuSqzjv1TBBP) | [ripZeeno](https://open.spotify.com/artist/4nB5WAgAoTwz0ohTq5exLV) | [LOVE KILLS](https://open.spotify.com/album/0DtWud36lNyWZXfuxxqxy9) | 2:05 | 2024-08-01 |  |
 | [love?](https://open.spotify.com/track/0OjXvZmSx4Ne9wg7fKQqad) | [two kalme](https://open.spotify.com/artist/7mjadfpeejXDP4e0sFTFAR) | [love?](https://open.spotify.com/album/0KRbxfPHAUEA5NTc8rRjaY) | 3:49 | 2023-07-26 |  |
+| [Mahakaal Tera Gungan](https://open.spotify.com/track/5sMhNlTz5KAbA4Ak7ehS8P) | [Pruthvi Pawar](https://open.spotify.com/artist/6s4l3B5BsMiIXqUhYE7p0J), [Sagar Date](https://open.spotify.com/artist/16sC4mCzwahbSw1ReTntR5) | [Mahakaal Tera Gungan](https://open.spotify.com/album/0q6R1TEr0VwumApn1mLOh2) | 4:27 | 2025-11-25 |  |
 | [manage.](https://open.spotify.com/track/7Aep1k1Z32xEtbs8JZPOdJ) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [manage.](https://open.spotify.com/album/4tWnCBIacxT7VtAVv6yxDN) | 1:32 | 2024-09-09 |  |
 | [Mar \(outro\)](https://open.spotify.com/track/5qtjENcuscRZKJmHPRRykD) | [Acl](https://open.spotify.com/artist/7uupoHUiKsNHt6lINmsNKJ), [LaHouse](https://open.spotify.com/artist/0KM3kUKOIfAMID8huLSBNY) | [Void](https://open.spotify.com/album/4DwTg6J1AREepXPPnMN6UN) | 2:10 | 2024-08-02 |  |
 | [MARLBORO \- Original Mix](https://open.spotify.com/track/1BGhVB81DRcexphwdaPtZN) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Flexxed](https://open.spotify.com/artist/3q1SRcJP93o1xjPrsooXVs), [baziØ](https://open.spotify.com/artist/0TJzCABGQoCGWoNoU0MpQp), [Makaroni](https://open.spotify.com/artist/5buNac79TRubILrjQqvu41), [Patronlar](https://open.spotify.com/artist/64r21ot9BJ8Lsjr5JdrA25) | [MARLBORO \(Original Mix\)](https://open.spotify.com/album/0EIi92K5fV45b9OlvRebKl) | 2:12 | 2024-11-17 |  |

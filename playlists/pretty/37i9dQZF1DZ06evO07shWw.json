@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACt2wZmzL9ngU45TN0yv6Rm",
+  "snapshot_id": "aSOgAAAAAAAGjFzhoZYja4bFN5iHFtjj",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Today's Country",
+        "url": "https://open.spotify.com/album/0ktFSQatgI3YWvbzo3hIDv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 200557,
+      "name": "Treated Me Good",
+      "url": "https://open.spotify.com/track/0AiV5WLxaKInSKhh1s99aI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Comeback (Deluxe)",
         "url": "https://open.spotify.com/album/1aNIT8Eao5zaUVkmZ3ib0J"
       },
@@ -279,26 +295,6 @@
       "duration_ms": 193561,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/3wFQdX3Uqlg1k9a27qcVnM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
-      },
-      "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "On Fire (Ingrid Andress Version)",
-      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
     },
     {
       "added_at": null,
@@ -335,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "On Fire (Ingrid Andress Version)",
+      "url": "https://open.spotify.com/track/3wcSCQ0ukXVpSzHjILHlGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Person (Deluxe)",
         "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
       },
@@ -351,38 +367,6 @@
       "duration_ms": 206760,
       "name": "Runnin (with JP Saxe)",
       "url": "https://open.spotify.com/track/2SaQRVlA0qJNvV8CQxX7AX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
-        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Madeline Edwards",
-          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
-        },
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
-      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
       "added_at": null,
@@ -415,6 +399,38 @@
       "duration_ms": 174034,
       "name": "How Honest Do You Want Me To Be?",
       "url": "https://open.spotify.com/track/2Dn3Td3UlFQmo1bJmEyq68"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) [Spotify Singles]",
+        "url": "https://open.spotify.com/album/6IwwVGLtiflk9IkTcRwE6n"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "You Oughta Know (feat. Ingrid Andress, Lainey Wilson, Madeline Edwards, Morgan Wade) - Spotify Singles",
+      "url": "https://open.spotify.com/track/7aJmIQGixZmzDUBm3nUIIv"
     },
     {
       "added_at": null,
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 233326,
-      "name": "No Choice",
-      "url": "https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cross Country",
         "url": "https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0"
       },
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 233326,
+      "name": "No Choice",
+      "url": "https://open.spotify.com/track/6JUUB5sWlJV3VSMhtqcnxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 215787,
       "name": "Pain",
       "url": "https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 200557,
-      "name": "Treated Me Good",
-      "url": "https://open.spotify.com/track/1hfJZ4TEFyc0wlD3hcxL2C"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Person (Deluxe)",
+        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 258827,
+      "name": "Wish You Would",
+      "url": "https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "songs for sad eyes",
         "url": "https://open.spotify.com/album/6NS3kVO5BUMDdWlIOvOk65"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 228507,
       "name": "Bed on Fire (feat. Ingrid Andress)",
       "url": "https://open.spotify.com/track/06IC4v8Smdm5fVQuMAOxe2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Person (Deluxe)",
-        "url": "https://open.spotify.com/album/74uGCjYtRRC4vuQiD6L97I"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 258827,
-      "name": "Wish You Would",
-      "url": "https://open.spotify.com/track/7lYLGVuVHQBfuaElYAqPpD"
     }
   ],
   "unique_name": "This Is Ingrid Andress",

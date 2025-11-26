@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36947,
+  "num_followers": 36955,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAAVHJ4hPoCDbqa2TZYPkO++",
+  "snapshot_id": "aSOgAAAAAAC5c6sVyWadO4EBu3oJT5tZ",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 402844,
+      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0vtGFiSSmdHEnAb2faXyzC"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 225623,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1OfkAN8mUaNCR2aXGpfrbg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 402844,
-      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
     },
     {
       "added_at": null,

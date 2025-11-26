@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-166 songs - 8 hr 49 min
+168 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Alucina](https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e) | [AREIATERRA](https://open.spotify.com/artist/5H1FWvOZmRoBOtGMRNXmJD), [Tukum](https://open.spotify.com/artist/69aatX6EpsWfK0b4rsFsly), [Planeta Gru](https://open.spotify.com/artist/3RpH8346fxFHGupH24fLyL) | [Alucina](https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8) | 3:00 | 2025-02-22 |  |
 | [Amanheceu \- Acústico](https://open.spotify.com/track/3JwfgMmiaVQq7Dqv2hQKot) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Amanheceu \(Acústico\)](https://open.spotify.com/album/1eQnp2hdYxu5iprEeZC5Kq) | 3:16 | 2023-11-24 |  |
 | [Amanheceu \- Acústico](https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg) | [Amanheceu \(Acústico\)](https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM) | 3:16 | 2023-06-23 | 2024-04-19 |
+| [Amei Te Ver](https://open.spotify.com/track/4xWcf3di6eJqTmmaYk5oNe) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Amei Te Ver](https://open.spotify.com/album/5JUSZHdRxEsBV5QX6qqz8c) | 3:37 | 2025-11-25 |  |
 | [Amor das Minhas Vidas](https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/1k0nV3KIhDJ6cjBsUlUqWx) | 2:57 | 2023-06-23 | 2025-05-17 |
 | [Amor das Minhas Vidas](https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Amor das Minhas Vidas](https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI) | 2:57 | 2023-06-23 | 2023-09-04 |
 | [Amor das Minhas Vidas](https://open.spotify.com/track/7l7ZSYbgknFV6GBNH26T5x) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 2:57 | 2023-09-02 | 2024-04-19 |
@@ -58,7 +59,7 @@
 | [Dança](https://open.spotify.com/track/3DS1sb4xQjCVBlTKfQ5bJL) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/2RvxIv1XPBok8GsPBPgtSk) | 2:32 | 2023-06-23 | 2024-04-19 |
 | [Dança](https://open.spotify.com/track/4XSJAKow8CstbLdzHMLqTd) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS) | [Dança](https://open.spotify.com/album/067fPJFtcCr0fbp88a6GBi) | 2:32 | 2023-11-24 |  |
 | [De Onde Eu Venho](https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [De Onde Eu Venho](https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U) | 2:23 | 2023-06-23 | 2023-10-07 |
-| [De Toda Mãe](https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:45 | 2023-06-23 |  |
+| [De Toda Mãe](https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:45 | 2023-06-23 | 2025-11-26 |
 | [Deixa a Chuva Cair \- Acoustic Version](https://open.spotify.com/track/466NYRgtd3gPNH43VQ5A33) | [Rick Bonadio](https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6), [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Deixa a Chuva Cair \(Acoustic Version\)](https://open.spotify.com/album/0L7Ch86WVPvPjf1LoIDcPl) | 2:44 | 2025-03-07 |  |
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2023-06-23 |  |
 | [Deixa o Sol Bater](https://open.spotify.com/track/5fwuNeL1cRnNUv5NWdXBeV) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Deixa o Sol Bater](https://open.spotify.com/album/0ovKfWEwHP8BXyJAjPCdRt) | 2:50 | 2023-09-02 | 2023-10-07 |
@@ -156,6 +157,7 @@
 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 | 2023-06-23 |  |
 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 | 2023-06-23 |  |
 | [Te Vi Na Rua](https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW) | [Te Vi Na Rua](https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB) | 2:54 | 2023-06-23 |  |
+| [Telepatia](https://open.spotify.com/track/4WW25dpISkFGnQVov7DKKL) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Telepatia](https://open.spotify.com/album/7EAtMCSgIIyflYLoyTqwO7) | 3:59 | 2025-11-25 |  |
 | [Tem Dias](https://open.spotify.com/track/4q7PtChUEX8iXUsTw4eQkl) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Tem Dias](https://open.spotify.com/album/7H13dgfnX4i8qC04THpGLC) | 3:29 | 2025-09-01 |  |
 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW) | 2:50 | 2023-06-23 | 2023-09-02 |
 | [Tudo Que Eu Nunca Senti \(Falta\)](https://open.spotify.com/track/1DHvVajO4PmeHDJ8aYBeQs) | [peu heise](https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS) | [Tudo Que Eu Nunca Senti \(Falta\)](https://open.spotify.com/album/4YyLXwuGoydk5hswrpXSHN) | 2:10 | 2023-10-06 | 2023-10-21 |
@@ -173,6 +175,6 @@
 | [X](https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:46 | 2023-06-23 |  |
 | [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2025-02-07 |  |
 | [Água Salgada](https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Água Salgada](https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv) | 3:21 | 2023-06-23 |  |
-| [íris colorida](https://open.spotify.com/track/0NUPGDS544fTq9QDv815bV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [íris colorida](https://open.spotify.com/album/4Rcswr1Ppmv4rfQDIKPrX9) | 2:37 | 2025-08-03 |  |
+| [íris colorida](https://open.spotify.com/track/0NUPGDS544fTq9QDv815bV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [íris colorida](https://open.spotify.com/album/4Rcswr1Ppmv4rfQDIKPrX9) | 2:37 | 2025-08-03 | 2025-11-26 |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

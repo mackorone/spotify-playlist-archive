@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,600 songs - 7 day 22 hr 22 min
+3,608 songs - 7 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [Dimentica](https://open.spotify.com/track/2YFOpn4AQh66qARZX3TEEH) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Dimentica](https://open.spotify.com/album/5g8TgvubwwzztZa9d85ZZI) | 3:05 | 2025-03-20 |  |
 | [Dimmelo Tu](https://open.spotify.com/track/1GHuNcPHDFNWVt2Y5setJ1) | [Igor Mulas](https://open.spotify.com/artist/5uPMZlA6DEKw4Q3sSDGPdb) | [Dimmelo Tu](https://open.spotify.com/album/3tP2ltVgLs70geQrpb8xtc) | 3:34 | 2025-06-06 |  |
 | [Dirti ancora no](https://open.spotify.com/track/00MjDw7rKzaDAeVysXjgSB) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Senti\-Menti](https://open.spotify.com/album/7aTSmhAZwj0e0Mh1uwWRcY) | 3:54 | 2025-06-02 |  |
+| [Dis Gyal](https://open.spotify.com/track/42ercX8Nco8gqsu8UCLZL4) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Alien Bwoy](https://open.spotify.com/artist/3RM28AyHsaaPBzw66mLeqF) | [Dis Gyal](https://open.spotify.com/album/2wBdA3hnm3WbGGalJl4N9w) | 2:23 | 2025-11-25 |  |
 | [Disco Lights](https://open.spotify.com/track/03MOBctEAb7tyVOM2S5xDK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vibe Funky Disco](https://open.spotify.com/album/556G6A4l9E9cEJQOBGUmBW) | 2:03 | 2025-09-19 |  |
 | [Disco Lights \(another\)](https://open.spotify.com/track/5jDTWV6v7cjIwMaO1OMqDp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vibe Funky Disco](https://open.spotify.com/album/556G6A4l9E9cEJQOBGUmBW) | 2:34 | 2025-06-05 |  |
 | [Disfraz](https://open.spotify.com/track/6px55UKbJjmJkd5tvN3If6) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:10 | 2025-07-29 |  |
@@ -977,6 +978,8 @@
 | [El Festín](https://open.spotify.com/track/4dyBuRjGxDd5uG6eXeEqC5) | [Hermano Salvaje](https://open.spotify.com/artist/4Pdw31CcKADRMfv8pZiZTC) | [El Festín](https://open.spotify.com/album/7DTF8F4bZryuQn6QIUvcKp) | 3:43 | 2025-06-13 |  |
 | [El Horizonte](https://open.spotify.com/track/61BscGmx7cE5sGptKD9YtN) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [El Horizonte](https://open.spotify.com/album/7Aogk0qxAL89Exl2MG3pr6) | 3:58 | 2025-07-29 |  |
 | [El malo](https://open.spotify.com/track/51DplGFhF8bURUMRPOjM8l) | [Ivan Cortes](https://open.spotify.com/artist/15aPeDSL8oBv1kJamlqkWo), [VOLTA](https://open.spotify.com/artist/59SRrEj64XmlhIriTtOgZP) | [El malo](https://open.spotify.com/album/4JS5YtrJx6cb2ts0Vgieio) | 3:26 | 2025-05-27 |  |
+| [El Mismo Sol](https://open.spotify.com/track/1R8xHhsBJiKlSiejjjL6R1) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Radio Cincinnati](https://open.spotify.com/album/4ryhhEUfUyguu3ZISxTGwy) | 3:35 | 2025-11-24 |  |
+| [El Propi Misteri](https://open.spotify.com/track/3C0fym92Uhi7PyWfNXjQVr) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Flora i Fauna](https://open.spotify.com/album/1uN30RsiOCF8Z96pyESgvn) | 5:28 | 2025-11-24 |  |
 | [Elec](https://open.spotify.com/track/4d07qywgTBH26LwxNVKCbe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:19 | 2025-09-17 |  |
 | [Elec \(another\)](https://open.spotify.com/track/4Pb0z8oMFdTBVVaPtRkDVa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 2:44 | 2025-09-17 |  |
 | [Electr h](https://open.spotify.com/track/0PgcCUPoL2REk9NVIIN0mw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:14 | 2025-09-17 |  |
@@ -2327,6 +2330,7 @@
 | [OverTh!nking](https://open.spotify.com/track/0HhzQxtC4tF558LQINYrsK) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [OverTh!nking](https://open.spotify.com/album/5BBgGOiNfWKdnHGmYaUjqb) | 1:35 | 2025-07-28 |  |
 | [Ovunque comunque](https://open.spotify.com/track/6YA1D0KVmBpbqVHa7K9upi) | [Alessia Brightly](https://open.spotify.com/artist/5TCSLH5N1fkEbZmXerjINv) | [Senti\-Menti](https://open.spotify.com/album/7aTSmhAZwj0e0Mh1uwWRcY) | 3:58 | 2025-06-01 |  |
 | [Owanbe](https://open.spotify.com/track/1fzcwfOQdlxOBrk1rqpXEy) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 3:16 | 2025-06-04 |  |
+| [Owoma](https://open.spotify.com/track/6JeENyAOFPgUfLQgMc27pD) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Owoma](https://open.spotify.com/album/5xLczMEy1ExSiPIIMsL4Sm) | 3:11 | 2025-11-25 |  |
 | [O’ Core Mio](https://open.spotify.com/track/7sqCQvUz0D7Tv4L4OJTCH0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:24 | 2025-09-18 |  |
 | [O’ Core Mio \(another\)](https://open.spotify.com/track/5AajqxPaUU0VxNIMlSHMFu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:24 | 2025-09-18 |  |
 | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/track/4Qzh8PAlFvoOTrbprJUqb9) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [P.U.B\. Prendimi, Usami E Buttami](https://open.spotify.com/album/7gITwQFrdvzqzAE3yfZ6Xu) | 4:23 | 2025-06-06 |  |
@@ -2452,6 +2456,7 @@
 | [Put You Up](https://open.spotify.com/track/2MUHgh6HpXccL1jFDd42Qv) | [Lil Chef](https://open.spotify.com/artist/75kXhB2eQ7urvSo3BpRzCA) | [I Want You](https://open.spotify.com/album/6Rnsjm5fEzTlZj25vWNoQC) | 1:46 | 2025-04-30 |  |
 | [Pyongyang](https://open.spotify.com/track/4R3K1AjD3HlicYtRBChHkI) | [Unità di Produzione](https://open.spotify.com/artist/0rRsE3wADulMq6yY14Ef4z) | [Pyongyang](https://open.spotify.com/album/2udyvXNiF390plfEIjKPQC) | 2:49 | 2025-11-12 |  |
 | [Quarantine](https://open.spotify.com/track/3UzQ1eBfSNP0g2dGXLDptH) | [Electric Cherry](https://open.spotify.com/artist/66J3VXbn2sHTyX6jhIlxwZ), [Andrea Ra](https://open.spotify.com/artist/27PoZXHVOSVXG0oWhGKrbe) | [Quarantine](https://open.spotify.com/album/0RDGwPbndtjk2XuqI4ICWV) | 4:19 | 2025-04-24 |  |
+| [Quarz](https://open.spotify.com/track/5pgRxx6vP81lugd4WhQUG7) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Hex](https://open.spotify.com/album/1pi1sqdxt3KndTYmJJ7Pye) | 4:21 | 2025-11-24 |  |
 | [QUELLO SBAGLIATO \(feat\. Nina Zilli\)](https://open.spotify.com/track/1Epvn9ddRoVGvTWrcWLwXR) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Nina Zilli](https://open.spotify.com/artist/5zRmtoBOCk7JaYHI78Y5b5) | [QUELLO SBAGLIATO \(feat\. Nina Zilli\)](https://open.spotify.com/album/48kOjh22Rad3pBtkO4fcGk) | 2:40 | 2025-06-01 |  |
 | [Questo film non sarà un sequel](https://open.spotify.com/track/5JhuwyPOKmvdga9dPxoQFP) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Questo film non sarà un sequel](https://open.spotify.com/album/38xZjbzv1qkKDI7546Janb) | 2:30 | 2025-05-23 |  |
 | [Quiet Between](https://open.spotify.com/track/3Z7n4oo9FZ8yKENSV0xlFX) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Soft Steps](https://open.spotify.com/album/3tdc0NtvsXTQcsB3qkWqq3) | 2:12 | 2025-07-03 |  |
@@ -3164,6 +3169,7 @@
 | [Time for the Other Song](https://open.spotify.com/track/7mabZvppZ7FTLrsWO9GJYJ) | [Carbox](https://open.spotify.com/artist/3b7TkmnH3ZNro3MJlhTRMl) | [Dark Down](https://open.spotify.com/album/0qAizbg3D61QB2pZe10dQC) | 4:07 | 2025-10-07 |  |
 | [Timeless Love](https://open.spotify.com/track/3xMFvP0X8VPOu1xbw29nVu) | [MAX LRF](https://open.spotify.com/artist/7DWogRuA8IOFVZn8YXEI00) | [Timeless Love](https://open.spotify.com/album/2wkFV9ZPXsXABdDiTJ3bY0) | 3:44 | 2025-04-05 |  |
 | [Times In Nines](https://open.spotify.com/track/5VVzMEj50XeSrY2CBnzvaC) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [With You \(Days In Nines\)](https://open.spotify.com/album/0mT6aPu2ePb3lvjrqQM1Xz) | 3:20 | 2025-03-03 |  |
+| [Tiny Speck](https://open.spotify.com/track/6kPjfKphSOuffaeXzGRBZN) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Un Mal Menor](https://open.spotify.com/album/2YVnJHNShcNAkedJq4GJl3) | 3:26 | 2025-11-24 |  |
 | [To Church](https://open.spotify.com/track/6jJKVbL3tCdBolJlG0ooCR) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:46 | 2025-06-05 |  |
 | [To Count](https://open.spotify.com/track/54mAvMLTV5Q5Wql78y6tY8) | [Roommates](https://open.spotify.com/artist/1oTSwH7yL7aKe4qPQ0yCuF) | [To Count](https://open.spotify.com/album/4iBx6yfZS9UPmtlSFAOicd) | 2:56 | 2025-08-22 |  |
 | [To Myself](https://open.spotify.com/track/1Lcd50j95y2ChgX9epkKTf) | [OOTEBS](https://open.spotify.com/artist/6mjlNdKlY7hTXXLKRhc0dU) | [To Myself](https://open.spotify.com/album/5CI2FtvvwlG7ELXAmS0MvC) | 2:36 | 2025-10-29 |  |
@@ -3237,6 +3243,7 @@
 | [Tu dors](https://open.spotify.com/track/1Gxj17JyqnTezJkK62eVrM) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [Weedlack](https://open.spotify.com/artist/01BvBbo2LhDw1fwCnr7iYL) | [Tu dors](https://open.spotify.com/album/4FPji3VCeIl6Um0xkKZEOk) | 2:56 | 2025-06-05 |  |
 | [Tu mirada en mi espalda](https://open.spotify.com/track/1F4SNolb3rli87xEgepCtM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Flores de Loto](https://open.spotify.com/album/6K4mDXoXfAGkWmestJpVSm) | 3:32 | 2025-06-16 |  |
 | [Tu+paranoie](https://open.spotify.com/track/73izB0Q1kmrRZwCBG2pNhL) | [Resma](https://open.spotify.com/artist/1gWkVUP7obAEzU2RPvbuKx) | [Tu+paranoie](https://open.spotify.com/album/2omvBWBuI6I87nQiFzIQVi) | 3:10 | 2025-07-05 |  |
+| [Tuli Babi](https://open.spotify.com/track/1rAR9meKtTImO8vxGlJqZb) | [1Mud Arvie](https://open.spotify.com/artist/08MIueXVv5RBO4d0hBtf4p) | [Tuli Babi](https://open.spotify.com/album/2o4qP2M4MXTT4izKJZTmC1) | 2:47 | 2025-11-25 |  |
 | [Tumse Pyar Hua । तुमसे प्यार हुआ \- This is Track 3 of Album "Pyar Ke Rang"](https://open.spotify.com/track/07jm7YnF8E1kQHONLscm4U) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tumse Pyar Hua । तुमसे प्यार हुआ](https://open.spotify.com/album/6g1NQvbfB6A2baPs3d8MMM) | 4:06 | 2025-05-06 |  |
 | [Turn Up the Night](https://open.spotify.com/track/6YL8Cncd1LI3Rn9pDSVuf5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:53 | 2025-09-15 |  |
 | [Turn Up the Night \(another\)](https://open.spotify.com/track/62Eh141ij7gAnhrh4SQ8kJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:48 | 2025-09-15 |  |
@@ -3407,6 +3414,7 @@
 | [Wanted](https://open.spotify.com/track/7JhPM8ltIx7vC4b8GjtyNR) | [The Trifecta Experiment](https://open.spotify.com/artist/7pHqumppIzVSlnYsCzWnLv) | [Organized chaos](https://open.spotify.com/album/6wpg5HE62C8oHssYy4YBfd) | 4:27 | 2025-08-19 |  |
 | [Wapas Aaja Meri Baahon Mein \- Reprise](https://open.spotify.com/track/1d4bYFi16sN1Zt2WK9Ruru) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 3:46 | 2025-07-02 |  |
 | [WAR IN THE TRENCHES](https://open.spotify.com/track/6sp6cLIfhSh9edvvjDKQti) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Subaru Boys : FINAL HEAVEN](https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl) | 2:37 | 2025-05-16 |  |
+| [Warm it up](https://open.spotify.com/track/2Svxk5G1Al9Lim42GxioN0) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Warm it up](https://open.spotify.com/album/7LNsEtAubcQLFXwoiIOIV8) | 2:33 | 2025-11-25 |  |
 | [Wasteland Wings](https://open.spotify.com/track/1baP9eeZ4Yo0zy2osG4TgO) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99), [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn) | [Wasteland Wings](https://open.spotify.com/album/2Xhf3ptsgblcoi11wpRiwE) | 2:58 | 2025-10-23 |  |
 | [Wasting Time](https://open.spotify.com/track/1605ZENgI1dRZfF8YuxumF) | [SAMEBLUD](https://open.spotify.com/artist/7fVYJLnYP4msJvPRzqycyn) | [Wasting Time](https://open.spotify.com/album/7fuJfzq0gIVgJjAZXC0Rye) | 2:45 | 2025-10-19 |  |
 | [Wasting Your Time](https://open.spotify.com/track/4BbpIubQhDJAWeOA5rxaSf) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Wasting Your Time](https://open.spotify.com/album/7hZsZV5pBEyz5FRnITmgIb) | 2:26 | 2025-05-16 |  |

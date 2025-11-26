@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-93 songs - 8 hr 13 min
+94 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Vem Encher\-me](https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:53 | 2023-08-06 | 2025-02-11 |
 | [Vigor \(Ao Vivo\)](https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK) | [Vigor \(Ao Vivo\)](https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf) | 4:26 | 2024-09-26 |  |
 | [Vontade de Adorar + Vitória no Deserto \(Ao Vivo\)](https://open.spotify.com/track/2wrQ9dUssv5cSsuwPTRUTP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Vontade de Adorar \(Ao Vivo\)](https://open.spotify.com/album/2eOgN1t4doKDiqNbzQ7xMZ) | 4:21 | 2025-10-08 |  |
-| [Vou Glorificar](https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:44 | 2023-07-09 |  |
+| [Vou Glorificar](https://open.spotify.com/track/187l0KkKTNCnfpJ1vYa0Y7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:44 | 2023-07-09 | 2025-11-26 |
+| [Vou Glorificar \(Ao Vivo\)](https://open.spotify.com/track/0Ca1iTlaXyxc4XNY2PGJ5O) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Vou Glorificar \(Ao Vivo\)](https://open.spotify.com/album/4LOdGxSgQ1IrBxcGpRQlvM) | 6:44 | 2025-11-26 |  |
 | [É Assim que Eu Quero Te Adorar](https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:33 | 2023-07-09 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

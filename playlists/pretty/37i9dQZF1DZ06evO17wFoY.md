@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,137 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,139 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 5 | [Feed the Birds \- From "Mary Poppins"](https://open.spotify.com/track/2vz6Zep5xyCIAZgIroYL1X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Feed the Birds \(From "Mary Poppins"\)](https://open.spotify.com/album/4EuuQEBkpgL8bwsfUFCk2A) | 4:21 |
 | 6 | [Liebestraum No\. 3 in A\-Flat Major, S\. 541 / 3](https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:53 |
 | 7 | [Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile": I\. Allegro](https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Mozart: Piano Sonata No\. 16 in C Major, K\. 545 "Sonata facile"](https://open.spotify.com/album/2j6Cg49cL6PtyDODubUzGY) | 4:51 |
-| 8 | [The Departure](https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 2:31 |
-| 9 | [Klavierstück in F Major, K\. 33b](https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Magic](https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk) | 0:59 |
+| 8 | [Klavierstück in F Major, K\. 33b](https://open.spotify.com/track/5O7SV284GeCFqs0wGfpYqb) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Magic](https://open.spotify.com/album/1rEECaYPfrTMA7gDIXcOGk) | 0:59 |
+| 9 | [The Departure](https://open.spotify.com/track/59gg6zQhSKGVnkT3hWAY3l) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Voyager \- Essential Max Richter](https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd) | 2:31 |
 | 10 | [Consolation No\. 3 in D\-Flat Major, S\. 172](https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 4:19 |
 | 11 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 5:21 |
 | 12 | [Für Elise, Bagatelle in A Minor, WoO 59](https://open.spotify.com/track/0H2VhGUC3P3hvwz8rdGIpC) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Beethoven: Bagatelle No\. 25 in A Minor, WoO 59 "Für Elise"](https://open.spotify.com/album/74YXY7P1wuM4JR9hGDzPBx) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Nocturne No\. 8 In D Flat, Op\. 27 No\. 2 \- Live](https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 6:13 |
 | 50 | [Carnaval, Op\. 9: XII\. Chopin\. Agitato](https://open.spotify.com/track/7KYKjgRK8UVCKHjPDyAvTJ) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 1:35 |
 
-Snapshot ID: `aSJOgAAAAAC6T0HReOE1JZJ/0gs5eK8a`
+Snapshot ID: `aSOgAAAAAABMqTxqc3kljabcI7XW8r7M`

@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-954 songs - 1 day 15 hr 27 min
+955 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Puffer Fish](https://open.spotify.com/track/2X0ZTGjDU75jywEsGf3V6E) | [Mama B](https://open.spotify.com/artist/0yFdwmRwiMLMnuvQ6XmRQX) | [Puffer Fish](https://open.spotify.com/album/0RbFek10iCtCiVCPKlxvnU) | 2:30 | 2024-04-19 | 2025-03-08 |
 | [Puppy Campers \- Skye's Music Party](https://open.spotify.com/track/4QSG8ZZ5DALRMphfEJJaP9) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Puppy Campers \(Skye's Music Party\)](https://open.spotify.com/album/6BS7n4TwchS0qzqyLeKD2g) | 1:46 | 2025-09-19 |  |
 | [Put a Smile On](https://open.spotify.com/track/1MpjxtR6pZ0AYkOy3ChIMw) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [Put a Smile On](https://open.spotify.com/album/2KqBq9tPAVu51BsJalUhfd) | 2:30 | 2024-06-28 | 2025-03-08 |
+| [Quickatoo](https://open.spotify.com/track/3YpgKwdxCfnfjNjg6JaH47) | [Taboo](https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP), [Jett Gomez](https://open.spotify.com/artist/6lkSUwZ5v3KOGkJmb66fJW), [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC), [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Más Melodía](https://open.spotify.com/album/7vRKcxFSfQijYaJ6Q5PQzf) | 1:25 | 2025-11-25 |  |
 | [Rainbow](https://open.spotify.com/track/6Z6IQFFGaIAi8gXVmASK6N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Rainbow](https://open.spotify.com/album/7BZD2GF5gsCLzGbU9izjTN) | 2:04 | 2025-08-15 |  |
 | [Rainbow Connection](https://open.spotify.com/track/2cOfeOWB5kAN2xHeD6jFHe) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Rainbow Connection](https://open.spotify.com/album/5xIGxeL9Rl9FmWCbB4AR9y) | 4:12 | 2022-04-15 | 2024-01-05 |
 | [Rainbow Shoppe](https://open.spotify.com/track/13RAj3aWpN54mfkSRwZW3W) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda), [Lucy Kalantari](https://open.spotify.com/artist/48DitTEk1ItVK1K023w2S1) | [Ahhhhh!](https://open.spotify.com/album/0umzRhzamJyXFvRA1iWXsl) | 3:17 | 2024-01-05 | 2024-02-17 |

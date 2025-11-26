@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nemzzz, Tate McRae, Sub Focus and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 944,180 likes - 119 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 944,166 likes - 119 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

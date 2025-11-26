@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,642 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,673 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 2 | [El Ritmo Fa](https://open.spotify.com/track/4v65yiH3yoIKr57APt4oBQ) | [DJ kLazH](https://open.spotify.com/artist/3qutyGbJxvKzLqCYLaFHBo), [Dj Kury](https://open.spotify.com/artist/6I4OhwKxUoUZBsddTl2MbS) | [El Ritmo Fa](https://open.spotify.com/album/2So5WDAfp76BBlbwbxGo6Z) | 5:23 |
 | 3 | [Beso Al Aire \(feat\. América Sierra & Smoky\)](https://open.spotify.com/track/44Tu2rpOsIlu69qrRZaahl) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [Smoky](https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:49 |
 | 4 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 |
-| 5 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
-| 6 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
+| 5 | [Bao Bao](https://open.spotify.com/track/1PzVGPTfbvlcFcHf8HDlGh) | [Tribal Stars](https://open.spotify.com/artist/2sYpzC6VrAQzY3AIXkDSVR), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Bao Bao](https://open.spotify.com/album/1FuElQORi4fKKJdzRESi9n) | 3:23 |
+| 6 | [Desma](https://open.spotify.com/track/5eLrkX0RPJSlQT5H5U0o43) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Desma](https://open.spotify.com/album/3TNn2Pfo5RmV4hdw1ZSuUf) | 2:38 |
 | 7 | [Baila Conmigo \(feat\. Kelly Ruiz\) \- Alan Rosales & TBX Remix](https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [TBX](https://open.spotify.com/artist/2RFBrX0e7Zypt7D6BFF0W2), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\) \[Alan Rosales & TBX Remix\]](https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ) | 2:22 |
 | 8 | [Celosa Trompetosa](https://open.spotify.com/track/6XoWjNfsekXoMWumZPLFc9) | [Dj Renzo Mix](https://open.spotify.com/artist/2a7dMZX6NbyOW70t0bp38A) | [Celosa Trompetosa](https://open.spotify.com/album/7rjys36Oqufe4z0OCYeIks) | 2:20 |
 | 9 | [Vivir la Vida](https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn) | [Marco Bode](https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr) | [Vivir la Vida](https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME) | 1:54 |

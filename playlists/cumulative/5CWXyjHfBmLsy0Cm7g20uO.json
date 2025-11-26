@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Starting 24",
+        "url": "https://open.spotify.com/album/0f4RaNF6eFksDXHCbmcpeh"
+      },
+      "artists": [
+        {
+          "name": "The Alternative Project",
+          "url": "https://open.spotify.com/artist/68iqN5iGFyGYazmS5Qg3ER"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270479,
+      "name": "Paranoid Paradise",
+      "url": "https://open.spotify.com/track/3m6xMEquN2cJ2oCghdIeKs"
+    },
+    {
+      "album": {
         "name": "Permission to Share",
         "url": "https://open.spotify.com/album/1tIUy85SwGzWMe3kc5RTVZ"
       },

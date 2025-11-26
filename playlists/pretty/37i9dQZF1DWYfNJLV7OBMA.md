@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,296 likes - 62 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,306 likes - 62 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 57 | [Ahankara Nagare](https://open.spotify.com/track/1IQDbPQ7VYGPzL0auPofes) | [Ranidu](https://open.spotify.com/artist/29A2v7wxGk7GK0EmRKgrOW) | [Diviyapura \(All My Life\)](https://open.spotify.com/album/2eTy1mP0IwyAc3weAMgPTo) | 3:46 |
 | 58 | [Hande Hawa](https://open.spotify.com/track/0jXBe0FGSBXPi43AQgMmUr) | [Janith Iddamalgoda](https://open.spotify.com/artist/4zX5DAYnys4CvJHbaAfrzG) | [Hande Hawa](https://open.spotify.com/album/3B8rhlv0XxVlseXYEqmkDV) | 3:48 |
 | 59 | [Pahasara Obe Adare](https://open.spotify.com/track/6XSCLKQcavtn1PaLAhmo1x) | [Centigradz](https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse) | [Best Of Centigradz](https://open.spotify.com/album/2UJFPVUQ19uSmoPskj3pA6) | 3:26 |
-| 60 | [Sokare](https://open.spotify.com/track/0IFrDQDqiFAHPhyTKGkoNe) | [Chinthy](https://open.spotify.com/artist/0FAGGZQj2kutGhIuKcmD0k) | [Rising From The East](https://open.spotify.com/album/22kAIOhmZKNhYVDUo77n21) | 3:29 |
+| 60 | [Sokari](https://open.spotify.com/track/0IFrDQDqiFAHPhyTKGkoNe) | [Chinthy](https://open.spotify.com/artist/0FAGGZQj2kutGhIuKcmD0k) | [Rising From The East](https://open.spotify.com/album/22kAIOhmZKNhYVDUo77n21) | 3:29 |
 | 61 | [Veralu Mal](https://open.spotify.com/track/7kCq23IvruljXm8fUevkaS) | [Dinesh Gamage](https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o), [Kaizer Kaiz](https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k), [Manuranga Wijesekara](https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw), [K2](https://open.spotify.com/artist/3NdhMJqwmblykHBqljcydF) | [Veralu Mal](https://open.spotify.com/album/1Ge3wJ0P2BTjj4mLND7RKS) | 2:52 |
 | 62 | [Riduman](https://open.spotify.com/track/5klU2ylrthOE30rFBhsrrx) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes), [Themiya Thejan](https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9) | [Riduman](https://open.spotify.com/album/7CaBdkfUnR9uPgWkF0GhBd) | 3:30 |
 

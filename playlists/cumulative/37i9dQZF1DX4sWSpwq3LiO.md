@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,815 songs - 3 day 8 hr 33 min
+1,819 songs - 3 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-01-19 | 2022-09-13 |
 | [Becalm](https://open.spotify.com/track/4N9UKWy0TLiwNEuzeynWiU) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Solo](https://open.spotify.com/album/4Ht3iY23RMXFTnYe02lrtC) | 2:29 | 2019-07-11 | 2020-03-31 |
 | [Because This Must Be](https://open.spotify.com/track/2HJNYanZcDyKGts6BRXm3z) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Keys \(Volume One\)](https://open.spotify.com/album/18IuYgjm8tw0xyQtIwthy7) | 2:45 | 2019-05-26\* | 2020-03-04 |
+| [Before We Knew](https://open.spotify.com/track/6U20TztvUrp7ccU75MAvIX) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Before We Knew](https://open.spotify.com/album/5Gt05duxvTbV2BIsNCGxgY) | 2:46 | 2025-11-25 |  |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-08 | 2023-11-21 |
 | [Before You](https://open.spotify.com/track/5vC5C7G92VJ4s9lXqtOXKY) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Before You](https://open.spotify.com/album/4437EHGAGBNz2lJzZaWogn) | 2:22 | 2024-02-05 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-01-26 | 2022-09-13 |
@@ -423,6 +424,7 @@
 | [Echo](https://open.spotify.com/track/5CBDOzmi9RXYOWi7YMrU9e) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Echo](https://open.spotify.com/album/33kMwOSEt6OAfSHKdAH9S6) | 2:01 | 2021-11-11 | 2023-01-18 |
 | [Echoes of You](https://open.spotify.com/track/4NSorTl9g80CArixVtqGfz) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [Piano & Chill](https://open.spotify.com/album/68ypGrxQ3BTihCdY2eJqS2) | 2:20 | 2019-05-26\* | 2019-12-17 |
 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 | 2023-04-11 | 2025-04-09 |
+| [Edge of Sleep](https://open.spotify.com/track/6jbNt6gowy5n98oiNTCQFC) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Edge of Sleep](https://open.spotify.com/album/4eoJn5nPZeHHLgIF4g2LJ8) | 2:45 | 2025-11-25 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2021-10-01 | 2022-07-16 |
 | [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-09 | 2025-07-19 |
 | [Elegy For The Arctic](https://open.spotify.com/track/7B5OjrUhDBJao8CrIlnXBI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elegy For The Arctic](https://open.spotify.com/album/03IcjA0YrUxqOvFmbKwnA9) | 2:38 | 2019-05-26\* | 2019-11-19 |
@@ -1538,6 +1540,7 @@
 | [The Cottage](https://open.spotify.com/track/6wqnYzf6QuiJo2BMkn3cXT) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [The Cottage](https://open.spotify.com/album/7LUao7G6nkLcpB4puQQUUo) | 3:26 | 2020-05-19 | 2020-08-20 |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2021-05-12 | 2022-05-13 |
 | [The Diary](https://open.spotify.com/track/0uwPKxXPXVAwqbz21XhUet) | [Relajar](https://open.spotify.com/artist/6K4NQdivqL83RqY2e3wW0Z) | [The Diary](https://open.spotify.com/album/6w5Cy6eeE1z7wxooY4hCUu) | 3:05 | 2019-05-26\* | 2020-01-14 |
+| [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 | 2025-11-25 |  |
 | [The Door into Summer](https://open.spotify.com/track/7inwDSpJOVDN9kUsi7JtqX) | [Nora De Smet](https://open.spotify.com/artist/6fYNVK4HEPxnmTBjCTDj3h) | [The Door into Summer](https://open.spotify.com/album/1x6OZLfOt7xNDGVU9Azcs7) | 3:02 | 2022-04-07 | 2023-09-23 |
 | [The Dreams We Left Behind](https://open.spotify.com/track/6KZtv7JVe8fKXaIHPj3Gb2) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [The Dreams We Left Behind](https://open.spotify.com/album/5wpWx956vb5d7CDGmniwcY) | 3:02 | 2020-10-20 | 2022-05-27 |
 | [The Eighth Day](https://open.spotify.com/track/1kWJ8up3tFBIi6f78gsPrs) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [The Eighth Day](https://open.spotify.com/album/35R3M4XEVpa3907sz04A2Q) | 2:35 | 2020-06-24 | 2022-05-21 |
@@ -1596,6 +1599,7 @@
 | [Theme From the Lost Ones](https://open.spotify.com/track/10BBR0z2jaktbBja3l08Dy) | [Justin Withers](https://open.spotify.com/artist/2e8b9iLS5udzTZSlIVRxVb) | [Theme From the Lost Ones](https://open.spotify.com/album/3I8SD1DiFu87iLBaQA8zvB) | 1:51 | 2020-01-22 | 2021-01-26 |
 | [Thinking about Jane](https://open.spotify.com/track/1p8USVDsfuc1bJPYEHdaXK) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Thinking about Jane](https://open.spotify.com/album/1IndXeuwjyE7OReVMHEiEY) | 2:24 | 2019-10-16 | 2020-04-28 |
 | [This Moment](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [Bela Nemeth](https://open.spotify.com/artist/53y0Ghe3FgBnguwmI68OWT) | [This Moment](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 2:34 | 2019-05-26\* | 2021-06-24 |
+| [This Moment](https://open.spotify.com/track/7xyIb53JCp8AK3KAZBa52g) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [This Moment](https://open.spotify.com/album/0PgYMfeVwjDiOAbrO8h8ce) | 2:08 | 2025-11-25 |  |
 | [This Morning](https://open.spotify.com/track/4222J8ROCEqgnnLqCC6Z7l) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [This Morning](https://open.spotify.com/album/08wPquhlETA4U8P0Q2xbd0) | 1:39 | 2019-11-12 | 2020-01-08 |
 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 | 2023-03-27 |  |
 | [Three Bridges](https://open.spotify.com/track/6rqxGNzKxZUZeOysgBP09M) | [Juan María Solare](https://open.spotify.com/artist/0sr00YxbHKRAruzYrJ6PEg) | [Numbered Places, Vol\. 1](https://open.spotify.com/album/4YLbylwabfaYGdNjVLJvOo) | 2:25 | 2020-01-22 | 2020-09-30 |

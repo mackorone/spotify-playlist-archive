@@ -1,6 +1,6 @@
 {
   "description": "Waves and calming music to float away on. Breathe with the ebb and flow of the sea. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores. ",
-  "num_followers": 63071,
+  "num_followers": 63100,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "A Beautiful Morning",
-        "url": "https://open.spotify.com/album/7edfrheVW25c7AfjMLQ8Ix"
+        "name": "Close Reach",
+        "url": "https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo"
       },
       "artists": [
         {
-          "name": "Artemis",
-          "url": "https://open.spotify.com/artist/5QtH96QxDC56UY5ZRAxI5C"
+          "name": "Sand Rae",
+          "url": "https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h"
         }
       ],
-      "duration_ms": 150000,
-      "name": "A Beautiful Morning",
-      "url": "https://open.spotify.com/track/2hgYVIsC4Bf5mBrNUlOaUE"
+      "duration_ms": 165818,
+      "name": "Close Reach",
+      "url": "https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Close Reach",
-        "url": "https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo"
+        "name": "A Beautiful Morning",
+        "url": "https://open.spotify.com/album/7edfrheVW25c7AfjMLQ8Ix"
       },
       "artists": [
         {
-          "name": "Sand Rae",
-          "url": "https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h"
+          "name": "Artemis",
+          "url": "https://open.spotify.com/artist/5QtH96QxDC56UY5ZRAxI5C"
         }
       ],
-      "duration_ms": 165818,
-      "name": "Close Reach",
-      "url": "https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS"
+      "duration_ms": 150000,
+      "name": "A Beautiful Morning",
+      "url": "https://open.spotify.com/track/2hgYVIsC4Bf5mBrNUlOaUE"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -811,34 +811,18 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Paessagio Naturale",
-        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
+        "name": "Sacred River",
+        "url": "https://open.spotify.com/album/2ZphFIGSmqtvEirnq059bb"
       },
       "artists": [
         {
-          "name": "Campane",
-          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+          "name": "Anapanasati",
+          "url": "https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Paessagio Naturale",
-      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
-        "name": "Endless Ocean",
-        "url": "https://open.spotify.com/album/6G1vgA7HXZf5nDHBsnl7E3"
-      },
-      "artists": [
-        {
-          "name": "Altum Somnum",
-          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Endless Ocean",
-      "url": "https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp"
+      "duration_ms": 185896,
+      "name": "Sacred River",
+      "url": "https://open.spotify.com/track/73HdFwja6Y7FSd3V9YLq6p"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -859,18 +843,34 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Sacred River",
-        "url": "https://open.spotify.com/album/2ZphFIGSmqtvEirnq059bb"
+        "name": "Endless Ocean",
+        "url": "https://open.spotify.com/album/6G1vgA7HXZf5nDHBsnl7E3"
       },
       "artists": [
         {
-          "name": "Anapanasati",
-          "url": "https://open.spotify.com/artist/43WrziN4gBq2HqDXu2sQ9M"
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
         }
       ],
-      "duration_ms": 185896,
-      "name": "Sacred River",
-      "url": "https://open.spotify.com/track/73HdFwja6Y7FSd3V9YLq6p"
+      "duration_ms": 190000,
+      "name": "Endless Ocean",
+      "url": "https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "Paessagio Naturale",
+        "url": "https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd"
+      },
+      "artists": [
+        {
+          "name": "Campane",
+          "url": "https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Paessagio Naturale",
+      "url": "https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Balanced Tides",
-        "url": "https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W"
-      },
-      "artists": [
-        {
-          "name": "Bright Lens",
-          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Balanced Tides",
-      "url": "https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
         "name": "Crescent Moon",
         "url": "https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226750,
       "name": "Crescent Moon",
       "url": "https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "Balanced Tides",
+        "url": "https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Balanced Tides",
+      "url": "https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Majestic (Ocean)",
-        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
-      },
-      "artists": [
-        {
-          "name": "Moonlight River",
-          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Majestic (Ocean)",
-      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
         "name": "Calming Seas",
         "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 161750,
       "name": "Deep Cove",
       "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "Majestic (Ocean)",
+        "url": "https://open.spotify.com/album/3iSXqbQBGmtBWke3LK5tOH"
+      },
+      "artists": [
+        {
+          "name": "Moonlight River",
+          "url": "https://open.spotify.com/artist/3M2OEjKBqrrvP829uLJVDu"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Majestic (Ocean)",
+      "url": "https://open.spotify.com/track/33sVJYtD2BpntLHW1m4Ggt"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "From The Past",
-        "url": "https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt"
-      },
-      "artists": [
-        {
-          "name": "Ikupu Ume",
-          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
-        }
-      ],
-      "duration_ms": 189716,
-      "name": "From The Past",
-      "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 216804,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "From The Past",
+        "url": "https://open.spotify.com/album/1hfRrhdadKh2F7tZt2vQlt"
+      },
+      "artists": [
+        {
+          "name": "Ikupu Ume",
+          "url": "https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP"
+        }
+      ],
+      "duration_ms": 189716,
+      "name": "From The Past",
+      "url": "https://open.spotify.com/track/0fbJxtewNTA0WLwckrq9Gl"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
+        "name": "West Waves",
+        "url": "https://open.spotify.com/album/3aBLctIuTVuEcWYOMyEhvr"
+      },
+      "artists": [
+        {
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "West Waves",
+      "url": "https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
         "name": "Arran",
         "url": "https://open.spotify.com/album/0w6TCWiuzcqMzir4xGSdUB"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "West Waves",
-        "url": "https://open.spotify.com/album/3aBLctIuTVuEcWYOMyEhvr"
+        "name": "Placid",
+        "url": "https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc"
       },
       "artists": [
         {
-          "name": "Wicker Whales",
-          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 148235,
-      "name": "West Waves",
-      "url": "https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S"
+      "duration_ms": 187106,
+      "name": "Placid",
+      "url": "https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1111,22 +1127,6 @@
       "duration_ms": 160333,
       "name": "From Within",
       "url": "https://open.spotify.com/track/7zyc5lRXmothc3kTRi9mfr"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
-        "name": "Placid",
-        "url": "https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 187106,
-      "name": "Placid",
-      "url": "https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Art of Peace",
-        "url": "https://open.spotify.com/album/0bOZmqneZzhxk0JxRIfY5X"
-      },
-      "artists": [
-        {
-          "name": "Zims Ele",
-          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Art of Peace",
-      "url": "https://open.spotify.com/track/7K8j7uqXYL8l2yj42kpYiS"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
         "name": "Deep Waters 432Hz",
         "url": "https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 134874,
       "name": "Deep Waters 432Hz",
       "url": "https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "Art of Peace",
+        "url": "https://open.spotify.com/album/0bOZmqneZzhxk0JxRIfY5X"
+      },
+      "artists": [
+        {
+          "name": "Zims Ele",
+          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Art of Peace",
+      "url": "https://open.spotify.com/track/7K8j7uqXYL8l2yj42kpYiS"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
+        "name": "Warm Sandy Beaches",
+        "url": "https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Warm Sandy Beaches",
+      "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
         "name": "Ocean Healing",
         "url": "https://open.spotify.com/album/28gd2fvoaM7XH1fJEBCnEM"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 173166,
       "name": "Gently Rising",
       "url": "https://open.spotify.com/track/4vd9CyTzJ2kFkqYUSgycTT"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
-        "name": "Warm Sandy Beaches",
-        "url": "https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Warm Sandy Beaches",
-      "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Awavey",
-        "url": "https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS"
-      },
-      "artists": [
-        {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
-        }
-      ],
-      "duration_ms": 155747,
-      "name": "Awavey",
-      "url": "https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
         "name": "Coastal Route",
         "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 215999,
       "name": "Trearddur Bay",
       "url": "https://open.spotify.com/track/0QLK0YU0s1NEdwdguhih0p"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "Awavey",
+        "url": "https://open.spotify.com/album/3tvcVHmb0HEEdOfzcHFbsS"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "duration_ms": 155747,
+      "name": "Awavey",
+      "url": "https://open.spotify.com/track/75fJofLZqwb7NrF8mPJE25"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
+        "name": "Hacienda",
+        "url": "https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP"
+      },
+      "artists": [
+        {
+          "name": "Harada Mi",
+          "url": "https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3"
+        }
+      ],
+      "duration_ms": 203964,
+      "name": "Hacienda",
+      "url": "https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
         "name": "Calming Waves",
         "url": "https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
-        "name": "Hacienda",
-        "url": "https://open.spotify.com/album/2TqivOnFGVlV4Lg9U6giFP"
-      },
-      "artists": [
-        {
-          "name": "Harada Mi",
-          "url": "https://open.spotify.com/artist/5rs1agOCZ8aRR9uInxSrq3"
-        }
-      ],
-      "duration_ms": 203964,
-      "name": "Hacienda",
-      "url": "https://open.spotify.com/track/777BLV38yrgiI6CFh0egvo"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
         "name": "Enlightened Adrift",
         "url": "https://open.spotify.com/album/3cA59rCXHo1nQETme2Musp"
       },
@@ -1611,38 +1611,6 @@
       "duration_ms": 150625,
       "name": "Enlightened Adrift",
       "url": "https://open.spotify.com/track/2qnd80g4Q2voFJONxPEZff"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
-        "name": "Soulful Serenity",
-        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
-      },
-      "artists": [
-        {
-          "name": "Neoterikoi",
-          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
-        }
-      ],
-      "duration_ms": 184251,
-      "name": "Soulful Serenity",
-      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
-    },
-    {
-      "added_at": "2025-10-02 15:04:39",
-      "album": {
-        "name": "Lakeside",
-        "url": "https://open.spotify.com/album/0GVEfZ3VR8njmrbXjA3oeA"
-      },
-      "artists": [
-        {
-          "name": "Harbours & Oceans",
-          "url": "https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX"
-        }
-      ],
-      "duration_ms": 188600,
-      "name": "Lakeside",
-      "url": "https://open.spotify.com/track/4i6mioJF303ji4qZixNyUF"
     },
     {
       "added_at": "2025-10-02 15:04:39",
@@ -1663,6 +1631,22 @@
     {
       "added_at": "2025-10-02 15:04:39",
       "album": {
+        "name": "Soulful Serenity",
+        "url": "https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj"
+      },
+      "artists": [
+        {
+          "name": "Neoterikoi",
+          "url": "https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA"
+        }
+      ],
+      "duration_ms": 184251,
+      "name": "Soulful Serenity",
+      "url": "https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
         "name": "Healing Vibrations",
         "url": "https://open.spotify.com/album/4fdCupr10MhDYHQHr7NMgp"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 228364,
       "name": "Healing Vibrations",
       "url": "https://open.spotify.com/track/63DqInT6u5XnSNTBxi9KdK"
+    },
+    {
+      "added_at": "2025-10-02 15:04:39",
+      "album": {
+        "name": "Lakeside",
+        "url": "https://open.spotify.com/album/0GVEfZ3VR8njmrbXjA3oeA"
+      },
+      "artists": [
+        {
+          "name": "Harbours & Oceans",
+          "url": "https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX"
+        }
+      ],
+      "duration_ms": 188600,
+      "name": "Lakeside",
+      "url": "https://open.spotify.com/track/4i6mioJF303ji4qZixNyUF"
     },
     {
       "added_at": "2025-10-02 15:04:39",

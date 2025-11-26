@@ -443,6 +443,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "LIV - Spotify Singles",
         "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -872,22 +872,6 @@
       "added_at": "2024-11-07 00:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5"
-      },
-      "artists": [
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 312529,
-      "name": "MAFIOSA - Live - Spotify Singles",
-      "url": "https://open.spotify.com/track/0QwD3AF2EQC6CQRraLvcBB"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
       },
       "artists": [
@@ -899,6 +883,22 @@
       "duration_ms": 260213,
       "name": "Flaco - Spotify Singles",
       "url": "https://open.spotify.com/track/0lhX3lxFDk0KOeXoQdJ6vW"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5"
+      },
+      "artists": [
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 312529,
+      "name": "MAFIOSA - Live - Spotify Singles",
+      "url": "https://open.spotify.com/track/0QwD3AF2EQC6CQRraLvcBB"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+    },
+    {
+      "added_at": "2024-11-07 00:01:00",
+      "album": {
         "name": "Da Maior Import\u00e2ncia - Spotify Singles",
         "url": "https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 301714,
       "name": "Da Maior Import\u00e2ncia - Spotify Singles",
       "url": "https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i"
-    },
-    {
-      "added_at": "2024-11-07 00:01:00",
-      "album": {
-        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 269061,
-      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
     },
     {
       "added_at": "2024-11-07 00:01:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-11-07 00:01:00",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
       },
       "artists": [
         {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
         }
       ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
+      "duration_ms": 269061,
+      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
     },
     {
       "added_at": "2024-11-07 00:01:00",

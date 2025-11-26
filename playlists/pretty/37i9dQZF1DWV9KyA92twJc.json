@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d9\u05d5\u05d1\u05dc \u05e8\u05e4\u05d0\u05dc ",
-  "num_followers": 25728,
+  "num_followers": 25729,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,22 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 160183,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -203,22 +207,18 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+      "duration_ms": 160183,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 225211,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
-    },
-    {
-      "added_at": "2025-10-23 21:00:34",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2025-10-23 21:00:34",
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
-      },
-      "artists": [
-        {
-          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "\u05e8\u05d5\u05d6",
-      "url": "https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ"
-    },
-    {
-      "added_at": "2025-10-23 21:00:34",
-      "album": {
         "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 178236,
       "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
+    },
+    {
+      "added_at": "2025-10-23 21:00:34",
+      "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "\u05e8\u05d5\u05d6",
+      "url": "https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
-      },
-      "artists": [
-        {
-          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
-    },
-    {
-      "added_at": "2025-10-23 21:00:34",
-      "album": {
         "name": "\u05dc\u05d5\u05e4",
         "url": "https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 163213,
       "name": "\u05dc\u05d5\u05e4",
       "url": "https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u"
+    },
+    {
+      "added_at": "2025-10-23 21:00:34",
+      "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
+      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
+    },
+    {
+      "added_at": "2025-10-23 21:00:34",
+      "album": {
         "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
         "url": "https://open.spotify.com/album/2m1EMFkXRlno32qXazTOjN"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 189000,
       "name": "\u05e8\u05d0\u05d9\u05ea\u05d9 \u05e2\u05d5\u05dc\u05dd",
       "url": "https://open.spotify.com/track/17Gbwxyhsj0dznw9DSruNC"
-    },
-    {
-      "added_at": "2025-10-23 21:00:34",
-      "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "\u05de\u05e0\u05d2\u05df \u05d5\u05e9\u05e8",
-      "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
-        "url": "https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt"
-      },
-      "artists": [
-        {
-          "name": "\u05dc\u05d9\u05d0\u05dd \u05d2\u05d5\u05dc\u05df",
-          "url": "https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
-      "url": "https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW"
-    },
-    {
-      "added_at": "2025-10-23 21:00:34",
-      "album": {
         "name": "\u05d2\u05d9\u05d8\u05e8\u05d4 \u05d5\u05dc\u05e0\u05e9\u05d5\u05dd",
         "url": "https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 178339,
       "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T"
+    },
+    {
+      "added_at": "2025-10-23 21:00:34",
+      "album": {
+        "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
+        "url": "https://open.spotify.com/album/0b1XLphWfOAzSaWA36Khrt"
+      },
+      "artists": [
+        {
+          "name": "\u05dc\u05d9\u05d0\u05dd \u05d2\u05d5\u05dc\u05df",
+          "url": "https://open.spotify.com/artist/5Rp2o61i7NiMPtSuDj5IRX"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "\u05dc\u05de\u05d9 \u05d0\u05ea \u05de\u05ea\u05e7\u05e9\u05e8\u05ea",
+      "url": "https://open.spotify.com/track/7owAy4b9jUAiNDNi0bJ9rW"
     },
     {
       "added_at": "2025-10-23 21:00:34",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-10-23 21:00:34",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 251881,
-      "name": "\u05d0\u05dc \u05ea\u05e4\u05d7\u05d3",
-      "url": "https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm"
-    },
-    {
-      "added_at": "2025-10-23 21:00:34",
-      "album": {
         "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
         "url": "https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 193278,
       "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
       "url": "https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW"
+    },
+    {
+      "added_at": "2025-10-23 21:00:34",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 251881,
+      "name": "\u05d0\u05dc \u05ea\u05e4\u05d7\u05d3",
+      "url": "https://open.spotify.com/track/7Jczj2J8z1CnhrYCIc5Apm"
     },
     {
       "added_at": "2025-10-23 21:00:34",

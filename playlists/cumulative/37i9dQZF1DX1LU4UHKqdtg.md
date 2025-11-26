@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: JURIN ASAYA
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ILLIT
 
-1,618 songs - 3 day 13 hr 45 min
+1,621 songs - 3 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Because I](https://open.spotify.com/track/0mh54tHuGhlfC0ypt92CPq) | [CHIMIRO](https://open.spotify.com/artist/5edUSurLivUZXjtOKqAMOY) | [CHIMIRO VOL.1](https://open.spotify.com/album/1rbStC1P0naeSLzdWxnf32) | 5:01 | 2023-04-25 | 2023-05-17 |
 | [BEEP](https://open.spotify.com/track/0YjIGs3jqdOgJxHCRWvDS1) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/2aZnUsMEZ029MODdnob3ka) | 2:44 | 2025-06-09 | 2025-10-01 |
 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 | 2023-07-25 | 2023-09-22 |
-| [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 | 2025-07-30 |  |
+| [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 | 2025-07-30 | 2025-11-26 |
 | [Best Friend Ever](https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Best Friend Ever](https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX) | 3:21 | 2023-02-08 | 2023-04-18 |
 | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/track/1beUALLSloBEvYre65QiW6) | [JEONGHAN](https://open.spotify.com/artist/6KDLlQYeeqUe5OQ2JrdNzF), [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Better Half \(feat\. Omoinotake\)](https://open.spotify.com/album/6nIPGzCGclgKS7r5vt5oy9) | 3:54 | 2025-01-27 | 2025-03-07 |
 | [Better Spring](https://open.spotify.com/track/7095L2bmNhv139ccLIikAH) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Better Spring](https://open.spotify.com/album/0Hh9Zowcy88neSc4sv0S5b) | 3:25 | 2022-05-17 | 2022-07-12 |
@@ -158,6 +158,7 @@
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-04-01 |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-14 | 2023-10-11 |
 | [Blink Twice](https://open.spotify.com/track/0G2SvoKHnMnoX5UQDCIx51) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:33 | 2025-03-06 | 2025-08-29 |
+| [Bloom](https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [lip bomb](https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H) | 2:56 | 2025-11-25 |  |
 | [BLOSSOM](https://open.spotify.com/track/1ITbrYluZnnVIUXE4PAq2s) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BLOSSOM](https://open.spotify.com/album/0mRRG2TuM20kCjhR4h1op4) | 3:56 | 2023-08-01 | 2023-09-06 |
 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 | 2022-03-31 | 2022-06-29 |
 | [Blue](https://open.spotify.com/track/0yWA2HMf5Mv3OxgQLUzCgd) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MAGIC MAN](https://open.spotify.com/album/66k71qtTET4vXFJ6sAAU0U) | 2:39 | 2022-09-08 | 2022-11-11 |
@@ -225,7 +226,7 @@
 | [CALL BACK](https://open.spotify.com/track/3iNi1rYa9FCDKSjA7cMBbN) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CALL BACK \- The 1st Album](https://open.spotify.com/album/1VePAESUefVV2SCMFeo3TY) | 3:18 | 2024-11-05 | 2025-01-21 |
 | [Call me a Freak](https://open.spotify.com/track/0TyjqoNiHUSMebKPIsPc4p) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Bad Prosecutor \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4SSdE1M16udjS6Y6GgR8WF) | 2:50 | 2022-10-27 | 2023-01-18 |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-02-28 | 2022-04-06 |
-| [Cameo Love](https://open.spotify.com/track/1JR7Ko9pkVRXuKWZz8VZQF) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/4gnxSTXmjuehY7XYKXWkZC) | 2:35 | 2025-11-24 |  |
+| [Cameo Love](https://open.spotify.com/track/1JR7Ko9pkVRXuKWZz8VZQF) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/4gnxSTXmjuehY7XYKXWkZC) | 2:35 | 2025-11-24 | 2025-11-26 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-17 | 2022-03-23 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-22 | 2022-05-13 |
 | [Can't tie me down](https://open.spotify.com/track/0dUmImUrt3AnbItexrt6wi) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Blah Blah Blah](https://open.spotify.com/album/3xDuIhFckdZPrS38dSr5Cl) | 3:05 | 2022-10-04 | 2023-01-18 |
@@ -467,6 +468,7 @@
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-30 | 2023-10-13 |
 | [Flower Rhythm](https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 2 : Flower Rhythm>](https://open.spotify.com/album/69i02S3KILQ083ExlYjZqg) | 2:39 | 2024-04-12 | 2024-05-24 |
 | [Fly Away](https://open.spotify.com/track/5QLswL5FY0brw1yGXCGrdg) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/5bFzkvTOLC0iC6anD4wEsn) | 3:01 | 2023-04-02 | 2023-04-05 |
+| [Fly Up](https://open.spotify.com/track/3GiYjd5959ktHZGSxOqmKe) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [msnz <Beyond Beauty>](https://open.spotify.com/album/281B8RLDzA7mufE1ccVxrM) | 2:40 | 2025-11-25 |  |
 | [Fly! Birdy Friends \- Korean Version](https://open.spotify.com/track/5NAza02m7G3hPAaz3EWry8) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Fly! Birdy Friends \(Original Soundtrack\)](https://open.spotify.com/album/2AMKqZp1lRFdxLXLjtn2DF) | 2:01 | 2024-01-19 | 2024-01-26 |
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-23 | 2022-08-26 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-20 |  |
@@ -584,7 +586,7 @@
 | [Hashtaggg](https://open.spotify.com/track/3UwXUcDQFqXQWqfWk0AYYz) | [APOKI](https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9) | [Earth Space Time](https://open.spotify.com/album/7f3dTod3pwIIJz8rJopYaG) | 2:58 | 2023-11-09 | 2023-11-23 |
 | [Hear Me Out](https://open.spotify.com/track/44EXniDpWap2veS1gH1svO) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Hear Me Out](https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ) | 3:24 | 2023-07-03 | 2023-08-19 |
 | [Heart Burn](https://open.spotify.com/track/4JmbtS0Muijl37KP9lDscy) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:13 | 2022-06-28 | 2022-09-21 |
-| [Heart Drop](https://open.spotify.com/track/4lihmuAwCau08DRXHOCthl) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Heart Drop](https://open.spotify.com/album/2y8ewgXeGj2UIO4WBvcimQ) | 3:03 | 2025-11-06 |  |
+| [Heart Drop](https://open.spotify.com/track/4lihmuAwCau08DRXHOCthl) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Heart Drop](https://open.spotify.com/album/2y8ewgXeGj2UIO4WBvcimQ) | 3:03 | 2025-11-06 | 2025-11-26 |
 | [Heartbreak](https://open.spotify.com/track/6WXPFH6mNO8rvVnKeD5DX7) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Heartbreak](https://open.spotify.com/album/3fBvUvHlkT8bnQtJ8wD51Y) | 3:24 | 2021-12-23 | 2022-02-16 |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-10-30 | 2024-02-07 |
 | [Heaven](https://open.spotify.com/track/1fCKxY62wMnayTNSr3S3GN) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Heaven](https://open.spotify.com/album/68taLckvPxHRtNa8QjQJ5e) | 2:32 | 2024-07-09 | 2024-10-25 |
@@ -1241,6 +1243,7 @@
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-03 | 2024-01-19 |
 | [Star \(prod.LOGOS\)](https://open.spotify.com/track/0hOZNu7W8cI1Mf5qLhBmhT) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ), [LOGOS](https://open.spotify.com/artist/6K4uiMkjEU95mAxbKUcd82) | [Star](https://open.spotify.com/album/1U7TBNZQc0GMPVzrYRm1VO) | 3:14 | 2025-03-06 | 2025-04-03 |
 | [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 | 2024-11-12 | 2025-03-12 |
+| [STAR! \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0xbxYpsKdGduH0sat4bj4z) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [STAR! \(feat\. Hatsune Miku\)](https://open.spotify.com/album/38NCFW1oQcxdBzAnz64bkm) | 2:38 | 2025-11-25 |  |
 | [Starlight 〜君に届くまで...〜](https://open.spotify.com/track/1063HKJblWTIoYGoc5qOgz) | [TAN](https://open.spotify.com/artist/34Ecdzh8yGKt2YvPG37PKu) | [Proxima](https://open.spotify.com/album/5wgV4qqmXF54eFFHYxNlAz) | 3:08 | 2023-12-26 | 2024-01-10 |
 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-29 | 2024-10-11 |
 | [Stars](https://open.spotify.com/track/1L9ON381JuyfpFmrrsSpt6) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’ \(Special Edition\)](https://open.spotify.com/album/3UKyosnPDUiTp3mj9bMCLM) | 3:20 | 2024-01-30 | 2024-02-28 |

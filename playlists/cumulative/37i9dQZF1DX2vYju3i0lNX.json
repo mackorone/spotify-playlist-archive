@@ -8692,7 +8692,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 225250,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/7nrEqjAOU6LYdNRYiWHkSk"
@@ -13066,7 +13066,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 196000,
       "name": "Monk's Mood",
       "url": "https://open.spotify.com/track/2mmXPA4ls7XrJEkB77CgjR"
@@ -16061,6 +16061,24 @@
     },
     {
       "album": {
+        "name": "Riverbed Reverie",
+        "url": "https://open.spotify.com/album/1y8gJlET7fkMddu3h46zHw"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall Sextet",
+          "url": "https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222244,
+      "name": "Riverbed Reverie",
+      "url": "https://open.spotify.com/track/4tVMhRSZj9S13VInXxFCxf"
+    },
+    {
+      "album": {
         "name": "Romancing",
         "url": "https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS"
       },
@@ -16566,6 +16584,24 @@
       "duration_ms": 248038,
       "name": "Silent Dreams",
       "url": "https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5"
+    },
+    {
+      "album": {
+        "name": "Silent Heartside",
+        "url": "https://open.spotify.com/album/1tTd4b5ZEvq94akMRonJLl"
+      },
+      "artists": [
+        {
+          "name": "Zach Dawson",
+          "url": "https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136845,
+      "name": "Silent Heartside",
+      "url": "https://open.spotify.com/track/4Ys2ZJxW3WP6fF5Qq74hGJ"
     },
     {
       "album": {

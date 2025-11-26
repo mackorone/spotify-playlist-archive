@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Montréal’s music scene, front and centre\. Cover: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,406 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,403 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 76 | [Les avions](https://open.spotify.com/track/7aT6ht7g4HfOIum0mKw7Eb) | [Bonne nuit, chérie](https://open.spotify.com/artist/7ug7YjtHvqyA1QY2tRfjC9) | [Les avions](https://open.spotify.com/album/45HLbzQ4EzJwpJbsutH1F0) | 3:25 |
 | 77 | [The Good Part](https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [The Good Part](https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1) | 3:31 |
 | 78 | [Thistledown \- Hologramme Remix](https://open.spotify.com/track/3x8zytmuCEToqPcR0RucAq) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj), [Hologramme](https://open.spotify.com/artist/6nDNh0saNzpeQBjYxAliwN) | [Thistledown \(Hologramme Remix\)](https://open.spotify.com/album/0SdYzNfOsGxJtO673CRLM6) | 3:32 |
-| 79 | [La dérive](https://open.spotify.com/track/2OEXpDNX0IIdwq0LlIeide) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Re;;;Virer nos vies](https://open.spotify.com/album/0XOrOrjjI1GBF6PmXWSk3O) | 2:59 |
+| 79 | [La Dérive](https://open.spotify.com/track/2OEXpDNX0IIdwq0LlIeide) | [Rau\_Ze](https://open.spotify.com/artist/2UV0xpXyJukSl1LErTk4Fo) | [Re;;;Virer nos vies](https://open.spotify.com/album/0XOrOrjjI1GBF6PmXWSk3O) | 2:59 |
 | 80 | [Dutty Business](https://open.spotify.com/track/2Sw5VUcY0YppchVYHYrGnM) | [Honeydrip](https://open.spotify.com/artist/0HizFQA107EvPoA4cZWJ3x) | [Dutty Business](https://open.spotify.com/album/5NgsvDWPjWIMdCZ0mE0sCH) | 3:51 |
 | 81 | [GODDAMN!](https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [GODDAMN!](https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD) | 4:07 |
 | 82 | [Otherworld](https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Running With Scissors](https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act) | 4:10 |

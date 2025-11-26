@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for all your activities.
 
-1,602 songs - 3 day 23 hr 40 min
+1,605 songs - 3 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -516,10 +516,11 @@
 | [He Knows I'm Sophisticated](https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [He Knows I'm Sophisticated](https://open.spotify.com/album/4w9qBQ0YSTsrDXmXmZoNBf) | 2:47 | 2022-12-22 | 2025-07-16 |
 | [Hear Hear](https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Hear Hear](https://open.spotify.com/album/6WAila18C1NidEzseKeNee) | 3:58 | 2024-05-23 | 2024-11-19 |
 | [Heartbreak Avenue](https://open.spotify.com/track/6LeUGbjrPif0UyaPYzKxdG) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk) | 3:08 | 2023-03-24 |  |
+| [Heartfelt](https://open.spotify.com/track/69VCkEHbd1SCuSt2plx5Qz) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [Heartfelt](https://open.spotify.com/album/3XTiTAYczwLRSRM5zxLXba) | 3:21 | 2025-11-25 |  |
 | [Heartstrings](https://open.spotify.com/track/6DWlgYRquRmphcMPBCL6NF) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [Heartstrings](https://open.spotify.com/album/1rmP7N7m9ZyLGnN2R2bVSx) | 2:41 | 2023-08-17 | 2024-08-07 |
 | [Heaven here](https://open.spotify.com/track/2J0A1Z7djWS3n0vSiyvgwQ) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Heaven here](https://open.spotify.com/album/5QtsXrImWEImIVTEV3NIai) | 3:32 | 2023-08-10 | 2024-08-27 |
 | [Hector's Plan](https://open.spotify.com/track/5eWLDX4KoC24EYgrZl8Rta) | [Norwood Macdonald Group](https://open.spotify.com/artist/6HhfFG1K5tRpfzuCzGKQfL) | [Hector's Plan](https://open.spotify.com/album/1E1vK9IaJTTMEYSgAKq7SF) | 2:24 | 2022-06-21 | 2025-03-25 |
-| [Hello From Above](https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Blues For Elsie](https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk) | 3:40 | 2023-08-10 |  |
+| [Hello From Above](https://open.spotify.com/track/7f8bsD5ag4ygvMRtUPvSu0) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Blues For Elsie](https://open.spotify.com/album/55CmXhW64nZfXpEeo1ARyk) | 3:40 | 2023-08-10 | 2025-11-26 |
 | [Hello, Young Lovers](https://open.spotify.com/track/1WvROGTTw41o8BQ2zHx6sg) | [Southside Players](https://open.spotify.com/artist/2uQxsyKZGF2T1q5j0NI4fh) | [Hello, Young Lovers](https://open.spotify.com/album/4lkUwuT4R63CpwvTPse8aU) | 3:54 | 2023-06-01 | 2024-07-02 |
 | [Here It Is](https://open.spotify.com/track/5Y09UPBhAV1diMYpsTtVD9) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Here It Is](https://open.spotify.com/album/4v0eJPx0AOAzFXMv1S9x0g) | 3:08 | 2023-01-05 | 2024-10-02 |
 | [Here's That Rainy Day](https://open.spotify.com/track/4LNApTGS4bL5DrTEKMiyTH) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Here's That Rainy Day](https://open.spotify.com/album/24S6AcwdHAKIQRO1E8AXVh) | 4:09 | 2022-10-27 | 2024-08-07 |
@@ -1020,6 +1021,7 @@
 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 | 2022-04-01 | 2022-10-14 |
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-01-17 | 2025-03-11 |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-13 |  |
+| [Our View](https://open.spotify.com/track/5bBZAhd50H0QvFQSPZmjHM) | [Half Past Blue](https://open.spotify.com/artist/3eKJV3puor1fVh11OXAqh9) | [Our View](https://open.spotify.com/album/1La6pxY0Q6WS238XKo7dZi) | 3:13 | 2025-11-25 |  |
 | [Out of Line](https://open.spotify.com/track/0VtuZdXqogav9uAAG5NSGQ) | [Nouri](https://open.spotify.com/artist/1yWmwNuFuUEJ9iwgL57fPK) | [Out of Line](https://open.spotify.com/album/6UQXj9A15G1eNcMsSkdPB5) | 3:32 | 2024-08-12 |  |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-02-02 | 2025-07-16 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 | 2025-07-16 |
@@ -1092,7 +1094,7 @@
 | [Reverie](https://open.spotify.com/track/39g5kkVtR6sTOrGXYWZ20C) | [Archie Taylor](https://open.spotify.com/artist/6p8c1ewQ2thcBnDzhkoZaL) | [Reverie](https://open.spotify.com/album/5qYeX1wAGm8jIA9EUa2LUQ) | 4:00 | 2023-01-26 | 2025-07-16 |
 | [Rhapsody in Raindrops](https://open.spotify.com/track/3ezuMYDq4bDEjG0wl1a18b) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Rhapsody in Raindrops](https://open.spotify.com/album/15MNDdWdIfPW4i3tJgR5Gl) | 3:20 | 2024-04-23 | 2025-10-01 |
 | [Rhetoric Blue](https://open.spotify.com/track/0DcHS96mZg8rAuG9a8gE5Z) | [The Fading Light Trio](https://open.spotify.com/artist/3ORrNORmkA0W8UamB9B3IC) | [Rhetoric Blue](https://open.spotify.com/album/1QW2BY51EFy7w5Yjquoetz) | 2:53 | 2025-08-01 |  |
-| [Rhythm of the City](https://open.spotify.com/track/2lIBvRZeHGoxpQlh8Mc3Jr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rhythm of the City](https://open.spotify.com/album/4DNMzms3jYncztKWhUVAQL) | 3:02 | 2023-08-10 |  |
+| [Rhythm of the City](https://open.spotify.com/track/2lIBvRZeHGoxpQlh8Mc3Jr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Rhythm of the City](https://open.spotify.com/album/4DNMzms3jYncztKWhUVAQL) | 3:02 | 2023-08-10 | 2025-11-26 |
 | [Riddles](https://open.spotify.com/track/4Fsh2vQydc0fJCxCA3DYJD) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Riddles](https://open.spotify.com/album/3ohPksjl6oWAF2NkM9p0Q2) | 3:53 | 2023-02-09 | 2023-04-14 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2024-08-13 |
 | [Rings](https://open.spotify.com/track/37ikivEOR5mMYes9Lx7X6y) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Rings](https://open.spotify.com/album/0ppGENHJJybWJm8AauZlL6) | 3:35 | 2024-10-07 | 2025-03-04 |
@@ -1356,7 +1358,7 @@
 | [The Things We Did Last Summer](https://open.spotify.com/track/4MZsXEDZvZhXiohdK08fRd) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [The Things We Did Last Summer](https://open.spotify.com/album/3zUrJ8YKkss9xFnuPwg7Zc) | 3:46 | 2025-01-07 |  |
 | [The Thought of You](https://open.spotify.com/track/71R9uY40h8SwfXdwelSH81) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [The Thought of You](https://open.spotify.com/album/5JkyU3K3UiykUp8xluYvnC) | 3:30 | 2024-09-27 |  |
 | [The Turning Point](https://open.spotify.com/track/6G8zCGZyhxjCZsVIkUM3Fy) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [The Turning Point](https://open.spotify.com/album/41tIv6GzyU9Mk4143qBKvP) | 4:24 | 2022-09-06 | 2023-03-31 |
-| [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 |  |
+| [The Very Thought Of You](https://open.spotify.com/track/5QTHfZ4IKRREnuK7LKwoZS) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [The Very Thought Of You](https://open.spotify.com/album/5gvkPwqE4bFzfMxUsAJCOp) | 4:04 | 2022-10-27 | 2025-11-26 |
 | [The Way of the Winds](https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Mindful in Solitude](https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d) | 3:53 | 2023-02-23 | 2024-02-09 |
 | [The Way We Looked Then](https://open.spotify.com/track/7f1c51MW06vPI4049aQRqg) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [The Way We Looked Then](https://open.spotify.com/album/3CQsGjyqE8bwqzDmsxNFPz) | 3:34 | 2024-12-09 |  |
 | [The Wilder I Used To Be](https://open.spotify.com/track/1fmrEgNDGFzWgsEUP0xEyg) | [Downtown Café](https://open.spotify.com/artist/32Qgwa0ZakrDp749u5Gxjn) | [The Wilder I Used To Be](https://open.spotify.com/album/7mkjkHwszOA4SLSE8Ezcxo) | 2:31 | 2025-04-15 |  |
@@ -1531,6 +1533,7 @@
 | [While You´re Waiting](https://open.spotify.com/track/0xCDA2OaJRnwyxnaJzP8co) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [While You´re Waiting](https://open.spotify.com/album/5c4PNpWHUSWAV8Cfx3TH67) | 3:06 | 2022-05-17 | 2025-04-16 |
 | [Whispered Longing](https://open.spotify.com/track/6lvJHY1xHZNkbEYMvpYoOp) | [Shay Walsh](https://open.spotify.com/artist/3k192xFg0O2XEadJQZJ10N) | [Whispered Longing](https://open.spotify.com/album/6ftoPFE6hqUw9fVRbmB6TF) | 3:12 | 2024-02-02 |  |
 | [Whispered secrets](https://open.spotify.com/track/5XZmsuELlpnllH2fLpKuNJ) | [Third Rail Trio](https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X) | [Whispered secrets](https://open.spotify.com/album/3JUKAsugwifD78a05a5Tlh) | 2:55 | 2025-07-23 |  |
+| [Whispering Blue](https://open.spotify.com/track/43f8kWcZOUdhj3wEqExP82) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Whispering Blue](https://open.spotify.com/album/2U2NNrZpdW7q7MhxTFNKa3) | 3:42 | 2025-11-25 |  |
 | [Whispering Willows](https://open.spotify.com/track/6ZqZYDtZf8s5AZybDlebm7) | [Ordinary Sparks](https://open.spotify.com/artist/3WIlhMXPhYYiil5u2n47yk) | [Whispering Willows](https://open.spotify.com/album/5OuVtJyOGjvNLMehZL9FMv) | 3:30 | 2024-08-06 |  |
 | [Whispers of Fifth Avenue](https://open.spotify.com/track/1Q9KKRP2FGHz3pEJvO1um0) | [Gramhane Group](https://open.spotify.com/artist/3nNsFr9UCq4JQnJb1vkTrk) | [Whispers of Fifth Avenue](https://open.spotify.com/album/71YnlS1qhFnpfDtefrjYOG) | 2:42 | 2025-04-23 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-05-25 | 2024-06-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 102879,
+  "num_followers": 102897,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -411,30 +411,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Co\u00f1o",
-        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
-      },
-      "artists": [
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Co\u00f1o",
-      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
@@ -463,6 +439,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Co\u00f1o",
+        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Co\u00f1o",
+      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Overal (feat. DJ Youss-F)",
         "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
       },
@@ -483,6 +483,38 @@
       "duration_ms": 182970,
       "name": "Overal (feat. DJ Youss-F)",
       "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Hella Cash",
+        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 175663,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "77 Nachten",
+        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "duration_ms": 185487,
+      "name": "Way It Goes",
+      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -511,38 +543,6 @@
       "duration_ms": 214387,
       "name": "Hij Is Van Mij (feat. Bizzey)",
       "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "77 Nachten",
-        "url": "https://open.spotify.com/album/49K18hGOt7Zq5sYFL1tRSc"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        }
-      ],
-      "duration_ms": 185487,
-      "name": "Way It Goes",
-      "url": "https://open.spotify.com/track/6N9FSZAEYdWG7rhW8XXbUg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Hella Cash",
-        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 175663,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -951,34 +951,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "IDALY",
-        "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Famke Louise",
-          "url": "https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo"
-        },
-        {
-          "name": "Bizzey",
-          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
-        }
-      ],
-      "duration_ms": 225175,
-      "name": "wine slow - remix",
-      "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Cocaina (Remix)",
         "url": "https://open.spotify.com/album/2Fsjpq6WBpu8J8kzLtVGIS"
       },
@@ -1003,6 +975,34 @@
       "duration_ms": 219750,
       "name": "Cocaina - Remix",
       "url": "https://open.spotify.com/track/6OpKBghxyHSJ9lqqJ4EkJu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "IDALY",
+        "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Famke Louise",
+          "url": "https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo"
+        },
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        }
+      ],
+      "duration_ms": 225175,
+      "name": "wine slow - remix",
+      "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",

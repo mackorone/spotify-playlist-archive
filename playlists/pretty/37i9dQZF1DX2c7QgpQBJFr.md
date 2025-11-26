@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Mara Sattei
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,290 likes - 105 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,295 likes - 105 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

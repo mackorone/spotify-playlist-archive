@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,052 songs - 5 day 0 hr 12 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,058 songs - 5 day 0 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2060,5 +2060,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2050 | [Ler \(Live\)](https://open.spotify.com/track/5aIcdz6eKtYGlQUBde9IKa) | [Yerek](https://open.spotify.com/artist/406dGCdpaq4gKDb4XkQWuD) | [Happy Sin Remains \- Concert Fiction \(Live\)](https://open.spotify.com/album/7w8049JNhfBO2Y7AGHROpM) | 1:50 |
 | 2051 | [Yesterday > Tomorrow](https://open.spotify.com/track/3fjMmRTUetKvTVC3oP4zgd) | [Vividbluesun](https://open.spotify.com/artist/735pkA4IUZDztXYtWLrycM) | [Yesterday > Tomorrow](https://open.spotify.com/album/1uyljuEY7PUon79NDiWxzw) | 3:53 |
 | 2052 | [Child Of Light](https://open.spotify.com/track/1hGYMDIt8I2JW06IBwu6Ga) | [Samuel Bempah](https://open.spotify.com/artist/2aNiY6klY5HLFNPyI07rY5) | [Child Of Light](https://open.spotify.com/album/1QyJJ072gW9Ot1X18RLpkt) | 2:36 |
+| 2053 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 |
+| 2054 | [De Ronningen](https://open.spotify.com/track/2svqbzCX4Rk4Dt5uZipiL9) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW) | [Barcaza Boreal Plus Ultra](https://open.spotify.com/album/28JDXeqpl4jxkA6iXv0OK1) | 1:28 |
+| 2055 | [Inside of Me](https://open.spotify.com/track/29F3fxt0XvdfrgBbpOqx10) | [elrose](https://open.spotify.com/artist/5mXPgChlSOc4R2FitoidJd) | [Inside of Me](https://open.spotify.com/album/2CGyDxISEYtVDf3Ya8H6R7) | 3:36 |
+| 2056 | [To Win](https://open.spotify.com/track/2zMjal9dFnHUb7tN3tpvt1) | [Rusty Jaz Motorfunk](https://open.spotify.com/artist/1c5blDTt2OKHT2JR8ZT9hj) | [Talkshow](https://open.spotify.com/album/1LpcrxDEiqeMVX4clKbIBl) | 5:34 |
+| 2057 | [Cherry](https://open.spotify.com/track/7aaZEjesKQwVZxVzBa0ELd) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [A Dozen Years Ago, Dozen Songs\. J.J\. Cale Tribute](https://open.spotify.com/album/1TLHKnWvLSPZMAcXGxcyX9) | 2:28 |
+| 2058 | [Gleichsein \- Extended Version](https://open.spotify.com/track/1vnMCjKEUsQW7uuWMZPDlJ) | [Florian Döppert](https://open.spotify.com/artist/6XiAqQIEjUavVqcIc9UfJG), [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Gleichsein \(Extended Version\)](https://open.spotify.com/album/1dxD08b8jWCRwVr4rV7gZj) | 7:21 |
 
-Snapshot ID: `AAAIkrcyfswaVpABTCbnYDKyruv57RLy`
+Snapshot ID: `AAAImCPRG0OwAXmIiz6bjLtTa8ir6BQ1`

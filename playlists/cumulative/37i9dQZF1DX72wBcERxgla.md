@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-695 songs - 1 day 11 hr 9 min
+698 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Ballad For Hilda](https://open.spotify.com/track/0GGnf4gQNCrvwC32lroIJv) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 1:53 | 2022-12-01 | 2023-08-26 |
 | [Be Free](https://open.spotify.com/track/3TuflVEQkgUdpMCIDZzg95) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Be Free](https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ) | 2:17 | 2022-11-17 | 2025-07-24 |
 | [Be Patient With Me](https://open.spotify.com/track/4SrxpI9t7osiGpqwFHzo8M) | [Zach Dawson](https://open.spotify.com/artist/4GyXgwCG3FYaJwWSYrKzZv) | [Be Patient With Me](https://open.spotify.com/album/45n5uwtuZ2OpgBp9y5RlzF) | 3:02 | 2024-05-23 | 2025-07-24 |
-| [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 | 2025-02-17 |  |
+| [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 | 2025-02-17 | 2025-11-26 |
 | [Beautiful Love](https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu) | [Jacques Liti](https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59) | [Beautiful Love](https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD) | 2:58 | 2023-02-02 | 2025-07-24 |
 | [Before last month](https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Before last month](https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS) | 2:04 | 2023-04-13 | 2024-08-07 |
 | [Before you go](https://open.spotify.com/track/0gcC1i5zv2lpX8Bn7xsUTs) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Before you go](https://open.spotify.com/album/0aC3mQ00DlfHXi1Ttuk7hE) | 2:55 | 2024-12-09 | 2025-07-24 |
@@ -117,7 +117,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/7csJh6rDbBhV6WFFrxoYyB) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [Cherry Blossom](https://open.spotify.com/album/2KPDw3qOzyzqkoFiEmko44) | 2:04 | 2024-05-10 | 2025-09-25 |
 | [Chicago Skyline](https://open.spotify.com/track/0AvO7DJa9amyACsz6SyaI0) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Chicago Skyline](https://open.spotify.com/album/2Ms75YNPCMcEGhhwLoQSBf) | 2:44 | 2024-06-17 | 2025-05-10 |
 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 | 2022-04-12 | 2022-06-15 |
-| [Cigar Smoke](https://open.spotify.com/track/74tdCMUCdrXB0ul5yYwExV) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Cigar Smoke](https://open.spotify.com/album/4W6iaTl5yyvDAI5sE05gOw) | 3:11 | 2025-10-15 |  |
+| [Cigar Smoke](https://open.spotify.com/track/74tdCMUCdrXB0ul5yYwExV) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Cigar Smoke](https://open.spotify.com/album/4W6iaTl5yyvDAI5sE05gOw) | 3:11 | 2025-10-15 | 2025-11-26 |
 | [City Lights and Midnight Blues](https://open.spotify.com/track/4wVMZkj5y4dpT8tvTIBaKw) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [City Lights and Midnight Blues](https://open.spotify.com/album/5a6KuFxcNag3keou58crVH) | 2:42 | 2023-06-01 | 2024-11-19 |
 | [Cityscape](https://open.spotify.com/track/3Y7ZiWwBViTaOeWz6NaZ8F) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Cityscape](https://open.spotify.com/album/1pNjmKxzeVE3OrXuZNgHRM) | 2:18 | 2024-03-08 |  |
 | [Clear State Of Mind](https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Clear State Of Mind](https://open.spotify.com/album/6MVTvA4RGDOGA3XSVRndGY) | 3:32 | 2023-11-17 | 2025-07-24 |
@@ -231,7 +231,8 @@
 | [Heartbreak Avenue](https://open.spotify.com/track/0ibXzDN3MG91YTyGUXJJSQ) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/2R2mL8rm0iWK58lNSuVufc) | 1:48 | 2023-04-20 | 2023-08-26 |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 | 2024-08-27 |
 | [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-02 |  |
-| [Here We Are](https://open.spotify.com/track/6yGZttEiKNuSlim8guXSl3) | [Paolo Biscottini](https://open.spotify.com/artist/6XTAgjCPixFSoiGjxVvDhN) | [Here We Are](https://open.spotify.com/album/1QilyUuFOz1PWPzZS2I9vW) | 2:56 | 2025-08-19 |  |
+| [Her Eyes](https://open.spotify.com/track/2Pjv68RqZZfwFAztoYG65U) | [Leigh Daniels](https://open.spotify.com/artist/1ieFgrCmKWj5ryTlo8TMWC) | [Her Eyes](https://open.spotify.com/album/0138HKj1htEK3bn6vG5cYJ) | 2:40 | 2025-11-25 |  |
+| [Here We Are](https://open.spotify.com/track/6yGZttEiKNuSlim8guXSl3) | [Paolo Biscottini](https://open.spotify.com/artist/6XTAgjCPixFSoiGjxVvDhN) | [Here We Are](https://open.spotify.com/album/1QilyUuFOz1PWPzZS2I9vW) | 2:56 | 2025-08-19 | 2025-11-26 |
 | [Here with Me](https://open.spotify.com/track/1Ea4Xe2SCtPJmdeJk4bI17) | [Jakob Schröder](https://open.spotify.com/artist/2bZm8QiZFS3VRCfRqVP5kE) | [Here with Me](https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf) | 3:17 | 2025-01-07 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/3DgjObIndXAIIsTM4YdroG) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 2:37 | 2022-04-12 | 2023-06-02 |
 | [He’s a good kid](https://open.spotify.com/track/2tSSroZLU5ikFBZW83EC69) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [He’s a good kid](https://open.spotify.com/album/21jLquIJrmwqfcmke7ddWc) | 2:26 | 2023-04-13 | 2025-07-02 |
@@ -502,6 +503,7 @@
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 | 2024-07-23 |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2022-09-13 | 2025-02-25 |
 | [Say Something](https://open.spotify.com/track/1L8uKNdTWyH9oDtJ3hn5iw) | [Jimmy Udonis](https://open.spotify.com/artist/4GqHV4WkSR2W6K3llEOf4X) | [Say Something](https://open.spotify.com/album/24fir1nOCk4XPST49jR7rV) | 2:55 | 2024-02-02 |  |
+| [seamless love](https://open.spotify.com/track/57CPt46dxfolyPW0WB4agF) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [seamless love](https://open.spotify.com/album/0lUdRIVYSrpflwYJh30afQ) | 3:11 | 2025-11-25 |  |
 | [Seat for Two](https://open.spotify.com/track/1OfaNgaWjSA9HiedH84LPE) | [Suwonah Nolja](https://open.spotify.com/artist/1HFudkZUUEr5MiMSsPng4B) | [Seat for Two](https://open.spotify.com/album/6jcfxHvEQhlBqNr45FAgY5) | 2:38 | 2025-07-23 |  |
 | [Second Time Around](https://open.spotify.com/track/6UVDL7iRD2koITeSrXeYo0) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [Second Time Around](https://open.spotify.com/album/7KJ6N0sOmOUq9oEH4TAoXZ) | 2:08 | 2023-12-22 | 2024-11-06 |
 | [See you tomorrow](https://open.spotify.com/track/5ApP4J3IcZF6kFoldItSWy) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [See you tomorrow](https://open.spotify.com/album/7alzLpjhSmsL2Ixpc7WGgE) | 2:23 | 2024-01-05 | 2025-03-25 |
@@ -565,6 +567,7 @@
 | [Stay with Me](https://open.spotify.com/track/4afKKIWHgiRLOfFYakA8Nd) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Stay with Me](https://open.spotify.com/album/2IlRccaLsX2SQzytd0GEyO) | 2:33 | 2024-11-05 |  |
 | [Staycation With You](https://open.spotify.com/track/3WfwFDaOJGHcosGjG4RKGh) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Staycation With You](https://open.spotify.com/album/3jntDFbW2qsU7AMMs8Eyie) | 3:14 | 2025-08-19 |  |
 | [Stella By Starlight](https://open.spotify.com/track/3xQ8oqFUTLFQ9dNEq2SMOP) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Stella By Starlight](https://open.spotify.com/album/2XjCNA2ejNe4in6ynwcHQM) | 1:55 | 2022-09-06 | 2023-08-26 |
+| [Still Full Of Hope](https://open.spotify.com/track/1foJhP7e2XMnUN0Q1C8ODL) | [Lev Banks](https://open.spotify.com/artist/78kWvPdx9S93qoBi9kVpOD) | [Still Full Of Hope](https://open.spotify.com/album/3qHHj8fVjApAlcQSDLIajA) | 3:02 | 2025-11-25 |  |
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 | 2025-02-18 |
 | [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-04-12 | 2024-09-10 |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 | 2024-07-02 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,499 likes - 333 songs - 18 hr 18 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,503 likes - 333 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MONNNEY](https://open.spotify.com/track/5YkmpL7jasY1yA7m4vpZ02) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [MONNNEY](https://open.spotify.com/album/3z1oVJTWV0kJiSyUIPykiV) | 2:57 |
-| 2 | [Sugarcane](https://open.spotify.com/track/6EU8H0Nvnob3P99vWMT8vh) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 2:57 |
-| 3 | [give](https://open.spotify.com/track/7gMTKnvqhwsbeNTCeU9PSE) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [give](https://open.spotify.com/album/5Iehuuszx2sPThTgVSSpIx) | 2:31 |
+| 1 | [give](https://open.spotify.com/track/7gMTKnvqhwsbeNTCeU9PSE) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [give](https://open.spotify.com/album/5Iehuuszx2sPThTgVSSpIx) | 2:31 |
+| 2 | [MONNNEY](https://open.spotify.com/track/5YkmpL7jasY1yA7m4vpZ02) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [MONNNEY](https://open.spotify.com/album/3z1oVJTWV0kJiSyUIPykiV) | 2:57 |
+| 3 | [Sugarcane](https://open.spotify.com/track/6EU8H0Nvnob3P99vWMT8vh) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 2:57 |
 | 4 | [Tourist Mind](https://open.spotify.com/track/2RZ3tN0E2186fFbTIvMrdX) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Tourist Mind](https://open.spotify.com/album/1lHW23rMLAkz0ffH0fGm0f) | 4:46 |
 | 5 | [Bndryl](https://open.spotify.com/track/5bFxOyG2dbPVfML4nj6Mfm) | [Barbara](https://open.spotify.com/artist/6hhmxPotJ2kCsQjUGPtH14) | [SO THIS IS LIVING](https://open.spotify.com/album/5toJYo1Ctxq7XRJfJJOj0w) | 3:34 |
 | 6 | [Window](https://open.spotify.com/track/3wY9bFMp0KHsYEe4zTVQ5H) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Window](https://open.spotify.com/album/1KdHDGkg4tNd751hWsGfEh) | 2:59 |
@@ -95,14 +95,14 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 85 | [Been a While](https://open.spotify.com/track/09NrI2Vaglhq4UizZtSzYT) | [People Mover](https://open.spotify.com/artist/3nZaIiVE8u0temaos0b6Ki) | [Cane Trash](https://open.spotify.com/album/6bTrWBNNL578hbaFN9Ugkm) | 4:11 |
 | 86 | [Chippy Fler](https://open.spotify.com/track/3VztT3sFjOsNJllodaNp9K) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [FOLLY](https://open.spotify.com/album/0PbKKkGDzod0JqT6eiSgeU) | 3:35 |
 | 87 | [The Bookshop](https://open.spotify.com/track/34wLUeZGxvueU5DlWA605v) | [Oyama](https://open.spotify.com/artist/3n5NW1AXbZvprO25g1Wvvl) | [The Bookshop](https://open.spotify.com/album/0LqlI9jrF5r2C8g2sP03W3) | 3:50 |
-| 88 | [I Wanna Die](https://open.spotify.com/track/6iD7dAFbgvW9A6ihi2iMJq) | [kayls](https://open.spotify.com/artist/22oJC8kxHJbZTFn2iKwbTe) | [I Wanna Die](https://open.spotify.com/album/0jLr8c5tvUYNTcqpL7Np2g) | 2:47 |
-| 89 | [yellowstoned](https://open.spotify.com/track/4bU62qW1uH1KyeCg5pLNdy) | [wished bone](https://open.spotify.com/artist/4PpncOYFkaKQZc82ONdm9c) | [cellar belly](https://open.spotify.com/album/4vp7GQ1DnieFK0BnLBCOwg) | 3:00 |
-| 90 | [I Guess](https://open.spotify.com/track/6bGpQqMmTbPp9soyW557qS) | [Ennis V Croft](https://open.spotify.com/artist/5bK2BgAPEGg7yGP6WitdJD) | [I Guess](https://open.spotify.com/album/6nMFWNUtwCRxuKEY1roG0P) | 2:05 |
-| 91 | [Root Rot](https://open.spotify.com/track/3NKBWABs7wAXUjx7uI4jX2) | [Cooper Wolken](https://open.spotify.com/artist/6gyvCChVnwOS3VFJtYw8T9) | [Root Rot](https://open.spotify.com/album/2cPUpMqBcG1Rjoe8jCQicR) | 3:13 |
-| 92 | [Mithridates VI](https://open.spotify.com/track/07gFOuYHhsZ75DPo39r5UA) | [Coward Syndrome](https://open.spotify.com/artist/0QTa6kfKv7BXeTTxR4JPAf) | [Coward Syndrome](https://open.spotify.com/album/7eZHuDHfcbxsCNs1l3XEAP) | 3:35 |
-| 93 | [Cure](https://open.spotify.com/track/0c2bo6Tf19tK7XNyHJQKzB) | [The Style](https://open.spotify.com/artist/6CVHj9okwc2i9WJTaREBVY) | [Cure](https://open.spotify.com/album/4QWpomBIn67zQgjlHEiR1u) | 1:50 |
-| 94 | [Shatter](https://open.spotify.com/track/2NUQYQQr9mJJAERm53z1HK) | [Ken Park](https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J) | [Shatter](https://open.spotify.com/album/72wDJ4NyBOhO6ioR5k5fqs) | 2:19 |
-| 95 | [girls!](https://open.spotify.com/track/5iCImS1DSymeW9UepheILB) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [girls!](https://open.spotify.com/album/4a2jwJPrGMhNwhHYmGJj4l) | 2:26 |
+| 88 | [yellowstoned](https://open.spotify.com/track/4bU62qW1uH1KyeCg5pLNdy) | [wished bone](https://open.spotify.com/artist/4PpncOYFkaKQZc82ONdm9c) | [cellar belly](https://open.spotify.com/album/4vp7GQ1DnieFK0BnLBCOwg) | 3:00 |
+| 89 | [I Guess](https://open.spotify.com/track/6bGpQqMmTbPp9soyW557qS) | [Ennis V Croft](https://open.spotify.com/artist/5bK2BgAPEGg7yGP6WitdJD) | [I Guess](https://open.spotify.com/album/6nMFWNUtwCRxuKEY1roG0P) | 2:05 |
+| 90 | [Root Rot](https://open.spotify.com/track/3NKBWABs7wAXUjx7uI4jX2) | [Cooper Wolken](https://open.spotify.com/artist/6gyvCChVnwOS3VFJtYw8T9) | [Root Rot](https://open.spotify.com/album/2cPUpMqBcG1Rjoe8jCQicR) | 3:13 |
+| 91 | [Mithridates VI](https://open.spotify.com/track/07gFOuYHhsZ75DPo39r5UA) | [Coward Syndrome](https://open.spotify.com/artist/0QTa6kfKv7BXeTTxR4JPAf) | [Coward Syndrome](https://open.spotify.com/album/7eZHuDHfcbxsCNs1l3XEAP) | 3:35 |
+| 92 | [Cure](https://open.spotify.com/track/0c2bo6Tf19tK7XNyHJQKzB) | [The Style](https://open.spotify.com/artist/6CVHj9okwc2i9WJTaREBVY) | [Cure](https://open.spotify.com/album/4QWpomBIn67zQgjlHEiR1u) | 1:50 |
+| 93 | [Shatter](https://open.spotify.com/track/2NUQYQQr9mJJAERm53z1HK) | [Ken Park](https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J) | [Shatter](https://open.spotify.com/album/72wDJ4NyBOhO6ioR5k5fqs) | 2:19 |
+| 94 | [girls!](https://open.spotify.com/track/5iCImS1DSymeW9UepheILB) | [Noble Son](https://open.spotify.com/artist/7MZIDz9tE0iPbZHmA1XaJ8) | [girls!](https://open.spotify.com/album/4a2jwJPrGMhNwhHYmGJj4l) | 2:26 |
+| 95 | [I Wanna Die](https://open.spotify.com/track/6iD7dAFbgvW9A6ihi2iMJq) | [kayls](https://open.spotify.com/artist/22oJC8kxHJbZTFn2iKwbTe) | [I Wanna Die](https://open.spotify.com/album/0jLr8c5tvUYNTcqpL7Np2g) | 2:47 |
 | 96 | [Archfiend](https://open.spotify.com/track/0cAWqvuQ1iSmQQtjzfQo1Y) | [Spilly Cave](https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l) | [Sixty\-Four](https://open.spotify.com/album/5r1KzKSMzpH3EV0NdfCH00) | 2:57 |
 | 97 | [million in one](https://open.spotify.com/track/0i8pMNAy42fE0OtZoE0atd) | [Trauma Glow](https://open.spotify.com/artist/01Gr31ekhQNDKo5M1s6mBw) | [million in one](https://open.spotify.com/album/4UkUtt8xlC8e2SDhWQynsO) | 2:26 |
 | 98 | [Tainted Glow](https://open.spotify.com/track/1q9MKzw7JdrYOHJaJopi66) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Tainted Glow](https://open.spotify.com/album/6Y60YrZ6YBbOT8dcimQFOt) | 2:52 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 332 | [Clouds](https://open.spotify.com/track/5GVRzOm8iXXmKN4F5x8V07) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [Four\-Team Dream Machine](https://open.spotify.com/album/4t625gTxm0WVfbX6D06HDj) | 1:35 |
 | 333 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 |
 
-Snapshot ID: `AAApl+mHAomtGBN4Ucc5vsBlP1PeTFLF`
+Snapshot ID: `AAApme4hwJFpokP0AtGA66SxsVJWpjKT`

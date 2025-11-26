@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,408 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,446 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 45 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
 | 46 | [Panga](https://open.spotify.com/track/13yHaNGlckcW7zvJ5yUSwN) | [Ammy Chahar](https://open.spotify.com/artist/5XE93ktVBgJuN7ln4YDvmX), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Panga](https://open.spotify.com/album/3BTHZFnhSzPqSho78f8Kwz) | 3:01 |
 | 47 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 |
-| 48 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |
-| 49 | [Badmash Bateu \(feat\. Sandy Sandeep\)](https://open.spotify.com/track/4VMwnzLL9FdUpjlIlTGAkr) | [Rahul Puthi](https://open.spotify.com/artist/0zMnoE7sd8F99G3gygMIgv), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn), [DK Sharma Buwana](https://open.spotify.com/artist/5Z5bclcBfCpRv35LPhnpPf), [Sandy Sandeep](https://open.spotify.com/artist/29piBboo5ibz7jTvFkm8iq) | [Badmash Bateu \(feat\. Sandy Sandeep\)](https://open.spotify.com/album/5DP11awSj23DPPRmM57DSx) | 2:45 |
+| 48 | [Badmash Bateu \(feat\. Sandy Sandeep\)](https://open.spotify.com/track/4VMwnzLL9FdUpjlIlTGAkr) | [Rahul Puthi](https://open.spotify.com/artist/0zMnoE7sd8F99G3gygMIgv), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn), [DK Sharma Buwana](https://open.spotify.com/artist/5Z5bclcBfCpRv35LPhnpPf), [Sandy Sandeep](https://open.spotify.com/artist/29piBboo5ibz7jTvFkm8iq) | [Badmash Bateu \(feat\. Sandy Sandeep\)](https://open.spotify.com/album/5DP11awSj23DPPRmM57DSx) | 2:45 |
+| 49 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 |
 | 50 | [Pehlwan](https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw) | [Rahul Dhandlaniya](https://open.spotify.com/artist/3uIl3S4LSdiqMj19bqlDBX), [Vishvajeet Choudhary](https://open.spotify.com/artist/1mfAGblExpLNFZtiv88m9D), [Yogesh Jakhodiya](https://open.spotify.com/artist/36MYlNNUlZ9cZqLJMqxJVA) | [Pehlwan](https://open.spotify.com/album/42YOUQe0aQBmprIsQzvKiJ) | 2:32 |
 
 Snapshot ID: `AAAAAIlpgqVq0zCg3LvUhua3Kr6GdWlO`

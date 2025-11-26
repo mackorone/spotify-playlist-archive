@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2015. Cover: Nicky Jam\n",
-  "num_followers": 65707,
+  "num_followers": 65750,
   "original_name": "Latin Hits 2015",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-07-13 01:09:02",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 228275,
-      "name": "Pretextos (feat. Cosculluela)",
-      "url": "https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK"
-    },
-    {
-      "added_at": "2024-07-13 01:09:02",
-      "album": {
         "name": "Radio Universo",
         "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 215800,
       "name": "Me Voy Enamorando - Remix",
       "url": "https://open.spotify.com/track/0SUukeNYkHMk8bxwgGQKJa"
+    },
+    {
+      "added_at": "2024-07-13 01:09:02",
+      "album": {
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 228275,
+      "name": "Pretextos (feat. Cosculluela)",
+      "url": "https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK"
     },
     {
       "added_at": "2024-07-13 01:09:02",

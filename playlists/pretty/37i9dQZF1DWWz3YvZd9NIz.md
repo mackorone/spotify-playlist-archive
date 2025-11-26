@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,165 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,267 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 45 | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/track/0ExPOKGYA2HAykGEsCxJS6) | [BAKI](https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW), [ZYZZ](https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM), [GYM HARDSTYLE](https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH) | [Locked Out Of Heaven \(Hardstyle\) \- Sped Up](https://open.spotify.com/album/2y2hH2PKakxRmxmIW4xPcn) | 3:14 |
 | 46 | [Say My Name](https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Say My Name](https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP) | 2:00 |
 | 47 | [Boom Boom Boom](https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Boom Boom Boom](https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G) | 3:01 |
-| 48 | [Irgendwie, irgendwo, irgendwann \- HBz Remix](https://open.spotify.com/track/1tJHTEI5v9R4BdnfhWYLDe) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [Vivi Minu](https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [Irgendwie, irgendwo, irgendwann \(HBz Remix\)](https://open.spotify.com/album/6IV38M4yff4Krj5RfQmbdX) | 3:15 |
-| 49 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
+| 48 | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S) | [Jay Reeve](https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4), [Elyn](https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl) | [Bitter Sweet Symphony \(Hardstyle Mix\)](https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF) | 3:00 |
+| 49 | [Irgendwie, irgendwo, irgendwann \- HBz Remix](https://open.spotify.com/track/1tJHTEI5v9R4BdnfhWYLDe) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [Vivi Minu](https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ) | [Irgendwie, irgendwo, irgendwann \(HBz Remix\)](https://open.spotify.com/album/6IV38M4yff4Krj5RfQmbdX) | 3:15 |
 | 50 | [Smooth Criminal](https://open.spotify.com/track/2HtC6KsunFKydl98AfxMze) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR) | [Smooth Criminal](https://open.spotify.com/album/4cL1zFrvk14x1t08QcVmTQ) | 2:14 |
 | 51 | [LOVE DON'T LET ME GO](https://open.spotify.com/track/2VEFILxPIsvijHQtwWSVU9) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [LOVE DON'T LET ME GO](https://open.spotify.com/album/570TL1w3xvPBLH52kYinU4) | 3:04 |
 | 52 | [Fine Day](https://open.spotify.com/track/7aKme0bvekUFoMI0cHGIRk) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Fine Day](https://open.spotify.com/album/2ZIFHjv7tMdEsYfWy9HwFv) | 3:56 |

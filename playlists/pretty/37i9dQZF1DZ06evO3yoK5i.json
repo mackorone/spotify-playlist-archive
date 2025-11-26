@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 245996,
+  "num_followers": 246032,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADbn7SDcml+/CxSaYcxlMut",
+  "snapshot_id": "aSOgAAAAAAAR3Ack+3G65nMyfMSs7rpC",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
+      "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros (Spanish Version)",
         "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
       },
@@ -407,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noi",
-        "url": "https://open.spotify.com/album/59ux7JS19lMvN9XemDztc1"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Un Angelo Disteso Al Sole",
-      "url": "https://open.spotify.com/track/52NToQozANCOhe2uVeJPIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musica \u00e8",
         "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
       },
@@ -451,26 +455,6 @@
       "duration_ms": 207413,
       "name": "Mi d\u00eda preferido",
       "url": "https://open.spotify.com/track/2rsLMD3pXqaYUiAaSsrZoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
-      "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
     },
     {
       "added_at": null,
@@ -547,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+        "name": "En Todos Los Sentidos",
+        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
       },
       "artists": [
         {
@@ -556,9 +540,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Completamente Enamorados - Remastered 2021",
-      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
+      "duration_ms": 310093,
+      "name": "Si Bastasen un Par de Canciones",
+      "url": "https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf"
     },
     {
       "added_at": null,
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Todos Los Sentidos",
-        "url": "https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH"
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
       "artists": [
         {
@@ -588,9 +572,25 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 310093,
-      "name": "Si Bastasen un Par de Canciones",
-      "url": "https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf"
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Completamente Enamorados - Remastered 2021",
+      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
       "duration_ms": 239253,
       "name": "Adesso tu",
       "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -863,6 +847,26 @@
       "duration_ms": 220120,
       "name": "Cancion para Ella - Remastered 2021",
       "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA STORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Max Pezzali",
+          "url": "https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9"
+        }
+      ],
+      "duration_ms": 182522,
+      "name": "Come nei film (feat. Max Pezzali)",
+      "url": "https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS"
     },
     {
       "added_at": null,

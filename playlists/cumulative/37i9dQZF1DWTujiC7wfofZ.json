@@ -2163,24 +2163,6 @@
     },
     {
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "date_added": "2024-12-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 242266,
-      "name": "D.A.N.C.E",
-      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
-    },
-    {
-      "album": {
         "name": "D.A.N.C.E",
         "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
       },
@@ -2214,6 +2196,24 @@
       "duration_ms": 209986,
       "name": "D.A.N.C.E.",
       "url": "https://open.spotify.com/track/2hQCzcb3qyZirWzOD5Yzoj"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2024-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242266,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 188111,
+  "num_followers": 188116,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAD5v/MoWsIxgz9TczAWPUpv",
+  "snapshot_id": "aSOgAAAAAADxEODTZKnmmUl3Uu2CHf3a",
   "tracks": [
     {
       "added_at": null,
@@ -588,25 +588,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 70487,
-      "name": "\"How 'Bout This?\"",
-      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 224386,
-      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
-      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+      "duration_ms": 173230,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 192466,
       "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa"
         }
       ],
-      "duration_ms": 173230,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx"
+      "duration_ms": 70487,
+      "name": "\"How 'Bout This?\"",
+      "url": "https://open.spotify.com/track/2cLeyjgYro18QHgJA6N36h"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joplin In Concert",
-        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 345800,
-      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
-      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+      "duration_ms": 306093,
+      "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
+      "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+        "name": "Joplin In Concert",
+        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 306093,
-      "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
-      "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
+      "duration_ms": 345800,
+      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
+      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
     },
     {
       "added_at": null,

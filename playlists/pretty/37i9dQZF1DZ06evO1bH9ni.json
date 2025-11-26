@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 346315,
+  "num_followers": 346400,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAAl2ioxy3Dwk7vLdJlP1Uyi",
+  "snapshot_id": "aSOgAAAAAABLzrqsBgnkqSQCeyF82gnm",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "El Gerry Oficial",
+          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
+        }
+      ],
+      "duration_ms": 133205,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/70fLGCLWTSyuI76dNhQboT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -247,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Parca",
-        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 193612,
-      "name": "La Parca",
-      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Logr\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/3YYUwMlpFbCF2E0xLccjLb"
       },
@@ -283,6 +283,26 @@
       "duration_ms": 216583,
       "name": "Lo Logr\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/2KUhobv1VMr3f665kWH7mh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Parca",
+        "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 193612,
+      "name": "La Parca",
+      "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
     },
     {
       "added_at": null,
@@ -331,26 +351,6 @@
       "duration_ms": 227554,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "El Gerry Oficial",
-          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
-        }
-      ],
-      "duration_ms": 133205,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/70fLGCLWTSyuI76dNhQboT"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Termino Con Lo Nuestro",
+        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 217409,
+      "name": "Termino Con Lo Nuestro",
+      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Termino Con Lo Nuestro",
-        "url": "https://open.spotify.com/album/7eGdxYcXh1DlmUV2hsDCk6"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 217409,
-      "name": "Termino Con Lo Nuestro",
-      "url": "https://open.spotify.com/track/5bT0SVMNlrqJmG9QlBjxOw"
     },
     {
       "added_at": null,

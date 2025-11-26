@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 747350,
+  "num_followers": 747410,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACBtt1Fwh9LJ6/r0p9aUG2Q",
+  "snapshot_id": "aSOgAAAAAAB1F6nN4yEmdsFNPOsiBmQW",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 234138,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever (Legendary Edition)",
         "url": "https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 196916,
       "name": "Living in Paradise (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/4MJpRELMm9Sa70kJqwi8by"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 234138,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,

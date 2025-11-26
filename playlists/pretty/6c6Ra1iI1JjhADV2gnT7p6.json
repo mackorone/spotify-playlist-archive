@@ -1,13 +1,29 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59499,
+  "num_followers": 59503,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAApl+mHAomtGBN4Ucc5vsBlP1PeTFLF",
+  "snapshot_id": "AAApme4hwJFpokP0AtGA66SxsVJWpjKT",
   "tracks": [
+    {
+      "added_at": "2025-11-23 06:13:46",
+      "album": {
+        "name": "give",
+        "url": "https://open.spotify.com/album/5Iehuuszx2sPThTgVSSpIx"
+      },
+      "artists": [
+        {
+          "name": "campthehills",
+          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "give",
+      "url": "https://open.spotify.com/track/7gMTKnvqhwsbeNTCeU9PSE"
+    },
     {
       "added_at": "2025-11-23 06:13:46",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 177570,
       "name": "Sugarcane",
       "url": "https://open.spotify.com/track/6EU8H0Nvnob3P99vWMT8vh"
-    },
-    {
-      "added_at": "2025-11-23 06:13:46",
-      "album": {
-        "name": "give",
-        "url": "https://open.spotify.com/album/5Iehuuszx2sPThTgVSSpIx"
-      },
-      "artists": [
-        {
-          "name": "campthehills",
-          "url": "https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs"
-        }
-      ],
-      "duration_ms": 151111,
-      "name": "give",
-      "url": "https://open.spotify.com/track/7gMTKnvqhwsbeNTCeU9PSE"
     },
     {
       "added_at": "2025-11-23 06:13:46",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-23 06:13:46",
       "album": {
-        "name": "I Wanna Die",
-        "url": "https://open.spotify.com/album/0jLr8c5tvUYNTcqpL7Np2g"
-      },
-      "artists": [
-        {
-          "name": "kayls",
-          "url": "https://open.spotify.com/artist/22oJC8kxHJbZTFn2iKwbTe"
-        }
-      ],
-      "duration_ms": 167396,
-      "name": "I Wanna Die",
-      "url": "https://open.spotify.com/track/6iD7dAFbgvW9A6ihi2iMJq"
-    },
-    {
-      "added_at": "2025-11-23 06:13:46",
-      "album": {
         "name": "cellar belly",
         "url": "https://open.spotify.com/album/4vp7GQ1DnieFK0BnLBCOwg"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 146138,
       "name": "girls!",
       "url": "https://open.spotify.com/track/5iCImS1DSymeW9UepheILB"
+    },
+    {
+      "added_at": "2025-11-23 06:13:46",
+      "album": {
+        "name": "I Wanna Die",
+        "url": "https://open.spotify.com/album/0jLr8c5tvUYNTcqpL7Np2g"
+      },
+      "artists": [
+        {
+          "name": "kayls",
+          "url": "https://open.spotify.com/artist/22oJC8kxHJbZTFn2iKwbTe"
+        }
+      ],
+      "duration_ms": 167396,
+      "name": "I Wanna Die",
+      "url": "https://open.spotify.com/track/6iD7dAFbgvW9A6ihi2iMJq"
     },
     {
       "added_at": "2025-11-23 06:13:46",

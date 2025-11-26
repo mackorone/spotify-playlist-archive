@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAAMWpeTGowjSXUr+ApIqoWa",
+  "snapshot_id": "aSOgAAAAAACEhLxdu6AZKnfM1NUYY3jW",
   "tracks": [
     {
       "added_at": null,
@@ -275,34 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bagatelle",
-        "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 259777,
-      "name": "Bagatelle",
-      "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta El QLO",
         "url": "https://open.spotify.com/album/59QlyRjPd5USQQ7OdbMIe3"
       },
@@ -327,6 +299,34 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bagatelle",
+        "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 259777,
+      "name": "Bagatelle",
+      "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
     },
     {
       "added_at": null,
@@ -443,6 +443,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scarlett\u00b4s",
+        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Scarlett\u00b4s",
+      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electromorbo",
         "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
       },
@@ -471,34 +499,6 @@
       "duration_ms": 175121,
       "name": "Electromorbo",
       "url": "https://open.spotify.com/track/66skQzABVVs28ptsEoRqxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scarlett\u00b4s",
-        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Scarlett\u00b4s",
-      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trokita Tumbada",
-        "url": "https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 166090,
-      "name": "Trokita Tumbada",
-      "url": "https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GUZBYE",
         "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 188000,
       "name": "GUZBYE",
       "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trokita Tumbada",
+        "url": "https://open.spotify.com/album/1ksTdtTRNpqzbFkCcPi8k5"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 166090,
+      "name": "Trokita Tumbada",
+      "url": "https://open.spotify.com/track/5OikUUl8HDGRfImohipqOw"
     },
     {
       "added_at": null,

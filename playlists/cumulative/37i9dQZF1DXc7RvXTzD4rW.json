@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002A collection of music from voice actors/ actresses in Japan. Cover: \u5e1d\u4e43\u4e09\u59c9\u59b9\u3068\u512a  (\u30a2\u30cb\u30e1\u300e\u5e1d\u4e43\u4e09\u59c9\u59b9\u306f\u6848\u5916\u3001\u30c1\u30e7\u30ed\u3044\u3002\u300f) Cover:\u00a9\u3072\u3089\u304b\u308f\u3042\u3084\uff0f\u5c0f\u5b66\u9928\uff0f\u30a2\u30cb\u30d7\u30ec\u30c3\u30af\u30b9",
+  "description": "\u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002A collection of music from voice actors/ actresses in Japan. Cover: \u6960\u6728\u3068\u3082\u308a Tomori Kusunoki",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 Sing Like Talking",
   "tracks": [
     {
@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Beyond Days",
+        "url": "https://open.spotify.com/album/2FVu4E86ZxIepjSeNp1RSM"
+      },
+      "artists": [
+        {
+          "name": "Minako Kotobuki",
+          "url": "https://open.spotify.com/artist/1NGAO9BGAOwKrv0dtjXRpP"
+        },
+        {
+          "name": "Ayahi Takagaki",
+          "url": "https://open.spotify.com/artist/6i5Ibaw62PidoTtJ7NlkzZ"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272160,
+      "name": "Beyond Days",
+      "url": "https://open.spotify.com/track/5ckcuwC2gYGb60qHwJoCIi"
+    },
+    {
+      "album": {
         "name": "Blue Christmas for You",
         "url": "https://open.spotify.com/album/1I5OresBIsbkyJAMcuNPbR"
       },
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 217253,
       "name": "Dear my Soleil",
       "url": "https://open.spotify.com/track/1Z4o2B2D4DnLW4RuQjap6V"
@@ -1174,6 +1196,24 @@
       "duration_ms": 173920,
       "name": "DOLL",
       "url": "https://open.spotify.com/track/7MukpMD6X2tfWxmws5ETeV"
+    },
+    {
+      "album": {
+        "name": "Dolphin Dance Floor",
+        "url": "https://open.spotify.com/album/4gelylR3Ivms92fWVcHDkb"
+      },
+      "artists": [
+        {
+          "name": "\u6765\u6816\u308a\u3093",
+          "url": "https://open.spotify.com/artist/6xiHykZdET5Tp1SAC7luIA"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Dolphin Dance Floor",
+      "url": "https://open.spotify.com/track/0I4SWaU9GUExMvTT4xnj1S"
     },
     {
       "album": {
@@ -2126,7 +2166,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 241529,
       "name": "Happy Bubble Party",
       "url": "https://open.spotify.com/track/29t0exkqLwL7JQH9GYYs8c"
@@ -2986,7 +3026,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 232000,
       "name": "LIKE YOU o(>< = ><)o LOVE YOU?",
       "url": "https://open.spotify.com/track/6pyeicTfEeKob6aaRvsneu"
@@ -5405,6 +5445,24 @@
     },
     {
       "album": {
+        "name": "turquoise blue",
+        "url": "https://open.spotify.com/album/7GnsGYRUmKk8viX3qunbMt"
+      },
+      "artists": [
+        {
+          "name": "\u6960\u6728\u3068\u3082\u308a",
+          "url": "https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201184,
+      "name": "turquoise blue",
+      "url": "https://open.spotify.com/track/1wd0jdbqt6tDGMcbqGp0kZ"
+    },
+    {
+      "album": {
         "name": "A PIECE OF CAKE",
         "url": "https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx"
       },
@@ -5982,7 +6040,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 253520,
       "name": "\u3046\u305f\u3054\u3048\u30cf\u30a4\u30b7\u30c3\u30af\u30b9 - \u30a2\u30ab\u30da\u30e9\u30a2\u30ec\u30f3\u30b8ver.",
       "url": "https://open.spotify.com/track/34JYTQWyouMWOHtOxQxb8B"
@@ -6238,7 +6296,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 202480,
       "name": "\u3064\u3088\u304c\u308a\u30de\u30a4\u30da\u30fc\u30b9",
       "url": "https://open.spotify.com/track/0A6zWP3VZfYczicQFc84DP"
@@ -7947,6 +8005,24 @@
     },
     {
       "album": {
+        "name": "ReFraction",
+        "url": "https://open.spotify.com/album/3pkW8jgSHKHWZX8LjKjCVL"
+      },
+      "artists": [
+        {
+          "name": "DayRe:",
+          "url": "https://open.spotify.com/artist/3USyWXI2PokKg07sNbsBcB"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200516,
+      "name": "\u30d7\u30ed\u30c8\u30ce\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/6oo2XUoXwkCswACsM4iUIX"
+    },
+    {
+      "album": {
         "name": "\u30d8\u30eb\u30d7!!",
         "url": "https://open.spotify.com/album/0HDj4pRVrijU7W7mcr3RmJ"
       },
@@ -8055,6 +8131,28 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30a4\u30c9\u30a4\u30f3\u30b8\u30e3\u30d1\u30f3",
+        "url": "https://open.spotify.com/album/7tXriWUmTgw4NE2LoKFW9q"
+      },
+      "artists": [
+        {
+          "name": "mona\uff08CV\uff1a\u590f\u5ddd\u690e\u83dc\uff09",
+          "url": "https://open.spotify.com/artist/0EE5w10plFiTUBnTcidwcU"
+        },
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196366,
+      "name": "\u30e1\u30a4\u30c9\u30a4\u30f3\u30b8\u30e3\u30d1\u30f3",
+      "url": "https://open.spotify.com/track/2SJGi00jeProAsTEfmelQp"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30b8\u30eb\u30b7",
         "url": "https://open.spotify.com/album/0Cnhp3pgQVPphx0RE0FdZe"
       },
@@ -8084,7 +8182,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 224701,
       "name": "\u30e1\u30cb\u30e1\u30ea\u30fb\u30e1\u30e2\u30ea\u30fc\u30ba\uff01",
       "url": "https://open.spotify.com/track/7kqv5QwPQPbqrA8kZ29qDp"
@@ -8810,6 +8908,24 @@
       "duration_ms": 210600,
       "name": "\u5922\u306e\u7cf8",
       "url": "https://open.spotify.com/track/1mVQ95YYLqqxzyMWNccVLg"
+    },
+    {
+      "album": {
+        "name": "\u5922\u3078\u306e\u30d2\u30c8\u30ab\u30b1\u30e9/Romantic Showdown",
+        "url": "https://open.spotify.com/album/0DvffsRR4bqd4zeq97VnvW"
+      },
+      "artists": [
+        {
+          "name": "i\u2606Ris",
+          "url": "https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "\u5922\u3078\u306e\u30d2\u30c8\u30ab\u30b1\u30e9",
+      "url": "https://open.spotify.com/track/0M7bDDLTRfPSm4ss0PSj8x"
     },
     {
       "album": {

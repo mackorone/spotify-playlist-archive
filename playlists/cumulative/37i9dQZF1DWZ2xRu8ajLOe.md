@@ -4,7 +4,7 @@
 
 > Your ultimate running soundtrack!
 
-102 songs - 5 hr 28 min
+103 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 | 2025-10-09 |  |
 | [La Danza](https://open.spotify.com/track/6KNlhaeBrlHUsVItPrpkyn) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/0u1tZn9C4Gcx3zdLQQjAFA) | 2:37 | 2025-10-09 |  |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2025-10-09 |  |
+| [Lights On \(feat\. Ms Dynamite\) \- Single Mix](https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Ms\. Dynamite](https://open.spotify.com/artist/42qLC3FgtazA9AvaIoiP62) | [On A Mission](https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV) | 3:24 | 2025-10-09 |  |
 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-10-09 |  |
 | [Lonely](https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Lonely](https://open.spotify.com/album/3zxRCukRL1NQC4vo7ipUet) | 3:10 | 2025-10-09 |  |
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2025-10-09 |  |
@@ -102,7 +103,7 @@
 | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Turn Me On \(feat\. Vula\)](https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8) | 3:28 | 2025-10-09 |  |
 | [Turn the Music Louder \(Rumble\) \(feat\. Tinie Tempah\) \- Radio Edit](https://open.spotify.com/track/0YC3WfFZkZBpUeaHt4Eggk) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Turn the Music Louder \(Rumble\) \(feat\. Tinie Tempah\) \[Radio Edit\]](https://open.spotify.com/album/0l0Nvv67JiFWokCBNtVve7) | 3:21 | 2025-10-09 |  |
 | [We Found Love](https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 3:35 | 2025-10-09 |  |
-| [When It Kicks](https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [When It Kicks](https://open.spotify.com/album/04ybXlfPtu2JdmXOrI2yTG) | 3:20 | 2025-10-09 |  |
+| [When It Kicks](https://open.spotify.com/track/4SevuM9vs3a3RcKBPPfpym) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [When It Kicks](https://open.spotify.com/album/04ybXlfPtu2JdmXOrI2yTG) | 3:20 | 2025-10-09 | 2025-11-26 |
 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 | 2025-10-09 |  |
 | [Where You Are](https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 3:56 | 2025-10-09 |  |
 | [Who's That Chick? \(feat\. Rihanna\)](https://open.spotify.com/track/6qUSs4FDzZUdAhY6JDIJfa) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:21 | 2025-10-09 |  |

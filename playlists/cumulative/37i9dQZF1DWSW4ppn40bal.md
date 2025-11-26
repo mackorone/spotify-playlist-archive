@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-638 songs - 1 day 9 hr 50 min
+639 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Heavenly Brrown Noise](https://open.spotify.com/track/20GpL0Svq98inYQf6vbApr) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Brown Noise Slumber](https://open.spotify.com/album/7MfF4606e53wyaYA3gRDuv) | 2:13 | 2022-11-18 |  |
 | [Heavenly Pink Noise](https://open.spotify.com/track/3sndj0Ae9C9HBS0tKgeATb) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Pink Noise Atmospheres](https://open.spotify.com/album/7GMpTZTc7Rkt0cS8eAfJF1) | 3:44 | 2022-12-20 | 2023-02-17 |
 | [Herbal Hour](https://open.spotify.com/track/3ME4Yw6cFOu2yJcbish3hw) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Baby Sleep Brown Noise](https://open.spotify.com/album/5rL3m6jUPS695IqPRRsUBz) | 2:24 | 2021-12-01 | 2022-12-21 |
+| [Hideout from the Rain](https://open.spotify.com/track/5VDjE9ILmNGuWA89m4TwmJ) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Hideout from the Rain](https://open.spotify.com/album/6Re6Iky2GVROWmYSnpz34J) | 2:14 | 2025-11-13 |  |
 | [High Altitudes](https://open.spotify.com/track/1et6ApYz8ZFzk0Gb1VUW3s) | [More.Pink.Noise](https://open.spotify.com/artist/3DkmJsD3Eewu9c8Vn4590W) | [Pink Is More Vol\. 2](https://open.spotify.com/album/4ya5RQbO8YBCY6ECvazq78) | 2:26 | 2022-06-03 | 2025-08-26 |
 | [High Winds](https://open.spotify.com/track/3wzu3qv6fwFZrjsWN3jSPS) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [In den Bergen](https://open.spotify.com/album/2czBX549r8Egdi6dDYWJVU) | 4:04 | 2021-12-01 | 2022-11-19 |
 | [Hontoni White Noise](https://open.spotify.com/track/742apIRA23YNnENap1s4xV) | [Noizu Deluxe](https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0) | [White Noizu](https://open.spotify.com/album/4f7NGXGk8LEF0XZLHyWrYU) | 2:56 | 2025-11-13 |  |
@@ -504,7 +505,7 @@
 | [Pinksomnia](https://open.spotify.com/track/2DxIUzwqnZA4JEfJJrKcvH) | [Panoramia](https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9) | [Pinksomnia](https://open.spotify.com/album/5ogQBNAiBaVC2zNRgDgdL4) | 3:15 | 2022-08-02 |  |
 | [Platinum Pink Noise](https://open.spotify.com/track/5HBoYUk0wRJ6ZEQ5GVYqkA) | [Noise Design](https://open.spotify.com/artist/4L5Dto2z6lWOgm19IXWNDr) | [Platinum Pink Noise](https://open.spotify.com/album/5M9aPdazI7SLaSkC00lGgW) | 2:58 | 2022-12-20 | 2025-11-16 |
 | [Pool of Pink Noise](https://open.spotify.com/track/2Tr59tiEcAMub2JLqJA72C) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Pool of Pink Noise](https://open.spotify.com/album/753Pp9yVc0DpU9sqFR9TqW) | 3:29 | 2022-06-03 |  |
-| [Precious Bedtime](https://open.spotify.com/track/6b50H35ZNObNWB1JTOmwuR) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Pink Noise Aficionado](https://open.spotify.com/album/2BG66eZYVb2AXzMhFImd6Y) | 2:57 | 2022-11-18 |  |
+| [Precious Bedtime](https://open.spotify.com/track/6b50H35ZNObNWB1JTOmwuR) | [Instant Recuperate](https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV) | [Pink Noise Aficionado](https://open.spotify.com/album/2BG66eZYVb2AXzMhFImd6Y) | 2:57 | 2022-11-18 | 2025-11-26 |
 | [Profound Pink](https://open.spotify.com/track/3kIjRT6rqRXTRrGZNmLLya) | [Universal Waves](https://open.spotify.com/artist/1J9iGTlSe1UKgzNbILBnL8) | [Universal Pink](https://open.spotify.com/album/3OBBa7NZrWw8lnkQQIPmaJ) | 3:00 | 2022-12-20 |  |
 | [Pure Brown Noise](https://open.spotify.com/track/0UgcG4LALGX6cTFp6TtSXl) | [Noise Nirvana](https://open.spotify.com/artist/6jLfCVXiXP2SoEA8BOIrxM) | [Brown Noise](https://open.spotify.com/album/4UxFcwdtIeqsCQe1tIpqHs) | 3:22 | 2021-12-01 | 2022-08-03 |
 | [Pure Brown Noise 3](https://open.spotify.com/track/5QjGpAks7zoO83nqs0phLa) | [Exodar](https://open.spotify.com/artist/2UcCR6cHxb3YL473Q7KKZJ) | [Pure Brown Noise](https://open.spotify.com/album/4GqKlkURm7KhUr397GeVlm) | 3:02 | 2021-12-01 | 2022-07-02 |

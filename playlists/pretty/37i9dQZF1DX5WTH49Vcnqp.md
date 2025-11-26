@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Annabelle Dinda
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,763 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,768 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Obsolete](https://open.spotify.com/track/0On1SxfkvTOfzvjVgFLK7V) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:23 |
 | 2 | [Fr3o](https://open.spotify.com/track/1CQhEJ1Eg6jqmU1qQH8uJ9) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Fr3o](https://open.spotify.com/album/2kn6CbVOHlyu4i82oIkpOK) | 3:27 |
-| 3 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/1VrFjz3WcDJdvGiayFeXdZ) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
+| 3 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 |
 | 4 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 5 | [Ostentatious](https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Ostentatious](https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2) | 3:44 |
 | 6 | [Live To Dance](https://open.spotify.com/track/3tAqRXrSTyX1MYDK1V6QuL) | [Jonathan Bree](https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh), [Princess Chelsea](https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t) | [Live To Dance](https://open.spotify.com/album/2YxHfqm5wUlGWVXBEziD1C) | 4:10 |

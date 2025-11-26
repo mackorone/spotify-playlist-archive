@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 346495,
+  "num_followers": 346527,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Higher Ground (Part 1)",
-        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Industrial Strain",
-      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "Welcome To My Life",
         "url": "https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 144705,
       "name": "Welcome To My Life",
       "url": "https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Higher Ground (Part 1)",
+        "url": "https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 226896,
+      "name": "Industrial Strain",
+      "url": "https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -1703,6 +1703,30 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        },
+        {
+          "name": "COSBY",
+          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
+        },
+        {
+          "name": "sebo",
+          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
+        }
+      ],
+      "duration_ms": 131062,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "Rage",
         "url": "https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu"
       },
@@ -1751,30 +1775,6 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/0AlLXyc7bWVwCoDAZFu6p7"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        },
-        {
-          "name": "COSBY",
-          "url": "https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv"
-        },
-        {
-          "name": "sebo",
-          "url": "https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW"
-        }
-      ],
-      "duration_ms": 131062,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/4QaTmat7UUkWqWPafw59pn"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -1855,30 +1855,6 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
-        "name": "Won't Make A Sound",
-        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "NURKO",
-          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Won't Make A Sound",
-      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1899,6 +1875,30 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
+        "name": "Won't Make A Sound",
+        "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Won't Make A Sound",
+      "url": "https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -2007,6 +2007,26 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "Throne",
+        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
+      },
+      "artists": [
+        {
+          "name": "Mazare",
+          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
+        },
+        {
+          "name": "Calva Louise",
+          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Throne",
+      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "11 Minutes (feat. Travis Barker) [Kayzo Remix]",
         "url": "https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 257349,
       "name": "11 Minutes (feat. Travis Barker) - Kayzo Remix",
       "url": "https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "Throne",
-        "url": "https://open.spotify.com/album/7BkAmE9oQgwNLUXfUejlk0"
-      },
-      "artists": [
-        {
-          "name": "Mazare",
-          "url": "https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9"
-        },
-        {
-          "name": "Calva Louise",
-          "url": "https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Throne",
-      "url": "https://open.spotify.com/track/5zuypqd222hx8o7vIIXta5"
     },
     {
       "added_at": "2025-11-07 23:57:17",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2025-11-07 23:57:17",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2025-11-07 23:57:17",
+      "album": {
         "name": "Being One",
         "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 206666,
       "name": "Silence",
       "url": "https://open.spotify.com/track/6ZNyP9yz0m31QRAvWwClAw"
-    },
-    {
-      "added_at": "2025-11-07 23:57:17",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2025-11-07 23:57:17",

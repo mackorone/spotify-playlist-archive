@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-366 songs - 22 hr 32 min
+367 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Unconditional](https://open.spotify.com/track/7vzHvUDu54lnqcC9fB315l) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Unconditional](https://open.spotify.com/album/02UTbY9xBxoKjiM9mDh529) | 3:04 | 2024-03-15 |  |
 | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/track/6Z6TBLPEQbQBWH7H5pnsKv) | [Pologeff](https://open.spotify.com/artist/3iHdatC6QKi6NRQdZ7XgZj) | [Unknown Party \(UnknownVibes\)](https://open.spotify.com/album/1msgtXkVkBmp54hJTXmQ4c) | 3:05 | 2022-09-08 | 2023-05-26 |
 | [Upset](https://open.spotify.com/track/4y5KpfyXBEzSiKoUqTc9kq) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Njomza](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [Upset](https://open.spotify.com/album/5NRkkkwgN2YxnkM8cvgkBb) | 3:17 | 2022-09-08 | 2022-10-12 |
+| [UR ALL MINE](https://open.spotify.com/track/22brjc6bhcCculqR2yooR1) | [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [U KNEW](https://open.spotify.com/album/5AdDFxfPmrcVGQcHc66lAn) | 3:35 | 2025-11-25 |  |
 | [V I B R A T I O N \(w/ Shift K3Y\)](https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [V I B R A T I O N](https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r) | 2:49 | 2023-03-17 | 2024-03-16 |
 | [Vexed](https://open.spotify.com/track/0AWkXy7GTpvh8h85Np8Ug0) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Vexed](https://open.spotify.com/album/7hHnSz1lNjLVggdmiz0B63) | 2:21 | 2022-11-10 | 2022-12-01 |
 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 | 2022-11-10 | 2023-01-12 |

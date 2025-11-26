@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-125 songs - 7 hr 48 min
+126 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Only Mew](https://open.spotify.com/track/6dttb5ngWDzSeQH8tb0tvx) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy) | [Daisyland](https://open.spotify.com/album/7jDAk7n5r1qHQFNIFXGtM2) | 4:01 | 2025-10-22 |  |
 | [Pain Without A Cause \- Remix](https://open.spotify.com/track/1pFzM8ZrizfvpaHZlpEFJT) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Pain Without A Cause \(Remix\)](https://open.spotify.com/album/5rc0VPZofD3SIz7xOrPXfU) | 3:04 | 2025-11-18 |  |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-11-18 |  |
+| [Paranoid Paradise](https://open.spotify.com/track/3m6xMEquN2cJ2oCghdIeKs) | [The Alternative Project](https://open.spotify.com/artist/68iqN5iGFyGYazmS5Qg3ER) | [Starting 24](https://open.spotify.com/album/0f4RaNF6eFksDXHCbmcpeh) | 4:30 | 2025-11-25 |  |
 | [Permission to Share](https://open.spotify.com/track/2enSMsqNJHquTOqqVrfc8d) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Permission to Share](https://open.spotify.com/album/1tIUy85SwGzWMe3kc5RTVZ) | 3:26 | 2025-08-25 |  |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-09-30 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-10-30 |  |

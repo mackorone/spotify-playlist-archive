@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,955 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,962 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 63 | [Stars Fell On Alabama](https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:23 |
 | 64 | [BR Blues](https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 3:09 |
 | 65 | ['S Wonderful](https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB), [Buddy DeFranco](https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y) | [Buddy Defranco And Oscar Peterson Play George Gershwin](https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3) | 4:21 |
-| 66 | [On The Sunny Side Of The Street](https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY) | 5:40 |
-| 67 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
+| 66 | [The Nearness Of You](https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV) | [Will Downing](https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Pleasures Of The Night](https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP) | 7:19 |
+| 67 | [On The Sunny Side Of The Street](https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Sonny Side Up](https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY) | 5:40 |
 | 68 | [Lester Swings](https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 2:33 |
 | 69 | [Brian's Bounce](https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Family](https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU) | 4:56 |
 | 70 | [Willow Weep For Me](https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Lonely One](https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL) | 4:40 |

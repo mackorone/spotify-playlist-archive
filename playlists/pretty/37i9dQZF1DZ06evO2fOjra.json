@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 553624,
+  "num_followers": 553715,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABjP3q6Z1kKYNP9DcahQP1p",
+  "snapshot_id": "aSOgAAAAAAAYPvIU4yhE+g+auk08Em3u",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 201971,
-      "name": "Good God",
-      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take A Look In The Mirror",
         "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 244493,
       "name": "Did My Time",
       "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 201971,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/5JrajjztyjvkuUB8ZqzUML"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 314071,
+      "name": "Last Legal Drug",
+      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Paradigm Shift",
         "url": "https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 196946,
       "name": "Politics",
       "url": "https://open.spotify.com/track/1mBZ8vwLiD8EpT0xr5XsvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 231026,
-      "name": "Creep - Live At MTV Studio, NYC, 2006",
-      "url": "https://open.spotify.com/track/3Ieq1FuiSAiC65mmmL2zMw"
     },
     {
       "added_at": null,

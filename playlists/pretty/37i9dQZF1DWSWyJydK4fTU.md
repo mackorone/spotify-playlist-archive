@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > für deinen soft morning \- oder eine kleine Auszeit zwischendurch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,563 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,519 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 64 | [Walk Alone](https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Walk Alone](https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz) | 2:49 |
 | 65 | [self destruct mode](https://open.spotify.com/track/7KQXfLNFK9xtNAwhV4oupL) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [THE HELL OF APRIL](https://open.spotify.com/album/6zpmyHGqWXZA36k7Ex68FG) | 2:42 |
 
-Snapshot ID: `AAAAACM8OxUy533uh+rG1CYamrjjp7QY`
+Snapshot ID: `AAAAALmiUl6Bz9gsjcmmSV1CzHip5f0K`

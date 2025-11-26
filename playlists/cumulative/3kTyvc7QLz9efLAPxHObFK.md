@@ -4,7 +4,7 @@
 
 > 
 
-2,685 songs - 5 day 19 hr 55 min
+2,686 songs - 5 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1765,6 +1765,7 @@
 | [OOH LALA](https://open.spotify.com/track/0iSLjblXsl7VgS47ApVzZw) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [OOH LALA](https://open.spotify.com/album/04BjLtS6qyfbRXOIm2zjHI) | 2:24 | 2022-09-21 |  |
 | [Oracle](https://open.spotify.com/track/29u1AiJivUCQJ1J2wmLlKs) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Oracle](https://open.spotify.com/album/0Iy2YJj3EDMLNKuiKMY9Fa) | 2:29 | 2024-12-21 |  |
 | [Orbit](https://open.spotify.com/track/5fOmN2CwXTJTF1g7AufnIu) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Orbit](https://open.spotify.com/album/0FMn7bv3OZkg5wBnqIt3wv) | 2:53 | 2024-07-19 |  |
+| [Original Noise](https://open.spotify.com/track/5TioeCyBuHcHDdxSlQX4Vi) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Panic](https://open.spotify.com/artist/6UKH4iUhcq2EmANQtM8nDe), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Original Noise](https://open.spotify.com/album/22j3ssyhw9IcEgWWWqtPtq) | 3:17 | 2025-11-25 |  |
 | [OSIRIS](https://open.spotify.com/track/4pqa8H9ATQZL8HVz1o517R) | [Bmberjck](https://open.spotify.com/artist/4NQTa7bCWWmWlc6SjyGX4G), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Unlimited Power](https://open.spotify.com/album/3yfSAWaQ8KdqaC7kaSug54) | 3:25 | 2025-10-27 |  |
 | [OTD](https://open.spotify.com/track/3URjL0cGqoOTiZlGbDMALR) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [OTD](https://open.spotify.com/album/4xXw1MSvCigjkXv2Hgx1w6) | 2:43 | 2025-08-16 |  |
 | [OUR DESTRUCTION](https://open.spotify.com/track/5YwRFrawW6m3gQnnnbL5CO) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [OUR DESTRUCTION](https://open.spotify.com/album/1IiRHjrQnS8mkEbNSXo35H) | 3:16 | 2024-04-05 |  |

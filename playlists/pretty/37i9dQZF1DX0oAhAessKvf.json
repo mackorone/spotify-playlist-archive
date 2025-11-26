@@ -1,6 +1,6 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 133349,
+  "num_followers": 133369,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
@@ -1096,13 +1096,13 @@
       },
       "artists": [
         {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
+          "name": "El Hombre Tra",
+          "url": "https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Intro - Soy El Sandunguero",
-      "url": "https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF"
+      "duration_ms": 83586,
+      "name": "Outro - Vamos A Darle Slow",
+      "url": "https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1112,13 +1112,13 @@
       },
       "artists": [
         {
-          "name": "El Hombre Tra",
-          "url": "https://open.spotify.com/artist/6sidutZZmd0QwmVPRvaCQY"
+          "name": "DJ Blass",
+          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
         }
       ],
-      "duration_ms": 83586,
-      "name": "Outro - Vamos A Darle Slow",
-      "url": "https://open.spotify.com/track/3DH9NJKG6QRWrdK251WQX3"
+      "duration_ms": 207853,
+      "name": "Intro - Soy El Sandunguero",
+      "url": "https://open.spotify.com/track/3yj3qAPvYWk0F5Juz8d4iF"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
+        "name": "Gargolas 1",
+        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
+      },
+      "artists": [
+        {
+          "name": "Alberto Style",
+          "url": "https://open.spotify.com/artist/4xm2t02dUpgQSXbUmPeETU"
+        }
+      ],
+      "duration_ms": 192413,
+      "name": "Unknown (Alberto Sytle / Gargolas 1)",
+      "url": "https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 150960,
       "name": "Bailen",
       "url": "https://open.spotify.com/track/4tT8ryAtyKDAlSD0aJ97Pj"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
-        "name": "Gargolas 1",
-        "url": "https://open.spotify.com/album/0kmhkq1nth7qzISAlQc7In"
-      },
-      "artists": [
-        {
-          "name": "Alberto Style",
-          "url": "https://open.spotify.com/artist/4xm2t02dUpgQSXbUmPeETU"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Unknown (Alberto Sytle / Gargolas 1)",
-      "url": "https://open.spotify.com/track/2YQZPabUItcoIuyF0dn8ta"
     },
     {
       "added_at": "2024-03-25 13:06:06",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-25 13:06:06",
       "album": {
-        "name": "Sandunguero",
-        "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
-      },
-      "artists": [
-        {
-          "name": "DJ Blass",
-          "url": "https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH"
-        }
-      ],
-      "duration_ms": 82826,
-      "name": "Interlude - Recuerdos De Antes",
-      "url": "https://open.spotify.com/track/41YlrDHYlDB3Ml9BqJfqi3"
-    },
-    {
-      "added_at": "2024-03-25 13:06:06",
-      "album": {
         "name": "Sandunguero II",
         "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 149666,
       "name": "Vamos Alla",
       "url": "https://open.spotify.com/track/4Ircf7uE0Jd5Zfg18iVUzy"
+    },
+    {
+      "added_at": "2024-03-25 13:06:06",
+      "album": {
+        "name": "Sandunguero II",
+        "url": "https://open.spotify.com/album/2pbDCeVQAIJuST1TGCbSET"
+      },
+      "artists": [
+        {
+          "name": "Blade Pacino",
+          "url": "https://open.spotify.com/artist/5dQr2trACfs9BpRReUUUEy"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/772PvX7M1q8cDvDX8RoqKy"
     }
   ],
   "unique_name": "Reggaeton: El Inicio",

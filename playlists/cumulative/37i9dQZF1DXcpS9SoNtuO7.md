@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-833 songs - 3 day 16 hr 5 min
+836 songs - 3 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [\#89 全ラインナップ解禁!!“リスアニ！LIVE 2026”徹底解説Part1／トゲナシトゲアリ、オーイシマサヨシのライブが最高だった件](https://open.spotify.com/episode/4flI2XTzngcNlu1ybV3jjW) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 44:19 | 2025-10-16 |  |
 | [\#90 鈴木このみ、Guilty Kiss,Saint Snowが初登場！“リスアニ！LIVE 2026”徹底解説Part2／来たる100回目にやりたいこと](https://open.spotify.com/episode/4rnGwCt6rRdU8PRV7BbsHC) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 44:22 | 2025-10-28 |  |
 | [\#91 バンプもスピッツも松崎しげるも歌う“アニソン”と“アニメ主題歌”の現在地／流行語大賞＆紅白歌合戦 勝手に大予想！](https://open.spotify.com/episode/4gbUwu9Aq2upMXqnnnf5TD) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 46:39 | 2025-11-18 |  |
+| [\#92 「ガンダム」「スーパー戦隊」と50年級の長寿シリーズについて本気出して考えてみた](https://open.spotify.com/episode/6oZgZplD1Wa9GeDSYTD234) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:55 | 2025-11-25 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 | 2025-01-27 |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |
@@ -698,6 +699,7 @@
 | [始まりは君の空](https://open.spotify.com/track/3MLmsSy2wq9Ko73GSDUwNM) | [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [始まりは君の空](https://open.spotify.com/album/2VSJLU9QyXK68Q2IDKcXd2) | 5:01 | 2024-11-20 | 2025-01-27 |
 | [孤壊牢](https://open.spotify.com/track/1wdCBeiYlPtjdNOcTwtYyQ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [跡暖空](https://open.spotify.com/album/2Tp2cADaq8iMC3HM6sgiQU) | 3:35 | 2025-01-27 | 2025-05-03 |
 | [学祭革命夜明け前](https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:52 | 2024-01-23 | 2024-01-28 |
+| [宇宙刑事ギャバン](https://open.spotify.com/track/11xIFKuigxvHOtUkffD5Ck) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [メタルヒーロー 主題歌・挿入歌大全集I](https://open.spotify.com/album/7acZy11uLq1OO8Gc1BzHOu) | 3:15 | 2025-11-25 |  |
 | [宇宙刑事ギャバン \(宇宙刑事ギャバン\)](https://open.spotify.com/track/4pg3vPhv1o9lWufzRZOoaB) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [熱烈!アニソン魂 THE ARTIST SELECTION 串田アキラ SELFCOVER COLLECTION](https://open.spotify.com/album/282JrsLMNYIJFYD7MTn8NH) | 3:13 | 2022-07-19 | 2023-01-28 |
 | [宇宙戦艦ヤマト](https://open.spotify.com/track/09pUxhVxAKmf6udCGaztw1) | [ANIMETAL](https://open.spotify.com/artist/1T35Bs8JTxdDOprE4fXf8W) | [DECADE OF BRAVEHEARTS](https://open.spotify.com/album/7nmCNxTqAq7c0YXuJ5Em38) | 4:09 | 2024-10-08 | 2025-01-27 |
 | [宵闇の唄](https://open.spotify.com/track/6OqNrNYe0G2UMyTTg5vtnN) | [Sound Horizon](https://open.spotify.com/artist/3QS5fal3V4CkbuDgsmpL7q) | [Märchen](https://open.spotify.com/album/3gCPamob9J1OxHTXpk5cnv) | 10:18 | 2022-12-07 | 2023-01-12 |
@@ -817,6 +819,7 @@
 | [鋼鉄ジーグのうた \(鋼鉄ジーグ\)](https://open.spotify.com/track/1gY7S1wWq4SJOgjrwGzqhO) | [Ichirou Mizuki](https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24) | [水木一郎 ベスト・オブ・アニキング \-赤の魂\-](https://open.spotify.com/album/4yOihsAdJibJGMZ6wtmtYL) | 3:06 | 2022-07-19 | 2023-01-12 |
 | [鎌倉STYLE](https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [鎌倉STYLE](https://open.spotify.com/album/0hJnHL8N0cRUKPSLeEWS6W) | 3:20 | 2024-09-11 | 2025-01-27 |
 | [鏡面の波](https://open.spotify.com/track/17pYAFEZjKZFU5PHiUMzqx) | [YURiKA](https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS) | [鏡面の波 \(アーティスト盤\)](https://open.spotify.com/album/3V8Bpey3tW9nImD6ylaP2V) | 4:25 | 2022-09-14 | 2023-01-28 |
+| [閃光](https://open.spotify.com/track/0msE3v0pQgGttnlZjrLzWj) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [But wait\. Cats?](https://open.spotify.com/album/28QMm7KGoHBclLAqrv5aIg) | 4:22 | 2025-11-25 |  |
 | [限界突破×サバイバー](https://open.spotify.com/track/7K0hzTjRC0PCWXkBJuWcRH) | [Kiyoshi Hikawa](https://open.spotify.com/artist/4ga8lGWWzgmXpWf9wRFmRR) | [限界突破×サバイバー](https://open.spotify.com/album/2W0ziDXUUQ3FLV54fR5Vtd) | 3:52 | 2025-10-06 |  |
 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-05-21 | 2025-01-27 |
 | [雨にキッスの花束を](https://open.spotify.com/track/4ydvnLC5X6YVibRcjp40j1) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [retour](https://open.spotify.com/album/4E81A7gM3qGwAK9cWFgWda) | 4:38 | 2022-07-05 | 2023-01-28 |

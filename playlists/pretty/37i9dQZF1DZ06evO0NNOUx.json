@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 168907,
+  "num_followers": 169111,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAAknZYUh2SM4C2YJFdx8+K4",
+  "snapshot_id": "aSOgAAAAAAAW5DC9jT2lSQrZzyWC/Gel",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Paid It All",
-        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 236765,
-      "name": "Jesus Paid It All (Worthy of The Price)",
-      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "slow down",
         "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 170521,
       "name": "slow down",
       "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Paid It All",
+        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 236765,
+      "name": "Jesus Paid It All (Worthy of The Price)",
+      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
     },
     {
       "added_at": null,
@@ -646,15 +646,11 @@
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 155067,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
+      "duration_ms": 201050,
+      "name": "Come Thou Font",
+      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
     },
     {
       "added_at": null,
@@ -722,11 +718,15 @@
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         }
       ],
-      "duration_ms": 201050,
-      "name": "Come Thou Font",
-      "url": "https://open.spotify.com/track/6iEBLpz1Lim2vyI5acpyRI"
+      "duration_ms": 155067,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
     },
     {
       "added_at": null,

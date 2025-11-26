@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47091,
+  "num_followers": 47094,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADJ3k9moO2L76TVTz66sGm+",
+  "snapshot_id": "aSOgAAAAAACNYKwqh9NmwPNlkl2V7DTl",
   "tracks": [
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "AN1MAL",
+      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUPERPOP",
         "url": "https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 172632,
       "name": "LA TIRITA",
       "url": "https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "AN1MAL",
-      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
     },
     {
       "added_at": null,
@@ -935,6 +935,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "ULTRAVIOLETA",
+      "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Autoestima (Feat. Lola Indigo, Alizzz) [Remix]",
         "url": "https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 207804,
       "name": "Autoestima (Feat. Lola Indigo, Alizzz) - Remix",
       "url": "https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "ULTRAVIOLETA",
-      "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
     },
     {
       "added_at": null,

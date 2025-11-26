@@ -36315,6 +36315,32 @@
     },
     {
       "album": {
+        "name": "Original Noise",
+        "url": "https://open.spotify.com/album/22j3ssyhw9IcEgWWWqtPtq"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        },
+        {
+          "name": "Panic",
+          "url": "https://open.spotify.com/artist/6UKH4iUhcq2EmANQtM8nDe"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197294,
+      "name": "Original Noise",
+      "url": "https://open.spotify.com/track/5TioeCyBuHcHDdxSlQX4Vi"
+    },
+    {
+      "album": {
         "name": "Unlimited Power",
         "url": "https://open.spotify.com/album/3yfSAWaQ8KdqaC7kaSug54"
       },

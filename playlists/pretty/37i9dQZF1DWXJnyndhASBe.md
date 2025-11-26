@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: schafter
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,629 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,582 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 13 | [NAWETT JAK](https://open.spotify.com/track/1jFjbuYdJ7U1RVzZ8GLnSx) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [NAWETT JAK](https://open.spotify.com/album/56aHZhK2Uf58bwZiiF7VmW) | 2:22 |
 | 14 | [BANDO](https://open.spotify.com/track/0pX96KpL3B6rWpe13AuWza) | [Sentino](https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0), [Beathoven](https://open.spotify.com/artist/0U8Id4RTrZggMdn3v6sz3k) | [BANDO](https://open.spotify.com/album/7cP6cEmRypLihrf127tHwM) | 2:31 |
 | 15 | [GGG FREESTYLE](https://open.spotify.com/track/6Who976rqdqGrdZWW7IPtr) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [GGG FREESTYLE](https://open.spotify.com/album/2oLqpPHrYCpKSDqVc79OpB) | 3:21 |
-| 16 | [ŻYRAFA](https://open.spotify.com/track/1VrsQYv5V3C6YQJtLilO1k) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo), [a1rocky](https://open.spotify.com/artist/0kIJFyQ1ZjGvhx8kOrfk61) | [ŻYRAFA](https://open.spotify.com/album/2MfDJ8O2N7gvvS5i1Ing4b) | 2:45 |
+| 16 | [ŻYRAFA](https://open.spotify.com/track/1VrsQYv5V3C6YQJtLilO1k) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo), [A1 Rocky](https://open.spotify.com/artist/0kIJFyQ1ZjGvhx8kOrfk61) | [ŻYRAFA](https://open.spotify.com/album/2MfDJ8O2N7gvvS5i1Ing4b) | 2:45 |
 | 17 | [BEZ NIKOGO OBOK](https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [3347](https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B) | 2:03 |
 | 18 | [Nie marudź](https://open.spotify.com/track/4NeRcdd2oOSveUK9UubvHT) | [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1) | [Nie marudź](https://open.spotify.com/album/6UXO2gM8ZfTXnEfPzXNmsO) | 2:40 |
 | 19 | [Nie bój się bać](https://open.spotify.com/track/0LvpebWbdZaeN4Izhk9yM3) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK), [Luxon](https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc) | [Nie bój się bać](https://open.spotify.com/album/3MGZ2sgslhF9py8bNpdkIN) | 3:36 |

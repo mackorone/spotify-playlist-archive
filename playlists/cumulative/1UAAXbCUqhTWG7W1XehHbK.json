@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Cat",
+        "url": "https://open.spotify.com/album/53NqTLQtljXFYJZlpgedwo"
+      },
+      "artists": [
+        {
+          "name": "Hz",
+          "url": "https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248209,
+      "name": "Cat",
+      "url": "https://open.spotify.com/track/3F13JAmJpksrb4b6Yn9afI"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY"
       },
@@ -702,6 +720,24 @@
       "duration_ms": 210777,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/34usNzrCgt3CAtpd4uCnLo"
+    },
+    {
+      "album": {
+        "name": "GYPSY GIRL",
+        "url": "https://open.spotify.com/album/4LwRyoHz6c7T5Hwj9f0lqS"
+      },
+      "artists": [
+        {
+          "name": "Jordan Owen",
+          "url": "https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193541,
+      "name": "GYPSY GIRL",
+      "url": "https://open.spotify.com/track/6QJgtgwOBQRAm3rXI0fQ4f"
     },
     {
       "album": {
@@ -2072,6 +2108,28 @@
       "duration_ms": 89956,
       "name": "The Open Door",
       "url": "https://open.spotify.com/track/6iXp9NrHztBXAkQ2EfKUAJ"
+    },
+    {
+      "album": {
+        "name": "L'ambigu\u00eft\u00e9",
+        "url": "https://open.spotify.com/album/6EgZJxDdJwYfEBdRYA9v2h"
+      },
+      "artists": [
+        {
+          "name": "no-ne",
+          "url": "https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy"
+        },
+        {
+          "name": "Pupille",
+          "url": "https://open.spotify.com/artist/0Dn2cJkN3xEZT0m5QP6MCI"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295773,
+      "name": "The same old caf\u00e9",
+      "url": "https://open.spotify.com/track/6iy0PiiR9SXohvgxYftqVN"
     },
     {
       "album": {

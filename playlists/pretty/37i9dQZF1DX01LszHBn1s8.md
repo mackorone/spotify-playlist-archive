@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > Julia you are an absolute ICON
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,978 likes - 137 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,943 likes - 137 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

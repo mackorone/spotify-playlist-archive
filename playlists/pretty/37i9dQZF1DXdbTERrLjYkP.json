@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Kerr Mercer",
-  "num_followers": 219234,
+  "num_followers": 219241,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGl8lJyGbex5Q664k6O4XKCv/R4n",
+  "snapshot_id": "AAAAAFL2hTBvBe3B1YrEzWjZv1c/uE0I",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:30",
@@ -87,6 +87,22 @@
       "duration_ms": 191764,
       "name": "How To Lose The Girl",
       "url": "https://open.spotify.com/track/3OxTk4NL6r8bAOxuSbYeSp"
+    },
+    {
+      "added_at": "2025-11-25 04:48:28",
+      "album": {
+        "name": "Television",
+        "url": "https://open.spotify.com/album/5GbCCEnNiwzRUxtyZie3CO"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3ise",
+          "url": "https://open.spotify.com/artist/7ANwWQmuhIV8KmIOoZFjqq"
+        }
+      ],
+      "duration_ms": 204672,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/257vYk90jZBxKvgW2ZZH0D"
     },
     {
       "added_at": "2025-11-21 05:00:30",
@@ -209,7 +225,7 @@
       "artists": [
         {
           "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/1VrFjz3WcDJdvGiayFeXdZ"
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
         }
       ],
       "duration_ms": 190476,
@@ -743,38 +759,6 @@
       "duration_ms": 233000,
       "name": "Powerful",
       "url": "https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7"
-    },
-    {
-      "added_at": "2025-08-29 04:00:40",
-      "album": {
-        "name": "First And Last",
-        "url": "https://open.spotify.com/album/6FPWvl23Upnc7vj5Sh0J2N"
-      },
-      "artists": [
-        {
-          "name": "Blair Davie",
-          "url": "https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x"
-        }
-      ],
-      "duration_ms": 178130,
-      "name": "First And Last",
-      "url": "https://open.spotify.com/track/031LyFUhBoUHMZfCIZNQns"
-    },
-    {
-      "added_at": "2025-08-22 04:00:26",
-      "album": {
-        "name": "Barking Dogs",
-        "url": "https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "Barking Dogs",
-      "url": "https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn"
     },
     {
       "added_at": "2025-07-25 04:00:58",

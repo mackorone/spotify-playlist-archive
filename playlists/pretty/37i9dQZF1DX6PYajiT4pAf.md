@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz, Bad Gyal, Tainy & Karol G, Ozuna & Beéle & Ovy On The Drums, Juseph & Quevedo y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,250 likes - 74 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,266 likes - 74 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 40 | [Burning The Town](https://open.spotify.com/track/2V7bx6AKPRLqOg6H2vtxj3) | [Chusterfield](https://open.spotify.com/artist/3m6N2XBSZqfkujRvGYcdi8), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk) | [Burning The Town](https://open.spotify.com/album/6vUYdoGT5njVp7n9Oo5CD8) | 3:13 |
 | 41 | [Las Cosas del Amor](https://open.spotify.com/track/1RlB7pY711lPw7mDJ67dEk) | [Shakira Martínez](https://open.spotify.com/artist/3RaPHdbOVsUjPFljce9rEz) | [Las Cosas del Amor](https://open.spotify.com/album/4TE5MLYbCux9QmOYRzGq1m) | 2:59 |
 | 42 | [ESTA RUMBITA PA' TI](https://open.spotify.com/track/5SDdcYqDNoqoVe5P4iILxW) | [Los Yakis](https://open.spotify.com/artist/0IeW4k5OZdeYhrqtILPrb1) | [ESTA RUMBITA PA' TI](https://open.spotify.com/album/6Rzo4OU73aEuNcre6Kvg2n) | 4:00 |
-| 43 | [NI EN LOS CAFES PARISINOS](https://open.spotify.com/track/4A7JQK6kfwXVT8dHOXdyL2) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Ni en los puertos italianos, ni en los cafés parisinos](https://open.spotify.com/album/7w1IsXVNmBEFSDTzx3vuE7) | 2:02 |
+| 43 | [NI EN LOS CAFÉS PARISINOS](https://open.spotify.com/track/4A7JQK6kfwXVT8dHOXdyL2) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Ni en los puertos italianos, ni en los cafés parisinos](https://open.spotify.com/album/7w1IsXVNmBEFSDTzx3vuE7) | 2:02 |
 | 44 | [Colibrí](https://open.spotify.com/track/4ihXAO7fbw75DqlVMrSQgq) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Puta Vida](https://open.spotify.com/album/78PAYzFmJnHiHRWOR4i1Bs) | 4:39 |
 | 45 | [Tiempos Raros](https://open.spotify.com/track/5eCCQYtrIigh6FAboG6ac0) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [Tiempos Raros](https://open.spotify.com/album/4U4tZdAU3vwRRYEHiWvC0X) | 3:58 |
 | 46 | [Cerrar los ojos](https://open.spotify.com/track/6we4xaVKPTV2NgRuyf839y) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [201](https://open.spotify.com/album/6V17fWLu2a57Qc5PyeLBSV) | 3:31 |

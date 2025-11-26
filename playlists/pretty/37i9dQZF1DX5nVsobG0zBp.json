@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Deejay Telio, Wet Bed Gang",
-  "num_followers": 80068,
+  "num_followers": 80095,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,26 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
+        "name": "Chakras",
+        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 196384,
+      "name": "Chakras",
+      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
         "name": "3,14",
         "url": "https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe"
       },
@@ -563,26 +583,6 @@
       "duration_ms": 324763,
       "name": "3,14",
       "url": "https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Chakras",
-        "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 196384,
-      "name": "Chakras",
-      "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 182362,
-      "name": "Galileu",
-      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Adora a bunda, odeia o rosto",
         "url": "https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto",
       "url": "https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/031weUuUvb1pPjah41hwyg"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "Galileu",
+      "url": "https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
         "name": "Picareta",
         "url": "https://open.spotify.com/album/15YD41R1flYldYjEQ7QAu3"
       },
@@ -1351,38 +1383,6 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
-      },
-      "artists": [
-        {
-          "name": "Kappa Jotta",
-          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
         "name": "Menino da Mam\u00e3",
         "url": "https://open.spotify.com/album/5lOZhbXTGbap6fbeqJhpDz"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 160015,
       "name": "Menino da Mam\u00e3",
       "url": "https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu"
+    },
+    {
+      "added_at": "2025-07-25 14:20:58",
+      "album": {
+        "name": "Estrela Maior",
+        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 265011,
+      "name": "Estrela Maior",
+      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
     },
     {
       "added_at": "2025-07-25 14:20:58",
@@ -1419,34 +1435,18 @@
     {
       "added_at": "2025-07-25 14:20:58",
       "album": {
-        "name": "Tropa do Madruga",
-        "url": "https://open.spotify.com/album/78PrWb2pWkarkKg1O8LFTY"
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
         }
       ],
-      "duration_ms": 180574,
-      "name": "Tropa do Madruga",
-      "url": "https://open.spotify.com/track/6UuUNiV7iYcUEoODAExbYS"
-    },
-    {
-      "added_at": "2025-07-25 14:20:58",
-      "album": {
-        "name": "Estrela Maior",
-        "url": "https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 265011,
-      "name": "Estrela Maior",
-      "url": "https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF"
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
     }
   ],
   "unique_name": "Rap Tuga Hits",

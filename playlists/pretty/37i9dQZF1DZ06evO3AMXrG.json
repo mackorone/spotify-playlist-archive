@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 245660,
+  "num_followers": 245672,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADL8LgcciCVqcM2zlf0ZFMu",
+  "snapshot_id": "aSOgAAAAAABbw5HJ99Buv6flg0H2ZasZ",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 287160,
-      "name": "Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuiste Cruel",
         "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 297738,
       "name": "Fuiste Cruel",
       "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 287160,
+      "name": "Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 280574,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 233333,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 280574,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/06opIfTLfPW24ridRJE3Fn"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le da Igual",
-        "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 249770,
-      "name": "Le da Igual",
-      "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrevolando",
         "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
       },
@@ -467,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+        "name": "Le da Igual",
+        "url": "https://open.spotify.com/album/2HDu1meEZDzEvSq8BZtRYs"
       },
       "artists": [
         {
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 371160,
-      "name": "Ideas Nuevas",
-      "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
+      "duration_ms": 249770,
+      "name": "Le da Igual",
+      "url": "https://open.spotify.com/track/30aOv2QHVEqm4PmDdJ6uvl"
     },
     {
       "added_at": null,
@@ -499,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 229150,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
+      "duration_ms": 371160,
+      "name": "Ideas Nuevas",
+      "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
     },
     {
       "added_at": null,
@@ -531,6 +511,26 @@
       "duration_ms": 259536,
       "name": "Despertador Solar",
       "url": "https://open.spotify.com/track/0wciFVroPzYjoCcJjKzp3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 229150,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
     },
     {
       "added_at": null,

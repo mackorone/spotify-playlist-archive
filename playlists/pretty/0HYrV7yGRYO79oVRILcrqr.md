@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,573 likes - 176 songs - 10 hr 57 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,577 likes - 180 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,5 +184,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 174 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 |
 | 175 | [Especial](https://open.spotify.com/track/7loutfpfEG6vueLszoVZ7S) | [ZETA fvd](https://open.spotify.com/artist/0CbWaaBJmzKzenlZcLgUk5) | [Especial](https://open.spotify.com/album/2ckbNjxdwiDfmRetZf6bUN) | 3:56 |
 | 176 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 |
+| 177 | [Artık](https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG) | [Aras Arslan](https://open.spotify.com/artist/6BKgIw6tXuCQM0UIs6yyEy) | [Artık](https://open.spotify.com/album/7FuyvKt1vQtehzmxiPDi4i) | 4:15 |
+| 178 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 |
+| 179 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 |
+| 180 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 |
 
-Snapshot ID: `AAAKA+PAsnsXCiqf8MkSb1/+a1YpkLjA`
+Snapshot ID: `AAAKB2Hr9aQbQVMfFB/a/wWREtV8092y`

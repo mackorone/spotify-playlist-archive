@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: CRYXIS",
+  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: Paledusk",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 190766,
       "name": "FACE THIS",
       "url": "https://open.spotify.com/track/7vD23tiUJBToi5HmbtbRm4"
@@ -4348,7 +4348,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 221333,
       "name": "PALEHELL",
       "url": "https://open.spotify.com/track/2uiYaLjZv8nRFzL0utxSBd"
@@ -6275,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/7H2G4gNAop4IEmLSJJP6L7"
+    },
+    {
+      "album": {
         "name": "TRAINWRECK (feat. vinny from Falling Asleep)",
         "url": "https://open.spotify.com/album/6oyVKEbKfCB2A6wfowachp"
       },
@@ -7718,7 +7736,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 251400,
       "name": "\u5bc2\u5bde -sekibaku-",
       "url": "https://open.spotify.com/track/2CTniBM95HMN060rKGccXW"

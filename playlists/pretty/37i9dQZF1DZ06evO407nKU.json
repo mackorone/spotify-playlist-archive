@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55713,
+  "num_followers": 55723,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADrt1MsaGfqcprYUtDExWz+",
+  "snapshot_id": "aSOgAAAAAABiGhdxy0oIbbTUmiZYTwIU",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 144791,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Juro Por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
       "added_at": null,
@@ -671,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 144791,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 129085,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 272939,
-      "name": "Voy A Pintar Mi Raya - En Vivo",
-      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 272939,
+      "name": "Voy A Pintar Mi Raya - En Vivo",
+      "url": "https://open.spotify.com/track/7L7xj3X9mFJmfmdaTyZm3K"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Carta Abierta - En Vivo",
-      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 131285,
       "name": "Siempre Trabajando",
       "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Carta Abierta - En Vivo",
+      "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Mi Sueno Seria",
+      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chica Traviesa",
         "url": "https://open.spotify.com/album/1oxBe1xqSV6sfevAmtc8Qt"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 142849,
       "name": "Misa De Cuerpo Presente",
       "url": "https://open.spotify.com/track/3bxCgdxcVwlUTiyu64tdyu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Mi Sueno Seria",
-      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
     },
     {
       "added_at": null,

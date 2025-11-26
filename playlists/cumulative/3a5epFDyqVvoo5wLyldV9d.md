@@ -4,7 +4,7 @@
 
 > 
 
-886 songs - 2 day 21 hr 31 min
+887 songs - 2 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,6 +710,7 @@
 | [Sodade](https://open.spotify.com/track/7xzMrUmlooPa1Fmp88hlYc) | [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Miss Perfumado](https://open.spotify.com/album/5JDeqzJVs53ZJT1KCjO6Jp) | 4:53 | 2019-12-12 |  |
 | [Solar Flares](https://open.spotify.com/track/2c4PAjYO0Ym9DB3iCGcM4I) | [Sven Libaek](https://open.spotify.com/artist/5mfMhhHDACKNJbXdrsbrm2) | [Barry 7's Connectors \- 21 Rare Library Tracks](https://open.spotify.com/album/6uyowSgnmd2zfkBw8g6ho2) | 3:31 | 2022-10-18 |  |
 | [Soleil Soleil](https://open.spotify.com/track/7c5LPjnFfNRWIhKGje5X5b) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 3:58 | 2020-04-12 |  |
+| [Soleil Soleil](https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 3:59 | 2025-11-25 |  |
 | [Son Montuno](https://open.spotify.com/track/7n8hYSBU0U7ZAy8cZdIiGU) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Acapulco](https://open.spotify.com/album/2s40kpu6uD0VownTOxAEuc) | 2:55 | 2024-11-12 |  |
 | [Song Of The Sleeping Forest](https://open.spotify.com/track/0zNnrjAohPi8ghYD3t5HIX) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 4:19 | 2022-02-28 |  |
 | [Sono pronto](https://open.spotify.com/track/5A9oF0HJJC8W63AjMGKzV5) | [Roberto Colombo](https://open.spotify.com/artist/3WBrljf7sExe9kbdahLAd5) | [Sfogatevi bestie](https://open.spotify.com/album/5RDyQvTa2C354c7tnj1iha) | 2:19 | 2023-04-03 |  |

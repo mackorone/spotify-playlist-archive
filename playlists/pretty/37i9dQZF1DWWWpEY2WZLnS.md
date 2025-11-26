@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Los éxitos del Dembow\. Portada: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,273 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,363 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 13 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 |
 | 14 | [Gatillero](https://open.spotify.com/track/6vlgqKBRTamlIKx0cauIwX) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 2:14 |
 | 15 | [Silla](https://open.spotify.com/track/4n3OzPpoNDyHKKu7AeMV5P) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Silla](https://open.spotify.com/album/3sHdenAQuCoDdST2VWiTJ7) | 2:21 |
-| 16 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
+| 16 | [Pretty Little Baby](https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Pretty Little Baby](https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K) | 2:11 |
 | 17 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
 | 18 | [Crazy Design \- Que Rica](https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Alofoke Music](https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Que Rica](https://open.spotify.com/album/7asfVYRPtTeyHzdBTVw133) | 1:55 |
 | 19 | [Maldición](https://open.spotify.com/track/6GkjBM5a2BPGYukETXcetc) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 1:50 |

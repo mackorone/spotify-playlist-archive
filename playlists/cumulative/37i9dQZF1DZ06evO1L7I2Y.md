@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 45 min
+66 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Malícia](https://open.spotify.com/track/492ipmTVC3GIoGJJ4s3ddd) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:56 | 2023-12-30 | 2024-04-10 |
 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 | 2023-12-30 | 2024-04-29 |
 | [Matemática](https://open.spotify.com/track/2BdeeOQKqKW7nsaZbr858b) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh) | 2:14 | 2024-04-29 |  |
-| [MEC](https://open.spotify.com/track/0vXztPiti2BXzryaC9YxqU) | [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [PG 400](https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz) | [PLASMA](https://open.spotify.com/album/6v535oNr1rj96cFrYGIiSL) | 2:54 | 2024-08-03 |  |
+| [MEC](https://open.spotify.com/track/0vXztPiti2BXzryaC9YxqU) | [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [PG 400](https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz) | [PLASMA](https://open.spotify.com/album/6v535oNr1rj96cFrYGIiSL) | 2:54 | 2024-08-03 | 2025-11-26 |
+| [MEC](https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0) | [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [PG 400](https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz) | [PLASMA](https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ) | 2:54 | 2025-11-26 |  |
 | [Metáfora](https://open.spotify.com/track/4TnLiCiAgtobVussVvGmW5) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Bom Mesmo é Estar Debaixo D'Água Deluxe](https://open.spotify.com/album/0jO0rVqH4aJkfl3bA6l3yk) | 5:01 | 2023-12-30 |  |
 | [Mo Parada](https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv) | 2:20 | 2025-08-17 |  |
 | [Mo Parada](https://open.spotify.com/track/2slnZo9tCJUEnIi5Db8f63) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Baby Chefe](https://open.spotify.com/album/4KW7mmQ6zVpqvPisTYE9jJ) | 2:20 | 2023-12-30 | 2025-08-17 |

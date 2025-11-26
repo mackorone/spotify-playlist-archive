@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159293,
+  "num_followers": 159304,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
-        "name": "Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
-      },
-      "artists": [
-        {
-          "name": "Knust",
-          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 142105,
-      "name": "Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
-    },
-    {
-      "added_at": "2025-11-14 03:03:05",
-      "album": {
         "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
         "url": "https://open.spotify.com/album/6wcmzpeqUN1xtD8FM7OzTw"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 248275,
       "name": "Da Ponte Pra C\u00e1 #1 (feat. Caslu, MC FAEL & NK da Grota)",
       "url": "https://open.spotify.com/track/5MSbZnRsSX8QIaGAmgVysb"
+    },
+    {
+      "added_at": "2025-11-14 03:03:05",
+      "album": {
+        "name": "Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc"
     }
   ],
   "unique_name": "Resenha na Praia",

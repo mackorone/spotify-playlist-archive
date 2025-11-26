@@ -2698,7 +2698,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 178098,
       "name": "Better Than Good To Me",
       "url": "https://open.spotify.com/track/6KHiP6Iizzni3mMhhustld"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 507893,
       "name": "Beyond The Veil - Live",
       "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
@@ -3640,7 +3640,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 415560,
       "name": "Call Him Up",
       "url": "https://open.spotify.com/track/0RlJdVpgOjyQ6AOtxP3b7y"
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 451133,
       "name": "Changed - Tramaine Treasury Album",
       "url": "https://open.spotify.com/track/69np0vEH8DIRlKZqSfnCBi"
@@ -4222,7 +4222,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 438960,
       "name": "Come On In the Room",
       "url": "https://open.spotify.com/track/0LfPC4pCvTJSvhgmc5lzhc"
@@ -4414,7 +4414,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 327742,
       "name": "Count Your Blessings",
       "url": "https://open.spotify.com/track/5y8apzJP1xF42QHMjSauvN"
@@ -6026,7 +6026,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 208864,
       "name": "Excellent",
       "url": "https://open.spotify.com/track/077yGhj0JCilTx1aNgoAE8"
@@ -8194,7 +8194,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 407946,
       "name": "God Is",
       "url": "https://open.spotify.com/track/78wYW2SI5MKVXw4zdqbceY"
@@ -8844,7 +8844,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 582200,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/5Q8kGGeUqVJMO6fm00qB57"
@@ -9578,7 +9578,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 283863,
       "name": "Hallelujah Salvation And Glory",
       "url": "https://open.spotify.com/track/24Fke8uiCaProihCQMSKpu"
@@ -9954,7 +9954,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 314240,
       "name": "He Has Done Marvelous Things",
       "url": "https://open.spotify.com/track/2RRX2qjCMKsoZ4zI3UNcQo"
@@ -10382,7 +10382,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 521200,
       "name": "He'll Take The Pain Away - Live",
       "url": "https://open.spotify.com/track/1QBu0WE5BNuKNNAjRC0YPh"
@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 352160,
       "name": "He's An On Time God",
       "url": "https://open.spotify.com/track/0FeRIc9264zC1Uo9PdZVf3"
@@ -10680,7 +10680,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 203538,
       "name": "Heal",
       "url": "https://open.spotify.com/track/7F8PxTQf6eTnpSKuZ7IDZU"
@@ -13034,7 +13034,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 401040,
       "name": "I Feel Like Going On",
       "url": "https://open.spotify.com/track/6rCVGZwhOWpxRJOejAGVQp"
@@ -13623,6 +13623,24 @@
     },
     {
       "album": {
+        "name": "Bishop Paul Morton - Let It Rain",
+        "url": "https://open.spotify.com/album/1qsnkRCuP9AQD4tKHordO0"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574080,
+      "name": "I Need Thee",
+      "url": "https://open.spotify.com/track/2MT3fci1FJbpjkCH5VEwzn"
+    },
+    {
+      "album": {
         "name": "We're Amazed (Live Worship At \"The Word\"), Vol. 2",
         "url": "https://open.spotify.com/album/5BwH6myV4UNSBnzsP4jsnf"
       },
@@ -13724,7 +13742,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 299083,
       "name": "I Need Your Glory",
       "url": "https://open.spotify.com/track/7AlrRxDhyVTGF9uusZXOiv"
@@ -13746,7 +13764,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 516866,
       "name": "I Never Lost My Praise (feat. Patrick Lundy & The Ministers of Music) - Live",
       "url": "https://open.spotify.com/track/1yqYkI2m0cdlPTGYuX1pfn"
@@ -14660,7 +14678,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 293545,
       "name": "I Win",
       "url": "https://open.spotify.com/track/30w9M5Ve4pi2944Szk15rQ"
@@ -15142,7 +15160,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 225813,
       "name": "I'm Healing",
       "url": "https://open.spotify.com/track/08yIgsKh2vJomzIHoVqHpN"
@@ -15308,7 +15326,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 291730,
       "name": "I'm Not God",
       "url": "https://open.spotify.com/track/5kkUWXxfOiLVGEFqLN95pA"
@@ -15492,7 +15510,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 317386,
       "name": "I'm Still Holding On",
       "url": "https://open.spotify.com/track/1hOW0QayVddE6EbPcReMtB"
@@ -15760,7 +15778,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 153320,
       "name": "If It Had Not Been For The Lord On My Side",
       "url": "https://open.spotify.com/track/2xroZZbIlZVmfSXUKO5Q95"
@@ -16368,7 +16386,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 371306,
       "name": "It Is For Me",
       "url": "https://open.spotify.com/track/0f184mRNMdjiNcVUe7EAqX"
@@ -17042,7 +17060,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 437026,
       "name": "Jesus Can Work it Out",
       "url": "https://open.spotify.com/track/6Qq3csxxJfrIUvrM92nLvd"
@@ -17848,7 +17866,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 403426,
       "name": "Joy",
       "url": "https://open.spotify.com/track/2hNFryDQo4b0HEmYA9HNo6"
@@ -21672,7 +21690,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 413655,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/2vUNNg9K4PAY5o3OBwGUVU"
@@ -23954,7 +23972,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 233182,
       "name": "Oh It Is Jesus",
       "url": "https://open.spotify.com/track/3nrJWABYvtb1NI1ZeJJHDp"
@@ -24858,7 +24876,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 290600,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/1pGfsKTVU8e7vcCeL2cln4"
@@ -24876,7 +24894,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 262544,
       "name": "Pass Me Not O Gentle Savior",
       "url": "https://open.spotify.com/track/0d9QvUDQ5yqilHak1uECQM"
@@ -24916,7 +24934,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 348600,
       "name": "Peace",
       "url": "https://open.spotify.com/track/551LfJ66LrA30ViGRTae0K"
@@ -25480,7 +25498,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 552760,
       "name": "Praise Is What I Do",
       "url": "https://open.spotify.com/track/3prZxvQe9PF1PKBZJM3L3u"
@@ -26030,7 +26048,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 411249,
       "name": "Psalms 34:1",
       "url": "https://open.spotify.com/track/6VcMI9jdsNeqTmEeTr8bYJ"
@@ -26250,7 +26268,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 302866,
       "name": "Rain On Us",
       "url": "https://open.spotify.com/track/1kKFZIMiyRKE6QlRjKRPXd"
@@ -26714,7 +26732,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 333075,
       "name": "Revelations 19:1",
       "url": "https://open.spotify.com/track/4pSUxkUKeWFyFNkzl7XoBU"
@@ -27082,7 +27100,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 208472,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/3aqTs1agcNKsBo6verQzus"
@@ -27306,7 +27324,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 202592,
       "name": "Satan, We\u2019re Gonna Tear Your Kingdom Down",
       "url": "https://open.spotify.com/track/5s5URjHYRVt5oyp2gdlB7h"
@@ -28814,7 +28832,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 238584,
       "name": "Souls Anchored",
       "url": "https://open.spotify.com/track/3RGLwFXRrRAyTQtIxNc3cQ"
@@ -28944,7 +28962,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 396813,
       "name": "Spirit Fall Down",
       "url": "https://open.spotify.com/track/0OVdFNxPWiUVArmrdMhnN0"
@@ -30508,7 +30526,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 355160,
       "name": "That's When You Bless Me",
       "url": "https://open.spotify.com/track/43z3IaGb4LrPnhhUCtKjIE"
@@ -31156,7 +31174,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 145853,
       "name": "The Judgement",
       "url": "https://open.spotify.com/track/6u2HvpK74ogsle5BsOb0d3"
@@ -33772,7 +33790,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 225192,
       "name": "Wait (Radio Edit)",
       "url": "https://open.spotify.com/track/3uiHj1PHzUYA80Ow2bwgqx"
@@ -33844,7 +33862,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "Walk Around Heaven",
       "url": "https://open.spotify.com/track/7B1LrZdR9ZimfGz1ciubJK"
@@ -33862,7 +33880,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 237866,
       "name": "Walk in the Light",
       "url": "https://open.spotify.com/track/3YGQz37biNNb8ZTGQnJlZ6"
@@ -34132,7 +34150,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 313079,
       "name": "We Must Praise",
       "url": "https://open.spotify.com/track/6w8JpeYkgzn4nBUfxnXey2"
@@ -34396,7 +34414,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 185439,
       "name": "Weak",
       "url": "https://open.spotify.com/track/77Ozvyd5Hb2JelgPAefv5I"
@@ -34650,7 +34668,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 392733,
       "name": "When God Is In The Building",
       "url": "https://open.spotify.com/track/3FKPnYuJED1V3bBsadSnT0"
@@ -35130,7 +35148,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 319621,
       "name": "Why Not Me",
       "url": "https://open.spotify.com/track/0SQOpNgJOwJWv29nseRsLV"
@@ -35318,7 +35336,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 365946,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4hBzaEsph2yHh8IuRNPYaS"
@@ -35582,7 +35600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 589333,
       "name": "Yes",
       "url": "https://open.spotify.com/track/51lmYqMkkftoTHyxgQlchW"

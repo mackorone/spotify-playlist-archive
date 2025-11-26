@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 47955,
+  "num_followers": 47962,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -1125,6 +1125,26 @@
       "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
     },
     {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "Pleasures Of The Night",
+        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+    },
+    {
       "added_at": "2019-10-02 08:54:10",
       "album": {
         "name": "Sonny Side Up",
@@ -1147,26 +1167,6 @@
       "duration_ms": 340960,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Pleasures Of The Night",
-        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        },
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
     },
     {
       "added_at": "2019-10-04 16:01:14",

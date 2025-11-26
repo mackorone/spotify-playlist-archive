@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-340 songs - 17 hr 26 min
+341 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [Wings of Love](https://open.spotify.com/track/6hX7jWtKl6nulPqWjClCFC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:25 | 2023-12-30 |  |
 | [Wrap Around Joy](https://open.spotify.com/track/3L3ZUhdMlW2qWVZEJRW7Ri) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 2:56 | 2023-12-30 |  |
 | [You Bet I Would](https://open.spotify.com/track/6ZOHEv3K3EaiMpoDpco9fh) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [The 25 Best Songs](https://open.spotify.com/album/4nLdVXsSnT6P9hCZ81rpIq) | 2:09 | 2023-12-30 | 2025-08-21 |
-| [You Bet I Would](https://open.spotify.com/track/1sXMxBBrnr7rUZLRORbvjY) | [The Ronettes with Orchestra](https://open.spotify.com/artist/3Y9sFyIolZQ5S9kMTcdX0U) | [Silhouettes](https://open.spotify.com/album/2dgWWWSGXZxAIOY61b6czr) | 2:07 | 2025-08-20 |  |
+| [You Bet I Would](https://open.spotify.com/track/3zf7h56EgKQsJTGPFdKXaJ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [What's So Sweet About Sweet Sixteen](https://open.spotify.com/album/70DWBXTHhuVDYYU3pXvFKZ) | 2:12 | 2025-11-25 |  |
+| [You Bet I Would](https://open.spotify.com/track/1sXMxBBrnr7rUZLRORbvjY) | [The Ronettes with Orchestra](https://open.spotify.com/artist/3Y9sFyIolZQ5S9kMTcdX0U) | [Silhouettes](https://open.spotify.com/album/2dgWWWSGXZxAIOY61b6czr) | 2:07 | 2025-08-20 | 2025-11-26 |
 | [You Gentle Me](https://open.spotify.com/track/0lFkZ2hBMSguq0EgM2y9Ia) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:46 | 2025-01-15 |  |
 | [You Go Your Way, I'll Go Mine](https://open.spotify.com/track/3H62Xhas83DoIXeSMqV26y) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:32 | 2023-12-30 |  |
 | [You Light Up My Life](https://open.spotify.com/track/10qVTksSWVtwvJVUa0iD7e) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Release Me 2](https://open.spotify.com/album/5Ele2n7DDMGy8S4CSZCykm) | 3:38 | 2023-12-30 |  |

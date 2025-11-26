@@ -4,7 +4,7 @@
 
 > The sound of Afrobeats echoing around the world\. Cover:  Ludmilla 🇧🇷
 
-97 songs - 4 hr 52 min
+98 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [cc like that](https://open.spotify.com/track/09ydXiKINm4pPtPaCaEOYy) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [cc like that](https://open.spotify.com/album/5G77D202zIyLOgW2eZBFOR) | 2:44 | 2025-10-10 | 2025-11-11 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 |  |
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-10-10 |  |
+| [CHELLA CHANT](https://open.spotify.com/track/4Fhs0L0XHoA10GZ1rir1hc) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/4YkjACbUDJI9ILLW5tvPnO) | 2:32 | 2025-11-14 |  |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2025-10-10 |  |
 | [COMMAS](https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [COMMAS](https://open.spotify.com/album/1CakmnCXgQWuCsIQhDVQB1) | 2:52 | 2025-11-07 |  |
 | [Deja Vu](https://open.spotify.com/track/5in7MKE9ib6xIHt7P7018g) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [AFROROCKSTAR](https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG) | 2:56 | 2025-10-10 |  |
@@ -66,7 +67,7 @@
 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 | 2025-11-14 |  |
 | [NO HAY BREAK \(feat\. Omah Lay\)](https://open.spotify.com/track/3SidxlqZdO4wtPvrTaDBin) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:06 | 2025-10-10 | 2025-10-23 |
 | [no tiene sentido](https://open.spotify.com/track/6dbh2fgGhV5s8rxSOOsEMv) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [no tiene sentido](https://open.spotify.com/album/549VeZDyT6kh7vxHNDHffI) | 2:38 | 2025-10-10 |  |
-| [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 | 2025-10-10 |  |
+| [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 | 2025-10-10 | 2025-11-26 |
 | [NWANGOLO](https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau) | [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ), [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [NWANGOLO](https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9) | 2:31 | 2025-10-10 | 2025-11-07 |
 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2025-10-10 |  |
 | [On a Kentro \(feat\. L.A.X\)](https://open.spotify.com/track/2Cz1ppqlF9Ozk1UgumS7Oc) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:41 | 2025-10-10 | 2025-11-24 |

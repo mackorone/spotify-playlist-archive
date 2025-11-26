@@ -47,22 +47,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Anthology 4",
-        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Real Love (2025 Mix)",
-      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 314071,
       "name": "Last Legal Drug",
       "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Anthology 4",
+        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Real Love (2025 Mix)",
+      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -123,6 +123,46 @@
       "duration_ms": 316413,
       "name": "Higher Power - Bonus Track",
       "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Spirit of Olympus",
+        "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Motion",
+          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
+        },
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 64210,
+      "name": "Spirit of Olympus",
+      "url": "https://open.spotify.com/track/5yWDFkXqQ4p1fxdz8fh6AT"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Black Honey (Lofi)",
+        "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        }
+      ],
+      "duration_ms": 168374,
+      "name": "Black Honey (Lofi)",
+      "url": "https://open.spotify.com/track/5h3f49CfqkeoQ66SAont2y"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -219,46 +259,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Spirit of Olympus",
-        "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Motion",
-          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
-        },
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 64210,
-      "name": "Spirit of Olympus",
-      "url": "https://open.spotify.com/track/5yWDFkXqQ4p1fxdz8fh6AT"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Black Honey (Lofi)",
-        "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        },
-        {
-          "name": "Less Gravity",
-          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
-        }
-      ],
-      "duration_ms": 168374,
-      "name": "Black Honey (Lofi)",
-      "url": "https://open.spotify.com/track/5h3f49CfqkeoQ66SAont2y"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Recollections",
         "url": "https://open.spotify.com/album/69uCpLoN3IHze3a80Q2lZu"
       },
@@ -295,22 +295,26 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "La Vasectom\u00eda",
-        "url": "https://open.spotify.com/album/4zOB6IGY8BqAbGqSbMEE1V"
+        "name": "MI A\u00d1O G\u00d3TICO",
+        "url": "https://open.spotify.com/album/5npzqycxX70BQyBA0cWs4E"
       },
       "artists": [
         {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         },
         {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        },
+        {
+          "name": "Ale Sergi",
+          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
         }
       ],
-      "duration_ms": 239587,
-      "name": "La Vasectom\u00eda",
-      "url": "https://open.spotify.com/track/24rV77RfxWuaLQQxMtSbb8"
+      "duration_ms": 177825,
+      "name": "Santo Domingo",
+      "url": "https://open.spotify.com/track/3dGFLMTw4RLDMHYTsLhyMZ"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -355,42 +359,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "MI A\u00d1O G\u00d3TICO",
-        "url": "https://open.spotify.com/album/5npzqycxX70BQyBA0cWs4E"
+        "name": "La Vasectom\u00eda",
+        "url": "https://open.spotify.com/album/4zOB6IGY8BqAbGqSbMEE1V"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
         },
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        },
-        {
-          "name": "Ale Sergi",
-          "url": "https://open.spotify.com/artist/6oKLWbs4OqvmeXnREk0flZ"
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
         }
       ],
-      "duration_ms": 177825,
-      "name": "Santo Domingo",
-      "url": "https://open.spotify.com/track/3dGFLMTw4RLDMHYTsLhyMZ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Fairytale of New York",
-        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 194153,
-      "name": "Fairytale of New York",
-      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
+      "duration_ms": 239587,
+      "name": "La Vasectom\u00eda",
+      "url": "https://open.spotify.com/track/24rV77RfxWuaLQQxMtSbb8"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -419,6 +403,22 @@
       "duration_ms": 150726,
       "name": "SICK SICK SICK",
       "url": "https://open.spotify.com/track/7gQOCzvF4Yeej974BIwmGa"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 194153,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Black And Blue (2025 Mix)",
-        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 268500,
-      "name": "Hand Of Fate - 2025 Mix",
-      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
+      "duration_ms": 144807,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/7nPnPhFc33i7IqDnwsbqpE"
+        "name": "Black And Blue (2025 Mix)",
+        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
       },
       "artists": [
         {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 144807,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3pnfUFrTc8i1hpsORDbx1T"
+      "duration_ms": 268500,
+      "name": "Hand Of Fate - 2025 Mix",
+      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "A World Without Heroes",
-        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
-      },
-      "artists": [
-        {
-          "name": "Katatonia",
-          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
-        }
-      ],
-      "duration_ms": 166040,
-      "name": "A World Without Heroes",
-      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Bold As Love",
         "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 184680,
       "name": "Castles Made of Sand - Backwards Guitar",
       "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "A World Without Heroes",
+        "url": "https://open.spotify.com/album/2xtkmBmtF01sbu1vTpM4y4"
+      },
+      "artists": [
+        {
+          "name": "Katatonia",
+          "url": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+        }
+      ],
+      "duration_ms": 166040,
+      "name": "A World Without Heroes",
+      "url": "https://open.spotify.com/track/0kHAefyoCG9uauaDPVKfdI"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 216646,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
         "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 203564,
       "name": "Ramblin' Round - Take 2",
       "url": "https://open.spotify.com/track/519EkVJxIYpOQSOOk7uCQf"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "The Life of a Showgirl + Acoustic Collection",
+        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247268,
+      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Psycho Killer (The Cube Guys Remix)",
         "url": "https://open.spotify.com/album/10L4h7qD5ddFWr47SjTu3i"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 181693,
       "name": "Psycho Killer - The Cube Guys Remix Radio Edit",
       "url": "https://open.spotify.com/track/190TqRrcEJsodhL7MukpEF"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "The Life of a Showgirl + Acoustic Collection",
-        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 247268,
-      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
-      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Live In Berlin 1985 (Remastered 2025, Live)",
-        "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 217064,
-      "name": "Living In The Past - Remastered 2025, Live",
-      "url": "https://open.spotify.com/track/0bqJr3fbc3heNaOcrE8aBt"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Let The Music Play",
         "url": "https://open.spotify.com/album/4uVdzfutRln6f7iDMys66B"
       },
@@ -1039,6 +1023,42 @@
       "duration_ms": 404109,
       "name": "Let The Music Play",
       "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Live In Berlin 1985 (Remastered 2025, Live)",
+        "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
+      },
+      "artists": [
+        {
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+        }
+      ],
+      "duration_ms": 363071,
+      "name": "Double Violin Concerto by Johann Sebastian Bach - Remastered 2025, Live",
+      "url": "https://open.spotify.com/track/5SU6xKllgmZtcCSk6mtSkV"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Estrellitas y Duendes Feat. Sting",
+        "url": "https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "Estrellitas y Duendes Feat. Sting",
+      "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1079,26 +1099,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Estrellitas y Duendes Feat. Sting",
-        "url": "https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Estrellitas y Duendes Feat. Sting",
-      "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Inti-Illimani & Valent\u00edn Trujillo",
         "url": "https://open.spotify.com/album/5Udqgm9BEQMWfQexQuqoge"
       },
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/7I8FuaYK2jlPwCuUVnbqiJ"
         }
       ],
-      "duration_ms": 241653,
-      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido (feat. Valent\u00edn Trujillo)",
-      "url": "https://open.spotify.com/track/48DhUdeoUG7gT6ZXiHYk8K"
+      "duration_ms": 256420,
+      "name": "El Arado (feat. Valent\u00edn Trujillo)",
+      "url": "https://open.spotify.com/track/6ohzciQaI2uLv5jqzF2cGD"
     },
     {
       "added_at": "2025-11-21 03:00:00",

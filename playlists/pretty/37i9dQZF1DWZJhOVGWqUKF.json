@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Aerosmith, YUNGBLUD",
-  "num_followers": 342120,
+  "num_followers": 342086,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
-        "name": "Idols",
-        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
         "name": "In the Name of the Father",
         "url": "https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 227156,
       "name": "In the Name of the Father",
       "url": "https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
-        "name": "no cell phones in rehab",
-        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 155470,
-      "name": "no cell phones in rehab",
-      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 211262,
       "name": "Don't Wanna Go Home Tonight",
       "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
+        "name": "no cell phones in rehab",
+        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 155470,
+      "name": "no cell phones in rehab",
+      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
         "name": "MAD (feat. Ice Nine Kills)",
         "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
         "name": "Hole In The Ground",
         "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 224532,
       "name": "Hole In The Ground",
       "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 271515,
       "name": "Don't Tell Me (feat. Ann Wilson)",
       "url": "https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 199617,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -1343,38 +1327,6 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
-        "name": "Make Me A Martyr",
-        "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Make Me A Martyr",
-      "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
         "name": "The Surface (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM"
       },
@@ -1391,6 +1343,38 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
         "name": "What Lies Within",
         "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 306418,
       "name": "What Lies Within",
       "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
+        "name": "Make Me A Martyr",
+        "url": "https://open.spotify.com/album/4EJd4T4OTp8P0YPjW2h569"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Make Me A Martyr",
+      "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
-        "name": "Hello Heaven, Hello",
-        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 546385,
-      "name": "Hello Heaven, Hello",
-      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
         "name": "Evergreen Misery",
         "url": "https://open.spotify.com/album/7yx5tiwwshhYl89XD3cnvU"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 198349,
       "name": "Evergreen Misery",
       "url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
+        "name": "Hello Heaven, Hello",
+        "url": "https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 546385,
+      "name": "Hello Heaven, Hello",
+      "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
         "name": "Annihilate Me",
         "url": "https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc"
       },
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2025-11-20 23:00:35",
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
         "name": "Freundschaft Plus",
         "url": "https://open.spotify.com/album/0PEQUwOq0DPdfpaWATYT30"
       },
@@ -1607,22 +1607,6 @@
       "duration_ms": 214760,
       "name": "Unicorns",
       "url": "https://open.spotify.com/track/3cBCU1mQ4cLrqV3gnatmnu"
-    },
-    {
-      "added_at": "2025-11-20 23:00:35",
-      "album": {
-        "name": "Punks And Demons",
-        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "Punks And Demons",
-      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
     },
     {
       "added_at": "2025-11-20 23:00:35",
@@ -1663,6 +1647,22 @@
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
+    },
+    {
+      "added_at": "2025-11-20 23:00:35",
+      "album": {
+        "name": "Punks And Demons",
+        "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 157106,
+      "name": "Punks And Demons",
+      "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
     },
     {
       "added_at": "2025-11-20 23:00:35",

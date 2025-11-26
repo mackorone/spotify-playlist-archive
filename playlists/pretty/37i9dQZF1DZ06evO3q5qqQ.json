@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 116457,
+  "num_followers": 116473,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADD6rpjuhoS3vc2aJI5si0j",
+  "snapshot_id": "aSOgAAAAAADvdBihrbjr9tlQkSUBIaG3",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novedad",
-        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "La Novedad",
-      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sera y El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 177000,
       "name": "El Sera y El Chavo (En Vivo)",
       "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
     },
     {
       "added_at": null,
@@ -471,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El R\u00e1pido (En vivo)",
-        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
-      },
-      "artists": [
-        {
-          "name": "Gordo Arce",
-          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "KC Music",
-          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
-        }
-      ],
-      "duration_ms": 208405,
-      "name": "El R\u00e1pido - En vivo",
-      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -519,6 +495,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "El R\u00e1pido (En vivo)",
+        "url": "https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef"
+      },
+      "artists": [
+        {
+          "name": "Gordo Arce",
+          "url": "https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "KC Music",
+          "url": "https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0"
+        }
+      ],
+      "duration_ms": 208405,
+      "name": "El R\u00e1pido - En vivo",
+      "url": "https://open.spotify.com/track/130anijBVOTasF32ZHwuJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Tiempos De Aguas",
         "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 171989,
       "name": "El Bolas",
       "url": "https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pato Nada",
-        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Jando Cartagena",
-          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
-        }
-      ],
-      "duration_ms": 164989,
-      "name": "El Pato Nada",
-      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
     },
     {
       "added_at": null,
@@ -571,6 +551,26 @@
       "duration_ms": 176400,
       "name": "Ah\u00ed Quede",
       "url": "https://open.spotify.com/track/0pcvJQf5xsC4aOu6MKCFKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pato Nada",
+        "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Jando Cartagena",
+          "url": "https://open.spotify.com/artist/6I3I66EA15ZPlwE4GHsdRW"
+        }
+      ],
+      "duration_ms": 164989,
+      "name": "El Pato Nada",
+      "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 175673,
-      "name": "El Chapio",
-      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Amor No Es Para Todos",
         "url": "https://open.spotify.com/album/0APtA8s9HseAH0sbWEHMES"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 142341,
       "name": "El Amor No Es Para Todos",
       "url": "https://open.spotify.com/track/1BXBnjxEZOnKXbWWTVFvcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 175673,
+      "name": "El Chapio",
+      "url": "https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La De Rogar",
-        "url": "https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "La De Rogar",
-      "url": "https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Playa",
         "url": "https://open.spotify.com/album/6w6RCUcKd1oiSK6eE2TBY1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226208,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/7qi4z99o4xMAYhcVOZrfDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155483,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf"
     },
     {
       "added_at": null,

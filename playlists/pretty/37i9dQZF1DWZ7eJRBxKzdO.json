@@ -1,6 +1,6 @@
 {
   "description": "the summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 1899912,
+  "num_followers": 1899757,
   "original_name": "Summer Dance Hits 2025",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -376,12 +376,12 @@
           "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Eliza Doolittle",
-          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
-        },
-        {
           "name": "Rivo",
           "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
         }
       ],
       "duration_ms": 208524,
@@ -959,6 +959,30 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Think About Us",
+        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 178148,
+      "name": "Think About Us",
+      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
         "url": "https://open.spotify.com/album/4btj2RrBqE3GZ2azpFrWuo"
       },
@@ -1007,30 +1031,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Think About Us",
-        "url": "https://open.spotify.com/album/1jmVSpWhzD8vciWg2Qtd5V"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 178148,
-      "name": "Think About Us",
-      "url": "https://open.spotify.com/track/0lRnxwJeUOxwEvWMw4uQKj"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "10:35",
         "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
       },
@@ -1047,6 +1047,34 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1083,50 +1111,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Deep Down (feat. Never Dull)",
-        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Deep Down (feat. Never Dull)",
-      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "The Glen (Levi Heron Edit)",
-        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
-      },
-      "artists": [
-        {
-          "name": "Levi Heron",
-          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "The Glen - Levi Heron Edit",
-      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/5B6cE705BTRvviiO1p4m0o"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 188360,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/1bE98D49uKNetOyLiaB8tG"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "The Glen (Levi Heron Edit)",
+        "url": "https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h"
+      },
+      "artists": [
+        {
+          "name": "Levi Heron",
+          "url": "https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "The Glen - Levi Heron Edit",
+      "url": "https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        }
-      ],
-      "duration_ms": 200156,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
+      },
+      "artists": [
+        {
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 219087,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "A Gira",
-        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
-      },
-      "artists": [
-        {
-          "name": "unfazed",
-          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
-        }
-      ],
-      "duration_ms": 152325,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 219556,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "A Gira",
+        "url": "https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "duration_ms": 152325,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 175327,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 199804,
       "name": "MAD",
       "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 175327,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "A Fire Inside Of Me",
-        "url": "https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu"
-      },
-      "artists": [
-        {
-          "name": "Lucas Dekker",
-          "url": "https://open.spotify.com/artist/2FppznzSJ4gkN86gxuNeIF"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "A Fire Inside Of Me",
-      "url": "https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "Back It Up",
         "url": "https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 156398,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "A Fire Inside Of Me",
+        "url": "https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu"
+      },
+      "artists": [
+        {
+          "name": "Lucas Dekker",
+          "url": "https://open.spotify.com/artist/2FppznzSJ4gkN86gxuNeIF"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "A Fire Inside Of Me",
+      "url": "https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -2259,26 +2259,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -2299,6 +2279,26 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-11-21 05:00:29",
@@ -2359,26 +2359,6 @@
     {
       "added_at": "2025-11-21 05:00:29",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Ragie Ban",
-          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
-        }
-      ],
-      "duration_ms": 164244,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "added_at": "2025-11-21 05:00:29",
-      "album": {
         "name": "The Spark",
         "url": "https://open.spotify.com/album/6xNvkXuK0QL7vr9wEsCREW"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 146384,
       "name": "The Spark",
       "url": "https://open.spotify.com/track/0bhnFakmRioZbuQcmhVwoH"
+    },
+    {
+      "added_at": "2025-11-21 05:00:29",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Ragie Ban",
+          "url": "https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL"
+        }
+      ],
+      "duration_ms": 164244,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
     },
     {
       "added_at": "2025-11-21 05:00:29",

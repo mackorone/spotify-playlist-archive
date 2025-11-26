@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304 likes - 274 songs - 17 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305 likes - 274 songs - 17 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 199 | [It's Easy \- Chelsea Recording](https://open.spotify.com/track/0dZF6Q7gdoOrqEe8aX5FMl) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 2:12 |
 | 200 | [Here Today And Gone Tomorrow](https://open.spotify.com/track/3VhRBjTaTlXV3norSAQLj9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:51 |
 | 201 | [Let It Be Me](https://open.spotify.com/track/444Nvdxvyd7UeOC3ekJKzv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:33 |
-| 202 | [The Way It Is \- Chelsea Recording](https://open.spotify.com/track/3u3AYaWoSiQ7lyj2OeBWek) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:28 |
-| 203 | [Forever Damaged \(The 96th\)](https://open.spotify.com/track/2SzUQcSTofXKwaq4100uGG) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [Jesus Wept](https://open.spotify.com/album/09d5OoQQetCjwuipA2QIic) | 3:09 |
+| 202 | [Forever Damaged \(The 96th\)](https://open.spotify.com/track/2SzUQcSTofXKwaq4100uGG) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [Jesus Wept](https://open.spotify.com/album/09d5OoQQetCjwuipA2QIic) | 3:09 |
+| 203 | [The Way It Is \- Chelsea Recording](https://open.spotify.com/track/3u3AYaWoSiQ7lyj2OeBWek) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 3:28 |
 | 204 | [What Will You Give Me](https://open.spotify.com/track/2LYcyBHCGF3j3M7scu62Ad) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:49 |
 | 205 | [Just Like Me](https://open.spotify.com/track/6w8MtKbjutqgN5zjPD5Gl2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:40 |
 | 206 | [The Student Song](https://open.spotify.com/track/44tTsnwpY972SzynaUQqhL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 2:36 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 273 | [Midnight Cowboy](https://open.spotify.com/track/37rtveWHuJvgD28kOHeTmW) | [Donal Leace](https://open.spotify.com/artist/2TqyblZk2JprtUzKK6MYAP) | [Donal Leace](https://open.spotify.com/album/6Z0ifJ8uTRXi7j92dFnxnz) | 4:07 |
 | 274 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AcCeaAAAAACKj1f4ZntNtvEjrBgQ4Dog`
+Snapshot ID: `AcCj9AAAAAA7S+Kvt3Nx4lf260VLUQic`

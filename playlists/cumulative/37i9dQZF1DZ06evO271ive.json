@@ -289,6 +289,28 @@
     },
     {
       "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155291,
+      "name": "Born By the River",
+      "url": "https://open.spotify.com/track/1dR964asWRagIvbk5FsJqc"
+    },
+    {
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -706,7 +728,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 149958,
       "name": "Female Gucci Mane",
       "url": "https://open.spotify.com/track/5jMCvfuGCvNXrUqr8FRgb8"

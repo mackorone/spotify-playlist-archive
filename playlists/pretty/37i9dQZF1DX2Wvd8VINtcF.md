@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Raghd ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,665 likes - 278 songs - 15 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,700 likes - 278 songs - 15 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

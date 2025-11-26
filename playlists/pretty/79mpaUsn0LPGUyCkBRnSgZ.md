@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 613 songs - 1 day 16 hr 5 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 614 songs - 1 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -621,5 +621,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 611 | [Agnus Dei](https://open.spotify.com/track/22iFfneMU95dpTN8g0y1Rb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/3xxkjx6Hgl8sWpNfuqhHtD) | 5:33 |
 | 612 | [Fine Line](https://open.spotify.com/track/4PyGMMfh9MiiFOPVyAikar) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Chaos And Creation In The Backyard](https://open.spotify.com/album/0XcNHzWiVE1RAQrQ4tvtOZ) | 3:05 |
 | 613 | [Gone Under Sea](https://open.spotify.com/track/0s2fkGnkRf7uWaRiK4TrnW) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:12 |
+| 614 | [You Are a Runner and I Am My Father's Son](https://open.spotify.com/track/6ZwdMyNfYEejW0ADt7pZy8) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 2:54 |
 
-Snapshot ID: `AAAIFP4s4/ua8vqsZw2rPApwFb8Nt7Ls`
+Snapshot ID: `AAAIFXP7QNfenZLc8ZCsf5tyK6cxG2As`

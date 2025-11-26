@@ -23703,6 +23703,24 @@
     },
     {
       "album": {
+        "name": "Sodium Light",
+        "url": "https://open.spotify.com/album/4dv5BXCczbIXYggQzKETcG"
+      },
+      "artists": [
+        {
+          "name": "Pale Fiction",
+          "url": "https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125142,
+      "name": "Sodium Light",
+      "url": "https://open.spotify.com/track/2skEJr6oMupZY7oZJJqF8N"
+    },
+    {
+      "album": {
         "name": "SoFi",
         "url": "https://open.spotify.com/album/6XNEjT7GPdFp6QhgpJy4w6"
       },
@@ -25134,6 +25152,24 @@
       "duration_ms": 140751,
       "name": "Sunday Stroller",
       "url": "https://open.spotify.com/track/1SYlHEWr5qbtIHZMZnMbi5"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/5SfF1luK89kcjD3TvNJv3G"
+      },
+      "artists": [
+        {
+          "name": "Billy Bass",
+          "url": "https://open.spotify.com/artist/2yp0SXzKw2QwxY1btRjUS6"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120176,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7cyRcqDorziVOShnNrypwU"
     },
     {
       "album": {
@@ -27068,7 +27104,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 128371,
       "name": "thrift shoppin",
       "url": "https://open.spotify.com/track/1jcUoFAF6SrzRx3voj4xu5"
@@ -28394,7 +28430,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 126857,
       "name": "vinyl",
       "url": "https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM"

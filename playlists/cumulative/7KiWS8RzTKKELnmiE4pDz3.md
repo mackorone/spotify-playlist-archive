@@ -4,7 +4,7 @@
 
 > 
 
-1,228 songs - 2 day 15 hr 26 min
+1,229 songs - 2 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -826,6 +826,7 @@
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-06-01 |  |
 | [Photo Copied](https://open.spotify.com/track/4Fi7fihVNkHPfBZ7KeSXVH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:52 | 2023-03-01 | 2023-04-12 |
 | [Pissed Off](https://open.spotify.com/track/3oFiO1MyubceRw2OheuKwJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:39 | 2023-12-10 | 2024-03-05 |
+| [Planet Out](https://open.spotify.com/track/3LYhKn0mORzxYVxG7AEb6s) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Planet Out](https://open.spotify.com/album/1BV3D7YkvdKchSLAeFF4i9) | 2:22 | 2025-11-26 |  |
 | [Planet Shrooms](https://open.spotify.com/track/16OlG0GeSYrJZQpDd16i79) | [Woodie Smalls](https://open.spotify.com/artist/1ng2cH6hJIOSYxQMk6pEux) | [Planet Shrooms](https://open.spotify.com/album/41eV1FPjtPTSVKyb3n4dAP) | 3:24 | 2025-03-06 |  |
 | [Plastic](https://open.spotify.com/track/1D0FXktMId8ocFISiXoGNG) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Flawless](https://open.spotify.com/album/3G9AmxmuqKPVRrcr0X7ns3) | 2:56 | 2023-02-02 | 2023-04-12 |
 | [Player](https://open.spotify.com/track/35x7wRh6EKz8g2z0i2ePIF) | [0oDarksideo0](https://open.spotify.com/artist/2C6jKeAzoqfAyS1C2icx5j) | [Lost Files 4 \*Ken\*](https://open.spotify.com/album/2OrIEj7JEItUOW8wITjiSt) | 2:25 | 2023-01-11 | 2023-05-09 |

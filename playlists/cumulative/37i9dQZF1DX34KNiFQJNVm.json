@@ -244635,6 +244635,32 @@
     },
     {
       "album": {
+        "name": "GYALGEBRA",
+        "url": "https://open.spotify.com/album/7AGIBsV07JEUc8gF3FE7kx"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144672,
+      "name": "PEPPA POT",
+      "url": "https://open.spotify.com/track/0ZdSESJnTBwL8ExZDGviEL"
+    },
+    {
+      "album": {
         "name": "Pepperoni",
         "url": "https://open.spotify.com/album/6IY6SkxXo2vXiXA8BXEYvO"
       },
@@ -282400,6 +282426,24 @@
       "duration_ms": 169400,
       "name": "Saiu Foi Tarde",
       "url": "https://open.spotify.com/track/2Pv6pgou92IWimVSLN4wvU"
+    },
+    {
+      "album": {
+        "name": "Saiu Me Devendo",
+        "url": "https://open.spotify.com/album/4TUX1d1PXdxh4zH0mfzDCB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118928,
+      "name": "Saiu Me Devendo",
+      "url": "https://open.spotify.com/track/47rgQmTzaegBpFB1Au2anN"
     },
     {
       "album": {
@@ -355214,7 +355258,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 192960,
       "name": "Voc\u00ea N\u00e3o Vai Sofrer - Ao Vivo",
       "url": "https://open.spotify.com/track/1qFxLLkNGqscREgpA6k9AW"

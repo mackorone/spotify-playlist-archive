@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Bebo Dumont.",
-  "num_followers": 168174,
+  "num_followers": 168167,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
+        "name": "IND 2 JFK",
+        "url": "https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 153836,
+      "name": "IND 2 JFK",
+      "url": "https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3"
+    },
+    {
+      "added_at": "2025-11-21 05:00:35",
+      "album": {
         "name": "Terapia (Remix)",
         "url": "https://open.spotify.com/album/3uNseXKMzM3Cl9GisbcUXz"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 207750,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:35",
-      "album": {
-        "name": "IND 2 JFK",
-        "url": "https://open.spotify.com/album/0FqTf8CVWS4j9qfXryaqS7"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 153836,
-      "name": "IND 2 JFK",
-      "url": "https://open.spotify.com/track/6lEAEa2rLSDMyw2I2wUek3"
     },
     {
       "added_at": "2025-11-21 05:00:35",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
-    },
-    {
-      "added_at": "2025-11-21 05:00:35",
-      "album": {
         "name": "Te Fuiste",
         "url": "https://open.spotify.com/album/3mdFbNYsiqHuP3iJNsLErq"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 189360,
       "name": "Te Fuiste",
       "url": "https://open.spotify.com/track/4jBn233LyLyeAs7uOlRF9N"
+    },
+    {
+      "added_at": "2025-11-21 05:00:35",
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "added_at": "2025-11-21 05:00:35",

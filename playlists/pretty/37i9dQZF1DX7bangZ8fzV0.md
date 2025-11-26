@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Franja du Plessis
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,726 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,757 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 7 | [Storm](https://open.spotify.com/track/5JVJlHLq0mJdA35ENWyUb6) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Koma](https://open.spotify.com/album/63vHUkTXy9xNhBeBkI4Y1l) | 3:19 |
 | 8 | [Plaas Dorp Toe](https://open.spotify.com/track/4qvEqw3Vsl5o749DBPRIQz) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Plaas Dorp Toe](https://open.spotify.com/album/5wKWnbapUBDjs9VLSreAxC) | 3:18 |
 | 9 | [Kom En Lê My Neer](https://open.spotify.com/track/5P6L2kPsrfqqXrKOHhELpW) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:25 |
-| 10 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 |
+| 10 | [Ek Sweer](https://open.spotify.com/track/6jA89tKOtMVp6cN6shxyS5) | [Twee](https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG) | [Piekniek Vir Twee](https://open.spotify.com/album/4cBLgMiHPVdnF9UkRpkBBH) | 3:38 |
 | 11 | [Hart soos 'n Hilux](https://open.spotify.com/track/5vM3rmcbKvOILwE4TyYa1R) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Hart soos 'n Hilux](https://open.spotify.com/album/5p2LWBsu5tiu0O8Of4fvqR) | 3:48 |
-| 12 | [Ek Sweer](https://open.spotify.com/track/6jA89tKOtMVp6cN6shxyS5) | [Twee](https://open.spotify.com/artist/2NMYjNoIZYEfAGICUHwaGG) | [Piekniek Vir Twee](https://open.spotify.com/album/4cBLgMiHPVdnF9UkRpkBBH) | 3:38 |
+| 12 | [Boer Ding](https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Boer Ding](https://open.spotify.com/album/3wpDGJq3QsW5JSQ4BytL16) | 3:32 |
 | 13 | [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 |
 | 14 | [Ek Kannie](https://open.spotify.com/track/27kbGhN4zhHBbVW7nyamLF) | [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Ek Kannie](https://open.spotify.com/album/3a1UyyczCmUfkeXObfdnkn) | 3:18 |
 | 15 | [Belowe](https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Belowe](https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn) | 3:36 |
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 17 | [Sarie Marais](https://open.spotify.com/track/0oNC8qRsiWTKxhmUzol4Lw) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Sarie Marais](https://open.spotify.com/album/5sjp9cjRMXHQQzZzkqomlf) | 3:16 |
 | 18 | [Koue Hande](https://open.spotify.com/track/31BLoKHfaI81Fdo5lODFHs) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Hier Waar Ek Nou Is](https://open.spotify.com/album/4jdUS4txDqUeoHViljbXLg) | 4:30 |
 | 19 | [Mia](https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Piesangskille](https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC) | 4:06 |
-| 20 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
+| 20 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 |
 | 21 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
 | 22 | [Sal Jy Bly](https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4) | [Roeper](https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz) | 3:48 |
 | 23 | [Hallo My Maatjie](https://open.spotify.com/track/3r3zDbUJUzOl4Ob78Pgrfx) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Hallo My Maatjie](https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7) | 3:40 |
 | 24 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
-| 25 | [Lenie Blou](https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Swaartekrag](https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt) | 2:58 |
+| 25 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
 | 26 | [Vuur Op Die Water](https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Boomhuis](https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4) | 3:36 |
 | 27 | [Anders](https://open.spotify.com/track/7zRwT0qN0bcJ3YZ8i0BJBW) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Anders](https://open.spotify.com/album/0OQz7VerEPNrOkDDSxm2Uc) | 2:48 |
 | 28 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 75 | [Ek Sal Nie Bang Wees Nie](https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Ek Sal Nie Bang Wees Nie](https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ) | 4:44 |
 | 76 | [Net Dans](https://open.spotify.com/track/6QK8fzJ3pmgNN0uUXgtLzD) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Net Dans](https://open.spotify.com/album/43oqNDoTsJiNoYb7mbHouf) | 3:48 |
 | 77 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 |
-| 78 | [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 |
-| 79 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 |
+| 78 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 |
+| 79 | [Help 'n Bietjie](https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Help 'n Bietjie](https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ) | 3:18 |
 | 80 | [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 |
 
 Snapshot ID: `AAAAADr9BtR/S6plNQLJh/dW89Zm4NbB`

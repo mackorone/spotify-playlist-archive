@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 730 likes - 92 songs - 5 hr 17 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 748 likes - 96 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,9 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 90 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 |
 | 91 | [tiny thoughts](https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:37 |
 | 92 | [Songbird](https://open.spotify.com/track/7FKST7WmlWa4RKcr6RNEQE) | [DataBass](https://open.spotify.com/artist/2Rvog1SN7fG6KPC2KDbjM4) | [Songbird](https://open.spotify.com/album/63eb3gQjXxJUflcgKMTBy3) | 3:42 |
+| 93 | [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 |
+| 94 | [Aunque No Estes](https://open.spotify.com/track/3jiuTtZ3MwufcxJ5oJ6oq5) | [De este Lado](https://open.spotify.com/artist/7djoMWla9ZaXo7IdYjVaVc), [JUAN PABLO FERRI](https://open.spotify.com/artist/4tCZZHceT5fVsmXNN9ulds), [Jesus Salinas](https://open.spotify.com/artist/1dKgEobaksoR3O35J0G1GI) | [Aunque No Estes](https://open.spotify.com/album/65zPECDNUQCcMY4c2nSgLx) | 3:16 |
+| 95 | [Charlottetown](https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 2:55 |
+| 96 | [Just A Cliche'](https://open.spotify.com/track/2aX8kGMGSTVZPgaWpvSjSb) | [Brett L Walker](https://open.spotify.com/artist/5MOiEP0NEMkGUlQNoYzlvm) | [Just A Cliche'](https://open.spotify.com/album/6a2DTVcwi4aq7ajkExqy1d) | 2:56 |
 
-Snapshot ID: `AAACVOX3xDotD5xWW3tzaZl0DH6Dsyup`
+Snapshot ID: `AAACWLDS7/NLTbK4dPzu5yWqiZ36h115`

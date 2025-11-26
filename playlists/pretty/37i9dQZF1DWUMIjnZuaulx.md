@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: J Moss
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,505 likes - 89 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,515 likes - 89 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 197503,
+  "num_followers": 197539,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Ja sagen",
+        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 220706,
       "name": "So perfekt",
       "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Ja sagen",
-        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ja sagen",
-      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
     },
     {
       "added_at": "2025-03-26 13:54:44",

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-793 songs - 1 day 15 hr 36 min
+794 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [fellshortofhell](https://open.spotify.com/track/2KjDKp62UZWGYjLxM9Cczk) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [fellshortofhell](https://open.spotify.com/album/6j3akUEBjgbtcBqPmNRYgS) | 2:49 | 2025-04-22 |  |
 | [Fighting Inside](https://open.spotify.com/track/5CMckaGgXeAK21PO1GbXFs) | [intouch](https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR) | [Fighting Inside](https://open.spotify.com/album/1btvMyRjDakN00uJOOZU1V) | 2:32 | 2023-12-13 | 2024-03-22 |
 | [Find A Way](https://open.spotify.com/track/3hoRoMxwVs9kvjSFV4aeY8) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Cammie Robinson](https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe) | [Find A Way](https://open.spotify.com/album/4THrglYuTnokkhxPHSLnZw) | 4:24 | 2022-10-21 | 2023-08-10 |
+| [Fireflies](https://open.spotify.com/track/0ml9v2aXYXUd1EbEB9G9BS) | [KREZUS](https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq), [Surreal\_dvd](https://open.spotify.com/artist/7MwpWn0EgCOiihOx6HVQDs) | [Fireflies](https://open.spotify.com/album/3Oj6yFu8nIG4KJtRv1w6rv) | 3:02 | 2025-11-25 |  |
 | [Firefly](https://open.spotify.com/track/1YB2NnK2KrK9PdrJ0czdDB) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Firefly](https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw) | 4:16 | 2023-08-08 | 2024-02-10 |
 | [Firestarter](https://open.spotify.com/track/1TUKNbEWmCV4xkcQ2fKvkj) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Lack D](https://open.spotify.com/artist/3G5tB6xoKtda7r4pqEFAAB) | [Firestarter](https://open.spotify.com/album/6hb4md1GbTkSai4km9UpeN) | 2:51 | 2024-11-22 |  |
 | [First Class](https://open.spotify.com/track/2uh0bkoi1aAfov9AaOMu7R) | [NORTHNIGHT](https://open.spotify.com/artist/0evEuKn6HnhCsJRMjg5LfD) | [First Class](https://open.spotify.com/album/1TPia8OudW1b5kWMT0KV2C) | 2:30 | 2025-11-04 |  |

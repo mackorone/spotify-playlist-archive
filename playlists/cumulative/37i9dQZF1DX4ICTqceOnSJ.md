@@ -4,7 +4,7 @@
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-296 songs - 17 hr 19 min
+297 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 | 2023-08-04 | 2024-03-09 |
 | [Club de fans de John Boy](https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 3:51 | 2024-03-08 |  |
 | [Cometa Ti](https://open.spotify.com/track/6lvQX4xvlkLKOB86DTFcTY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 2:56 | 2023-09-14 | 2024-03-09 |
+| [Como puedes vivir contigo mismo](https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Rebeldes](https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE) | 4:21 | 2024-06-14 |  |
 | [Como Si Nada](https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Como Si Nada](https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K) | 3:30 | 2023-04-26 | 2023-07-30 |
 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 | 2024-03-08 | 2025-03-18 |
 | [Completamente](https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Blanco Fácil](https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt) | 4:23 | 2024-03-08 |  |
@@ -289,7 +290,7 @@
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-20 | 2024-03-09 |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-19 | 2023-04-15 |
 | [Tu Mundo](https://open.spotify.com/track/1ll8FoGTVHTtU3G0A6t1Db) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [El Rostro de los Acantilados](https://open.spotify.com/album/2ZD0El7NaZMoSPtEOszY4w) | 4:31 | 2023-10-15 | 2024-03-09 |
-| [Tu Nombre y el Mío](https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 2:42 | 2024-03-08 |  |
+| [Tu Nombre y el Mío](https://open.spotify.com/track/5cIdcROWU4Ko8FLilbEqPI) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Azules Turquesas](https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd) | 2:42 | 2024-03-08 | 2025-11-26 |
 | [TUYO](https://open.spotify.com/track/3rXaUHSp1NtX2RRreQ0IoF) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [TUYO](https://open.spotify.com/album/5hFop9d6kuaYJnGcGwB1UZ) | 3:09 | 2023-08-31 | 2024-03-09 |
 | [Un Bossa +](https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Un Bossa +](https://open.spotify.com/album/0E9Yu1or2WPe82OTuFv51o) | 1:26 | 2024-03-08 |  |
 | [Uno De Eses Gatos](https://open.spotify.com/track/2tkDf7W81NUS5EnZLHK93h) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [Uno De Eses Gatos](https://open.spotify.com/album/2XqFUgoZxHF0rlx8FVafHy) | 2:45 | 2023-05-14 | 2023-08-02 |

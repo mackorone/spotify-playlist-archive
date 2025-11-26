@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWm72jNoKsV.md) - [plain]
 
 > Defy the odds\. Listen to music from and inspired by Heart of Stone, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,108 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,106 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

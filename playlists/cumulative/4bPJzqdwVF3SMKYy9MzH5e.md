@@ -4,7 +4,7 @@
 
 > 
 
-2,290 songs - 5 day 3 hr 2 min
+2,292 songs - 5 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 | 2024-05-13 |  |
 | [Fire In My Body](https://open.spotify.com/track/0746AeHaYcU2GsG7ohLfTi) | [Indecorum](https://open.spotify.com/artist/1nDQX7M3T8BvVi3bdCQyrm) | [Sanctus](https://open.spotify.com/album/4FPf6TQDTjuSKhz33YMJlh) | 3:16 | 2024-10-23 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2021-08-05 |  |
+| [Fire\_Field\_187f](https://open.spotify.com/track/2ppmmh30eQGVSoN5lejhzA) | [Lil Kevo 303](https://open.spotify.com/artist/2hhB8Hr4xrLZFvTTxZjGJA) | [The Taste of Food Is My Reason for Living](https://open.spotify.com/album/1BWm6e51ExFvJMeTJ3fENH) | 2:23 | 2025-11-26 |  |
 | [Fireprayer](https://open.spotify.com/track/5mNT4J2phEjHgpLlS1bj73) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [kiCK iiiii](https://open.spotify.com/album/1uhyYU7DFiHgW4czDH2FIb) | 3:54 | 2022-02-18 |  |
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2021-08-05 |  |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/6P6wO3mWOx8xVsaNbBoW1K) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:02 | 2021-08-05 |  |
@@ -1624,6 +1625,7 @@
 | [Rats!Rats!Rats!](https://open.spotify.com/track/2nJ4y4XFQx34TFO02aotaP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:00 | 2022-04-03 |  |
 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 | 2025-04-17 |  |
 | [raver](https://open.spotify.com/track/7s7faEFvkv1To4QO2groLs) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 2:11 | 2025-01-13 |  |
+| [rayquaza ex](https://open.spotify.com/track/1IhLQFzL8gWnyUUVAap7qi) | [Exodia](https://open.spotify.com/artist/0ndWKGm6Kl92RMNKdEsco1) | [rayquaza ex](https://open.spotify.com/album/6rbdJMeEdLoE9ZHlEwLp3q) | 3:28 | 2025-11-26 |  |
 | [Razzmatazz](https://open.spotify.com/track/3UhhRDkHWz7D28BkejHzqI) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 4:18 | 2021-08-05 |  |
 | [Ready / Problems](https://open.spotify.com/track/3VByEy1Ax2hlDXgk2U9mmz) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 4:01 | 2021-08-05 |  |
 | [Real Men](https://open.spotify.com/track/1BkQ2tVHP4VATMyuu7KU8Z) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:41 | 2022-12-25 |  |

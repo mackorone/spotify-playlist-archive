@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-632 songs - 1 day 10 hr 8 min
+633 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2024-07-24 |  |
 | [Could It Be You](https://open.spotify.com/track/2sGkPCB5S1mTkdaIDbsiOv) | [Victor Silvester and His Ballroom Orchestra](https://open.spotify.com/artist/4VzxHW11oVYqJV0vG0vHrB) | [The Great British Dance Bands Play Cole Porter](https://open.spotify.com/album/3L31sFS22NEH1a9bgTkDYD) | 2:59 | 2024-07-24 | 2025-06-28 |
 | [Count Your Blessings](https://open.spotify.com/track/2vFtN1SVl5EbNs07mwresF) | [A Covering](https://open.spotify.com/artist/58BVzwP1dnWnK2wktWCqHa) | [Peaceful Offerings](https://open.spotify.com/album/7E3shHAaXsEyZCPR75a9li) | 1:46 | 2024-07-24 | 2025-06-28 |
-| [Count Your Blessings](https://open.spotify.com/track/2996gHEfspjZ5mlJh0b3Pw) | [James DeBorde](https://open.spotify.com/artist/6sNGYdPjOVxBJajDHydMFl) | [Hymns 2](https://open.spotify.com/album/1n1aBe11WBx94j68LEfUxe) | 2:45 | 2025-09-10 |  |
+| [Count Your Blessings](https://open.spotify.com/track/7jfC3y2F5VqQf5vBumBrpy) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [100 Chants De Noël](https://open.spotify.com/album/6DfiO6BcVhf6fZ8XLm6tyC) | 1:50 | 2025-11-25 |  |
+| [Count Your Blessings](https://open.spotify.com/track/2996gHEfspjZ5mlJh0b3Pw) | [James DeBorde](https://open.spotify.com/artist/6sNGYdPjOVxBJajDHydMFl) | [Hymns 2](https://open.spotify.com/album/1n1aBe11WBx94j68LEfUxe) | 2:45 | 2025-09-10 | 2025-11-26 |
 | [Count Your Blessings \(Instrumental Version\)](https://open.spotify.com/track/5kEeSAUJrnZ9ItKqWB2RrK) | [Matt Carlson](https://open.spotify.com/artist/6A65FMdqhuQfIRtGk3SPm8) | [Heartfelt Hymns, Vol\. 3](https://open.spotify.com/album/5EsOVTdT4Tj9k1Vrlrfi6T) | 2:25 | 2025-06-27 | 2025-07-10 |
 | [Cyd Leaves Paris](https://open.spotify.com/track/7Jsj64PEW8KpeMlEZEWMyQ) | [Cole Porter \(composer\)](https://open.spotify.com/artist/2MlrdhziMAogDail35dBMR) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:25 | 2024-07-24 | 2025-10-31 |
 | [Cyd Leaves Paris](https://open.spotify.com/track/3bwYzEleuFwuFRAvhI5lTx) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:25 | 2025-10-30 |  |

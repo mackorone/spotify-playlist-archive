@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,059 songs - 4 day 10 hr 46 min
+2,060 songs - 4 day 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,7 +648,7 @@
 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 | 2024-01-25 | 2024-02-23 |
 | [GASA & FÖRSVINNA](https://open.spotify.com/track/1gqpC4fhRcrzFU78N2VPyY) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [GASA & FÖRSVINNA](https://open.spotify.com/album/37830R470z3Zc89fK1QRl1) | 3:05 | 2024-05-30 | 2024-06-28 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-04-11 |
-| [Ge mig allt du har](https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Ge mig allt du har](https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB) | 3:13 | 2025-10-23 |  |
+| [Ge mig allt du har](https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Ge mig allt du har](https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB) | 3:13 | 2025-10-23 | 2025-11-26 |
 | [Ge mig ett tecken](https://open.spotify.com/track/47rIgHqtTANAsbomEMKAZn) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ge mig ett tecken](https://open.spotify.com/album/6fGHPpUiSpHau74zXUfBza) | 2:54 | 2022-03-10 | 2022-07-29 |
 | [Gemini](https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Forevers](https://open.spotify.com/album/28hLStD389vh57mwsDykXg) | 4:45 | 2024-09-26 | 2025-04-11 |
 | [Gemini](https://open.spotify.com/track/12cm3pn2krN7RgN0pLlwtY) | [Sahara Hotnights](https://open.spotify.com/artist/2VPvWVAiP9GICmwh4bLUuE) | [Gemini](https://open.spotify.com/album/7GD6EPBfQtoZddrwvQTkmL) | 3:12 | 2022-04-01 | 2022-07-28 |
@@ -1408,7 +1408,7 @@
 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-17 | 2024-01-19 |
 | [Pretty girl](https://open.spotify.com/track/0codJQJF4W3cTeaTntsqGp) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/3wWRgEXZBrD7PfejLHElrd) | 3:55 | 2024-05-30 | 2024-06-28 |
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-04-24 | 2025-08-08 |
-| [Psycho](https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Psycho](https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4) | 3:01 | 2025-10-09 | 2025-11-21 |
+| [Psycho](https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Psycho](https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4) | 3:01 | 2025-10-09 |  |
 | [Psykbryt](https://open.spotify.com/track/3LvZ9uwjCpCL4Lc7NaCilH) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Psykbryt](https://open.spotify.com/album/0mFsTJvWn8DpApTw2ANx3K) | 2:48 | 2024-05-02 | 2024-06-01 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Punch Drunk](https://open.spotify.com/track/1mqShE89njPhEE5HzxMOKU) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Atlas](https://open.spotify.com/album/12TTHRtAWiupn7QvztX3Wz) | 3:45 | 2024-04-11 | 2024-05-17 |
@@ -1739,7 +1739,7 @@
 | [Så sött livet kan smaka](https://open.spotify.com/track/6UWivnKJZ7fojidyVzcNMp) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svensk Rost](https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu) | 2:49 | 2025-10-16 |  |
 | [Såna som oss kommer alltid förlora](https://open.spotify.com/track/2ugALeb72Z5l16W6xN7QrA) | [Dalmatin](https://open.spotify.com/artist/6Fydl2UeADvnfloGHWW4uJ) | [Såna som oss kommer alltid förlora](https://open.spotify.com/album/1TQjM5Trz3u34l4SzStDKs) | 3:40 | 2024-01-25 | 2024-02-17 |
 | [Såna som oss kommer alltid förlora](https://open.spotify.com/track/4k9MIwDgRTwkF8xVblnAFt) | [Dalmatin](https://open.spotify.com/artist/6Fydl2UeADvnfloGHWW4uJ) | [Såna som oss kommer alltid förlora](https://open.spotify.com/album/5smvvidfaOzYP0cuDCswAM) | 3:40 | 2024-02-22 | 2024-02-25 |
-| [Ta honom](https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Ta honom](https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4) | 2:08 | 2025-07-31 |  |
+| [Ta honom](https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Ta honom](https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4) | 2:08 | 2025-07-31 | 2025-11-26 |
 | [Ta på mig](https://open.spotify.com/track/3DFOoe2J49z0ZD1o74fq5x) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ta på mig](https://open.spotify.com/album/79TfkDuxlL9r42jGcj2AL4) | 3:22 | 2021-12-16 | 2022-03-09 |
 | [Tack & Förlåt](https://open.spotify.com/track/77EB8QJSuJ0oCrxsohpOMs) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Tack & Förlåt](https://open.spotify.com/album/7nuGipqlw2WLeXdIW1qm4m) | 2:58 | 2023-10-26 | 2024-01-26 |
 | [Tack vare dig](https://open.spotify.com/track/72COIJY2DM001e9tLVtYaX) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [Tack vare dig](https://open.spotify.com/album/6MdYecbKxByYEUQqH8Lzkp) | 3:13 | 2023-08-03 | 2023-11-17 |
@@ -1805,6 +1805,7 @@
 | [Tiden läker alla sår](https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE](https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF) | 2:54 | 2024-10-17 | 2025-04-18 |
 | [Tiden rinner iväg](https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Tiden rinner iväg](https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2) | 2:59 | 2022-12-01 | 2023-01-23 |
 | [Tidsmaskin](https://open.spotify.com/track/6Nmeso3ijBsLrIpSMboYm0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Underbart i all misär](https://open.spotify.com/album/51Pbz9gnabh4ouprPLUx29) | 4:08 | 2021-12-16 | 2022-03-11 |
+| [Till evigheten](https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF) | [Edvin Törnblom](https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2) | [Till evigheten](https://open.spotify.com/album/4pPX1hnP4aUtTmDhAYZFiA) | 3:11 | 2025-11-24 |  |
 | [Till slutet av augusti \- Live från Benjamin's](https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Till slutet av augusti \(Live från Benjamin's\)](https://open.spotify.com/album/0wmrMW1NPeZvpPa3dKKypR) | 4:10 | 2022-04-07 | 2023-10-06 |
 | [Till Solen Brinner Ut](https://open.spotify.com/track/2DTa2kupO7EwBcVDJrENJ2) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Till Solen Brinner Ut](https://open.spotify.com/album/6PlbjhdgIeBavM5EcNztvB) | 3:19 | 2022-09-29 | 2022-10-07 |
 | [Tillbaka till Stockholm](https://open.spotify.com/track/31M2PcGLJvTvqwdP7WZmAM) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Slutscen](https://open.spotify.com/album/69hclcYXfpNiRiqSwj7UHJ) | 3:07 | 2024-06-06 | 2024-08-09 |

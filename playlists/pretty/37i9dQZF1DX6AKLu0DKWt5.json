@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7609,
+  "num_followers": 7610,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Twisters: The Album",
+        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma",
+      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Songs from Agatha All Along (Episodes 1 & 2)",
         "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 197692,
       "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Twisters: The Album",
-        "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma",
-      "url": "https://open.spotify.com/track/54lwAukbN9gFGnDprkHjRD"
     },
     {
       "added_at": "2024-12-20 14:00:08",

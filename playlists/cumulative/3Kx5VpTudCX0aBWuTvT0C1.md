@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-90 songs - 5 hr 9 min
+94 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anne Halt Durch!](https://open.spotify.com/track/7JFZ2FDCG2NOKPy8OmU9jt) | [DerBen](https://open.spotify.com/artist/2ROKHEeIFHnxoXlHcngvp3) | [Anne Halt Durch!](https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus) | 4:46 | 2025-10-29 |  |
 | [Another Night](https://open.spotify.com/track/1CL9DB1WhmwOMACDJcOWDw) | [P\-Math](https://open.spotify.com/artist/1xsU39HOHqNFkYbvOHifQY) | [Another Night](https://open.spotify.com/album/5v14wEjTIH1DoRoGleXapd) | 2:52 | 2025-11-02 |  |
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-10-29 |  |
+| [Aunque No Estes](https://open.spotify.com/track/3jiuTtZ3MwufcxJ5oJ6oq5) | [De este Lado](https://open.spotify.com/artist/7djoMWla9ZaXo7IdYjVaVc), [JUAN PABLO FERRI](https://open.spotify.com/artist/4tCZZHceT5fVsmXNN9ulds), [Jesus Salinas](https://open.spotify.com/artist/1dKgEobaksoR3O35J0G1GI) | [Aunque No Estes](https://open.spotify.com/album/65zPECDNUQCcMY4c2nSgLx) | 3:16 | 2025-11-25 |  |
 | [automatic shoes](https://open.spotify.com/track/5yDoiuvVI1YBNlS8mjjL4F) | [we are concrete](https://open.spotify.com/artist/1G8m3RgBJsjJNBMFiB4pWP) | [\(\)](https://open.spotify.com/album/5HcYtyZx6yPCqTIz6WaDwV) | 2:55 | 2025-10-26 |  |
 | [Away](https://open.spotify.com/track/05YP4WXwNVoj9A0Viqwr3k) | [Orbis](https://open.spotify.com/artist/6mNA4j8NdL2AAV46EKMy1d) | [Slick Heart Machinery](https://open.spotify.com/album/5Ji55WmrvyDcClmIXboWIR) | 7:15 | 2025-11-03 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 |  |
@@ -25,6 +26,7 @@
 | [Broken Soul](https://open.spotify.com/track/3uF5OHTajylu7acBQfqGCj) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 3:11 | 2025-11-18 |  |
 | [by the look in my eyes \(rock your body\)](https://open.spotify.com/track/1P07WlENk05jGivgkHqa2p) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:53 | 2025-10-31 |  |
 | [By Your Bed](https://open.spotify.com/track/4GquSoDNuCpvpGrjpBFCSs) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [No Sweets for E.](https://open.spotify.com/album/6nLsrLoaBkpTo4ClRFq6iO) | 4:00 | 2025-11-09 |  |
+| [Charlottetown](https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 2:55 | 2025-11-25 |  |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-06 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-17 |  |
 | [Coming Back](https://open.spotify.com/track/7uY20MCgghAw2HWWRNcbJ4) | [Jarju Binks](https://open.spotify.com/artist/0o0t0KdWN2YcpOB7tcvxqp) | [Coming Back](https://open.spotify.com/album/3JPaEVNlWEsFXyacsjkJxK) | 3:38 | 2025-10-31 |  |
@@ -51,6 +53,7 @@
 | [human race](https://open.spotify.com/track/422XpEXSWpB7AHTePwthGV) | [Travis Guidry](https://open.spotify.com/artist/5xzQwl0A6dhD2B2BQ9ZdMp) | [human race](https://open.spotify.com/album/6VEEMhejJyv8naAjOSfY0j) | 3:36 | 2025-11-11 |  |
 | [If I Was A Ghost](https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj) | [Dar1en](https://open.spotify.com/artist/4YQi46tcPcgpcABa2vVF6n) | [If I Was A Ghost](https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd) | 3:08 | 2025-11-13 |  |
 | [It Is Time](https://open.spotify.com/track/1GoRkIfs0IFKnllVoMzRJm) | [Maurice Hirschhaut](https://open.spotify.com/artist/1o8IEDCXLoJxrzVjR655un) | [It Is Time](https://open.spotify.com/album/5Pg5ViuWgWOILr8u3fjD5T) | 2:55 | 2025-11-15 |  |
+| [Just A Cliche'](https://open.spotify.com/track/2aX8kGMGSTVZPgaWpvSjSb) | [Brett L Walker](https://open.spotify.com/artist/5MOiEP0NEMkGUlQNoYzlvm) | [Just A Cliche'](https://open.spotify.com/album/6a2DTVcwi4aq7ajkExqy1d) | 2:56 | 2025-11-25 |  |
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-30 |  |
 | [Les avenues](https://open.spotify.com/track/3FiLH9SLEXzQNsP7Z7l6mu) | [Arthur Mess](https://open.spotify.com/artist/6FxhLja9zhLwB65YcUnkwQ) | [Les avenues](https://open.spotify.com/album/0LPRGtdyC641NKCd6EVjuQ) | 3:34 | 2025-11-07 |  |
 | [Light](https://open.spotify.com/track/2wDu6ZakZVNsgUzQoesm7O) | [SOMEMISTAKES](https://open.spotify.com/artist/36UniZ3ECMH2GwkF7WQxpK) | [Light](https://open.spotify.com/album/7t7c9ePxVas9Y9cZGjuXA1) | 3:57 | 2025-11-09 |  |
@@ -92,6 +95,7 @@
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 |  |
 | [Working For The Man](https://open.spotify.com/track/13cFPU8k6jUOjckQL7EV4V) | [Big Peon](https://open.spotify.com/artist/1xK2Hek0OpY5J4NW5zwfNY) | [Working For The Man](https://open.spotify.com/album/5FUbgxqaocAOPbAxYinDmc) | 2:53 | 2025-11-07 |  |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-29 |  |
+| [World Of Thirds](https://open.spotify.com/track/1EEDzQBK1O5e1ueRWIMHDk) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [MIK's Tape](https://open.spotify.com/album/2fhP1JdNOxSnAjjS739uQL) | 3:49 | 2025-11-25 |  |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-03 |  |
 | [Zero Hour Lunar Phase](https://open.spotify.com/track/6Pwm9LxIHTazwlVz26WMgf) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour Lunar Phase](https://open.spotify.com/album/4DFIgHny809BiD7wZFy76g) | 3:32 | 2025-10-28 |  |
 | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/track/6cZsVGpH1YkfGvZui0mn9H) | [ATLAS\-31](https://open.spotify.com/artist/55rn2WmgmOMzZHsSJZ6zgt) | [¿QUIÉN ES EL MALO AHORA?](https://open.spotify.com/album/31VLgqE0dx5tdkzjA9hyYF) | 3:54 | 2025-10-29 |  |

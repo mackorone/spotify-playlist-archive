@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,844 likes - 93 songs - 5 hr 2 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,844 likes - 94 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 59 | [It's the End of the World](https://open.spotify.com/track/5fHtexxFL8BXrBdn2ohAoy) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Appaloosa](https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2) | 3:34 |
 | 60 | [Hermoso Hogar](https://open.spotify.com/track/4j23sEtpA905EmREDe8wqF) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [LA CAÍDA DEL ÁNGEL](https://open.spotify.com/album/2iyNJSz62Udkx9jIT4DGlG) | 3:36 |
 | 61 | [PEPPA POT](https://open.spotify.com/track/0ZdSESJnTBwL8ExZDGviEL) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [GYALGEBRA](https://open.spotify.com/album/7AGIBsV07JEUc8gF3FE7kx) | 2:24 |
-| 62 | [NI EN LOS CAFES PARISINOS](https://open.spotify.com/track/4A7JQK6kfwXVT8dHOXdyL2) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Ni en los puertos italianos, ni en los cafés parisinos](https://open.spotify.com/album/7w1IsXVNmBEFSDTzx3vuE7) | 2:02 |
+| 62 | [NI EN LOS CAFÉS PARISINOS](https://open.spotify.com/track/4A7JQK6kfwXVT8dHOXdyL2) | [Yerai Cortés](https://open.spotify.com/artist/4lozfkWdqPL69SUoFK6GFi) | [Ni en los puertos italianos, ni en los cafés parisinos](https://open.spotify.com/album/7w1IsXVNmBEFSDTzx3vuE7) | 2:02 |
 | 63 | [Paradise Runner](https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Paradise Runner](https://open.spotify.com/album/2llFvkt14pwvA4XzsSC9I5) | 4:36 |
 | 64 | [Colibrí](https://open.spotify.com/track/4ihXAO7fbw75DqlVMrSQgq) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a) | [Puta Vida](https://open.spotify.com/album/78PAYzFmJnHiHRWOR4i1Bs) | 4:39 |
 | 65 | [Do It](https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k) | 2:39 |
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 91 | [4U](https://open.spotify.com/track/3CctgCLFQDnSdM1wNNELkX) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 2:49 |
 | 92 | [Enemigos del Espíritu](https://open.spotify.com/track/25qwlXlKzYADrwNMmJbz4X) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Victorias](https://open.spotify.com/artist/35lpWLoew70fDB1QQ7pW4I) | [Enemigos del Espíritu](https://open.spotify.com/album/6OxAhbXzEZaDQxL626Y7Ot) | 2:33 |
 | 93 | [Contigo](https://open.spotify.com/track/4YtcAZB24X7x05NR03ZGWb) | [Taïn](https://open.spotify.com/artist/59qfLSYsOFhKJ3zqe08oIF) | [Contigo \(EP\)](https://open.spotify.com/album/4TLm9s0tKqEnzamRw0529k) | 3:42 |
+| 94 | [Tirant lo Blanc](https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Tirant lo Blanc](https://open.spotify.com/album/4BnDmTrXNNHZtGPfu3PgxQ) | 3:55 |
 
-Snapshot ID: `AADKwoPPBf/rRFDc360CD0Iyy6oolrI5`
+Snapshot ID: `AADKxMjdJSWOar0o4tpaizKwWJ22Y5e5`

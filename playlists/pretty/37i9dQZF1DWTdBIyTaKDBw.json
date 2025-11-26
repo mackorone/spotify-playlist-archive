@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 22032,
+  "num_followers": 22073,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
+      },
+      "artists": [
+        {
+          "name": "Chiccote's Beats",
+          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Yokai",
         "url": "https://open.spotify.com/album/10hDUaGD1vcvRuhWHSwo7r"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 161194,
       "name": "Mujinas Ramen Shop",
       "url": "https://open.spotify.com/track/5xyhG7nGl3A8pvFFCEbTdl"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/5bqt7BkZboiKVUcWEyod20"
-      },
-      "artists": [
-        {
-          "name": "Chiccote's Beats",
-          "url": "https://open.spotify.com/artist/0ETiNCZavTPXNnEJBF1JBA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6EXDcpleRxuaP54XWvh6LY"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "The Shining Kingdom",
+        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 156059,
+      "name": "The Shining Kingdom",
+      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Maiko",
         "url": "https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 208000,
       "name": "Maiko's Hope",
       "url": "https://open.spotify.com/track/0C10xhvGheFtaW61lkH8e3"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Ancient Bond",
-        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Ancient Bond",
-      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1143,28 +1143,8 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Red Lamps.",
-        "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
-      },
-      "artists": [
-        {
-          "name": "greenface",
-          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
-        },
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        }
-      ],
-      "duration_ms": 131294,
-      "name": "Red Lamps.",
-      "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "The Shining Kingdom",
-        "url": "https://open.spotify.com/album/0excbd15wol5jubCPOyTrT"
+        "name": "Ancient Bond",
+        "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
       },
       "artists": [
         {
@@ -1172,25 +1152,9 @@
           "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
         }
       ],
-      "duration_ms": 156059,
-      "name": "The Shining Kingdom",
-      "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+      "duration_ms": 164571,
+      "name": "Ancient Bond",
+      "url": "https://open.spotify.com/track/3qOwHr2YkggGQjDHOU10ra"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1211,6 +1175,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Hanagasumi",
         "url": "https://open.spotify.com/album/56q8Tkk5130VkPysfMN8j8"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 160000,
       "name": "Arisa",
       "url": "https://open.spotify.com/track/3yGVIzliF0fcy6pcjO02hS"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Red Lamps.",
+        "url": "https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi"
+      },
+      "artists": [
+        {
+          "name": "greenface",
+          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
+        },
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        }
+      ],
+      "duration_ms": 131294,
+      "name": "Red Lamps.",
+      "url": "https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
-      },
-      "artists": [
-        {
-          "name": "aekasora",
-          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
-        }
-      ],
-      "duration_ms": 219297,
-      "name": "to reach a person",
-      "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Answer Love",
         "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 139095,
       "name": "Anata",
       "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
+      },
+      "artists": [
+        {
+          "name": "aekasora",
+          "url": "https://open.spotify.com/artist/14zYh9bbvvVtfJHQpzSGDa"
+        }
+      ],
+      "duration_ms": 219297,
+      "name": "to reach a person",
+      "url": "https://open.spotify.com/track/4FWMs0QomD7B2yLiwoTfep"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Nama",
-        "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
-      },
-      "artists": [
-        {
-          "name": "Raimu",
-          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Nama",
-      "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "Lost in Japan II",
         "url": "https://open.spotify.com/album/4ouEJG6RaGAKTB6CwhnBtT"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 211304,
       "name": "Song of the Samurai",
       "url": "https://open.spotify.com/track/5nG6besfk5Aoa24OBSdREv"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Nama",
+        "url": "https://open.spotify.com/album/2gaz2Ko1IGrk8LfQxAgSBX"
+      },
+      "artists": [
+        {
+          "name": "Raimu",
+          "url": "https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Nama",
+      "url": "https://open.spotify.com/track/5uvMZMApFm7G5pVueAmXhu"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
+        "name": "Torimichi",
+        "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
+      },
+      "artists": [
+        {
+          "name": "Coddneck",
+          "url": "https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Torimichi",
+      "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
         "name": "Aquilla",
         "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 124765,
       "name": "Zhuki",
       "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
-        "name": "Torimichi",
-        "url": "https://open.spotify.com/album/5quOu1BA0FTj6KgtcoYltV"
-      },
-      "artists": [
-        {
-          "name": "Coddneck",
-          "url": "https://open.spotify.com/artist/0xqoVrZyl43jmN4B0dwKaw"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Torimichi",
-      "url": "https://open.spotify.com/track/1kD08WYSwIYlA586nKbPgs"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Distant Worlds 4",
-        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
-      },
-      "artists": [
-        {
-          "name": "Purrple Cat",
-          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
-        }
-      ],
-      "duration_ms": 146144,
-      "name": "Crystalline",
-      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
-    },
-    {
-      "added_at": "2025-10-21 04:35:53",
-      "album": {
         "name": "isolation",
         "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 117366,
       "name": "muse",
       "url": "https://open.spotify.com/track/3sBpopPCelPx9fmxaNdMZb"
+    },
+    {
+      "added_at": "2025-10-21 04:35:53",
+      "album": {
+        "name": "Distant Worlds 4",
+        "url": "https://open.spotify.com/album/59m7LCjUEDGPQuWoYHadCZ"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "duration_ms": 146144,
+      "name": "Crystalline",
+      "url": "https://open.spotify.com/track/41LO8apLn3wP2iYXuVAgXx"
     },
     {
       "added_at": "2025-10-21 04:35:53",
@@ -1683,22 +1683,18 @@
     {
       "added_at": "2025-10-21 04:35:53",
       "album": {
-        "name": "Tsunagari",
-        "url": "https://open.spotify.com/album/0aFOlo0qGQ572Vwd0i0Iot"
+        "name": "Miso",
+        "url": "https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6"
       },
       "artists": [
         {
-          "name": "JazzyCal",
-          "url": "https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd"
-        },
-        {
-          "name": "karasu.",
-          "url": "https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae"
+          "name": "Shiitaki",
+          "url": "https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8"
         }
       ],
-      "duration_ms": 200597,
-      "name": "Tsunagari",
-      "url": "https://open.spotify.com/track/7p2OkGvpSOvzMfJECWu5NA"
+      "duration_ms": 129082,
+      "name": "Miso",
+      "url": "https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa"
     }
   ],
   "unique_name": "oriental lofi",

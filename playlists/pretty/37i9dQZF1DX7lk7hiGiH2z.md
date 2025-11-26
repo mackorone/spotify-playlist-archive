@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,984 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,008 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 13 | [Schnee](https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Schnee](https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl) | 2:03 |
 | 14 | [Das Lied der Wichtel](https://open.spotify.com/track/53gMRf5oKm8n34LOlzY5MQ) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Das Weihnachtsalbum](https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4) | 2:41 |
 | 15 | [Wann wird es Winter?](https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Winter \- EP](https://open.spotify.com/album/5UbWocZ1joDQQ2ojYP98Nl) | 2:26 |
-| 16 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:20 |
-| 17 | [Alle Jahre wieder](https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Alle Jahre wieder](https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91) | 2:37 |
+| 16 | [Alle Jahre wieder](https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Alle Jahre wieder](https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91) | 2:37 |
+| 17 | [Süßer die Glocken nie klingen](https://open.spotify.com/track/3QQuRIW0s88lpjy3g5lCtE) | [Alexa Feser](https://open.spotify.com/artist/0Yb66lSgYL9MFYw6jUHCVD), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:20 |
 | 18 | [Kekse](https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 2:36 |
 | 19 | [Wär' Dezember doch für immer \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten, Holger Stockhaus\)](https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1), [Holger Stockhaus](https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:58 |
 | 20 | [Winter Wunderland](https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:48 |

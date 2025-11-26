@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 130951,
+  "num_followers": 130956,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABfN4r/JMU/xBVN2keaUBra",
+  "snapshot_id": "aSOgAAAAAAB1a/7Z9KQsLWxGhyFG65i8",
   "tracks": [
     {
       "added_at": null,
@@ -171,26 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 235424,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
     },
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
+        "name": "MACARRONES CON QUESO",
+        "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
       },
       "artists": [
         {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 153707,
-      "name": "En Tu Marea",
-      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
+      "duration_ms": 147400,
+      "name": "MACARRONES CON QUESO",
+      "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MACARRONES CON QUESO",
-        "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
       "artists": [
         {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 147400,
-      "name": "MACARRONES CON QUESO",
-      "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
+      "duration_ms": 153707,
+      "name": "En Tu Marea",
+      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Locos Dementes",
         "url": "https://open.spotify.com/album/49nZLyZDBKph8WzxuLGkF8"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 215961,
       "name": "Locos Dementes",
       "url": "https://open.spotify.com/track/1avccdZyIOpCisznKwu47H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9"
     },
     {
       "added_at": null,

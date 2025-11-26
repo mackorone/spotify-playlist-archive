@@ -873,6 +873,24 @@
     },
     {
       "album": {
+        "name": "A Moon Shaped Pool",
+        "url": "https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172935,
+      "name": "Glass Eyes",
+      "url": "https://open.spotify.com/track/0uOeAmfdyaekD2RIGwCDwq"
+    },
+    {
+      "album": {
         "name": "After Laughter",
         "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
       },
@@ -2102,6 +2120,24 @@
       "duration_ms": 207120,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y"
+    },
+    {
+      "album": {
+        "name": "Total Life Forever",
+        "url": "https://open.spotify.com/album/7edt9zVFJtKYLMI213anC9"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409560,
+      "name": "Spanish Sahara",
+      "url": "https://open.spotify.com/track/2fWSJxOHKSqXOkhxyo3Gly"
     },
     {
       "album": {

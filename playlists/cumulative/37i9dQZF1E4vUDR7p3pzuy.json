@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, Jamie Rust, JUST LIZZY and more",
+  "description": "With Synthetik Blonde, JUST LIZZY, Jamie Rust and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 228000,
       "name": "All-Inclusive",
       "url": "https://open.spotify.com/track/5a2DObmVugouqxO7UM7A2R"
+    },
+    {
+      "album": {
+        "name": "AM PM",
+        "url": "https://open.spotify.com/album/2H2bI9gvCqumFmBObVxKMN"
+      },
+      "artists": [
+        {
+          "name": "IRONTOM",
+          "url": "https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220190,
+      "name": "AM PM",
+      "url": "https://open.spotify.com/track/5bcq3tfrM2lerLrGqpLqBJ"
     },
     {
       "album": {
@@ -248,7 +266,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 230433,
       "name": "Cleansed by Fire",
       "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 187607,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/53JRwecCM69WPvzvokpKHy"
@@ -494,7 +512,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 215111,
       "name": "Fake",
       "url": "https://open.spotify.com/track/2sG0oQlo5rCbssIEHHNBPs"
@@ -512,10 +530,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 142386,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/03mV5w1BnPaV37ZFgWZP5Z"
+    },
+    {
+      "album": {
+        "name": "The Dream Eaters Quarterly Report: Q325",
+        "url": "https://open.spotify.com/album/2HRoDNAO0A3JVTE4u7dmgM"
+      },
+      "artists": [
+        {
+          "name": "The Dream Eaters",
+          "url": "https://open.spotify.com/artist/58EGECKV4drTQ3m7SFJNYf"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152128,
+      "name": "Father Is Dead",
+      "url": "https://open.spotify.com/track/6IbgXsrJcjD5GWOF3YSNQA"
     },
     {
       "album": {
@@ -566,7 +602,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/0FroTXXoQx1s7wKmdBbvFH"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 225728,
       "name": "Get It Back",
       "url": "https://open.spotify.com/track/695X7cRW5xe0seabd0dXQW"
@@ -636,7 +672,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 212987,
       "name": "HAD ENOUGH",
       "url": "https://open.spotify.com/track/1TznmtQUWQi5wWz3SOpDpd"
@@ -690,7 +726,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 96976,
       "name": "Humble Eyes",
       "url": "https://open.spotify.com/track/5O8cbA7QABRF8VN9QiYpAt"
@@ -708,7 +744,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 158150,
       "name": "I Dream Of Violence",
       "url": "https://open.spotify.com/track/4EkV3XGQWEAenTDWlc7B3L"
@@ -744,7 +780,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 230297,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/0FpG2f0j2cYue920zjFuwC"
@@ -820,6 +856,28 @@
       "duration_ms": 285133,
       "name": "Justified",
       "url": "https://open.spotify.com/track/1z1CuhZjWHSdAjueoC5PzT"
+    },
+    {
+      "album": {
+        "name": "Keep The Light On",
+        "url": "https://open.spotify.com/album/19MAVwshUMivL9dc7RSLu1"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Keep The Light On",
+      "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
     },
     {
       "album": {
@@ -1057,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Not Under Your Spell",
+        "url": "https://open.spotify.com/album/4LQn2RFdhNM8IgE5ynWqLA"
+      },
+      "artists": [
+        {
+          "name": "Frenchy and the Punk",
+          "url": "https://open.spotify.com/artist/7fRd6n7FhjhaUUKYiUHmXf"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246632,
+      "name": "Not Under Your Spell",
+      "url": "https://open.spotify.com/track/4xYAS7qluXyCLdsdY20h4z"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/4XuWrOsGa32jXvOUAjRKXm"
       },
@@ -1090,7 +1166,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 182515,
       "name": "Ohmygodyuwgueys",
       "url": "https://open.spotify.com/track/1RPCJpUAEPwltO5RkFGWbK"
@@ -1130,7 +1206,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -1148,7 +1224,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Queen of Codependency",
       "url": "https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO"
@@ -1387,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Threats",
+        "url": "https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT"
+      },
+      "artists": [
+        {
+          "name": "Bellhead",
+          "url": "https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "Threats",
+      "url": "https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/0dDlOkj4qPx4bhc5eoleLX"
       },
@@ -1398,7 +1492,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 321777,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/151MFSvaUCyiStAQbCp7xT"
@@ -1470,7 +1564,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 289208,
       "name": "Waited",
       "url": "https://open.spotify.com/track/4ZJwXU9y2y9ptMOR2HBxdf"
@@ -1524,7 +1618,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 200919,
       "name": "Welcome To Salem (intro)",
       "url": "https://open.spotify.com/track/3VSU3WGhiR524TtvonIU3c"
@@ -1546,7 +1640,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"

@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-194 songs - 8 hr 3 min
+197 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [Ashfall](https://open.spotify.com/track/6ftwSPoxBAoAk41eQeen4w) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ashfall](https://open.spotify.com/album/5xQ0f2SQpsoHHLGDGypcWB) | 2:49 | 2025-07-07 |  |
 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 | 2025-03-18 |  |
 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 | 2023-10-04 |  |
+| [aux aguets](https://open.spotify.com/track/0DPSCh1dZwNd8grbFrAwT4) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [aux aguets](https://open.spotify.com/album/5Mo5ZQd5xfN9OcDDsH3Yoh) | 2:36 | 2025-11-25 |  |
 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-04 |  |
 | [Barely Awake](https://open.spotify.com/track/7xKLiItra445rJi8Fehifn) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Barely Awake](https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt) | 2:19 | 2023-05-09 |  |
+| [Before We Knew](https://open.spotify.com/track/6U20TztvUrp7ccU75MAvIX) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Before We Knew](https://open.spotify.com/album/5Gt05duxvTbV2BIsNCGxgY) | 2:46 | 2025-11-25 |  |
 | [Blanche, Op\. 10](https://open.spotify.com/track/3WIIFZRWbPORTJarz8ozTL) | [Henri de Quengo](https://open.spotify.com/artist/5OgcUeWAFwuAgo9wDWr6hr) | [Blanche, Op\. 10](https://open.spotify.com/album/5AKXt0yEKjmyKE9fdddEdt) | 2:19 | 2023-05-09 | 2025-01-07 |
 | [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-25 | 2025-11-06 |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2023-05-09 | 2025-04-09 |
@@ -133,7 +135,7 @@
 | [Rivers Run](https://open.spotify.com/track/4WYhUn9Ed37U8FtKrSlPVm) | [Lester Milton](https://open.spotify.com/artist/2Xuimz47Nd6ltLsj9c1vgE) | [Rivers Run](https://open.spotify.com/album/4RjEzBp3wM590XPVTqI1kr) | 2:22 | 2023-09-11 | 2025-09-16 |
 | [Riverun](https://open.spotify.com/track/0hIyFd8XwSIrbYhxko1zYE) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Riverun](https://open.spotify.com/album/4E3ZjKxD8RVt9OPTAYEG3y) | 1:30 | 2023-05-09 | 2025-03-05 |
 | [Romance no 1 "Nordica"](https://open.spotify.com/track/5yWWqRGYKTfSoFTYKAnDlo) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Romance no 1 "Nordica"](https://open.spotify.com/album/4ax1MdqYOUcrhrYPlgPfA5) | 2:52 | 2023-05-09 | 2025-03-05 |
-| [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 | 2025-03-13 |  |
+| [ruisseau](https://open.spotify.com/track/1pGAxLO4ca9a7GIp7SisRs) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [ruisseau](https://open.spotify.com/album/5x8igXPi7BRJaA6hefKs2q) | 2:25 | 2025-03-13 | 2025-11-26 |
 | [Saga](https://open.spotify.com/track/0JM4ig0fH4lvYWlNhGqlBf) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Saga](https://open.spotify.com/album/53KUPQ8fM0AhkhvKLlykdb) | 2:26 | 2023-05-09 | 2025-01-07 |
 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 | 2023-05-09 | 2025-02-19 |
 | [Scarlet Crescent](https://open.spotify.com/track/5Qb1aO7gYbxh7TlpFTUTHg) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Scarlet Crescent](https://open.spotify.com/album/1DCoabskMz130Fc0zVBtS1) | 3:52 | 2023-05-09 | 2025-04-26 |
@@ -185,6 +187,7 @@
 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-05-09 |  |
 | [Un sourire et une larme \(valse\)](https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Petites danses et rêveries](https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB) | 2:26 | 2023-05-09 | 2025-04-26 |
 | [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2023-05-09 | 2025-03-05 |
+| [Unspoken Hours](https://open.spotify.com/track/21oyvgHXWfZ4huyKu2T6QS) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Unspoken Hours](https://open.spotify.com/album/7GONsgs1geaxlnoLE7enVS) | 2:22 | 2025-11-25 |  |
 | [Until We Meet Again](https://open.spotify.com/track/3FnodjeI8yW2WgbasYVgnP) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Until We Meet Again](https://open.spotify.com/album/6H5ndDLpcwgYXnEegDh9ye) | 2:35 | 2025-01-17 |  |
 | [Unvergesslich](https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Unvergesslich](https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5) | 2:25 | 2025-01-21 |  |
 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 | 2023-05-09 | 2025-05-14 |

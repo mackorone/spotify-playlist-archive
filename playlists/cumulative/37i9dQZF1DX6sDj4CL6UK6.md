@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Mary Ann Alexander
 
-361 songs - 20 hr 42 min
+362 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [fickle.minds](https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [fickle.minds](https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq) | 3:41 | 2023-05-19 | 2024-07-12 |
 | [Fight This Fight](https://open.spotify.com/track/2qXFpmLrTryis1MYSSO6po) | [Arrows](https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Warren Mendonsa](https://open.spotify.com/artist/4h3U9ZOiDOzSUqiKCmrvfn) | [Fight This Fight](https://open.spotify.com/album/0XGeJXRsh23px41Y3pir3m) | 2:53 | 2023-07-14 | 2023-08-03 |
 | [Figure 8](https://open.spotify.com/track/0A2yplg86L7XTX2ZN62DpV) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl) | [Outlast](https://open.spotify.com/album/1wznIFQEKfVFPRD6MCH9AW) | 4:31 | 2022-03-25 | 2023-02-25 |
+| [Find Me](https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe) | [Trance Effect](https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A), [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [Find Me](https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm) | 3:01 | 2025-11-25 |  |
 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 | 2022-03-25 | 2024-08-23 |
 | [Floated By](https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 4:16 | 2024-11-22 |  |
 | [Flying](https://open.spotify.com/track/25PEjBqc1LAsalXVeTrjbl) | [Nidhi Wagle](https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I) | [Flying](https://open.spotify.com/album/43RrK1GFoLwrOKQLBGuZj3) | 2:11 | 2025-10-17 |  |
@@ -277,7 +278,7 @@
 | [Run Away Fade Away](https://open.spotify.com/track/30KmgCXlmMo7G02ddJpmzW) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/5ITni3RafLU4NmygkabTYM) | 2:58 | 2023-03-03 | 2023-09-07 |
 | [Run Away Fade Away](https://open.spotify.com/track/5HhVt8U5NqH4zzOgfNESFx) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp) | [Run Away Fade Away](https://open.spotify.com/album/1hWKy5EBlTQU2E8JnZvrtv) | 2:58 | 2022-03-25 | 2023-03-12 |
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2022-03-25 | 2024-08-23 |
-| [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-12 |  |
+| [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-12 | 2025-11-26 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 | 2024-06-22 |
 | [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 | 2025-09-26 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > White noise for studying and concentration
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,469 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,596 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 33 | [Crystal Comfort White Noise](https://open.spotify.com/track/4P1S4Z8XYRpTtEoXOZtfkp) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Crystal Comfort White Noise](https://open.spotify.com/album/32mt8zx0FDzY6yOBJmkFXx) | 4:24 |
 | 34 | [White Noise Is Bright](https://open.spotify.com/track/259rzFIqJmv7xCqPB4fL2E) | [Sampling Specialists](https://open.spotify.com/artist/7199IIJK2wW5yNXTaZtYmI) | [Resting Noise](https://open.spotify.com/album/1Bh7PlY6oNnUwHD7qpDfbh) | 2:31 |
 | 35 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 |
-| 36 | [Reverie White Noise](https://open.spotify.com/track/2m3nqd70klWytX8tQmKTzR) | [Skyline FX](https://open.spotify.com/artist/0Bk22etDRvzrog9780hCXb) | [Beautiful White Noise](https://open.spotify.com/album/4DmO0KwXz2l4iAdUwUJZaM) | 2:28 |
+| 36 | [Reverie White Noise](https://open.spotify.com/track/2m3nqd70klWytX8tQmKTzR) | [Biologique](https://open.spotify.com/artist/0DudONxjyhGIoLDd0o17f1) | [Beautiful White Noise](https://open.spotify.com/album/4DmO0KwXz2l4iAdUwUJZaM) | 2:28 |
 | 37 | [Static White Noise](https://open.spotify.com/track/5svd7YnvID8WQNSoPtwwLC) | [EXOA](https://open.spotify.com/artist/16fII77WGyUG8E5DTIW4EU) | [Static White Noise](https://open.spotify.com/album/2mxNJxAf0FY41F3qCu3bSl) | 3:42 |
 | 38 | [Still White Noise](https://open.spotify.com/track/4IkVHt61qt8XAJA81MhuS0) | [Cumulus Clouds](https://open.spotify.com/artist/5uhJr7gBXHomu0djGtzIgT) | [White Noise Oasis](https://open.spotify.com/album/60ZPAcO8Yr7LLThLX9kWz2) | 2:33 |
 | 39 | [Catching White Noise](https://open.spotify.com/track/1MCYnC24tTK0gtJnfc2ESg) | [XY Clouds](https://open.spotify.com/artist/7egIbqY4RQf9O8JDHHSzI6) | [Catching White Noise](https://open.spotify.com/album/3KD3HzUqQBxIGVKLPe1ktC) | 2:15 |

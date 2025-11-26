@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 257972,
+  "num_followers": 258044,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABdW7mozwQTJvo3bLdy+nZr",
+  "snapshot_id": "aSOgAAAAAABKEX7rPsugSPgSdwrfVkLP",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Luna Me Dijo",
+        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "La Luna Me Dijo",
+      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La \u00daltima",
         "url": "https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 183033,
       "name": "Aprend\u00ed",
       "url": "https://open.spotify.com/track/2DLiJQdjE1SrWwe1XB0ZJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Luna Me Dijo",
-        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
-      },
-      "artists": [
-        {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "La Luna Me Dijo",
-      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
     },
     {
       "added_at": null,
@@ -935,22 +935,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No se me Olvida",
-        "url": "https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd"
+        "name": "Desarmados",
+        "url": "https://open.spotify.com/album/6QQSmerojNi78RbZxlyKMW"
       },
       "artists": [
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 187857,
-      "name": "No se me Olvida",
-      "url": "https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc"
+      "duration_ms": 215115,
+      "name": "Desarmados",
+      "url": "https://open.spotify.com/track/7Mcf8uGggfDxoW2XWVlGns"
     },
     {
       "added_at": null,
@@ -995,26 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desarmados",
-        "url": "https://open.spotify.com/album/6QQSmerojNi78RbZxlyKMW"
+        "name": "No se me Olvida",
+        "url": "https://open.spotify.com/album/29cuT4ijmzhPIgkg6cUOLd"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 215115,
-      "name": "Desarmados",
-      "url": "https://open.spotify.com/track/7Mcf8uGggfDxoW2XWVlGns"
+      "duration_ms": 187857,
+      "name": "No se me Olvida",
+      "url": "https://open.spotify.com/track/06jk6DwI8NYNFKLuKRhNmc"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

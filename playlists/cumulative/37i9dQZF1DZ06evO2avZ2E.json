@@ -494,6 +494,28 @@
     {
       "album": {
         "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/65MFa2jVOo72kSn4WNz41Q"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/0A8Fsda6CkdYuxYW5aoDB6"
+    },
+    {
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
         "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
       "artists": [
@@ -508,7 +530,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/4d7FYD48HxrJc7HcmjHmGN"

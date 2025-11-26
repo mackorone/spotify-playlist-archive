@@ -4,7 +4,7 @@
 
 > und macht laune
 
-324 songs - 15 hr 3 min
+325 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [EURODANCE](https://open.spotify.com/track/6T88MZVzI2aKcpBPjrJpyx) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [EURODANCE](https://open.spotify.com/album/0cBalxWkwvPpjNxb7XRcUv) | 2:38 | 2023-08-18 | 2023-10-10 |
 | [Everytime We Touch](https://open.spotify.com/track/2iANaOu9ypAYmuiHf1QoIa) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Everytime We Touch](https://open.spotify.com/album/75jf8Uf0t4ZWYdNZO5qOfU) | 2:43 | 2025-10-09 | 2025-10-17 |
 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 | 2023-07-28 |  |
-| [Explodiert](https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Explodiert](https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb) | 2:38 | 2025-02-27 |  |
+| [Explodiert](https://open.spotify.com/track/6TwxfbWv60uq6SoskPJM8i) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Explodiert](https://open.spotify.com/album/6oT5hbuwAZBggkH8WlzyFb) | 2:38 | 2025-02-27 | 2025-11-26 |
 | [Fast Cars & Superstars](https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa) | [Cristian Marchi](https://open.spotify.com/artist/1OXFVdNx1BX2z7LuKpJyBW), [Reverend Haus](https://open.spotify.com/artist/3mm99b8u85c3cbeel8FDAJ) | [Fast Cars & Superstars](https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR) | 1:58 | 2025-03-10 |  |
 | [Faster n Harder](https://open.spotify.com/track/3qaMprRWLGggArD14diXYz) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Faster n Harder](https://open.spotify.com/album/60Ip03ili2ml9zed9hmQ9W) | 2:03 | 2024-03-28 | 2025-09-14 |
 | [Feels Like \(La La La\)](https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Feels Like \(La La La\)](https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn) | 2:48 | 2024-02-01 | 2024-03-07 |
@@ -126,6 +126,7 @@
 | [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-10-03 | 2023-10-29 |
 | [Gianna \- Harris & Ford x BIG TIM Remix](https://open.spotify.com/track/52lF2brp2QBZRcIlB0GJe4) | [Pietro Basile](https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Gianna \(Harris & Ford x BIG TIM Remix\)](https://open.spotify.com/album/4WlOuhtP3XtVMX28n3YBVH) | 2:25 | 2025-05-15 |  |
 | [Gib Ein Fick](https://open.spotify.com/track/6AzwugProtjAk3AYkRFw7H) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [United Ravers Against Fascism](https://open.spotify.com/album/0jgAlYslfHrkGslHOpnYz4) | 3:59 | 2023-12-28 | 2024-01-02 |
+| [GIFTMORD](https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [GIFTMORD](https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh) | 2:48 | 2025-11-20 |  |
 | [Girl You Know It's True \- Remix](https://open.spotify.com/track/5EUgF7uFtHByMB95zgf1ek) | [Carpoolboys](https://open.spotify.com/artist/2Ncvl4iQXrbH7FeJScNg87), [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA), [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Girl You Know It's True \(Remix\)](https://open.spotify.com/album/7JnXqGSQeMlboWuJpNGJAS) | 2:33 | 2023-12-19 | 2024-05-04 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-07-21 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-07-21 |  |

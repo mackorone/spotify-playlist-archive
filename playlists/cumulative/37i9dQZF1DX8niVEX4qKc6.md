@@ -4,13 +4,13 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-215 songs - 12 hr 34 min
+216 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 | 2023-08-18 |  |
 | [19](https://open.spotify.com/track/00WIAzbf3lxd19SrbvsC2u) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [19](https://open.spotify.com/album/7zZQf07iMUNH5YCFePfCtS) | 3:27 | 2023-08-18 | 2023-09-02 |
-| [2020](https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [2020](https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN) | 3:06 | 2025-03-07 |  |
+| [2020](https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [2020](https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN) | 3:06 | 2025-03-07 | 2025-11-26 |
 | [A la deriva](https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B) | [Pablo Joaquín](https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG), [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [A la deriva](https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e) | 3:06 | 2024-11-07 | 2025-03-07 |
 | [A Las Nueve](https://open.spotify.com/track/68cko9zdsKwaxgb98sF36S) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:22 | 2023-08-18 |  |
 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 | 2023-08-18 |  |
@@ -73,6 +73,7 @@
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2023-08-18 | 2024-04-19 |
 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 | 2024-03-15 |  |
 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 | 2023-08-18 |  |
+| [El Temporal](https://open.spotify.com/track/0pQ4aQ1g6lll9evj3yTiZh) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [El Filo](https://open.spotify.com/album/7rpkACLfv20YSPSkS4rS2d) | 2:42 | 2025-11-25 |  |
 | [El Tesoro \- Acústico](https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Otra Dimensión](https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6) | 5:20 | 2024-04-19 | 2025-04-01 |
 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 | 2023-08-18 |  |
 | [En Redondel \- Acústica](https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos \(Acústico\)](https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC) | 4:31 | 2023-08-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 707414,
+  "num_followers": 707429,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Leclerc",
+          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "What's up",
+      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Hallelujah",
         "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 247113,
       "name": "I'll Stand By You",
       "url": "https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Portfolio",
-        "url": "https://open.spotify.com/album/3freiCvxkilL9n9VFnFAWx"
-      },
-      "artists": [
-        {
-          "name": "Genevi\u00e8ve Leclerc",
-          "url": "https://open.spotify.com/artist/7oDXuMYxcBgaOfnuyngHAd"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "What's up",
-      "url": "https://open.spotify.com/track/7Ie1Iuekjwht6Va8znzBKL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Never Surrender",
+        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
+      },
+      "artists": [
+        {
+          "name": "Dante Hart",
+          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 258712,
       "name": "My Valentine (with Paul McCartney)",
       "url": "https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Never Surrender",
-        "url": "https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9"
-      },
-      "artists": [
-        {
-          "name": "Dante Hart",
-          "url": "https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Never Surrender",
-      "url": "https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -345,6 +345,32 @@
     },
     {
       "album": {
+        "name": "3 Cheez",
+        "url": "https://open.spotify.com/album/4xQchFTHs7sXaJFLSCnpX8"
+      },
+      "artists": [
+        {
+          "name": "The Siege",
+          "url": "https://open.spotify.com/artist/5HrGNVmY12srDtUFxDd49Z"
+        },
+        {
+          "name": "Natiq",
+          "url": "https://open.spotify.com/artist/4hTKmmAjtobKYm3DJJuSkL"
+        },
+        {
+          "name": "Devoni\u00e0n",
+          "url": "https://open.spotify.com/artist/1b4GDmWjhd45UxxkTEeSJ8"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "3 Cheez",
+      "url": "https://open.spotify.com/track/40YadhRdEGHNQP4mu0HZ7m"
+    },
+    {
+      "album": {
         "name": "3 DRAGS",
         "url": "https://open.spotify.com/album/22qni5DTd8Sx2W08kkSNV9"
       },
@@ -938,7 +964,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 156520,
       "name": "Aai Bo",
       "url": "https://open.spotify.com/track/7L9Um3qwrdu01waYwxjVOi"
@@ -1534,7 +1560,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 162193,
       "name": "Al Saher Al Hindi",
       "url": "https://open.spotify.com/track/7KPPKsFAscQhkQ3LSDRf91"
@@ -3157,6 +3183,32 @@
     },
     {
       "album": {
+        "name": "Barse Badal",
+        "url": "https://open.spotify.com/album/2ewUqnd2dWv6eV4C2cYxtQ"
+      },
+      "artists": [
+        {
+          "name": "Shehzzada",
+          "url": "https://open.spotify.com/artist/29y2VZDhyZa1sqK0RkYHDV"
+        },
+        {
+          "name": "Darshan K",
+          "url": "https://open.spotify.com/artist/4oJG1F5NNgzsJRRt5coAeM"
+        },
+        {
+          "name": "Ether",
+          "url": "https://open.spotify.com/artist/3hVZpj326eZpEm31GbKZYh"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220032,
+      "name": "Barse Badal",
+      "url": "https://open.spotify.com/track/5BydGOfMaBqUK2XwmFpLak"
+    },
+    {
+      "album": {
         "name": "Bas Ke Bahar",
         "url": "https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW"
       },
@@ -3190,7 +3242,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 154374,
       "name": "Bata Kya Naam Hai Tera",
       "url": "https://open.spotify.com/track/71aJgjc1IYmXqSopcW6qRJ"
@@ -6720,6 +6772,28 @@
       "duration_ms": 165473,
       "name": "Damh",
       "url": "https://open.spotify.com/track/78XM5iaa3GSu5jn6mhH2cS"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2ggqMOhg0B6rJNYOF52YsG"
+      },
+      "artists": [
+        {
+          "name": "Aashiqv",
+          "url": "https://open.spotify.com/artist/4nZdfXfb3McphwIPh5lSTz"
+        },
+        {
+          "name": "RJ47",
+          "url": "https://open.spotify.com/artist/6CReXsbhHy14JjEhUFouNE"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/41gC9EvemENlPt8QNQy1dM"
     },
     {
       "album": {
@@ -10606,6 +10680,28 @@
       "duration_ms": 181044,
       "name": "Haaymari",
       "url": "https://open.spotify.com/track/6341n6Q0sLvXq4SKGcCCgo"
+    },
+    {
+      "album": {
+        "name": "Hajamat (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/1P1ENaabjCevXxPc85svSh"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        },
+        {
+          "name": "Stunnah Beatz",
+          "url": "https://open.spotify.com/artist/0qtrkagnaYxnByLorZ1dzl"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Hajamat - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/1oWcg4CwaEre5N0dot02nn"
     },
     {
       "album": {
@@ -18199,6 +18295,32 @@
     },
     {
       "album": {
+        "name": "Not Found",
+        "url": "https://open.spotify.com/album/5aCBuYWe9CqWkYsF1zR68A"
+      },
+      "artists": [
+        {
+          "name": "Rap ID",
+          "url": "https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8"
+        },
+        {
+          "name": "TUSHe S",
+          "url": "https://open.spotify.com/artist/44n41m0dELEM4IgNSCZ1hu"
+        },
+        {
+          "name": "Katto",
+          "url": "https://open.spotify.com/artist/3I1grIb3XC6XmyzUZBJ8oW"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223783,
+      "name": "Not Found",
+      "url": "https://open.spotify.com/track/21ji4L4MyxEM9tAss3trJV"
+    },
+    {
+      "album": {
         "name": "Yours Truly",
         "url": "https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU"
       },
@@ -21748,7 +21870,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 133490,
       "name": "SMOKERNI !",
       "url": "https://open.spotify.com/track/2GR7zS0SOxchwNRwjYDsuv"
@@ -21934,7 +22056,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 187878,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/6zv4dK7S1OnSqo2LQlDwVA"
@@ -25288,7 +25410,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 142039,
       "name": "With All Due Respect",
       "url": "https://open.spotify.com/track/2Yoo8CA7rN1WD7KA0FibfH"
@@ -25674,6 +25796,32 @@
       "duration_ms": 229333,
       "name": "YDWK",
       "url": "https://open.spotify.com/track/6UZl93PVAXH0cRGKGtLKt8"
+    },
+    {
+      "album": {
+        "name": "Ye Mard Bechara Rap Song (From \"Ye Mard Bechara\")",
+        "url": "https://open.spotify.com/album/6n07zzVISu58Iyx5mDNup4"
+      },
+      "artists": [
+        {
+          "name": "Sampoet",
+          "url": "https://open.spotify.com/artist/2ZFn8WXu29WlrUr5BJEvrX"
+        },
+        {
+          "name": "Anuup Thapa",
+          "url": "https://open.spotify.com/artist/21D6rRYxyw2eZU7486B1I2"
+        },
+        {
+          "name": "Arabinda Neog",
+          "url": "https://open.spotify.com/artist/4O0UY7QlS80oeDZB1g7iWf"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247211,
+      "name": "Ye Mard Bechara Rap Song (From \"Ye Mard Bechara\")",
+      "url": "https://open.spotify.com/track/6xeQtv61jMQyfrseZuLJrX"
     },
     {
       "album": {

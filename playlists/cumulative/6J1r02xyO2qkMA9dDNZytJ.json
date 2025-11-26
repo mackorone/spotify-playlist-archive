@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "All That I Need",
+        "url": "https://open.spotify.com/album/634qXtFl1IRphkwrd4zlg2"
+      },
+      "artists": [
+        {
+          "name": "Mas Que Nada Brothers",
+          "url": "https://open.spotify.com/artist/3OqXRs7ndYP9YEvzgEYwqW"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142622,
+      "name": "All That I Need",
+      "url": "https://open.spotify.com/track/0eT7nHvAr3Ag3VAW1CPurZ"
+    },
+    {
+      "album": {
         "name": "Always (feat. Eric B Turner)",
         "url": "https://open.spotify.com/album/5OR54fsBzNS74CVSoMfpBP"
       },
@@ -174,6 +192,24 @@
       "duration_ms": 127994,
       "name": "BATTERY OPERATED",
       "url": "https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9"
+    },
+    {
+      "album": {
+        "name": "Black Jack",
+        "url": "https://open.spotify.com/album/5I2zNfgiiSIwp7iICFf2sj"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Black Jack",
+      "url": "https://open.spotify.com/track/7uylPBzqcGz9qw2jHwjF9J"
     },
     {
       "album": {
@@ -374,7 +410,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 187906,
       "name": "Caught Up In Your Love",
       "url": "https://open.spotify.com/track/0DqoMb5k3NMkl0c8HwB6GP"
@@ -392,10 +428,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 212385,
       "name": "Change Our Love",
       "url": "https://open.spotify.com/track/3TK3eX87i9eYjZyzkz65RV"
+    },
+    {
+      "album": {
+        "name": "Change The Music",
+        "url": "https://open.spotify.com/album/0hxjyKf8F0WGtPSkAs9MPG"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "Change The Music",
+      "url": "https://open.spotify.com/track/7oj6LlNiA8GurBIxWAl3EC"
     },
     {
       "album": {
@@ -432,7 +486,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
@@ -476,7 +530,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 158095,
       "name": "Dance To The Music",
       "url": "https://open.spotify.com/track/0izF9lgQMFggcKXaia48Xa"
@@ -968,6 +1022,28 @@
       "duration_ms": 188467,
       "name": "Gonna Make U",
       "url": "https://open.spotify.com/track/7xTyPF9xZIcCT99udCyfnt"
+    },
+    {
+      "album": {
+        "name": "Good To Go",
+        "url": "https://open.spotify.com/album/1Vej6ZvPbYQxZckYTLYO9B"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "Good To Go",
+      "url": "https://open.spotify.com/track/3XndZgN7LIjUPjgjvF89dc"
     },
     {
       "album": {

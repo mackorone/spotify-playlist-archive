@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "CHELLA CHANT",
+        "url": "https://open.spotify.com/album/4YkjACbUDJI9ILLW5tvPnO"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "date_added": "2025-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "CHELLA CHANT",
+      "url": "https://open.spotify.com/track/4Fhs0L0XHoA10GZ1rir1hc"
+    },
+    {
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 243744,
       "name": "NUMBER ONE (feat. Minz)",
       "url": "https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb"

@@ -1057,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Songwriter",
+        "url": "https://open.spotify.com/album/2jHrXoaw4ngQGU6dKp2f48"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "One Day Longer",
+      "url": "https://open.spotify.com/track/0vH2LlAYsYeTPjEp9mgNoC"
+    },
+    {
+      "album": {
         "name": "Keith Urban",
         "url": "https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS"
       },

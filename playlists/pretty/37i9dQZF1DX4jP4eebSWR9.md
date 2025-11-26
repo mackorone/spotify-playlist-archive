@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 
 > 50 Hits in einer Playlist! Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577,975 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,577,629 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jP4eebSWR9.md) - [plain]
 | 49 | [MAMA HATTE IMMER RECHT](https://open.spotify.com/track/6Gfbu9oUqUabKtnd6QM31o) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [MAMA HATTE IMMER RECHT](https://open.spotify.com/album/0o7zQk8fjAhiwvBaeXBy1X) | 2:28 |
 | 50 | [Sei mal ehrlich](https://open.spotify.com/track/6jrANrjukANx0ACCVbz2lq) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [Alles oder Nix](https://open.spotify.com/album/2Ka6ZgzImEXyFSUh5tY1kg) | 2:52 |
 
-Snapshot ID: `AAAAABzUaFfzTDJWlV5VC0g58f28aNIx`
+Snapshot ID: `AAAAAN3hVOuHe3pNhA9fZS14NBYUqw5z`

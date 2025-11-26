@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 69986,
+  "num_followers": 69990,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABqTfFjnIlfWKdgvufcyT26",
+  "snapshot_id": "aSOgAAAAAAD+di9SYASAbp6xITBcyJ1E",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada loco con su tema",
-        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 220761,
-      "name": "Cada loco con su tema",
-      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -427,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00"
       },
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+        "name": "Cada loco con su tema",
+        "url": "https://open.spotify.com/album/6djDR6k780ATn4MDyzTYgi"
       },
       "artists": [
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
         },
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 188708,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+      "duration_ms": 220761,
+      "name": "Cada loco con su tema",
+      "url": "https://open.spotify.com/track/4JwjXSvPKjNlytetacPg8Z"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 175739,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 190836,
       "name": "A Tu Manera (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/3h7ODTSCO3gIqO45S7wu0O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 175739,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias (Remix)",
         "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 253586,
       "name": "Gracias - Remix",
       "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201540,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,

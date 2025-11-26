@@ -4,7 +4,7 @@
 
 > christmas always makes me cry
 
-101 songs - 5 hr 25 min
+102 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 | 2022-12-16 | 2024-04-19 |
 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/0z5HSQGWgnjdNvwbOmhB2w) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition/Reissue\)](https://open.spotify.com/album/5GMAtv4CU6GYQMo36Uuiqc) | 3:06 | 2022-10-23 | 2024-04-19 |
 | [Merry Christmas Darling \- Remix](https://open.spotify.com/track/7eEq6hRC7bZfWvrQW7gcdm) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Winter Wonderland](https://open.spotify.com/album/6koZAOj4dhvtm9L0fLZhpQ) | 3:06 | 2022-10-23 | 2022-11-14 |
+| [Merry Christmas, i miss you](https://open.spotify.com/track/2GFrDW0pEXpjbNrKvFYI8k) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [Merry Christmas, i miss you](https://open.spotify.com/album/1JrnkLclHl6rgCZ6blcaRp) | 4:06 | 2025-11-25 |  |
 | [Merry Christmas, Please Don't Call](https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Merry Christmas, Please Don't Call](https://open.spotify.com/album/4ngrC1or0nXFHjHdRDldhW) | 3:22 | 2024-11-25 |  |
 | [Miss You Most \(At Christmas Time\)](https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:33 | 2023-11-21 |  |
 | [Not So Merry Christmas](https://open.spotify.com/track/2PJus90Cvm31pZPMiUHvsT) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Not So Merry Christmas](https://open.spotify.com/album/3FjEsDVwunoyH7JsM8CyVi) | 3:53 | 2025-11-14 |  |
@@ -91,7 +92,7 @@
 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 | 2022-10-23 |  |
 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 | 2022-11-28 |  |
 | [The First Noel](https://open.spotify.com/track/4WW2Bdai1qzTnNkWNJCGNg) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:44 | 2022-10-23 |  |
-| [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 | 2023-11-21 |  |
+| [The Ghost of New Years Past](https://open.spotify.com/track/5DwWcIrYo4GgqJjxYW47nD) | [Book On Tape Worm](https://open.spotify.com/artist/7K1NlbQTUisk7RbqVHMaVJ) | [The Ghost of New Years Past](https://open.spotify.com/album/1dOgArn4bahlWfPsZKK8C5) | 5:41 | 2023-11-21 | 2025-11-26 |
 | [The Holidays With You](https://open.spotify.com/track/3JMZ5QcFKxGpnMuqOWGvmU) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Holidays With You](https://open.spotify.com/album/02dmqljeCWllbNuP5BVbUg) | 2:05 | 2022-11-28 | 2024-07-18 |
 | [The Little Boy That Santa Claus Forgot \- 1990 Remaster](https://open.spotify.com/track/4nYhFybm5G4ETNt19pcKzs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole, Christmas & Kids](https://open.spotify.com/album/6L559yGVxmFOW8ViMMbWI1) | 2:33 | 2022-10-23 | 2024-03-25 |
 | [The Secret Of Christmas](https://open.spotify.com/track/4JfmVZv6rhWBxKSf7xfe5F) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:45 | 2022-10-23 |  |

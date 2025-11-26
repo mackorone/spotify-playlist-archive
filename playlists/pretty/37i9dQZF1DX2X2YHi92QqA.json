@@ -1,6 +1,6 @@
 {
   "description": "\u041c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0454\u043c\u043d\u0438\u0445 \u043e\u0441\u0456\u043d\u043d\u0456\u0445 \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \ud83c\udf41",
-  "num_followers": 38849,
+  "num_followers": 38854,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
+        "name": "\u042f\u043d\u0430\u043d\u0435\u0431\u0456\u0431\u0443\u0432",
+        "url": "https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh"
+      },
+      "artists": [
+        {
+          "name": "Okean Elzy",
+          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
+        }
+      ],
+      "duration_ms": 271670,
+      "name": "\u0421\u043e\u0441\u043d\u0438",
+      "url": "https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
         "name": "\u041a\u043e\u043b\u0438 \u043a\u0432\u0456\u0442\u043d\u0435 \u043f\u0430\u043f\u043e\u0440\u043e\u0442\u044c",
         "url": "https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 218928,
       "name": "\u041c\u0435\u043d\u0456 \u0442\u0435\u0431\u0435 \u0431\u0440\u0430\u043a\u0443\u0454",
       "url": "https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
-        "name": "\u042f\u043d\u0430\u043d\u0435\u0431\u0456\u0431\u0443\u0432",
-        "url": "https://open.spotify.com/album/6G88Fi3Xa2MGwUTjuS23oh"
-      },
-      "artists": [
-        {
-          "name": "Okean Elzy",
-          "url": "https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS"
-        }
-      ],
-      "duration_ms": 271670,
-      "name": "\u0421\u043e\u0441\u043d\u0438",
-      "url": "https://open.spotify.com/track/5KiGsTkfN86b6oEyzLJ0uS"
     },
     {
       "added_at": "2025-09-01 16:25:25",

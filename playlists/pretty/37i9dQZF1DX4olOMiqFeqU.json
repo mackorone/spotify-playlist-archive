@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2485271,
+  "num_followers": 2485349,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-10-22 10:20:26",
       "album": {
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+      },
+      "artists": [
+        {
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+        }
+      ],
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+    },
+    {
+      "added_at": "2025-10-22 10:20:26",
+      "album": {
         "name": "ikaw, ikaw, ikaw",
         "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 174000,
       "name": "ikaw, ikaw, ikaw",
       "url": "https://open.spotify.com/track/4RmKeqmqtYIl0tbeTnLyXi"
-    },
-    {
-      "added_at": "2025-10-22 10:20:26",
-      "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
-      },
-      "artists": [
-        {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
-        }
-      ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
     },
     {
       "added_at": "2025-10-22 10:20:26",

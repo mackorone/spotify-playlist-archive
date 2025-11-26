@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 
 > 2021
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 147 songs - 9 hr 51 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 2 likes - 149 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,5 +155,7 @@ pretty - [cumulative](/playlists/cumulative/20QheuAYbSRnj6SaIbjPWA.md) - [plain]
 | 145 | [Instant Crush \(feat\. Julian Casablancas\)](https://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:37 |
 | 146 | [Carlos \(interlude\)](https://open.spotify.com/track/03LSUjL0Rqh2Lpj1rKgsmG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 2:01 |
 | 147 | [Cariad](https://open.spotify.com/track/3yqF4F1Kk10VdUuIKOXzx6) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Songs For The Spine](https://open.spotify.com/album/3Cev9xMaHpqf4QOdwkm4hc) | 4:15 |
+| 148 | [Glass Eyes](https://open.spotify.com/track/0uOeAmfdyaekD2RIGwCDwq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 2:52 |
+| 149 | [Spanish Sahara](https://open.spotify.com/track/2fWSJxOHKSqXOkhxyo3Gly) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/7edt9zVFJtKYLMI213anC9) | 6:49 |
 
-Snapshot ID: `AAABCoQiHsjrK6x9+ZHSCZLyMLxyW6kT`
+Snapshot ID: `AAABDJxufibRkasXS3xguHSI9uC4/1yA`

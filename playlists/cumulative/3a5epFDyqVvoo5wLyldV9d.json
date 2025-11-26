@@ -13157,6 +13157,24 @@
     },
     {
       "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239752,
+      "name": "Soleil Soleil",
+      "url": "https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u"
+    },
+    {
+      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/2s40kpu6uD0VownTOxAEuc"
       },

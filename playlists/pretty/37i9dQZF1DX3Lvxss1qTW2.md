@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,723 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,820 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 9 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 |
 | 10 | [UNLIMITED](https://open.spotify.com/track/5Qt3tb5U0VvYbiQXW8SID9) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [UNLIMITED](https://open.spotify.com/album/6FvHEmAaSR9mgfQVC0XpZm) | 2:06 |
 | 11 | [Titi](https://open.spotify.com/track/56lGvDVasowdpufZnBJbuB) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 3:01 |
-| 12 | [Cana](https://open.spotify.com/track/0G1DWw8n7jVuZZSzk3nkrt) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Qube](https://open.spotify.com/artist/6DZ1GP0B9nD4SjJiqiWi8D) | [Cana](https://open.spotify.com/album/5s4ar9DdtC49mMO7nkOpDi) | 2:37 |
+| 12 | [Cana](https://open.spotify.com/track/0G1DWw8n7jVuZZSzk3nkrt) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Qube](https://open.spotify.com/artist/6DZ1GP0B9nD4SjJiqiWi8D), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan) | [Cana](https://open.spotify.com/album/5s4ar9DdtC49mMO7nkOpDi) | 2:37 |
 | 13 | [Gaddem](https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Gaddem](https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1) | 2:41 |
 | 14 | [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 |
 | 15 | [Escaladizzy II](https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Escaladizzy II](https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu) | 3:33 |

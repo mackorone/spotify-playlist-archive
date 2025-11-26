@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,264 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,263 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 52 | [Cabello Rojo](https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks) | [Nova Club](https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA) | [Cabello Rojo](https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38) | 3:14 |
 | 53 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
 | 54 | [Juguetona](https://open.spotify.com/track/26oMIjeGkEonsecfDLW5b0) | [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Nova "La Amenaza"](https://open.spotify.com/artist/40lIeuVeOyTsifyK93dUIx), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Juguetona](https://open.spotify.com/album/3zOc6LvKoVlbeTJ1MslyuG) | 2:30 |
-| 55 | [adondevamos??](https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Chris Redd](https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [adondevamos??](https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf) | 3:51 |
-| 56 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
+| 55 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
+| 56 | [adondevamos??](https://open.spotify.com/track/7137vD0rMEEK3Qoy3G9Sp7) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Chris Redd](https://open.spotify.com/artist/7crFZj2YKqQHpQZuTtt1C6), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [adondevamos??](https://open.spotify.com/album/7F766sekcvwWXK5YVp7eJf) | 3:51 |
 | 57 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 58 | [Entresueños](https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Entresueños](https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz) | 2:56 |
 | 59 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 64 | [luego](https://open.spotify.com/track/0MjRGi3GhLRvhwwLkzfMNC) | [luego luego](https://open.spotify.com/artist/6ETrCLLn8ZYnM56U2r8Q7R) | [inconformidable](https://open.spotify.com/album/6oA72A4zOHr3IMr4kC1gS5) | 2:01 |
 | 65 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
 | 66 | [Pepper](https://open.spotify.com/track/6ZSjGWn7C6Xw1dRHlNLsCP) | [Galvancillo](https://open.spotify.com/artist/1CoKmNxIr7haxlqBCzVnMV) | [Pepper](https://open.spotify.com/album/5ZUAHLGYZheB9ope87iNmm) | 3:22 |
-| 67 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 |
+| 67 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
 | 68 | [Sticky](https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MONVCO](https://open.spotify.com/artist/1rGlHeD5HzcjBJiW7kq7ZJ), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Sticky](https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098) | 2:38 |
-| 69 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
+| 69 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 |
 | 70 | [Cuándo Tú Me Tocas](https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Just Roger](https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0) | [Cuándo Tú Me Tocas](https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M) | 2:28 |
 | 71 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
-| 72 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
-| 73 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
-| 74 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
-| 75 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
+| 72 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
+| 73 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
+| 74 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
+| 75 | [ATIZALE](https://open.spotify.com/track/3OLDaypybBlk46CtasInNL) | [Refugee](https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx) | [ATIZALE](https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv) | 2:24 |
 
 Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

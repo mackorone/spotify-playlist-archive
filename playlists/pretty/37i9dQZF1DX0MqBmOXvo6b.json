@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 431345,
+  "num_followers": 431375,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
+        "name": "From a Distance",
+        "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
+      },
+      "artists": [
+        {
+          "name": "Mindy Thurma",
+          "url": "https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui"
+        }
+      ],
+      "duration_ms": 147348,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
         "name": "Pine Valley",
         "url": "https://open.spotify.com/album/2VHmIO8N0ddnVEQjlZ4TdW"
       },
@@ -427,38 +443,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Azalea",
-        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 143750,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
-        "name": "From a Distance",
-        "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
-      },
-      "artists": [
-        {
-          "name": "Mindy Thurma",
-          "url": "https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui"
-        }
-      ],
-      "duration_ms": 147348,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "There Is Light",
         "url": "https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 178624,
       "name": "There Is Light",
       "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Como Nights",
-        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
-      },
-      "artists": [
-        {
-          "name": "Marcello Fiorenza",
-          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
-        }
-      ],
-      "duration_ms": 150854,
-      "name": "Como Nights",
-      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Prati",
         "url": "https://open.spotify.com/album/0Z9iN9qKmgZe3c5RemXZBU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 145566,
       "name": "Prati",
       "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Como Nights",
+        "url": "https://open.spotify.com/album/3bZKW7ymUplTt1CDlyfg9F"
+      },
+      "artists": [
+        {
+          "name": "Marcello Fiorenza",
+          "url": "https://open.spotify.com/artist/4tkBlLUThSYUXx9MuDyD5G"
+        }
+      ],
+      "duration_ms": 150854,
+      "name": "Como Nights",
+      "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "somewhere else, together",
-        "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 189108,
-      "name": "somewhere else, together",
-      "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Making peace",
         "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 143034,
       "name": "Making peace",
       "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "somewhere else, together",
+        "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 189108,
+      "name": "somewhere else, together",
+      "url": "https://open.spotify.com/track/4Pl37bufUvxJOhLJIfLCcl"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Find The Light Behind The Clouds",
-        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
-      },
-      "artists": [
-        {
-          "name": "Muri\u00ebl Bostdorp",
-          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
-        }
-      ],
-      "duration_ms": 139884,
-      "name": "Find The Light Behind The Clouds",
-      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Silent Waltz",
         "url": "https://open.spotify.com/album/57i8rQXOklkf6I0bD1vWZg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 162968,
       "name": "Silent Waltz",
       "url": "https://open.spotify.com/track/4ztFWnV0ujL6LoIhX24Tys"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Find The Light Behind The Clouds",
+        "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00ebl Bostdorp",
+          "url": "https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq"
+        }
+      ],
+      "duration_ms": 139884,
+      "name": "Find The Light Behind The Clouds",
+      "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
+        "name": "Reiu",
+        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Reiu",
+      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
         "name": "Ing\u00e9nue",
         "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 174471,
       "name": "Amenable",
       "url": "https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
-        "name": "Reiu",
-        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Reiu",
-      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Into the Unknown",
-        "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
-      },
-      "artists": [
-        {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
-        }
-      ],
-      "duration_ms": 159739,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Last Summer",
         "url": "https://open.spotify.com/album/2Ut8GPa6BSH6cDTUnc890v"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 140541,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/6zWlb8ign5eEFLES2wnrZZ"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Into the Unknown",
+        "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
+      },
+      "artists": [
+        {
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
+        }
+      ],
+      "duration_ms": 159739,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
-      },
-      "artists": [
-        {
-          "name": "Aron E. Ross",
-          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
-        }
-      ],
-      "duration_ms": 176137,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Nostrella",
         "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 156321,
       "name": "Nostrella",
       "url": "https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/3PMbgWveWWvXDqNl8h8v4m"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "duration_ms": 176137,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/6ffWLQVoGsJyXeqkgXSAIg"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1563,34 +1563,18 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Only Illusions",
-        "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
+        "name": "Fleur De Vie",
+        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
       "artists": [
         {
-          "name": "Duke Wolverine",
-          "url": "https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM"
+          "name": "Jonas Bergsson",
+          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
         }
       ],
-      "duration_ms": 146515,
-      "name": "Only Illusions",
-      "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
-        "name": "Rest",
-        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
-      },
-      "artists": [
-        {
-          "name": "Algot Brooke",
-          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
-        }
-      ],
-      "duration_ms": 174426,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+      "duration_ms": 176717,
+      "name": "Fleur De Vie",
+      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1611,18 +1595,34 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Fleur De Vie",
-        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/5PyoVVil8AmVxpN8Gxzitj"
       },
       "artists": [
         {
-          "name": "Jonas Bergsson",
-          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
+          "name": "Algot Brooke",
+          "url": "https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC"
         }
       ],
-      "duration_ms": 176717,
-      "name": "Fleur De Vie",
-      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+      "duration_ms": 174426,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/634pdMJ4hY7Ttaf8B45C0C"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Only Illusions",
+        "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
+      },
+      "artists": [
+        {
+          "name": "Duke Wolverine",
+          "url": "https://open.spotify.com/artist/5iYvS2jVftMWcPDcaiCwXM"
+        }
+      ],
+      "duration_ms": 146515,
+      "name": "Only Illusions",
+      "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "D\u00e9lise",
-        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
-      },
-      "artists": [
-        {
-          "name": "Raffaello Sorrento",
-          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
-        }
-      ],
-      "duration_ms": 125968,
-      "name": "D\u00e9lise",
-      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "A Walk by the River",
         "url": "https://open.spotify.com/album/5Peob5RmIHgQaQ0QvXoYPG"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 136941,
       "name": "A Walk by the River",
       "url": "https://open.spotify.com/track/1UK81gd31XvoQmDWVFlmWP"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "D\u00e9lise",
+        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
+      },
+      "artists": [
+        {
+          "name": "Raffaello Sorrento",
+          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
+        }
+      ],
+      "duration_ms": 125968,
+      "name": "D\u00e9lise",
+      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Landet",
-        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 126760,
-      "name": "Landet",
-      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Quietude",
         "url": "https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 156405,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Marche Lente",
-        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 131436,
-      "name": "Marche Lente",
-      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Armonia",
         "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 180830,
       "name": "Armonia",
       "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Marche Lente",
+        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "duration_ms": 131436,
+      "name": "Marche Lente",
+      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
-      },
-      "artists": [
-        {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
-        }
-      ],
-      "duration_ms": 140592,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Southern Air",
         "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 226835,
       "name": "Southern Air",
       "url": "https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "duration_ms": 140592,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Lik Eit Tre (Ps.1)",
-        "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
-      },
-      "artists": [
-        {
-          "name": "John Vegard Schow",
-          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
-        }
-      ],
-      "duration_ms": 154844,
-      "name": "Lik Eit Tre - Ps.1",
-      "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Ocean Breeze",
         "url": "https://open.spotify.com/album/6J2YEsayKZ16bcp549OHV3"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
+        "name": "Lik Eit Tre (Ps.1)",
+        "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
       },
       "artists": [
         {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+          "name": "John Vegard Schow",
+          "url": "https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN"
         }
       ],
-      "duration_ms": 207219,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
+      "duration_ms": 154844,
+      "name": "Lik Eit Tre - Ps.1",
+      "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -2091,6 +2075,22 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "duration_ms": 207219,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
         "name": "Glimmer",
         "url": "https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf"
       },
@@ -2103,22 +2103,6 @@
       "duration_ms": 160741,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
-        "name": "Une rivi\u00e8re silencieuse",
-        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Une rivi\u00e8re silencieuse",
-      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -2139,6 +2123,22 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
+        "name": "Une rivi\u00e8re silencieuse",
+        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Une rivi\u00e8re silencieuse",
+      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
         "name": "Caluna",
         "url": "https://open.spotify.com/album/0EN5rl3uMWuiR5fD3iQrLw"
       },
@@ -2151,22 +2151,6 @@
       "duration_ms": 131250,
       "name": "Caluna",
       "url": "https://open.spotify.com/track/4YT5ttzgRx4171gCPf0kxM"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
-        "name": "Peaceful Ignorance",
-        "url": "https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16"
-      },
-      "artists": [
-        {
-          "name": "Evening Tales from the Stars",
-          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "Peaceful Ignorance",
-      "url": "https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
+        "name": "Peaceful Ignorance",
+        "url": "https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16"
+      },
+      "artists": [
+        {
+          "name": "Evening Tales from the Stars",
+          "url": "https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "Peaceful Ignorance",
+      "url": "https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
         "name": "Emanate",
         "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
       },
@@ -2199,6 +2199,22 @@
       "duration_ms": 179281,
       "name": "Emanate",
       "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "added_at": "2025-11-12 10:41:17",
@@ -2235,22 +2251,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "Quiet Suns",
-        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
-      },
-      "artists": [
-        {
-          "name": "Skaresn\u00f8",
-          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
-        }
-      ],
-      "duration_ms": 131374,
-      "name": "Quiet Suns",
-      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/4sTkIu2zQegGH1eC9SPXxg"
       },
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-11-12 10:41:17",
       "album": {
-        "name": "The Magic of a Piano",
-        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
-      },
-      "artists": [
-        {
-          "name": "Pederosa Calafiori",
-          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
-        }
-      ],
-      "duration_ms": 167844,
-      "name": "The Magic of a Piano",
-      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
-    },
-    {
-      "added_at": "2025-11-12 10:41:17",
-      "album": {
         "name": "Veiled Memory",
         "url": "https://open.spotify.com/album/5uaz6CNRu055gCdLSJVLEt"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 135437,
       "name": "Veiled Memory",
       "url": "https://open.spotify.com/track/56owYDwyHyN0211FP8X9UD"
+    },
+    {
+      "added_at": "2025-11-12 10:41:17",
+      "album": {
+        "name": "The Magic of a Piano",
+        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "duration_ms": 167844,
+      "name": "The Magic of a Piano",
+      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
     },
     {
       "added_at": "2025-11-12 10:41:17",

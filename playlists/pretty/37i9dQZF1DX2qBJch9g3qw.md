@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 
 > lost in a haze
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,769 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,492 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2qBJch9g3qw.md) - [plain]
 | 50 | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Endless No Mores \- A COLORS SHOW](https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk) | 2:59 |
 | 51 | [Fall in Love With Her](https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Fall In Love With Her](https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9) | 4:05 |
 | 52 | [Over & Done](https://open.spotify.com/track/0fjO41F0zhpJaLp7GEvMON) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [Carrie.](https://open.spotify.com/artist/7d1YYFPCWI2xsrZHa7U9Md) | [Over & Done](https://open.spotify.com/album/3xuOAlopCvFZtJanfT0ab3) | 3:22 |
-| 53 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
-| 54 | [Diamond Miner](https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Diamond Miner](https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE) | 3:51 |
-| 55 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
-| 56 | [HDYK](https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [HDYK](https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD) | 4:05 |
-| 57 | [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 |
-| 58 | [Adore You \(feat\. Abhi Dijon\)](https://open.spotify.com/track/25isxLhIKV8lNSecmvY700) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:31 |
+| 53 | [Diamond Miner](https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Diamond Miner](https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE) | 3:51 |
+| 54 | [Take Our Time](https://open.spotify.com/track/0yrl69mUFPR0y5EvDdVSM9) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [Take Our Time](https://open.spotify.com/album/46oA9RFcjoFroXjGZA3xmg) | 2:25 |
+| 55 | [HDYK](https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [HDYK](https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD) | 4:05 |
+| 56 | [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 |
+| 57 | [Adore You \(feat\. Abhi Dijon\)](https://open.spotify.com/track/25isxLhIKV8lNSecmvY700) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [For All We Know](https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6) | 3:31 |
+| 58 | [Speak](https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Speak](https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ) | 3:46 |
 | 59 | [Dear Fren](https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 3:02 |
 | 60 | [self respect](https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [self respect](https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V) | 3:29 |
 

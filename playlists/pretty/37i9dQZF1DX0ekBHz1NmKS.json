@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 196041,
+  "num_followers": 196039,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Sciura",
-        "url": "https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "H\u00e4mta mer",
-      "url": "https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "UPPENBART",
         "url": "https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 141000,
       "name": "UPPENBART",
       "url": "https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "Sciura",
+        "url": "https://open.spotify.com/album/1hFIfwfxnj8psJygCamspI"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 281213,
+      "name": "H\u00e4mta mer",
+      "url": "https://open.spotify.com/track/5LcaQhfIrbt38NAeile7VL"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Svensk Rost",
-        "url": "https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "S\u00e5 s\u00f6tt livet kan smaka",
-      "url": "https://open.spotify.com/track/6UWivnKJZ7fojidyVzcNMp"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "Hon e 32 oktober",
         "url": "https://open.spotify.com/album/0eUYDZ5GoXIbicmUKxHCQm"
       },
@@ -667,22 +651,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Haunted Disco",
-        "url": "https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ"
+        "name": "Svensk Rost",
+        "url": "https://open.spotify.com/album/4WajYbYTC43tWcQx6E0OOu"
       },
       "artists": [
         {
-          "name": "SCARLET",
-          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
-        },
-        {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 187576,
-      "name": "Haunted Disco",
-      "url": "https://open.spotify.com/track/3rb03cQotAdhTuM4wHMojD"
+      "duration_ms": 169066,
+      "name": "S\u00e5 s\u00f6tt livet kan smaka",
+      "url": "https://open.spotify.com/track/6UWivnKJZ7fojidyVzcNMp"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -703,6 +683,26 @@
       "duration_ms": 196314,
       "name": "Get It Over",
       "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "Haunted Disco",
+        "url": "https://open.spotify.com/album/1n9r7bEikcyEqGbMenMySZ"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN"
+        },
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 187576,
+      "name": "Haunted Disco",
+      "url": "https://open.spotify.com/track/3rb03cQotAdhTuM4wHMojD"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Genom Livet",
-        "url": "https://open.spotify.com/album/0ct8ntphMdMigKb79CkPlA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Genom Livet",
-      "url": "https://open.spotify.com/track/68z4nDnQabrnULlTyAvaCK"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "Edge of the Earth",
         "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "M\u00f6rka himlar",
-        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
+        "name": "Genom Livet",
+        "url": "https://open.spotify.com/album/0ct8ntphMdMigKb79CkPlA"
       },
       "artists": [
         {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         }
       ],
-      "duration_ms": 216750,
-      "name": "M\u00f6rka himlar",
-      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
+      "duration_ms": 138600,
+      "name": "Genom Livet",
+      "url": "https://open.spotify.com/track/68z4nDnQabrnULlTyAvaCK"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -827,38 +811,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Saltvatten",
-        "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
+        "name": "M\u00f6rka himlar",
+        "url": "https://open.spotify.com/album/5PHec3lpUQZGeuT1BTSojU"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        },
-        {
-          "name": "Kasino",
-          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
         }
       ],
-      "duration_ms": 226520,
-      "name": "Saltvatten",
-      "url": "https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
-        "name": "BALENCIAGA COVERED EYES",
-        "url": "https://open.spotify.com/album/65keRrrRODi48zyrWoS949"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 245567,
-      "name": "BALENCIAGA COVERED EYES",
-      "url": "https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt"
+      "duration_ms": 216750,
+      "name": "M\u00f6rka himlar",
+      "url": "https://open.spotify.com/track/7FPj2OBT6fKMgVCX2uT8f4"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -879,6 +843,22 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
+        "name": "BALENCIAGA COVERED EYES",
+        "url": "https://open.spotify.com/album/65keRrrRODi48zyrWoS949"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 245567,
+      "name": "BALENCIAGA COVERED EYES",
+      "url": "https://open.spotify.com/track/3KokqGsGKwLNjHxLbRIBQt"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
         "name": "D\u00e5lig teve",
         "url": "https://open.spotify.com/album/5Jtg0DVZ0hIBlaMkm3oxAc"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 219357,
       "name": "D\u00e5lig teve",
       "url": "https://open.spotify.com/track/1MRBWzBJkmj7hhsIoWP2kx"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "Saltvatten",
+        "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        },
+        {
+          "name": "Kasino",
+          "url": "https://open.spotify.com/artist/3IEtgyeW1PloQcjPDxItk2"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Saltvatten",
+      "url": "https://open.spotify.com/track/3HSGRCxQNn67uVhtjFMnju"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
+        "name": "V\u00e4xtv\u00e4rk",
+        "url": "https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "V\u00e4xtv\u00e4rk",
+      "url": "https://open.spotify.com/track/71YshPURU1bulv8OuF9d94"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
         "name": "Superhj\u00e4ltar",
         "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 180233,
       "name": "C-dur",
       "url": "https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
-        "name": "V\u00e4xtv\u00e4rk",
-        "url": "https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46"
-      },
-      "artists": [
-        {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "V\u00e4xtv\u00e4rk",
-      "url": "https://open.spotify.com/track/71YshPURU1bulv8OuF9d94"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "T\u00e5rar",
-        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 182567,
-      "name": "T\u00e5rar",
-      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "Trubbel & Kaos",
         "url": "https://open.spotify.com/album/4CH6ktJkCRBzMBcmpgEuMS"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 211093,
       "name": "Trubbel & Kaos",
       "url": "https://open.spotify.com/track/0F9XxIEX9ETweXamPrdCgO"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 182567,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Svindlande h\u00f6jder",
-        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 255386,
-      "name": "Svindlande h\u00f6jder",
-      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "Modigare",
         "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 233614,
       "name": "Modigare",
       "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "Svindlande h\u00f6jder",
+        "url": "https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 255386,
+      "name": "Svindlande h\u00f6jder",
+      "url": "https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Evergreen min v\u00e4n evergreen",
-        "url": "https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 183253,
-      "name": "Evergreen min v\u00e4n evergreen",
-      "url": "https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "Underbar",
         "url": "https://open.spotify.com/album/0eNz0x9a8zKVGjlWi9wK1V"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Backspegeln",
-        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+        "name": "Evergreen min v\u00e4n evergreen",
+        "url": "https://open.spotify.com/album/2Ge4FZk4hqlX6snqKj2GKX"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
         }
       ],
-      "duration_ms": 226745,
-      "name": "Backspegeln - Radio Edit",
-      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+      "duration_ms": 183253,
+      "name": "Evergreen min v\u00e4n evergreen",
+      "url": "https://open.spotify.com/track/2nn5Cj8bFekSz45yo666T5"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1539,6 +1523,22 @@
       "duration_ms": 175339,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 226745,
+      "name": "Backspegeln - Radio Edit",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
         "name": "Leave It Beautiful",
         "url": "https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
+        "name": "Till evigheten",
+        "url": "https://open.spotify.com/album/4pPX1hnP4aUtTmDhAYZFiA"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+          "name": "Edvin T\u00f6rnblom",
+          "url": "https://open.spotify.com/artist/1DA1Zox6VID0zJWCeLY3n2"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
+      "duration_ms": 191558,
+      "name": "Till evigheten",
+      "url": "https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Faller",
-        "url": "https://open.spotify.com/album/0wsMXwZUEjMDk3OdHhk00K"
+        "name": "Hot Air Balloon",
+        "url": "https://open.spotify.com/album/1vXtqt9NfOginaQULdpuCH"
       },
       "artists": [
         {
-          "name": "Nektar",
-          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
         }
       ],
-      "duration_ms": 191317,
-      "name": "Faller",
-      "url": "https://open.spotify.com/track/75TBgrrDbNB6QJnYIO0j8t"
+      "duration_ms": 154754,
+      "name": "Hot Air Balloon",
+      "url": "https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1723,6 +1739,22 @@
       "duration_ms": 176672,
       "name": "MIG/DIG (feat. Klaudy)",
       "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
+    },
+    {
+      "added_at": "2025-11-24 14:28:56",
+      "album": {
+        "name": "Faller",
+        "url": "https://open.spotify.com/album/0wsMXwZUEjMDk3OdHhk00K"
+      },
+      "artists": [
+        {
+          "name": "Nektar",
+          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
+        }
+      ],
+      "duration_ms": 191317,
+      "name": "Faller",
+      "url": "https://open.spotify.com/track/75TBgrrDbNB6QJnYIO0j8t"
     },
     {
       "added_at": "2025-11-24 14:28:56",
@@ -1763,22 +1795,6 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Hot Air Balloon",
-        "url": "https://open.spotify.com/album/1vXtqt9NfOginaQULdpuCH"
-      },
-      "artists": [
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
-        }
-      ],
-      "duration_ms": 154754,
-      "name": "Hot Air Balloon",
-      "url": "https://open.spotify.com/track/7CDxuWmKWMpUiGnWPck1ir"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
         "name": "Jag \u00c4r",
         "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
       },
@@ -1811,34 +1827,18 @@
     {
       "added_at": "2025-11-24 14:28:56",
       "album": {
-        "name": "Ta honom",
-        "url": "https://open.spotify.com/album/0mv8rmDzwwYbdBh7K8J6g4"
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4"
       },
       "artists": [
         {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
         }
       ],
-      "duration_ms": 128759,
-      "name": "Ta honom",
-      "url": "https://open.spotify.com/track/7jBvr3W0rQSjP1xo4Hu09w"
-    },
-    {
-      "added_at": "2025-11-24 14:28:56",
-      "album": {
-        "name": "Ge mig allt du har",
-        "url": "https://open.spotify.com/album/4ze5bjFV8sPKTeYnllQQcB"
-      },
-      "artists": [
-        {
-          "name": "Nektar",
-          "url": "https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d"
-        }
-      ],
-      "duration_ms": 193279,
-      "name": "Ge mig allt du har",
-      "url": "https://open.spotify.com/track/0FuvQXwIIiSSJJKfsvSJmh"
+      "duration_ms": 181386,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew"
     }
   ],
   "unique_name": "Made in Sweden",

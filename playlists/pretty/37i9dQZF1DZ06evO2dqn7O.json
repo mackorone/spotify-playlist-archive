@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 57208,
+  "num_followers": 57213,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAACXm14YN036P0ssCdIwwdTn",
+  "snapshot_id": "aSOgAAAAAAA0A7NsZv/Tw/MRvCTn3AvM",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Love Songs Drug Songs",
-      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 280813,
       "name": "Low Life",
       "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Love Songs Drug Songs",
+      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs Drug Songs",
-        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Unconsolable",
-      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
         "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 186620,
       "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
       "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Unconsolable",
+      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169808,
+  "num_followers": 169809,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAD325XRbF2CyBvgDd27BzQr",
+  "snapshot_id": "aSOgAAAAAAC4uNyC02NOxOzCFjO19TgW",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+        }
+      ],
+      "duration_ms": 240370,
+      "name": "Especially for You",
+      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
-        }
-      ],
-      "duration_ms": 240370,
-      "name": "Especially for You",
-      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tension Tour//Live 2025",
         "url": "https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Dancing",
-      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 260133,
       "name": "Red Blooded Woman",
       "url": "https://open.spotify.com/track/4A62ukubxZNeSQ2bUx2tKn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
     },
     {
       "added_at": null,
@@ -855,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Murder Ballads",
+        "url": "https://open.spotify.com/album/1wG6L7SUkfnE3koQ7fP9FW"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Nick Cave",
+          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
+        }
+      ],
+      "duration_ms": 247533,
+      "name": "Where the Wild Roses Grow",
+      "url": "https://open.spotify.com/track/28lQMRZpJmEzCyVMMNTu4H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/1uMNoNdPEtf8jhK6gxaDTO"
       },
@@ -867,22 +887,6 @@
       "duration_ms": 217333,
       "name": "Turn It into Love",
       "url": "https://open.spotify.com/track/1LH4pipBS71ZUPHmFS4gpC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
     }
   ],
   "unique_name": "This Is Kylie Minogue",

@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-172 songs - 8 hr 50 min
+173 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [O Come, O Come, Emanuel](https://open.spotify.com/track/1vx0XNUpmrALy5N9SN4GP5) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Lo, How A Rose E'er Blooming](https://open.spotify.com/album/14HGV5wCgntXHX62s5RiII) | 2:09 | 2021-12-21 | 2025-11-19 |
 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 | 2022-10-13 | 2025-10-04 |
 | [O Holy Night](https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [O Holy Night](https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B) | 4:17 | 2025-10-03 |  |
-| [O Little Town Of Bethlehem](https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [O Little Town Of Bethlehem](https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb) | 2:01 | 2023-10-27 |  |
+| [O Little Town Of Bethlehem](https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [O Little Town Of Bethlehem](https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb) | 2:01 | 2023-10-27 | 2025-11-26 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/068eyQO6YsRTAtYW6L1pun) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Julmusik Jazz 2021](https://open.spotify.com/album/3XwFtMdoX1SmWVemrBGoLE) | 3:16 | 2022-11-09 | 2022-11-13 |
 | [O Little Town of Bethlehem](https://open.spotify.com/track/0ymty2BkJI50ZYOQagxpzt) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/5dqDUL5HIhxapzKoyIndfH) | 3:16 | 2021-12-21 | 2022-07-29 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 | 2022-12-23 | 2023-10-27 |
@@ -175,6 +175,7 @@
 | [Where The Snow Still Falls](https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Where The Snow Still Falls](https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn) | 3:45 | 2025-11-12 |  |
 | [White Christmas](https://open.spotify.com/track/6uVCqvznAx7pOYHTNlxulb) | [Lyla Lee Band](https://open.spotify.com/artist/44QGQt033sUjbeecDPn791) | [Winter Wonderland](https://open.spotify.com/album/74pI1XqEAgFfo1T2UGDEZs) | 2:33 | 2022-10-25 | 2025-09-05 |
 | [White Christmas](https://open.spotify.com/track/2dvU6xGERLJVghYFioPgmf) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Slow Jams Jazz Christmas](https://open.spotify.com/album/7CVYLI6ozhkfiV8Lken1OQ) | 3:52 | 2021-12-21 | 2022-10-26 |
+| [White Christmas](https://open.spotify.com/track/57IolfqCz7kXFdE5bGXXQB) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [White Christmas](https://open.spotify.com/album/4VQwViovYI2PTh3keI92lz) | 3:02 | 2025-11-25 |  |
 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 | 2023-11-17 | 2025-10-04 |
 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 | 2023-11-17 | 2025-11-04 |
 | [Winter Wonderland](https://open.spotify.com/track/09hSLe9VWIOT5uiMDufJZF) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 2:47 | 2021-12-21 |  |

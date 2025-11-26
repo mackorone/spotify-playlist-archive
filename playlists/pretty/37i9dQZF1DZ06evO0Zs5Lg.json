@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23164,
+  "num_followers": 23178,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADPBHmTqgIZSjqg436Kh5X2",
+  "snapshot_id": "aSOgAAAAAADJgEg0NB0SHkNt5Clk10C/",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny (with Sauce Walka)",
-        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Destiny (with Sauce Walka)",
-      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
+      "duration_ms": 155146,
+      "name": "Dead Man Shuffle",
+      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
     },
     {
       "added_at": null,
@@ -187,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+        "name": "Destiny (with Sauce Walka)",
+        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 155146,
-      "name": "Dead Man Shuffle",
-      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
+      "duration_ms": 195412,
+      "name": "Destiny (with Sauce Walka)",
+      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zoo",
-        "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 173068,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liability",
         "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 208053,
       "name": "Motel",
       "url": "https://open.spotify.com/track/1NDvfh4tQgcXUTn033LtEe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/3xgyaF318Csc2nu1xPjjlC"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 173068,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/6GQXk4Du3qkiswJ6hUoGiW"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Survivor's Guilt",
         "url": "https://open.spotify.com/album/3RX8lRbQ7rK9qcJ8WsQ6Y6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 187406,
       "name": "Bawse",
       "url": "https://open.spotify.com/track/1aT46b6BWYFtmUFpQ8Anms"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/2KZ0GMuXz3EOOSzi0XIAk4"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "King Gampo",
+        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butter (with Baby Tate)",
         "url": "https://open.spotify.com/album/1AcQ5sph3JVQ9lPMwDaHax"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 227555,
       "name": "Butter (with Baby Tate)",
       "url": "https://open.spotify.com/track/7s8nNvuxQyAobdOcaJNJVv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Gampo",
-        "url": "https://open.spotify.com/album/2JQWfvAfH1f5ypTohkGfT2"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2P4otq5puB0C9ZqDJVveQt"
     },
     {
       "added_at": null,

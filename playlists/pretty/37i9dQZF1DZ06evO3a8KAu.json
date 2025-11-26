@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50033,
+  "num_followers": 50031,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAADjC1dcNOrEzUKX6oTfDBHg",
+  "snapshot_id": "aSOgAAAAAACYAy8kyw0DsMhH2/06WsjC",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 219149,
+      "name": "Entre Mas Te Miro",
+      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 155939,
       "name": "Toditos Somos Iguales",
       "url": "https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 219149,
-      "name": "Entre Mas Te Miro",
-      "url": "https://open.spotify.com/track/4S0cDhVhaJtF5dDJvPCLov"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 231556,
+      "name": "Que Bonita Estas",
+      "url": "https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 218923,
       "name": "Voy a Echarme Otra",
       "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 231556,
-      "name": "Que Bonita Estas",
-      "url": "https://open.spotify.com/track/6e8Oe2rA2Vk7m556wEN1sX"
     },
     {
       "added_at": null,

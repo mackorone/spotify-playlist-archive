@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,842 likes - 59 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,841 likes - 59 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 30 | [10 DÍAS](https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [10 DÍAS](https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt) | 3:21 |
 | 31 | [Color de Rosa ✿](https://open.spotify.com/track/4C23Imuml0iFxTWSSbYSeX) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Cómo Enamorarse con el Corazón Partío](https://open.spotify.com/album/2HoYvQucdu79TEF25BekcW) | 3:20 |
 | 32 | [Canción por Palestina](https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Canción por Palestina](https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY) | 2:44 |
-| 33 | [Ser jazmín, ser golondrina](https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 3:18 |
-| 34 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
+| 33 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
+| 34 | [Ser jazmín, ser golondrina](https://open.spotify.com/track/5Q8aLGX9xsYhXvLcsYgByg) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Aurora](https://open.spotify.com/album/3h5HDiDf8y6STQ2BOCLRRx) | 3:18 |
 | 35 | [A Cambio](https://open.spotify.com/track/12TROHXanz03JmgRDBkZhD) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [A Cambio](https://open.spotify.com/album/1XbfJW8GOflbRmMkuCYp9S) | 3:25 |
 | 36 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
 | 37 | [Contacto](https://open.spotify.com/track/0ex9N7mvGqTyREE886qMIU) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Contacto](https://open.spotify.com/album/6JglBj0vVEV96xdUjHlAUG) | 4:07 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 47 | [La Historia](https://open.spotify.com/track/74xLAFi1oGs9XA6XwZT1Bl) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La historia](https://open.spotify.com/album/34wh1HcP270JvkRnK2ZVeS) | 3:13 |
 | 48 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |
 | 49 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
-| 50 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
-| 51 | [En el Jardín](https://open.spotify.com/track/4uDSLVnSyxBJm1V1e5yJZS) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [En el Jardín](https://open.spotify.com/album/4G54bwh6J63pqGRdPTjehY) | 2:54 |
+| 50 | [En el Jardín](https://open.spotify.com/track/4uDSLVnSyxBJm1V1e5yJZS) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [En el Jardín](https://open.spotify.com/album/4G54bwh6J63pqGRdPTjehY) | 2:54 |
+| 51 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
 | 52 | [516 las Parcelas](https://open.spotify.com/track/09Dn2V7UuNOslbr87uEfeX) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Lo Que Voy Siendo](https://open.spotify.com/album/30jgJojkYB3nINXfNMSScS) | 2:44 |
 | 53 | [Claro](https://open.spotify.com/track/6g43xhqjwevtafVL5xVT6y) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Brazos rojos](https://open.spotify.com/album/3rPBVHr8nPsVudEvpRULJl) | 1:18 |
 | 54 | [Vital](https://open.spotify.com/track/3yryakFXVMb3pEzriB7vgm) | [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT) | [Vital](https://open.spotify.com/album/0eI4IUvAragR1mQTu8pDVf) | 4:16 |

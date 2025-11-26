@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 111436,
+  "num_followers": 111443,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "Vivir As\u00ed es Morir de Amor",
+        "url": "https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq"
+      },
+      "artists": [
+        {
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+        }
+      ],
+      "duration_ms": 213821,
+      "name": "Vivir As\u00ed es Morir de Amor",
+      "url": "https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 222013,
       "name": "Bien Warrior (feat. DJ Krass)",
       "url": "https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
-        "name": "Vivir As\u00ed es Morir de Amor",
-        "url": "https://open.spotify.com/album/60X0LHhFAjc9DBPPyRwDJq"
-      },
-      "artists": [
-        {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
-        }
-      ],
-      "duration_ms": 213821,
-      "name": "Vivir As\u00ed es Morir de Amor",
-      "url": "https://open.spotify.com/track/0HVrDDFkkaAxSdJ9CiCnrW"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Chau Chau",
-        "url": "https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 164575,
-      "name": "Chau Chau",
-      "url": "https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Dr. Psiquiatra",
         "url": "https://open.spotify.com/album/62VXkWtudUuwXEpDu6LmkZ"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
+        "name": "Chau Chau",
+        "url": "https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 217190,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
+      "duration_ms": 164575,
+      "name": "Chau Chau",
+      "url": "https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -983,6 +967,22 @@
       "duration_ms": 589000,
       "name": "Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres - En Vivo",
       "url": "https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 217190,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "El Mundo",
-        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 213183,
-      "name": "El Mundo",
-      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 212946,
       "name": "Cag\u00f3n",
       "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 213183,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Solo un Momento",
-        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 222361,
-      "name": "No Te Ir\u00e1s",
-      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 151463,
       "name": "El Primero",
       "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 222361,
+      "name": "No Te Ir\u00e1s",
+      "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
     }
   ],
   "unique_name": "Cumbieras",

@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Nov 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Nov 23:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWW/5WEQX3M65OBT24yeJaiWe3dVdT",
+  "snapshot_id": "AAAWXdo4DMi4RhVSNbKNZ/yw9z+1nZG7",
   "tracks": [
+    {
+      "added_at": "2025-11-25 23:04:20",
+      "album": {
+        "name": "I've Got A Broken Heart",
+        "url": "https://open.spotify.com/album/3DztGBFFRznexpmi3CjUt6"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "I've Got A Broken Heart",
+      "url": "https://open.spotify.com/track/38ifZytnEYRRwRfEx60hgk"
+    },
+    {
+      "added_at": "2025-11-25 23:04:20",
+      "album": {
+        "name": "Chanel Boy",
+        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Chanel Boy",
+      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
     {
       "added_at": "2025-11-24 14:04:15",
       "album": {
@@ -795,38 +827,6 @@
       "duration_ms": 138647,
       "name": "MONEY AND CLOTHES",
       "url": "https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo"
-    },
-    {
-      "added_at": "2025-11-16 19:04:55",
-      "album": {
-        "name": "Feel Something, Great.",
-        "url": "https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq"
-      },
-      "artists": [
-        {
-          "name": "Palaye Royale",
-          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
-        }
-      ],
-      "duration_ms": 201787,
-      "name": "Feel Something, Great.",
-      "url": "https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f"
-    },
-    {
-      "added_at": "2025-11-14 09:05:35",
-      "album": {
-        "name": "ANY MINUTE NOW",
-        "url": "https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 192255,
-      "name": "ANY MINUTE NOW",
-      "url": "https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116 likes - 186 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 117 likes - 186 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 55 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 |
 | 56 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
 | 57 | [Warning Signs](https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Warning Signs](https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn) | 2:11 |
-| 58 | [So I featuring a\. g\. cook](https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:39 |
-| 59 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 58 | [Hot & Sexy](https://open.spotify.com/track/6XcyAXAYKQD7FqCG2F2xOu) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:09 |
+| 59 | [So I featuring a\. g\. cook](https://open.spotify.com/track/03kw5kVvTjfZ4BAUU4Txx3) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:39 |
 | 60 | [Impossible Is Nothing](https://open.spotify.com/track/0wjP81vqcXgjkCZDdIdwoL) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:10 |
 | 61 | [MISBEHAVE](https://open.spotify.com/track/32lyiJgk8LYfVBTkhq7kCW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 3:24 |
 | 62 | [When I Lie \(Remix\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6lLDL0dGG00wcyo1yQTnUY) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:13 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 131 | [All or Nothing](https://open.spotify.com/track/6cy6q63aHMraSCtwt9bwMy) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [Love Just Ain't Enough](https://open.spotify.com/album/1l1sAe6hsLPPFjm2UvwSc3) | 3:18 |
 | 132 | [Play Me](https://open.spotify.com/track/0yLB4F9cLHcNYi9GHOcmfc) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 3:36 |
 | 133 | [GO MODE](https://open.spotify.com/track/2D0MoJ4EdhuV9PjP7M3Rkc) | [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [BLOOD, MAGIC & DIAMONDS.](https://open.spotify.com/album/1ogLL6L0DEfYGOHmy1JIQN) | 2:36 |
-| 134 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 |
-| 135 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 134 | [Wildflower](https://open.spotify.com/track/6e3aWmdRTfEm9aXQjNuVl0) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Wildflower](https://open.spotify.com/album/7FoV7pzO9XsiabsDFdi8S8) | 3:28 |
+| 135 | [weight loss](https://open.spotify.com/track/1TFL6Kznz4FcgWu7IBRlAZ) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [weight loss](https://open.spotify.com/album/2qpv78ZSrf42RsK83c2pYv) | 3:19 |
 | 136 | [Confession](https://open.spotify.com/track/4FEgmZNndauGaHjSM4AGiH) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Confessions \(Deluxe Edition\)](https://open.spotify.com/album/0nYaOfGZJF8e7vgkh2z5As) | 3:21 |
 | 137 | [Get Down Tonight](https://open.spotify.com/track/0QUsVX8ReFz1bzaTtHPrn6) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [Red Book](https://open.spotify.com/album/5O4yFdCpn4RM4IyBmkiWyA) | 3:45 |
 | 138 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:28 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 185 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 | 186 | [Time](https://open.spotify.com/track/4IXo4QEaA0C5L1gmwcoLs6) | [Mali](https://open.spotify.com/artist/44hC0isoN7FTViV4xB4VsD) | [Time](https://open.spotify.com/album/3AnHWPc0t69do84olU1b7b) | 3:00 |
 
-Snapshot ID: `AcCeaAAAAAANghZsetalrpTiHO7NxYvp`
+Snapshot ID: `AcCj9AAAAACGNV4To+gINTF3XWgZLr9v`

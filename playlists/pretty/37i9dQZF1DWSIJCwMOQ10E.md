@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,821 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,836 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 46 | [Mala Memoria](https://open.spotify.com/track/2sw9rKvMG3fvLGYfMdO139) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:40 |
 | 47 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
 | 48 | [Me Gustan Los Hombres](https://open.spotify.com/track/4xAdTVNxTWHNMiS7k1Xdvs) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7) | [Me Gustan Los Hombres](https://open.spotify.com/album/0U0SoItZGkL6F0JrUejXiP) | 3:21 |
-| 49 | [La Cantina](https://open.spotify.com/track/73G3ZxbNKaJgDKQiXPQSGO) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Mauricio & PalodeAgua](https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr), [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs) | [La Cantina](https://open.spotify.com/album/0BtKA3nCo2aGd3yte5G8fF) | 3:16 |
+| 49 | [No Damos Pa Olvidarnos](https://open.spotify.com/track/2mhBxoWPpyp3vVofruuOCA) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [No Damos Pa Olvidarnos](https://open.spotify.com/album/6i0qg72tOuzobyy8TWNnjE) | 3:36 |
 | 50 | [Eso es mondar](https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [DJ Marimonda](https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl), [El Elvis Cienaguero](https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA) | [Eso es mondar](https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa) | 3:53 |
 
 Snapshot ID: `AAAAABrwzZgVL420rDryEtAj04Gone/+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Calibre 50. The essential tracks, all in one playlist.",
-  "num_followers": 717698,
+  "num_followers": 717777,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAAAnM5ma7f/M3fW4pJ/zSnQ7",
+  "snapshot_id": "aSOgAAAAAADtVSuNQEMhJBcgxnjDq/57",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Mi Sorpresa Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Sea",
         "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 170506,
       "name": "Que Sea",
       "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Mi Sorpresa Fuiste T\u00fa",
-      "url": "https://open.spotify.com/track/59S2kAfdUxi6k2Si8Vi0f3"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 140880,
-      "name": "Chalito",
-      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las N\u00famero 1 De",
         "url": "https://open.spotify.com/album/6oplBB55aomIn5O6NSz3cd"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 180680,
       "name": "Te Volver\u00eda A Elegir",
       "url": "https://open.spotify.com/track/7e8uUH6bOLxpXDm9lARsbI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 140880,
+      "name": "Chalito",
+      "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Frijoles Con Panela",
+      "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Frijoles Con Panela",
-      "url": "https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Recompensa",
         "url": "https://open.spotify.com/album/5YMCgTdT06cMlFlznzO2fo"
       },
@@ -527,6 +527,22 @@
       "duration_ms": 230493,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/5ak02CIeaWbhQr8M479AfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "El Ingeniero",
+      "url": "https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G"
     },
     {
       "added_at": null,
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
       },
       "artists": [
         {
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 212480,
-      "name": "El Ingeniero",
-      "url": "https://open.spotify.com/track/1CSdO0YWuENf6lMjmPk62G"
+      "duration_ms": 193960,
+      "name": "Te Estoy Enga\u00f1ando Con Otra",
+      "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 191253,
       "name": "Sali\u00f3 A La Perfecci\u00f3n",
       "url": "https://open.spotify.com/track/7L1hiumuXST9N4YgaF0JHs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Sinaloa Para El Mundo",
-        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 193960,
-      "name": "Te Estoy Enga\u00f1ando Con Otra",
-      "url": "https://open.spotify.com/track/0Q2nlEy3j08AWwrum9BFmH"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 212786,
-      "name": "Un Imposible A Tu Medida",
-      "url": "https://open.spotify.com/track/5iNuJkGfKUMCJycC7wNOJw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 212786,
+      "name": "Un Imposible A Tu Medida",
+      "url": "https://open.spotify.com/track/5iNuJkGfKUMCJycC7wNOJw"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guerra De Poder",
-        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 126880,
-      "name": "Las Ultras",
-      "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
+      "duration_ms": 184400,
+      "name": "El Buen Ejemplo",
+      "url": "https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Buen Ejemplo",
-        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
+        "name": "Guerra De Poder",
+        "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 184400,
-      "name": "El Buen Ejemplo",
-      "url": "https://open.spotify.com/track/1lH6djMd9eN2xUGQgfyLD9"
+      "duration_ms": 126880,
+      "name": "Las Ultras",
+      "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
-        "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
+        "name": "El Buen Ejemplo",
+        "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
       "artists": [
-        {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
         {
           "name": "Calibre 50",
           "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 228461,
-      "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
-      "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
+      "duration_ms": 122120,
+      "name": "Aguaje Activado",
+      "url": "https://open.spotify.com/track/6kuddZnQSHD81jLGMMcLVn"
     }
   ],
   "unique_name": "This Is Calibre 50",

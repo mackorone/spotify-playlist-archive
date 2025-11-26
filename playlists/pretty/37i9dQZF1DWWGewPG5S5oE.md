@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 来海
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,483 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,507 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 21 | [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 |
 | 22 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 23 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |
-| 24 | [Tristeza](https://open.spotify.com/track/1jz3MnXdpmDTPgmyLO93Nf) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Tristeza](https://open.spotify.com/album/0Z6NW1supXgAT0wP5jdSOs) | 2:53 |
+| 24 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 |
 | 25 | [相思相愛](https://open.spotify.com/track/3AFRCpDoQaEzblHCvDcXbr) | [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [相思相愛](https://open.spotify.com/album/2PP0pTkcnDPdjaO3WaNOkU) | 4:29 |
-| 26 | [Zatto](https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 6:07 |
+| 26 | [Tristeza](https://open.spotify.com/track/1jz3MnXdpmDTPgmyLO93Nf) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Tristeza](https://open.spotify.com/album/0Z6NW1supXgAT0wP5jdSOs) | 2:53 |
 | 27 | [MORAL](https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [MORAL](https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj) | 3:21 |
 | 28 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 |
-| 29 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
-| 30 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 |
+| 29 | [New World feat.ELAIZA](https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [New World feat.ELAIZA](https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU) | 3:48 |
+| 30 | [Exotic Rose](https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Exotic Rose](https://open.spotify.com/album/0JsFB9OZbY0lBEnTBxiGNf) | 4:50 |
 | 31 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
 | 32 | [This city is too jazzy to be in love](https://open.spotify.com/track/6ljyh0IT9VYGtBwFWRxq1U) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0), [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [cure jazz](https://open.spotify.com/album/739BFSbszCkKUscy1LaHGf) | 3:30 |
 | 33 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 38 | [Samsara](https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [火の鳥](https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm) | 4:39 |
 | 39 | [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 |
 | 40 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
-| 41 | [You Are Too Beautiful](https://open.spotify.com/track/3rXJBcYCpV5hSE72oCkBKJ) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Best 2005 – 2025](https://open.spotify.com/album/0vgiRFKdzaISJqjLRH0mX6) | 2:29 |
-| 42 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 |
+| 41 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 |
+| 42 | [You Are Too Beautiful](https://open.spotify.com/track/3rXJBcYCpV5hSE72oCkBKJ) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Best 2005 – 2025](https://open.spotify.com/album/0vgiRFKdzaISJqjLRH0mX6) | 2:29 |
 | 43 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 |
 | 44 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
 | 45 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 |

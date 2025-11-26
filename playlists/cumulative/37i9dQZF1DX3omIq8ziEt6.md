@@ -2,7 +2,7 @@
 
 ### [Esenciales](https://open.spotify.com/playlist/37i9dQZF1DX3omIq8ziEt6)
 
-> Timeless Latin hits\. A 5 años de 'Hawái'.
+> Timeless Latin hits.
 
 572 songs - 1 day 12 hr 42 min
 

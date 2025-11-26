@@ -1,6 +1,6 @@
 {
-  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 37723,
+  "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
+  "num_followers": 37732,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -494,15 +494,11 @@
         {
           "name": "Thanh Tuy\u1ec1n",
           "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
-        },
-        {
-          "name": "Tu\u1ea5n V\u0169",
-          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
         }
       ],
-      "duration_ms": 315385,
-      "name": "Li\u00ean kh\u00fac Em l\u00e0 t\u1ea5t c\u1ea3 - Hai v\u00ec sao l\u1ea1c",
-      "url": "https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q"
+      "duration_ms": 273393,
+      "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
+      "url": "https://open.spotify.com/track/7J9kYCDB02eCdaXiE1S0MZ"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -602,11 +598,15 @@
         {
           "name": "Thanh Tuy\u1ec1n",
           "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
+        },
+        {
+          "name": "Tu\u1ea5n V\u0169",
+          "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
         }
       ],
-      "duration_ms": 273393,
-      "name": "T\u1ea1 t\u1eeb trong \u0111\u00eam",
-      "url": "https://open.spotify.com/track/7J9kYCDB02eCdaXiE1S0MZ"
+      "duration_ms": 315385,
+      "name": "Li\u00ean kh\u00fac Em l\u00e0 t\u1ea5t c\u1ea3 - Hai v\u00ec sao l\u1ea1c",
+      "url": "https://open.spotify.com/track/4mtcwpgSjtHQYiKzIn5P5q"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 317333,
-      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
-    },
-    {
-      "added_at": "2025-06-03 14:29:41",
-      "album": {
         "name": "V\u1ec1 L\u1ea1i \u0110\u1ed3i Sim",
         "url": "https://open.spotify.com/album/0sy3wvCtsGgb6aUJg2Wghg"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 274329,
       "name": "Ng\u00e0n thu v\u0129nh bi\u1ec7t",
       "url": "https://open.spotify.com/track/55wkwUdE1WK5f6ZmxvFoW3"
+    },
+    {
+      "added_at": "2025-06-03 14:29:41",
+      "album": {
+        "name": "V\u1ec1 \u0110\u00e2u M\u00e1i T\u00f3c Ng\u01b0\u1eddi Th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 317333,
+      "name": "V\u1ec1 \u0111\u00e2u m\u00e1i t\u00f3c ng\u01b0\u1eddi th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58"
     },
     {
       "added_at": "2025-06-03 14:29:41",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-06-03 14:29:41",
       "album": {
-        "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
-        "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
-      },
-      "artists": [
-        {
-          "name": "Thanh Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
-        }
-      ],
-      "duration_ms": 223956,
-      "name": "\u0110\u01b0\u1eddng x\u01b0a l\u1ed1i c\u0169",
-      "url": "https://open.spotify.com/track/3Yv7rOzspapIKgSYQHyxPO"
-    },
-    {
-      "added_at": "2025-06-03 14:29:41",
-      "album": {
         "name": "Nh\u1ea1c V\u00e0ng",
         "url": "https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 285949,
       "name": "Hai V\u00ec Sao L\u1ea1c",
       "url": "https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT"
+    },
+    {
+      "added_at": "2025-06-03 14:29:41",
+      "album": {
+        "name": "The Best Of Thanh Tuy\u1ec1n (Ng\u01b0\u1eddi M\u1eb9 B\u00e1n N\u00f3n)",
+        "url": "https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ"
+      },
+      "artists": [
+        {
+          "name": "Thanh Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED"
+        }
+      ],
+      "duration_ms": 223956,
+      "name": "\u0110\u01b0\u1eddng x\u01b0a l\u1ed1i c\u0169",
+      "url": "https://open.spotify.com/track/3Yv7rOzspapIKgSYQHyxPO"
     },
     {
       "added_at": "2025-06-03 14:29:41",

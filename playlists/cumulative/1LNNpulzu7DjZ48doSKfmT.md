@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-404 songs - 21 hr 3 min
+406 songs - 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Blood in the Hands](https://open.spotify.com/track/6vnSCSdISdfdyM7P4mukSe) | [TEZCAR](https://open.spotify.com/artist/6UmE9u2CRpBHvx5IkmEHBg) | [Blood in the Hands](https://open.spotify.com/album/3XSpPXR0bNoBLj3skGe1jX) | 3:23 | 2025-10-19 |  |
 | [Bodies](https://open.spotify.com/track/4H3wa8SmE4ni2KStCswH5X) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Bodies](https://open.spotify.com/album/3HlAPu37NBsmraOx8NaHUu) | 3:20 | 2025-10-27 |  |
 | [Bona Fide Fake](https://open.spotify.com/track/61Kldwec5i8oid5CzbuZNX) | [Chives McAlister](https://open.spotify.com/artist/6MRlEXK172sMw6TE3QoXKk) | [Bona Fide Fake](https://open.spotify.com/album/3zSS7GsRuqAhx1uOiXejNf) | 3:28 | 2025-09-28 |  |
+| [Boo\-tiful Night](https://open.spotify.com/track/6ZfIawixU7GTjeIlHsljcN) | [ELGA Music](https://open.spotify.com/artist/1tvHQYOl0BTk4ZI1BTkcab) | [Owl You Need For Halloween](https://open.spotify.com/album/5x3j84Ug8diVOCvkVGZ4KI) | 2:10 | 2025-11-25 |  |
 | [Boogie Woogie Blues](https://open.spotify.com/track/6Ud9NwnoaYm5anJXXjJ1PS) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Boogie Woogie Blues](https://open.spotify.com/album/2mx8JXr2kVjbqpslJQeUbP) | 2:38 | 2025-07-31 |  |
 | [Boom Bop Bam](https://open.spotify.com/track/3IPqGJuQ4VUMlMfHAjAEEJ) | [JustPierre](https://open.spotify.com/artist/153NVBXEIRJk7EXhvBPUHa), [Testimony](https://open.spotify.com/artist/03LOg8LebGaIdSmADNXG7K) | [Boom Bop Bam](https://open.spotify.com/album/3Vmwokro8m05kB6n7hZsBa) | 2:29 | 2025-11-16 |  |
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2025-11-06 |  |
@@ -89,6 +90,7 @@
 | [Der Busfara Song](https://open.spotify.com/track/5Ig9yHQsrIku63xTYYdagZ) | [Nicolas Hauptmann](https://open.spotify.com/artist/534CVveHGYbXL310sIYh14), [Marvin Johannes Fritz](https://open.spotify.com/artist/2YClHjf2KuzgDyv89Ubr6h) | [Der Busfara Song](https://open.spotify.com/album/0AN56wFIOt7KHjday2rUFX) | 3:00 | 2025-10-06 |  |
 | [Dert Ortağım](https://open.spotify.com/track/3dNDXMhJf9U1vdnzYT6tLT) | [İE9](https://open.spotify.com/artist/2h8pMOP80Hbu1v0Xrgsy6Z) | [Dert Ortağım](https://open.spotify.com/album/4f5uVksTnMI3md7SYT2MgV) | 2:26 | 2025-10-09 |  |
 | [Devil in disguise](https://open.spotify.com/track/3mp2sIQoVM2vDccOICPgCC) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [A Dozen Years Ago, Dozen Songs\. J.J\. Cale Tribute](https://open.spotify.com/album/1TLHKnWvLSPZMAcXGxcyX9) | 2:27 | 2025-10-06 |  |
+| [Dignity](https://open.spotify.com/track/66iTL2RwsZ9DihlBeiI4gp) | [Gobaith](https://open.spotify.com/artist/1EVXqPW8qgjyv1649P1t80) | [The Channeler](https://open.spotify.com/album/0EMWMpbYnTFMogq2L9NYUb) | 3:15 | 2025-11-25 |  |
 | [Dior](https://open.spotify.com/track/6zOMszPQW4T9xGFzNHfQaq) | [COA](https://open.spotify.com/artist/0eRCLMckvcXLTWLyBfRA4n), [XELLEN7](https://open.spotify.com/artist/02VTECRZkRQd4h4FTbBVoM) | [Dior](https://open.spotify.com/album/59r8gVG29cARAewLRiv6kU) | 2:51 | 2025-11-14 |  |
 | [Dirt Floor](https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Dirt Floor](https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy) | 4:10 | 2025-09-29 |  |
 | [Distinguir la Luz \- Kingstar Mix](https://open.spotify.com/track/67EJ7bddZiDZZRxOjuH2ac) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c), [Kingstar](https://open.spotify.com/artist/4gug88THTg7VXjNrdnBiOg) | [Distinguir la Luz \(Kingstar Mix\)](https://open.spotify.com/album/3Tnlft4SzwgXJcvNxBgpbp) | 3:54 | 2025-10-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,565 likes - 20 songs - 1 hr 15 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,566 likes - 19 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 13 | [Arcadia](https://open.spotify.com/track/1xTi10LGVMv9MbKbg944mm) | [dome 3000](https://open.spotify.com/artist/3mBx6bxMOEGvTYe2B5pTH5) | [After The Dream Comes True](https://open.spotify.com/album/4xOPUGqhLNceNlxXxiDIfX) | 2:11 |
 | 14 | [Behind The Ears](https://open.spotify.com/track/23fAwEKmxaT0R9mYS5elJa) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Dryfruit](https://open.spotify.com/album/2eVOt0a7wQp0R09AXqwleG) | 10:09 |
 | 15 | [Horse County](https://open.spotify.com/track/70lW1sv0qx7SsTEOyXBFT9) | [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Horse County](https://open.spotify.com/album/3B0xXGGFKGbLZzJ2yuJNNS) | 3:31 |
-| 16 | [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 |
-| 17 | [Love You To Death](https://open.spotify.com/track/1n37LpBrr9CU9IJYotLMZO) | [Snowy Band](https://open.spotify.com/artist/0Ky0HZRpab9SW891Jb9gce) | [Audio Commentary](https://open.spotify.com/album/2XY6A8TMHbPaffK00b72BO) | 4:02 |
-| 18 | [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 |
-| 19 | [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 |
-| 20 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 |
+| 16 | [Love You To Death](https://open.spotify.com/track/1n37LpBrr9CU9IJYotLMZO) | [Snowy Band](https://open.spotify.com/artist/0Ky0HZRpab9SW891Jb9gce) | [Audio Commentary](https://open.spotify.com/album/2XY6A8TMHbPaffK00b72BO) | 4:02 |
+| 17 | [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 |
+| 18 | [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 |
+| 19 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 |
 
-Snapshot ID: `AAANb497RSpMByh5B9d2rlp2dWCA3TN8`
+Snapshot ID: `AAANcJA5GTFJxNtGW7ap2bn8AHqW85pc`

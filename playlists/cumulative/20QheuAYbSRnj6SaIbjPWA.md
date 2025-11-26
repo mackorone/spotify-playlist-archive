@@ -4,7 +4,7 @@
 
 > 2021
 
-150 songs - 10 hr 0 min
+152 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 | 2023-10-17 |  |
 | [Free Fallin'](https://open.spotify.com/track/60NdsqyuYa6QSeEJEbHKfP) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Failure](https://open.spotify.com/album/3Fb7UeC7wyXOsoSjAwQdMV) | 4:40 | 2025-09-15 |  |
 | [Girl Behind The Glass](https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:16 | 2024-11-18 |  |
+| [Glass Eyes](https://open.spotify.com/track/0uOeAmfdyaekD2RIGwCDwq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 2:52 | 2025-11-25 |  |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2025-02-13 |  |
 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 | 2025-09-12 |  |
 | [Hate](https://open.spotify.com/track/399olOwTieMU3hqelRsfpH) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 4:04 | 2023-05-31 |  |
@@ -120,6 +121,7 @@
 | [Sh\-Boom](https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:25 | 2023-03-30 | 2024-12-30 |
 | [Slide Away \- Live For Teenage Cancer Trust](https://open.spotify.com/track/2vNwVso4GsvITfeKHdhCcv) | [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [The Dreams We Have As Children \(Live For Teenage Cancer Trust\)](https://open.spotify.com/album/15MpS74sqhUZtvtXmoST5y) | 6:15 | 2024-09-26 |  |
 | [Something in the Water](https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:27 | 2024-02-27 |  |
+| [Spanish Sahara](https://open.spotify.com/track/2fWSJxOHKSqXOkhxyo3Gly) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/7edt9zVFJtKYLMI213anC9) | 6:49 | 2025-11-25 |  |
 | [Sparks](https://open.spotify.com/track/3G7ZiXrSPvRRQMMIuLnFS9) | [The Family Crest](https://open.spotify.com/artist/44CB1c0W2h1XR2vB7AKpa7) | [Prelude to War](https://open.spotify.com/album/15l8KKdAMflVwdqZsNkZJR) | 3:58 | 2023-10-11 |  |
 | [Spectre](https://open.spotify.com/track/4Nwrh5BlZ8I31znYQULS7G) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Spectre](https://open.spotify.com/album/7kbhOOk0mAzdy3NukjeoXF) | 3:19 | 2025-02-01 |  |
 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 | 2023-03-15 |  |

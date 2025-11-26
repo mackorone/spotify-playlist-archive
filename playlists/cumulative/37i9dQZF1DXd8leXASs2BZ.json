@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 5Leaf",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 3Li\u00a5en",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -914,7 +914,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 210759,
       "name": "8.28",
       "url": "https://open.spotify.com/track/73O7Bo0K3SyGOwQpaA4zUT"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 179896,
       "name": "Anaconda (feat. Flight-A, BARCO, Swag-A & Crazy-K)",
       "url": "https://open.spotify.com/track/3HIIxrRMey3YYhjmyffeLm"
@@ -3674,10 +3674,32 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 192409,
       "name": "BUTTOBASHIT",
       "url": "https://open.spotify.com/track/3g5yCta0AoVrVYxqE37qQG"
+    },
+    {
+      "album": {
+        "name": "SOCIOPATH",
+        "url": "https://open.spotify.com/album/1MEqvUjwQ3hhrtlSsFsc7z"
+      },
+      "artists": [
+        {
+          "name": "Nust B",
+          "url": "https://open.spotify.com/artist/7oHVVNzpDc4oxhQ8INY6X5"
+        },
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212584,
+      "name": "Bye Emotion (feat. 11)",
+      "url": "https://open.spotify.com/track/18Guabmt8uB8DJ6EkQwKca"
     },
     {
       "album": {
@@ -4856,7 +4878,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 178518,
       "name": "Deal",
       "url": "https://open.spotify.com/track/1rxIOnCwHTNyXxqufPhtTa"
@@ -4910,7 +4932,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 162000,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/5zKboQNA9hRClhrkmIA8I1"
@@ -8170,7 +8192,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 223783,
       "name": "godblessyoulife",
       "url": "https://open.spotify.com/track/0zXK1KttD5dAzUqcvUO7cU"
@@ -8360,7 +8382,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 168000,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/7cQwHS1zVXbSsaWA8G6fAA"
@@ -9018,7 +9040,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 127395,
       "name": "Hey bitch, I'm perfect",
       "url": "https://open.spotify.com/track/1Mb77uZPo0rXCKRhGosQDY"
@@ -10243,6 +10265,28 @@
     },
     {
       "album": {
+        "name": "JAPUSSY",
+        "url": "https://open.spotify.com/album/2ONK4KGHq76t6kQrLoWhyh"
+      },
+      "artists": [
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        },
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187244,
+      "name": "JAPUSSY",
+      "url": "https://open.spotify.com/track/2zyWXS2odDoSo0Sz5GjSWe"
+    },
+    {
+      "album": {
         "name": "Blue Heart",
         "url": "https://open.spotify.com/album/4w3kM9ic64mWaOF76psksp"
       },
@@ -10280,6 +10324,42 @@
       "duration_ms": 148831,
       "name": "JASON",
       "url": "https://open.spotify.com/track/0Z1QwAiYkCnNsnTa214NU7"
+    },
+    {
+      "album": {
+        "name": "Jay Park",
+        "url": "https://open.spotify.com/album/6PK1XoDM7cJvMnqIIp1p91"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Skippa",
+          "url": "https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191707,
+      "name": "Jay Park",
+      "url": "https://open.spotify.com/track/4P5cxADZAliJJ32M3ge6Jo"
+    },
+    {
+      "album": {
+        "name": "JEALOUSHIT",
+        "url": "https://open.spotify.com/album/4PO8VICQDV1eym8YLk01Tl"
+      },
+      "artists": [
+        {
+          "name": "e5",
+          "url": "https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175980,
+      "name": "JEALOUSHIT",
+      "url": "https://open.spotify.com/track/6kWtrfpJyUMBQfZfWx2TtM"
     },
     {
       "album": {
@@ -10671,6 +10751,24 @@
     },
     {
       "album": {
+        "name": "kamisama",
+        "url": "https://open.spotify.com/album/2UZK75lB0efZf7PSmc6zSJ"
+      },
+      "artists": [
+        {
+          "name": "TOKINE",
+          "url": "https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "kamisama",
+      "url": "https://open.spotify.com/track/7qXZ8GNOYiClrDGH16EXoM"
+    },
+    {
+      "album": {
         "name": "KANPEKIDA",
         "url": "https://open.spotify.com/album/09G0OPZyXQcYJ10CVm49eB"
       },
@@ -10748,7 +10846,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 132261,
       "name": "Karakuri",
       "url": "https://open.spotify.com/track/32E5sfCHQrCOQZMBTrtqtr"
@@ -10931,6 +11029,24 @@
     },
     {
       "album": {
+        "name": "KEY POINT",
+        "url": "https://open.spotify.com/album/6t5tNG2vsFEvxgZDiFbiWP"
+      },
+      "artists": [
+        {
+          "name": "KEYTOTHECITY",
+          "url": "https://open.spotify.com/artist/50jQk3uTNzSzv4Ep4xA174"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "KEY POINT",
+      "url": "https://open.spotify.com/track/5MovouvrcoXbsQOCOgluOr"
+    },
+    {
+      "album": {
         "name": "KEYPRIDE 2",
         "url": "https://open.spotify.com/album/4tocsVWWzgYpLlcwYvxPfR"
       },
@@ -10942,7 +11058,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 225974,
       "name": "KEYPRIDE 2",
       "url": "https://open.spotify.com/track/4UMoepMNTkAoGSORiWjPjo"
@@ -11156,6 +11272,24 @@
       "duration_ms": 108300,
       "name": "Kobra",
       "url": "https://open.spotify.com/track/2lYPQGBza81vM14YJ4714v"
+    },
+    {
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/2sVgpRKCWlNJbmKjM0ewKM"
+      },
+      "artists": [
+        {
+          "name": "RICHMAN",
+          "url": "https://open.spotify.com/artist/3ZvCnJCDfKjWaKJC8x0ors"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172264,
+      "name": "KOMATSU BEACH TALK",
+      "url": "https://open.spotify.com/track/6cq2rxf4Gstr6UncPnZrnt"
     },
     {
       "album": {
@@ -13801,6 +13935,24 @@
     },
     {
       "album": {
+        "name": "NEW SKOOL",
+        "url": "https://open.spotify.com/album/3Du5jMwCTdzQFQhJcPHneb"
+      },
+      "artists": [
+        {
+          "name": "TOFU",
+          "url": "https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156653,
+      "name": "New Skool",
+      "url": "https://open.spotify.com/track/7kDLs0O0ooD4y51ZzyCvRi"
+    },
+    {
+      "album": {
         "name": "ASIAX",
         "url": "https://open.spotify.com/album/74QAbvu4SuVPkYqiWLE6dQ"
       },
@@ -13958,6 +14110,24 @@
       "duration_ms": 142847,
       "name": "night time friends",
       "url": "https://open.spotify.com/track/6EbqbdUhedyxkvSmhr2RIp"
+    },
+    {
+      "album": {
+        "name": "Nerd core tape 1",
+        "url": "https://open.spotify.com/album/2TCWVcQd281RjWgkl8fVZN"
+      },
+      "artists": [
+        {
+          "name": "SZK",
+          "url": "https://open.spotify.com/artist/4RPWTmkbkOnlNYNXNYltmy"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119999,
+      "name": "nightmare",
+      "url": "https://open.spotify.com/track/2cVb8UcVdZ8MH1XJ0gmenj"
     },
     {
       "album": {
@@ -14598,7 +14768,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 175799,
       "name": "OKANE (feat. Foux)",
       "url": "https://open.spotify.com/track/75ztW9J6iYAqEklHzPeXOK"
@@ -15957,6 +16127,28 @@
     },
     {
       "album": {
+        "name": "Pull Up (feat. Bene Baby)",
+        "url": "https://open.spotify.com/album/7uvu1MD7au3JI9AUcCuxTI"
+      },
+      "artists": [
+        {
+          "name": "Godzilla East",
+          "url": "https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5"
+        },
+        {
+          "name": "Bene Baby",
+          "url": "https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174939,
+      "name": "Pull Up (feat. Bene Baby)",
+      "url": "https://open.spotify.com/track/6t00Q5SvIXKkJeA4ZIG1VQ"
+    },
+    {
+      "album": {
         "name": "pure",
         "url": "https://open.spotify.com/album/0qkIVWS6aP674wtZ5PqpKV"
       },
@@ -16150,7 +16342,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 294139,
       "name": "RAINBOW BRIDGE",
       "url": "https://open.spotify.com/track/6IaeKanf1bag9znHRss7QK"
@@ -16270,6 +16462,24 @@
       "duration_ms": 162393,
       "name": "RAP BOY pt2 (feat. MIKADO)",
       "url": "https://open.spotify.com/track/3pidFDSYwepePnl2etITtU"
+    },
+    {
+      "album": {
+        "name": "Rap Game",
+        "url": "https://open.spotify.com/album/1T0NksGaRr6OLgI0ePQ3Nk"
+      },
+      "artists": [
+        {
+          "name": "AI jacky",
+          "url": "https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rap Game",
+      "url": "https://open.spotify.com/track/7o0bGJN9sgvEmhZKb2QcBM"
     },
     {
       "album": {
@@ -16816,6 +17026,24 @@
       "duration_ms": 133736,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5l5lkWSvhzlBfCPU1XTXDV"
+    },
+    {
+      "album": {
+        "name": "Ringing",
+        "url": "https://open.spotify.com/album/0Do7vSYeodUaQbQWRDkmfi"
+      },
+      "artists": [
+        {
+          "name": "Yog*",
+          "url": "https://open.spotify.com/artist/4Yu1jfEQO3TLm9sT1JapUw"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Ringing",
+      "url": "https://open.spotify.com/track/4PTZNbHavVscUxNJc3ZSha"
     },
     {
       "album": {
@@ -17590,7 +17818,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 138556,
       "name": "Secret Luv",
       "url": "https://open.spotify.com/track/6Pcvbk6tmNy2GTw3G9Pq3q"
@@ -17935,6 +18163,24 @@
     },
     {
       "album": {
+        "name": "SHIN GODZILLA",
+        "url": "https://open.spotify.com/album/17gnjom6T2EuFhT1O075bR"
+      },
+      "artists": [
+        {
+          "name": "Kay-on",
+          "url": "https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229618,
+      "name": "SHIN GODZILLA",
+      "url": "https://open.spotify.com/track/0UfcY8TrUJQsfvN625EslK"
+    },
+    {
+      "album": {
         "name": "Overflowing (feat.Kyle Unjour)",
         "url": "https://open.spotify.com/album/1SB89MGEo8cu3Mh6PsR1sc"
       },
@@ -18122,7 +18368,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 205090,
       "name": "Side Seat",
       "url": "https://open.spotify.com/track/3ays6YyULnE2QXYGpDXt1J"
@@ -19608,7 +19854,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 138857,
       "name": "Tee Shyne Flow",
       "url": "https://open.spotify.com/track/2TbcC82ZBbUgeEwpI6IaTD"
@@ -23354,7 +23600,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 146250,
       "name": "\u5922\u306e\u8a71",
       "url": "https://open.spotify.com/track/2bc9VBQAAer7kog3Zg43sE"

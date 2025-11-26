@@ -4,7 +4,7 @@
 
 > Pop to fuel your gaming\. Cover: KATSEYE
 
-446 songs - 21 hr 54 min
+447 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 | 2021-11-12 | 2022-02-12 |
 | [Happier Than Ever \- Edit](https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever \(Edit\)](https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz) | 2:31 | 2021-10-22 | 2022-04-29 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-10-22 | 2022-01-25 |
-| [Headshot \(From "Super Strike"\)](https://open.spotify.com/track/4Sg60z1HV5JLw3PKv0ZnoW) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Headshot \(From "Super Strike"\)](https://open.spotify.com/album/4xUU7KIGgJhRyAyLiWaRhk) | 2:16 | 2025-09-19 |  |
+| [Headshot \(From "Super Strike"\)](https://open.spotify.com/track/4Sg60z1HV5JLw3PKv0ZnoW) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Headshot \(From "Super Strike"\)](https://open.spotify.com/album/4xUU7KIGgJhRyAyLiWaRhk) | 2:16 | 2025-09-19 | 2025-11-26 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-10-28 | 2025-03-08 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-02-23 | 2022-04-16 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2022-01-24 | 2022-02-12 |
@@ -316,6 +316,7 @@
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2022-05-27 | 2025-10-11 |
 | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [PS5 \(with TOMORROW X TOGETHER & Alan Walker\)](https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx) | 2:32 | 2022-07-05 | 2023-10-25 |
 | [RACER](https://open.spotify.com/track/3juZveIW3kxZUV7s75j55D) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/5DJ9CbMJJgQsWmJYLsCoyk) | 2:40 | 2025-03-07 | 2025-04-12 |
+| [Radio](https://open.spotify.com/track/3uTPusLAtkgqi3UBPKCEos) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/7cCKrmlo80pWW0sKgR5QRe) | 3:21 | 2025-11-25 |  |
 | [RADIO \(feat\. Kim Petras\)](https://open.spotify.com/track/06kFuqzhMk4E6IYeO0sTfx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [SISTER](https://open.spotify.com/album/6U7EWP2htJIkZny2Iv7mHG) | 3:10 | 2025-09-12 |  |
 | [RAIN](https://open.spotify.com/track/3rVBHSHxRTYTvSplO6CmZ0) | [Teflon Sega](https://open.spotify.com/artist/0JFKmdLuTj0yZi9P05a85X) | [RAIN](https://open.spotify.com/album/55CEtbso1nUX8NIdeIkxAT) | 3:48 | 2022-07-26 | 2022-08-13 |
 | [Rain On Me \(with Ariana Grande\)](https://open.spotify.com/track/7ju97lgwC2rKQ6wwsf9no9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:02 | 2024-02-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beyond The Black\n",
-  "num_followers": 814473,
+  "num_followers": 814538,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -887,8 +887,8 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "The Duelist",
-        "url": "https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv"
+        "name": "Stories From The Western Front",
+        "url": "https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 235000,
-      "name": "The Duelist",
-      "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
+      "duration_ms": 216813,
+      "name": "1916",
+      "url": "https://open.spotify.com/track/29y2j3s6i528lBTSMP0wbE"
     },
     {
       "added_at": "2025-11-21 04:00:08",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "Stories From The Western Front",
-        "url": "https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty"
+        "name": "The Duelist",
+        "url": "https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 216813,
-      "name": "1916",
-      "url": "https://open.spotify.com/track/29y2j3s6i528lBTSMP0wbE"
+      "duration_ms": 235000,
+      "name": "The Duelist",
+      "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
     },
     {
       "added_at": "2025-11-21 04:00:08",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "Break The Silence",
-        "url": "https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH"
+        "name": "Beyond The Black",
+        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 263244,
-      "name": "Break The Silence",
-      "url": "https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP"
+      "duration_ms": 269533,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
     },
     {
       "added_at": "2025-11-21 04:00:08",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "I Will Die In It",
-        "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        }
-      ],
-      "duration_ms": 224811,
-      "name": "I Will Die In It",
-      "url": "https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY"
-    },
-    {
-      "added_at": "2025-11-21 04:00:08",
-      "album": {
         "name": "Venerate Me",
         "url": "https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7"
       },
@@ -1303,8 +1287,24 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "Beyond The Black",
-        "url": "https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy"
+        "name": "I Will Die In It",
+        "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "duration_ms": 224811,
+      "name": "I Will Die In It",
+      "url": "https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY"
+    },
+    {
+      "added_at": "2025-11-21 04:00:08",
+      "album": {
+        "name": "Break The Silence",
+        "url": "https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH"
       },
       "artists": [
         {
@@ -1312,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK"
+      "duration_ms": 263244,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP"
     },
     {
       "added_at": "2025-11-21 04:00:08",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "Power of Will",
-        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Power of Will",
-      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
-    },
-    {
-      "added_at": "2025-11-21 04:00:08",
-      "album": {
         "name": "The Endless Shore",
         "url": "https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7"
       },
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
+        "name": "Power of Will",
+        "url": "https://open.spotify.com/album/6MSd9d2q11JwWSsZh6fBVr"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Power of Will",
+      "url": "https://open.spotify.com/track/480rtuITvEdBj1TA76juXO"
+    },
+    {
+      "added_at": "2025-11-21 04:00:08",
+      "album": {
         "name": "Helldiver",
         "url": "https://open.spotify.com/album/59U6vhesTkJjbJAba5ZSKv"
       },
@@ -1607,6 +1607,22 @@
       "duration_ms": 212539,
       "name": "Helldiver",
       "url": "https://open.spotify.com/track/6yxiUlPSK6oq1HFkepBh8Z"
+    },
+    {
+      "added_at": "2025-11-21 04:00:08",
+      "album": {
+        "name": "Fairy of the Bog",
+        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "Fairy of the Bog",
+      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
       "added_at": "2025-11-21 04:00:08",
@@ -1627,22 +1643,6 @@
       "duration_ms": 264946,
       "name": "The Wicked Rule The Night",
       "url": "https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e"
-    },
-    {
-      "added_at": "2025-11-21 04:00:08",
-      "album": {
-        "name": "Fairy of the Bog",
-        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "Fairy of the Bog",
-      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
       "added_at": "2025-11-21 04:00:08",
@@ -1695,22 +1695,18 @@
     {
       "added_at": "2025-11-21 04:00:08",
       "album": {
-        "name": "Queen of Shadow",
-        "url": "https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku"
+        "name": "The Hanging Tree",
+        "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
       "artists": [
         {
-          "name": "Delain",
-          "url": "https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI"
-        },
-        {
-          "name": "Paolo Ribaldini",
-          "url": "https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN"
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
         }
       ],
-      "duration_ms": 242146,
-      "name": "Queen of Shadow (feat. Paolo Ribaldini)",
-      "url": "https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA"
+      "duration_ms": 226128,
+      "name": "The Hanging Tree",
+      "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
     }
   ],
   "unique_name": "Epic & Melodic",

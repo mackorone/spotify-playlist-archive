@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Fine jazz for a fine day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,608 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,610 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

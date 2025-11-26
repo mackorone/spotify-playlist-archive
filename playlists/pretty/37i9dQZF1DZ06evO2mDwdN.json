@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13866,
+  "num_followers": 13868,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABmTWZ3/nVIRuS0SQBDxfE1",
+  "snapshot_id": "aSOgAAAAAAAkv2xl+gtcErmRTYOme0q8",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 279426,
-      "name": "To Be True (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
+      "duration_ms": 199480,
+      "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
+      "duration_ms": 279426,
+      "name": "To Be True (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes",
-        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
         "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "Harold Melvin & The Blue Notes",
+        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 374106,
-      "name": "I'm Comin' Home Tomorrow (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC"
+      "duration_ms": 249760,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
     },
     {
       "added_at": null,
@@ -615,6 +595,26 @@
       "duration_ms": 212240,
       "name": "Let It Be You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 374106,
+      "name": "I'm Comin' Home Tomorrow (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blue Album",
         "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 361093,
       "name": "Prayin'",
       "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
     },
     {
       "added_at": null,
@@ -707,6 +707,30 @@
       "duration_ms": 302642,
       "name": "Love Train - Live",
       "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 218554,
+      "name": "Cry Together - Live",
+      "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
     },
     {
       "added_at": null,
@@ -743,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Baby I'm Back",
+      "url": "https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -760,25 +800,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 218554,
-      "name": "Cry Together - Live",
-      "url": "https://open.spotify.com/track/1AHoHNRyc2MGWDMHRQMkRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Baby I'm Back",
-      "url": "https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1"
+      "duration_ms": 498064,
+      "name": "A House Is Not A Home - Live",
+      "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
     },
     {
       "added_at": null,
@@ -815,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 352786,
+      "name": "Your Love Is Taking Me On A Journey",
+      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -832,25 +872,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 498064,
-      "name": "A House Is Not A Home - Live",
-      "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 352786,
-      "name": "Your Love Is Taking Me On A Journey",
-      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
+      "duration_ms": 89091,
+      "name": "The Intruders Medley Introduction - Live",
+      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
     },
     {
       "added_at": null,
@@ -883,30 +907,6 @@
       "duration_ms": 212551,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 89091,
-      "name": "The Intruders Medley Introduction - Live",
-      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
     },
     {
       "added_at": null,

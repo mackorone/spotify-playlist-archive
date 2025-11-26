@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 123475,
+  "num_followers": 123523,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Life Stories",
+        "url": "https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg"
+      },
+      "artists": [
+        {
+          "name": "Ebo Taylor",
+          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+        }
+      ],
+      "duration_ms": 365693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Daddy Lumba Essentials",
         "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 337606,
       "name": "Theresa",
       "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Pata Pata",
-      "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
     }
   ],
   "unique_name": "Classic Afropop",

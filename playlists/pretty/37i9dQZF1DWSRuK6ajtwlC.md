@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷\. Grupo Retro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,904 likes - 107 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,912 likes - 107 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

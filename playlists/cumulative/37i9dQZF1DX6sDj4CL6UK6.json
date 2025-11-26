@@ -2017,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm"
+      },
+      "artists": [
+        {
+          "name": "Trance Effect",
+          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+        },
+        {
+          "name": "MongDoll",
+          "url": "https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181080,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe"
+    },
+    {
+      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC"
       },
@@ -5210,7 +5232,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 166346,
       "name": "S.O.T.I. (Strangers On The Internet)",
       "url": "https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5"

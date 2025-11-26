@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 83228,
+  "num_followers": 83247,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Headlong",
-        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Far Too Good",
-      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Love Songs For Robots",
         "url": "https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 217606,
       "name": "Love Songs For Robots",
       "url": "https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Headlong",
+        "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Far Too Good",
+      "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Philharmonics",
-        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 228546,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Undercurrent",
         "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 154200,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Philharmonics",
+        "url": "https://open.spotify.com/album/1hOKjrormSHpyOw0BREwEx"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 228546,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4vJ2nNBA6sxAUN5kLGPq3Q"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 207493,
-      "name": "Jealous Guy",
-      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+      "duration_ms": 207493,
+      "name": "Jealous Guy",
+      "url": "https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Delta Spirit",
-        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "California",
-      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Helplessness Blues",
         "url": "https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Delta Spirit",
+        "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Civilian",
+        "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
+      },
+      "artists": [
+        {
+          "name": "Wye Oak",
+          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
+        }
+      ],
+      "duration_ms": 220917,
+      "name": "Civilian",
+      "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Phosphorescent Blues",
         "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 326493,
       "name": "Julep",
       "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Singing Ax",
         "url": "https://open.spotify.com/album/5MwNed00WoQc1dqGTxz8UQ"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 193786,
       "name": "Love No Less Worthy",
       "url": "https://open.spotify.com/track/7cyEaeobX5n7UmvvdxG4Zt"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2024-08-28 14:05:36",

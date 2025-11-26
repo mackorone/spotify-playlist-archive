@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-129 songs - 7 hr 32 min
+132 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bleeding \(acoustic\)](https://open.spotify.com/track/6pmUye437XWerMiAvvCx51) | [Gabe Tarlton](https://open.spotify.com/artist/7s3T21uzMf3Z1Ft38znq44) | [Bleeding \(acoustic\)](https://open.spotify.com/album/63xNMBIOkYB6n5rZkRp7Cd) | 2:30 | 2025-10-31 |  |
 | [Breathing Underwater Part 1](https://open.spotify.com/track/4wQqFFkqeOcCsEtv2v72a3) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Breathing Underwater](https://open.spotify.com/album/6oRzmaYK0TGgrvOJNWNQVh) | 4:34 | 2025-08-15 |  |
 | [Burned out](https://open.spotify.com/track/1nDu8QwH1aTKMgbpqWdH6i) | [Air Vibration](https://open.spotify.com/artist/3ScG84iDoG9YBdTg4tFVDu) | [Burned out](https://open.spotify.com/album/5i1G5taACyPRRrrABEsUGu) | 2:28 | 2025-09-11 |  |
+| [Cat](https://open.spotify.com/track/3F13JAmJpksrb4b6Yn9afI) | [Hz](https://open.spotify.com/artist/48r2ayMpyZLDfTEcOP1SDH) | [Cat](https://open.spotify.com/album/53NqTLQtljXFYJZlpgedwo) | 4:08 | 2025-11-25 |  |
 | [Cellar Door](https://open.spotify.com/track/21EAEMxSiiC8R9U4GMpN7I) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:43 | 2025-11-14 |  |
 | [Collage Extraordinaire](https://open.spotify.com/track/6764C8IjGOlNRn3bM2UTea) | [Dustin Morris](https://open.spotify.com/artist/7HbQJe2NOklqhq93AhCfKO) | [Collage Extraordinaire](https://open.spotify.com/album/3atlAT05mjqVrtNoE0BkPx) | 3:53 | 2025-10-10 |  |
 | [Digital Edition \(Game Over\)](https://open.spotify.com/track/1xGcg2b4FEezQzt2wROeLx) | [EsumMusic](https://open.spotify.com/artist/4URGAY6N1o1FdhvpqETIk0) | [Digital Edition \(Game Over\)](https://open.spotify.com/album/6FxCeenvcf2fMyyusfzP4G) | 3:30 | 2025-11-18 |  |
@@ -46,6 +47,7 @@
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-09-12 |  |
 | [Greedy for small gains](https://open.spotify.com/track/0cNiKGurgv7nWN3ZnmzynE) | [RYN SKY](https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg) | [Greedy for small gains](https://open.spotify.com/album/2uqbUzjq5TGGnR7Nh5cj8e) | 6:52 | 2025-11-20 |  |
 | [Green Light](https://open.spotify.com/track/34usNzrCgt3CAtpd4uCnLo) | [SETTINGS](https://open.spotify.com/artist/1kfMHJCbmgZzcQDJoslasA) | [Green Light](https://open.spotify.com/album/5YHZsCQH6Poj37014rt7oY) | 3:30 | 2025-10-24 |  |
+| [GYPSY GIRL](https://open.spotify.com/track/6QJgtgwOBQRAm3rXI0fQ4f) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [GYPSY GIRL](https://open.spotify.com/album/4LwRyoHz6c7T5Hwj9f0lqS) | 3:13 | 2025-11-25 |  |
 | [Hands](https://open.spotify.com/track/6LflirCCKMmIPoJeb9Kkb8) | [Hosannas](https://open.spotify.com/artist/3MOXu8DfF3VUfC7WmNBb8D) | [Picture Him Protecting You](https://open.spotify.com/album/3Je9xNxfxhvKKp4VqVAI7E) | 4:41 | 2025-11-20 |  |
 | [Hautakivi IV](https://open.spotify.com/track/6CW4aBlClxeepM9KNcrcdv) | [Kaskeus](https://open.spotify.com/artist/7li8snm7gcIV26db7PnaaA) | [Juureton Puu & Hautakivi IV](https://open.spotify.com/album/0nGmaoY9Q0tBh04HoSDTrQ) | 3:32 | 2025-08-26 |  |
 | [Her Song](https://open.spotify.com/track/1XB4KEWJ9cxIznLuVY2f78) | [David Matias](https://open.spotify.com/artist/22k62BDUBiRAlftDNpxfis) | [Still Life EP](https://open.spotify.com/album/42aUCZB195PUHIW6iRsR98) | 2:46 | 2025-10-16 |  |
@@ -119,6 +121,7 @@
 | [The Fall](https://open.spotify.com/track/2v5stDWEv5ZQDVP6NdGBjA) | [Venior](https://open.spotify.com/artist/2lpGnpxGqS2rOJRFnLFuT6) | [The Fall](https://open.spotify.com/album/4Ysqg0gATdjkY1IxIWKjz1) | 6:09 | 2025-11-06 |  |
 | [The Future Is in Our Hands \(And That Should Terrify You\)](https://open.spotify.com/track/2mYqiVEs5qW44JEJNvrBGy) | [D\. Majestic and the Spectral Band](https://open.spotify.com/artist/17YBPIdTtr17ZC1sYfWUZ8) | [The Future Is in Our Hands \(And That Should Terrify You\)](https://open.spotify.com/album/1mz5IZoZl3AVcWF8SL5Pka) | 2:41 | 2025-10-16 |  |
 | [The Open Door](https://open.spotify.com/track/6iXp9NrHztBXAkQ2EfKUAJ) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [The Open Door](https://open.spotify.com/album/69DTawT7CmrTXphOhgdcFa) | 1:29 | 2024-04-04 |  |
+| [The same old café](https://open.spotify.com/track/6iy0PiiR9SXohvgxYftqVN) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy), [Pupille](https://open.spotify.com/artist/0Dn2cJkN3xEZT0m5QP6MCI) | [L'ambiguïté](https://open.spotify.com/album/6EgZJxDdJwYfEBdRYA9v2h) | 4:55 | 2025-11-25 |  |
 | [The Search](https://open.spotify.com/track/4BIgOVHz6nQKs3znCQIG4A) | [One Flux](https://open.spotify.com/artist/5BjPshI3N7zqfZ3E67ZVlF) | [Altered Ignition](https://open.spotify.com/album/6VeFPHBE2zzAdDtHAblght) | 3:47 | 2025-09-10 |  |
 | [There She Comes](https://open.spotify.com/track/0loCXm7dOITW8ta12rOm31) | [The River Men](https://open.spotify.com/artist/0HIv9mPRqbeWmPA0tOirTv) | [There She Comes](https://open.spotify.com/album/30FrAFyTSQa5V29VXaaIE2) | 4:12 | 2025-10-31 |  |
 | [THIS MORTAL BED](https://open.spotify.com/track/6stg3S6KU2mdXcTCY8BJ2n) | [Homme Bleu](https://open.spotify.com/artist/3XjmFq9QjVKJ9C3zlDpPJY) | [DARK MATTER](https://open.spotify.com/album/7d7NWbKU6X6h2PYXRnILdN) | 4:45 | 2025-09-15 |  |

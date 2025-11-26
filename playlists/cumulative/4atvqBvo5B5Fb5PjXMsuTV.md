@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 Nov 19:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Nov 23:04 UTC.
 
-5,871 songs - 13 day 14 hr 10 min
+5,873 songs - 13 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,7 +328,7 @@
 | [Anxiety](https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Anxiety](https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6) | 3:28 | 2024-06-06 | 2024-06-09 |
 | [Any Excuse To Party](https://open.spotify.com/track/3HmeAjLr5sht8K1Ba3AeQA) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Any Excuse To Party](https://open.spotify.com/album/5oxQv59SZh7XXJxcw2uo25) | 2:01 | 2024-12-20 | 2025-01-02 |
 | [any means](https://open.spotify.com/track/1nZcuVhLTqeX0NZOcpFCKU) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [any means](https://open.spotify.com/album/5i1VVytMaXlk25P00MJN24) | 3:37 | 2024-08-20 | 2024-08-24 |
-| [ANY MINUTE NOW](https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [ANY MINUTE NOW](https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16) | 3:12 | 2025-11-14 |  |
+| [ANY MINUTE NOW](https://open.spotify.com/track/7ForfhYkKkD3BEil8PB5Hs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [ANY MINUTE NOW](https://open.spotify.com/album/5qiwaNjoefoKyNv0iMXc16) | 3:12 | 2025-11-14 | 2025-11-26 |
 | [Any Time Soon](https://open.spotify.com/track/61jrROLbEE7x7PO5uhnVlf) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Any Time Soon](https://open.spotify.com/album/6bxlzIv6toLMiVYvL3YIvN) | 3:50 | 2024-10-16 | 2024-10-18 |
 | [anylonger](https://open.spotify.com/track/2rH339KIa3Bsv79O1UsFLY) | [webcage](https://open.spotify.com/artist/4UT4nU8WhvaejIoes2t7d8) | [anylonger](https://open.spotify.com/album/5slpCJcdTYAhH5kh1f3PTK) | 4:13 | 2024-10-14 | 2024-10-18 |
 | [Anymore](https://open.spotify.com/track/3Qa5RL4Fzfo11zkK5zTMWL) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Anymore](https://open.spotify.com/album/6puIHXCX2OyhAGQTm24Hd4) | 2:50 | 2024-09-11 | 2024-09-14 |
@@ -911,6 +911,7 @@
 | [CHAMPION CYPHER](https://open.spotify.com/track/3bMaxlIH7cTelXo6xLLQuB) | [Shofu](https://open.spotify.com/artist/6Mt5Jv5qiHPyCmnaLbr6Rz), [WDFA](https://open.spotify.com/artist/2mPckfq3OqV1HOEj7PQ5f7), [Scoot](https://open.spotify.com/artist/7eR2I1kvpRcRrBdqYrxQ94), [KEZURA](https://open.spotify.com/artist/56KbSU3iNWXFPqx3DeaWJC), [VI Seconds](https://open.spotify.com/artist/7l7jyhyCooS3qKlBhZLIiG), [LIME KING](https://open.spotify.com/artist/5NtLNmKj1e3pDxSDV9pwAi), [OmarCameUp](https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v), [Shofu tha BeatDown](https://open.spotify.com/artist/6go2vt0qN1bphmn9EMNOtI), [Token Black](https://open.spotify.com/artist/7o4jUmg3xAzo6IYUawh2YE), [Jeesh](https://open.spotify.com/artist/2xhlo9ueEmaXOz4IGwa1T2), [BlackLynk](https://open.spotify.com/artist/46ZR1UUZY1GAt4DmlQbZs4), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm) | [CHAMPION CYPHER](https://open.spotify.com/album/1u4vnXVigqVjNzX1TW6JgW) | 6:45 | 2025-01-31 | 2025-02-05 |
 | [CHANEL](https://open.spotify.com/track/2HTro5phSfDcaKoKTx188G) | [Szaran](https://open.spotify.com/artist/46O01Gw9HMk3vQtS9VvyGG), [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot) | [CHANEL](https://open.spotify.com/album/7A46FscWKSsRYVi9BXlK4r) | 2:48 | 2024-06-19 | 2024-06-21 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-10-24 | 2025-11-07 |
+| [Chanel Boy](https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Chanel Boy](https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND) | 2:37 | 2025-11-25 |  |
 | [Chanel No.5](https://open.spotify.com/track/1NV3GyttwPTCgQ15BtBPpn) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Chanel No.5](https://open.spotify.com/album/4fSheJGSNnkHOR5psNKUWG) | 2:40 | 2024-06-21 | 2024-06-25 |
 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 | 2024-06-12 | 2024-06-14 |
 | [Change Me](https://open.spotify.com/track/3ue9KvC56uoNw5lKyE5bTj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Change Me](https://open.spotify.com/album/7KWz3ZQetV6HQbriV6GHVZ) | 2:17 | 2024-09-27 | 2024-10-02 |
@@ -1735,7 +1736,7 @@
 | [Feel Again](https://open.spotify.com/track/6ImYUu32noNZlEOBjRqFDV) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [Feel Again](https://open.spotify.com/album/6VGug7OxdoXbwLE0Y7IUZZ) | 7:42 | 2025-08-09 | 2025-08-20 |
 | [feel like home](https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [feel like home](https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O) | 2:40 | 2024-09-11 | 2024-09-14 |
 | [Feel Like This](https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Feel Like This](https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW) | 3:48 | 2024-12-05 | 2024-12-07 |
-| [Feel Something, Great.](https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Feel Something, Great.](https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq) | 3:21 | 2025-11-16 |  |
+| [Feel Something, Great.](https://open.spotify.com/track/7twRJwGWZC147R6QkE4s7f) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Feel Something, Great.](https://open.spotify.com/album/1s63AbCuvbrYCcPAm358Cq) | 3:21 | 2025-11-16 | 2025-11-26 |
 | [Feel Your Love \(Rapture\)](https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Ganesh Waghela](https://open.spotify.com/artist/4Kac7OHMUGXTbh1nWNXuNw) | [Feel Your Love \(Rapture\)](https://open.spotify.com/album/4EoPxkx9NLL0BmgpLXOL11) | 3:10 | 2024-08-23 | 2024-08-28 |
 | [Feeling A Way](https://open.spotify.com/track/6h5ZddL24wXcFDj6DVbk4W) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Feeling A Way](https://open.spotify.com/album/5NZheHHybnGWymired1xYi) | 3:12 | 2024-08-26 | 2024-08-30 |
 | [Feeling Fine](https://open.spotify.com/track/2QOdOfyEjTNzMPURb0OZyc) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Feeling Fine](https://open.spotify.com/album/0CvKXsBvNPwj6xE1NV68Xf) | 3:25 | 2024-04-26 | 2024-04-27 |
@@ -2516,6 +2517,7 @@
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-06-28 | 2024-07-02 |
 | [I'm Tired Of Being Your Mother](https://open.spotify.com/track/40Dj6vZNdoBPfb797kqZbh) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [I'm Tired Of Being Your Mother](https://open.spotify.com/album/5m19KywB38cunfDk3Q5jw3) | 3:33 | 2025-03-11 | 2025-03-15 |
 | [i'm up to something...](https://open.spotify.com/track/2CerUqlcMXNaTJUSZTt4EK) | [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd) | [i'm up to something...](https://open.spotify.com/album/7CRcRdTY95QIeBs4eZBdtn) | 2:26 | 2024-09-18 | 2024-09-21 |
+| [I've Got A Broken Heart](https://open.spotify.com/track/38ifZytnEYRRwRfEx60hgk) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [I've Got A Broken Heart](https://open.spotify.com/album/3DztGBFFRznexpmi3CjUt6) | 2:49 | 2025-11-25 |  |
 | [i\-Candy](https://open.spotify.com/track/48YfUeUBxM72zQBvy9Svez) | [Frankie and the Witch Fingers](https://open.spotify.com/artist/5UdQDFQ3wgUPuL5kiL7KqU) | [i\-Candy](https://open.spotify.com/album/22PrIcE9FSgdYOcTpME8d4) | 3:30 | 2024-10-09 | 2024-10-11 |
 | [I\. THE DESCENT](https://open.spotify.com/track/1dwiKtLCq2pl8o316cOkV1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [I\. The Descent](https://open.spotify.com/album/0sRa0PCV1Fz1xCghBRWdcP) | 3:46 | 2025-01-17 | 2025-01-25 |
 | [I00](https://open.spotify.com/track/4kQ9Pv0eBPawJSdCLFpO74) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [I00](https://open.spotify.com/album/4LnqhZH5aShN9kZbVTaTLa) | 2:28 | 2025-02-28 | 2025-03-08 |

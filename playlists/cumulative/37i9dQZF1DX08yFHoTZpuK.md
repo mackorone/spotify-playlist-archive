@@ -4,7 +4,7 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-56 songs - 4 hr 7 min
+57 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,10 +57,11 @@
 | [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 | 2025-11-07 |  |
 | [Walk Through The 8th \- DJ WADA Remix](https://open.spotify.com/track/231LOBMBTxZROggsyhV3d9) | [Ken Ishii](https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0), [Masaki Sakamoto](https://open.spotify.com/artist/0SnpRrNUq87R9ytNHgDbjT), [DJ Wada](https://open.spotify.com/artist/2RPVZCX4kne5nTAvqAH1hf) | [Walk Through The 8th \(Incl\. DJ WADA Remix\)](https://open.spotify.com/album/602TXtDh9LyAyVCl8Yejtb) | 6:05 | 2025-10-24 | 2025-11-15 |
 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-10-24 |  |
+| [WHAT](https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw) | [CARTOON](https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT), [Jean Pierre](https://open.spotify.com/artist/59EMBN7eiOECiRgEyM9LeJ), [Daitto](https://open.spotify.com/artist/2Cr1yQSJ738W0CCg1AzI86) | [WHAT](https://open.spotify.com/album/36us3Pylwtw6T1liRpELNk) | 3:23 | 2025-11-07 |  |
 | [wo ai ni \- Shinichi Osawa Remix](https://open.spotify.com/track/0SMRll97QhuWoiqSkLKwzt) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [wo ai ni](https://open.spotify.com/album/09bLG3oFSKVqvPG3tk5AzV) | 3:33 | 2025-10-24 |  |
 | [WOKE UP x XDM](https://open.spotify.com/track/1a5Dhd82KaUqmz3sQEDNbs) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [XDM Unidentified Waves](https://open.spotify.com/album/1z3VCBUJBHkpDHtzOZP205) | 3:09 | 2025-10-24 |  |
 | [Wwww](https://open.spotify.com/track/5L54V8jEQeSJAUdTiRX3jf) | [DJ Nobu](https://open.spotify.com/artist/0FjzWRwRfEzCndGjColUy9) | [ON\-Netoh](https://open.spotify.com/album/70VkH9GIjlBwo1gFTA9dLT) | 6:15 | 2025-10-24 |  |
-| [Yes](https://open.spotify.com/track/2yNmtP6AH5ovZkPsQ4v4JB) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:55 | 2025-10-24 |  |
+| [Yes](https://open.spotify.com/track/2yNmtP6AH5ovZkPsQ4v4JB) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:55 | 2025-10-24 | 2025-11-26 |
 | [You Ain't My Friend](https://open.spotify.com/track/2kW15aO83Ix1lFGreg9F7l) | [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [You Ain't My Friend](https://open.spotify.com/album/1XyrELP834fbjigvHSIaEl) | 2:57 | 2025-10-24 |  |
 | [フラワー](https://open.spotify.com/track/3BF4RksNihC06UoqYi6hnq) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [フラワー](https://open.spotify.com/album/2EcW1SjKIISp8sZImkbFgu) | 4:47 | 2025-11-07 |  |
 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 | 2025-10-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,377 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,384 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Cocaina](https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Dutch Movement](https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Cocaina](https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk) | 3:04 |
 | 50 | [HUTS \- Outsiders & The Darkraver Remix](https://open.spotify.com/track/5flW9RYORo5SH5XEF7dcIf) | [The Blockparty](https://open.spotify.com/artist/1zmmIiBBODh2QxbdUqYbdU), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Mouad Locos](https://open.spotify.com/artist/0FwFGRp5bp9KWyPiCI1CYX), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [HUTS \(Remixpack\)](https://open.spotify.com/album/67GjgbnGGaNbHZG1BeUxGe) | 2:26 |
 
-Snapshot ID: `aSJOgAAAAAAfG5HxAdmuv+LZZRZFgOTZ`
+Snapshot ID: `aSOgAAAAAABz3aivlGbe9wy7jJVTApIb`

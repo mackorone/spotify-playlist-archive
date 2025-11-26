@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 152820,
+  "num_followers": 152817,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSJOgAAAAABBAahPVV9PJaA78OHljleY",
+  "snapshot_id": "aSOgAAAAAABnjSQOTWwKJBEvDKUYvjxX",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 131720,
+      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music Is the Weapon (Reloaded)",
         "url": "https://open.spotify.com/album/76zSNlOGCAxTln5yG4pfih"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/1YHeCzS5L9xs76eOpAS6WU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 131720,
-      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc-Overy",
-        "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 295413,
-      "name": "Frisky (feat. Labrinth)",
-      "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 140750,
       "name": "Like A Movie",
       "url": "https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disc-Overy",
+        "url": "https://open.spotify.com/album/6nuITL8EMJO1zncOwOeHRr"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 295413,
+      "name": "Frisky (feat. Labrinth)",
+      "url": "https://open.spotify.com/track/1vEJMOUd7nRyItMAMDQ5ED"
     },
     {
       "added_at": null,

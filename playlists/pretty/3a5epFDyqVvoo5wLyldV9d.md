@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 885 songs - 2 day 21 hr 14 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 886 songs - 2 day 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -893,5 +893,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 883 | [Un homme et une femme](https://open.spotify.com/track/7pLCx72zQyAu2x0l59bsTM) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [Love Is Blue](https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa) | 2:23 |
 | 884 | [L'amour est bleu](https://open.spotify.com/track/7pcLsOMObk21x0E96vxGek) | [Paul Mauriat](https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi) | [I Will Follow Him](https://open.spotify.com/album/21r1oT32FM8tvhFM5Mx4Zj) | 2:33 |
 | 885 | [Alech](https://open.spotify.com/track/6OJo63o4YdJmvrgzrNQSX7) | [Dalton](https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd) | [Alech / Soul Brother \(Habibi Funk 001\)](https://open.spotify.com/album/1HBY3Vv9JYAR2ZiquvOV63) | 3:36 |
+| 886 | [Soleil Soleil](https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 3:59 |
 
-Snapshot ID: `AAAD52nom3cyZyYzj4Wbb0wwHmspME9X`
+Snapshot ID: `AAAD6DwycH+mPVBVGcExQFE1mFu0fQRW`

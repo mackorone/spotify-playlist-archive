@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: Lauren Daigle",
-  "num_followers": 148983,
+  "num_followers": 149010,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+        "name": "Never Land",
+        "url": "https://open.spotify.com/album/4Hu6p2AFsoHrd2RzM4NvTX"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
         }
       ],
-      "duration_ms": 211600,
-      "name": "Trust In You",
-      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
+      "duration_ms": 239961,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/0WwrwEmAXGy6keX7noxBYO"
     },
     {
       "added_at": "2025-09-14 08:39:15",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "Never Land",
-        "url": "https://open.spotify.com/album/4Hu6p2AFsoHrd2RzM4NvTX"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
       "artists": [
         {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 239961,
-      "name": "You Can't Stop Me",
-      "url": "https://open.spotify.com/track/0WwrwEmAXGy6keX7noxBYO"
+      "duration_ms": 211600,
+      "name": "Trust In You",
+      "url": "https://open.spotify.com/track/4908mwb34dqgcaxHeFjitw"
     },
     {
       "added_at": "2025-09-14 08:39:15",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
-      },
-      "artists": [
-        {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Even If",
-      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
-    },
-    {
-      "added_at": "2025-09-14 08:39:15",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
       },
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2025-09-14 08:39:15",
       "album": {
-        "name": "A Beautiful Exchange",
-        "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H"
       },
       "artists": [
         {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Jad Gillies",
-          "url": "https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 343893,
-      "name": "Forever Reign - Live",
-      "url": "https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR"
+      "duration_ms": 255160,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/787cootcZRw5Xr47Of97AN"
     },
     {
       "added_at": "2025-09-14 08:39:15",
@@ -1591,6 +1571,26 @@
       "duration_ms": 248217,
       "name": "Manolo",
       "url": "https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B"
+    },
+    {
+      "added_at": "2025-09-14 08:39:15",
+      "album": {
+        "name": "A Beautiful Exchange",
+        "url": "https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Jad Gillies",
+          "url": "https://open.spotify.com/artist/5U4Girw0uPUEsQx5GzRaKU"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Forever Reign - Live",
+      "url": "https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR"
     },
     {
       "added_at": "2025-09-14 08:39:15",

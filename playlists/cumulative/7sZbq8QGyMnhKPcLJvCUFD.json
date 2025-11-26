@@ -5459,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3Oj6yFu8nIG4KJtRv1w6rv"
+      },
+      "artists": [
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        },
+        {
+          "name": "Surreal_dvd",
+          "url": "https://open.spotify.com/artist/7MwpWn0EgCOiihOx6HVQDs"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182488,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/0ml9v2aXYXUd1EbEB9G9BS"
+    },
+    {
+      "album": {
         "name": "Firefly",
         "url": "https://open.spotify.com/album/3xjkwdRVxpZVcFEbVzQ0dw"
       },

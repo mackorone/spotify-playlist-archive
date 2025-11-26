@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-169 songs - 7 hr 22 min
+173 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Coziness](https://open.spotify.com/track/4IGPH1ThB3YMjgC6oevUEW) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Volume Four](https://open.spotify.com/album/3AucGtdVSGSlb1suEzCXpC) | 2:00 | 2022-03-18 | 2024-04-19 |
 | [Coziness](https://open.spotify.com/track/7hGdGIg5Q7E1ojq7zWIbft) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Coziness](https://open.spotify.com/album/63zI87IvwsuXDn4BpuSFqT) | 2:00 | 2021-04-21 | 2024-12-12 |
 | [Dark Seasons](https://open.spotify.com/track/3qeeFt8y4ooVnBzkAD3iQh) | [Valérie Valérie](https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25) | [Dark Seasons](https://open.spotify.com/album/5IXfi0G7kp6PK0dRvGQn4b) | 2:41 | 2024-09-30 |  |
+| [Days and Days](https://open.spotify.com/track/3LkBP7gC3g8cUWQpArGKAB) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [Days and Days](https://open.spotify.com/album/3aEYmntr19JNHcZrz6YkGB) | 2:12 | 2025-11-25 |  |
 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-09-11 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2021-04-21 |  |
 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 | 2021-04-21 |  |
@@ -121,6 +122,7 @@
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2021-04-21 |  |
 | [Quietly Into The Night](https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [Quietly Into The Night](https://open.spotify.com/album/4dKF6U00m5Ed9wsFzir5ze) | 2:16 | 2024-08-19 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-04-21 | 2025-03-12 |
+| [Reflections at Dusk](https://open.spotify.com/track/3kkPEjUVQM8yYZXWmDMW39) | [Aurelio Li](https://open.spotify.com/artist/4TO9hcCQfJDVBofrM5ra12) | [Reflections at Dusk](https://open.spotify.com/album/3O2stAbVyokk8LP4oT8R4u) | 2:32 | 2025-11-25 |  |
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2021-04-21 | 2025-06-05 |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-04-05 |  |
 | [Respite](https://open.spotify.com/track/2udO9YUSR2cRQNgMyoJEYC) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Sensibilities](https://open.spotify.com/album/6kMSO9oS3Wf2CmiOmbYIDg) | 2:20 | 2021-04-21 | 2024-12-04 |
@@ -152,10 +154,12 @@
 | [Summer Dream](https://open.spotify.com/track/010G1VMphoKTZPrDRYAJDY) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Summer Dream](https://open.spotify.com/album/43DI5lCugo6Meef3a9Qr69) | 2:55 | 2025-08-19 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2021-04-21 | 2025-06-05 |
 | [Swadhisthana](https://open.spotify.com/track/5tWz0ZTSkBbgDOjKCYUtp6) | [Silicon Silence](https://open.spotify.com/artist/3IsFn83rSDMVENUU5jK5O5) | [Swadhisthana](https://open.spotify.com/album/4Rbm9A3luj0euz4KL7OSV8) | 2:48 | 2025-03-18 |  |
+| [The Distance Between Us](https://open.spotify.com/track/4d9ORvnSV7lkOtobYvaOvx) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [The Distance Between Us](https://open.spotify.com/album/1src0xqncI2UNcI0wp2uAi) | 2:03 | 2025-11-25 |  |
 | [The Land You Belong](https://open.spotify.com/track/0VJwxkumrClrt4Y41evUpy) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [The Land You Belong](https://open.spotify.com/album/3uj2AIVg0qfo3NR2HlGkEq) | 2:24 | 2024-12-11 |  |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2021-04-21 | 2024-12-04 |
 | [The Room Upstairs](https://open.spotify.com/track/2TOXQ1L2NjnKYAwrHbzDgZ) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [The Room Upstairs](https://open.spotify.com/album/2nroqN7kkTUrFfw8K55wP1) | 2:20 | 2021-04-21 | 2025-06-05 |
 | [The Way](https://open.spotify.com/track/119mkkPrkKwH7hGxzHlQ78) | [C\. Schumann](https://open.spotify.com/artist/6DCx3VYkpg9rqycY67aZCx) | [The Way](https://open.spotify.com/album/3eME09xtnpzzdXw0PWbPFb) | 2:29 | 2025-03-31 |  |
+| [This Moment](https://open.spotify.com/track/7xyIb53JCp8AK3KAZBa52g) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [This Moment](https://open.spotify.com/album/0PgYMfeVwjDiOAbrO8h8ce) | 2:08 | 2025-11-25 |  |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2021-04-21 | 2024-11-19 |
 | [Time](https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2) | [Olim](https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo) | [MFWT Vol.1](https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB) | 2:04 | 2021-04-21 | 2024-10-01 |
 | [Tinamou](https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Tinamou](https://open.spotify.com/album/5OjbY0PN6lQmDdaXWMiPJM) | 2:35 | 2021-04-21 | 2024-09-03 |
@@ -168,7 +172,7 @@
 | [voler](https://open.spotify.com/track/5q78LVLnM2EFEyQpVym3qU) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [voler](https://open.spotify.com/album/2mSjBOywrt6qYKniIOhIdk) | 2:33 | 2025-03-28 |  |
 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 | 2025-01-07 |  |
 | [Watching Over You](https://open.spotify.com/track/6kWVRQKxzpOj8r06pps6O3) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [delta/alpha](https://open.spotify.com/album/6W2BFocMWkUumhGSrgE9il) | 2:18 | 2021-04-21 | 2024-10-01 |
-| [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-11 |  |
+| [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-11 | 2025-11-26 |
 | [Waves](https://open.spotify.com/track/6jFdydFW7HvS77aiiRR9XL) | [Oscar Unfiltered](https://open.spotify.com/artist/1u4Wo8kEfKoyXN8sQr9jRJ) | [Waves](https://open.spotify.com/album/1othuB5lIGVpjNe7OUvzln) | 2:07 | 2021-04-21 | 2025-06-05 |
 | [We Contain Multitudes \(from home\)](https://open.spotify.com/track/13MOQ6oQqkrZEDkZOHukCw) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [We Contain Multitudes \(from home\)](https://open.spotify.com/album/6s61oZwe1dZuqBFi1pPo09) | 3:10 | 2021-04-21 | 2025-03-12 |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2021-04-21 |  |

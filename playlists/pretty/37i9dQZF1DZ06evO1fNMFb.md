@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fNMFb.md) - [plain]
 
 > This is Natania\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 47 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fNMFb.md) - [plain]
 | 31 | [Killin It](https://open.spotify.com/track/41FPK2hUs2P4fXBkifGFlo) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8) | 2:14 |
 | 32 | [Sad](https://open.spotify.com/track/52EleUmw3To945occUhmjE) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Sad](https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB) | 3:08 |
 | 33 | [Lost](https://open.spotify.com/track/6cyc79czzQVSa9ABu4AJhy) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:39 |
-| 34 | [Winning](https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:13 |
-| 35 | [Talking](https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Talking](https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY) | 3:04 |
-| 36 | [Everybody](https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:24 |
+| 34 | [Everybody](https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:24 |
+| 35 | [Winning](https://open.spotify.com/track/0agf564lzLLdk3NBEAEVgB) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:13 |
+| 36 | [Talking](https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Talking](https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY) | 3:04 |
 | 37 | [Burned Out](https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM) | [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Naquita D'souza](https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq) | [Four More Shots Please! Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC) | 2:51 |
 | 38 | [Revolution](https://open.spotify.com/track/5oBpm5XEdVy2DouR4BB3RY) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [ALLISTER X](https://open.spotify.com/artist/7MtnXOqqKmjUo4a6H5VY3g) | [Revolution](https://open.spotify.com/album/32cglmsdgH5ifnHmjRFsxZ) | 2:25 |
 | 39 | [Can I Be Ur Friend?](https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Can I Be Ur Friend?](https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr) | 3:37 |
@@ -53,7 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fNMFb.md) - [plain]
 | 43 | [I'm a Nykaa Everyday \(feat\. Dee MC\)](https://open.spotify.com/track/64X0RV6OC43sZox3cZZuOD) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Dee MC](https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C) | [I'm a Nykaa Everyday \(feat\. Dee MC\)](https://open.spotify.com/album/5f6EBNOJfn5jSnUEw0Xdg1) | 2:17 |
 | 44 | [Get Together](https://open.spotify.com/track/4koHShRkiVWXavKjkSyxXQ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Pick It Up](https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq) | 2:36 |
 | 45 | [Yay Yay Yay](https://open.spotify.com/track/4XcHes4yJeduDIh6ndkHq6) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:59 |
-| 46 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
-| 47 | [Fitness](https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:45 |
+| 46 | [King Of The Jungle](https://open.spotify.com/track/4wIf7JumiBvOO6ovqXd1oZ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [David Arkwright](https://open.spotify.com/artist/6tycTl3BdncKN9ubgueSeu) | [King Of The Jungle](https://open.spotify.com/album/1johgvxYoiec7sJ2fJfAkb) | 2:40 |
+| 47 | [Jump To It](https://open.spotify.com/track/1JWOGu5W04ctGD9enbPzjs) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:34 |
+| 48 | [Fitness](https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:45 |
 
-Snapshot ID: `aSJOgAAAAAAhK+yX0w/5fpDCiw1Cnofj`
+Snapshot ID: `aSOgAAAAAAAMoLLCq3XYBh5PGVQfd84Y`

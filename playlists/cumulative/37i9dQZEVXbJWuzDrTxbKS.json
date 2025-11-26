@@ -10156,7 +10156,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -15410,13 +15410,17 @@
           "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
         },
         {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
           "name": "Dopamine",
           "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
         }
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-01",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -16772,7 +16776,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -21292,7 +21296,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 181818,
       "name": "It\u0101lija",
       "url": "https://open.spotify.com/track/3Ah0Zwh5MURTocMQtIgfLm"
@@ -23736,7 +23740,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 237106,
       "name": "lai tev apn\u012bk skumt",
       "url": "https://open.spotify.com/track/6hWnXrx3Po79UxZ0WN7lNT"
@@ -24446,7 +24450,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -34116,7 +34120,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 173285,
       "name": "Pasarg' dievs",
       "url": "https://open.spotify.com/track/15mI8eh3ke97hPb8gZQxyh"
@@ -38870,7 +38874,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -39662,7 +39666,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -41262,7 +41266,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -51030,7 +51034,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-26",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -55142,6 +55146,24 @@
       "duration_ms": 205800,
       "name": "\u0421\u0430\u043c\u043e\u043b\u0451\u0442",
       "url": "https://open.spotify.com/track/0pvVSh9uxMraDtdeM3zg5e"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
     },
     {
       "album": {

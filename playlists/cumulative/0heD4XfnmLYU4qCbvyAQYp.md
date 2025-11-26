@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-67 songs - 4 hr 30 min
+68 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 | 2025-07-31 |  |
 | [Felt Cute, Might Delete Later](https://open.spotify.com/track/78RMNtziAVWymdQK6kj1r6) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [Felt Cute, Might Delete Later](https://open.spotify.com/album/3RhJ9xe3wPepN4GZwnx1mK) | 3:12 | 2025-11-24 |  |
 | [Flytrap Love](https://open.spotify.com/track/3jolugMznsIcM4whHoCXnu) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Flytrap Love](https://open.spotify.com/album/7h5aCkOgOWj65nVIP4UVtn) | 4:44 | 2025-11-04 |  |
+| [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2025-11-25 |  |
 | [Give Me Your Hand](https://open.spotify.com/track/56xJGUcYHNBynPr5ixT0B5) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Give Me Your Hand](https://open.spotify.com/album/0eFrdNcYm56jCHKWS5WLM6) | 4:36 | 2025-05-04 |  |
 | [Hear My Voice](https://open.spotify.com/track/6dZG7xMcD16xe3hSZZIDb1) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Hear My Voice](https://open.spotify.com/album/05TOrRce9UGmuBLmSWHPpg) | 4:54 | 2025-09-10 |  |
 | [Heartsick](https://open.spotify.com/track/76VK3MYmRGRvka2LYLVhHM) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Heartsick](https://open.spotify.com/album/0aRmKh5U45fxdSzkRwrjYS) | 1:03 | 2025-11-06 |  |

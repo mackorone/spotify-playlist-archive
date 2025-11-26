@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto:Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,313 likes - 48 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,318 likes - 48 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 36 | [Levanta a Cabeça \- Ao Vivo](https://open.spotify.com/track/2lOWXjGtD3tVZO9tkXS679) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Levanta a Cabeça \(Ao Vivo\)](https://open.spotify.com/album/41nH0NHUHNFNaMrkJ49rFE) | 4:11 |
 | 37 | [Restitui](https://open.spotify.com/track/4AUGnXYienJuG9l4JpXVN5) | [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Restitui](https://open.spotify.com/album/6zDltgkjXSDk5iHROvVzZ5) | 4:33 |
 | 38 | [Enquanto Eu Te Adoro](https://open.spotify.com/track/5UgG8QE2Ad61TswbDJogGO) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Guilherme de Sá](https://open.spotify.com/artist/40wqylYHmPn7bf8jPZrbU9), [GBA Worship](https://open.spotify.com/artist/4t6soZWVyBgyasne3JFfPI), [André Cavalcante](https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG) | [Gba Stage, Vol\. 33](https://open.spotify.com/album/2hafRR1jOd6thnTNuhr0jP) | 5:00 |
-| 39 | [Todavia me Alegrarei](https://open.spotify.com/track/3BX4hxHMhjoTMys6wQYmJ0) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK), [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq), [PP Records](https://open.spotify.com/artist/6tk6KGxuIfW1akYUS44XBH) | [Todavia me Alegrarei](https://open.spotify.com/album/3KnfgkvUOXXQr30UKJv6Db) | 3:54 |
+| 39 | [Todavia me Alegrarei](https://open.spotify.com/track/3BX4hxHMhjoTMys6wQYmJ0) | [Perlla](https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK), [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq), [PP Records](https://open.spotify.com/artist/6tk6KGxuIfW1akYUS44XBH), [PP Hits](https://open.spotify.com/artist/1vhC0U3qeEPnstv6Bvmlli) | [Todavia me Alegrarei](https://open.spotify.com/album/3KnfgkvUOXXQr30UKJv6Db) | 3:54 |
 | 40 | [Os Meus Olhos São Teus](https://open.spotify.com/track/7dr1U4uhCpmriRRuh2cOd8) | [Ricardo Nuque](https://open.spotify.com/artist/4ffqFO4lp2UOv2cnG9ka0J) | [Os Meus Olhos São Teus](https://open.spotify.com/album/0jnzeyiEmBD7abS0jTMVpb) | 5:56 |
 | 41 | [A Benção \(The Blessing\) \- Ao Vivo](https://open.spotify.com/track/1GvQmKE3qXdixhtQLOIb7k) | [amigos da fé](https://open.spotify.com/artist/0dP2dpA7zPP7QUv34XilRQ), [100 Preconceito](https://open.spotify.com/artist/1GEAR8S0QfpMT2c2s9cf4Z) | [A Benção \(The Blessing\) \[Ao Vivo\]](https://open.spotify.com/album/1ThehVOlhAQAEfgOqJl1Wh) | 4:29 |
 | 42 | [Mulher das Lágrimas \- Ao Vivo](https://open.spotify.com/track/6IxQPePidfIQgZLYpExKyr) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Jazz & Christ](https://open.spotify.com/artist/2pc27YcikZyXZygflR9NR3) | [Mulher das Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/7bPupINANMMB9oZZJPmxcf) | 4:03 |

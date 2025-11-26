@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 298758,
+  "num_followers": 298863,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "No Distance Left to Run",
-      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 318373,
       "name": "Autumn Sweater",
       "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "No Distance Left to Run",
+      "url": "https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Bubble & Scrape",
-        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
-      },
-      "artists": [
-        {
-          "name": "Sebadoh",
-          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Soul And Fire",
-      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Is This Desire?",
         "url": "https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 205666,
       "name": "Is This Desire?",
       "url": "https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Bubble & Scrape",
+        "url": "https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Soul And Fire",
+      "url": "https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH"
     },
     {
       "added_at": "2025-01-15 04:11:50",

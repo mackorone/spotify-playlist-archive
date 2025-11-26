@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,308 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,445 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 19 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
 | 20 | [EASY WITH ME](https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EASY WITH ME](https://open.spotify.com/album/2GNIedD3ftWWWBdG7i3ftM) | 3:37 |
 | 21 | [Pression](https://open.spotify.com/track/6MjhVpYd8kKXB2Q5urcUpS) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Jeune prince](https://open.spotify.com/album/2mar4zN8LJ9frwwY9vyzyh) | 2:35 |
-| 22 | [Ronaldinho](https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Ronaldinho](https://open.spotify.com/album/59W5FaqcIBo9pv4BASTzf8) | 3:23 |
+| 22 | [RONALDINHO](https://open.spotify.com/track/3DYV381YUwmTpwJEYPboPS) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [RONALDINHO](https://open.spotify.com/album/59W5FaqcIBo9pv4BASTzf8) | 3:23 |
 | 23 | [BODY \(danz\)](https://open.spotify.com/track/51WcemyU0PlssXhhsspBYh) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [BODY \(danz\)](https://open.spotify.com/album/1xnMv2ReoYX0A9qiOukR0i) | 2:27 |
 | 24 | [2K225 \(feat Didi B, Bolemvn\)](https://open.spotify.com/track/3WKMbWc1UEqtDXaSRc098g) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225 \(feat Didi B, Bolemvn\)](https://open.spotify.com/album/7BfTWRAGcDbQ8FQsngLPbq) | 2:39 |
 | 25 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |

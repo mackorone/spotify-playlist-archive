@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232776,
+  "num_followers": 232785,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Nosso Bem Maior",
+        "url": "https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Nosso Bem Maior",
+      "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede (20 anos de Hist\u00f3ria, Ao Vivo)",
         "url": "https://open.spotify.com/album/5yj8udFii2V3sNiakldtPR"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 325812,
       "name": "S\u00e3o Jos\u00e9 De Madureira / Camar\u00e3o Que Dorme A Onda Leva / \u00c1gua Da Minha Sede - 20 anos de Hist\u00f3ria, Ao Vivo",
       "url": "https://open.spotify.com/track/53EczX5FDHoahtjJTy9vVu"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Nosso Bem Maior",
-        "url": "https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fundo De Quintal",
-          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Nosso Bem Maior",
-      "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
     },
     {
       "added_at": "2025-09-19 22:07:37",

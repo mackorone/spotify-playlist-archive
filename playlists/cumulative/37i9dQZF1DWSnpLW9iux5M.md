@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-191 songs - 12 hr 34 min
+192 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Christmas Praise \- Live](https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 2:17 | 2021-12-24 |  |
 | [Christmas Time Has Come](https://open.spotify.com/track/0JDniarTARP2tibPvHenUH) | [SSTEDI](https://open.spotify.com/artist/1VZIyB5EgFbnBlOlY8SgYK) | [Christmas Time Has Come](https://open.spotify.com/album/3VuMd0LgmyZAt5h5pQeF2V) | 3:11 | 2025-11-16 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt) | [Mervin Mayo](https://open.spotify.com/artist/32N3ovxRWJFnUzlUZmXM2t) | [Christmas Time Is Here](https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj) | 3:55 | 2022-12-10 |  |
-| [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 | 2021-12-24 |  |
+| [Deck The Halls](https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [A Soulful Holiday](https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT) | 4:08 | 2021-12-24 | 2025-11-26 |
 | [Do You Believe \(feat\. Yolanda Adams\)](https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas With PJ Morton](https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6) | 4:08 | 2021-12-24 |  |
 | [Do You Hear What I Hear? \(feat\. Kelly Rowland\)](https://open.spotify.com/track/08GJVn2LyrveaRZvhSOV5Q) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [8 Days Of Christmas](https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ) | 3:47 | 2021-12-24 |  |
 | [Dreams Come True](https://open.spotify.com/track/4qFMAM1cLrZ4eda48cBQbp) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [A Deitrick Haddon Christmas](https://open.spotify.com/album/7HYSm5yiDvvIX8oT9eAVwW) | 3:18 | 2022-11-26 | 2025-11-24 |
@@ -75,6 +75,7 @@
 | [Holy, Holy, Holy](https://open.spotify.com/track/39JZLgNvHP6jypN5PiW66J) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [COME LET US WORSHIP](https://open.spotify.com/album/0WXjh791JiMVmWUWJ64YhU) | 4:58 | 2023-12-15 | 2024-04-19 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y) | [Kurt Carr Singers](https://open.spotify.com/artist/47GFnTaDeJDSKuxzYyNYrs) | [Gospel Heritage Christmas Vol\. 2](https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p) | 4:58 | 2021-12-24 | 2024-11-18 |
 | [Home for Christmas \(feat\. Joe\) \(feat\. Joe\)](https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Christmas Card](https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU) | 4:00 | 2021-12-24 |  |
+| [Home for the Holidays](https://open.spotify.com/track/7GoddQ57a4D03wTm7ql7r9) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [A Hrvstland Christmas](https://open.spotify.com/album/5XLTcb1eqUN6j9xQw1v4Kj) | 2:39 | 2025-11-22 |  |
 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 | 2022-11-26 |  |
 | [Home With You \(feat\. Chanté Moore\)](https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Home With You \(feat\. Chanté Moore\)](https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu) | 4:05 | 2021-12-24 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/4M5GbodfdvyNQVM07mxnzb) | [Caylea](https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT) | [I'll Be Home for Christmas](https://open.spotify.com/album/7mJS0Lu5ot98hsEWBK8Oqv) | 3:58 | 2024-11-29 | 2025-11-09 |

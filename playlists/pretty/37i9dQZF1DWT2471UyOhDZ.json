@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mumford & Sons, Hozier",
-  "num_followers": 93781,
+  "num_followers": 93782,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Hit My Head All Day",
         "url": "https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 363918,
       "name": "Hit My Head All Day",
       "url": "https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "I See A Darkness",
         "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 265346,
       "name": "I See A Darkness",
       "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Michelangelo Dying",
-        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 274443,
-      "name": "Mothers of Riches",
-      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/4et2xBFMKmsaWQPjlKTbG6"
       },
@@ -939,22 +923,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "24 Hr Sports",
-        "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
+        "name": "Michelangelo Dying",
+        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
         }
       ],
-      "duration_ms": 143857,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP"
+      "duration_ms": 274443,
+      "name": "Mothers of Riches",
+      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -975,18 +955,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
+        "name": "24 Hr Sports",
+        "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
       },
       "artists": [
         {
-          "name": "Richard Ashcroft",
-          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 220509,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
+      "duration_ms": 143857,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "The Night Before",
-        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1O9vAGeUFOerYsIC88NEvy"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Richard Ashcroft",
+          "url": "https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU"
         }
       ],
-      "duration_ms": 154612,
-      "name": "The Night Before",
-      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+      "duration_ms": 220509,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/7AWaNIEuvoBCS4koRVDfbH"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1035,6 +1019,22 @@
       "duration_ms": 257547,
       "name": "Goodbye (Don\u2019t Tell Me)",
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "The Night Before",
+        "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 154612,
+      "name": "The Night Before",
+      "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Pined For You My Whole Life",
         "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 198186,
       "name": "Pined For You My Whole Life",
       "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "(I Wanna) Be Your Girl",
-        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "(I Wanna) Be Your Girl",
-      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Down to be wrong",
         "url": "https://open.spotify.com/album/0aSLhfcnbZmgmzxuyzZjgg"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "(I Wanna) Be Your Girl",
+        "url": "https://open.spotify.com/album/0m6IxoqExi0n7RPVxNvDJx"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "(I Wanna) Be Your Girl",
+      "url": "https://open.spotify.com/track/5TjPVnjkMzEUetVnA8jehV"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Medium Machine",
-        "url": "https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0"
-      },
-      "artists": [
-        {
-          "name": "Sports Team",
-          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
-        }
-      ],
-      "duration_ms": 148071,
-      "name": "Medium Machine",
-      "url": "https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Dialing In",
         "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 280968,
       "name": "Dialing In",
       "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Medium Machine",
+        "url": "https://open.spotify.com/album/4yVAM4UcoUOYoxd2DcRGW0"
+      },
+      "artists": [
+        {
+          "name": "Sports Team",
+          "url": "https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh"
+        }
+      ],
+      "duration_ms": 148071,
+      "name": "Medium Machine",
+      "url": "https://open.spotify.com/track/3xMwy9ljKoGzh9jncmY8iu"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ"
+        "name": "Tall Tales",
+        "url": "https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Mark Pritchard",
+          "url": "https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
         }
       ],
-      "duration_ms": 197703,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3"
+      "duration_ms": 295677,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/4WnsGUynB9D65tenA7U5gI"
     }
   ],
   "unique_name": "The Listening Post",

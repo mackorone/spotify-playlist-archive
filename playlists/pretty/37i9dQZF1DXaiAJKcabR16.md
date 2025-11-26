@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiAJKcabR16.md) - [plain]
 
 > Slide and steel\. Set your soundtrack to some moody, gritty blues folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,431 likes - 65 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,422 likes - 65 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
