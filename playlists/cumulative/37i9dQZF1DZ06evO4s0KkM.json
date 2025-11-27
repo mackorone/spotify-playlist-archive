@@ -332,7 +332,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207017,
-      "name": "Bury the Bones (feat. The Mary Wallopers)",
+      "name": "Bury the Bones",
       "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
     },
     {
@@ -1215,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "For The People (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "The Scratch",
+          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207331,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/1yghEKyic4jHAhFZek4w0d"
+    },
+    {
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5"
       },
@@ -1234,28 +1256,6 @@
       "duration_ms": 207331,
       "name": "Longshot (feat. The Scratch)",
       "url": "https://open.spotify.com/track/0VNSdAd66v11AVnFZbS5jp"
-    },
-    {
-      "album": {
-        "name": "For The People (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "The Scratch",
-          "url": "https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd"
-        }
-      ],
-      "date_added": "2025-11-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207331,
-      "name": "Longshot (feat. The Scratch)",
-      "url": "https://open.spotify.com/track/1yghEKyic4jHAhFZek4w0d"
     },
     {
       "album": {
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-10",
+      "date_removed": null,
       "duration_ms": 140693,
       "name": "Peg O' My Heart",
       "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 252898,
       "name": "Streetlights",
       "url": "https://open.spotify.com/track/6zgbMFVQAhByKEzWn8xZUi"
@@ -2390,9 +2390,9 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 262424,
-      "name": "The Vultures Circle High (feat. Al Barr)",
+      "name": "The Vultures Circle High",
       "url": "https://open.spotify.com/track/2Mb3t5X6RzvicYy7gSCYCs"
     },
     {
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 202080,
       "name": "You'll Never Walk Alone",
       "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"

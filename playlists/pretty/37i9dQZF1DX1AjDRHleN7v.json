@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 399848,
+  "num_followers": 399965,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2025-11-24 14:49:43",
       "album": {
+        "name": "OCANV (Cap. I)",
+        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Onde Existe Amor",
+      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
+    },
+    {
+      "added_at": "2025-11-24 14:49:43",
+      "album": {
         "name": "V\u00e1rias Ondas",
         "url": "https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 193205,
       "name": "Deixa o Amanh\u00e3 pra Amanh\u00e3",
       "url": "https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF"
-    },
-    {
-      "added_at": "2025-11-24 14:49:43",
-      "album": {
-        "name": "OCANV (Cap. I)",
-        "url": "https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Onde Existe Amor",
-      "url": "https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l"
     },
     {
       "added_at": "2025-11-24 14:49:43",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-11-24 14:49:43",
       "album": {
-        "name": "Que Seja de Alegria",
-        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
       "artists": [
         {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 174853,
-      "name": "Que Seja de Alegria",
-      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2025-11-24 14:49:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-11-24 14:49:43",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
-    },
-    {
-      "added_at": "2025-11-24 14:49:43",
-      "album": {
         "name": "Magn\u00e9tica",
         "url": "https://open.spotify.com/album/45ErtgmcN4q2MfwQV17dxI"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 196056,
       "name": "Magn\u00e9tica",
       "url": "https://open.spotify.com/track/558rUxNte2dOz2OXZDT5KX"
+    },
+    {
+      "added_at": "2025-11-24 14:49:43",
+      "album": {
+        "name": "Que Seja de Alegria",
+        "url": "https://open.spotify.com/album/3ADcKDdPwqiHZrkDRtH4Ma"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 174853,
+      "name": "Que Seja de Alegria",
+      "url": "https://open.spotify.com/track/1xJI23nZnGvXV7irhcdJQP"
     },
     {
       "added_at": "2025-11-24 14:49:43",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-11-24 14:49:43",
       "album": {
+        "name": "Filho do Mar",
+        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
+      },
+      "artists": [
+        {
+          "name": "Banda Nossa Praia",
+          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Filho do Mar",
+      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
+    },
+    {
+      "added_at": "2025-11-24 14:49:43",
+      "album": {
         "name": "Onda",
         "url": "https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 189480,
       "name": "Na minha cabe\u00e7a",
       "url": "https://open.spotify.com/track/08yon5M1dMBzsTDWxZ6a1T"
-    },
-    {
-      "added_at": "2025-11-24 14:49:43",
-      "album": {
-        "name": "Filho do Mar",
-        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
-      },
-      "artists": [
-        {
-          "name": "Banda Nossa Praia",
-          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Filho do Mar",
-      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
     },
     {
       "added_at": "2025-11-24 14:49:43",

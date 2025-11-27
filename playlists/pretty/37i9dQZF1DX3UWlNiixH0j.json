@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8 Super Climbing Club",
-  "num_followers": 65999,
+  "num_followers": 66011,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -36,8 +36,8 @@
           "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
         },
         {
-          "name": "Santa",
-          "url": "https://open.spotify.com/artist/0Q1P1lcD88Szkh2ttsy6Vz"
+          "name": "santa",
+          "url": "https://open.spotify.com/artist/32yctkjxe0f6CH3pMZ2jM6"
         }
       ],
       "duration_ms": 251351,
@@ -95,8 +95,8 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Somewhere Between",
+        "url": "https://open.spotify.com/album/0SlezQ1J9pZ1ffdrE6Q3xr"
       },
       "artists": [
         {
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "Funky Lovely Girl",
-        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 224509,
-      "name": "Funky Lovely Girl",
-      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
         "name": "\u7570\u7269\u6df7\u5165",
         "url": "https://open.spotify.com/album/3eGwlLkrbtbutag5RU8nPa"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 151555,
       "name": "\u7570\u7269\u6df7\u5165",
       "url": "https://open.spotify.com/track/4AD5vjzHeG7gqoxS357joP"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
+        "name": "Funky Lovely Girl",
+        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 224509,
+      "name": "Funky Lovely Girl",
+      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
       },
       "artists": [
         {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 327179,
-      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
-      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -743,18 +743,34 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+        "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/3ruOCYjSB0nWFcFRvYScyS"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
         }
       ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
+      "duration_ms": 327179,
+      "name": "\u30b9\u30ce\u30fc\u30c9\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/0FYYRa6Ib0tVxw04S07dHo"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
+        "name": "SWEATER",
+        "url": "https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq"
+      },
+      "artists": [
+        {
+          "name": "\u3048\u3093\u3077\u3066\u3044",
+          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+        }
+      ],
+      "duration_ms": 254498,
+      "name": "SWEATER",
+      "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -771,6 +787,22 @@
       "duration_ms": 241433,
       "name": "\u672a\u77e5",
       "url": "https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 188659,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -795,6 +827,22 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
+        "name": "All About McGuffin",
+        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+      },
+      "artists": [
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "duration_ms": 209521,
+      "name": "After that...",
+      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
         "name": "Podium",
         "url": "https://open.spotify.com/album/6o77fZj73QcB51LBaIli1v"
       },
@@ -815,38 +863,6 @@
       "duration_ms": 159795,
       "name": "iPX",
       "url": "https://open.spotify.com/track/1zXxvSZvkPdHuWCVzKuVPX"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
-        "name": "All About McGuffin",
-        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
-      },
-      "artists": [
-        {
-          "name": "mei ehara",
-          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
-        }
-      ],
-      "duration_ms": 209521,
-      "name": "After that...",
-      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 188659,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -883,38 +899,6 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "\u8d70\u99ac\u706f",
-        "url": "https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV"
-      },
-      "artists": [
-        {
-          "name": "MONO NO AWARE",
-          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
-        }
-      ],
-      "duration_ms": 314463,
-      "name": "\u8d70\u99ac\u706f",
-      "url": "https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
-        "name": "Fibril",
-        "url": "https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P"
-      },
-      "artists": [
-        {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Brutalist",
-      "url": "https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
         "name": "I'll be with you",
         "url": "https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk"
       },
@@ -935,50 +919,34 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "SWEATER",
-        "url": "https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq"
+        "name": "Fibril",
+        "url": "https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P"
       },
       "artists": [
         {
-          "name": "\u3048\u3093\u3077\u3066\u3044",
-          "url": "https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         }
       ],
-      "duration_ms": 254498,
-      "name": "SWEATER",
-      "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"
+      "duration_ms": 174087,
+      "name": "Brutalist",
+      "url": "https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK"
     },
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "Town e.p",
-        "url": "https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO"
+        "name": "\u8d70\u99ac\u706f",
+        "url": "https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "MONO NO AWARE",
+          "url": "https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Town",
-      "url": "https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
-        "name": "Moving Still Life",
-        "url": "https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO"
-      },
-      "artists": [
-        {
-          "name": "cero",
-          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
-        }
-      ],
-      "duration_ms": 170199,
-      "name": "Moving Still Life",
-      "url": "https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz"
+      "duration_ms": 314463,
+      "name": "\u8d70\u99ac\u706f",
+      "url": "https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -999,6 +967,22 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
+        "name": "Town e.p",
+        "url": "https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "Town",
+      "url": "https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
         "name": "Torie",
         "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "MISS WORLD",
+      "url": "https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
         "name": "HEBITORA",
         "url": "https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky"
       },
@@ -1027,6 +1027,38 @@
       "duration_ms": 257512,
       "name": "HEBITORA",
       "url": "https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
+        "name": "montauk",
+        "url": "https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au"
+      },
+      "artists": [
+        {
+          "name": "the bercedes menz",
+          "url": "https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd"
+        }
+      ],
+      "duration_ms": 204770,
+      "name": "the anomaly",
+      "url": "https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed"
+    },
+    {
+      "added_at": "2025-11-25 15:00:06",
+      "album": {
+        "name": "Moving Still Life",
+        "url": "https://open.spotify.com/album/0nc1Y7IXrzCfYICtGbbXiO"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "duration_ms": 170199,
+      "name": "Moving Still Life",
+      "url": "https://open.spotify.com/track/0wMIHqdw1ZaMRqdbhIgoUz"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -1051,34 +1083,18 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
-        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+        "name": "Is There A Place For You There?",
+        "url": "https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd"
       },
       "artists": [
         {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
         }
       ],
-      "duration_ms": 141746,
-      "name": "MISS WORLD",
-      "url": "https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
-        "name": "montauk",
-        "url": "https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au"
-      },
-      "artists": [
-        {
-          "name": "the bercedes menz",
-          "url": "https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd"
-        }
-      ],
-      "duration_ms": 204770,
-      "name": "the anomaly",
-      "url": "https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed"
+      "duration_ms": 271163,
+      "name": "Is There A Place For You There?",
+      "url": "https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -1099,18 +1115,22 @@
     {
       "added_at": "2025-11-25 15:00:06",
       "album": {
-        "name": "Is There A Place For You There?",
-        "url": "https://open.spotify.com/album/5abd0pNQtTTfryxayijgcd"
+        "name": "White Chocolate",
+        "url": "https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B"
       },
       "artists": [
         {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+          "name": "the BL00M",
+          "url": "https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x"
+        },
+        {
+          "name": "RINA",
+          "url": "https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN"
         }
       ],
-      "duration_ms": 271163,
-      "name": "Is There A Place For You There?",
-      "url": "https://open.spotify.com/track/5eWhdtbo3MkD7gTNLxI8yx"
+      "duration_ms": 186352,
+      "name": "White Chocolate",
+      "url": "https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a"
     },
     {
       "added_at": "2025-11-25 15:00:06",
@@ -1159,26 +1179,6 @@
       "duration_ms": 171692,
       "name": "love it",
       "url": "https://open.spotify.com/track/6ShdzHEIYSXtTuoHqYDvbD"
-    },
-    {
-      "added_at": "2025-11-25 15:00:06",
-      "album": {
-        "name": "White Chocolate",
-        "url": "https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B"
-      },
-      "artists": [
-        {
-          "name": "the BL00M",
-          "url": "https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x"
-        },
-        {
-          "name": "RINA",
-          "url": "https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "White Chocolate",
-      "url": "https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a"
     },
     {
       "added_at": "2025-11-25 15:00:06",

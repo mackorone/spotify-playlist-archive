@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-402 songs - 23 hr 18 min
+404 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2021-07-04 |  |
 | [My September](https://open.spotify.com/track/79YWz8oV1RZxdi2UVpbrB7) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 4:40 | 2024-08-02 |  |
 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2024-06-17 |  |
+| [Nightmare Restaurant](https://open.spotify.com/track/2QjWqcAy7BaBsYBYs9ozZG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Nightmare Restaurant](https://open.spotify.com/album/4Nwqel1zFJwAFRHXVd1nZK) | 3:00 | 2025-11-26 |  |
 | [Nonsense Bungaku](https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:23 | 2023-02-25 |  |
 | [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Moe Moe](https://open.spotify.com/album/4cQMG9J5WiIDMYaWf5axzy) | 3:09 | 2022-10-29 |  |
 | [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 | 2024-12-02 | 2024-12-08 |
@@ -408,6 +409,7 @@
 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 | 2023-01-14 |  |
 | [頭ン痛](https://open.spotify.com/track/4gieTwT7brlTD7m4dbKnM6) | [えいぷ](https://open.spotify.com/artist/6AYMMKxeZatIcDKaGNx4Wa) | [頭ン痛](https://open.spotify.com/album/6NQ9OZw5Pg5H2bxK73XFWl) | 2:56 | 2024-09-20 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2023-01-01 |  |
+| [요단강](https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [아홉가지기분](https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO) | 4:47 | 2025-11-26 |  |
 | [＃曖昧人生](https://open.spotify.com/track/53hxSCel6qACDWZxH8iscW) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [＃曖昧人生](https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm) | 3:06 | 2025-06-18 |  |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-12-17 |  |
 

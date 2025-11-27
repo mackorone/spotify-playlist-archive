@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-668 songs - 1 day 22 hr 16 min
+669 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,8 @@
 | [When I Die](https://open.spotify.com/track/4z1IYRhVpbLCBaqZXYIl66) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:29 | 2023-12-30 |  |
 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 | 2023-12-30 |  |
 | [When I'm Back On My Feet Again](https://open.spotify.com/track/34vXa9Op7Rqxq7csiMZ66u) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [Best of the Essential Years: David Garrick](https://open.spotify.com/album/00dt9K2OkC0UtDDjaYhnh4) | 3:52 | 2024-09-26 | 2024-11-30 |
-| [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 | 2024-11-29 |  |
+| [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 | 2024-11-29 | 2025-11-27 |
+| [When I'm Back On My Feet Again](https://open.spotify.com/track/6IgjowpZxvKBJuuYmrS3qN) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [Dean Man's Tan](https://open.spotify.com/album/7e2KdcHGo6fsSeScGm3KMm) | 3:52 | 2025-11-26 |  |
 | [When I'm Back On My Feet Again](https://open.spotify.com/track/47SOobTLWvyZpUfpmuUARJ) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 | 2023-12-30 |  |
 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 | 2023-12-30 |  |
 | [When the Night Comes](https://open.spotify.com/track/1akny2bg3n4bvx9B5YLcFo) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [One Night of Sin](https://open.spotify.com/album/0a4PqyHhQ9abMAx2RP2VT3) | 4:48 | 2023-12-30 |  |

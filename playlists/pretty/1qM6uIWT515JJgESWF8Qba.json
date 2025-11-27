@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 227,
+  "num_followers": 232,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAAwOQIzPPpYhFQCu6aq8LqdBHeR7zI",
+  "snapshot_id": "AAAAxZTMAENlBjmu7f7gd9I/GtDQB9eP",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -951,6 +951,86 @@
       "duration_ms": 288312,
       "name": "No Time",
       "url": "https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2"
+    },
+    {
+      "added_at": "2025-11-26 03:08:51",
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 144395,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB"
+    },
+    {
+      "added_at": "2025-11-26 03:31:49",
+      "album": {
+        "name": "Everything Explode",
+        "url": "https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B"
+      },
+      "artists": [
+        {
+          "name": "Permanent Risk",
+          "url": "https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Everything Explode",
+      "url": "https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf"
+    },
+    {
+      "added_at": "2025-11-26 14:24:44",
+      "album": {
+        "name": "Una nana",
+        "url": "https://open.spotify.com/album/6ykwbNyEYxjqLXt8C2bTgE"
+      },
+      "artists": [
+        {
+          "name": "Micky Stoner",
+          "url": "https://open.spotify.com/artist/4UbGXsrlzP67mhetOXQQ3H"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Una nana",
+      "url": "https://open.spotify.com/track/6HbrzgWazWzGxPkXtr11cC"
+    },
+    {
+      "added_at": "2025-11-26 14:43:15",
+      "album": {
+        "name": "Television War",
+        "url": "https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm"
+      },
+      "artists": [
+        {
+          "name": "Brenso",
+          "url": "https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE"
+        }
+      ],
+      "duration_ms": 129625,
+      "name": "Television War",
+      "url": "https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP"
+    },
+    {
+      "added_at": "2025-11-26 14:45:31",
+      "album": {
+        "name": "Burning The Horizon",
+        "url": "https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P"
+      },
+      "artists": [
+        {
+          "name": "TREKHAAK.",
+          "url": "https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T"
+        }
+      ],
+      "duration_ms": 190245,
+      "name": "Control Z",
+      "url": "https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX"
     }
   ],
   "unique_name": "Local Rock Bands",

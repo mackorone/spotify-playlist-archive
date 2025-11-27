@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/0jvqfIJkZ5iWNiv70ps08e"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161595,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/5NGh3wp65b3ZwTbyO77WUB"
+    },
+    {
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
       },
@@ -2622,8 +2640,8 @@
       },
       "artists": [
         {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+          "name": "Logan Jameison",
+          "url": "https://open.spotify.com/artist/1qGVG7uUHFWBfuUXIon1gt"
         }
       ],
       "date_added": "2023-10-27",
@@ -2748,8 +2766,8 @@
       },
       "artists": [
         {
-          "name": "Monir Bresegeut",
-          "url": "https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj"
+          "name": "Niwa Nova",
+          "url": "https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo"
         }
       ],
       "date_added": "2023-10-27",
@@ -3370,6 +3388,24 @@
       "duration_ms": 135969,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6goPA6XgFxqaIhaIk1IXhY"
+    },
+    {
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/5snZbFwreuKir9bcyVpWbf"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er",
+          "url": "https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127349,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/2HVEmlbLpjjXYEDQ5rE9ZB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Keinemusik
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,781 likes - 65 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,797 likes - 65 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 9 | [Ngwane](https://open.spotify.com/track/0xCHpifahyHrBaOvXV9lZE) | [Frigid Armadillo](https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i), [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [Ngwane](https://open.spotify.com/album/6StN6xcwuLCgSGxNigsmzS) | 4:06 |
 | 10 | [Holy](https://open.spotify.com/track/6raQx5tTTQLTPU7MnvfMqc) | [KVLI](https://open.spotify.com/artist/1WdO2u0qgGGr8EzQprXZLI), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Holy](https://open.spotify.com/album/7eSnxAt47qvbnDuqcOItCy) | 4:13 |
 | 11 | [Lift Your Hands](https://open.spotify.com/track/1CdiJrMij4OBmxY7d0bIDv) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Lift Your Hands](https://open.spotify.com/album/0FkV7kAd2G1D3GnrUjjTqJ) | 6:07 |
-| 12 | [Wamuhle](https://open.spotify.com/track/6qxOK7IctHVnuTlXQH8lPz) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [TCT](https://open.spotify.com/artist/4YFvugDqgdcM8ByK0B4h8g), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Catch Me If You Can](https://open.spotify.com/album/2EaHd8tGSi3L4uwiM3jke1) | 5:25 |
+| 12 | [Wamuhle](https://open.spotify.com/track/6qxOK7IctHVnuTlXQH8lPz) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Catch Me If You Can](https://open.spotify.com/album/2EaHd8tGSi3L4uwiM3jke1) | 5:25 |
 | 13 | [Umlolozi](https://open.spotify.com/track/713quELIbXIQxA77U2HQnI) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Umlolozi EP](https://open.spotify.com/album/254BHBOxSlJSDlMsuaR84s) | 6:33 |
 | 14 | [Call My Name \- Radio Edit](https://open.spotify.com/track/5FU5sgRj6y41DoJfoffr77) | [Tom Higham](https://open.spotify.com/artist/3dslzTxmZBWNYC01iMn3tr), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY) | [Call My Name](https://open.spotify.com/album/23BlydKZGWBkMQEPh7jSOv) | 5:30 |
 | 15 | [Next To You](https://open.spotify.com/track/7gmv1r75k3U2M5UP8YIXoQ) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP) | [Next To You](https://open.spotify.com/album/5ubP0G1bC9dPLpbgDshPkp) | 3:52 |

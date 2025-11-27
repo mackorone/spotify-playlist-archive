@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 124773,
+  "num_followers": 124779,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAADpg8VAvR+D6Z2g5G9LpNb1",
+  "snapshot_id": "aSTxgAAAAAA1CGHL4/Ua8LHXIMV/jY8L",
   "tracks": [
     {
       "added_at": null,
@@ -217,7 +217,7 @@
         }
       ],
       "duration_ms": 207331,
-      "name": "Longshot (feat. The Scratch)",
+      "name": "Longshot",
       "url": "https://open.spotify.com/track/1yghEKyic4jHAhFZek4w0d"
     },
     {
@@ -413,7 +413,7 @@
         }
       ],
       "duration_ms": 207017,
-      "name": "Bury the Bones (feat. The Mary Wallopers)",
+      "name": "Bury the Bones",
       "url": "https://open.spotify.com/track/5wdLUPPInvXkpWKGpgqjry"
     },
     {
@@ -538,11 +538,15 @@
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Al Barr",
+          "url": "https://open.spotify.com/artist/3dGF8ceVA8FVDWz6McxA4O"
         }
       ],
-      "duration_ms": 252898,
-      "name": "Streetlights",
-      "url": "https://open.spotify.com/track/6zgbMFVQAhByKEzWn8xZUi"
+      "duration_ms": 262424,
+      "name": "The Vultures Circle High",
+      "url": "https://open.spotify.com/track/2Mb3t5X6RzvicYy7gSCYCs"
     },
     {
       "added_at": null,
@@ -675,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "First Class Loser",
-      "url": "https://open.spotify.com/track/7cDmUb2xkkwze1gYzZV9il"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Anthems",
         "url": "https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY"
       },
@@ -727,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "First Class Loser",
+      "url": "https://open.spotify.com/track/7cDmUb2xkkwze1gYzZV9il"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Singles Collection Vol. 2",
         "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
@@ -739,22 +743,6 @@
       "duration_ms": 283680,
       "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
       "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "The Lonesome Boatman",
-      "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
     },
     {
       "added_at": null,
@@ -791,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "11 Short Stories of Pain & Glory",
+        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 162853,
+      "name": "The Lonesome Boatman",
+      "url": "https://open.spotify.com/track/5QX8AQ7RBC6m6ektZZcQBD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Singles Collection Vol. 2",
         "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
@@ -807,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11 Short Stories of Pain & Glory",
-        "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq"
       },
       "artists": [
         {
@@ -816,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 202080,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT"
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/46zP5b35ipdZE4dj619sAY"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

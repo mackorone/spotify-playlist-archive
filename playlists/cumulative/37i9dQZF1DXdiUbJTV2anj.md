@@ -4,7 +4,7 @@
 
 > bands and tracks on the rise in heavy music\. Cover: Gearea
 
-358 songs - 21 hr 2 min
+359 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Coalescence](https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 3:13 | 2022-08-19 | 2023-03-25 |
 | [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 | 2025-08-22 | 2025-11-12 |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-04-28 | 2025-09-27 |
-| [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 | 2025-09-12 |  |
+| [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 | 2025-09-12 | 2025-11-27 |
 | [CORRUPTED](https://open.spotify.com/track/7ApsHjRKVjJPdbFgZ5TEo1) | [Continents](https://open.spotify.com/artist/2uM9hyKJ0jEXV7LqYNe6QR), [Cherry of Defences](https://open.spotify.com/artist/3hiPYrYAFbnINBkyt5U7Mf) | [CORRUPTED](https://open.spotify.com/album/0Y9VfxBJWg2wWtYwxLVeQu) | 3:38 | 2025-06-06 | 2025-09-20 |
 | [Counterfeit](https://open.spotify.com/track/5o04G6JWxQAQGW572GHTNP) | [Light the Fire](https://open.spotify.com/artist/6owzEX6EkLOvsZ66rcDk89) | [Counterfeit](https://open.spotify.com/album/5dkKMssRd8njxBgTQZkYRp) | 3:03 | 2022-07-29 | 2022-08-27 |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-05-18 | 2024-07-16 |
@@ -175,6 +175,7 @@
 | [Keep Your Blessings](https://open.spotify.com/track/28gJfJ5tuvZORsjBoVo5GR) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Keep Your Blessings](https://open.spotify.com/album/1cwSqnPyYZ5v2oLwFefmwc) | 3:29 | 2025-05-09 | 2025-09-06 |
 | [Kleptomaniac](https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw) | [Aemia](https://open.spotify.com/artist/7moBZujRHUZsfdHu9eAkG1) | [Kleptomaniac](https://open.spotify.com/album/2svG7sxs570d5D5xChUVbN) | 3:13 | 2025-10-17 |  |
 | [Koaitra](https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje) | [LohArano](https://open.spotify.com/artist/1niZm9pb4k3oHZbKYyNYZP) | [Koaitra](https://open.spotify.com/album/28QBnbAKQQnvYjE1leuV6n) | 2:51 | 2023-03-02 | 2023-05-19 |
+| [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 | 2025-11-26 |  |
 | [Leave](https://open.spotify.com/track/6tG4RFIbberUOM7Eos8cza) | [Backbiter](https://open.spotify.com/artist/6Roo57sI7GFnLxH3JEg9xb) | [Demonstration of Decimation](https://open.spotify.com/album/3E8dxp9zP5rVcEJLAmDV5v) | 1:53 | 2024-07-15 | 2025-09-06 |
 | [LEECH](https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo) | [LUNA KILLS](https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ) | [LEECH](https://open.spotify.com/album/2cNUcSOqhUZoOoGluEENZV) | 3:53 | 2025-04-28 | 2025-09-13 |
 | [Lice](https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI) | [Corker](https://open.spotify.com/artist/53TZm8kLBvnMddNr810H64) | [Lice](https://open.spotify.com/album/5lEWhmhXFXiMH9O6Wu27aD) | 2:26 | 2023-01-13 | 2023-05-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 57008,
+  "num_followers": 57027,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-11-14 09:06:29",
       "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 201893,
+      "name": "Schneeballschlacht",
+      "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
         "name": "Giraffenaffen 4 - Winterzeit",
         "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
@@ -327,18 +343,22 @@
     {
       "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Yvonne Catterfeld",
+          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 156760,
-      "name": "Kekse",
-      "url": "https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R"
+      "duration_ms": 168973,
+      "name": "Winter Wunderland",
+      "url": "https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb"
     },
     {
       "added_at": "2025-11-14 09:06:29",
@@ -379,26 +399,6 @@
     {
       "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Giraffenaffen 4 - Winterzeit",
-        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Catterfeld",
-          "url": "https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Winter Wunderland",
-      "url": "https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb"
-    },
-    {
-      "added_at": "2025-11-14 09:06:29",
-      "album": {
         "name": "HIGHFIVE!",
         "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 184173,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Endlich Winter!",
+        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "Kekse",
+      "url": "https://open.spotify.com/track/1wSlUQWd0HdHJ8x9i1BB0R"
     },
     {
       "added_at": "2025-11-14 09:06:29",
@@ -431,22 +447,6 @@
     {
       "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Endlich Winter!",
-        "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 201893,
-      "name": "Schneeballschlacht",
-      "url": "https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR"
-    },
-    {
-      "added_at": "2025-11-14 09:06:29",
-      "album": {
         "name": "Frosty, der Schneemann",
         "url": "https://open.spotify.com/album/69BJ3eeBP99zj7TvLHjB9I"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 126013,
       "name": "Frosty, der Schneemann",
       "url": "https://open.spotify.com/track/1ubGwObUS4Pvq8ksXH076j"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+      },
+      "artists": [
+        {
+          "name": "Nicola Rost",
+          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Schnee im Gefrierfach",
+      "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
     },
     {
       "added_at": "2025-11-14 09:06:29",
@@ -479,18 +495,22 @@
     {
       "added_at": "2025-11-14 09:06:29",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+        "name": "Giraffenaffen 4 - Winterzeit",
+        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
       },
       "artists": [
         {
-          "name": "Nicola Rost",
-          "url": "https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg"
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Schnee im Gefrierfach",
-      "url": "https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17"
+      "duration_ms": 235266,
+      "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
+      "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
     },
     {
       "added_at": "2025-11-14 09:06:29",
@@ -519,26 +539,6 @@
       "duration_ms": 181280,
       "name": "Klingelingeling (feat. Dominikus Weilede)",
       "url": "https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE"
-    },
-    {
-      "added_at": "2025-11-14 09:06:29",
-      "album": {
-        "name": "Giraffenaffen 4 - Winterzeit",
-        "url": "https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl"
-      },
-      "artists": [
-        {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Das muss wohl der Winter sein (Giraffenaffensong)",
-      "url": "https://open.spotify.com/track/7thgF1Ao0hvEkDmqMboZ7I"
     },
     {
       "added_at": "2025-11-14 09:06:29",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-11-14 09:06:29",
       "album": {
+        "name": "Zootierpolka",
+        "url": "https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Zootierpolka",
+      "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
+    },
+    {
+      "added_at": "2025-11-14 09:06:29",
+      "album": {
         "name": "Das Weihnachtsalbum Deluxe",
         "url": "https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 160226,
       "name": "Unterm Mistelzweig (feat. Benjamin Weygand)",
       "url": "https://open.spotify.com/track/4sXOfEpZb3oMt40KQ8KfNq"
-    },
-    {
-      "added_at": "2025-11-14 09:06:29",
-      "album": {
-        "name": "Zootierpolka",
-        "url": "https://open.spotify.com/album/29XwB0xxAzrWLdlfgKweoh"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Zootierpolka",
-      "url": "https://open.spotify.com/track/1io4s7JvWnyyteet2kh5K0"
     },
     {
       "added_at": "2025-11-14 09:06:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,794 songs - 20 day 2 hr 54 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,797 songs - 20 day 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7802,5 +7802,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7792 | [LOUDER](https://open.spotify.com/track/3l44Dmif5PXKtkeiHj2Lst) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Anfang](https://open.spotify.com/album/2Ae0tAmh18NBNVSplUJFFw) | 3:36 |
 | 7793 | [FIRE BIRD](https://open.spotify.com/track/0qMpU4VmLf6aMNc7CUErzV) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/5XKUhKpKBGdzcyBCbJa6OH) | 5:24 |
 | 7794 | [Y](https://open.spotify.com/track/3e9z7v3fc6KBXACJwj0St1) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 5:42 |
+| 7795 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 |
+| 7796 | [0g](https://open.spotify.com/track/0Hk3xtVqMJ1TSRqHeTcVye) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:16 |
+| 7797 | [RE Aoharu](https://open.spotify.com/track/4c1om3jDKoeOlk3SCUH8Ji) | [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p) | [Blue Archive 2.5th Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/5gX5DdM6la0IPxz3gS4idD) | 2:21 |
 
-Snapshot ID: `AAAJkQ6VSmZJ6pWBKNNviETaY75pe7az`
+Snapshot ID: `AAAJlQDgq6Ou/+0ScqfsQVd5xcopFbnt`

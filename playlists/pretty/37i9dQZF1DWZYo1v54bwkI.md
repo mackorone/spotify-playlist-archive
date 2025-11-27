@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,816 likes - 203 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,013 likes - 203 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 56 | [Seloria](https://open.spotify.com/track/6OMKA5n1PC87o23f5g7jHQ) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Seloria](https://open.spotify.com/album/0dhaxFVwdbx088y9Cu2Od6) | 2:29 |
 | 57 | [Mistful](https://open.spotify.com/track/34B2VSzAYslmKMDW8ZwBX2) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Mistful](https://open.spotify.com/album/1yk8FTtKeTCn1eAcLfgdKm) | 2:25 |
 | 58 | [Divine minds](https://open.spotify.com/track/6skca3GCeAwI3v9EKznj7C) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Selah](https://open.spotify.com/album/3JAIlFvm8jDNaB3ciieLqK) | 3:05 |
-| 59 | [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Isla Cantrell](https://open.spotify.com/artist/2KZi2E7jiI5QACfJTfQFwM) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 |
+| 59 | [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 |
 | 60 | [Quantum](https://open.spotify.com/track/5br1E8OvljsmOnV4JudjBu) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Quantum](https://open.spotify.com/album/5SWbLItI0wu1MRuaNErZfM) | 2:49 |
 | 61 | [Vibe](https://open.spotify.com/track/0pPfMFy55819r2wbZY2Prc) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Vibe](https://open.spotify.com/album/49J3uSyu295Iw6AIuxhLEK) | 2:47 |
 | 62 | [Threshold](https://open.spotify.com/track/6sSarFWiXPcyUlKAN2DSXE) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Threshold](https://open.spotify.com/album/6iDx2K8FYQO6EbZ038fbNv) | 2:35 |

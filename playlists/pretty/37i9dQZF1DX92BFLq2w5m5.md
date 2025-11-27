@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92BFLq2w5m5.md) - [plain]
 
 > A playlist curated by Ezra Collective celebrating the legacy the Windrush Generation has on the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,281 likes - 45 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,285 likes - 45 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

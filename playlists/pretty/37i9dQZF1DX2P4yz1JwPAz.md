@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 
 > 808s & Melodies\. Cover: Blanco
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,374 likes - 61 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,377 likes - 61 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P4yz1JwPAz.md) - [plain]
 | 25 | [Pull Up](https://open.spotify.com/track/6h2nENjlo0GOIpVurs98EY) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [English Dubbed](https://open.spotify.com/album/0gD720TRNfVewJlAe31Kyr) | 3:30 |
 | 26 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 |
 | 27 | [Overpriced](https://open.spotify.com/track/7sV2u9PuacBt62EgwqAPFC) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [Overpriced](https://open.spotify.com/album/62ZHVbE8x65GyJvztZDInF) | 2:10 |
-| 28 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 |
-| 29 | [New Shape](https://open.spotify.com/track/5Awic3Q2wuEp6LrwPdTVis) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [New Shape](https://open.spotify.com/album/3mxW4ANOby1MOXhDamMMfs) | 3:41 |
+| 28 | [New Shape](https://open.spotify.com/track/5Awic3Q2wuEp6LrwPdTVis) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [New Shape](https://open.spotify.com/album/3mxW4ANOby1MOXhDamMMfs) | 3:41 |
+| 29 | [Gone](https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Gone](https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf) | 2:36 |
 | 30 | [Different](https://open.spotify.com/track/2Aor7sxtCHbg38H0Q5E8cM) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Different](https://open.spotify.com/album/45a3tcpZY51zTdGJ65DoJd) | 1:52 |
 | 31 | [What Can I Say](https://open.spotify.com/track/6HVlPPWZcwAQOtvPbNnJMI) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [What Can I Say](https://open.spotify.com/album/3VO4UKvjQDYYseML7IyGJN) | 2:42 |
 | 32 | [Latest Trends \(feat\. A Boogie wit da Hoodie\) \- Remix](https://open.spotify.com/track/5IEV9dsY2iqC8ICtjAw0ER) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Latest Trends \(feat\. A Boogie wit da Hoodie\) \[Remix\]](https://open.spotify.com/album/7jsv1OYZ1fspWgtFtdaEZf) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21553,
+  "num_followers": 21555,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
+        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
+      },
+      "artists": [
+        {
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Milonga del Desocupado",
         "url": "https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 232930,
       "name": "Milonga del Desocupado",
       "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Virginia Luque Interpreta a Disc\u00e9polo",
-        "url": "https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF"
-      },
-      "artists": [
-        {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Esa Mujer: Buenos Aires",
-        "url": "https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF"
+        "name": "Susy Leiva - Grandes Exitos -",
+        "url": "https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG"
       },
       "artists": [
         {
-          "name": "Marisa V\u00e1zquez",
-          "url": "https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR"
+          "name": "Susy Leiva",
+          "url": "https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz"
         }
       ],
-      "duration_ms": 155293,
-      "name": "Madrugada y Soledad",
-      "url": "https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if"
+      "duration_ms": 178386,
+      "name": "Che bandoneon",
+      "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
     }
   ],
   "unique_name": "Mujeres del Tango",

@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 393609,
       "name": "120",
       "url": "https://open.spotify.com/track/5yJ2cnPCyXa1txhV7sqUe3"
@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 455593,
       "name": "Adjust",
       "url": "https://open.spotify.com/track/7xDzqPJ8tCp8BaMP9oCXFe"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 362242,
       "name": "AGAMA - Extended",
       "url": "https://open.spotify.com/track/6QTB8dOr9aRw0H76Ng6E0o"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 213250,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/1FA0Adwe8FnRNpja1KYyT5"
@@ -3314,7 +3314,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 227113,
       "name": "Closure - Urmet K Remix",
       "url": "https://open.spotify.com/track/1FE9g5IERbAdUFQAHljJlS"
@@ -3832,7 +3832,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 225247,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/5u9x7pvd4Kbhhhrpe53pRL"
@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 450000,
       "name": "Deme",
       "url": "https://open.spotify.com/track/2tlU0ZWQjbUUPR1ZMFGLpH"
@@ -4114,7 +4114,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 219057,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4QaqVzzUoqLGXUnJuoAJe1"
@@ -4206,7 +4206,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 387272,
       "name": "Diaspora",
       "url": "https://open.spotify.com/track/2HGIdR9lyQwUL9N86lWCVx"
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 292000,
       "name": "Droben",
       "url": "https://open.spotify.com/track/50CZDB2CW9QxCrgrrW4yeM"
@@ -5816,7 +5816,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 193770,
       "name": "FFM",
       "url": "https://open.spotify.com/track/4JizQmbv8ieZshqoVOJPAZ"
@@ -6210,7 +6210,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 418232,
       "name": "Freedom - Barokan Remix",
       "url": "https://open.spotify.com/track/4v3a5Rtqxyq56FKRkciyvW"
@@ -6342,7 +6342,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 376000,
       "name": "Gbese",
       "url": "https://open.spotify.com/track/5X5K9LN6Cwlpi5CmI9aHPf"
@@ -6916,7 +6916,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 237000,
       "name": "Gringo",
       "url": "https://open.spotify.com/track/12wgXD10SvvyzdmP1mkdQU"
@@ -7791,6 +7791,28 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/1duoSlCLPzrr4GBAOH615d"
+      },
+      "artists": [
+        {
+          "name": "Dennis Louvra",
+          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
+        },
+        {
+          "name": "Mosoo",
+          "url": "https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "I Know - Radio Edit",
+      "url": "https://open.spotify.com/track/0EiXrLHY6KJA52g7XPFfwN"
+    },
+    {
+      "album": {
         "name": "I Love You",
         "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
       },
@@ -8206,6 +8228,24 @@
       "duration_ms": 366393,
       "name": "Imbondeiro",
       "url": "https://open.spotify.com/track/5sJgXnNseimpYqMQxTtZUm"
+    },
+    {
+      "album": {
+        "name": "IMHOTEP",
+        "url": "https://open.spotify.com/album/0DD3TMheuHOKQgbc2JUMH4"
+      },
+      "artists": [
+        {
+          "name": "DaDa Sound Project",
+          "url": "https://open.spotify.com/artist/6pZtrHDnh3NqjDSwSzeqGP"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279500,
+      "name": "IMHOTEP - Extended Mix",
+      "url": "https://open.spotify.com/track/5RTDb4hferzGzwL8kCzRbh"
     },
     {
       "album": {
@@ -8666,7 +8706,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 216000,
       "name": "Into You - Radio Edit",
       "url": "https://open.spotify.com/track/5Z8OmTuom8G2fCwF5pSW22"
@@ -9586,7 +9626,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 186000,
       "name": "Kalabancoro",
       "url": "https://open.spotify.com/track/3DidOh90QTm6XAnD40gyJv"
@@ -10434,7 +10474,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 224262,
       "name": "Lah! - Extended Mix",
       "url": "https://open.spotify.com/track/52bo6uPIFrEeF7wxxO8ClC"
@@ -10574,7 +10614,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 388819,
       "name": "Lefika",
       "url": "https://open.spotify.com/track/75G641vUsi2C7jdM3eqEEX"
@@ -10872,6 +10912,28 @@
       "duration_ms": 178516,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
+    },
+    {
+      "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/0nHHnEYGFQT9XsS3qZJdwG"
+      },
+      "artists": [
+        {
+          "name": "Rex Stax",
+          "url": "https://open.spotify.com/artist/6lH0EquVti88gs3zhXRHOo"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253801,
+      "name": "Lion - Short cut",
+      "url": "https://open.spotify.com/track/23cLZ3y7S1rck965e3AlMP"
     },
     {
       "album": {
@@ -13381,6 +13443,28 @@
     },
     {
       "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/2u18mwsSfOYK2l8VJ3llSx"
+      },
+      "artists": [
+        {
+          "name": "Bartella",
+          "url": "https://open.spotify.com/artist/6Vk66SVVGYNCRaLJtozDdE"
+        },
+        {
+          "name": "Bobbi Fallon",
+          "url": "https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270336,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/7Fi74LQuvzlenYPBVZ5Tat"
+    },
+    {
+      "album": {
         "name": "Nobody Is Not Loved (Remixed)",
         "url": "https://open.spotify.com/album/7C64t7mbCspEuu0NcyD8wH"
       },
@@ -13442,7 +13526,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 432360,
       "name": "Never Sleep Again - Keinemusik Remix",
       "url": "https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q"
@@ -13910,7 +13994,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 282270,
       "name": "No More",
       "url": "https://open.spotify.com/track/2UZy2WD3j624e5a9pkeVuf"
@@ -14398,7 +14482,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 274607,
       "name": "Often",
       "url": "https://open.spotify.com/track/7vrbgyUXfBLZUfsNIZOEzR"
@@ -15022,7 +15106,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 224262,
       "name": "Party Throw",
       "url": "https://open.spotify.com/track/7sCYguAVfV1Nn6UHMdzh0c"
@@ -16390,7 +16474,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 277073,
       "name": "Sabela",
       "url": "https://open.spotify.com/track/6WyJS9qYAyi0UPK4jZVWSP"
@@ -17240,7 +17324,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 355000,
       "name": "SHIFT",
       "url": "https://open.spotify.com/track/5d2BTb2GGsJgChSjJRys3W"
@@ -17300,7 +17384,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 345600,
       "name": "Shimmy Shake - Christos Fourkis Afro Remix",
       "url": "https://open.spotify.com/track/1Kh5mj4vpduFdRXbAouvxi"
@@ -17366,7 +17450,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 183624,
       "name": "Shotta",
       "url": "https://open.spotify.com/track/6Gj7qlsyRvOMSvDANTDrCc"
@@ -17616,7 +17700,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 437172,
       "name": "Sinergia",
       "url": "https://open.spotify.com/track/4pHZwclXvLi5oCyGQD8huD"
@@ -17859,6 +17943,24 @@
     },
     {
       "album": {
+        "name": "Somebody Said Love Them / Get Down",
+        "url": "https://open.spotify.com/album/01FN9ODfwXVgkzC3NipNMK"
+      },
+      "artists": [
+        {
+          "name": "Underspreche",
+          "url": "https://open.spotify.com/artist/27APxtslZbXwYbuMxVLltm"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321290,
+      "name": "Somebody Said Love Them",
+      "url": "https://open.spotify.com/track/1A8IXKkHubKJSkPOFVV1tS"
+    },
+    {
+      "album": {
         "name": "Somebody up There Likes You",
         "url": "https://open.spotify.com/album/3bdkf95aUTClhYJiXHj1eL"
       },
@@ -18054,7 +18156,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 459786,
       "name": "Soulan - Laolu Remix",
       "url": "https://open.spotify.com/track/5JMXKAorJLYf0vvN55Ulsq"
@@ -18164,7 +18266,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 359068,
       "name": "Spirit Rise",
       "url": "https://open.spotify.com/track/36WRarjQdF4MUozZjHkS2Z"
@@ -18825,6 +18927,28 @@
     },
     {
       "album": {
+        "name": "Teacher",
+        "url": "https://open.spotify.com/album/74QJQ4nQ6T2WAdHKMBStbi"
+      },
+      "artists": [
+        {
+          "name": "D-Compost",
+          "url": "https://open.spotify.com/artist/3OFhWkc97ypgkRH8oouJZL"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442622,
+      "name": "Teacher - Original Mix",
+      "url": "https://open.spotify.com/track/6Z5iV8TMogXGCr5xtI3Cm8"
+    },
+    {
+      "album": {
         "name": "Teardrops (Don't stop The Music) [Nick Morgan Remix]",
         "url": "https://open.spotify.com/album/2iCgpWFXTbMB156hXdd35w"
       },
@@ -19332,7 +19456,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 384000,
       "name": "The M-Path",
       "url": "https://open.spotify.com/track/7md5IF7EXzwdYTsS59aKmq"
@@ -19394,7 +19518,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 375087,
       "name": "The Oracle",
       "url": "https://open.spotify.com/track/1ZKUeb4VShKVUSmf9EQTT9"
@@ -20051,6 +20175,28 @@
     },
     {
       "album": {
+        "name": "Tom & Jerry",
+        "url": "https://open.spotify.com/album/3OPTHwNCov360s7n5Ar6pC"
+      },
+      "artists": [
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        },
+        {
+          "name": "Phila De Giant",
+          "url": "https://open.spotify.com/artist/4z7iA319JsMu7Y2szwqaZr"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436195,
+      "name": "Tom & Jerry",
+      "url": "https://open.spotify.com/track/0E5KbePTY8cZvkI4z0Qwcp"
+    },
+    {
+      "album": {
         "name": "Bakone",
         "url": "https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l"
       },
@@ -20136,7 +20282,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 222199,
       "name": "Touka",
       "url": "https://open.spotify.com/track/2cnfVL8gMttR4Yx9917L1Y"
@@ -20166,6 +20312,28 @@
       "duration_ms": 454634,
       "name": "Tout S'en Va - Echo Deep Remix",
       "url": "https://open.spotify.com/track/2yIbj1FlRfhD60bydLCfog"
+    },
+    {
+      "album": {
+        "name": "Train Ride",
+        "url": "https://open.spotify.com/album/4EYTWrId4XDmTOCLOPimfQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomer",
+          "url": "https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj"
+        },
+        {
+          "name": "Ricardo Gi",
+          "url": "https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356065,
+      "name": "Train Ride - Extended Mix",
+      "url": "https://open.spotify.com/track/5WbVTkaSeEp0yxCyrY5iXH"
     },
     {
       "album": {
@@ -21110,7 +21278,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 265500,
       "name": "Voulez Vous",
       "url": "https://open.spotify.com/track/7fivDCjKjcqfA9fmY1FUeh"
@@ -21260,7 +21428,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 366241,
       "name": "Walkin north",
       "url": "https://open.spotify.com/track/4RJ6jE5vd0gpKT0ZprFoBd"
@@ -21663,6 +21831,24 @@
     },
     {
       "album": {
+        "name": "Which One (Afro House)",
+        "url": "https://open.spotify.com/album/7xqrcbOXJqvRUmL0uQaAXg"
+      },
+      "artists": [
+        {
+          "name": "Celestial Mayan",
+          "url": "https://open.spotify.com/artist/3niatmVhTluc5VBKNWKSRy"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Which One - Extended Mix",
+      "url": "https://open.spotify.com/track/4Gkn8mwUboPaD8u6KjY9dg"
+    },
+    {
+      "album": {
         "name": "Jaguar Dance",
         "url": "https://open.spotify.com/album/3rZE7qT1ddYAqXATpWuZIK"
       },
@@ -22036,7 +22222,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 316120,
       "name": "Ya Man Hawah",
       "url": "https://open.spotify.com/track/5EEkMVzbdZJozEFddQaMku"
@@ -22606,7 +22792,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 350000,
       "name": "Zero",
       "url": "https://open.spotify.com/track/6OLNPpHNQ85kSUDR186dUV"

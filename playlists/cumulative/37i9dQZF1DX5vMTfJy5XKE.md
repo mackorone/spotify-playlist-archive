@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Meghan Trainor
 
-1,024 songs - 2 day 6 hr 42 min
+1,025 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Christmas Miracle](https://open.spotify.com/track/5VZeRfpdY94ePLTes5Uixq) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas Miracle](https://open.spotify.com/album/1SOm9qr3NOTp3tpWgAT3GW) | 3:59 | 2022-11-18 | 2023-10-04 |
 | [CHRISTMAS MORNING](https://open.spotify.com/track/2EexyQTsG7IyJIvXkjeozV) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [CHRISTMAS MORNING](https://open.spotify.com/album/1e6yUvVixHZisjzEuJamSe) | 2:10 | 2025-11-14 |  |
 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 | 2021-12-24 | 2022-09-28 |
+| [Christmas Must Be Tonight](https://open.spotify.com/track/2X9YvhvrvIaR64M8BIKyr8) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Christmas Must Be Tonight](https://open.spotify.com/album/5kKb7TGymx0SF81LYyFJ2j) | 3:13 | 2025-11-26 |  |
 | [Christmas Night With You](https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Christmas Night With You](https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5) | 3:39 | 2024-09-13 | 2024-11-05 |
 | [Christmas Now](https://open.spotify.com/track/6fuq89jpzHDeFf6npcp54l) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Christmas Now](https://open.spotify.com/album/1Ys3OulsgsBZ543zaq76Qi) | 3:21 | 2025-11-21 |  |
 | [Christmas of Love](https://open.spotify.com/track/7M8e0kbTx1f6enqcwQ1YgC) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Christmas of Love](https://open.spotify.com/album/5VZz25MUGdHfvxmKfhb5M2) | 2:03 | 2025-11-07 |  |
@@ -402,7 +403,7 @@
 | [Heart Of Christmas](https://open.spotify.com/track/3YUOyXxvOI598tLifFijNF) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Christmas with Cliff](https://open.spotify.com/album/3s6LvCzbhw6UiWOtkvpo9s) | 3:47 | 2022-12-02 | 2023-10-10 |
 | [Heart of the Holidays](https://open.spotify.com/track/5NmtWJfouVfDFGJUnhmjnl) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Heart of the Holidays](https://open.spotify.com/album/3l7pTfUOeqLC8qFaZ81uFm) | 2:56 | 2025-11-21 |  |
 | [Hell of a Holiday](https://open.spotify.com/track/04ljVdZAfCyB0REJQ9fcmk) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Hell of a Holiday](https://open.spotify.com/album/0xsa9tFddApdX5wlHtKROP) | 2:55 | 2021-12-24 | 2022-09-28 |
-| [Hell’s Kitchen’s A Merry Little Christmas](https://open.spotify.com/track/4VtB4dPrqqbTq1nHFaeb0Z) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Amanda Reid](https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v), [Phillip Johnson Richardson](https://open.spotify.com/artist/2BUH3zOwvrkJDNSnW2JH8A), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Hell’s Kitchen Cast](https://open.spotify.com/artist/1UZgOd2KYLgCnC46IZcqvt) | [Hell’s Kitchen’s A Merry Little Christmas](https://open.spotify.com/album/6asT7n3Pjcua3rtF1H7ylB) | 2:48 | 2025-11-21 |  |
+| [Hell’s Kitchen’s A Merry Little Christmas](https://open.spotify.com/track/4VtB4dPrqqbTq1nHFaeb0Z) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Amanda Reid](https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v), [Phil.](https://open.spotify.com/artist/6RaXyW4kmMJffhxklIGnY3), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Hell’s Kitchen Cast](https://open.spotify.com/artist/1UZgOd2KYLgCnC46IZcqvt) | [Hell’s Kitchen’s A Merry Little Christmas](https://open.spotify.com/album/6asT7n3Pjcua3rtF1H7ylB) | 2:48 | 2025-11-21 |  |
 | [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/track/6D20ZXWEsLASb2JtP3JkiG) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a), [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9) | [Here Comes Santa Claus \(feat\. Tom Gaebel\)](https://open.spotify.com/album/4N1IWII8uHVknpMlDm88zl) | 1:47 | 2023-12-01 | 2024-08-31 |
 | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/track/3cSayPiyc5mgqahsuaN7lf) | [Tom Gaebel](https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Here Comes Santa Claus \(with The Tenors\)](https://open.spotify.com/album/1HO6JUHD7ADuKtMEnUCv5K) | 1:47 | 2023-12-01 | 2024-04-19 |
 | [Hero is Born](https://open.spotify.com/track/3VAE2YiVcelxBYPhDvYFzN) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Sunny Days](https://open.spotify.com/album/5FTFl9FxKsvNGzvPGHWbtC) | 4:02 | 2024-11-25 | 2025-09-27 |

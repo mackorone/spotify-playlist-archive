@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 748 likes - 96 songs - 5 hr 30 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 758 likes - 98 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 94 | [Aunque No Estes](https://open.spotify.com/track/3jiuTtZ3MwufcxJ5oJ6oq5) | [De este Lado](https://open.spotify.com/artist/7djoMWla9ZaXo7IdYjVaVc), [JUAN PABLO FERRI](https://open.spotify.com/artist/4tCZZHceT5fVsmXNN9ulds), [Jesus Salinas](https://open.spotify.com/artist/1dKgEobaksoR3O35J0G1GI) | [Aunque No Estes](https://open.spotify.com/album/65zPECDNUQCcMY4c2nSgLx) | 3:16 |
 | 95 | [Charlottetown](https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 2:55 |
 | 96 | [Just A Cliche'](https://open.spotify.com/track/2aX8kGMGSTVZPgaWpvSjSb) | [Brett L Walker](https://open.spotify.com/artist/5MOiEP0NEMkGUlQNoYzlvm) | [Just A Cliche'](https://open.spotify.com/album/6a2DTVcwi4aq7ajkExqy1d) | 2:56 |
+| 97 | [Tell Me the Truth](https://open.spotify.com/track/1JomByRV3tjxdJMc9eyG8P) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [To the Ends of the Earth](https://open.spotify.com/album/0EJr6qOrJteFJ8L0skZ7KC) | 2:53 |
+| 98 | [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 |
 
-Snapshot ID: `AAACWLDS7/NLTbK4dPzu5yWqiZ36h115`
+Snapshot ID: `AAACWjG3lpNUrpefjqCR29qM/KUQJi6U`

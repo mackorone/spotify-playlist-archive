@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,051 likes - 222 songs - 12 hr 30 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,051 likes - 223 songs - 12 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,5 +230,6 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 220 | [Rise Again](https://open.spotify.com/track/4Dj36QPd18SfcObDNnCxiG) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:44 |
 | 221 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 |
 | 222 | [FLETCH](https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [SAUSAGE REVOLUTION](https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2) | 2:13 |
+| 223 | [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 |
 
-Snapshot ID: `AAAHust5Wo2JJu5j2Qv9SlQ0seZUHQWL`
+Snapshot ID: `AAAHuyeXYihXTCme3fxOXH2/2eaMGtaD`

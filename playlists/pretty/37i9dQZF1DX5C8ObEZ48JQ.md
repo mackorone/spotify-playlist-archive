@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO?si=gIavafeZSkSzXVgTLJFy1g">Shad Miziki</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,065 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,064 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 54 | [Dear Ex](https://open.spotify.com/track/7hAIX39HeD4wZZpThDOLUQ) | [Wiz Designer](https://open.spotify.com/artist/1yTEWhW1UidhRHDtRBsr2L) | [Dear Ex](https://open.spotify.com/album/0SenRgI2VCRXW4jHBa7dpO) | 2:33 |
 | 55 | [House Of Mirrors](https://open.spotify.com/track/0m52oHvaK7uThwe3HkumYY) | [TAYKATRIP](https://open.spotify.com/artist/31I01TL25gP5IiHHh0Xjez) | [House Of Mirrors](https://open.spotify.com/album/5LDVm6ENmcKqoQfWc4YzgK) | 3:28 |
 
-Snapshot ID: `AAAAAH+cFfI7HMbtYLM1gqw/87dsdKCx`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

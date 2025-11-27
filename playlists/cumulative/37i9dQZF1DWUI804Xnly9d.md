@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-611 songs - 1 day 10 hr 11 min
+612 songs - 1 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Mera Chaand](https://open.spotify.com/track/1OpaXuFejD7SZihxltCY0i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Mera Chaand](https://open.spotify.com/album/5t0eb1ckENCqaz7DPkksRY) | 2:55 | 2024-02-09 | 2024-07-31 |
 | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/track/6HyYz5H1gHiRk7ikTcuSDj) | [Nikul Sabalpara](https://open.spotify.com/artist/4g9yRDkHYocIsv298xj3Kh) | [Mera Pyaar Mujhse Chhuta](https://open.spotify.com/album/2MqEuClZB4dhf76DdmpWOw) | 2:29 | 2024-12-05 | 2025-02-11 |
 | [Mera Sapna](https://open.spotify.com/track/1EzehSXnc1bii79PT2nigB) | [Azensha](https://open.spotify.com/artist/44wRg1i4HVrNR42fxrvsuD) | [Mera Sapna](https://open.spotify.com/album/3kEt4JX6EF6lWm5iIdnJ5T) | 5:05 | 2025-11-19 |  |
+| [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Mere Hisse Ki 'Jayedaad'](https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW) | 3:44 | 2025-11-26 |  |
 | [Mere Ho Tum](https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H), [Sparsh Agrawal](https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U) | [Mere Ho Tum](https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW) | 3:35 | 2024-10-25 | 2024-11-19 |
 | [Mere illahi](https://open.spotify.com/track/50qgHFvuH0zcdwGHdGcjaO) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Uberman](https://open.spotify.com/album/0DLgomZECPwZBKWx69qDE0) | 4:44 | 2024-08-19 | 2024-10-11 |
 | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/track/5gx74G9kqfjddSddH4LFQ0) | [Purusharth Jain](https://open.spotify.com/artist/5qHTw4EBukwn3GFseugVmc) | [Meri Duniya Tu \(Mehfil Unplugged\)](https://open.spotify.com/album/3W7RQsmVuo94rvZZuNfp8H) | 3:46 | 2024-04-08 | 2024-06-01 |
@@ -542,7 +543,7 @@
 | [Tu Hai Pari](https://open.spotify.com/track/3CmrGupyMWv8nPmvi82l29) | [Jobin Johny](https://open.spotify.com/artist/5fGhoGW4lgdZdQrQ8DWB4x) | [Tu Hai Pari](https://open.spotify.com/album/674vfQyjaaQ6DuvZ8p3oJA) | 2:48 | 2025-02-17 | 2025-03-14 |
 | [Tu Hai Sab Hai](https://open.spotify.com/track/14g8GrtXyIyHUdi37SxvtW) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Tu Hai Sab Hai](https://open.spotify.com/album/14H4tiC2cHjLNZ2lwz0lvx) | 3:57 | 2024-07-04 | 2024-07-27 |
 | [Tu Hai Toh Main Hu](https://open.spotify.com/track/3JeGnCva6aZgmG8uUlSdqe) | [Mohammed Izhar](https://open.spotify.com/artist/0wefMWpIqzVQ5v5nCehJ6k) | [Tu Hai Toh Main Hu](https://open.spotify.com/album/5antflRPPfVvqj1856YjAj) | 3:54 | 2023-10-26 | 2023-12-13 |
-| [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/track/24cxugZnxzy2fWmZhleFLN) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/album/7t0BwFWpB2HKBNREWIO19b) | 3:49 | 2025-11-10 |  |
+| [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/track/24cxugZnxzy2fWmZhleFLN) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [tu hai ya hai nahi \(raw live\)](https://open.spotify.com/album/7t0BwFWpB2HKBNREWIO19b) | 3:49 | 2025-11-10 | 2025-11-27 |
 | [Tu Hai Yaari](https://open.spotify.com/track/67fBkM5CywtT9TD89iONW8) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O) | [Tu Hai Yaari](https://open.spotify.com/album/0xGRQ51ajqJv5l4MX2C2AJ) | 2:41 | 2023-05-17 | 2023-12-20 |
 | [Tu Hain](https://open.spotify.com/track/0N3Z2AgLRFHbXXPWtJW372) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Industry2](https://open.spotify.com/album/6KEQkBqgnNo0RN6tfmuc6I) | 2:43 | 2023-08-03 | 2023-08-29 |
 | [Tu Hi](https://open.spotify.com/track/0G9h3LDKCk6Z3pLBFENznY) | [Akash Chopra](https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT) | [Tu Hi](https://open.spotify.com/album/39qaePyWjejpzWL4Yvy2l3) | 3:27 | 2023-05-17 | 2023-06-17 |

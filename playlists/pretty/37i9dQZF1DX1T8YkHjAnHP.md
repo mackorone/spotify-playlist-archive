@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,721 likes - 71 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,736 likes - 71 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 29 | [No Way Out](https://open.spotify.com/track/7Cl5ITyEbFN7f2Y3YzfGTY) | [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [The Scripture](https://open.spotify.com/artist/7nGeoIGnJVQTHcDIAqCStR) | [No Way Out](https://open.spotify.com/album/42UGCuosGzHkMVsk2SbUHb) | 3:40 |
 | 30 | [Heavy On My Mind feat\. SKYE \- Radio Edit](https://open.spotify.com/track/45C7A63DA4PMshgKYtCHxB) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Skye](https://open.spotify.com/artist/5e8LRy323xeJh0sGtifjGn) | [Heavy On My Mind feat\. SKYE](https://open.spotify.com/album/1MrykMJXH1JnBTDEFsYFgk) | 2:57 |
 | 31 | [What's Wrong? \- Santiago Garcia Remix](https://open.spotify.com/track/6xtG7qz93GVLCpt8EkjPxi) | [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX), [Santiago Garcia](https://open.spotify.com/artist/4HTu4h0bTZratn5pTBqRjS) | [The Era Remixes Part II](https://open.spotify.com/album/0qBOC27GfGPr8IviXRA0Ft) | 4:53 |
-| 32 | [Makes Me \- Prok & Fitch Remix](https://open.spotify.com/track/3VeYokgHZ1Ov7KhzHZKSXD) | [Jose Nunez](https://open.spotify.com/artist/4JIeLfcNRkL7wlCcszOjyj), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys), [Taina](https://open.spotify.com/artist/2x8Baihx4yQiHyKEKVPw6v) | [Makes Me \(Prok & Fitch Remix\)](https://open.spotify.com/album/3Kz3g1Dfef5IiWsGnsftPC) | 3:06 |
+| 32 | [Makes Me \- Prok & Fitch Remix](https://open.spotify.com/track/3VeYokgHZ1Ov7KhzHZKSXD) | [Jose Nunez](https://open.spotify.com/artist/4JIeLfcNRkL7wlCcszOjyj), [Taina](https://open.spotify.com/artist/2x8Baihx4yQiHyKEKVPw6v), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Makes Me \(Prok & Fitch Remix\)](https://open.spotify.com/album/3Kz3g1Dfef5IiWsGnsftPC) | 3:06 |
 | 33 | [1001 Nuits \- Radio Edit](https://open.spotify.com/track/74JKZeV9CIFMFu7xKtasi4) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [1001 Nuits \(Extended Mix\)](https://open.spotify.com/album/71DuLGOJwXTcvUzgndjClw) | 4:28 |
 | 34 | [Act A Fool](https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Act A Fool](https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm) | 3:38 |
 | 35 | [Replay](https://open.spotify.com/track/2HWkGVABhljh5LmihatdVe) | [Bobbi Fallon](https://open.spotify.com/artist/2iGBTGNxBGp36zT37zvpHB), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B) | [Replay](https://open.spotify.com/album/2Q5zccXXjYf1K4MZ4LWkQo) | 3:33 |

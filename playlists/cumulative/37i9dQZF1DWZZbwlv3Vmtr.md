@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,116 songs - 1 day 19 hr 2 min
+1,117 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
 | [Bonafide Bars](https://open.spotify.com/track/5PsHl5DtzhLij9jRwZXnlJ) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Bonafide Bars](https://open.spotify.com/album/2vzK9BHm6HX2jLVfLPlDuP) | 2:29 | 2023-01-20 | 2025-07-26 |
 | [Bonne Nuit](https://open.spotify.com/track/6bAg5fP8ZR5eITVjmie4xG) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys) | [Bonne Nuit](https://open.spotify.com/album/1BIWWMpIz8gCx3eubMSXLw) | 2:51 | 2025-08-29 |  |
-| [Bookeh](https://open.spotify.com/track/0Q3UAkpR3kZaFocOxXiEYW) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Bookeh](https://open.spotify.com/album/3ULaLw18ZDqZ62m2sM3Cge) | 2:14 | 2025-11-21 |  |
+| [Bookeh](https://open.spotify.com/track/0Q3UAkpR3kZaFocOxXiEYW) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Bookeh](https://open.spotify.com/album/3ULaLw18ZDqZ62m2sM3Cge) | 2:14 | 2025-11-21 | 2025-11-27 |
 | [Bottled Message](https://open.spotify.com/track/1jPB55XVsJo36Q7qnqr5v4) | [Coltsfoot](https://open.spotify.com/artist/2yWG9itzl6vVT4af2DPZoS) | [Bottled Message](https://open.spotify.com/album/0rgTLDn3rZBDe2facgkYWe) | 2:00 | 2024-10-04 |  |
 | [Brainstem](https://open.spotify.com/track/7ahd8hgfj5z3rOhbKdGNJU) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Brainstem](https://open.spotify.com/album/3YvmHeYv5MU6vvZbIOekB3) | 2:02 | 2022-06-03 | 2025-07-01 |
 | [Brand New](https://open.spotify.com/track/4vG978wvqQa5Z94IRGAC6Z) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Brand New](https://open.spotify.com/album/1W77dzsL2owEUFC3bHpT1j) | 2:21 | 2022-08-19 | 2025-07-01 |
@@ -695,7 +695,7 @@
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 | 2025-07-19 |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-04-15 | 2025-07-10 |
 | [Peck](https://open.spotify.com/track/3xgFr4QwSRmIVqllKr6xkX) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Peck](https://open.spotify.com/album/3DhrVEfaXbnnScAh2FIVRO) | 1:50 | 2022-04-15 | 2025-07-10 |
-| [pecker](https://open.spotify.com/track/3YmcrcGXsjNIzt5cRlKeBl) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [pecker](https://open.spotify.com/album/5OTZKju5IPusC7N8kptPHd) | 2:02 | 2025-11-21 |  |
+| [pecker](https://open.spotify.com/track/3YmcrcGXsjNIzt5cRlKeBl) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [pecker](https://open.spotify.com/album/5OTZKju5IPusC7N8kptPHd) | 2:02 | 2025-11-21 | 2025-11-27 |
 | [Pepper & Salt](https://open.spotify.com/track/36IEz2n1LIpsJF40eNYsz2) | [Blac Bamboo](https://open.spotify.com/artist/4ypPDohUBzURhyETVv552h) | [L0vesick / Pepper & Salt](https://open.spotify.com/album/7aUkxRDRbuwhLi6GCTqIIR) | 4:10 | 2022-04-22 | 2024-12-07 |
 | [Peppermint](https://open.spotify.com/track/3jDAHdOLVtOHSqW6qLR41G) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Peppermint](https://open.spotify.com/album/7dhPJ5H7lkezFsgd2J8I5T) | 2:08 | 2022-10-28 | 2025-07-10 |
 | [Perception](https://open.spotify.com/track/02KefPFoPYwQYR219MAxAT) | [Trish Lupin](https://open.spotify.com/artist/2tUWdnMothLxACGOxca5Nz) | [Perception](https://open.spotify.com/album/07OphcXB8sSOaScV4RlrFW) | 2:01 | 2024-12-13 |  |
@@ -951,7 +951,7 @@
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [sweatshop](https://open.spotify.com/track/4fIrnMVgzowokBFTp8LFqR) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [sweatshop](https://open.spotify.com/album/3Oo6Wh0ynjJHbRXk3FV1g7) | 2:22 | 2024-10-16 | 2024-12-07 |
 | [Swing Set](https://open.spotify.com/track/6NvN5QdlI7GItnKdhvtrwG) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Backyard](https://open.spotify.com/album/1xaXyuZwmLAXCKEimpeebP) | 2:17 | 2022-04-15 | 2022-09-03 |
-| [Sycamore](https://open.spotify.com/track/4Q6kcMuzi2X60hl37hVWQd) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Sycamore](https://open.spotify.com/album/3yvgMHhGB24F105G7eR9gs) | 1:47 | 2025-11-21 | 2025-11-26 |
+| [Sycamore](https://open.spotify.com/track/4Q6kcMuzi2X60hl37hVWQd) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Sycamore](https://open.spotify.com/album/3yvgMHhGB24F105G7eR9gs) | 1:47 | 2025-11-21 |  |
 | [Symbols](https://open.spotify.com/track/5ICH0pKxnPXbO2HxRIZu7B) | [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj) | [Symbols](https://open.spotify.com/album/27nTElJC0ZAZmaxhXVEXVB) | 2:04 | 2022-12-09 | 2023-10-08 |
 | [T's in Model T's](https://open.spotify.com/track/52Iy35HXTRVQ8J3Y0RPDRk) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Tangerine Tanlines](https://open.spotify.com/album/3drfIDIHXitp4lycIMqgkU) | 2:53 | 2022-04-15 | 2022-05-20 |
 | [Tainted Tuesday](https://open.spotify.com/track/697kvLFUMf4eK85X1i1vTG) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Tainted Tuesday](https://open.spotify.com/album/0Ktq1iZScnytfmO6wAxVDj) | 3:35 | 2022-04-15 | 2022-09-17 |
@@ -966,6 +966,7 @@
 | [Tell Me](https://open.spotify.com/track/1I5EnQrDoeo6txl9bo8Wea) | [Serena Kayleah](https://open.spotify.com/artist/1UxgzBXu0TEFYGecOFWKAg) | [Tell Me](https://open.spotify.com/album/7n5d3Fu6lIJTHNVtjZj7rX) | 2:41 | 2024-02-09 | 2025-08-23 |
 | [temporary approved](https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [temporary approved](https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa) | 2:00 | 2024-10-16 | 2025-06-08 |
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-04-15 | 2022-09-09 |
+| [Ten](https://open.spotify.com/track/6tlBRFGdCkcpsFqPnTuIrt) | [Sunny Léo](https://open.spotify.com/artist/2w5KiJbmzmpynhshcjodYG) | [Ten](https://open.spotify.com/album/3oqWAHo94G7ImuWiEylDFR) | 2:38 | 2025-11-21 |  |
 | [Tenderly](https://open.spotify.com/track/21syvpttK8kXDq7kf3eaPr) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [Tenderly](https://open.spotify.com/album/5FbOGtcOmnvWJKH4xmajlv) | 2:13 | 2022-04-15 | 2022-10-14 |
 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 | 2022-04-15 | 2025-07-10 |
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2022-04-15 | 2023-10-13 |

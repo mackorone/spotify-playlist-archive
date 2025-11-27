@@ -5166,7 +5166,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 291208,
       "name": "BRINQUEN - REMIX",
       "url": "https://open.spotify.com/track/7cVYjeUYgWD2NmIlQ4S4hh"
@@ -16502,7 +16502,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 121771,
       "name": "HOMAGE FUNK",
       "url": "https://open.spotify.com/track/4oFXV9F1OhUZy9cEGqrGHe"
@@ -22858,6 +22858,28 @@
       "duration_ms": 143750,
       "name": "Mis D\u00edas A Tu Suerte",
       "url": "https://open.spotify.com/track/0XRJc66Gcvq8F98KE1TXD8"
+    },
+    {
+      "album": {
+        "name": "Mis Nostalgias (ReMiX)",
+        "url": "https://open.spotify.com/album/0aupq4oroVJ9vREbaNJef6"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Cumbiera",
+          "url": "https://open.spotify.com/artist/4SMeiEST1BPqTgELZ3vDWM"
+        },
+        {
+          "name": "David Castro",
+          "url": "https://open.spotify.com/artist/6Cry7u5uYcPtQjiLCgp0gO"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452811,
+      "name": "Mis Nostalgias - ReMiX",
+      "url": "https://open.spotify.com/track/1k1vMMc97fbMB1VSJcGSXp"
     },
     {
       "album": {
@@ -41290,7 +41312,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
@@ -41308,7 +41330,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 207026,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/5JHB8QusYhTWdRw2KJekj6"
@@ -41756,7 +41778,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 243800,
       "name": "\u00bfQu\u00e9 tiene ella que no tenga yo?",
       "url": "https://open.spotify.com/track/0Iv4KPEczcBl3LTNFioq7X"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,255 likes - 218 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,396 likes - 218 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 217 | [Immersion](https://open.spotify.com/track/0UoCxmQeN0C53KdSh4QQ6b) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Eruptive Love](https://open.spotify.com/album/6vLBNsXnG8LT8e6hJ0IgCr) | 5:42 |
 | 218 | [Luminosity](https://open.spotify.com/track/1PVLc2tNYxxrgyHI2s4FM6) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Luminosity](https://open.spotify.com/album/2OrA9ivt5bPKHqc8Yrq3tf) | 3:05 |
 
-Snapshot ID: `AAAAANuPffC0991SAI5Sw5UKbyuvoK9N`
+Snapshot ID: `AAAAANBvh7hA334JrZD3JYkxNfZvdBj7`

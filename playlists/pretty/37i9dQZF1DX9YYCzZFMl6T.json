@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7256,
+  "num_followers": 7258,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-24 16:50:54",
       "album": {
+        "name": "Merry Christmas Wherever You Are",
+        "url": "https://open.spotify.com/album/1VpsEKroDanRq84EDMU5G0"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Merry Christmas Wherever You Are",
+      "url": "https://open.spotify.com/track/0SYgFF1AP2og3u30MhkAwD"
+    },
+    {
+      "added_at": "2025-10-24 16:50:54",
+      "album": {
         "name": "My Favorite Christmas / I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav"
       },
@@ -839,26 +855,6 @@
       "duration_ms": 169056,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8"
-    },
-    {
-      "added_at": "2025-10-24 16:50:54",
-      "album": {
-        "name": "The Sweetest Season",
-        "url": "https://open.spotify.com/album/21Pf0DS5gAEkosJmfB3kmj"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
-        }
-      ],
-      "duration_ms": 168565,
-      "name": "The Sweetest Season",
-      "url": "https://open.spotify.com/track/1PdXxmrUn3iOl399I12cku"
     }
   ],
   "unique_name": "Americana Christmas",

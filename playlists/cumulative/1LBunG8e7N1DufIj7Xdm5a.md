@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,608 songs - 7 day 22 hr 50 min
+3,611 songs - 7 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | ['O bbene 'e chesta vita](https://open.spotify.com/track/6TBieVb4PhIh12HAxDEjf0) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | ['O bbene 'e chesta vita](https://open.spotify.com/album/08sQSKlEk8tnwMP0kGQ9UX) | 3:22 | 2025-07-01 |  |
 | ['O Core Mio](https://open.spotify.com/track/4b1HfiEX5XJCnrpizx8xZd) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 3:05 | 2025-05-27 |  |
 | ['O Core Mio \(another\)](https://open.spotify.com/track/6ATVRrXgoIDFLP9uVyVLSj) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Bella Napoli](https://open.spotify.com/album/3NXa6sKx07JAVNXVjJhgUA) | 2:50 | 2025-09-18 |  |
+| [\(Like a\) Dandy Warhol](https://open.spotify.com/track/0ioeSwEh7824IZ30X1x6s6) | [Soul Jacker](https://open.spotify.com/artist/6RWpDKMgURQqMiZOZJIFxa) | [Fantasmagoria USA Edition](https://open.spotify.com/album/1yoLAramuCAq4E2gLUth64) | 3:42 | 2025-11-26 |  |
 | [\(Love Is\) Corrupted Code](https://open.spotify.com/track/3eO2ad5IkMC97DodASyBPQ) | [Peepall](https://open.spotify.com/artist/0aYT6hZTd5p8g0qWhuZPyX) | [\(Love Is\) Corrupted Code](https://open.spotify.com/album/532XswazKaWQqmgBuq7CFm) | 3:24 | 2025-08-15 |  |
 | [\(You’ve Been a\) Shit To Me](https://open.spotify.com/track/34X4KcxVMjC844cSAPeij0) | [The Lovely Eggs](https://open.spotify.com/artist/4DO9uZBipcWHEfMXo87yhS) | [Bin Juice](https://open.spotify.com/album/23O2GkJX92vYDabrLwdzVe) | 2:52 | 2025-11-04 |  |
 | [.Waves of Tomorrow](https://open.spotify.com/track/17chWXAbyBFjclJgPo7bEo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 2:59 | 2025-09-19 |  |
@@ -563,6 +564,7 @@
 | [Cold Cabin](https://open.spotify.com/track/3ShdZZwBCYJg1rQ9gpSsHW) | [The Thick Un's](https://open.spotify.com/artist/3AsMjZKwXAtEpmnqnEBVNb) | [Greasy Gambit](https://open.spotify.com/album/6vXdrqa99hzHAfLrkb8XlP) | 3:30 | 2025-05-14 |  |
 | [COLORS](https://open.spotify.com/track/09StTRpRakGxE7DQLSAcly) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:59 | 2025-05-16 |  |
 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 | 2025-04-09 |  |
+| [Come In](https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Come In](https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH) | 3:42 | 2025-11-26 |  |
 | [Come se non ci fosse un domani](https://open.spotify.com/track/3AGRiS8AeMZ3bZF3ne6pSl) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 1:57 | 2025-04-04 |  |
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/1PsSE8RXbV6IfsmnQrkTCL) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Come Un Ultras Che Grida \(Vivere da Ultras \- Sessione Intima\)](https://open.spotify.com/album/33xJM8vQ7ljQrQC2jctwqQ) | 2:34 | 2025-04-04 |  |
 | [Come Un Ultras Che Grida \- Vivere da Ultras \- Sessione Intima](https://open.spotify.com/track/63M7JMxzPhGLf70AxvdPgn) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 2:34 | 2025-04-04 |  |
@@ -832,6 +834,7 @@
 | [Disfraz](https://open.spotify.com/track/6px55UKbJjmJkd5tvN3If6) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:10 | 2025-07-29 |  |
 | [Distant City Lights](https://open.spotify.com/track/6AcQDmsEEaSRAmyt3HXCx3) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:15 | 2025-06-05 |  |
 | [Distractor](https://open.spotify.com/track/0RcW4JVawac6ZoON71atbs) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [Distractor](https://open.spotify.com/album/0RitxJpTiPwJxZ3UOdygBt) | 4:33 | 2025-04-30 |  |
+| [Divide](https://open.spotify.com/track/5dsHDEtCMqELLu9cC0KCic) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Blindspot](https://open.spotify.com/album/0mwDzmvlLD8w6XiMURxOiv) | 3:33 | 2025-11-26 |  |
 | [DIY Till I Die](https://open.spotify.com/track/4CD0MYDmHQpyIbkAebAb85) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:59 | 2025-09-19 |  |
 | [Djinn](https://open.spotify.com/track/4dKaGPw2NAcpLTETHaU4NG) | [Atopics](https://open.spotify.com/artist/4zrFaxH2qgffuRDxgna5wI) | [Djinn](https://open.spotify.com/album/0JPLWWXfW9y82D4RV75IB8) | 3:00 | 2025-06-11 |  |
 | [DOJO](https://open.spotify.com/track/3j6QdG2GfV1gtH72IzqFRc) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [DOJO](https://open.spotify.com/album/5sI8QEBqjyZbvB8S6wOGD8) | 2:50 | 2025-06-26 |  |

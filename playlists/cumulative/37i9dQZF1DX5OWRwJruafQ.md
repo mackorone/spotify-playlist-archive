@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-751 songs - 1 day 11 hr 48 min
+752 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Badmashia](https://open.spotify.com/track/40g99EnVyvocZZYHLCiyxv) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Badmashia](https://open.spotify.com/album/00BiLxMo9j4BrKsGvpjYSO) | 2:41 | 2024-06-28 | 2024-07-09 |
 | [Badshah](https://open.spotify.com/track/0WaHi9IeuUxIbeQ6Bsmf6N) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [No\-B](https://open.spotify.com/artist/0BjAEbhzlrdPrKWc0GUBN3) | [Badshah](https://open.spotify.com/album/5QnVCsOQGypYatKCksdc7D) | 2:43 | 2025-11-06 |  |
 | [Bai Bai](https://open.spotify.com/track/2Hb0FPA15GxnAhnLIyDeuh) | [Nav Meet](https://open.spotify.com/artist/3B59MsCySivKuN3qRePPOb) | [Bai Bai](https://open.spotify.com/album/7b24LEvxmdWknkkzLN092i) | 2:49 | 2024-01-05 | 2024-01-12 |
+| [Bai De Bande](https://open.spotify.com/track/1KrL0hYfF3Y9gUrVTrsmJv) | [Navyaar](https://open.spotify.com/artist/123otJRZEIBmJ1A2elFQDB), [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [Bai De Bande](https://open.spotify.com/album/5agolR4BjnJE9iRwD13nnY) | 2:34 | 2025-11-26 |  |
 | [BAIL OUT](https://open.spotify.com/track/5gTzCkAm2LOZ8jASOKU7MK) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [BAIL OUT](https://open.spotify.com/album/0HqSzO5p1DlWEmafKufFay) | 2:35 | 2025-10-15 |  |
 | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/track/5mI9DkGHYEBh2iRP86FBA8) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k) | [Bakrey Bulanda Sara Pind \(From "Blackia 2"\)](https://open.spotify.com/album/0D8tlH2jLCIO1nOU2osIq9) | 2:50 | 2024-02-13 | 2024-02-24 |
 | [Balcony](https://open.spotify.com/track/6qDHgeUBJFKYAGPBj3eVD6) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:43 | 2023-03-29 | 2023-07-15 |
@@ -323,7 +324,7 @@
 | [Immortal](https://open.spotify.com/track/1kaKltt8lpftj69XODO4RM) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:51 | 2023-09-04 | 2023-10-07 |
 | [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-09 | 2024-05-17 |
 | [IN THE STREETS](https://open.spotify.com/track/1jAepNdYeGKA4yWE2NXxeI) | [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [IN THE STREETS](https://open.spotify.com/album/5ysZuIFL6tlJnFFPitsuIF) | 2:07 | 2023-11-29 | 2023-12-12 |
-| [Indeed](https://open.spotify.com/track/0FqWAlhKIE4u94zpDtlWjw) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dripster](https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5) | 2:08 | 2023-12-13 |  |
+| [Indeed](https://open.spotify.com/track/0FqWAlhKIE4u94zpDtlWjw) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Dripster](https://open.spotify.com/album/0ljkVjMHqSVyeNq8sLuCL5) | 2:08 | 2023-12-13 | 2025-11-27 |
 | [Inipu](https://open.spotify.com/track/2n37CbY4Mm5rGXAIGlzAz3) | [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2), [King Ricky](https://open.spotify.com/artist/2JjzL4iHzhc64wkR12GOB5) | [Prince Of Pop](https://open.spotify.com/album/0akvkBX4i7HCbbAAXtEZy7) | 2:01 | 2024-05-31 | 2024-06-11 |
 | [Invincible \(feat\. Stefflon Don\)](https://open.spotify.com/track/2NBYiYtI4v1ujkhHZBq3xw) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:04 | 2023-03-29 | 2023-07-15 |
 | [Iran](https://open.spotify.com/track/2sAvvxcPYW5qJmFWCTSoFv) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [God Is Watching Through Birds](https://open.spotify.com/album/0ZH2sDBTe5f6u2selUJX9P) | 2:35 | 2023-06-23 | 2023-07-13 |

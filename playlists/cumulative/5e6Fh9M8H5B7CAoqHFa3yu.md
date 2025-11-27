@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,604 songs - 4 day 1 hr 41 min
+1,608 songs - 4 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -668,6 +668,7 @@
 | [Inity Step \(Jungle Dubplate\)](https://open.spotify.com/track/0YqvxLhjwn1zGji9vASMzJ) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 5:30 | 2024-03-25 |  |
 | [Innamorata](https://open.spotify.com/track/571xgXcow1zuU2O8TNmkip) | [Fabio Valenti](https://open.spotify.com/artist/6z1MdbazryEPy7gLvFLAgH) | [Innamorata](https://open.spotify.com/album/4O8iNGJ4C1zsYq5It5Q8FU) | 4:25 | 2025-10-18 |  |
 | [Insamnia](https://open.spotify.com/track/3BcWNoBrZwGizOgpnN72dA) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 5:03 | 2025-10-09 |  |
+| [Inside Out](https://open.spotify.com/track/3psRfBXa4Ei4niCOrxbQmJ) | [J Kyu](https://open.spotify.com/artist/4vz1hMAJRwIjBBl6esGocL) | [Inside Out](https://open.spotify.com/album/7HsKkIuJ73eYSzAqVWkDC1) | 4:44 | 2025-11-26 |  |
 | [Inside You \- Acoustic Serenade](https://open.spotify.com/track/7gbuBAwHgUZDGMbluLLIlS) | [Tornexia](https://open.spotify.com/artist/3NTtzMaYyWQSHSsRXXVKvh) | [Inside You \(Acoustic Serenade\)](https://open.spotify.com/album/381WuE3g9wNPnfWjbe0Wyl) | 3:58 | 2025-08-11 |  |
 | [Insurreição](https://open.spotify.com/track/151Kmxu0P0JvYx4mHW0suf) | [DJ Zonattão](https://open.spotify.com/artist/1wWANVAA56sHvzBLKFpnyS) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:11 | 2025-06-16 |  |
 | [Integrity Dub](https://open.spotify.com/track/2cTxpEe6uuZyS0AncciJAW) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Moonsteppa](https://open.spotify.com/album/15mEEqT5CD79q5apP4mK0M) | 3:27 | 2024-05-04 |  |
@@ -1209,6 +1210,7 @@
 | [Sampai Kau Kembali](https://open.spotify.com/track/0nAyih1mjCRH347QsMgiN7) | [Ian Nasution](https://open.spotify.com/artist/4SQO8nHhrCupEhr8fLfemf) | [Sampai Kau Kembali](https://open.spotify.com/album/3hhMLe5xs73PXXKmQAo2vU) | 3:08 | 2025-07-17 |  |
 | [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 | 2025-11-25 |  |
 | [Sangue Fluttuante](https://open.spotify.com/track/77ATWA5poUKLZ7oed0irQo) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So), [Paolo Russotto](https://open.spotify.com/artist/2qojmQGNwkXtfulktkX35X) | [Sangue Fluttuante](https://open.spotify.com/album/2EqZSvCTBXsAWu17a41hJH) | 3:49 | 2025-03-14 |  |
+| [SANPO](https://open.spotify.com/track/0iF1OTM8gKRmN2IiFzWV8F) | [RAS TAMANO](https://open.spotify.com/artist/4yOfZvC32oEIseTaawz38b), [DAHBORS](https://open.spotify.com/artist/20aCe88nAWk6yealnABwKr) | [SANPO](https://open.spotify.com/album/2VSLs9f2MV45VPmlipsCJK) | 5:23 | 2025-11-26 |  |
 | [Santa Maria strela do dia](https://open.spotify.com/track/0HR1y4lTgRX3UiM9Vrexoc) | [Alfonso X El Sabio](https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Música Antigua Para Cítola Y Vihuela](https://open.spotify.com/album/03xRLo5mXY5KsALtg92jCh) | 1:20 | 2025-08-12 |  |
 | [Santa Rosa Sound](https://open.spotify.com/track/2gb6fDizdJ26PsrnSnfkNU) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Graffiti Poets](https://open.spotify.com/album/3PTyAFtTY4qukujGH5n7OW) | 3:46 | 2025-09-09 |  |
 | [Santana Quantum](https://open.spotify.com/track/3HtuepZ8z6COrZmwn4UKO6) | [DJ Zonattão](https://open.spotify.com/artist/1wWANVAA56sHvzBLKFpnyS) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:54 | 2025-06-16 |  |
@@ -1586,6 +1588,7 @@
 | [Youthman Stepwise \- Bass Cut](https://open.spotify.com/track/02hy0VNXlcVT3NzM92ClBU) | [Negritage](https://open.spotify.com/artist/3JcS5pm4XJZnSXwejIiqSn) | [Guetto Roots Of Dub](https://open.spotify.com/album/03lGqOUTOHHID1tGCWRiVO) | 4:05 | 2024-05-01 |  |
 | [Zanzibar Dub](https://open.spotify.com/track/0T8BZWRrVfcIInO2gBi26C) | [DubRaJah](https://open.spotify.com/artist/4c5I4mGasi5eQMN0alj1Bu) | [Enkang](https://open.spotify.com/album/3BzGmTXAb0AcL6ZlcfEw5a) | 3:35 | 2024-03-25 |  |
 | [Zauberer](https://open.spotify.com/track/35gAa14ojFAoGMpB9KoE8i) | [Ragoody Orchestra](https://open.spotify.com/artist/5A9I1XyVWkXRTKv8VVePMD) | [Zauberer](https://open.spotify.com/album/5NBukRmeAsgNWAmSB83c6s) | 2:34 | 2025-06-10 |  |
+| [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 | 2025-11-27 |  |
 | [Ziamla](https://open.spotify.com/track/1wgTIZaEpP6df2uQxrVkyg) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:41 | 2025-10-09 |  |
 | [Ziamla](https://open.spotify.com/track/0sf039XhHo3xCOJo19hhQJ) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Ziamla](https://open.spotify.com/album/6b8QcWX9LtTQ7CKwnkIsai) | 4:43 | 2025-09-18 |  |
 | [Zion](https://open.spotify.com/track/1NaWDIdnGeTxqfgEF8k3Ei) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 2](https://open.spotify.com/album/4fVqUY29YSEFx1B0yTR27Q) | 4:30 | 2024-05-01 |  |
@@ -1607,6 +1610,7 @@
 | [Три времени](https://open.spotify.com/track/7uJSMGXHy4d9JKcbCBNVLI) | [Krutogolov Soundworks](https://open.spotify.com/artist/2It9qSHSBf9doBLFZAJ3sQ) | [Три времени](https://open.spotify.com/album/5FOXkye7HfRkpq25km6a5C) | 4:54 | 2025-08-13 |  |
 | [Хрипят моторы](https://open.spotify.com/track/2V9Vb562pyNLwQJiyGny55) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:00 | 2025-10-07 |  |
 | [Чн](https://open.spotify.com/track/1k4hUObaHc5pCGD0ZvrhsC) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Чн](https://open.spotify.com/album/70f1wT4l5S7lN9wp2G9uJ0) | 3:10 | 2025-06-09 |  |
+| [Шёлковые волосы](https://open.spotify.com/track/2WXaVPdq505D3bGJ3sTmxY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:49 | 2025-11-26 |  |
 | [Я попрошу](https://open.spotify.com/track/5nFVFo2lDvCpLBtPmpeBsU) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:09 | 2025-07-03 |  |
 | [בסוף יהיה טוב](https://open.spotify.com/track/4pweKO7kjfKZ49RMXlMRcq) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:20 | 2025-08-23 |  |
 | [שלוש שנים](https://open.spotify.com/track/3MeArNHAOCEo4wLhpg4hnh) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:13 | 2025-08-30 |  |

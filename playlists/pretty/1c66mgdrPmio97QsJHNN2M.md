@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,416 likes - 377 songs - 21 hr 23 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,429 likes - 386 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -385,5 +385,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 375 | [Bright Lights](https://open.spotify.com/track/79caC7QTXBTXBcNqcreT0X) | [GŁOWA](https://open.spotify.com/artist/7uYJbXkQ0M7ipmJWICdLl9) | [Singular Moments in Time](https://open.spotify.com/album/0xyI8aoYYvYmv3bXs8ZE8X) | 5:13 |
 | 376 | [Grave](https://open.spotify.com/track/0Te52R0CCGrBgH2pOfAYXe) | [GŁOWA](https://open.spotify.com/artist/7uYJbXkQ0M7ipmJWICdLl9) | [Singular Moments in Time](https://open.spotify.com/album/0xyI8aoYYvYmv3bXs8ZE8X) | 3:17 |
 | 377 | [A Rose from the Dead](https://open.spotify.com/track/4Glvex0i593yhVpHE5rrBr) | [Baydream](https://open.spotify.com/artist/4AuWsgx205bHAbdZDzVrm5) | [A Rose from the Dead](https://open.spotify.com/album/4hlul3DaY0cJ0iO0t8Iytr) | 3:30 |
+| 378 | [Quiet Storm](https://open.spotify.com/track/6I2JMiZxZv128So3kw8g8u) | [Milo Sol](https://open.spotify.com/artist/6sIIdbOU8d3sXoeTPHPUd0) | [Quiet Storm](https://open.spotify.com/album/2bjH9VolULhSYJ8YHkxrsb) | 2:42 |
+| 379 | [We Had A Good Run](https://open.spotify.com/track/6uSdmQGT9uqOU4nak1nevA) | [Serena Rae](https://open.spotify.com/artist/4S5i1YFUxdqqDrogeD1aIf) | [We Had A Good Run](https://open.spotify.com/album/2JA8IEGhElcwvNZvd5Apzk) | 3:23 |
+| 380 | [At Some Point in TIme](https://open.spotify.com/track/62uOsFXXb3A7Pnl5KQerjx) | [Markus Kan](https://open.spotify.com/artist/4nvKmoNsDbFfEx08eEWKXZ) | [At Some Point in TIme](https://open.spotify.com/album/0ChSu3StOOyvBjxX3Hs8x0) | 2:52 |
+| 381 | [Ride](https://open.spotify.com/track/4ZeZYOomXba5gHJOqqK3CP) | [JOHLOW](https://open.spotify.com/artist/5TTc97WBTfsXF1ZZOZqgV5) | [Ride](https://open.spotify.com/album/20Ps3FwM4KD8BGNjy4DG3U) | 2:41 |
+| 382 | [The Forbidden Fruit](https://open.spotify.com/track/3hFGmpE1hnJqVtVGI9AiH5) | [VIKTORIA XO](https://open.spotify.com/artist/2SAh7nrpcCzHTyGdWfjM1f) | [The Forbidden Fruit](https://open.spotify.com/album/2iCrd3EfUmiiTXwV98HoGw) | 3:08 |
+| 383 | [DOES IT HURT?](https://open.spotify.com/track/45EwN6Bq7p92QrmNRRkfrw) | [Lany Cruz](https://open.spotify.com/artist/5KAMVzfPogcys0IbrOa8jK) | [DOES IT HURT?](https://open.spotify.com/album/7BJU2HVWzfnRew6gWlhV4Y) | 3:16 |
+| 384 | [Closer](https://open.spotify.com/track/12eIu4SdTy6GwrtKfpvSLt) | [Hobart Curtis](https://open.spotify.com/artist/39sME8uZeT4llM1R9Ef4i5) | [Breathe Now, Before You Are Dead](https://open.spotify.com/album/3HtLKZuPSKjrZMPjqAndu1) | 3:02 |
+| 385 | [THE FLOOD](https://open.spotify.com/track/66REyxn7pU2K48UdF67XLc) | [Lea G](https://open.spotify.com/artist/4clYvo5vtpEnp6ibDxg16G) | [THE FLOOD](https://open.spotify.com/album/19FuAgXOfALCOWARIHfllP) | 2:50 |
+| 386 | [May Sunset](https://open.spotify.com/track/136Q1IiijFsB0dBKD3pLYa) | [Ilia Chkolnik](https://open.spotify.com/artist/020ktVWMg5BAOiYI5B9Ffa) | [May Sunset](https://open.spotify.com/album/6yZolKuA99kELUnkAGvEHt) | 3:37 |
 
-Snapshot ID: `AAAx14y3EHJBRXLsXzgRiINNRJfg6NRR`
+Snapshot ID: `AAAx4IhQBJTw9c9/vZfpJOy8QmLkQ6zN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 
 > enjoy the IVE WORLD TOUR \[SHOW WHAT I AM\] LIVE SET including the voices of them on stage! \(아이브의 무대 멘트와 목소리가 포함된 \[SHOW WHAT I AM\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,460 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,534 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazThYU5RTu6.md) - [plain]
 | 28 | [After LIKE](https://open.spotify.com/track/6CV6j2xz54thzlrWML3kAW) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/4MNb9ii6LzgcCT8PrvdClb) | 2:56 |
 | 29 | [MENT8](https://open.spotify.com/track/6JHP1D06cUBLmtsy6swNic) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE WORLD TOUR \[SHOW WHAT I AM\]](https://open.spotify.com/album/7aT6c5vnrSxdWKZNSWcuON) | 1:15 |
 
-Snapshot ID: `AAAAACAaA69Io1hgpN+1DcB32UqJwjlc`
+Snapshot ID: `AAAAAFxG9Om/9hDiq3LRiyG3x77Edrf1`

@@ -3757,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Christmas Must Be Tonight",
+        "url": "https://open.spotify.com/album/5kKb7TGymx0SF81LYyFJ2j"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193076,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/2X9YvhvrvIaR64M8BIKyr8"
+    },
+    {
+      "album": {
         "name": "Christmas Night With You",
         "url": "https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5"
       },
@@ -7514,8 +7532,8 @@
           "url": "https://open.spotify.com/artist/7tPx7QpnmFA6zMmC9AD47v"
         },
         {
-          "name": "Phillip Johnson Richardson",
-          "url": "https://open.spotify.com/artist/2BUH3zOwvrkJDNSnW2JH8A"
+          "name": "Phil.",
+          "url": "https://open.spotify.com/artist/6RaXyW4kmMJffhxklIGnY3"
         },
         {
           "name": "Jessica Vosk",

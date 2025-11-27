@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,807 likes - 270 songs - 1 day 2 hr 48 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,809 likes - 270 songs - 1 day 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,7 +213,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 203 | [Your Tears](https://open.spotify.com/track/71LYpj1krpThr5aBv5VSih) | [Mioche](https://open.spotify.com/artist/6v35t8oNbqhHLrvxggkfvQ) | [Your Tears](https://open.spotify.com/album/3WMJnSOlh2z7dQqAbpYHP9) | 6:44 |
 | 204 | [Fantasy Girl \- Acid Mix](https://open.spotify.com/track/2NLiNwWW6wffgvQ11CTqN1) | [Pierre's Pfantasy Club](https://open.spotify.com/artist/40BpVERJ6kAjii1gogXcEk), [J.R.](https://open.spotify.com/artist/0NBCjCwv45St1Vqpv5bjyP) | [Fantasy Girl](https://open.spotify.com/album/5OAK0SGieqJ1jwW6vrVHjK) | 7:02 |
 | 205 | [Elecno Theme](https://open.spotify.com/track/2VCJE1d3aRw0F6bPshjo1d) | [Luca Lozano](https://open.spotify.com/artist/57YTLw15CKLrwSJKUFN5ep), [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8) | [Elecno Posse](https://open.spotify.com/album/5M7z8V9WBPJp1OSRglbm7U) | 7:01 |
-| 206 | [Hidden](https://open.spotify.com/track/4CF0G8UVdNJdtssj5sqxHR) | [Sandwell District](https://open.spotify.com/artist/51CANyDEIfgYt0mwLKCpZ6), [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp), [Regis](https://open.spotify.com/artist/4erwZm1JybuSPTUg5Bu7nT), [Mønic](https://open.spotify.com/artist/5IMeZZeaEOC5mFNB4Xl2ar), [Rivet](https://open.spotify.com/artist/0ZQHqRljz8Llvy5ah5Zdwi) | [Dreaming](https://open.spotify.com/album/0glA5ATizqnyQjfUFJ6fmo) | 7:56 |
+| 206 | [Hidden](https://open.spotify.com/track/4CF0G8UVdNJdtssj5sqxHR) | [Sandwell District](https://open.spotify.com/artist/51CANyDEIfgYt0mwLKCpZ6) | [Dreaming](https://open.spotify.com/album/0glA5ATizqnyQjfUFJ6fmo) | 7:56 |
 | 207 | [Fragments](https://open.spotify.com/track/2798eOSPpXS0Ojt7ltNIlo) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [The Glow That Lingers](https://open.spotify.com/album/5uZcBfotdqDnQ9ixCOc0g9) | 6:04 |
 | 208 | [Evaporation](https://open.spotify.com/track/3eR10l5J7GVTnIeD2oSKYX) | [o.utlier](https://open.spotify.com/artist/6PsYj01GgN9NA1jcXME5FB) | [Biome](https://open.spotify.com/album/1S7tEKbb4ROJPk9ZUNlcZ1) | 6:30 |
 | 209 | [Xăm Hường](https://open.spotify.com/track/77FbYrljsIqN9zbo8BUPSK) | [Le Motel](https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd) | [Odd Numbers / Số Lẻ](https://open.spotify.com/album/5wC42h7W0B10l5pEbsHlpz) | 2:47 |

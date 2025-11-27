@@ -1,6 +1,6 @@
 {
   "description": "Hits brasileiros dos \u00faltimos anos para animar sua faxina.",
-  "num_followers": 377521,
+  "num_followers": 377516,
   "original_name": "Dia de Faxina",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
+        "name": "Fuleragem",
+        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
+      },
+      "artists": [
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Fuleragem",
+      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
         "name": "Pouca Pausa",
         "url": "https://open.spotify.com/album/4uvWaZXSz2eMn7YZXXXcS1"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 279756,
       "name": "Pouca Pausa",
       "url": "https://open.spotify.com/track/2odzriVVZBwYOiYJEj30tm"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
-        "name": "Fuleragem",
-        "url": "https://open.spotify.com/album/0tyHlKvPDsGxeCzqS12iPT"
-      },
-      "artists": [
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
-        }
-      ],
-      "duration_ms": 141473,
-      "name": "Fuleragem",
-      "url": "https://open.spotify.com/track/6tuzPD1zPPvwMbGiD0TBay"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "De Primeira",
-        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 186698,
-      "name": "Por Supuesto",
-      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
         "url": "https://open.spotify.com/album/7tWXS9xw3xY37qiORxOV6t"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 213664,
       "name": "Indom\u00e1vel (Participa\u00e7\u00e3o especial de Belo)",
       "url": "https://open.spotify.com/track/4YbZBChhX5SkLhNJcvvhuD"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 186698,
+      "name": "Por Supuesto",
+      "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -787,26 +787,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Vai Passar Mal",
-        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        }
-      ],
-      "duration_ms": 170649,
-      "name": "Corpo Sensual (feat. Mateus Carrilho)",
-      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "Vit\u00e3o",
         "url": "https://open.spotify.com/album/1O8LPICWMyVScYtJb3zdJ8"
       },
@@ -827,18 +807,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Diversoficando",
-        "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
+        "name": "Vai Passar Mal",
+        "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
         }
       ],
-      "duration_ms": 205720,
-      "name": "Envolvid\u00e3o",
-      "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
+      "duration_ms": 170649,
+      "name": "Corpo Sensual (feat. Mateus Carrilho)",
+      "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -867,6 +851,22 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Diversoficando",
+        "url": "https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "Envolvid\u00e3o",
+      "url": "https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Assim Voc\u00ea Mata O Papai",
-        "url": "https://open.spotify.com/album/6t1NT9hDfx7V3B3fB3e9UK"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "Assim Voc\u00ea Mata O Papai",
-      "url": "https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B"
-    },
-    {
-      "added_at": "2022-03-24 13:07:25",
-      "album": {
         "name": "A danada sou eu",
         "url": "https://open.spotify.com/album/4JZQXCD2TwUZmxSLlMDRoX"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 174056,
       "name": "Cheguei",
       "url": "https://open.spotify.com/track/6cbZb9mVAc5s8HtwklLoI0"
+    },
+    {
+      "added_at": "2022-03-24 13:07:25",
+      "album": {
+        "name": "Assim Voc\u00ea Mata O Papai",
+        "url": "https://open.spotify.com/album/6t1NT9hDfx7V3B3fB3e9UK"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "Assim Voc\u00ea Mata O Papai",
+      "url": "https://open.spotify.com/track/03UlQzmQHLb3fnvfhipq0B"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1091,18 +1091,22 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Amor Falso",
-        "url": "https://open.spotify.com/album/18Y2yU2nkT3bF9vnTs6qKf"
+        "name": "Dona de mim",
+        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
       },
       "artists": [
         {
-          "name": "Aldair Playboy",
-          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
         }
       ],
-      "duration_ms": 177815,
-      "name": "Amor Falso",
-      "url": "https://open.spotify.com/track/00zzSEe82JTtz68XlARnh7"
+      "duration_ms": 180625,
+      "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
+      "url": "https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf"
     },
     {
       "added_at": "2022-03-24 13:07:25",
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2022-03-24 13:07:25",
       "album": {
-        "name": "Dona de mim",
-        "url": "https://open.spotify.com/album/6suxiZXNF0F1NC8nPCJG5C"
+        "name": "Amor Falso",
+        "url": "https://open.spotify.com/album/18Y2yU2nkT3bF9vnTs6qKf"
       },
       "artists": [
         {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "Aldair Playboy",
+          "url": "https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56"
         }
       ],
-      "duration_ms": 180625,
-      "name": "Ginga (Participa\u00e7\u00e3o especial de Rincon Sapi\u00eancia)",
-      "url": "https://open.spotify.com/track/1QqIcxyTz2G7I31wcrnERf"
+      "duration_ms": 177815,
+      "name": "Amor Falso",
+      "url": "https://open.spotify.com/track/00zzSEe82JTtz68XlARnh7"
     }
   ],
   "unique_name": "Dia de Faxina",

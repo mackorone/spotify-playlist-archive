@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Wonders of Tranquility",
+        "url": "https://open.spotify.com/album/1nsqaBBOXh4iPeJ6Mf1E9A"
+      },
+      "artists": [
+        {
+          "name": "Nature Neighbors",
+          "url": "https://open.spotify.com/artist/4rIFzNdfjbxs0PB2XWda3z"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 900000,
+      "name": "Chirping Melodies",
+      "url": "https://open.spotify.com/track/75I25WfmlmxZxhSX4Uf88Z"
+    },
+    {
+      "album": {
         "name": "Rain and Wildlife in the Jungle",
         "url": "https://open.spotify.com/album/3DF0n2qw6pKnP0ZWPl2s0e"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 146093,
       "name": "Soft Evening Chorus for Relaxation",
       "url": "https://open.spotify.com/track/3REB3iIG1OGeMQyauiKe5m"

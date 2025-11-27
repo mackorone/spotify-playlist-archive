@@ -4,7 +4,7 @@
 
 > you're the main character in a romance novel.
 
-118 songs - 6 hr 47 min
+119 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [First Impressions](https://open.spotify.com/track/09I7DjJtkvTPORULHE7yCY) | [Adrian Johnston](https://open.spotify.com/artist/5VeBbPzElOgdgevTlSgdf9) | [Becoming Jane](https://open.spotify.com/album/52sztZMsBAIe2jNcFNpQHk) | 2:25 | 2022-02-14 |  |
 | [Flower Duet \- Goldmund Rework](https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Scott Moore](https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E), [Emily Pisaturo](https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm) | [Flower Duet \(Goldmund Rework\)](https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY) | 2:47 | 2023-06-30 |  |
 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 | 2022-02-14 |  |
+| [Für Elise Extended Variation \(After Beethoven's Bagatelle No\. 25 in A Minor, WoO 59\)](https://open.spotify.com/track/3boq2aKhjKSbs0kA0MMXHN) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:53 | 2025-11-26 |  |
 | [GoldBergHain \(Quodlibet on "Kraut und Rüben haben mich vertrieben"\) for Violin & String Orchestra](https://open.spotify.com/track/5bmp5QR3Dwb5r9kgEX8kF3) | [Stephan Koncz](https://open.spotify.com/artist/5bJ6Okk0z9ycR3goHVJ5e4), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Jamie Phillips](https://open.spotify.com/artist/1pdrpZawhbNj2mhFfNLzWq) | [GoldBergHain \(Quodlibet on "Kraut und Rüben haben mich vertrieben"\) for Violin & String Orchestra](https://open.spotify.com/album/1QdcLEWjkLCvAdgxabQKLu) | 2:46 | 2022-03-29 |  |
 | [Howl's Moving Castle \- Merry\-Go\-Round of Life](https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Geek Wedding, Vol\. 2: The Sequel](https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W) | 3:04 | 2022-02-14 |  |
 | [I Waited For You](https://open.spotify.com/track/3gpLoUSz1JsLb97VXUTtB5) | [Aaron Zigman](https://open.spotify.com/artist/74M3iphMpn1MA2YUe2Iigb) | [The Best Of Me \(Original Motion Picture Score\)](https://open.spotify.com/album/1EVM5W3wBvfAW7LXfPSsMT) | 1:30 | 2022-07-04 | 2024-04-19 |

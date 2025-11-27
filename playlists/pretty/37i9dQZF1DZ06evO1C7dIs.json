@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 262223,
+  "num_followers": 262242,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAAD6308sesAp8Mx//vsF/yDw",
+  "snapshot_id": "aSTxgAAAAAC5HMDBrgtoDYFfjP+MdMDv",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "\u00c9lan",
-      "url": "https://open.spotify.com/track/5oAvb7LpUBwQfBtQ6hmS4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 271120,
       "name": "Last Ride of the Day",
       "url": "https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "\u00c9lan",
+      "url": "https://open.spotify.com/track/5oAvb7LpUBwQfBtQ6hmS4Q"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 289009,
-      "name": "Alpenglow",
-      "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Century Child",
         "url": "https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 248706,
       "name": "The Phantom Of The Opera",
       "url": "https://open.spotify.com/track/6VOxRb9IAJQDDyHBlyEdPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 289009,
+      "name": "Alpenglow",
+      "url": "https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishmaster",
-        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 264026,
-      "name": "Wishmaster",
-      "url": "https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa"
+      "duration_ms": 389013,
+      "name": "Shudder Before the Beautiful",
+      "url": "https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+        "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 389013,
-      "name": "Shudder Before the Beautiful",
-      "url": "https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6"
+      "duration_ms": 264026,
+      "name": "Wishmaster",
+      "url": "https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+        "name": "Endless Forms Most Beautiful (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 302179,
-      "name": "How's the Heart?",
-      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
+      "duration_ms": 308002,
+      "name": "Endless Forms Most Beautiful",
+      "url": "https://open.spotify.com/track/6HkXeYMyASSvLnPNeYDoCD"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Forms Most Beautiful (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0"
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 308002,
-      "name": "Endless Forms Most Beautiful",
-      "url": "https://open.spotify.com/track/6HkXeYMyASSvLnPNeYDoCD"
+      "duration_ms": 302179,
+      "name": "How's the Heart?",
+      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
     },
     {
       "added_at": null,

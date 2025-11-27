@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > White noise for studying and concentration
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,596 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,710 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 29 | [White Noise Theme](https://open.spotify.com/track/1unaFsNuBizFWSv9zJ6Lyv) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [White Noise Theme](https://open.spotify.com/album/4QktoYkLK39QWoOlu9YckX) | 2:33 |
 | 30 | [White Noise In The Sky](https://open.spotify.com/track/2bDw3T1U9YDWAj7BtXsRMP) | [Evomin](https://open.spotify.com/artist/377XEfaskiPevvTMYzJvUb) | [White Noise Comfort](https://open.spotify.com/album/714mJftPiiqG2gcVQgrbjU) | 2:22 |
 | 31 | [Lean Noise](https://open.spotify.com/track/2KfLH77WUxnPq28o3SZsFp) | [Factorial FX](https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 2:17 |
-| 32 | [Sleeping Instantly](https://open.spotify.com/track/6mnKOZCg9F5LQKmmZEwYyO) | [Flows of Sleep](https://open.spotify.com/artist/1MAazf048soVcELWMYehho) | [Emotional White Noise](https://open.spotify.com/album/2nSSv0eHRqpCVMlA24RXHL) | 2:07 |
+| 32 | [Sleeping Instantly](https://open.spotify.com/track/6mnKOZCg9F5LQKmmZEwYyO) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Emotional White Noise](https://open.spotify.com/album/2nSSv0eHRqpCVMlA24RXHL) | 2:07 |
 | 33 | [Crystal Comfort White Noise](https://open.spotify.com/track/4P1S4Z8XYRpTtEoXOZtfkp) | [Titan Pulse](https://open.spotify.com/artist/2LxEiPDLSX3rxS0VYnqaIY) | [Crystal Comfort White Noise](https://open.spotify.com/album/32mt8zx0FDzY6yOBJmkFXx) | 4:24 |
 | 34 | [White Noise Is Bright](https://open.spotify.com/track/259rzFIqJmv7xCqPB4fL2E) | [Sampling Specialists](https://open.spotify.com/artist/7199IIJK2wW5yNXTaZtYmI) | [Resting Noise](https://open.spotify.com/album/1Bh7PlY6oNnUwHD7qpDfbh) | 2:31 |
 | 35 | [Dreamy Noise](https://open.spotify.com/track/5u7BfGhAyEdDOuE7SwKmPn) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [White Dream Noise](https://open.spotify.com/album/7mrF4ggROKkyntvBLEl590) | 2:22 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 | 41 | [Snowy Serenity](https://open.spotify.com/track/6dgZEk3lBngRHrUodnCY3y) | [Lavender Balm](https://open.spotify.com/artist/4N8OrA1MLAkEU05eVyYyFa) | [Gentle White Noise](https://open.spotify.com/album/5xkCmZcbrEmogpsAgwHXd8) | 2:44 |
 | 42 | [White Night Noise](https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w) | [Ambientics](https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a) | [White Evening Noise](https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6) | 2:52 |
 | 43 | [Hontoni White Noise](https://open.spotify.com/track/742apIRA23YNnENap1s4xV) | [Noizu Deluxe](https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0) | [White Noizu](https://open.spotify.com/album/4f7NGXGk8LEF0XZLHyWrYU) | 2:56 |
-| 44 | [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Hovar](https://open.spotify.com/artist/3COnOYhmr8nINwgd54Z8wj) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 |
+| 44 | [Focus On Noise](https://open.spotify.com/track/01MV13Hg9sfFNtgcMidjgE) | [Historic Site](https://open.spotify.com/artist/2b6lrSLIjDIaFN8hd7py6a) | [Lean Noise](https://open.spotify.com/album/77UGfdTasZzZkMbeC8lYCg) | 1:39 |
 | 45 | [In Somnio](https://open.spotify.com/track/1mZrMMxn7NiWOHMOnbpJ3r) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [In Somnio](https://open.spotify.com/album/060GnhHLT7K6aFa2HA9393) | 3:03 |
 | 46 | [Clouded Calm](https://open.spotify.com/track/2xWE8mW3hpixx5RrpBuucl) | [Limone M](https://open.spotify.com/artist/5FxD8GodVlJCHgsf1mjX9d) | [Clouded Calm](https://open.spotify.com/album/64m0JiFocCp9B3F1WTrq97) | 4:34 |
 | 47 | [Soothing Blanket of Brown Noise](https://open.spotify.com/track/1AX1IB9cLclzB89lLi6NXJ) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Soothing Blanket of Brown Noise](https://open.spotify.com/album/7pZ14KvOcfuk4Yi1Rsw6xz) | 5:27 |

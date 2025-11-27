@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,040 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,035 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 17 | [call me](https://open.spotify.com/track/3o5xs0n7mzfds8XIMpprzr) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [call me](https://open.spotify.com/album/3wgb5xHINzfClUvD4IMJWC) | 2:16 |
 | 18 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
 | 19 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 |
-| 20 | [Hasskick](https://open.spotify.com/track/5reeQyPMtsR5eE4guN82HH) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Hasskick](https://open.spotify.com/album/19ZRqRa32RP3dnKnOYuGdT) | 2:24 |
-| 21 | [OOTD](https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [OOTD](https://open.spotify.com/album/5uI3XadrVfI5iAPDMBnUdv) | 2:07 |
+| 20 | [OOTD](https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [OOTD](https://open.spotify.com/album/5uI3XadrVfI5iAPDMBnUdv) | 2:07 |
+| 21 | [Hasskick](https://open.spotify.com/track/5reeQyPMtsR5eE4guN82HH) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Hasskick](https://open.spotify.com/album/19ZRqRa32RP3dnKnOYuGdT) | 2:24 |
 | 22 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 |
 | 23 | [BADDEST](https://open.spotify.com/track/3ArIm5QoJWaRkz3n4LTjL8) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4) | [BADDEST](https://open.spotify.com/album/0M81pudkfdLaP1Pudbl5G0) | 2:07 |
 | 24 | [Ruth](https://open.spotify.com/track/1RI2qxSeqmZNdA3arPMOTQ) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Ruth](https://open.spotify.com/album/0fIg1hefvvsgnUUm94qiZn) | 5:08 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 34 | [WELT RETTEN](https://open.spotify.com/track/209DNyPbNlLtXeTiunoL1f) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [WELT RETTEN](https://open.spotify.com/album/4T5NEVTeXPguLpvmsx6Ca7) | 2:41 |
 | 35 | [Woran liegts?](https://open.spotify.com/track/3DqHHnYGVHWqwRDue9COax) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Woran liegts?](https://open.spotify.com/album/6fO8xpodayYBAUW0W6B0MB) | 3:09 |
 | 36 | [Caffeine](https://open.spotify.com/track/1MlhwzvVVopiMiLuwjR0WG) | [Paula Dalla Corte](https://open.spotify.com/artist/7p86QI1NsaOsdFPBMVyn0I) | [Circus](https://open.spotify.com/album/5yLXtzX6LsBINIz9W0JhTG) | 3:45 |
-| 37 | [Moi pour Toi](https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Moi pour Toi](https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp) | 2:37 |
-| 38 | [Everybody Loves](https://open.spotify.com/track/13a32fcZFJQjd2XS8rZrTf) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2Vte0y9lguR8Az4NJ4tTXm) | 2:33 |
+| 37 | [Everybody Loves](https://open.spotify.com/track/13a32fcZFJQjd2XS8rZrTf) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2Vte0y9lguR8Az4NJ4tTXm) | 2:33 |
+| 38 | [Moi pour Toi](https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Moi pour Toi](https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp) | 2:37 |
 | 39 | [In Love](https://open.spotify.com/track/3tubh3KCdMP3B7M5veSSYn) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [In Love](https://open.spotify.com/album/5QusaiQKE58ARj8jXlFQxJ) | 3:42 |
 | 40 | [Keine Phase](https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keine Phase](https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu) | 2:30 |
 | 41 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |

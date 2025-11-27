@@ -4,7 +4,7 @@
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: bloodsports
 
-2,158 songs - 4 day 23 hr 25 min
+2,160 songs - 4 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1488,6 +1488,7 @@
 | [pomegranate tree](https://open.spotify.com/track/4dxwnW8sEq8cdu1O0ZPAa6) | [Ekko Astral](https://open.spotify.com/artist/5YaWzI756w0pw1DkJkun5u) | [pomegranate tree](https://open.spotify.com/album/7BEPlCqgbQ55PAr2aKmbTo) | 6:15 | 2024-10-16 | 2025-01-30 |
 | [Pool House](https://open.spotify.com/track/17PCg3bv1Z7bW4QVlkbLXC) | [TVOD](https://open.spotify.com/artist/7p1Yt9qJ5pSSmyCEnVdQxh) | [Pool House](https://open.spotify.com/album/1EoG8Uonspv2PvZK3kATpk) | 2:30 | 2025-04-16 | 2025-05-22 |
 | [pool party](https://open.spotify.com/track/3C0xSnAHVFwqNQkHDmyxPb) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC) | [pool party](https://open.spotify.com/album/05kcUOQZc6InkwhIIacPPw) | 3:31 | 2022-07-20 | 2022-08-25 |
+| [Pop Punk Anthem \(Sorry for the Delay\)](https://open.spotify.com/track/0bklLrIusZYrRVRj7rOYUv) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY) | 3:50 | 2025-11-26 |  |
 | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/track/1Hlg1LF0oJ1UBxyVCJcP5i) | [Shitney Beers](https://open.spotify.com/artist/17ghMPiifubfyIujm3sEBa), [Elena Steri](https://open.spotify.com/artist/4AwHWQ8KL6tCUIzL9Du1RA) | [Pop Queen \(feat\. Elena Steri\)](https://open.spotify.com/album/2pXP6FJsvQNbTzY0PNUCX7) | 1:57 | 2022-10-12 | 2022-12-01 |
 | [Portal](https://open.spotify.com/track/2jqEkryEQLNykrJXJIqGka) | [Ski Lift](https://open.spotify.com/artist/4jXBrS7K5sOMm70llecORs) | [Portal](https://open.spotify.com/album/0L5oqY8zA9k0ccTNmZV6GP) | 2:03 | 2021-12-01 | 2022-02-17 |
 | [Portrait Show](https://open.spotify.com/track/72Z7VFAx1blMBH1NEE2bN0) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Portrait Show](https://open.spotify.com/album/2oIzeN4eCW100PqYc5qCHy) | 4:16 | 2023-10-04 | 2024-02-15 |
@@ -1953,6 +1954,7 @@
 | [Thoughts Back](https://open.spotify.com/track/4zHuAp1CSsuRWjdlnYhla1) | [Cable Ties](https://open.spotify.com/artist/2DHxsgHVEiupQyVWHI1XIW) | [Thoughts Back](https://open.spotify.com/album/4rP3tcnDTXoTMyN04gmVLg) | 3:16 | 2023-05-31 | 2023-07-13 |
 | [Three](https://open.spotify.com/track/0OA0NZPEUq8NTBXAU4FRw4) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Three](https://open.spotify.com/album/2Ih0AmjKIGzcmFXlghg1LB) | 4:09 | 2024-07-17 | 2024-09-19 |
 | [Tide Of Doubt](https://open.spotify.com/track/5SuqiH65FrbM731Cf6dYyp) | [Pit Pony](https://open.spotify.com/artist/1Tam6yeKCTZNKVah41Uv7j) | [World To Me](https://open.spotify.com/album/0YYEa5959qL0Bcz5vd2pLv) | 3:45 | 2022-07-06 | 2022-09-09 |
+| [tied](https://open.spotify.com/track/1tg5xY6QMlEME9emTaJmEN) | [thistle.](https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5) | [tied](https://open.spotify.com/album/2aaQHXlEsfVq3yb2gH5NHe) | 1:34 | 2025-11-26 |  |
 | [Tied Up In](https://open.spotify.com/track/1cXxmns9mi4Ybwzteaavvo) | [Yon Loader](https://open.spotify.com/artist/2iPY6b2itPLGdaKGXd3JPg) | [Tied Up In](https://open.spotify.com/album/29xYh2WdbTJyIz7JsezXGZ) | 5:08 | 2024-07-31 | 2024-10-17 |
 | [Time](https://open.spotify.com/track/5V4qVStqE0NMxuQJPuqI60) | [Cdubz](https://open.spotify.com/artist/5KvoRp7P1sWSltpHelramH) | [Time](https://open.spotify.com/album/7FBf6jRk4YidWpfabv9bsz) | 2:38 | 2025-04-30 | 2025-08-07 |
 | [Time](https://open.spotify.com/track/4Yw8Asmn9g1R2rQYp28iF0) | [Object of Affection](https://open.spotify.com/artist/1U4tj1OPey66HhgVXGdlSY) | [Field of Appearances](https://open.spotify.com/album/0VanY2kjOAoWoAki0lDZLA) | 2:22 | 2023-03-15 | 2023-05-11 |

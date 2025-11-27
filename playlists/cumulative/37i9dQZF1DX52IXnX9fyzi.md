@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-540 songs - 23 hr 19 min
+542 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Do You Remember](https://open.spotify.com/track/68YkWKD2mxQuSplipO1VOO) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Do You Remember](https://open.spotify.com/album/1JEIZBPsDpv1CLE29qdH1b) | 2:07 | 2022-05-13 | 2024-04-04 |
 | [Dorénevant](https://open.spotify.com/track/7lUXTcOSlWXNGN25wj7iNf) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Dorénevant](https://open.spotify.com/album/68K0s9E4y7TKDuKZb5zs2Z) | 2:28 | 2022-08-30 | 2025-04-24 |
 | [Doubt](https://open.spotify.com/track/3D0LhoqGyjdOV6760uOsJS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [RISE](https://open.spotify.com/album/0Y8HYJSgZUyKFfHKF6GPmY) | 1:55 | 2022-06-07 | 2024-02-03 |
+| [Dreamstate](https://open.spotify.com/track/1JPJLajBoTZKxe5ZdF78bq) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Dreamstate](https://open.spotify.com/album/1p0bBnS51FBv5s31l51qo0) | 2:28 | 2025-11-26 |  |
 | [Dried Out](https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Dried Out](https://open.spotify.com/album/4VPQn4Kmsfe2WYXwMo15xX) | 2:52 | 2022-04-14 | 2022-05-14 |
 | [Dustsceawung](https://open.spotify.com/track/6nA3Rq6zvadWTW8H9wuoS8) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Dustsceawung](https://open.spotify.com/album/5VEskKPrAs8A43c0Vn6cQ9) | 1:52 | 2022-07-15 | 2024-02-03 |
 | [Déjà Vu](https://open.spotify.com/track/253bPWO4hUm5FTsPFLRUcz) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Déjà Vu](https://open.spotify.com/album/7j4lI0WOi2jUmx6EkLvYF3) | 2:44 | 2022-04-14 | 2022-05-14 |
@@ -427,6 +428,7 @@
 | [Swamp](https://open.spotify.com/track/1s8esXu1jTNJ49RwotQLSc) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Swamp](https://open.spotify.com/album/6JWJL7LDHzUVknPtZIxv71) | 2:01 | 2022-04-14 | 2023-04-05 |
 | [System Next Door](https://open.spotify.com/track/6GmG5vN2CxjMZ9Hjxr0P0D) | [Aurelius Conner](https://open.spotify.com/artist/1UwYRIlQBtCysDN5bbXhlh) | [Ohio Fair](https://open.spotify.com/album/608MQ2CpVoBzLUN4cwgjrZ) | 2:54 | 2022-05-13 | 2024-03-05 |
 | [S´embrassant](https://open.spotify.com/track/2p0Y2bYm5ICR6upjdPC69n) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [S´embrassant](https://open.spotify.com/album/5V6fXutbMK04kxw1AXQURA) | 2:40 | 2023-12-12 | 2025-04-24 |
+| [Taking it slow](https://open.spotify.com/track/2K10kvGL4rDW8axGy4pRbU) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Taking it slow](https://open.spotify.com/album/4vD1JlQfT6C1qo3cVPKk3l) | 2:04 | 2025-11-26 |  |
 | [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2022-04-14 | 2023-04-05 |
 | [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 | 2022-12-22 | 2025-05-01 |
 | [Tana](https://open.spotify.com/track/0pVxjmRJvXGSZnDp2Wi9WP) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Tana](https://open.spotify.com/album/19M53ox1gdUcimYMaEeeDG) | 2:58 | 2022-04-14 | 2022-04-28 |

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Rose Villain, Jovanotti, Lucio Corsi, Noemi, Emma Nolde e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,723 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,724 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [sbalzi d'amore \(feat\. Annalisa\)](https://open.spotify.com/track/6WUN2vJOoPLkerVax8N8RJ) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [radio vega \(after dark\)](https://open.spotify.com/album/7BsC0Zs0bB8WmJbNgugd3j) | 2:58 |
 | 2 | [Senza se e senza ma \- BROOKLYN STUDIO, JOVA SESSION 25](https://open.spotify.com/track/7w8gx5kBSpKOolSYHykwau) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Spanish Harlem Orchestra](https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x) | [NIUIORCHERUBINI \(BROOKLYN STUDIO, JOVA SESSION 25\)](https://open.spotify.com/album/71ydkx8VLeUKNxwcwImstY) | 5:16 |
-| 3 | [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 |
+| 3 | [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 |
 | 4 | [Bianca](https://open.spotify.com/track/5ZuCGMKhsYhzFkugdD9x5P) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Bianca](https://open.spotify.com/album/04P48FCwXo0FsLy5DKBAHg) | 3:14 |
 | 5 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
 | 6 | [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 94 | [Città segreta](https://open.spotify.com/track/0pWWzPirq9sXhfUrBiSfBe) | [Festa del Perdono](https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5) | [Città segreta](https://open.spotify.com/album/6QSVznkuLF5vJzciGlzrrt) | 2:58 |
 | 95 | [A](https://open.spotify.com/track/61KHgOuCqsHoL8pMP1yFBG) | [Gaia Rollo](https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv) | [A](https://open.spotify.com/album/6JNbBtAaC5uUQUU3XcQ1uD) | 3:59 |
 
-Snapshot ID: `AAAAANL4+BN6F1r9/MDiseNeSpIiGHTO`
+Snapshot ID: `AAAAAA6o6H+GMBnwTVc+N05MzSIFylau`

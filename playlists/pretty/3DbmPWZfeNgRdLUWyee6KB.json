@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1004,
+  "num_followers": 1005,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAM9ei15XFAVKfmHlOIUUVZ2/UaLUwL",
+  "snapshot_id": "AAAM+NSuILwXszoSnje0lMZe6PEHTLtL",
   "tracks": [
     {
       "added_at": "2025-10-23 19:47:35",
@@ -4919,6 +4919,58 @@
       "duration_ms": 201221,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/7wgXjF0bJgfEsXAzYsbpdX"
+    },
+    {
+      "added_at": "2025-11-26 18:28:16",
+      "album": {
+        "name": "My Fire",
+        "url": "https://open.spotify.com/album/3Zunn4IB4LBVqM1Xr07EhL"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Gerald",
+          "url": "https://open.spotify.com/artist/2rIvMVFcBfd5QZjfKXQGmu"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "My Fire",
+      "url": "https://open.spotify.com/track/70envoliSCQOHL5mQx7MfR"
+    },
+    {
+      "added_at": "2025-11-26 18:28:16",
+      "album": {
+        "name": "A Holding Light",
+        "url": "https://open.spotify.com/album/3kJDagmAwsNnYzzXVqJnCq"
+      },
+      "artists": [
+        {
+          "name": "gebi.sounds",
+          "url": "https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a"
+        }
+      ],
+      "duration_ms": 231413,
+      "name": "A Holding Light",
+      "url": "https://open.spotify.com/track/05NiUyl6ugHxxgD9IWIlmj"
+    },
+    {
+      "added_at": "2025-11-26 18:28:17",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H"
+      },
+      "artists": [
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        },
+        {
+          "name": "FIM Collective",
+          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9"
     }
   ],
   "unique_name": "New Indie Music",

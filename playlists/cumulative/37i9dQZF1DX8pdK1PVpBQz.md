@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: The Stamps
 
-4,367 songs - 10 day 0 hr 38 min
+4,368 songs - 10 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1312,6 +1312,7 @@
 | [Fight!](https://open.spotify.com/track/39ia5GW4VSFGPd5WWFpgCy) | [Toy Shaw](https://open.spotify.com/artist/6MYXLrJHjEWW8LFssFPqDg) | [Fight!](https://open.spotify.com/album/5GhYb3n1BAxdo6UoGCVDfS) | 3:00 | 2025-09-16 | 2025-11-05 |
 | [Figure It Out](https://open.spotify.com/track/2Ga273Fb49LK9W9952DWey) | [Interphase](https://open.spotify.com/artist/3kr6LLriNxuGjc87icJOzL) | [Figure It Out](https://open.spotify.com/album/6zLjJuFdRneGtYw8R3KDyS) | 3:36 | 2022-02-02 | 2022-03-10 |
 | [Figure It Out](https://open.spotify.com/track/0nHrj5MP26P8IZaY1cUnaF) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [Figure It Out](https://open.spotify.com/album/4kmJyPcWee7gTijViBUmDP) | 2:18 | 2024-08-06 | 2024-09-18 |
+| [Figure It Out](https://open.spotify.com/track/4BuO1GyW43Z2XBTzzA7RNo) | [Seb Szabo](https://open.spotify.com/artist/2Fo3rEzOXtPFjkvs0LyeoT), [Joan & the Giants](https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4) | [Figure It Out](https://open.spotify.com/album/0lXpZTjbE0baebjDbnWybq) | 3:50 | 2025-11-25 |  |
 | [Figure Me Out](https://open.spotify.com/track/5u6E2JZYmbL590xVmVkLwu) | [Mitch Santiago](https://open.spotify.com/artist/6eERFYkiQQPyRK4rPEXTNH) | [Figure Me Out](https://open.spotify.com/album/6THgtloZm71wKPcbuw2vks) | 4:03 | 2023-03-08 | 2023-04-13 |
 | [Fiji Water](https://open.spotify.com/track/1ETF5DEmTGz2pB82XNWWHl) | [Kobi Spice](https://open.spotify.com/artist/6INZffi4AF7ohppjnID3Jh), [Sevy](https://open.spotify.com/artist/1JWlma0hnqcELOIFZVl03u), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Fiji Water](https://open.spotify.com/album/76frXLwEfaDwCGXWoPtrbn) | 2:47 | 2022-01-12 | 2022-02-03 |
 | [Fikir \(ፍቅር\)](https://open.spotify.com/track/7yDHAkTXtgprxoT3ooYAyY) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [Fikir \(ፍቅር\)](https://open.spotify.com/album/3FKXfmfK50IkSP9GOLUSwK) | 2:45 | 2024-02-02 | 2024-03-07 |

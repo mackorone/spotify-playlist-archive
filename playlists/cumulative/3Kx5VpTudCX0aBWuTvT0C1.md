@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-94 songs - 5 hr 22 min
+96 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aunque No Estes](https://open.spotify.com/track/3jiuTtZ3MwufcxJ5oJ6oq5) | [De este Lado](https://open.spotify.com/artist/7djoMWla9ZaXo7IdYjVaVc), [JUAN PABLO FERRI](https://open.spotify.com/artist/4tCZZHceT5fVsmXNN9ulds), [Jesus Salinas](https://open.spotify.com/artist/1dKgEobaksoR3O35J0G1GI) | [Aunque No Estes](https://open.spotify.com/album/65zPECDNUQCcMY4c2nSgLx) | 3:16 | 2025-11-25 |  |
 | [automatic shoes](https://open.spotify.com/track/5yDoiuvVI1YBNlS8mjjL4F) | [we are concrete](https://open.spotify.com/artist/1G8m3RgBJsjJNBMFiB4pWP) | [\(\)](https://open.spotify.com/album/5HcYtyZx6yPCqTIz6WaDwV) | 2:55 | 2025-10-26 |  |
 | [Away](https://open.spotify.com/track/05YP4WXwNVoj9A0Viqwr3k) | [Orbis](https://open.spotify.com/artist/6mNA4j8NdL2AAV46EKMy1d) | [Slick Heart Machinery](https://open.spotify.com/album/5Ji55WmrvyDcClmIXboWIR) | 7:15 | 2025-11-03 |  |
+| [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 | 2025-11-26 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-29 |  |
 | [Broken Soul](https://open.spotify.com/track/3uF5OHTajylu7acBQfqGCj) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 3:11 | 2025-11-18 |  |
@@ -81,6 +82,7 @@
 | [Stuck](https://open.spotify.com/track/4oCcsKI1Ju2gBR3HrSMqIR) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:01 | 2025-11-11 |  |
 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 | 2025-11-11 |  |
 | [Tarde o Temprano](https://open.spotify.com/track/20f6iJWqxbEQ2PIOZJN06G) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Tarde o Temprano](https://open.spotify.com/album/7xoyty3TN8GxyoWwqVJGyI) | 3:20 | 2025-11-06 |  |
+| [Tell Me the Truth](https://open.spotify.com/track/1JomByRV3tjxdJMc9eyG8P) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [To the Ends of the Earth](https://open.spotify.com/album/0EJr6qOrJteFJ8L0skZ7KC) | 2:53 | 2025-11-26 |  |
 | [Telling You Anyway](https://open.spotify.com/track/2cDFCk9YtyWsND1DGyDR5p) | [Dute](https://open.spotify.com/artist/4JVDpPwTXaLhNcXMXz6NJV), [Lukky Sparxx](https://open.spotify.com/artist/7FFdx96MiyEDRkKZz62MCN) | [Telling You Anyway](https://open.spotify.com/album/2iRo68n92672jnE7VIZZJJ) | 2:58 | 2025-11-10 |  |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-11-21 |  |
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2025-11-02 |  |

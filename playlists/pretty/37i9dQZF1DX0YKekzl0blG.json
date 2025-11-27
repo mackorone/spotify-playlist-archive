@@ -1,6 +1,6 @@
 {
   "description": "All the indelible tunes from the other side of the 00s. Cover: LCD Soundsystem",
-  "num_followers": 745689,
+  "num_followers": 745830,
   "original_name": "Alternative 00s",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-18 22:33:18",
       "album": {
-        "name": "St. Jude",
-        "url": "https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4"
-      },
-      "artists": [
-        {
-          "name": "Courteeners",
-          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Not Nineteen Forever",
-      "url": "https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu"
-    },
-    {
-      "added_at": "2024-03-18 22:33:18",
-      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 299000,
       "name": "Tribulations",
       "url": "https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm"
+    },
+    {
+      "added_at": "2024-03-18 22:33:18",
+      "album": {
+        "name": "St. Jude",
+        "url": "https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4"
+      },
+      "artists": [
+        {
+          "name": "Courteeners",
+          "url": "https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Not Nineteen Forever",
+      "url": "https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu"
     },
     {
       "added_at": "2024-03-18 22:33:18",

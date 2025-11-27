@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,081,672 likes - 355 songs - 16 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,081,780 likes - 355 songs - 16 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 354 | [Levitate](https://open.spotify.com/track/7ouhO49AH3Tnbci1dp6Yvt) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Levitate](https://open.spotify.com/album/5qqv57msfY6G6m7v88a0Xx) | 2:47 |
 | 355 | [Placid](https://open.spotify.com/track/6HRbUx7V017PctkDJotRc4) | [Alvaro Siesta](https://open.spotify.com/artist/2TqnggQ9LjdAR1GBHhUcZ1) | [Placid](https://open.spotify.com/album/4Ps00yzpjrio09MlcaAdKu) | 2:50 |
 
-Snapshot ID: `AAAAAMkLqjwGMiBxJRgs+usq64Y7JLzP`
+Snapshot ID: `AAAAACCH/3TFIrRXWaSzG6iXwYylb4Hg`

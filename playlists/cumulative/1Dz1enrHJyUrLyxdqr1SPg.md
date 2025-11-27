@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-103 songs - 6 hr 2 min
+104 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Amor](https://open.spotify.com/track/1Mn7hZdap0N5ESelaN2iPr) | [Elisa Duwez](https://open.spotify.com/artist/5EAQWvhBAaT9VQTxCjSmIF) | [Amor](https://open.spotify.com/album/54AZRd8MI8X6zJmyIWdRq7) | 2:17 | 2025-03-06 |  |
 | [Aussie](https://open.spotify.com/track/1yjpVk2HISf8UvBq7r1q3r) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Aussie](https://open.spotify.com/album/6bhP9jHpZDXQMITfNeESZV) | 2:52 | 2025-10-29 | 2025-11-24 |
 | [Back To You](https://open.spotify.com/track/2bUyDbeoNmLDqN4Csq6Lef) | [J.H.M](https://open.spotify.com/artist/54YZ5anLIELQDNrxiEKfqE), [Eleanor Collides](https://open.spotify.com/artist/25BX6Xni6D9YdDmS4UhK34) | [Back To You](https://open.spotify.com/album/5PrKJaLZfN1YjLQNRXDSIb) | 2:51 | 2024-03-08 |  |
+| [Bad Mistake](https://open.spotify.com/track/7qCLGt5o3agKocYAjy5P4A) | [Kardang](https://open.spotify.com/artist/6fgcUT8lhFDwAJwbnAriiI) | [Bad Mistake](https://open.spotify.com/album/58XFhFrZTAdkozoWRvWvaU) | 4:05 | 2025-11-26 |  |
 | [Badali Badala](https://open.spotify.com/track/0ZNdALVJvUZ7ciSdY7yHIP) | [Sebastian McQueen](https://open.spotify.com/artist/35DV0SZfNbQyrILm1UYHzP) | [Badali Badala](https://open.spotify.com/album/4EEH4F18GeyyBvHkEjOAIP) | 5:03 | 2025-11-23 |  |
 | [Be You Be Free](https://open.spotify.com/track/5phf4Zxqk9FcionYenV6Yn) | [William Lovitt](https://open.spotify.com/artist/3pRnaBrTzlzx4y4jQMNmmM), [Joao Aranha](https://open.spotify.com/artist/0hG5GVevl4WdFRwYXGvU4Z) | [Be You Be Free](https://open.spotify.com/album/0JaHm1Xp4XLs0xuLNRqH4F) | 4:22 | 2025-10-06 |  |
 | [Because](https://open.spotify.com/track/280z9V1uF3p7BFlChRihFN) | [New Artist Spotlight](https://open.spotify.com/artist/1Yk912s46hRDu0aEvLG8WO) | [Because](https://open.spotify.com/album/6e647ugjUW5ZaYtULL0z77) | 2:44 | 2023-10-12 |  |

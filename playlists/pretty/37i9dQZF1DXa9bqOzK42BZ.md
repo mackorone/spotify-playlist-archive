@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Celebrating the life of Betty Bayo\. Cover: <a href="https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T?si=g84hmsQfS9yDgNMKIFMemw">Betty Bayo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,984 likes - 100 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,032 likes - 100 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

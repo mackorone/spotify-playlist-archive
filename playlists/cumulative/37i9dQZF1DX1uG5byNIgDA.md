@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-463 songs - 1 day 1 hr 7 min
+464 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Only one for me](https://open.spotify.com/track/4vxK5XbTTDNNKYbPDmZZC3) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [THIS IS US](https://open.spotify.com/album/1JpC31overHSqPenjJieXv) | 3:46 | 2021-12-28 | 2022-07-24 |
 | [Ordinary Love \(feat\. Park Boram\)](https://open.spotify.com/track/5oqt4pBXTrU02N2mELJXKz) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [NOTEBOOK](https://open.spotify.com/album/4sS87zxm6eRhAnGzVTs9ec) | 3:52 | 2022-04-04 | 2022-07-19 |
 | [Our Youth](https://open.spotify.com/track/7onumtzvbavER8LKiQmSgJ) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [rainbow promises](https://open.spotify.com/album/2KzWZsSRf6lmGvFknNwQeb) | 2:54 | 2022-01-24 | 2022-07-17 |
+| [OVERDRIVE](https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 4th Mini Album 'play hard'](https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U) | 2:40 | 2025-10-21 |  |
 | [Paradise](https://open.spotify.com/track/4dY8EDpzU1RavTcPBzZMiL) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Paradise](https://open.spotify.com/album/08jlxAcP0OVDtYKscnWtUo) | 2:30 | 2022-08-15 | 2022-08-25 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2024-03-27 |  |
 | [Perhaps Love](https://open.spotify.com/track/7Mfb2IwRNP8Qi7Ojtpmi37) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Your BGM Vol.1](https://open.spotify.com/album/7buYKdXbAntzuYkJj2oY2G) | 3:59 | 2021-12-06 | 2022-07-29 |
@@ -314,7 +315,7 @@
 | [Refill](https://open.spotify.com/track/1lRf8AbwuBMw5A4ldpAUrC) | [ONDO](https://open.spotify.com/artist/7A4ucyrxvhQm5xeiIbcBVU) | [Refill](https://open.spotify.com/album/5W0suvSAYYYd3jNOddG2Ge) | 3:16 | 2022-01-11 | 2022-04-17 |
 | [Right Time and Right Place](https://open.spotify.com/track/3nYIZUYzPEgyGNjhQZvlx9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Chocolate,Pt.10\(Original Television Soundtrack\)](https://open.spotify.com/album/0YYLtuin5Xf0MB1vXHNtpD) | 3:53 | 2022-03-23 | 2022-04-08 |
 | [Ripple](https://open.spotify.com/track/0yzzhnKn2lPNGa8wHcSGBh) | [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn) | [Ripple](https://open.spotify.com/album/2q5CBr8tkOI8apGtbuOoYQ) | 3:22 | 2022-03-23 | 2022-04-19 |
-| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-06 |  |
+| [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-06 | 2025-11-27 |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-08-24 | 2024-06-22 |
 | [ROMANTIC](https://open.spotify.com/track/0DHJoiV3DzS0H1jJwYcVEs) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [ROMANTIC](https://open.spotify.com/album/5ou1kwCXMcinVtgBBQARrC) | 5:55 | 2022-03-23 | 2022-04-11 |
 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 | 2021-12-06 | 2024-02-01 |

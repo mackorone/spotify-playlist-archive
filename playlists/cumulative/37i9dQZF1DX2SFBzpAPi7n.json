@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: TOUCHED(\ud130\uce58\ub4dc)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: YongYong & Jayci yucca) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 185500,
       "name": "Clich\u00e9",
       "url": "https://open.spotify.com/track/4ozNmVoyTVIiXQBjN2xDVC"
@@ -3656,6 +3656,24 @@
       "duration_ms": 224784,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
+    },
+    {
+      "album": {
+        "name": "Delphinium",
+        "url": "https://open.spotify.com/album/2kFzT61GpDF05G6TflIQOW"
+      },
+      "artists": [
+        {
+          "name": "Kim Ahyun",
+          "url": "https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230265,
+      "name": "Delphinium",
+      "url": "https://open.spotify.com/track/2gIsvJiWoNaPQB8wOYfheq"
     },
     {
       "album": {
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 191428,
       "name": "Girls",
       "url": "https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX"
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 200000,
       "name": "GOD BLESS",
       "url": "https://open.spotify.com/track/1msOivcqpKi9JmmE4cYUIr"
@@ -7603,6 +7621,28 @@
     },
     {
       "album": {
+        "name": "i feel love",
+        "url": "https://open.spotify.com/album/0D2vmiOyC7BprkMwPz6ZDm"
+      },
+      "artists": [
+        {
+          "name": "YongYong",
+          "url": "https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK"
+        },
+        {
+          "name": "Jayci yucca",
+          "url": "https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "i feel love (feat. Jayci yucca)",
+      "url": "https://open.spotify.com/track/1gfSH49Vpbo76DrDX2zBQy"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/7r62nzSWNE1csFdkbeutfz"
       },
@@ -8660,7 +8700,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 254749,
       "name": "Joker\u2019s Party",
       "url": "https://open.spotify.com/track/1JvdeRZhv8AJHBEsVaHnWx"
@@ -8700,7 +8740,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 182000,
       "name": "Just 1 year (Feat. 10CM)",
       "url": "https://open.spotify.com/track/2jh4TUtbiQwP7wJVDbgf3b"
@@ -14240,7 +14280,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-07",
+      "date_removed": null,
       "duration_ms": 220094,
       "name": "Save me",
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
@@ -15684,7 +15724,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-12",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
@@ -19410,7 +19450,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-07",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"

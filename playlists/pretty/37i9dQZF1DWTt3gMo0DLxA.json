@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Peddi",
-  "num_followers": 483956,
+  "num_followers": 484577,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANq0w+1ALLiMOasuwYJNdnPkmCb/",
+  "snapshot_id": "AAAAAIVpR6mH9jpeKjRQtBBLhJH9wBzz",
   "tracks": [
     {
       "added_at": "2025-11-11 06:12:33",
@@ -124,7 +124,7 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "bebhumika",
+          "name": "Bhumi",
           "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
         },
         {
@@ -285,30 +285,6 @@
       "url": "https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY"
     },
     {
-      "added_at": "2025-11-03 09:53:29",
-      "album": {
-        "name": "Gujjari Gujjari",
-        "url": "https://open.spotify.com/album/4LP4EasH1Mvihh2XQ0ZTAn"
-      },
-      "artists": [
-        {
-          "name": "Singer Prabha",
-          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
-        },
-        {
-          "name": "Naveen Ja",
-          "url": "https://open.spotify.com/artist/3mYh9viWxcMMFV9x5dK79z"
-        },
-        {
-          "name": "Singer Swamy",
-          "url": "https://open.spotify.com/artist/78YfCRMbfSi9SGByNZNmNM"
-        }
-      ],
-      "duration_ms": 256400,
-      "name": "Gujjari Gujjari",
-      "url": "https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE"
-    },
-    {
       "added_at": "2025-05-09 09:56:17",
       "album": {
         "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
@@ -355,6 +331,22 @@
       "duration_ms": 310123,
       "name": "Star Star",
       "url": "https://open.spotify.com/track/4Tv5dT7vbc4fRjKGLxJOHY"
+    },
+    {
+      "added_at": "2025-11-26 07:23:38",
+      "album": {
+        "name": "Amrutham Title Song",
+        "url": "https://open.spotify.com/album/1F5eLcXZ3N8hFpnSJ83zBW"
+      },
+      "artists": [
+        {
+          "name": "Kalyani Malik",
+          "url": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
+        }
+      ],
+      "duration_ms": 183718,
+      "name": "Amrutham Title Song",
+      "url": "https://open.spotify.com/track/1TTOCPTs7tQTkbjtnPOGoO"
     },
     {
       "added_at": "2025-11-20 09:32:51",

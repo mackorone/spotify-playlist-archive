@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3262,
+  "num_followers": 3264,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAAAyHT7SUhvz6U8kWRbyjX0A",
+  "snapshot_id": "aSTxgAAAAAD/8DFNgZqp1RonoMWFK8pH",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+        "name": "The Mighty Nein: Episodes 1 - 3 (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3x5xAiLjcUrWHN7cSWoqS5"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
         }
       ],
-      "duration_ms": 181089,
-      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
+      "duration_ms": 69293,
+      "name": "Toya, The Vivid Voice",
+      "url": "https://open.spotify.com/track/1Sm1gGuvZZDQnL3VfbRMLk"
     },
     {
       "added_at": null,
@@ -263,22 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mighty Nein: Episodes 1 - 3 (Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3x5xAiLjcUrWHN7cSWoqS5"
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
       "artists": [
         {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         },
         {
-          "name": "Habib",
-          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 69293,
-      "name": "Toya, The Vivid Voice",
-      "url": "https://open.spotify.com/track/1Sm1gGuvZZDQnL3VfbRMLk"
+      "duration_ms": 181089,
+      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
     },
     {
       "added_at": null,
@@ -463,26 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
       "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
         }
       ],
-      "duration_ms": 147952,
-      "name": "Glorious - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
+      "duration_ms": 175612,
+      "name": "Good Morning, Beautiful You",
+      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
     },
     {
       "added_at": null,
@@ -507,6 +503,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glorious (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "duration_ms": 147952,
+      "name": "Glorious - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hailey's On It! (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 167590,
       "name": "Born for This",
       "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "Good Morning, Beautiful You",
-      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
     },
     {
       "added_at": null,
@@ -559,6 +559,34 @@
       "duration_ms": 120960,
       "name": "Mama Who Bore Me - Rise Cast Version",
       "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Utkarsh Ambudkar",
+          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
+        },
+        {
+          "name": "Dul\u00e9 Hill",
+          "url": "https://open.spotify.com/artist/4iLOFMymd0SD6ToHoSlZFo"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 181644,
+      "name": "The Perfect Me (Finale)",
+      "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
     },
     {
       "added_at": null,
@@ -603,30 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Utkarsh Ambudkar",
-          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 148557,
-      "name": "Rhino Proof",
-      "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Word Of Your Body (Rise Cast Version)",
         "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
@@ -647,6 +651,30 @@
       "duration_ms": 174226,
       "name": "The Word Of Your Body - Rise Cast Version",
       "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Utkarsh Ambudkar",
+          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 148557,
+      "name": "Rhino Proof",
+      "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
     },
     {
       "added_at": null,
@@ -695,34 +723,6 @@
       "duration_ms": 88284,
       "name": "You Fit Me Perfectly",
       "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Utkarsh Ambudkar",
-          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
-        },
-        {
-          "name": "Dul\u00e9 Hill",
-          "url": "https://open.spotify.com/artist/4iLOFMymd0SD6ToHoSlZFo"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 181644,
-      "name": "The Perfect Me (Finale)",
-      "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
     },
     {
       "added_at": null,

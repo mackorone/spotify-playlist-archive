@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 933678,
+  "num_followers": 933840,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Selected Scenes from the End of the World",
-        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
-      },
-      "artists": [
-        {
-          "name": "London After Midnight",
-          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
-        }
-      ],
-      "duration_ms": 455853,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Head On The Door",
         "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 256320,
       "name": "A Night Like This",
       "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Selected Scenes from the End of the World",
+        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
+      },
+      "artists": [
+        {
+          "name": "London After Midnight",
+          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
+        }
+      ],
+      "duration_ms": 455853,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Narin Yaln\u0131zl\u0131k",
-        "url": "https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB"
-      },
-      "artists": [
-        {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Asimilasyon",
-      "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Isn\u2019t Anything",
         "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218000,
       "name": "Lose My Breath",
       "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Narin Yaln\u0131zl\u0131k",
+        "url": "https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB"
+      },
+      "artists": [
+        {
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Asimilasyon",
+      "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
     },
     {
       "added_at": "2024-10-24 20:53:30",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Cosm\u00f3dromo",
+        "url": "https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC"
+      },
+      "artists": [
+        {
+          "name": "Equinoxious",
+          "url": "https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ"
+        }
+      ],
+      "duration_ms": 285257,
+      "name": "Astr\u00f3nomo Insumiso",
+      "url": "https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "In Flickers",
         "url": "https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 297330,
       "name": "A Failure",
       "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Za Bakdaz: The Unfinished Opera",
-        "url": "https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5"
-      },
-      "artists": [
-        {
-          "name": "Klaus Nomi",
-          "url": "https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "Valentine's Day",
-      "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
     }
   ],
   "unique_name": "Dark & Gothic",

@@ -1,15 +1,175 @@
 {
-  "description": "Music from and inspired by Stranger Things. Watch Season 4 now on Netflix.",
-  "num_followers": 2249286,
+  "description": "Your music taste matches the character on the playlist cover. Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.",
+  "num_followers": 2284479,
   "original_name": "Stranger Things Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPoXbvmkNKGMCuKpfwXNv++wRu+4",
+  "snapshot_id": "AAAAAGzsO8mUibr2Lr2ZoxVMPXfKotPY",
   "tracks": [
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 154840,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Pretty In Pink",
+        "url": "https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "Pretty In Pink",
+      "url": "https://open.spotify.com/track/6dMTErrChMf9jUmANoeBSd"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fernando",
+      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "They're Riding High Says Archie: Golden Classics",
+        "url": "https://open.spotify.com/album/1IJyG3D3WGJwDFpQVV5YbZ"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "Mr. Sandman",
+      "url": "https://open.spotify.com/track/0q4n6bEZBccuEBusNQaAXU"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Best Big Band Era - 1946",
+        "url": "https://open.spotify.com/album/4EHmAXVL0jNTOGbq7WbKOg"
+      },
+      "artists": [
+        {
+          "name": "Freddy Martin & His Orchestra",
+          "url": "https://open.spotify.com/artist/0Y4Uq2iVYJpOfvERQ1siqO"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "To Each His Own",
+      "url": "https://open.spotify.com/track/3NzLJb864GHEl60PT29N4M"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/2X923YDUN9MTWJ1vS4atnB"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "duration_ms": 186810,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/44IX8SM0fEWApOGlhUGAFc"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
+      "album": {
+        "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
+        "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T"
+        }
+      ],
+      "duration_ms": 144493,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
+    },
+    {
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Who Wants To Live Forever (Stranger Things Remix)",
         "url": "https://open.spotify.com/album/0twNBk33toCSvUBJdutVAE"
@@ -25,7 +185,7 @@
       "url": "https://open.spotify.com/track/5QKWBo5Npc0W9zhy8rRIBq"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -41,7 +201,7 @@
       "url": "https://open.spotify.com/track/6VfKhnmbqCj14zcjZNjZTk"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -57,7 +217,7 @@
       "url": "https://open.spotify.com/track/799XxzSlWNYkuWJxUbuGnF"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
         "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
@@ -77,7 +237,7 @@
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -93,7 +253,7 @@
       "url": "https://open.spotify.com/track/04xLqOwtmMjz74y9bM677s"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -109,7 +269,7 @@
       "url": "https://open.spotify.com/track/5uG1n1fvJVJEJuHwHgW1yQ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -125,7 +285,7 @@
       "url": "https://open.spotify.com/track/30RE5j3UpEhYUBMTOAhjXv"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -141,7 +301,7 @@
       "url": "https://open.spotify.com/track/0AGn0rftzma9ZB0qSuhSbB"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -157,7 +317,7 @@
       "url": "https://open.spotify.com/track/17bWfTHFHFombOWCWjuz9J"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -173,7 +333,7 @@
       "url": "https://open.spotify.com/track/5CEPvqyRi6eTpR1njYlG3O"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -189,7 +349,7 @@
       "url": "https://open.spotify.com/track/43StRaT5CenByVyJWFdGp3"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -205,7 +365,7 @@
       "url": "https://open.spotify.com/track/0Z5J7G9K6yeNUBiTJZ033b"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -221,7 +381,7 @@
       "url": "https://open.spotify.com/track/5yTGv2Mu2O2APZAjMjTRXr"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -237,7 +397,7 @@
       "url": "https://open.spotify.com/track/7EeACxTQ2CxM8bLu7canMw"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -253,7 +413,7 @@
       "url": "https://open.spotify.com/track/0CxCB2wrEiTOrjES0GmSdP"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -269,7 +429,7 @@
       "url": "https://open.spotify.com/track/0ud4DLDefQPNjvVEydOJhJ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq"
@@ -285,7 +445,7 @@
       "url": "https://open.spotify.com/track/2FIzb9lZDUo2PWX4U4TSWZ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -305,7 +465,7 @@
       "url": "https://open.spotify.com/track/6eGK8HAVyKYUaTZgGnuku1"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -321,7 +481,7 @@
       "url": "https://open.spotify.com/track/4s063dTrg9T3nSvgddqBHX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -337,7 +497,7 @@
       "url": "https://open.spotify.com/track/4a08JFMdOAeLMFz9ov82E4"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -353,7 +513,7 @@
       "url": "https://open.spotify.com/track/193bm1RUDDOF0cnLJHJ93V"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -369,7 +529,7 @@
       "url": "https://open.spotify.com/track/2RhBtpsSB5QwzGu0fVZ4PA"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Series, Season 4",
         "url": "https://open.spotify.com/album/3Tij2oa4FJWd7Gk0pJaf0w"
@@ -389,7 +549,7 @@
       "url": "https://open.spotify.com/track/4QQL5qNwVZ1FctLoVqN9rn"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 4 (Original Score From The Netflix Series)",
         "url": "https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp"
@@ -405,7 +565,7 @@
       "url": "https://open.spotify.com/track/7xMIdaVtT9ElM0IOgmbRVZ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 4 (Original Score From The Netflix Series)",
         "url": "https://open.spotify.com/album/5qRG8S2ClNtl71wEf2TKPp"
@@ -421,7 +581,7 @@
       "url": "https://open.spotify.com/track/3ukoPvhHj5GWDIiDApO3UD"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "On The Other Side Of Dub (Deluxe Version)",
         "url": "https://open.spotify.com/album/7JpAENwKVKiDiZrAvnFWis"
@@ -437,7 +597,7 @@
       "url": "https://open.spotify.com/track/2nHoCN8OT5UWrWjGdBLX0F"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The CCCP Years",
         "url": "https://open.spotify.com/album/0VxATEaN6KiKbszFYcrPyB"
@@ -453,7 +613,7 @@
       "url": "https://open.spotify.com/track/42oCqSWKMxVnBZlJqm5YZU"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
@@ -469,7 +629,7 @@
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Free Beer\u00ae - Best",
         "url": "https://open.spotify.com/album/2yATWjO3BytnvQ1Xd0hzhL"
@@ -485,7 +645,7 @@
       "url": "https://open.spotify.com/track/0hePnybCyyhHn97nRWLgp5"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Chocolate Soup for Diabetics, Vol. 1",
         "url": "https://open.spotify.com/album/4H3Y4L9NS0OTKHFGI5cNnc"
@@ -501,7 +661,7 @@
       "url": "https://open.spotify.com/track/1V3CJZwyzkDw0QBZY8C0ns"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Surf Drums",
         "url": "https://open.spotify.com/album/0pmft5pJtKhZaJxE1Bg9mp"
@@ -517,7 +677,7 @@
       "url": "https://open.spotify.com/track/1SzKu64YLIUqbIVDHyDWOx"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
@@ -533,7 +693,7 @@
       "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
@@ -549,7 +709,7 @@
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "In Transit to Bermuda",
         "url": "https://open.spotify.com/album/3mxDsZ0mT8filFQoadnkRQ"
@@ -565,7 +725,7 @@
       "url": "https://open.spotify.com/track/21NipBIcS2PhxHwBPauGCw"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Sentinels",
         "url": "https://open.spotify.com/album/32ywMGWzAyULcYnvYkfmkC"
@@ -581,7 +741,7 @@
       "url": "https://open.spotify.com/track/3E4XQO8bKIToXTejc8LFGb"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Night Air",
         "url": "https://open.spotify.com/album/4WSzQR3Z2ulVnaEsCEG6YU"
@@ -597,7 +757,7 @@
       "url": "https://open.spotify.com/track/5PD49jBpJNs9lGk9Bn9zll"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Off The Bone",
         "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
@@ -613,7 +773,7 @@
       "url": "https://open.spotify.com/track/7w8MExakpbdxhVLos6ccRu"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Diamonds and Emeralds",
         "url": "https://open.spotify.com/album/49D3DbM8VSb3XX9jjnbBrS"
@@ -629,7 +789,7 @@
       "url": "https://open.spotify.com/track/6bCfV7wKPLwm5tUyPaqw3M"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "\"Burning Up\" b/w \"A Taste of Honey\"",
         "url": "https://open.spotify.com/album/0ajbhthTqbrjGkV7mvY6JN"
@@ -645,7 +805,7 @@
       "url": "https://open.spotify.com/track/0kbzNl8QIYZ6aoZ7zcpNCY"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Hipbone Slim vs Sir Bald",
         "url": "https://open.spotify.com/album/5PwsJwBt8rfDKA8qEbAlYp"
@@ -661,7 +821,7 @@
       "url": "https://open.spotify.com/track/2sD2NNgnmxfKeyjNsgavMu"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Cecilia Bartoli - Arie Antiche: Se tu m'ami",
         "url": "https://open.spotify.com/album/6K4I2VmJYqTjMbiC0fxqGZ"
@@ -685,7 +845,7 @@
       "url": "https://open.spotify.com/track/7dOMjJNfEyfgCoFDILc6ar"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Tchaikovsky / Korngold: Violin Concertos",
         "url": "https://open.spotify.com/album/7ElG4lGHDAAgYjvzL9gxFL"
@@ -713,7 +873,7 @@
       "url": "https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Tchaikovsky: The Snow Maiden",
         "url": "https://open.spotify.com/album/31kmoS7Ju3ONDFnEBmA0b0"
@@ -745,7 +905,7 @@
       "url": "https://open.spotify.com/track/0uVsdyIZylmtsSojRtEQaM"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "RR7349",
         "url": "https://open.spotify.com/album/5ZfCxFwJOctlZ9Pgk4wtPX"
@@ -761,7 +921,7 @@
       "url": "https://open.spotify.com/track/4YqW45YDDHXuCYY0ygGR79"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Koyaanisqatsi",
         "url": "https://open.spotify.com/album/0I5Te5Oi0Cbes6nwEe4uFV"
@@ -777,7 +937,7 @@
       "url": "https://open.spotify.com/track/1QGQ7wB1KZfpbbWNFCaVGm"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Philip Glass: Akhnaten (Live from the Met)",
         "url": "https://open.spotify.com/album/3DQSUahmQDqMloV9bqOj9u"
@@ -817,7 +977,7 @@
       "url": "https://open.spotify.com/track/3P51cgwQuHYxqQsuVKhA2L"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Philip Glass: Akhnaten (Live from the Met)",
         "url": "https://open.spotify.com/album/3DQSUahmQDqMloV9bqOj9u"
@@ -857,7 +1017,7 @@
       "url": "https://open.spotify.com/track/3qtQXhSa5525RZEU3vcJ7c"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -873,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2EaZJ3QueEizd22LdKnQxG"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -889,7 +1049,7 @@
       "url": "https://open.spotify.com/track/5yZikvkGachhUY6CCqlNVe"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Kpm 1000 Series - Volume 1",
         "url": "https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H"
@@ -905,7 +1065,7 @@
       "url": "https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Good Old U.S.A. Wurlitzer Carousel Music, Vol. 1",
         "url": "https://open.spotify.com/album/4Andu4zH8RxPWunlvcoQcx"
@@ -921,7 +1081,7 @@
       "url": "https://open.spotify.com/track/4vBHhNFt8PwtfrMohnSphq"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Sixties",
         "url": "https://open.spotify.com/album/4yzoa9DAyLsMXnlfzHZMO7"
@@ -937,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4a5zLY9nQrQRe6rerly7tX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Open the Door",
         "url": "https://open.spotify.com/album/5DXzjQDfJzv3gQnnNSgtQh"
@@ -953,7 +1113,7 @@
       "url": "https://open.spotify.com/track/6d6JJ0RACDrhoB0au4ZKK7"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Killer Klowns From Outer Space: Reimagined (Music From The Film)",
         "url": "https://open.spotify.com/album/37jmXMSO79f9oc8KmVi0q2"
@@ -969,7 +1129,7 @@
       "url": "https://open.spotify.com/track/3iBI3CVm3BRqQHjE316txP"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Killer Klowns From Outer Space: Reimagined (Music From The Film)",
         "url": "https://open.spotify.com/album/37jmXMSO79f9oc8KmVi0q2"
@@ -985,7 +1145,7 @@
       "url": "https://open.spotify.com/track/2uKFbsaVrC7XYOB1ZrOZVJ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Brian Setzer Collection 1981-1988 (Remastered)",
         "url": "https://open.spotify.com/album/5yeIWI4LK4TzTHvFM00Zii"
@@ -1001,7 +1161,7 @@
       "url": "https://open.spotify.com/track/4jRWsQp0nJZsQ9EbjEO82g"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1017,7 +1177,7 @@
       "url": "https://open.spotify.com/track/01BmQnWTLdDojdO5eZU6nm"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Diner Jukebox",
         "url": "https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je"
@@ -1037,7 +1197,7 @@
       "url": "https://open.spotify.com/track/6nBU4Q9v8NWPsVYNQqgDIc"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Diner Jukebox",
         "url": "https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je"
@@ -1057,7 +1217,7 @@
       "url": "https://open.spotify.com/track/33cxO72qJX3c2bPDYbgkHL"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1073,7 +1233,7 @@
       "url": "https://open.spotify.com/track/1GbqmRw9pqTVxA1GgIFX7e"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Kpm 1000 Series: Folk Songs",
         "url": "https://open.spotify.com/album/6g44vBe0pM0CMxC2cU9D4y"
@@ -1093,7 +1253,7 @@
       "url": "https://open.spotify.com/track/54P5hkIOfMjd3tSCSmmQHd"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Kpm 1000 Series: Comedy Classics 1",
         "url": "https://open.spotify.com/album/3g68Sa1OUnSxqUA9fQO7Rm"
@@ -1109,7 +1269,7 @@
       "url": "https://open.spotify.com/track/7bMIITduVsyvwtuZLo8ifY"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1125,7 +1285,7 @@
       "url": "https://open.spotify.com/track/1TM5wcr176XXvS10VCOqvP"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Feels Like The First Time",
         "url": "https://open.spotify.com/album/1BD9WvduFaoUHDUUGAr9Yt"
@@ -1141,7 +1301,7 @@
       "url": "https://open.spotify.com/track/1mGeOLc6quenMZHF1ZDVvP"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "B-side",
         "url": "https://open.spotify.com/album/7dtTKyIndETZViyWdBQQRR"
@@ -1157,7 +1317,7 @@
       "url": "https://open.spotify.com/track/2rVsrqkjAdxGNXCyhBqUYR"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1173,7 +1333,7 @@
       "url": "https://open.spotify.com/track/45tHS9JkfVPnrK2kfQEX2r"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Broadcast",
         "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
@@ -1189,7 +1349,7 @@
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1205,7 +1365,7 @@
       "url": "https://open.spotify.com/track/5uTQMYC3iw13RBN0a1bNSL"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1221,7 +1381,7 @@
       "url": "https://open.spotify.com/track/4mfLt3g1xUCQx44jzImphW"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1237,7 +1397,7 @@
       "url": "https://open.spotify.com/track/5iq0Tela3gm73ZW72XZ5dm"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T"
@@ -1253,7 +1413,7 @@
       "url": "https://open.spotify.com/track/0Z97JEXHiXXHpc4blFKQc6"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp"
@@ -1269,7 +1429,7 @@
       "url": "https://open.spotify.com/track/5u165RYdVYhMtPc8ukhaoY"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "In Character",
         "url": "https://open.spotify.com/album/1bKQrqQnMFyO4ybU3i1t2U"
@@ -1285,7 +1445,7 @@
       "url": "https://open.spotify.com/track/5kdKeBozyX8PRvhAUaUrWV"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Well Known Tunes of England, Ireland, America & More",
         "url": "https://open.spotify.com/album/6QQu6K3MCLDPk8iqPO95ly"
@@ -1301,7 +1461,7 @@
       "url": "https://open.spotify.com/track/26372a3uGIJN6F8A5mupfs"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Coulda... Shoulda... Woulda (The Black Market Baby Collection)",
         "url": "https://open.spotify.com/album/4j1UB6mtgsCYdoz2jcxAqe"
@@ -1317,7 +1477,7 @@
       "url": "https://open.spotify.com/track/5ZZGzKa8TTRiE6tyal0AjX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Music Featured in \"The Catcher Was a Spy\"",
         "url": "https://open.spotify.com/album/7s9M6tb7yDJNEis3UbHAnl"
@@ -1333,7 +1493,7 @@
       "url": "https://open.spotify.com/track/1uWss2nb6rJJruwejEkDAz"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Diner Jukebox",
         "url": "https://open.spotify.com/album/2Wb6hbl4BRoPC2iqfEq8je"
@@ -1353,7 +1513,7 @@
       "url": "https://open.spotify.com/track/7zD01Fccmnldl5plg5B164"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1369,7 +1529,7 @@
       "url": "https://open.spotify.com/track/5aUTSJltF24eevgzM2j7gE"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1385,7 +1545,7 @@
       "url": "https://open.spotify.com/track/2PMcv8wvhIrAGBCFSsiP4w"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Folk Music of England",
         "url": "https://open.spotify.com/album/6xjz9nitclqA0XjQpUyDeH"
@@ -1401,7 +1561,7 @@
       "url": "https://open.spotify.com/track/2hSTrsKXvbZoYbH3GJe7rk"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1417,7 +1577,7 @@
       "url": "https://open.spotify.com/track/1ai4tCk7VbSvrWM0RAyhi2"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "LPO plays the Classical Period Favourites",
         "url": "https://open.spotify.com/album/30Yze61TvAWWvozsu75JUV"
@@ -1441,7 +1601,7 @@
       "url": "https://open.spotify.com/track/3GznTMVzClseKCkN6rUExx"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Pavarotti (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/1rfBOY8Mm8WCgaIRouJgw6"
@@ -1477,7 +1637,7 @@
       "url": "https://open.spotify.com/track/06xXOoiTp2xi8iUh3wKj2Y"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1493,7 +1653,7 @@
       "url": "https://open.spotify.com/track/28ePWFvFNHrkAJh6Sl01dg"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
@@ -1509,7 +1669,7 @@
       "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Life By Night",
         "url": "https://open.spotify.com/album/02nJuwBiWA8a5y2N3laF8I"
@@ -1525,7 +1685,7 @@
       "url": "https://open.spotify.com/track/6pPKgQdyvfkjG9qKFTXaAO"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1541,7 +1701,7 @@
       "url": "https://open.spotify.com/track/3tz1dRufejUa1z5WDz9RJb"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1557,7 +1717,7 @@
       "url": "https://open.spotify.com/track/7EZ3gDixP52LTIZeJPlULI"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Dark Crystal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5JDp6rBPIUrCFNZGn1fbRQ"
@@ -1573,7 +1733,7 @@
       "url": "https://open.spotify.com/track/41piE4ViB6ETPQAk8CCYGP"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Foreign Fields: 1982 - 1984",
         "url": "https://open.spotify.com/album/4Vxjq8e1RoPoNluj1PhEvt"
@@ -1589,7 +1749,7 @@
       "url": "https://open.spotify.com/track/3A5CIQdQHExhSPHnYaQKvx"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1605,7 +1765,7 @@
       "url": "https://open.spotify.com/track/5iLW1l1IdPV1omFPR3C8zG"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1621,7 +1781,7 @@
       "url": "https://open.spotify.com/track/1Lm5JXlRt90S8dzk1ZqzmA"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1637,7 +1797,7 @@
       "url": "https://open.spotify.com/track/0AmHen3jIJEUburl5bLkPR"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Very Best of Brian Page",
         "url": "https://open.spotify.com/album/3FLC1iqQodpfZm7MGbDoTZ"
@@ -1653,7 +1813,7 @@
       "url": "https://open.spotify.com/track/1erWAgZvzmPB75mPJbUMFM"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1669,7 +1829,7 @@
       "url": "https://open.spotify.com/track/6lXjIRVsn4anV7sBhLBoiX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Sixties, Volume 1",
         "url": "https://open.spotify.com/album/1aWmO7RL4EfHaUm69kmWx2"
@@ -1685,7 +1845,7 @@
       "url": "https://open.spotify.com/track/6iCYe4DASrT64Pk4VFooeU"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Best Of Don McLean",
         "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
@@ -1701,7 +1861,7 @@
       "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1717,7 +1877,7 @@
       "url": "https://open.spotify.com/track/6e2VUiBEpkfxPkNVrNxJIR"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1733,7 +1893,7 @@
       "url": "https://open.spotify.com/track/2O55fdEmHWLJe2w2eGKwX4"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1749,7 +1909,7 @@
       "url": "https://open.spotify.com/track/2Joj5KWiLxlHu35dvBpol2"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Kpm 1000 Series: Traditional Folk Music of Great Britain and France",
         "url": "https://open.spotify.com/album/5eqYt125fQEO5ePSKUvRiQ"
@@ -1765,7 +1925,7 @@
       "url": "https://open.spotify.com/track/6tbfEtqhGbGGRLCism9n1L"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1781,7 +1941,7 @@
       "url": "https://open.spotify.com/track/7qkkd1COeUTxyUjtqTYVQr"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1797,7 +1957,7 @@
       "url": "https://open.spotify.com/track/64sd7wZyH8X2JmjzJfD1v8"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1813,7 +1973,7 @@
       "url": "https://open.spotify.com/track/08j7EnYlOsO8tNnDAJuLUc"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1829,7 +1989,7 @@
       "url": "https://open.spotify.com/track/1pCXHVpLYsI43foeqhi88x"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -1845,7 +2005,7 @@
       "url": "https://open.spotify.com/track/1mPDy9ZXL0QvARgyACMFxS"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1861,7 +2021,7 @@
       "url": "https://open.spotify.com/track/1mXodH7QcmZuU2D9IuAlkx"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Keep It Up",
         "url": "https://open.spotify.com/album/5n81anOT1X7UnSHtq4PL2i"
@@ -1877,7 +2037,7 @@
       "url": "https://open.spotify.com/track/3YzmA5gwimciQ5AZyKSd4w"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Midnight Run",
         "url": "https://open.spotify.com/album/7aPehd0iXm8oiI8VvIipQ0"
@@ -1893,7 +2053,7 @@
       "url": "https://open.spotify.com/track/05lbekVWHDS9M6IGyFf3DJ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Golden Guitar Years",
         "url": "https://open.spotify.com/album/1yrrjgxtLP1HRjpW7xKxNq"
@@ -1909,7 +2069,7 @@
       "url": "https://open.spotify.com/track/7cPiktgYyO08Gwh66IDBlf"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Archives 6 - 1940s and 1950s",
         "url": "https://open.spotify.com/album/4DN7kCBbGdlstHWvPeYEST"
@@ -1925,7 +2085,7 @@
       "url": "https://open.spotify.com/track/79cQrs3nLQ7J3t5jJXSo2z"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1941,7 +2101,7 @@
       "url": "https://open.spotify.com/track/4zJMLsu4L2RqwW5rOlVxHb"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1957,7 +2117,7 @@
       "url": "https://open.spotify.com/track/1iC94VGBlci8FOyGyDwWIu"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1973,7 +2133,7 @@
       "url": "https://open.spotify.com/track/5jXFYJmBInrxbbO9cFvoew"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -1989,7 +2149,7 @@
       "url": "https://open.spotify.com/track/4P3FJMT2ZaF9nE36RJg514"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Carousel Organ Varieties, Vol. 1",
         "url": "https://open.spotify.com/album/2oWMIAfxYjz2dXDjOu0Mdn"
@@ -2005,7 +2165,7 @@
       "url": "https://open.spotify.com/track/4AIiYlvOXDO6AbEptCYjIs"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -2021,7 +2181,7 @@
       "url": "https://open.spotify.com/track/73XBEM0gcXc3lku1KwaLGS"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Day of the Dead (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lwhDBo8FfmRLyHI7iiKT5"
@@ -2037,7 +2197,7 @@
       "url": "https://open.spotify.com/track/2Gsn3TlOb7gThstMAv9qff"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Glass: Satyagraha",
         "url": "https://open.spotify.com/album/7pQ1vxq2x9ukcUnswdQRuQ"
@@ -2061,7 +2221,7 @@
       "url": "https://open.spotify.com/track/3pryCnejhwCIAJ5519ysPN"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2077,7 +2237,7 @@
       "url": "https://open.spotify.com/track/7yzD5mP5WcFq9U9EswFyBw"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2093,7 +2253,7 @@
       "url": "https://open.spotify.com/track/7H5z5uEyt29WklcDNL4Sr5"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2109,7 +2269,7 @@
       "url": "https://open.spotify.com/track/7HbQ3rqfob7h5tP4nyYtOw"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2125,7 +2285,7 @@
       "url": "https://open.spotify.com/track/3EsW4otT3842xdOosEAxHb"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2141,7 +2301,7 @@
       "url": "https://open.spotify.com/track/4wKcdpm3vqZ960UlufQj3k"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -2157,7 +2317,7 @@
       "url": "https://open.spotify.com/track/2VkQe8kCQtEp47WAStSTV8"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Svenska Messingkvartetten",
         "url": "https://open.spotify.com/album/55w1iPbVlkL62nFV102Nk9"
@@ -2177,7 +2337,7 @@
       "url": "https://open.spotify.com/track/6m0ixfbUMyp06AZlO0Ntu2"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Sousa Marches",
         "url": "https://open.spotify.com/album/5N7Wqm3tHp6cfYxzl2R26A"
@@ -2193,7 +2353,7 @@
       "url": "https://open.spotify.com/track/0xhJvxVsumiw3Y2lOyevj9"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Back To The Future (Original Motion Picture Soundtrack / Expanded Edition)",
         "url": "https://open.spotify.com/album/6uDKuNsTMJPxorz7YL860W"
@@ -2209,7 +2369,7 @@
       "url": "https://open.spotify.com/track/75B1hWLLLnMexXkO4PHrrq"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Back To The Future Part III: 25th Anniversary Edition (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6XUXN5uWCpSiybOplfUj0e"
@@ -2225,7 +2385,7 @@
       "url": "https://open.spotify.com/track/17uHMEllmYNV02hfAGQOJF"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "\"COME TO THE FAIR\" Old Time Wurlitzer Carousel Music",
         "url": "https://open.spotify.com/album/1wOejKvxw935MURiYqUKnZ"
@@ -2241,7 +2401,7 @@
       "url": "https://open.spotify.com/track/4TALhYPQAQLofYU2MksB52"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Sousa Marches",
         "url": "https://open.spotify.com/album/5N7Wqm3tHp6cfYxzl2R26A"
@@ -2257,7 +2417,7 @@
       "url": "https://open.spotify.com/track/6xe4zJ56xqcT5cG0NjbyeM"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Mechanical Instruments",
         "url": "https://open.spotify.com/album/6NbPrgay4Hn1j6DuMQde8E"
@@ -2273,7 +2433,7 @@
       "url": "https://open.spotify.com/track/2oSKgAjPHymEVTPAdBFUGn"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2289,7 +2449,7 @@
       "url": "https://open.spotify.com/track/4rGvCeSB0Sk3iNRGiDC0me"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2305,7 +2465,7 @@
       "url": "https://open.spotify.com/track/3CbiMpMzToJhNJWza98K22"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2321,7 +2481,7 @@
       "url": "https://open.spotify.com/track/5w3HYJEAOcQpIr4ZqkPy81"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2337,7 +2497,7 @@
       "url": "https://open.spotify.com/track/2xowT3VWuuf4ThSRbQDL5J"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2353,7 +2513,7 @@
       "url": "https://open.spotify.com/track/4CfxlFpty3kFzquuDnuKKM"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Good Old U.S.A. Wurlitzer Carousel Music, Vol. 1",
         "url": "https://open.spotify.com/album/4Andu4zH8RxPWunlvcoQcx"
@@ -2369,7 +2529,7 @@
       "url": "https://open.spotify.com/track/6ESYtjqLIhkuTwylmrsbrL"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "One Second (Remastered 2005)",
         "url": "https://open.spotify.com/album/0ogia7iMDXcLaKyYSu45S1"
@@ -2385,7 +2545,7 @@
       "url": "https://open.spotify.com/track/2qC1zbm7boDIro2ZeQME4d"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
@@ -2401,7 +2561,7 @@
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Selected Recordings of the Red Army Choir",
         "url": "https://open.spotify.com/album/0srcqXXGqamhi0EDqh8Rjk"
@@ -2417,7 +2577,7 @@
       "url": "https://open.spotify.com/track/354x27KIdoyF7oo06LjHwA"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things: Soundtrack from the Netflix Original Series, Season 3",
         "url": "https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP"
@@ -2437,7 +2597,7 @@
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Mnq026",
         "url": "https://open.spotify.com/album/0ckMi3UduuywcZassvOJhf"
@@ -2453,7 +2613,7 @@
       "url": "https://open.spotify.com/track/3FaZJiiJiJAtf7TtCVuAx6"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Spheres (Original Score)",
         "url": "https://open.spotify.com/album/0FxvjAQQvYouHmDAjF3PnR"
@@ -2469,7 +2629,7 @@
       "url": "https://open.spotify.com/track/1jHi7q6piCjlkMRMhr2N9G"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Early Warning",
         "url": "https://open.spotify.com/album/3otfSF83qivpgcDQIGjOdt"
@@ -2485,7 +2645,7 @@
       "url": "https://open.spotify.com/track/1Nn0Y61cnAfKbgbqjj4CU2"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2501,7 +2661,7 @@
       "url": "https://open.spotify.com/track/2Ei2bVyQr07EUW6tlj9CXf"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2517,7 +2677,7 @@
       "url": "https://open.spotify.com/track/4Q1L8qlrGqKOy8pAnP8bWR"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/1gS96GdBcmp3BGrdHQLGrp"
@@ -2533,7 +2693,7 @@
       "url": "https://open.spotify.com/track/7qt641kuazHzMIn4lbkns5"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2549,7 +2709,7 @@
       "url": "https://open.spotify.com/track/2Os83Fjr9ixsIRLMiaGCnj"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 3 (Original Score from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc"
@@ -2565,7 +2725,7 @@
       "url": "https://open.spotify.com/track/3bpYW0A1HU0kjXyptlFQC0"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2581,7 +2741,7 @@
       "url": "https://open.spotify.com/track/6SjbzGo7arjfM5cXpXhc5B"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2597,7 +2757,7 @@
       "url": "https://open.spotify.com/track/2FZzcWnzSyUvFbu7xNLepv"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2613,7 +2773,7 @@
       "url": "https://open.spotify.com/track/0f9Zt37k5AnTkrGIFqhkK6"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2629,7 +2789,7 @@
       "url": "https://open.spotify.com/track/0SNGe4xksgp7CGnY5kMXOJ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2645,7 +2805,7 @@
       "url": "https://open.spotify.com/track/1QLyDdhB9gmxbGv0K1kFyT"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
@@ -2661,7 +2821,7 @@
       "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -2677,7 +2837,7 @@
       "url": "https://open.spotify.com/track/2Gqr7CvXUj14vpHRguQxMT"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -2693,7 +2853,7 @@
       "url": "https://open.spotify.com/track/0kwuKfWntoGh0EWyYb7Mpf"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Duran Duran (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB"
@@ -2709,7 +2869,7 @@
       "url": "https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -2725,7 +2885,7 @@
       "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -2741,7 +2901,7 @@
       "url": "https://open.spotify.com/track/3BXNVi7Hy4j0aVXnMrRngz"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
@@ -2757,7 +2917,7 @@
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Scream",
         "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
@@ -2773,7 +2933,7 @@
       "url": "https://open.spotify.com/track/7azo4rpSUh8nXgtonC6Pkq"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2789,7 +2949,7 @@
       "url": "https://open.spotify.com/track/7k7i5YHJSLTbBSuwnWtSBn"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -2805,7 +2965,7 @@
       "url": "https://open.spotify.com/track/5AgzF3Ov3TFxeQ5JDkyQYC"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
@@ -2821,7 +2981,7 @@
       "url": "https://open.spotify.com/track/4vpeKl0vMGdAXpZiQB2Dtd"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -2837,7 +2997,7 @@
       "url": "https://open.spotify.com/track/1eBqRGp5vfJ42HxwUJFThD"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
@@ -2853,7 +3013,7 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -2869,7 +3029,7 @@
       "url": "https://open.spotify.com/track/1o7Vz3XeJQCyUDdeYBRjrA"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Seeds",
         "url": "https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N"
@@ -2885,7 +3045,7 @@
       "url": "https://open.spotify.com/track/6nnSkEpzo8PmHsOlSopoO6"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Morning Way",
         "url": "https://open.spotify.com/album/1wwod56wMvGvc8cmLEZGGo"
@@ -2901,7 +3061,7 @@
       "url": "https://open.spotify.com/track/4GBOWK3lV5zSVtcgEfTWFT"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
@@ -2917,7 +3077,7 @@
       "url": "https://open.spotify.com/track/7GeQk8PqG5NAENxCRLcw0B"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "A Collection of Pop Classics",
         "url": "https://open.spotify.com/album/1Ojre9LKo2kR0FMb6VVSe3"
@@ -2933,7 +3093,7 @@
       "url": "https://open.spotify.com/track/28CzlFHHxBf68YfOPqm8O2"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Essential Bangles",
         "url": "https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf"
@@ -2949,7 +3109,7 @@
       "url": "https://open.spotify.com/track/0P2vAvvWni2tNXOdbH3JFk"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Life in the Gladhouse Best Of... 1980-1984",
         "url": "https://open.spotify.com/album/7rtZ8XrxKDoIu17mYZRKim"
@@ -2965,7 +3125,7 @@
       "url": "https://open.spotify.com/track/0Cc1TGI0VBQDltJJ4a4dmj"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ"
@@ -2981,7 +3141,7 @@
       "url": "https://open.spotify.com/track/5UPnBgnylUCjtAPtAH4tJY"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -2997,7 +3157,7 @@
       "url": "https://open.spotify.com/track/1cVrshwNQpLB3lVSLzeZnL"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
@@ -3013,7 +3173,7 @@
       "url": "https://open.spotify.com/track/3MXfueQqoiF93unHCQZos2"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Ocean Rain",
         "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
@@ -3029,7 +3189,7 @@
       "url": "https://open.spotify.com/track/5V9FrOjiLqd9eyiny1s78a"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 2 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/5d1hWmBYkAkVAE9XG5njrz"
@@ -3045,7 +3205,7 @@
       "url": "https://open.spotify.com/track/0F8CFv2qff7CD0vzOvrUFB"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/5BDE3Z6clvwbPoWWwiSyGp"
@@ -3061,7 +3221,7 @@
       "url": "https://open.spotify.com/track/1QbQL5m30YNvukitIqAnFG"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -3077,7 +3237,7 @@
       "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Bargain Store",
         "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
@@ -3093,7 +3253,7 @@
       "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -3109,7 +3269,7 @@
       "url": "https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Greatest Hits: Brotherhood of Man",
         "url": "https://open.spotify.com/album/6uWZ1fY3ZU29OmJWxovhCR"
@@ -3125,7 +3285,7 @@
       "url": "https://open.spotify.com/track/3dTLZPQd43VkK4knj6D9FX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Wizard Of Is",
         "url": "https://open.spotify.com/album/5IgRl2HyYt1ZSaBbeRYwHA"
@@ -3141,7 +3301,7 @@
       "url": "https://open.spotify.com/track/0Z6CuPLVLe21ljBhkTwplC"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -3157,7 +3317,7 @@
       "url": "https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Greatest Hits, Vol. 1",
         "url": "https://open.spotify.com/album/7fDEvGP4Kgip4FhjBIYdAn"
@@ -3173,7 +3333,7 @@
       "url": "https://open.spotify.com/track/1Nw16im3KSKlWZpIwuXZAv"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -3189,7 +3349,7 @@
       "url": "https://open.spotify.com/track/2y6mt1xsA4527griyUQf6N"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Psychedelic Moods",
         "url": "https://open.spotify.com/album/02jcagVCZjTZDNX2Fn5jlG"
@@ -3205,7 +3365,7 @@
       "url": "https://open.spotify.com/track/6QgcE9coz9TFgXIH9CIQQH"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -3221,7 +3381,7 @@
       "url": "https://open.spotify.com/track/5GtRu59pV40hj2pdQHJpf1"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Green Desert",
         "url": "https://open.spotify.com/album/5pZctP7eWAO9ydYehBMi5G"
@@ -3237,7 +3397,7 @@
       "url": "https://open.spotify.com/track/4gyVqc6qrbg9hcPrltI4SX"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -3253,7 +3413,7 @@
       "url": "https://open.spotify.com/track/1nQORSB0lWK68UylpwOoyQ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Everything Is Wrong",
         "url": "https://open.spotify.com/album/3XsGQHbPWblti128V5C3QR"
@@ -3273,7 +3433,7 @@
       "url": "https://open.spotify.com/track/6sOx5jDVKkQCQp3NfCTd52"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
@@ -3289,7 +3449,7 @@
       "url": "https://open.spotify.com/track/2tk7S3mKsgYIxqO9obPofw"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "The Best of Tangerine Dream Live",
         "url": "https://open.spotify.com/album/7ICdwKDEiF6ghxFLUcj9Nv"
@@ -3305,7 +3465,7 @@
       "url": "https://open.spotify.com/track/1HME3FfC58ubkL0cI7SWNJ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
@@ -3321,7 +3481,7 @@
       "url": "https://open.spotify.com/track/5MtCEB1r6jzRIu5KZHOrNA"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Arista Heritage Series: Ray Parker",
         "url": "https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg"
@@ -3337,7 +3497,7 @@
       "url": "https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ"
     },
     {
-      "added_at": "2025-11-12 21:55:17",
+      "added_at": "2025-11-27 01:00:02",
       "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"

@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 485823,
+  "num_followers": 485799,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Lara",
+        "url": "https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q"
+      },
+      "artists": [
+        {
+          "name": "Blanco Tranco",
+          "url": "https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH"
+        }
+      ],
+      "duration_ms": 185699,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Floating By",
         "url": "https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 160703,
       "name": "Floating By",
       "url": "https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Heat Stroke",
-        "url": "https://open.spotify.com/album/2u2ZygHTu7w8XICnj4fXZR"
-      },
-      "artists": [
-        {
-          "name": "Heat Wave",
-          "url": "https://open.spotify.com/artist/1qgzqqiimEzSEPHSWfbT3s"
-        }
-      ],
-      "duration_ms": 207247,
-      "name": "Heat Stroke",
-      "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
       "added_at": "2025-02-07 17:00:04",

@@ -4,11 +4,11 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-179 songs - 7 hr 57 min
+180 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(They Long To Be\) Close To You](https://open.spotify.com/track/2lYj4BP7p2JvdzM0a4NO2z) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Misty Collage](https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD) | 3:50 | 2025-08-27 |  |
+| [\(They Long To Be\) Close To You](https://open.spotify.com/track/2lYj4BP7p2JvdzM0a4NO2z) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Misty Collage](https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD) | 3:50 | 2025-08-27 | 2025-11-27 |
 | [A Man Alone](https://open.spotify.com/track/4EZ5UGomeXRNKrceW5xUq8) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 4:21 | 2022-07-27 | 2024-12-02 |
 | [A Touch of Nonsense](https://open.spotify.com/track/1qwhMcP5dOIEBGo9VMC5Rs) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:07 | 2022-06-22 | 2025-01-04 |
 | [Action Replay](https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 1:56 | 2022-05-29 |  |
@@ -123,6 +123,7 @@
 | [Parisian Jazz](https://open.spotify.com/track/3DQZfDxqIGQhNWoVZLmuke) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:20 | 2024-04-19 | 2024-10-25 |
 | [Past Mysteries](https://open.spotify.com/track/2l45gjZ9Acxe9DG6MIW0YI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Mystery & Imagination](https://open.spotify.com/album/50VQPVat6a9TS8KBc6hTyl) | 2:13 | 2023-11-10 | 2023-12-14 |
 | [Piccadilly Night Ride](https://open.spotify.com/track/1zi8xWfni4JFoPbxp8dLKL) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:53 | 2022-05-29 | 2023-12-25 |
+| [Picture Book](https://open.spotify.com/track/2YmyZSrYMrDoYiftxppH12) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Piano \- Vol 1](https://open.spotify.com/album/7IUyjlpEGaMJvEyO5iMIVj) | 1:45 | 2025-11-27 |  |
 | [Power](https://open.spotify.com/track/3DCRPv4xrCiqKKdZqXAZzm) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Power](https://open.spotify.com/album/5yGxgTVRDLKGBbcz7Nzeet) | 2:50 | 2023-07-23 | 2023-08-09 |
 | [Powerboat](https://open.spotify.com/track/2T7So0EKMcfsIVlNsSV4TS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/2LscdictQbjN7PTZZ2EjTO) | 1:31 | 2022-06-01 | 2022-10-22 |
 | [Powerboat](https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Speed and Excitement](https://open.spotify.com/album/5rQHMZRMkdwgPwiznrkFTP) | 1:32 | 2022-10-21 | 2025-11-03 |

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-591 songs - 1 day 9 hr 36 min
+592 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 | 2022-09-09 | 2023-07-18 |
 | [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 | 2024-01-12 |
 | [Manadhani](https://open.spotify.com/track/0xzFjj7PUkSrtDRPOIYsjl) | [Raghothama N S](https://open.spotify.com/artist/23SVcQ2QiconhMN4ZU1NZu), [Rajat Hegde](https://open.spotify.com/artist/0KUITfL95SqUmYtOBPjLtW), [Pratap Bhatt](https://open.spotify.com/artist/4CPXosIQsBRyqA0zIPDEn4) | [Manadhani](https://open.spotify.com/album/0iLxcLoEHjHOY0vA3mH3PU) | 4:53 | 2025-09-18 |  |
+| [Manasa](https://open.spotify.com/track/3ATLDqRCjRSqopI0ZK4mKc) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Manasa](https://open.spotify.com/album/3C7LmUBK3op8ljQinYRTgI) | 4:54 | 2025-11-26 |  |
 | [Manasaagide](https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2), [Abhishek Bangera](https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D) | [Manasaagide](https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO) | 2:38 | 2024-09-09 | 2025-02-12 |
 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 | 2023-09-13 | 2024-08-13 |
 | [Manase Relax](https://open.spotify.com/track/39jpvgTkYZkH8bNeaIDFP2) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Manase Relax](https://open.spotify.com/album/2bydnauAN63633eCC1ddEM) | 2:51 | 2025-02-18 | 2025-07-09 |
@@ -502,7 +503,7 @@
 | [Rodane](https://open.spotify.com/track/7LIK9xkO8r5KUsKw7UTz9O) | [Yathish Appu](https://open.spotify.com/artist/39wBCKdd0Dm32NcWVG04Rz) | [Rodane](https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo) | 5:25 | 2023-02-27 | 2023-12-08 |
 | [Saagarada Anchinda](https://open.spotify.com/track/1tVjzpkVKIJiT5NXD1dAZZ) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Dandaka](https://open.spotify.com/album/4p1orys4EEZdMgGAvzV9FU) | 3:46 | 2025-09-02 |  |
 | [Saagu Nee](https://open.spotify.com/track/5LHpNNd7MqPfYUAzcAQj2Y) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Saagu Nee](https://open.spotify.com/album/0REHSlVg6yr2q0bv1grZ4w) | 2:43 | 2022-09-19 | 2023-07-04 |
-| [Saak Maadu](https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq), [Abhishek Dev](https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ) | [Chill Madale](https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn) | 3:14 | 2025-06-30 |  |
+| [Saak Maadu](https://open.spotify.com/track/3TXNSXjkKZOj01EVhXXeQy) | [Akhilesh Moti](https://open.spotify.com/artist/031AHwDJvqqY7t56R8Q4oq), [Abhishek Dev](https://open.spotify.com/artist/5njwb0Y5GdL3v2kYYUvgUZ) | [Chill Madale](https://open.spotify.com/album/3WyXOV68R92wp0GsqW36Bn) | 3:14 | 2025-06-30 | 2025-11-27 |
 | [Saako Maani Odiddu](https://open.spotify.com/track/0UayXJ56vraoYYvkgtOvcz) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Navya H](https://open.spotify.com/artist/3UUJgNufWYjlKJwDQcoyJU) | [Saako Maani Odiddu](https://open.spotify.com/album/73QiTb4EmS5ca6BlWWllAt) | 3:13 | 2023-02-15 | 2023-06-20 |
 | [Sahavaasa](https://open.spotify.com/track/2gX6sGTkDcqcGi5VdE49br) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Sahavaasa](https://open.spotify.com/album/6vv7b64iLvqEAe86sRuez3) | 1:31 | 2023-09-20 | 2024-02-17 |
 | [Sahavaasa](https://open.spotify.com/track/3rv2dzhrrimcWrEAqb6yMc) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Sahavaasa](https://open.spotify.com/album/33AjV8NCgBekha704N5DC8) | 1:31 | 2023-09-20 | 2024-01-07 |

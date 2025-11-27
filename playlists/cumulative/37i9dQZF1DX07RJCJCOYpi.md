@@ -4,7 +4,7 @@
 
 > The wave of Latin Electronic music\. Cover: Neton Vega, Peso Pluma & Tiesto
 
-424 songs - 22 hr 4 min
+425 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Real Love \- Sak Noel, Salvi & Franklin Dam Remix](https://open.spotify.com/track/21LO2b29sLEypeJFXWqEQl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Franklin Dam](https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY) | [Real Love \(Sak Noel, Salvi & Franklin Dam Remix\)](https://open.spotify.com/album/762BWVMk6By89MAXZNCM20) | 2:32 | 2022-03-22 | 2023-05-27 |
 | [Rescue Me \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Rescue Me \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/5by805i64TKLSsy47zjlP0) | 2:52 | 2022-03-22 | 2022-07-15 |
 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 | 2023-09-01 | 2024-04-19 |
+| [Revolu](https://open.spotify.com/track/1yDUEtPpsEYzM3eM2wI72t) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Revolu](https://open.spotify.com/album/4fG7T74X5cICSV4tGPBmBp) | 2:51 | 2025-11-26 |  |
 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 | 2023-08-04 | 2024-01-17 |
 | [Rumba \(feat\. Jeon\)](https://open.spotify.com/track/3UPlL3r5fnTNhW68g67o8f) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Rumba \(feat\. Jeon\)](https://open.spotify.com/album/2UON5iCBjZCeAK4GQsjupE) | 3:07 | 2022-03-22 | 2022-04-29 |
 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 | 2023-07-07 | 2023-08-19 |

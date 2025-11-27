@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173675,
+      "name": "F\u00fcr Elise Extended Variation (After Beethoven's Bagatelle No. 25 in A Minor, WoO 59)",
+      "url": "https://open.spotify.com/track/3boq2aKhjKSbs0kA0MMXHN"
+    },
+    {
+      "album": {
         "name": "GoldBergHain (Quodlibet on \"Kraut und R\u00fcben haben mich vertrieben\") for Violin & String Orchestra",
         "url": "https://open.spotify.com/album/1QdcLEWjkLCvAdgxabQKLu"
       },

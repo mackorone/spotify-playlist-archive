@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Ban gayi main teri piya",
+        "url": "https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3"
+      },
+      "artists": [
+        {
+          "name": "Shrinidhi Ghatate",
+          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200490,
+      "name": "Ban gayi main teri piya",
+      "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
+    },
+    {
+      "album": {
         "name": "Barsan",
         "url": "https://open.spotify.com/album/534o0vBS7PLabpbbj5ZnGu"
       },
@@ -5284,7 +5306,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 166000,
       "name": "TERA PATA",
       "url": "https://open.spotify.com/track/59qNfZ80CLERS1InhnasGU"

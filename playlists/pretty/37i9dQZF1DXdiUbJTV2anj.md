@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Gearea
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,893 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,944 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hellbound](https://open.spotify.com/track/3eJSJwvXZhlSmXnjwoKFhz) | [Gaerea](https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw) | [Hellbound](https://open.spotify.com/album/7IEbw0XUFwM20tXrveBpep) | 5:23 |
-| 2 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
-| 3 | [fall apart](https://open.spotify.com/track/6pNgqvihWqpRSHKv4Hhgpm) | [echochamber](https://open.spotify.com/artist/1t41S2a6wX3cDZLMCW73yR) | [fall apart](https://open.spotify.com/album/037Wicjw0sotrWT7ghIdbn) | 4:19 |
-| 4 | [POINT OF VIEW](https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [POINT OF VIEW](https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT) | 4:07 |
-| 5 | [Hourglass](https://open.spotify.com/track/46DwcW8DU16DEcn0x2XGHA) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [Life Is Just a Phase](https://open.spotify.com/album/5XSreN07bJoSorLtO7MJkZ) | 3:29 |
-| 6 | [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 |
+| 2 | [Labyrinth](https://open.spotify.com/track/27fpZXWUZbS4v1fIcPpJEF) | [Showing Teeth](https://open.spotify.com/artist/6NmmsGOQdDqyXlNVA6uGWv) | [Labyrinth](https://open.spotify.com/album/28Hi8MXegxVlzYlI6FCXEE) | 2:40 |
+| 3 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
+| 4 | [fall apart](https://open.spotify.com/track/6pNgqvihWqpRSHKv4Hhgpm) | [echochamber](https://open.spotify.com/artist/1t41S2a6wX3cDZLMCW73yR) | [fall apart](https://open.spotify.com/album/037Wicjw0sotrWT7ghIdbn) | 4:19 |
+| 5 | [POINT OF VIEW](https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [POINT OF VIEW](https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT) | 4:07 |
+| 6 | [Hourglass](https://open.spotify.com/track/46DwcW8DU16DEcn0x2XGHA) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [Life Is Just a Phase](https://open.spotify.com/album/5XSreN07bJoSorLtO7MJkZ) | 3:29 |
 | 7 | [WOLF I](https://open.spotify.com/track/0gGKxh6q3xQDgh5uUoA6NL) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [The Bestiary](https://open.spotify.com/album/2P4EZTQfqkw1iUyoMH72nw) | 4:37 |
 | 8 | [Parasites](https://open.spotify.com/track/1Vd4mXEiqnPuT64nGqfCgy) | [Shields](https://open.spotify.com/artist/7axtOAPWPWUITkUpTHL34I) | [Parasites](https://open.spotify.com/album/2OkrURjRPLak3YZT6EgLyn) | 3:51 |
 | 9 | [BITE DOWN](https://open.spotify.com/track/3FS58QCiryR8nE0d8F5hhH) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [BITE DOWN](https://open.spotify.com/album/15KzBKCsWnQGYxauI5cpKr) | 2:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 59 | [Breathing Underwater](https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq) | [Dead Air Divine](https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS), [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn), [Tilian](https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04) | [Breathing Underwater](https://open.spotify.com/album/5mIcx3Nbcxzfl39h8U9Abd) | 3:09 |
 | 60 | [Pull Me In](https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC) | [NOAPOLOGY](https://open.spotify.com/artist/5ZCqsLsFST7VxWXjwAUkUV) | [Pull Me In](https://open.spotify.com/album/2lMoJhE6tbDjhdCaXlwsPg) | 4:04 |
 
-Snapshot ID: `AAAAABisYynaVVpg2n46AOO94/K9I2vg`
+Snapshot ID: `AAAAAKYj6PevEMuqZgf00/gM4psHaMxg`

@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 3Li¥en
 
-1,181 songs - 2 day 6 hr 42 min
+1,183 songs - 2 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [IPPON](https://open.spotify.com/track/0RpSzkGJNGkmdrbrIgqG4y) | [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc), [018](https://open.spotify.com/artist/09nnt8eDrHlZtp6XPusqaN) | [25 joyboi](https://open.spotify.com/album/5aNPMkDsxcVzRGgcdYxBCv) | 2:30 | 2024-07-16 | 2024-09-25 |
 | [isekai](https://open.spotify.com/track/1AtbQhAfskE2WzUFK14rVs) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 3:40 | 2024-04-24 | 2024-06-05 |
 | [ishikawa](https://open.spotify.com/track/1Wgjs2P9ChiWmNEHQjmjFt) | [山田ギャル神宮](https://open.spotify.com/artist/0Vxzbf42RZnV5TUq3JeOIs) | [ishikawa](https://open.spotify.com/album/4zOzBbVKpYWjTevVgawLCq) | 2:23 | 2024-04-24 | 2024-07-10 |
+| [Italian Surfer](https://open.spotify.com/track/0CUVyreiIbeBfNfBuoMuQ2) | [VERRY SMoL](https://open.spotify.com/artist/1kfzDm0CR9FLumg2G3jhk9) | [Italian Surfer](https://open.spotify.com/album/5BsdSJDvE3sNyUjn7HMdb3) | 2:30 | 2025-11-25 |  |
 | [itudate](https://open.spotify.com/track/6ziBFslpNtwIDPi7mJPb6n) | [NiX](https://open.spotify.com/artist/5i3TaU0pa4Ig3BF9QcVRce), [ME$MAN](https://open.spotify.com/artist/1mgGB6wHO4StH165v3bWvf) | [itudate](https://open.spotify.com/album/4dgPBQfCubFct9jd9wXOvR) | 3:06 | 2024-04-16 | 2024-04-19 |
 | [Jaded](https://open.spotify.com/track/0ClrplYiINhvM54gL1KKrm) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Jaded](https://open.spotify.com/album/7vYR4M9bjVZ8UGVtMRFcEs) | 2:46 | 2024-01-25 | 2024-01-27 |
 | [Jaded](https://open.spotify.com/track/1rH3UGZN6Fjz47VeGXFywl) | [Fionn Mily](https://open.spotify.com/artist/6BXKaAhP6RNCAX2SgYYRcQ) | [Love You Mily](https://open.spotify.com/album/1xBEh1gCsIreYC5lqRDJiT) | 2:46 | 2024-01-25 | 2024-02-23 |
@@ -1066,6 +1067,7 @@
 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 | 2023-12-07 | 2024-03-06 |
 | [XMAS NIGHT](https://open.spotify.com/track/3TsbnJ8QWcd0toSbppoinc) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [XMAS NIGHT](https://open.spotify.com/album/2RosZbkOQCxLOwJhXceo8t) | 2:06 | 2024-12-17 | 2025-04-16 |
 | [Y.N's](https://open.spotify.com/track/3P4zFZrex1twZ4CZXmIhqe) | [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx), [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW) | [Y.N's](https://open.spotify.com/album/2fFcu0BkkJTwAMzxFgIGe3) | 2:53 | 2025-10-07 |  |
+| [Ya\-Hooooo!!!](https://open.spotify.com/track/2d8PdmaEIiXylS5Wh0w4Tz) | [DJ HI\-LOX](https://open.spotify.com/artist/1ygxJFbuA9EFiJwcP0BGBC), [Crazy\-K](https://open.spotify.com/artist/5plEGylcB4vrDbh3CdLUMN), [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE) | [Ya\-Hooooo!!!](https://open.spotify.com/album/4AyrrD3eN7St8TP36Uxg4h) | 1:56 | 2025-11-25 |  |
 | [yabebe \(feat\. sitissy luvit\)](https://open.spotify.com/track/0Lbb4aGRa2tqxcYY4S2Z2u) | [4jieen](https://open.spotify.com/artist/7J2NF2T4booOaqIvMQrXBQ), [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5) | [yabebe \(feat\. sitissy luvit\)](https://open.spotify.com/album/0AmpP7KiOuy0U3ro3w1SGw) | 1:57 | 2024-11-12 | 2025-02-05 |
 | [Yagi](https://open.spotify.com/track/2MNYR7CXddNZMZbKrYKK29) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Yagi](https://open.spotify.com/album/0GcEbuyNTrPHbk5073xChy) | 2:57 | 2024-10-29 | 2025-02-05 |
 | [YAKINIKU, SUSHI](https://open.spotify.com/track/0HKwHQxyzVL3IWmn9reSgw) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [PLAY PURE 3](https://open.spotify.com/album/0Ae1o6q05ZzP47z7bW2UXZ) | 3:02 | 2024-01-11 | 2024-02-16 |

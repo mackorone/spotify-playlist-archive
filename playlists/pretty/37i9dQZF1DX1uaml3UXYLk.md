@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,121 likes - 230 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,214 likes - 230 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 229 | [City Highs](https://open.spotify.com/track/7Fask2JUtxg4jhCDuTF3tj) | [Soft Sea](https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx) | [Limes on Ice](https://open.spotify.com/album/09b5SXwJG8vnh0eNxakj7Y) | 3:12 |
 | 230 | [Sensory](https://open.spotify.com/track/1pBLGEfo6rW6n5FbbWkOAj) | [Sin & Logo](https://open.spotify.com/artist/4nEsyYc3Si04SYob0Grvau) | [Sensory](https://open.spotify.com/album/3vL8gAf8xi5jeTL6qSel0Z) | 2:20 |
 
-Snapshot ID: `AAAAAK8WAcDAdgVOzkY9QWFjCecFvwsI`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

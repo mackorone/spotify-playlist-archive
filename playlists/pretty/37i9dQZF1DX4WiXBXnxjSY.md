@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,626 likes - 142 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,663 likes - 142 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Green Noise of Nature](https://open.spotify.com/track/1GqmQPOvFwRxO1FDlyHY6P) | [Proper Noises](https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr) | [Nature Green Noise](https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv) | 2:24 |
-| 2 | [Chilled Waves](https://open.spotify.com/track/2HZh3z8Mj0V27Jm7A8PVV9) | [Sleep Recorders](https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:08 |
+| 2 | [Chilled Waves](https://open.spotify.com/track/2HZh3z8Mj0V27Jm7A8PVV9) | [Berg & Sjo](https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:08 |
 | 3 | [Distant Waves Green Noise](https://open.spotify.com/track/0Ft7xVz3b5KNuLxdhrHwn6) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Natural World Green Noise](https://open.spotify.com/album/1lp7jDgvHy6TVJJlru1vBg) | 2:09 |
 | 4 | [Beach Green Noise](https://open.spotify.com/track/6ANLRtWwu8GmfVe7AMffaD) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Soundmaking Green Noise](https://open.spotify.com/album/0i3JlQlReHhDlag6OsdeJM) | 2:27 |
 | 5 | [Reading Green Noise](https://open.spotify.com/track/2snItDU0GMJczVLUphPhU8) | [Eltern FX](https://open.spotify.com/artist/0VV8uJMoSg5QJHEigLjulE) | [Study Green Noise](https://open.spotify.com/album/0fSfFSn50FtC2Z2q2QHwzP) | 2:33 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 | 65 | [Deep Green Waves](https://open.spotify.com/track/4ZIPJDCZHsw8vifLyZgXcU) | [Green Noise Nature](https://open.spotify.com/artist/5CL5iKoaIrQMqN2I25Z2lb) | [Waves Therapy](https://open.spotify.com/album/4uUP4yosjYmVRQPIFBCWHw) | 2:51 |
 | 66 | [Good Night Green Waves](https://open.spotify.com/track/0tB6oSFoiZCYkRrOmoiLAL) | [Noise Sleep Machine](https://open.spotify.com/artist/5p8Dy1K1Bvp7HnCGxpY7FI) | [Fall Asleep Green Noise](https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO) | 2:19 |
 | 67 | [Green Noise \- Storm at sea](https://open.spotify.com/track/6Jd0pktsSc44wZP14jhI1U) | [Sleepy Side](https://open.spotify.com/artist/3J9fxHJrpiYNhGihf9GLwC) | [Soundmaking Green Noise](https://open.spotify.com/album/0i3JlQlReHhDlag6OsdeJM) | 2:34 |
-| 68 | [Sleepy Waves](https://open.spotify.com/track/5aaTPI6dPUZjdD5YPVABCp) | [Sleep Recorders](https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:11 |
+| 68 | [Sleepy Waves](https://open.spotify.com/track/5aaTPI6dPUZjdD5YPVABCp) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:11 |
 | 69 | [Green Mediteranean Chill Time](https://open.spotify.com/track/4nuRQOUKICwaiJMXOstdCl) | [Nukahtaa](https://open.spotify.com/artist/3WfE7A0OI5tIqY57aEE2T5) | [Green Mediterranean Chill](https://open.spotify.com/album/3RyNCAmpwry5Twfd92DENA) | 3:09 |
-| 70 | [Green Noise \- Busy Waves](https://open.spotify.com/track/45kPJRDQzTrD1yzXFlp9iz) | [Sleep Recorders](https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:05 |
+| 70 | [Green Noise \- Busy Waves](https://open.spotify.com/track/45kPJRDQzTrD1yzXFlp9iz) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:05 |
 | 71 | [Calm Green Waves](https://open.spotify.com/track/2JgSQywGRhFhO6IeUAcuRx) | [Marronicity](https://open.spotify.com/artist/0YvU1cVEZlg5XkGV2Vb0GI) | [Calm Green Waves](https://open.spotify.com/album/0UMqdawdYvLYv6e5ZXQKCa) | 3:41 |
 | 72 | [Green Noise With Ocean Waves](https://open.spotify.com/track/2VBCKKt7TxHYCgF0m8Ah27) | [Water Beds](https://open.spotify.com/artist/3y1CfQi9gq0ZAa4hgPkdYF) | [Green Noise Relax](https://open.spotify.com/album/3LlTApPmS6QOfb5MuuL5Hm) | 2:47 |
 | 73 | [Green Noise Waves](https://open.spotify.com/track/0sfdIxrpf5qIhvcWS6lGkf) | [Karma Ritual](https://open.spotify.com/artist/0RtLQNCWl5myEPRUmhYX4b) | [Green Noise Ritual](https://open.spotify.com/album/2Sp5fhJUBzeLgYXTQlt0bf) | 2:51 |
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 | 98 | [Windy Waves](https://open.spotify.com/track/7DARDOK8wSQsdtDyWAZbEZ) | [Sonic Focuz](https://open.spotify.com/artist/2kYTPo2RENyX39AVuDCY9j) | [Green Color Noise](https://open.spotify.com/album/5nDkhoqIrNFylLUnkOksE6) | 2:34 |
 | 99 | [Green Noise \- Storm](https://open.spotify.com/track/5WdctY9KJn5U1QKbUELETU) | [Science Boll](https://open.spotify.com/artist/3jdIMgUC8zPx9O1EyB8gik) | [Green Water](https://open.spotify.com/album/6qVju4Dj78zn5Cu4kAMSo9) | 2:06 |
 | 100 | [Lush Lullaby \- Green Noise](https://open.spotify.com/track/1rO8WZPwV6OKEKVhRWfsXS) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 2:52 |
-| 101 | [Green Waterfall](https://open.spotify.com/track/5rAj3YUEgejWQzSiIemWNk) | [Blancouver](https://open.spotify.com/artist/4wEPu3pHPLFIRay8kVUn09) | [The Background Noise of the World](https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv) | 2:13 |
+| 101 | [Green Waterfall](https://open.spotify.com/track/5rAj3YUEgejWQzSiIemWNk) | [Peaceful Me](https://open.spotify.com/artist/0kqpe0tVo45rneU3mFLheu) | [The Background Noise of the World](https://open.spotify.com/album/3kvQjpraGfaHgiyCwW9TVv) | 2:13 |
 | 102 | [Green Noise \- Cascade](https://open.spotify.com/track/3ivb6w3eGniig9ICfKmQA0) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [The Sound of Nature](https://open.spotify.com/album/4rx0xAvGRQlQ2ailLzflJS) | 2:08 |
 | 103 | [Ambient Green Noise with Waves](https://open.spotify.com/track/4dFj5rAfLmDPgpGXn8uIrC) | [Relaxation Labs](https://open.spotify.com/artist/0hgqKJnGzHdJwGfRykbdFB) | [Green Noise for Sleep and Stress Relief](https://open.spotify.com/album/3bpq207l5u3YR9IKUgXgCC) | 3:00 |
 | 104 | [Green Noise by the Waterfall](https://open.spotify.com/track/7Ki5WXfbWX68LVbTgFhmIH) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Green Noise](https://open.spotify.com/album/1uF37rhwXEWsOTQT9J8cSd) | 3:46 |

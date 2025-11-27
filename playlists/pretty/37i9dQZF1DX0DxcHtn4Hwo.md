@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,857 likes - 250 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,014 likes - 250 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 28 | [You Are My Sunshine](https://open.spotify.com/track/5VInNoiZ9xRhUnHlAeXBii) | [Nils Olov](https://open.spotify.com/artist/1dgIBgGAPHKb49Cao2Z5U9) | [You Are My Sunshine](https://open.spotify.com/album/3AtY9TMl4BdigJXQEXl9Gm) | 1:46 |
 | 29 | [Peaceful Dreams](https://open.spotify.com/track/7zXEDbQ5cHovYigjnmkYuf) | [Lucas Moon](https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS) | [Peaceful Dreams](https://open.spotify.com/album/33fAsmpGoF88sAgS5Qw4m6) | 2:03 |
 | 30 | [Cradles and Fables](https://open.spotify.com/track/0uRPsmH3URHBon7EJxQj0h) | [Elio Rowan](https://open.spotify.com/artist/3NHYEXDCroGix134Qit5nm) | [Cradles and Fables](https://open.spotify.com/album/3mb61zuLik1H6XT8Cw8YlR) | 2:23 |
-| 31 | [Cottoncloud](https://open.spotify.com/track/7xHz836ghFiyKTqFVyj2cD) | [Elyas Bloom](https://open.spotify.com/artist/4l88UGBwmjualT3n2rUJgm) | [Cottoncloud](https://open.spotify.com/album/1fJOOzniSKEX1FjZhM5JWz) | 1:49 |
+| 31 | [Cottoncloud](https://open.spotify.com/track/7xHz836ghFiyKTqFVyj2cD) | [Eli Amos](https://open.spotify.com/artist/7KgM7NKmnBOCTCjNGPdBEs) | [Cottoncloud](https://open.spotify.com/album/1fJOOzniSKEX1FjZhM5JWz) | 1:49 |
 | 32 | [Carousel Lullaby](https://open.spotify.com/track/4wbSSXilwwRI4VJKJy5dff) | [Tiny Tunesmiths](https://open.spotify.com/artist/4NdwGU18xaJXlBATAgNOkd) | [Carousel Lullaby](https://open.spotify.com/album/4tZhn6p0UrmQvmxryqejnk) | 2:34 |
 | 33 | [Time for Bed](https://open.spotify.com/track/0ECLuWiEUG2mfuEFZvHNcp) | [Richie Goulding](https://open.spotify.com/artist/5b5SPZ7aLs0XfLvysfiASR) | [Time for Bed](https://open.spotify.com/album/5zPzCjjQT3JaAnZptIvErp) | 1:32 |
 | 34 | [So Precious](https://open.spotify.com/track/5ZsLLMnHiJVIVXuJK2IjqN) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [So Precious](https://open.spotify.com/album/1VfUvNl6oBJtex96gtLBaw) | 1:37 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 78 | [Peppa's Sleepytime](https://open.spotify.com/track/7p15c3pEdcsSb5uo5c34SY) | [Simon Bogren](https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH) | [Peppa's Sleepytime](https://open.spotify.com/album/4cSu7s0nznDsxfV1TZszxK) | 2:06 |
 | 79 | [Baby Bloom](https://open.spotify.com/track/4VoGaiFPqdx3UAuCNdvgUu) | [Lila Novelle](https://open.spotify.com/artist/188g9y5y767vPnvVRVnvQW) | [Baby Bloom](https://open.spotify.com/album/33FMBDGMzfeTOuRGS643cN) | 2:20 |
 | 80 | [Sheeps Everywhere](https://open.spotify.com/track/3cAV4kqXLdOdjIX0XjYjsG) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Sheeps Everywhere](https://open.spotify.com/album/7hEhZNW2LrINzapFLM79Jk) | 2:15 |
-| 81 | [Slumber Song](https://open.spotify.com/track/78Gb1qwrvnDXdY1Uo48gNE) | [Aden Sawyer](https://open.spotify.com/artist/0mTu6ciut4yJjP4VmKVgxB) | [Slumber Song](https://open.spotify.com/album/5GEPMF1a3eqQN7pImBOv9Z) | 2:36 |
+| 81 | [Slumber Song](https://open.spotify.com/track/78Gb1qwrvnDXdY1Uo48gNE) | [Charles Sanson](https://open.spotify.com/artist/44b6eI83N8Eq1QnHloCul6) | [Slumber Song](https://open.spotify.com/album/5GEPMF1a3eqQN7pImBOv9Z) | 2:36 |
 | 82 | [Matteo´s Dream](https://open.spotify.com/track/3ASoXnOxL4yYCeLayrAkS9) | [Anna Murakami](https://open.spotify.com/artist/2kEfDMbRORDJWTJQhAxbws) | [Matteo´s Dream](https://open.spotify.com/album/6kS79YkwyY0UxpNe3s5DJ8) | 1:10 |
 | 83 | [Pray For A Better Day](https://open.spotify.com/track/39zzCzSyzdR6stAihvlenT) | [Willow Leaf](https://open.spotify.com/artist/0kXI6vuhwYJE1daFSIduNU) | [Pray For A Better Day](https://open.spotify.com/album/3QN9W77b0YSgKIZCGXcUzZ) | 2:40 |
 | 84 | [Puppy My Puppy](https://open.spotify.com/track/6uBJvuSVlfjtF9vmnxRiRq) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Puppy My Puppy](https://open.spotify.com/album/4HeyqUQQYP07DnZ91SLIfL) | 1:49 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,125 songs - 2 day 14 hr 55 min
+1,126 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -818,6 +818,7 @@
 | [Riot \- Kompany Remix](https://open.spotify.com/track/74tFYoNHmTSQ9z3rhGKD0X) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Riot \(Kompany Remix\)](https://open.spotify.com/album/6fWCkks19NevlyVg5fwRke) | 3:06 | 2023-10-30 | 2024-02-13 |
 | [RIOT \- RAIZHELL Remix](https://open.spotify.com/track/4wivSJRYwhnWeuKW3TjIEp) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [RIOT \(RAIZHELL Remix\)](https://open.spotify.com/album/2qTppH4c5EhgknBK4P8JRN) | 2:33 | 2024-05-08 | 2024-07-31 |
 | [RIOT \- Riot Ten Remix](https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [RIOT \(Riot Ten Remix\)](https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO) | 3:30 | 2024-03-15 | 2024-06-05 |
+| [Risk It All](https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz) | [MUST DIE!](https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb), [Jiqui](https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut), [JiLLi](https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3) | [Risk It All](https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT) | 3:55 | 2025-11-26 |  |
 | [Risk It All](https://open.spotify.com/track/71TPyvUHZO7tNTWjERvvwv) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Deagon](https://open.spotify.com/artist/34h3uv9dVLZqv4chYpSXWw), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Risk It All](https://open.spotify.com/album/0bpxJRyDJ22ph6NOhHwpLB) | 3:44 | 2025-02-18 | 2025-05-13 |
 | [Ritual](https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Ritual](https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep) | 2:42 | 2025-08-25 | 2025-11-14 |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |

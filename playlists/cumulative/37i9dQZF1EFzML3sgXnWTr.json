@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "rosa dei venti",
+        "url": "https://open.spotify.com/album/0NGv6zN2X04QkMJH3ooWWR"
+      },
+      "artists": [
+        {
+          "name": "Gaia",
+          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157684,
+      "name": "NUDA",
+      "url": "https://open.spotify.com/track/3eLgGwDw3HnlfHR1Ox4LB5"
+    },
+    {
+      "album": {
         "name": "Alma",
         "url": "https://open.spotify.com/album/0py7R4xpnEanAfBHggX7ms"
       },

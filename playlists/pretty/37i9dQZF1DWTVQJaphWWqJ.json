@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3lo cl\u00e1sicos tropicales.",
-  "num_followers": 17461,
+  "num_followers": 17474,
   "original_name": "Salsa, Vallenato & Merengue",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Grandes Hits - Los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 288194,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
       },
@@ -679,34 +679,18 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Grandes Hits - Los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 288194,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
-        "name": "Mas Vallenato",
-        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 283293,
-      "name": "Cuando Casi Te Olvidaba",
-      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
     },
     {
       "added_at": "2024-06-25 16:18:42",
@@ -723,6 +707,22 @@
       "duration_ms": 316279,
       "name": "Dime que me quieres",
       "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
     },
     {
       "added_at": "2024-06-25 16:18:42",

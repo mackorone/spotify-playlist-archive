@@ -4,7 +4,7 @@
 
 > Nuovi brani di Rose Villain, Jovanotti, Lucio Corsi, Noemi, Emma Nolde e tanti altri.
 
-7,046 songs - 14 day 19 hr 59 min
+7,047 songs - 14 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4403,7 +4403,8 @@
 | [NOTTE AMARA](https://open.spotify.com/track/7IhTbfyCCLfeOwJcaXBb0O) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [DOVE I FIORI NON NASCONO PIÙ](https://open.spotify.com/album/3NbWTMQF3aoznKd5OrPI4r) | 3:16 | 2025-02-27 | 2025-03-07 |
 | [NOTTE CATTIVA](https://open.spotify.com/track/1d4YCwCYfH8coMCIgvnCPl) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOTTE CATTIVA](https://open.spotify.com/album/0PE0OfDz2k5Q0t1fP35vPq) | 2:35 | 2024-06-06 | 2024-06-14 |
 | [notte di luglio](https://open.spotify.com/track/0YEsznobOz6ATM8W0ADMuh) | [Erba](https://open.spotify.com/artist/6wO3gGgeaezAmqNltspVcW), [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ) | [notte di luglio](https://open.spotify.com/album/7EjyXtLHNiKwLHDTVweSEN) | 2:38 | 2024-08-22 | 2024-08-30 |
-| [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 | 2025-11-20 |  |
+| [Notte di Natale](https://open.spotify.com/track/0rr8C4XaAz67PWqSilq4kS) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [La Chitarra Nella Roccia \(Live\)](https://open.spotify.com/album/7ADDcmbdx9g1wnCWqnCwU4) | 4:38 | 2025-11-20 | 2025-11-27 |
+| [Notte di Natale](https://open.spotify.com/track/3KEsW0Vkd0xzIEPjHnEcfn) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Notte di Natale](https://open.spotify.com/album/7vho1PyovBh3Q7mDYWeOTK) | 4:38 | 2025-11-26 |  |
 | [NOTTE QUI](https://open.spotify.com/track/5yWieKua2J3WyqSljY1PsP) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [NOTTE QUI](https://open.spotify.com/album/6Yqd8VK6AXIdGsP9yrIAlt) | 2:43 | 2025-03-06 | 2025-03-14 |
 | [Notte stupida](https://open.spotify.com/track/3Wfdh2wE3x6TRmqDNy8eGs) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Notte stupida](https://open.spotify.com/album/7wbEz2p5DLeYCLvj3KrtLU) | 3:08 | 2025-11-06 | 2025-11-14 |
 | [Nottetempo \(feat\. Giorgio Poi\)](https://open.spotify.com/track/2ALrq527Q49iISVve4PEkn) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW) | [Futuri Possibili](https://open.spotify.com/album/5Z4qQSYHPbYjlXS6wnEhXD) | 2:55 | 2025-03-28 | 2025-04-04 |

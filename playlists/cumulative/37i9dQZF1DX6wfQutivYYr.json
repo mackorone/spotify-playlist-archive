@@ -2619,6 +2619,24 @@
     },
     {
       "album": {
+        "name": "Del Mio Meglio",
+        "url": "https://open.spotify.com/album/6zP8t0J8Ue5YpWl4vAEEYm"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "L'appuntamento",
+      "url": "https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ"
+    },
+    {
+      "album": {
         "name": "L'ULTIMA POESIA (feat. Ultimo)",
         "url": "https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG"
       },
@@ -4240,6 +4258,28 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "album": {
+        "name": "Diverse",
+        "url": "https://open.spotify.com/album/7sDxy69OT8VTIMrNdSnWBo"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164349,
+      "name": "Sant'allegria - con Mahmood",
+      "url": "https://open.spotify.com/track/5eHKwCgsc0oJgRe3nOO5lA"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,274 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,277 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 32 | [on and on and on](https://open.spotify.com/track/6tfBYkrr0wvPeXmcIQfH7m) | [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa), [Avia Athalia](https://open.spotify.com/artist/5TT4XW9r3HNJ4elktvvzUE) | [on and on and on](https://open.spotify.com/album/6fOHMwXFi0fqRpuWSdQlCR) | 4:00 |
 | 33 | [Imperfections](https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Imperfections](https://open.spotify.com/album/06chn6bcZtUyNx5feXz2TY) | 5:08 |
 | 34 | [GAME 5 feat\. Ricky Bishop](https://open.spotify.com/track/6qAqrnSL1FEXNO22uptuFp) | [ALFA B](https://open.spotify.com/artist/4f97pMKxRRKriperqmNHWW), [Ricky Bishop](https://open.spotify.com/artist/1BgUbirVqg7MnHDThNqOil) | [GAME 5 feat\. Ricky Bishop](https://open.spotify.com/album/4MylzJph7Yg3bnjRWSpPnV) | 3:59 |
-| 35 | [HER SIDE OF THE STORY](https://open.spotify.com/track/0L5I8Pcg0ke4IBJKDUxFqa) | [Elle Shimada](https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [HER SIDE OF THE STORY](https://open.spotify.com/album/13nfqZcb8r7wT5BEAV2nH0) | 3:28 |
+| 35 | [HER SIDE OF THE STORY](https://open.spotify.com/track/0L5I8Pcg0ke4IBJKDUxFqa) | [Elle Shimada](https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk) | [HER SIDE OF THE STORY](https://open.spotify.com/album/13nfqZcb8r7wT5BEAV2nH0) | 3:28 |
 | 36 | [With You](https://open.spotify.com/track/1dP1XYNu6Tanb2Mro9uMR3) | [Kanako Yamamoto](https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E) | [With You](https://open.spotify.com/album/5RzncdEJ11GyllwIBCCNi2) | 3:07 |
 | 37 | [Dream](https://open.spotify.com/track/1OpgKay3Z8cmxVsi50OFqX) | [mikah](https://open.spotify.com/artist/7int0W9A25VeRQ7q4H7YgQ) | [Homesick](https://open.spotify.com/album/6vyq2RT4hrjz5JqdchmSsc) | 2:54 |
 | 38 | [True love](https://open.spotify.com/track/46606wHyY7Mzr1aThPjjXc) | [Woody](https://open.spotify.com/artist/0OvP9ZkETqzwMVIB8kEC93) | [True love](https://open.spotify.com/album/5oDV3IEwu4DbtjYV8NI9EU) | 3:12 |

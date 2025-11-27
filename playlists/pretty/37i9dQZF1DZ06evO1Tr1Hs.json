@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 43753,
+  "num_followers": 43781,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAADF7nF11VKfRPaIrI7Nq1A2",
+  "snapshot_id": "aSTxgAAAAADEXMgXX9/qGh3Vhgy9g1z2",
   "tracks": [
     {
       "added_at": null,
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
         }
       ],
-      "duration_ms": 165411,
-      "name": "Delinquent (feat. Homixide Gang)",
-      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
+      "duration_ms": 201681,
+      "name": "Fashion Habits",
+      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
     },
     {
       "added_at": null,
@@ -855,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
       "artists": [
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
         }
       ],
-      "duration_ms": 201681,
-      "name": "Fashion Habits",
-      "url": "https://open.spotify.com/track/2ivRKtdr0RD9nLjeXgRBPV"
+      "duration_ms": 165411,
+      "name": "Delinquent (feat. Homixide Gang)",
+      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
     },
     {
       "added_at": null,

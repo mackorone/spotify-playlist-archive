@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,460 songs - 12 day 17 hr 6 min
+5,461 songs - 12 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2587,6 +2587,7 @@
 | [Lady Lady Lady](https://open.spotify.com/track/3FmmUDRGgqZegsm5xCoBd5) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Blue Moon](https://open.spotify.com/album/0BGAOAZSjt7Tpvce83eckL) | 4:15 | 2021-05-08 | 2021-06-13 |
 | [Lady Lady Lady \- Acoustic](https://open.spotify.com/track/630MyFOvn0Ik3LpyLZyyTE) | [Sean Kool](https://open.spotify.com/artist/7L3wTnkJU2jSzeOyX30nKR) | [Lady Lady Lady \(Acoustic\)](https://open.spotify.com/album/2smTy9OWQjLXJsZt3MjY5K) | 5:04 | 2022-03-11 | 2022-03-31 |
 | [Lady Luck](https://open.spotify.com/track/3fVcdqx80sdILBkrgHTjmV) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Lady Luck](https://open.spotify.com/album/3FuNUW8290xWKBrmnXEwyq) | 4:41 | 2021-02-06 | 2021-02-20 |
+| [Lakeside](https://open.spotify.com/track/0tBtqZdkYcmLYhCElXtCMV) | [Luvall](https://open.spotify.com/artist/29QgcfGCGexIlzUypdYDzM) | [Lakeside](https://open.spotify.com/album/7itZ0XTVvEGsWaCKQ4Vbts) | 1:55 | 2025-11-26 |  |
 | [LALA](https://open.spotify.com/track/73Hn2WovVXJjp0OfIqTV7g) | [Gabriel Thomas Broussard](https://open.spotify.com/artist/2M7W6jNpuZsWqRa0p95B8x) | [LALA](https://open.spotify.com/album/0R2oNzVytzrzI14fW759Qr) | 2:52 | 2024-11-08 | 2024-11-20 |
 | [LALALALA](https://open.spotify.com/track/29SW3MXK0CeHTjrUZMdOAl) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [LALALALA](https://open.spotify.com/album/1JqiEsGu9T4FSQtj2Q4AEm) | 2:39 | 2025-03-23 | 2025-04-04 |
 | [Lame Shit Cool \(Bussin' Beto\)](https://open.spotify.com/track/5NNznr2jZ5Min39vECXd1E) | [ET Boys](https://open.spotify.com/artist/3QxTGYOFDszXNRsWRMKd9z) | [PAOPU](https://open.spotify.com/album/2RCpBf65BfehE7ukMrg7k2) | 2:00 | 2025-03-05 | 2025-03-17 |

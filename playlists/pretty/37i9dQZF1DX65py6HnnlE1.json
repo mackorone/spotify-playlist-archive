@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 755573,
+  "num_followers": 755629,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269490,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
         "name": "Con Mas Amor",
         "url": "https://open.spotify.com/album/3O05GLVwJEFvC6OgEdV9dl"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 293537,
       "name": "El Hombre de Tu Vida",
       "url": "https://open.spotify.com/track/561XJqsY39pBtn7clW30PM"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
         }
       ],
-      "duration_ms": 269490,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
+      "duration_ms": 239906,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
     },
     {
       "added_at": "2024-06-04 19:13:44",

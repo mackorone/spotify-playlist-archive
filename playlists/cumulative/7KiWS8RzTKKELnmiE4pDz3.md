@@ -4,7 +4,7 @@
 
 > 
 
-1,229 songs - 2 day 15 hr 29 min
+1,230 songs - 2 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 | 2025-06-03 |  |
 | [I'm Just Sayin](https://open.spotify.com/track/2XIH9awIr6pWaO7o2W68Np) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:39 | 2024-12-29 | 2025-05-21 |
 | [I'm Not You \(feat\. Jadakiss, Style P & Rosco P\. Coldchain\)](https://open.spotify.com/track/4h1xaUGnbHp867AZ4mBM3m) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Style P](https://open.spotify.com/artist/3S906h2bFM8tXtQWGUerHu), [Rosco P\. Coldchain](https://open.spotify.com/artist/7yVL74VzpkOiAEv2MVO7w1) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 4:18 | 2025-08-15 |  |
+| [I'm The Man](https://open.spotify.com/track/0lA40BOV8RfhBeyQSCeIqM) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Lil' Dap](https://open.spotify.com/artist/4c6If3ZuEjpTDP0hvrlWC4), [Jeru The Damaja](https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ) | [Daily Operation](https://open.spotify.com/album/74DwNAuirHLDLVLrBQAnVg) | 4:04 | 2025-11-26 |  |
 | [I'm The Plug](https://open.spotify.com/track/6bqtKURdSWkInAJHDkuaL0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:00 | 2023-03-19 | 2023-12-14 |
 | [Ice \(feat\. Gunna & Lil Baby\)](https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:57 | 2024-08-22 | 2025-05-21 |
 | [Ice Melt](https://open.spotify.com/track/1OPkXWnIK8RYyWTp3NWvM9) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Ice Melt](https://open.spotify.com/album/4hlZNsmD2CoVWAbr6GnEYb) | 2:28 | 2024-06-25 | 2024-11-06 |

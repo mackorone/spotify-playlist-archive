@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 3008,
+  "num_followers": 3014,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "La voglia la pazzia l'incoscienza l'allegria",
         "url": "https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 173866,
       "name": "La voglia, la pazzia",
       "url": "https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
     },
     {
       "added_at": "2025-03-03 09:30:09",
@@ -255,18 +255,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Emozioni",
-        "url": "https://open.spotify.com/album/6C91Sp5eJ1LPEFuSoEf5vw"
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
       },
       "artists": [
         {
-          "name": "Lucio Battisti",
-          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Giuliano Palma",
+          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
         }
       ],
-      "duration_ms": 192256,
-      "name": "Fiori rosa, fiori di pesco",
-      "url": "https://open.spotify.com/track/51Z0G9wCaGl2pcBISoJu9x"
+      "duration_ms": 312000,
+      "name": "Aspettando Il Sole",
+      "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
     },
     {
       "added_at": "2025-03-03 09:30:09",
@@ -287,22 +291,18 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+        "name": "Emozioni",
+        "url": "https://open.spotify.com/album/6C91Sp5eJ1LPEFuSoEf5vw"
       },
       "artists": [
         {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "Giuliano Palma",
-          "url": "https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I"
+          "name": "Lucio Battisti",
+          "url": "https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Aspettando Il Sole",
-      "url": "https://open.spotify.com/track/0HgSaG6pYR3Nlt45GQyrKp"
+      "duration_ms": 192256,
+      "name": "Fiori rosa, fiori di pesco",
+      "url": "https://open.spotify.com/track/51Z0G9wCaGl2pcBISoJu9x"
     },
     {
       "added_at": "2025-03-03 09:30:09",

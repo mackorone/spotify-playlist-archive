@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-456 songs - 1 day 1 hr 58 min
+457 songs - 1 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,13 +19,14 @@
 | [Ada Road](https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [Ada Road](https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn) | 4:38 | 2025-09-18 |  |
 | [Adiós, hola](https://open.spotify.com/track/3wAeje1UyjEE9dHNlvULk2) | [Tórtel](https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9), [Daga Voladora](https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca) | [Adiós, hola](https://open.spotify.com/album/0W4Lcl5JzVXX1fDPaxaWaM) | 2:12 | 2025-06-07 | 2025-10-10 |
 | [Adélia](https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [HAĒMA](https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw) | [Adélia](https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ) | 4:18 | 2024-08-02 | 2024-10-25 |
-| [Ahizpa / Germana](https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [Artean](https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8) | 3:17 | 2025-09-18 |  |
+| [Ahizpa / Germana](https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [Artean](https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8) | 3:17 | 2025-09-18 | 2025-11-27 |
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2022-11-11 | 2024-09-25 |
 | [Aire](https://open.spotify.com/track/1CyOx3yUW9RxGKFA9zHe1M) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Aire](https://open.spotify.com/album/4i2nQPFvtxRTXZBssZg66e) | 4:31 | 2024-04-11 | 2025-11-22 |
 | [Al Alba](https://open.spotify.com/track/0Sycs2Q0ejSwwwk3DS13iA) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Dolores](https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C) | 3:23 | 2024-06-21 | 2024-09-27 |
 | [Al Límite \(feat\. Juancho Marqués\)](https://open.spotify.com/track/0m8adM2AcNOEVaVngsjmW6) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g) | [Al Límite \(feat\. Juancho Marqués\)](https://open.spotify.com/album/1FPNRXlL2c6ihVC2IajCc3) | 4:19 | 2024-03-15 | 2024-06-22 |
 | [Al Norte](https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:19 | 2022-11-11 | 2024-04-19 |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 | 2024-05-02 |  |
+| [Albino Rhino](https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9) | [Aaron Rux](https://open.spotify.com/artist/18KCq8v87co2o7RqJoR4C0), [The Crying Cowboys](https://open.spotify.com/artist/6FRl73eoQmfFTjcaZBrasd) | [Albino Rhino](https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo) | 4:09 | 2025-11-21 |  |
 | [Algo Físico](https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL) | [Algo Físico](https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI) | 2:47 | 2025-09-18 |  |
 | [All of Me](https://open.spotify.com/track/0Ddm2WaOg8B1OCa6zamy4K) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J) | 3:37 | 2023-04-20 | 2024-04-19 |
 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 | 2023-04-20 |  |

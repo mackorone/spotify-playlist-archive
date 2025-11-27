@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 231,
+  "num_followers": 234,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGIjOXEODlcuvUUuTS2RG3vU188++8",
+  "snapshot_id": "AAAGJdXwoO3Cq30JqLMRoj1ly/YdHvlq",
   "tracks": [
     {
       "added_at": "2025-11-24 13:35:34",
@@ -59447,6 +59447,54 @@
       "duration_ms": 167862,
       "name": "Tuli Babi",
       "url": "https://open.spotify.com/track/1rAR9meKtTImO8vxGlJqZb"
+    },
+    {
+      "added_at": "2025-11-26 06:59:31",
+      "album": {
+        "name": "Come In",
+        "url": "https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH"
+      },
+      "artists": [
+        {
+          "name": "The Fossil",
+          "url": "https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "Come In",
+      "url": "https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz"
+    },
+    {
+      "added_at": "2025-11-26 17:52:15",
+      "album": {
+        "name": "Blindspot",
+        "url": "https://open.spotify.com/album/0mwDzmvlLD8w6XiMURxOiv"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "duration_ms": 213910,
+      "name": "Divide",
+      "url": "https://open.spotify.com/track/5dsHDEtCMqELLu9cC0KCic"
+    },
+    {
+      "added_at": "2025-11-26 18:00:12",
+      "album": {
+        "name": "Fantasmagoria USA Edition",
+        "url": "https://open.spotify.com/album/1yoLAramuCAq4E2gLUth64"
+      },
+      "artists": [
+        {
+          "name": "Soul Jacker",
+          "url": "https://open.spotify.com/artist/6RWpDKMgURQqMiZOZJIFxa"
+        }
+      ],
+      "duration_ms": 222511,
+      "name": "(Like a) Dandy Warhol",
+      "url": "https://open.spotify.com/track/0ioeSwEh7824IZ30X1x6s6"
     }
   ],
   "unique_name": "playlist spotify free",

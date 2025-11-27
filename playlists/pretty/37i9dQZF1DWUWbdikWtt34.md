@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: Selfi Yamma
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,605 likes - 96 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,628 likes - 96 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

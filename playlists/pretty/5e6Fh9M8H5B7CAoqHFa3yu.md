@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,668 songs - 4 day 5 hr 38 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,672 songs - 4 day 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1676,5 +1676,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1666 | [Fate](https://open.spotify.com/track/6dbK2kIWkKi2KJIH7d8nsm) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [Fate](https://open.spotify.com/album/4RZfPgZAzjpXh722bIQhyw) | 3:06 |
 | 1667 | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/track/2tGj48yEbynyn0L1wa1I78) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Christmas Lights \(Dance Tonight\)](https://open.spotify.com/album/4l2lAICEgG8GGUSVzJkBst) | 3:31 |
 | 1668 | [SAN MARTINO TRAP](https://open.spotify.com/track/1exkDEv8DNoTrbdNvsg8ry) | [la C LDV](https://open.spotify.com/artist/7lF3Ixtf3Jr14Yc3LUjSeE) | [SAN MARTINO TRAP](https://open.spotify.com/album/1ak5hcXFSs4QX7lQPauozI) | 1:53 |
+| 1669 | [Inside Out](https://open.spotify.com/track/3psRfBXa4Ei4niCOrxbQmJ) | [J Kyu](https://open.spotify.com/artist/4vz1hMAJRwIjBBl6esGocL) | [Inside Out](https://open.spotify.com/album/7HsKkIuJ73eYSzAqVWkDC1) | 4:44 |
+| 1670 | [SANPO](https://open.spotify.com/track/0iF1OTM8gKRmN2IiFzWV8F) | [RAS TAMANO](https://open.spotify.com/artist/4yOfZvC32oEIseTaawz38b), [DAHBORS](https://open.spotify.com/artist/20aCe88nAWk6yealnABwKr) | [SANPO](https://open.spotify.com/album/2VSLs9f2MV45VPmlipsCJK) | 5:23 |
+| 1671 | [Шёлковые волосы](https://open.spotify.com/track/2WXaVPdq505D3bGJ3sTmxY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:49 |
+| 1672 | [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 |
 
-Snapshot ID: `AAAHaCEctGZPEH0B9giVCOTX49SZ5SoR`
+Snapshot ID: `AAAHbPXfcRcwk3RT8CFKhmAeOghYzizX`

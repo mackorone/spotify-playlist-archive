@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-273 songs - 12 hr 48 min
+274 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Mama Nature](https://open.spotify.com/track/2CEBHHT6BzgFKYhBssqqQg) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Mama Nature](https://open.spotify.com/album/3upxOhPupKRO3raIHyjl5v) | 2:57 | 2025-06-11 |  |
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-03 | 2025-09-25 |
 | [Mellow Effulgence](https://open.spotify.com/track/33PAD7a3vuJfOkAy351o3G) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Mellow Effulgence](https://open.spotify.com/album/3uhf93g4Y8sDPQQP7vpUy8) | 2:33 | 2025-05-16 |  |
-| [Mellow Spring](https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:20 | 2023-03-03 |  |
+| [Mellow Spring](https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:20 | 2023-03-03 | 2025-11-27 |
 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 | 2023-09-28 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-03-03 | 2024-08-24 |
 | [Midnight](https://open.spotify.com/track/06sSsDhDSjhMXF9Y65CfWc) | [Bergdahl](https://open.spotify.com/artist/2imD2tcPPvJrdB8qzu1fqU) | [Midnight](https://open.spotify.com/album/4vEVnCGo8rzZQLCbKJrQ1S) | 2:47 | 2025-01-15 |  |
@@ -157,7 +157,7 @@
 | [Morning on a STHLM Island](https://open.spotify.com/track/1ly554JyWSV2thFHxwNznr) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Morning on a STHLM Island](https://open.spotify.com/album/1xaGsMwWmgMAQQjOsXfQEU) | 2:48 | 2023-07-06 |  |
 | [Morning Sun](https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Morning Sun](https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj) | 2:47 | 2023-07-21 |  |
 | [Morning Sun](https://open.spotify.com/track/6tZqBZ52QjlSwA6T25QoLu) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Morning Sun](https://open.spotify.com/album/7eyodgyWN4cgXKGyIYYyq8) | 2:39 | 2024-02-06 | 2024-08-24 |
-| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2023-10-26 | 2025-11-08 |
+| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2023-10-26 |  |
 | [Nature Bliss](https://open.spotify.com/track/3Nzp9VkySXdVllcziVz7l4) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Nature Bliss](https://open.spotify.com/album/0eJzRC2Xb0h99ZZa9D2Of6) | 3:05 | 2025-05-16 |  |
 | [Nature's Balance](https://open.spotify.com/track/4VVK46fpmG16sD5eM5jSoK) | [Vox Lumi](https://open.spotify.com/artist/3pmnzN7hw5uBer8FWezNQ3) | [Nature's Balance](https://open.spotify.com/album/4Ycr0QB6Kl1KtSdL95Xv4V) | 2:44 | 2025-09-24 |  |
 | [Nature's Calling](https://open.spotify.com/track/1GwNF0VSW51XuLCyyj2HON) | [Evie May](https://open.spotify.com/artist/0UpCHJTp9iC8xQ43AyVDF4) | [Nature's Calling](https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0) | 1:55 | 2023-03-03 | 2024-09-05 |
@@ -275,11 +275,12 @@
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Wellspring](https://open.spotify.com/track/2wDMe17O4nDaJE4x9PtQbz) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Wellspring](https://open.spotify.com/album/4tXFqj1nH4TSK9DKOKHdrt) | 2:38 | 2025-09-24 |  |
 | [Where We Started](https://open.spotify.com/track/1TEL8dpvn0xYNqIX5Bt4Uu) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Where We Started](https://open.spotify.com/album/4rqV31pFcmu1kaOUJBVi0b) | 3:37 | 2025-06-11 | 2025-10-09 |
+| [White Flowers](https://open.spotify.com/track/0xXfwIlYs3QqNf6DhGfb05) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [White Flowers](https://open.spotify.com/album/0IRSWDX59yB3c7uk8DAeyA) | 2:12 | 2025-09-24 |  |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2024-03-01 |  |
 | [Windchimes](https://open.spotify.com/track/6Fa8vurFZIVr1brilnYS5M) | [Allowe](https://open.spotify.com/artist/5Ny0uNpaaAVZb4ciJUuwH0) | [Windchimes](https://open.spotify.com/album/5M14n23MeqGH1CNon4bxsm) | 2:51 | 2025-09-04 |  |
 | [Winding Path](https://open.spotify.com/track/6QE5nRsDAFSfKC6rWUzhhE) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Winding Path](https://open.spotify.com/album/24V8iGqBrqvaJO4MFUjlgm) | 3:02 | 2024-11-22 | 2025-06-12 |
 | [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 | 2025-05-24 |
 | [Wisdom in Waves](https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Wisdom in Waves](https://open.spotify.com/album/2rIKn2IBM0Qy6zgkiDm6V5) | 2:40 | 2024-08-23 |  |
-| [Woodlike Experience](https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Woodlike Experience](https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU) | 3:20 | 2025-06-11 |  |
+| [Woodlike Experience](https://open.spotify.com/track/1pa2v9W2sWzOgGfVVD9LG7) | [Soundtopia](https://open.spotify.com/artist/3dZZaV34fz4h29XOiXY1v4) | [Woodlike Experience](https://open.spotify.com/album/1TQ1W4juycXVu8SI1Tu8JU) | 3:20 | 2025-06-11 | 2025-11-27 |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

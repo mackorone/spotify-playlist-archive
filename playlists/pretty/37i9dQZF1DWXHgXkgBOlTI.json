@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANYoGDcU5dOXNloK4iPMlGGtAARp",
+  "snapshot_id": "AAAAAHL1iaSGSH4cArtVle17ckzvXynR",
   "tracks": [
     {
       "added_at": "2025-11-19 04:47:16",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-11-19 04:47:16",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
-    },
-    {
-      "added_at": "2025-11-19 04:47:16",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
         "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 250933,
       "name": "Blue Eyed Monster",
       "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+    },
+    {
+      "added_at": "2025-11-19 04:47:16",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2025-11-19 04:47:16",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-11-19 04:47:16",
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
-      },
-      "artists": [
-        {
-          "name": "SANOVA",
-          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u67af\u8449 \uff5eAutumn Leaves\uff5e (jazz standard)",
-      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
-    },
-    {
-      "added_at": "2025-11-19 04:47:16",
-      "album": {
         "name": "SET FREE",
         "url": "https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 228106,
       "name": "The Piano",
       "url": "https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7"
+    },
+    {
+      "added_at": "2025-11-19 04:47:16",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1YDUWGvyfwxHi8Xwr7muNi"
+      },
+      "artists": [
+        {
+          "name": "SANOVA",
+          "url": "https://open.spotify.com/artist/15fZ3hlvf6rcqHls6hZAbt"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u67af\u8449 \uff5eAutumn Leaves\uff5e (jazz standard)",
+      "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
     },
     {
       "added_at": "2025-11-19 04:47:16",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-11-19 04:47:16",
       "album": {
-        "name": "REAL KICKS",
-        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
-      },
-      "artists": [
-        {
-          "name": "Calmera",
-          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
-        }
-      ],
-      "duration_ms": 186906,
-      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
-      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
-    },
-    {
-      "added_at": "2025-11-19 04:47:16",
-      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 452866,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/3A2PqBP4fJnThiEJ9w8nVg"
+    },
+    {
+      "added_at": "2025-11-19 04:47:16",
+      "album": {
+        "name": "REAL KICKS",
+        "url": "https://open.spotify.com/album/6Y1gGXJMEzmur74PIrYFUL"
+      },
+      "artists": [
+        {
+          "name": "Calmera",
+          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
+        }
+      ],
+      "duration_ms": 186906,
+      "name": "\u72ac\u3001\u9003\u3052\u305f\u3002-ver. 2.0-",
+      "url": "https://open.spotify.com/track/69So29DLz3KKHUuxs6iiHX"
     },
     {
       "added_at": "2025-11-19 04:47:16",

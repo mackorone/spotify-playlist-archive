@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 74954,
+  "num_followers": 74962,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAADfKcDaVd8OO0SIMkNdYXme",
+  "snapshot_id": "aSTxgAAAAAC54z/l+tIFAOzPTKEtiVeB",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Polvo Rosita",
+      "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Chino (En Vivo)",
         "url": "https://open.spotify.com/album/3rcQTJf2UhUIopfAmdsMNm"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 167439,
       "name": "El Chino (En Vivo)",
       "url": "https://open.spotify.com/track/05GfWtcXrSeImM7mJfsogy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Polvo Rosita",
-      "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Perder El Estilo",
-        "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 226154,
-      "name": "Contra Mis Principios",
-      "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reinicio",
         "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 163477,
       "name": "Conmigo Ya No Cuentas",
       "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Perder El Estilo",
+        "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 226154,
+      "name": "Contra Mis Principios",
+      "url": "https://open.spotify.com/track/74L2t1Tkg7Pc0rna70GaQL"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "La Fuga del Jefe",
+      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Desde Mi Ranchito",
         "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 270318,
       "name": "Un Frisian Llamado El Centenario - En Vivo",
       "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Fuga del Jefe",
-      "url": "https://open.spotify.com/track/4z0JvSowfvAdIIl22UqCxM"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz De Dia",
-        "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Ele-Eme",
-          "url": "https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR"
-        }
-      ],
-      "duration_ms": 197421,
-      "name": "Luz De Dia",
-      "url": "https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando la Banda y el Tololoche",
         "url": "https://open.spotify.com/album/4LMSBwGqafnGVhYaX73lCF"
       },
@@ -823,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volver\u00e1s",
-        "url": "https://open.spotify.com/album/2ecpsk1flwiS5vCbwoEn9F"
+        "name": "Luz De Dia",
+        "url": "https://open.spotify.com/album/31pinJMr5eo0AX9BHeeB4q"
       },
       "artists": [
         {
@@ -832,13 +812,13 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Franki Ugalde",
-          "url": "https://open.spotify.com/artist/6gqKusImug4BRC5He91meC"
+          "name": "Grupo Ele-Eme",
+          "url": "https://open.spotify.com/artist/419dlnnbgxhpmG7eR9RUbR"
         }
       ],
-      "duration_ms": 191555,
-      "name": "Si Volver\u00e1s",
-      "url": "https://open.spotify.com/track/1IEpCsc3bVI1v97HNqgcX9"
+      "duration_ms": 197421,
+      "name": "Luz De Dia",
+      "url": "https://open.spotify.com/track/5PMv0sXLpDNrSrMfihTzAV"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 166917,
       "name": "Ya No Se Olvidarte",
       "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volver\u00e1s",
+        "url": "https://open.spotify.com/album/2ecpsk1flwiS5vCbwoEn9F"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Franki Ugalde",
+          "url": "https://open.spotify.com/artist/6gqKusImug4BRC5He91meC"
+        }
+      ],
+      "duration_ms": 191555,
+      "name": "Si Volver\u00e1s",
+      "url": "https://open.spotify.com/track/1IEpCsc3bVI1v97HNqgcX9"
     },
     {
       "added_at": null,

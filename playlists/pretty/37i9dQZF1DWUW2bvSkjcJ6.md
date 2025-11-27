@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Paula Hartmann und Berq, Pashanim, Tate McRae,  Souly und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,203 likes - 72 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,150 likes - 72 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

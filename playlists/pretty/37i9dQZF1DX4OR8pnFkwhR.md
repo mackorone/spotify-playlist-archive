@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: AKASAKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,215 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,216 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 16 | [喩えて](https://open.spotify.com/track/4wOzWeDrLHU6oQN56eyGzw) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [BOARDING PASS](https://open.spotify.com/album/1TrYkmcrIdOOse6hgeHufv) | 3:06 |
 | 17 | [Rain Man](https://open.spotify.com/track/0ezsCGZVy7Z0ILVSWx3sYE) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Rain Man](https://open.spotify.com/album/4gu1R6dosXbiSoBJarDEGh) | 3:30 |
 | 18 | [meguri](https://open.spotify.com/track/7wOKndjlwI1ncnmDjyvsq8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [meguri](https://open.spotify.com/album/57kKkfhgya6bHYqoFzlnb3) | 3:13 |
-| 19 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:50 |
+| 19 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 |
 | 20 | [新月](https://open.spotify.com/track/2FbZu72z1zmzhEgOJJiFob) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [新月](https://open.spotify.com/album/63mKkRhz8F1kNjb6RxcpFb) | 5:55 |
 | 21 | [Vintage Car](https://open.spotify.com/track/0M5edeHgATLmdcpnLVKfFd) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Vintage Car](https://open.spotify.com/album/5b6pSqS1HyrsK42eqz2rVX) | 4:04 |
 | 22 | [Maybe!!!](https://open.spotify.com/track/2Zij3UXR4C7W9eJiDzlsaA) | [hasirikomis](https://open.spotify.com/artist/28bJGbQ7LynOhMZYD2ctdv) | [Friends Orchestra](https://open.spotify.com/album/213wnWSBArOoDBCcmGV1dD) | 3:42 |

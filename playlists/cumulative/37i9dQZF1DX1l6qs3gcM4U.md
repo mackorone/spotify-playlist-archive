@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Cubita
 
-611 songs - 1 day 11 hr 13 min
+612 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Início do Fim](https://open.spotify.com/track/5HPczsgqYZb0Ux7v3JWXGT) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Início do Fim](https://open.spotify.com/album/7dqjUyl7pKYDWuqRHL1olI) | 3:11 | 2024-03-08 |  |
 | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I) | [Master Jake](https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX), [Eddy Flow](https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi) | [Jajão \(feat\. Eddy Flow\)](https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN) | 4:08 | 2021-12-10 | 2025-02-28 |
 | [Jamais](https://open.spotify.com/track/4ZvWMjmldmt1XVmRYHtWlx) | [SamySam Beats](https://open.spotify.com/artist/2tIwY9RiPuPVjYnrGz0aXZ), [Pegguy Tabu](https://open.spotify.com/artist/64YnF4w2bf0VU6eQrn1e5y) | [Vida](https://open.spotify.com/album/3qkt4e3sxMHwJA5pDVqsz9) | 2:54 | 2022-01-14 | 2022-03-05 |
-| [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-31 |  |
+| [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-31 | 2025-11-27 |
 | [Jeito Dela](https://open.spotify.com/track/2KlwnCnbMC5s5CGu95vNgK) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Jeito Dela](https://open.spotify.com/album/1mGf42MV0CF54Jq8Ran4x1) | 3:28 | 2021-12-10 | 2025-03-28 |
 | [Juliana](https://open.spotify.com/track/2ujbkemDmWlKttKOnAHliq) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Elements](https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm) | 2:42 | 2024-05-16 | 2024-12-06 |
 | [Jungle Fever](https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Jungle Fever](https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh) | 3:15 | 2025-02-14 |  |
@@ -341,6 +341,7 @@
 | [Mundo](https://open.spotify.com/track/7jjZsQLnYSDIBK9HxX1N6B) | [Damásio Brothers](https://open.spotify.com/artist/6FRydQu73AnR88FL2Pndtu) | [Mundo](https://open.spotify.com/album/7uNsxczfyrd37MkAjBdo5t) | 2:35 | 2024-01-26 | 2024-02-23 |
 | [Na Bo Mon](https://open.spotify.com/track/0AePxcA9kgGpXBO91QJqc3) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Na Bo Mon](https://open.spotify.com/album/72mZfjW41yycIsoeRfXoox) | 3:20 | 2021-12-10 | 2022-07-29 |
 | [Na Bo Mon](https://open.spotify.com/track/4wcFq3XXef7obINYynQ5mL) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 3:22 | 2023-12-15 | 2024-04-19 |
+| [Na Mão de Deus](https://open.spotify.com/track/7peoL9wdbTDcxTvJVAujOQ) | [Ney Chiqui](https://open.spotify.com/artist/5GX4z0504g82P9Lvz8rcmx), [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD), [Smile Drama Beatz](https://open.spotify.com/artist/2VrG6aXJNPMwOt7nyOlHoz) | [Na Mão de Deus](https://open.spotify.com/album/5pby6fImgnFXdPsjsl7bRu) | 3:53 | 2025-11-21 |  |
 | [Na tua Back \- Afro Love Remix](https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr), [Stephane Silva Dos Santos](https://open.spotify.com/artist/23jd0fVNwCP8zdInSnIvp9) | [Na tua Back \(Afro Love Remix\)](https://open.spotify.com/album/1IlGaHNPxLUvxzry42ojNS) | 2:31 | 2022-01-21 | 2022-02-04 |
 | [Na Via](https://open.spotify.com/track/0QUHa76fheJJ4dFetV2MhV) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr), [Sarissari](https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b) | [Na Via](https://open.spotify.com/album/5wp8n4cf3laS677a8a3MNZ) | 3:38 | 2021-12-10 | 2022-02-14 |
 | [Namorado](https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [Namorado](https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc) | 3:23 | 2025-10-23 |  |

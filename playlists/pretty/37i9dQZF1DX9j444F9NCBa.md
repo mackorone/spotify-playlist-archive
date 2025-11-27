@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,397 likes - 200 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,015 likes - 200 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Beautiful Things](https://open.spotify.com/track/0OHFTKMwZoSFRT9oaFTAao) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Beautiful Things](https://open.spotify.com/album/6eLsyixrfDbTLHm27BcbBw) | 3:08 |
 | 2 | [True Colors](https://open.spotify.com/track/7HLCihRbYPRxTj95SLFYUA) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [True Colors](https://open.spotify.com/album/6NABuUWOur1uGNcy7WnQFC) | 3:07 |
-| 3 | [Call Me Maybe](https://open.spotify.com/track/680gMnaHdKRQzb4TjH3pKM) | [Kian Rhodes](https://open.spotify.com/artist/6tDvpHpVEgxeHQFcesr1Ca) | [Call Me Maybe](https://open.spotify.com/album/6MR8YMftNEhtMzSvy8hGVa) | 2:49 |
-| 4 | [Shivers](https://open.spotify.com/track/4SwOiakLxdV06pg5xhNo8a) | [Emile Dufresne](https://open.spotify.com/artist/10dzYEl5JeUt14w8tlUyrv) | [Shivers](https://open.spotify.com/album/2VBp7gqZRjAEKgfJu0u3XJ) | 2:19 |
+| 3 | [Call Me Maybe](https://open.spotify.com/track/680gMnaHdKRQzb4TjH3pKM) | [Jasper Avelline](https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1) | [Call Me Maybe](https://open.spotify.com/album/6MR8YMftNEhtMzSvy8hGVa) | 2:49 |
+| 4 | [Shivers](https://open.spotify.com/track/4SwOiakLxdV06pg5xhNo8a) | [Heim Lawson](https://open.spotify.com/artist/1koR9l4VPWFv0WZTIyNSaK) | [Shivers](https://open.spotify.com/album/2VBp7gqZRjAEKgfJu0u3XJ) | 2:19 |
 | 5 | [In The Stars](https://open.spotify.com/track/5ag98t2kFpZmtUOtJRECE2) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [In The Stars](https://open.spotify.com/album/2fiDcQIOOYhDKkJRgnF4Gi) | 3:18 |
 | 6 | [Fix You](https://open.spotify.com/track/4ZDxWnAMMx3zDoD0TCH40L) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Fix You](https://open.spotify.com/album/1V8qKupY7D38cNAMwMxfpv) | 3:54 |
 | 7 | [The Times They Are a\-Changin’](https://open.spotify.com/track/3Oj3qgVvYddVbPrNBDEWO3) | [Viktor Kvist](https://open.spotify.com/artist/19oyVUF3vGLiYBLewX6mIT) | [The Times They Are a\-Changin’](https://open.spotify.com/album/7DGRIEOrMEK2ntOLJEQ6US) | 2:22 |

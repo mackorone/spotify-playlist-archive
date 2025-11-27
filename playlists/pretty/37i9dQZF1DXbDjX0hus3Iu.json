@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 531089,
+  "num_followers": 531119,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53"
     },
     {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "Alligator Stew",
+        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
+      },
+      "artists": [
+        {
+          "name": "Alligator Stew",
+          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
+    },
+    {
       "added_at": "2025-07-11 17:42:51",
       "album": {
         "name": "Ain't Rocked in a While",
@@ -1055,22 +1071,6 @@
       "duration_ms": 281160,
       "name": "Ain't Rocked in a While",
       "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Alligator Stew",
-        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
-      },
-      "artists": [
-        {
-          "name": "Alligator Stew",
-          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1527,8 +1527,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
+        "name": "The Marshall Tucker Band",
+        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
       },
       "artists": [
         {
@@ -1536,9 +1536,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
+      "duration_ms": 375600,
+      "name": "Take the Highway",
+      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Marshall Tucker Band",
-        "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 375600,
-      "name": "Take the Highway",
-      "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
     }
   ],
   "unique_name": "Southern Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,392 likes - 141 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,431 likes - 141 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 91 | [Ethereal Elegance](https://open.spotify.com/track/7fJVWSFwuSzOZKFw08HBTX) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Ethereal Elegance](https://open.spotify.com/album/07yC22JfkYTwIu57Ho3ctq) | 2:02 |
 | 92 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 |
 | 93 | [Angel](https://open.spotify.com/track/53buLGflmrjon42rFFwcj8) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Angel](https://open.spotify.com/album/4mrl491t5RV2RpqKgt5YuG) | 2:24 |
-| 94 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 |
+| 94 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 |
 | 95 | [Leaving Behind](https://open.spotify.com/track/3ieyL9VqZYHDSyeo6EyzkW) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Leaving Behind](https://open.spotify.com/album/5QPSLKJ2ZsmbldhsXvhDUT) | 2:20 |
 | 96 | [Carmen](https://open.spotify.com/track/7rQjEa1Vn8WDcfxc1Vt08s) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Carmen](https://open.spotify.com/album/5lTAEn3yYDwQogpKLv1Zhr) | 2:53 |
 | 97 | [Simple life](https://open.spotify.com/track/2tb68oGZwNXeh70uAsr3Wj) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Simple life](https://open.spotify.com/album/7tBY8hZw8mlLceOA5NFbmp) | 2:47 |

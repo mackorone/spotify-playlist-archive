@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "THERE GOES THE NEIGHBORHOOD",
+        "url": "https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        },
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120321,
+      "name": "GOOD LUCK (feat. Goldfinger)",
+      "url": "https://open.spotify.com/track/7r7bRPU1Q2SKyI4r4b5GFS"
+    },
+    {
+      "album": {
         "name": "Only Started Growing",
         "url": "https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC"
       },

@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Existencia Kamikaze",
+        "url": "https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215715,
+      "name": "M\u00fasica En La Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/1Ig4TyA9VhHKSyjMMyj6AI"
+    },
+    {
+      "album": {
         "name": "N.I.T.",
         "url": "https://open.spotify.com/album/2LrRxe5gOKn43mAUWqcAnr"
       },
@@ -1084,7 +1102,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"

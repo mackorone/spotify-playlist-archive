@@ -2,9 +2,9 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including Chad Powers, now streaming on Hulu.
+> Music from shows and movies you love including All's Fair, now streaming on Hulu.
 
-177 songs - 8 hr 39 min
+181 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Only You](https://open.spotify.com/track/78reznKyxnP51YPifbCPhR) | [Jonah Mutono](https://open.spotify.com/artist/6DycDXzvurfW6Z7CMCQC4P) | [Love, Victor: Season 3 \(Original Soundtrack\)](https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr) | 2:27 | 2024-01-05 | 2025-05-07 |
 | [Our Future](https://open.spotify.com/track/1jwILGKatMdgH2i7W03tJN) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Snowfall \(Original Series Soundtrack\)](https://open.spotify.com/album/38YjI6HTd4A4p2q8l71QuT) | 0:46 | 2024-01-05 |  |
 | [Outside the Gates](https://open.spotify.com/track/4ziy54MI0xcIdkZpvOfuMy) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building: Season 5 \(Original Score\)](https://open.spotify.com/album/2MrITv6WiRUAKnfFMcLgWP) | 2:07 | 2025-10-24 |  |
+| [Paint The Town Red](https://open.spotify.com/track/4dHRp03oxqJQfjGU8ECo7v) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/5DQOvr3OGVd2Zq7C5H1089) | 3:51 | 2025-11-26 |  |
 | [Paradise](https://open.spotify.com/track/7xPXAu8b27xAbIugYXKmC5) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 1:06 | 2025-01-31 |  |
 | [Pilot Ending](https://open.spotify.com/track/2NoXdmsU1QncCfXncRIj2L) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 1:43 | 2024-01-05 |  |
 | [Preparation](https://open.spotify.com/track/1aShWHi1ndthSp7xOaNU7l) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [No One Will Save You \(Original Soundtrack\)](https://open.spotify.com/album/6CEopxiVII0JuPEQhwSuI6) | 1:36 | 2024-01-05 |  |
@@ -141,6 +142,7 @@
 | [Slip Away](https://open.spotify.com/track/3JvYMb5iE5Fqe3UPpj3Lt1) | [Alex Somers](https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x) | [Fresh \(Original Soundtrack\)](https://open.spotify.com/album/6cgdhYPUek0mivHWCe9yLY) | 1:59 | 2024-01-05 | 2025-05-07 |
 | [Solar Opposites Theme](https://open.spotify.com/track/3mhmEy3EztH9Y0F3o9CKz2) | [Chris Westlake](https://open.spotify.com/artist/0PFGcgMLSV7u8H9J9jQvyD) | [Solar Opposites \(Original Soundtrack\)](https://open.spotify.com/album/6pwUWYDZ0aWo7VhucKafAS) | 0:41 | 2024-01-05 |  |
 | [Somebody to Tell Me \(Theme Song from "Love, Victor"\)](https://open.spotify.com/track/0uHSI9rxek8mvwfMGFfF9z) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 2:48 | 2024-01-05 | 2025-05-07 |
+| [Someone To Call My Lover](https://open.spotify.com/track/43zr9kKkeiQrshvYuvNtfM) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 4:32 | 2025-11-26 |  |
 | [Sometimes \- From "Fire Island"](https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Sometimes \(From "Fire Island"\)](https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE) | 3:03 | 2024-01-05 | 2025-05-07 |
 | [Sriracha](https://open.spotify.com/track/2o1WMrdNkgtGmchQ7lQ262) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial 2: Heidiwood Edition](https://open.spotify.com/album/13LkxmSDyseBJd5GA8sDam) | 1:59 | 2025-05-28 | 2025-10-18 |
 | [Stolen Youth Theme](https://open.spotify.com/track/5oKbKWXw1hnA0FPjCJtdTy) | [Martin Crane](https://open.spotify.com/artist/2ouBaibHv2I5ZEFI2YB4sr) | [Stolen Youth: Inside the Cult at Sarah Lawrence \(Original Soundtrack\)](https://open.spotify.com/album/7wAd02Dh9IVaaMMqTppLVF) | 1:47 | 2024-01-05 |  |
@@ -184,6 +186,8 @@
 | [When You're Smiling \- From "A Small Light: Episode 5"](https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [When You're Smiling \(From "A Small Light: Episode 5"\)](https://open.spotify.com/album/56lqgFLhUqig0etW9hU3eq) | 2:29 | 2024-01-05 | 2025-05-07 |
 | [Which of the Pickwick Triplets Did It? \- From "Only Murders in the Building: Season 3"](https://open.spotify.com/track/72exBvnuCGiFCNkKoLbW1r) | [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK) | [Which of the Pickwick Triplets Did It? \(From "Only Murders in the Building: Season 3"\)](https://open.spotify.com/album/5rdADdBpF0qp94W93Ho8z8) | 2:47 | 2024-01-05 |  |
 | [White Wedding](https://open.spotify.com/track/3fBp5HYlkWrQ80k2CrUMNv) | [Bukola](https://open.spotify.com/artist/3DI1hTY14mlkNoehKLD6wA) | [The Princess \(Original Soundtrack\)](https://open.spotify.com/album/5WQyFBDknDhKvvgFdwamNK) | 4:16 | 2024-01-05 |  |
+| [Why Can't We Be Friends](https://open.spotify.com/track/6x959m2QDvatSwUAVCHIuf) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:50 | 2025-11-26 |  |
 | [Yeah, Sweetie!](https://open.spotify.com/track/0iN69rKzJPf756UsUaryH7) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [Eenie Meanie \(Original Soundtrack\)](https://open.spotify.com/album/4gqkIilXAvbpQc2KXxWzt4) | 3:06 | 2025-08-22 | 2025-08-28 |
+| [Young And Beautiful](https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Young And Beautiful](https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL) | 3:56 | 2025-11-26 |  |
 
 \*This playlist was first scraped on 2024-02-15. Prior content cannot be recovered.

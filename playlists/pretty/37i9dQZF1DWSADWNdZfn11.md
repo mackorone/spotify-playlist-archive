@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,631 likes - 200 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,717 likes - 200 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 33 | [I Want It That Way](https://open.spotify.com/track/3xoscGfo3Sbmc00fDVEBaR) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [I Want It That Way](https://open.spotify.com/album/639i9A2oB8V2mexPHN0lBM) | 3:36 |
 | 34 | [Charlie Brown](https://open.spotify.com/track/7KluGrB2TTDOD8fRac1jGy) | [Walter Finn](https://open.spotify.com/artist/7EDPwTACqHva4NyJ3DDRuZ) | [Charlie Brown](https://open.spotify.com/album/0jzdKm3YaUwnpn3rA0LBWt) | 3:02 |
 | 35 | [Blinding Lights](https://open.spotify.com/track/0lyj9SQRKOg5hEOUzkmwZd) | [Adrienne Clotard](https://open.spotify.com/artist/48yNGJAgVQrkppL5jK0wn1) | [Blinding Lights](https://open.spotify.com/album/3kUQ3M6Dw3X8bD2aDxlpJg) | 3:08 |
-| 36 | [Call Me Maybe](https://open.spotify.com/track/680gMnaHdKRQzb4TjH3pKM) | [Kian Rhodes](https://open.spotify.com/artist/6tDvpHpVEgxeHQFcesr1Ca) | [Call Me Maybe](https://open.spotify.com/album/6MR8YMftNEhtMzSvy8hGVa) | 2:49 |
+| 36 | [Call Me Maybe](https://open.spotify.com/track/680gMnaHdKRQzb4TjH3pKM) | [Jasper Avelline](https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1) | [Call Me Maybe](https://open.spotify.com/album/6MR8YMftNEhtMzSvy8hGVa) | 2:49 |
 | 37 | [Beggin'](https://open.spotify.com/track/6mUC7YgPQsfRRh7hD3Su4e) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Beggin'](https://open.spotify.com/album/68kIm6dt4DG2RqCBEXhMcF) | 2:58 |
 | 38 | [The Joker And The Queen](https://open.spotify.com/track/50b9WR0RsWdG0pvgTzQQhi) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [The Joker And The Queen](https://open.spotify.com/album/0cnOgEre1gyqiJr9lz6LwB) | 3:42 |
 | 39 | [Ruin My Life](https://open.spotify.com/track/64aOxh3nmJQYS2GqWBP4lP) | [Haley Steegens](https://open.spotify.com/artist/50oUrFxXcPqq2Sk4RVfq6e) | [Ruin My Life](https://open.spotify.com/album/2qYtTfyhjIOrudRZWE34xv) | 2:18 |
 | 40 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 |
 | 41 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 |
 | 42 | [Don't you \(forget about me\)](https://open.spotify.com/track/047JoNpQUy32PBt10VwwQ8) | [Winston Brey](https://open.spotify.com/artist/5PTB02QceIVI0Fogokj6v7) | [Don't you \(forget about me\)](https://open.spotify.com/album/62AfSthGAMGooKPvTUuZm3) | 3:26 |
-| 43 | [Shivers](https://open.spotify.com/track/4SwOiakLxdV06pg5xhNo8a) | [Emile Dufresne](https://open.spotify.com/artist/10dzYEl5JeUt14w8tlUyrv) | [Shivers](https://open.spotify.com/album/2VBp7gqZRjAEKgfJu0u3XJ) | 2:19 |
+| 43 | [Shivers](https://open.spotify.com/track/4SwOiakLxdV06pg5xhNo8a) | [Heim Lawson](https://open.spotify.com/artist/1koR9l4VPWFv0WZTIyNSaK) | [Shivers](https://open.spotify.com/album/2VBp7gqZRjAEKgfJu0u3XJ) | 2:19 |
 | 44 | [If You Leave Me Now](https://open.spotify.com/track/0k3eB65qL3T1GQyJmGNUgV) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [If You Leave Me Now](https://open.spotify.com/album/1sBYO3z6cl6Fd6NNOPeGxu) | 3:19 |
 | 45 | [I Will Wait](https://open.spotify.com/track/3EiU5qZUHJhQFpavXkO2F7) | [Helene Augbert](https://open.spotify.com/artist/2UgCgBhnSiz8CAXdykcOXV) | [I Will Wait](https://open.spotify.com/album/2rIJ96WWRZkmgxP1lRp328) | 3:43 |
 | 46 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 |

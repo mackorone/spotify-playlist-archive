@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Embrace your inner Princess with your favorite Disney Princess songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,846 likes - 69 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,954 likes - 69 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 | 65 | [Princess Things](https://open.spotify.com/track/6wCsDkBf2SLZecm1M7p7aJ) | [Cast \- Sofia the First](https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p) | [Sofia the First](https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y) | 2:06 |
 | 66 | [Some Day My Prince Will Come \- From "Snow White And The Seven Dwarfs" Soundtrack](https://open.spotify.com/track/3kLOBeuIpo1am7jpYQZhuq) | [Adriana Caselotti](https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ) | [Disney Princess: The Ultimate Song Collection](https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ) | 1:54 |
 | 67 | [Down In New Orleans](https://open.spotify.com/track/7nNhiYThwK0OwYlHENARC0) | [Anika Noni Rose](https://open.spotify.com/artist/4fqk0Vw0VrIY8O2eWtmQO2) | [The Princess and the Frog: Tiana and Her Princess Friends](https://open.spotify.com/album/5mZgyfa7rkogNoxxqHpbOg) | 2:26 |
-| 68 | [Strong](https://open.spotify.com/track/7CMUQu028pU9oKOFMI6pgK) | [Sonna](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:14 |
+| 68 | [Strong](https://open.spotify.com/track/7CMUQu028pU9oKOFMI6pgK) | [Sonna Rele](https://open.spotify.com/artist/3xsipKZGmxYOaitFs52yJf) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 3:14 |
 | 69 | [That's How You Know \- From "Enchanted"/Soundtrack Version](https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7) | [Amy Adams](https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX) | [Enchanted](https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc) | 3:48 |
 
 Snapshot ID: `AAAAAGV3KDPE6I32E42Cr1Y0yTD171R1`

@@ -4,7 +4,7 @@
 
 > 
 
-7,910 songs - 20 day 9 hr 42 min
+7,913 songs - 20 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [03' Bonnie & Clyde](https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 3:25 | 2025-01-03 |  |
 | [03’ Adolescence](https://open.spotify.com/track/11qa6plS660rrrkf6VJ3cX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:24 | 2025-01-03 |  |
 | [06 dreamin](https://open.spotify.com/track/2WDLmMNQ44SDx9fHE50yJq) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:33 | 2024-12-14 |  |
+| [0g](https://open.spotify.com/track/0Hk3xtVqMJ1TSRqHeTcVye) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:16 | 2025-11-26 |  |
 | [1&ONLY](https://open.spotify.com/track/2Mj87i3rAgCjtD115OYFJx) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:21 | 2024-12-27 |  |
 | [10 Bands](https://open.spotify.com/track/12d5QFwzh60IIHlsSnAvps) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 2:57 | 2025-01-03 |  |
 | [10 Feet](https://open.spotify.com/track/4Z9cAwlkruSbWblPBthygg) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love](https://open.spotify.com/album/1GYVNOzwhx1nMcIJDogSNp) | 3:32 | 2025-01-03 |  |
@@ -4835,6 +4836,7 @@
 | [Raspberry Beret](https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around The World In A Day](https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM) | 3:35 | 2025-01-15 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 |  |
 | [Raydar](https://open.spotify.com/track/3utisM1p90YUtH7yjXyrrY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:24 | 2025-01-03 |  |
+| [RE Aoharu](https://open.spotify.com/track/4c1om3jDKoeOlk3SCUH8Ji) | [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p) | [Blue Archive 2.5th Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/5gX5DdM6la0IPxz3gS4idD) | 2:21 | 2025-11-26 |  |
 | [Re:birth Day](https://open.spotify.com/track/0I7CgE49XKhmxh6tRaqmrQ) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Re:birth Day](https://open.spotify.com/album/2FhsvZsz9d35glyZMALO7Q) | 4:25 | 2025-09-08 |  |
 | [Re:Re:](https://open.spotify.com/track/28MKy2umF5roXSqmUQ9eB7) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [Sol\-fa](https://open.spotify.com/album/5DLCjlZUCDb6VeQnohl5fU) | 3:48 | 2024-12-07 |  |
 | [Re:Re: \(Single ver.\)](https://open.spotify.com/track/7gehOKSGfZgjIJSxiyE8oD) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [Re: Re:](https://open.spotify.com/album/23D18mxnMTTn56cgcmlSWh) | 5:32 | 2024-12-07 |  |
@@ -7350,6 +7352,7 @@
 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 | 2024-12-10 |  |
 | [恋](https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [blues](https://open.spotify.com/album/2puS4XHci0XEcLNNY4xgjv) | 4:13 | 2024-12-10 |  |
 | [恋のような](https://open.spotify.com/track/3hY23xPHjD0Qy6vM3Yrde3) | [冬馬かずさ](https://open.spotify.com/artist/4K00LPynKInLAROJJr9dBm) | [WHITE ALBUM2 Original Soundtrack ～encore～](https://open.spotify.com/album/2CRfHR1WWeJ0r5V9edOJGe) | 4:43 | 2025-05-17 |  |
+| [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 | 2025-11-26 |  |
 | [恋人ができたんだ](https://open.spotify.com/track/0xFj47kde9HCKdivI4qIh7) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [woman’s](https://open.spotify.com/album/0Oju4XPjqPMn1Md8DmMMuh) | 5:03 | 2025-01-04 |  |
 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 | 2025-01-04 |  |
 | [恋愛サーキュレーション](https://open.spotify.com/track/6luI5Go8acCnPJvx7A8BkF) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Bakemonogatari Gekihanongakushu \(Original Soundtrack\)](https://open.spotify.com/album/2sEpN2bNZaS8xgpaPDNJej) | 4:15 | 2025-01-15 |  |

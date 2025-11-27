@@ -251,6 +251,32 @@
     },
     {
       "album": {
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/1VtjNoLr9baoamWZSnmYyJ"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Emma Dean",
+          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157551,
+      "name": "I Don't Have a Chimney",
+      "url": "https://open.spotify.com/track/105fq3Q3qBGsVQUNq8pBoH"
+    },
+    {
+      "album": {
         "name": "Bluey the Album (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
       },

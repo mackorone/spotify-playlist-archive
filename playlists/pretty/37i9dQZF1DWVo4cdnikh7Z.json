@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Parasakthi",
-  "num_followers": 729265,
+  "num_followers": 729351,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJf1cUXrQ58O2pt9rNPRgdMwNAVq",
+  "snapshot_id": "AAAAAEyVIxm+l0aRmeJ2U07ObN0P8ZT+",
   "tracks": [
     {
       "added_at": "2025-11-08 17:48:14",
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/7pk4KSPgRu0QPfYUaT9VEd"
     },
     {
+      "added_at": "2025-11-26 11:17:25",
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "duration_ms": 364651,
+      "name": "Theekkoluthi",
+      "url": "https://open.spotify.com/track/4HAJQk7bvl5wuKnUI9QXXg"
+    },
+    {
       "added_at": "2025-11-03 06:31:09",
       "album": {
         "name": "Dude (Original Motion Picture Soundtrack)",
@@ -156,7 +176,7 @@
           "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
         },
         {
-          "name": "bebhumika",
+          "name": "Bhumi",
           "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
         },
         {
@@ -261,26 +281,6 @@
       "url": "https://open.spotify.com/track/4b2oOabEPMuQTNboXon8cf"
     },
     {
-      "added_at": "2025-09-02 09:21:05",
-      "album": {
-        "name": "Theekkoluthi (From \"Bison Kaalamadan\")",
-        "url": "https://open.spotify.com/album/07Dw4Lngh65vRnGwFSspdP"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Mari Selvaraj",
-          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
-        }
-      ],
-      "duration_ms": 364651,
-      "name": "Theekkoluthi - From \"Bison Kaalamadan\"",
-      "url": "https://open.spotify.com/track/5TiY2x67s6iWW0VS9LhbwF"
-    },
-    {
       "added_at": "2025-11-06 07:16:38",
       "album": {
         "name": "Yeno Indru (From \"Think Indie\")",
@@ -325,6 +325,58 @@
       "url": "https://open.spotify.com/track/5uSUw3SoWAmmudDMu5CWzx"
     },
     {
+      "added_at": "2025-11-26 11:22:18",
+      "album": {
+        "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BLoEiZ4pH0zsYr4stkMD9"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        },
+        {
+          "name": "Mari Selvaraj",
+          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
+        }
+      ],
+      "duration_ms": 303203,
+      "name": "Rekka Rekka",
+      "url": "https://open.spotify.com/track/7irQXVDibbl9ijrLajUVap"
+    },
+    {
+      "added_at": "2025-11-26 11:17:25",
+      "album": {
+        "name": "Jilloma (From \"Middle Class\")",
+        "url": "https://open.spotify.com/album/6aJohKCowUgyqnxb6YYhDj"
+      },
+      "artists": [
+        {
+          "name": "Pranav Muniraj",
+          "url": "https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Aasamy",
+          "url": "https://open.spotify.com/artist/3cU465o0Drs2JeNOm9Ljio"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Jilloma - From \"Middle Class\"",
+      "url": "https://open.spotify.com/track/2OCj3WRwlVxhz3LCvMh43X"
+    },
+    {
       "added_at": "2025-11-03 06:31:09",
       "album": {
         "name": "Dude (Original Motion Picture Soundtrack)",
@@ -351,34 +403,6 @@
       "duration_ms": 208000,
       "name": "Singari",
       "url": "https://open.spotify.com/track/0pxE2MKJnBMR9c0giy7v5J"
-    },
-    {
-      "added_at": "2025-09-16 14:37:44",
-      "album": {
-        "name": "Rekka Rekka (From \"Bison Kaalamaadan\")",
-        "url": "https://open.spotify.com/album/7Br0FidswToB3vRdj9H8Nl"
-      },
-      "artists": [
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        },
-        {
-          "name": "Arivu",
-          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        },
-        {
-          "name": "Mari Selvaraj",
-          "url": "https://open.spotify.com/artist/38Zkf8fQfCpFzXsHfGVRdF"
-        }
-      ],
-      "duration_ms": 303203,
-      "name": "Rekka Rekka - From \"Bison Kaalamaadan\"",
-      "url": "https://open.spotify.com/track/2lyodB0HLF9KWD8lR4EA4J"
     },
     {
       "added_at": "2025-11-18 11:31:29",
@@ -553,6 +577,30 @@
       "url": "https://open.spotify.com/track/2teURTq6Mu1JLea71INCB9"
     },
     {
+      "added_at": "2025-11-26 11:17:25",
+      "album": {
+        "name": "Kannu munna nee iruka (From \"Acacia\")",
+        "url": "https://open.spotify.com/album/2zgi17avH2usPTrVriiOe5"
+      },
+      "artists": [
+        {
+          "name": "Sutharsan",
+          "url": "https://open.spotify.com/artist/2oRBfOhWbA12Xro51pxlma"
+        },
+        {
+          "name": "Srinivas",
+          "url": "https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl"
+        },
+        {
+          "name": "Vettrivel Thushayanthan",
+          "url": "https://open.spotify.com/artist/3Ik8OQUbwbvE5QIfft4oLT"
+        }
+      ],
+      "duration_ms": 197683,
+      "name": "Kannu munna nee iruka - From \"Acacia\"",
+      "url": "https://open.spotify.com/track/6M8wB5I0dqOVejDWO5BsYp"
+    },
+    {
       "added_at": "2025-11-17 09:30:45",
       "album": {
         "name": "Cash Cash (From \"Mask\")",
@@ -607,6 +655,30 @@
       "duration_ms": 197000,
       "name": "Pretty Baby (From \"BIKER\")(Tamil)",
       "url": "https://open.spotify.com/track/3FFAs2fzqwNNg8K3tywdYZ"
+    },
+    {
+      "added_at": "2025-11-26 11:22:18",
+      "album": {
+        "name": "Ulla Vaa Ulla Vaa (From \"BP180\")",
+        "url": "https://open.spotify.com/album/75Xfl0aRzV0QtsYSQmwjHe"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "JP",
+          "url": "https://open.spotify.com/artist/6dhrfDa451BmkdoLKalZpu"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Ulla Vaa Ulla Vaa (From \"BP180\")",
+      "url": "https://open.spotify.com/track/0LZxVUOKXK3NvIjOZw8Zup"
     },
     {
       "added_at": "2025-10-23 10:56:39",
@@ -667,6 +739,34 @@
       "duration_ms": 236071,
       "name": "Nallaru Po - From \"Dude\"",
       "url": "https://open.spotify.com/track/3Nt5m3MOIrNt1sf8v14GPM"
+    },
+    {
+      "added_at": "2025-11-26 11:22:18",
+      "album": {
+        "name": "Hey Sendhaazha (The Heart of Pugazh) [From - Sattendru Maaridhu Vaanilai]",
+        "url": "https://open.spotify.com/album/222ywXvnauHzPykf6xxuia"
+      },
+      "artists": [
+        {
+          "name": "Abrahaam Nithya Pandian",
+          "url": "https://open.spotify.com/artist/4OFWGG9kCu6VqFkUlF3QlH"
+        },
+        {
+          "name": "Balapriya",
+          "url": "https://open.spotify.com/artist/3YJiz29jm4Cw4fjlwgf9Rl"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        },
+        {
+          "name": "Surya Sahish",
+          "url": "https://open.spotify.com/artist/4JINAjD0szth8UJDqxT9WB"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Hey Sendhaazha (The Heart of Pugazh) - From - Sattendru Maaridhu Vaanilai",
+      "url": "https://open.spotify.com/track/0s1rEqzxz195EMj4GWrnzI"
     },
     {
       "added_at": "2025-11-21 06:10:36",
@@ -1149,30 +1249,6 @@
       "url": "https://open.spotify.com/track/1NFJumdx1PMYvgsLGVApOB"
     },
     {
-      "added_at": "2025-11-13 04:48:49",
-      "album": {
-        "name": "Nee Oodidu (From \"Kinaru\")",
-        "url": "https://open.spotify.com/album/6JQ7aTeoWiwJMrwxeiVhsb"
-      },
-      "artists": [
-        {
-          "name": "Bhuvanesh Selvanesan",
-          "url": "https://open.spotify.com/artist/6Zv8qFORCOlUV0pogS2vP4"
-        },
-        {
-          "name": "Karunakaran",
-          "url": "https://open.spotify.com/artist/0fZ0aHWLYuLulTza4MsBTB"
-        },
-        {
-          "name": "Arjun Muralidharan",
-          "url": "https://open.spotify.com/artist/634iLUrDyXGlNzvhsAiPNH"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Nee Oodidu (From \"Kinaru\")",
-      "url": "https://open.spotify.com/track/0d3Y6FEcUrrYORLCDe0F4C"
-    },
-    {
       "added_at": "2025-11-03 14:36:27",
       "album": {
         "name": "AFRO TAPANG (From \"45\") [Tamil Version]",
@@ -1325,34 +1401,6 @@
       "url": "https://open.spotify.com/track/7G6YSEIDZ7MjXJ4oIuRLeA"
     },
     {
-      "added_at": "2025-11-03 14:44:12",
-      "album": {
-        "name": "Aayiram Poo (From \"Por Paravai\")",
-        "url": "https://open.spotify.com/album/0rdlZBYfredce4xPPbLOXI"
-      },
-      "artists": [
-        {
-          "name": "Midhun Narayanan",
-          "url": "https://open.spotify.com/artist/1bbYzJo3HkprEZyESlsY2z"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Nithya Mammen",
-          "url": "https://open.spotify.com/artist/2owqnucVjlA9rzjTti9B0P"
-        },
-        {
-          "name": "Yugabharathi",
-          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Aayiram Poo (From \"Por Paravai\")",
-      "url": "https://open.spotify.com/track/6aqs6XBNS9854dX2slSlcu"
-    },
-    {
       "added_at": "2025-11-03 08:21:52",
       "album": {
         "name": "Bison Kaalamaadan (Original Motion Picture Soundtrack)",
@@ -1487,22 +1535,6 @@
       "duration_ms": 307894,
       "name": "Abdi Abdi (From \"Genie\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/0B52MAFz7rSmePWRUuOmIl"
-    },
-    {
-      "added_at": "2025-09-10 13:03:15",
-      "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 85917,
-      "name": "Powerhouse x Disco",
-      "url": "https://open.spotify.com/track/6SSnh9P1xYHjTfbVBMmsTv"
     },
     {
       "added_at": "2025-11-03 06:31:09",
@@ -1811,30 +1843,6 @@
       "duration_ms": 258461,
       "name": "Ennale Ennale",
       "url": "https://open.spotify.com/track/0SNKyRUrs6Kk7ifGLkoLog"
-    },
-    {
-      "added_at": "2025-09-10 13:03:15",
-      "album": {
-        "name": "Coolie (Original Background Score)",
-        "url": "https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Lalo Salamanca",
-          "url": "https://open.spotify.com/artist/6slW8atwjY8d3XyvnlEBP2"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
-        }
-      ],
-      "duration_ms": 179339,
-      "name": "Dahaa Theme",
-      "url": "https://open.spotify.com/track/60rFducKmBbMPC8R6D3DE3"
     },
     {
       "added_at": "2025-09-18 12:54:22",

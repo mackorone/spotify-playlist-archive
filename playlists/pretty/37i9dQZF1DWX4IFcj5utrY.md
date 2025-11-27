@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Floyd Lavine
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,800 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,888 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 13 | [Lift Your Hands](https://open.spotify.com/track/1CdiJrMij4OBmxY7d0bIDv) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Lift Your Hands](https://open.spotify.com/album/0FkV7kAd2G1D3GnrUjjTqJ) | 6:07 |
 | 14 | [Phesheya](https://open.spotify.com/track/2cqRkbubhLlwDlEOoksEXt) | [JayJayy](https://open.spotify.com/artist/0Tp9c5DcGoHSU4V8bt4Q1U), [Mordecai](https://open.spotify.com/artist/15Nx2Vsu6WjYBUPcBptftM) | [Phesheya](https://open.spotify.com/album/5a1dhBeomIePHaxKDRv6kB) | 5:50 |
 | 15 | [Amaphupho](https://open.spotify.com/track/2zXofbvj4aLQkwXvfLtazL) | [Rethabile Khumalo](https://open.spotify.com/artist/79b9O9C4dZhszxkYiaysUV), [Exclusive Drumz](https://open.spotify.com/artist/3rNiGadXFR9NyaHAT0utl6) | [Amaphupho](https://open.spotify.com/album/58jofMkMku2onn2IUdRNvZ) | 4:52 |
-| 16 | [Wamuhle](https://open.spotify.com/track/6qxOK7IctHVnuTlXQH8lPz) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [TCT](https://open.spotify.com/artist/4YFvugDqgdcM8ByK0B4h8g), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Catch Me If You Can](https://open.spotify.com/album/2EaHd8tGSi3L4uwiM3jke1) | 5:25 |
+| 16 | [Wamuhle](https://open.spotify.com/track/6qxOK7IctHVnuTlXQH8lPz) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Mthandazo Gatya](https://open.spotify.com/artist/3jxs3XKuz7KUmjBMN5Yees), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Catch Me If You Can](https://open.spotify.com/album/2EaHd8tGSi3L4uwiM3jke1) | 5:25 |
 | 17 | [at last](https://open.spotify.com/track/75ZbD6maRlSx46nM89ekF6) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [at last](https://open.spotify.com/album/117SWnwbzEWxmEtJDmUfRN) | 2:10 |
 | 18 | [Umlolozi](https://open.spotify.com/track/713quELIbXIQxA77U2HQnI) | [Argento Dust](https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Umlolozi EP](https://open.spotify.com/album/254BHBOxSlJSDlMsuaR84s) | 6:33 |
 | 19 | [Ungalele](https://open.spotify.com/track/3hnWwc3W3woWayX1ZrIY4S) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh) | [Ungalele](https://open.spotify.com/album/59zTF5bZHhA7yA1VHvNR02) | 4:26 |

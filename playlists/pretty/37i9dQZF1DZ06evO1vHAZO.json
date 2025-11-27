@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6233,
+  "num_followers": 6239,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAAAxRg+O+ZWKHhwxhm1HmwEr",
+  "snapshot_id": "aSTxgAAAAAAwqz/2bsVy196azCMiF8ML",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 240093,
-      "name": "Roll with It - Remastered",
-      "url": "https://open.spotify.com/track/05CNnC9ugYgnJgg6fIgyeQ"
+      "duration_ms": 303320,
+      "name": "Morning Glory - Remastered",
+      "url": "https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM"
     },
     {
       "added_at": null,
@@ -340,15 +340,15 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 303320,
-      "name": "Morning Glory - Remastered",
-      "url": "https://open.spotify.com/track/0awZMpokrVSdvtYe1MdcWM"
+      "duration_ms": 240093,
+      "name": "Roll with It - Remastered",
+      "url": "https://open.spotify.com/track/05CNnC9ugYgnJgg6fIgyeQ"
     },
     {
       "added_at": null,
       "album": {
         "name": "Standing On The Shoulder Of Giants",
-        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+        "url": "https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Fuckin' in the Bushes",
-      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
+      "duration_ms": 278400,
+      "name": "Go Let It Out",
+      "url": "https://open.spotify.com/track/3eFL9jPBBALueXfjhe0jCd"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 257812,
-      "name": "Bring It on Down - Remastered",
-      "url": "https://open.spotify.com/track/4H9muKIJpzTODxUxkPTgnH"
+      "duration_ms": 322946,
+      "name": "Rock 'n' Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/03QZPaiw1N94aAFDv7k5Em"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Go Let It Out",
-      "url": "https://open.spotify.com/track/7kFbTUR31qyzrjjary7llr"
+      "duration_ms": 198533,
+      "name": "Fuckin' in the Bushes",
+      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(What's The Story) Morning Glory? (30th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4EYiaCimOb1Li1bnb7ppi6"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 44626,
-      "name": "The Swamp Song (Excerpt 1) - Remastered",
-      "url": "https://open.spotify.com/track/1ySErNCwCKqKIgB4SBlrOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Knebworth 1996 (Live)",
         "url": "https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i"
       },
@@ -615,22 +599,6 @@
       "duration_ms": 368253,
       "name": "Gas Panic!",
       "url": "https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Masterplan",
-        "url": "https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Going Nowhere",
-      "url": "https://open.spotify.com/track/5YZHUGhrN5w24R6xKdcLBi"
     }
   ],
   "unique_name": "This Is Oasis (3)",

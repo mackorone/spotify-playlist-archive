@@ -1271,6 +1271,32 @@
     },
     {
       "album": {
+        "name": "Gunda 2 (feat. Jatin Tyagi)",
+        "url": "https://open.spotify.com/album/3IayS3JWiK6pUdQb2kO2WX"
+      },
+      "artists": [
+        {
+          "name": "Aman Jaji",
+          "url": "https://open.spotify.com/artist/3VJGHT0QL4RFU1DVpinyo3"
+        },
+        {
+          "name": "Narender Bhagana",
+          "url": "https://open.spotify.com/artist/6Fom93njgQmfWGslEx76dE"
+        },
+        {
+          "name": "Jatin Tyagi",
+          "url": "https://open.spotify.com/artist/0DNLyxjauOUQznxJVwS0Tc"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Gunda 2 (feat. Jatin Tyagi)",
+      "url": "https://open.spotify.com/track/6zgWpXFihYLR9HWpt31Dvp"
+    },
+    {
+      "album": {
         "name": "Gunda Tera Yaar",
         "url": "https://open.spotify.com/album/2Q0hMm4quCqIkJdtF8eW61"
       },
@@ -2614,7 +2640,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 152238,
       "name": "Pehlwan",
       "url": "https://open.spotify.com/track/1SnFnbxHkldx3dZxgv7RVw"

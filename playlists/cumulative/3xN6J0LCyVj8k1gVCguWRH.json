@@ -49051,6 +49051,24 @@
     },
     {
       "album": {
+        "name": "Lakeside",
+        "url": "https://open.spotify.com/album/7itZ0XTVvEGsWaCKQ4Vbts"
+      },
+      "artists": [
+        {
+          "name": "Luvall",
+          "url": "https://open.spotify.com/artist/29QgcfGCGexIlzUypdYDzM"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115578,
+      "name": "Lakeside",
+      "url": "https://open.spotify.com/track/0tBtqZdkYcmLYhCElXtCMV"
+    },
+    {
+      "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/0R2oNzVytzrzI14fW759Qr"
       },

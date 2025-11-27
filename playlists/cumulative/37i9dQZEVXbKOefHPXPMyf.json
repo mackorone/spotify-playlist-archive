@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "Puerto Rico Vive",
+        "url": "https://open.spotify.com/album/3QMkMH8Iurn8yYiTYebZZK"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Abreme Paso",
+      "url": "https://open.spotify.com/track/51OKtGMRrNYmgrFBZj6RJZ"
+    },
+    {
+      "album": {
         "name": "LlenO 2",
         "url": "https://open.spotify.com/album/6T7iv4QkNq0XkGyhCOhfEH"
       },
@@ -3168,6 +3186,24 @@
       "duration_ms": 148321,
       "name": "AL BORDE",
       "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
+    },
+    {
+      "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/5ANEFe2tJKtn3O0zr7cJrE"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224311,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/29OfK2Au1LFtDNSKwsAm7i"
     },
     {
       "album": {
@@ -33484,7 +33520,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
@@ -34108,7 +34144,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 811228,
       "name": "Intro: MEIN LEBEN (feat. \u00d1engo Flow, iZaak, Juanka, Mvchoo23, Omy de Oro, Noriel, Jouseph Yadiel, La Momia, Baby Johnny, Kendo Kaponi)",
       "url": "https://open.spotify.com/track/6sp1YvGyECPvORZ63i2DIY"
@@ -38354,6 +38390,28 @@
       "duration_ms": 256986,
       "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
       "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "album": {
+        "name": "NO LABELS: PART 01",
+        "url": "https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF"
+      },
+      "artists": [
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        },
+        {
+          "name": "Daniela Avanzini",
+          "url": "https://open.spotify.com/artist/4OtrER6OKuiMDrkHi4Iv9Y"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154053,
+      "name": "Let Me Tell You (feat. Daniela of KATSEYE)",
+      "url": "https://open.spotify.com/track/2Hg6JQr80HfDgb8T9s28g1"
     },
     {
       "album": {
@@ -55176,7 +55234,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 283668,
       "name": "Pieza Exhibici\u00f3n",
       "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
@@ -62242,7 +62300,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 252192,
       "name": "SEXTO SENTIDO",
       "url": "https://open.spotify.com/track/3jS7jL99vwYIL1YyPOvaPS"
@@ -72786,7 +72844,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 215999,
       "name": "Tu peleas por m\u00ed",
       "url": "https://open.spotify.com/track/7zHZUjgyWKKgomiUk82wFR"

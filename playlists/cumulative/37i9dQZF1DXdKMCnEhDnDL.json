@@ -3240,6 +3240,24 @@
     {
       "album": {
         "name": "Hoogtevrees",
+        "url": "https://open.spotify.com/album/2eFFsUoXgThMpW3hCZdqJ0"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215568,
+      "name": "Hoogtevrees",
+      "url": "https://open.spotify.com/track/4EgjDXCj3Nokm6cP0FVH1F"
+    },
+    {
+      "album": {
+        "name": "Hoogtevrees",
         "url": "https://open.spotify.com/album/5gyOFMVzZiV8YeT7xsmpss"
       },
       "artists": [
@@ -4022,6 +4040,28 @@
     {
       "album": {
         "name": "Je T'aime",
+        "url": "https://open.spotify.com/album/32Pwg37GdMsJ4Q883Lxjcb"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179005,
+      "name": "Je T'aime",
+      "url": "https://open.spotify.com/track/0PMYAtQFMbJLHxQjWK34N6"
+    },
+    {
+      "album": {
+        "name": "Je T'aime",
         "url": "https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5"
       },
       "artists": [
@@ -4036,7 +4076,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 179005,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA"
@@ -4210,6 +4250,24 @@
     {
       "album": {
         "name": "Kom Je Me Halen",
+        "url": "https://open.spotify.com/album/2je6JBBO4BeGNLjFDh7h4y"
+      },
+      "artists": [
+        {
+          "name": "BENR",
+          "url": "https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191357,
+      "name": "Kom Je Me Halen",
+      "url": "https://open.spotify.com/track/1PPrrxWinAzb60gdMRSqbq"
+    },
+    {
+      "album": {
+        "name": "Kom Je Me Halen",
         "url": "https://open.spotify.com/album/5KoWzJLpcVMGdasgczfUtS"
       },
       "artists": [
@@ -4224,7 +4282,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 191357,
       "name": "Kom Je Me Halen",
       "url": "https://open.spotify.com/track/66t9LXJ9dSziqLlnAukBn3"
@@ -4854,6 +4912,28 @@
     {
       "album": {
         "name": "Met Of Zonder Jou",
+        "url": "https://open.spotify.com/album/6OMjhZIPYMuaG5G6zVGK8g"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Line De Dauw",
+          "url": "https://open.spotify.com/artist/6gATtsf9uJYK3InnPmalWr"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Met Of Zonder Jou",
+      "url": "https://open.spotify.com/track/1seBaZOM4XeADlYWJ0ibEx"
+    },
+    {
+      "album": {
+        "name": "Met Of Zonder Jou",
         "url": "https://open.spotify.com/album/6z9xi38DbqJntYApAwfhM5"
       },
       "artists": [
@@ -4868,7 +4948,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 174266,
       "name": "Met Of Zonder Jou",
       "url": "https://open.spotify.com/track/3xRjrioxJQIjfJmGYxtyKR"
@@ -5284,7 +5364,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 195694,
       "name": "Nergens Liever",
       "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
@@ -5520,10 +5600,32 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 192208,
       "name": "Nu Wij Niet Meer Praten",
       "url": "https://open.spotify.com/track/2DcgyrzipwNRBuAw9nzpDG"
+    },
+    {
+      "album": {
+        "name": "Als Je Voor Me Staat",
+        "url": "https://open.spotify.com/album/5UZsSAKI7ObtNEj2voabWw"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192208,
+      "name": "Nu Wij Niet Meer Praten",
+      "url": "https://open.spotify.com/track/7d89CDPikSfHfQjw0WYnxB"
     },
     {
       "album": {
@@ -6588,6 +6690,24 @@
     {
       "album": {
         "name": "Sprakeloos",
+        "url": "https://open.spotify.com/album/0wvSyUbbI7uA3IDLmdcrHG"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145909,
+      "name": "Sprakeloos",
+      "url": "https://open.spotify.com/track/0phnbN8sTSUk1PSLLe1cic"
+    },
+    {
+      "album": {
+        "name": "Sprakeloos",
         "url": "https://open.spotify.com/album/1wSyoTzqvfj8Rx9D1L6x7Z"
       },
       "artists": [
@@ -6598,7 +6718,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 145909,
       "name": "Sprakeloos",
       "url": "https://open.spotify.com/track/1Y2KLMM1V2TeHcmOiiUXak"
@@ -8160,6 +8280,32 @@
     {
       "album": {
         "name": "Ze Komt Uit Amsterdam",
+        "url": "https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Ze Komt Uit Amsterdam",
+      "url": "https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF"
+    },
+    {
+      "album": {
+        "name": "Ze Komt Uit Amsterdam",
         "url": "https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F"
       },
       "artists": [
@@ -8178,7 +8324,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 152727,
       "name": "Ze Komt Uit Amsterdam",
       "url": "https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp"

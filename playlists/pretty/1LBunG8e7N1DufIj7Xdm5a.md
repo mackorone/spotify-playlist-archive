@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 231 likes - 3,643 songs - 8 day 0 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 234 likes - 3,646 songs - 8 day 0 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3651,5 +3651,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3641 | [Dis Gyal](https://open.spotify.com/track/42ercX8Nco8gqsu8UCLZL4) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj), [Alien Bwoy](https://open.spotify.com/artist/3RM28AyHsaaPBzw66mLeqF) | [Dis Gyal](https://open.spotify.com/album/2wBdA3hnm3WbGGalJl4N9w) | 2:23 |
 | 3642 | [Owoma](https://open.spotify.com/track/6JeENyAOFPgUfLQgMc27pD) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Owoma](https://open.spotify.com/album/5xLczMEy1ExSiPIIMsL4Sm) | 3:11 |
 | 3643 | [Tuli Babi](https://open.spotify.com/track/1rAR9meKtTImO8vxGlJqZb) | [1Mud Arvie](https://open.spotify.com/artist/08MIueXVv5RBO4d0hBtf4p) | [Tuli Babi](https://open.spotify.com/album/2o4qP2M4MXTT4izKJZTmC1) | 2:47 |
+| 3644 | [Come In](https://open.spotify.com/track/3r99kYKzRVXYyAbLzMJ8kz) | [The Fossil](https://open.spotify.com/artist/2zs3Ho6Kt2iDspmKCieyRX) | [Come In](https://open.spotify.com/album/59ntSYr0IFfQcoBaZgwqNH) | 3:42 |
+| 3645 | [Divide](https://open.spotify.com/track/5dsHDEtCMqELLu9cC0KCic) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Blindspot](https://open.spotify.com/album/0mwDzmvlLD8w6XiMURxOiv) | 3:33 |
+| 3646 | [\(Like a\) Dandy Warhol](https://open.spotify.com/track/0ioeSwEh7824IZ30X1x6s6) | [Soul Jacker](https://open.spotify.com/artist/6RWpDKMgURQqMiZOZJIFxa) | [Fantasmagoria USA Edition](https://open.spotify.com/album/1yoLAramuCAq4E2gLUth64) | 3:42 |
 
-Snapshot ID: `AAAGIjOXEODlcuvUUuTS2RG3vU188++8`
+Snapshot ID: `AAAGJdXwoO3Cq30JqLMRoj1ly/YdHvlq`

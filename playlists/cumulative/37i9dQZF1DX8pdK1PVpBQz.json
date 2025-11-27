@@ -24473,6 +24473,28 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/0lXpZTjbE0baebjDbnWybq"
+      },
+      "artists": [
+        {
+          "name": "Seb Szabo",
+          "url": "https://open.spotify.com/artist/2Fo3rEzOXtPFjkvs0LyeoT"
+        },
+        {
+          "name": "Joan & the Giants",
+          "url": "https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4BuO1GyW43Z2XBTzzA7RNo"
+    },
+    {
+      "album": {
         "name": "Figure Me Out",
         "url": "https://open.spotify.com/album/6THgtloZm71wKPcbuw2vks"
       },

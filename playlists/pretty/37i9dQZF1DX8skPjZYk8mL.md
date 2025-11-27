@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 
 > Soft instrumental lullabies for the little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,252 likes - 250 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,419 likes - 250 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8skPjZYk8mL.md) - [plain]
 | 64 | [Sweetheart's Serenade](https://open.spotify.com/track/3e1PmwNr7OHbiU9b1adPov) | [Bingos Bongos](https://open.spotify.com/artist/22UdEABdeekCbX5s914NMA) | [Sweetheart's Serenade](https://open.spotify.com/album/15K1GWxPfzQLniy0GOtsCW) | 2:26 |
 | 65 | [Window Into Stars](https://open.spotify.com/track/1nSPJgE2etM1nWUpMisKK6) | [Pepita Li](https://open.spotify.com/artist/2mHgyYAMnbSDrXDWGQHsRH) | [Window Into Stars](https://open.spotify.com/album/2BX2ew0hjjWinv8Zs2wd63) | 1:35 |
 | 66 | [Nanny's Gentle Swing](https://open.spotify.com/track/1u8AzuWc01kmpWdi7g6BGY) | [Bingos Bongos](https://open.spotify.com/artist/22UdEABdeekCbX5s914NMA) | [Nanny's Gentle Swing](https://open.spotify.com/album/5yI2seZdwUGFySs9Ir4ZWY) | 2:08 |
-| 67 | [Slumber Song](https://open.spotify.com/track/78Gb1qwrvnDXdY1Uo48gNE) | [Aden Sawyer](https://open.spotify.com/artist/0mTu6ciut4yJjP4VmKVgxB) | [Slumber Song](https://open.spotify.com/album/5GEPMF1a3eqQN7pImBOv9Z) | 2:36 |
+| 67 | [Slumber Song](https://open.spotify.com/track/78Gb1qwrvnDXdY1Uo48gNE) | [Charles Sanson](https://open.spotify.com/artist/44b6eI83N8Eq1QnHloCul6) | [Slumber Song](https://open.spotify.com/album/5GEPMF1a3eqQN7pImBOv9Z) | 2:36 |
 | 68 | [You, Me And The Starry Sky](https://open.spotify.com/track/1zoQ9MR4cK4qvJnVW1HCxe) | [Oneroi](https://open.spotify.com/artist/4YxbSmXrNBxz3Dz9THyMjx) | [You, Me And The Starry Sky](https://open.spotify.com/album/0et2RkKHXXr95Feb4xnG0F) | 1:56 |
 | 69 | [Beneath the Moss Blanket](https://open.spotify.com/track/5p9oq10jl6lPkReOagyP05) | [Milo Grímur](https://open.spotify.com/artist/7Cv54DMDXeAgu5XlhAJ1zE) | [Beneath the Moss Blanket](https://open.spotify.com/album/0y20NoazbcaYQHre3FVc63) | 1:44 |
 | 70 | [Pray For A Better Day](https://open.spotify.com/track/39zzCzSyzdR6stAihvlenT) | [Willow Leaf](https://open.spotify.com/artist/0kXI6vuhwYJE1daFSIduNU) | [Pray For A Better Day](https://open.spotify.com/album/3QN9W77b0YSgKIZCGXcUzZ) | 2:40 |

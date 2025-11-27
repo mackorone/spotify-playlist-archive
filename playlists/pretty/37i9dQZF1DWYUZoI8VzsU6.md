@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUZoI8VzsU6.md) - [plain]
 
 > back roads up loud with Ole 60
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,159 likes - 59 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,273 likes - 59 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

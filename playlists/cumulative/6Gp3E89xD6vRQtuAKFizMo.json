@@ -9203,6 +9203,24 @@
     },
     {
       "album": {
+        "name": "Still Breathing",
+        "url": "https://open.spotify.com/album/0We1yFqeAixiEj2m7Ecmql"
+      },
+      "artists": [
+        {
+          "name": "Thomas Gold",
+          "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147954,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/0nT4UzbfVLXIoZdRIqf1Ch"
+    },
+    {
+      "album": {
         "name": "Stop The World",
         "url": "https://open.spotify.com/album/5tjyquuAUCmHet1Fn1kLUW"
       },

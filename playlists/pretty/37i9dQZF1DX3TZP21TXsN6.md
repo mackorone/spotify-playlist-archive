@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: YVES, R\-D, Flo, Dubbel R en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,002 likes - 67 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,992 likes - 67 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Armaan & Arnaaz Gill
 
-64 songs - 3 hr 2 min
+65 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Symmetry \(feat\. Karan Aujla\) \- Remix](https://open.spotify.com/track/6Pd2kxiyTsbKdEAI1ghXg6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Play \(The Remixes\)](https://open.spotify.com/album/3SVt9F02xRJpTHkiPR72rm) | 3:08 | 2025-10-17 | 2025-11-22 |
 | [Taarh Taarh](https://open.spotify.com/track/1g7tpjq4VzqsCcKDHANCJv) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Taarh Taarh](https://open.spotify.com/album/0l9RRpjuosozkTNjv1uPb9) | 2:01 | 2025-10-17 |  |
 | [Tension](https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:48 | 2025-10-17 |  |
-| [That Girl](https://open.spotify.com/track/2lHslGtLZJe0IGhiGwswBy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Judaa 3 Chapter 2](https://open.spotify.com/album/6d5G9vxugneVH3l4id4XCO) | 2:37 | 2025-10-17 |  |
+| [That Girl](https://open.spotify.com/track/2lHslGtLZJe0IGhiGwswBy) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Judaa 3 Chapter 2](https://open.spotify.com/album/6d5G9vxugneVH3l4id4XCO) | 2:37 | 2025-10-17 | 2025-11-27 |
 | [UNO REVERSE](https://open.spotify.com/track/4Nu4Yrk5SRK7KLRwSJ1iGi) | [Xvir Grewal](https://open.spotify.com/artist/6kGxwXzhQX2OfUcGNi5Rh6) | [UNO REVERSE](https://open.spotify.com/album/2S0ihVhOLkBCfk5T1ZFCK2) | 2:36 | 2025-10-17 | 2025-11-07 |
 | [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 | 2025-10-17 |  |
 | [Winning](https://open.spotify.com/track/18ixfNtdcpUWWUQJfPf0jg) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Legal Robbery](https://open.spotify.com/album/1eyna4oK9epImEisREJYu9) | 2:47 | 2025-10-17 | 2025-11-04 |
@@ -72,5 +72,6 @@
 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 | 2025-10-17 | 2025-11-26 |
 | [You're U Tho](https://open.spotify.com/track/7E4EhLK8mG4ORi3QR52r2A) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:03 | 2025-10-17 |  |
 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 | 2025-10-17 |  |
+| [Zindagi Chill \( Without Rap \)](https://open.spotify.com/track/6qkIPklOHNKcK7seo0JMnQ) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/album/11Gu0MzhiiwyNfhM6GYvVt) | 2:45 | 2025-11-26 |  |
 
 \*This playlist was first scraped on 2025-10-21. Prior content cannot be recovered.

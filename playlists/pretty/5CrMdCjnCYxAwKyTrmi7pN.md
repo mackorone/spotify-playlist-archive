@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CrMdCjnCYxAwKyTrmi7pN.md) - [plain]
 
 > Get cozy met deze playlist vol herfstvibes! Met muziek van Olivia Dean, Morgan Wallen, Lola Young en meer...
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,997 likes - 101 songs - 5 hr 41 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 129,979 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

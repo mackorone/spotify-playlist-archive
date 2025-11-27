@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 
 > We asked artists to shout out the rising names we \(and you\) need to know — and these are their picks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169 likes - 72 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 181 likes - 72 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cYvrVMHxrj.md) - [plain]
 | 71 | [Samba Errado](https://open.spotify.com/track/36LTx0WTw6z7ySF27cSimH) | [Caxtrinho](https://open.spotify.com/artist/5urBZ4BQg3Ohpkf3xZjMKI) | [Queda Livre](https://open.spotify.com/album/5P0mCSJLuXhGKnLzfvLIAn) | 1:56 |
 | 72 | [No Rush](https://open.spotify.com/track/1gYZFTiH6N7kKlZK5jUFEa) | [Elia Esparza](https://open.spotify.com/artist/7wAzGQDLEsCvXoj8oVcJJG) | [Not To Be Dramatic](https://open.spotify.com/album/403WvXBzfBRuAVhEETUhba) | 2:51 |
 
-Snapshot ID: `AAAAAIFi15ArPRTV1EYglVDH93/ikl66`
+Snapshot ID: `AAAAACfEbglSirJGBsrRM/cHPFEjPxzt`

@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Caparezza in cover.",
-  "num_followers": 48095,
+  "num_followers": 48104,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -563,30 +563,18 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "BISTRO!",
-        "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
+        "name": "King Del Rap",
+        "url": "https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir"
       },
       "artists": [
         {
-          "name": "Sick Budd",
-          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
-        },
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Rev\u00e9",
-          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 192814,
-      "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
-      "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
+      "duration_ms": 240080,
+      "name": "King Del Rap",
+      "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -611,18 +599,30 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "King Del Rap",
-        "url": "https://open.spotify.com/album/6oEroJCKNSoYDi4LfnQTir"
+        "name": "BISTRO!",
+        "url": "https://open.spotify.com/album/5etB9KR1byXqNnRp4UcmxJ"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Sick Budd",
+          "url": "https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Rev\u00e9",
+          "url": "https://open.spotify.com/artist/01Isxz2v0SDQALf5wpV74V"
         }
       ],
-      "duration_ms": 240080,
-      "name": "King Del Rap",
-      "url": "https://open.spotify.com/track/7iyfSIHYEZx9zDSMJO39EE"
+      "duration_ms": 192814,
+      "name": "Buste Di Speranza (feat. Ernia, Dani Faiv & Rev\u00e9)",
+      "url": "https://open.spotify.com/track/0n496v17NNQlJwVeLQIuYh"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "The Island Chainsaw Massacre",
-        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 220682,
-      "name": "Il senso dell'odio",
-      "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "107 Elementi",
         "url": "https://open.spotify.com/album/6FVB7bR0jpYAZWEXy6aj1o"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "The Island Chainsaw Massacre",
+        "url": "https://open.spotify.com/album/3StmlOv5fGGcEYCFCbmZ6y"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 220682,
+      "name": "Il senso dell'odio",
+      "url": "https://open.spotify.com/track/4dmlwM2UEHKR4BNQSm5zbN"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "Vamos A La Playa",
         "url": "https://open.spotify.com/album/5fr1wcOii3TO5Uzpu7I8nZ"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 158437,
       "name": "Vamos A La Playa",
       "url": "https://open.spotify.com/track/7olI7QYqmFdrHxLgtoLxtW"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Melograno",
+        "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Kintsugi",
+          "url": "https://open.spotify.com/artist/6nkziP0t4AGtsBye9poRnv"
+        }
+      ],
+      "duration_ms": 265288,
+      "name": "Anima Nera",
+      "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1367,22 +1387,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
-      },
-      "artists": [
-        {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
-        }
-      ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1399,22 +1403,18 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Melograno",
-        "url": "https://open.spotify.com/album/7ymhSWJJsQHDrbuJYDAQxw"
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
       "artists": [
         {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        },
-        {
-          "name": "Kintsugi",
-          "url": "https://open.spotify.com/artist/6nkziP0t4AGtsBye9poRnv"
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
         }
       ],
-      "duration_ms": 265288,
-      "name": "Anima Nera",
-      "url": "https://open.spotify.com/track/3VTAOKO2J31R9hygGe0U5j"
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Musica Cicatrene",
-        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
-      },
-      "artists": [
-        {
-          "name": "Mezzosangue",
-          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "SECONDO MEDIOEVO",
-      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "Adversus",
         "url": "https://open.spotify.com/album/2biz6ijv7eDRc1TjCwz9Kk"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 256026,
       "name": "Miglia e promesse",
       "url": "https://open.spotify.com/track/09aAMlgeP9ghpRrOhiMZAS"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Musica Cicatrene",
+        "url": "https://open.spotify.com/album/2lT5pe1rUrrhzLY0AYvu5d"
+      },
+      "artists": [
+        {
+          "name": "Mezzosangue",
+          "url": "https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "SECONDO MEDIOEVO",
+      "url": "https://open.spotify.com/track/5pqHMW2Nubqpii1BJhhVnZ"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1583,34 +1583,6 @@
       "duration_ms": 172151,
       "name": "Sindrome di Stendhal",
       "url": "https://open.spotify.com/track/6SaI3nXXwwn7ErkiWNiA3I"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Machete Mixtape, Vol. 3",
-        "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
-      },
-      "artists": [
-        {
-          "name": "Clementino",
-          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Jack The Smoker",
-          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
-        },
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1643,6 +1615,50 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "Machete Mixtape, Vol. 3",
+        "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
+      },
+      "artists": [
+        {
+          "name": "Clementino",
+          "url": "https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Rapper Italiano",
+        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 205226,
+      "name": "Rapper italiano",
+      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "L'unica amica leale",
         "url": "https://open.spotify.com/album/6PPtwMJbPw606PzQnPhQU8"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 207474,
       "name": "L'unica amica leale",
       "url": "https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Rapper Italiano",
-        "url": "https://open.spotify.com/album/7oOyCIvKK3sfPXLaAPwGs0"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 205226,
-      "name": "Rapper italiano",
-      "url": "https://open.spotify.com/track/3cjrqaNO6bDnnoraiZbJPw"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "Teoria Del Contrario",
+        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
+      },
+      "artists": [
+        {
+          "name": "Dani Faiv",
+          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
+        },
+        {
+          "name": "Pitto Stail",
+          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Heart",
+      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "Questo non \u00e8 un cane / Domo",
         "url": "https://open.spotify.com/album/0oVlowAcydHpJvAaR3jVUK"
       },
@@ -1807,42 +1827,6 @@
       "duration_ms": 179213,
       "name": "Nak Su Kao - Parte 2 - Domo Version",
       "url": "https://open.spotify.com/track/6Pm7BmNjPZUKq2CCee34Ub"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Teoria Del Contrario",
-        "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
-      },
-      "artists": [
-        {
-          "name": "Dani Faiv",
-          "url": "https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ"
-        },
-        {
-          "name": "Pitto Stail",
-          "url": "https://open.spotify.com/artist/24hJr9W031R87ILon5Y4o0"
-        }
-      ],
-      "duration_ms": 171942,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -1883,6 +1867,22 @@
       "duration_ms": 150749,
       "name": "IL BUIO NELLE MANI",
       "url": "https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
+        "name": "ALHAMBRA",
+        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 137941,
+      "name": "ALHAMBRA",
+      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
         "name": "Questo non \u00e8 un cane",
         "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
       },
@@ -2023,26 +2043,6 @@
       "duration_ms": 181346,
       "name": "Quelli come noi",
       "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
-        "name": "Fuoco Sacro",
-        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
-      },
-      "artists": [
-        {
-          "name": "Cor Veleno",
-          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
-        },
-        {
-          "name": "Franco126",
-          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
-        }
-      ],
-      "duration_ms": 193122,
-      "name": "Quante Notti (feat. Franco126)",
-      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2071,22 +2071,22 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "ALHAMBRA",
-        "url": "https://open.spotify.com/album/0e4RNAX5GnP0hx6GctdaO1"
+        "name": "Fuoco Sacro",
+        "url": "https://open.spotify.com/album/4gCsyBvpyCGQ0ScO6eHXUD"
       },
       "artists": [
         {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+          "name": "Cor Veleno",
+          "url": "https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R"
         },
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
         }
       ],
-      "duration_ms": 137941,
-      "name": "ALHAMBRA",
-      "url": "https://open.spotify.com/track/3sXz09jHZvaW0efN5Fo3fm"
+      "duration_ms": 193122,
+      "name": "Quante Notti (feat. Franco126)",
+      "url": "https://open.spotify.com/track/1BgewDwAKOBUQBBhm772V6"
     },
     {
       "added_at": "2025-11-06 23:01:14",
@@ -2695,26 +2695,6 @@
     {
       "added_at": "2025-11-06 23:01:14",
       "album": {
-        "name": "Rinascimento della tecnica",
-        "url": "https://open.spotify.com/album/6RCg5NY1bRcQITtuDv74oq"
-      },
-      "artists": [
-        {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/3gE0qFCbk9uPA5q6HJy0y4"
-        },
-        {
-          "name": "CROMA555",
-          "url": "https://open.spotify.com/artist/0EAuqFtKKT3d9THSUnMnYD"
-        }
-      ],
-      "duration_ms": 143105,
-      "name": "Rinascimento della tecnica",
-      "url": "https://open.spotify.com/track/4W8hfuGS0pwoufdceb6swZ"
-    },
-    {
-      "added_at": "2025-11-06 23:01:14",
-      "album": {
         "name": "Ora Che La Musica Non C'\u00e8",
         "url": "https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49"
       },
@@ -2735,6 +2715,26 @@
       "duration_ms": 262338,
       "name": "Ora Che La Musica Non C'\u00e8",
       "url": "https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry"
+    },
+    {
+      "added_at": "2025-11-06 23:01:14",
+      "album": {
+        "name": "Rinascimento della tecnica",
+        "url": "https://open.spotify.com/album/6RCg5NY1bRcQITtuDv74oq"
+      },
+      "artists": [
+        {
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/3gE0qFCbk9uPA5q6HJy0y4"
+        },
+        {
+          "name": "CROMA555",
+          "url": "https://open.spotify.com/artist/0EAuqFtKKT3d9THSUnMnYD"
+        }
+      ],
+      "duration_ms": 143105,
+      "name": "Rinascimento della tecnica",
+      "url": "https://open.spotify.com/track/4W8hfuGS0pwoufdceb6swZ"
     },
     {
       "added_at": "2025-11-06 23:01:14",

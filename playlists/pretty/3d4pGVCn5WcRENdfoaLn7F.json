@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 317,
+  "num_followers": 322,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAB/JFWa5CIss/aRB47FnGMfO07Cqsy",
+  "snapshot_id": "AAAB/qhUKRqHqzCKqyO7aA612eK2hNgJ",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1391,6 +1391,38 @@
       "duration_ms": 182601,
       "name": "Cindy Lee, Forever",
       "url": "https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv"
+    },
+    {
+      "added_at": "2025-11-26 13:43:10",
+      "album": {
+        "name": "Walk Through Quicksand",
+        "url": "https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE"
+      },
+      "artists": [
+        {
+          "name": "Tyler Davis",
+          "url": "https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC"
+        }
+      ],
+      "duration_ms": 211710,
+      "name": "Walk Through Quicksand",
+      "url": "https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b"
+    },
+    {
+      "added_at": "2025-11-26 14:23:22",
+      "album": {
+        "name": "Crashout Bandicoot",
+        "url": "https://open.spotify.com/album/5pEGwEj7GOB2qg2tOZW1Ut"
+      },
+      "artists": [
+        {
+          "name": "Four Stars",
+          "url": "https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG"
+        }
+      ],
+      "duration_ms": 177965,
+      "name": "Crashout Bandicoot",
+      "url": "https://open.spotify.com/track/4tr2Y43N2nmWDY14JzkRoi"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

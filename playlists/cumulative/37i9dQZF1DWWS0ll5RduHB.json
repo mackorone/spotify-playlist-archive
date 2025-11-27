@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Take Care Terry",
+        "url": "https://open.spotify.com/album/2IVfHyrBqB8TzptyU8r4Cb"
+      },
+      "artists": [
+        {
+          "name": "Carson Leung",
+          "url": "https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Take Care Terry",
+      "url": "https://open.spotify.com/track/5fZVNQ7VbWpH6fTjh1HZ08"
+    },
+    {
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -1902,7 +1920,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 206097,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/250HLl9eVRQABw1oIjOGkx"

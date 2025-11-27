@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1576930,
+  "num_followers": 1576860,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 94587,
+      "name": "BULLFROG",
+      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 209672,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/0HQrzSGRnLgOgTPzcZWIxP"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 94587,
-      "name": "BULLFROG",
-      "url": "https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 255263,
-      "name": "Pour The Henny",
-      "url": "https://open.spotify.com/track/1Z1TErSXbCXjEJWKqcpf3V"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 222640,
       "name": "Munyon Canyon",
       "url": "https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 255263,
+      "name": "Pour The Henny",
+      "url": "https://open.spotify.com/track/1Z1TErSXbCXjEJWKqcpf3V"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "GOLDFISH",
-        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Doing My Best",
-      "url": "https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 143458,
       "name": "Laraaji",
       "url": "https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Doing My Best",
+      "url": "https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
+        "name": "jamal crawford",
+        "url": "https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W"
+      },
+      "artists": [
+        {
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "jamal crawford",
+      "url": "https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
         "name": "GOLDFISH",
         "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 105836,
       "name": "Mick & Cooley (feat. Conway The Machine)",
       "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
-        "name": "jamal crawford",
-        "url": "https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W"
-      },
-      "artists": [
-        {
-          "name": "MARCO PLUS",
-          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 173419,
-      "name": "jamal crawford",
-      "url": "https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6"
     },
     {
       "added_at": "2025-11-21 04:00:11",

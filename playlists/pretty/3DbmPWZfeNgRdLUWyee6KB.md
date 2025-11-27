@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,004 likes - 257 songs - 15 hr 39 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,005 likes - 260 songs - 15 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,5 +265,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 255 | [Tu ausencia](https://open.spotify.com/track/6rJGg89ohWCGPpNFqF7oyS) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Todo le di](https://open.spotify.com/album/0hBx33VEllkcMu4KYo3Po4) | 2:46 |
 | 256 | [Scars](https://open.spotify.com/track/7BoYRULbFPGNvnT2vVhcOf) | [tWIN](https://open.spotify.com/artist/1APguz6a6pgYym9jUAia5K), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Scars](https://open.spotify.com/album/59kHXQO88dKgGeOiNyMIoM) | 3:07 |
 | 257 | [Trust Issues](https://open.spotify.com/track/7wgXjF0bJgfEsXAzYsbpdX) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Trust Issues](https://open.spotify.com/album/0kyV92eXT3VyZxas1mPOd8) | 3:21 |
+| 258 | [My Fire](https://open.spotify.com/track/70envoliSCQOHL5mQx7MfR) | [Jeffrey Gerald](https://open.spotify.com/artist/2rIvMVFcBfd5QZjfKXQGmu) | [My Fire](https://open.spotify.com/album/3Zunn4IB4LBVqM1Xr07EhL) | 3:28 |
+| 259 | [A Holding Light](https://open.spotify.com/track/05NiUyl6ugHxxgD9IWIlmj) | [gebi.sounds](https://open.spotify.com/artist/3fJr7wKHIl9wPDKvQE9B5a) | [A Holding Light](https://open.spotify.com/album/3kJDagmAwsNnYzzXVqJnCq) | 3:51 |
+| 260 | [Yours](https://open.spotify.com/track/0hsN42yyLbZgxUltepNIs9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Yours](https://open.spotify.com/album/3cAZFsmpEEGhyS9IzsD99H) | 3:10 |
 
-Snapshot ID: `AAAM9ei15XFAVKfmHlOIUUVZ2/UaLUwL`
+Snapshot ID: `AAAM+NSuILwXszoSnje0lMZe6PEHTLtL`

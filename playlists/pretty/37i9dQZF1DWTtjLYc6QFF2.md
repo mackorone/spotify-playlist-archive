@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно з KLER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,319 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,320 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 18 | [Кофеїн](https://open.spotify.com/track/5EHbS0giCz2gq6G6MU9gxa) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Кофеїн](https://open.spotify.com/album/2NGmJjEDuGLPCRiYBbwypo) | 2:18 |
 | 19 | [Не ходи](https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV), [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [Не ходи](https://open.spotify.com/album/3LYf26FM7A3VyzNHdWWpXv) | 2:40 |
 | 20 | [Небесами](https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Небесами](https://open.spotify.com/album/6fa4E3bm7kDmxKomRw0nyv) | 3:07 |
-| 21 | [Усіх але не себе](https://open.spotify.com/track/468CLdv0p9JIQEZJm6fBSL) | [Марина Круть](https://open.spotify.com/artist/3UkTZC1dnSNR6dkHpvD7xT) | [Live in Lviv](https://open.spotify.com/album/4sq0P3LbSOot4pMKLjSgFP) | 5:06 |
+| 21 | [Усіх але не себе](https://open.spotify.com/track/468CLdv0p9JIQEZJm6fBSL) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Live in Lviv](https://open.spotify.com/album/4sq0P3LbSOot4pMKLjSgFP) | 5:06 |
 | 22 | [GAZ](https://open.spotify.com/track/7vAqHxf3p7SC1h3ljtAYWz) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [Розкішна і зла](https://open.spotify.com/album/7joElWTXRqYZYH4rkFjepN) | 2:19 |
 | 23 | [Лети](https://open.spotify.com/track/0ntEWq219bSHOssKRaCoj8) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Лети](https://open.spotify.com/album/1cfwDB5TOWTGqD6aNolGkw) | 2:59 |
 | 24 | [Осінь](https://open.spotify.com/track/2D2HkjMc1JFOw42A9Y0F4e) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Осінь](https://open.spotify.com/album/3WfrPLMXxD1k2r8HUsL5xK) | 2:37 |

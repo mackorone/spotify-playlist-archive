@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-01-25",
-  "description": "Hottest Hindi music that India is listening to. Cover - Saiyaara",
+  "description": "Hottest Hindi music that India is listening to. Cover - Tere Ishk Mein",
   "name": "Hot Hits Hindi",
   "tracks": [
     {
@@ -4092,7 +4092,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 238069,
       "name": "Ishq Mera (Feat. Esha Gupta)",
       "url": "https://open.spotify.com/track/6TOeOjAKDOxJon6geucX92"
@@ -8164,6 +8164,36 @@
       "duration_ms": 341074,
       "name": "Phire Faqeera",
       "url": "https://open.spotify.com/track/2CwpgIBBCxe4xkba5LhsYo"
+    },
+    {
+      "album": {
+        "name": "Phurr (From the Movie \u201cKis Kisko Pyaar Karoon 2\u201d)",
+        "url": "https://open.spotify.com/album/4UUy3KVYnWeIsaboo6M9pd"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Raj Brar",
+          "url": "https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv"
+        },
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "Phurr - From the Movie \u201cKis Kisko Pyaar Karoon 2\u201d",
+      "url": "https://open.spotify.com/track/12WdjvcXjLMdr9nIeQY9C6"
     },
     {
       "album": {

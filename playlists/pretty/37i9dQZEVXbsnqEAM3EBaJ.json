@@ -63,22 +63,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Anthology 4",
-        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Real Love (2025 Mix)",
-      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Parasocial Christ",
         "url": "https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 200963,
       "name": "Parasocial Christ",
       "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Anthology 4",
+        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Real Love (2025 Mix)",
+      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -127,26 +127,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Spirit of Olympus",
-        "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Motion",
-          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
-        },
-        {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
-        }
-      ],
-      "duration_ms": 64210,
-      "name": "Spirit of Olympus",
-      "url": "https://open.spotify.com/track/5yWDFkXqQ4p1fxdz8fh6AT"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Black Honey (Lofi)",
         "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 168374,
       "name": "Black Honey (Lofi)",
       "url": "https://open.spotify.com/track/5h3f49CfqkeoQ66SAont2y"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Spirit of Olympus",
+        "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Motion",
+          "url": "https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0"
+        },
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 64210,
+      "name": "Spirit of Olympus",
+      "url": "https://open.spotify.com/track/5yWDFkXqQ4p1fxdz8fh6AT"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -275,6 +275,34 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "SICK SICK SICK",
+        "url": "https://open.spotify.com/album/0wNYlsugxGT1Ky9yu5QWo2"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 150726,
+      "name": "SICK SICK SICK",
+      "url": "https://open.spotify.com/track/7gQOCzvF4Yeej974BIwmGa"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Ascendant Firecrown",
         "url": "https://open.spotify.com/album/1COhubDmggyGdaxIq3ANkn"
       },
@@ -319,6 +347,26 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "La Vasectom\u00eda",
+        "url": "https://open.spotify.com/album/4zOB6IGY8BqAbGqSbMEE1V"
+      },
+      "artists": [
+        {
+          "name": "Los Vasquez",
+          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
+        },
+        {
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+        }
+      ],
+      "duration_ms": 239587,
+      "name": "La Vasectom\u00eda",
+      "url": "https://open.spotify.com/track/24rV77RfxWuaLQQxMtSbb8"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Aquelarre",
         "url": "https://open.spotify.com/album/0BhTECS5bTMUmj1be3VEMG"
       },
@@ -359,54 +407,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "La Vasectom\u00eda",
-        "url": "https://open.spotify.com/album/4zOB6IGY8BqAbGqSbMEE1V"
-      },
-      "artists": [
-        {
-          "name": "Los Vasquez",
-          "url": "https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx"
-        },
-        {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
-        }
-      ],
-      "duration_ms": 239587,
-      "name": "La Vasectom\u00eda",
-      "url": "https://open.spotify.com/track/24rV77RfxWuaLQQxMtSbb8"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "SICK SICK SICK",
-        "url": "https://open.spotify.com/album/0wNYlsugxGT1Ky9yu5QWo2"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        },
-        {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
-        },
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 150726,
-      "name": "SICK SICK SICK",
-      "url": "https://open.spotify.com/track/7gQOCzvF4Yeej974BIwmGa"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Fairytale of New York",
         "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
       },
@@ -419,22 +419,6 @@
       "duration_ms": 194153,
       "name": "Fairytale of New York",
       "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "VSQ Performs KPOP Demon Hunters",
-        "url": "https://open.spotify.com/album/6UyihtSsacro4ywDxLb8cB"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 156093,
-      "name": "Soda Pop",
-      "url": "https://open.spotify.com/track/6VGcggej7rQ9WHcHEybGAD"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -459,6 +443,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "VSQ Performs KPOP Demon Hunters",
+        "url": "https://open.spotify.com/album/6UyihtSsacro4ywDxLb8cB"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "duration_ms": 156093,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/6VGcggej7rQ9WHcHEybGAD"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Echoes of Eternity",
         "url": "https://open.spotify.com/album/4yXbkJD5b9xy4wMsOA6xYV"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 270000,
       "name": "Echoes of Eternity",
       "url": "https://open.spotify.com/track/0Ln8XEkzb0VZYga1DmVv6E"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Marriana",
-        "url": "https://open.spotify.com/album/1k91AY2AYlkcsGcEWWKEt8"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 110659,
-      "name": "Paimiti",
-      "url": "https://open.spotify.com/track/1WXR3aTIn352tepO20p6eG"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 189375,
       "name": "Destiny - AVELLO Remix",
       "url": "https://open.spotify.com/track/6D3ZtplcD34Bc7MvVpKcvu"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "Marriana",
+        "url": "https://open.spotify.com/album/1k91AY2AYlkcsGcEWWKEt8"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 110659,
+      "name": "Paimiti",
+      "url": "https://open.spotify.com/track/1WXR3aTIn352tepO20p6eG"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "Bold As Love",
+        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Castles Made of Sand - Backwards Guitar",
+      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Te Matar\u00e9 Con Amor",
         "url": "https://open.spotify.com/album/2ZsrhtMsIdu4aIduT0sWHv"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 323294,
       "name": "The Day I Tried To Live - feat. Kim Thayil & Alissa White-Gluz",
       "url": "https://open.spotify.com/track/2s4F5SGrpFyGD2grG8aqvl"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Bold As Love",
-        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Castles Made of Sand - Backwards Guitar",
-      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
-        "name": "Another Miracle",
-        "url": "https://open.spotify.com/album/6Vchu5Bbi4C0nUNSprj6lD"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/6aY6gQtFKzAUejy7TW7QZl"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
         "name": "Rock And Roll All Nite (MOONLGHT Remix)",
         "url": "https://open.spotify.com/album/3lUWA3d8QAnpo6Gmjy5bFn"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "Another Miracle",
+        "url": "https://open.spotify.com/album/6Vchu5Bbi4C0nUNSprj6lD"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/6aY6gQtFKzAUejy7TW7QZl"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
         "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 203564,
       "name": "Ramblin' Round - Take 2",
       "url": "https://open.spotify.com/track/519EkVJxIYpOQSOOk7uCQf"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 216646,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -923,6 +907,22 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Who Are You (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/7qGnKtZPJMP3LFgEl2WM4r"
       },
@@ -935,22 +935,6 @@
       "duration_ms": 271826,
       "name": "Had Enough - No Orchestra",
       "url": "https://open.spotify.com/track/4eNjLkoKbcrXkyJWGdxMlE"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "The Life of a Showgirl + Acoustic Collection",
-        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 247268,
-      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
-      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 181693,
       "name": "Psycho Killer - The Cube Guys Remix Radio Edit",
       "url": "https://open.spotify.com/track/190TqRrcEJsodhL7MukpEF"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
+        "name": "The Life of a Showgirl + Acoustic Collection",
+        "url": "https://open.spotify.com/album/6QNMhoV8V0u7cFuhhUBOn7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 247268,
+      "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
+      "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1036,29 +1036,9 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 363071,
-      "name": "Double Violin Concerto by Johann Sebastian Bach - Remastered 2025, Live",
-      "url": "https://open.spotify.com/track/5SU6xKllgmZtcCSk6mtSkV"
-    },
-    {
-      "added_at": "2025-11-21 03:00:00",
-      "album": {
-        "name": "Estrellitas y Duendes Feat. Sting",
-        "url": "https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 266533,
-      "name": "Estrellitas y Duendes Feat. Sting",
-      "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
+      "duration_ms": 280662,
+      "name": "Bour\u00e9e - Remastered 2025, Live",
+      "url": "https://open.spotify.com/track/4zOfewibngkmuGbAUDIAjc"
     },
     {
       "added_at": "2025-11-21 03:00:00",
@@ -1099,6 +1079,26 @@
     {
       "added_at": "2025-11-21 03:00:00",
       "album": {
+        "name": "Estrellitas y Duendes Feat. Sting",
+        "url": "https://open.spotify.com/album/5GjdntsUfA48aRFzhjIyCm"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "Estrellitas y Duendes Feat. Sting",
+      "url": "https://open.spotify.com/track/5iuKQGNzghGVqGqdTzhBQu"
+    },
+    {
+      "added_at": "2025-11-21 03:00:00",
+      "album": {
         "name": "Inti-Illimani & Valent\u00edn Trujillo",
         "url": "https://open.spotify.com/album/5Udqgm9BEQMWfQexQuqoge"
       },
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/7I8FuaYK2jlPwCuUVnbqiJ"
         }
       ],
-      "duration_ms": 256420,
-      "name": "El Arado (feat. Valent\u00edn Trujillo)",
-      "url": "https://open.spotify.com/track/6ohzciQaI2uLv5jqzF2cGD"
+      "duration_ms": 241653,
+      "name": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido (feat. Valent\u00edn Trujillo)",
+      "url": "https://open.spotify.com/track/48DhUdeoUG7gT6ZXiHYk8K"
     },
     {
       "added_at": "2025-11-21 03:00:00",

@@ -4,7 +4,7 @@
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-124 songs - 10 hr 4 min
+125 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Five Variants of ‘Dives and Lazarus’](https://open.spotify.com/track/7L5zrjSg42n4hPdbXIkHUG) | [Ralph Vaughan Williams](https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe), [Hallé](https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam), [Sir Mark Elder](https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG) | [Vaughan Williams: Pastoral Symphony](https://open.spotify.com/album/6oh3zPBUxUYXxuKC2IfDKk) | 11:34 | 2024-09-06 |  |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2024-09-06 |  |
 | [Goldberg Variations: Goldberg Variations: Aria](https://open.spotify.com/track/62wOFoV1t2yIGuQ0pufHmb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Britten Sinfonia](https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy), [Thomas Gould](https://open.spotify.com/artist/1Oc8xcaNIQngZs5Daw0zFk) | [Bach, Sitkovetsky: Goldberg Variations](https://open.spotify.com/album/3UD1Mpkdb2b2A3Jq6QEuhO) | 3:33 | 2024-09-06 |  |
+| [Hannah's Diary](https://open.spotify.com/track/4szZP2E2JY1lsin071rs58) | [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:30 | 2025-11-26 |  |
 | [Harmonies des bois, Op\. 76: III\. Jacqueline’s Tears \(Arr\. for Cello & Orchestra\) \- Live](https://open.spotify.com/track/6OKTXmnOPuFJzPuiJxePc5) | [Jacques Offenbach](https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [City Of Birmingham Symphony Orchestra](https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo), [Mirga Gražinytė\-Tyla](https://open.spotify.com/artist/5wVbvpGikqowoq81OuLiO5) | [Inspiration](https://open.spotify.com/album/5n2aAsMFp4NhWn64pCGCtK) | 7:09 | 2024-09-06 |  |
 | [Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 \(Arr\. by Chad Lawson for Piano\)](https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Bach Interpreted: Piano Variations on Bach Chorales \(Deluxe Release\)](https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP) | 2:54 | 2024-09-06 |  |
 | [II\. Largo](https://open.spotify.com/track/5JDrFjS8xMcx4TLSIzrRIm) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Chloe Chua](https://open.spotify.com/artist/0JwCInHbEPiiLqGj8cIr3j), [Singapore Symphony Orchestra](https://open.spotify.com/artist/32sSC58wBNlSthfdC2t8Av), [Chan Yoong Han](https://open.spotify.com/artist/0K2jniNIbEkYPCGWAKHK3q) | [Vivaldi: The Four Seasons & Locatelli: Violin Concerto in D Major, Op\. 3 No\. 12 "Il labirinto armonico"](https://open.spotify.com/album/0owCLJWPHIH7ILOxxQDWVa) | 2:13 | 2024-09-06 |  |

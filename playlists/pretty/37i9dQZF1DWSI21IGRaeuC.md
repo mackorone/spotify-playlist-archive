@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,389 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,434 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 12 | [Los Angeles Freestyle](https://open.spotify.com/track/1AVZ3Q3OwCYWoKtbeW0lGu) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Cole Terrazas](https://open.spotify.com/artist/5kSrrZnNYneJtk28xLuj7n) | [Los Angeles Freestyle](https://open.spotify.com/album/1omwyaDqy80qfjUFs2Fy6w) | 3:54 |
 | 13 | [Freak Like Me \- Ben Kim Remix](https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Freak Like Me \(Ben Kim Remix\)](https://open.spotify.com/album/3xP002zibPYbY6Dgd1IsPK) | 2:56 |
 | 14 | [It Gets Better \- Chris Stussy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stussy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
-| 15 | [Hype It Up \- Edit](https://open.spotify.com/track/5v6QQaJHff2TLwY4gwrI3l) | [Kepler.](https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV), [Funkaholics](https://open.spotify.com/artist/7BTIk905ehhtwnMBeHNF8d) | [Hype It Up / Sneaker](https://open.spotify.com/album/6BVSA3Y9zaH2jlxdaZURDd) | 3:43 |
+| 15 | [Hype It Up \- Edit](https://open.spotify.com/track/5v6QQaJHff2TLwY4gwrI3l) | [Kepler.](https://open.spotify.com/artist/4yGWhPE8bcrYShFXg6iCxV), [Funkaholics](https://open.spotify.com/artist/7tHBPQatovc5Xmcw4LJC5l) | [Hype It Up / Sneaker](https://open.spotify.com/album/6BVSA3Y9zaH2jlxdaZURDd) | 3:43 |
 | 16 | [Seduction](https://open.spotify.com/track/05KcMVFzVK2gJsx5k8oeDu) | [Hidde van Wee](https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH) | [Ebullience 002](https://open.spotify.com/album/4WdqweNfo4S6LhaVCz8Bg0) | 6:28 |
 | 17 | [Through the Night](https://open.spotify.com/track/29wxSU91yjj9uVILkHuv83) | [Anil Aras](https://open.spotify.com/artist/6Ja4lS5NicOn4D0cUFwdbl) | [Through the Night](https://open.spotify.com/album/0hsOJfl9GIfWTvF6Hkvesk) | 5:45 |
 | 18 | [From L to R](https://open.spotify.com/track/2m1hBmg6FtgY9Ouz4qMTd1) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [From L to R](https://open.spotify.com/album/4Jg42Y6rrywR82J2N1Uk6J) | 3:44 |

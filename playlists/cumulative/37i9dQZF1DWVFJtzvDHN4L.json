@@ -305,6 +305,44 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Alex Gibson",
+          "url": "https://open.spotify.com/artist/3nhvZOfrpt8rQWadlQuj0S"
+        },
+        {
+          "name": "RYAN ROMEYN RUBIN",
+          "url": "https://open.spotify.com/artist/2x9Ug5ZzoSuURMiC4mLB1n"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "MDR Leipzig Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5vv6n5YBVxwtH431Nt23tQ"
+        },
+        {
+          "name": "Ben Palmer",
+          "url": "https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175202,
+      "name": "Cornfield Chase (From \"Interstellar\")",
+      "url": "https://open.spotify.com/track/6q3s5x8PIwcpvj1VtROFoj"
+    },
+    {
+      "album": {
         "name": "The Green Mile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6Rppm3cesOg9mL5oaIeLCc"
       },
@@ -1136,6 +1174,24 @@
       "duration_ms": 165343,
       "name": "Now We Are Free - (From \"Gladiator\") - Piano Version",
       "url": "https://open.spotify.com/track/3fC4rRqg5oLATBWmsLRl46"
+    },
+    {
+      "album": {
+        "name": "Of the undiscovered country (From The Original Motion Picture \"Hamnet\")",
+        "url": "https://open.spotify.com/album/6pt0WcKOkyqZkdGz04zoY9"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322435,
+      "name": "Of the undiscovered country - From The Original Motion Picture \"Hamnet\"",
+      "url": "https://open.spotify.com/track/5psjdB5UIHuDvfZqxjRIGb"
     },
     {
       "album": {

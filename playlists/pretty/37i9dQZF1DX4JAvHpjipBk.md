@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from BigXThaPlug & Post Malone, Tate McRae, Ariana Grande, Lil Baby, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,474,234 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,473,928 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

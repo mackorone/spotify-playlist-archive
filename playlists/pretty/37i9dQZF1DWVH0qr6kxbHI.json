@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 103304,
+  "num_followers": 103336,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Se acabo",
-        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Se acab\u00f3",
-      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 201386,
       "name": "Un a\u00f1o de amor",
       "url": "https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
+        "name": "Se acabo",
+        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Se acab\u00f3",
+      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
         "name": "En directo",
         "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -535,22 +551,6 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -775,8 +775,8 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Canciones Que Me Gustan",
-        "url": "https://open.spotify.com/album/31pLRCgAvn48nOyHaAUI8V"
+        "name": "Pasion Y Deseo (Sus Grandes Exitos De La Copla Y De La Balada Romantica)",
+        "url": "https://open.spotify.com/album/0RZu47C1vhpUs4QbWJunyg"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 261720,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN"
+      "duration_ms": 305960,
+      "name": "Se Me Enamora el Alma",
+      "url": "https://open.spotify.com/track/6FG8TkQCTo5TfOQ6bG5Fxf"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Antologia, Vol. 5",
-        "url": "https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14"
-      },
-      "artists": [
-        {
-          "name": "Concha Piquer",
-          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "En tierra extra\u00f1a",
-      "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
         "name": "Mis Mejores Canciones",
         "url": "https://open.spotify.com/album/3v6sufMLzild3gXVb4zmK8"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 164000,
       "name": "Soy Una Feria",
       "url": "https://open.spotify.com/track/5gPBR2GlcBQZnwEwPFR1fS"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
+        "name": "Antologia, Vol. 5",
+        "url": "https://open.spotify.com/album/41YeVcmMnpfdglheq7gA14"
+      },
+      "artists": [
+        {
+          "name": "Concha Piquer",
+          "url": "https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "En tierra extra\u00f1a",
+      "url": "https://open.spotify.com/track/2zga76oJbVYoGsm3ytmDdn"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Pasion Y Deseo (Sus Grandes Exitos De La Copla Y De La Balada Romantica)",
-        "url": "https://open.spotify.com/album/0RZu47C1vhpUs4QbWJunyg"
+        "name": "Canciones Que Me Gustan",
+        "url": "https://open.spotify.com/album/31pLRCgAvn48nOyHaAUI8V"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 305960,
-      "name": "Se Me Enamora el Alma",
-      "url": "https://open.spotify.com/track/6FG8TkQCTo5TfOQ6bG5Fxf"
+      "duration_ms": 261720,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN"
     },
     {
       "added_at": "2025-03-13 23:00:12",

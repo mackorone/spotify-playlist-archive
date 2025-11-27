@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-219 songs - 12 hr 21 min
+220 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Double Vision](https://open.spotify.com/track/6iouDofENf4lkfN8hbHaCs) | [Mister Co.](https://open.spotify.com/artist/4OKRsuISYqu54looIiF1qw), [James Price](https://open.spotify.com/artist/17ITCxYzF82ZxhNAmKYIjW), [Lia Magu](https://open.spotify.com/artist/6jyY9gOCAGSvYgaHYQkLtM), [Judular](https://open.spotify.com/artist/047wzkCMnsMG0Z7cYQyPXF) | [Homegrown](https://open.spotify.com/album/3peM8AAagRvh6LhfbHrhtJ) | 3:33 | 2025-10-23 |  |
 | [Down To Mexico \- Live](https://open.spotify.com/track/5DxXxF5WPqNL3HySoXBgtt) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:13 | 2025-11-08 |  |
 | [Drama \(remaster\)](https://open.spotify.com/track/5KQrS9D7ARWN8fiNBNiYSy) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:48 | 2025-09-18 |  |
+| [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 | 2025-11-26 |  |
 | [Drowning](https://open.spotify.com/track/16A2TC89Jt7eaf7iuVaM3p) | [Fear Lab](https://open.spotify.com/artist/59OL42glNaguFmSfhUSpDE) | [Drowning](https://open.spotify.com/album/0RfIOR90ccA6EAMXVQvUMY) | 3:22 | 2025-11-17 |  |
 | [Dust](https://open.spotify.com/track/1g5OgqOOiwHj9iMwpPoecb) | [FOLD](https://open.spotify.com/artist/21EhExoKzvszapvs9YlN2k) | [Dust](https://open.spotify.com/album/6zgZ7YNzE7mX8tTFauJGgW) | 4:17 | 2025-11-13 |  |
 | [Easy Tiger \- Live](https://open.spotify.com/track/2pczCxdV30ODAjDEsu8OTW) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:32 | 2025-11-08 |  |

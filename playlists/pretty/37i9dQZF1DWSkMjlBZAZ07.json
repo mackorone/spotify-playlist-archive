@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1891207,
+  "num_followers": 1891057,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwvSxpLJxtV4Wtgtf8DLrOgq54O",
+  "snapshot_id": "AAAAAL/pwx6jzqS6Xve5LJD/Yx8k7uRe",
   "tracks": [
     {
       "added_at": "2025-11-18 18:35:02",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-11-18 18:35:02",
       "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 254058,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
-    },
-    {
-      "added_at": "2025-11-18 18:35:02",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 172800,
       "name": "WHERE WE ARE",
       "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
+    },
+    {
+      "added_at": "2025-11-18 18:35:02",
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 254058,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0QTCTu0CXv4X1JEE4gNpGv"
     },
     {
       "added_at": "2025-11-18 18:35:02",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-11-18 18:35:02",
       "album": {
-        "name": "Saratoga",
-        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Saratoga",
-      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
-    },
-    {
-      "added_at": "2025-11-18 18:35:02",
-      "album": {
         "name": "New Mythology",
         "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214987,
       "name": "Brother To You",
       "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
+    },
+    {
+      "added_at": "2025-11-18 18:35:02",
+      "album": {
+        "name": "Saratoga",
+        "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Saratoga",
+      "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
     },
     {
       "added_at": "2025-11-18 18:35:02",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-11-18 18:35:02",
       "album": {
-        "name": "Wild Spirit",
-        "url": "https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "Wild Spirit",
-      "url": "https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg"
-    },
-    {
-      "added_at": "2025-11-18 18:35:02",
-      "album": {
         "name": "Mountain Man",
         "url": "https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 238426,
       "name": "Mountain Man",
       "url": "https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU"
+    },
+    {
+      "added_at": "2025-11-18 18:35:02",
+      "album": {
+        "name": "Wild Spirit",
+        "url": "https://open.spotify.com/album/6uRqR9oIdKcdOeW3xNtIUf"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Wild Spirit",
+      "url": "https://open.spotify.com/track/5VDctoEJ0T3YGJwj0XHIEg"
     },
     {
       "added_at": "2025-11-18 18:35:02",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-18 18:35:02",
       "album": {
-        "name": "Peaceful, The World Lays Me Down",
-        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
-      },
-      "artists": [
-        {
-          "name": "Noah And The Whale",
-          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "5 Years Time",
-      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
-    },
-    {
-      "added_at": "2025-11-18 18:35:02",
-      "album": {
         "name": "Sweet Unknown",
         "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-11-18 18:35:02",
       "album": {
-        "name": "Man of the Year",
-        "url": "https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq"
+        "name": "Peaceful, The World Lays Me Down",
+        "url": "https://open.spotify.com/album/4bzNinbJcnth182w03fSL2"
       },
       "artists": [
         {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+          "name": "Noah And The Whale",
+          "url": "https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP"
         }
       ],
-      "duration_ms": 162980,
-      "name": "Man of the Year",
-      "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
+      "duration_ms": 214920,
+      "name": "5 Years Time",
+      "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
     },
     {
       "added_at": "2025-11-18 18:35:02",
@@ -1303,6 +1287,22 @@
       "duration_ms": 161013,
       "name": "Fast Like a Match",
       "url": "https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc"
+    },
+    {
+      "added_at": "2025-11-18 18:35:02",
+      "album": {
+        "name": "Man of the Year",
+        "url": "https://open.spotify.com/album/6zgNoPiYiuJn5aAjuzVAvq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 162980,
+      "name": "Man of the Year",
+      "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
     },
     {
       "added_at": "2025-11-18 18:35:02",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2025-11-18 18:35:02",
       "album": {
-        "name": "Featherbrained Wealth Motel",
-        "url": "https://open.spotify.com/album/3TJQWtOjyGVJ7UPXZIq7Uo"
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
       },
       "artists": [
         {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
         }
       ],
-      "duration_ms": 147121,
-      "name": "Remember When (You Wanted Everything You've Got Right Now)",
-      "url": "https://open.spotify.com/track/76sqL5nphddJ5euny9cnpJ"
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     }
   ],
   "unique_name": "Happy Folk",

@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Amrutham Title Song",
+        "url": "https://open.spotify.com/album/1F5eLcXZ3N8hFpnSJ83zBW"
+      },
+      "artists": [
+        {
+          "name": "Kalyani Malik",
+          "url": "https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183718,
+      "name": "Amrutham Title Song",
+      "url": "https://open.spotify.com/track/1TTOCPTs7tQTkbjtnPOGoO"
+    },
+    {
+      "album": {
         "name": "Manmadhudu",
         "url": "https://open.spotify.com/album/2aNP8WRBq1cUgP4hvblCVa"
       },
@@ -774,7 +792,7 @@
           "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
         },
         {
-          "name": "bebhumika",
+          "name": "Bhumi",
           "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
         },
         {
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 256400,
       "name": "Gujjari Gujjari",
       "url": "https://open.spotify.com/track/6nvfEh5z8vx6Rp2SPVmGSE"

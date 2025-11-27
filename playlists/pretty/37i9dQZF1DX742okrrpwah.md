@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Aya Nakamura, disiz et Tate McRae au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,439 likes - 89 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,412 likes - 89 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

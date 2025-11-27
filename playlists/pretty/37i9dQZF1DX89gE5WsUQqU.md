@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 11월 13\-15, SPOTIFY HOUSE 서울 라인업의 셋리스트를 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,620 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,634 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 | 114 | [우리 지금 만나 Let's Meet Now \(feat\. 장기하와 얼굴들 Kiha & The Faces\)](https://open.spotify.com/track/1ZhfiV5IM22eJbGQv022jh) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 3:34 |
 | 115 | [A Sort of Relationship](https://open.spotify.com/track/3Vvx2UEy14441auNBO7YSr) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Kiha & The Faces](https://open.spotify.com/album/2uuIKw0jid92nNMMCU7HXh) | 3:43 |
 
-Snapshot ID: `AAAAAENe1TaIScuACYVPckRAlG5qybr9`
+Snapshot ID: `AAAAAPKuUPuCyC75DsNRANO5DeeOObY3`

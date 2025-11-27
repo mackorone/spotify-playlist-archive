@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,431 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,442 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 42 | [Жить в кайф](https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Жить в кайф](https://open.spotify.com/album/4ktDOYU0Jual1ELFTPhFd6) | 2:54 |
 | 43 | [виски с молоком](https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO) | [снялцепи](https://open.spotify.com/artist/2U8WjSfWrXusGaZXinLUtl) | [виски с молоком](https://open.spotify.com/album/4qb91eb53PXwNF00uMFaVO) | 1:01 |
 | 44 | [Who \(Rock Remix\)](https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 2:51 |
-| 45 | [Базовый минимум](https://open.spotify.com/track/5zCEpG9EVGBNq0Z35rSWvW) | [Sabi](https://open.spotify.com/artist/3tB8VKd0rtEnc9x8l78ymo), [MIA BOYKA](https://open.spotify.com/artist/7lC9GiVHVMSIGt7yCQS0U5) | [Базовый минимум](https://open.spotify.com/album/4idemKLacb37Q5fMe9IIV6) | 2:15 |
+| 45 | [Базовый минимум](https://open.spotify.com/track/5zCEpG9EVGBNq0Z35rSWvW) | [SABI](https://open.spotify.com/artist/0jDBG1EeQiw6n273ZPq2D8), [MIA BOYKA](https://open.spotify.com/artist/7lC9GiVHVMSIGt7yCQS0U5) | [Базовый минимум](https://open.spotify.com/album/4idemKLacb37Q5fMe9IIV6) | 2:15 |
 | 46 | [Беспечный рыцарь тьмы](https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [PAYCHECK](https://open.spotify.com/album/6ZZtoqsZlMQKf1EooeK9RA) | 3:53 |
 | 47 | [NaNaNa](https://open.spotify.com/track/0ETjTLIst5iwZJlt661giq) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [SLAANG](https://open.spotify.com/album/6WJ9stbIbxOojiHk73oL8q) | 2:55 |
 | 48 | [миниюбка](https://open.spotify.com/track/4c8cveMq2r70IVDbJIUwxv) | [emoslut666](https://open.spotify.com/artist/4UYmYu83rr6K8XKURSLeYn) | [страшные следы](https://open.spotify.com/album/54tDpjtDrO6R5VF8qO5fJb) | 1:18 |
 | 49 | [болен](https://open.spotify.com/track/4HiXhD2daY4ca5nr977V4e) | [dope17](https://open.spotify.com/artist/4RsF5SpJb2R481UMri1VT3), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [болен](https://open.spotify.com/album/4c08DJJF9efR9xB43Y8bGg) | 1:28 |
 | 50 | [Вселенная бесконечна?](https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5) | [Noize MC](https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7) | [Новый альбом](https://open.spotify.com/album/5O0lvSqOB9IEmHyKsYppAn) | 4:20 |
 
-Snapshot ID: `MLkd+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MLpveAAAAAAAAAAAAAAAAAAAAAAAAGVu`

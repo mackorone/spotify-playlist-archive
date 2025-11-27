@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Bente, KM/Idaly, Naaz, KATNUF en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,556 likes - 109 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,545 likes - 109 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

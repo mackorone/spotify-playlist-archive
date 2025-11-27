@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Sofa So Good",
+        "url": "https://open.spotify.com/album/1f3O1xiCsDhdHQlXnyDl7g"
+      },
+      "artists": [
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140906,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4bpHEIQlbPupZy6v9DqG4g"
+    },
+    {
+      "album": {
         "name": "Scherzo Eterno",
         "url": "https://open.spotify.com/album/0DKGfiSJHH4rwwxOe389As"
       },
@@ -1504,7 +1522,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 237740,
       "name": "I'm Calmer Than You Are",
       "url": "https://open.spotify.com/track/7yR5P0A3kkK4bIOrZGlpvQ"
@@ -2074,6 +2092,24 @@
       "duration_ms": 188129,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm"
+    },
+    {
+      "album": {
+        "name": "Book of Patterns",
+        "url": "https://open.spotify.com/album/2zb8LN5IwRouu6etkH75sJ"
+      },
+      "artists": [
+        {
+          "name": "Shaw",
+          "url": "https://open.spotify.com/artist/7aZ3TdPafhahG42XQSyaIl"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288404,
+      "name": "Parametric",
+      "url": "https://open.spotify.com/track/4Z9Re6GbbmInDsT8s1pIp7"
     },
     {
       "album": {
@@ -2848,7 +2884,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 284413,
       "name": "Voces iluminadas por sonrientes",
       "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"

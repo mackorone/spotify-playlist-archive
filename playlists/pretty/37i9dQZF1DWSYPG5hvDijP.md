@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Fatpicric
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,463 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,486 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 8 | [Ye Mard Bechara Rap Song \(From "Ye Mard Bechara"\)](https://open.spotify.com/track/6xeQtv61jMQyfrseZuLJrX) | [Sampoet](https://open.spotify.com/artist/2ZFn8WXu29WlrUr5BJEvrX), [Anuup Thapa](https://open.spotify.com/artist/21D6rRYxyw2eZU7486B1I2), [Arabinda Neog](https://open.spotify.com/artist/4O0UY7QlS80oeDZB1g7iWf) | [Ye Mard Bechara Rap Song \(From "Ye Mard Bechara"\)](https://open.spotify.com/album/6n07zzVISu58Iyx5mDNup4) | 4:07 |
 | 9 | [GUMM](https://open.spotify.com/track/4YNX6MwhBUhVbEbk1AVpL0) | [Second City Saint](https://open.spotify.com/artist/4xWdDpJY0IEx3JB1TAiBzs), [Guru](https://open.spotify.com/artist/3JC7RKvJOEH3sjz5WE7AJH), [Cinide](https://open.spotify.com/artist/6ygYyuSgBL2rF8RLBACGwh) | [GUMM](https://open.spotify.com/album/1XTYGcYPivWEiKE1W5YMvb) | 2:10 |
 | 10 | [Shukar Aur Sabar](https://open.spotify.com/track/5FkrldoErPERKDgeW6erbQ) | [Shiv Nevergive Up](https://open.spotify.com/artist/0Y9w0CKjJm1FEg6og8p9O8), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Shukar Aur Sabar](https://open.spotify.com/album/0iy0JUJGxeRV8TmFHlOE6O) | 2:18 |
-| 11 | [BULBUL](https://open.spotify.com/track/3wAt660BzHciLn6TT3mYPB) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [Kartavya](https://open.spotify.com/artist/1wmMWy3nG6RphHhovk37OC) | [BULBUL](https://open.spotify.com/album/1yYdlxPts1rdozeEG4nxyZ) | 2:09 |
+| 11 | [BULBUL](https://open.spotify.com/track/3wAt660BzHciLn6TT3mYPB) | [Muhfaad](https://open.spotify.com/artist/6pIfqoyH72NqdfbS9FMkAO), [Kartavya](https://open.spotify.com/artist/1wmMWy3nG6RphHhovk37OC) | [BULBUL](https://open.spotify.com/album/1yYdlxPts1rdozeEG4nxyZ) | 2:09 |
 | 12 | [Do Kamre](https://open.spotify.com/track/1SLsjx3ChWpuLE1bn2E1RO) | [Nector](https://open.spotify.com/artist/7rQumPnberhHaIvwqRKWj6), [The Mausam](https://open.spotify.com/artist/2dw51xH9AiwFVaSLaRpjg5) | [Do Kamre](https://open.spotify.com/album/0EGar5f5qzBhbIKfOkwaaU) | 3:45 |
 | 13 | [Baasari Freestyle](https://open.spotify.com/track/7u5tfR53vM7ywQKf9ch3cP) | [Bhakt](https://open.spotify.com/artist/5xJZ3UKxGJLRxKQFCMz1Xj), [Akxhat](https://open.spotify.com/artist/3qFxUCYbcDDQqQOODxW6Qt) | [Baasari Freestyle](https://open.spotify.com/album/45OB2VHtQPKpOTBbA3snvw) | 2:31 |
 | 14 | [Danger](https://open.spotify.com/track/41gC9EvemENlPt8QNQy1dM) | [Aashiqv](https://open.spotify.com/artist/4nZdfXfb3McphwIPh5lSTz), [RJ47](https://open.spotify.com/artist/6CReXsbhHy14JjEhUFouNE) | [Danger](https://open.spotify.com/album/2ggqMOhg0B6rJNYOF52YsG) | 2:54 |

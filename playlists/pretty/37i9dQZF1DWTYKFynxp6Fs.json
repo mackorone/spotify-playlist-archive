@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
-  "num_followers": 572135,
+  "num_followers": 572577,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPIS07PqPGCcguVBvI1buqyiKXSM",
+  "snapshot_id": "AAAAAGPrqmvMuOY1gdzUlXq0ljAQCLCo",
   "tracks": [
     {
       "added_at": "2025-05-26 06:55:48",
@@ -83,6 +83,34 @@
       "duration_ms": 149454,
       "name": "The Bloodline (From \"Khalifa\")",
       "url": "https://open.spotify.com/track/0ASsvaAuScy2d8xC5sBkpc"
+    },
+    {
+      "added_at": "2025-11-26 07:40:57",
+      "album": {
+        "name": "KALYANI",
+        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 234489,
+      "name": "KALYANI",
+      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
       "added_at": "2025-09-22 12:46:38",
@@ -1095,22 +1123,6 @@
       "duration_ms": 340977,
       "name": "Sundaree Onnu Parayoo - Version, 1",
       "url": "https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx"
-    },
-    {
-      "added_at": "2024-09-04 08:10:57",
-      "album": {
-        "name": "Athimanoharam (From \"Vaazha\")",
-        "url": "https://open.spotify.com/album/7rNj7fXkrDEyO0C7N57S0C"
-      },
-      "artists": [
-        {
-          "name": "Hatsmyth",
-          "url": "https://open.spotify.com/artist/1TnWgtL7dTSCAsBpYvCzbQ"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "Athimanoharam - From \"Vaazha\"",
-      "url": "https://open.spotify.com/track/41TRVSREvHgKOT2lNtg6cB"
     },
     {
       "added_at": "2023-11-21 13:36:17",

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-518 songs - 1 day 0 hr 49 min
+519 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Step By Step](https://open.spotify.com/track/5oFGu3NMQd7kR5C2NCuuLs) | [Martron](https://open.spotify.com/artist/25Amc1hdYDyPHAeprRXCgx) | [Step By Step](https://open.spotify.com/album/3iqOqEA2xnA4tvNpJUTWSm) | 2:21 | 2024-07-08 | 2025-04-27 |
 | [Step Up](https://open.spotify.com/track/74K4Ki8ppT9o90QW2B84BK) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [Step Up](https://open.spotify.com/album/7rI8rCntoLZDxoupnN6R9H) | 1:50 | 2024-04-26 | 2025-04-27 |
 | [Still](https://open.spotify.com/track/0jgyu7T0uobQ9o2ubMFYDF) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Still](https://open.spotify.com/album/4cCR5OhfpjCIpKCjnTczqy) | 2:33 | 2023-08-18 | 2025-04-27 |
+| [Still Breathing](https://open.spotify.com/track/0nT4UzbfVLXIoZdRIqf1Ch) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Still Breathing](https://open.spotify.com/album/0We1yFqeAixiEj2m7Ecmql) | 2:27 | 2025-11-26 |  |
 | [Stop The World](https://open.spotify.com/track/0exb2sKaTVyq2AmTKJmdwo) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/5tjyquuAUCmHet1Fn1kLUW) | 2:59 | 2022-05-06 | 2023-12-14 |
 | [Straight To Ya Face](https://open.spotify.com/track/25ozzkQ8NRRVqmv3UCjpae) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Straight To Ya Face](https://open.spotify.com/album/49gdPCPeNhnoFSDEYvyaAl) | 2:36 | 2022-05-06 | 2022-07-02 |
 | [Such A Fool](https://open.spotify.com/track/0X3byZemxzyGTIIA7A2WGS) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [Such A Fool](https://open.spotify.com/album/6hx1sl6hIlnIpRizDhTId2) | 3:02 | 2022-05-06 | 2023-04-09 |

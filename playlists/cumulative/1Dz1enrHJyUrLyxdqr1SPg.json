@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Bad Mistake",
+        "url": "https://open.spotify.com/album/58XFhFrZTAdkozoWRvWvaU"
+      },
+      "artists": [
+        {
+          "name": "Kardang",
+          "url": "https://open.spotify.com/artist/6fgcUT8lhFDwAJwbnAriiI"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245933,
+      "name": "Bad Mistake",
+      "url": "https://open.spotify.com/track/7qCLGt5o3agKocYAjy5P4A"
+    },
+    {
+      "album": {
         "name": "Badali Badala",
         "url": "https://open.spotify.com/album/4EEH4F18GeyyBvHkEjOAIP"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: reybruja",
-  "num_followers": 183147,
+  "num_followers": 183175,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-11-20 12:07:40",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/3WqoOfnRn68SsPTtkK3A5O"
-      },
-      "artists": [
-        {
-          "name": "El Padre C\u00e9sar",
-          "url": "https://open.spotify.com/artist/6PjvpIOzogn283TGorNxKN"
-        },
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
-        }
-      ],
-      "duration_ms": 174522,
-      "name": "Historias",
-      "url": "https://open.spotify.com/track/2zksb0j5tjiG83xPDIYuBg"
-    },
-    {
-      "added_at": "2025-11-20 12:07:40",
-      "album": {
         "name": "Calavera",
         "url": "https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 217557,
       "name": "Calavera",
       "url": "https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ"
+    },
+    {
+      "added_at": "2025-11-20 12:07:40",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/3WqoOfnRn68SsPTtkK3A5O"
+      },
+      "artists": [
+        {
+          "name": "El Padre C\u00e9sar",
+          "url": "https://open.spotify.com/artist/6PjvpIOzogn283TGorNxKN"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "duration_ms": 174522,
+      "name": "Historias",
+      "url": "https://open.spotify.com/track/2zksb0j5tjiG83xPDIYuBg"
     }
   ],
   "unique_name": "Rock Barrial",

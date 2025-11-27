@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Franni Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,007 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,024 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 22 | [Made For More \- Live](https://open.spotify.com/track/4XeTTJ0edRgAUljyqxS65q) | [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Made For More \(Live\)](https://open.spotify.com/album/2MC5WdBlp0iUCL0Y5hWp8t) | 7:00 |
 | 23 | [All Sufficient Merit](https://open.spotify.com/track/7ymNiYT5jVlWLVZdiAwfm5) | [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit](https://open.spotify.com/album/1c1fIOyptf5UcKp15fHbAV) | 6:00 |
 | 24 | [At Last](https://open.spotify.com/track/67pqdIjy1LFox9iMFXZFkh) | [Judd Harris](https://open.spotify.com/artist/5vW7N9ZWWhikIQ7D3vd1nP) | [At Last](https://open.spotify.com/album/6r0l7cxpQ2Ca9yBh707DIW) | 5:48 |
-| 25 | [Know You](https://open.spotify.com/track/4iwchXLLHOW8sDarzz3dK4) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Know You](https://open.spotify.com/album/6LT95gXoJCDBOjM0LiubWQ) | 5:58 |
+| 25 | [Know You \- Live](https://open.spotify.com/track/4iwchXLLHOW8sDarzz3dK4) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Know You \(Live\)](https://open.spotify.com/album/6LT95gXoJCDBOjM0LiubWQ) | 5:58 |
 | 26 | [Still On The Way](https://open.spotify.com/track/1c6l1sDDbsg3Yxd7mvkLt9) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [Still On The Way](https://open.spotify.com/album/0eWiAxlYmUc4xivLX3PoE9) | 4:56 |
 | 27 | [Agnus Dei](https://open.spotify.com/track/5D30b4TWuwIkWyVG1rdxdP) | [House of Worship](https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Agnus Dei](https://open.spotify.com/album/280htvym6ThiQtkngzsnqx) | 6:07 |
 | 28 | [As For Me And My House](https://open.spotify.com/track/5KXZibdmUmMpb8fk8kUEMC) | [Brad Alden](https://open.spotify.com/artist/1T9aPOGBPef031C1tcXfxo), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [As For Me And My House](https://open.spotify.com/album/7HHn4dvCrZtL4IjhHNYRaU) | 4:21 |

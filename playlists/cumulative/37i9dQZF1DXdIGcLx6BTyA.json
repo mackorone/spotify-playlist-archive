@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Adaline",
+        "url": "https://open.spotify.com/album/4rHdm5YC78WE0r5OjPsJU4"
+      },
+      "artists": [
+        {
+          "name": "Tyce Delk",
+          "url": "https://open.spotify.com/artist/75jIXNJTz4SWN3gNpKGy6f"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224733,
+      "name": "Adaline",
+      "url": "https://open.spotify.com/track/6zoq2IObGRnwkZDGEKZVTi"
+    },
+    {
+      "album": {
         "name": "After The Setting Sun",
         "url": "https://open.spotify.com/album/3fdqRZ0j8t8EW351K4H1Or"
       },
@@ -663,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/6DJpZnz5JxwtbLSJPb15K8"
+      },
+      "artists": [
+        {
+          "name": "Jay Buchanan",
+          "url": "https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7"
+        },
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337436,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6JSKlWWqMI1zCmRhMBFT9U"
+    },
+    {
+      "album": {
         "name": "Dragon New Warm Mountain I Believe In You",
         "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
       },
@@ -930,7 +970,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 195160,
       "name": "Daytona Sand",
       "url": "https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC"
@@ -3462,7 +3502,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 231837,
       "name": "This Life",
       "url": "https://open.spotify.com/track/1fEbeOqzgVJWGWydZoMLn7"

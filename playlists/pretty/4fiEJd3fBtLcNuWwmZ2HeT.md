@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 395 songs - 22 hr 46 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 397 songs - 22 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -403,5 +403,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 393 | [sneer](https://open.spotify.com/track/49iPWsVzlm4lkcVbeq6pqN) | [KOMEDAWARA](https://open.spotify.com/artist/5IHeMc4VSgGZyQBBeZhY3F), [Una Otomachi](https://open.spotify.com/artist/3hv0cVJtEVUppVUb9Gp5xp) | [sneer](https://open.spotify.com/album/1DN9zA67aiNNClynWkbwUJ) | 3:59 |
 | 394 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 |
 | 395 | [DAI DAI DAI KIRAI](https://open.spotify.com/track/5IHJVTiUEkaTQYH1tibQVu) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [DENNOSTALGIA](https://open.spotify.com/album/1wWe5h0pGEdpybC4sqri4Z) | 3:14 |
+| 396 | [Nightmare Restaurant](https://open.spotify.com/track/2QjWqcAy7BaBsYBYs9ozZG) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [Nightmare Restaurant](https://open.spotify.com/album/4Nwqel1zFJwAFRHXVd1nZK) | 3:00 |
+| 397 | [요단강](https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [아홉가지기분](https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO) | 4:47 |
 
-Snapshot ID: `AAAJgjBg+MEYXhJL3mRv93qa/8P5G8Qf`
+Snapshot ID: `AAAJhJmmvhqT0omJVjNCuudIgvQ1KoUZ`

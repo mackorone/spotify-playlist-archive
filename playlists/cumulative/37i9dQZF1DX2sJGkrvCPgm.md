@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-492 songs - 1 day 6 hr 35 min
+493 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Hark \(Hear the Angels Sing\)](https://open.spotify.com/track/2zJiEuecwS1rhFqhhBOUFA) | [Faith Worship Arts](https://open.spotify.com/artist/7lMdRbr3ZYJ98Kyhf3r2ex), [John Dreher](https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Hark \(Hear the Angels Sing\)](https://open.spotify.com/album/1lVBIOGjJChfkEE3ynUNUo) | 3:37 | 2024-10-27 | 2024-12-10 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/3SrvLPdiK7TpraE8gZ2BJw) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2saqIsSf0pCBCViucnHK2a) | 3:04 | 2024-10-27 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:13 | 2021-12-24 |  |
-| [Hark! the Herald Angels Sing](https://open.spotify.com/track/75oikFsOz5Kq08fOK4AXIb) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Hark! the Herald Angels Sing](https://open.spotify.com/album/75icngRr6YHEM26hvLUBoa) | 3:13 | 2024-11-17 |  |
+| [Hark! the Herald Angels Sing](https://open.spotify.com/track/75oikFsOz5Kq08fOK4AXIb) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Hark! the Herald Angels Sing](https://open.spotify.com/album/75icngRr6YHEM26hvLUBoa) | 3:13 | 2024-11-17 | 2025-11-27 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu) | 3:22 | 2024-10-27 |  |
 | [Hark! The Herald Angels Sing \(Glory In The Highest\)](https://open.spotify.com/track/6YjDs79QtwtDIVwVvnuiCN) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Campfire Christmas \(Vol\. 1\)](https://open.spotify.com/album/1pNwYbeB1bqTBoEtrPJsSb) | 3:33 | 2021-12-24 |  |
 | [Harken](https://open.spotify.com/track/4NCRqYuH1M19b3cDiRgcs9) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [Harken](https://open.spotify.com/album/2h48qsKQiHFc5mTn6vMBoX) | 3:54 | 2024-08-01 | 2025-03-09 |
@@ -394,6 +394,7 @@
 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 | 2024-08-01 | 2025-05-07 |
 | [Silent Night](https://open.spotify.com/track/1z8Jfid7k90zN3UUEnOvrC) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Silent Night](https://open.spotify.com/album/5OS3woEzeXYIlP6fzjTo76) | 2:34 | 2025-11-22 |  |
 | [Silent Night](https://open.spotify.com/track/5c36yPOfMB9Pq7kdkRxGkd) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf), [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Silent Night](https://open.spotify.com/album/6qIpmmge0GlUTpeIgHXPnL) | 4:28 | 2024-11-29 |  |
+| [Silent Night \(Heavenly Peace\)](https://open.spotify.com/track/70YEAMq9pi3B91b28dzcvt) | [Grayson Kessenich](https://open.spotify.com/artist/4MhfeSCdX4wB7EIzzeuW7d) | [Silent Night \(Heavenly Peace\)](https://open.spotify.com/album/3zUww2gulYQAziAdb7Yezv) | 4:21 | 2025-11-22 |  |
 | [Silent Night \(with Saviour King\) \- Live](https://open.spotify.com/track/1JqRuf1VFolpmDEBjeRLkF) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Christmas: The Peace Project \(Deluxe\)](https://open.spotify.com/album/4jAmUwcMcth5Dc6FnxssVR) | 7:12 | 2021-12-24 | 2024-08-02 |
 | [Silent Night \- Live](https://open.spotify.com/track/2DfdmOmD8O70gT64e36RPI) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Kristyn Getty](https://open.spotify.com/artist/70Rhe5rWMA8u4f6ptC1iMw) | [Adore: Christmas Songs Of Worship \(Deluxe Edition/Live\)](https://open.spotify.com/album/6wOdF5DJPo31iR9b9rEn6o) | 4:01 | 2021-12-24 | 2022-07-24 |
 | [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-12-15 | 2025-10-30 |

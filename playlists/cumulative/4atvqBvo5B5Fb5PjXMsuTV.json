@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Nov 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Nov 04:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -7720,7 +7720,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 196976,
       "name": "baby blue",
       "url": "https://open.spotify.com/track/2iUv18ruokAyhWk9w0CTYy"
@@ -30409,6 +30409,24 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205963,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/4cImz6ALStITqRds60YUmF"
+    },
+    {
+      "album": {
         "name": "euphoria",
         "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
@@ -33522,6 +33540,24 @@
       "duration_ms": 285637,
       "name": "Figure in the Dark",
       "url": "https://open.spotify.com/track/0g93dVKpBImycXAcykmZzj"
+    },
+    {
+      "album": {
+        "name": "FIGURE IT THE FUCK OUT",
+        "url": "https://open.spotify.com/album/4KltIucq2G3sXShsqzQ5im"
+      },
+      "artists": [
+        {
+          "name": "KILL KARL",
+          "url": "https://open.spotify.com/artist/6EkKa58rGJ5799EpRA1Kjy"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129777,
+      "name": "FIGURE IT THE FUCK OUT",
+      "url": "https://open.spotify.com/track/7H5xTCzlBRLZZdyQ8P0JYz"
     },
     {
       "album": {
@@ -51810,7 +51846,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 150790,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/7AkPhGsAWtMczTvSYH65q3"
@@ -57183,6 +57219,24 @@
     },
     {
       "album": {
+        "name": "LOCKED IN",
+        "url": "https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131707,
+      "name": "LOCKED IN",
+      "url": "https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO"
+    },
+    {
+      "album": {
         "name": "Lockjaw 2",
         "url": "https://open.spotify.com/album/6cky5nR2nafUXW1e9KZQoN"
       },
@@ -61002,7 +61056,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 138165,
       "name": "margiela",
       "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
@@ -61616,6 +61670,32 @@
       "duration_ms": 133718,
       "name": "medicine",
       "url": "https://open.spotify.com/track/3jMmndhHTYfh6KLQWGN3cd"
+    },
+    {
+      "album": {
+        "name": "MEDLEY DO NOVO FIM",
+        "url": "https://open.spotify.com/album/5o7pyICFvHpNysLA3IfHu5"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "MEDLEY DO NOVO FIM",
+      "url": "https://open.spotify.com/track/6vsV6AFvJGnPj7QBnbKUZu"
     },
     {
       "album": {
@@ -63560,7 +63640,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 138647,
       "name": "MONEY AND CLOTHES",
       "url": "https://open.spotify.com/track/3ors9h42aOYWpzblOLhwvo"
@@ -69182,7 +69262,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 245840,
       "name": "NPC",
       "url": "https://open.spotify.com/track/1gha8sE1ZhS3G74nQaazHH"
@@ -84642,6 +84722,24 @@
       "duration_ms": 165733,
       "name": "Showbiz",
       "url": "https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa"
+    },
+    {
+      "album": {
+        "name": "SHRED ENVY",
+        "url": "https://open.spotify.com/album/7sIBSoqOjisoA2ln0o9UI8"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "SHRED ENVY",
+      "url": "https://open.spotify.com/track/6Wt8nvjWtW1GYO5UyjsGez"
     },
     {
       "album": {
@@ -105983,6 +106081,24 @@
     },
     {
       "album": {
+        "name": "What You Know You Know You Know",
+        "url": "https://open.spotify.com/album/3A0eLPS8eCXO2NjjtmSiRQ"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441021,
+      "name": "What You Know You Know You Know",
+      "url": "https://open.spotify.com/track/4QnsxVV6dskJ6OaUx1snAu"
+    },
+    {
+      "album": {
         "name": "What You Want",
         "url": "https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE"
       },
@@ -106880,7 +106996,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

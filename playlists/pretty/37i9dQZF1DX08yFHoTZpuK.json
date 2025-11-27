@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 18839,
+  "num_followers": 18882,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
+      },
+      "artists": [
+        {
+          "name": "Nakajin",
+          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
         "name": "Darkside 2075",
         "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 165999,
       "name": "From The Darkside (monoqlom Remix)",
       "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "TOKYO",
-        "url": "https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH"
-      },
-      "artists": [
-        {
-          "name": "Nakajin",
-          "url": "https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "TOKYO",
-      "url": "https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
+        "name": "glowing arcade",
+        "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
+      },
+      "artists": [
+        {
+          "name": "tamanaramen",
+          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "glowing arcade",
+      "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
         "name": "UPDOWN",
         "url": "https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX"
       },
@@ -823,42 +839,6 @@
       "duration_ms": 206390,
       "name": "UPDOWN",
       "url": "https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "glowing arcade",
-        "url": "https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2"
-      },
-      "artists": [
-        {
-          "name": "tamanaramen",
-          "url": "https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "glowing arcade",
-      "url": "https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "Republica Cafe Gold (Compiled by Marco Fullone)",
-        "url": "https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy"
-      },
-      "artists": [
-        {
-          "name": "Hideo Kobayashi",
-          "url": "https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM"
-        },
-        {
-          "name": "Christa",
-          "url": "https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp"
-        }
-      ],
-      "duration_ms": 326999,
-      "name": "Beautiful Moment - Original Floor Mix",
-      "url": "https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -907,6 +887,26 @@
       "duration_ms": 238288,
       "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
       "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
+        "name": "Republica Cafe Gold (Compiled by Marco Fullone)",
+        "url": "https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy"
+      },
+      "artists": [
+        {
+          "name": "Hideo Kobayashi",
+          "url": "https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM"
+        },
+        {
+          "name": "Christa",
+          "url": "https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp"
+        }
+      ],
+      "duration_ms": 326999,
+      "name": "Beautiful Moment - Original Floor Mix",
+      "url": "https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe"
     },
     {
       "added_at": "2025-11-07 08:48:49",

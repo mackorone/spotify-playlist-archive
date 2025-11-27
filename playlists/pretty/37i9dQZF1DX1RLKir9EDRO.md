@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: ARKADAŞ Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,353 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,352 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [EXILED!!! xDDD](https://open.spotify.com/track/09QB4g3rRQrnaQgiEqiFn0) | [Kaan's Exile](https://open.spotify.com/artist/4vJn1X99fUOXJg3XuDTOKr), [Pastor's Child](https://open.spotify.com/artist/0c17IXceiF19D9zfy0PCag) | [\#KAANCORE, Vol\. 1](https://open.spotify.com/album/66x3qYMJjCz1O8e8rWm84L) | 4:14 |
 | 75 | [Ya Geç Olursa](https://open.spotify.com/track/56WgVetO6T9k0PNQcjDkWI) | [yirmiki](https://open.spotify.com/artist/1i6TBYrhcnI1yNrnHZv7oO) | [Ya Geç Olursa](https://open.spotify.com/album/276lfEaCX6Yd2hU1VAFNMG) | 3:43 |
 
-Snapshot ID: `AAAAACw5ftJ2nkroQx8owvjHb1Jz9Rvz`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

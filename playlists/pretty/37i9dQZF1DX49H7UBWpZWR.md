@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49H7UBWpZWR.md) - [plain]
 
 > A podcast playlist where women of all experiences share the stories behind their music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680 likes - 8 songs - 38 min 25 sec
+[Spotify](https://open.spotify.com/user/spotify) - 679 likes - 8 songs - 38 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

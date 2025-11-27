@@ -4,7 +4,7 @@
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-49 songs - 2 hr 21 min
+50 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Diamanti nel fango](https://open.spotify.com/track/3pa0WX5y6IoW3tIxyV005W) | [OrioN](https://open.spotify.com/artist/7IF4qyFcCGkrYb5dbMecQG) | [Diamanti nel fango](https://open.spotify.com/album/2T2dLo2wiHBLqst8gBHAhN) | 3:10 | 2025-02-11 | 2025-11-11 |
 | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/track/4BCStGSMq3v68Eh5PrAslv) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Dimmi tu quando sei pronto per fare l'amore](https://open.spotify.com/album/5n23zgaM0noCZw9sYHMHIL) | 2:57 | 2025-02-11 | 2025-11-11 |
 | [EGO](https://open.spotify.com/track/1f7cBHwgfzbWD2Fyn79p9O) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [EGO](https://open.spotify.com/album/6kV7FtJVjRZqkITbZ6XiDg) | 2:10 | 2025-11-13 |  |
+| [EMIGRATO](https://open.spotify.com/track/35DHCS6Cpd7sJw6OcxSOEC) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72) | [EMIGRATO](https://open.spotify.com/album/3juO1KPJpxTDFGxaTJy8tG) | 2:31 | 2025-11-26 |  |
 | [FENOMENALE](https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj) | [Joseph](https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR) | [FENOMENALE](https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4) | 2:48 | 2025-11-11 |  |
 | [Fiamma](https://open.spotify.com/track/7pxXh1807WG1q0I2F2zuEs) | [SYNERGY](https://open.spotify.com/artist/2KefMFDFdJGjVLv5ZK1rAe) | [Fiamma](https://open.spotify.com/album/6VZnvxy5ALY1l4hkw5T2cI) | 2:49 | 2025-02-11 | 2025-11-11 |
 | [FINCHÉ DURA](https://open.spotify.com/track/51S93MaRFJyW8VDLc4nuER) | [eyeline](https://open.spotify.com/artist/1VqRWAml93O9mG6TyMsM6i) | [FINCHÉ DURA](https://open.spotify.com/album/4tpWsXa0f2OVVBGwjtQe8z) | 2:41 | 2025-11-13 |  |

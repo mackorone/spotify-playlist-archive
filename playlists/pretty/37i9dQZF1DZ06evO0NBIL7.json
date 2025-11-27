@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSOgAAAAAADHbDdHbZ5gsxByGttdGFyX",
+  "snapshot_id": "aSTxgAAAAABd/aD8g/ZQoi5MzYW+7Lhw",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 288750,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -139,8 +123,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Life",
-        "url": "https://open.spotify.com/album/12SAJRcHa3vXsoYWD6qfhA"
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 288750,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Easy",
+        "url": "https://open.spotify.com/album/6Hb2i9P8IE2CsXREL87Ztw"
       },
       "artists": [
         {
@@ -150,7 +150,7 @@
       ],
       "duration_ms": 195226,
       "name": "So Easy",
-      "url": "https://open.spotify.com/track/3pZDEVmCLcSW443htvfcFP"
+      "url": "https://open.spotify.com/track/04FgV7G5rU7hgrDVdHQc2O"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Beloved Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-243 songs - 14 hr 24 min
+244 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 | 2022-12-19 |  |
 | [El Burrito de Belen](https://open.spotify.com/track/3Gh2PSlQRYheHIeeNf4OCr) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [El Burrito de Belén](https://open.spotify.com/album/2Vg95eYQRh5Mg881N8Dk72) | 3:14 | 2022-12-19 | 2024-04-19 |
 | [El Burrito De Belen \(El Burrito Sabanero\)](https://open.spotify.com/track/0WeJsUesMV7yXCKkpnteoD) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [Feliz Navidad: El Burrito de Belen, Feliz Navidad, Triste Navidad, El Cascabel, El Burrito Sabanero, El Nacimiento y Mas](https://open.spotify.com/album/06LZvXxhqZhXri7wQtbTer) | 3:06 | 2022-12-19 | 2023-03-04 |
+| [El Burrito de Belen \(El Burrito Sabanero\)](https://open.spotify.com/track/32Op3MBy63igvqfsSy5TWu) | [La Rondallita](https://open.spotify.com/artist/3UjWu4XVz5QJs2KgqM3Eor) | [Navidad Clásicos 25 Exitos \- Ave Maria, Pastores a Belén, Blanca Navidad, El Arbolito, Navidad para Rockear y Mas](https://open.spotify.com/album/0mDXRgLUXaIbObdOjs56UP) | 3:06 | 2025-11-26 |  |
 | [El Burrito Sabanero](https://open.spotify.com/track/0jxgoC4Cph9ftWZfr6RKWC) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:46 | 2021-12-17 | 2022-12-19 |
 | [El Cuerpo Me Pide](https://open.spotify.com/track/3SMJ6uEe3DbBZ4xsRtXg5R) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Tarjeta De Navidad, VOL\. II](https://open.spotify.com/album/6quAUDl5w1TszBZCC6Qj75) | 5:00 | 2022-12-19 |  |
 | [El Cuerpo Me Pide](https://open.spotify.com/track/0UhSnbHhpp1BuqxXoFpWH9) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 5:00 | 2021-12-17 | 2022-12-19 |
@@ -117,7 +118,7 @@
 | [Jingle Bells \(Canta, Celia Cruz\)](https://open.spotify.com/track/6Ueg2fmZTxI2jaQ8UrX4An) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Nochebuena In Cuba](https://open.spotify.com/album/0xezE4KgAneArEhKjQHuIE) | 2:19 | 2022-11-08 | 2022-11-12 |
 | [Jingle Bells \(Cascabeles\)](https://open.spotify.com/track/4SFjK5RjMOA8ZqvjnWqQfe) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Navidades Con La Sonora Matancera](https://open.spotify.com/album/76JaJI88p06XmGGKWIS6rr) | 2:23 | 2021-12-17 | 2022-12-19 |
 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 | 2022-11-25 | 2022-12-20 |
-| [Joy To The World](https://open.spotify.com/track/41Ogug754mzHgkMjbTpzuF) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Feliz Christmas \(Vol\. 1\)](https://open.spotify.com/album/04P0Tmoq7JlFW5vQIw6T3E) | 3:22 | 2023-11-17 |  |
+| [Joy To The World](https://open.spotify.com/track/41Ogug754mzHgkMjbTpzuF) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Feliz Christmas \(Vol\. 1\)](https://open.spotify.com/album/04P0Tmoq7JlFW5vQIw6T3E) | 3:22 | 2023-11-17 | 2025-11-27 |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-12-18 | 2022-12-20 |
 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 | 2021-12-17 | 2022-12-19 |
 | [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 | 2021-12-17 | 2022-11-13 |

@@ -2,7 +2,7 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージックを特集するプレイリスト/ クラブ・ダンスミュージックプロジェクト Keep in Touch よりリリースされた「Sounds of Summer 2025 Remixes」に参加したプロデューサー陣がキュレーションした特別編成をお届け。  Cover: Fujimoto Tetsuro
+> 国内外のオルタナティブダンスミュージックを特集するプレイリスト/ クラブ・ダンスミュージックプロジェクト Keep in Touch よりリリースされた「Sounds of Summer 2025 Remixes」に参加したプロデューサー陣がキュレーションした特別編成をお届け。  Cover: Metome
 
 1,851 songs - 5 day 16 hr 11 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,644,128 likes - 201 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,644,968 likes - 201 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 40 | [Beyond Mist](https://open.spotify.com/track/5cwO9cfHua0QUEArBKMEic) | [Sable Flo](https://open.spotify.com/artist/4NdrRY3LXVcLpGbQR1IHTb) | [Beyond Mist](https://open.spotify.com/album/0XyQDQjMcOfqH53i6P3MJs) | 2:13 |
 | 41 | [Kontur](https://open.spotify.com/track/0fUSbTgjYWAQdJrxDDrrIX) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Kontur](https://open.spotify.com/album/41Ic1IFbr2XIHrPyGWLQIP) | 2:43 |
 | 42 | [Mistful](https://open.spotify.com/track/34B2VSzAYslmKMDW8ZwBX2) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Mistful](https://open.spotify.com/album/1yk8FTtKeTCn1eAcLfgdKm) | 2:25 |
-| 43 | [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Isla Cantrell](https://open.spotify.com/artist/2KZi2E7jiI5QACfJTfQFwM) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 |
+| 43 | [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Nela Bautista](https://open.spotify.com/artist/57p6zjae5P8UG8gGu8jO4w) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 |
 | 44 | [Leap of Faith](https://open.spotify.com/track/7ow7xhDGRCnz0k5AARGYWO) | [Lueen](https://open.spotify.com/artist/10HEL8QA7QwnoF7NqrtNal) | [Leap of Faith](https://open.spotify.com/album/1YIbOkTnfluUqf9M60nMJz) | 2:26 |
 | 45 | [Soft Touch](https://open.spotify.com/track/0oX18JSbFCAyuMcwdA0xFC) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Soft Touch](https://open.spotify.com/album/1Sbz2cE0keAMysS2ugA8ST) | 2:53 |
 | 46 | [Aetheron](https://open.spotify.com/track/61LwynSJz7SZQjgu3Ns66d) | [Revivo Wide](https://open.spotify.com/artist/43IhMvQXxJBfmuxfYsVBCD) | [Aetheron](https://open.spotify.com/album/3JZVG7rqchqY0PWUTBUYyR) | 2:33 |

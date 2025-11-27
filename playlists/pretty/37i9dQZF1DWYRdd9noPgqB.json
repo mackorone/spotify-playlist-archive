@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298865,
+  "num_followers": 298858,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-11-20 23:00:39",
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+    },
+    {
+      "added_at": "2025-11-20 23:00:39",
+      "album": {
         "name": "Nuit sauvage",
         "url": "https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 151926,
       "name": "Nuit sauvage",
       "url": "https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai"
-    },
-    {
-      "added_at": "2025-11-20 23:00:39",
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
-      },
-      "artists": [
-        {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
-        }
-      ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2025-11-20 23:00:39",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-11-20 23:00:39",
       "album": {
+        "name": "Kick Out of You",
+        "url": "https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Kick Out of You",
+      "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"
+    },
+    {
+      "added_at": "2025-11-20 23:00:39",
+      "album": {
         "name": "Wasted Time",
         "url": "https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj"
       },
@@ -823,34 +839,18 @@
     {
       "added_at": "2025-11-20 23:00:39",
       "album": {
-        "name": "Kick Out of You",
-        "url": "https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5"
+        "name": "The Meeting (Deluxe)",
+        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
       },
       "artists": [
         {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+          "name": "Astels",
+          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Kick Out of You",
-      "url": "https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt"
-    },
-    {
-      "added_at": "2025-11-20 23:00:39",
-      "album": {
-        "name": "miss sunshine",
-        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 203187,
-      "name": "miss sunshine",
-      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
+      "duration_ms": 173172,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
     },
     {
       "added_at": "2025-11-20 23:00:39",

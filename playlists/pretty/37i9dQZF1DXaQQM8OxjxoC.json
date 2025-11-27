@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 125767,
+  "num_followers": 125788,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -979,6 +979,26 @@
     {
       "added_at": "2025-09-15 14:00:11",
       "album": {
+        "name": "Brahms: 7 Fantasies, Op. 116, 4 Klavierst\u00fccke, Op. 119 & Piano Sonata No. 2, Op. 2",
+        "url": "https://open.spotify.com/album/1E1RsdtpNdtzJeA56aVjr2"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Emanuel Ax",
+          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "7 Fantasies, Op. 116: No. 1, Capriccio in D Minor",
+      "url": "https://open.spotify.com/track/5HVBbaakyTZ6qI0NExpFDN"
+    },
+    {
+      "added_at": "2025-09-15 14:00:11",
+      "album": {
         "name": "Nicholas Angelich Plays Brahms",
         "url": "https://open.spotify.com/album/4V8IDsiiF69tkqoOYYfI0r"
       },
@@ -999,8 +1019,8 @@
     {
       "added_at": "2025-09-15 14:00:11",
       "album": {
-        "name": "Brahms: 7 Fantasies, Op. 116, 4 Klavierst\u00fccke, Op. 119 & Piano Sonata No. 2, Op. 2",
-        "url": "https://open.spotify.com/album/1E1RsdtpNdtzJeA56aVjr2"
+        "name": "Brahms: Fantasien, Op. 116, Intermezzi, Op. 117, Klavierst\u00fccke, Op. 118 & 119",
+        "url": "https://open.spotify.com/album/0uaisnbddhMuJBXkHXyw7J"
       },
       "artists": [
         {
@@ -1008,13 +1028,13 @@
           "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
         },
         {
-          "name": "Emanuel Ax",
-          "url": "https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5"
+          "name": "Nicholas Angelich",
+          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
         }
       ],
-      "duration_ms": 128560,
-      "name": "7 Fantasies, Op. 116: No. 1, Capriccio in D Minor",
-      "url": "https://open.spotify.com/track/5HVBbaakyTZ6qI0NExpFDN"
+      "duration_ms": 112440,
+      "name": "Brahms: 6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
+      "url": "https://open.spotify.com/track/4gkmI0WOmRID6XnVJsNa1i"
     },
     {
       "added_at": "2025-09-15 14:00:11",
@@ -1047,26 +1067,6 @@
       "duration_ms": 220786,
       "name": "Piano Quartet No. 3 in C Minor, Op. 60: II. Scherzo. Allegro",
       "url": "https://open.spotify.com/track/0q0qHlzWUuUmmr88DPlbuW"
-    },
-    {
-      "added_at": "2025-09-15 14:00:11",
-      "album": {
-        "name": "Brahms: Fantasien, Op. 116, Intermezzi, Op. 117, Klavierst\u00fccke, Op. 118 & 119",
-        "url": "https://open.spotify.com/album/0uaisnbddhMuJBXkHXyw7J"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Nicholas Angelich",
-          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
-        }
-      ],
-      "duration_ms": 112440,
-      "name": "Brahms: 6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
-      "url": "https://open.spotify.com/track/4gkmI0WOmRID6XnVJsNa1i"
     },
     {
       "added_at": "2025-09-15 14:00:11",

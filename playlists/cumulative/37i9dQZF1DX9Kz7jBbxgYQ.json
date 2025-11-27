@@ -743,6 +743,28 @@
     },
     {
       "album": {
+        "name": "Banda Kaam Ka",
+        "url": "https://open.spotify.com/album/2QvGrnZintTpOvYzviVS4t"
+      },
+      "artists": [
+        {
+          "name": "Chaar Diwaari",
+          "url": "https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248947,
+      "name": "Banda Kaam Ka",
+      "url": "https://open.spotify.com/track/6vH6xKa1vh9ihWrLYZAmU8"
+    },
+    {
+      "album": {
         "name": "Barsatein",
         "url": "https://open.spotify.com/album/5JNgoPSzkWxkT1W2EMqgR7"
       },
@@ -3820,7 +3842,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 178421,
       "name": "Khwaab",
       "url": "https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj"
@@ -3904,7 +3926,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-27",
       "duration_ms": 154434,
       "name": "KTMBK",
       "url": "https://open.spotify.com/track/1XmoGNf6OVs6N251UejkbN"
@@ -4814,6 +4836,32 @@
       "duration_ms": 224090,
       "name": "Nasamjhi",
       "url": "https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr"
+    },
+    {
+      "album": {
+        "name": "Nasha",
+        "url": "https://open.spotify.com/album/5uBmD75BsRBBdsT5WIiEEG"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        },
+        {
+          "name": "Dronark",
+          "url": "https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Nasha",
+      "url": "https://open.spotify.com/track/0TrIoJaqN8QBmCViEeHMzt"
     },
     {
       "album": {

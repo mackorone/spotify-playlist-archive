@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "EMIGRATO",
+        "url": "https://open.spotify.com/album/3juO1KPJpxTDFGxaTJy8tG"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151461,
+      "name": "EMIGRATO",
+      "url": "https://open.spotify.com/track/35DHCS6Cpd7sJw6OcxSOEC"
+    },
+    {
+      "album": {
         "name": "FENOMENALE",
         "url": "https://open.spotify.com/album/01RZOMwz4i2Zxbs4epnvO4"
       },

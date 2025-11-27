@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,831 songs - 5 day 4 hr 28 min
+1,832 songs - 5 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [California Heaven \- Medasin Remix](https://open.spotify.com/track/0SIxPkBt6iyocxMSLgcxI7) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [California Heaven \(Medasin Remix\)](https://open.spotify.com/album/3aT2WqA7Fsnrm8e0UcUZAZ) | 3:36 | 2020-05-18 | 2020-07-18 |
 | [Call Katie](https://open.spotify.com/track/0CRs7vCuzxgxjSGqjckzjn) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Call Katie](https://open.spotify.com/album/2XM03VGtZTKcotiQzxrnFO) | 3:01 | 2021-03-19 | 2021-09-11 |
 | [Call my name](https://open.spotify.com/track/1mPhj6VWS4BsLQumiXcQXG) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Call my name](https://open.spotify.com/album/7H88S76wmy2qFTX8TqM9we) | 2:54 | 2024-02-09 | 2025-03-22 |
-| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 |  |
+| [Call You Mine](https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Call You Mine](https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH) | 3:29 | 2025-02-07 | 2025-11-27 |
 | [Called](https://open.spotify.com/track/3KtxQAgNxCEINXNgVuzsun) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Rohn Dahlberg](https://open.spotify.com/artist/5OcQS469ZWswsuUEJtNIeo) | [Called](https://open.spotify.com/album/4pT6jidjPodWkfoVSEHViq) | 6:04 | 2020-03-17 | 2022-04-19 |
 | [Can't Help But Think About You](https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Can't Help But Think About You](https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www) | 3:28 | 2023-03-10 | 2024-04-06 |
 | [can't hold the light](https://open.spotify.com/track/4DBmErhbpFFYN1ugnu4wCy) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Nick Shadow](https://open.spotify.com/artist/7tZfUc01UkhgbBUWZvRNf0), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [can't hold the light](https://open.spotify.com/album/2MbcAJPVC3u2vlg8aa0xRn) | 2:36 | 2025-05-23 | 2025-07-16 |
@@ -668,6 +668,7 @@
 | [Heart Of Mine](https://open.spotify.com/track/7xsEMen9ISL49UPbeJ72RK) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Heart Of Mine](https://open.spotify.com/album/4BhGd2bPD1gqn0V7P4RVvx) | 3:50 | 2020-07-03 | 2020-10-10 |
 | [Heart To Heart](https://open.spotify.com/track/2RsBPnEUWSDEkheThXHbIq) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Hildur Ottilia](https://open.spotify.com/artist/1H2le59U6mjpcoQwuZrmFk) | [Heart To Heart](https://open.spotify.com/album/7u2vHbfkcGaRIfDH91Bl4h) | 4:24 | 2022-09-09 | 2022-12-13 |
 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 | 2021-09-10 | 2023-07-08 |
+| [Heartbeat](https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Heartbeat](https://open.spotify.com/album/1Fc98rv9NAxiO0RiDOtNIl) | 4:16 | 2025-11-21 |  |
 | [Heartburn](https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Heartburn](https://open.spotify.com/album/6xjTB9H3uNfy75leYV1NYY) | 3:41 | 2024-04-19 | 2025-08-30 |
 | [Hearts](https://open.spotify.com/track/3vc6u0eaPIsctv1VpYeFJa) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Hearts](https://open.spotify.com/album/1t4uVBcm7ShSfblkB0eqOI) | 4:29 | 2020-03-17 | 2022-04-21 |
 | [Heaven](https://open.spotify.com/track/2hpMzusOFuzMdVEabvJNGI) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Heaven](https://open.spotify.com/album/3Tr5O6KkzTRETYWxhRzByB) | 5:53 | 2022-04-22 | 2022-12-25 |
