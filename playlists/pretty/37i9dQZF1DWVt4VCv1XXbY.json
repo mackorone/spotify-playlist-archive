@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to your motive.",
-  "num_followers": 165884,
+  "num_followers": 165877,
   "original_name": "Motive",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-04-19 10:02:10",
       "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 157776,
+      "name": "whoa (mind in awe)",
+      "url": "https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa"
+    },
+    {
+      "added_at": "2024-04-19 10:02:10",
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
-    },
-    {
-      "added_at": "2024-04-19 10:02:10",
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/1qsQOC4Jn0fnaUZLAbs4dz"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 157776,
-      "name": "whoa (mind in awe)",
-      "url": "https://open.spotify.com/track/7pdF27mSDuPWhppnHAmWHa"
     },
     {
       "added_at": "2024-04-19 10:02:10",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: Franja du Plessis",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Boertjie Voor My Deur",
+        "url": "https://open.spotify.com/album/7LdbqExbfbd0AWVRXPxUFe"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205107,
+      "name": "Boertjie Voor My Deur",
+      "url": "https://open.spotify.com/track/4rGcXHZCHPEBAPPW4NoOh8"
+    },
+    {
+      "album": {
         "name": "Die Lot",
         "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
       },
@@ -886,6 +904,24 @@
       "duration_ms": 172626,
       "name": "Bring Dit",
       "url": "https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ"
+    },
+    {
+      "album": {
+        "name": "Bruinoog Blond",
+        "url": "https://open.spotify.com/album/4Rn1Rk78r37rPRMnKoDSbI"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177971,
+      "name": "Bruinoog Blond",
+      "url": "https://open.spotify.com/track/2276xEvn3y8SeQ6sUOrGpz"
     },
     {
       "album": {
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 198000,
       "name": "Help 'n Bietjie",
       "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
@@ -6038,7 +6074,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"

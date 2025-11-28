@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 758 likes - 98 songs - 5 hr 35 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 779 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,8 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 96 | [Just A Cliche'](https://open.spotify.com/track/2aX8kGMGSTVZPgaWpvSjSb) | [Brett L Walker](https://open.spotify.com/artist/5MOiEP0NEMkGUlQNoYzlvm) | [Just A Cliche'](https://open.spotify.com/album/6a2DTVcwi4aq7ajkExqy1d) | 2:56 |
 | 97 | [Tell Me the Truth](https://open.spotify.com/track/1JomByRV3tjxdJMc9eyG8P) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [To the Ends of the Earth](https://open.spotify.com/album/0EJr6qOrJteFJ8L0skZ7KC) | 2:53 |
 | 98 | [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 |
+| 99 | [Ghost Skin](https://open.spotify.com/track/5pHEqCiFsCUwNT1MZ704xm) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [Ghost Skin](https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw) | 2:18 |
+| 100 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 |
+| 101 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 |
 
-Snapshot ID: `AAACWjG3lpNUrpefjqCR29qM/KUQJi6U`
+Snapshot ID: `AAACXQ7YErbPwwMG+dYq/OrDNx9g5MuN`

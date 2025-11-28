@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63341,
+  "num_followers": 63342,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAABlKVxVXeg7V55htfRgFfxp",
+  "snapshot_id": "aSZDAAAAAAA7VMFkxnWKC8J6fWlOrfV9",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 413965,
+      "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
+      "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
         "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 379803,
       "name": "Maravilhado",
       "url": "https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 413965,
-      "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
     },
     {
       "added_at": null,

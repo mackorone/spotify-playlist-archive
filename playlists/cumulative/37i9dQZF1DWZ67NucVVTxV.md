@@ -4,7 +4,7 @@
 
 > My enemy nah sapa
 
-797 songs - 1 day 13 hr 58 min
+798 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Earth Song](https://open.spotify.com/track/3jpNez5xEOn21zVcZwOXIy) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Earth Song](https://open.spotify.com/album/66g3VnctJ29DzhC0Rkh9FP) | 3:03 | 2023-02-10 | 2023-06-03 |
 | [Ebube \(Odeshi\)](https://open.spotify.com/track/1sTChGG6y7qro0NOpnUAWA) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Ebube \(Odeshi\)](https://open.spotify.com/album/2RbKSUR3JpZ37oGKqfc4SZ) | 2:57 | 2024-11-08 | 2024-11-22 |
 | [EGBAMI](https://open.spotify.com/track/3mq3HujlffiS5jDqmHec5N) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [EGBAMI](https://open.spotify.com/album/1evrYcNjwbTlrNCbmfPgpW) | 2:03 | 2025-04-18 | 2025-06-28 |
-| [EJOR \(feat\. Ayo Maff and Smada\)](https://open.spotify.com/track/12FIhCSZ1RydlH5PJHTAgy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:56 | 2025-10-10 |  |
+| [EJOR \(feat\. Ayo Maff and Smada\)](https://open.spotify.com/track/12FIhCSZ1RydlH5PJHTAgy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:56 | 2025-10-10 | 2025-11-28 |
 | [eko](https://open.spotify.com/track/3UjlL5RS2cd3p7CT8kvfuq) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [eko](https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N) | 2:54 | 2025-09-05 |  |
 | [Eko Ni](https://open.spotify.com/track/2mAOdWUMUo059OOMSpT36j) | [Toff Deleke](https://open.spotify.com/artist/2csJP3zVTeMB4K8dRL6zRl) | [Eko Ni](https://open.spotify.com/album/6mrcetZewqwWXxdouzKNQL) | 2:42 | 2024-04-05 | 2024-04-19 |
 | [Electricity](https://open.spotify.com/track/4SQvlCmuP6yYfFXO0Ge29z) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Just Pop Hits](https://open.spotify.com/album/60oLjos6nFcbMOQAykbxdN) | 2:12 | 2022-08-18 | 2022-11-13 |
@@ -507,6 +507,7 @@
 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 | 2024-03-22 |
 | [Next Of Kin](https://open.spotify.com/track/7i81pm0b5hGPovAyI8KvS5) | [DennyB](https://open.spotify.com/artist/4CpA6KhbohKW7a1huUT7oU) | [Next Of Kin](https://open.spotify.com/album/6oLjr8imlTeMKgoK9GkeYK) | 2:36 | 2025-07-18 | 2025-08-09 |
 | [Ni Temi](https://open.spotify.com/track/6fswXLtlUpvGPbb0G9S1Ij) | [A\-Q](https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Ethos](https://open.spotify.com/album/42RCa1kgdXRaHGQmEXiSic) | 3:01 | 2022-08-12 | 2022-09-20 |
+| [Nigga](https://open.spotify.com/track/0voiVxfuDYLdwVTmE4bErO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 3:05 | 2025-11-28 |  |
 | [No Changes](https://open.spotify.com/track/0seUjVHC8NhsCS95ehXx87) | [Meerharmix](https://open.spotify.com/artist/2nIzT28xqmzEUW3gxciOlQ), [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [No Changes](https://open.spotify.com/album/5xnbszMbTQLQeQGTQWomFl) | 2:24 | 2023-02-16 | 2023-02-24 |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 | 2024-04-26 |
 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-11 | 2023-11-28 |

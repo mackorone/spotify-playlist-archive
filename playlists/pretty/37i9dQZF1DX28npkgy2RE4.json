@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419732,
+  "num_followers": 419724,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
@@ -283,6 +267,38 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -303,22 +319,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/40P7jOxKnMf7KVpX0kWcCD"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/27KqSOzLiN6p9sjs95MnZg"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
-      },
-      "artists": [
-        {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        },
-        {
-          "name": "Kim Harris",
-          "url": "https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Judy",
-      "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Shape of Silence",
         "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 218740,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/5w4axvkZhiRqoE0PP6teSo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
+      },
+      "artists": [
+        {
+          "name": "Jenn Grant",
+          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
+        },
+        {
+          "name": "Kim Harris",
+          "url": "https://open.spotify.com/artist/4Z4L0pVDUIQuI48pBKlij6"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Judy",
+      "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Redwood Tree",
-        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 170894,
-      "name": "Redwood Tree",
-      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Teeth Marks",
         "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 225076,
       "name": "We Watch The Stars - Berlin Session",
       "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Redwood Tree",
+        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 170894,
+      "name": "Redwood Tree",
+      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/6OzPiCJQmxVRKgYlD5XMMJ"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 236483,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2hxxoC0rF7UkUuaY9Lagjx"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mount Airy Hill (Way Gone)",
         "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
       },
@@ -1939,18 +1923,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wisteria",
-        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/6OzPiCJQmxVRKgYlD5XMMJ"
       },
       "artists": [
         {
-          "name": "Sam Evian",
-          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
         }
       ],
-      "duration_ms": 169823,
-      "name": "Wisteria",
-      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+      "duration_ms": 236483,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2hxxoC0rF7UkUuaY9Lagjx"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1967,6 +1951,22 @@
       "duration_ms": 241000,
       "name": "Not Healthy Anymore",
       "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
+      },
+      "artists": [
+        {
+          "name": "Sam Evian",
+          "url": "https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "On the Outside",
-        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        }
-      ],
-      "duration_ms": 189215,
-      "name": "On the Outside",
-      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "On the Outside",
+        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "duration_ms": 189215,
+      "name": "On the Outside",
+      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Where I Should End",
-        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 318718,
-      "name": "Any Dreams?",
-      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Growin' Down",
         "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 256000,
       "name": "Growin' Down",
       "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Where I Should End",
+        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 318718,
+      "name": "Any Dreams?",
+      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "First Prize Bravery",
-        "url": "https://open.spotify.com/album/4z8OvPfkJLAlHjGy1b4hID"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "First Prize Bravery",
-      "url": "https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Coast is Waiting",
         "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 219674,
       "name": "Coast is Waiting",
       "url": "https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "First Prize Bravery",
+        "url": "https://open.spotify.com/album/4z8OvPfkJLAlHjGy1b4hID"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "First Prize Bravery",
+      "url": "https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Greatest Weapon / Under The Water",
-        "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 174156,
-      "name": "Greatest Weapon",
-      "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 217400,
       "name": "Home Truths",
       "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Greatest Weapon / Under The Water",
+        "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 174156,
+      "name": "Greatest Weapon",
+      "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
     },
     {
       "added_at": "2025-02-07 05:00:36",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Sub Focus",
+  "description": "The UK's biggest dance playlist! Cover: NOTION, Willow Kayne",
   "name": "Massive Dance Hits",
   "tracks": [
     {
@@ -2878,6 +2878,28 @@
       "duration_ms": 161551,
       "name": "Colours",
       "url": "https://open.spotify.com/track/4BW2RnlPPYCVmiM2iLiVxm"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Sienna Sophia",
+          "url": "https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206275,
+      "name": "Come Closer (feat. Sienna Sophia)",
+      "url": "https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt"
     },
     {
       "album": {
@@ -7498,7 +7520,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 187965,
       "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
       "url": "https://open.spotify.com/track/6pMfUwTWJfhnqfjW020rNH"
@@ -12542,7 +12564,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 168040,
       "name": "Stateside",
       "url": "https://open.spotify.com/track/7Fr2Q6q3rAxFUcMkuvVrXO"
@@ -14438,6 +14460,32 @@
       "duration_ms": 210000,
       "name": "Wanna Be",
       "url": "https://open.spotify.com/track/7LaY0WEnbY6rTqzSfoU5jj"
+    },
+    {
+      "album": {
+        "name": "Wanna Party (feat. Dennis G)",
+        "url": "https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Wanna Party (feat. Dennis G)",
+      "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
     },
     {
       "album": {

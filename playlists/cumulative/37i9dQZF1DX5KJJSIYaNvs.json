@@ -9291,6 +9291,24 @@
     },
     {
       "album": {
+        "name": "Pal Pal (Female Version)",
+        "url": "https://open.spotify.com/album/49nw97OQHPr7YdAW3u33im"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "Pal Pal - Female Version",
+      "url": "https://open.spotify.com/track/7CcEGoVkPTe6cFpvi3keyv"
+    },
+    {
+      "album": {
         "name": "Panghatwa",
         "url": "https://open.spotify.com/album/62dzlvkmsGQPJltaS7oU2H"
       },
@@ -11230,7 +11248,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 201000,
       "name": "Sajnaa",
       "url": "https://open.spotify.com/track/4aRzjWbBsjLkAezPWqvRSu"

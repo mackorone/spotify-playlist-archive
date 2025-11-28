@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops 🧛🏼🧛🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,833 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,853 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 7 | [São Paulo \(feat\. Anitta\) \- Single Version](https://open.spotify.com/track/2HXQL06smXD4evuW7MLY4X) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/28TLpNqlJzeOqm9N4OY3BS) | 2:28 |
 | 8 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |
 | 9 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 |
-| 10 | [The Scary Door](https://open.spotify.com/track/6CiH6vo3v2C5brBfOGbFKe) | [FelMax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa) | [The Scary Door](https://open.spotify.com/album/0fD9VBu7Rlzg7MP12i8fly) | 2:03 |
+| 10 | [The Scary Door](https://open.spotify.com/track/6CiH6vo3v2C5brBfOGbFKe) | [Felmax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa) | [The Scary Door](https://open.spotify.com/album/0fD9VBu7Rlzg7MP12i8fly) | 2:03 |
 | 11 | [Haunted](https://open.spotify.com/track/2XpKr6BN17r20GV3FDSik4) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Haunted](https://open.spotify.com/album/3gXwuCDdyQBPzECnQ5tRqm) | 4:44 |
 | 12 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 |
 | 13 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |

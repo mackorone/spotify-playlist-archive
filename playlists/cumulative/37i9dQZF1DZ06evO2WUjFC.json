@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "LUCES ROJAS",
+        "url": "https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127481,
+      "name": "CATALOGADO",
+      "url": "https://open.spotify.com/track/12JMpbENTgoRuOvhifnn9h"
+    },
+    {
+      "album": {
         "name": "CATALOGADO",
         "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
       },
@@ -2254,7 +2276,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 163781,
       "name": "NOCHE ARREGLADA",
       "url": "https://open.spotify.com/track/4ZWy7q1vy2KAOESS3HOjHX"

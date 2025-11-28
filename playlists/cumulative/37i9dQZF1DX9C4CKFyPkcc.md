@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-379 songs - 22 hr 5 min
+380 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu) | 3:22 | 2024-10-27 |  |
 | [Harken](https://open.spotify.com/track/4NCRqYuH1M19b3cDiRgcs9) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [Harken](https://open.spotify.com/album/2h48qsKQiHFc5mTn6vMBoX) | 3:54 | 2022-12-11 | 2025-04-03 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 | 2025-11-28 |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/2TQ5LnGMe1vbzSeqLBDfSk) | [Megan Kerr](https://open.spotify.com/artist/0g6AH8bqlfFMqSqnMXScjG), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7fHOTqGVhhvILUzs5KHZGL) | 3:33 | 2025-11-22 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5XBBLp2quztPBIPeAH6Cjg) | [Rebecca Hart](https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/11HlNo4BzgDoPyK4zEVWMC) | 4:42 | 2024-10-27 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2022-12-11 | 2025-03-17 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 | 2022-12-11 | 2023-02-28 |

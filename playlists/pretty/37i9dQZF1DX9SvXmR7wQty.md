@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: Pierre Lapointe
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,773 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,771 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 20 | [Dis\-moi \(feat\. Shenseea\)](https://open.spotify.com/track/2Xv8PNeeu80fyj4kBVGPvp) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:26 |
 | 21 | [Dernier mot](https://open.spotify.com/track/4N0eBOtW24oTP3LbpbvsWj) | [Andie Therio](https://open.spotify.com/artist/6iJjcbcInK5wOen7mW7emi) | [Dernier mot](https://open.spotify.com/album/1RKRAOMf5TbJel74aqR9J7) | 3:32 |
 | 22 | [Le pied cassé cassant](https://open.spotify.com/track/0J7TFGv0JKX5seWssUpltE) | [Lendemain de veille](https://open.spotify.com/artist/1YXlZ3SpoxIziajB17MhoN) | [Le pied cassé](https://open.spotify.com/album/5wi8duwtaVvcnVHgkzlk3C) | 3:51 |
-| 23 | [Neiges \- Remasterisé 2025](https://open.spotify.com/track/35s4bGiNTmxOcGwE9Hig1m) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Neiges \(Remasterisé 2025\)](https://open.spotify.com/album/12veMAOLkjETeLYIziClbr) | 10:00 |
+| 23 | [Neiges \- 50ᵉ anniversaire](https://open.spotify.com/track/35s4bGiNTmxOcGwE9Hig1m) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Neiges \(50ᵉ anniversaire\)](https://open.spotify.com/album/12veMAOLkjETeLYIziClbr) | 10:00 |
 | 24 | [La lune](https://open.spotify.com/track/7pqDnrVnJbmuOjPnRs5kpI) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau \(promis\)](https://open.spotify.com/album/3xpX4ziPYvlQnFDHKP26wW) | 3:49 |
 | 25 | [Les marées](https://open.spotify.com/track/0qqSadjTXmWlIPINefIjTf) | [Tristan Guay](https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU) | [Les marées](https://open.spotify.com/album/0NEWJ7M79fadRXP68JMK4R) | 3:09 |
 | 26 | [Marianne](https://open.spotify.com/track/135LS8xEi44BRgFd3s2q0d) | [Inouï](https://open.spotify.com/artist/29jLC4V20sCILXE08QRt6J), [Juan Talo](https://open.spotify.com/artist/5s7hZQbzFphyMHVx0XuXzu), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Marianne](https://open.spotify.com/album/0w03KZCdFehsQhyigladRz) | 2:51 |

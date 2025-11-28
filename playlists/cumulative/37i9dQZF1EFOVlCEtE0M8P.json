@@ -5082,6 +5082,28 @@
     {
       "album": {
         "name": "The Throes Of Winter",
+        "url": "https://open.spotify.com/album/5YqF2yjs11eGNdbfMbKe0j"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "HALIENE",
+          "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292200,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/6Uk6eqMPki1s9FRoTFHSQW"
+    },
+    {
+      "album": {
+        "name": "The Throes Of Winter",
         "url": "https://open.spotify.com/album/4fGt5oUlTWgA2Yn3HrOoD2"
       },
       "artists": [
@@ -5096,7 +5118,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 292213,
       "name": "The End",
       "url": "https://open.spotify.com/track/2b9knIEU8i2rFHNUC6QWMp"

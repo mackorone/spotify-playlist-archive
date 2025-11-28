@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: DJ Tunez",
+  "description": "Nigeria's hottest tracks.  Cover: Omah Lay",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -4523,6 +4523,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/1yvqRS5Rv6YaP79DBLgWn3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151304,
+      "name": "Go Shawty (It\u2019s Your Birthday)",
+      "url": "https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
       },
@@ -8292,6 +8314,28 @@
       "duration_ms": 174107,
       "name": "Pano Tona",
       "url": "https://open.spotify.com/track/4rYrmw13Viwwu3c5vM89ty"
+    },
+    {
+      "album": {
+        "name": "Afroculture",
+        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Pansa Pansa",
+      "url": "https://open.spotify.com/track/3Nk1kjAFGSl4zEesuPckHR"
     },
     {
       "album": {

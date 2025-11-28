@@ -4,7 +4,7 @@
 
 > New music from BigXthaPlug Lil Baby and Key Glock.
 
-2,571 songs - 5 day 13 hr 15 min
+2,572 songs - 5 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2243,6 +2243,7 @@
 | [The War \(feat\. Young Thug\)](https://open.spotify.com/track/2o1dvKh58G11C51Y9EgBs3) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [ADHD](https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X) | 3:36 | 2020-04-02 | 2020-05-16 |
 | [The Woo \(feat\. 50 Cent & Roddy Ricch\)](https://open.spotify.com/track/1H7KnK26kc1YyellpbINEn) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:21 | 2020-07-03 | 2020-10-30 |
 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 | 2023-08-25 | 2023-11-11 |
+| [There It Go \(The Whistle Song\)](https://open.spotify.com/track/0f7gbjwkZOs9loj2fr0lGH) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [What The Game's Been Missing!](https://open.spotify.com/album/7CNV1ARDbh9WbrHOq4xOPa) | 3:00 | 2025-11-27 |  |
 | [They Afraid Of You](https://open.spotify.com/track/5CMUThHlepHR8c1xD0QYzs) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [!](https://open.spotify.com/album/4YEhTvqsptB5D1n095QL5r) | 2:18 | 2019-08-09 | 2019-08-16 |
 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 | 2023-04-28 | 2023-07-15 |
 | [They Shot At Trump](https://open.spotify.com/track/2UrjgEkw74FaqbGHDrQxgE) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [They Shot At Trump](https://open.spotify.com/album/13ptzgY2ol78IeD9oj59Gh) | 3:26 | 2025-04-18 | 2025-04-26 |

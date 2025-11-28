@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,051 likes - 223 songs - 12 hr 34 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,052 likes - 235 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,6 +230,18 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 220 | [Rise Again](https://open.spotify.com/track/4Dj36QPd18SfcObDNnCxiG) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:44 |
 | 221 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 |
 | 222 | [FLETCH](https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [SAUSAGE REVOLUTION](https://open.spotify.com/album/26ifRTFbIFDyMmEbIZZWd2) | 2:13 |
-| 223 | [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 |
+| 223 | [Someone to Love](https://open.spotify.com/track/2bLSFH6QvRJZY9TYwgl0rJ) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [Someone to Love](https://open.spotify.com/album/2e1bUHcllR10BzZ0IRO0dn) | 3:22 |
+| 224 | [Dom kan säga vad dom vill](https://open.spotify.com/track/2swwHydoY37lLNLKtPM5AW) | [The Grammy Winners](https://open.spotify.com/artist/1PWdEjV2JmKKO1eWS6mof5) | [Det är min tur nu](https://open.spotify.com/album/5a45QgrHjhwwAbnCIqsnTV) | 2:33 |
+| 225 | [Hold The Line](https://open.spotify.com/track/5RDoRjFsaQNWvYH0XZym3V) | [Ceramics](https://open.spotify.com/artist/4XtfdGn6rSGua0VIL79eFi) | [Hold The Line](https://open.spotify.com/album/40IenIHnq1Cr2zBKYXOChg) | 4:24 |
+| 226 | [Drone Drive\-By](https://open.spotify.com/track/5HNXhetCAwX7Ekykan0sr0) | [Metal Fog](https://open.spotify.com/artist/1zx9gh6Cn7VJ9YaWc4sCH2) | [Drone Drive\-By](https://open.spotify.com/album/71chZUBMuBKqyNyVYRS2xb) | 3:30 |
+| 227 | [Backwards](https://open.spotify.com/track/4yjlLn64Pm9LwWUffWhd1P) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Backwards](https://open.spotify.com/album/2hMtwB5CvVyY0Xf3EAJNId) | 3:14 |
+| 228 | [NecroMantis](https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 6:18 |
+| 229 | [Hell in Me](https://open.spotify.com/track/6l2vpMomP0oYkyrgru539R) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Hell in Me](https://open.spotify.com/album/5CAmQ0mNQ4y01QF3AK7hbg) | 4:31 |
+| 230 | [Tears Me Up](https://open.spotify.com/track/6959IIhaVq28Z6ygotljjL) | [Lifeboats](https://open.spotify.com/artist/2vGWwJu1DndWtt2AhRAplt) | [Tears Me Up](https://open.spotify.com/album/0OKcZGOjOy4VYwBxOux7Ph) | 3:20 |
+| 231 | [Here We Go](https://open.spotify.com/track/1AhqASK4Hs7kQ6naWHaVNW) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Here We Go](https://open.spotify.com/album/4EVGPprwwNEdaUa2ebv1Tx) | 2:48 |
+| 232 | [K2](https://open.spotify.com/track/5nTv9pn1Zm4nHoONNvquDP) | [desakato](https://open.spotify.com/artist/7wazA5KFLeU7mzsJc0TMse) | [Chokofresa](https://open.spotify.com/album/0NctAbmRD841BP71SW2qY1) | 2:51 |
+| 233 | [Stitch The Thread](https://open.spotify.com/track/1kM2v25EDIfXdtwgsAQu5k) | [Nicole Ash](https://open.spotify.com/artist/53Zt8SoJ4qBvKLwdE5h0QH) | [Stitch The Thread](https://open.spotify.com/album/1DowpFhOBVKyamkAIcC3n0) | 2:48 |
+| 234 | [I Might Be A Sinner](https://open.spotify.com/track/6XFQMdpWA6CrKQCnjUARsl) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 3:30 |
+| 235 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 |
 
-Snapshot ID: `AAAHuyeXYihXTCme3fxOXH2/2eaMGtaD`
+Snapshot ID: `AAAHx+oMDs+ZVh+483tNvxcX2VxR06ci`

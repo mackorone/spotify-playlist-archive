@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "SUPERIOR",
+        "url": "https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Delincuentes",
+      "url": "https://open.spotify.com/track/7weXEtywT6SjhByI0wg8oO"
+    },
+    {
+      "album": {
         "name": "Desde Que Te Vi",
         "url": "https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd"
       },
@@ -960,7 +978,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 230662,
       "name": "Mi Pueblo Natal",
       "url": "https://open.spotify.com/track/7JF9ljGd6rn323v4GNt2Mo"

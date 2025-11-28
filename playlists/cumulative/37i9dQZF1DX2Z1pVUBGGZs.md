@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring dellaxoz 🌹
+> a playlist without boundaries, featuring Just For Fun 🌹
 
-757 songs - 1 day 14 hr 17 min
+761 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [ict](https://open.spotify.com/track/4fwtqq4bf4PKZ6VgTK5XM9) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4TQqRcEliluExEwsmWVenF) | 3:28 | 2025-11-14 |  |
 | [idea of you](https://open.spotify.com/track/1gnjxcqvMQUHv2asWTxo8J) | [Abby Roberts](https://open.spotify.com/artist/11260Smss09lExMicvRPeO) | [obscura](https://open.spotify.com/album/1QBQzpCgdoe89WjGPdKPMm) | 2:57 | 2024-06-27 | 2024-07-19 |
 | [idk](https://open.spotify.com/track/2z42a7FZP30eYtu3DZ3us9) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [idk](https://open.spotify.com/album/4GdUAcy6VWKYKIEnXkHfT3) | 2:34 | 2025-02-21 | 2025-03-21 |
-| [If You Don't Know](https://open.spotify.com/track/2oPop18RMwcRHUYakXBMIJ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [If You Don't Know](https://open.spotify.com/album/2G0Dfd52dr6ofjAh4x4zCG) | 3:21 | 2025-10-02 |  |
+| [If You Don't Know](https://open.spotify.com/track/2oPop18RMwcRHUYakXBMIJ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [If You Don't Know](https://open.spotify.com/album/2G0Dfd52dr6ofjAh4x4zCG) | 3:21 | 2025-10-02 | 2025-11-28 |
 | [If You Give Me This Chance](https://open.spotify.com/track/4TW9oeKIpucVNwgYAYpFCY) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [If You Give Me This Chance](https://open.spotify.com/album/5NpZs5DFC3xcXQM9AXRkke) | 3:25 | 2025-08-21 | 2025-11-21 |
 | [if,,](https://open.spotify.com/track/1NRYNka2z3Pqbfa0gVa78D) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [if,,](https://open.spotify.com/album/7HLZ9xdkL5LCs57iLFDeVu) | 4:14 | 2025-06-12 | 2025-08-22 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 | 2025-10-03 |
@@ -385,6 +385,7 @@
 | [knitting song](https://open.spotify.com/track/55q7JTM5IkHnHcVXou0bJZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:27 | 2024-08-29 | 2024-10-04 |
 | [köln](https://open.spotify.com/track/1EBE9YbvhTefyMF5IXi6Hx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [köln](https://open.spotify.com/album/132pEALpHb1vZ01npvRw4t) | 2:30 | 2024-06-27 | 2024-07-19 |
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 | 2025-09-26 |
+| [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 | 2025-11-28 |  |
 | [Lanzarote](https://open.spotify.com/track/7ovXqaoDmyjklSsS1UYgUI) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Lanzarote](https://open.spotify.com/album/11qqHjUrk1HtDVw5hIyGrm) | 3:22 | 2025-06-05 | 2025-07-25 |
 | [Last Dances](https://open.spotify.com/track/4hCkNycFyjGj8Bi2WOrrHB) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Last Dances](https://open.spotify.com/album/4jng6kqRtdxiAeRNIz9RQN) | 2:30 | 2025-07-03 | 2025-09-19 |
 | [Last Time](https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Last Time](https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf) | 3:34 | 2025-08-28 | 2025-10-10 |
@@ -433,6 +434,7 @@
 | [Man on the Run](https://open.spotify.com/track/02WWKquFQWZYHYYEHpcOBz) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 5:11 | 2025-11-14 |  |
 | [Marigolds](https://open.spotify.com/track/4cWbKUGBCvMaNlQElQrUvD) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Marigolds](https://open.spotify.com/album/0UZYkqUUPKY9W41v4RTgFr) | 2:50 | 2025-09-04 | 2025-11-07 |
 | [May I Have This Dance?](https://open.spotify.com/track/0pAcGeokyNP8jsxgJPvZLF) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [May I Have This Dance?](https://open.spotify.com/album/5ruqDtNkEKfArLkcIob3DC) | 3:03 | 2025-04-24 | 2025-08-01 |
+| [Maybe We Should Break Up](https://open.spotify.com/track/2zC4naFRyKUEe3WZyvHrcX) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Maybe We Should Break Up](https://open.spotify.com/album/5DJqdWWgK0YqToUuHmCtaH) | 2:52 | 2025-11-28 |  |
 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 | 2024-07-25 | 2024-09-13 |
 | [Meeting You Once \(The End\)](https://open.spotify.com/track/4a08u29chwEimXNJ2GbFzA) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Feline's Return Act II](https://open.spotify.com/album/02XrUeWA1UrWc9B5esKAM2) | 2:17 | 2025-10-10 |  |
 | [Mermaid](https://open.spotify.com/track/5UBoW6qFJ6Kz6EeARCyvAK) | [Dumb Buoys Fishing Club](https://open.spotify.com/artist/5zq4xI3RwNWyVVSRHAwO0D) | [Mermaid](https://open.spotify.com/album/54Bp6QQRdaNpv50GTe55sB) | 2:58 | 2025-08-07 | 2025-10-17 |
@@ -502,6 +504,7 @@
 | [oyster](https://open.spotify.com/track/1oK8MgS9QKWFLC8VpZ15UB) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 3:00 | 2025-03-28 | 2025-05-09 |
 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 | 2024-10-10 | 2025-01-17 |
 | [paper doll](https://open.spotify.com/track/6bNg1NJzBC8HErlyiCJCYV) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [paper doll](https://open.spotify.com/album/10F8JH1StBCcOea8iSJwhS) | 3:15 | 2025-05-29 | 2025-07-04 |
+| [Paris](https://open.spotify.com/track/07Ub5Xr2d5UjKAKJXNMP52) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Paris](https://open.spotify.com/album/1JAD1lnNb3shHDqzMQpljy) | 2:22 | 2025-11-28 |  |
 | [Paris](https://open.spotify.com/track/0DQ1ufVX26xAlUv9wu70sO) | [Tonia](https://open.spotify.com/artist/2udDMeED34yYfxCs2bvEXx), [Zander](https://open.spotify.com/artist/61w5YWu30HuH0qRSsCdJ54) | [Paris](https://open.spotify.com/album/049mrMrFaAmuZfZpUReoTP) | 4:03 | 2025-10-31 |  |
 | [PE3](https://open.spotify.com/track/4Zk6SD3tUXJ8ShYmvrA9ne) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [PE3](https://open.spotify.com/album/3uBk7P0msuy6PNVzrjOfRb) | 3:08 | 2024-09-05 | 2024-11-01 |
 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-10 | 2025-08-22 |
@@ -517,7 +520,7 @@
 | [PLAY HARD!](https://open.spotify.com/track/0nHVBKax5stRHnSjA249t7) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Earthday](https://open.spotify.com/album/5daBB3dy2KLzIOnZnG4mzm) | 3:00 | 2025-10-02 |  |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-09-26 |
 | [Please Forgive Me, David Gray](https://open.spotify.com/track/3QLLYIN4ZYUQyQmcNNcebi) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Please Forgive Me, David Gray](https://open.spotify.com/album/53xvRwB63FngPIEMlCRJDz) | 3:02 | 2025-01-24 | 2025-02-14 |
-| [Polka dot](https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Cheerleader](https://open.spotify.com/album/54YKB5aeBIRCjUe5ssHQzo) | 1:38 | 2025-10-02 |  |
+| [Polka dot](https://open.spotify.com/track/7sZ9IdFPv0GkiIrvTdzPvs) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Cheerleader](https://open.spotify.com/album/54YKB5aeBIRCjUe5ssHQzo) | 1:38 | 2025-10-02 | 2025-11-28 |
 | [Pomegranate](https://open.spotify.com/track/5xG8zZlNA77WAN2tOBeAfy) | [Serena Clara](https://open.spotify.com/artist/1PO51wEepI6XjVQnfl0ve1) | [Pomegranate](https://open.spotify.com/album/1Mt6MI8JFoSOkWWSP1CHJw) | 3:10 | 2025-10-10 |  |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-18 | 2025-10-03 |
 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 | 2025-08-28 | 2025-10-17 |
@@ -583,6 +586,7 @@
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-17 | 2025-02-21 |
 | [Silhouette](https://open.spotify.com/track/4vL14z0wDM4zP33DMHoBbN) | [Harlen](https://open.spotify.com/artist/2k1NNKMVa0VXuUMsnUbvKj) | [Silhouette](https://open.spotify.com/album/1wobCiIlRVRrw4OdjeCRHu) | 2:49 | 2025-10-02 | 2025-11-21 |
 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-03 | 2025-06-27 |
+| [silverscreen](https://open.spotify.com/track/67k1h8CzDWla0ztvICLQ4e) | [homepage](https://open.spotify.com/artist/0isAwSX2wSBTCoK3aS1iD0) | [aeropop](https://open.spotify.com/album/75nBE4PeanSD7YMnYcbnY0) | 3:22 | 2025-11-28 |  |
 | [sittingbugs](https://open.spotify.com/track/2S5s0SLscDxEFqAnIUzWxq) | [Lucy Gaffney](https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ) | [sittingbugs](https://open.spotify.com/album/3Vd5FIDFKa5jeM5CMWdp5I) | 2:00 | 2024-08-15 | 2024-08-30 |
 | [Skeletons](https://open.spotify.com/track/4BqgUcV7mhUwLbO18JQrqW) | [3lijah](https://open.spotify.com/artist/0kDEuNVNp2RC9VUThcATI1) | [Skeletons](https://open.spotify.com/album/3H2EzKT4dEZmfNcRKnVAV1) | 2:41 | 2025-08-07 | 2025-10-03 |
 | [slack](https://open.spotify.com/track/7EfA4kiIZJebf3fIHiO0Ge) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [slack / she's all that i need](https://open.spotify.com/album/6ZAEBW95fQsflooTxmkLmY) | 2:40 | 2025-05-15 | 2025-07-18 |
@@ -604,7 +608,7 @@
 | [soda pop!](https://open.spotify.com/track/1t2fwO1YaZeQhseTKB9JMJ) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [soda pop!](https://open.spotify.com/album/6geRzBEfhCLORR3xQEIaZt) | 2:51 | 2024-11-15 | 2025-04-11 |
 | [Sofia](https://open.spotify.com/track/1hcl7Rbl63ScIgt675pT78) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Sofia](https://open.spotify.com/album/38ZWo5i7WiRXodK7c3HUSA) | 2:24 | 2025-10-16 |  |
 | [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 | 2025-06-12 | 2025-10-24 |
-| [softly](https://open.spotify.com/track/07vsYX27Ff2MuYwC94esGP) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [softly](https://open.spotify.com/album/1YkebbqxegtfM0D8eTWkwd) | 2:48 | 2025-11-07 |  |
+| [softly](https://open.spotify.com/track/07vsYX27Ff2MuYwC94esGP) | [kenzo jae](https://open.spotify.com/artist/1649ehpEZceiBKsl19kumf) | [softly](https://open.spotify.com/album/1YkebbqxegtfM0D8eTWkwd) | 2:48 | 2025-11-07 | 2025-11-28 |
 | [Somebody Come Through](https://open.spotify.com/track/4Sz61x2L4mYmtw47NBrzfC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Isotope](https://open.spotify.com/album/64gDz0I7VYp8NrDTJkjlZp) | 3:58 | 2024-08-29 | 2025-01-24 |
 | [Somebody I'm Not](https://open.spotify.com/track/0hKuDy34aXj3CC3PXMqnZj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl](https://open.spotify.com/album/6WOa0ML0MubR3Vz2QwTI6R) | 3:29 | 2025-10-31 |  |
 | [Someone to you](https://open.spotify.com/track/1KakMBPpaAlsVjglOfbNsd) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Someone to you](https://open.spotify.com/album/3FNUC8Sky6DIYqrBaeqJjt) | 3:38 | 2024-11-01 | 2025-03-07 |
@@ -696,7 +700,7 @@
 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-07-03 | 2025-08-29 |
 | [TRUTH](https://open.spotify.com/track/1bo5GZMwUZqgnyUZht8hjq) | [Feux](https://open.spotify.com/artist/4bnTHHCHsFujaD34vWr4tV) | [TRUTH](https://open.spotify.com/album/2ci5SqbzUbf64b78rQxx3E) | 2:29 | 2024-09-20 | 2024-12-06 |
 | [TRUTH DARES](https://open.spotify.com/track/6v5idSBv62Ps5UTtn2UdSM) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [BUTTERFLY TO A FLAME](https://open.spotify.com/album/039s679sGg1czeDaW17El4) | 3:48 | 2025-04-24 | 2025-06-13 |
-| [try](https://open.spotify.com/track/3NxEO96YX96IRU0fSlS5TA) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [u could be something](https://open.spotify.com/album/1cNWpdNVt8kmfZb3bPLuMH) | 3:14 | 2025-10-10 |  |
+| [try](https://open.spotify.com/track/3NxEO96YX96IRU0fSlS5TA) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [u could be something](https://open.spotify.com/album/1cNWpdNVt8kmfZb3bPLuMH) | 3:14 | 2025-10-10 | 2025-11-28 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-06-27 | 2024-09-21 |
 | [TV Show](https://open.spotify.com/track/1z7bP3RDABUmcONZNAnxN3) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [TV Show](https://open.spotify.com/album/758tMDw0wXQKLlhmbTErqI) | 3:17 | 2025-06-12 | 2025-08-15 |
 | [twenty four](https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM) | [Taylr](https://open.spotify.com/artist/5OI8f36YWTxeJVfICzIW5X), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [twenty four](https://open.spotify.com/album/7FCgA0AwJ4ve322KQGjh4g) | 2:43 | 2025-11-14 |  |

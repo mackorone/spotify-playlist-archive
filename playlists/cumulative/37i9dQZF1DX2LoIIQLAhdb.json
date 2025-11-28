@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Monsieur Nov",
   "name": "R&Bae",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 157037,
       "name": "All Time",
       "url": "https://open.spotify.com/track/3I1fU0PlmQmZ9UG50Uti1Q"
@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Busy Boi",
+        "url": "https://open.spotify.com/album/4WiNTZvQ9aemVusW46hQSu"
+      },
+      "artists": [
+        {
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130140,
+      "name": "Busy Boi",
+      "url": "https://open.spotify.com/track/3qBUIqr8PYumMyhv4xIQ03"
+    },
+    {
+      "album": {
         "name": "Busy Boy",
         "url": "https://open.spotify.com/album/3VXckNruUgbW1sRiTLv1FX"
       },
@@ -2216,6 +2234,24 @@
       "duration_ms": 166906,
       "name": "C\u00e2lin (feat. Soolking)",
       "url": "https://open.spotify.com/track/4pqcE2mKv6aEiDkgtObDJK"
+    },
+    {
+      "album": {
+        "name": "NOV",
+        "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "C\u0153ur de pirate",
+      "url": "https://open.spotify.com/track/7tToaH0IEXI6sm7ka7zHNM"
     },
     {
       "album": {
@@ -4177,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Ici ou ailleurs",
+        "url": "https://open.spotify.com/album/6FXBHn3jXoPQePa1KeH8bd"
+      },
+      "artists": [
+        {
+          "name": "Osmaus",
+          "url": "https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222068,
+      "name": "Ici ou ailleurs",
+      "url": "https://open.spotify.com/track/2j1moEf05wADCnu8DIEsHR"
+    },
+    {
+      "album": {
         "name": "Il Aimerait Bien",
         "url": "https://open.spotify.com/album/1a2YLaQJEoHm85oX5RQZvw"
       },
@@ -4340,6 +4394,24 @@
       "duration_ms": 150019,
       "name": "intemporel",
       "url": "https://open.spotify.com/track/4e5KAgdRth25lpdaScjP66"
+    },
+    {
+      "album": {
+        "name": "INTENTION",
+        "url": "https://open.spotify.com/album/2UWazsiuvZF2a4yB7ZAXun"
+      },
+      "artists": [
+        {
+          "name": "DYHA",
+          "url": "https://open.spotify.com/artist/4BLEPYJzLGmGV3Y4jkXBIS"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156286,
+      "name": "INTENTION",
+      "url": "https://open.spotify.com/track/0ufpKEK2dUxX5l9Iy04tm9"
     },
     {
       "album": {
@@ -8036,7 +8108,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 189546,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/2M8dS8F3XolgXChxiu0m5B"
@@ -9138,7 +9210,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 162162,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/1EICfyWYkBoVDnkbFOYKw3"
@@ -10572,7 +10644,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 151069,
       "name": "Toucher ton coeur",
       "url": "https://open.spotify.com/track/0Vnpk1bAbfQ2jKdI0xzpei"

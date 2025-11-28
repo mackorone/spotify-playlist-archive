@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 761 likes - 128 songs - 7 hr 58 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 761 likes - 129 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 126 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 |
 | 127 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 |
 | 128 | [Paranoid Paradise](https://open.spotify.com/track/3m6xMEquN2cJ2oCghdIeKs) | [The Alternative Project](https://open.spotify.com/artist/68iqN5iGFyGYazmS5Qg3ER) | [Starting 24](https://open.spotify.com/album/0f4RaNF6eFksDXHCbmcpeh) | 4:30 |
+| 129 | [Rabia](https://open.spotify.com/track/2JiBnWtHKIFr9gH8yQTHp0) | [SBC TRINIDAD](https://open.spotify.com/artist/784SSel1L8TGhBlrANzeET) | [Rabia](https://open.spotify.com/album/4qCOtTxrPL2kYbeXH0E4VG) | 2:57 |
 
-Snapshot ID: `AAAFzYAG37LcsH444JrfxbK7s8SsPeV6`
+Snapshot ID: `AAAFzjvgUtYrNoH6j70b7kFxDRptwdP8`

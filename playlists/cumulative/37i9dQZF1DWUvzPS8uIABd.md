@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Senya.
 
-832 songs - 1 day 17 hr 33 min
+836 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [7 syntiä \(feat\. AHTI\)](https://open.spotify.com/track/1y1iqCHLIIqdlD83TbUPS8) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Traagista mut maagista](https://open.spotify.com/album/05UgN2Oat0R7y87VGSpTU2) | 2:52 | 2025-10-30 |  |
 | [AAAA](https://open.spotify.com/track/3eqUnzUEyAtznlqapc4fSg) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [AAAA](https://open.spotify.com/album/6J1QFQP2WOGF5AdvPV3ZJC) | 3:41 | 2025-06-12 | 2025-10-24 |
 | [Aamuihmiset](https://open.spotify.com/track/6ZaEw9vOMaKvg3WYkDQHOu) | [J\. Karjalainen](https://open.spotify.com/artist/03WFRA66hsZpJ5rqylE0vQ) | [Suomalaista muotoiluu](https://open.spotify.com/album/75be1pSUYClB92gUh4E9Ar) | 3:14 | 2025-03-27 | 2025-04-11 |
+| [Aamun kuiskaus \(Vain elämää kausi 16\)](https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [VIIVI \(Vain elämää kausi 16\)](https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5) | 3:11 | 2025-11-27 |  |
 | [Aamunkoi](https://open.spotify.com/track/5859nOZaubsLJuwVylSmIY) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Aamunkoi](https://open.spotify.com/album/13Fkv0eke2vYeXdK77jXjS) | 3:03 | 2025-05-29 | 2025-08-29 |
 | [Aamuun asti \(Vain elämää kausi 16\)](https://open.spotify.com/track/3JGz1cs2rHiF6XPWJ5VT9l) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Aamuun asti \(Vain elämää kausi 16\)](https://open.spotify.com/album/6lZIPYTgUgrfkpbWdv4Nvk) | 2:59 | 2025-10-09 | 2025-10-17 |
 | [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-05 | 2024-09-20 |
@@ -71,6 +72,7 @@
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 | 2024-10-18 |
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-25 | 2025-06-06 |
 | [Bensaa tulipaloon](https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Bensaa tulipaloon](https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe) | 3:01 | 2025-10-23 |  |
+| [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 | 2025-11-27 |  |
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-14 | 2024-11-29 |
 | [BIMBO](https://open.spotify.com/track/3wQlBmVJmrKAlsaeaMnHvu) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [BIMBO](https://open.spotify.com/album/1C2gXcSkhQCQE0epXs4Uvu) | 3:08 | 2025-09-11 | 2025-09-27 |
 | [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 | 2025-08-21 | 2025-10-24 |
@@ -210,6 +212,7 @@
 | [Joku, jonka luo palata](https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Joku, jonka luo palata](https://open.spotify.com/album/1kuWX6YfOl9tnpEHMf8i5r) | 3:10 | 2024-10-24 | 2025-01-03 |
 | [JORMA](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [JORMA](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 | 2024-09-05 | 2024-09-20 |
 | [Jos aika auttaa](https://open.spotify.com/track/7LPRB3MRdpHlw14rQgfQOH) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Jos aika auttaa](https://open.spotify.com/album/5BwQEFDkhJlwopbd0G5KzR) | 2:29 | 2025-05-22 | 2025-06-13 |
+| [Jos ei oo meit](https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Jos ei oo meit](https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd) | 2:18 | 2025-11-27 |  |
 | [Jos me oltais järkevii](https://open.spotify.com/track/6KSk55VPeql3JRPtEhcgIy) | [Samuli Edelmann](https://open.spotify.com/artist/1Z6uN0tVLoKb8RIqHQzdSu) | [Jos me oltais järkevii](https://open.spotify.com/album/1YzICaP7Jd6j3Hq0yNSaS4) | 2:51 | 2024-08-15 | 2024-09-06 |
 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 | 2025-05-15 | 2025-06-13 |
 | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/track/7HAtisoxJ9jmNud1DjvHir) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Jos sä tahdot niin \(Vain elämää kausi 15\)](https://open.spotify.com/album/7GBNdMGzuiqOC1zaoLGGIi) | 3:37 | 2024-10-31 | 2024-11-08 |
@@ -724,6 +727,7 @@
 | [Tuulet puhaltaa \(Vain elämää kausi 15\)](https://open.spotify.com/track/2nItUW1kASPDp32bpslpd7) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Tuulet puhaltaa \(Vain elämää kausi 15\)](https://open.spotify.com/album/7JlGpmgCyBYYqII2DI6haL) | 2:28 | 2024-11-07 | 2024-11-15 |
 | [Tuulien teitä](https://open.spotify.com/track/383ykL7v9KTQJt6N4jrp03) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Tuulien teitä](https://open.spotify.com/album/3USx6QvGMQPAtE8zzKdJ6v) | 3:30 | 2024-10-17 | 2024-11-22 |
 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 | 2025-11-20 |  |
+| [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 | 2025-11-27 |  |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-03-28 |
 | [Tyhmää](https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Tyhmää](https://open.spotify.com/album/2LXaYEFEKgtCwOh8tZ3uuR) | 2:21 | 2025-11-13 |  |
 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-07 | 2025-11-14 |

@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-94 songs - 8 hr 20 min
+95 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Eu Ainda Vou Sonhar](https://open.spotify.com/track/3y8V1S0UPTBXgZZYXyzxpF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Ainda Vou Sonhar](https://open.spotify.com/album/6VwzItDBlPjnzMDApGAzU1) | 4:24 | 2023-07-09 | 2024-04-06 |
 | [Eu Me Arrependo](https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Jesus, o Brasil Te Adora](https://open.spotify.com/album/6fgrNd47zNMf9nB72rwMiC) | 5:53 | 2023-07-09 |  |
 | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 | 2025-09-21 |  |
-| [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ) | 4:03 | 2025-06-18 |  |
+| [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/track/1CLdTTa42Y2PZMuYuwbMVS) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Não Me Rendo a Minha Dor \(Ao Vivo\)](https://open.spotify.com/album/5m0ssj0Vlx2Nw0oX1Xu9JZ) | 4:03 | 2025-06-18 | 2025-11-28 |
 | [Eu Quero Ser Santo](https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:20 | 2023-07-09 |  |
 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Existe Um Nome \(Ao Vivo\)](https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E) | 5:26 | 2023-07-09 | 2025-09-28 |
 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Quero Aprender a Orar \(Ao Vivo\)](https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc) | 5:26 | 2023-12-17 | 2025-01-23 |
@@ -80,6 +80,7 @@
 | [Quanto Amor](https://open.spotify.com/track/23pQ1PRKkAwU5J56rR1m5z) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:26 | 2023-07-09 | 2025-02-25 |
 | [Quanto Amor \(feat\. Eyshila\)](https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:26 | 2023-07-09 |  |
 | [Quero Aprender a Orar \- Ao Vivo](https://open.spotify.com/track/1EliOzpWYjkmtBzC383hoF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Quero Aprender a Orar \(Ao Vivo\)](https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc) | 4:56 | 2023-07-09 | 2023-11-11 |
+| [Senhor, Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/track/1FtPOWLPXpxjl50eIsfeCc) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Senhor, Eu Te Amo \(Ao Vivo\)](https://open.spotify.com/album/0IpK3AANbgpbuq1Jht67iT) | 5:44 | 2025-11-28 |  |
 | [Simplesmente Te Adorar](https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 6:23 | 2023-07-09 |  |
 | [Simplesmente Te Adorar + Eu Só Quero Tua Presença \(Ao Vivo\)](https://open.spotify.com/track/5DhuUO1J5wflNCsJOvSbcp) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Simplesmente Te Adorar + Eu Só Quero Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/6sqyWe2roWz3gVylfXy2BM) | 7:43 | 2025-10-02 |  |
 | [Som de um Coração](https://open.spotify.com/track/4nGmblPOv1o8xRmd5Qi9vy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:47 | 2024-12-07 | 2024-12-09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 319008,
+  "num_followers": 319061,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACVpoNB+Y+Ztpj5z+MZHOMQ",
+  "snapshot_id": "aSZDAAAAAACHHnqk3iPUjn/9wHK0n07d",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 89741,
+      "name": "New Tank",
+      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC - SORRY 4 DA WAIT",
+        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "BACKR00MS (with Travis Scott)",
+      "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIELD TRIP",
         "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
       },
@@ -615,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUSIC - SORRY 4 DA WAIT",
-        "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
       "artists": [
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 160306,
-      "name": "BACKR00MS (with Travis Scott)",
-      "url": "https://open.spotify.com/track/2cjhSZd6uZIrp4ddxvvBdn"
+      "duration_ms": 150409,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     },
     {
       "added_at": null,
@@ -644,25 +676,9 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 89741,
-      "name": "New Tank",
-      "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 150409,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
+      "duration_ms": 117239,
+      "name": "Place",
+      "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 219428,
       "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 117239,
-      "name": "Place",
-      "url": "https://open.spotify.com/track/1Bg2CNZw6S4e9cGWPmi0uI"
     },
     {
       "added_at": null,

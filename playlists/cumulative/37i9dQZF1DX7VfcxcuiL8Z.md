@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: The Smith Street Band
+> The best in new rock\. Cover: DZ Deathrays
 
-500 songs - 1 day 5 hr 20 min
+503 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-09-19 | 2025-02-28 |
 | [King Pumpkin](https://open.spotify.com/track/2tN1fgBw6NvJgyd50ZC7f0) | [Fanning Dempsey National Park](https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA) | [King Pumpkin](https://open.spotify.com/album/1F2yD3qXr3YKv6epyVsUVN) | 3:27 | 2025-05-01 | 2025-08-08 |
 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 | 2025-05-08 | 2025-07-25 |
+| [Kiss the Rain](https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk) | [THIRST TRAP](https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV) | [Kiss the Rain](https://open.spotify.com/album/6FK8wwxb2hLpVt7n87co0p) | 3:45 | 2025-11-27 |  |
 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 | 2025-11-06 |  |
 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-09-26 | 2024-11-01 |
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-10 | 2025-09-12 |
@@ -284,6 +285,7 @@
 | [MOTHER](https://open.spotify.com/track/0xyfRG9hlPvfU2Stwic0tt) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [MOTHER](https://open.spotify.com/album/1lgxH3GZc9wK0q1I73bMCo) | 4:05 | 2025-09-11 | 2025-11-07 |
 | [Motoroller](https://open.spotify.com/track/3qPzVN8VgE4SSCQRs0AadM) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Motoroller](https://open.spotify.com/album/1G8ln7CS3KXNmJbQEwDpkv) | 2:42 | 2024-09-19 | 2024-11-22 |
 | [My Blood](https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [My Blood](https://open.spotify.com/album/2ftETEDJ4GWM9a3z5rewTf) | 4:05 | 2025-01-09 | 2025-05-02 |
+| [My Broken Spine](https://open.spotify.com/track/5UHEdOMcaKy0GAbLdkbF6J) | [Gyroscope](https://open.spotify.com/artist/384DhgGNBZ91pyVJF61u18) | [My Broken Spine](https://open.spotify.com/album/2VPNutgCHosAhbLoCuinqD) | 3:30 | 2025-11-27 |  |
 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 | 2024-07-25 | 2024-12-13 |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 |  |
 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-18 |  |
@@ -347,6 +349,7 @@
 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 | 2025-07-03 | 2025-08-21 |
 | [PTRCK](https://open.spotify.com/track/32GOdJModoO0lIO40uMIYw) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [F U IN MORSE CODE](https://open.spotify.com/album/2GbYbt9hZVZlMA8jP13ihR) | 2:32 | 2025-08-20 | 2025-08-22 |
 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 | 2025-06-19 | 2025-10-03 |
+| [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [](https://open.spotify.com/album/null) | 2:56 | 2025-11-27 |  |
 | [Rain Can't Reach Us](https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Rain Can't Reach Us](https://open.spotify.com/album/4Zz6Sy6FAQWKQTgQMWiHTS) | 4:56 | 2024-07-25 | 2024-09-27 |
 | [Rain in the River](https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Rain in the River](https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P) | 3:12 | 2025-04-03 | 2025-07-04 |
 | [Rainbow](https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:15 | 2024-05-16 | 2024-12-13 |

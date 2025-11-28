@@ -2,9 +2,9 @@
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to the greatest Pakistani hits 🎶 Cover: Afusic
+> Home to the greatest Pakistani hits 🎶 Cover: Asim Azhar
 
-255 songs - 17 hr 17 min
+256 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 | 2024-06-24 | 2025-06-30 |
 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 | 2023-05-24 | 2023-05-31 |
 | [Kehdo Na](https://open.spotify.com/track/5UNN2SnmrqvYMFpREy7vZz) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Kehdo Na](https://open.spotify.com/album/7zWYyvK6weW41BYS5vd7hV) | 3:03 | 2025-05-28 | 2025-06-30 |
+| [Khabbay Sajjay](https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Asim Ali](https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y) | 3:08 | 2025-11-27 |  |
 | [Khabram Raseed Imshab](https://open.spotify.com/track/7DCNxzlo5IPcMRxo7ac8JP) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Chain of Light](https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77) | 11:28 | 2024-09-20 | 2024-09-24 |
 | [Khwabeeda](https://open.spotify.com/track/2hYgz7q5qhBeRiKIdChC83) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Khwabeeda](https://open.spotify.com/album/7oE5nV1wTd9wvEZbM8qi02) | 2:43 | 2025-02-17 | 2025-04-12 |
 | [Kismat](https://open.spotify.com/track/1nSv0cisN87jlAiXHjZ3KM) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [HASHAM](https://open.spotify.com/artist/3b2KqMPwMeN8zchJ9CljtG) | [Kismat](https://open.spotify.com/album/7kI8KZ9l4NUQMM9ULNU9wk) | 2:53 | 2024-12-04 | 2024-12-20 |
@@ -209,7 +210,7 @@
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-02 | 2025-10-16 |
 | [Sajan Das Na](https://open.spotify.com/track/4TNzipbkHuhp5DtHcZ9osE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Sajan Das Na](https://open.spotify.com/album/3yTNiZtxLJMpOKc5dZJf9w) | 3:56 | 2023-05-04 | 2023-11-30 |
 | [Sajna](https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg) | [Yashal Shahid](https://open.spotify.com/artist/3ILK3wZ5nqQr7O79aF8G53) | [Sajna](https://open.spotify.com/album/4i3JnEdAldFPqaDYVSNI0p) | 2:37 | 2023-05-04 | 2023-12-22 |
-| [Sajna da Dil Torya](https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Sajna da Dil Torya](https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p) | 4:13 | 2024-10-23 |  |
+| [Sajna da Dil Torya](https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Sajna da Dil Torya](https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p) | 4:13 | 2024-10-23 | 2025-11-28 |
 | [Same Beef](https://open.spotify.com/track/65c6VCikt7f5sAS1heoYQC) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Same Beef](https://open.spotify.com/album/31psNfWEweb2avBzLNiTZk) | 4:50 | 2023-11-29 | 2024-12-20 |
 | [Sapna](https://open.spotify.com/track/2dLS3wolNYLQoffbjUYoQy) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Sherazam](https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN) | [Sapna](https://open.spotify.com/album/1V9KQKx40292LOWyDqKuUE) | 2:42 | 2023-09-26 | 2023-11-30 |
 | [savera](https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP) | [savera](https://open.spotify.com/album/57XU5RuEZQWoYsTuJP6rnJ) | 2:57 | 2025-10-15 |  |

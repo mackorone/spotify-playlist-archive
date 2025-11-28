@@ -5701,6 +5701,28 @@
     },
     {
       "album": {
+        "name": "Eyes Shut",
+        "url": "https://open.spotify.com/album/3XdLCfK6V5vtKrGlzmNrO1"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136407,
+      "name": "Eyes Shut",
+      "url": "https://open.spotify.com/track/0NgOwfHLUzmfgRY0XoXzbr"
+    },
+    {
+      "album": {
         "name": "Eyesight",
         "url": "https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7"
       },
@@ -17050,7 +17072,7 @@
       },
       "artists": [
         {
-          "name": "s\u00fbr faire",
+          "name": "sur faire",
           "url": "https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2"
         },
         {

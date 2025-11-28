@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-575 songs - 1 day 13 hr 36 min
+576 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [你給過我太陽 \(影集《我們與惡的距離Ⅱ》插曲\)](https://open.spotify.com/track/2B2VkawjgmF4IgfTxcZwfx) | [Aska Yang](https://open.spotify.com/artist/2SOrfXWlb17EoCqupfGX4u) | [你給過我太陽](https://open.spotify.com/album/5nViyDdu5FFPWdadLLZacl) | 3:57 | 2025-07-10 | 2025-07-18 |
 | [你要的愛 \- 心動版](https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [你要的愛 \(心動版\)](https://open.spotify.com/album/6m0w2NPZtEMqYA5U5wbt9a) | 3:55 | 2022-06-02 | 2025-06-06 |
 | [你記得嗎](https://open.spotify.com/track/1cwxDaya6pbEyLN4VYmrKJ) | [楊培安](https://open.spotify.com/artist/5zxmrXIwrLuSfIJM3Dz6y1) | [回憶如歌](https://open.spotify.com/album/3JmCRfInp95OYw7bW9Ptlr) | 5:16 | 2022-06-10 | 2022-06-15 |
+| [你說話的聲音好細](https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [你說話的聲音好細](https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17) | 5:14 | 2025-11-27 |  |
 | [來日不方長](https://open.spotify.com/track/0cor9VJMzRZQmyQbV9INpK) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [來日不方長](https://open.spotify.com/album/53pEl1amSqUzSV7ViWqi9Y) | 4:16 | 2022-06-27 | 2022-06-30 |
 | [俗世\(CalledLife\)](https://open.spotify.com/track/42GPyTCVBC3EygW06qcwz4) | [鄧典](https://open.spotify.com/artist/7s83TX2Vm2MS1Ol0udwjYY) | [俗世（THE PROCESSING）](https://open.spotify.com/album/6FMFe0YIy2btShCPmRj35c) | 4:42 | 2025-11-13 | 2025-11-21 |
 | [信號無法傳送](https://open.spotify.com/track/59C3h8Zpceu3o5wGZ2Ho81) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [信號無法傳送](https://open.spotify.com/album/0jfSHGXLsMPx4jRV33iAdC) | 3:26 | 2023-04-20 | 2023-04-28 |
@@ -327,7 +328,7 @@
 | [我喜歡我](https://open.spotify.com/track/6xSTphVc86dhex73ZryENf) | [Zen 俊倩](https://open.spotify.com/artist/07nkXNC5TYJ4N2J6JvKgMH) | [我喜歡我](https://open.spotify.com/album/6LznfHadflUwKQhyVPdOYy) | 3:04 | 2025-08-28 | 2025-10-05 |
 | [我在紐約打電話給你](https://open.spotify.com/track/3vTnGxlxui3i9mWrAepise) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我在紐約打電話給你](https://open.spotify.com/album/705xmvtHgzHVcHADtEdICs) | 3:56 | 2023-11-09 |  |
 | [我多想變成她](https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [偏偏我卻都記得](https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5) | 4:47 | 2022-06-02 | 2024-06-28 |
-| [我實在是活該](https://open.spotify.com/track/1RTYl9uJpE9QbuV73Ey1dF) | [黃號](https://open.spotify.com/artist/6qtpMdYXlctoS7te9gBcdG) | [我實在是活該](https://open.spotify.com/album/20sXPhPYDKI1z6KXBqAbXK) | 4:00 | 2025-11-20 |  |
+| [我實在是活該](https://open.spotify.com/track/1RTYl9uJpE9QbuV73Ey1dF) | [黃號](https://open.spotify.com/artist/6qtpMdYXlctoS7te9gBcdG) | [我實在是活該](https://open.spotify.com/album/20sXPhPYDKI1z6KXBqAbXK) | 4:00 | 2025-11-20 | 2025-11-28 |
 | [我想再擁有自己](https://open.spotify.com/track/6Ya4RZGwrXVAOjU70kR3Ys) | [Neci Ken](https://open.spotify.com/artist/2LzIV2DbLNmH0DG89BNbD6) | [我想再擁有自己](https://open.spotify.com/album/3hGtXqUNJ9ww5LknAnPL6g) | 4:46 | 2022-06-30 | 2022-07-08 |
 | [我想記得這封遺書 \- Voice Memo 2024\-07\-10](https://open.spotify.com/track/3hEKqj65MPopPaieQ50gUu) | [Yinson Lee](https://open.spotify.com/artist/2JPCNCkjhkJzy4Dm2yR2L5) | [我想記得這封遺書 \- Voice Memo 2024\-07\-10](https://open.spotify.com/album/37aBcL95mpzQ6zqIaFwMVD) | 4:28 | 2024-08-08 | 2024-08-16 |
 | [我愛你 只是不再喜歡你了](https://open.spotify.com/track/1D92MZl7TjWWictEbSs62w) | [Kenji Wu](https://open.spotify.com/artist/1MgybycH8k36NX0Ifzlddb) | [我愛你 只是不再喜歡你了](https://open.spotify.com/album/0rY77OAU93r387pT4kWglx) | 3:22 | 2023-08-03 | 2023-08-25 |
@@ -397,7 +398,7 @@
 | [未唤醒的花](https://open.spotify.com/track/7g7U1uiDjVj74iJeMvS1JW) | [陳昱璇](https://open.spotify.com/artist/3XJsvxcHMDD62N5Wp45vZA) | [未喚醒的花](https://open.spotify.com/album/1kZBzc9pmw5Eraw4zZ64uv) | 4:16 | 2022-11-08 | 2022-11-11 |
 | [框不住的愛 \(不插電版\)](https://open.spotify.com/track/1RXWsw9e9jF56FYT5hXdk5) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [框不住的艷薇](https://open.spotify.com/album/4VxO70fYupkkl2JwXDMFhQ) | 3:37 | 2022-06-02 | 2022-07-26 |
 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 | 2025-07-24 |  |
-| [森林](https://open.spotify.com/track/6zOI5qqddfTClO7I7YdxLW) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [森林](https://open.spotify.com/album/4StIG5rC961YgFI5P1raP7) | 4:12 | 2025-11-20 |  |
+| [森林](https://open.spotify.com/track/6zOI5qqddfTClO7I7YdxLW) | [Elvin Chang](https://open.spotify.com/artist/6v7It0exKaYq9YEw95REHM) | [森林](https://open.spotify.com/album/4StIG5rC961YgFI5P1raP7) | 4:12 | 2025-11-20 | 2025-11-28 |
 | [樓](https://open.spotify.com/track/7lbpWIyXf7Bu6W5VmFmpXL) | [RECall](https://open.spotify.com/artist/6HKqHYEuA8LL8m1gd1Lv6U) | [樓](https://open.spotify.com/album/5MbOHFsk3fOTYJ2Z4zCa3T) | 4:28 | 2023-04-06 | 2023-04-21 |
 | [正想著你呢](https://open.spotify.com/track/38yCQiUZkE2OViISGCTgeo) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/7xJYGibKb3w5YK25Zf4vrp) | 3:25 | 2022-06-02 | 2022-07-29 |
 | [正想著你呢](https://open.spotify.com/track/4YxVgJAkGsUnqLvEzjz8Ry) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 3:25 | 2022-07-28 | 2024-03-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 18882,
+  "num_followers": 18940,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,30 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
+        "name": "WHAT",
+        "url": "https://open.spotify.com/album/36us3Pylwtw6T1liRpELNk"
+      },
+      "artists": [
+        {
+          "name": "CARTOON",
+          "url": "https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT"
+        },
+        {
+          "name": "Jean Pierre",
+          "url": "https://open.spotify.com/artist/59EMBN7eiOECiRgEyM9LeJ"
+        },
+        {
+          "name": "Daitto",
+          "url": "https://open.spotify.com/artist/2Cr1yQSJ738W0CCg1AzI86"
+        }
+      ],
+      "duration_ms": 203020,
+      "name": "WHAT",
+      "url": "https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
         "name": "Sine Wave Party EP",
         "url": "https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm"
       },
@@ -907,30 +931,6 @@
       "duration_ms": 326999,
       "name": "Beautiful Moment - Original Floor Mix",
       "url": "https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
-        "name": "WHAT",
-        "url": "https://open.spotify.com/album/36us3Pylwtw6T1liRpELNk"
-      },
-      "artists": [
-        {
-          "name": "CARTOON",
-          "url": "https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT"
-        },
-        {
-          "name": "Jean Pierre",
-          "url": "https://open.spotify.com/artist/59EMBN7eiOECiRgEyM9LeJ"
-        },
-        {
-          "name": "Daitto",
-          "url": "https://open.spotify.com/artist/2Cr1yQSJ738W0CCg1AzI86"
-        }
-      ],
-      "duration_ms": 203020,
-      "name": "WHAT",
-      "url": "https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw"
     }
   ],
   "unique_name": "Tokyo Club Beat",

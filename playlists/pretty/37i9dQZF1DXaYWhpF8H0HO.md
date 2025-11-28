@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Paul Partohap
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,486 likes - 117 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,494 likes - 117 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 116 | [Surreal](https://open.spotify.com/track/3UfJsm3CYBlDolv4MzNXM4) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Surreal](https://open.spotify.com/album/5rvS97WjRAIgSl8vZVvgeK) | 4:55 |
 | 117 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 |
 
-Snapshot ID: `AAAAACog+Axt/w+Hq1bYD41HxeZ41sgp`
+Snapshot ID: `AAAAAN7eqq3CK8xxztvyuYiDPo8l5WbK`

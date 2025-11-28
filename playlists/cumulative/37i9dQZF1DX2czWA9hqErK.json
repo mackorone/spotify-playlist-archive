@@ -751,6 +751,24 @@
     },
     {
       "album": {
+        "name": "hi, my name is insecure.",
+        "url": "https://open.spotify.com/album/0eMtRVx589kCihum41ixGw"
+      },
+      "artists": [
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        }
+      ],
+      "date_added": "2025-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131466,
+      "name": "almost killed me",
+      "url": "https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb"
+    },
+    {
+      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
       },
@@ -12030,7 +12048,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 337561,
       "name": "Racecar",
       "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"

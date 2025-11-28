@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: clara bicho
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,187 likes - 82 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,115 likes - 82 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 12 | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/track/52P75ZWt74UHLh5OFhWNUo) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR), [Renan Benini](https://open.spotify.com/artist/10gcx0ieH5QKHttxqRujeD), [Felipe Pacheco Ventura](https://open.spotify.com/artist/4wzBTy6pV1lVE7LJMuh36I) | [Redenção \(Três Gatos e um Cachorro\)](https://open.spotify.com/album/2U1lPahfqRqMwLF2y1VSCz) | 9:47 |
 | 13 | [Miragem de Iara Pt 2](https://open.spotify.com/track/0Ip1Zgw7x1GS8WxDoR9uQL) | [Trabalhos Espaciais Manuais](https://open.spotify.com/artist/4RSRiccbutyX0OVVc4py7Z), [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Ponto de Curva](https://open.spotify.com/album/2xAybcPWULyLWadPfOR8D8) | 3:44 |
 | 14 | [Músculo Novo do Medo](https://open.spotify.com/track/1HUCWpZwXB07IksmZKp2UU) | [Undo](https://open.spotify.com/artist/4zwP0H9LBHeBLhpSDw28G3) | [Undo](https://open.spotify.com/album/2Bekigbif2vJZWlDUvELlY) | 3:48 |
-| 15 | [Peito](https://open.spotify.com/track/0lpXOaa0AyPQbKMUFaAuNb) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Terno Rei ilumina Sonastério](https://open.spotify.com/album/0NDOAD5l5L49dHicoe8zDd) | 3:41 |
+| 15 | [Peito \(Ao Vivo no Sonastério\)](https://open.spotify.com/track/0lpXOaa0AyPQbKMUFaAuNb) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF), [Sonastério](https://open.spotify.com/artist/0NTc2g91fsvvAoAgUXMUmW) | [Terno Rei ilumina Sonastério](https://open.spotify.com/album/0NDOAD5l5L49dHicoe8zDd) | 3:41 |
 | 16 | [amor de cinema](https://open.spotify.com/track/6DVNpadsa9AjlIDCi2b6Gn) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [amor de cinema](https://open.spotify.com/album/5ShatqMuYDeJXHBHqB2URO) | 2:51 |
 | 17 | [tralha](https://open.spotify.com/track/6ZQ2w20nB6WXeySZirfl8G) | [jumorelo](https://open.spotify.com/artist/7CYZ5Kt40GBP9sQEFOeyUK) | [me chame como quiser](https://open.spotify.com/album/7jHexgvU6fY0ipOv4WG4VM) | 3:03 |
 | 18 | [Caído em Você](https://open.spotify.com/track/7BwGn7fYU0cGIXXyWiguwd) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk), [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Caído em Você](https://open.spotify.com/album/3PYSntB0Or0IwJUOCe9GRv) | 3:03 |

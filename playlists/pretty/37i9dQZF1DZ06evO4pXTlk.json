@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAADq4O1k0OFRLaawRZDzFXNF",
+  "snapshot_id": "aSZDAAAAAAAFNuTxMy2UFhqZDdLb9fjp",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 199528,
-      "name": "Hold on to Your Heart",
-      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
+      "duration_ms": 214880,
+      "name": "We Are Gonna Live",
+      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 214880,
-      "name": "We Are Gonna Live",
-      "url": "https://open.spotify.com/track/4xecVWlowXeLZXxGZ3eeBS"
+      "duration_ms": 199528,
+      "name": "Hold on to Your Heart",
+      "url": "https://open.spotify.com/track/6AZ94VHiLMNmtJGuIaKVyU"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 292628,
+      "name": "Aberdeen 1987",
+      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 219280,
-      "name": "First Kiss Feeling",
-      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
+      "duration_ms": 229640,
+      "name": "Drive Me Wild",
+      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 292628,
-      "name": "Aberdeen 1987",
-      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Drive Me Wild",
-      "url": "https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa"
+      "duration_ms": 219280,
+      "name": "First Kiss Feeling",
+      "url": "https://open.spotify.com/track/3Ow3vn452NgBsTr09NZVAw"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 230897,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 300293,
       "name": "Lament",
       "url": "https://open.spotify.com/track/0P0mOSWEtA6suhu7zrcgOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So No One Told You Life Was Gonna Be This Way",
-        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 152341,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/29p7YwJIPrek6T2dwrrVwK"
     },
     {
       "added_at": null,

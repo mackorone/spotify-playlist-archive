@@ -4,7 +4,7 @@
 
 > This is Libido\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 5 min
+106 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Pero Aún Sigo Viéndote](https://open.spotify.com/track/5qvGPVVa2uEGUNMFy3GSND) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Amar o Matar](https://open.spotify.com/album/5IKzvo9XHN2BXRuPFx9WE0) | 4:24 | 2024-11-23 |  |
 | [Pero Aún Sigo Viéndote](https://open.spotify.com/track/5rkxLIdDPy22cbs0NJZLLd) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 4:24 | 2023-08-25 | 2024-11-23 |
 | [Por Si Tratas de Volver](https://open.spotify.com/track/23dmsItzqhsXLssh6bquTZ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Por Si Tratas de Volver](https://open.spotify.com/album/3o4o40CkLE2l3QtuILhAWn) | 4:38 | 2023-08-25 |  |
-| [Respirando](https://open.spotify.com/track/2l3qedm1MaxGzFC9CmYXXx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 2:54 | 2023-08-25 |  |
+| [Respirando](https://open.spotify.com/track/2l3qedm1MaxGzFC9CmYXXx) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 2:54 | 2023-08-25 | 2025-11-28 |
+| [Respirando](https://open.spotify.com/track/5xXoWeXLgbirXX1duRx1F1) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/5bFlStxTq4dNLnYgUMES6n) | 2:54 | 2025-11-28 |  |
 | [Salvaciones](https://open.spotify.com/track/0lmDOqtXSdwW3JqlDEA84S) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy) | 4:02 | 2025-11-27 |  |
 | [Salvaciones](https://open.spotify.com/track/6mqRLhudFoEvO0mWGjVatH) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 4:02 | 2025-05-21 | 2025-11-27 |
 | [Salvaciones \(En Vivo\)](https://open.spotify.com/track/2Mkc4hDegyejz9zobFxXkr) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido en Vivo Coliseo Dibós \(En Vivo\)](https://open.spotify.com/album/4inRORxjogX7v75jCwCusy) | 3:36 | 2023-08-25 | 2025-05-21 |
@@ -92,7 +93,8 @@
 | [Sed](https://open.spotify.com/track/772Ra5nxcFSk2il4XUegji) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/1LA8tJh592GVJhZfpUsczU) | 1:53 | 2025-11-26 |  |
 | [Sentir Que Hoy](https://open.spotify.com/track/5f8aphPeEriZf6qNZXBNTc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 3:30 | 2025-11-25 |  |
 | [Sentir Que Hoy](https://open.spotify.com/track/689JndbnnR4l3KeVE0dQlR) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 3:30 | 2023-08-25 | 2025-11-25 |
-| [Sin Rencor](https://open.spotify.com/track/53xgdLYMgkElkQvZrTa7v8) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 4:39 | 2025-07-29 |  |
+| [Sin Rencor](https://open.spotify.com/track/1SNPIMf7FsPtb1aRQndvQj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/6TgwJxSTeSBQBSPYJrLsfE) | 4:39 | 2025-11-28 |  |
+| [Sin Rencor](https://open.spotify.com/track/53xgdLYMgkElkQvZrTa7v8) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/4LV8x1YoHxPrqf0gVF7ky1) | 4:39 | 2025-07-29 | 2025-11-28 |
 | [Sin Rencor](https://open.spotify.com/track/6SSJr60opa48UFAcbUCdGL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 4:39 | 2023-08-25 | 2025-07-29 |
 | [Something](https://open.spotify.com/track/0m76CdizGAfdk7ARAYIqlN) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:46 | 2023-08-25 | 2025-11-26 |
 | [Something](https://open.spotify.com/track/7mC7r1jLqnsIgRdJNJ8q9l) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/6PMDCZCKiZw2mK2PqPXfjA) | 2:46 | 2025-11-26 |  |

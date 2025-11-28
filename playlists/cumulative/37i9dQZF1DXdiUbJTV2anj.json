@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "bands and tracks on the rise in heavy music. Cover: Gearea",
+  "description": "bands and tracks on the rise in heavy music. Cover: Castle Rat",
   "name": "New Blood",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 189278,
       "name": "Breathing Underwater",
       "url": "https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq"
@@ -1136,6 +1136,24 @@
       "duration_ms": 196825,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4"
+    },
+    {
+      "album": {
+        "name": "Commander of Pain",
+        "url": "https://open.spotify.com/album/6SvPikanz42fybjKeg5LCD"
+      },
+      "artists": [
+        {
+          "name": "Heriot",
+          "url": "https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285247,
+      "name": "Commander of Pain",
+      "url": "https://open.spotify.com/track/66wTyS8P8hbXbLl07LIenU"
     },
     {
       "album": {
@@ -1656,6 +1674,24 @@
       "duration_ms": 200909,
       "name": "Doesn't Feel Like Home",
       "url": "https://open.spotify.com/track/2CTmBlHAZhm9gQyRFgKuMS"
+    },
+    {
+      "album": {
+        "name": "Doomsday Profit",
+        "url": "https://open.spotify.com/album/7uFD1iLYsPUhGnyvPdgmuM"
+      },
+      "artists": [
+        {
+          "name": "Enquire Within",
+          "url": "https://open.spotify.com/artist/0WaZXHni547zjiFP5Ih2El"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399026,
+      "name": "Doomsday Profit",
+      "url": "https://open.spotify.com/track/6f6xqwxDtmE36JrgbF79Sx"
     },
     {
       "album": {
@@ -4270,7 +4306,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 244465,
       "name": "Pull Me In",
       "url": "https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC"

@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-455 songs - 1 day 0 hr 11 min
+456 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Förlora dig långsamt](https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91) | [KHARMA](https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic), [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Förlora dig långsamt](https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY) | 2:31 | 2025-11-06 |  |
 | [Förstöraren](https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Förstöraren](https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD) | 2:26 | 2025-04-24 | 2025-09-20 |
 | [GALAXER](https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [GALAXER](https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI) | 3:09 | 2024-06-28 | 2024-09-20 |
-| [Gatorna i Borås](https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [Gatorna i Borås](https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV) | 2:44 | 2025-06-26 |  |
+| [Gatorna i Borås](https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [Gatorna i Borås](https://open.spotify.com/album/2mF1j4OyXm341L4m2OvPHV) | 2:44 | 2025-06-26 | 2025-11-28 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-05-16 |
 | [GEN Z](https://open.spotify.com/track/1jcyd0Qq7rJroTz6ImNnIS) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [GEN Z](https://open.spotify.com/album/2CboZV6emhWjGOKJK5kFg0) | 2:50 | 2025-03-07 | 2025-03-14 |
 | [Genom Eld & Vatten](https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Genom Eld & Vatten](https://open.spotify.com/album/19ntBVha7UgkaDUhyGwzh5) | 3:06 | 2025-04-02 |  |
@@ -425,6 +425,7 @@
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 | 2025-11-21 |
 | [Tjejerna](https://open.spotify.com/track/0933FD1xHrm3KGjkz1cMl5) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Tjejerna](https://open.spotify.com/album/4v8as5ZYEZakizcgP0iVWW) | 3:05 | 2025-06-05 | 2025-06-13 |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
+| [Track 2](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |

@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 111345,
       "name": "fem-onomics",
       "url": "https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB"
@@ -488,10 +488,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 135116,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix"
+    },
+    {
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135116,
+      "name": "Passenger Princess",
+      "url": "https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS"
     },
     {
       "album": {

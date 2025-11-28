@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Zaho de Sagazan",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec ESTL",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 211986,
       "name": "Amn\u00e9sie",
       "url": "https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Tessa B. ",
+          "url": "https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179259,
+      "name": "Amor \u00e0 mort",
+      "url": "https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W"
     },
     {
       "album": {
@@ -606,7 +624,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 213333,
       "name": "chez moi",
       "url": "https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF"
@@ -1296,6 +1314,24 @@
       "duration_ms": 200720,
       "name": "Hauteurs",
       "url": "https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0"
+    },
+    {
+      "album": {
+        "name": "failles",
+        "url": "https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "heureux",
+      "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
     },
     {
       "album": {
@@ -3750,7 +3786,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 200885,
       "name": "Rien du tout",
       "url": "https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8"

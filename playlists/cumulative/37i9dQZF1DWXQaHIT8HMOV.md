@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Pia Pounds
+> Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-501 songs - 1 day 1 hr 36 min
+504 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Co\-Driver](https://open.spotify.com/track/0DqGxOwrd4D3UzMqkiN0pe) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Co\-Driver](https://open.spotify.com/album/42Zut1b44a5bVEZfmAvVHo) | 3:13 | 2024-07-18 | 2024-11-16 |
 | [Come close \(Original\)](https://open.spotify.com/track/0PzIqwL3WC6Slq3vThdvWT) | [Mc Norman](https://open.spotify.com/artist/2pk7yiI6oafglY0jtQLvtO), [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Weasel](https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs) | [Come close \(Original\)](https://open.spotify.com/album/4ekfhKhO3LpmyTiMtHwYUt) | 3:02 | 2024-07-26 | 2025-04-05 |
 | [Commander](https://open.spotify.com/track/0qy7wQ1yDQO6zNwzHd3Kmk) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Commander](https://open.spotify.com/album/6zG9mpL0l0Y914JBs63i58) | 2:57 | 2024-04-12 | 2025-07-11 |
+| [Connection](https://open.spotify.com/track/1bZrAIp6WAwTOWvfIW9C7a) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Connection](https://open.spotify.com/album/7Cej4o0vauW7sYXQjDGWBh) | 2:05 | 2025-11-27 |  |
 | [Control It](https://open.spotify.com/track/4I4Z39sziPUkKeukvHjdwC) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Control It](https://open.spotify.com/album/6L2UvteLN6iJ0mRSUX5q9S) | 2:57 | 2025-06-27 |  |
 | [Craving You Heavy \- Remix](https://open.spotify.com/track/5XmgrluGBLUa3JhKyiUVUL) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [AFRICAN MUSIC \(Deluxe\)](https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8) | 3:20 | 2024-03-15 | 2024-04-06 |
 | [Crazy \(Mutwe\)](https://open.spotify.com/track/3ThEef9saIuUggNzBZOg4s) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Crazy \(Mutwe\)](https://open.spotify.com/album/4dnmFaGd53nFSvCcQQE0PH) | 3:07 | 2024-02-23 | 2024-08-09 |
@@ -400,6 +401,7 @@
 | [Sanyu Lyange](https://open.spotify.com/track/6HOkQ9TX7HdnGXXE0oDdEv) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [The Best of Juliana Kanyomozi](https://open.spotify.com/album/70szCeyYSPm9EM6MA6uuuQ) | 3:28 | 2025-06-27 |  |
 | [save me](https://open.spotify.com/track/7hZAxrcjBKR0F3MdWmUavI) | [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r), [Kapa Boy](https://open.spotify.com/artist/02WFtZreToLN0ARfpZukYI) | [save me](https://open.spotify.com/album/4ZAwJKZynaG7DQDEUdgNeM) | 1:49 | 2024-05-09 | 2024-06-08 |
 | [Saving My Love](https://open.spotify.com/track/7kmuCdJaXVu2b5ntYHPDW5) | [Akeine](https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Andy Muzic](https://open.spotify.com/artist/79oZcy8wWml3rDoZv8A47z) | [Saving My Love](https://open.spotify.com/album/0x1lCC3RTUArlkWGiyUBTg) | 3:18 | 2023-02-10 | 2023-05-11 |
+| [SAY I DO](https://open.spotify.com/track/2RPMbkVqUvAIAzbd2iswkS) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [THIS IS HAPPENING](https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I) | 3:06 | 2025-11-27 |  |
 | [Say your Mine](https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6) | [Jaye Major](https://open.spotify.com/artist/3E1Gbb7bSYoOGtNQh6Ah3S), [Anamie](https://open.spotify.com/artist/3bMVYs34KhPrhhcKy5LJfb), [Dubem K](https://open.spotify.com/artist/1Vj31IUXsopkzURt05U4HU) | [Say your Mine](https://open.spotify.com/album/02U5KVJvB0aTId18fSFXEg) | 3:46 | 2023-04-03 | 2023-05-16 |
 | [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 | 2024-10-03 | 2024-11-01 |
 | [Secret](https://open.spotify.com/track/4cZrIxJbomwqVYx3dDMgex) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Teasin'](https://open.spotify.com/album/28f5KCRxUeYsOEegevfKrj) | 2:47 | 2025-07-24 | 2025-09-26 |
@@ -509,5 +511,6 @@
 | [Your Ways](https://open.spotify.com/track/50b953jkgOie1y0tkm7cnf) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [The One And Only](https://open.spotify.com/album/4G28LtW2pvuNwhrjLMKXcp) | 2:54 | 2025-07-24 |  |
 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 | 2022-11-10 | 2023-03-25 |
 | [Zonto](https://open.spotify.com/track/2sE11WlM7FqWxMunI6qFyz) | [Zulitums](https://open.spotify.com/artist/7KJHPQ0SRCI3AlxKX7heea), [Deejay LL](https://open.spotify.com/artist/3atlFtpYb4W0UMNdJn4J3w) | [Zonto](https://open.spotify.com/album/6m7ZgmWVJG4fHv7RwdKjih) | 3:02 | 2024-12-20 | 2025-07-04 |
+| [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [](https://open.spotify.com/album/null) | 2:56 | 2025-11-27 |  |
 
 \*This playlist was first scraped on 2022-08-13. Prior content cannot be recovered.

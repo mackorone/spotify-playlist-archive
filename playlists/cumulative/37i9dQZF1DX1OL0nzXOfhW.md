@@ -4,7 +4,7 @@
 
 > 2025 RADAR登場！持續發掘香港未來新聲！Cover: Arvin 曾傲棐
 
-283 songs - 16 hr 27 min
+284 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [神話](https://open.spotify.com/track/2LghoR88w97O8Szz4AKJWk) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:33 | 2022-12-29 | 2023-04-14 |
 | [神話](https://open.spotify.com/track/5OQNnKULBDFKUA2TGeL5if) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/3XcdCXNiAgIfVhqRSLow4e) | 3:33 | 2025-09-08 | 2025-10-07 |
 | [第一個迷](https://open.spotify.com/track/6l5q8rkGYOwrheeWK5puyL) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [第一個迷](https://open.spotify.com/album/44OlMzM4I4gekwnDCWishn) | 4:07 | 2023-09-15 | 2024-03-29 |
+| [第三人稱](https://open.spotify.com/track/1EX2J6U85ByqpZTqvzsnFz) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [第三人稱](https://open.spotify.com/album/00jwHSfG6uidEZXbyBMMqb) | 4:28 | 2025-11-27 |  |
 | [粉筆](https://open.spotify.com/track/2lijgeNLFH4gFCnYJOvLuf) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [粉筆](https://open.spotify.com/album/5WUhJkRZ1DGisPpGvgvTH4) | 3:04 | 2024-03-28 | 2025-03-28 |
 | [純情](https://open.spotify.com/track/7CvTXPEEFrDinye9qEevka) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [純情](https://open.spotify.com/album/5atQKsd77QwGjmxvZhKey6) | 4:02 | 2023-04-13 | 2024-03-29 |
 | [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 | 2025-03-27 |  |

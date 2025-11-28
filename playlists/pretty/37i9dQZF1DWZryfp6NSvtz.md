@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Aerosmith and YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,044 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,088 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 17 | [Parasocial Christ](https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Parasocial Christ](https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x) | 3:20 |
 | 18 | [Euphoria](https://open.spotify.com/track/4cImz6ALStITqRds60YUmF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Euphoria](https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5) | 3:25 |
 | 19 | [Pray](https://open.spotify.com/track/06jQrdwR5Cby21cZ8hfDPa) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [Pray](https://open.spotify.com/album/62WjM9e9gRlBD7vukuXRQq) | 3:29 |
-| 20 | [Time's Up](https://open.spotify.com/track/6BD1LIdXYKL5KNASooeCz7) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Time's Up](https://open.spotify.com/album/5o0OYZFbFLPHzaKIIEMs6V) | 3:31 |
+| 20 | [TIME'S UP](https://open.spotify.com/track/6BD1LIdXYKL5KNASooeCz7) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [TIME'S UP](https://open.spotify.com/album/5o0OYZFbFLPHzaKIIEMs6V) | 3:31 |
 | 21 | [Love Is Not Enough](https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Love Is Not Enough](https://open.spotify.com/album/4Xk05QlbDNsLavcAVfOZBV) | 2:22 |
 | 22 | [Bad Habit](https://open.spotify.com/track/6yI6Y1n34Z41GTol95JpsY) | [Volumes](https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU) | [Bad Habit](https://open.spotify.com/album/1bgOW93DoJH4IFbenx0MOU) | 3:25 |
 | 23 | [Bulletproof](https://open.spotify.com/track/77uuyBIpyczOIkkbeJqLVb) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Bulletproof](https://open.spotify.com/album/7cJrjU2s9qj6g3DX9mZYXC) | 2:28 |

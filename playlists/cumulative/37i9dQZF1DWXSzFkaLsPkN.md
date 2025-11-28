@@ -2,7 +2,7 @@
 
 ### [hIndies](https://open.spotify.com/playlist/37i9dQZF1DWXSzFkaLsPkN)
 
-> Hindi hai, Indie hai! Cover\- Samad Khan
+> Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
 303 songs - 16 hr 37 min
 

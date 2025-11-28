@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 임윤찬\(Yunchan Lim\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,048 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,049 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 47 | [when it snows in May](https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [non è la fine](https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR) | 2:25 |
 | 48 | [The River](https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [The River](https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35) | 3:29 |
 | 49 | [The Red String](https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8) | [Hyungjoo Lim](https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG) | [Lost In Memory](https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj) | 4:39 |
-| 50 | [Suite in B\-Flat Major, HWV 434: IV\. Minuet \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 4:17 |
+| 50 | [Minuet in G Minor, HWV 434 No\. 4 \(Arr\. Kempff for Piano\)](https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [The Handel Project: Handel\-Suites & Brahms\-Variations](https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE) | 4:17 |
 
 Snapshot ID: `AAAAAEA5/GXaVIntdBI0SqMBreWJc8f5`

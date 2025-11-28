@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > Songs representing Alternative music's ever\-evolving sound paired with these artists' everlasting faith\.  Cover: The Band JAREN
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,239 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,270 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 15 | [idols](https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [idols](https://open.spotify.com/album/5UayLEXFF7eInzLYtalNZh) | 2:48 |
 | 16 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |
 | 17 | [love me as i am](https://open.spotify.com/track/2Jv2IG9MfvfC2saWaqnqJH) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [love me as i am](https://open.spotify.com/album/4LGRl4mRDLz8b6tyTOtKKq) | 4:42 |
-| 18 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
+| 18 | [If I ever lose my way](https://open.spotify.com/track/6dWU6lGzqsrnVHRcToUa36) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [If I ever lose my way](https://open.spotify.com/album/4wEKrfWQ1GGlF3dakWmj0Y) | 2:57 |
 | 19 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
 | 20 | [You Started Fires](https://open.spotify.com/track/7MSAzuFE518IbCEei4grXh) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [You Started Fires](https://open.spotify.com/album/5GXntm7xZ56kwUBcbJDphV) | 2:49 |
 | 21 | [SANCTIFY ME LORD, AGAIN](https://open.spotify.com/track/43xzXTBZXz9rSw6mNc88S1) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [SANCTIFY ME LORD, AGAIN](https://open.spotify.com/album/0V0Xz6kWb9Ve1Se9X4BAej) | 3:06 |

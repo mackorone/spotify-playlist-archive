@@ -3270,7 +3270,7 @@
 - [It's a Boy!](/playlists/pretty/3KP0xIq8NrTP7BV2YhpHT5.md)
 - [It's a Girl!](/playlists/pretty/52rJQYDn9Q5dufvGPqqzgf.md)
 - [It's a Hit!](/playlists/pretty/37i9dQZF1DWT1y71ZcMPe5.md)
-- [Italian Sunset](/playlists/pretty/37i9dQZF1DX572PAi3rtlM.md)
+- [Italian music, selected by actual Italians](/playlists/pretty/37i9dQZF1DX572PAi3rtlM.md)
 - [Italo Disco](/playlists/pretty/37i9dQZF1DX3jWba5xiDhV.md)
 - [I’m an old old man and this is my gift to EJ](/playlists/pretty/2SguVfueSKlgN7iNS70IQA.md)
 - [I一個人](/playlists/pretty/37i9dQZF1DWYCBGFNlTmIS.md)

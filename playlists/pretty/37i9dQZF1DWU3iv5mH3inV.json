@@ -1,13 +1,29 @@
 {
   "description": "Dembow pa to el mundo. Foto: mhtresuno",
-  "num_followers": 140397,
+  "num_followers": 140380,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFfxLLfIAhL6V4aE8lXz5QsyhHx",
+  "snapshot_id": "AAAAABsaHPQRLXFNPVcpwKOnBo+s7M3/",
   "tracks": [
+    {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Santo Domingo",
+        "url": "https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "duration_ms": 109853,
+      "name": "Te choko",
+      "url": "https://open.spotify.com/track/1X1qvhCUxId2XHzFyoAISq"
+    },
     {
       "added_at": "2025-11-21 19:12:46",
       "album": {
@@ -87,22 +103,6 @@
     {
       "added_at": "2025-11-21 19:12:46",
       "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0"
-      },
-      "artists": [
-        {
-          "name": "mhtresuno",
-          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
-        }
-      ],
-      "duration_ms": 110831,
-      "name": "Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/6GkjBM5a2BPGYukETXcetc"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
         "name": "WEPA",
         "url": "https://open.spotify.com/album/66hWl94AYivVgj0lsQXiYJ"
       },
@@ -151,26 +151,6 @@
     {
       "added_at": "2025-11-21 19:12:46",
       "album": {
-        "name": "Voltio",
-        "url": "https://open.spotify.com/album/06rL72qm2Gn5YALkQI5v03"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 114534,
-      "name": "Voltio",
-      "url": "https://open.spotify.com/track/3wVmOUwQAQLV4pWV6HrJKe"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/6TCL50P86nu90beJunHMdV"
       },
@@ -205,6 +185,30 @@
       "url": "https://open.spotify.com/track/1icArN1DYAfijXGShx9llW"
     },
     {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "QUIMERA",
+        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "HACE CALOR",
+      "url": "https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C"
+    },
+    {
       "added_at": "2025-11-21 19:12:46",
       "album": {
         "name": "Oh Wow",
@@ -227,26 +231,6 @@
       "duration_ms": 156774,
       "name": "Oh Wow",
       "url": "https://open.spotify.com/track/26AksR558WGF82boCm6N7X"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
-        "name": "Se Riega",
-        "url": "https://open.spotify.com/album/2F9NvZEkq2lHSeTSLWpnMs"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 160178,
-      "name": "Se Riega",
-      "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
     },
     {
       "added_at": "2025-11-21 19:12:46",
@@ -415,6 +399,26 @@
       "duration_ms": 85581,
       "name": "Creta Seca",
       "url": "https://open.spotify.com/track/1cIsTGK9gkdDqiufIyeSf8"
+    },
+    {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Quien Me Vio?",
+        "url": "https://open.spotify.com/album/4D8rP0qT2rZsxjHdU0HDRI"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "View Like Produciendo",
+          "url": "https://open.spotify.com/artist/6AzQlXFs3Q6zfqq3fBF5Yl"
+        }
+      ],
+      "duration_ms": 139871,
+      "name": "Quien Me Vio?",
+      "url": "https://open.spotify.com/track/5Kw9xg0alOooCBQ6fGt8m1"
     },
     {
       "added_at": "2025-11-21 19:12:46",
@@ -621,6 +625,34 @@
       "url": "https://open.spotify.com/track/3bt94r1Vi9purIr98sRtMf"
     },
     {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/7hqgkSpWh0o9JAOuyshpFu"
+      },
+      "artists": [
+        {
+          "name": "La Insuperable",
+          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        },
+        {
+          "name": "Shadow Blow",
+          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+        }
+      ],
+      "duration_ms": 108941,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1CbR7ssYlp4TYfaipXQAB9"
+    },
+    {
       "added_at": "2025-11-21 19:12:46",
       "album": {
         "name": "Paso 1",
@@ -809,6 +841,34 @@
       "url": "https://open.spotify.com/track/0VAg0T3d84VXauvjAAgeRW"
     },
     {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Pagala",
+        "url": "https://open.spotify.com/album/6bHQdgr7ppjVTTeE2T4ha9"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "Shuupamela",
+          "url": "https://open.spotify.com/artist/1WXcj9MhO8gWyq6ileeXW6"
+        },
+        {
+          "name": "J Kova",
+          "url": "https://open.spotify.com/artist/05cPsCaKrTocKNe4wzGgM3"
+        },
+        {
+          "name": "Hola Sobrino",
+          "url": "https://open.spotify.com/artist/5Gl19nTPoihtxRdyLI3ZIE"
+        }
+      ],
+      "duration_ms": 143049,
+      "name": "Pagala",
+      "url": "https://open.spotify.com/track/0WxGCZAVE2aacEFVyMggSI"
+    },
+    {
       "added_at": "2025-11-21 19:12:46",
       "album": {
         "name": "Lo Que Te Killa",
@@ -931,26 +991,6 @@
       "duration_ms": 121492,
       "name": "La Popola",
       "url": "https://open.spotify.com/track/1lLnKT5A4qRzLxaMymHg78"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
-        "name": "TA TO FRIO",
-        "url": "https://open.spotify.com/album/44lxRxm8bYJZnbU3M2NYUr"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Lapiz Conciente",
-          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "TA TO FRIO",
-      "url": "https://open.spotify.com/track/5xvIXan52ihdHtPIdUYs94"
     },
     {
       "added_at": "2025-11-21 19:12:46",
@@ -1233,6 +1273,30 @@
       "url": "https://open.spotify.com/track/0ZoEtPgim5sN7ecSS6Onmn"
     },
     {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Que tu Quieres",
+        "url": "https://open.spotify.com/album/6M1j5iPdOG1t4WiKLzx6r9"
+      },
+      "artists": [
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        },
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Queen Parker",
+          "url": "https://open.spotify.com/artist/5NqWNYHuqvJl4qSXk9gI1b"
+        }
+      ],
+      "duration_ms": 124866,
+      "name": "Que tu Quieres",
+      "url": "https://open.spotify.com/track/49azyfUZjKIAcfWg5Jvcmv"
+    },
+    {
       "added_at": "2025-11-21 19:12:46",
       "album": {
         "name": "No Me Importa",
@@ -1399,38 +1463,6 @@
     {
       "added_at": "2025-11-21 19:12:46",
       "album": {
-        "name": "Doy",
-        "url": "https://open.spotify.com/album/75PjybH2VrZx0Mlrydl7VF"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "La Insuperable",
-          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
-        },
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Three Seven Music",
-          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
-        },
-        {
-          "name": "The Chosen Few",
-          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
-        }
-      ],
-      "duration_ms": 134876,
-      "name": "Doy",
-      "url": "https://open.spotify.com/track/3BWXQED8aRj3yiaivu04ed"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
         "name": "Papi Tu Ta Loco",
         "url": "https://open.spotify.com/album/3gIdnpiOeP5pLn5bRhp9XA"
       },
@@ -1443,6 +1475,34 @@
       "duration_ms": 115275,
       "name": "Papi Tu Ta Loco",
       "url": "https://open.spotify.com/track/3RFT6jbWbxAKcPlCKk318R"
+    },
+    {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "De Callejones",
+        "url": "https://open.spotify.com/album/4OrbtuvzJfSheFVijKqtSk"
+      },
+      "artists": [
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Gary Produce",
+          "url": "https://open.spotify.com/artist/5bsOEtWIiV9AqzfDOQQmPP"
+        },
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 185081,
+      "name": "Rulipinpadadopin - Remix",
+      "url": "https://open.spotify.com/track/7KSvkalxoSsBwPnAywk8cY"
     },
     {
       "added_at": "2025-11-21 19:12:46",
@@ -1629,6 +1689,30 @@
       "url": "https://open.spotify.com/track/3nR936UaLZNPsgQ6CCPvR2"
     },
     {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Pa Que Tu Quiere",
+        "url": "https://open.spotify.com/album/1GbQVPlfJQsperj5MEtpsF"
+      },
+      "artists": [
+        {
+          "name": "Peiker El Tira Letra",
+          "url": "https://open.spotify.com/artist/68ACNUopf15S87R2hT68ja"
+        },
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "Drumz LT",
+          "url": "https://open.spotify.com/artist/7LQVujKoQp86vom82YHV14"
+        }
+      ],
+      "duration_ms": 117931,
+      "name": "Pa Que Tu Quiere",
+      "url": "https://open.spotify.com/track/20ZNzGhmC2XI4sUjpmNkzR"
+    },
+    {
       "added_at": "2025-11-21 19:12:46",
       "album": {
         "name": "Que Rica",
@@ -1675,22 +1759,6 @@
       "duration_ms": 123129,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/0klnwz4FpNEC0EHcqwCFD9"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
-        "name": "Pa Morir",
-        "url": "https://open.spotify.com/album/2LfmlCosqWBNWmwQJl87C8"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        }
-      ],
-      "duration_ms": 108139,
-      "name": "Pa Morir",
-      "url": "https://open.spotify.com/track/34AMIosNRy4LQvs6Xyl4q4"
     },
     {
       "added_at": "2025-11-21 19:12:46",
@@ -1837,6 +1905,26 @@
       "url": "https://open.spotify.com/track/59MQu9sYwrVtYRzvO3w5pB"
     },
     {
+      "added_at": "2025-11-27 04:54:52",
+      "album": {
+        "name": "Culote",
+        "url": "https://open.spotify.com/album/1Fs27ZlnpcQ7nsjApKdaPN"
+      },
+      "artists": [
+        {
+          "name": "Chiki El De La Vaina",
+          "url": "https://open.spotify.com/artist/3FRVhQjAe73b3Et1XsOCnF"
+        },
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        }
+      ],
+      "duration_ms": 130638,
+      "name": "Culote",
+      "url": "https://open.spotify.com/track/1kXGyp6pqMRDgGFIABPqss"
+    },
+    {
       "added_at": "2025-11-21 19:12:46",
       "album": {
         "name": "WAO QUE ACEITE",
@@ -1931,26 +2019,6 @@
     {
       "added_at": "2025-11-21 19:12:46",
       "album": {
-        "name": "Yo No Olvido",
-        "url": "https://open.spotify.com/album/3qNh2MlMBhko5Cf3p4xBmR"
-      },
-      "artists": [
-        {
-          "name": "Dj Adoni",
-          "url": "https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt"
-        },
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        }
-      ],
-      "duration_ms": 168778,
-      "name": "Yo No Olvido",
-      "url": "https://open.spotify.com/track/6QUq6wmbzMEFrvTcDfefs3"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
         "name": "No Menores",
         "url": "https://open.spotify.com/album/4HkeSbRGUwQWWSJdfjwD2P"
       },
@@ -1991,62 +2059,6 @@
       "duration_ms": 136000,
       "name": "GUERRA",
       "url": "https://open.spotify.com/track/0BcFamJdb9dsuIiJT0PAL8"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
-        "name": "Montala",
-        "url": "https://open.spotify.com/album/4K9YcyddZpKe4AD5XtB6nc"
-      },
-      "artists": [
-        {
-          "name": "Bluemoney",
-          "url": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
-        },
-        {
-          "name": "Tolo Desaparecelo",
-          "url": "https://open.spotify.com/artist/5FTWrUma3X7D85idDZ5BKq"
-        },
-        {
-          "name": "El Sie7e",
-          "url": "https://open.spotify.com/artist/589jbVYNbLSQNTdIsDvn32"
-        },
-        {
-          "name": "Dj Micky El Tsunami",
-          "url": "https://open.spotify.com/artist/5DEb41jPURZNTXtaxqaSis"
-        }
-      ],
-      "duration_ms": 103870,
-      "name": "Montala",
-      "url": "https://open.spotify.com/track/4gF6CHF3UCKUFMeIENnZNT"
-    },
-    {
-      "added_at": "2025-11-21 19:12:46",
-      "album": {
-        "name": "Mirala",
-        "url": "https://open.spotify.com/album/2Djh6hkH26G6ZerYwnH6VO"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Tivi Gunz",
-          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
-        },
-        {
-          "name": "Montana 70",
-          "url": "https://open.spotify.com/artist/7MSEDh4Xt4nvRaEihrZ0ES"
-        },
-        {
-          "name": "La Melma Music",
-          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
-        }
-      ],
-      "duration_ms": 143076,
-      "name": "Mirala",
-      "url": "https://open.spotify.com/track/4o5p1EY4C0DnaWQ0j2N646"
     },
     {
       "added_at": "2025-11-21 19:12:46",

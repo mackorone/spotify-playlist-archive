@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Keinemusik",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Dlala Thukzin",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 392489,
       "name": "Gaarah",
       "url": "https://open.spotify.com/track/2fZJh5BoVd9mcuGhJkdL1x"
@@ -4618,6 +4618,24 @@
       "duration_ms": 331530,
       "name": "Thonga Lami",
       "url": "https://open.spotify.com/track/3nBzoSYfVHHDMVlM37YAui"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1"
     },
     {
       "album": {

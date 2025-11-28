@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Mbosso",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Abdukiba, Vanillah & Alikiba ",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 168000,
       "name": "Focus",
       "url": "https://open.spotify.com/track/7LvI9lRieFpaYD3eq7VvlG"
@@ -5417,6 +5417,24 @@
     },
     {
       "album": {
+        "name": "Madhambi",
+        "url": "https://open.spotify.com/album/21oAvf2jkFKOuGKBOax8Oa"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207183,
+      "name": "Madhambi",
+      "url": "https://open.spotify.com/track/1Gj3O1jJwyckqTNMdcl8DB"
+    },
+    {
+      "album": {
         "name": "Most People Want This",
         "url": "https://open.spotify.com/album/1lc1Yrp51pUXHlO95vArpx"
       },
@@ -6596,7 +6614,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 229117,
       "name": "My Chunun",
       "url": "https://open.spotify.com/track/037gbzOGoBdc1ghXlsuHev"
@@ -9000,6 +9018,32 @@
       "duration_ms": 204720,
       "name": "Pwita",
       "url": "https://open.spotify.com/track/6y1tOPuICUUq5f5yMUphnU"
+    },
+    {
+      "album": {
+        "name": "Rafiki",
+        "url": "https://open.spotify.com/album/28luXUgmxYpT7SgH0pNwBV"
+      },
+      "artists": [
+        {
+          "name": "AbduKiba",
+          "url": "https://open.spotify.com/artist/61UXsInLB2mt0OynwmL75T"
+        },
+        {
+          "name": "Vanillah",
+          "url": "https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218513,
+      "name": "Rafiki",
+      "url": "https://open.spotify.com/track/0OJn6QBReRbUteiTj6EbmQ"
     },
     {
       "album": {

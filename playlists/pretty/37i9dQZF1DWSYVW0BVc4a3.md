@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> The Deans are taking over the world!
+> Anna\-My & Harrison First with the sound of the Scandi underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,131 likes - 247 songs - 16 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,127 likes - 247 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
-| 2 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 1 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 |
+| 2 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 3 | [Green Nights](https://open.spotify.com/track/43OTS5qjTsNWe515us0Zd4) | [Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR) | [Green Nights](https://open.spotify.com/album/0UD0pr0kGbY2Y12hy7kVR8) | 2:33 |
 | 4 | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC) | 2:56 |
 | 5 | [It Gets Better \- Chris Stussy Remix](https://open.spotify.com/track/4sdydeR6pH5us3lD4Ttu7O) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [It Gets Better \(Chris Stussy Remix\)](https://open.spotify.com/album/0TZXuHZ8XT5SMT37PYncx2) | 4:12 |
@@ -256,4 +256,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 246 | [Higher](https://open.spotify.com/track/3BZ20TTUz5V6DhALxzs9lE) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Higher EP](https://open.spotify.com/album/2QAH4GkKQQlTzfmjFx5bzm) | 3:35 |
 | 247 | [Polar](https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Polar](https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU) | 4:06 |
 
-Snapshot ID: `AAAAAGX3IRSG+nEOo+HmTnJSfc5i3gOe`
+Snapshot ID: `AAAAAP55ljeIb6gPVaKmYftDQtIlw8Pd`

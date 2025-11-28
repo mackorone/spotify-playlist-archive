@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Zaho de Sagazan
+> Les  meilleures nouveautés de la chanson française avec ESTL
 
-250 songs - 13 hr 52 min
+252 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [alma](https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8) | [Terrenoire](https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA) | [protégé.e](https://open.spotify.com/album/2Ln0FleqHp6UcFW0o2EY0q) | 4:07 | 2025-01-23 | 2025-06-20 |
 | [Ami Amour](https://open.spotify.com/track/72IpO8YdavUCpqTsqh0FRM) | [Anjaa](https://open.spotify.com/artist/59bBzMdhPynQmBjE3dyrTz) | [Les Météores](https://open.spotify.com/album/07ya5hGHzB0hBzwVdOAiCV) | 3:16 | 2025-06-19 | 2025-11-21 |
 | [Amnésie](https://open.spotify.com/track/5H274lItLc0KSM4JvsqoBi) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Amnésie](https://open.spotify.com/album/1Bpq09iisUkqIugjY6PLLP) | 3:31 | 2025-11-06 |  |
+| [Amor à mort](https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [](https://open.spotify.com/album/null) | 2:59 | 2025-11-27 |  |
 | [Amoureux](https://open.spotify.com/track/3JxtG6e9K7OXltofy3Z56G) | [Alain Chamfort](https://open.spotify.com/artist/79SJOUvbcH85tS57TH1f4H) | [Amoureux](https://open.spotify.com/album/6j14PbhFhETS2yt7yene9b) | 2:58 | 2025-10-09 | 2025-11-21 |
 | [AMOURFOU](https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [APRÈS DEUIL\(S\)](https://open.spotify.com/album/0ZpYSAaOfQvIo55zbEx4ly) | 3:36 | 2024-06-27 | 2024-09-20 |
 | [Après l'amour \- Session Théâtre de l'Atelier](https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Après l'amour \(Session Théâtre de l'Atelier\)](https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ) | 4:09 | 2024-06-27 | 2024-11-29 |
@@ -39,7 +40,7 @@
 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-04-03 | 2025-09-05 |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2025-09-04 |  |
 | [Chevaleresse](https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz) | [Babx](https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ) | [Chevaleresse](https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl) | 3:49 | 2025-01-23 | 2025-03-21 |
-| [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:33 | 2025-07-10 |  |
+| [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:33 | 2025-07-10 | 2025-11-28 |
 | [Comme je t'ai aimé](https://open.spotify.com/track/2Eek8Rh5baaDB3VBH2eqXR) | [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Comme je t'ai aimé](https://open.spotify.com/album/5Ntr7yJLHxJFq8FyyC5Gaz) | 5:13 | 2025-09-11 |  |
 | [Comment fais\-tu pour vivre ? \- version guitare](https://open.spotify.com/track/0a0FoOFwLFgsPNYH3VjN5t) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [De ton vivant](https://open.spotify.com/album/2jqy3gATiuA0IbJoYAG3lZ) | 3:42 | 2025-01-30 | 2025-07-04 |
 | [Contre\-cœur](https://open.spotify.com/track/4gE1HeO2U1UmnnF6angfva) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Contre\-cœur](https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR) | 3:21 | 2025-01-09 | 2025-05-30 |
@@ -77,6 +78,7 @@
 | [Göttingen](https://open.spotify.com/track/0HaDRiZRxQxOeFyPravR5E) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Göttingen](https://open.spotify.com/album/5OKx6hoqVE0gygiOIjVsKS) | 3:09 | 2024-06-27 | 2024-11-22 |
 | [Haut les coeurs](https://open.spotify.com/track/6WHLlfd4QpKu9rK8gOWCY1) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs\*](https://open.spotify.com/album/2ZZB68unzpDYt770nYA57y) | 2:49 | 2025-09-11 |  |
 | [Hauteurs](https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0) | [Blondino](https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8) | [Hauteurs](https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq) | 3:20 | 2024-07-18 | 2024-11-15 |
+| [heureux](https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [failles](https://open.spotify.com/album/3k6UPDk6tdvDMtZ7KADgQk) | 2:46 | 2025-11-27 |  |
 | [Homme \(feat\. Barbara Pravi, Camille, Clou, Emily Loizeau, La Chica, Laura Cahen, Nach, Poppy Fusée & L \(Raphaële Lannadère\)\)](https://open.spotify.com/track/3QIZPNupFHSvcOPx0Q41XM) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN), [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09), [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F), [NACH](https://open.spotify.com/artist/1Rt8z1WIL486Ohrcokl6t0), [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT), [L \(Raphaële Lannadère\)](https://open.spotify.com/artist/6U11D7usLhid56o38NJVi8) | [Ce qui nous lie](https://open.spotify.com/album/5YHJckjmhPlW6RiVDHminK) | 3:47 | 2024-08-29 | 2025-01-10 |
 | [Ici commence la mer](https://open.spotify.com/track/0o76Ztq4JX29RoIuRgUsiI) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [Ici commence la mer](https://open.spotify.com/album/5uyqV1Mt3FpREwwLipQOjN) | 3:55 | 2024-06-27 | 2024-09-06 |
 | [IL N'A DIEU QUE POUR ELLE](https://open.spotify.com/track/2TCexzMXhtEMrO7NT6QMQk) | [Charlelie Couture](https://open.spotify.com/artist/3iqmYVVSjUVWoeREwRf5a6) | [CONTRE TOI](https://open.spotify.com/album/6HPKxakSZeFgqt0U3PHStV) | 3:59 | 2024-06-27 | 2024-07-27 |
@@ -207,7 +209,7 @@
 | [Quitter la ville](https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Quitter la ville](https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms) | 4:05 | 2024-06-27 | 2024-07-27 |
 | [Regarder passer les trains](https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Regarder passer les trains](https://open.spotify.com/album/1j5ehAXMc9wjpDuUWneVpt) | 4:13 | 2025-09-18 |  |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-27 | 2024-09-27 |
-| [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 | 2025-07-10 |  |
+| [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 | 2025-07-10 | 2025-11-28 |
 | [Rien à voir](https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP), [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Rien à voir](https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA) | 3:03 | 2024-06-27 | 2025-01-10 |
 | [Romance](https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:10 | 2024-09-19 | 2025-01-24 |
 | [Rome \- Version acoustique](https://open.spotify.com/track/0PtbSikU0FekxFY2o6pNiP) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome \(Version acoustique\)](https://open.spotify.com/album/6BxqvgFnmJpO8YAjiyKFxu) | 2:47 | 2024-06-27 | 2024-11-29 |

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX572PAi3rtlM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX572PAi3rtlM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX572PAi3rtlM)
 
-### [Italian Sunset](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
+### [Italian music, selected by actual Italians](https://open.spotify.com/playlist/37i9dQZF1DX572PAi3rtlM)
 
-> Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
+> in the pic: actual Italians \(also, us Spotify editors curating this list are Italian! hi!\)
 
-297 songs - 23 hr 11 min
+303 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bluff Dance](https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Relmer International](https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5) | 5:48 | 2021-09-01 | 2022-06-18 |
 | [Body to Body Boogie](https://open.spotify.com/track/1ekgElqYKaEM5gKukZtRr7) | [Funk Rimini](https://open.spotify.com/artist/0gGVmvsVn6KNyOUACCBMRm) | [Statale Adriatica](https://open.spotify.com/album/1w9qPeXCg4jP2sd869NRa0) | 6:25 | 2023-10-01 |  |
 | [Buonanotte Fiorellino](https://open.spotify.com/track/3wBQw06Qv5rWbNWBnGtY07) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 2:05 | 2023-09-07 | 2023-10-02 |
+| [Burn It!](https://open.spotify.com/track/0ADXYdnGtoEcUodPirMYXZ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Burn It!](https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5) | 3:19 | 2025-11-27 |  |
 | [Buy Yourself friends](https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Shake Edits 1](https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk) | 8:16 | 2021-09-01 | 2022-07-29 |
 | [C'eravamo tanto amati](https://open.spotify.com/track/0r1OdZ6m6KkWOxGBmitYM3) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [C'eravamo tanto amati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Vby81gGnSIgHfO2Rfabpo) | 3:09 | 2024-10-24 |  |
 | [Cabrio Mango](https://open.spotify.com/track/7jrJd2hRB3vDYX93SRiGad) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Tonic Edits Vol\. 5](https://open.spotify.com/album/16bCZJbli0FGp8tszt1uZl) | 5:21 | 2021-09-01 | 2022-07-28 |
@@ -70,6 +71,7 @@
 | [Dancing in the Dusk \- Clap! Clap! Remix](https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq) | [Sunbörn](https://open.spotify.com/artist/7293VovtiQo4DOspfUDgXt), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [Dancing in the Dusk \(Clap! Clap! Remix\)](https://open.spotify.com/album/3Of6o8tJrzGCHNhmfLLDvc) | 7:11 | 2023-07-21 | 2023-09-03 |
 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 | 2023-10-01 |  |
 | [Danza dell'acqua](https://open.spotify.com/track/4w5BFGIlRDdPaadbCrl0o4) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [L'ombra nera del vesuvio \(Colonna sonora della serie televisiva "L'ombra nera del vesuvio"\)](https://open.spotify.com/album/6JsQDb26zx5vTGokPkkGtr) | 5:08 | 2023-10-01 |  |
+| [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2025-11-27 |  |
 | [Ddoje Facce](https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:21 | 2023-09-07 | 2023-10-02 |
 | [Dead End Alley](https://open.spotify.com/track/0BDTWTAR0DH4XWiUQ7yBWW) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Introduction](https://open.spotify.com/album/75OSQ2KOnEinVcdADIwT17) | 5:37 | 2021-09-01 | 2022-02-14 |
 | [Desiderio](https://open.spotify.com/track/6QCjkO9QE3itTOwe3tmX01) | [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI) | [Desiderio](https://open.spotify.com/album/73G2ccMo3S3DS7DTCd6pCG) | 4:25 | 2023-10-01 |  |
@@ -101,7 +103,9 @@
 | [Gianna](https://open.spotify.com/track/3LhSWvr02ZOYL5IMd3nm1t) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Nuntereggae Più](https://open.spotify.com/album/3WwM7Hzi7soS5ZHUqCQvhT) | 3:53 | 2023-09-07 | 2023-10-02 |
 | [Gigolo \- 12" Version](https://open.spotify.com/track/6VrvvrY32NT1QGtFTAve8J) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [In And Out Of Love \(Bonus Track Version\)](https://open.spotify.com/album/0ri0mljqik390Lk9FRRfAr) | 7:23 | 2021-09-01 | 2022-07-26 |
 | [Giu la testa](https://open.spotify.com/track/5ynvpd02iaUBO9aE2dguwx) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Ennio Morricone: Fotogramma per fotogramma, Vol\. 1](https://open.spotify.com/album/3wmsxO4OTdtmLFTOhCzbOL) | 4:18 | 2023-09-07 | 2023-10-02 |
+| [Gommage](https://open.spotify.com/track/6I7xsGvMbY2B0jhqi6Fjua) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Gommage](https://open.spotify.com/album/6L1PBw3iHtrerlZxGp7E3G) | 3:17 | 2025-11-27 |  |
 | [Gonna Make You Mine](https://open.spotify.com/track/3x59bNHg2OwyaeHChaixaP) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo) | [Zagora](https://open.spotify.com/album/2ev6ZbefgaoveKnaVGJ6oD) | 4:30 | 2021-09-01 | 2023-03-07 |
+| [Granturismo](https://open.spotify.com/track/31yvaOyCcsJTLR1tuSsXK1) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Chi È Nicola Felpieri?](https://open.spotify.com/album/4FH2q9Hpq7RYrnIYFqOJzM) | 2:43 | 2025-11-27 |  |
 | [Grida](https://open.spotify.com/track/3zMF4LhMIzOaemavNvktxT) | [Mino Vergnaghi](https://open.spotify.com/artist/3PhNWXFgPIcmxLwRwTz74V) | [Mino Vergnaghi](https://open.spotify.com/album/0hZZ83smua4WpLuw7w5E7E) | 2:48 | 2023-10-01 |  |
 | [Groovin' You](https://open.spotify.com/track/2I3SyLikESUH36WyEr1FZW) | [Harvey Mason](https://open.spotify.com/artist/2MNNVXEpagQ3QWiOkXjQyT) | [Groovin' You \(Expanded Edition\)](https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9) | 4:53 | 2021-09-01 | 2022-07-16 |
 | [Gymnastics \- Original Mix](https://open.spotify.com/track/1NEBtSenjGD5NZyGuMMzOx) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Tears](https://open.spotify.com/album/6yOEK2lfh0DhyCzDoNDZpv) | 4:50 | 2021-09-01 | 2023-07-16 |
@@ -275,6 +279,7 @@
 | [The Spirit](https://open.spotify.com/track/1dBpg8a8jwAkaSbROiehr9) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Spirit](https://open.spotify.com/album/0DTs9hQSrLvq8l0w17PG3b) | 2:15 | 2021-09-01 | 2022-07-29 |
 | [These Are Just Places To Me Now](https://open.spotify.com/track/5kAwEqCAJ4yHdHmlAMSczs) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Drugs](https://open.spotify.com/album/3na24PKpM5Bh0xwvIcpPms) | 7:01 | 2023-09-07 | 2023-10-02 |
 | [Things That Matter Most](https://open.spotify.com/track/0oyjUYNSAZa3L1HQI5K39X) | [Lubelski](https://open.spotify.com/artist/7EPi1KiQMnSB6cxmuGcEnS) | [Things That Matter Most \- EP](https://open.spotify.com/album/02EVwJbnytTv7nZHf1JM5p) | 6:06 | 2021-09-01 | 2022-07-28 |
+| [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 | 2025-11-27 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2023-10-01 | 2024-04-19 |
 | [Tienaté](https://open.spotify.com/track/3SrL1Q0AvVYe04AZgZMlYg) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Tienaté](https://open.spotify.com/album/1Ot8U0UlsLPk8XPKCT4ocE) | 4:38 | 2024-01-18 |  |
 | [Time for a Change](https://open.spotify.com/track/2aNOkWge7L1IubHjS9dkgL) | [Benita](https://open.spotify.com/artist/49R1WTcCcbyOpl3g8YDJU6) | [Time for a Change](https://open.spotify.com/album/4reo75rXpm9ZpIrw5wK1y2) | 3:25 | 2021-09-01 | 2022-06-24 |
@@ -287,6 +292,7 @@
 | [Tu si' 'na cosa grande](https://open.spotify.com/track/3RYdPO4886So44fooKMfp2) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Domenico Modugno](https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp) | 3:17 | 2023-09-07 | 2023-10-02 |
 | [Tutt'al più](https://open.spotify.com/track/7hX0TXXvpsJMrt5x7iEDFt) | [Patty Pravo](https://open.spotify.com/artist/2Yi5fknmHBqqKjHF6cXQyh) | [Patty Pravo](https://open.spotify.com/album/20auMhQ5nMf86H8JBpp4hV) | 4:31 | 2023-09-07 | 2023-10-02 |
 | [Un Po' Artista Un Po' No](https://open.spotify.com/track/3IF6aYcGyYz2IW9Wy26412) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Un Po' Artista Un Po' No](https://open.spotify.com/album/0ZB1eMfkmzcD4LxKQvNLxj) | 4:59 | 2025-03-06 |  |
+| [Una domenica](https://open.spotify.com/track/4UqvYkE5gWHkDtVvuwL2Z7) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Vanoni](https://open.spotify.com/album/1Bct3hH3n6YD9hnGfILBDy) | 2:29 | 2025-11-27 |  |
 | [Una Notte a Napoli](https://open.spotify.com/track/492eazXZUX6HQsmpmEGp0I) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang on Little Tomato](https://open.spotify.com/album/4zke7Tv01ngpBcKglASyD8) | 4:45 | 2023-09-07 | 2023-10-02 |
 | [Una notte da impazzire](https://open.spotify.com/track/0AdpU8r6DXD7rNZ0YZnBOE) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 2](https://open.spotify.com/album/5PeGkQmBlbNwr02QmF71me) | 4:49 | 2023-09-07 | 2023-10-02 |
 | [Volare](https://open.spotify.com/track/10hkfuMIpEbTuHBTbfxlDv) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:40 | 2023-09-07 | 2023-10-02 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: Nancy Kwai",
+  "description": "\u611f\u53d7\u5973\u8072\u529b\u91cf\u3002Cover: Amy Lo",
   "name": "\u6700\u611b\u5973\u8072",
   "tracks": [
     {
@@ -6401,6 +6401,24 @@
     },
     {
       "album": {
+        "name": "\u5b89\u975c\u7684\u6c34\u6676\u7403",
+        "url": "https://open.spotify.com/album/4vGFbehLMCbyBtZBWLNSXm"
+      },
+      "artists": [
+        {
+          "name": "\u9e97\u82f1",
+          "url": "https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241261,
+      "name": "\u5b89\u975c\u7684\u6c34\u6676\u7403",
+      "url": "https://open.spotify.com/track/3WaxLMzNopWqhCyMwdleHl"
+    },
+    {
+      "album": {
         "name": "\u5bb6\u50b3\u79d8\u65b9",
         "url": "https://open.spotify.com/album/1fgYYF0puj95hclu6B4S9u"
       },
@@ -8231,7 +8249,7 @@
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 212903,
+      "duration_ms": 212536,
       "name": "\u672a\u81f3\u65bc",
       "url": "https://open.spotify.com/track/0nfozCGVuBCDuDFJ0SFu3P"
     },
@@ -9257,7 +9275,7 @@
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233555,
+      "duration_ms": 230658,
       "name": "\u7559\u5728\u4f60\u5728\u6211\u5728\u7684\u8166\u6d77",
       "url": "https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb"
     },
@@ -9624,6 +9642,24 @@
       "duration_ms": 236940,
       "name": "\u7acb\u65b7",
       "url": "https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK"
+    },
+    {
+      "album": {
+        "name": "\u7c89\u6708",
+        "url": "https://open.spotify.com/album/2apIRmL06ZwxNKOiuZFidM"
+      },
+      "artists": [
+        {
+          "name": "Amy Lo",
+          "url": "https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "\u7c89\u6708",
+      "url": "https://open.spotify.com/track/1uB4ISd6swklwx3Nd5zQvm"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Blanco",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK, co-curated with Central Cee.",
   "name": "Rap UK",
   "tracks": [
     {
@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "12 Car Convoy",
+        "url": "https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "12 CAR CONVOY",
+      "url": "https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP"
+    },
+    {
+      "album": {
         "name": "Independence Day",
         "url": "https://open.spotify.com/album/1Y2B5OLTzCI1EyfyiACUcK"
       },
@@ -676,7 +694,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 240000,
       "name": "2 Summers",
       "url": "https://open.spotify.com/track/36k6X9eENFg2iWeDhY0EVh"
@@ -3828,7 +3846,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 187411,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
@@ -6426,6 +6444,24 @@
       "duration_ms": 168394,
       "name": "Bong Bing",
       "url": "https://open.spotify.com/track/2Nk5EgP9wXa3bpTU8V4i5t"
+    },
+    {
+      "album": {
+        "name": "Booga",
+        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "Booga",
+      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
     },
     {
       "album": {
@@ -10084,7 +10120,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 182040,
       "name": "CRG (feat. Dave)",
       "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
@@ -16526,6 +16562,28 @@
       "duration_ms": 150000,
       "name": "GBG (Always Us)",
       "url": "https://open.spotify.com/track/4U2RFswBperWBAftJBiEPH"
+    },
+    {
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
     },
     {
       "album": {
@@ -25214,7 +25272,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 160000,
       "name": "Matching",
       "url": "https://open.spotify.com/track/5ypx7D0i1BemavF3cImt1y"
@@ -27907,6 +27965,24 @@
     },
     {
       "album": {
+        "name": "Night Bus",
+        "url": "https://open.spotify.com/album/6urop77k3bbfqbj6rSffxk"
+      },
+      "artists": [
+        {
+          "name": "Danny Sanchez",
+          "url": "https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112394,
+      "name": "Night Bus",
+      "url": "https://open.spotify.com/track/4lzNhnPPUkyqavqQyqNnqz"
+    },
+    {
+      "album": {
         "name": "Nights Uptown (Krept Freestyle)",
         "url": "https://open.spotify.com/album/20OkgHNVZrT1XVznkyeWqE"
       },
@@ -28386,6 +28462,24 @@
       "duration_ms": 165000,
       "name": "NO ID (feat. Kyze & The Heavytrackerz)",
       "url": "https://open.spotify.com/track/4mmP2bQxxqr5zZeVIk8482"
+    },
+    {
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161306,
+      "name": "No Introduction",
+      "url": "https://open.spotify.com/track/0zgcef8wT0O27OI2vPGnB9"
     },
     {
       "album": {
@@ -29030,7 +29124,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 154782,
       "name": "Nyash (Shake)",
       "url": "https://open.spotify.com/track/6YQqQqf144nqrDo1j9L4VW"
@@ -29682,7 +29776,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 158729,
       "name": "One Minute",
       "url": "https://open.spotify.com/track/3eHpr6CN0PXB1bcwe21OFB"
@@ -36048,6 +36142,24 @@
     {
       "album": {
         "name": "Shot Caller",
+        "url": "https://open.spotify.com/album/7p8iWzdtG32lZuqMdwc31G"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148087,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/4i15z1pvFVNuaMEQQFBTDm"
+    },
+    {
+      "album": {
+        "name": "Shot Caller",
         "url": "https://open.spotify.com/album/5zYCqvXuubHbcl2jippuyf"
       },
       "artists": [
@@ -38578,7 +38690,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 109714,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP"
@@ -39482,7 +39594,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-02",
+      "date_removed": null,
       "duration_ms": 122720,
       "name": "Ten (feat. Skepta)",
       "url": "https://open.spotify.com/track/2Zej1ZTJJNDcRj8e8iWUUo"
@@ -41400,7 +41512,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 123857,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/56Df4vsQXgHGv2G7SW0wMj"

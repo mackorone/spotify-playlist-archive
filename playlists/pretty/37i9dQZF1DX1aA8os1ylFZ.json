@@ -1,12 +1,12 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 296047,
+  "num_followers": 296044,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYL/Dpav0wdLzDCm0XjKU0SG+Om",
+  "snapshot_id": "AAAAAERomHWCzRrwdLi/e0cKgIP/7NYF",
   "tracks": [
     {
       "added_at": "2025-11-20 23:01:00",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
-        "name": "LUCKY ME",
-        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 163561,
-      "name": "BUTTERFLIES",
-      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
-    },
-    {
-      "added_at": "2025-11-20 23:01:00",
-      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a"
       },
@@ -915,22 +895,6 @@
       "duration_ms": 140769,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR"
-    },
-    {
-      "added_at": "2025-11-20 23:01:00",
-      "album": {
-        "name": "10AM",
-        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 216223,
-      "name": "10AM",
-      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -951,18 +915,38 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
-        "name": "This One Is Personal",
-        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+        "name": "10AM",
+        "url": "https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 169314,
-      "name": "10%",
-      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
+      "duration_ms": 216223,
+      "name": "10AM",
+      "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
+    },
+    {
+      "added_at": "2025-11-20 23:01:00",
+      "album": {
+        "name": "LUCKY ME",
+        "url": "https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "duration_ms": 163561,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -983,6 +967,22 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
+        "name": "This One Is Personal",
+        "url": "https://open.spotify.com/album/55VroRmh4MCv27zw275clO"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 169314,
+      "name": "10%",
+      "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
+    },
+    {
+      "added_at": "2025-11-20 23:01:00",
+      "album": {
         "name": "A Fair Exchange",
         "url": "https://open.spotify.com/album/6PWqRQavTZcpRrFBKWMZq0"
       },
@@ -999,6 +999,26 @@
       "duration_ms": 140000,
       "name": "A Fair Exchange",
       "url": "https://open.spotify.com/track/4XqBXP047t8rUEv7GIIzoR"
+    },
+    {
+      "added_at": "2025-11-20 23:01:00",
+      "album": {
+        "name": "TWIN FLAME",
+        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        },
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -1031,26 +1051,6 @@
       "duration_ms": 181589,
       "name": "Cutesy",
       "url": "https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn"
-    },
-    {
-      "added_at": "2025-11-20 23:01:00",
-      "album": {
-        "name": "TWIN FLAME",
-        "url": "https://open.spotify.com/album/5UcPHCArjQd3IQaIxIEcKm"
-      },
-      "artists": [
-        {
-          "name": "K.ZIA",
-          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
-        },
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/55PqkTMHwesuVYLQQsbM44"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
+        "name": "125 Degrees",
+        "url": "https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp"
       },
       "artists": [
         {
-          "name": "BJRNCK",
-          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
         }
       ],
-      "duration_ms": 159512,
-      "name": "Club",
-      "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
+      "duration_ms": 163636,
+      "name": "125 Degrees",
+      "url": "https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
-        "name": "125 Degrees",
-        "url": "https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp"
+        "name": "Club",
+        "url": "https://open.spotify.com/album/7BB6EpP6vIMHCiTbC3ztll"
       },
       "artists": [
         {
-          "name": "Keke Palmer",
-          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
         }
       ],
-      "duration_ms": 163636,
-      "name": "125 Degrees",
-      "url": "https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i"
+      "duration_ms": 159512,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/272N2DUGzyVe1gEV7heCxE"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
+        "name": "My Absolute (Remake)",
+        "url": "https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ"
+      },
+      "artists": [
+        {
+          "name": "Mar Omin",
+          "url": "https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "My Absolute - Remake",
+      "url": "https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO"
+    },
+    {
+      "added_at": "2025-11-20 23:01:00",
+      "album": {
         "name": "Pussy",
         "url": "https://open.spotify.com/album/3Fn2IEnBfAdxz2lrYpYYpS"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 175183,
       "name": "Pussy",
       "url": "https://open.spotify.com/track/3vagFJCZdj6Y43MyTuTRRG"
-    },
-    {
-      "added_at": "2025-11-20 23:01:00",
-      "album": {
-        "name": "Controlla",
-        "url": "https://open.spotify.com/album/39hz0QNUoYRNDwxxY0LNYh"
-      },
-      "artists": [
-        {
-          "name": "Jueles Chloe",
-          "url": "https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY"
-        }
-      ],
-      "duration_ms": 115459,
-      "name": "Controlla",
-      "url": "https://open.spotify.com/track/0jzR2lKHqWIz7i14BwvOJu"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -1487,18 +1487,34 @@
     {
       "added_at": "2025-11-20 23:01:00",
       "album": {
-        "name": "My Absolute (Remake)",
-        "url": "https://open.spotify.com/album/5iuuxI1ovQPOdyiJgR9biJ"
+        "name": "Controlla",
+        "url": "https://open.spotify.com/album/39hz0QNUoYRNDwxxY0LNYh"
       },
       "artists": [
         {
-          "name": "Mar Omin",
-          "url": "https://open.spotify.com/artist/6zOPs5R5TIlc5VSm8bfC7F"
+          "name": "Jueles Chloe",
+          "url": "https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY"
         }
       ],
-      "duration_ms": 265680,
-      "name": "My Absolute - Remake",
-      "url": "https://open.spotify.com/track/56cRGAZAZIwcswRV9v9QcO"
+      "duration_ms": 115459,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/0jzR2lKHqWIz7i14BwvOJu"
+    },
+    {
+      "added_at": "2025-11-20 23:01:00",
+      "album": {
+        "name": "96 REBIRTH",
+        "url": "https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 153821,
+      "name": "Make U Mine",
+      "url": "https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f"
     },
     {
       "added_at": "2025-11-20 23:01:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 182746,
       "name": "Driving Me Wild",
       "url": "https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU"
-    },
-    {
-      "added_at": "2025-11-20 23:01:00",
-      "album": {
-        "name": "96 REBIRTH",
-        "url": "https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 153821,
-      "name": "Make U Mine",
-      "url": "https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f"
     },
     {
       "added_at": "2025-11-20 23:01:00",

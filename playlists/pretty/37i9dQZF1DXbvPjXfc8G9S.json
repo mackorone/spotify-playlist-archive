@@ -1,15 +1,83 @@
 {
   "description": "Los mejores \u00e9xitos de hoy en Colombia. Foto: Blessd",
-  "num_followers": 922282,
+  "num_followers": 922349,
   "original_name": "\u00c9xitos Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD6lj8nqWDCOGRoevYBNUcsCNTKQ",
+  "snapshot_id": "AAAAAD5m0foLZ/JzesWBgdUoqj6mv3Z7",
   "tracks": [
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "COMO OREO",
+        "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 195261,
+      "name": "COMO OREO",
+      "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "POR SI ALGUIEN NOS ESCUCHA",
+        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "D\u00d3NDE",
+      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "Enemigos",
+        "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 201254,
+      "name": "Enemigos",
+      "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "EXTRADITABLESSD",
         "url": "https://open.spotify.com/album/27riPXr7ZTZcQmQkdOzce7"
@@ -49,51 +117,7 @@
       "url": "https://open.spotify.com/track/7e4dhUMOzxybcMAvUAdm0R"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "POR SI ALGUIEN NOS ESCUCHA",
-        "url": "https://open.spotify.com/album/0t4IoD2ctBdtx0zRYc8lFe"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "D\u00d3NDE",
-      "url": "https://open.spotify.com/track/4zqFA9MOG86u7uugR8QFDU"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "Enemigos",
-        "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201254,
-      "name": "Enemigos",
-      "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
@@ -113,7 +137,7 @@
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "HOPI SEND\u00c9",
         "url": "https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM"
@@ -129,7 +153,7 @@
       "url": "https://open.spotify.com/track/6MNmlP5YeBIRleseep005A"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
@@ -149,7 +173,7 @@
       "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "EXTRADITABLESSD",
         "url": "https://open.spotify.com/album/27riPXr7ZTZcQmQkdOzce7"
@@ -185,7 +209,7 @@
       "url": "https://open.spotify.com/track/2hScMilrNzlbD9VD88t7jD"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
@@ -213,7 +237,7 @@
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "SE SUPONE",
         "url": "https://open.spotify.com/album/5mHD4ryfrB2GKXGh2v0VxP"
@@ -233,7 +257,27 @@
       "url": "https://open.spotify.com/track/62QcYAIRQ9VGJ7eyS1S3ek"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "EL FICTICIO",
+        "url": "https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK"
+      },
+      "artists": [
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "EL FICTICIO",
+      "url": "https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "TRINIDAD BENDITA",
         "url": "https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP"
@@ -253,31 +297,7 @@
       "url": "https://open.spotify.com/track/72veJ1UABNtqddwZKCIGMo"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "COMO OREO",
-        "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 195261,
-      "name": "COMO OREO",
-      "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/2Kx9AfJPaJib9DwAdDYdB9"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "EXTRADITABLESSD",
         "url": "https://open.spotify.com/album/27riPXr7ZTZcQmQkdOzce7"
@@ -337,7 +357,7 @@
       "url": "https://open.spotify.com/track/1btsXTZnL2wVSW8oDWvjMM"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Un Polvito +",
         "url": "https://open.spotify.com/album/51j9nVeyDUYp2FlwhlSyzL"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/2FgNhMMwYXRnsctqIcouMP"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "BOBADITA",
         "url": "https://open.spotify.com/album/5P3zmTUYu5O7NaFXCrRDHX"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/52IeC2QBiJqk9jAR5gbe14"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "SEND\u00c9",
         "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/46ufabZP6oK3ixmN6Gd753"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
         "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "444 (Remix)",
         "url": "https://open.spotify.com/album/3mVZl9O0ungJP8CG7iPKTD"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Un Dia En Mi Barrio (Remix)",
         "url": "https://open.spotify.com/album/2wA2nVsgjQYMKWSlraEQLi"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/1KiI7qXgmqlX0KzK4f985q"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "MIJA NO TE ASUSTES",
         "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
@@ -517,51 +537,7 @@
       "url": "https://open.spotify.com/track/4N1dogCaVWnGyFdPjdqNWF"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "Pieza Exhibici\u00f3n",
-        "url": "https://open.spotify.com/album/7p5H5BRUqMenAPNZmLsiuX"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 283668,
-      "name": "Pieza Exhibici\u00f3n",
-      "url": "https://open.spotify.com/track/6BIeMM4lJYzeVlYP289uDp"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "MONSTRUO",
-        "url": "https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 213430,
-      "name": "MONSTRUO",
-      "url": "https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -597,7 +573,7 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -613,23 +589,7 @@
       "url": "https://open.spotify.com/track/6VfL3MEuYeJbDlD8m011HR"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "Crudo Means Raw - Spotify Sessions",
-        "url": "https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 119369,
-      "name": "X-TRA - Spotify Sessions",
-      "url": "https://open.spotify.com/track/0aQWDp9ppbVjZgRd8pFVFh"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "DIOMEDEZ",
         "url": "https://open.spotify.com/album/09RQNQs0rydAfGFXZo53qH"
@@ -649,7 +609,7 @@
       "url": "https://open.spotify.com/track/6qDTm2QbRSLlSmaUSJE6bF"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -665,7 +625,27 @@
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Kendo Kapponi",
+          "url": "https://open.spotify.com/artist/3SqADzYzd7W0qbkUimYuo5"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "RX",
+      "url": "https://open.spotify.com/track/1qLeX26IEu3kPWxPfyBMGd"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "UNA VALIJA EN SENTIMIENTO",
         "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
@@ -685,7 +665,7 @@
       "url": "https://open.spotify.com/track/3ClyThLf2bguwdMcm7hqZ2"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "YO y T\u00da",
         "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
@@ -709,7 +689,7 @@
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "afroLOVA 25'",
         "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "La Plena (W Sound 05)",
         "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
@@ -749,7 +729,7 @@
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "LOS CACORROS USAN KLEIMOND",
         "url": "https://open.spotify.com/album/2cwKNb3KXIcndDJeEzBi1N"
@@ -765,7 +745,7 @@
       "url": "https://open.spotify.com/track/73gesm262Pgbk7j0SEpijT"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "TRINIDAD BENDITA",
         "url": "https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP"
@@ -793,7 +773,7 @@
       "url": "https://open.spotify.com/track/7sEVEZcZHbglN1RsxMoQMV"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "SE LO JURO MOR",
         "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
@@ -809,7 +789,7 @@
       "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -825,7 +805,31 @@
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "LA VILLA",
+        "url": "https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 192111,
+      "name": "LA VILLA",
+      "url": "https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Tropicoqueta",
         "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
@@ -845,7 +849,7 @@
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "BORONDO",
         "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
@@ -885,7 +889,7 @@
       "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "TRINIDAD BENDITA",
         "url": "https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT"
@@ -909,7 +913,27 @@
       "url": "https://open.spotify.com/track/4sTnItbNUAcS5KDG6vTA5B"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
+      "album": {
+        "name": "BULLSHIT DE LA CALLE",
+        "url": "https://open.spotify.com/album/2H2ojJuG84gHY0ZmjlczIz"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Kzadores",
+          "url": "https://open.spotify.com/artist/4y6AiRdD8ZaV9DbpmsQdei"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "M\u00c1S DE AH\u00cd",
+      "url": "https://open.spotify.com/track/4ATzrqMF84B9iSCGUUqfTT"
+    },
+    {
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Redenci\u00f3n (Deluxe)",
         "url": "https://open.spotify.com/album/4CZBLiXAPe237EfXNZ35Gl"
@@ -925,7 +949,7 @@
       "url": "https://open.spotify.com/track/56bPsRfOKla3bGGmVz1uk4"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "\u00c9xitos De Rodolfo Aicardi, Vol. 1",
         "url": "https://open.spotify.com/album/2nZbI4CGmtsPKHpoQTRkOK"
@@ -945,7 +969,7 @@
       "url": "https://open.spotify.com/track/3S6RJCUm6TJCGyFnOopr4l"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "111XPANTIA",
         "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Quiero +",
         "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
@@ -977,23 +1001,7 @@
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
@@ -1009,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Sentimiento, Elegancia y Maldad",
         "url": "https://open.spotify.com/album/0hfWMwwiPPoD5LV0QeIskI"
@@ -1025,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2amAkuq2kUFgo87zQLMorw"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Ultra Complicado (feat. Sebas) [Remix]",
         "url": "https://open.spotify.com/album/5e90EkJ4CrMDooT8EeRkgh"
@@ -1053,7 +1061,7 @@
       "url": "https://open.spotify.com/track/569xAmXCkpM3IsEOiG4hWe"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "111XPANTIA",
         "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
@@ -1069,7 +1077,7 @@
       "url": "https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ"
     },
     {
-      "added_at": "2025-11-24 18:13:58",
+      "added_at": "2025-11-27 23:01:10",
       "album": {
         "name": "Esclava (E) [Remix]",
         "url": "https://open.spotify.com/album/0FBEScPBt4IBRkG60WqwcX"

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,060 songs - 4 day 10 hr 49 min
+2,062 songs - 4 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP) | [Peder Stenberg](https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Inte som alla andra, precis som alla andra \(feat\. Joakim Berg\)](https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD) | 4:30 | 2025-05-15 |  |
 | [Irreplaceable](https://open.spotify.com/track/1gK79XAWFSYyl8FpphEQiH) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Irreplaceable](https://open.spotify.com/album/2dIihXdiXigVetfKI2QDqs) | 3:35 | 2021-12-16 | 2022-03-11 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-10-13 | 2024-01-26 |
+| [is this how you said you’d be gone](https://open.spotify.com/track/1zM1XKfkjVooLnszVfO6nq) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [mexico / is this how you said you'd be gone](https://open.spotify.com/album/0iLHHCTA7n8iZyJHjiNKLA) | 4:07 | 2025-11-27 |  |
 | [Isabelle](https://open.spotify.com/track/6RIWWLyss6LfdqJXANlhFv) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Isabelle](https://open.spotify.com/album/170jl8RUaJsCe2snINmw7P) | 3:35 | 2022-05-20 | 2023-03-20 |
 | [Isbad](https://open.spotify.com/track/5yt6aZSpovyJjVXmNYhj7W) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Isbad](https://open.spotify.com/album/6KUNUExXgrm9IYLoo2YW8U) | 3:31 | 2024-03-14 | 2024-04-26 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-03-10 | 2022-04-20 |
@@ -1094,6 +1095,7 @@
 | [Lova](https://open.spotify.com/track/001iFcI2PVrLteroX4urel) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [PART TWO](https://open.spotify.com/album/50r1BRsfeBhwmlCH2l4N1j) | 5:02 | 2022-06-02 | 2022-09-26 |
 | [Love & Unity](https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Love & Unity](https://open.spotify.com/album/5Ubu5hojBNMwptB1afNQXp) | 3:50 | 2024-04-26 | 2024-05-24 |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2021-12-16 | 2022-02-27 |
+| [Love is for Losers](https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Love is for Losers](https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j) | 3:20 | 2025-11-27 |  |
 | [Love is for Losers](https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Love is for Losers](https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs) | 3:24 | 2025-09-04 |  |
 | [Love Me Blind](https://open.spotify.com/track/2W5oxA3ihrb6pjnjZRda4s) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Love Me Blind](https://open.spotify.com/album/2kizhHph8cAwaUJdDc8zso) | 3:47 | 2021-12-16 | 2022-04-02 |
 | [Love So Cruel](https://open.spotify.com/track/3EvAOiLoALVPS2BFJEt9Ho) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love So Cruel](https://open.spotify.com/album/3TmOj8mspW53T6gN6nRexN) | 3:13 | 2021-12-16 | 2022-03-10 |
@@ -1408,7 +1410,7 @@
 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 | 2023-08-17 | 2024-01-19 |
 | [Pretty girl](https://open.spotify.com/track/0codJQJF4W3cTeaTntsqGp) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/3wWRgEXZBrD7PfejLHElrd) | 3:55 | 2024-05-30 | 2024-06-28 |
 | [Pretty Ugly](https://open.spotify.com/track/0lWcOHxfnxj1GlVr4zpnyD) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Pretty Ugly](https://open.spotify.com/album/2RpD5PXqz86sdgk9T0nhuc) | 2:38 | 2025-04-24 | 2025-08-08 |
-| [Psycho](https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Psycho](https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4) | 3:01 | 2025-10-09 |  |
+| [Psycho](https://open.spotify.com/track/7eY1ZlFsHYMmRJ2oDGy4ew) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Psycho](https://open.spotify.com/album/6hcPqD3pppSa2ShkT2Uns4) | 3:01 | 2025-10-09 | 2025-11-28 |
 | [Psykbryt](https://open.spotify.com/track/3LvZ9uwjCpCL4Lc7NaCilH) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Psykbryt](https://open.spotify.com/album/0mFsTJvWn8DpApTw2ANx3K) | 2:48 | 2024-05-02 | 2024-06-01 |
 | [Psykopat](https://open.spotify.com/track/5K8auXWAl0Tm89m1CX6Geo) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [PS jag hatar dig](https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Punch Drunk](https://open.spotify.com/track/1mqShE89njPhEE5HzxMOKU) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Atlas](https://open.spotify.com/album/12TTHRtAWiupn7QvztX3Wz) | 3:45 | 2024-04-11 | 2024-05-17 |
@@ -1417,7 +1419,7 @@
 | [Pusselbitar](https://open.spotify.com/track/6f5uOIe1LBupR5eTeCvOVW) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Pusselbitar](https://open.spotify.com/album/4CbeCXyxs8d39dYlE5M4f0) | 2:54 | 2024-04-25 | 2024-05-24 |
 | [Put Out The Flame](https://open.spotify.com/track/3pcJkyMNxPf6UmqnpOn4xG) | [Falconshield](https://open.spotify.com/artist/1E7ix1oyCsdQgMw6Q3w7xT), [Rena](https://open.spotify.com/artist/5ZU4uV9uJASRDCPaNCLYpd) | [Put Out The Flame](https://open.spotify.com/album/1Q2eX4IomtrZBTnfv0b8Wg) | 4:55 | 2024-03-14 | 2024-04-26 |
 | [Pyramids](https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Pyramids](https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG) | 3:52 | 2022-03-10 | 2022-09-16 |
-| [På andra sidan havet \(Folkmord\)](https://open.spotify.com/track/4jFBL0ozIUY88ZFnNPuUJs) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [På andra sidan havet \(Folkmord\)](https://open.spotify.com/album/00V5BUmkkGYBXGuEcG5JOR) | 3:35 | 2025-09-11 |  |
+| [På andra sidan havet \(Folkmord\)](https://open.spotify.com/track/4jFBL0ozIUY88ZFnNPuUJs) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [På andra sidan havet \(Folkmord\)](https://open.spotify.com/album/00V5BUmkkGYBXGuEcG5JOR) | 3:35 | 2025-09-11 | 2025-11-28 |
 | [På en buss](https://open.spotify.com/track/5eZ5OiDd7jbFQuVAJfz6QZ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [På en buss](https://open.spotify.com/album/4G8OvA597Stb4BApPYss1g) | 2:47 | 2021-12-16 | 2022-03-11 |
 | [På En Lördag](https://open.spotify.com/track/3yFs7609gF2pcGaLrK9Oqk) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [På En Lördag](https://open.spotify.com/album/169gm5UHjtekrDY2KRuSuS) | 2:32 | 2022-10-15 | 2023-02-10 |
 | [På låtsas](https://open.spotify.com/track/0APTVcLFgMI85RIIpX0h0P) | [GAMMAL](https://open.spotify.com/artist/3O6DpqAKwn7L1KS9s9x0w5) | [På låtsas](https://open.spotify.com/album/4wC5w2OOBNksd8k7uhPmG1) | 3:59 | 2022-03-04 | 2022-09-16 |

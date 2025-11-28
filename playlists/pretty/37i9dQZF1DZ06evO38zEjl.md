@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,290 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,291 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 9 | [Moons Of Titan](https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 4:18 |
 | 10 | [Ba\-benzélé](https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:17 |
 | 11 | [Blue Period](https://open.spotify.com/track/7MZitNYMeHDjFamSe2azBa) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 7:58 |
-| 12 | [Amsterdam Blue](https://open.spotify.com/track/718TYrpVu69StJUaZZs3j3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Gregg Arreguin](https://open.spotify.com/artist/4xWxgTlKaelqQD3eEz172U), [Jamie Muhoberac](https://open.spotify.com/artist/3qL4si8YoeX67fbX9wCabM), [Peter Freeman](https://open.spotify.com/artist/030PQQ3lkozUv87jzb6QGi) | [Amsterdam Blue](https://open.spotify.com/album/5WV1lwUFJ83ePkhZQtGwWC) | 9:19 |
-| 13 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 |
+| 12 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 |
+| 13 | [Amsterdam Blue](https://open.spotify.com/track/718TYrpVu69StJUaZZs3j3) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Gregg Arreguin](https://open.spotify.com/artist/4xWxgTlKaelqQD3eEz172U), [Jamie Muhoberac](https://open.spotify.com/artist/3qL4si8YoeX67fbX9wCabM), [Peter Freeman](https://open.spotify.com/artist/030PQQ3lkozUv87jzb6QGi) | [Amsterdam Blue](https://open.spotify.com/album/5WV1lwUFJ83ePkhZQtGwWC) | 9:19 |
 | 14 | [Chemistry](https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 6:54 |
 | 15 | [Clairvoyance](https://open.spotify.com/track/0SXeDhoNKnhp3h1R1wGtd2) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Last Night The Moon Came Dropping Its Clothes In The Street](https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz) | 1:05 |
 | 16 | [Slipstream](https://open.spotify.com/track/2RxYle9Er6QGqrrzzwYDfi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 2:54 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO38zEjl.md) - [plain]
 | 45 | [Power Spot](https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 7:07 |
 | 46 | [Ayshyin Raquin](https://open.spotify.com/track/4w72TCoWaoE11mynCinysb) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:16 |
 | 47 | [Empire III](https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:09 |
-| 48 | [Warm Shift](https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 4:23 |
+| 48 | [Darbari Bridge](https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 11:42 |
 | 49 | [Air](https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 5:20 |
 | 50 | [Ondas Do Mar De Vigo](https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd) | [Jon Balke](https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq), [Amina Alaoui](https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Kheir Eddine M'Kachiche](https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I), [Bjarte Eike](https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t) | [Siwan](https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3) | 4:30 |
 
-Snapshot ID: `aSTxgAAAAAA3PNFlL891X3/pjP4ybVH5`
+Snapshot ID: `aSZDAAAAAABhzyCA4w1cojHmK8SSFXnH`

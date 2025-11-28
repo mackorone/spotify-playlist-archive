@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,611 likes - 761 songs - 1 day 23 hr 38 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,611 likes - 778 songs - 2 day 0 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -769,5 +769,22 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 759 | [Intiaani](https://open.spotify.com/track/51GulSjFyZjQXf9G0ojCQ3) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 3:29 |
 | 760 | [Party Time](https://open.spotify.com/track/2ROLG5tbFEpbPg8kV0xxNQ) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 3:41 |
 | 761 | [Anitya](https://open.spotify.com/track/3gAY2oiEDApvv4Qra5JkWA) | [Story Over Night](https://open.spotify.com/artist/0xD1rWlMwDqNGOggf8B7uB) | [Anitya](https://open.spotify.com/album/3fpVPwneQbTQXlH5GBOD8A) | 3:05 |
+| 762 | [The Calling](https://open.spotify.com/track/04ApIeZH9OSfcTMZGcijZe) | [Virya](https://open.spotify.com/artist/6bbW0jOKAWJWm3h6CTWaAS) | [Echoes Of The Modern Mind](https://open.spotify.com/album/5dAAKIVnr96ILc9gxPnRzt) | 4:35 |
+| 763 | [Revelation Within](https://open.spotify.com/track/3D295fOGY4YDC40F5IJ0LX) | [Demidead](https://open.spotify.com/artist/0YZRUp4NVuCR4fgHpblpgT) | [War Against Ourselves](https://open.spotify.com/album/242HCz09ap1lWeNfagyA8m) | 5:42 |
+| 764 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 |
+| 765 | [My Payoff](https://open.spotify.com/track/5vjzuXyYbAOYwH0gRTcltE) | [Bloody Moon](https://open.spotify.com/artist/1JcF9RmNgglX6pxru1bCz3) | [Lost & Damned](https://open.spotify.com/album/1aAAssNRmdJF1CQkPVZk2v) | 4:28 |
+| 766 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 |
+| 767 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 |
+| 768 | [Inside the storm](https://open.spotify.com/track/7ELjLle0NHzUar3q50MpEw) | [Ab ashford](https://open.spotify.com/artist/4g9FR7ZZIljvUkcL4iT6ln) | [Inside the storm](https://open.spotify.com/album/2dTIKqXuH7WpL5gCAIJlEw) | 4:29 |
+| 769 | [Cada Vez](https://open.spotify.com/track/2axTZQ926dsORfvICTdWCu) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [El Manual del Perfecto Gilipollas](https://open.spotify.com/album/3SjOf8nbU7ijEGgvf1jfzN) | 4:22 |
+| 770 | [Le Bal](https://open.spotify.com/track/3dW8YogKgcwaLkvvI3uIcA) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Catena Aurea](https://open.spotify.com/album/56e8OMpTfiEI8L3MMrrdrS) | 3:55 |
+| 771 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 |
+| 772 | [Armour Hill](https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Armour Hill](https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw) | 4:19 |
+| 773 | [Grief Burnout](https://open.spotify.com/track/2RCbSiC04PAuuzzDlrQzYv) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/4q5fMSTCIsS14rCSf8FXZC) | 2:59 |
+| 774 | [Clearing the Mechanism](https://open.spotify.com/track/0MqSqZxE4BiOQOEkRbDdfb) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [Clearing the Mechanism](https://open.spotify.com/album/2ItcOEsTORklNHDeyukVpJ) | 5:02 |
+| 775 | [Dream State](https://open.spotify.com/track/3O7ba80FsePRWfCQ59ZBdv) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 4:26 |
+| 776 | [The Wake](https://open.spotify.com/track/3YLH1dDYn1Yt45H4MbhAFi) | [Black Halo](https://open.spotify.com/artist/2Vzqi1AZ8PcAt5Br2wGtjL) | [Upon Deaf Ears](https://open.spotify.com/album/4E3tsTLCxdasH8ufpwrcXJ) | 7:00 |
+| 777 | [Metal ME 2 \(HD\)](https://open.spotify.com/track/67eUCGlZqeGvk5j8wcb7qJ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Metal ME 2 \(HD\)](https://open.spotify.com/album/02QlFOXir0SEvhhZ2CsbUH) | 2:15 |
+| 778 | [Älä seuraa minua](https://open.spotify.com/track/02YSmMqexkiR9F2k2itVSW) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 4:31 |
 
-Snapshot ID: `AAADEnVmBSlT8mntuYOLoB1s5KR+dN4Y`
+Snapshot ID: `AAADJE1gAMgY7/XQFlHQ0kwXE0hCvoqr`

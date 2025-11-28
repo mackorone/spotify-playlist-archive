@@ -1,13 +1,41 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: TH;EN",
-  "num_followers": 118954,
+  "num_followers": 118949,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAgW9s0eFuhOeW9MQbff404CeAxMeE7",
+  "snapshot_id": "AAAgXgUTdT91NF77HPaEwAz8tERn5ao1",
   "tracks": [
+    {
+      "added_at": "2025-11-27 23:20:06",
+      "album": {
+        "name": "Bass Down Low (feat. DEV) [Go Version]",
+        "url": "https://open.spotify.com/album/1FogdMMgodRlRvaZ9WXzS8"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "Avancada",
+          "url": "https://open.spotify.com/artist/2LvoCyCKPikfIOquhBqRce"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Bass Down Low (feat. DEV) [Go Version]",
+      "url": "https://open.spotify.com/track/0rmNe8Ds7tl1nfkj4eNJq8"
+    },
     {
       "added_at": "2025-11-20 23:20:12",
       "album": {
@@ -47,6 +75,42 @@
       "duration_ms": 231701,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV"
+    },
+    {
+      "added_at": "2025-11-27 23:20:07",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/6NW40xbpp1JB1mKswOYaMb"
+      },
+      "artists": [
+        {
+          "name": "Swanky Tunes",
+          "url": "https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX"
+        },
+        {
+          "name": "Shapov",
+          "url": "https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/40pLAdQb9J4RBLO01Zw0Dq"
+    },
+    {
+      "added_at": "2025-11-27 23:20:09",
+      "album": {
+        "name": "AMADEU$",
+        "url": "https://open.spotify.com/album/4DbYJyNjqpvbopsy4AyvOf"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 177188,
+      "name": "AMADEU$",
+      "url": "https://open.spotify.com/track/0OvcAtbmHaTtSUvLzT34uW"
     },
     {
       "added_at": "2025-11-20 23:20:01",

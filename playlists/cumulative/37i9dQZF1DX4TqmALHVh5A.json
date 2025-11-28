@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Marlon Magn\u00e9e",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Max Baby",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -334,6 +334,28 @@
       "duration_ms": 192720,
       "name": "Amour Scandaleux",
       "url": "https://open.spotify.com/track/0ffjGmdQAMy2JLxI3vyuHG"
+    },
+    {
+      "album": {
+        "name": "Appel de d\u00e9tresse (feat. poissonchat)",
+        "url": "https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        },
+        {
+          "name": "poissonchat",
+          "url": "https://open.spotify.com/artist/064Ut5t9PvMeuGfKiprmZA"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156736,
+      "name": "Appel de d\u00e9tresse (feat. poissonchat)",
+      "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
     },
     {
       "album": {
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 171724,
       "name": "heureux comme un roi",
       "url": "https://open.spotify.com/track/3M0JgDV4dHZmFc6YDJA0R2"
@@ -2656,7 +2678,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 211293,
       "name": "J'esp\u00e8re (pas)",
       "url": "https://open.spotify.com/track/6SgsZvBsWVhmmWkfYkWKIg"
@@ -2750,7 +2772,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 187756,
       "name": "je dirai rien",
       "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
@@ -4333,6 +4355,24 @@
     },
     {
       "album": {
+        "name": "Na\u00eff de Coeur",
+        "url": "https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287650,
+      "name": "Na\u00eff de Coeur",
+      "url": "https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA"
+    },
+    {
+      "album": {
         "name": "L'AMOUR",
         "url": "https://open.spotify.com/album/4j9w6qqk8IbTSIWIi8P5fp"
       },
@@ -4719,6 +4759,24 @@
     },
     {
       "album": {
+        "name": "Pas le temps",
+        "url": "https://open.spotify.com/album/3woAumoPTvkkzSGxDsfLqM"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182794,
+      "name": "Pas le temps",
+      "url": "https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO"
+    },
+    {
+      "album": {
         "name": "Pas si grave",
         "url": "https://open.spotify.com/album/6Zkx4Is6rymdYuBJdiuqOu"
       },
@@ -5004,7 +5062,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 233746,
       "name": "Presque Punk",
       "url": "https://open.spotify.com/track/75HY55DJoZNg8lK1IZ2i4m"
@@ -5478,7 +5536,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 192010,
       "name": "Rockrider",
       "url": "https://open.spotify.com/track/5g3hhUsUQYZWo5ThO9aRpX"
@@ -5850,6 +5908,24 @@
       "duration_ms": 126993,
       "name": "Sosies",
       "url": "https://open.spotify.com/track/0AlhIiLhWYMQXuBzdgqG3V"
+    },
+    {
+      "album": {
+        "name": "Prol\u00e9taire",
+        "url": "https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV"
+      },
+      "artists": [
+        {
+          "name": "Frs taga",
+          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Soucis dans la t\u00eate",
+      "url": "https://open.spotify.com/track/14diKmKKPZS0PI24p8HOKM"
     },
     {
       "album": {
@@ -6496,6 +6572,28 @@
       "duration_ms": 228121,
       "name": "Turbof\u00e9e",
       "url": "https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK"
+    },
+    {
+      "album": {
+        "name": "T\u00c9L\u00c9PHONE!",
+        "url": "https://open.spotify.com/album/1q72NUONJTQRhQalQFUNWc"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        },
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "T\u00c9L\u00c9PHONE!",
+      "url": "https://open.spotify.com/track/4X8VOk1uN2KmGTXqBlqn7r"
     },
     {
       "album": {

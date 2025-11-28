@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 > This is Clara Rockmore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,699 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,700 likes - 30 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 27 | [Sonata for Violin and Piano: Ben moderato: Recitativo\-Fantasia](https://open.spotify.com/track/6bfVKqf7Isv7X3lkT3QQ60) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 8:24 |
 | 28 | [Theremin Concerto: Pastorale](https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music and Memories: Clara Rockmore \(Bonus Album\)](https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv) | 4:24 |
 | 29 | [Sonata for violin and piano: Allegro](https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr) | [César Franck](https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 8:57 |
-| 30 | [Interview with Clara Rockmore and Morey Ritt](https://open.spotify.com/track/1Lx6LMEaPUhuR4ReW8hyMp) | [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Morey Ritt](https://open.spotify.com/artist/1JAXudyatYMiUMGNTRtvK6), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 3:40 |
+| 30 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
 
-Snapshot ID: `aSTxgAAAAAA/xEXzosvJQzGe9ZJJQplz`
+Snapshot ID: `aSZDAAAAAABfY4foiyn/r92ClJ0+fCh+`

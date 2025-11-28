@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dominique Adhadiaz",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Jordan Susanto",
   "name": "JIVVA",
   "tracks": [
     {
@@ -154,6 +154,24 @@
       "duration_ms": 191278,
       "name": "Apa Kabar",
       "url": "https://open.spotify.com/track/57AzzQHGqd9QO0eBCzfq0W"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216811,
+      "name": "Arti Kehidupan",
+      "url": "https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC"
     },
     {
       "album": {
@@ -436,7 +454,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 220945,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
@@ -580,7 +598,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 198750,
       "name": "Claw Machine",
       "url": "https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw"
@@ -602,6 +620,32 @@
       "duration_ms": 205936,
       "name": "crimson lullaby",
       "url": "https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0QULlRrskGGkNA5lc06dMH"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX ID",
+          "url": "https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze"
+        },
+        {
+          "name": "Italiani",
+          "url": "https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203952,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/1KxuP61yS7dLOqcdnXWgVb"
     },
     {
       "album": {
@@ -710,7 +754,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 192000,
       "name": "DERAU",
       "url": "https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2"
@@ -822,7 +866,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 253331,
       "name": "Diantara Kata",
       "url": "https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu"
@@ -909,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Jordan LIVE!",
+        "url": "https://open.spotify.com/album/6SJcKel4aMafRbs1riLzTU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "The Soul & Rollers",
+          "url": "https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417000,
+      "name": "Do Right Baby! - Live",
+      "url": "https://open.spotify.com/track/1bw73MM8ML2sips7nDExzG"
+    },
+    {
+      "album": {
         "name": "Do What We Do",
         "url": "https://open.spotify.com/album/3aeTXYLhgW3SMTYMTYLenE"
       },
@@ -992,6 +1058,24 @@
       "duration_ms": 233050,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk"
+    },
+    {
+      "album": {
+        "name": "Empty.",
+        "url": "https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn"
+      },
+      "artists": [
+        {
+          "name": "Uap Widya",
+          "url": "https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234078,
+      "name": "Empty.",
+      "url": "https://open.spotify.com/track/2kNpWuLtpMv8cSBKSozDau"
     },
     {
       "album": {
@@ -1342,6 +1426,24 @@
       "duration_ms": 192126,
       "name": "Harap Dan Ragu",
       "url": "https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le"
+    },
+    {
+      "album": {
+        "name": "Harus Kemana",
+        "url": "https://open.spotify.com/album/4mcYhkSZ4PhwOaRZ7uinrL"
+      },
+      "artists": [
+        {
+          "name": "CHNCE",
+          "url": "https://open.spotify.com/artist/0Fvh2UJqvgvzWFvCr8IJTI"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251544,
+      "name": "Harus Kemana",
+      "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
     },
     {
       "album": {
@@ -2156,7 +2258,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 216959,
       "name": "Magnet",
       "url": "https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L"
@@ -2408,7 +2510,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 164473,
       "name": "Obsesi",
       "url": "https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK"
@@ -3244,7 +3346,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 158291,
       "name": "Something New (feat. Afgan)",
       "url": "https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B"
@@ -3346,7 +3448,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 213333,
       "name": "Sujud",
       "url": "https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK"
@@ -3668,7 +3770,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 261691,
       "name": "Wanita",
       "url": "https://open.spotify.com/track/7tqeOzEsaUXaw4PDF5qzTh"

@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: FOLA
 
-189 songs - 9 hr 49 min
+190 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Fi Kan We Kan](https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Fi Kan We Kan](https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp) | 2:39 | 2024-10-21 |  |
 | [FIA](https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FIA](https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z) | 3:34 | 2024-10-21 |  |
 | [Finesse](https://open.spotify.com/track/3UqcIgObI7zZk8e7nvqmfc) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/09eq0dG75Fddf2HAHOotDx) | 2:31 | 2025-04-29 |  |
-| [Fini](https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Fini](https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L) | 1:52 | 2025-06-27 |  |
+| [Fini](https://open.spotify.com/track/750xvuULIPZ4U5vk251SvI) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Fini](https://open.spotify.com/album/4kEVAL6PC7RAZZRkyr1z0L) | 1:52 | 2025-06-27 | 2025-11-28 |
 | [Fire](https://open.spotify.com/track/1NvQ75GLbvDPHFbGr5s0tp) | [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Tom Excell](https://open.spotify.com/artist/7xWMYlmDVs3qZKLgJU7dKK), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [We No Be Machine](https://open.spotify.com/album/5RpzU4WuACFhGOcN7vn1K9) | 5:09 | 2025-04-29 | 2025-06-28 |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-11-10 |  |
 | [Frens](https://open.spotify.com/track/15FfKpV7MURQncDusPvqwM) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Frens](https://open.spotify.com/album/6ptrrZitJ1n2a6qraQGmLz) | 3:18 | 2025-04-29 | 2025-06-29 |
@@ -182,6 +182,7 @@
 | [Train](https://open.spotify.com/track/5R2wKKaRmOR2qDJKAPyXDl) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N) | 3:10 | 2024-10-21 | 2025-03-15 |
 | [Trepidation \- Single Edit](https://open.spotify.com/track/0kSDqVS3um3zpxOdIzGLM5) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q), [Msafiri Zawose](https://open.spotify.com/artist/11ouELfzx4OsUjTQNlOa8w) | [Trepidation](https://open.spotify.com/album/49RJwvinSYLCPDN3PB3C8q) | 3:03 | 2025-04-29 | 2025-07-05 |
 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 | 2024-10-21 | 2025-03-15 |
+| [Type Sh\*t](https://open.spotify.com/track/2sTjJbgPuWC5dYY7xtJm7j) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Type Sh\*t](https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep) | 2:31 | 2025-11-27 |  |
 | [Uhh Yeahh](https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:24 | 2024-10-21 |  |
 | [Uzozisola](https://open.spotify.com/track/6oDRX9Y1JkO6cNuJqOkJp3) | [Justin Vibes](https://open.spotify.com/artist/6dGVYMuz6faSSurZ7uOyl4), [Diamonds of Gwijo](https://open.spotify.com/artist/35LRzmxr0j8YAkoDLAZ9vP), [Azul Serene](https://open.spotify.com/artist/1hRZ44dY3I4KbtER9vNfGv) | [Uzozisola](https://open.spotify.com/album/13In8hIi8GXoKBzPy1zZFX) | 4:30 | 2024-10-21 |  |
 | [Very Soon](https://open.spotify.com/track/54HwZc6fEmR5EnjRT4oBq5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Very Soon](https://open.spotify.com/album/51Q7voQ9tecAT8150iglFc) | 2:17 | 2025-07-11 |  |

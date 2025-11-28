@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 229360,
+  "num_followers": 229382,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAAC/l5jpFShKsTOmDomAS1uJ",
+  "snapshot_id": "aSZDAAAAAACA1IYeeCASyL38yfhZ59Z5",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akureyri",
-        "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Akureyri",
-      "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Babylon Club",
         "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 144950,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/0ETWLLoRd6Z4r97h3740C1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akureyri",
+        "url": "https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Akureyri",
+      "url": "https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr"
     },
     {
       "added_at": null,
@@ -374,11 +374,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 191368,
-      "name": "SEGUNDO INTENTO",
-      "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
+      "duration_ms": 141503,
+      "name": "\u00bfPARA QU\u00c9 VOLVER?",
+      "url": "https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93"
     },
     {
       "added_at": null,
@@ -442,15 +446,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
         }
       ],
-      "duration_ms": 141503,
-      "name": "\u00bfPARA QU\u00c9 VOLVER?",
-      "url": "https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93"
+      "duration_ms": 191368,
+      "name": "SEGUNDO INTENTO",
+      "url": "https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ"
     },
     {
       "added_at": null,

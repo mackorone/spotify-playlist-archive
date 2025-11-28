@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Ida Fiona
+> The best new music by independent artists in the Nordics\. Cover: Caesar Omaka
 
-1,448 songs - 3 day 4 hr 19 min
+1,455 songs - 3 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [and is it really over](https://open.spotify.com/track/5RAInZ6ZRVYhgf31HLECFZ) | [Joonas](https://open.spotify.com/artist/06bXpbtpgnaU0cklDrSqlg) | [and is it really over](https://open.spotify.com/album/4uW3H526QlOeBveCV2sgSL) | 3:47 | 2025-05-08 | 2025-07-04 |
 | [Anima \(Think of You\)](https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Anima \(Think of You\)](https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC) | 3:17 | 2024-11-14 | 2025-01-18 |
 | [Animal](https://open.spotify.com/track/6XLsy0UvTwzfd3eS8Uqqc9) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Animal](https://open.spotify.com/album/3iAp0bYRNDHVHkxQDD3g4C) | 2:56 | 2024-08-22 | 2024-09-27 |
+| [announcements](https://open.spotify.com/track/3t3hSIPu9jCZ3Qy9m5x8Dz) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [announcements](https://open.spotify.com/album/1iT03F2biHT5gNT9rCw7Fs) | 2:21 | 2025-11-27 |  |
 | [Another](https://open.spotify.com/track/2GgjhQe8QLd06V9j2jxwYV) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB), [RJL](https://open.spotify.com/artist/6OudLVsu838BmlTholSbgt) | [Another](https://open.spotify.com/album/5ofBd0FBXL5F0g97UU3VZq) | 4:14 | 2024-05-09 | 2024-06-14 |
 | [Another Horizon](https://open.spotify.com/track/3P6CZAMZNe5zcND7iTgYSq) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Another Horizon](https://open.spotify.com/album/1opoGGpR30y1SJd3nQMsRH) | 3:15 | 2025-02-13 | 2025-03-28 |
 | [Another Life](https://open.spotify.com/track/2cWbWkRjDuDX3VhZCN50Do) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Another Life](https://open.spotify.com/album/1uOknY2ro4BCx9enXudDiH) | 4:34 | 2025-06-05 | 2025-08-01 |
@@ -212,6 +213,7 @@
 | [Chemicals](https://open.spotify.com/track/75H2T9O2y4b5JlORHVZlBe) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Another Life](https://open.spotify.com/album/3duZIjETQX18dHLhyZ3ROo) | 3:03 | 2025-03-20 | 2025-06-06 |
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-03 | 2025-07-04 |
 | [Child of the City](https://open.spotify.com/track/72lqf7BtvGFadFPWkvoz9C) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [Child of the City](https://open.spotify.com/album/34bN53KpSsbPFjnGL8vppH) | 3:21 | 2024-07-25 | 2024-09-06 |
+| [childhood](https://open.spotify.com/track/3pCL063bVHTECvWdQx6EvK) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [a reason, a season or a lifetime](https://open.spotify.com/album/7K0Vo61YLhzVuZVHs4poyM) | 2:18 | 2025-11-27 |  |
 | [Chosen One](https://open.spotify.com/track/2HZqDn51j8ruZGhk1UqfPo) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Chosen One](https://open.spotify.com/album/1r8ZZrTBsbGXmisadQzGEm) | 2:02 | 2025-05-22 | 2025-06-20 |
 | [city of no one](https://open.spotify.com/track/11vJzLOH76w5fCC2MqmnYm) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [city of no one](https://open.spotify.com/album/74NoMm7ciTD1kmmwOSPzBZ) | 3:11 | 2024-09-19 | 2024-10-18 |
 | [Clairo](https://open.spotify.com/track/64NyvsFj1ErJ66XtLw41gx) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [Clairo](https://open.spotify.com/album/0mWTMQVfVqE3so5uDbXHjU) | 3:33 | 2025-03-20 | 2025-05-09 |
@@ -831,6 +833,7 @@
 | [Miracle](https://open.spotify.com/track/77QoFtwtVcS9j8r9KecFFY) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Miracle](https://open.spotify.com/album/0tamNtdH2thktZvLt0U07j) | 2:44 | 2025-07-10 | 2025-09-12 |
 | [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Miranda](https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4) | 2:49 | 2025-10-30 |  |
 | [Mirror](https://open.spotify.com/track/4y6tduyVsVIkMjuwJYLmz2) | [Sally F](https://open.spotify.com/artist/3W1oOTi2VTBprsvw6IWVe4) | [Mirror](https://open.spotify.com/album/5IwgOIrLulRYrAZvLmSlHJ) | 2:51 | 2025-10-23 |  |
+| [mirror song](https://open.spotify.com/track/2Ds4H4rHq6Sy56Kn8O94In) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [mirror song](https://open.spotify.com/album/2k3DL7ctpQLvY74dmD4i6k) | 2:07 | 2025-11-27 |  |
 | [Misconception](https://open.spotify.com/track/7GAExfw1SSZklMzTwfPDW0) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/1LgTFDtxq0cyXnBEJYjP5U) | 3:33 | 2025-09-18 | 2025-11-14 |
 | [MISS ME](https://open.spotify.com/track/2M4CkwOClFTWSjv5cndkWq) | [Nellie Drené](https://open.spotify.com/artist/2UYVoGUWe4w4ctQvYikm7W) | [MISS ME](https://open.spotify.com/album/6KQqofHnF3ZW6z5rV2kiVQ) | 2:36 | 2025-05-08 | 2025-06-06 |
 | [Miss U](https://open.spotify.com/track/5sJ1xbRFMVUgTy8qLaEHba) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Miss U](https://open.spotify.com/album/2OESSRquRHX18HYGPsIHsq) | 2:41 | 2025-01-16 | 2025-02-28 |
@@ -861,6 +864,7 @@
 | [needy](https://open.spotify.com/track/0k0ZsYL8jgZD9zmZroYlMd) | [Elvira Alfaro](https://open.spotify.com/artist/2X935u573aID4nnG97RwE9) | [needy](https://open.spotify.com/album/7hRnkCOtq6FKncQYjZBedr) | 3:00 | 2024-03-21 | 2024-06-01 |
 | [Nest](https://open.spotify.com/track/4DLJwoqF8oI4rt2SGXXmaQ) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Nest](https://open.spotify.com/album/03FTgwyighoBWya5x9lbkK) | 3:43 | 2024-11-28 | 2025-01-31 |
 | [Never Alone](https://open.spotify.com/track/33PhjlJSzCGh5ZXvdddlxm) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Never Alone](https://open.spotify.com/album/059eF3Z2bp9Y9yyUmi2rKh) | 2:26 | 2024-02-08 | 2024-02-16 |
+| [never let u go](https://open.spotify.com/track/0Tb4fg5oV93tbgL9xa1spL) | [Sigurd K](https://open.spotify.com/artist/0MBbzVTmbulTv2yS7qfznw), [miint](https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp) | [never let u go](https://open.spotify.com/album/1zmFCBEU2J1zSnmjLvAN7w) | 3:28 | 2025-11-27 |  |
 | [Never Wanna Have Fun](https://open.spotify.com/track/1fGfLNBJ5o7AtjOSQDNGmR) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn) | [Enemies](https://open.spotify.com/album/0U7Ng1lZGQLdhD9jgMIPUn) | 2:34 | 2025-10-16 |  |
 | [New Age](https://open.spotify.com/track/1AeGCEncaEACQkted34bAE) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Welcome to the New Age](https://open.spotify.com/album/6QN1xgBKeFhq6AnnmzUuU7) | 2:53 | 2024-04-11 | 2024-06-21 |
 | [New Beginnings](https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [New Beginnings](https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL) | 3:04 | 2024-04-26 | 2024-06-28 |
@@ -1051,6 +1055,7 @@
 | [Restart](https://open.spotify.com/track/4626HGToUE9CSTqZpfblKY) | [CHIRONS ROOM](https://open.spotify.com/artist/71QWg2Al7AarqGhC9w2jUy) | [Restart](https://open.spotify.com/album/0T6LQIuJDQv3O8UbyEyhy4) | 2:53 | 2025-05-01 | 2025-05-30 |
 | [Restart](https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc) | [Daghem](https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi) | [Restart](https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL) | 2:36 | 2024-10-17 | 2025-01-18 |
 | [Restricted Headroom](https://open.spotify.com/track/5LnXGoz4IaHda9twVsc0Kw) | [Nicoel](https://open.spotify.com/artist/6r07cY3uTfDRAelK2bbTyA) | [Restricted Headroom](https://open.spotify.com/album/6a4YyDIJQAcdiRvxsEqPuu) | 3:09 | 2025-11-20 |  |
+| [REVENGE](https://open.spotify.com/track/4VCozmaUeGsfgxtDtktMf1) | [Hakeem Martin](https://open.spotify.com/artist/6RFIUnawOwbvLTpuvLF6JP), [small village](https://open.spotify.com/artist/5A9cqDcAsDETM4V7ME1nQR) | [Untitled Soul Project](https://open.spotify.com/album/50PSMG2fhtKUyZWoCMqdp3) | 3:36 | 2025-11-27 |  |
 | [rewind repeat](https://open.spotify.com/track/0fd4GoZaTgBwNeg6zpwjy3) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [rewind repeat](https://open.spotify.com/album/6tFkbqFgrtEQUogLyBH7yf) | 2:24 | 2025-09-11 | 2025-10-24 |
 | [Rewired](https://open.spotify.com/track/7C7r9Nx5Qn1Pdcy58KCq5c) | [Thea Dora](https://open.spotify.com/artist/6Li9gxqNXSjwXdqinl4sAD) | [Enter](https://open.spotify.com/album/2Lklu5LMX1eYLcRi0tX9Wa) | 2:58 | 2024-05-02 | 2024-05-17 |
 | [RHYTHM](https://open.spotify.com/track/3ADmWwDoKMtoVc382iCOQS) | [MOON](https://open.spotify.com/artist/4sKb7lHVHjkc5VbDihyHRp) | [RHYTHM](https://open.spotify.com/album/6q3gXFo6vz9kNOzA4vLEYt) | 3:43 | 2025-09-25 |  |
@@ -1240,6 +1245,7 @@
 | [Take It Back](https://open.spotify.com/track/1ANmeH8rwhldXh2GkEBJRm) | [HANN3R](https://open.spotify.com/artist/3cplLQ8cd7oHYbczpbrKrc) | [Take It Back](https://open.spotify.com/album/5PLtdAGcJIdKdWAaVwi4Ew) | 2:38 | 2025-05-16 | 2025-06-13 |
 | [Take It Down](https://open.spotify.com/track/0xavN6Reg9HDdJNe6yfiRU) | [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt) | [Take It Down](https://open.spotify.com/album/5YA9fM3Mld9I6q6ey1urCH) | 2:45 | 2025-03-06 | 2025-04-04 |
 | [Take Me To The Altar](https://open.spotify.com/track/5wXG16j2RKCLN5QBTJdY8z) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take Me To The Altar](https://open.spotify.com/album/5XFYYQxyC5Rb5vtFGxhJVn) | 2:36 | 2025-10-09 |  |
+| [Take Your Time](https://open.spotify.com/track/3aQoJe0eLWyDJKWACYVyOB) | [EILA](https://open.spotify.com/artist/17DPyFDjvLRiYFHgp9viFf), [Hetty\-Lo](https://open.spotify.com/artist/5sAFICy9VevH6Sfa3xEvXf) | [Play n Repeat](https://open.spotify.com/album/3Cc2VM4VaAfG7hlTGdU3jS) | 2:02 | 2025-11-27 |  |
 | [Take Your Time \(Slow Down\)](https://open.spotify.com/track/01eRSf9IjbyWK7wjCygQRn) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [International Girl, Pt\. 1](https://open.spotify.com/album/4C8q9K3fEhwrEULk2akLR7) | 2:13 | 2024-06-13 | 2024-08-09 |
 | [Talk](https://open.spotify.com/track/2GUHYcwwBpuEggOhG5LKUF) | [Superslow](https://open.spotify.com/artist/5PktU4ZazJ570kIpzHy7Jw), [Emma Putnam](https://open.spotify.com/artist/3nJrcBmKE26v1Bma1G82rk) | [Talk](https://open.spotify.com/album/0baFOOV1RKpCyGvsaE2SKN) | 3:18 | 2025-04-24 | 2025-05-30 |
 | [TALK TALK](https://open.spotify.com/track/5bym3p060xLsVaAyLKZboG) | [DEEJADE](https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK) | [TALK TALK](https://open.spotify.com/album/7bCddEZYiLDF2sN3Sqdpta) | 2:08 | 2024-10-17 | 2024-11-22 |
@@ -1258,6 +1264,7 @@
 | [Thank You](https://open.spotify.com/track/5AZEM801pHz7NoEm3hqrZV) | [Jonsjooel](https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF) | [Thank you](https://open.spotify.com/album/4xlS0Sdn9HyERoDpYnfSSx) | 3:03 | 2025-02-27 | 2025-04-11 |
 | [That Feeling](https://open.spotify.com/track/3vTd2tLfGEbXzK1D7qVblY) | [WIN WIN](https://open.spotify.com/artist/7iBrlNg54cJghrZBVrq3Yt) | [That Feeling](https://open.spotify.com/album/4WfhOeiQo8cHT4qnLovvQA) | 3:22 | 2024-02-29 | 2024-03-29 |
 | [That Oxygen](https://open.spotify.com/track/1wXCbdEOnVza14uNlecvoA) | [Svend Christensen](https://open.spotify.com/artist/3Kmr4aqK3p21KdMAYz9WOT) | [That Oxygen](https://open.spotify.com/album/66atycPkwsofM7cDrPKbqp) | 3:17 | 2025-01-02 | 2025-02-07 |
+| [The 64](https://open.spotify.com/track/34HvxIlrCngqaA00cHKtfd) | [Caesar Omaka](https://open.spotify.com/artist/0mzIUAC5NKH15AIryf5n2j) | [Svalor](https://open.spotify.com/album/2Oo7VnvlPLYrWco7LgvJER) | 3:37 | 2025-11-27 |  |
 | [The Bar](https://open.spotify.com/track/4FDOkBj2PHhFTRfjEzaL17) | [MÄKI](https://open.spotify.com/artist/12VNlem2IOoPA01BYFoWBa) | [The Bar](https://open.spotify.com/album/6Ch3vzUNWP5ZZ6VTOSPyYZ) | 2:11 | 2025-10-02 |  |
 | [The Basement](https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [The Basement](https://open.spotify.com/album/5MkryrNraC1vGE3rI7ReVr) | 2:16 | 2024-11-14 | 2024-12-05 |
 | [the end](https://open.spotify.com/track/5qX4Pk4CLO05NEJliJQERA) | [miint](https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp) | [while i'm here](https://open.spotify.com/album/6wXTMhn4RTCC4kqbi1ox5Z) | 2:26 | 2025-10-30 |  |

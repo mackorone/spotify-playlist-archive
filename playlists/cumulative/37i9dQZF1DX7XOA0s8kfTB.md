@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-58 songs - 2 hr 39 min
+59 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [傷つき傷つけ痛くて辛い](https://open.spotify.com/track/2185RCcistacxWByF55kAz) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [傷つき傷つけ痛くて辛い](https://open.spotify.com/album/6GOHtMeDdXYNuU5HccbyBj) | 3:16 | 2024-04-12 |  |
 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:08 | 2024-04-12 |  |
 | [吹き消した灯火](https://open.spotify.com/track/5Wwibw8kFxfb0WShoYW4I0) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [吹き消した灯火](https://open.spotify.com/album/4nApnOBzSPSjTv2sjBkYOM) | 3:53 | 2025-10-23 |  |
+| [命をくれよ](https://open.spotify.com/track/0WjM5jZ7pD9UgV3qxPLEpK) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [命をくれよ](https://open.spotify.com/album/4BIOx75fOoi3zcXqxrltwC) | 3:20 | 2025-11-21 |  |
 | [声なき魚 \- 新川崎（仮）](https://open.spotify.com/track/1kl79lBHASMMrhpTMoH8Ld) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [声なき魚 \(新川崎（仮）\)](https://open.spotify.com/album/4t49T3MWnwel3cqDKAWKsD) | 3:00 | 2024-04-19 |  |
 | [心象的フラクタル \- beni\-shouga](https://open.spotify.com/track/0D93yzeKsimKoXc9mEH6tI) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [心象的フラクタル \(beni\-shouga\)](https://open.spotify.com/album/1FJLaCFfCGQaBNgqERAcQg) | 2:58 | 2024-05-10 |  |
 | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/track/35ngbRAZzlyKxFwrt119nE) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [新川崎（仮） ボイスメッセージ](https://open.spotify.com/album/2l6eJUlIyv9YUdJVVqzEza) | 0:28 | 2024-05-03 |  |

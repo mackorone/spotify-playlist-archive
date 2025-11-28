@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Anna Vissi",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Antonis Remos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 161994,
       "name": "Anexartiti",
       "url": "https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy"
@@ -344,6 +344,24 @@
       "duration_ms": 169813,
       "name": "Anexartiti - Live Version",
       "url": "https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT"
+    },
+    {
+      "album": {
+        "name": "Antras Einai Tha Perasei",
+        "url": "https://open.spotify.com/album/1Yv7ZFVLW9H9MkQwAo2lhS"
+      },
+      "artists": [
+        {
+          "name": "Christina Salti",
+          "url": "https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223598,
+      "name": "Antras Einai Tha Perasei",
+      "url": "https://open.spotify.com/track/1CmIyXdvWOLfvjiqm9Q2Id"
     },
     {
       "album": {
@@ -626,6 +644,24 @@
       "duration_ms": 234973,
       "name": "Den Vazo Ego Myalo / Kathe Vrady / Alli San Emena / Lipstick - Live Medley",
       "url": "https://open.spotify.com/track/5yf0wwuvvKIP5OtNTADlim"
+    },
+    {
+      "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
     },
     {
       "album": {
@@ -1069,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/00jnFAWFtvv3CHz69apq2p"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Bobito",
+          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/4B3v4VfWLjoqXNXpcTN9De"
+    },
+    {
+      "album": {
         "name": "Ferte Tin Piso",
         "url": "https://open.spotify.com/album/12AJK5voCX09GdZGXHt3Bp"
       },
@@ -1454,6 +1512,28 @@
       "duration_ms": 223590,
       "name": "Isitirio Ena",
       "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
+    },
+    {
+      "album": {
+        "name": "Kala Na Pernate",
+        "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186428,
+      "name": "Kala Na Pernate",
+      "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
     },
     {
       "album": {
@@ -2048,6 +2128,24 @@
       "duration_ms": 210007,
       "name": "Me Sighorite",
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+    },
+    {
+      "album": {
+        "name": "Mehri Ekei Mporouses",
+        "url": "https://open.spotify.com/album/6eZt2m8WCulC5a8os4t3Av"
+      },
+      "artists": [
+        {
+          "name": "Christos Menidiatis",
+          "url": "https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Mehri Ekei Mporouses",
+      "url": "https://open.spotify.com/track/39lsVJbQYEl8RXHdTln9K8"
     },
     {
       "album": {
@@ -2904,7 +3002,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -2962,7 +3060,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 219823,
       "name": "Psemata",
       "url": "https://open.spotify.com/track/57oG2z9WHnenuZocjynJgx"
@@ -3324,7 +3422,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 217733,
       "name": "Simera - Unplugged",
       "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
@@ -4026,7 +4124,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 207556,
       "name": "To Vale",
       "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"

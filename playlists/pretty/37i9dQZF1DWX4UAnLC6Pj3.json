@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! El Komander \ud83d\udcf8",
-  "num_followers": 1283844,
+  "num_followers": 1284222,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Mi Carnal",
-        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
+        "name": "Mi Primer D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
       },
       "artists": [
         {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 168679,
-      "name": "Mi Carnal",
-      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
+      "duration_ms": 190876,
+      "name": "Mi Primer D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -531,18 +531,18 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Mi Primer D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/0tQfgcjum8RhiYhMEAsil5"
+        "name": "Mi Carnal",
+        "url": "https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
         }
       ],
-      "duration_ms": 190876,
-      "name": "Mi Primer D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/5aqdKsrmMcyN8KnHxiCbYb"
+      "duration_ms": 168679,
+      "name": "Mi Carnal",
+      "url": "https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -703,38 +703,6 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Quieras o No Quieras",
-        "url": "https://open.spotify.com/album/0TLC5gp2A7E7h8hJJB7wvs"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "Quieras o No Quieras",
-      "url": "https://open.spotify.com/track/1sBdYadWVLFk68d0NHUbsZ"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
-        "name": "Retiro Lo Dicho",
-        "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 159795,
-      "name": "Retiro Lo Dicho",
-      "url": "https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
         "name": "Cu\u00e9ntame (En Vivo)",
         "url": "https://open.spotify.com/album/6bPEtlB3uOr4CYeLnYVeRF"
       },
@@ -755,6 +723,38 @@
       "duration_ms": 230193,
       "name": "Cu\u00e9ntame (En Vivo)",
       "url": "https://open.spotify.com/track/0SPAv2CSwbGILkpjjFCzzk"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
+        "name": "Retiro Lo Dicho",
+        "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 159795,
+      "name": "Retiro Lo Dicho",
+      "url": "https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
+        "name": "Quieras o No Quieras",
+        "url": "https://open.spotify.com/album/0TLC5gp2A7E7h8hJJB7wvs"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "Quieras o No Quieras",
+      "url": "https://open.spotify.com/track/1sBdYadWVLFk68d0NHUbsZ"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "42 18",
-        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
+        "name": "Rezo",
+        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
       },
       "artists": [
         {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 138618,
-      "name": "Atento Aviso",
-      "url": "https://open.spotify.com/track/0l9aROuLvqSQeIpYMNlOjn"
+      "duration_ms": 167625,
+      "name": "Rezo",
+      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Rezo",
-        "url": "https://open.spotify.com/album/7wLXaR7tSW2ezz3J4kGPsV"
+        "name": "42 18",
+        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 167625,
-      "name": "Rezo",
-      "url": "https://open.spotify.com/track/3y7ucSOHDjZxCGmy8VJNvs"
+      "duration_ms": 138618,
+      "name": "Atento Aviso",
+      "url": "https://open.spotify.com/track/0l9aROuLvqSQeIpYMNlOjn"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Caballo Robado",
-        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 118816,
-      "name": "Caballo Robado",
-      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
         "name": "Evoluci\u00f3n",
         "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 197000,
       "name": "La Vida Es Pa'Gozarla",
       "url": "https://open.spotify.com/track/3xTxEPMbPbzsibWUYjvHAX"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
+        "name": "Caballo Robado",
+        "url": "https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 118816,
+      "name": "Caballo Robado",
+      "url": "https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Antes y Ahora (35 Aniversario)",
-        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 197283,
-      "name": "Cu\u00eddala",
-      "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
         "name": "Una Historia Mal Contada",
         "url": "https://open.spotify.com/album/1c5s1qPvOzfr7juhnrpL1x"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 197283,
+      "name": "Cu\u00eddala",
+      "url": "https://open.spotify.com/track/1Cson7dXFpYWPQiFabo7YH"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
         "name": "Grandes \u00c9xitos Remasterizado",
         "url": "https://open.spotify.com/album/1R3MrnO5mAyt1tpeTADWAU"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 212042,
       "name": "Mi Mayor Anhelo - REMASTERIZADO",
       "url": "https://open.spotify.com/track/2QD6LmH6BlOIZcYJicY6ZF"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
+        "name": "Aunque Tiren Hate",
+        "url": "https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "Aunque Tiren Hate",
+      "url": "https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -1295,22 +1311,6 @@
       "duration_ms": 221578,
       "name": "YA VALI\u00d3",
       "url": "https://open.spotify.com/track/6qWCZ3lMArAj37bWeeX4tf"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
-        "name": "Aunque Tiren Hate",
-        "url": "https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "Aunque Tiren Hate",
-      "url": "https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Aunque No Sea Conmigo",
-        "url": "https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA"
-      },
-      "artists": [
-        {
-          "name": "Punto Final",
-          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Aunque No Sea Conmigo",
-      "url": "https://open.spotify.com/track/0giKaADapSeNCbNsQH93Ju"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
         "name": "Una Historia Mal Contada",
         "url": "https://open.spotify.com/album/5lYcalORluIjuBEKJflc88"
       },
@@ -1407,6 +1387,26 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
+        "name": "Aunque No Sea Conmigo",
+        "url": "https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA"
+      },
+      "artists": [
+        {
+          "name": "Punto Final",
+          "url": "https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Aunque No Sea Conmigo",
+      "url": "https://open.spotify.com/track/0giKaADapSeNCbNsQH93Ju"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
         "name": "Si No Contesto Tus Llamadas",
         "url": "https://open.spotify.com/album/250dxqVo5VE8BVnK6wUtet"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 204966,
       "name": "Si No Contesto Tus Llamadas",
       "url": "https://open.spotify.com/track/6QRdzKfmvrUNen0uPtDWVo"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
-        "name": "Antes y Ahora (35 Aniversario)",
-        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "Mi Persona Especial",
-      "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 158122,
+      "name": "Mi Persona Especial",
+      "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
         "name": "Una Mala Racha",
         "url": "https://open.spotify.com/album/2F0PcwL4DtG0DYf72qzJtS"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 198388,
       "name": "Una Mala Racha",
       "url": "https://open.spotify.com/track/0Cdu6WItABdMadq2CzNtN8"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
-        "name": "Antes y Ahora (35 Aniversario)",
-        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 203096,
-      "name": "Como La Palma De Mi Mano",
-      "url": "https://open.spotify.com/track/5hAdvuDvNXJtPinXBIT4nc"
     },
     {
       "added_at": "2025-11-14 15:50:05",
@@ -1595,6 +1579,22 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 203096,
+      "name": "Como La Palma De Mi Mano",
+      "url": "https://open.spotify.com/track/5hAdvuDvNXJtPinXBIT4nc"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/1AAAdHHXc3qD0gjyjjrVtw"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-11-14 15:50:05",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 148599,
-      "name": "La Cuichi - En Vivo",
-      "url": "https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf"
-    },
-    {
-      "added_at": "2025-11-14 15:50:05",
-      "album": {
         "name": "El Vestido",
         "url": "https://open.spotify.com/album/1eaLLDMBqTwyiCAsPKQr1Q"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 145167,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/0pCch1eHrjCXON48LoZDCY"
+    },
+    {
+      "added_at": "2025-11-14 15:50:05",
+      "album": {
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 148599,
+      "name": "La Cuichi - En Vivo",
+      "url": "https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf"
     },
     {
       "added_at": "2025-11-14 15:50:05",

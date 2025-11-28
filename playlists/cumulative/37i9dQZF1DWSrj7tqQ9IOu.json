@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Heroe",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Odetto",
   "name": "Made in France",
   "tracks": [
     {
@@ -721,6 +721,28 @@
     },
     {
       "album": {
+        "name": "Appel de d\u00e9tresse (feat. poissonchat)",
+        "url": "https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        },
+        {
+          "name": "poissonchat",
+          "url": "https://open.spotify.com/artist/064Ut5t9PvMeuGfKiprmZA"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156736,
+      "name": "Appel de d\u00e9tresse (feat. poissonchat)",
+      "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
+    },
+    {
+      "album": {
         "name": "Appetizers",
         "url": "https://open.spotify.com/album/5J6A3C8tve2lfP0k7JqEYy"
       },
@@ -790,6 +812,24 @@
       "duration_ms": 183480,
       "name": "Arrivera",
       "url": "https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG"
+    },
+    {
+      "album": {
+        "name": "Arr\u00eate de dire que tu m'aimes",
+        "url": "https://open.spotify.com/album/0TgiGvgUxogzbm9MQW8J0f"
+      },
+      "artists": [
+        {
+          "name": "ELIAH",
+          "url": "https://open.spotify.com/artist/4G5kAQDLkKwA8qk5KQvXCs"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167807,
+      "name": "Arr\u00eate de dire que tu m'aimes",
+      "url": "https://open.spotify.com/track/4BpZJSeP9RyoOCja7mqa2q"
     },
     {
       "album": {
@@ -1492,7 +1532,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 226600,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/70YFYf4eukW4P25PxFF4Oe"
@@ -2336,7 +2376,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 129679,
       "name": "Comme par magie",
       "url": "https://open.spotify.com/track/0ItWSlfkwsW3n1Rykf4XoK"
@@ -3816,7 +3856,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 177194,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/7dTZ0dEnpFed6ohli3g5NE"
@@ -4336,6 +4376,24 @@
       "duration_ms": 165742,
       "name": "Futurisme",
       "url": "https://open.spotify.com/track/0ZuqDR3Yl6UqyNJRZ4DT2o"
+    },
+    {
+      "album": {
+        "name": "F\u0101faru",
+        "url": "https://open.spotify.com/album/6aRSZiyNheI7VpXn8I5RSe"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "F\u0101faru",
+      "url": "https://open.spotify.com/track/78dL5kgguZUuuhywYdJ7sU"
     },
     {
       "album": {
@@ -7464,7 +7522,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 173680,
       "name": "Lonestar",
       "url": "https://open.spotify.com/track/2PKMshAIk4X87ribaota1Y"
@@ -13952,6 +14010,24 @@
       "duration_ms": 160021,
       "name": "YOU",
       "url": "https://open.spotify.com/track/2Gau4oIYKr8ZHQhbx02Q6c"
+    },
+    {
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/7mOkW1xkEFjnTfF0FiZMMn"
+      },
+      "artists": [
+        {
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183197,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5laOXHixUUQpb8k1piJOpH"
     },
     {
       "album": {

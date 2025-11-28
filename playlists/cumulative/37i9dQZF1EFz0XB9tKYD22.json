@@ -712,6 +712,24 @@
     {
       "album": {
         "name": "firstborn",
+        "url": "https://open.spotify.com/album/0fLfQ7ZAtf5oZN4Ku61wyV"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157257,
+      "name": "boy crazy.",
+      "url": "https://open.spotify.com/track/0w5kNjJnZeSincUoJKUkFq"
+    },
+    {
+      "album": {
+        "name": "firstborn",
         "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
       },
       "artists": [
@@ -722,7 +740,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 157257,
       "name": "boy crazy.",
       "url": "https://open.spotify.com/track/5JVTQ9BlW479QIzY6jrR8Y"
@@ -4858,6 +4876,24 @@
     {
       "album": {
         "name": "Real Talk",
+        "url": "https://open.spotify.com/album/0HrllaJBNh6palq7JyRGRp"
+      },
+      "artists": [
+        {
+          "name": "Angie K",
+          "url": "https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186124,
+      "name": "Real Talk",
+      "url": "https://open.spotify.com/track/6XfnCGAaNjvmUHClivmzGj"
+    },
+    {
+      "album": {
+        "name": "Real Talk",
         "url": "https://open.spotify.com/album/3siJExEI1ib1c1gUqjwqFa"
       },
       "artists": [
@@ -4868,7 +4904,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 186124,
       "name": "Real Talk",
       "url": "https://open.spotify.com/track/7wTu1LogP8hGm0wYoiS73m"
@@ -6502,6 +6538,28 @@
     {
       "album": {
         "name": "Make the Night Better",
+        "url": "https://open.spotify.com/album/173y9vhUJAsMd0PFiiwaQH"
+      },
+      "artists": [
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        },
+        {
+          "name": "Channing Wilson",
+          "url": "https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193906,
+      "name": "Things People Say",
+      "url": "https://open.spotify.com/track/55QW26ikNMendSkGIkTUIX"
+    },
+    {
+      "album": {
+        "name": "Make the Night Better",
         "url": "https://open.spotify.com/album/1GMlTB5tGa6uWMtClk8ek9"
       },
       "artists": [
@@ -6516,7 +6574,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 193906,
       "name": "Things People Say (feat. Channing Wilson)",
       "url": "https://open.spotify.com/track/4mG8EKRuHWXhOxmyqC3cwL"
@@ -7760,10 +7818,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 161115,
       "name": "younger woman.",
       "url": "https://open.spotify.com/track/03VJe5qSJ9IdUVA97dQzVk"
+    },
+    {
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0fLfQ7ZAtf5oZN4Ku61wyV"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161115,
+      "name": "younger woman.",
+      "url": "https://open.spotify.com/track/0SLr5wO1nv0Qh7W9hqAVau"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFz0XB9tKYD22"

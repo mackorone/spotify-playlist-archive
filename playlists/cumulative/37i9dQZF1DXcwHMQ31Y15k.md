@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Vadesta
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Sleman Receh
 
-554 songs - 1 day 22 hr 25 min
+557 songs - 1 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abadi \- Dangdut Version](https://open.spotify.com/track/3BDmcNJKjZtwaYUEo0FE96) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Abadi \(Dangdut Version\)](https://open.spotify.com/album/0k9lghtcfPTZukrevsgb9f) | 5:30 | 2023-12-08 | 2024-04-19 |
 | [Aduh Biyung \- From "Cidro Asmoro"](https://open.spotify.com/track/3cXIS43BQZtXN9CBe7s2di) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Aduh Biyung \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3OOjxTTOLXt4OodeL9jJ9A) | 4:15 | 2022-05-26 | 2023-07-14 |
 | [AJKS \- Remastered 2025](https://open.spotify.com/track/4KEwu9qvVd97MuEa8DAfPf) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [AJKS \(Remastered 2025\)](https://open.spotify.com/album/1XZxycYCdRzZOyUTRkbVen) | 4:32 | 2025-02-07 | 2025-03-21 |
+| [Ajur](https://open.spotify.com/track/3xKvaef3MTIy1HLiARUCa4) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Ajur](https://open.spotify.com/album/2xj30sMia50aGitejKMDPy) | 5:16 | 2025-11-27 |  |
 | [Akhire Bali](https://open.spotify.com/track/1npk1egEshawzhe82opVMf) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Akhire Bali](https://open.spotify.com/album/4V61bFywMcCXHqy31ljAzr) | 4:49 | 2024-05-16 | 2024-12-13 |
 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 | 2022-05-26 | 2023-08-11 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/6rKydpFW3QTBu172RRFkKS) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Aku Bukan Jodohnya](https://open.spotify.com/album/0Qsx7ZYhN4O64h8rSO1H94) | 5:38 | 2022-05-26 | 2023-08-11 |
@@ -226,6 +227,7 @@
 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 | 2022-08-25 | 2023-08-11 |
 | [Kukuh](https://open.spotify.com/track/6xys78WshU3lJfgxcUjhPf) | [Fahri Khusnara](https://open.spotify.com/artist/4gjln35Zi7gzL8ppaSC3CQ) | [Kukuh](https://open.spotify.com/album/0k8K1HwnMzksAzKq86LSNO) | 3:25 | 2024-02-09 | 2024-05-24 |
 | [Kurangku Opo](https://open.spotify.com/track/5v2gEm7WZNJChdoNqgGSxA) | [Ronda Genk](https://open.spotify.com/artist/67H1jUlHffu3RzhSAWRl7z) | [Kurangku Opo](https://open.spotify.com/album/5rCg6XiVS9xmBiUEoYn0Dq) | 6:28 | 2023-08-11 | 2023-12-09 |
+| [Kusuma Nala](https://open.spotify.com/track/0zmQTTdb4du9W5AYltC1FW) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusuma Nala](https://open.spotify.com/album/3Ya3nTreVzuhYFowsZRyrB) | 4:39 | 2025-11-27 |  |
 | [KUSUMA WIJAYA](https://open.spotify.com/track/7h0nQqI84EJY26MHLcxmJo) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [KUSUMA WIJAYA](https://open.spotify.com/album/7DVQMP1SL0rPn2t8xyRFqa) | 4:28 | 2025-07-10 |  |
 | [Kusuma Wijaya](https://open.spotify.com/track/7MxbEurwntwBuKkrB6NWhP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Rendra Kemana](https://open.spotify.com/artist/4eFgg8WNsB2mmjYmWEPFok) | [Kusuma Wijaya](https://open.spotify.com/album/6IVXAj9J4rbHmD5QQL6wqc) | 4:31 | 2025-11-21 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 | 2023-08-11 |
@@ -365,6 +367,7 @@
 | [Pangestu](https://open.spotify.com/track/3wBWUVz2PJCQN4PETCb6x9) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Pangestu](https://open.spotify.com/album/1R1HP9hiqJ6QsYpxuHZepL) | 4:51 | 2023-08-17 | 2024-03-15 |
 | [Pasukan Anti Prei](https://open.spotify.com/track/0dsFfIJm5bnQJFcSprA9DN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pasukan Anti Prei](https://open.spotify.com/album/3S9MsMqFeQaov7XIsVVfm8) | 4:30 | 2024-06-13 | 2024-06-14 |
 | [Patgulipat](https://open.spotify.com/track/5WEDt9oj53o10BovgXzA3S) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Patgulipat](https://open.spotify.com/album/6UImQ86mpuiIJA5QwZf3iM) | 4:59 | 2025-10-02 |  |
+| [Patgulipat](https://open.spotify.com/track/09jLDPSQHQ6FJCYld8xTQI) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Sasya Arkhisna](https://open.spotify.com/artist/7lI4C2dx9SKfc3DD4zzkXA) | [Patgulipat](https://open.spotify.com/album/4v7dK7sRvvfxCZqjMFHyhF) | 4:59 | 2025-11-27 |  |
 | [Pedhot Janji](https://open.spotify.com/track/2Z8sz5V61e7mUQHl7WTP69) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Pedhot Janji](https://open.spotify.com/album/3YnvGg3QhzKyYE733kw6fu) | 6:15 | 2022-05-26 | 2023-08-11 |
 | [Pelaku Macak Korban](https://open.spotify.com/track/0tZQUbI9L0LsjkEO79wEtL) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pelaku Macak Korban](https://open.spotify.com/album/1gBHTUfYC4O9pfaEn7Kh69) | 5:14 | 2023-09-07 | 2024-10-11 |
 | [Pelaku Macak Korban](https://open.spotify.com/track/1l5Vdl7NeeR1kRYMLR4rKg) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Pelaku Macak Korban](https://open.spotify.com/album/0CU4ITSBkNCl9kD9EPENCp) | 5:14 | 2023-12-08 | 2024-04-19 |

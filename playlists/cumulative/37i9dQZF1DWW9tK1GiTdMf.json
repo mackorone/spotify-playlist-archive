@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un'estate non proprio felice (blanco in cover)",
+  "description": "musica per un autunno non proprio felice (Naska in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 145846,
       "name": "ANNI LUCE",
       "url": "https://open.spotify.com/track/0wIaGZQCRTYCZIByeC4JOi"
@@ -4421,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/4BQ7qrhzj0wUcO0TjL5LfM"
+      },
+      "artists": [
+        {
+          "name": "Fiks",
+          "url": "https://open.spotify.com/artist/2o6oF1x3tWoVUXb4C4NHze"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165977,
+      "name": "Caos",
+      "url": "https://open.spotify.com/track/3QiMcjKCX7CKU5ytj4UfAQ"
+    },
+    {
+      "album": {
         "name": "CAPOLAVORO",
         "url": "https://open.spotify.com/album/7uQQpjGiucTujRmX6uc5TM"
       },
@@ -4911,6 +4929,28 @@
     },
     {
       "album": {
+        "name": "Chemmifai",
+        "url": "https://open.spotify.com/album/2pa0sCgvd78uXaWc1fwlJf"
+      },
+      "artists": [
+        {
+          "name": "Tommy Indaco",
+          "url": "https://open.spotify.com/artist/7k5IhSViCRasY6a7LWhgx5"
+        },
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149769,
+      "name": "Chemmifai",
+      "url": "https://open.spotify.com/track/6Zh2mpvoiMSCg5HDfSplyl"
+    },
+    {
+      "album": {
         "name": "Nil il coniglio",
         "url": "https://open.spotify.com/album/2Z0zIxJid4ELsikOwDeMQe"
       },
@@ -5282,6 +5322,24 @@
       "duration_ms": 131937,
       "name": "club heaven",
       "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
+    },
+    {
+      "album": {
+        "name": "Deutsches Baby",
+        "url": "https://open.spotify.com/album/4h2hTMxfkH9icr8OTGJW5I"
+      },
+      "artists": [
+        {
+          "name": "Clam\u00f6",
+          "url": "https://open.spotify.com/artist/3NHMeAt6gT8bx5Pru8n1jR"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150374,
+      "name": "Cl\u00fcb",
+      "url": "https://open.spotify.com/track/5O7qAP7fz8jE8gzpgVrjST"
     },
     {
       "album": {
@@ -5904,6 +5962,24 @@
       "duration_ms": 201765,
       "name": "Coriandoli",
       "url": "https://open.spotify.com/track/6C1uD9cgn0bck2HDxofQQd"
+    },
+    {
+      "album": {
+        "name": "CORRERE",
+        "url": "https://open.spotify.com/album/6EUVMeCo2ekLi1q5k9a3Cj"
+      },
+      "artists": [
+        {
+          "name": "v!ktoria",
+          "url": "https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202980,
+      "name": "CORRERE",
+      "url": "https://open.spotify.com/track/6IQLKuqBX2pyPWlpRunZtF"
     },
     {
       "album": {
@@ -8446,7 +8522,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 147360,
       "name": "DOVEVO PENSARTI DI PI\u00d9",
       "url": "https://open.spotify.com/track/2QSIHWhzXA96HJLn96Asbb"
@@ -9843,6 +9919,24 @@
     },
     {
       "album": {
+        "name": "Favola",
+        "url": "https://open.spotify.com/album/00JtOxPVWh6DtrBYUIZeT8"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157407,
+      "name": "Favola",
+      "url": "https://open.spotify.com/track/4hibXjoxoVQueVeBY3b3NU"
+    },
+    {
+      "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/37PmLgUh4GAogBMMvoISaM"
       },
@@ -10510,6 +10604,28 @@
       "duration_ms": 154410,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/0xEyFahNuXpr6uqUbk7J9i"
+    },
+    {
+      "album": {
+        "name": "Fragile (feat. Briga)",
+        "url": "https://open.spotify.com/album/3kaV6znKa7Loqzo4bZiYOy"
+      },
+      "artists": [
+        {
+          "name": "Cyrus",
+          "url": "https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH"
+        },
+        {
+          "name": "Briga",
+          "url": "https://open.spotify.com/artist/4FTMyLkoEE9oEUpCv3Dr4p"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161367,
+      "name": "Fragile (feat. Briga)",
+      "url": "https://open.spotify.com/track/62s1JAoAUeYvzt5NZViCa1"
     },
     {
       "album": {
@@ -11466,7 +11582,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 169700,
       "name": "GI\u00d9!",
       "url": "https://open.spotify.com/track/0Trt1tXofZ5Z8QG15m672A"
@@ -13256,6 +13372,24 @@
       "duration_ms": 172500,
       "name": "inetto",
       "url": "https://open.spotify.com/track/5FpevBXTDQnLVg7KrMlJOJ"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/2zWnq7RGa9BHUyI95tqgh2"
+      },
+      "artists": [
+        {
+          "name": "Gard",
+          "url": "https://open.spotify.com/artist/25p6aXpMXAHmFj2jkukiVo"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177341,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/1YN28T5aXKcbQT54ICPiVx"
     },
     {
       "album": {
@@ -15896,7 +16030,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 148196,
       "name": "l\u2019ultimo fiato",
       "url": "https://open.spotify.com/track/5Cxk8X9wrY6ddomyX6cxGj"
@@ -16992,6 +17126,32 @@
       "duration_ms": 187600,
       "name": "miss u ;(",
       "url": "https://open.spotify.com/track/3QTuUPE9s0GeMRFvikSsb7"
+    },
+    {
+      "album": {
+        "name": "IL SECONDO DISCO EMOSESSUALE",
+        "url": "https://open.spotify.com/album/53BfhgZuB3dQVeTOxqdX4o"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ugo",
+          "url": "https://open.spotify.com/artist/7uEtBgdrg5MIlcoE4IhZ5H"
+        },
+        {
+          "name": "Zame",
+          "url": "https://open.spotify.com/artist/5NNSuHiLUgKjKVlEcB5Zdb"
+        },
+        {
+          "name": "The\u00f8",
+          "url": "https://open.spotify.com/artist/46zGU1FOSsPBXb1csAeMJd"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157439,
+      "name": "MITRA DI KUROMI (feat. The\u00f8)",
+      "url": "https://open.spotify.com/track/5bPw8gxkbQmfuOv5Do1Deo"
     },
     {
       "album": {
@@ -20258,7 +20418,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 154285,
       "name": "perch\u00e8 amo persone ke non mi amano ??",
       "url": "https://open.spotify.com/track/2UDkhQ39jU2BIigFBWcGjk"
@@ -22360,7 +22520,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 148750,
       "name": "RAPPUNK BABY",
       "url": "https://open.spotify.com/track/56gT3ePqyoHKtx8KWnK3u6"
@@ -24022,7 +24182,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 186461,
       "name": "Sempre noi",
       "url": "https://open.spotify.com/track/25Qy4fpeZW6YMKqVCDJZdV"
@@ -24784,7 +24944,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 140126,
       "name": "SKINWALKER",
       "url": "https://open.spotify.com/track/6A4zUWwVWfVG358ayPE8Gd"
@@ -25376,7 +25536,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 169714,
       "name": "sotto xan",
       "url": "https://open.spotify.com/track/7BfKvlQp2FYJMwDZL15PUu"
@@ -26710,7 +26870,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 169565,
       "name": "stupido e facile",
       "url": "https://open.spotify.com/track/3ZZcoJMcgDGAp6vKFYRYHU"
@@ -29514,7 +29674,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 155347,
       "name": "vampire diaries",
       "url": "https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ"
@@ -29840,6 +30000,24 @@
       "duration_ms": 189500,
       "name": "Vetri rotti",
       "url": "https://open.spotify.com/track/74Ulr6XJ8kNkbaa7mLEDM6"
+    },
+    {
+      "album": {
+        "name": "via lattea",
+        "url": "https://open.spotify.com/album/5KPeMhhOL0FQkeOLslwyCG"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191871,
+      "name": "via lattea",
+      "url": "https://open.spotify.com/track/5CaOMx5BqJmaSDiT5dYUwe"
     },
     {
       "album": {

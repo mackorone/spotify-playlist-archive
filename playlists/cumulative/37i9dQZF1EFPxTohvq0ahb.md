@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-181 songs - 10 hr 33 min
+182 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Hey Mama \(feat\. Nicki Minaj, Bebe Rexha & Afrojack\)](https://open.spotify.com/track/285HeuLxsngjFn4GGegGNm) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Listen](https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu) | 3:12 | 2023-12-30 |  |
 | [Hit It From The Back](https://open.spotify.com/track/68Ghe54c1dBAD3ygRW5IKR) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:28 | 2023-12-30 |  |
 | [Hot Tottie \(feat\. JAY\-Z\)](https://open.spotify.com/track/1Vot6YSxInL52SGTN0XN9n) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Raymond v Raymond \(Expanded Edition\)](https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX) | 4:59 | 2025-01-09 | 2025-04-12 |
-| [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/0cIzKcSr6dWw0su2ZBCTcQ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:47 | 2023-12-30 |  |
+| [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/0cIzKcSr6dWw0su2ZBCTcQ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:47 | 2023-12-30 | 2025-11-28 |
+| [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/6zteHvoa7AnyI9gjeRT49R) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/4HDfCzEnRIIbxurbkdBjxM) | 2:47 | 2025-11-27 |  |
 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 | 2023-12-30 |  |
 | [I Am](https://open.spotify.com/track/0a4HnQAiD08Yg8z30yfPhI) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2iy4MXWRu0roV5N7u2GBZk) | 3:23 | 2025-01-09 | 2025-04-12 |
 | [I Hate Boys](https://open.spotify.com/track/2MzmobpruYSw7n93RdEWGU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 2:24 | 2025-01-09 | 2025-04-12 |

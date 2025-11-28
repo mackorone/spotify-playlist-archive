@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,672 songs - 4 day 5 hr 54 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,674 songs - 4 day 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1680,5 +1680,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1670 | [SANPO](https://open.spotify.com/track/0iF1OTM8gKRmN2IiFzWV8F) | [RAS TAMANO](https://open.spotify.com/artist/4yOfZvC32oEIseTaawz38b), [DAHBORS](https://open.spotify.com/artist/20aCe88nAWk6yealnABwKr) | [SANPO](https://open.spotify.com/album/2VSLs9f2MV45VPmlipsCJK) | 5:23 |
 | 1671 | [Шёлковые волосы](https://open.spotify.com/track/2WXaVPdq505D3bGJ3sTmxY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:49 |
 | 1672 | [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 |
+| 1673 | [Montana](https://open.spotify.com/track/6uhjgTj3Pm10Y1LxU9iCWg) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 2:26 |
+| 1674 | [Art School Dropout](https://open.spotify.com/track/4GOnSEpWwueDwVHDhYzGpN) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 1:54 |
 
-Snapshot ID: `AAAHbPXfcRcwk3RT8CFKhmAeOghYzizX`
+Snapshot ID: `AAAHbj6r6Ypnnuzm64Lxj4EZWW0mrpGd`

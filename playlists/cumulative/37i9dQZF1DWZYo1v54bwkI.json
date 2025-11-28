@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Concurrence of Circumstances",
+        "url": "https://open.spotify.com/album/2Io2ZirJB2IoG0MdCVlDxa"
+      },
+      "artists": [
+        {
+          "name": "Altered Source",
+          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188429,
+      "name": "A Concurrence of Circumstances",
+      "url": "https://open.spotify.com/track/4PkDnjmRqTZ76XvVNcRVD6"
+    },
+    {
+      "album": {
         "name": "A Day By The Sea",
         "url": "https://open.spotify.com/album/7D3GuuvNP5IwTYwZcN1g5j"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 163500,
       "name": "Aetherwind",
       "url": "https://open.spotify.com/track/6iNp8YUEpIFkb8AtpbTURR"
+    },
+    {
+      "album": {
+        "name": "Afterlight Currents",
+        "url": "https://open.spotify.com/album/7dFbNgE13HWNGj2tbFBJ0K"
+      },
+      "artists": [
+        {
+          "name": "Moonhollow",
+          "url": "https://open.spotify.com/artist/5TCX73zuagMTEspzIPo64v"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Afterlight Currents",
+      "url": "https://open.spotify.com/track/5ekPyUC2lEuFur6McCDhJ6"
     },
     {
       "album": {
@@ -833,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Beyond Mist",
+        "url": "https://open.spotify.com/album/0XyQDQjMcOfqH53i6P3MJs"
+      },
+      "artists": [
+        {
+          "name": "Sable Flo",
+          "url": "https://open.spotify.com/artist/4NdrRY3LXVcLpGbQR1IHTb"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133154,
+      "name": "Beyond Mist",
+      "url": "https://open.spotify.com/track/5cwO9cfHua0QUEArBKMEic"
+    },
+    {
+      "album": {
         "name": "Beyond Whispers",
         "url": "https://open.spotify.com/album/55c4EEeLtnSx4pvGt0X53O"
       },
@@ -884,6 +938,24 @@
       "duration_ms": 177306,
       "name": "Blomma",
       "url": "https://open.spotify.com/track/3p8KyONFH0lT1dpmclxtWW"
+    },
+    {
+      "album": {
+        "name": "Blooming Echoes",
+        "url": "https://open.spotify.com/album/1oxuD5SXHg9UpDUfYFFchS"
+      },
+      "artists": [
+        {
+          "name": "Kuyenao",
+          "url": "https://open.spotify.com/artist/6iOvRGmfeqxfjqNRDboCsp"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184565,
+      "name": "Blooming Echoes",
+      "url": "https://open.spotify.com/track/4viR2SLbenibVSGnAXSX6U"
     },
     {
       "album": {
@@ -1625,6 +1697,24 @@
     },
     {
       "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/2cliPJVgh6lO5bhZ5p2eOu"
+      },
+      "artists": [
+        {
+          "name": "Placidous",
+          "url": "https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/4UXJh1M2nrMNmWuxo8XUBR"
+    },
+    {
+      "album": {
         "name": "Cosmosis",
         "url": "https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY"
       },
@@ -2057,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "Doranel",
+        "url": "https://open.spotify.com/album/75gC1hkqjMKELNYCM7PsVK"
+      },
+      "artists": [
+        {
+          "name": "isp\u00edritu",
+          "url": "https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Doranel",
+      "url": "https://open.spotify.com/track/4oh4PhqhD5RXqDytBqyviM"
+    },
+    {
+      "album": {
         "name": "Down Time",
         "url": "https://open.spotify.com/album/4PJI6SUXMzhcfvNiCMA1KP"
       },
@@ -2140,7 +2248,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 209009,
       "name": "Dream Observatory",
       "url": "https://open.spotify.com/track/0BFG5pigu7WaI7miHK842J"
@@ -2288,6 +2396,24 @@
       "duration_ms": 132427,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
+    },
+    {
+      "album": {
+        "name": "duskfall",
+        "url": "https://open.spotify.com/album/1GNOZyGI86nC9TgpueQ4u3"
+      },
+      "artists": [
+        {
+          "name": "Sadeus",
+          "url": "https://open.spotify.com/artist/7wjiArI4cFYyXcvhRNbeqd"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "duskfall",
+      "url": "https://open.spotify.com/track/28u3373JgyCCgOsXmBEw5J"
     },
     {
       "album": {
@@ -2867,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Evening Calm",
+        "url": "https://open.spotify.com/album/6p23kqOEXsAFxQfo0v5ob2"
+      },
+      "artists": [
+        {
+          "name": "CasaLuna",
+          "url": "https://open.spotify.com/artist/0wvFWLMg51zluEhULcJAIY"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173351,
+      "name": "Evening Calm",
+      "url": "https://open.spotify.com/track/6SSqT3IAPqJdCMnHq9XXPQ"
+    },
+    {
+      "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/4TUwOxdXZ2us91xt8IcHLW"
       },
@@ -3263,6 +3407,24 @@
     },
     {
       "album": {
+        "name": "From Another Spectra",
+        "url": "https://open.spotify.com/album/11OgHZF80GDqrAhOrMSVxh"
+      },
+      "artists": [
+        {
+          "name": "Astra Sky",
+          "url": "https://open.spotify.com/artist/3VpKQ8XUwdGp6vQ5QQ3ZbP"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154564,
+      "name": "From Another Spectra",
+      "url": "https://open.spotify.com/track/1WQwNLDdOIFtvNOmv3h97r"
+    },
+    {
+      "album": {
         "name": "From near to far",
         "url": "https://open.spotify.com/album/1F3F1RdfckM4x6e9IMuu21"
       },
@@ -3353,6 +3515,24 @@
     },
     {
       "album": {
+        "name": "Glass Moons, Quiet Orbits",
+        "url": "https://open.spotify.com/album/6oMyrPpbGBK7nRQe4rW0l2"
+      },
+      "artists": [
+        {
+          "name": "Sasha Coleman",
+          "url": "https://open.spotify.com/artist/48h7ZhLv7ZR1D1HFUcA7oO"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185425,
+      "name": "Glass Moons, Quiet Orbits",
+      "url": "https://open.spotify.com/track/0d4ze2bJH7jX3s1kOo6V9g"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
       },
@@ -3404,6 +3584,24 @@
       "duration_ms": 193714,
       "name": "Green Hills",
       "url": "https://open.spotify.com/track/7CMjapGW35s2nSmXO8mB6W"
+    },
+    {
+      "album": {
+        "name": "Halcyon Lull",
+        "url": "https://open.spotify.com/album/5NT5ZQZkIwoMLCV1kzJczq"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157375,
+      "name": "Halcyon Lull",
+      "url": "https://open.spotify.com/track/2jYugYwdC575s7OiijZtG8"
     },
     {
       "album": {
@@ -3627,6 +3825,24 @@
     },
     {
       "album": {
+        "name": "Hot Stones",
+        "url": "https://open.spotify.com/album/0ImEt6IJlFREF4KtRFGDyq"
+      },
+      "artists": [
+        {
+          "name": "Sanyelle",
+          "url": "https://open.spotify.com/artist/0WaclwFRHRJfNNt4iQ2I3l"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142013,
+      "name": "Hot Stones",
+      "url": "https://open.spotify.com/track/4uaAFNUiev2iJuzm9ytKWQ"
+    },
+    {
+      "album": {
         "name": "Huzurlu",
         "url": "https://open.spotify.com/album/4vsCehW0aBcrsCeTWodFYa"
       },
@@ -3768,6 +3984,24 @@
       "duration_ms": 158000,
       "name": "Inbound Travel",
       "url": "https://open.spotify.com/track/66ValTJ35fb3OkUopJYhJB"
+    },
+    {
+      "album": {
+        "name": "Infinite Ascent",
+        "url": "https://open.spotify.com/album/0OyMtZ3E589uLOAdIU9cF4"
+      },
+      "artists": [
+        {
+          "name": "Seth Sands",
+          "url": "https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165348,
+      "name": "Infinite Ascent",
+      "url": "https://open.spotify.com/track/04onCRe4F9ROtkZIcgNQ8C"
     },
     {
       "album": {
@@ -4906,6 +5140,24 @@
     {
       "album": {
         "name": "Moonlit",
+        "url": "https://open.spotify.com/album/3LYcPJg8To1f5mh4PUenMx"
+      },
+      "artists": [
+        {
+          "name": "Evanesce",
+          "url": "https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Moonlit",
+      "url": "https://open.spotify.com/track/6e4WOQaHoiEBcyxYvorUQZ"
+    },
+    {
+      "album": {
+        "name": "Moonlit",
         "url": "https://open.spotify.com/album/2HcKrsJcNe1yGPzLYi12Df"
       },
       "artists": [
@@ -5067,6 +5319,24 @@
     },
     {
       "album": {
+        "name": "Mystic Ocean Whispers",
+        "url": "https://open.spotify.com/album/2ESuXYj6z1uoscJmRuIyOH"
+      },
+      "artists": [
+        {
+          "name": "cairn",
+          "url": "https://open.spotify.com/artist/28ALaEjtETDJWpEggGZdOp"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170581,
+      "name": "Mystic Ocean Whispers",
+      "url": "https://open.spotify.com/track/5OTIgm20iamx8ixVeJ7Fgw"
+    },
+    {
+      "album": {
         "name": "Nebulous Serenity",
         "url": "https://open.spotify.com/album/655kVbfYM4u4jMrqWpN3h2"
       },
@@ -5150,7 +5420,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 172815,
       "name": "Night Night",
       "url": "https://open.spotify.com/track/1CkLB40DD9EVAp8Y6Xyvbw"
@@ -5582,7 +5852,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 174000,
       "name": "Pages",
       "url": "https://open.spotify.com/track/7cVByaVSKD5ep8EJFrJozi"
@@ -5852,7 +6122,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 195000,
       "name": "Placidus",
       "url": "https://open.spotify.com/track/0k5fYqZwhHGPxMxmLYg6gu"
@@ -6828,7 +7098,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 191136,
       "name": "Silenzio",
       "url": "https://open.spotify.com/track/7rUKkAass5crI9QIi8thTK"
@@ -7408,6 +7678,24 @@
       "duration_ms": 186000,
       "name": "Stellae",
       "url": "https://open.spotify.com/track/5WGj3rd2ZMFuLqymp4wUBv"
+    },
+    {
+      "album": {
+        "name": "Stellar Cluster",
+        "url": "https://open.spotify.com/album/4pOfNNk06bH2ARJ2t4VEEg"
+      },
+      "artists": [
+        {
+          "name": "Gateway IV",
+          "url": "https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190975,
+      "name": "Stellar Cluster",
+      "url": "https://open.spotify.com/track/39Kp8Aoq0Phsj3Qqx4oA5l"
     },
     {
       "album": {
@@ -8189,6 +8477,24 @@
     },
     {
       "album": {
+        "name": "Weightless Horizon",
+        "url": "https://open.spotify.com/album/4tsCHvsJCHToz6l2LRy1V0"
+      },
+      "artists": [
+        {
+          "name": "Ambienne",
+          "url": "https://open.spotify.com/artist/2TnYJIoylPdjQiWJPYsKhu"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Weightless Horizon",
+      "url": "https://open.spotify.com/track/7ihkJd7PbBMdZcVwHmFhnc"
+    },
+    {
+      "album": {
         "name": "Wellbeing",
         "url": "https://open.spotify.com/album/5jRbmGWf4jlLRYKEbVvvdX"
       },
@@ -8240,6 +8546,24 @@
       "duration_ms": 162956,
       "name": "Whispered Grove",
       "url": "https://open.spotify.com/track/3XcjssGBA3HtxwaNZDTVjS"
+    },
+    {
+      "album": {
+        "name": "Whispering Light (Meditation)",
+        "url": "https://open.spotify.com/album/3epSFFHMkVdjc30RQzTSNo"
+      },
+      "artists": [
+        {
+          "name": "Lux Alba",
+          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181071,
+      "name": "Whispering Light (Meditation)",
+      "url": "https://open.spotify.com/track/4vFKtlNzB13LWNtIYzAe8o"
     },
     {
       "album": {
@@ -8348,6 +8672,24 @@
       "duration_ms": 183750,
       "name": "Yael",
       "url": "https://open.spotify.com/track/0IUMxL5vvNXnOONt4XOQZE"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/3g51kfC68mW2E5linOpo4u"
+      },
+      "artists": [
+        {
+          "name": "Dronia",
+          "url": "https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162014,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2ZrWBMpzlhLwTzxW02lrtP"
     },
     {
       "album": {

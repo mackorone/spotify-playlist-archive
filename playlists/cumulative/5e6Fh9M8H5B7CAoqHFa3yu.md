@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,608 songs - 4 day 1 hr 57 min
+1,610 songs - 4 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Arab Prayer \(Live\)](https://open.spotify.com/track/47ZJkx1g763nFOkim7EZkB) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [The Struggle](https://open.spotify.com/album/12yCKhNpF3JAGb9N72tuGK) | 4:05 | 2024-04-29 |  |
 | [Arabian Trip](https://open.spotify.com/track/18aomlRrdOJ964sOImmjEs) | [Andrea Braido](https://open.spotify.com/artist/365VUn5kWBvcGvGafj0CRZ) | [Tales](https://open.spotify.com/album/2VgiyEYRTMJkjWVkRUNiUG) | 4:44 | 2024-04-20 |  |
 | [Art Deco Bullet](https://open.spotify.com/track/5342WwQ7HSCwVK9UvrDQjN) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Art Deco Bullet](https://open.spotify.com/album/26btOM9uyz0yxGImcstoBO) | 3:32 | 2025-08-08 |  |
+| [Art School Dropout](https://open.spotify.com/track/4GOnSEpWwueDwVHDhYzGpN) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 1:54 | 2025-11-28 |  |
 | [Asteroid](https://open.spotify.com/track/2ZcZVHWbladB8xTuUZ2YFK) | [Dutch Gunderson](https://open.spotify.com/artist/5UAK417O73vLv1MOTDxhYx) | [Dutch Gunderson](https://open.spotify.com/album/1k3ynjVZhaPk2DFNIVERbW) | 3:47 | 2025-05-28 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
@@ -899,6 +900,7 @@
 | [Mon Amour](https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Mon Amour](https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH) | 3:23 | 2023-06-23 |  |
 | [Monday Dub](https://open.spotify.com/track/6H4Dcvi8wEr9MxHYCSc3Bd) | [Dream Cycle Inc.](https://open.spotify.com/artist/32GwcqnJKeCAGyKy6ClBKr) | [Steps of Deeper Slumber](https://open.spotify.com/album/3WVEDeckYB7PY0TgMWHwbq) | 5:06 | 2024-10-04 |  |
 | [Mondo](https://open.spotify.com/track/2P9rOKyGiPmuAerIk09WrH) | [Luna Dharma](https://open.spotify.com/artist/1RXLMXtNtNKXx5drIuuwjm) | [Mondo](https://open.spotify.com/album/1MyvfTR1BYTm6y9Orjzt65) | 3:52 | 2024-04-20 |  |
+| [Montana](https://open.spotify.com/track/6uhjgTj3Pm10Y1LxU9iCWg) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 2:26 | 2025-11-28 |  |
 | [Moon Mon Amour](https://open.spotify.com/track/3ngtPVP6cDM387BSLljiXw) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Moon Mon Amour](https://open.spotify.com/album/0xZuYnNMKV5zkRqh44QPRh) | 3:19 | 2024-07-16 |  |
 | [Moon's Gaze](https://open.spotify.com/track/3l7kWDlEC4c1umworaXNdq) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:26 | 2024-09-25 |  |
 | [Moonlight](https://open.spotify.com/track/4ElVTmsHkWKmF4PWAfCi9K) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi) | [Way to Zion, Pt\. 1](https://open.spotify.com/album/3sxmfGWpS2A1nQhnDFOjvy) | 6:06 | 2024-07-06 |  |

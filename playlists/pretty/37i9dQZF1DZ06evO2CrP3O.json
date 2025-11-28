@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139729,
+  "num_followers": 139736,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAAAfZF4fHFBtEd+hxa/dKh2w",
+  "snapshot_id": "aSZDAAAAAAAYidhgli40Sr1uTpRcp8Dq",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 227666,
-      "name": "Angels On The Balcony - Remastered 2001",
-      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
+      "duration_ms": 227666,
+      "name": "Angels On The Balcony - Remastered 2001",
+      "url": "https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA"
     },
     {
       "added_at": null,
@@ -735,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Shot (David Wrench 2025 Mix)",
-        "url": "https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ"
+        "name": "Just Loud",
+        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
       },
       "artists": [
+        {
+          "name": "Just Loud",
+          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
+        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 217997,
-      "name": "Hot Shot - David Wrench 2025 Mix",
-      "url": "https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE"
+      "duration_ms": 179613,
+      "name": "Soul Train",
+      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
     },
     {
       "added_at": null,
@@ -783,22 +787,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Loud",
-        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
+        "name": "Hot Shot (David Wrench 2025 Mix)",
+        "url": "https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ"
       },
       "artists": [
-        {
-          "name": "Just Loud",
-          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
-        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Soul Train",
-      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+      "duration_ms": 217997,
+      "name": "Hot Shot - David Wrench 2025 Mix",
+      "url": "https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE"
     },
     {
       "added_at": null,

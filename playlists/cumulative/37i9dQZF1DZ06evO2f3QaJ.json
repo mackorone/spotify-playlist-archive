@@ -42,6 +42,36 @@
     {
       "album": {
         "name": "Ameixa",
+        "url": "https://open.spotify.com/album/2RJTbJmnJ5MsSXo6JjJ5nD"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Fejuca",
+          "url": "https://open.spotify.com/artist/7kR1hPZP8S60x03NHKgEM3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246177,
+      "name": "Ameixa",
+      "url": "https://open.spotify.com/track/0RKU7xrrWghLqn69RlO3rx"
+    },
+    {
+      "album": {
+        "name": "Ameixa",
         "url": "https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz"
       },
       "artists": [
@@ -64,7 +94,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 246177,
       "name": "Ameixa",
       "url": "https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf"
@@ -294,6 +324,28 @@
       "duration_ms": 187268,
       "name": "Contos de Carnaval",
       "url": "https://open.spotify.com/track/1Zk6TjSYCQmWrxuSQagnVL"
+    },
+    {
+      "album": {
+        "name": "DCAC - de C\u00e9sar a Cristo",
+        "url": "https://open.spotify.com/album/4KHW88xYtxZOe0Z4lZ3kMW"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Luciane Dom",
+          "url": "https://open.spotify.com/artist/0vLqM45yX1i9uvTPyDh0mB"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338773,
+      "name": "DCAC - de C\u00e9sar a Cristo",
+      "url": "https://open.spotify.com/track/7iqIIrPypvwwtFYKlXIAs5"
     },
     {
       "album": {
@@ -1026,10 +1078,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 290756,
       "name": "M\u00e3o Direita / Amor",
       "url": "https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk"
+    },
+    {
+      "album": {
+        "name": "JazzKilla",
+        "url": "https://open.spotify.com/album/70GXosZ4YgEnewsTrk3gnP"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        },
+        {
+          "name": "Kiai",
+          "url": "https://open.spotify.com/artist/3pi75iGwQpVSU5Nj277gmu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290756,
+      "name": "M\u00e3o Direita / Amor",
+      "url": "https://open.spotify.com/track/7jdSug6RCduaxVV8QCuIWx"
     },
     {
       "album": {
@@ -1760,7 +1834,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 183391,
       "name": "RUMOS",
       "url": "https://open.spotify.com/track/0Qompyn6uipOjYJNBGnhJm"

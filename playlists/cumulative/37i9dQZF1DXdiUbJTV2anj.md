@@ -2,9 +2,9 @@
 
 ### [New Blood](https://open.spotify.com/playlist/37i9dQZF1DXdiUbJTV2anj)
 
-> bands and tracks on the rise in heavy music\. Cover: Gearea
+> bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-359 songs - 21 hr 4 min
+361 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Boo](https://open.spotify.com/track/0VO7MW5XwMoIDWQIaKcNS8) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Boo](https://open.spotify.com/album/4hiUCd5MTX6OPEKatkjYwB) | 4:42 | 2025-10-10 | 2025-11-22 |
 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 | 2023-05-18 | 2024-07-16 |
 | [Braces](https://open.spotify.com/track/3oYAMcCA1J8QGzz1q0CPHF) | [Friend](https://open.spotify.com/artist/6a89shmNCtjzoMMX47z2Iq) | [Mister Nice Guy](https://open.spotify.com/album/2tsLR3WeXcm7obFh3ZNNn5) | 1:41 | 2022-09-16 | 2022-12-24 |
-| [Breathing Underwater](https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq) | [Dead Air Divine](https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS), [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn), [Tilian](https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04) | [Breathing Underwater](https://open.spotify.com/album/5mIcx3Nbcxzfl39h8U9Abd) | 3:09 | 2025-09-05 |  |
+| [Breathing Underwater](https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq) | [Dead Air Divine](https://open.spotify.com/artist/4VP54WAmI5rW6jcKO45ESS), [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn), [Tilian](https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04) | [Breathing Underwater](https://open.spotify.com/album/5mIcx3Nbcxzfl39h8U9Abd) | 3:09 | 2025-09-05 | 2025-11-28 |
 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 | 2023-01-13 | 2024-07-16 |
 | [Broken Wings](https://open.spotify.com/track/5KbXgYbSkixBc3yLqL5F2V) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Broken Wings](https://open.spotify.com/album/1csDLuHZTBVqhZdvPTMNFG) | 3:19 | 2024-07-15 | 2025-09-27 |
 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9), [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:01 | 2025-10-10 |  |
@@ -69,6 +69,7 @@
 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 | 2023-01-06 | 2024-07-16 |
 | [Coalescence](https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 3:13 | 2022-08-19 | 2023-03-25 |
 | [Come Down](https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Come Down](https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl) | 3:16 | 2025-08-22 | 2025-11-12 |
+| [Commander of Pain](https://open.spotify.com/track/66wTyS8P8hbXbLl07LIenU) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Commander of Pain](https://open.spotify.com/album/6SvPikanz42fybjKeg5LCD) | 4:45 | 2025-11-28 |  |
 | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [Commit to Consequence \(feat\. Andrew Neufeld\)](https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m) | 2:28 | 2025-04-28 | 2025-09-27 |
 | [Copacetic](https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj) | [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Copacetic](https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D) | 3:31 | 2025-09-12 | 2025-11-27 |
 | [CORRUPTED](https://open.spotify.com/track/7ApsHjRKVjJPdbFgZ5TEo1) | [Continents](https://open.spotify.com/artist/2uM9hyKJ0jEXV7LqYNe6QR), [Cherry of Defences](https://open.spotify.com/artist/3hiPYrYAFbnINBkyt5U7Mf) | [CORRUPTED](https://open.spotify.com/album/0Y9VfxBJWg2wWtYwxLVeQu) | 3:38 | 2025-06-06 | 2025-09-20 |
@@ -97,6 +98,7 @@
 | [Divination](https://open.spotify.com/track/6GTe0kb9Q1e2FtLk7orlBS) | [State Faults](https://open.spotify.com/artist/6D3k7skHIg72j2v9J4zT9b) | [Divination](https://open.spotify.com/album/20ZWGstNwsVm92ZKenLcPa) | 3:45 | 2024-07-15 | 2024-12-11 |
 | [Do Your Job](https://open.spotify.com/track/3Qsf4DkfX8efJvJgGQ9Fhn) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Do Your Job](https://open.spotify.com/album/7LewPgcqn5DwaYzHfbnuhn) | 1:56 | 2022-07-29 | 2022-11-19 |
 | [Doesn't Feel Like Home](https://open.spotify.com/track/2CTmBlHAZhm9gQyRFgKuMS) | [LIMBS](https://open.spotify.com/artist/6iXX6v3cFowf2ikYwA6uHX) | [Doesn't Feel Like Home](https://open.spotify.com/album/3fXJCR6e7wTlMnTr4COtDv) | 3:20 | 2025-11-07 | 2025-11-22 |
+| [Doomsday Profit](https://open.spotify.com/track/6f6xqwxDtmE36JrgbF79Sx) | [Enquire Within](https://open.spotify.com/artist/0WaZXHni547zjiFP5Ih2El) | [Doomsday Profit](https://open.spotify.com/album/7uFD1iLYsPUhGnyvPdgmuM) | 6:39 | 2025-11-28 |  |
 | [Drown With Me](https://open.spotify.com/track/6pw10ovi5o7d44PKAgIG9h) | [False Saints](https://open.spotify.com/artist/70b0lU3W9kVBBXzlNNGaEk) | [Echoes Of The Broken](https://open.spotify.com/album/5KVuRyYjxptuue1B9a8rEt) | 3:26 | 2025-10-24 |  |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-01-06 | 2024-07-16 |
 | [Egomania](https://open.spotify.com/track/32Awf6Cs0vi7Tx9ROc202z) | [Black Dog](https://open.spotify.com/artist/0APfor8NzwpP33bnr3pFsP) | [Slow Death Society](https://open.spotify.com/album/3p1RCA4yNRNSmMbrjTZH9Z) | 2:27 | 2022-09-23 | 2022-11-19 |
@@ -239,7 +241,7 @@
 | [Poisoned Apple](https://open.spotify.com/track/4uBp1JwbTLgaIyqlIMIXkB) | [Lilith PH](https://open.spotify.com/artist/5nXlGudijhyJZ5f3KgIDG3) | [Poisoned Apple](https://open.spotify.com/album/1smJ2OftBEPrqx7SadeimT) | 3:56 | 2024-07-15 | 2025-09-13 |
 | [Pretty Skin](https://open.spotify.com/track/74nZP5AFjhATYHivIjbh44) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP) | [Pretty Skin](https://open.spotify.com/album/5NKjDtg8Z6q6WloHn7YLgP) | 3:34 | 2025-09-19 |  |
 | [Primitive](https://open.spotify.com/track/0TdYGyJIBeP03IzYbY62U4) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Primitive](https://open.spotify.com/album/2UM5crfGgcP091UDXfZHsN) | 3:30 | 2024-12-10 | 2025-06-07 |
-| [Pull Me In](https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC) | [NOAPOLOGY](https://open.spotify.com/artist/5ZCqsLsFST7VxWXjwAUkUV) | [Pull Me In](https://open.spotify.com/album/2lMoJhE6tbDjhdCaXlwsPg) | 4:04 | 2025-09-05 |  |
+| [Pull Me In](https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC) | [NOAPOLOGY](https://open.spotify.com/artist/5ZCqsLsFST7VxWXjwAUkUV) | [Pull Me In](https://open.spotify.com/album/2lMoJhE6tbDjhdCaXlwsPg) | 4:04 | 2025-09-05 | 2025-11-28 |
 | [Pulling Teeth](https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Pulling Teeth](https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ) | 3:20 | 2024-12-10 | 2025-06-07 |
 | [Puzzles](https://open.spotify.com/track/0rWIAbUoOL67JAHxxGRKx7) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Puzzles](https://open.spotify.com/album/4LULr4Lz6obf9eL2BA0tiJ) | 2:41 | 2022-07-29 | 2022-08-20 |
 | [Rachma](https://open.spotify.com/track/1nKvgLaSPLHrwwKKryfCRE) | [Mirar](https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi) | [Mare](https://open.spotify.com/album/7MDMBadUvE61SEwGapi43t) | 4:52 | 2024-07-22 | 2025-10-11 |

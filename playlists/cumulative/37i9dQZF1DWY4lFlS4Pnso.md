@@ -2,7 +2,7 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: EsDeeKid
+> The UK's biggest playlist\. Cover: Skye Newman
 
 404 songs - 21 hr 26 min
 

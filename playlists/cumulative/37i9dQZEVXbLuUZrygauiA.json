@@ -5933,6 +5933,36 @@
     },
     {
       "album": {
+        "name": "Baby Se Nota (Remix)",
+        "url": "https://open.spotify.com/album/1l6u6mv2yi2pKZbEGnjuBL"
+      },
+      "artists": [
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227380,
+      "name": "Baby Se Nota (Remix)",
+      "url": "https://open.spotify.com/track/21pd7ZybdztceD83uoQjLr"
+    },
+    {
+      "album": {
         "name": "Baby Tu Me Encantas (Spanish Version)",
         "url": "https://open.spotify.com/album/4kCOoxEas1r7QHbeUrVXnI"
       },
@@ -32098,7 +32128,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 193255,
       "name": "La Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5NK5vkJQCtC721Ut1OvHYj"
@@ -41048,7 +41078,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 181024,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/0ILCaNMr4s5CZdF1Km09Ln"
@@ -41802,7 +41832,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 146124,
       "name": "Netflix And Chill",
       "url": "https://open.spotify.com/track/43b29CrP3rd3S8tNbGS582"
@@ -63280,10 +63310,28 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 211588,
       "name": "Tutankamon House Mix",
       "url": "https://open.spotify.com/track/0JnCEl23fSqTj8Ae5nFNK6"
+    },
+    {
+      "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
     },
     {
       "album": {

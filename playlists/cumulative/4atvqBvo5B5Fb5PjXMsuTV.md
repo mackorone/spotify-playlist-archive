@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Nov 04:03 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Nov 19:03 UTC.
 
-5,879 songs - 13 day 14 hr 41 min
+5,881 songs - 13 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Am I Musty?](https://open.spotify.com/track/4iQUresi6VUGu6rrYbqkwP) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4), [PRODUCEDBYAC](https://open.spotify.com/artist/3tG1JVwj5CARXdbUxYMb9Y) | [Am I Musty?](https://open.spotify.com/album/79YFQNrGq3J03ZCg3Ku4l6) | 1:26 | 2024-11-07 | 2024-11-09 |
 | [Amarcord](https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Amarcord](https://open.spotify.com/album/62YeWc9AC2BZFslVRn1R4K) | 3:03 | 2025-02-14 | 2025-02-16 |
 | [Ameonna](https://open.spotify.com/track/2QWVzSa39qQ66oJdIXclo1) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Ameonna](https://open.spotify.com/album/1u2rWWwmEjD7rjUxQ2oYqf) | 7:22 | 2025-10-25 | 2025-11-07 |
+| [America's Baby](https://open.spotify.com/track/7ITaoibgb4OZpTWjou6Mtq) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [America's Baby](https://open.spotify.com/album/4sr5cY0v6X13jLoVXC3gJ5) | 2:51 | 2025-11-27 |  |
 | [American Hero](https://open.spotify.com/track/5uka6Sp4OzGCBPkr1cRWeo) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [American Hero](https://open.spotify.com/album/2vIDujtMoVHlk1jZe8RUXn) | 2:00 | 2024-11-01 | 2024-11-08 |
 | [american spirit](https://open.spotify.com/track/6Uuc0HW3AUyLO7MDANyve7) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [american spirit](https://open.spotify.com/album/7M8FfIBMXw7oS2alD3zr1H) | 3:06 | 2024-12-12 | 2024-12-14 |
 | [Ammunition \- DENNIS Remix](https://open.spotify.com/track/1tA2Y5VFexNrBU9RfBTRf9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Ammunition \- DENNIS Remix](https://open.spotify.com/album/3aIqR3VX1QMeQzrWgmalVp) | 2:18 | 2024-09-13 | 2024-09-19 |
@@ -2431,7 +2432,7 @@
 | [I Do I Do \- Japanese Version](https://open.spotify.com/track/7ieTdDiAhrSzD1HjQ3Jg07) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [I Do I Do \(Japanese Version\)](https://open.spotify.com/album/7EAmwkFwXlhZAc7IWQpSGs) | 3:16 | 2024-07-24 | 2024-07-27 |
 | [I DO ME](https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [I DO ME](https://open.spotify.com/album/2w0HCMkBX7IRscliTVByqB) | 3:10 | 2025-02-25 | 2025-03-03 |
 | [I Do!](https://open.spotify.com/track/31jRBx8v2a0wXpIhvC9lC1) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [I Do!](https://open.spotify.com/album/1kiLzbY58yuyi70tRKlgSA) | 1:25 | 2025-02-28 | 2025-03-05 |
-| [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-14 |  |
+| [I Don't Care](https://open.spotify.com/track/75lwu2RtEifLzaSLkbFcNe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [I Don't Care](https://open.spotify.com/album/37paWn9y19J9WzdB3tZ0mz) | 3:09 | 2025-11-14 | 2025-11-28 |
 | [I Don't Feel Alive](https://open.spotify.com/track/4n9LAQpRB06djcwYXjNuZy) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [I Don't Feel Alive](https://open.spotify.com/album/2pHNP9jfdQ2ZALWRxBkOad) | 3:03 | 2024-11-01 | 2024-11-07 |
 | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/album/4qeMOx94PKBKg5J1XGTvF7) | 3:26 | 2024-09-06 | 2024-09-11 |
 | [I Don't Know How We Got Here](https://open.spotify.com/track/0vt2eeGySaIBsyK7hgbOAb) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [I Don't Know How We Got Here](https://open.spotify.com/album/4hnY68ph6nQxdGodPbe8xQ) | 3:33 | 2024-08-07 | 2024-08-10 |
@@ -3649,7 +3650,7 @@
 | [NYA?](https://open.spotify.com/track/19O7fsiR88lSorOjMkJiJL) | [yurisa](https://open.spotify.com/artist/3bxT3ndZXZjV1teNLoW6fe) | [NYA?](https://open.spotify.com/album/30lhi3ekDv2QIVKP83gUw1) | 4:09 | 2024-05-20 | 2024-05-23 |
 | [Nyumbani \(Sounds Like\)](https://open.spotify.com/track/4ERIeXLZ1XRlGTG5lX6Hbh) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [Nyumbani \(Sounds Like\)](https://open.spotify.com/album/4wrRJY7uxQNh7DfFYL27kJ) | 2:32 | 2024-12-14 | 2024-12-20 |
 | [Nó](https://open.spotify.com/track/49emwrCApbNt5SVvSc32d4) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F), [Datmaniac](https://open.spotify.com/artist/56su1iNcOlGUPEtBoOoJ5D) | [Nó](https://open.spotify.com/album/47IqykpFwqKhoH1he7GXYJ) | 2:52 | 2024-04-30 | 2024-05-02 |
-| [O Come, O Come Emmanuel](https://open.spotify.com/track/6P0W0azMoFa2GchGcRlQdA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [O Come, O Come Emmanuel](https://open.spotify.com/album/0i8kFlv1Sf4LQRjYMQ4DwJ) | 4:32 | 2025-11-15 |  |
+| [O Come, O Come Emmanuel](https://open.spotify.com/track/6P0W0azMoFa2GchGcRlQdA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [O Come, O Come Emmanuel](https://open.spotify.com/album/0i8kFlv1Sf4LQRjYMQ4DwJ) | 4:32 | 2025-11-15 | 2025-11-28 |
 | [O primm post](https://open.spotify.com/track/7xCERkcrLa4ICfYztdIFJ5) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [O primm post](https://open.spotify.com/album/1iN6xB7mC9JKl83O4ZMtt4) | 3:50 | 2024-08-02 | 2024-08-05 |
 | [Oasis](https://open.spotify.com/track/3KF5PJf3VpBDIzS1jx4tTI) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Oasis](https://open.spotify.com/album/2Op4oWKIJskGC8O1RVYk6X) | 3:11 | 2024-12-04 | 2024-12-07 |
 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 | 2025-05-16 | 2025-05-26 |
@@ -5057,6 +5058,7 @@
 | [The Longest Kiss](https://open.spotify.com/track/3zpjkbqo5eL2vPFX6qF1up) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [The Longest Kiss](https://open.spotify.com/album/0rK2zgoxvtqDZzS7B6FXMy) | 2:49 | 2024-09-18 | 2024-09-21 |
 | [The love it took to leave you](https://open.spotify.com/track/0py90rdZW1UhDd4qKrESY8) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [The love it took to leave you](https://open.spotify.com/album/34YafCHSK2pvmZNsfK3vAt) | 7:45 | 2024-05-14 | 2024-05-16 |
 | [The Machine Song \- Demo \#2, Revisited](https://open.spotify.com/track/2VshWryIlWedkCLdOWcMim) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Machine Song \(Demo \#2, Revisited\)](https://open.spotify.com/album/61uCwr4g5nbYHdPsurI9yW) | 5:31 | 2025-09-13 | 2025-09-26 |
+| [The Man Comes Around](https://open.spotify.com/track/7gQtvYYJwLLypRFXJFx5KK) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [The Man Comes Around](https://open.spotify.com/album/3Dnjc7dbVYRoqy16L5yoE7) | 5:37 | 2025-11-27 |  |
 | [The Medium](https://open.spotify.com/track/79lTOsoJPNhsPVJo4BSaPy) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [The Medium](https://open.spotify.com/album/6t2cp8jvrAYGrCB9UMEp1Y) | 4:36 | 2024-06-18 | 2024-06-20 |
 | [The Mileage](https://open.spotify.com/track/0ZUajodtCkJCusZoXziaNs) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [The Mileage](https://open.spotify.com/album/3Tuhgglsy6KSuOWAj61HhX) | 2:11 | 2025-11-16 | 2025-11-23 |
 | [The Moment](https://open.spotify.com/track/6bHW86YhNTcHuZyum3pzvA) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [The Moment](https://open.spotify.com/album/706hpyftFGBJO4EONLTjrI) | 3:30 | 2024-07-31 | 2024-08-02 |

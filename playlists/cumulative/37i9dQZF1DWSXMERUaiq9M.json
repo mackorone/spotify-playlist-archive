@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 227612,
       "name": "Die Tonight",
       "url": "https://open.spotify.com/track/4y4NBmnV3QWygYpjLNDWOw"
@@ -3052,7 +3052,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 170624,
       "name": "Entertain Me",
       "url": "https://open.spotify.com/track/6v2N2miIqFLuOLbyFNeAns"
@@ -4509,6 +4509,28 @@
     },
     {
       "album": {
+        "name": "Hold You Close",
+        "url": "https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241632,
+      "name": "Hold You Close",
+      "url": "https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx"
+    },
+    {
+      "album": {
         "name": "Hooked on the Bassline",
         "url": "https://open.spotify.com/album/1hZM8Y4iNpgyjGICUkuTrv"
       },
@@ -5564,6 +5586,24 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "album": {
+        "name": "Kick It",
+        "url": "https://open.spotify.com/album/2o0GRZHWJatfkMBZrqVDzN"
+      },
+      "artists": [
+        {
+          "name": "Linds",
+          "url": "https://open.spotify.com/artist/6ZGqNbBtVrSU2EgalYQksc"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/2saF9zETqNoEfgaUnvAnvn"
     },
     {
       "album": {
@@ -8076,7 +8116,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 195100,
       "name": "Party People",
       "url": "https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X"
@@ -10437,6 +10477,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "EUROCLUB",
+          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199604,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/05sPKbE10KPJ2kUVHZGYY9"
+    },
+    {
+      "album": {
+        "name": "flawl\u0258ss.",
+        "url": "https://open.spotify.com/album/5chcWTvpOi5PS8ZduL8AoD"
+      },
+      "artists": [
+        {
+          "name": "Bovskey",
+          "url": "https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150064,
+      "name": "temporada",
+      "url": "https://open.spotify.com/track/7HmjiuyzrGHqUAt8uhkYeA"
+    },
+    {
+      "album": {
         "name": "That Beat",
         "url": "https://open.spotify.com/album/3lY95TxcGtqi7SMbOhg8lE"
       },
@@ -11470,7 +11546,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 140800,
       "name": "Wake The F Up",
       "url": "https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY"

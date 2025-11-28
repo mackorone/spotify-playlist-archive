@@ -1,13 +1,73 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dominique Adhadiaz",
-  "num_followers": 13622,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Jordan Susanto",
+  "num_followers": 13625,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOyGBXU4kokzPxc5Ab364RyJ/NQ",
+  "snapshot_id": "AAAAAOl9pVcOu3yaE48+PISE0Q6JA4ky",
   "tracks": [
+    {
+      "added_at": "2025-11-27 17:30:01",
+      "album": {
+        "name": "Jordan LIVE!",
+        "url": "https://open.spotify.com/album/6SJcKel4aMafRbs1riLzTU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        },
+        {
+          "name": "The Soul & Rollers",
+          "url": "https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu"
+        }
+      ],
+      "duration_ms": 417000,
+      "name": "Do Right Baby! - Live",
+      "url": "https://open.spotify.com/track/1bw73MM8ML2sips7nDExzG"
+    },
+    {
+      "added_at": "2025-11-28 00:59:02",
+      "album": {
+        "name": "Harus Kemana",
+        "url": "https://open.spotify.com/album/4mcYhkSZ4PhwOaRZ7uinrL"
+      },
+      "artists": [
+        {
+          "name": "CHNCE",
+          "url": "https://open.spotify.com/artist/0Fvh2UJqvgvzWFvCr8IJTI"
+        }
+      ],
+      "duration_ms": 251544,
+      "name": "Harus Kemana",
+      "url": "https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO"
+    },
+    {
+      "added_at": "2025-11-27 17:30:01",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0QULlRrskGGkNA5lc06dMH"
+      },
+      "artists": [
+        {
+          "name": "ICEBOX ID",
+          "url": "https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze"
+        },
+        {
+          "name": "Italiani",
+          "url": "https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "duration_ms": 203952,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/1KxuP61yS7dLOqcdnXWgVb"
+    },
     {
       "added_at": "2025-11-20 17:00:10",
       "album": {
@@ -23,6 +83,38 @@
       "duration_ms": 196500,
       "name": "Nyaman (24/7)",
       "url": "https://open.spotify.com/track/3H11yoJfR7kMkpqDC9Ef1s"
+    },
+    {
+      "added_at": "2025-11-27 17:30:01",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "duration_ms": 216811,
+      "name": "Arti Kehidupan",
+      "url": "https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC"
+    },
+    {
+      "added_at": "2025-11-27 17:30:01",
+      "album": {
+        "name": "Empty.",
+        "url": "https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn"
+      },
+      "artists": [
+        {
+          "name": "Uap Widya",
+          "url": "https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9"
+        }
+      ],
+      "duration_ms": 234078,
+      "name": "Empty.",
+      "url": "https://open.spotify.com/track/2kNpWuLtpMv8cSBKSozDau"
     },
     {
       "added_at": "2025-11-13 17:30:27",
@@ -637,38 +729,6 @@
       "url": "https://open.spotify.com/track/0ep8KoAjChrYv8kZa5CxoD"
     },
     {
-      "added_at": "2025-10-02 17:00:33",
-      "album": {
-        "name": "DERAU",
-        "url": "https://open.spotify.com/album/71TCJStstSDqdgQxwItoXN"
-      },
-      "artists": [
-        {
-          "name": "Jugo Djarot",
-          "url": "https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "DERAU",
-      "url": "https://open.spotify.com/track/5TUAHiQnqk1jslwwxROgf2"
-    },
-    {
-      "added_at": "2025-09-25 17:05:13",
-      "album": {
-        "name": "Claw Machine",
-        "url": "https://open.spotify.com/album/6FpIHvOps6UZMgJudEJEtV"
-      },
-      "artists": [
-        {
-          "name": "Azimah Fada",
-          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Claw Machine",
-      "url": "https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw"
-    },
-    {
       "added_at": "2025-09-18 17:00:31",
       "album": {
         "name": "Back 2 You",
@@ -1099,26 +1159,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/5Lu8ASQ4x4b4u9yQCDreAb"
-      },
-      "artists": [
-        {
-          "name": "Isyana Sarasvati",
-          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
-        },
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 158291,
-      "name": "Something New (feat. Afgan)",
-      "url": "https://open.spotify.com/track/3lZXsYZgaXodwSALy5cR6B"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Dekat",
         "url": "https://open.spotify.com/album/15hJ6liZuJPpbWw3BrpqfC"
       },
@@ -1131,22 +1171,6 @@
       "duration_ms": 267011,
       "name": "Dekat",
       "url": "https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1187,22 +1211,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Wanita",
-        "url": "https://open.spotify.com/album/0rDwwmljBsrYnvTlRqTPof"
-      },
-      "artists": [
-        {
-          "name": "Tarrarin",
-          "url": "https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f"
-        }
-      ],
-      "duration_ms": 261691,
-      "name": "Wanita",
-      "url": "https://open.spotify.com/track/7tqeOzEsaUXaw4PDF5qzTh"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg"
       },
@@ -1231,26 +1239,6 @@
       "duration_ms": 264193,
       "name": "Bangkit (Apa Yang Kau Takutkan?)",
       "url": "https://open.spotify.com/track/5fltq57JdvtjPOz9V13N3a"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Sujud",
-        "url": "https://open.spotify.com/album/0485ThYj1iYy1yGaa0oUm6"
-      },
-      "artists": [
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        },
-        {
-          "name": "Teddy Adhitya",
-          "url": "https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Sujud",
-      "url": "https://open.spotify.com/track/6W6ouayFyOk3ugWzMzs0jK"
     },
     {
       "added_at": "2025-06-05 17:05:22",
@@ -1375,22 +1363,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Obsesi",
-        "url": "https://open.spotify.com/album/7vx3ePtu8rpg2XfJvVnYXq"
-      },
-      "artists": [
-        {
-          "name": "Christie",
-          "url": "https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr"
-        }
-      ],
-      "duration_ms": 164473,
-      "name": "Obsesi",
-      "url": "https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "Rindu",
         "url": "https://open.spotify.com/album/4J8B77nQZbFPclMIuJSyFK"
       },
@@ -1447,26 +1419,6 @@
     {
       "added_at": "2025-06-05 17:05:22",
       "album": {
-        "name": "Diantara Kata",
-        "url": "https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe"
-      },
-      "artists": [
-        {
-          "name": "Fariz RM",
-          "url": "https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT"
-        },
-        {
-          "name": "Syahravi",
-          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
-        }
-      ],
-      "duration_ms": 253331,
-      "name": "Diantara Kata",
-      "url": "https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
         "name": "BUKIT BINTANG",
         "url": "https://open.spotify.com/album/3EdLgSYC680ajncQZlnUms"
       },
@@ -1495,26 +1447,6 @@
       "duration_ms": 231325,
       "name": "Senyam-Senyum",
       "url": "https://open.spotify.com/track/0fLY6LDkqU8UsryD54gFnV"
-    },
-    {
-      "added_at": "2025-06-05 17:05:22",
-      "album": {
-        "name": "Magnet",
-        "url": "https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk"
-      },
-      "artists": [
-        {
-          "name": "KIM",
-          "url": "https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp"
-        },
-        {
-          "name": "Marion Jola",
-          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
-        }
-      ],
-      "duration_ms": 216959,
-      "name": "Magnet",
-      "url": "https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L"
     },
     {
       "added_at": "2025-06-05 17:05:22",

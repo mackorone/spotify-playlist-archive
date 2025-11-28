@@ -1,12 +1,12 @@
 {
   "description": "This is Paulo Londra. The essential tracks, all in one playlist.",
-  "num_followers": 1308002,
+  "num_followers": 1307979,
   "original_name": "This Is Paulo Londra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACOrdofX3gRn3oTEllAzI/X",
+  "snapshot_id": "aSZDAAAAAABmeKD0XVWNAfP21Wh4LsYO",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paraca\u00eddas",
+        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Paraca\u00eddas",
+      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VERSUS",
+        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 141475,
+      "name": "GLAMPING",
+      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A200 (Remix)",
         "url": "https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok"
       },
@@ -555,38 +587,6 @@
       "duration_ms": 319105,
       "name": "A200 - Remix",
       "url": "https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VERSUS",
-        "url": "https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 141475,
-      "name": "GLAMPING",
-      "url": "https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paraca\u00eddas",
-        "url": "https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Paraca\u00eddas",
-      "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
     },
     {
       "added_at": null,

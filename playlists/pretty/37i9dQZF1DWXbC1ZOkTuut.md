@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Gerardo Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,808 likes - 233 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,813 likes - 233 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

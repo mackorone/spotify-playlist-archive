@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Benito Kamelas.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Luz Casal.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 257384,
       "name": "Como Yo Te Amo",
       "url": "https://open.spotify.com/track/04QjvVle2nGGNMNH43pLrJ"
@@ -4432,7 +4432,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 185311,
       "name": "El Roce De Tu Piel",
       "url": "https://open.spotify.com/track/4mAN3lcleDDn6CezrW05qe"
@@ -5360,7 +5360,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 180032,
       "name": "Fotos felices",
       "url": "https://open.spotify.com/track/5PAi9AU6U4nt6hEVl8MUBD"
@@ -6352,7 +6352,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 267760,
       "name": "La casa por el tejado",
       "url": "https://open.spotify.com/track/428cFrawSqeLoyooQjAW9d"
@@ -7434,7 +7434,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 172346,
       "name": "Llamas",
       "url": "https://open.spotify.com/track/53aR7QyNadfeYBI8014KHd"
@@ -7488,7 +7488,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 256821,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/0T74LiMmqOu1rUlpEhEdzp"
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
@@ -8999,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "Nada Es Imposible",
+        "url": "https://open.spotify.com/album/380YlMf8WArIMECCzEeMGE"
+      },
+      "artists": [
+        {
+          "name": "Luz Casal",
+          "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Nada Es Imposible",
+      "url": "https://open.spotify.com/track/2ZD8XLezjtEmmL3kRqvCcX"
+    },
+    {
+      "album": {
         "name": "Nada podr\u00e1 salvarte",
         "url": "https://open.spotify.com/album/36Q4MusSmNepwOFmatWmYs"
       },
@@ -9624,6 +9642,24 @@
       "duration_ms": 99472,
       "name": "N\u00e1ufragos",
       "url": "https://open.spotify.com/track/25EHp7xNOglzpW5FgNk6WP"
+    },
+    {
+      "album": {
+        "name": "Serenata en mi mayor para un amor y un atardecer",
+        "url": "https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200568,
+      "name": "Octubre",
+      "url": "https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0"
     },
     {
       "album": {
@@ -10710,7 +10746,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 218146,
       "name": "Qu\u00e9 M\u00e1s Quisieras",
       "url": "https://open.spotify.com/track/3r6hdxFuzTFg9lch7ewbhU"
@@ -11734,6 +11770,24 @@
       "duration_ms": 228708,
       "name": "Solitud",
       "url": "https://open.spotify.com/track/17ZiNld8bR0sVmdsJkDM9H"
+    },
+    {
+      "album": {
+        "name": "Solitud y Soledad",
+        "url": "https://open.spotify.com/album/1Za9Z4KMbV6NRYtBdefDCO"
+      },
+      "artists": [
+        {
+          "name": "Javier Corcobado",
+          "url": "https://open.spotify.com/artist/38euAah4YlEfvxaaa6kYmg"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Solitud y Soledad",
+      "url": "https://open.spotify.com/track/1lF94W1pOncBrFED3Id1on"
     },
     {
       "album": {
@@ -13404,6 +13458,28 @@
       "duration_ms": 186666,
       "name": "Vuelo",
       "url": "https://open.spotify.com/track/0UfNDB3EVxju1Xh5AKY9rL"
+    },
+    {
+      "album": {
+        "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
+        "url": "https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193111,
+      "name": "Vulnerable (feat. Dani Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Lucid Express",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Carson Leung",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -5153,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "FeelGoodLookGood",
+        "url": "https://open.spotify.com/album/4Nkyo7KX4fjxoP1JmMrJQI"
+      },
+      "artists": [
+        {
+          "name": "DAWN",
+          "url": "https://open.spotify.com/artist/0N5VSbyA9QKuM3WlA7dMP6"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208019,
+      "name": "FeelGoodLookGood",
+      "url": "https://open.spotify.com/track/2mcuoM3QMNr1DYQJxdzIS2"
+    },
+    {
+      "album": {
         "name": "Feelin'",
         "url": "https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks"
       },
@@ -7551,6 +7569,24 @@
     },
     {
       "album": {
+        "name": "I Don't Like Me",
+        "url": "https://open.spotify.com/album/4u9y7ezpXc0MLMShh2b75I"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217197,
+      "name": "I Don't Like Me",
+      "url": "https://open.spotify.com/track/1MFbS9WwBlQgCXfTqMp8U4"
+    },
+    {
+      "album": {
         "name": "I don't want to",
         "url": "https://open.spotify.com/album/3oelo5BHuJqQdzXn0e61Y0"
       },
@@ -7896,6 +7932,24 @@
       "duration_ms": 153786,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm"
+    },
+    {
+      "album": {
+        "name": "I Wish I Could Say Sorry",
+        "url": "https://open.spotify.com/album/4Jdwbnq7axi4n24DzdxUS4"
+      },
+      "artists": [
+        {
+          "name": "Andy Is Typing",
+          "url": "https://open.spotify.com/artist/3cKjWAYtDVV9OlDnJcT57t"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297008,
+      "name": "I Wish I Could Say Sorry",
+      "url": "https://open.spotify.com/track/5ygQ2e7x5ZWjhiFcDruGuJ"
     },
     {
       "album": {
@@ -21889,6 +21943,24 @@
     },
     {
       "album": {
+        "name": "\u53c9\u71d2\u98ef\uff08\u52a0\u57cb\u8fa3\u6912\u6cb9)",
+        "url": "https://open.spotify.com/album/2flAQ1k7Bz9d3POAOEMDPK"
+      },
+      "artists": [
+        {
+          "name": "\u975e\u6d32\u738b\u5b50 Kunbi",
+          "url": "https://open.spotify.com/artist/4bsY8pqiRupho6S3ymcZHz"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149963,
+      "name": "\u53c9\u71d2\u98ef\uff08\u52a0\u57cb\u8fa3\u6912\u6cb9)",
+      "url": "https://open.spotify.com/track/7fQdGScdX0LOLg42ccr83I"
+    },
+    {
+      "album": {
         "name": "\u53e4\u602a\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/5I1k8TRWMizDJv742hvehN"
       },
@@ -28916,6 +28988,28 @@
       "duration_ms": 277832,
       "name": "\u904e\u53bb\u904e\u4e0d\u53bb",
       "url": "https://open.spotify.com/track/0NhIEAV7elUg0cpOLPwl5z"
+    },
+    {
+      "album": {
+        "name": "\u66ae\u8272\u4ff1\u6a02\u90e8",
+        "url": "https://open.spotify.com/album/5cpBDHMwDC8jrtTzkT142e"
+      },
+      "artists": [
+        {
+          "name": "Carson Leung",
+          "url": "https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w"
+        },
+        {
+          "name": "EELEE",
+          "url": "https://open.spotify.com/artist/1ghSU42Gxi1hJxieIlltJK"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141913,
+      "name": "\u9053\u5225\u5f8c\u6709\u7a7a\u9593\u6574\u7406",
+      "url": "https://open.spotify.com/track/1IZMZOt5GGjmmXY9OI9tOi"
     },
     {
       "album": {

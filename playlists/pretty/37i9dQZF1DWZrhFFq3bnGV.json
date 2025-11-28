@@ -1,28 +1,32 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jo Soegono",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
   "num_followers": 113421,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnO3iGPyK3w1QU6TZZxcqtvoNe2",
+  "snapshot_id": "AAAAACZKbGoDLvtcALvNbWJN4Ovv5dOJ",
   "tracks": [
     {
-      "added_at": "2025-11-20 17:00:10",
+      "added_at": "2025-11-27 18:00:32",
       "album": {
-        "name": "Prof Jo",
-        "url": "https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "Jo Soegono",
-          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+        },
+        {
+          "name": "nadhira",
+          "url": "https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM"
         }
       ],
-      "duration_ms": 223846,
-      "name": "Dunia",
-      "url": "https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7"
+      "duration_ms": 227234,
+      "name": "Berlalu",
+      "url": "https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM"
     },
     {
       "added_at": "2025-11-06 17:30:34",
@@ -39,6 +43,22 @@
       "duration_ms": 210000,
       "name": "Pernah Muda",
       "url": "https://open.spotify.com/track/5Mi1HrLmE9tAz8VhTFhsCm"
+    },
+    {
+      "added_at": "2025-11-20 17:00:10",
+      "album": {
+        "name": "Prof Jo",
+        "url": "https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE"
+      },
+      "artists": [
+        {
+          "name": "Jo Soegono",
+          "url": "https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "Dunia",
+      "url": "https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7"
     },
     {
       "added_at": "2025-11-13 17:30:27",

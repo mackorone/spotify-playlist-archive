@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > La scène rap francophone sans frontières\. Photo: Dinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,395 likes - 98 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,399 likes - 98 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

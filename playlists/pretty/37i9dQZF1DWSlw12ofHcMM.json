@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1369475,
+  "num_followers": 1369443,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Avalanche",
         "url": "https://open.spotify.com/album/0DQe0tsjxE9yfB2dntQmUR"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 204121,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2J6FjuQNSU0tvcplhtl5AP"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wild Horses",
-        "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
-      },
-      "artists": [
-        {
-          "name": "Mondo Cozmo",
-          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "From the Grave",
         "url": "https://open.spotify.com/album/5DZwggP6PDtv9VMkAmpAsD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 215559,
       "name": "Trouble Finds You",
       "url": "https://open.spotify.com/track/1gwDIyATjLVi42oBsyUgyJ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wild Horses",
+        "url": "https://open.spotify.com/album/5tZVK7vHvdmh3AOMr6X1dd"
+      },
+      "artists": [
+        {
+          "name": "Mondo Cozmo",
+          "url": "https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/5eN5nGmW92Iuzh77yM1Qd4"
     },
     {
       "added_at": "2024-08-23 15:39:31",

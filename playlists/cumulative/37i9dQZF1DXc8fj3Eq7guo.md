@@ -4,7 +4,7 @@
 
 > 50 stops, one continent, grab your pass
 
-98 songs - 6 hr 18 min
+100 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Ghana](https://open.spotify.com/track/6Lqg26xjGQzxQLo851bWnW) | [JJ PAULO](https://open.spotify.com/artist/6qz66TzT4aoNkudjDofqfm) | [Ghana](https://open.spotify.com/album/28pQbxgVu4UVBQwpQ3xIq8) | 2:17 | 2023-10-20 | 2025-05-17 |
 | [Ghana Bounce](https://open.spotify.com/track/1AVVencV5yF6KzISmmjUbg) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [What Happens in Lagos](https://open.spotify.com/album/3U8mj36DD0Rv3f3LlT1lrk) | 3:45 | 2023-09-08 | 2024-01-20 |
 | [Githurai](https://open.spotify.com/track/1bhXFMTeq9gvBXGpZI5LpG) | [Mr\. Lenny](https://open.spotify.com/artist/5tETuh1p6FPXwPHqHdf5WB), [Mr\. Googz](https://open.spotify.com/artist/5d4BOJk2FraY1wX67nnNp8), [Vinnie Banton](https://open.spotify.com/artist/5OA8lNrPkC0aLCNvEo4POE) | [Best of Kenyan Local Classics 3](https://open.spotify.com/album/5qmcjoEaVsK9KVNOdrVKI5) | 4:42 | 2023-09-08 | 2023-10-10 |
+| [Hmm Ah \(Lagos\)](https://open.spotify.com/track/5Xxv0eM6hEt7r9AkMdubzT) | [Badmanprezzy](https://open.spotify.com/artist/3O8EWF9p9wgYoN1oDHnQEc), [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [SURVIVAL](https://open.spotify.com/album/2chW5GHKUfvcTqY5XRpVFm) | 2:53 | 2025-11-27 |  |
 | [Iweriwe Love](https://open.spotify.com/track/7dpMNEUoyyJVpI5w5BT53i) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [Tears Of A Mad Man](https://open.spotify.com/album/6uNQxH2dfmG61h88oYcI6F) | 2:36 | 2024-10-18 |  |
 | [Jericho](https://open.spotify.com/track/46mrUnUMPFqp7zWF5f3hL7) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:49 | 2025-10-09 |  |
 | [Jericho](https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Omo Charlie Champagne Vol\. 1](https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7) | 3:15 | 2023-09-08 |  |
@@ -106,5 +107,6 @@
 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 | 2025-04-11 | 2025-10-10 |
 | [Zimbabwe](https://open.spotify.com/track/3evs5tv8NLr8VXi9LeA0Dv) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Grand Masters](https://open.spotify.com/album/1rfHIUUofjhGVV67I5cSZg) | 2:56 | 2023-09-08 | 2024-05-04 |
 | [Zimbabwe](https://open.spotify.com/track/3oerlR534UFui3TItBwvlo) | [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ) | [Oliver's Greatest Hits](https://open.spotify.com/album/6JoLBg1dHCeHXhmRd3qeKe) | 2:56 | 2023-11-24 | 2024-04-19 |
+| [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [](https://open.spotify.com/album/null) | 2:41 | 2025-11-27 |  |
 
 \*This playlist was first scraped on 2023-09-14. Prior content cannot be recovered.

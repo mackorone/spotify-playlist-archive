@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300144,
+  "num_followers": 300153,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAAAvTIY23Ob7sscP7Qyj9ZaA",
+  "snapshot_id": "aSZDAAAAAACsOsSaUW2+3EAmws7JYvpS",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Do We Think We Are (Remastered)",
-        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326906,
-      "name": "Rat Bat Blue - Remastered",
-      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple",
         "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 305773,
       "name": "Lalena - 2000 Remaster",
       "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Do We Think We Are (Remastered)",
+        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326906,
+      "name": "Rat Bat Blue - Remastered",
+      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
     },
     {
       "added_at": null,

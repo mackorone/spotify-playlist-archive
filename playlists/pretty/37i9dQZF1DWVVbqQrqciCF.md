@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > Japanese music duo formed in 2019, consisting of vocalist ikura and producer Ayase\. YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,387 likes - 67 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,427 likes - 67 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 | 66 | [The Brave](https://open.spotify.com/track/4idatWI87uECptpg5EYMPp) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:15 |
 | 67 | [Idol](https://open.spotify.com/track/6hBPSAsflvq3VVl3O34FfW) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:32 |
 
-Snapshot ID: `AAAAAGsH8/xQOm9p4Zh1dLFwCNstCcsk`
+Snapshot ID: `AAAAALYYGRmt+8IfUmX/1A2SMUyBae/C`

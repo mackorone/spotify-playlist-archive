@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,117 songs - 1 day 19 hr 5 min
+1,118 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -780,6 +780,7 @@
 | [Rewards](https://open.spotify.com/track/72X5weOGXF8hEQUNv2Eiw3) | [Monsieur Crème](https://open.spotify.com/artist/0XgghR1qpXy2fEWW03JSea) | [Rewards](https://open.spotify.com/album/1BTUGKYGVu4Vg6Nh9H4s3m) | 2:27 | 2023-03-13 | 2023-09-08 |
 | [Rick\-O\-Sound](https://open.spotify.com/track/1hykmH0Tr8ao62xPybCU23) | [Larry Dee](https://open.spotify.com/artist/71FCXGwLKwJQVGkffEzj64) | [Rick\-O\-Sound](https://open.spotify.com/album/6LCa4rH3grc82U3uGDsn9e) | 2:11 | 2022-04-15 | 2023-11-24 |
 | [rideon](https://open.spotify.com/track/30nQLDjbXKJL52DZUqjEKD) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [rideon](https://open.spotify.com/album/18MND2KM0MzMk9DRTiRqnM) | 2:29 | 2022-04-15 | 2022-07-29 |
+| [right up your alley](https://open.spotify.com/track/56m7qRhqSC4rIT3G5tD4JG) | [sünny side](https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs) | [right up your alley](https://open.spotify.com/album/5MqC027fYQmUHsq02Z1Tx3) | 2:02 | 2025-11-21 |  |
 | [river](https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [river](https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1) | 2:19 | 2023-11-17 |  |
 | [Roadburn](https://open.spotify.com/track/0ml0Y7IL5qTJfpUryOtRNi) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Roadburn](https://open.spotify.com/album/2xPOhvwY818VV26vDAbomV) | 1:44 | 2023-04-03 |  |
 | [roadtrip](https://open.spotify.com/track/0V54RaK7KhF3vzydplIOyk) | [Trixie Muff](https://open.spotify.com/artist/4ot82BIcenSoR26rIlbvDd) | [roadtrip](https://open.spotify.com/album/7tRFa38uNSAOwEiZsEgnbu) | 2:19 | 2023-09-08 |  |
@@ -853,7 +854,7 @@
 | [Slide](https://open.spotify.com/track/0hpqs5z3ozGn4ICghzlib8) | [Samara Milli](https://open.spotify.com/artist/3sZomG9CbKFGghCfMXwhhv) | [Slide](https://open.spotify.com/album/3wGx2HFQ34wVRxdZzSMk4r) | 1:49 | 2025-09-19 | 2025-10-05 |
 | [Slipping Mats](https://open.spotify.com/track/72wDz8RDKFvffQJhHucHDy) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Slipping Mats](https://open.spotify.com/album/3wH3cUze42grMn3r4LTZHF) | 2:29 | 2022-07-29 | 2024-02-02 |
 | [slow breath](https://open.spotify.com/track/3Zg7CJ3QSfkT5JYnQgBfJD) | [shamgang](https://open.spotify.com/artist/5BfSohdNvmTJkJeo9ksrVh) | [Moods 2020](https://open.spotify.com/album/645AC6dlytq5nFwF6kvpA4) | 2:08 | 2022-04-15 | 2022-05-14 |
-| [slow living](https://open.spotify.com/track/7iChjbqCbaf4EAdVQqDiOs) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [slow living](https://open.spotify.com/album/7MPBtr3iGc8YnOHwrMCx01) | 2:13 | 2025-11-21 |  |
+| [slow living](https://open.spotify.com/track/7iChjbqCbaf4EAdVQqDiOs) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [slow living](https://open.spotify.com/album/7MPBtr3iGc8YnOHwrMCx01) | 2:13 | 2025-11-21 | 2025-11-28 |
 | [Slow Morns](https://open.spotify.com/track/0Sls4ZDWxFqr3GXeyfSS2s) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [Slow Morns](https://open.spotify.com/album/20gA8G2MmYOBbJ6GZcU2xj) | 2:36 | 2025-11-07 |  |
 | [Slowdown](https://open.spotify.com/track/2IpmQO6mPAmx3StyIDpqKe) | [landq](https://open.spotify.com/artist/1RbHqyLEOuXC9fy1me1VFJ) | [Slowdown](https://open.spotify.com/album/4BIBrBkF0tGLUsid8qR738) | 2:09 | 2022-09-02 | 2023-10-20 |
 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 | 2025-07-19 |

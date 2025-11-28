@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 90260,
+  "num_followers": 90303,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-11-24 13:08:24",
       "album": {
+        "name": "Blast Your Stereo",
+        "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 131473,
+      "name": "Blast Your Stereo",
+      "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
+    },
+    {
+      "added_at": "2025-11-24 13:08:24",
+      "album": {
         "name": "Internet Hooligan",
         "url": "https://open.spotify.com/album/1u3zmIGG1j0kwtBRSq6OIQ"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 137333,
       "name": "Internet Hooligan",
       "url": "https://open.spotify.com/track/6kZaIV2giPqFrf2nZ0obcH"
-    },
-    {
-      "added_at": "2025-11-24 13:08:24",
-      "album": {
-        "name": "Blast Your Stereo",
-        "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        },
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 131473,
-      "name": "Blast Your Stereo",
-      "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
     },
     {
       "added_at": "2025-11-24 13:08:24",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-24 13:08:24",
       "album": {
-        "name": "Voice Of The Underground",
-        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
-      },
-      "artists": [
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Voice Of The Underground",
-      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
-    },
-    {
-      "added_at": "2025-11-24 13:08:24",
-      "album": {
         "name": "Path Of The Wisemen",
         "url": "https://open.spotify.com/album/3v5vGc50acckobzhRTFsWd"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 176937,
       "name": "The End",
       "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
+    },
+    {
+      "added_at": "2025-11-24 13:08:24",
+      "album": {
+        "name": "Voice Of The Underground",
+        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Voice Of The Underground",
+      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
     },
     {
       "added_at": "2025-11-24 13:08:24",

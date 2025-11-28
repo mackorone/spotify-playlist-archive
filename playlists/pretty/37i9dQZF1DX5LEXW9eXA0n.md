@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: KYUHYUN\(규현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,295 likes - 109 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,299 likes - 109 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 108 | [The Reason](https://open.spotify.com/track/5g2tSqR4UoX4jZKI1p1r9e) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [The Reason](https://open.spotify.com/album/7BRaMYu6sVXyxhS5vXMe54) | 4:56 |
 | 109 | [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 |
 
-Snapshot ID: `AAAAAGDOaRorzFpsCmosJeQQFoYclR71`
+Snapshot ID: `AAAAANhGJtOMJ3xbZKtZie+kVT001vAj`

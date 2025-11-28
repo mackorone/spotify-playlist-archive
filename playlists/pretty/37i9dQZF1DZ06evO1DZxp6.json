@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 237605,
+  "num_followers": 237643,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAADVDH8wlpqYNX/7Nqc0UtZ9",
+  "snapshot_id": "aSZDAAAAAABgtcbNqaIIGv0mjzaJINrd",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "Dos Soledades",
+      "url": "https://open.spotify.com/track/2KyntP9bkdZzyA4DBZXJP3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Papito (Deluxe)",
         "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 225373,
       "name": "Morenam\u00eda (Dueto 2007)",
       "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "Dos Soledades",
-      "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Historia",
+        "url": "https://open.spotify.com/album/6ZUTwvLWMi29QUubkloBPk"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/5imWOqJtc9fRIGBixyFy1G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Enamorada",
         "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/6ZUTwvLWMi29QUubkloBPk"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Mismo Amor",
-      "url": "https://open.spotify.com/track/5imWOqJtc9fRIGBixyFy1G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar Dulce",
         "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
       },
@@ -683,26 +683,6 @@
       "duration_ms": 218920,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuentito",
-        "url": "https://open.spotify.com/album/0LMRYcufclIaZm3fHaqup1"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/10eEsR3v9cX7KiuANy6qjd"
     },
     {
       "added_at": null,
@@ -739,6 +719,26 @@
       "duration_ms": 200906,
       "name": "Tu Nombre - Live",
       "url": "https://open.spotify.com/track/2wLeTXGv4FnvqqkyOKeQW6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuentito",
+        "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI"
     },
     {
       "added_at": null,
@@ -816,7 +816,7 @@
       "added_at": null,
       "album": {
         "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
       },
       "artists": [
         {
@@ -826,7 +826,7 @@
       ],
       "duration_ms": 200706,
       "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
     },
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qomunidad",
-        "url": "https://open.spotify.com/album/46UM2myH9VM6Y2NKeWtBBG"
+        "name": "De Ti",
+        "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
       "artists": [
         {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 231082,
-      "name": "El Para\u00edso",
-      "url": "https://open.spotify.com/track/6ep0QDcZlwNAxT5iLv40Ew"
+      "duration_ms": 224739,
+      "name": "De Ti",
+      "url": "https://open.spotify.com/track/1G4blOR671oPTfalkEIabL"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

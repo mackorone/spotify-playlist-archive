@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Obam's
 
-261 songs - 14 hr 21 min
+262 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 | 2024-04-19 |
 | [BBL](https://open.spotify.com/track/1OuPjyDcQxYJTJkLnsvbsX) | [ESMEY](https://open.spotify.com/artist/78K6aNk5RZ3DWfNqMqSIgu), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [BBL](https://open.spotify.com/album/29roxzFxZIiIxSDVkdgRuV) | 2:30 | 2024-11-28 | 2025-01-17 |
-| [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 |  |
+| [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 | 2025-11-28 |
 | [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
 | [Biama Brut Reverse](https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Biama Brut Reverse](https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO) | 3:01 | 2025-01-02 |  |
 | [Bina Ngo](https://open.spotify.com/track/7xYzrfdekBpAH7c59wsg0s) | [Mwinda Mannekin](https://open.spotify.com/artist/6gIa2yUuciQy1hQQMk1o0l) | [Bina Ngo](https://open.spotify.com/album/2ovAbyHeQJgfTP4KQB8kd5) | 2:59 | 2021-12-20 | 2022-06-17 |
@@ -183,6 +183,7 @@
 | [Mon combat](https://open.spotify.com/track/6T6AQIS7A7zUTgl3ByyKq6) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Mon combat](https://open.spotify.com/album/3fPVIQpas8ugxlY9ZasrBv) | 3:32 | 2024-03-14 | 2025-04-18 |
 | [Mon coupé décalé](https://open.spotify.com/track/5dcWqDjwZjo9yp6bGfWY1o) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Mon coupé décalé](https://open.spotify.com/album/1ezwwP8oJFETR8e3rfRsWk) | 4:15 | 2021-12-20 | 2022-02-19 |
 | [Mon gar](https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Mon gar](https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe) | 3:30 | 2023-01-05 | 2024-02-02 |
+| [Mon Jour](https://open.spotify.com/track/6terqB0zOo38UfkkIWXngs) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Mon Jour](https://open.spotify.com/album/2pGl4bD1MGVStBsZOl7FD8) | 2:34 | 2025-11-27 |  |
 | [Mon nom](https://open.spotify.com/track/45XiGbtboVhKVy0pt58C9B) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Mon nom](https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd) | 3:42 | 2021-12-20 | 2022-01-22 |
 | [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 | 2022-06-17 |
 | [MOUSSA](https://open.spotify.com/track/2WF4PuPMq109K72DLcrzuJ) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [MOUSSA](https://open.spotify.com/album/0hCd08N0okkUfvjJLWtfsn) | 2:46 | 2024-05-23 | 2024-08-02 |

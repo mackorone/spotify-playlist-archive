@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,413 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,407 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 50 | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/track/3uOvGgm0Jc0uX9Fhuxvqp7) | [MC Menor da VG](https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR), [Jorgin Dejhaay](https://open.spotify.com/artist/5NV7nZdAgm2k4JrF1zdXOV) | [Conto do Pescador \(Speed Version\)](https://open.spotify.com/album/3LICvuGYphRaseJNrNAO0N) | 2:54 |
 | 51 | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/track/2vaHyhqQxKnNOtznsiSRpy) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n) | [SIMPLESMENTE ELA, NÃO CONSIGO VIVER LONGE DESSA SURTADA](https://open.spotify.com/album/3TDTPVThBuyF7TxZeg5ccU) | 2:33 |
 | 52 | [Imprevisto – Speed](https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B) | [Imprevisto – Speed](https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot) | 1:58 |
-| 53 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
+| 53 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
 | 54 | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [F\* F\* M\* \- No Beat SÉRIE GOLD](https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi) | 2:56 |
-| 55 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
+| 55 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
 | 56 | [Ametista \(Speed Up\)](https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq) | [WZ](https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud), [AyDucz](https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ) | [Ametista \(Speed Up\)](https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg) | 1:47 |
 | 57 | [Hoje Ela Pede Pandora \( Speed Up\)](https://open.spotify.com/track/03iw5tUT1HLxI0pnlKKiKV) | [SÁBIO HITS](https://open.spotify.com/artist/4gvsIHO7sKgvNYPs3J5jDk) | [Hoje Ela Pede Pandora \( Speed Up\)](https://open.spotify.com/album/2CzQPK3aKSkXqblJTcRIBH) | 3:22 |
 | 58 | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH) | [Funk SÉRIE GOLD](https://open.spotify.com/artist/1IaKgxqkPHO3AZxeKi1n5n), [ARTHUR DE AFC](https://open.spotify.com/artist/187YBR2vRDJhfZ2AddqoBb), [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ](https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7) | 2:16 |

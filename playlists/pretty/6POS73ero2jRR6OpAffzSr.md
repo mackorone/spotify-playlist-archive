@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6POS73ero2jRR6OpAffzSr.md) - [plain]
 
 > 
 
-[Viny C](https://open.spotify.com/user/rzmh45lxncul8drutf0bu2p2n) - 209 likes - 37 songs - 3 hr 3 min
+[Viny C](https://open.spotify.com/user/rzmh45lxncul8drutf0bu2p2n) - 210 likes - 37 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

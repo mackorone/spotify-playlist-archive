@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <br/>Dell Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,012 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,029 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 22 | [Hindsight](https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Hindsight](https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q) | 3:18 |
 | 23 | [What Matters](https://open.spotify.com/track/76loPA8VreActL34EP0F6C) | [Todd McVicker](https://open.spotify.com/artist/1fkiYD0YKDH1DgISsuh1Bo) | [What Matters](https://open.spotify.com/album/5JVnBe55nq6AhfwyzPQzXC) | 3:47 |
 | 24 | [Deliverance](https://open.spotify.com/track/2J8OaxMbjG25WPenQNWv5s) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Deliverance](https://open.spotify.com/album/3U1eMnUPBQwb3UOQBmgsPw) | 3:44 |
-| 25 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
+| 25 | [Come Away With Me](https://open.spotify.com/track/3EsvvYsnh71pHvMa8inqI4) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Come Away With Me](https://open.spotify.com/album/0zhjF3Y2qZfKlxPJaDH1Vy) | 2:39 |
 | 26 | [The Gospel](https://open.spotify.com/track/1Ia3lyWy9kZuDsjIW8voZ0) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [The Gospel](https://open.spotify.com/album/2IHGF8zeVW7GgpVHVEIqDB) | 3:46 |
 | 27 | [God Like That](https://open.spotify.com/track/1M8gxcH19LsxtSswVMVvvo) | [Tenroc](https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i) | [God Like That](https://open.spotify.com/album/6u1gi2CMJ9MGXxahB8POoe) | 1:28 |
 | 28 | [promise](https://open.spotify.com/track/0qtY6wDzL1S56oWw7AiwiZ) | [sun haze](https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2) | [promise](https://open.spotify.com/album/1d8zkVUyZQ7pZCIo17VkxI) | 3:54 |

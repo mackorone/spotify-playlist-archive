@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Al James
 
-342 songs - 19 hr 6 min
+345 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Kalangitan](https://open.spotify.com/track/1rLqFcM9X3pCnepVYuaObV) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [Kalangitan](https://open.spotify.com/album/7wo9rPlSJ6j31Ayu31Co50) | 2:48 | 2024-02-07 | 2024-03-07 |
 | [Kalmado, Pt\. 3](https://open.spotify.com/track/5YKPccwY8eDnplwVwuxErO) | [Omar Baliw](https://open.spotify.com/artist/2gZrkTQmIZCDWQMMXjkC4K), [Rhyne](https://open.spotify.com/artist/50cO3P6YcYTVmheR2eETF4), [CLR](https://open.spotify.com/artist/6vCnF48qqPHgVMBEvcbgkU) | [Kalmado, Pt\. 3](https://open.spotify.com/album/184kGZyhRQfdawT9bk9w3W) | 3:52 | 2023-09-20 | 2023-11-02 |
 | [Kamusta](https://open.spotify.com/track/3pgtxJkZQjS3JweFaNmIxZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Kamusta](https://open.spotify.com/album/1U2QYDykOaUEvBczoFY663) | 4:23 | 2023-09-20 | 2023-09-28 |
+| [Kanta Sa Kanya](https://open.spotify.com/track/6WgEj1Oxvi9TVIJbUVxZiZ) | [La Mave](https://open.spotify.com/artist/1G1mO2mSe2pO8yIfIX7kEx) | [Kanta Sa Kanya](https://open.spotify.com/album/0WKlMPQ4gfsMpVzNTU9nnv) | 3:06 | 2025-11-27 |  |
 | [KARANASAN](https://open.spotify.com/track/3Y0wDVo2Dlrg0W6UoXkz9b) | [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [KARANASAN](https://open.spotify.com/album/5X4f9u49kog7UjGBtVss5A) | 4:09 | 2023-11-08 | 2023-11-18 |
 | [KARMEN](https://open.spotify.com/track/4ecS04LKhx2dFdnVYCYc7B) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [KARMEN](https://open.spotify.com/album/1nERzbdmnFru3H4cwZFxRU) | 3:47 | 2025-04-02 | 2025-07-03 |
 | [Kendeng \- Spotify Singles](https://open.spotify.com/track/5BAvRy2t4VEyl4sAhg92of) | [Morobeats](https://open.spotify.com/artist/7KQiKk7w5wQQp7nATlmXEL) | [Kendeng \(Spotify Singles\)](https://open.spotify.com/album/1eNDHRcQr7cOO6xUIn09jI) | 2:59 | 2023-09-23 | 2024-01-18 |
@@ -234,6 +235,7 @@
 | [ON LY](https://open.spotify.com/track/3CpZiVFZTld1E9U9esag6m) | [J emm Dahon](https://open.spotify.com/artist/0RptGZKWMZM1HX8SK3bEcm), [King Lheanard](https://open.spotify.com/artist/1ugycLfwsjOuoRT0y8DZMj), [Kushin](https://open.spotify.com/artist/4hOq1IlgRnPNjsbJRCgK0B) | [ON LY](https://open.spotify.com/album/1dTBjVhAh2CVzVGmeXUqQv) | 2:54 | 2023-12-27 | 2024-01-25 |
 | [One Time](https://open.spotify.com/track/6Rg6eqYIQWJv8eBoUE3bz7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [One Time](https://open.spotify.com/album/5B4Dvq61L0RzLDXFH9L0re) | 3:00 | 2025-04-02 | 2025-07-03 |
 | [ORIGAMI](https://open.spotify.com/track/4kLHNZdanMm46y8SLUM95T) | [NVRMNDGELO](https://open.spotify.com/artist/7wT0LVf0dctIg65GBYv5E7), [GH TOWN](https://open.spotify.com/artist/7tUPClqZMA17LvAUV6EC0j) | [ORIGAMI](https://open.spotify.com/album/0j0Timnvkyk2ENhuu2Ojfx) | 2:21 | 2025-10-15 |  |
+| [P2000](https://open.spotify.com/track/349wwJQlBSnVUImC0PBwH5) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 2](https://open.spotify.com/album/77ccljceESwTy5Mqrg4iFh) | 3:08 | 2025-11-27 |  |
 | [Paboritong Pagkakamali](https://open.spotify.com/track/6oap6muuSi47PdllRECCuw) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [Paboritong Pagkakamali](https://open.spotify.com/album/4qEN03PaW5dO803AotVzNB) | 3:57 | 2023-09-20 | 2024-02-08 |
 | [Pagod sa Pahinga](https://open.spotify.com/track/0FCuH0HdUSVGR9EJTEqHiD) | [Mike Kosa](https://open.spotify.com/artist/6RU3UGNOEiiSZpLCpeP3zE), [Arvlle](https://open.spotify.com/artist/3HeqqjBcTrH5gWY3ZNleJW) | [Pagod sa Pahinga](https://open.spotify.com/album/7tFUuaSjjODMLy8r9WlIRr) | 3:06 | 2025-06-18 | 2025-07-24 |
 | [PAKAMA](https://open.spotify.com/track/2mVgTLV8P6sXXoIu1cOudT) | [LVCID](https://open.spotify.com/artist/6EOlkKmPuyubn0pUTy7qc9), [Wavy Gang](https://open.spotify.com/artist/2J6wSFqfswO07wZaY4iaeX), [Young MLV](https://open.spotify.com/artist/0Mn6idUPno7XCcZzHPvQuv), [B Rvss](https://open.spotify.com/artist/6YzciWQnhaDNLj9A3lUpOX) | [PAKAMA](https://open.spotify.com/album/519RvJVcDRccP78nS8DbwE) | 4:08 | 2025-01-15 | 2025-02-13 |
@@ -269,6 +271,7 @@
 | [Republika Ng Tambay](https://open.spotify.com/track/1istlVUhddMaPxu1iqCSuq) | [Pio Balbuena](https://open.spotify.com/artist/5GHITvoYGNyDXasqbCIOhX) | [Republika Ng Tambay](https://open.spotify.com/album/4yHZ4Xpu05P39kmFUpTUXH) | 3:29 | 2025-10-01 |  |
 | [RLMSC](https://open.spotify.com/track/6X5UkaZ2tKDewzip4gR1ox) | [Gl4ddyy](https://open.spotify.com/artist/4eGd1cnu6T247lZPODZTPS) | [RLMSC](https://open.spotify.com/album/7oc7n4jM6KntJFdxgJxYjJ) | 3:12 | 2025-09-10 | 2025-11-19 |
 | [RUN IT BACK!](https://open.spotify.com/track/4sHXS0s9Oq8I29mKEhaeEZ) | [SCOOP DOGG](https://open.spotify.com/artist/5RLP1KKuSvzYTWDujE3bi2), [CA$HMAN](https://open.spotify.com/artist/0jgCDXXOUZvjVFnziFCUGA), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc), [Daarth](https://open.spotify.com/artist/32xQ6EBQOP6dIGDbJ7cSAH) | [RUN IT BACK!](https://open.spotify.com/album/2HMbdFuzIW2apSElyVVGX5) | 1:56 | 2025-02-27 | 2025-07-17 |
+| [Sa Isipan Lagi](https://open.spotify.com/track/379E3Li85fBpfJHAhPE8eP) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Sa Isipan Lagi](https://open.spotify.com/album/1cQYBqffFIBdSafeF9V2oT) | 3:52 | 2025-11-27 |  |
 | [SA'YO LANG](https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd), [Kyleswish](https://open.spotify.com/artist/1EMaB1ZnRpeXWruJZMtaUa), [Jawz](https://open.spotify.com/artist/6zCxAxzt79PCyDcFIJRfyg) | [SA'YO LANG](https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ) | 4:02 | 2024-08-14 | 2025-01-22 |
 | [Sabak Daddy](https://open.spotify.com/track/6DkK11BIC836tTu3056Kxg) | [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Sabak Daddy](https://open.spotify.com/album/35yzIYk6qn8gUB7HLuPGvi) | 2:13 | 2023-09-20 | 2023-10-05 |
 | [Sabik](https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Sabik](https://open.spotify.com/album/3XGnYXcVJE1nD0OymzwcAJ) | 2:41 | 2024-02-28 | 2024-07-18 |

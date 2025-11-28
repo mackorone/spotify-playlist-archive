@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,832 songs - 5 day 4 hr 32 min
+1,833 songs - 5 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,7 +1441,7 @@
 | [Sleeping On My Own Again \- Reimagined](https://open.spotify.com/track/20KsloBIIOzCVOk2BAJ2we) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Wandering \(Reimagined\)](https://open.spotify.com/album/5Sac91aL1IDe5CY66bBTtl) | 5:24 | 2021-06-05 | 2021-09-11 |
 | [Sleeptalking](https://open.spotify.com/track/1crCLgOulu6LnP22sd2rX2) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Emily Nance](https://open.spotify.com/artist/10piV0XBjZRajqgaa8tZP1) | [Moments](https://open.spotify.com/album/7IkM8Ig9wtHc2NbvdsckBV) | 3:28 | 2021-09-03 | 2022-07-17 |
 | [Sleepy Kids](https://open.spotify.com/track/1u5XvdhVGonnrkpPrtgzKF) | [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Sleepy Kids](https://open.spotify.com/album/7xJ3FrBDiqshPpbq8ecsAK) | 2:43 | 2020-05-18 | 2020-07-18 |
-| [Slow Bloom](https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Slow Bloom](https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN) | 3:16 | 2025-08-15 |  |
+| [Slow Bloom](https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Slow Bloom](https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN) | 3:16 | 2025-08-15 | 2025-11-28 |
 | [Slow Down](https://open.spotify.com/track/69iN7CpUdg6w7ivHAWZ4Zr) | [Belle Envie](https://open.spotify.com/artist/2mETKGsiS3YslsdbyX32Nv) | [Slow Down](https://open.spotify.com/album/3a5ukvh0q48ui5MZ7pJ6Ox) | 4:04 | 2020-03-20 | 2020-07-18 |
 | [Smalltalk \- Four Tet Remix](https://open.spotify.com/track/0MCkGXxEcvsPc7HrncVlsZ) | [Ultraísta](https://open.spotify.com/artist/2f88S1uYsEwP0n4x36wvG7), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Ultraísta \(Deluxe\)](https://open.spotify.com/album/66bXdFrMf6H8zxRyrUVSzu) | 6:03 | 2020-02-29\* | 2020-03-16 |
 | [Smile](https://open.spotify.com/track/3cQ2pYZrrqTUVqrzPMDRoX) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [Smile](https://open.spotify.com/album/3afhlf6KXIwOd9U4wGsolV) | 3:57 | 2021-06-18 | 2022-12-29 |
@@ -1832,6 +1832,7 @@
 | [You're Mine \- Original Mix](https://open.spotify.com/track/4Gt53ktThfaImqOOdyDC3V) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV), [Raving George](https://open.spotify.com/artist/2mn602IBi2DIgqVl2vnam6) | [Electronica](https://open.spotify.com/album/1pk6krb7wBXOPYKrbPHbRz) | 5:29 | 2020-05-22 | 2020-07-03 |
 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 | 2020-08-06 | 2020-10-09 |
 | [Your Eyes \(feat\. Shekhinah\)](https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Your Eyes \(feat\. Shekhinah\)](https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf) | 4:10 | 2020-05-18 | 2020-07-18 |
+| [Your Love](https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Your Love](https://open.spotify.com/album/0CT0ofStdh15crKzer9dcg) | 4:25 | 2025-11-21 |  |
 | [Your Love](https://open.spotify.com/track/0ZlacvDIHlKE1d6qzLjltK) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:09 | 2022-08-26 | 2022-09-10 |
 | [Your Love \(feat\. Neigh\)](https://open.spotify.com/track/15OVL6MDpdHHIVUcd9mfHM) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi), [Neigh](https://open.spotify.com/artist/0zyYd1BIWulWzSzmt4rcue) | [Your Love \(feat\. Neigh\)](https://open.spotify.com/album/0SSlnv6FtEurI3bkbMekf7) | 2:53 | 2020-03-17 | 2022-04-21 |
 | [Your Soul](https://open.spotify.com/track/6ZT3coOj97F6CVvruPtnox) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [The Sunny Album \(Deluxe Edition\)](https://open.spotify.com/album/2VmLk5bAd5QjLtX7cHm594) | 5:24 | 2020-05-18 | 2020-07-18 |

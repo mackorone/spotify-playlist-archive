@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,094 songs - 1 day 23 hr 23 min
+1,095 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Every Time](https://open.spotify.com/track/7wIEfhAIUrBGTp4ZHkHl9k) | [lonely beach house](https://open.spotify.com/artist/1jvDr2Sxp7ahE2XnykCBX3) | [Every Time](https://open.spotify.com/album/35RLkkhVvN3efNqnV5CbBT) | 2:31 | 2023-10-13 | 2024-05-13 |
 | [Everything I Want](https://open.spotify.com/track/41UVBtBJKGpY0yuPsIm7nB) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [CUBY](https://open.spotify.com/artist/6n1wZRMdadogX69VCHg9F0) | [Everything I Want](https://open.spotify.com/album/69EtV5U7CQ1QdHftkqp9xz) | 2:15 | 2025-08-03 | 2025-09-08 |
 | [Everything I Wanted](https://open.spotify.com/track/17Yg8QW4SDwjvmHikrrOre) | [Jordan Levit](https://open.spotify.com/artist/6BCP0ZHBzZDyhgjg6Lmj2e), [UnderWater Project](https://open.spotify.com/artist/3GT3gnZ90UuW5Cs0AJopzb), [L!LY](https://open.spotify.com/artist/78dzc9jtm3rsK2ID1burVY) | [Everything I Wanted](https://open.spotify.com/album/3YvUQyqpSdmi8YME9BLRaU) | 2:45 | 2025-05-18 | 2025-11-24 |
+| [Eyes Shut](https://open.spotify.com/track/0NgOwfHLUzmfgRY0XoXzbr) | [The kid in blue](https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Eyes Shut](https://open.spotify.com/album/3XdLCfK6V5vtKrGlzmNrO1) | 2:16 | 2025-11-27 |  |
 | [Eyesight](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7) | 3:13 | 2023-12-10 | 2024-01-08 |
 | [Face of Lies](https://open.spotify.com/track/7mikFzgZIpagQ3JEghvOaz) | [KAJ](https://open.spotify.com/artist/1MPHxC0IFc9NFIqTSksCuj), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Iuliss](https://open.spotify.com/artist/0RHB8PKVkVyaYQKRGZclN8) | [Face Of Lies](https://open.spotify.com/album/7F24klsLNXafxJwQ8BHSOV) | 2:47 | 2023-11-22 | 2024-04-16 |
 | [Fade Away](https://open.spotify.com/track/5rNYy6qVHojihs356fL476) | [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [OMERGY](https://open.spotify.com/artist/32Y9uYyaQUetwzraaVE1SU) | [Fade Away](https://open.spotify.com/album/5m9gU0tUWacgpcyQ0Wvjqo) | 2:04 | 2025-08-24 | 2025-09-29 |
@@ -756,7 +757,7 @@
 | [Picture Of You](https://open.spotify.com/track/3MHv3exnSR5TdnhYm3WLVu) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6), [Luna Belle](https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w) | [Picture Of You](https://open.spotify.com/album/3PzIjCJLbxusfKamCibAsx) | 2:13 | 2024-12-15 | 2025-01-13 |
 | [Pineapple Fields](https://open.spotify.com/track/0Azm5zjNW7scVyUnVzFne4) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Pineapple Fields](https://open.spotify.com/album/77JrcgfH0gJ1811OMx9fKx) | 2:14 | 2023-09-22 | 2023-12-18 |
 | [Pink Skies](https://open.spotify.com/track/3PmV9FolX4D7ndBcXwbGUR) | [Modern Culture](https://open.spotify.com/artist/0Z7fLEbrUz9oFSh6sQTDAp), [Josiah Nichols](https://open.spotify.com/artist/0lRQLoQrjE7zLSlLoh1uk3), [Brenda](https://open.spotify.com/artist/2N7wwvscWyr5WhyRBxFSR0) | [Pink Skies](https://open.spotify.com/album/1Ru5rPWeVOpELAxpRlz5XI) | 2:32 | 2025-03-30 | 2025-06-03 |
-| [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sûr faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 | 2024-12-14 |  |
+| [Place We Know](https://open.spotify.com/track/12gsdUDClTjDeCM61nnqdX) | [sur faire](https://open.spotify.com/artist/20einaeE0SdJZVBGpPaQP2), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Place We Know](https://open.spotify.com/album/3zG9wqidbdyxyqHhfhfDxk) | 2:36 | 2024-12-14 |  |
 | [Plaka Dreams](https://open.spotify.com/track/5FbIWRcJX03jwNnDPCZaZi) | [Harper Quinn](https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN) | [Plaka Dreams](https://open.spotify.com/album/1fxB9q8elhWLamzKKeXgMZ) | 2:30 | 2024-04-01 | 2024-07-09 |
 | [Play On My Mind](https://open.spotify.com/track/4ajULmqzU6vXyF4tLOvqgX) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Play On My Mind](https://open.spotify.com/album/6J1WoAVQbPe4NTAvx5Doao) | 2:10 | 2024-08-25 | 2024-09-16 |
 | [Pleasure & Pain](https://open.spotify.com/track/3aQbews2UsaZk2wEbsCvrE) | [Johny Luv](https://open.spotify.com/artist/6LK4Fsjla1WqiT3ov734TL) | [Pleasure & Pain](https://open.spotify.com/album/0UZ4WyDGLVaJC97q8W9oA8) | 3:34 | 2023-09-22 | 2025-03-03 |

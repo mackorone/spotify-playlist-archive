@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 210049,
+  "num_followers": 210053,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACFIofm/3FhCF/Sn1Y0zgRL",
+  "snapshot_id": "aSZDAAAAAACTlX2LD6fCKtMkd6vsAYWI",
   "tracks": [
     {
       "added_at": null,
@@ -152,7 +152,7 @@
       "added_at": null,
       "album": {
         "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
       },
       "artists": [
         {
@@ -165,12 +165,12 @@
         },
         {
           "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
         }
       ],
       "duration_ms": 212650,
       "name": "LEAL",
-      "url": "https://open.spotify.com/track/7LC49U08KjfwzDMiGNkE1q"
+      "url": "https://open.spotify.com/track/1tkJNRVpPUhWlxESlXTy4p"
     },
     {
       "added_at": null,
@@ -383,46 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "BEN\u00c7A",
-      "url": "https://open.spotify.com/track/3GFF2ybvzJWteFci21mC1W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
-        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 222271,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
       },
@@ -443,6 +403,26 @@
       "duration_ms": 213983,
       "name": "Procuro Algu\u00e9m",
       "url": "https://open.spotify.com/track/0Enz8lbwvDmGg3UijbW7IS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quanto Mais Eu Como, Mais Fome Eu Sinto !",
+        "url": "https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 161971,
+      "name": "PPRT !",
+      "url": "https://open.spotify.com/track/3cENw2qigK9kUULiih4Trd"
     },
     {
       "added_at": null,
@@ -475,6 +455,26 @@
       "duration_ms": 505482,
       "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
       "url": "https://open.spotify.com/track/5ppwv9SmW6AHgBKUrHe34R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "BEN\u00c7A",
+      "url": "https://open.spotify.com/track/3UXY3wUDJWpzIz4fKU4zPM"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 161971,
-      "name": "PPRT !",
-      "url": "https://open.spotify.com/track/3cENw2qigK9kUULiih4Trd"
+      "duration_ms": 222271,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re"
     },
     {
       "added_at": null,
@@ -548,7 +548,7 @@
       "added_at": null,
       "album": {
         "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
       },
       "artists": [
         {
@@ -565,18 +565,18 @@
         },
         {
           "name": "Mc Kaio",
-          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+          "url": "https://open.spotify.com/artist/70g3tyEP42Fk3jHAx0pQEX"
         }
       ],
       "duration_ms": 229077,
       "name": "TIPO",
-      "url": "https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U"
+      "url": "https://open.spotify.com/track/6MrnySNH4BqzI8iioFCdp0"
     },
     {
       "added_at": null,
       "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
       },
       "artists": [
         {
@@ -590,7 +590,7 @@
       ],
       "duration_ms": 329008,
       "name": "JUNHO DE 94",
-      "url": "https://open.spotify.com/track/2JLlkW8sNBoEpSCHJODPDH"
+      "url": "https://open.spotify.com/track/56AJGc24Vrk3Zzcut70Sng"
     },
     {
       "added_at": null,
@@ -611,6 +611,34 @@
       "duration_ms": 179930,
       "name": "REAL DEMAIS",
       "url": "https://open.spotify.com/track/3fWqG2AylwBmcXlS9tqrsB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olho de Tigre",
+        "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Slim Beat",
+          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Olho de Tigre",
+      "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
     },
     {
       "added_at": null,
@@ -643,34 +671,6 @@
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olho de Tigre",
-        "url": "https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Slim Beat",
-          "url": "https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP"
-        },
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Olho de Tigre",
-      "url": "https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN"
     },
     {
       "added_at": null,
@@ -787,6 +787,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/742e2enD6fInML3IT8I7NI"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
+        }
+      ],
+      "duration_ms": 236523,
+      "name": "D\u00e1 pra ser?",
+      "url": "https://open.spotify.com/track/6L6LQzw0NB6OARDUnecjMl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obstinado",
         "url": "https://open.spotify.com/album/2qte1yUh9UwvAEoDO1mQAd"
       },
@@ -819,34 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/742e2enD6fInML3IT8I7NI"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
-        }
-      ],
-      "duration_ms": 236523,
-      "name": "D\u00e1 pra ser?",
-      "url": "https://open.spotify.com/track/6L6LQzw0NB6OARDUnecjMl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -863,6 +863,26 @@
       "duration_ms": 170432,
       "name": "depois da meia noite",
       "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 212170,
+      "name": "CAN\u00c7\u00c3O PRO MEU FILHO",
+      "url": "https://open.spotify.com/track/52lpXQGwOs9dV2Do9CHLex"
     },
     {
       "added_at": null,
@@ -891,28 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 212170,
-      "name": "CAN\u00c7\u00c3O PRO MEU FILHO",
-      "url": "https://open.spotify.com/track/7Duqg6O18CTST0bJX3RQWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
       },
       "artists": [
         {
@@ -926,7 +926,7 @@
       ],
       "duration_ms": 258816,
       "name": "HAT TRICK",
-      "url": "https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe"
+      "url": "https://open.spotify.com/track/2XtvccZF2k2TrAD9kxxqbk"
     },
     {
       "added_at": null,
@@ -1000,7 +1000,7 @@
       "added_at": null,
       "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
       },
       "artists": [
         {
@@ -1009,12 +1009,12 @@
         },
         {
           "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "url": "https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4"
         }
       ],
       "duration_ms": 220181,
       "name": "Hoje N\u00e3o",
-      "url": "https://open.spotify.com/track/2g4O6uYBRn8c6HbXc2yEd6"
+      "url": "https://open.spotify.com/track/4miTQZo2ppOcbBc7B0P8fS"
     },
     {
       "added_at": null,
@@ -1064,7 +1064,7 @@
       "added_at": null,
       "album": {
         "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
       },
       "artists": [
         {
@@ -1078,13 +1078,13 @@
       ],
       "duration_ms": 222128,
       "name": "FALC\u00c3O",
-      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
+      "url": "https://open.spotify.com/track/0Thmke3nCv0ICwdAMltnsI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE"
       },
       "artists": [
         {
@@ -1092,13 +1092,17 @@
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "DJ Cost",
-          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
         }
       ],
-      "duration_ms": 218282,
-      "name": "Corre das Notas",
-      "url": "https://open.spotify.com/track/5lKdcZZsmSFIDtbNINXxkP"
+      "duration_ms": 197600,
+      "name": "Todo Errado",
+      "url": "https://open.spotify.com/track/3Arpp0tBz6tYleQAKjZ1jX"
     },
     {
       "added_at": null,
@@ -1139,6 +1143,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/2yk8dzqXBuwIPUHV81fVyx"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Xapral\u00e1",
+      "url": "https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0femyMpoKFBbS4NCFbriFX"
+        },
+        {
+          "name": "Yodabren",
+          "url": "https://open.spotify.com/artist/0aWOEUoRtkCHK96QTOcTjn"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Santa Ceia",
+      "url": "https://open.spotify.com/track/5vCzUWgHCURn3jN8dvdDTP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Favela Vive 3",
         "url": "https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF"
       },
@@ -1167,26 +1219,6 @@
       "duration_ms": 499570,
       "name": "Favela Vive 3",
       "url": "https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "Geminiano",
-      "url": "https://open.spotify.com/track/543HV83fPC5akWEtYsMzq8"
     },
     {
       "added_at": null,
@@ -1235,6 +1267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+        }
+      ],
+      "duration_ms": 218282,
+      "name": "Corre das Notas",
+      "url": "https://open.spotify.com/track/5lKdcZZsmSFIDtbNINXxkP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -1263,54 +1315,6 @@
       "duration_ms": 288000,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0femyMpoKFBbS4NCFbriFX"
-        },
-        {
-          "name": "Yodabren",
-          "url": "https://open.spotify.com/artist/0aWOEUoRtkCHK96QTOcTjn"
-        }
-      ],
-      "duration_ms": 279253,
-      "name": "Santa Ceia",
-      "url": "https://open.spotify.com/track/5vCzUWgHCURn3jN8dvdDTP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Todo Errado",
-      "url": "https://open.spotify.com/track/540aOl7XanLFQPAxc9uDBd"
     }
   ],
   "unique_name": "This Is Djonga",

@@ -2,9 +2,9 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Celebrating the life of Betty Bayo\. Cover: <a href="https://open.spotify.com/artist/6Ai6VHx0i9hk6u8n7ySE0T?si=g84hmsQfS9yDgNMKIFMemw">Betty Bayo</a>
+> The best of Swahili gospel music\. Cover: Rose Muhando
 
-292 songs - 1 day 1 hr 7 min
+295 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ameniweka huru kweli](https://open.spotify.com/track/6TxbYqlgD57ftgtbZh7cw9) | [Papi Clever & Dorcas](https://open.spotify.com/artist/0BuyM2PAaY1aqSqvYkV26J) | [AMENIWEKA HURU KWELI \(Nyimbo za wokovu\) ALBUM 2](https://open.spotify.com/album/5kBT5i8KJqCS9ka4RwEAKu) | 6:38 | 2023-08-25 |  |
 | [Amina](https://open.spotify.com/track/4xo7NtNCDqsiGmdwgmAw8G) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [JOSH CLEOPA](https://open.spotify.com/artist/7nvpGpGRXcmzi40VoqVBfj), [Melanie Anthony](https://open.spotify.com/artist/3QxA7gV0hPreXmj1zvLp7g) | [Amina](https://open.spotify.com/album/6LLibuePeV7IjJFxqoNtc2) | 6:40 | 2024-09-20 | 2025-03-28 |
 | [Amina](https://open.spotify.com/track/7bPosug1dWKjoN5EUbopsp) | [BELLA KOMBO](https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk), [JOSH CLEOPA](https://open.spotify.com/artist/7nvpGpGRXcmzi40VoqVBfj), [Melanie Anthony](https://open.spotify.com/artist/3QxA7gV0hPreXmj1zvLp7g) | [Mungu Ni Mmoja](https://open.spotify.com/album/04njaHwnA3vn08lI2O4IGA) | 6:42 | 2025-05-30 |  |
+| [Amina](https://open.spotify.com/track/3M0rZ3y3U5GblF0rOEuajB) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Sophie Shangwa](https://open.spotify.com/artist/3rOaAX8sANHe6g8kcCPcAB) | [AMINA](https://open.spotify.com/album/19uq2Q3iuAI8W4xvrsrp1X) | 4:26 | 2025-11-28 |  |
 | [Amua](https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3) | [Amua](https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca) | 6:29 | 2023-05-12 | 2023-11-03 |
 | [Anabadilisha Matokeo](https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anabadilisha Matokeo](https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra) | 3:49 | 2024-08-16 | 2025-02-21 |
 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 | 2022-06-24 | 2023-04-21 |
@@ -90,6 +91,7 @@
 | [Kama Sio Wema Wako](https://open.spotify.com/track/10xrjaeyDwMoouws5bj7FQ) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Kama Sio Wema Wako](https://open.spotify.com/album/2RVTt6R82caHUCa6Z0hb7O) | 5:17 | 2024-08-30 | 2025-07-25 |
 | [Kaniona](https://open.spotify.com/track/4tozSiv1PmsJQxIauen2dL) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Akida](https://open.spotify.com/album/2T9r4gMpKXsGpfwHN2u3k2) | 5:26 | 2025-03-28 |  |
 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 | 2022-06-24 | 2024-07-12 |
+| [Katindili](https://open.spotify.com/track/50196UZ7IWgbUENtSVGMjN) | [Dr Mbuvi](https://open.spotify.com/artist/5Y1M968gXXstPz4Oz6iB7V) | [Katindili](https://open.spotify.com/album/5pi2fEIg41eWH1q5Pj4HzG) | 3:50 | 2025-11-28 |  |
 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 | 2022-06-24 | 2023-04-21 |
 | [Kimya](https://open.spotify.com/track/6nqH0IFvSpysYdVN5aiTyn) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Kimya](https://open.spotify.com/album/65XUJTpJBKcnNcEKuGcjB8) | 3:39 | 2025-08-29 |  |
 | [Kiriro Drill \- Remix](https://open.spotify.com/track/7qeMkJOTE1yEgJjkuBHfUJ) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Kiriro Drill \(Remix\)](https://open.spotify.com/album/4f5Aubguh5ezrvP8lFeuVq) | 1:53 | 2024-04-19 | 2024-09-06 |
@@ -217,6 +219,7 @@
 | [SEMA ASANTE](https://open.spotify.com/track/2TZ4fabbGN00FOuAP2Hl1p) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [SEMA ASANTE](https://open.spotify.com/album/0kmO8vsAYqPMPEPj25gXPs) | 2:35 | 2024-02-02 | 2024-02-16 |
 | [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 | 2024-02-02 | 2024-10-18 |
 | [Shida](https://open.spotify.com/track/1DwIdpfjh50nhswAniJpQW) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shida](https://open.spotify.com/album/6A83CUr0UmsmAZu8PahRe7) | 4:02 | 2023-08-18 | 2025-02-21 |
+| [Shuka Tukuone](https://open.spotify.com/track/3SdAyRhdxFiSf1w6vwr6yX) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Shuka Tukuone](https://open.spotify.com/album/4Hx5Wma6dz3Bg4MqPNvHCi) | 5:01 | 2025-11-28 |  |
 | [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 | 2025-08-16 |
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |

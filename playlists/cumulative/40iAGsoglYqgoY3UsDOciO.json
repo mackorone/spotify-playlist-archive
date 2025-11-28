@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "City Lights",
+        "url": "https://open.spotify.com/album/1b1B3W2TKvWqsLs6hr94qt"
+      },
+      "artists": [
+        {
+          "name": "Stefano Pesapane",
+          "url": "https://open.spotify.com/artist/1pqq2ysQTQXlFJ23ePR8L8"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/7yfavewPcZm3t1XV1HJxU7"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/79DX18dJbTqZHdlodMJhXP"
       },

@@ -154,6 +154,24 @@
     {
       "album": {
         "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/3D0eqzFLwFtlndHXsADjy3"
+      },
+      "artists": [
+        {
+          "name": "Grace Lee",
+          "url": "https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179078,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/1cFgobzKd4ZZ378Hc6Hi8v"
+    },
+    {
+      "album": {
+        "name": "Baby Blue",
         "url": "https://open.spotify.com/album/5GIRmKFCucH40zEWxHkwDQ"
       },
       "artists": [
@@ -164,7 +182,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 179078,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/2dVY0aLXcsN3eKCvcgs3MQ"
@@ -556,6 +574,24 @@
     {
       "album": {
         "name": "die 4 u",
+        "url": "https://open.spotify.com/album/1jS2Iktf5SkTmQH04nWHkZ"
+      },
+      "artists": [
+        {
+          "name": "Livy Jeanne",
+          "url": "https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173110,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/0EpvQGvlRj414hJ1s93UP9"
+    },
+    {
+      "album": {
+        "name": "die 4 u",
         "url": "https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9"
       },
       "artists": [
@@ -566,7 +602,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 173110,
       "name": "die 4 u",
       "url": "https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3"
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 165335,
       "name": "Hennessy in Tennessee",
       "url": "https://open.spotify.com/track/2l5g2LCFSMpj2jUz0RZrdF"
@@ -1104,6 +1140,24 @@
       "duration_ms": 165335,
       "name": "Hennessy in Tennessee",
       "url": "https://open.spotify.com/track/48gdO56xOzbd1ROAgbptvR"
+    },
+    {
+      "album": {
+        "name": "Open Bars",
+        "url": "https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165335,
+      "name": "Hennessy in Tennessee",
+      "url": "https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T"
     },
     {
       "album": {
@@ -2088,6 +2142,24 @@
     {
       "album": {
         "name": "New Town",
+        "url": "https://open.spotify.com/album/5yKnPgv8pkLzS2jB0gLsiz"
+      },
+      "artists": [
+        {
+          "name": "Smithfield",
+          "url": "https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "New Town",
+      "url": "https://open.spotify.com/track/02979mpZkixwGIzdFAut8O"
+    },
+    {
+      "album": {
+        "name": "New Town",
         "url": "https://open.spotify.com/album/5UHON4pVvrXgn9DIPUNPq0"
       },
       "artists": [
@@ -2098,7 +2170,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 192120,
       "name": "New Town",
       "url": "https://open.spotify.com/track/2znEJ1xEQdOnXJB44jRoSB"
@@ -2696,10 +2768,32 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 181376,
       "name": "Still Feels The Same",
       "url": "https://open.spotify.com/track/2fOjTmGULGRwVBKoj7unUj"
+    },
+    {
+      "album": {
+        "name": "Open Bars",
+        "url": "https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        },
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181376,
+      "name": "Still Feels The Same",
+      "url": "https://open.spotify.com/track/36ofZpdOk2lb9JSI7Hfyhn"
     },
     {
       "album": {

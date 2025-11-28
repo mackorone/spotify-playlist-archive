@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 322,
+  "num_followers": 327,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAB/qhUKRqHqzCKqyO7aA612eK2hNgJ",
+  "snapshot_id": "AAACAcDJr5S/9dPL9lUaOLTAQEh2liAO",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1423,6 +1423,54 @@
       "duration_ms": 177965,
       "name": "Crashout Bandicoot",
       "url": "https://open.spotify.com/track/4tr2Y43N2nmWDY14JzkRoi"
+    },
+    {
+      "added_at": "2025-11-27 14:25:53",
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/7loqwEQe6W5HYObon40D0H"
+      },
+      "artists": [
+        {
+          "name": "Nate the Great",
+          "url": "https://open.spotify.com/artist/4EHovbr428q6Tnj15gQWu8"
+        }
+      ],
+      "duration_ms": 160055,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/6fVrdZhPQDPFX78HqcUu24"
+    },
+    {
+      "added_at": "2025-11-27 15:37:20",
+      "album": {
+        "name": "Minimal Life",
+        "url": "https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB"
+      },
+      "artists": [
+        {
+          "name": "Waiting for the Sun",
+          "url": "https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA"
+        }
+      ],
+      "duration_ms": 343500,
+      "name": "Minimal Life",
+      "url": "https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2"
+    },
+    {
+      "added_at": "2025-11-27 15:38:58",
+      "album": {
+        "name": "Independence",
+        "url": "https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV"
+      },
+      "artists": [
+        {
+          "name": "Blood and Champagne",
+          "url": "https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo"
+        }
+      ],
+      "duration_ms": 215555,
+      "name": "Independence",
+      "url": "https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

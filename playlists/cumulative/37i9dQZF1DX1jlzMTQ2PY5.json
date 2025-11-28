@@ -774,7 +774,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 201918,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/2UwuJuCR6uql3oR2Lfb0qU"
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 222581,
       "name": "High Time",
       "url": "https://open.spotify.com/track/22NG6qqEocSa7srAyyyLQw"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 247517,
       "name": "In the Air",
       "url": "https://open.spotify.com/track/0ZhLKSBdrA6ICptBAm5Ans"
@@ -3022,6 +3022,32 @@
       "duration_ms": 249975,
       "name": "Love Me, Haunt Me",
       "url": "https://open.spotify.com/track/0y1nYb8VBwGNy8WfDZs2iQ"
+    },
+    {
+      "album": {
+        "name": "Lunatics & Legends",
+        "url": "https://open.spotify.com/album/3ykaR3X0wfsHG0JFxrmfFP"
+      },
+      "artists": [
+        {
+          "name": "London Elektricity",
+          "url": "https://open.spotify.com/artist/4CbuwI3bEF7gQOwpxBKtal"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "Dunk",
+          "url": "https://open.spotify.com/artist/3to9W3JX4kSmj4TEGlKiDS"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257243,
+      "name": "Lovebombs",
+      "url": "https://open.spotify.com/track/0XC1E7JdINwIbX94uT5YkU"
     },
     {
       "album": {
@@ -4799,6 +4825,24 @@
     },
     {
       "album": {
+        "name": "Uncovered",
+        "url": "https://open.spotify.com/album/1C26uUcYX1wtzHcaIlBLOP"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198486,
+      "name": "Uncovered",
+      "url": "https://open.spotify.com/track/75jOmycCtNUZYgBfoKPh83"
+    },
+    {
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/5iMUoPaGNyFW56U0LNBRtO"
       },
@@ -4942,6 +4986,24 @@
       "duration_ms": 248911,
       "name": "Wake Up Call",
       "url": "https://open.spotify.com/track/41Fimqq5VMmOdHgdh2VGXR"
+    },
+    {
+      "album": {
+        "name": "Want U Bad",
+        "url": "https://open.spotify.com/album/2haaUnB2cVfDRqjYjObaU3"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270402,
+      "name": "Want U Bad",
+      "url": "https://open.spotify.com/track/5TQBEWDfdtfD5R4HY3Zcto"
     },
     {
       "album": {

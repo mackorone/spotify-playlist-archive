@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Luke Bryan and Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,372 likes - 103 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,201 likes - 103 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2607,
+  "num_followers": 2609,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAAAogPJe4rJRmosEb16yasjQ",
+  "snapshot_id": "aSZDAAAAAABzQaOK3Yd6cw5cdwWkCCgN",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moonwater",
-        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 112566,
-      "name": "Moonwater",
-      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trillion$ (feat. bludnymph)",
         "url": "https://open.spotify.com/album/1N7aXdwHDSWrJDzRyVYX8q"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 123681,
       "name": "Trillion$ (feat. bludnymph)",
       "url": "https://open.spotify.com/track/0sbftuRdRDTrXh9AO4k39m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moonwater",
+        "url": "https://open.spotify.com/album/0x4mCb6qjCziAQM8cQuQYv"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 112566,
+      "name": "Moonwater",
+      "url": "https://open.spotify.com/track/6fgu5zrPe5ExF7RmyJZUg6"
     },
     {
       "added_at": null,

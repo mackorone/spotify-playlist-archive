@@ -1,12 +1,12 @@
 {
   "description": "This is Khruangbin. The essential tracks, all in one playlist.",
-  "num_followers": 250671,
+  "num_followers": 250739,
   "original_name": "This Is Khruangbin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACoS1lfHGX/Afj4/3QDJ1hl",
+  "snapshot_id": "aSZDAAAAAAA6WQTg3MRt6JCsiVqJ6Bzg",
   "tracks": [
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Late Night Tales: Khruangbin",
+        "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 201917,
+      "name": "Summer Madness - Exclusive Cover Version",
+      "url": "https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Infamous Bill",
         "url": "https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Night Tales: Khruangbin",
-        "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
+        "name": "Mordechai",
+        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 201917,
-      "name": "Summer Madness - Exclusive Cover Version",
-      "url": "https://open.spotify.com/track/5FpOcTfCOpPovAxnYcwrKQ"
+      "duration_ms": 234913,
+      "name": "Shida",
+      "url": "https://open.spotify.com/track/4dqaY6UynbiblKm3GSjtwg"
     },
     {
       "added_at": null,
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mordechai",
-        "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
         {
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 234913,
-      "name": "Shida",
-      "url": "https://open.spotify.com/track/4dqaY6UynbiblKm3GSjtwg"
+      "duration_ms": 225153,
+      "name": "C\u00f3mo Me Quieres",
+      "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 221218,
       "name": "The No.4",
       "url": "https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "C\u00f3mo Me Quieres",
-      "url": "https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f"
     },
     {
       "added_at": null,

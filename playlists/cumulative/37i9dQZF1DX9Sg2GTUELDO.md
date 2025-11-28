@@ -2,9 +2,9 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: Nancy Kwai
+> 感受女聲力量。Cover: Amy Lo
 
-607 songs - 1 day 12 hr 3 min
+609 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [孤島 \- 劇集《旁觀者》主題曲](https://open.spotify.com/track/5gVYg7bkbQxK0aemnXBbJB) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [孤島 \(劇集《旁觀者》主題曲\)](https://open.spotify.com/album/5dJZaBBUhpg3jZYTNax4bA) | 3:28 | 2024-06-27 | 2025-09-12 |
 | [孤獨的戀愛家](https://open.spotify.com/track/4UuXDAnySNrnVcE7y1Xjwi) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [孤獨的戀愛家](https://open.spotify.com/album/5ycW8WPd14X1j7uxkC9Vl4) | 3:43 | 2024-06-27 | 2025-09-12 |
 | [安全駕駛](https://open.spotify.com/track/59Z3XOZ5qxfgjyiAvqjNev) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [安全駕駛](https://open.spotify.com/album/1uBaNTKO4ATifamnt6mEVa) | 3:48 | 2024-06-27 | 2025-09-12 |
+| [安靜的水晶球](https://open.spotify.com/track/3WaxLMzNopWqhCyMwdleHl) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [安靜的水晶球](https://open.spotify.com/album/4vGFbehLMCbyBtZBWLNSXm) | 4:01 | 2025-11-27 |  |
 | [家傳秘方](https://open.spotify.com/track/0uUnlfoFQkFvUbdAUaWq0K) | [WinWin 楊安妮](https://open.spotify.com/artist/2AndESNVeA7nBIvYfv5BD9) | [家傳秘方](https://open.spotify.com/album/1fgYYF0puj95hclu6B4S9u) | 3:24 | 2025-09-11 |  |
 | [實況模擬異聞錄](https://open.spotify.com/track/7I05vjD4cgadVzjRuYdmnU) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [Persona Within](https://open.spotify.com/album/3dJE2QifQalKMeysswX2mc) | 3:23 | 2025-10-11 |  |
 | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/track/0WPVn5cAsN8f3Cjuqtmyfr) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/album/70qRv1iy64ecKwEP5d32GB) | 2:53 | 2025-01-16 |  |
@@ -516,7 +517,7 @@
 | [現在](https://open.spotify.com/track/4CTVrNDMw4XSHOcJfrJEAA) | [林愷鈴](https://open.spotify.com/artist/2tOQ6qYoc0Zzi7n6aSeUaa) | [現在](https://open.spotify.com/album/0YNkXpH1oD9NE2aWKyKzrX) | 3:48 | 2024-06-27 | 2025-09-12 |
 | [現在完成式 \-《埋班作樂III》作品](https://open.spotify.com/track/6RDqaD81dAIfCrv7F3colg) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [現在完成式 \-《埋班作樂III》作品](https://open.spotify.com/album/6VTFAGdAxbg52JY7idaBHq) | 4:01 | 2024-11-07 | 2025-09-12 |
 | [甜蜜在十點五十九分前](https://open.spotify.com/track/3cbv2A9wr4n5100gxnHmUO) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [甜蜜在十點五十九分前](https://open.spotify.com/album/17Qb9AM8uSoKcvIWyOffGb) | 2:29 | 2024-06-27 | 2025-09-12 |
-| [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:53 | 2025-02-20 |  |
+| [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:50 | 2025-02-20 |  |
 | [當兵的自我修養](https://open.spotify.com/track/6ipUXVKisMDnAiQP8GmBik) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [當兵的自我修養](https://open.spotify.com/album/1X5cen2hFfI6V1Ul9COBBa) | 2:51 | 2024-10-17 | 2025-09-12 |
 | [痴根鐵粉](https://open.spotify.com/track/25GXAivtvnqjrd9HxtUo4F) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [痴根鐵粉](https://open.spotify.com/album/2K2fG8bNgZws9A266d6Uue) | 2:48 | 2024-10-03 | 2025-09-12 |
 | [白夜行](https://open.spotify.com/track/1zBbE6deJPlPmZ1A0hCUvV) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [白夜行](https://open.spotify.com/album/7xma6rcCZa9zjp98JKkthT) | 4:09 | 2025-05-01 |  |
@@ -537,6 +538,7 @@
 | [空白 \- 劇集《反黑英雄》插曲](https://open.spotify.com/track/0M2R3vU87nu7iMCiBLAmFx) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [空白 \(劇集《反黑英雄》插曲\)](https://open.spotify.com/album/2qGq3NSnw9VpyaZJhO5GEO) | 4:01 | 2024-07-11 | 2025-09-12 |
 | [窮人的薔薇](https://open.spotify.com/track/0mOa18v5rXhg8CRTPQIe3u) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [窮人的薔薇](https://open.spotify.com/album/4F8549onRnd1d5tYwT8qmT) | 5:18 | 2024-06-27 | 2025-09-12 |
 | [立斷](https://open.spotify.com/track/59hbCeKUhHgu1osZjzqbqK) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [立斷](https://open.spotify.com/album/6BJZvDMveWcYsTYVEB7cLE) | 3:56 | 2025-07-03 |  |
+| [粉月](https://open.spotify.com/track/1uB4ISd6swklwx3Nd5zQvm) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [粉月](https://open.spotify.com/album/2apIRmL06ZwxNKOiuZFidM) | 3:19 | 2025-11-27 |  |
 | [細間始終你好](https://open.spotify.com/track/688wipwWNbVMPE9ACylRo5) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [細間始終你好](https://open.spotify.com/album/5Lg3spWSfuQ1O1DvlnBVHa) | 3:48 | 2024-08-22 | 2025-09-12 |
 | [經痛不及我心痛](https://open.spotify.com/track/0IAFA8XugTtMuRibXAFMnG) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [經痛不及我心痛](https://open.spotify.com/album/1B1Z8wDPacZLqC3uILeV9q) | 3:13 | 2024-06-27 | 2025-09-12 |
 | [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2024-06-27 | 2025-09-12 |

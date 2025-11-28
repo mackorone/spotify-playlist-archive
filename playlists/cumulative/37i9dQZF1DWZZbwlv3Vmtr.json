@@ -14605,6 +14605,24 @@
     },
     {
       "album": {
+        "name": "right up your alley",
+        "url": "https://open.spotify.com/album/5MqC027fYQmUHsq02Z1Tx3"
+      },
+      "artists": [
+        {
+          "name": "s\u00fcnny side",
+          "url": "https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122257,
+      "name": "right up your alley",
+      "url": "https://open.spotify.com/track/56m7qRhqSC4rIT3G5tD4JG"
+    },
+    {
+      "album": {
         "name": "river",
         "url": "https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1"
       },
@@ -15970,7 +15988,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 133333,
       "name": "slow living",
       "url": "https://open.spotify.com/track/7iChjbqCbaf4EAdVQqDiOs"

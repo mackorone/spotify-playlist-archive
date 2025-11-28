@@ -2983,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "The Complete Recordings 1941-1947",
+        "url": "https://open.spotify.com/album/0x5yF2BAmms8KLA3YubZDP"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "I Threw a Kiss In the Ocean",
+      "url": "https://open.spotify.com/track/3TlEu9aPc5ea6T3eqLvN44"
+    },
+    {
+      "album": {
         "name": "Where Or When",
         "url": "https://open.spotify.com/album/2sm4wrvpYpmDHts6c2Q62K"
       },
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 181200,
       "name": "I Threw A Kiss In The Ocean",
       "url": "https://open.spotify.com/track/3ktRWyYthHd4UBUIrJ2zB2"
@@ -4318,7 +4336,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"

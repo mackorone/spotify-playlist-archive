@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 3Li¥en
 
-1,183 songs - 2 day 6 hr 46 min
+1,185 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [FOREVER YOUNG](https://open.spotify.com/track/3u9bea99tLSrCgwrO6hY5b) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [FOREVER YOUNG](https://open.spotify.com/album/7oWgHkk0vgrhLANspLFl1w) | 1:51 | 2024-04-24 | 2024-07-17 |
 | [Free My Bro$](https://open.spotify.com/track/2a757GXFm7NnwSpxLKfeLX) | [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [Free My Bro$](https://open.spotify.com/album/3gJCJYUmWdkyl0ZCFXUzcf) | 3:12 | 2024-10-09 | 2025-01-15 |
 | [FREERIDE ON ROAD](https://open.spotify.com/track/655nGWRDqC6m6D2AeJuCdr) | [Bardin Beatz](https://open.spotify.com/artist/0s2BMtj4o4ywNR9w5y58RA), [Akira Jun](https://open.spotify.com/artist/6DHEtqz1wHsFgEhxwFo99d) | [FREERIDE ON ROAD](https://open.spotify.com/album/4VqQIgEk1NAl3dNuHaBXZR) | 2:00 | 2023-12-07 | 2023-12-27 |
+| [Freestyle](https://open.spotify.com/track/0zVDRQ7FGICe6bXR1EUkcB) | [Jahxncho](https://open.spotify.com/artist/1xF8q5zFMA0Hz5RSjciswQ) | [Before The Fame](https://open.spotify.com/album/6vu0RsQZbDlbJvYS9fiWEz) | 2:29 | 2025-11-27 |  |
 | [Freestyle \(feat\. SMILEE & P\-Free\)](https://open.spotify.com/track/0vvSyjgikPgEMv6jd4YzTN) | [DJ REX](https://open.spotify.com/artist/5Yb1EbMeYqD1befKAzPz42), [SMILEE](https://open.spotify.com/artist/34mZwM09eYRbWzkWh1NtBR), [P\-free](https://open.spotify.com/artist/35RnWgsErQjC9JlajX82Pl) | [Freestyle \(feat\. SMILEE & P\-Free\)](https://open.spotify.com/album/6L4627FrdPcouGUDkYFSLM) | 2:54 | 2025-01-08 | 2025-04-02 |
 | [Friends](https://open.spotify.com/track/77QPBNmjune3Xlj4QfB2M6) | [SULLEN](https://open.spotify.com/artist/27DGJN7P0zs1BCMjSn2ENb), [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA) | [ONLYS](https://open.spotify.com/album/6pEIrxa8bmtlxdI7xq0LiJ) | 3:15 | 2024-01-11 | 2024-02-21 |
 | [Frogs Party](https://open.spotify.com/track/4whrY3tG6VpHnTHUNf4WwH) | [Sitissy luvit](https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5), [陽](https://open.spotify.com/artist/7sjW2fvyssPuZ7kVLWSNPP) | [Frogs Party](https://open.spotify.com/album/0wqd7P04sJCfBm8AigklCC) | 2:54 | 2024-07-02 | 2024-07-31 |
@@ -403,6 +404,7 @@
 | [GONG](https://open.spotify.com/track/1yXrDx1K5K8c9yaX9Dh73C) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [GONG](https://open.spotify.com/album/30dtaFDTsIHYsQCTDuWSQK) | 3:52 | 2024-04-16 | 2024-05-02 |
 | [Good Boy](https://open.spotify.com/track/7cQwHS1zVXbSsaWA8G6fAA) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx) | [Good Boy](https://open.spotify.com/album/3hwaSgGklTs8yFSynyIc7B) | 2:48 | 2025-08-19 | 2025-11-26 |
 | [Good Day \(feat\. YELLASOMA & Lucy\)](https://open.spotify.com/track/1LJOb686FLwF7CbeLoCbsi) | [DJ REX](https://open.spotify.com/artist/5Yb1EbMeYqD1befKAzPz42), [YELLASOMA](https://open.spotify.com/artist/3L7pIDciByrtN9f9W4xlFR), [Lucy](https://open.spotify.com/artist/5gcDNkqNhYooqRIQvdFSv4) | [Good Day \(feat\. YELLASOMA & Lucy\)](https://open.spotify.com/album/4OBq21ke2vV3Up4vQcIAsg) | 2:40 | 2025-07-01 | 2025-10-01 |
+| [Good Life](https://open.spotify.com/track/785BETMnaavuSW6TJPOoeO) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Vingo](https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH) | [Good Life](https://open.spotify.com/album/0Xgnfb01FiYnYl02C6cfsJ) | 3:02 | 2025-11-27 |  |
 | [Goofy](https://open.spotify.com/track/1oY5ZxYdICMef7DkjrXQPa) | [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU) | [Goofy](https://open.spotify.com/album/2LUsxKAvjC4cZi1AuVi6li) | 1:48 | 2025-06-03 | 2025-09-10 |
 | [GOOFY AH](https://open.spotify.com/track/43q1CbpPN9pZDrSLuXHGfs) | [Kaikun](https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj), [ANH](https://open.spotify.com/artist/1kmyK4B8GpPz1nHI2MvOSO) | [GOOFY AH](https://open.spotify.com/album/5rqawpVzqFnH9Z1EtlsX1T) | 3:00 | 2025-06-25 | 2025-09-24 |
 | [Gose On](https://open.spotify.com/track/1DMhlVS8Nwhx9d24hdiojT) | [Yusuke YNN](https://open.spotify.com/artist/45DIoaOb5dxtKtRCw5soB2) | [Gose On](https://open.spotify.com/album/53j3T5h773pu5kckpR5PkQ) | 2:38 | 2023-12-07 | 2024-01-19 |

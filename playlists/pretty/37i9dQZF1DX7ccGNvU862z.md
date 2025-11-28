@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 > เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: Rifle
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,078 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,096 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 30 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
 | 31 | [SKYLINE](https://open.spotify.com/track/4BdyVcjoNWqCOaAGirRsf0) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [SKYLINE](https://open.spotify.com/album/6ecz8WYaKvvSZNr4LOOmyq) | 3:52 |
 | 32 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 |
-| 33 | [ไว้ลองกันใหม่ \(Toxic Love\)](https://open.spotify.com/track/0XRlF7kEoC8OOR9mLPLT0d) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ไว้ลองกันใหม่ \(Toxic Love\)](https://open.spotify.com/album/5LoPOmG4Ok8eCyGowWGCOO) | 4:01 |
+| 33 | [ไว้ลองกันใหม่ \(Toxic Love\)](https://open.spotify.com/track/0XRlF7kEoC8OOR9mLPLT0d) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ), [VIPER](https://open.spotify.com/artist/3FVgKNTkG9wYoJONzU2QuL) | [ไว้ลองกันใหม่ \(Toxic Love\)](https://open.spotify.com/album/5LoPOmG4Ok8eCyGowWGCOO) | 4:01 |
 | 34 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 |
 | 35 | [Satin](https://open.spotify.com/track/0Eqm1msB6wpMo9PgMOsAIx) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [สวัสดีค้าบ](https://open.spotify.com/album/3uKpT2NY42XvergFV1OsD3) | 3:13 |
 | 36 | [INSIDE \(feat\. LAZYLOXY\)](https://open.spotify.com/track/4XJOg3Z9yqas8fIcXWzMRV) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa), [LAZYLOXY](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [INSIDE \(feat\. LAZYLOXY\)](https://open.spotify.com/album/6lRe6tDtEiEhsm41V7tl0V) | 3:37 |

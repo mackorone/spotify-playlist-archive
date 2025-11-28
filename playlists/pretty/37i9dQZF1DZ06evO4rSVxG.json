@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15353,
+  "num_followers": 15357,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACYA8mgOTc0Rf1lOMLqfZsi",
+  "snapshot_id": "aSZDAAAAAACPtd6HAWJ1z72y/IHFs3AM",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray Ray",
-        "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
-        },
-        {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        },
-        {
-          "name": "Lucy Pearl",
-          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 258813,
-      "name": "Rifle Love",
-      "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
+      "duration_ms": 293733,
+      "name": "Little Walter",
+      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
     },
     {
       "added_at": null,
@@ -303,18 +295,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+        "name": "Ray Ray",
+        "url": "https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl"
       },
       "artists": [
         {
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+        },
+        {
           "name": "Tony! Toni! Ton\u00e9!",
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        },
+        {
+          "name": "Lucy Pearl",
+          "url": "https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7"
         }
       ],
-      "duration_ms": 293733,
-      "name": "Little Walter",
-      "url": "https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe"
+      "duration_ms": 258813,
+      "name": "Rifle Love",
+      "url": "https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c"
     },
     {
       "added_at": null,

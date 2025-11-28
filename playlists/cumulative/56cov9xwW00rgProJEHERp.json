@@ -1915,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/6v5mDjDZtHTz84VtV4iPnA"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197539,
+      "name": "Fool's Gold",
+      "url": "https://open.spotify.com/track/313fKmaZ1VcLpPkQFQXdzY"
+    },
+    {
+      "album": {
         "name": "For The Living",
         "url": "https://open.spotify.com/album/61Yso4pxiob9KFC4Mmomus"
       },

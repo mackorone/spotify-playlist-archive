@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Marvin",
+  "description": "Les hits zouk & kompa du moment. Photo : Mik L x Nesly",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Baratin",
+        "url": "https://open.spotify.com/album/3xLzw6i2PacCJTjJOF7Il8"
+      },
+      "artists": [
+        {
+          "name": "Lizi",
+          "url": "https://open.spotify.com/artist/6bTD7aWcgLJ2u5YGjgFDnc"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163411,
+      "name": "Baratin",
+      "url": "https://open.spotify.com/track/0wlEtezelZWAczjXjjUWWJ"
+    },
+    {
+      "album": {
         "name": "BB Attends",
         "url": "https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a"
       },
@@ -711,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Chambre 41",
+        "url": "https://open.spotify.com/album/5M8YB1mmEHueFKUovWAyty"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Chambre 41",
+      "url": "https://open.spotify.com/track/1OpJHDb3pHTSnSuiLAMAzb"
+    },
+    {
+      "album": {
         "name": "Champagne k\u00e9 fraises",
         "url": "https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J"
       },
@@ -788,7 +824,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 200458,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/3uoXCnsS8A2UfxFTYbB4oo"
@@ -1212,7 +1248,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 179271,
       "name": "Date",
       "url": "https://open.spotify.com/track/5qfervPaBxhMVRGFXkO0TA"
@@ -2226,7 +2262,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 148965,
       "name": "Il est temps",
       "url": "https://open.spotify.com/track/6FRwVx9fXOArc1UhYWJynk"
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 178275,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5967UOGUyajvhOuHJOoGul"
@@ -3402,6 +3438,28 @@
     {
       "album": {
         "name": "Minimum",
+        "url": "https://open.spotify.com/album/6CQEwB2JdHn0hwRU5ToHLt"
+      },
+      "artists": [
+        {
+          "name": "Eleen",
+          "url": "https://open.spotify.com/artist/6CYv60Iqe5ZLiWYtImqoHp"
+        },
+        {
+          "name": "Allan Zut",
+          "url": "https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147265,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/6O6vuiV3LEPoBOmPikV03R"
+    },
+    {
+      "album": {
+        "name": "Minimum",
         "url": "https://open.spotify.com/album/70tsN0GNXbpD2X2sQLIEQ5"
       },
       "artists": [
@@ -3570,6 +3628,24 @@
       "duration_ms": 208255,
       "name": "MON P\u00c9CH\u00c9",
       "url": "https://open.spotify.com/track/3EMCirXKIv5oztM29ZqqDe"
+    },
+    {
+      "album": {
+        "name": "Mon sort",
+        "url": "https://open.spotify.com/album/385xJKyCGkopThDZfF26ie"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222118,
+      "name": "Mon sort",
+      "url": "https://open.spotify.com/track/4CfhSEge6UbiadeddUn8gV"
     },
     {
       "album": {
@@ -4716,7 +4792,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 211273,
       "name": "Plus L\u00e0",
       "url": "https://open.spotify.com/track/1KNSUJHEvmayQEd7QoTXVR"
@@ -4832,6 +4908,28 @@
       "duration_ms": 180009,
       "name": "Projecteurs",
       "url": "https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE"
+    },
+    {
+      "album": {
+        "name": "ALCHIMIE",
+        "url": "https://open.spotify.com/album/41sRzlYeZ4mEaQ0yStVhNC"
+      },
+      "artists": [
+        {
+          "name": "Nesly",
+          "url": "https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L"
+        },
+        {
+          "name": "Mik L",
+          "url": "https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178185,
+      "name": "QUI A TORT",
+      "url": "https://open.spotify.com/track/1StxifllxFqab42xT62Bw2"
     },
     {
       "album": {
@@ -5080,7 +5178,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 211643,
       "name": "Sans pause",
       "url": "https://open.spotify.com/track/4gDYUBYloGXLDIWKNfyMNP"
@@ -5280,6 +5378,28 @@
       "duration_ms": 185166,
       "name": "Si Tu Veux",
       "url": "https://open.spotify.com/track/7lA4SlMXFBT3OJVKrnNAvW"
+    },
+    {
+      "album": {
+        "name": "Si tu veux de moi",
+        "url": "https://open.spotify.com/album/4mEEDyNvSFDgYgnzeItK3f"
+      },
+      "artists": [
+        {
+          "name": "makita",
+          "url": "https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT"
+        },
+        {
+          "name": "Kayden",
+          "url": "https://open.spotify.com/artist/2YEM3hwFWk3Cpr7rdaVsXM"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Si tu veux de moi",
+      "url": "https://open.spotify.com/track/1sRF75Kys66RDpvMVKNFOo"
     },
     {
       "album": {
@@ -6200,7 +6320,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 173414,
       "name": "Toute ma vie",
       "url": "https://open.spotify.com/track/6OARgpwlVE5qZJMm0jNWBz"
@@ -6810,6 +6930,24 @@
       "duration_ms": 215172,
       "name": "\u00c0 genoux",
       "url": "https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4"
+    },
+    {
+      "album": {
+        "name": "\u00c0 jamais",
+        "url": "https://open.spotify.com/album/6yBOYDmBiavESskRoLiomk"
+      },
+      "artists": [
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168834,
+      "name": "\u00c0 jamais",
+      "url": "https://open.spotify.com/track/5AMi98voEjWjwdJcpZlQJL"
     },
     {
       "album": {

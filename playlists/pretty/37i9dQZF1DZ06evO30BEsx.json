@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1795,
+  "num_followers": 1793,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACQY6vE6oyMLAfxpcZRKrWw",
+  "snapshot_id": "aSZDAAAAAACo2yEM9Aea+p2p4L/GT25F",
   "tracks": [
     {
       "added_at": null,
@@ -147,30 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhapsody. Cello Sonatas by Rachmaninov & Prokofiev",
-        "url": "https://open.spotify.com/album/1xpzhtpjPvLWdLme7BpttC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII. Andante cantabile",
-      "url": "https://open.spotify.com/track/1faDVN6hdbj0rQXOP5Cflf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destination Paris",
         "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
@@ -191,6 +167,30 @@
       "duration_ms": 256786,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/7ke8Pw7yEqbGtgmoGiw4PD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhapsody. Cello Sonatas by Rachmaninov & Prokofiev",
+        "url": "https://open.spotify.com/album/1xpzhtpjPvLWdLme7BpttC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Rachmaninov: Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII. Andante cantabile",
+      "url": "https://open.spotify.com/track/1faDVN6hdbj0rQXOP5Cflf"
     },
     {
       "added_at": null,
@@ -427,26 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dunckel: Wake",
-        "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
       },
       "artists": [
         {
-          "name": "JB Dunckel",
-          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Capucelli",
-          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
         }
       ],
-      "duration_ms": 252866,
-      "name": "Wake",
-      "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
+      "duration_ms": 172586,
+      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -483,6 +479,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dunckel: Wake",
+        "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
+      },
+      "artists": [
+        {
+          "name": "JB Dunckel",
+          "url": "https://open.spotify.com/artist/0yN05taoXcja1ibMBraWrm"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Capucelli",
+          "url": "https://open.spotify.com/artist/456H1w3siobB7ajeoChe7J"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Wake",
+      "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Einaudi: Air",
+        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 249346,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW"
       },
@@ -511,46 +551,6 @@
       "duration_ms": 164960,
       "name": "Elgar / Orch. Walter: Salut d'amour, Op. 12",
       "url": "https://open.spotify.com/track/0MQbb3rWI0eJUMXf2r84mV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Einaudi: Air",
-        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 249346,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
-      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -891,34 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of the Cello",
-        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Johanna Malangr\u00e9",
-          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
-        },
-        {
-          "name": "Orchestre national de Bretagne",
-          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Williams: Main Theme (From \"Schindler's List\")",
-      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Haydn: Cello Concertos",
         "url": "https://open.spotify.com/album/5lIyZy3BA2mzcQjgobHQva"
       },
@@ -971,30 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Montero",
-          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 277106,
-      "name": "Sur le lac du Bourget",
-      "url": "https://open.spotify.com/track/74jW9U0xz7KWj7CLe4JONb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destination Paris",
         "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
       },
@@ -1019,6 +967,58 @@
       "duration_ms": 152600,
       "name": "Heure exquise (From La Veuve joyeuse)",
       "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 277106,
+      "name": "Sur le lac du Bourget",
+      "url": "https://open.spotify.com/track/74jW9U0xz7KWj7CLe4JONb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of the Cello",
+        "url": "https://open.spotify.com/album/1uFBLoNWBx7bYciZEL6ra3"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Johanna Malangr\u00e9",
+          "url": "https://open.spotify.com/artist/7aIbuxKaejtjcgkhYLuB8b"
+        },
+        {
+          "name": "Orchestre national de Bretagne",
+          "url": "https://open.spotify.com/artist/2DvQHpjHM1yaLuNF9es4Oz"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Williams: Main Theme (From \"Schindler's List\")",
+      "url": "https://open.spotify.com/track/4iC0pELAxCXMXwjFupya53"
     },
     {
       "added_at": null,
@@ -1067,6 +1067,30 @@
       "duration_ms": 339506,
       "name": "Cello Sonata in G Minor, Op. 19: III. Andante",
       "url": "https://open.spotify.com/track/67MUWIB8YlTQ0oOsAEUuZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impressions of Orient",
+        "url": "https://open.spotify.com/album/6SU9zkPRh1PAqJx68JBljH"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 136573,
+      "name": "Satie: Parade: Prestidigitateur chinois",
+      "url": "https://open.spotify.com/track/6cpt0cwHPaB0drWZgFNDSU"
     },
     {
       "added_at": null,
@@ -1159,30 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impressions of Orient",
-        "url": "https://open.spotify.com/album/6SU9zkPRh1PAqJx68JBljH"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 136573,
-      "name": "Satie: Parade: Prestidigitateur chinois",
-      "url": "https://open.spotify.com/track/6cpt0cwHPaB0drWZgFNDSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rachmaninoff & Brahms",
         "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
       },
@@ -1231,6 +1231,30 @@
       "duration_ms": 385493,
       "name": "Cello Sonata in G Minor, Op. 19: II. Allegro scherzando",
       "url": "https://open.spotify.com/track/5fzqUrP9vBkBvq7UUaujP8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ga\u00efa",
+        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
+      },
+      "artists": [
+        {
+          "name": "Xavier Foley",
+          "url": "https://open.spotify.com/artist/1oZbk9GPGryrGTfCAHvW5R"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 297720,
+      "name": "Ambition",
+      "url": "https://open.spotify.com/track/5JV3LXAED883aW5xs6IFFg"
     },
     {
       "added_at": null,
@@ -1287,30 +1311,6 @@
       "duration_ms": 372066,
       "name": "Massenet: Tha\u00efs, Act 2: M\u00e9ditation (Version for Cello and Orchestra)",
       "url": "https://open.spotify.com/track/7kn7P7gxer5Ww3pU0yg4gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ga\u00efa",
-        "url": "https://open.spotify.com/album/6l3JRf1uM8DZLR7mmxi4jl"
-      },
-      "artists": [
-        {
-          "name": "Xavier Foley",
-          "url": "https://open.spotify.com/artist/1oZbk9GPGryrGTfCAHvW5R"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 297720,
-      "name": "Ambition",
-      "url": "https://open.spotify.com/track/5JV3LXAED883aW5xs6IFFg"
     },
     {
       "added_at": null,

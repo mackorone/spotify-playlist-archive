@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Amanda Nolan
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,370 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,441 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 46 | [Years and Years](https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Years and Years](https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm) | 4:00 |
 | 47 | [Difference Maker](https://open.spotify.com/track/7yWunlBSRiy8Flcq6OjWw1) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Difference Maker](https://open.spotify.com/album/3cEFhJEwZV810Zdb3rxFyQ) | 5:07 |
 | 48 | [love me as i am \(Live from Two Palms\)](https://open.spotify.com/track/7yOftAlQPfh83xOT0FHBVL) | [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [love me as i am](https://open.spotify.com/album/2BXPkOwk3VgKSVQwghsDDn) | 5:02 |
-| 49 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [ Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
+| 49 | [Better Than Gold](https://open.spotify.com/track/2atkylYaq7ogez2mzHUL2Z) | [Haynes](https://open.spotify.com/artist/5rcxSuvYdaLNrDFuTEF3fb) | [Better Than Gold](https://open.spotify.com/album/2OQuzRB0nbLgIgqjh4weAc) | 2:22 |
 | 50 | [I Can See The Light](https://open.spotify.com/track/3ygEyWdTZVPEOovpOiUNc8) | [Luke Bower](https://open.spotify.com/artist/2HrwBTRc0cnkWVpH41sI6k) | [I Can See The Light](https://open.spotify.com/album/1j7xBuaxkpVv4ActQXMIrK) | 3:05 |
 | 51 | [Bring You To](https://open.spotify.com/track/7AEsn9IeVBuyUAcIOn7oZ6) | [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML), [Wyatt Woodley](https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE), [Troy Corriea](https://open.spotify.com/artist/2Gdwp3UKrywFmyNcqBQPPu) | [Echo Chamber](https://open.spotify.com/album/0DVc1OrXJgkUXs9JcsGhwP) | 3:01 |
 | 52 | [Nothing but the Blood](https://open.spotify.com/track/6kKpPSjFUQHO4RdYKBuPVV) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Nothing but the Blood](https://open.spotify.com/album/17JQNF1nyHPSSDNjx1CbYE) | 2:55 |

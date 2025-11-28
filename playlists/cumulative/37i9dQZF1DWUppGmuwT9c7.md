@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-135 songs - 6 hr 34 min
+136 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Liever Te Dik In De Kist](https://open.spotify.com/track/2rKFSvEBn6lPmkrCKeXUQq) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO), [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/6PujTxjH2gjAtGXiKZMW82) | 3:55 | 2025-11-21 |  |
 | [Lilluke Linda](https://open.spotify.com/track/7v0sXJDueMuTg86sP80sG4) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Lilluke Linda](https://open.spotify.com/album/47hpKPXzuYPspG1Al4v6xi) | 2:46 | 2025-07-14 | 2025-09-05 |
 | [Losse Pols](https://open.spotify.com/track/3dWSdaGd1XkB3J6xxsr8Zu) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Losse Pols](https://open.spotify.com/album/20qZLdxkV8zZciN7zv4QZa) | 2:38 | 2025-07-14 |  |
-| [M'n Favoriet](https://open.spotify.com/track/7bGbWjCRBpbzJrqoDo5y1b) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [M'n Favoriet](https://open.spotify.com/album/5yrMBJuyJ4LO0RLqt3QctX) | 3:17 | 2025-07-14 |  |
+| [M'n Favoriet](https://open.spotify.com/track/7bGbWjCRBpbzJrqoDo5y1b) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [M'n Favoriet](https://open.spotify.com/album/5yrMBJuyJ4LO0RLqt3QctX) | 3:17 | 2025-07-14 | 2025-11-28 |
 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 | 2025-07-14 |  |
 | [Maximaal](https://open.spotify.com/track/1rzQBh4zaNFZTQmJcTMLKb) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Maximaal](https://open.spotify.com/album/6Fzj70RX7JTJhXQxHFdWCS) | 2:37 | 2025-07-14 | 2025-09-26 |
 | [Meisjes Van De Nacht](https://open.spotify.com/track/0SzWx2en7UgSBilg2nVbU7) | [Rob Ronalds](https://open.spotify.com/artist/6WCTSRKFUh21XfltrSzLBE) | [Het Beste Van](https://open.spotify.com/album/1qv5dP3569hbwwEFsPCa0D) | 3:02 | 2025-07-14 |  |
@@ -109,6 +109,7 @@
 | [Sparen Voor De Nacht](https://open.spotify.com/track/44vgHjyTTFdOe0F01MhPir) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [MAKSIM](https://open.spotify.com/artist/5ncHUtKhiVsHlugFN0DCDl) | [Sparen Voor De Nacht](https://open.spotify.com/album/4NqNVbz0Hxl9jRtYsy3qCx) | 2:34 | 2025-07-14 |  |
 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 | 2025-07-14 |  |
 | [Stiekem Gedanst](https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [De Jonge Jaren van Toontje Lager \- 50 Jaar Nederpop](https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr) | 3:34 | 2025-07-14 | 2025-08-28 |
+| [Stop de Tijd](https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V) | [Rene Schuurmans](https://open.spotify.com/artist/3kfX8UOxjmAxIgxtPov6eH) | [Stop de Tijd](https://open.spotify.com/album/7yhLj8tTL789nmI2K3Z4JS) | 3:23 | 2025-11-27 |  |
 | [Suavemente, Dans Met Mij](https://open.spotify.com/track/2GLSRL3sIOQR5TTppRqkjj) | [Gerard Palts](https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf), [Trafassi](https://open.spotify.com/artist/2Vf41WkCUjjGaAuCF3cd9O) | [Suavemente, Dans Met Mij](https://open.spotify.com/album/26N1Eca9A56lXptg6u9T9M) | 3:10 | 2025-07-14 |  |
 | [Systeem](https://open.spotify.com/track/3BaF1c9siBSnFa2jArT5i1) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Systeem](https://open.spotify.com/album/6Jgk1FNTyR9GW3mrcL3Hzh) | 3:02 | 2025-09-20 |  |
 | [Tequila](https://open.spotify.com/track/3BLCU1TXLUZqnfuttprVHI) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Tequila](https://open.spotify.com/album/7rE6SLNWzMIeBKuitiBe1n) | 2:20 | 2025-07-14 |  |

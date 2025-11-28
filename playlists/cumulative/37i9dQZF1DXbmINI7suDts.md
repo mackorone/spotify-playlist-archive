@@ -2,9 +2,9 @@
 
 ### [Mutima ](https://open.spotify.com/playlist/37i9dQZF1DXbmINI7suDts)
 
-> Get your spirits up and manage your mood any time of the day\. Cover: Sheebah
+> Get your spirits up and manage your mood any time of the day\. Cover: Maurice Kirya
 
-172 songs - 9 hr 34 min
+175 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2024-10-04 |
 | [River Nile](https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT), [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [River Nile](https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk) | 2:55 | 2023-11-16 |  |
 | [Runaway](https://open.spotify.com/track/20uyihs553VZ9hWLaoCZqe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Runaway](https://open.spotify.com/album/0OmJ43CgaYjwrbk7qfS6C7) | 3:41 | 2023-09-07 | 2025-02-15 |
+| [SAY I DO](https://open.spotify.com/track/2RPMbkVqUvAIAzbd2iswkS) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [THIS IS HAPPENING](https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I) | 3:06 | 2025-11-27 |  |
 | [Secret Island](https://open.spotify.com/track/73YcIIseQ43Z2yiGjqTXIe) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Secret Island](https://open.spotify.com/album/0pk2St2lhedWK1wxvzPOzY) | 3:30 | 2025-09-12 |  |
 | [Sema](https://open.spotify.com/track/1YjgPU8BIH0COPwQa4HZFH) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Maliki\-Fy](https://open.spotify.com/album/1uxXkx3peWh84WEVw149dF) | 4:39 | 2023-06-30 | 2023-09-08 |
 | [Sema](https://open.spotify.com/track/7oM02oJnBVup7JsLHk9zMW) | [Eli Maliki](https://open.spotify.com/artist/2a2c2oSVT9yIvl5eEXkCMK) | [Sema](https://open.spotify.com/album/3SyBHbLDHnKPncg8HaSTfv) | 4:39 | 2023-01-12 | 2023-08-26 |
@@ -149,11 +150,12 @@
 | [STAY](https://open.spotify.com/track/0RJq9SuCOulhvSJtM7saFW) | [Rulz](https://open.spotify.com/artist/3dxuyx3F7NkYMg2BfVhG9I) | [STAY](https://open.spotify.com/album/5QzuM3xPIfWAJgTZXlQiuc) | 2:37 | 2025-04-24 |  |
 | [Still Cry](https://open.spotify.com/track/2JHgKuL2bP45CNahKcgeHM) | [Nanseera](https://open.spotify.com/artist/5KEsDti0HVhEbRBPP7qZR0) | [Still Cry](https://open.spotify.com/album/3SYHEQwOLLRL07yv5JqaaF) | 3:27 | 2025-05-22 |  |
 | [Still Here](https://open.spotify.com/track/4ZMfMBVgAVORPp8kGm45tQ) | [The SandBox Ug](https://open.spotify.com/artist/5xPuytk2jpNmbWUL63FOj0), [Annie Joy.](https://open.spotify.com/artist/7eMxLWtNN3xyHzaBNs2fqD) | [Still Here](https://open.spotify.com/album/2oqMs5q5a8xH8E0A7N8UPP) | 3:29 | 2024-06-28 |  |
-| [STRONGER](https://open.spotify.com/track/1IYaDLB3eX56jSzyYLdytw) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [STRONGER](https://open.spotify.com/album/6y02dO6l31HVRKha2ytqIB) | 3:24 | 2024-10-04 |  |
+| [STRONGER](https://open.spotify.com/track/1IYaDLB3eX56jSzyYLdytw) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [STRONGER](https://open.spotify.com/album/6y02dO6l31HVRKha2ytqIB) | 3:24 | 2024-10-04 | 2025-11-28 |
 | [Sukaali](https://open.spotify.com/track/4CUD0GgGWJYyzsi5KERvh6) | [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo), [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1), [Kigozi Caleb](https://open.spotify.com/artist/5llla9IYuLR7CRx1QYgLzS) | [Sukaali](https://open.spotify.com/album/3hLy3adsszXa7NtHzXqS19) | 3:25 | 2022-06-06 | 2023-08-26 |
 | [Sunday](https://open.spotify.com/track/7zPzWT3WjSqszmpS54pUUa) | [SSSOUNDMAN](https://open.spotify.com/artist/6ozIxfjjWlPEWxMCwdrFii) | [Sunday](https://open.spotify.com/album/4W7gufMbRo0lw53VRI9gEA) | 1:25 | 2025-02-07 | 2025-08-22 |
 | [SUNRISE](https://open.spotify.com/track/4HqX6MBbPjnhxqy4Dk2B8f) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [SUNRISE](https://open.spotify.com/album/6YTlR2MyM23tvEnMBnDsj1) | 2:48 | 2024-06-21 |  |
 | [Sure](https://open.spotify.com/track/6jm4zQkDjwI9iwjP7vNiF2) | [SHENA SKIES](https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO) | [Sure](https://open.spotify.com/album/5T1Fcz5jnAE4rjpNnTnuoM) | 2:29 | 2025-04-24 | 2025-08-22 |
+| [SURROUND ME](https://open.spotify.com/track/2EHGGn5xdVtItCZTuv5cQ6) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [THIS IS HAPPENING](https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I) | 3:27 | 2025-11-27 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 | 2025-07-19 |
 | [Tanimba](https://open.spotify.com/track/2Hafw2FRF7RAHyRPnxPgpm) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Tanimba](https://open.spotify.com/album/4w8Gb7vP6EK6glctX9NyiE) | 2:20 | 2025-02-21 |  |
 | [Taste](https://open.spotify.com/track/0o2JkkMi9aZGWyKuVYZVDl) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Taste](https://open.spotify.com/album/1aA4jvgiLPJWc8prxyEUse) | 2:51 | 2025-02-14 |  |
@@ -179,6 +181,7 @@
 | [Webale](https://open.spotify.com/track/2iPSEJ6JfWEcDgInwFQrci) | [Shifah Musisi](https://open.spotify.com/artist/19ilv4fZylrIlPBV5FtRaI) | [Webale](https://open.spotify.com/album/1CyjROUmGfBaONkrP39hef) | 4:19 | 2022-06-06 | 2024-10-04 |
 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 | 2023-08-25 |  |
 | [Wumula](https://open.spotify.com/track/6HLnygeRLfZP8IQ2Nl1uMV) | [Nshuti Mbabazi](https://open.spotify.com/artist/4Pa4GVRYthkf7pU6P8g13j) | [Wumula](https://open.spotify.com/album/0cxT7QmI90m2d4n0dc0SqS) | 5:11 | 2025-01-23 | 2025-07-19 |
-| [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 |  |
+| [Your Number](https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO) | [Kohen Jaycee](https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1) | [Your Number \(Acoustic\)](https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp) | 2:16 | 2022-11-17 | 2025-11-28 |
+| [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [](https://open.spotify.com/album/null) | 2:41 | 2025-11-27 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

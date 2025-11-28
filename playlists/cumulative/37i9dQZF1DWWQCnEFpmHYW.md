@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-167 songs - 7 hr 55 min
+168 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Calmed By The Rain](https://open.spotify.com/track/1tYJSbl1q93xx9eQrrzsVF) | [naturae](https://open.spotify.com/artist/4paf9aJz5xldJSOCLfJKez) | [Calmed By The Rain](https://open.spotify.com/album/4M5R3F1Dl8bUL2jaVZAOmR) | 2:54 | 2022-11-21 | 2025-11-24 |
 | [Calming Drizzle](https://open.spotify.com/track/02WdLBG087ZR478yCXy6o8) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:42 | 2023-10-11 |  |
 | [Calming Rain Forest](https://open.spotify.com/track/6w5nfQXceDxyzCSC90Vate) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Calming Rain Forest](https://open.spotify.com/album/3FONPWCDZuVg3n5izU4dXg) | 2:52 | 2023-10-11 |  |
-| [Calming Rain Harmony](https://open.spotify.com/track/6xKZISN8TVnIM0PRHs6Vqu) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 |  |
+| [Calming Rain Harmony](https://open.spotify.com/track/6xKZISN8TVnIM0PRHs6Vqu) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Calming Rain Harmony](https://open.spotify.com/album/7DRdQShYrQikRl9Vyggemq) | 3:01 | 2023-10-11 | 2025-11-28 |
 | [Chill Raindrops](https://open.spotify.com/track/3Z2WB90ojQshe0KTgykNWQ) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Spring Rain](https://open.spotify.com/album/2SLRx4y1nNLZ3eIn535nTA) | 3:01 | 2023-10-11 |  |
 | [Chipi Chipi \(Rain\)](https://open.spotify.com/track/4AOcYN1cSFMZ6gZODPIOLZ) | [Scattered Sprinkle](https://open.spotify.com/artist/4ed0GFW4G1Q71nNdtTl7S7) | [Chipi Chipi \(Rain\)](https://open.spotify.com/album/7BOg6bK8x2Y8h5oG6e460z) | 2:50 | 2024-03-11 |  |
 | [Cielo borroso](https://open.spotify.com/track/1uRlPh8z7ep69HkDpq7ZXH) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2022-11-21 |  |
@@ -34,6 +34,7 @@
 | [Cozy Storm](https://open.spotify.com/track/2H09YrtzPnwOtTJwbHooV9) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:52 | 2022-11-21 |  |
 | [Crawl Under The Blanket\-Rain](https://open.spotify.com/track/6zBT3E0Liq13v2dv4uA0cE) | [Splish Splash](https://open.spotify.com/artist/0WC47WJPxV2Yd7JynjhaUR) | [Monstrous Thunder](https://open.spotify.com/album/6n1OCuil9C9lwUjKa3GERV) | 2:32 | 2023-10-11 |  |
 | [Crispy Rain](https://open.spotify.com/track/04uytXigV9aexEvfwbxU0C) | [Van Hailin'](https://open.spotify.com/artist/5US0y9Gj4DHIetQZYaZOMT) | [Under The Weather](https://open.spotify.com/album/4wfVuP6MPS1LafpLbEjN6F) | 2:14 | 2022-11-21 |  |
+| [Dark Rain](https://open.spotify.com/track/6Yb6gTtxXW6hva1CLwnpwP) | [Nature Advisor](https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ) | [Dark Rain](https://open.spotify.com/album/4elHXgihx3XDj32k7k00pZ) | 2:42 | 2025-07-24 |  |
 | [Daybreak Rain](https://open.spotify.com/track/6DNUn0G3eihQbE9RvlgJiL) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Gentle Rainfall](https://open.spotify.com/album/7t3EAck5pBqcys8naib91U) | 3:01 | 2022-11-21 |  |
 | [Deciduous Forest Rain](https://open.spotify.com/track/7EjYp81XPWKHiTC2sBuDcb) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [Rain for Soothing Souls](https://open.spotify.com/album/23kglUYmApubc91wqBaE58) | 3:00 | 2023-02-13 |  |
 | [Deep Forest Rain](https://open.spotify.com/track/0K7dSsd2DxYsaj2B6vs1LN) | [Trenti](https://open.spotify.com/artist/1CiKilOYR8hGycGa1yxU53) | [Nordic Drops](https://open.spotify.com/album/4tL02ie3DznKXsLffUJR7y) | 2:27 | 2022-11-21 | 2022-12-17 |

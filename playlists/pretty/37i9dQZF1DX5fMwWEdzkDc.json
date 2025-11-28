@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 20780,
+  "num_followers": 20797,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Perfect Man - The 5th Album",
-        "url": "https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV"
+        "name": "The 3rd Album Part.1",
+        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
       },
       "artists": [
         {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
+      "duration_ms": 212976,
+      "name": "Please don\u2019t\u2026",
+      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -307,18 +307,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The 3rd Album Part.1",
-        "url": "https://open.spotify.com/album/2k0hCXVcLcz3JECbGs64C2"
+        "name": "Perfect Man - The 5th Album",
+        "url": "https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV"
       },
       "artists": [
         {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 212976,
-      "name": "Please don\u2019t\u2026",
-      "url": "https://open.spotify.com/track/5dh87xGcp4YqDFBc86Mh47"
+      "duration_ms": 205000,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Hexagonal",
-        "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
-      },
-      "artists": [
-        {
-          "name": "Leessang",
-          "url": "https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI"
-        },
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 284626,
-      "name": "\ud5e4\uc5b4\uc9c0\uc9c0 \ubabb\ud558\ub294 \uc5ec\uc790, \ub5a0\ub098\uac00\uc9c0 \ubabb\ud558\ub294 \ub0a8\uc790 Can't Breakup Girl, Can't Breakaway Boy (feat. \uc815\uc778 Jung In)",
-      "url": "https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Pieces, Part One",
         "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 301720,
       "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
       "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Hexagonal",
+        "url": "https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS"
+      },
+      "artists": [
+        {
+          "name": "Leessang",
+          "url": "https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI"
+        },
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "duration_ms": 284626,
+      "name": "\ud5e4\uc5b4\uc9c0\uc9c0 \ubabb\ud558\ub294 \uc5ec\uc790, \ub5a0\ub098\uac00\uc9c0 \ubabb\ud558\ub294 \ub0a8\uc790 Can't Breakup Girl, Can't Breakaway Boy (feat. \uc815\uc778 Jung In)",
+      "url": "https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "A bicycle Ride",
-        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
-      },
-      "artists": [
-        {
-          "name": "Jatanpung",
-          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Me to You, You to Me",
-      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Cheerful Sensibility",
         "url": "https://open.spotify.com/album/6CLke5r6LqAyM8Vno1Xfjk"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 241866,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/74KrjA5CWRr2elkzhJo6si"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "A bicycle Ride",
+        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
+      },
+      "artists": [
+        {
+          "name": "Jatanpung",
+          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Me to You, You to Me",
+      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 287741,
+      "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4 \ub9d0\ud560\uae4c",
+      "url": "https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Sweet Dream",
         "url": "https://open.spotify.com/album/5VfVPotg5IHge0C8PFb5Dt"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
       "artists": [
         {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 287741,
-      "name": "\ub2e4\uc2dc \uc0ac\ub791\ud55c\ub2e4 \ub9d0\ud560\uae4c",
-      "url": "https://open.spotify.com/track/52p5RtEaTXx1u1udrx8Fqr"
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
+        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
       },
       "artists": [
         {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
         }
       ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+      "duration_ms": 285234,
+      "name": "\uac10\uc0ac",
+      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uae30\uc5b5\uc18d\uc758 \uba5c\ub85c\ub514",
-        "url": "https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        }
-      ],
-      "duration_ms": 285234,
-      "name": "\uac10\uc0ac",
-      "url": "https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Enter The Dragon",
         "url": "https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "S.E.S. - The 1st Album",
-        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "(\u2032Cause) I\u2032m Your Girl",
-      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Smile Again",
         "url": "https://open.spotify.com/album/6PUXZU8KQoiC7PJGHobQ8E"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 253026,
       "name": "\uc0ac\ub791 \uc548\ud574",
       "url": "https://open.spotify.com/track/4wztk2LQD75UzN5UTnFK0E"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "S.E.S. - The 1st Album",
+        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "(\u2032Cause) I\u2032m Your Girl",
+      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Mc The Max - Solitude Love\u2026",
         "url": "https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 358870,
       "name": "\ud589\ubcf5\ud558\uc9c0\ub9d0\uc544\uc694",
       "url": "https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
-        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
-      },
-      "artists": [
-        {
-          "name": "Position",
-          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
-        }
-      ],
-      "duration_ms": 329952,
-      "name": "I LOVE YOU",
-      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Girls On Top",
         "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 218653,
       "name": "Girls On Top",
       "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
+        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
+      },
+      "artists": [
+        {
+          "name": "Position",
+          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
+        }
+      ],
+      "duration_ms": 329952,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Swan Songs",
         "url": "https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6"
       },
@@ -1315,6 +1299,42 @@
       "duration_ms": 201226,
       "name": "Fly (feat. Amin. J)",
       "url": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "The 3rd GENERATION (Special Album)",
+        "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
+      },
+      "artists": [
+        {
+          "name": "4MEN",
+          "url": "https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J"
+        },
+        {
+          "name": "MIIII",
+          "url": "https://open.spotify.com/artist/4HlWDQU9oXrIiVcb8BrZPZ"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "Can't (Feat. MIIII)",
+      "url": "https://open.spotify.com/track/4attmsVheqtmK8TJMVHmdB"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "The 3rd GENERATION (Special Album)",
-        "url": "https://open.spotify.com/album/5EJQFPTIEU6J1KkBxr9wDI"
-      },
-      "artists": [
-        {
-          "name": "4MEN",
-          "url": "https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J"
-        },
-        {
-          "name": "MIIII",
-          "url": "https://open.spotify.com/artist/4HlWDQU9oXrIiVcb8BrZPZ"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "Can't (Feat. MIIII)",
-      "url": "https://open.spotify.com/track/4attmsVheqtmK8TJMVHmdB"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Hi~",
+        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Hi~",
+      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 213813,
       "name": "Like A Child (feat. ALEX)",
       "url": "https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Hi~",
-        "url": "https://open.spotify.com/album/4oYvS9fninV79hmUvWeUho"
-      },
-      "artists": [
-        {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "Hi~",
-      "url": "https://open.spotify.com/track/0uK6mPSkTMteghVWeMDMHG"
     },
     {
       "added_at": "2024-08-05 16:59:31",

@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-817 songs - 1 day 12 hr 54 min
+818 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -676,7 +676,7 @@
 | [Stingless Bee](https://open.spotify.com/track/24xYIwF42jBy7Jwux9cEoJ) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [Nostalgic Fantasy Soul](https://open.spotify.com/album/2HoyEuMjNgPocFWpUj5hLd) | 1:27 | 2021-12-23 | 2022-07-29 |
 | [Streets of Kyoto](https://open.spotify.com/track/6NRRbRKPVZOZKVtGIDiVVe) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Streets of Kyoto](https://open.spotify.com/album/7zqqLokT18SEG7y7AZ576V) | 1:36 | 2022-01-13 | 2022-04-16 |
 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 | 2022-07-28 | 2024-04-19 |
-| [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 |  |
+| [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2025-11-28 |
 | [Sublimation](https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ) | [TSUTCHIE](https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY) | [Sublimation](https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al) | 3:55 | 2025-03-21 | 2025-04-06 |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 | 2024-07-15 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
@@ -762,6 +762,7 @@
 | [Unikko](https://open.spotify.com/track/0e6Zp0zDbIpBqrp6R2i4ha) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/0et5c9eLd0MQCMvCtBLjFX) | 3:14 | 2023-04-13 | 2023-04-15 |
 | [Unikko](https://open.spotify.com/track/6rUOgQWnD98GNU8ZhPs8fp) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Sunny](https://open.spotify.com/album/00MXzpmAv1p9Accr8ryODd) | 3:14 | 2023-04-13 | 2023-09-20 |
 | [Universal Grammar](https://open.spotify.com/track/1btMhHpEB4OvHpKFePAxqa) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Universal Grammar](https://open.spotify.com/album/0BXbhd7CVpSr4qFkfapK0q) | 1:54 | 2022-02-24 | 2022-04-21 |
+| [unstable](https://open.spotify.com/track/70IWLuFvDpuEkChta4PpjG) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [unstable](https://open.spotify.com/album/5Bt7UlXSx1G75ieZIH3s10) | 2:20 | 2025-11-07 |  |
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-25 | 2023-11-28 |
 | [utsuroi](https://open.spotify.com/track/3AgJ12XgvmFmyFZEBx3auH) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [utsuroi](https://open.spotify.com/album/71CddnY001Q5e6BebJrfIs) | 2:29 | 2023-04-13 | 2023-04-28 |
 | [vagrancy](https://open.spotify.com/track/4P7zuMe6na1LWybigdQ40D) | [Force Of Nature](https://open.spotify.com/artist/3y6EaAABBjwx6DGg2bEFrj) | [samurai champloo music record masta](https://open.spotify.com/album/2V9nVGr0yLqFFkd36mqcmg) | 3:08 | 2024-01-09 | 2024-04-19 |

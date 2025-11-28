@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124739,
+  "num_followers": 124740,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU2rJIQmq/52wh5UWFOCJCIP/PC1zZ",
+  "snapshot_id": "AAAU3F+eyviZb1CF888XhXdMSNDzPDMx",
   "tracks": [
+    {
+      "added_at": "2025-11-27 15:02:44",
+      "album": {
+        "name": "Tell Me Why You're Here",
+        "url": "https://open.spotify.com/album/1UixKcpQcJrPAC70crSRXI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "Tell Me Why You're Here",
+      "url": "https://open.spotify.com/track/4afjY6JvNTwb4qBWQjFI2n"
+    },
     {
       "added_at": "2025-11-26 15:15:58",
       "album": {
@@ -1123,182 +1139,6 @@
       "duration_ms": 222600,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS"
-    },
-    {
-      "added_at": "2025-09-09 13:59:42",
-      "album": {
-        "name": "Drops Of Dew",
-        "url": "https://open.spotify.com/album/3OmvaJOSGrLWjn4JH5Nbiv"
-      },
-      "artists": [
-        {
-          "name": "Flexible Fire",
-          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
-        },
-        {
-          "name": "Enviado Vida",
-          "url": "https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Drops Of Dew",
-      "url": "https://open.spotify.com/track/3KxMOw5dxLpoUfOpmyad30"
-    },
-    {
-      "added_at": "2025-09-08 13:20:03",
-      "album": {
-        "name": "Oathbreaker",
-        "url": "https://open.spotify.com/album/5k6igGirKlpB3qYyVavB9W"
-      },
-      "artists": [
-        {
-          "name": "Caster",
-          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
-        }
-      ],
-      "duration_ms": 215169,
-      "name": "Oathbreaker",
-      "url": "https://open.spotify.com/track/4aOAyCYrwbArMtLVxCoxS7"
-    },
-    {
-      "added_at": "2025-09-05 14:01:59",
-      "album": {
-        "name": "Ashes (VIP)",
-        "url": "https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Ashes - VIP",
-      "url": "https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV"
-    },
-    {
-      "added_at": "2025-09-04 15:01:15",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7sVd8b6lVLOWfshRtXqvTX"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "LOCKBOX",
-          "url": "https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
-        },
-        {
-          "name": "Gabriel Eli",
-          "url": "https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h"
-        }
-      ],
-      "duration_ms": 167403,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2fI8duj2PRrFtBjuZ56Ukz"
-    },
-    {
-      "added_at": "2025-09-03 14:33:46",
-      "album": {
-        "name": "Move Yo Feet",
-        "url": "https://open.spotify.com/album/0VSlnw9OR0rAYLGJTEhyl8"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Move Yo Feet",
-      "url": "https://open.spotify.com/track/1QGl7VLbqHDdBK81ccUflR"
-    },
-    {
-      "added_at": "2025-09-02 14:24:00",
-      "album": {
-        "name": "Hearts Divide",
-        "url": "https://open.spotify.com/album/529BFbWcXc4yzonKMxzogL"
-      },
-      "artists": [
-        {
-          "name": "rshand",
-          "url": "https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16"
-        },
-        {
-          "name": "Wassu",
-          "url": "https://open.spotify.com/artist/0jxabdMr8MK0OQgpsMVQDq"
-        },
-        {
-          "name": "M\u00d8\u00d8NE",
-          "url": "https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Lessons Learned",
-      "url": "https://open.spotify.com/track/6yRxOawu0scry70xULIJ0N"
-    },
-    {
-      "added_at": "2025-09-02 14:23:36",
-      "album": {
-        "name": "MANIAC",
-        "url": "https://open.spotify.com/album/562Uyc2b9sbv6DAdzGcZhM"
-      },
-      "artists": [
-        {
-          "name": "Lizdek",
-          "url": "https://open.spotify.com/artist/65Kq02oh0g3gRqfZ0fo8eG"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/0MAJOLCa2RX5Rs35AJ6Y64"
-    },
-    {
-      "added_at": "2025-08-29 15:03:50",
-      "album": {
-        "name": "Nemesis",
-        "url": "https://open.spotify.com/album/3IYVBXBymiZbS7BhtQPUyt"
-      },
-      "artists": [
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "Careless Castle",
-          "url": "https://open.spotify.com/artist/3AIJLK5M4FWwSx23YvOgvC"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/5dMrMCZoVQ6Rv9YzFFlh77"
-    },
-    {
-      "added_at": "2025-08-28 14:03:39",
-      "album": {
-        "name": "Hyperfocus",
-        "url": "https://open.spotify.com/album/5I5UOahbD9vGY8CqM2sGZc"
-      },
-      "artists": [
-        {
-          "name": "OBLVYN",
-          "url": "https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF"
-        }
-      ],
-      "duration_ms": 193272,
-      "name": "Hyperfocus",
-      "url": "https://open.spotify.com/track/4LvnF1Iw4HcQ2rCm07mYjc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

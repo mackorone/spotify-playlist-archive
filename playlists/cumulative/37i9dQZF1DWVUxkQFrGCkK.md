@@ -2,9 +2,9 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> Stick Out!!
+> Ankhoï & Luch hypes us up for Tulum 26'!
 
-1,137 songs - 3 day 7 hr 17 min
+1,140 songs - 3 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,6 +365,7 @@
 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 | 2023-04-13 | 2024-01-05 |
 | [Funky Nassau](https://open.spotify.com/track/3VxZAxFqSfJqQVfib6W4mk) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Federico Scavo](https://open.spotify.com/artist/0sPG1Yn8sWnhwDHsUbrU0F) | [Funky Nassau](https://open.spotify.com/album/53hGriNQWqe54bCfRR0lvw) | 2:17 | 2025-04-10 |  |
 | [Gaarah](https://open.spotify.com/track/2fZJh5BoVd9mcuGhJkdL1x) | [EyeRonik](https://open.spotify.com/artist/6G5rPciwdreuIQVCShrAsj) | [Gaarah](https://open.spotify.com/album/7rk9smzaAyvarlHNdUSEA1) | 6:32 | 2025-08-21 |  |
+| [Georgy Porgy](https://open.spotify.com/track/4qvIafWqMySjIcs4BXRxhh) | [Bensy](https://open.spotify.com/artist/5bL6DC0g37boJqvYx1Ofom), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Georgy Porgy](https://open.spotify.com/album/0YBBIur2BuquuDvAZNJksJ) | 2:56 | 2025-11-27 |  |
 | [Get Away](https://open.spotify.com/track/7DAluCyMYoeXU7N8ftYDy6) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1RpbVl2wdDPxBDwkyaA8bi) | 7:23 | 2023-04-13 | 2023-08-02 |
 | [Get Away \(We Love House Remix\)](https://open.spotify.com/track/6mM4muql5uzdMJmEpS9vXQ) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Get Away \(We Love House Remix\)](https://open.spotify.com/album/7bsxqS9AjAz43vbLaasY4R) | 5:33 | 2023-05-11 | 2024-01-05 |
 | [Get Down](https://open.spotify.com/track/3sFkO2PDRIiZhqR0ZtRzuw) | [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Get Down EP](https://open.spotify.com/album/1GiStB0oGRElP49xAQo2A3) | 5:08 | 2023-10-12 | 2025-01-10 |
@@ -595,6 +596,7 @@
 | [Lēt It Go](https://open.spotify.com/track/1Xgyx4LF58DLDLQrqM9U7j) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Lēt It Go](https://open.spotify.com/album/3SxIZ9RNGFcFW0ATXNKxVw) | 3:41 | 2023-12-08 | 2025-01-10 |
 | [M4M](https://open.spotify.com/track/41WTmr2BJ19i0Xqg3CS6I8) | [Rello](https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48), [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL), [Louie Dager](https://open.spotify.com/artist/5KjKqg0GxwnlLLFQGmD95M) | [M4M](https://open.spotify.com/album/5GLMaVQdAKlEAvoAiVHlD2) | 6:00 | 2024-07-12 | 2025-08-01 |
 | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q) | [Ma Tnsani \(Yalla Habibi\)](https://open.spotify.com/album/6MGyF6TkUOAW3g3ygaUn1n) | 3:40 | 2025-06-06 |  |
+| [Maabola](https://open.spotify.com/track/35AyOC5a43OPT79kZU4jKz) | [DOSAMIS](https://open.spotify.com/artist/36fpW4ktLfu9b1duhS928K) | [Maabola](https://open.spotify.com/album/68OPe7aNPyxL0hJqzsnEtb) | 3:48 | 2025-11-27 |  |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-04-13 | 2025-01-10 |
 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 | 2023-09-28 | 2025-01-10 |
 | [Magic \- Dave + Sam Remix](https://open.spotify.com/track/40ZMNSpiY0JvcdJZdqeY7f) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ), [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf) | [Magic \(Dave + Sam Remix\)](https://open.spotify.com/album/2xpxws9wbjWas9aXI0NPhT) | 4:21 | 2023-06-29 | 2023-08-02 |
@@ -924,6 +926,7 @@
 | [Speak To Me](https://open.spotify.com/track/0EcvbNYvQdFiKn1LSiD1ub) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Speak To Me](https://open.spotify.com/album/7yX28X5NrAHaWP6kAjCy2d) | 6:42 | 2023-05-25 | 2023-08-02 |
 | [Spill My Liquor \- Samm Remix](https://open.spotify.com/track/1x4xR3EZObHLBvBs9B4oS0) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Spill My Liquor \(Samm Remix\)](https://open.spotify.com/album/29h6SkbBIUNEFY8X8bx9uQ) | 3:50 | 2025-01-30 |  |
 | [Spine](https://open.spotify.com/track/1xtAil25id3SEVgEkYh8rJ) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Spine](https://open.spotify.com/album/5Qp2zi2AXGt0AiuDbUYNSf) | 4:50 | 2025-07-03 |  |
+| [Spirit Soul](https://open.spotify.com/track/4yX5YkTZLE2Cm5F4b1rZS3) | [Danidane](https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3) | [Spirit Soul](https://open.spotify.com/album/7md6ygaziWb9ruVvEp0tWS) | 5:14 | 2025-11-27 |  |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-08-01 | 2023-08-25 |
 | [Star Odyssey](https://open.spotify.com/track/6UKD7Hkyrw3UFaviZB8DG9) | [Los Niños](https://open.spotify.com/artist/45YRHObLU91yne2hvVbGki) | [City Tales presents Sunset Tales](https://open.spotify.com/album/41MqzPPZgDN1KrPMpfxVGV) | 9:24 | 2025-06-06 | 2025-06-13 |
 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 | 2023-11-24 | 2025-01-10 |

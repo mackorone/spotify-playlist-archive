@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35754,
+  "num_followers": 35755,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAAAlI4Ku+5O81TH98+2uR6Y1",
+  "snapshot_id": "aSZDAAAAAAC5GWpclYXVrwlZ0RNxglDb",
   "tracks": [
     {
       "added_at": null,
@@ -91,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
       "artists": [
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
         }
       ],
-      "duration_ms": 672253,
-      "name": "La Poderosa Muerte",
-      "url": "https://open.spotify.com/track/21fooaqsdHnfEX6I2xszdD"
+      "duration_ms": 240560,
+      "name": "Valpara\u00edso - Versi\u00f3n 1996",
+      "url": "https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv"
     },
     {
       "added_at": null,
@@ -139,28 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Valpara\u00edso - Versi\u00f3n 1996",
-      "url": "https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
       "artists": [
         {
@@ -168,25 +152,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 328733,
-      "name": "Desde un Barrial",
-      "url": "https://open.spotify.com/track/1m89Wa5xogBttK4SWhwxHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Un Dia De Tus Dias",
-      "url": "https://open.spotify.com/track/2ftI7Ue2E2zT33z6OkDhA5"
+      "duration_ms": 672253,
+      "name": "La Poderosa Muerte",
+      "url": "https://open.spotify.com/track/6ArNvGUEBngQ9sliZXeGrr"
     },
     {
       "added_at": null,
@@ -207,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
@@ -216,9 +184,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 328133,
-      "name": "Amor Americano",
-      "url": "https://open.spotify.com/track/6jjhtVX8EMP7GfxOwWV7SS"
+      "duration_ms": 190080,
+      "name": "Un Dia De Tus Dias",
+      "url": "https://open.spotify.com/track/2ftI7Ue2E2zT33z6OkDhA5"
     },
     {
       "added_at": null,
@@ -243,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
       "artists": [
         {
@@ -252,9 +220,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Aconcagua",
-      "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
+      "duration_ms": 328133,
+      "name": "Amor Americano",
+      "url": "https://open.spotify.com/track/6jjhtVX8EMP7GfxOwWV7SS"
     },
     {
       "added_at": null,
@@ -271,6 +239,22 @@
       "duration_ms": 192672,
       "name": "Frescura Antigua",
       "url": "https://open.spotify.com/track/1Jy9T9TKNbUcJCFnCTnG2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 328733,
+      "name": "Desde un Barrial",
+      "url": "https://open.spotify.com/track/3fkwDtkkVEFw3cS6Dmdr9C"
     },
     {
       "added_at": null,
@@ -292,7 +276,7 @@
       "added_at": null,
       "album": {
         "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
+        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
       },
       "artists": [
         {
@@ -302,87 +286,7 @@
       ],
       "duration_ms": 322413,
       "name": "\u00c1guila Sideral",
-      "url": "https://open.spotify.com/track/3TsdkwdKHxMLK047EXtOlc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Takirari del Puerto",
-      "url": "https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 461928,
-      "name": "Canci\u00f3n del Sur",
-      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 479186,
-      "name": "Guajira Cosmica",
-      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Palomita Blanca",
-        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "Donde Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 209800,
-      "name": "Debajo de las Higueras",
-      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+      "url": "https://open.spotify.com/track/5KiAfMWWdmUpoYI0NLIDCq"
     },
     {
       "added_at": null,
@@ -403,6 +307,102 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 220373,
+      "name": "Aconcagua",
+      "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "Donde Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 479186,
+      "name": "Guajira Cosmica",
+      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 461928,
+      "name": "Canci\u00f3n del Sur",
+      "url": "https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 136560,
+      "name": "Del Aire al Aire",
+      "url": "https://open.spotify.com/track/1MzUpAQrUIPT6qE27YnnBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 209800,
+      "name": "Debajo de las Higueras",
+      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Jaivas",
         "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
@@ -415,22 +415,6 @@
       "duration_ms": 249186,
       "name": "Un Mar de Gente",
       "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/4F8Cf17ibOHBL7mjYCzxjX"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 136560,
-      "name": "Del Aire al Aire",
-      "url": "https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse"
     },
     {
       "added_at": null,
@@ -451,6 +435,54 @@
       "duration_ms": 361533,
       "name": "Indio Hermano - Versi\u00f3n 1996",
       "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alturas de Macchu Picchu",
+        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Antigua Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4AgZfnB0Z1gtYAV5sdVD9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Takirari del Puerto",
+      "url": "https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Vamos por Ancho Camino",
+      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
     },
     {
       "added_at": null,
@@ -483,22 +515,6 @@
       "duration_ms": 223586,
       "name": "En Tus Horas",
       "url": "https://open.spotify.com/track/6UVAam0rThCwT8mR30a5mV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alturas de Macchu Picchu",
-        "url": "https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Antigua Am\u00e9rica",
-      "url": "https://open.spotify.com/track/4AgZfnB0Z1gtYAV5sdVD9y"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D"
       },
       "artists": [
         {
@@ -560,25 +576,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Que o la Tumba Ser\u00e1s",
-      "url": "https://open.spotify.com/track/6u3yREOoWqCRdydlHnPmFC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 205680,
       "name": "Canci\u00f3n para los P\u00e1jaros",
       "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Ventana (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 283189,
-      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
     },
     {
       "added_at": null,
@@ -667,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
       },
       "artists": [
         {
@@ -676,9 +644,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 192986,
-      "name": "Vamos por Ancho Camino",
-      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
+      "duration_ms": 202000,
+      "name": "Que o la Tumba Ser\u00e1s",
+      "url": "https://open.spotify.com/track/75jBptGrKXfCoaZlE6wg2R"
     },
     {
       "added_at": null,
@@ -699,24 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 261746,
-      "name": "Ayer Cache - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/5oGKw1Zl8WLYbcX1OBWhzV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
       },
       "artists": [
         {
@@ -726,39 +678,7 @@
       ],
       "duration_ms": 225093,
       "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4RKmEnXCIZ1Mr6Gg5a2Nhe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Volant\u00edn",
-        "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 394573,
-      "name": "Foto de Primera Comuni\u00f3n",
-      "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Todos Americanos",
-      "url": "https://open.spotify.com/track/69Evt4yslyJhrDYmkD3DHV"
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
     },
     {
       "added_at": null,
@@ -795,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0"
       },
       "artists": [
         {
@@ -804,9 +724,57 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Ni\u00f1a Serrana",
-      "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
+      "duration_ms": 408000,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0kGRBbp77zJZjR6SUOGDo2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 254973,
+      "name": "P\u00e1jaro Errante",
+      "url": "https://open.spotify.com/track/0oNeWVEmDu8GDClUK0AXRS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Volant\u00edn",
+        "url": "https://open.spotify.com/album/4IJANQACPQiCxER0gaUPpn"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 394573,
+      "name": "Foto de Primera Comuni\u00f3n",
+      "url": "https://open.spotify.com/track/6dHcWANJCRmNPqMquhllp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ventana (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
     },
     {
       "added_at": null,
@@ -823,6 +791,38 @@
       "duration_ms": 415653,
       "name": "Cerro de la Virgen",
       "url": "https://open.spotify.com/track/0CuG0Bt2h6mrmAggYbYdAT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Ni\u00f1a Serrana",
+      "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 96160,
+      "name": "Huaynito de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1mdt5Jh5wSHicq7y6jvmuj"
     }
   ],
   "unique_name": "This Is Los Jaivas",

@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Chasing Silhouettes",
+        "url": "https://open.spotify.com/album/5RWLDVIbCg0PPDt5DRESeo"
+      },
+      "artists": [
+        {
+          "name": "Lum\u00ef",
+          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Chasing Silhouettes",
+      "url": "https://open.spotify.com/track/1Ebt8METfFQvynNZgzZt31"
+    },
+    {
+      "album": {
         "name": "Beautiful Woman",
         "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
       },
@@ -2576,7 +2594,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 264400,
       "name": "Missionary Bell",
       "url": "https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf"

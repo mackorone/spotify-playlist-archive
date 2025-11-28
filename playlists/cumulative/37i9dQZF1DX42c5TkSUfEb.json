@@ -2515,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "fragile",
+        "url": "https://open.spotify.com/album/6OUDpzfRLCwgMGoLGJctGY"
+      },
+      "artists": [
+        {
+          "name": "Heroe",
+          "url": "https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164185,
+      "name": "fragile",
+      "url": "https://open.spotify.com/track/69MuLCdcWral54JcUz8b1R"
+    },
+    {
+      "album": {
         "name": "Free as a Bird",
         "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
       },
@@ -7958,7 +7976,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 253584,
       "name": "Une autre histoire d'amour",
       "url": "https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ"

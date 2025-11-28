@@ -124,7 +124,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 165920,
       "name": "Angel o Demonio",
       "url": "https://open.spotify.com/track/6451xVlY9Ms8nnZ3267aP6"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 236000,
       "name": "Charlemos en las Nubes",
       "url": "https://open.spotify.com/track/4ApKjFm4pqoEWm8wHZomOG"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 215813,
       "name": "Dosis",
       "url": "https://open.spotify.com/track/03TBqHj5fDznpRDIvRnmL9"
@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
+      "url": "https://open.spotify.com/track/2HyeBicZ4LbQmfmTq3bZCQ"
+    },
+    {
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h"
       },
@@ -970,10 +988,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 248784,
       "name": "Los Finos",
       "url": "https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE"
+    },
+    {
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/1oXZpcZxhAIPejsCHdpq8o"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248784,
+      "name": "Los Finos",
+      "url": "https://open.spotify.com/track/6M82EyIRzpnVNAnDO0v2ML"
     },
     {
       "album": {
@@ -1312,10 +1348,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 279000,
       "name": "Por amor",
       "url": "https://open.spotify.com/track/3OJ8elwnqmeJVMlOoU9HyN"
+    },
+    {
+      "album": {
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Por amor",
+      "url": "https://open.spotify.com/track/6o6svVt2GJnSl5u5pXXN1p"
     },
     {
       "album": {
@@ -1726,10 +1780,28 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 234500,
       "name": "Y Solo Yo Quiero (La Chata)",
       "url": "https://open.spotify.com/track/7EQkbWo1xv3Lf4kE1aIrXg"
+    },
+    {
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/30y9YTNOcSKGK3ii0qJxIG"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Y Solo Yo Quiero (La Chata)",
+      "url": "https://open.spotify.com/track/7o5ui5PKD7hFvbSIpMkHQP"
     },
     {
       "album": {

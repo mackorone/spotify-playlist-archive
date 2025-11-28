@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Kelly Khumalo",
+  "description": "Proudly Southern African Afropop gems. Cover: Naledi Aphiwe, Mawelele",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -592,6 +592,28 @@
       "duration_ms": 228434,
       "name": "Ama Hem Hem",
       "url": "https://open.spotify.com/track/5gxhVTQySDgrphokZPUWq4"
+    },
+    {
+      "album": {
+        "name": "Amabala",
+        "url": "https://open.spotify.com/album/6crrhw9leKklQ4J6aDzAYR"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264496,
+      "name": "Amabala",
+      "url": "https://open.spotify.com/track/0ZNnuL1xI79A5QSl0G5mq7"
     },
     {
       "album": {
@@ -2070,6 +2092,28 @@
       "duration_ms": 273815,
       "name": "Buya",
       "url": "https://open.spotify.com/track/7EbI4Ctt4ZQ7R90mXf0Kcv"
+    },
+    {
+      "album": {
+        "name": "Buya Ekhaya",
+        "url": "https://open.spotify.com/album/3PPaPMwxGz7TECQkbvTzzM"
+      },
+      "artists": [
+        {
+          "name": "Mawelele",
+          "url": "https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE"
+        },
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280032,
+      "name": "Buya Ekhaya",
+      "url": "https://open.spotify.com/track/5sDnYnQBnLPPDJCJ52ZPY4"
     },
     {
       "album": {
@@ -6674,7 +6718,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 214041,
       "name": "Kuyabongwa",
       "url": "https://open.spotify.com/track/5126E37MXDlVwL3GNsFE81"
@@ -6744,7 +6788,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 269520,
       "name": "Kwalula",
       "url": "https://open.spotify.com/track/3Rq1cgwfOjGCH8oxb9jiOz"
@@ -9384,7 +9428,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 244062,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/4XQNZPkMyo1LxR3NYbVegt"

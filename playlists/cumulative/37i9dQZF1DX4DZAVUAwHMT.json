@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Bad Omens",
+  "description": "The UK's biggest rock playlist. Cover: YONAKA",
   "name": "The Rock List",
   "tracks": [
     {
@@ -2009,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Barbed Wire",
+        "url": "https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184624,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
+    },
+    {
+      "album": {
         "name": "Be Better",
         "url": "https://open.spotify.com/album/06DjLKHL3vU2hmwkgQavK2"
       },
@@ -2629,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196338,
+      "name": "Blood Run Warm",
+      "url": "https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH"
+    },
+    {
+      "album": {
         "name": "MIXED EMOTIONS",
         "url": "https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z"
       },
@@ -2828,6 +2864,24 @@
       "duration_ms": 223785,
       "name": "Bogus Operandi",
       "url": "https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I"
+    },
+    {
+      "album": {
+        "name": "Boiling A Frog",
+        "url": "https://open.spotify.com/album/73Ji3pbdQsKWJ223jsWgXy"
+      },
+      "artists": [
+        {
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138738,
+      "name": "Boiling A Frog",
+      "url": "https://open.spotify.com/track/7LgdlL1BJJ6E1tddAlmrDo"
     },
     {
       "album": {
@@ -3354,7 +3408,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 189163,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
@@ -4342,7 +4396,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 186621,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/61XdjFsE7J7QGV9vsmE3l1"
@@ -5060,7 +5114,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 173248,
       "name": "Disco Dream",
       "url": "https://open.spotify.com/track/1l7kpzfxOa7ZzMcgfQnKpV"
@@ -5194,6 +5248,24 @@
       "duration_ms": 162640,
       "name": "Don't Fight",
       "url": "https://open.spotify.com/track/77uOIGBiWfd5dr88Y6QcIn"
+    },
+    {
+      "album": {
+        "name": "Doo Doo Doo Doo Doo",
+        "url": "https://open.spotify.com/album/3fJ4KUWT9PzqXfVqUrt9i2"
+      },
+      "artists": [
+        {
+          "name": "Big Sleep",
+          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198614,
+      "name": "Doo Doo Doo Doo Doo",
+      "url": "https://open.spotify.com/track/4EU5lWEahNC2sv6IhNGzkq"
     },
     {
       "album": {
@@ -7438,7 +7510,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 201593,
       "name": "God Owes Me Money",
       "url": "https://open.spotify.com/track/6MmXxggQZ12nAVpeIeEXLT"
@@ -8478,6 +8550,24 @@
       "duration_ms": 186289,
       "name": "Hippie Sunshine",
       "url": "https://open.spotify.com/track/2qGa5KtRjW7EGaZK7m3xoP"
+    },
+    {
+      "album": {
+        "name": "Hit Me When I'm Sore",
+        "url": "https://open.spotify.com/album/6Gcuv1YtFx4GR1NVuOZkrP"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175392,
+      "name": "Hit Me When I'm Sore",
+      "url": "https://open.spotify.com/track/2MMYTFtU63AnpdNpFJsYKk"
     },
     {
       "album": {
@@ -10314,6 +10404,24 @@
       "duration_ms": 216026,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/5qtGhBulxtsFRHmikMhBHe"
+    },
+    {
+      "album": {
+        "name": "God Save The Gun",
+        "url": "https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75"
+      },
+      "artists": [
+        {
+          "name": "Militarie Gun",
+          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229334,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp"
     },
     {
       "album": {
@@ -14106,7 +14214,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 233807,
       "name": "ORDINARY LOSS",
       "url": "https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7"
@@ -14748,7 +14856,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 202786,
       "name": "Pink Himalayan",
       "url": "https://open.spotify.com/track/5KQPNnL4B8HBLSekl6KIce"
@@ -15390,6 +15498,24 @@
       "duration_ms": 219691,
       "name": "R U Happy Now",
       "url": "https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "R.I.P. ME",
+      "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
     },
     {
       "album": {
@@ -18682,7 +18808,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 119488,
       "name": "The Burning of Cork",
       "url": "https://open.spotify.com/track/4JqBklO9OgzYpzuipVVWzI"
@@ -19788,7 +19914,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
@@ -19810,6 +19936,60 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr"
     },
     {
       "album": {
@@ -20058,7 +20238,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 202718,
       "name": "Unbloom",
       "url": "https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji"
@@ -20588,7 +20768,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 320523,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/1tenXdRDmbXA1spfbDSxmc"

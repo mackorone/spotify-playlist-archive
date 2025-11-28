@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213115,
+      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
+      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
+    },
+    {
+      "album": {
         "name": "Eljest",
         "url": "https://open.spotify.com/album/3D0jMkMGAaZ7AbPnYr4tJG"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 200360,
       "name": "Benjamin - From the TV series 'Etter Benjamin'",
       "url": "https://open.spotify.com/track/6qMI1g2TrI8YkybFCBnmwM"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 200000,
       "name": "Blommor",
       "url": "https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A"
@@ -6096,7 +6114,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 224168,
       "name": "Roses",
       "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
@@ -8179,6 +8197,24 @@
     },
     {
       "album": {
+        "name": "Vinterdvala",
+        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209118,
+      "name": "Vinterdvala",
+      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
+    },
+    {
+      "album": {
         "name": "Voice Of The Silent",
         "url": "https://open.spotify.com/album/5S5ClS46Md6jtbCb49Usrh"
       },
@@ -8484,6 +8520,24 @@
       "duration_ms": 166500,
       "name": "What You\u2019re Saying To Me",
       "url": "https://open.spotify.com/track/0jY0xjUoBeeYxrV8ORQ1OM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200833,
+      "name": "When Lights Go Down",
+      "url": "https://open.spotify.com/track/4fIO2zmiM0AyzE1RfIl6UP"
     },
     {
       "album": {

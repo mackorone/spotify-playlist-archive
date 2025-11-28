@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAADTXwjA+wQs7Fflx+UcjqU2",
+  "snapshot_id": "aSZDAAAAAACjVTWPZZTVA6duE8BKhhZm",
   "tracks": [
     {
       "added_at": null,
@@ -235,30 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo (Unidos por el Rock)",
-        "url": "https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2"
+        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
+        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
       },
       "artists": [
         {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        },
-        {
           "name": "Tex Tex",
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        },
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        },
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
         }
       ],
-      "duration_ms": 336725,
-      "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo - Unidos por el Rock",
-      "url": "https://open.spotify.com/track/0x75mir58ij8rxyYmskgLQ"
+      "duration_ms": 345240,
+      "name": "El Toque M\u00e1gico - En Vivo",
+      "url": "https://open.spotify.com/track/2J6LZUmtPAucGv1fEeTdPM"
     },
     {
       "added_at": null,
@@ -295,18 +283,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
-        "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
+        "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo (Unidos por el Rock)",
+        "url": "https://open.spotify.com/album/7abal0FXuwfI15XtxPleU2"
       },
       "artists": [
         {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        },
+        {
           "name": "Tex Tex",
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        },
+        {
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+        },
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
         }
       ],
-      "duration_ms": 345240,
-      "name": "El Toque M\u00e1gico - En Vivo",
-      "url": "https://open.spotify.com/track/2J6LZUmtPAucGv1fEeTdPM"
+      "duration_ms": 336725,
+      "name": "Te Vas a Acordar de M\u00ed, Anda Borracho Pancho, Tlatelolco M\u00edstico, No Tengo Tiempo - Unidos por el Rock",
+      "url": "https://open.spotify.com/track/0x75mir58ij8rxyYmskgLQ"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 243760,
-      "name": "4to y 5to Paso",
-      "url": "https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS"
+      "duration_ms": 201133,
+      "name": "Asesinos del Rock",
+      "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
         }
       ],
-      "duration_ms": 201133,
-      "name": "Asesinos del Rock",
-      "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
+      "duration_ms": 243760,
+      "name": "4to y 5to Paso",
+      "url": "https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS"
     },
     {
       "added_at": null,

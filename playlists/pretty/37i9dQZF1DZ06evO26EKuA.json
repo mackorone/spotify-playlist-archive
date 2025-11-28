@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 464062,
+  "num_followers": 464190,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACJGZWFYVGG1u5v7prYB+E/",
+  "snapshot_id": "aSZDAAAAAABqglVOmI1wph0YUrkKUiCV",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "17 Exitos en Honor a Mi Padre",
-        "url": "https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suavecita",
-      "url": "https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy As\u00ed",
         "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 184000,
       "name": "Quiero Charlar Con La Muerte",
       "url": "https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "17 Exitos en Honor a Mi Padre",
+        "url": "https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Suavecita",
+      "url": "https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 156573,
+      "name": "La Tambora Va A Sonar",
+      "url": "https://open.spotify.com/track/1qEVrgmfyslOXCpQsVaf1u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Valentin Elizalde En Vivo",
         "url": "https://open.spotify.com/album/59xpl8GLkPx7p6cuEVrZ8L"
       },
@@ -667,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volver\u00e9 a Amar",
-        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 144613,
-      "name": "Se\u00f1ora Equivocada",
-      "url": "https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regresan Los Mafiosos",
         "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
@@ -695,6 +699,22 @@
       "duration_ms": 207933,
       "name": "Hola Y Adios",
       "url": "https://open.spotify.com/track/7eF430WJ46ij8TOEYzyIor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volver\u00e9 a Amar",
+        "url": "https://open.spotify.com/album/6VMGPpuRXzVUb2zwZjhJ4h"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 144613,
+      "name": "Se\u00f1ora Equivocada",
+      "url": "https://open.spotify.com/track/5R90gu1goaOnbasX1zPWxi"
     },
     {
       "added_at": null,
@@ -715,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
       },
       "artists": [
         {
@@ -724,9 +744,25 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 224933,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/68TZFbe7BSQaNYSqpXbt7G"
+      "duration_ms": 124680,
+      "name": "Y No Me Lo Das",
+      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regresan Los Mafiosos",
+        "url": "https://open.spotify.com/album/3aFk1AI4jvwBZEVeH4DeI4"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Tu Mirada, Tu Pelo, Y Tu Boca(La Playa)",
+      "url": "https://open.spotify.com/track/1Pa2qNJPCTp2PahIdZ3Fyf"
     },
     {
       "added_at": null,
@@ -743,22 +779,6 @@
       "duration_ms": 135106,
       "name": "Ya Viene Amaneciendo",
       "url": "https://open.spotify.com/track/4udpojvy03lBAx1cHINhCW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 124680,
-      "name": "Y No Me Lo Das",
-      "url": "https://open.spotify.com/track/4L8MlmRxoCRSzTP5PECCDx"
     },
     {
       "added_at": null,
@@ -807,22 +827,6 @@
       "duration_ms": 152306,
       "name": "Que Vivan Las Mujeres",
       "url": "https://open.spotify.com/track/42Ja72gm1M9ddPKoIVotVI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regresan Los Mafiosos",
-        "url": "https://open.spotify.com/album/3aFk1AI4jvwBZEVeH4DeI4"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Tu Mirada, Tu Pelo, Y Tu Boca(La Playa)",
-      "url": "https://open.spotify.com/track/1Pa2qNJPCTp2PahIdZ3Fyf"
     }
   ],
   "unique_name": "This Is Valent\u00edn Elizalde",

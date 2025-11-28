@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 43 min
+90 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Alzypher Vol\. 3](https://open.spotify.com/track/7mIvi3Y1fVVogsEEMGtqz1) | [Alzada](https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Alzypher Vol\. 3](https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD) | 3:54 | 2023-11-10 |  |
 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 | 2023-11-10 | 2025-03-30 |
 | [Aquí Estoy Yo](https://open.spotify.com/track/7wQIwpNZhmvqhfn1x1Yy1i) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 4:07 | 2025-05-16 |  |
-| [Aunque Me Llames](https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Aunque Me Llames](https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8) | 4:58 | 2023-11-10 |  |
+| [Aunque Me Llames](https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Aunque Me Llames](https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8) | 4:58 | 2023-11-10 | 2025-11-28 |
+| [Aunque Me Llames](https://open.spotify.com/track/51e4EQSoahGmUlH5Hn9AVK) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Aunque Me Llames](https://open.spotify.com/album/43lkEvf58jkDaTFYOBOHsp) | 4:58 | 2025-11-28 |  |
 | [Bipolar](https://open.spotify.com/track/4o6yE20TfdxJi5mkJmeKZL) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Fobia](https://open.spotify.com/album/0dYiy3lV8InRzTTStmFtuq) | 3:05 | 2025-11-26 |  |
 | [CALIENTE](https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [CALIENTE](https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT) | 5:02 | 2023-11-10 | 2025-10-12 |
 | [Callao](https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Callao](https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L) | 2:58 | 2023-11-10 | 2025-06-07 |

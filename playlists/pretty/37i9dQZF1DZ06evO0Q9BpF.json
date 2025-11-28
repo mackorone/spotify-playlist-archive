@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49476,
+  "num_followers": 49481,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAAA4izMEUOtEKNM1c2aflri7",
+  "snapshot_id": "aSZDAAAAAABboJx4q2pmVhaMrqcLwEt4",
   "tracks": [
     {
       "added_at": null,
@@ -160,7 +160,7 @@
       "added_at": null,
       "album": {
         "name": "Sana Nuestra Naci\u00f3n",
-        "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
+        "url": "https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p"
       },
       "artists": [
         {
@@ -176,17 +176,17 @@
           "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         },
         {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
           "name": "Karen Espinosa",
           "url": "https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
         }
       ],
-      "duration_ms": 306976,
+      "duration_ms": 306960,
       "name": "Tu Amor No Tiene Fin (Reprise)",
-      "url": "https://open.spotify.com/track/0IncgT247WJc9X63Ni1p4Q"
+      "url": "https://open.spotify.com/track/4HPOnC1b0SH8eC1mE0Gsyo"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 345973,
-      "name": "Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 446302,
       "name": "Con Brazos Abiertos - En Vivo",
       "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 345973,
+      "name": "Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 214465,
+      "name": "Lo Perd\u00ed Todo - En Vivo",
+      "url": "https://open.spotify.com/track/1CiN6OT93p98d1DOcvgoJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 208733,
       "name": "Mientras Viva",
       "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 214465,
-      "name": "Lo Perd\u00ed Todo - En Vivo",
-      "url": "https://open.spotify.com/track/1CiN6OT93p98d1DOcvgoJ0"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 359827,
-      "name": "Cristo Te Amo",
-      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 301466,
       "name": "Danzando",
       "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 359827,
+      "name": "Cristo Te Amo",
+      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
     },
     {
       "added_at": null,

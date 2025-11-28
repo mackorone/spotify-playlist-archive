@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,797 songs - 20 day 3 hr 4 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,803 songs - 20 day 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7805,5 +7805,11 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7795 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 |
 | 7796 | [0g](https://open.spotify.com/track/0Hk3xtVqMJ1TSRqHeTcVye) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:16 |
 | 7797 | [RE Aoharu](https://open.spotify.com/track/4c1om3jDKoeOlk3SCUH8Ji) | [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p) | [Blue Archive 2.5th Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/5gX5DdM6la0IPxz3gS4idD) | 2:21 |
+| 7798 | [再生](https://open.spotify.com/track/24KYyk6mx7QhNBJKIDSkSr) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:26 |
+| 7799 | [群青讃歌](https://open.spotify.com/track/1OZsGTb22C22qTqsh2WH16) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:35 |
+| 7800 | [携帯恋話](https://open.spotify.com/track/4z5jk7qtK9q7OGEYhEzMqL) | [東雲絵名](https://open.spotify.com/artist/7aFsPOlM4a8W7ViZ8lnUjW) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:14 |
+| 7801 | [悔やむと書いてミライ](https://open.spotify.com/track/1gJvR8hrUbYPGpwKcY0hNf) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:49 |
+| 7802 | [乙女解剖](https://open.spotify.com/track/1tqmdA898RzkQpCUK1wFMm) | [暁山瑞希](https://open.spotify.com/artist/55KskxVnv2cAWebKf331ug) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:42 |
+| 7803 | [Responsibility](https://open.spotify.com/track/1UTM2QAVJcEuB4sNoUfoF4) | [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p) | [Blue Archive 3rd Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/2IoxB3yDVX8syf1cOHqxcu) | 2:03 |
 
-Snapshot ID: `AAAJlQDgq6Ou/+0ScqfsQVd5xcopFbnt`
+Snapshot ID: `AAAJm+aQco5GyBlrT+0BS8NFbuSLHVp+`

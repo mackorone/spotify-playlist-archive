@@ -4,7 +4,7 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-37 songs - 1 hr 37 min
+38 songs - 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [demon time \(with BAYLI\)](https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 2:10 | 2025-11-20 |  |
 | [Enter The Chat](https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Whirlwind Of Malevolence](https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC) | 2:19 | 2025-11-20 |  |
 | [Ethical Plum](https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Ethical Plum](https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz) | 2:46 | 2025-11-20 |  |
-| [fem\-onomics](https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 1:51 | 2025-11-20 |  |
+| [fem\-onomics](https://open.spotify.com/track/5iiCpjVTgaht1PDVHEMYiB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 1:51 | 2025-11-20 | 2025-11-28 |
 | [Find A Way](https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:51 | 2025-11-20 |  |
 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 | 2025-11-20 |  |
 | [foreigner](https://open.spotify.com/track/5W8Bhbhy33PBeEeCeQtsAx) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:37 | 2025-11-20 |  |
@@ -30,7 +30,8 @@
 | [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 | 2025-11-20 |  |
 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 | 2025-11-20 |  |
 | [not safe](https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [not safe](https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L) | 2:16 | 2025-11-20 |  |
-| [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 | 2025-11-20 |  |
+| [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 | 2025-11-20 | 2025-11-28 |
+| [Passenger Princess](https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:15 | 2025-11-28 |  |
 | [Posh](https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:33 | 2025-11-20 |  |
 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2025-11-20 |  |
 | [Push N Pull](https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Push N Pull](https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV) | 2:42 | 2025-11-20 |  |

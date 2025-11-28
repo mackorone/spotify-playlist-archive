@@ -1,6 +1,6 @@
 {
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
-  "num_followers": 2323954,
+  "num_followers": 2323908,
   "original_name": "Tropical House",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Follow the Sun",
-        "url": "https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/5YEPhAetAxm7JKsKLhKmJB"
       },
       "artists": [
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        },
         {
           "name": "NEIMY",
           "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 154313,
-      "name": "Follow the Sun",
-      "url": "https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute"
+      "duration_ms": 147155,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5WtcyoD89RtjST9PrS8IQE"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -523,22 +527,18 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/5YEPhAetAxm7JKsKLhKmJB"
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/1lSdGLnnafiYlTMRKvXFae"
       },
       "artists": [
-        {
-          "name": "Hobes",
-          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
-        },
         {
           "name": "NEIMY",
           "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
         }
       ],
-      "duration_ms": 147155,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5WtcyoD89RtjST9PrS8IQE"
+      "duration_ms": 154313,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/5NhrlsuS5y4T4N7WbbEute"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2vWWCxY9skwNkBujtM0R2G"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Lucas",
+          "url": "https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/2iEmvSAgiDs88DSYjvNsa2"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2vWWCxY9skwNkBujtM0R2G"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Lucas",
-          "url": "https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP"
-        }
-      ],
-      "duration_ms": 195375,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/2iEmvSAgiDs88DSYjvNsa2"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
-      },
-      "artists": [
-        {
-          "name": "Harry Cho",
-          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "Follow The Waves",
         "url": "https://open.spotify.com/album/2w1u1N0UTUrv0sWF7y5ncy"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 170454,
       "name": "Follow The Waves",
       "url": "https://open.spotify.com/track/5kFHq6Z70bf8jKrHHOBfGS"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
+      },
+      "artists": [
+        {
+          "name": "Harry Cho",
+          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/7vU2YiuTYSb4D7mJS6sl7Z"
+      },
+      "artists": [
+        {
+          "name": "Takis",
+          "url": "https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4"
+        }
+      ],
+      "duration_ms": 168771,
+      "name": "California",
+      "url": "https://open.spotify.com/track/655KhyloE0FwV2wZV6Wwp5"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
         "url": "https://open.spotify.com/album/00wAj9HNSj1vCaTY2LJ8sH"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 160000,
       "name": "Weekends (I Can Feel It) (DJ PRESS PLAY Remix)",
       "url": "https://open.spotify.com/track/3L9vMbrzmy86udXbCNfxCX"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/7vU2YiuTYSb4D7mJS6sl7Z"
-      },
-      "artists": [
-        {
-          "name": "Takis",
-          "url": "https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4"
-        }
-      ],
-      "duration_ms": 168771,
-      "name": "California",
-      "url": "https://open.spotify.com/track/655KhyloE0FwV2wZV6Wwp5"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Only For The Better",
+        "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        },
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "duration_ms": 168297,
+      "name": "Only For The Better",
+      "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "Evening Walk",
         "url": "https://open.spotify.com/album/5LfSmoxg4W4HnJpdVHsCRE"
       },
@@ -2123,42 +2143,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Only For The Better",
-        "url": "https://open.spotify.com/album/2YCkfABSqmSv2hW2v9w3Vl"
-      },
-      "artists": [
-        {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        },
-        {
-          "name": "Ericka Jane",
-          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
-        }
-      ],
-      "duration_ms": 168297,
-      "name": "Only For The Better",
-      "url": "https://open.spotify.com/track/2XI5yPRHlAg2a2xZtlTbpI"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Jubel (Remixes)",
-        "url": "https://open.spotify.com/album/18ecyDssonw23eqZ690WUM"
-      },
-      "artists": [
-        {
-          "name": "Klingande",
-          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
-        }
-      ],
-      "duration_ms": 283638,
-      "name": "Jubel",
-      "url": "https://open.spotify.com/track/1sQ6MIoJOmqBhwomBBLE9g"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "I Wanna Go",
         "url": "https://open.spotify.com/album/2jbdARp7cq4Rp30ALgr5XP"
       },
@@ -2179,22 +2163,18 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Some Day",
-        "url": "https://open.spotify.com/album/4UEuk5CqCZjJsTqOfB3fNf"
+        "name": "Jubel (Remixes)",
+        "url": "https://open.spotify.com/album/18ecyDssonw23eqZ690WUM"
       },
       "artists": [
         {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        },
-        {
-          "name": "Surfin' Sam",
-          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Some Day",
-      "url": "https://open.spotify.com/track/58FS4rjjq7wK0diVmuBnCp"
+      "duration_ms": 283638,
+      "name": "Jubel",
+      "url": "https://open.spotify.com/track/1sQ6MIoJOmqBhwomBBLE9g"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2219,6 +2199,26 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Some Day",
+        "url": "https://open.spotify.com/album/4UEuk5CqCZjJsTqOfB3fNf"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Some Day",
+      "url": "https://open.spotify.com/track/58FS4rjjq7wK0diVmuBnCp"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "Never Need",
         "url": "https://open.spotify.com/album/2HgyYQ84KQgRK7TiN92iNI"
       },
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS"
+      },
+      "artists": [
+        {
+          "name": "Innocent Panda",
+          "url": "https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv"
+        }
+      ],
+      "duration_ms": 220939,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "Probably Paradise",
         "url": "https://open.spotify.com/album/1XPGR76SriABi9I1b794RV"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 123750,
       "name": "Probably Paradise",
       "url": "https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/0gZioMqEBnE55RyVPeoFrS"
-      },
-      "artists": [
-        {
-          "name": "Innocent Panda",
-          "url": "https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv"
-        }
-      ],
-      "duration_ms": 220939,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4N0UHWYEc1DCn1UcsJtfmx"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2307,22 +2307,6 @@
       "duration_ms": 216000,
       "name": "Heart So Big",
       "url": "https://open.spotify.com/track/6jOfKvLoIdKu7UARpK2sMw"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Nostalgic",
-        "url": "https://open.spotify.com/album/2OUrAWQEOaHLGCxdbj18w9"
-      },
-      "artists": [
-        {
-          "name": "Ehrling",
-          "url": "https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT"
-        }
-      ],
-      "duration_ms": 161733,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/5rXiL9jyboFa9gza6jWRSP"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2367,30 +2351,18 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Circuit",
-        "url": "https://open.spotify.com/album/47Aowu0wG3r3eZt2bjM5ZS"
+        "name": "Nostalgic",
+        "url": "https://open.spotify.com/album/2OUrAWQEOaHLGCxdbj18w9"
       },
       "artists": [
         {
-          "name": "Yann Muller",
-          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
-        },
-        {
-          "name": "Fex",
-          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
-        },
-        {
-          "name": "Motik",
-          "url": "https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX"
-        },
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+          "name": "Ehrling",
+          "url": "https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT"
         }
       ],
-      "duration_ms": 181612,
-      "name": "Circuit",
-      "url": "https://open.spotify.com/track/6hfBnGdnANO21swBwkZl8c"
+      "duration_ms": 161733,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/5rXiL9jyboFa9gza6jWRSP"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2423,22 +2395,30 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Won't Let Go",
-        "url": "https://open.spotify.com/album/1xLUbbvRIRcgM0yVgeqXSO"
+        "name": "Circuit",
+        "url": "https://open.spotify.com/album/47Aowu0wG3r3eZt2bjM5ZS"
       },
       "artists": [
         {
-          "name": "leisse",
-          "url": "https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs"
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
         },
         {
-          "name": "johnny joined",
-          "url": "https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt"
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        },
+        {
+          "name": "Motik",
+          "url": "https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX"
+        },
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
         }
       ],
-      "duration_ms": 136890,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/7GEgzRRim9jP7AyxSskHaZ"
+      "duration_ms": 181612,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/6hfBnGdnANO21swBwkZl8c"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2459,6 +2439,26 @@
       "duration_ms": 165111,
       "name": "Million Miles",
       "url": "https://open.spotify.com/track/7qMFZAfcEQGuqB1KuMVRBW"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "Won't Let Go",
+        "url": "https://open.spotify.com/album/1xLUbbvRIRcgM0yVgeqXSO"
+      },
+      "artists": [
+        {
+          "name": "leisse",
+          "url": "https://open.spotify.com/artist/0uIEHVqB8Kkz3epLhyzjhs"
+        },
+        {
+          "name": "johnny joined",
+          "url": "https://open.spotify.com/artist/66exOAuJOrcxkzoClCCMIt"
+        }
+      ],
+      "duration_ms": 136890,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/7GEgzRRim9jP7AyxSskHaZ"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2671,6 +2671,46 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Like Paradise",
+        "url": "https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Like Paradise",
+      "url": "https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "Bad Obsession",
+        "url": "https://open.spotify.com/album/6zWJKxOpGWRnLkr916ZaM6"
+      },
+      "artists": [
+        {
+          "name": "Pablo Leo",
+          "url": "https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9"
+        },
+        {
+          "name": "Lili Ana",
+          "url": "https://open.spotify.com/artist/5bfoSoK5eksUCmoDrsNlQs"
+        }
+      ],
+      "duration_ms": 153329,
+      "name": "Bad Obsession",
+      "url": "https://open.spotify.com/track/7mRzehs3auawQpljt3VeEj"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "Summertime With You",
         "url": "https://open.spotify.com/album/5NQ9nE5nfn78rpz8o97rZp"
       },
@@ -2715,62 +2755,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Bad Obsession",
-        "url": "https://open.spotify.com/album/6zWJKxOpGWRnLkr916ZaM6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Leo",
-          "url": "https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9"
-        },
-        {
-          "name": "Lili Ana",
-          "url": "https://open.spotify.com/artist/5bfoSoK5eksUCmoDrsNlQs"
-        }
-      ],
-      "duration_ms": 153329,
-      "name": "Bad Obsession",
-      "url": "https://open.spotify.com/track/7mRzehs3auawQpljt3VeEj"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Like Paradise",
-        "url": "https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N"
-      },
-      "artists": [
-        {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
-        },
-        {
-          "name": "Skye Holland",
-          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Like Paradise",
-      "url": "https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/73GRnLNhy6cPL97D9DUOi8"
-      },
-      "artists": [
-        {
-          "name": "Donner",
-          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/0DPFWlzSaX1srrzwOBzASh"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "Get To Me",
         "url": "https://open.spotify.com/album/5FbgV9W1TqNKyrlYo71DPv"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 169043,
       "name": "Get To Me",
       "url": "https://open.spotify.com/track/53gkmTnp8eEZ1gQWouBA7n"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/73GRnLNhy6cPL97D9DUOi8"
+      },
+      "artists": [
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/0DPFWlzSaX1srrzwOBzASh"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2855,26 +2855,26 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Lost In Paradise",
-        "url": "https://open.spotify.com/album/6oENjKpsugfnRoH1pBkzyp"
+        "name": "Used To You",
+        "url": "https://open.spotify.com/album/5PGvJzCiyz854JCpb6GwOl"
       },
       "artists": [
         {
-          "name": "Viva La Panda",
-          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         },
         {
-          "name": "Edwardo Atlas",
-          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
         },
         {
-          "name": "Sirena",
-          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
         }
       ],
-      "duration_ms": 129600,
-      "name": "Lost In Paradise",
-      "url": "https://open.spotify.com/track/7u6v6hkSb05kT92LbCs4Ww"
+      "duration_ms": 172653,
+      "name": "Used To You",
+      "url": "https://open.spotify.com/track/7x9varTNk1RMUWlFBm2Ggy"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -2903,30 +2903,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Used To You",
-        "url": "https://open.spotify.com/album/5PGvJzCiyz854JCpb6GwOl"
-      },
-      "artists": [
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        },
-        {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Used To You",
-      "url": "https://open.spotify.com/track/7x9varTNk1RMUWlFBm2Ggy"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "Fire in the Sky",
         "url": "https://open.spotify.com/album/5hbQ4y8WTSJgEalXACpR59"
       },
@@ -2943,6 +2919,30 @@
       "duration_ms": 176097,
       "name": "Fire in the Sky",
       "url": "https://open.spotify.com/track/1nhiOU8j8dxJrHpCmrgIej"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "Lost In Paradise",
+        "url": "https://open.spotify.com/album/6oENjKpsugfnRoH1pBkzyp"
+      },
+      "artists": [
+        {
+          "name": "Viva La Panda",
+          "url": "https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy"
+        },
+        {
+          "name": "Edwardo Atlas",
+          "url": "https://open.spotify.com/artist/7fafcnfLroOhtWlp6Xh7j7"
+        },
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Lost In Paradise",
+      "url": "https://open.spotify.com/track/7u6v6hkSb05kT92LbCs4Ww"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -3267,6 +3267,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1keAXpmaKyIA7myToH4bMV"
+      },
+      "artists": [
+        {
+          "name": "Leviro",
+          "url": "https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7o414PkGSOyexmhm7WGzSI"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "In Your Arms",
         "url": "https://open.spotify.com/album/4zmem1pBYEOmaEl1iR4a5E"
       },
@@ -3303,22 +3319,6 @@
       "duration_ms": 138963,
       "name": "Called Home",
       "url": "https://open.spotify.com/track/53MCUyJ3sxf8YGaiYiC4G6"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1keAXpmaKyIA7myToH4bMV"
-      },
-      "artists": [
-        {
-          "name": "Leviro",
-          "url": "https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl"
-        }
-      ],
-      "duration_ms": 121043,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/7o414PkGSOyexmhm7WGzSI"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -3407,22 +3407,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "La danse des oiseaux",
-        "url": "https://open.spotify.com/album/1AiS9k0MQRzP6mqXIOI8VQ"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 225750,
-      "name": "La danse des oiseaux",
-      "url": "https://open.spotify.com/track/2kSUAzItCJMxVbpZjdtmLE"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4JL6XFpgvWsFbmf7hqGatj"
       },
@@ -3455,6 +3439,22 @@
       "duration_ms": 116871,
       "name": "Follow the Sun",
       "url": "https://open.spotify.com/track/1WSkQNWCHM70GTEalSYzbz"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "La danse des oiseaux",
+        "url": "https://open.spotify.com/album/1AiS9k0MQRzP6mqXIOI8VQ"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 225750,
+      "name": "La danse des oiseaux",
+      "url": "https://open.spotify.com/track/2kSUAzItCJMxVbpZjdtmLE"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -3535,6 +3535,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
+        "name": "Somewhere In The Stars",
+        "url": "https://open.spotify.com/album/4HLrHI5MTqPbn8ye9pYwDY"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        }
+      ],
+      "duration_ms": 120975,
+      "name": "Somewhere In The Stars",
+      "url": "https://open.spotify.com/track/1AM4zsHEqqKS4VIPfvh5U0"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
         "name": "The Great Wide Open",
         "url": "https://open.spotify.com/album/6VXmiotNPdpdLhG0v5qxpF"
       },
@@ -3555,22 +3571,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Somewhere In The Stars",
-        "url": "https://open.spotify.com/album/4HLrHI5MTqPbn8ye9pYwDY"
-      },
-      "artists": [
-        {
-          "name": "KNJA",
-          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
-        }
-      ],
-      "duration_ms": 120975,
-      "name": "Somewhere In The Stars",
-      "url": "https://open.spotify.com/track/1AM4zsHEqqKS4VIPfvh5U0"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "New Beginnings",
         "url": "https://open.spotify.com/album/25Q2DwPU4M8KjaGkTgA7vM"
       },
@@ -3583,22 +3583,6 @@
       "duration_ms": 188118,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/2ouzmB4EELwzPersSkE72Z"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/59OIgFU8GhhmbcH2l2ipnJ"
-      },
-      "artists": [
-        {
-          "name": "sunsets & sandals",
-          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
-        }
-      ],
-      "duration_ms": 160363,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/5FF9vuEU85mmbQ3gijVHWP"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -3623,6 +3607,22 @@
       "duration_ms": 162822,
       "name": "Believer",
       "url": "https://open.spotify.com/track/7LA7TbC3rcGvBAFVIfENOK"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/59OIgFU8GhhmbcH2l2ipnJ"
+      },
+      "artists": [
+        {
+          "name": "sunsets & sandals",
+          "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
+        }
+      ],
+      "duration_ms": 160363,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/5FF9vuEU85mmbQ3gijVHWP"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -3779,22 +3779,6 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Waiting For A Better Day",
-        "url": "https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO"
-      },
-      "artists": [
-        {
-          "name": "SITHEA",
-          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
-        }
-      ],
-      "duration_ms": 157201,
-      "name": "Waiting For A Better Day",
-      "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
-    },
-    {
-      "added_at": "2025-09-05 13:55:44",
-      "album": {
         "name": "What I'm Looking For",
         "url": "https://open.spotify.com/album/7yIkwEL6vac9LYVS5GLH6z"
       },
@@ -3811,6 +3795,22 @@
       "duration_ms": 124615,
       "name": "What I'm Looking For",
       "url": "https://open.spotify.com/track/6NrLhWohJARHxqQRW1cLGg"
+    },
+    {
+      "added_at": "2025-09-05 13:55:44",
+      "album": {
+        "name": "Waiting For A Better Day",
+        "url": "https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "duration_ms": 157201,
+      "name": "Waiting For A Better Day",
+      "url": "https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY"
     },
     {
       "added_at": "2025-09-05 13:55:44",
@@ -3935,26 +3935,22 @@
     {
       "added_at": "2025-09-05 13:55:44",
       "album": {
-        "name": "Floating On Forever",
-        "url": "https://open.spotify.com/album/5jwZyfoVyp6t3VfDMFSVQw"
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/2rica2Rv8loGKCze0FO9L1"
       },
       "artists": [
         {
-          "name": "Laurentius",
-          "url": "https://open.spotify.com/artist/2TCVmKZV4q5rtGd0smRBFo"
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
         },
         {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        },
-        {
-          "name": "Jeffrey James",
-          "url": "https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D"
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
         }
       ],
-      "duration_ms": 150538,
-      "name": "Floating On Forever",
-      "url": "https://open.spotify.com/track/4lGsyxLCUy89VWQm9rM1ad"
+      "duration_ms": 167946,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/2zIaJANgkbASOkw6yH58Wu"
     }
   ],
   "unique_name": "Tropical House",

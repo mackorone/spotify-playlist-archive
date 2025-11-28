@@ -2374,6 +2374,32 @@
     {
       "album": {
         "name": "12 AM in Atlanta 2",
+        "url": "https://open.spotify.com/album/7LCgLbIPQfSl5sIQXjxDSV"
+      },
+      "artists": [
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219442,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/19Gr4OCvJ65CJLYbUArdNW"
+    },
+    {
+      "album": {
+        "name": "12 AM in Atlanta 2",
         "url": "https://open.spotify.com/album/76ke5GIkFCFyJTYbBbMXuq"
       },
       "artists": [
@@ -2392,7 +2418,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 219442,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4musQfBRjlfN6pfJNpchpC"

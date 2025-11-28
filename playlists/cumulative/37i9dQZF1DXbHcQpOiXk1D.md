@@ -2,9 +2,9 @@
 
 ### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
 
-> The best from Britain's vibrant scene\. Cover: <br/>Yussef Dayes, Minami Kizuki
+> The best from Britain's vibrant scene\. Cover: <br/>oreglo
 
-759 songs - 2 day 4 hr 53 min
+760 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 | 2023-10-19 | 2024-04-12 |
 | [High](https://open.spotify.com/track/7jYF5A0TprR297TCg9MEOO) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/6jqiIg0L9UdADNWA1sCTlu) | 2:56 | 2023-03-08 | 2023-03-09 |
 | [High Up](https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC), [Meduulla](https://open.spotify.com/artist/4lqGh1wTFGSdZYm3G07fwW) | [High Up](https://open.spotify.com/album/5ZtxgAIPluVagpMb73UIDF) | 3:07 | 2024-08-02 | 2025-09-24 |
-| [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 | 2025-06-05 |  |
+| [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 | 2025-06-05 | 2025-11-28 |
 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 | 2023-12-22 | 2025-01-24 |
 | [Hocus Pocus](https://open.spotify.com/track/6Bidjfsyq4qbpwRCl2Cd85) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO), [Joe Beard](https://open.spotify.com/artist/4USph0kDFD7IlpU1SfIMfP) | [The Silhouettes Project, Vol\. 2](https://open.spotify.com/album/6GjyshlYp4mykcyT7rxoAs) | 3:42 | 2024-02-16 | 2024-08-30 |
 | [Hold On, Pt.2](https://open.spotify.com/track/19PCs8bTfMvXybqD1HAscU) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [James Chelliah](https://open.spotify.com/artist/0gCFISxX112iXqT2EakxTo), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Hold On, Pt.2](https://open.spotify.com/album/3m1iWUCNFY4XyDSL3yMh70) | 2:15 | 2022-02-11 | 2022-11-21 |
@@ -678,6 +678,7 @@
 | [Tittle Tattle](https://open.spotify.com/track/3BRbIsUrsR5AGI33ZI0pre) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Tittle Tattle](https://open.spotify.com/album/5nxY4SfOPMvUTIOaa7IjT6) | 5:19 | 2021-12-17 | 2022-06-11 |
 | [Together Is A Beautiful Place To Be \- Nala Sinephro Remix](https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Together Is A Beautiful Place To Be \(Nala Sinephro Remix\)](https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr) | 2:27 | 2021-12-17 | 2023-07-14 |
 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 | 2023-10-13 | 2024-07-19 |
+| [Track 2](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 | 2025-07-17 |  |
 | [Trembling](https://open.spotify.com/track/73JY1TB189qK9gUnKLrLKb) | [The Magic Lantern](https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V) | [Trembling](https://open.spotify.com/album/2S05R339F8TQGL6AviNebD) | 4:20 | 2024-08-22 | 2024-10-03 |
 | [Tresilian Bay](https://open.spotify.com/track/6kDFZBk2uqdeWXvtPQUeYB) | [Huw Marc Bennett](https://open.spotify.com/artist/6uYq0k8pis5LPGzdFRM5FJ) | [Tresilian Bay](https://open.spotify.com/album/0ZdDKBOtHMthjFrnLFa57Z) | 4:26 | 2021-12-17 | 2022-02-12 |

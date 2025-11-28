@@ -1,15 +1,31 @@
 {
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Anna Vissi",
-  "num_followers": 37074,
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Antonis Remos",
+  "num_followers": 37080,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSycQQtjXuXhWiR8PVmeJLxYhsj",
+  "snapshot_id": "AAAAAIlUv8+qo1uocXNHnylyRyz1Cs95",
   "tracks": [
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Deutera",
+        "url": "https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC"
+      },
+      "artists": [
+        {
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+        }
+      ],
+      "duration_ms": 240222,
+      "name": "Deutera",
+      "url": "https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Exairesi",
         "url": "https://open.spotify.com/album/2N4nSML0Ufqtk9LeUDX6PB"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/7rnrHmjDOjeJTxmxHLSHIc"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Meine Apopse Edo",
         "url": "https://open.spotify.com/album/2Lbulms8Fklt85AJdbFPW5"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/4T3PhZQ1rxdRQUoP5i4YhC"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Se Thelo Parafora",
         "url": "https://open.spotify.com/album/513gKE8Un3MSuku5MtFpUb"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/4Ny6sPSlZ6KGy9DBmLAnge"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "11 Me Liga Logia",
-        "url": "https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe"
-      },
-      "artists": [
-        {
-          "name": "Nikos Oikonomopoulos",
-          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
-        }
-      ],
-      "duration_ms": 274116,
-      "name": "I Apofasi",
-      "url": "https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "M' Akous",
         "url": "https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR"
@@ -93,7 +93,75 @@
       "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Kala Na Pernate",
+        "url": "https://open.spotify.com/album/0jabVYWfYrgQEbX4XKNAak"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        }
+      ],
+      "duration_ms": 186428,
+      "name": "Kala Na Pernate",
+      "url": "https://open.spotify.com/track/2puBRG2ig5q8f0JcM1d9wD"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Antras Einai Tha Perasei",
+        "url": "https://open.spotify.com/album/1Yv7ZFVLW9H9MkQwAo2lhS"
+      },
+      "artists": [
+        {
+          "name": "Christina Salti",
+          "url": "https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr"
+        }
+      ],
+      "duration_ms": 223598,
+      "name": "Antras Einai Tha Perasei",
+      "url": "https://open.spotify.com/track/1CmIyXdvWOLfvjiqm9Q2Id"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Krata",
+        "url": "https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "Krata",
+      "url": "https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Sou Eleipsa H Oxi?",
         "url": "https://open.spotify.com/album/3Y3vGleylpZtWMQUySRcvI"
@@ -109,7 +177,7 @@
       "url": "https://open.spotify.com/track/3DjRWr61uRKkd6pe0DkO3e"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Siopi Sti Diapason",
         "url": "https://open.spotify.com/album/5hq3mhVls5TmQmreXUslx2"
@@ -129,103 +197,43 @@
       "url": "https://open.spotify.com/track/1Zw1dBNnFCyHWTRWTRk3wW"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
-        "name": "Allou Gia Allou",
-        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
+        "name": "11 Me Liga Logia",
+        "url": "https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe"
       },
       "artists": [
         {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
         }
       ],
-      "duration_ms": 167003,
-      "name": "Allou Gia Allou",
-      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
+      "duration_ms": 274116,
+      "name": "I Apofasi",
+      "url": "https://open.spotify.com/track/70n4CO7lbTM7igJXszoK9P"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
-        "name": "Krata",
-        "url": "https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2"
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/00jnFAWFtvv3CHz69apq2p"
       },
       "artists": [
         {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Krata",
-      "url": "https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "Psemata",
-        "url": "https://open.spotify.com/album/7GWb2fF3a2oLIILDru8BpQ"
-      },
-      "artists": [
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
         {
-          "name": "Nikiforos Vithoulkas",
-          "url": "https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9"
+          "name": "Bobito",
+          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
         }
       ],
-      "duration_ms": 219823,
-      "name": "Psemata",
-      "url": "https://open.spotify.com/track/57oG2z9WHnenuZocjynJgx"
+      "duration_ms": 164800,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/4B3v4VfWLjoqXNXpcTN9De"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
-        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 305263,
-      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
-      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "Unplugged 2025",
-        "url": "https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE"
-      },
-      "artists": [
-        {
-          "name": "Thodoris Ferris",
-          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Simera - Unplugged",
-      "url": "https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "Leei Leei Leei",
-        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Leei Leei Leei",
-      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Nero",
         "url": "https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y"
@@ -245,7 +253,7 @@
       "url": "https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Nero (Live Edition)",
         "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
@@ -261,7 +269,39 @@
       "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Leei Leei Leei",
+        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Leei Leei Leei",
+      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Mehri Ekei Mporouses",
+        "url": "https://open.spotify.com/album/6eZt2m8WCulC5a8os4t3Av"
+      },
+      "artists": [
+        {
+          "name": "Christos Menidiatis",
+          "url": "https://open.spotify.com/artist/4SU6LvM9nyvqJqycIt1M0X"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mehri Ekei Mporouses",
+      "url": "https://open.spotify.com/track/39lsVJbQYEl8RXHdTln9K8"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Narkissos",
         "url": "https://open.spotify.com/album/7v4FMBVgvzJVGbFCN435qr"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/3IkiYVbIi8gyx0mNONWWjr"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Ximeia",
         "url": "https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ"
@@ -293,7 +333,7 @@
       "url": "https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Skoteine Mou Erota",
         "url": "https://open.spotify.com/album/44Yy04tr3fuqM278nG4wuO"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Kati Xereis",
         "url": "https://open.spotify.com/album/1JmNd52N6hawcFYuqKKQ0w"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/6sdfSqn9Jz0hr2CYtOicQX"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "To Diko Mou DNA",
         "url": "https://open.spotify.com/album/1MdLoUTIjsLZNghSQeNnXg"
@@ -341,7 +381,7 @@
       "url": "https://open.spotify.com/track/1Y3hauJlkq8GXIJ1YOnpDH"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Kale... Poios Einai Autos?",
         "url": "https://open.spotify.com/album/1p6wochIG0XNOunIdKHdh7"
@@ -357,7 +397,7 @@
       "url": "https://open.spotify.com/track/3RS5AmoANjZz0PXsOUjovL"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Ola Gia Ola",
         "url": "https://open.spotify.com/album/7x2obj5avH7SoylWDKlfLo"
@@ -373,7 +413,7 @@
       "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Kapnogona",
         "url": "https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF"
@@ -389,7 +429,23 @@
       "url": "https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
+      "album": {
+        "name": "Allou Gia Allou",
+        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 167003,
+      "name": "Allou Gia Allou",
+      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
+    },
+    {
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Katamata",
         "url": "https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS"
@@ -405,7 +461,7 @@
       "url": "https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Xorepse",
         "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
@@ -425,7 +481,7 @@
       "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Planitis Gi",
         "url": "https://open.spotify.com/album/3NrhsZPgo6Z72XmnDizCTK"
@@ -441,7 +497,7 @@
       "url": "https://open.spotify.com/track/1jhWAV25iQBkWOtIlHe6a0"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Lekes",
         "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
@@ -457,7 +513,7 @@
       "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Kourastika Na S' Agapo",
         "url": "https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP"
@@ -473,7 +529,7 @@
       "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "To Pairno Pano Mou",
         "url": "https://open.spotify.com/album/4xeJZt5RAxuzOKpZZYXqTD"
@@ -489,7 +545,7 @@
       "url": "https://open.spotify.com/track/5QQp2bt4O4EKnwgBXgOpDb"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Tetoia Ora Tetoia Logia",
         "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
@@ -505,7 +561,7 @@
       "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Gyrismos",
         "url": "https://open.spotify.com/album/1dAWCzUopvEyjmSg7py5Cp"
@@ -525,7 +581,7 @@
       "url": "https://open.spotify.com/track/4LQd54eTyzSTld755Ke7yY"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "San To Louloudi",
         "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
@@ -545,7 +601,7 @@
       "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "To Viografiko",
         "url": "https://open.spotify.com/album/6TZl1zhoavvZUkUKjPX2jr"
@@ -561,7 +617,7 @@
       "url": "https://open.spotify.com/track/2AlQniZwMjUWcOqtawNvxF"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "maZW Akoma (Ola Mou Ta Thelo)",
         "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
@@ -577,7 +633,7 @@
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Perifanos Aetos",
         "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
@@ -593,7 +649,7 @@
       "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Na Giriseis Pou",
         "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
@@ -609,7 +665,7 @@
       "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Me 'Geia Sou",
         "url": "https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l"
@@ -629,7 +685,7 @@
       "url": "https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Isitirio Ena",
         "url": "https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11"
@@ -645,7 +701,7 @@
       "url": "https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Me Sighorite",
         "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
@@ -661,7 +717,7 @@
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Ypervoles",
         "url": "https://open.spotify.com/album/3H9TOeoNzQmxLRQeWXJTZr"
@@ -681,7 +737,7 @@
       "url": "https://open.spotify.com/track/1WrpcYZsJkzJw5l95ECvpp"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Mavra Matia",
         "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
@@ -701,7 +757,7 @@
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Psixi Me Psixi",
         "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
@@ -717,7 +773,7 @@
       "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Ekptotos Aggelos",
         "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
@@ -733,7 +789,7 @@
       "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav"
@@ -753,7 +809,7 @@
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Sagapao Opos Eise",
         "url": "https://open.spotify.com/album/6mSACQGDMTmPZ4snco4OeA"
@@ -769,7 +825,7 @@
       "url": "https://open.spotify.com/track/5PVTJfOgqn57DgoJqYBm3Q"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Anasa",
         "url": "https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD"
@@ -785,7 +841,7 @@
       "url": "https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs"
     },
     {
-      "added_at": "2025-11-20 22:00:19",
+      "added_at": "2025-11-27 22:00:33",
       "album": {
         "name": "Eroteftika Esena",
         "url": "https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d"
@@ -799,58 +855,6 @@
       "duration_ms": 249640,
       "name": "Eroteftika Esena",
       "url": "https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "Anexartiti",
-        "url": "https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8"
-      },
-      "artists": [
-        {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
-        }
-      ],
-      "duration_ms": 161994,
-      "name": "Anexartiti",
-      "url": "https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "To Vale",
-        "url": "https://open.spotify.com/album/2C0uxbnyamMjZz7ah7BGtk"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 207556,
-      "name": "To Vale",
-      "url": "https://open.spotify.com/track/6ZHaixZ8kSAhnkz3zvFZCP"
-    },
-    {
-      "added_at": "2025-11-20 22:00:19",
-      "album": {
-        "name": "Porni Outopia",
-        "url": "https://open.spotify.com/album/76sgSrnerOEpJHQxca7Wx5"
-      },
-      "artists": [
-        {
-          "name": "Paola",
-          "url": "https://open.spotify.com/artist/7m0YMvg7P6lnhSa2Ttu5TF"
-        }
-      ],
-      "duration_ms": 212744,
-      "name": "Porni Outopia",
-      "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
     }
   ],
   "unique_name": "Laika tou Simera",

@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,029 songs - 2 day 4 hr 44 min
+1,031 songs - 2 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 | 2024-02-09 | 2024-02-16 |
 | [Activate](https://open.spotify.com/track/2LgCKhBkjd6uTm9yPKcMse) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Activate](https://open.spotify.com/album/2Fadnb53Ooc0owSGGvC0MM) | 3:22 | 2023-04-14 | 2023-05-02 |
 | [Addiction](https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Oscar L](https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm) | [Addiction / Yapper](https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr) | 3:31 | 2024-09-09 | 2025-01-09 |
+| [Aeroplane](https://open.spotify.com/track/52avPtULRh9knFXGNIpDHX) | [Schak](https://open.spotify.com/artist/7gA8yMxRoBujfmpDLuLPvx), [Echoes](https://open.spotify.com/artist/4pT84mlmySh9CkiGfJA9xV) | [Aeroplane](https://open.spotify.com/album/24MpesoPTbR5mnesqxn0zg) | 2:59 | 2025-11-27 |  |
 | [Afloja](https://open.spotify.com/track/0EGwGo3KqoyZK1S6rXyGK7) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [No Guest List](https://open.spotify.com/album/7cprE3sKPwvLtjsWGLBDYr) | 3:03 | 2024-05-31 | 2025-01-09 |
 | [African Lullaby](https://open.spotify.com/track/6yC6tiZFATSES4Hnju8qG9) | [BOHEMIAN](https://open.spotify.com/artist/6TACexnfiLJ7tnGavfCOnB), [LIBOZ](https://open.spotify.com/artist/1kgBp0KzQ19ZPl5T0eHp5K) | [African Lullaby](https://open.spotify.com/album/1s6XIYKZL2tbTkuL216x8f) | 3:21 | 2023-07-09 | 2023-07-14 |
 | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/track/3ISLa8YMtXC50w0vA0AWTk) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [After Midnight \(feat\. Xoro\) \[TELYKast Remix\]](https://open.spotify.com/album/1ezdvzo3qAQ3Dxt2gvI79e) | 2:29 | 2023-03-03 | 2023-08-02 |
@@ -87,6 +88,7 @@
 | [Barahúnda](https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS) | [Monge](https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1) | [Barahúnda](https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv) | 2:19 | 2024-05-17 |  |
 | [Barney's Theme Song \(Club Version\)](https://open.spotify.com/track/4bsPKlaYveRwopxXql99fo) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Barney's Theme Song \(Club Version\)](https://open.spotify.com/album/4yz32FclPASuKxL55Uy1bj) | 2:08 | 2023-10-20 | 2024-09-26 |
 | [Bass A+](https://open.spotify.com/track/3bAnYvCjUiJlCso6mUKZHB) | [Guedes](https://open.spotify.com/artist/0lTAppy3dXZmyom6xOMazw) | [Bass A+](https://open.spotify.com/album/75ckzWWX6pGcVJAvzpyEwT) | 4:57 | 2023-04-12 | 2023-04-28 |
+| [Bass Down Low \(feat\. DEV\) \[Go Version\]](https://open.spotify.com/track/0rmNe8Ds7tl1nfkj4eNJq8) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Avancada](https://open.spotify.com/artist/2LvoCyCKPikfIOquhBqRce), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Go Version\]](https://open.spotify.com/album/1FogdMMgodRlRvaZ9WXzS8) | 2:54 | 2025-11-27 |  |
 | [Bass Drum](https://open.spotify.com/track/5BNwl3ZruZS6LKjmBeid27) | [CGVE](https://open.spotify.com/artist/0B4AlWqnBZwrDvvXjm71bZ), [Shamil](https://open.spotify.com/artist/7IrZpbKw6j5L70Ymxr6ysg) | [Bass Drum](https://open.spotify.com/album/4Xt5yw6I8i7R8BPMbabHoL) | 2:33 | 2024-05-24 | 2024-09-26 |
 | [Bass Therapy](https://open.spotify.com/track/0yVLw01r2q1EY2XujV27Bu) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [JORDVN PRINCE](https://open.spotify.com/artist/7dhKkRFEQ7eB3LFbaVxWWV), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Bass Therapy](https://open.spotify.com/album/168W4UGsD5dg87lDq7W3ED) | 2:18 | 2025-09-12 |  |
 | [Batidāo](https://open.spotify.com/track/32wnlDNCkQqeEd5DoumeQG) | [MAGH](https://open.spotify.com/artist/2km6qEBrKyTw5H0VtCYhSs) | [Batidāo](https://open.spotify.com/album/17fY6oYrqfdv9i99eU6Tmz) | 2:35 | 2024-10-11 | 2024-10-25 |

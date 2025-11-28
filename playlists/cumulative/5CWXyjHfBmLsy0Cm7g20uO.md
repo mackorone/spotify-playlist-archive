@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-126 songs - 7 hr 52 min
+127 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Permission to Share](https://open.spotify.com/track/2enSMsqNJHquTOqqVrfc8d) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Permission to Share](https://open.spotify.com/album/1tIUy85SwGzWMe3kc5RTVZ) | 3:26 | 2025-08-25 |  |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-09-30 |  |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-10-30 |  |
+| [Rabia](https://open.spotify.com/track/2JiBnWtHKIFr9gH8yQTHp0) | [SBC TRINIDAD](https://open.spotify.com/artist/784SSel1L8TGhBlrANzeET) | [Rabia](https://open.spotify.com/album/4qCOtTxrPL2kYbeXH0E4VG) | 2:57 | 2025-11-27 |  |
 | [Rat Race](https://open.spotify.com/track/2u7Q7SFZxS3DQVE20KTAMR) | [Jumping Warpigs](https://open.spotify.com/artist/2bVJ0nmmBgKlHSKrtDK11t) | [Rat Race](https://open.spotify.com/album/3eOrmEsZWMULAiE8nFnBh9) | 2:36 | 2025-09-23 |  |
 | [Say Goodbye](https://open.spotify.com/track/29dKceSYYsR29BevWWOqvT) | [Sleep/Less](https://open.spotify.com/artist/0o6cuAtOpuu0chdB1m545F) | [Say Goodbye](https://open.spotify.com/album/7rCI0wZudVRSOE7PwvgPk9) | 3:19 | 2025-10-03 |  |
 | [Shattered](https://open.spotify.com/track/2wrdYI83tqHnyWR7uqDpnC) | [d\_scent](https://open.spotify.com/artist/6dOYplTs22r4F7GlanxEMn), [Echo Viridian](https://open.spotify.com/artist/6K7KHtjsy0JMDbeWULw0pF) | [Shattered](https://open.spotify.com/album/6ihgGx3iEBgxRR24ouX4X1) | 4:00 | 2025-09-12 |  |

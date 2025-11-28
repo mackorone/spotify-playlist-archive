@@ -4,7 +4,7 @@
 
 > 
 
-2,686 songs - 5 day 19 hr 58 min
+2,687 songs - 5 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2605,6 +2605,7 @@
 | [When I Saw You Again](https://open.spotify.com/track/0StX4BxGzhWriyfFHPz0fn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [When I Saw You Again](https://open.spotify.com/album/5UhR6QwsEwRNhvRO4yDu5l) | 2:56 | 2023-12-30 |  |
 | [When I Was Young](https://open.spotify.com/track/4klPKVSsZhuTQJHuzOmogw) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [When I Was Young](https://open.spotify.com/album/6se9xrFzepGHtYJyTkbmJE) | 2:27 | 2023-07-29 |  |
 | [When Is The Drop](https://open.spotify.com/track/5VkIIqC3CSchc9nuToYR3R) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [247 Hardcore](https://open.spotify.com/artist/27aPBTT6OvnVFFLshqrUET) | [Pigstyle 3 \- The Notorious P.I.G](https://open.spotify.com/album/1sjY6CBvqjIqFHTvjNDnWc) | 3:38 | 2025-07-10 |  |
+| [When Love Takes Over](https://open.spotify.com/track/447D63rXEGDPZmcHppuMjE) | [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0), [Cyber Gunz](https://open.spotify.com/artist/3KWdlsF1TJIys0XwnpbiOr) | [When Love Takes Over](https://open.spotify.com/album/3Ee7aUZQYq8PLe1KCnTcOU) | 2:53 | 2025-11-27 |  |
 | [When the Curtain Falls](https://open.spotify.com/track/5TNgpnfhHlWsG4o8fu4eKt) | [Gen\-Ohm](https://open.spotify.com/artist/5ABBmWbD0EyjfGhca1Z0cP), [ExaMelodica](https://open.spotify.com/artist/6VY7xbxDWoFBAViageVD0X), [Yuuko Sings](https://open.spotify.com/artist/0cKrhm3yYJ8jzYputXeQUR) | [When the Curtain Falls](https://open.spotify.com/album/75Nu9c4ZIP97P3piHwb8h3) | 8:10 | 2022-03-03 |  |
 | [When The Devil Knows Your Name](https://open.spotify.com/track/51M33rqbwiyD5jgi62kCow) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Demonic Playgrounds](https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC) | 3:07 | 2022-09-06 |  |
 | [When We Touch](https://open.spotify.com/track/3ZiC8gNSyUoeAnWSUZTdfn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [When We Touch](https://open.spotify.com/album/6ciEZDPFWW3jpfhYMDZiYP) | 2:44 | 2024-06-08 |  |

@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-437 songs - 21 hr 7 min
+438 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Choppin' It Up](https://open.spotify.com/track/3n4jvOUgp6nn9GLuOCUEiZ) | [Chethelyricist](https://open.spotify.com/artist/4TwUA7gy6CqnMJgiEYKmbj) | [Choppin' It Up](https://open.spotify.com/album/4c3jO9kSApT4lz2boL0kV2) | 2:24 | 2024-08-06 |  |
 | [Chrome Heart](https://open.spotify.com/track/1QUn8JoCo8z0mBmBmLzFzd) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [Chrome Heart](https://open.spotify.com/album/2tml7vycSw6GZYC7YTEJvQ) | 2:19 | 2024-09-05 |  |
 | [Chrome Heart](https://open.spotify.com/track/5agRTLnRP0jfuKGgyehtKW) | [Stivio](https://open.spotify.com/artist/0HBIEAjd75EfNCPxI8o4sQ) | [Chrome Heart](https://open.spotify.com/album/7wSzrEvXTEH3i5izGStF83) | 2:56 | 2024-08-13 |  |
+| [City Lights](https://open.spotify.com/track/7yfavewPcZm3t1XV1HJxU7) | [Stefano Pesapane](https://open.spotify.com/artist/1pqq2ysQTQXlFJ23ePR8L8) | [City Lights](https://open.spotify.com/album/1b1B3W2TKvWqsLs6hr94qt) | 4:00 | 2025-11-27 |  |
 | [Clarity](https://open.spotify.com/track/7BcPGHMy13w7PUg7BGOByO) | [Zarius](https://open.spotify.com/artist/2Q20E4muR026ErmtLCdkaD) | [Clarity](https://open.spotify.com/album/79DX18dJbTqZHdlodMJhXP) | 2:54 | 2024-11-17 |  |
 | [Cold Feet](https://open.spotify.com/track/4r8NdMHuOBNGEWrDCC9cHX) | [GZO](https://open.spotify.com/artist/789DyDVxb4jGQhG77USlEu), [LUXX](https://open.spotify.com/artist/2DvjJt2WyzJUQKn1WN3B7p) | [Cold Feet](https://open.spotify.com/album/38ZHX4KUz8zyL3KQZhXdJb) | 2:34 | 2024-07-30 |  |
 | [Cold In The Ends](https://open.spotify.com/track/7bd3rKVP2Oa6wymNgQ3Pml) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [Furkan Salihoğlu](https://open.spotify.com/artist/57GkQqYr6Oz8u25XMzZCm4), [BMG $WAY](https://open.spotify.com/artist/23KAGGIw9VGyoI2o4TZcZG), [Bobby Trixx](https://open.spotify.com/artist/0ehM0eNl0o2Dzf4PNtiWBo) | [Cold In The Ends](https://open.spotify.com/album/5g7GDLA3mS66xffaLrteVB) | 2:46 | 2024-12-13 |  |

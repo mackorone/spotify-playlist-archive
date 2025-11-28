@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-669 songs - 1 day 22 hr 19 min
+671 songs - 1 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [All The Way To Heaven](https://open.spotify.com/track/3S3FJ9kcmmmTY4nM0SdMcu) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:10 | 2023-12-30 | 2024-07-11 |
 | [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 | 2024-09-03 |  |
 | [All Your Attention](https://open.spotify.com/track/6rUQWAQuY5gFMNcltJVbdF) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/3RmAP5v4xev7yl3r0mjJPV) | 3:46 | 2023-12-30 | 2024-09-04 |
-| [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 | 2023-12-30 |  |
+| [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 | 2023-12-30 | 2025-11-28 |
+| [And the Night Stood Still](https://open.spotify.com/track/6t0RfDtaS400oOVuTaX1bj) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/3lb10Z7Lf81i16aq8VYxvB) | 3:46 | 2025-11-27 |  |
 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 | 2023-12-30 |  |
 | [ANSWER YOUR PHONE](https://open.spotify.com/track/1exVyJr8vy1zslg9cFYmEs) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:01 | 2024-12-11 |  |
 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 | 2023-12-30 |  |
@@ -220,7 +221,7 @@
 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 | 2024-01-24 |  |
 | [I Don't Know How I Got By](https://open.spotify.com/track/7xXlY5tR7PL7mgNF9SCfgf) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Playlist: The Best of Edwin McCain](https://open.spotify.com/album/4uFXMAwIhO6y7zJ1gS4k2q) | 3:46 | 2023-12-30 |  |
 | [I Don't Need You To](https://open.spotify.com/track/4ueBIcziMpSFAPW6ulYK8M) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Gotta Tell You](https://open.spotify.com/album/5hrhGEdZrxOjBe32cfIuwc) | 3:37 | 2024-07-04 |  |
-| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 | 2025-11-26 |
+| [I Don't Wanna Live Without Your Love](https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 3:54 | 2023-12-30 |  |
 | [I Don't Wanna Smile](https://open.spotify.com/track/4uPN4lISfBaXTDj4QIAgdm) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Kima, Keisha & Pam](https://open.spotify.com/album/33s3ptUTggk4QrMygA60or) | 4:43 | 2023-12-30 |  |
 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 | 2023-12-30 |  |
 | [I Don't Want to Miss a Thing](https://open.spotify.com/track/1cTATYMdB3N8Hq3TEwSZ0F) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [I Don't Want To Miss A Thing \(Official HD Video\)](https://open.spotify.com/album/3osPdU4wgtinhHvwKtLHNP) | 4:52 | 2024-01-21 | 2024-02-01 |
@@ -560,7 +561,8 @@
 | [There Is No Heart That Won't Heal](https://open.spotify.com/track/0MG53mMBZb4mJpqR0Ukmjd) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Naked Without You](https://open.spotify.com/album/6qrmgCo7ZTnPPqLEcCcdvD) | 5:17 | 2023-12-30 |  |
 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 | 2023-12-30 |  |
 | [There You'll Be \(dal Film Pearl Harbour\)](https://open.spotify.com/track/41mYwd1noYXctLrGYj32fG) | [Film Orchestra](https://open.spotify.com/artist/6GE3gIjUijpFNel1OIfNr9) | [Film Oscar Vol\. 1 Cover Version \(MP3 Album\)](https://open.spotify.com/album/7kJdB7buEQagGUTfcN3nJC) | 4:00 | 2024-07-10 | 2025-10-24 |
-| [There You'll Be \- From Pearl Harbor](https://open.spotify.com/track/1DyZlnrvzYCAjBOc6W8z3v) | [J.F\. Band](https://open.spotify.com/artist/7w5T5hY0evS3a3xQvNLSIC) | [Film In Love Collection Vol\. 1](https://open.spotify.com/album/1J4vXJZr4e3NTHmTiTvKlI) | 4:00 | 2025-10-23 |  |
+| [There You'll Be \- From "Pearl Harbor"](https://open.spotify.com/track/6oUgoPi1HtRVhdxY76b5yG) | [Music Factory](https://open.spotify.com/artist/1QQ91J9Pmq7gVnjZmYoaD5) | [Top Love Super Hits](https://open.spotify.com/album/0LYhCp1OV7WNbENDomS0rJ) | 4:00 | 2025-11-27 |  |
+| [There You'll Be \- From Pearl Harbor](https://open.spotify.com/track/1DyZlnrvzYCAjBOc6W8z3v) | [J.F\. Band](https://open.spotify.com/artist/7w5T5hY0evS3a3xQvNLSIC) | [Film In Love Collection Vol\. 1](https://open.spotify.com/album/1J4vXJZr4e3NTHmTiTvKlI) | 4:00 | 2025-10-23 | 2025-11-28 |
 | [These Are the Special Times](https://open.spotify.com/track/6HGf1xWwfRXPrjsRRygAPX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 4:07 | 2023-12-30 |  |
 | [This Could Take All Night](https://open.spotify.com/track/1VfOrgBJKhvO1ivJ8u6hkf) | [Chris Emerson](https://open.spotify.com/artist/3wMMMz6nznx9XoTHjnOUgS) | [TOURIST](https://open.spotify.com/album/0spxXinrmiHGwjop4hxVIb) | 4:03 | 2024-07-10 |  |
 | [This Is for My Girls \- 128 BPM Workout Remix](https://open.spotify.com/track/0Oxh40DEPR1gtRWT7Qecue) | [Jayne Mendez](https://open.spotify.com/artist/1v0pPpow6FkpRm0M6jOtxx) | [40 Top Workout Hits 2016](https://open.spotify.com/album/1iX5KFclgzSrc4cP3Dje7H) | 4:50 | 2023-12-30 | 2025-06-20 |

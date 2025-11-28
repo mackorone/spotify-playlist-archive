@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-362 songs - 20 hr 50 min
+363 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Flowers \(Demo\)](https://open.spotify.com/track/0436pabrDTOgxH02ugHGBA) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers \(Demo\)](https://open.spotify.com/album/6Zs0gWsA3JOvdL61eKnEt7) | 3:30 | 2023-12-08 | 2024-03-09 |
 | [Flowers on the Moon](https://open.spotify.com/track/42aQ6rmccKofpjfWgEkJoo) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Flowers on the Moon](https://open.spotify.com/album/7dvzNaKLIa5GkcrDcHleVp) | 3:28 | 2024-03-15 | 2024-11-23 |
 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 | 2025-09-19 |  |
+| [Fool's Gold](https://open.spotify.com/track/313fKmaZ1VcLpPkQFQXdzY) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Take Me Home](https://open.spotify.com/album/6v5mDjDZtHTz84VtV4iPnA) | 3:17 | 2025-11-27 |  |
 | [For The Living](https://open.spotify.com/track/1ubDKiPd70vAcckgoyA4Ot) | [Elliot Maginot](https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X) | [For The Living](https://open.spotify.com/album/61Yso4pxiob9KFC4Mmomus) | 2:59 | 2024-02-23 | 2024-08-17 |
 | [Forever Was Never Enough](https://open.spotify.com/track/15GmDt2VKLQmcB8q9tkJh8) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Forever Was Never Enough](https://open.spotify.com/album/5OPbWgMmKfLsir6Er33VIm) | 2:55 | 2024-01-26 | 2024-07-20 |
 | [Forget Yer Name](https://open.spotify.com/track/6J8zAJNk5DZXORHLDt6xB4) | [Peter Dreams](https://open.spotify.com/artist/55zmcbCA9XmEOPDGfvkxmv) | [Forget Yer Name](https://open.spotify.com/album/2QR0efpsZf7mtAV9uOZ4iZ) | 3:32 | 2025-01-10 | 2025-08-23 |

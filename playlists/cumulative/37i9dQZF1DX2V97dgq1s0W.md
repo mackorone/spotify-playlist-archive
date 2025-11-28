@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Odeal
+> The best voices in R&B\. Cover: Kwaku Asante
 
-545 songs - 1 day 4 hr 53 min
+546 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-07-21 | 2024-03-19 |
 | [Don't Prove Me Wrong](https://open.spotify.com/track/0uwFrfJ90Ghc5QcX8LbLe6) | [Meron Addis](https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy) | [Don't Prove Me Wrong](https://open.spotify.com/album/1VEdGv1fDANC7945CwUqVk) | 3:56 | 2023-02-23 | 2023-05-15 |
 | [Don't Say It](https://open.spotify.com/track/6ltghPpgP522rAJvYuplke) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Don't Say It](https://open.spotify.com/album/6qvPhhzet4eeMYzrOwY4HR) | 2:43 | 2023-07-21 | 2023-09-23 |
-| [Don't You Forget](https://open.spotify.com/track/0zICr7muWD6myHzUFEXc3p) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Monét](https://open.spotify.com/artist/1GrIhEF7bfChhCO6M4CSn8), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Don't You Forget](https://open.spotify.com/album/5le0ov0FPMgmPJdfum9AOa) | 4:09 | 2025-07-10 |  |
+| [Don't You Forget](https://open.spotify.com/track/0zICr7muWD6myHzUFEXc3p) | [Exp.](https://open.spotify.com/artist/1H7n686346Z5bb65sYw9xi), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [Monét](https://open.spotify.com/artist/1GrIhEF7bfChhCO6M4CSn8), [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Don't You Forget](https://open.spotify.com/album/5le0ov0FPMgmPJdfum9AOa) | 4:09 | 2025-07-10 | 2025-11-28 |
 | [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 | 2023-05-14 | 2024-05-11 |
 | [Double Back](https://open.spotify.com/track/7Fz8TyKSzhetD7zLYbrPgf) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/0P7argSEQG9otkeG3welvZ) | 2:39 | 2023-07-21 | 2024-04-19 |
 | [Downtown \- Mahogany Edit](https://open.spotify.com/track/6DkxgtFTXjRmeOqhXcyTbU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Downtown \(Mahogany Edit\)](https://open.spotify.com/album/14A7BCJ6TEqIcDqexCujQt) | 2:57 | 2024-09-26 | 2025-04-25 |
@@ -213,6 +213,7 @@
 | [How Does It Make You Feel](https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:36 | 2023-08-25 | 2024-04-26 |
 | [how it goes](https://open.spotify.com/track/2JYWmiS6iCpCNsutMd15uk) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [introspect](https://open.spotify.com/album/3xzJf3uPFu9X0hbXHaRE8u) | 3:28 | 2025-01-31 | 2025-07-25 |
 | [How It's Gotta Be](https://open.spotify.com/track/29TBgV8BsHPAV9F0QGBYkT) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [How It's Gotta Be](https://open.spotify.com/album/7vNAZM6mMX2FGi0476vbYD) | 3:41 | 2024-11-08 | 2025-05-09 |
+| [How Much Will It Take](https://open.spotify.com/track/06x8K7S6w6M318VvWUg5GA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [bygone](https://open.spotify.com/album/4ratZOOUKwmfsv2ZgRzosO) | 3:39 | 2025-11-28 |  |
 | [How Soon](https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [How Soon](https://open.spotify.com/album/1JL6Vatn02HjOJtxL1eHrt) | 3:09 | 2023-07-21 | 2024-02-28 |
 | [I Deserve It,](https://open.spotify.com/track/1CnRcBIzyHE41mcsgcI0P0) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [I Deserve It,](https://open.spotify.com/album/1R2ZUUtR7ksMhoawUMkWeF) | 1:50 | 2024-06-19 | 2024-07-25 |
 | [I Hope You Understand](https://open.spotify.com/track/6W1hYGszX4dZVOaLOW1F2K) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [I Hope You Understand](https://open.spotify.com/album/3JnlkjekuPJHSObCcXbwmj) | 3:06 | 2025-03-14 | 2025-05-02 |

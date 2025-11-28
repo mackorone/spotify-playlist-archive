@@ -1,13 +1,29 @@
 {
-  "description": "Home to the greatest Pakistani hits \ud83c\udfb6 Cover: Afusic",
-  "num_followers": 74876,
+  "description": "Home to the greatest Pakistani hits \ud83c\udfb6 Cover: Asim Azhar",
+  "num_followers": 74892,
   "original_name": "Pakka Hit Hai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOu7Pbs7k6iysMOGviACjzLDoeto",
+  "snapshot_id": "AAAAAP7osOwl0veLtxMrkp7PPwJohfx0",
   "tracks": [
+    {
+      "added_at": "2025-11-27 15:16:35",
+      "album": {
+        "name": "Asim Ali",
+        "url": "https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Khabbay Sajjay",
+      "url": "https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S"
+    },
     {
       "added_at": "2025-11-13 11:49:36",
       "album": {
@@ -99,22 +115,6 @@
       "duration_ms": 302706,
       "name": "Tere Pyar Main",
       "url": "https://open.spotify.com/track/6JB0h4leDJ4Akabtu42Epd"
-    },
-    {
-      "added_at": "2025-11-13 11:49:36",
-      "album": {
-        "name": "Sajna da Dil Torya",
-        "url": "https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p"
-      },
-      "artists": [
-        {
-          "name": "Zeeshan Ali",
-          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
-        }
-      ],
-      "duration_ms": 253150,
-      "name": "Sajna da Dil Torya",
-      "url": "https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh"
     },
     {
       "added_at": "2025-11-13 11:49:36",

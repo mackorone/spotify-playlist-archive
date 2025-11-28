@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,928 songs - 6 day 9 hr 51 min
+2,929 songs - 6 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,6 +1501,7 @@
 | [MIDDLE OF THE NIGHT](https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [MIDDLE OF THE NIGHT](https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM) | 3:04 | 2022-01-20 | 2022-06-25 |
 | [Midnight Rain](https://open.spotify.com/track/1DAHLigfUqSLrU3RLG1EKR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/4moVP48t9bji7djUc5VOvi) | 2:54 | 2022-10-22 | 2022-10-24 |
 | [Midnight Rain](https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:54 | 2022-10-24 | 2022-10-30 |
+| [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2025-11-27 |  |
 | [Mielenmaisemat](https://open.spotify.com/track/2Iz23pg8SQUgcBvhSXKPOO) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Mielenmaisemat](https://open.spotify.com/album/7vhx9FcEb5ghpw4WKoOpTN) | 3:12 | 2023-08-12 | 2023-10-15 |
 | [mielipide](https://open.spotify.com/track/1Fmv8okUsdGaQvdV0N6jrf) | [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [soittorasia](https://open.spotify.com/album/49lFM84P2mYvVgbDWvDdZu) | 2:46 | 2024-01-06 | 2024-01-13 |
 | [Mieti mitä sä teet](https://open.spotify.com/track/7iyaHDzzroBgzYahnMSPFI) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Mieti mitä sä teet](https://open.spotify.com/album/6zEQv7lCTAOzvVnbGzZ37w) | 3:50 | 2025-01-11 | 2025-01-17 |
@@ -2499,7 +2500,7 @@
 | [Tikapuut \(Vain elämää kausi 16\)](https://open.spotify.com/track/661bSX8tJ948FzRRUTGZQD) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Tikapuut \(Vain elämää kausi 16\)](https://open.spotify.com/album/3NAsQ6NWWHOHmpg8ILpFOO) | 3:34 | 2025-09-20 | 2025-10-05 |
 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 | 2025-01-11 | 2025-02-28 |
 | [Tilipäivä](https://open.spotify.com/track/1xE3bYl2RqvsZasAX2uF9E) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Tilipäivä](https://open.spotify.com/album/6PhRpN6F2s646vppm5ye50) | 2:58 | 2023-09-02 | 2023-09-08 |
-| [Timanttei](https://open.spotify.com/track/36lT6tdND08VVvv3HwbhZD) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:29 | 2024-11-02 |  |
+| [Timanttei](https://open.spotify.com/track/36lT6tdND08VVvv3HwbhZD) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:29 | 2024-11-02 | 2025-11-28 |
 | [Timanttei](https://open.spotify.com/track/3BZB8nRPdxDmG2X5Mzlq7X) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Timanttei](https://open.spotify.com/album/2jjNtxMNjutr0uo6rXln3p) | 3:29 | 2024-01-05 | 2024-11-03 |
 | [Timeless](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-09-28 | 2025-02-02 |
 | [Timeless \(feat Playboi Carti\)](https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 4:16 | 2025-02-01 | 2025-02-16 |

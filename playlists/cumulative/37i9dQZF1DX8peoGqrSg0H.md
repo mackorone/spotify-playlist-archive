@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: VOC
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: TIGGER \(ทิกเกอร์\)
 
-807 songs - 1 day 23 hr 33 min
+809 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [GOOD BOY](https://open.spotify.com/track/5qFh3cdm88zbfLmo7SJV3a) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [GOOD BOY](https://open.spotify.com/album/19NjYAU2yelvI7LkRHcjhR) | 2:59 | 2024-09-12 | 2024-09-20 |
 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 | 2024-01-31 | 2024-05-11 |
 | [Goodnite](https://open.spotify.com/track/0WIsTmkaxJT8bKYOO1b5od) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Goodnite](https://open.spotify.com/album/6cUos9As4HRkaeiRmmuHLH) | 2:24 | 2024-08-22 | 2024-09-13 |
+| [Grow With The Flow](https://open.spotify.com/track/0Q4NvzVTC30c8R7joBS5Lj) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [Grow With The Flow](https://open.spotify.com/album/3l0MMLc8ilY62qt7gh3y4I) | 4:13 | 2025-11-27 |  |
 | [Heart Poppin'](https://open.spotify.com/track/1qV5KvsNGL1umoFUTJR306) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [Heart Poppin'](https://open.spotify.com/album/6am59D7FRoeMtWmGE0oA09) | 3:29 | 2025-02-27 | 2025-03-13 |
 | [Heartbeat](https://open.spotify.com/track/3GmTi7ToFhnHLDKNo92lIr) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Heartbeat](https://open.spotify.com/album/0ZWAzqTKLDjSRyubKzYOTs) | 3:05 | 2022-10-07 | 2022-10-27 |
 | [HEARTCASE](https://open.spotify.com/track/6BAiUeSqRDDDIz8X3V5haW) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [HEARTCASE](https://open.spotify.com/album/0hY7fcr5136UIaQGzuoULv) | 3:55 | 2024-06-13 | 2024-06-21 |
@@ -122,7 +123,7 @@
 | [KILLA](https://open.spotify.com/track/7pACeDeY7q0eom7sFfiVHy) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [KILLA](https://open.spotify.com/album/2m66Q3umrj3DiZphk8HpbQ) | 3:58 | 2025-08-07 | 2025-08-15 |
 | [KISS KISS](https://open.spotify.com/track/1N1lnrLpZfoRH7ICM74fEU) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [KISS KISS](https://open.spotify.com/album/5QV41p2rViJIU9gcBLV3Eb) | 3:22 | 2024-08-28 | 2024-09-20 |
 | [Kiss Me!](https://open.spotify.com/track/2OJ4pcZ6TntuT0pk052jzW) | [BNK48](https://open.spotify.com/artist/0A7q0U0IEdNOHWnQpMRQdD) | [Kiss Me!](https://open.spotify.com/album/6buRGA4CO45tJZJpMmbJOx) | 3:04 | 2024-02-22 | 2024-03-02 |
-| [KITTY SWAG](https://open.spotify.com/track/0r4fC9se09fzMhC6uihMM4) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [KITTY SWAG](https://open.spotify.com/album/6K1rbiowfO84Kdo1xSbC1u) | 3:12 | 2025-11-13 |  |
+| [KITTY SWAG](https://open.spotify.com/track/0r4fC9se09fzMhC6uihMM4) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [KITTY SWAG](https://open.spotify.com/album/6K1rbiowfO84Kdo1xSbC1u) | 3:12 | 2025-11-13 | 2025-11-28 |
 | [KNOCK KNOCK](https://open.spotify.com/track/2GCrGVTyymC8vXphc3uyep) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo), [JORIN](https://open.spotify.com/artist/4bKVuNT3nWDxl0Flezx1rj) | [KNOCK KNOCK \- Single](https://open.spotify.com/album/2ODK98p3Xfg56ZSGWkl6a4) | 3:12 | 2023-06-22 | 2024-05-24 |
 | [L.I.T \- Studio Ver.](https://open.spotify.com/track/3GBywB7OuV962QVeCRsdLu) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [L.I.T \(Studio Ver.\)](https://open.spotify.com/album/39Ks7LXBHTuSDCaLvhFlYU) | 3:20 | 2023-10-05 | 2023-10-20 |
 | [LaLaLook](https://open.spotify.com/track/2j5fCX90N2VKYmX9PnMI1T) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LaLaLook](https://open.spotify.com/album/6mH83F5NmCOkTcnJ3jMkdA) | 2:50 | 2023-07-28 | 2023-08-05 |
@@ -404,6 +405,7 @@
 | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/track/1ke1sGWrCPDyXtZy6xXzAq) | [ROOFTOP](https://open.spotify.com/artist/3wzGjN26jzqLY2Gc836sjC) | [ถูกออกแบบให้อยู่คนเดียว](https://open.spotify.com/album/3rLD9S8sTdWU46plj5snNG) | 3:03 | 2022-07-30 | 2022-08-06 |
 | [ถ้าคนจะใช่ \(มันใช่ไปนานแล้ว\)](https://open.spotify.com/track/1wTRpzquoCMqL7u132d7Pq) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [ถ้าคนจะใช่ \(มันใช่ไปนานแล้ว\)](https://open.spotify.com/album/36NXPV8aLodT0xfY9MMRIx) | 4:31 | 2025-07-02 | 2025-07-18 |
 | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/track/768V6zjx23Sd1oqtKlxIAx) | [LAZ1](https://open.spotify.com/artist/3jratub4tdVTntKxLeoNpz) | [ถ้าจูบได้เพียงหนึ่งครั้ง \(Last Kiss\)](https://open.spotify.com/album/4fvLJyx7dG6ewjIT9FSXMJ) | 4:01 | 2022-07-22 | 2022-08-06 |
+| [ถ้าฉันทนไม่ไหว \(temptation\)](https://open.spotify.com/track/71miW6WiBaqjWwEtSxqreC) | [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ถ้าฉันทนไม่ไหว \(temptation\)](https://open.spotify.com/album/2HJ68G4V4HBMYQwnlkbYyF) | 3:34 | 2025-11-27 |  |
 | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \- Special Track](https://open.spotify.com/track/29o0NtvmnO9LqXA3SLBAzp) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [ถ้าพี่ยังว่างอยู่..\. \(Come to be mine\) \[Special Track\]](https://open.spotify.com/album/2aWjMiLMRKZDM2sytFHuVZ) | 3:54 | 2023-05-26 | 2023-06-02 |
 | [ถ้ามันคือเรื่องจริง \(Imagine\)](https://open.spotify.com/track/2vMyzG2h4OtF5iC5FB3JWW) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [Ready or Not?](https://open.spotify.com/album/0e5GwPIz7IVwz7YLKPpgKn) | 3:52 | 2022-05-26 | 2023-08-08 |
 | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/track/1QEcjyNgnbMKGx3O3cyql3) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ถ้ารู้ว่าจะเป็นวันสุดท้าย \(What If\)](https://open.spotify.com/album/6RbkOgLaSyRje54Rsv7D8B) | 3:12 | 2025-01-25 | 2025-02-21 |
@@ -663,7 +665,7 @@
 | [เจ้าใจ \- Liar](https://open.spotify.com/track/2KovoeIzjao7ZVNvjsWigW) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [เจ้าใจ \(Liar\)](https://open.spotify.com/album/7gJJuBiAKIXqTHQyo8JGaE) | 3:21 | 2022-07-01 | 2022-07-31 |
 | [เดาสิ! \(Guess What ?\)](https://open.spotify.com/track/2SncDJjLjtG4kLU2SNGWOe) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [เดาสิ! \(Guess What ?\)](https://open.spotify.com/album/6GaJV2c7xOoYjBGnlCQeeX) | 3:45 | 2025-05-29 | 2025-06-13 |
 | [เดาไม่เก่ง](https://open.spotify.com/track/0FQuyJ6MTsvGcXQur2EPgk) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:06 | 2022-05-26 | 2022-10-27 |
-| [เติมรักอีกนิด \(A Little More Love\)](https://open.spotify.com/track/4zmHi4Jx9140l1hwljGstu) | [Tay Tawan](https://open.spotify.com/artist/5mfKKXLQbPhYC82sAKi3g4), [New Thitipoom](https://open.spotify.com/artist/0qigKjF9dygfI5G9DdNHd2), [POLCASAN](https://open.spotify.com/artist/7hM8GRewW3tU2tsyjwVxjY) | [เติมรักอีกนิด \(A Little More Love\)](https://open.spotify.com/album/4MNhUsV7HpoXuVxxK8dZ6T) | 3:22 | 2025-11-21 |  |
+| [เติมรักอีกนิด \(A Little More Love\)](https://open.spotify.com/track/4zmHi4Jx9140l1hwljGstu) | [Tay Tawan](https://open.spotify.com/artist/5mfKKXLQbPhYC82sAKi3g4), [New Thitipoom](https://open.spotify.com/artist/0qigKjF9dygfI5G9DdNHd2), [POLCASAN](https://open.spotify.com/artist/7hM8GRewW3tU2tsyjwVxjY) | [เติมรักอีกนิด \(A Little More Love\)](https://open.spotify.com/album/4MNhUsV7HpoXuVxxK8dZ6T) | 3:22 | 2025-11-21 | 2025-11-28 |
 | [เติมเธอ \(Fill My Heart\)](https://open.spotify.com/track/6Bw6ZasvryV0lgryseKuhW) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [เติมเธอ \(Fill My Heart\)](https://open.spotify.com/album/1WjecyATm10Vz6V75Zberz) | 3:32 | 2025-10-23 | 2025-11-07 |
 | [เถียงเก่ง \(Bad Mouth\)](https://open.spotify.com/track/5yvRKTDlHFLjAJ34TlazlN) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เถียงเก่ง \(Bad Mouth\) \[feat\. UrboyTJ\]](https://open.spotify.com/album/1RwPXnOxs97fKVZy572vvo) | 3:37 | 2023-03-02 | 2023-03-16 |
 | [เทคะแนน \(CANDIDATE\)](https://open.spotify.com/track/4UgAVgYNBahclsbXTbP3Xn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เทคะแนน \(CANDIDATE\) \- Single](https://open.spotify.com/album/25MlWfSLmLz4bXUoSHdKMj) | 3:09 | 2024-02-21 | 2024-05-07 |

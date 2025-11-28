@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Rabia",
+        "url": "https://open.spotify.com/album/4qCOtTxrPL2kYbeXH0E4VG"
+      },
+      "artists": [
+        {
+          "name": "SBC TRINIDAD",
+          "url": "https://open.spotify.com/artist/784SSel1L8TGhBlrANzeET"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177874,
+      "name": "Rabia",
+      "url": "https://open.spotify.com/track/2JiBnWtHKIFr9gH8yQTHp0"
+    },
+    {
+      "album": {
         "name": "Rat Race",
         "url": "https://open.spotify.com/album/3eOrmEsZWMULAiE8nFnBh9"
       },

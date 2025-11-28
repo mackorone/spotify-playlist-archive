@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: Te la pinto, Mamarracha, No Todo Vale, Me Cago Vivo, Fluir con el Caos\n\nEn portada, Te la pinto",
+  "description": "P\u00f3dcasts que necesitas mantener en tu RADAR: Mamarracha, No Todo Vale, Me Cago Vivo, Fluir con el Caos, Te la pinto\n\nEn portada, Te la pinto",
   "name": "RADAR Creators Espa\u00f1a",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 4518848,
       "name": "19. De la RUINA a una VIDA EXTRAORDINARIA a trav\u00e9s de la MEDITACI\u00d3N\u23aeTony Espigares",
       "url": "https://open.spotify.com/episode/3ih8ffmkMDq1u59DIoLvrm"
@@ -322,10 +322,28 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 4541290,
       "name": "21. Experta en RELACIONES: H\u00e1bitos t\u00f3xicos que destruyen el AMOR | Anna Vicen Renner",
       "url": "https://open.spotify.com/episode/6IZyv62jbBouD7aSatmw0P"
+    },
+    {
+      "album": {
+        "name": "FLUIR CON EL CAOS",
+        "url": "https://open.spotify.com/album/5j40y3EhMwY57jeVPo27i6"
+      },
+      "artists": [
+        {
+          "name": "FLUIR CON EL CAOS",
+          "url": "https://open.spotify.com/show/5j40y3EhMwY57jeVPo27i6"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3834005,
+      "name": "24. Los MIEDOS que te impiden BRILLAR y crear tu VIDA | Alba Santamarina",
+      "url": "https://open.spotify.com/episode/40zXtHGL7wFI1aDDSGoGOx"
     },
     {
       "album": {
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 4577045,
       "name": "2x03 | Me Cago Vivo con las parejas de asesinos",
       "url": "https://open.spotify.com/episode/5yh0hX6BReuQXcZJ9jYcJa"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 3740053,
       "name": "2x05 | Me Cago Vivo con los vampiros (En Espa\u00f1a)",
       "url": "https://open.spotify.com/episode/2L28PWq8nKjX1NRfklR4fU"
@@ -470,6 +488,42 @@
       "duration_ms": 2787754,
       "name": "2x18 El brujo del Moquinal & Pogo El payaso",
       "url": "https://open.spotify.com/episode/6822hT1dicXPUDYH1ISBlD"
+    },
+    {
+      "album": {
+        "name": "Me Cago Vivo",
+        "url": "https://open.spotify.com/album/7jpFQnRt8uaft5enMfLXxq"
+      },
+      "artists": [
+        {
+          "name": "Me Cago Vivo",
+          "url": "https://open.spotify.com/show/7jpFQnRt8uaft5enMfLXxq"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2198000,
+      "name": "2x18 | Bass Inferno | Relato Sonoro de Terror",
+      "url": "https://open.spotify.com/episode/4MFIhKFgtNGEo2ioppauX4"
+    },
+    {
+      "album": {
+        "name": "Me Cago Vivo",
+        "url": "https://open.spotify.com/album/7jpFQnRt8uaft5enMfLXxq"
+      },
+      "artists": [
+        {
+          "name": "Me Cago Vivo",
+          "url": "https://open.spotify.com/show/7jpFQnRt8uaft5enMfLXxq"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5196266,
+      "name": "2x19 | Me Cago Vivo con los malos viajes",
+      "url": "https://open.spotify.com/episode/7AyDa9KZ8vO7L74nsweyWe"
     },
     {
       "album": {
@@ -851,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Te la pinto",
+        "url": "https://open.spotify.com/album/7h7Ol2q5eruuobw526Ao6k"
+      },
+      "artists": [
+        {
+          "name": "Te la pinto",
+          "url": "https://open.spotify.com/show/7h7Ol2q5eruuobw526Ao6k"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4020522,
+      "name": "Divas: Espa\u00f1a seg\u00fan Sara, Letizia e Isabel | Juan S\u00e1ez y to Te la pintamos",
+      "url": "https://open.spotify.com/episode/0zETrJxNrGa2kyXD58WqXz"
+    },
+    {
+      "album": {
         "name": "La Cr\u00f3nica Oscura",
         "url": "https://open.spotify.com/album/1gIOIXYHYKdu2osi0eNsBc"
       },
@@ -902,6 +974,24 @@
       "duration_ms": 4752450,
       "name": "El derradeiro de la temporada, Q&A | 3x35",
       "url": "https://open.spotify.com/episode/2Zc6nfUQfZWw6PfVOwyLn8"
+    },
+    {
+      "album": {
+        "name": "NO TODO VALE",
+        "url": "https://open.spotify.com/album/08bOjezkZ3YqmUinsfnhHU"
+      },
+      "artists": [
+        {
+          "name": "NO TODO VALE",
+          "url": "https://open.spotify.com/show/08bOjezkZ3YqmUinsfnhHU"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1760320,
+      "name": "EL D\u00cdA QUE CASI NOS DESPIDEN",
+      "url": "https://open.spotify.com/episode/1F8P1isj32rHsygHkOYS10"
     },
     {
       "album": {
@@ -988,7 +1078,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 3090005,
       "name": "EP1XT3 | Amorosas",
       "url": "https://open.spotify.com/episode/7m1EaG7PnduDT4qBXMYTXv"
@@ -1006,10 +1096,46 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 2890581,
       "name": "EP25XT2 | Zapping",
       "url": "https://open.spotify.com/episode/1u4yVNs3d8r8MiaRnZ94pa"
+    },
+    {
+      "album": {
+        "name": "Mamarracha",
+        "url": "https://open.spotify.com/album/2E8jBlXyYXKgPLH8DmcSrO"
+      },
+      "artists": [
+        {
+          "name": "Mamarracha",
+          "url": "https://open.spotify.com/show/2E8jBlXyYXKgPLH8DmcSrO"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3042005,
+      "name": "EP7XT3 | Falsas ",
+      "url": "https://open.spotify.com/episode/3QsVK3Y0VIpNuehSCYsKjU"
+    },
+    {
+      "album": {
+        "name": "Mamarracha",
+        "url": "https://open.spotify.com/album/2E8jBlXyYXKgPLH8DmcSrO"
+      },
+      "artists": [
+        {
+          "name": "Mamarracha",
+          "url": "https://open.spotify.com/show/2E8jBlXyYXKgPLH8DmcSrO"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3205205,
+      "name": "EP8XT3 | Guarras",
+      "url": "https://open.spotify.com/episode/6gSqLWyMb7B2vZOKEr0Mmi"
     },
     {
       "album": {
@@ -1168,10 +1294,28 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 1989248,
       "name": "Kim Kardashian, personaje escrito por Unamuno (s\u00ed, en serio)",
       "url": "https://open.spotify.com/episode/4zH0KibUBN93DeZh2MJTZj"
+    },
+    {
+      "album": {
+        "name": "Te la pinto",
+        "url": "https://open.spotify.com/album/7h7Ol2q5eruuobw526Ao6k"
+      },
+      "artists": [
+        {
+          "name": "Te la pinto",
+          "url": "https://open.spotify.com/show/7h7Ol2q5eruuobw526Ao6k"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4890410,
+      "name": "La Oficina de Premoniciones, un caso real",
+      "url": "https://open.spotify.com/episode/4LvO1R1txXgFuNZbHPePej"
     },
     {
       "album": {
@@ -1226,6 +1370,24 @@
       "duration_ms": 1558165,
       "name": "Las heridas de la infancia | Ep.142",
       "url": "https://open.spotify.com/episode/2x1774eXuzGRCxDTkWV253"
+    },
+    {
+      "album": {
+        "name": "NO TODO VALE",
+        "url": "https://open.spotify.com/album/08bOjezkZ3YqmUinsfnhHU"
+      },
+      "artists": [
+        {
+          "name": "NO TODO VALE",
+          "url": "https://open.spotify.com/show/08bOjezkZ3YqmUinsfnhHU"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3363733,
+      "name": "Las historias M\u00c1S TURBIAS de Reddit: Padres irresponsables, red flags y secretos familiares \ud83d\ude31",
+      "url": "https://open.spotify.com/episode/5y3ibSOU7EYGyZWIVJV331"
     },
     {
       "album": {
@@ -1438,7 +1600,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 2428138,
       "name": "No todo vale con MEL\u00d3N POR LA NOCHE ni RESCATADORES DE PING\u00dcINOS | NTV 4x01",
       "url": "https://open.spotify.com/episode/0dwRHDLYfiAiaZWLtIAi2s"
@@ -1456,7 +1618,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 3471168,
       "name": "NO TODO VALE CON VUESTRAS PREGUNTAS | NTV 3x30",
       "url": "https://open.spotify.com/episode/17WY5HO6f3GNcFGbnUDs6m"
@@ -1636,7 +1798,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 3609365,
       "name": "S\u00f3tanos y bunkers, \u00bfzona dom\u00e9stica o lapsus freudianos?\u00a0| Oscar y yo Te la pintamos",
       "url": "https://open.spotify.com/episode/2PmXIYlCnE6nFrR157IUr6"
@@ -1838,6 +2000,24 @@
       "duration_ms": 7864372,
       "name": "\u00bfQui\u00e9n teme al mono feroz? (Con Glenda Galore)",
       "url": "https://open.spotify.com/episode/77jtakSz1AshbflOvBmaqb"
+    },
+    {
+      "album": {
+        "name": "FLUIR CON EL CAOS",
+        "url": "https://open.spotify.com/album/5j40y3EhMwY57jeVPo27i6"
+      },
+      "artists": [
+        {
+          "name": "FLUIR CON EL CAOS",
+          "url": "https://open.spotify.com/show/5j40y3EhMwY57jeVPo27i6"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4905685,
+      "name": "\ud83d\udd25ESTRENO\ud83d\udd25Ego, MUERTE y sufrimiento: lo que nadie se atreve a contarte | Ramiro Calle",
+      "url": "https://open.spotify.com/episode/1nrMkIy8kbtU2NOd19PujX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2WSz2bIXl9B"

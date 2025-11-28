@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: Alena Omargalieva
+> Найпопулярніші українські та світові пісні сьогодення\. Обкладинка: DOROFEEVA
 
 162 songs - 8 hr 5 min
 

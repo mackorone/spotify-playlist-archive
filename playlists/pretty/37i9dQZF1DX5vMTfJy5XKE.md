@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,053 likes - 174 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,368 likes - 174 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

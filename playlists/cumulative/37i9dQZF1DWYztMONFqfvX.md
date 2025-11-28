@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-184 songs - 11 hr 59 min
+185 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Fateh Kar Fateh \- From "Fateh"](https://open.spotify.com/track/5aYbIAA0ws4fsyl67LQDNN) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Haroon\-Gavin](https://open.spotify.com/artist/61TMIueHFQCPav1PmET3ce), [Mandeep Khurana](https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ) | [Fateh Kar Fateh \(From "Fateh"\)](https://open.spotify.com/album/1pfSFaAHYKFcJ0RKpQDv1U) | 3:40 | 2024-12-12 | 2025-03-29 |
 | [Fitoor](https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF) | [Shamshera](https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx) | 5:08 | 2022-07-07 | 2023-06-27 |
 | [Galtiyan](https://open.spotify.com/track/2RQbfbmqh13otxU98ngG2F) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Galtiyan](https://open.spotify.com/album/0IGNZGDA2Sjntx73xf8hV5) | 5:02 | 2023-06-19 | 2023-08-09 |
+| [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Armaan Khan](https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ) | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW) | 6:02 | 2025-11-27 |  |
 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/6V0cw3ZOtm5oQJrSv4QluQ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Gerua \(From "Dilwale"\)](https://open.spotify.com/album/4UdX8yGAWSZADs8cDxInY8) | 5:45 | 2021-12-08 | 2023-11-22 |
 | [Gham Khushiyan](https://open.spotify.com/track/4gc3l647HDAdQAsDmKA32U) | [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Gham Khushiyan](https://open.spotify.com/album/1yqwgFq9DO6NqFlyE7CGQe) | 3:40 | 2023-02-13 | 2023-05-13 |
 | [Ghungroo \(From "War"\)](https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ghungroo \(From "War"\)](https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ) | 5:02 | 2021-12-08 | 2023-05-23 |

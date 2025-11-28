@@ -4,7 +4,7 @@
 
 > Det bästa från den svenska reggaescenen.
 
-229 songs - 13 hr 29 min
+230 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Hur många gånger?](https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz) | [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Hur många gånger?](https://open.spotify.com/album/098qyzOjXRvIQAY3sz3a4g) | 2:37 | 2023-05-25 | 2023-05-28 |
 | [Håll i dig](https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd) | [Wagwan](https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS), [Cortés](https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG) | [Håll i dig](https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM) | 3:18 | 2021-12-14 | 2025-11-15 |
 | [Hög standard](https://open.spotify.com/track/14cGnZZ9Cg3y8VLhVtavXe) | [Peps Blodsband](https://open.spotify.com/artist/16qbt9c47JP8oKWOSAycMD) | [Hög standard](https://open.spotify.com/album/1ZYTcyOohNFetwUzj8t1bi) | 5:16 | 2022-04-21 |  |
+| [I mitt hjärta där bor gud](https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo) | [Efia Abu](https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy), [Drömbandet](https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW) | [Kärlek & Verkan](https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I) | 5:13 | 2024-06-24 |  |
 | [In Kommer Ting](https://open.spotify.com/track/21SZLKjYJQfoNS4pVbHQz6) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/0EvdD2eeFZDmzvuAZcGDdA) | 2:59 | 2022-07-15 | 2024-04-19 |
 | [In Kommer Ting](https://open.spotify.com/track/5M5P1RBcqx2tmzJvnpvyZE) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/3B4QGsos9iNRUSLuceNZzV) | 2:59 | 2021-12-14 | 2022-07-29 |
 | [Irie](https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3) | [Silly Selection](https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr) | [Irie](https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg) | 3:23 | 2021-12-14 |  |
@@ -127,7 +128,7 @@
 | [Luftslott \(feat\. Nayomi\)](https://open.spotify.com/track/6HFDca3nQ3wZ8vJflJqUJq) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a) | [Uppsala \- Göteborg Tur och Retur](https://open.spotify.com/album/6DX4r8doLCWF26hPUhTmnm) | 3:54 | 2021-12-14 | 2022-07-29 |
 | [Längtar bort](https://open.spotify.com/track/2mcUhZZ308pSIDZB9sA9J9) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:09 | 2021-12-14 | 2022-05-09 |
 | [Låt ingen fakka din vibe](https://open.spotify.com/track/0RXTRlLdb6i05iCRYdEyBv) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Tarequito](https://open.spotify.com/artist/3CYJ76Eg56YxJNEoLHHnoD), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u), [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG) | [Låt ingen fakka din vibe](https://open.spotify.com/album/7qsm3rCFBBTIYVb8bFF55m) | 3:13 | 2021-12-14 | 2022-07-16 |
-| [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 | 2021-12-14 |  |
+| [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 | 2021-12-14 | 2025-11-28 |
 | [Magisk](https://open.spotify.com/track/4imhpWNj3aCl0aqLqBCQfs) | [Ward](https://open.spotify.com/artist/5aYrBP9Rh9J036WUb3ddyv) | [Magisk](https://open.spotify.com/album/77aYdUB9x06IRLxxwXAfdJ) | 3:34 | 2021-12-14 | 2022-07-03 |
 | [Make Sense](https://open.spotify.com/track/0oCQ94meSvw1BbpAkeYSgn) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [ANITYA](https://open.spotify.com/album/18WWB7MAZPuqACVBt6lpN4) | 3:25 | 2022-10-10 | 2024-01-25 |
 | [Make Sense](https://open.spotify.com/track/4QXMNGyAi4EnhCtpgV216E) | [Syster Sol](https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Make Sense](https://open.spotify.com/album/6RbXK1Yv3tusF4EJxMFkAq) | 3:25 | 2021-12-14 | 2022-07-29 |

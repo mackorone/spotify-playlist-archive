@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Southern music breaking waves\. <br/>Curated by: <a href="spotify:artist:5QJ1y0hIIbgStShX3562mw">Turbo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,782 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,788 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

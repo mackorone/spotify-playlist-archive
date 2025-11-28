@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN"
+    },
+    {
+      "album": {
         "name": "Tropical Mami",
         "url": "https://open.spotify.com/album/5yL59VsRdLb1gIWR6qaY2b"
       },

@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Odeal
 
-986 songs - 1 day 23 hr 51 min
+987 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Follow Through](https://open.spotify.com/track/6nY8vUsaVRwToBzRhPh2Fh) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Lex Ash](https://open.spotify.com/artist/5kOSDiIYPtPIZqDwBa0XKw) | [Follow Through](https://open.spotify.com/album/4ZiEbVOlKfjzCNjaK7cN9t) | 2:16 | 2022-11-18 | 2022-12-09 |
 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 | 2025-04-18 |  |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-01 |  |
-| [For the Mean Time](https://open.spotify.com/track/1nfEyUaqrDxPqbW47Tp870) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Could This Be Love](https://open.spotify.com/album/0VuqYK1Dsl7ecE1JA5tyf0) | 3:31 | 2025-11-14 |  |
+| [For the Mean Time](https://open.spotify.com/track/1nfEyUaqrDxPqbW47Tp870) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Could This Be Love](https://open.spotify.com/album/0VuqYK1Dsl7ecE1JA5tyf0) | 3:31 | 2025-11-14 | 2025-11-28 |
 | [For You](https://open.spotify.com/track/4WwUs56upUKcrhTaFpN6x7) | [Kami Leonne](https://open.spotify.com/artist/4a07x5R0svDGlzecliVGTW) | [For You](https://open.spotify.com/album/4LeyqHYKKb08XhhU2Icocf) | 3:34 | 2024-05-24 | 2025-02-14 |
 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 | 2024-06-07 | 2025-03-15 |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:29 | 2021-09-16 | 2022-03-18 |
@@ -744,6 +744,7 @@
 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 | 2023-03-30 | 2023-06-10 |
 | [Rude](https://open.spotify.com/track/7f83o6VIhOcIcHxzr7Cj4a) | [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Savage Bitch Juice](https://open.spotify.com/album/5la6d2QxYKs6N2KWDCNmhr) | 2:32 | 2021-11-04 | 2022-08-06 |
 | [Rudia](https://open.spotify.com/track/5i1nYNLXTFnYWpYeo9ueTf) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Rudia](https://open.spotify.com/album/7o3R7th50E1lL9gmmOfMJk) | 3:20 | 2025-08-29 |  |
+| [Run To Master](https://open.spotify.com/track/7jLWKyNaNlHEzWO1snweWW) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [RETRO](https://open.spotify.com/album/0J4RKLs1BTCtxLDtzqflJL) | 2:06 | 2025-11-27 |  |
 | [Runaway](https://open.spotify.com/track/7MhwICkzmhuWWdsNn082c8) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Seyyoh](https://open.spotify.com/artist/28Olo730ChJyyW7acJkW3h) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 2:39 | 2024-11-15 | 2025-11-14 |
 | [Runaway](https://open.spotify.com/track/4vHVukKtQOkJNX5TwjRaBm) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Runaway](https://open.spotify.com/album/2r1ln8Z5prTPO5qGQkBA4T) | 3:40 | 2022-04-07 | 2023-05-05 |
 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 | 2023-10-13 | 2023-11-03 |

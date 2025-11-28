@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-96 songs - 5 hr 28 min
+99 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-06 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-17 |  |
 | [Coming Back](https://open.spotify.com/track/7uY20MCgghAw2HWWRNcbJ4) | [Jarju Binks](https://open.spotify.com/artist/0o0t0KdWN2YcpOB7tcvxqp) | [Coming Back](https://open.spotify.com/album/3JPaEVNlWEsFXyacsjkJxK) | 3:38 | 2025-10-31 |  |
+| [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 | 2025-11-27 |  |
 | [Connect](https://open.spotify.com/track/5Ejd0C0OhTz57clPS2di36) | [Reverliee](https://open.spotify.com/artist/6BXRuObx1vqtPtEobUTqQx) | [Connect](https://open.spotify.com/album/5eQ7ZAG3nBgxd319KEdSKs) | 3:32 | 2025-11-03 |  |
 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 | 2025-11-19 |  |
 | [Dagon](https://open.spotify.com/track/5qC4oCURIwpw7bqKct0mJF) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [Dagon](https://open.spotify.com/album/370JHxkbnxHhsBl9SlANGk) | 3:31 | 2025-11-03 |  |
@@ -45,6 +46,7 @@
 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 | 2025-10-27 |  |
 | [Free to Move](https://open.spotify.com/track/783zXb8DMTCD4hSqS3qrUj) | [Modarn](https://open.spotify.com/artist/21dNZRQ8rilyedhVEXFjkU) | [Free to Move](https://open.spotify.com/album/7BlqanlYNccsdUZPVKch7C) | 3:26 | 2025-11-11 |  |
 | [Fuoco amico](https://open.spotify.com/track/4231iF5l6zLvmQ1eEydIbv) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 3:34 | 2025-11-19 |  |
+| [Ghost Skin](https://open.spotify.com/track/5pHEqCiFsCUwNT1MZ704xm) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [Ghost Skin](https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw) | 2:18 | 2025-11-27 |  |
 | [Halfway to heaven](https://open.spotify.com/track/4nHu7yR8etHMqfZuWVO3q2) | [Honey Ruin](https://open.spotify.com/artist/2m4dcbfzc5WQDTZ6RAO8Lf) | [Halfway to heaven](https://open.spotify.com/album/2mjAWJp71ZsPIKjFdZU2oH) | 4:29 | 2025-11-06 |  |
 | [Holding](https://open.spotify.com/track/47NrciGzvU6RGZ3nVue5BE) | [Max1](https://open.spotify.com/artist/69b4ydZadh6w5FrfTm1Zwh) | [Against the FALL](https://open.spotify.com/album/0bEw8zPxgpXZlQzkdwTsQb) | 4:06 | 2025-11-02 |  |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-07 |  |
@@ -72,6 +74,7 @@
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 |  |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-07 |  |
 | [Parted](https://open.spotify.com/track/20ZFPWqmQDEQB0zt48B92n) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 3:43 | 2025-11-01 |  |
+| [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-11-27 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 |  |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KETTAMA",
-  "num_followers": 51146,
+  "num_followers": 51145,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
+        "name": "Grief, Joy, & Gratitude",
+        "url": "https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo"
+      },
+      "artists": [
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Grief, Joy, & Gratitude",
+      "url": "https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
         "name": "Aging Young Women",
         "url": "https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 241133,
       "name": "Aging Young Women",
       "url": "https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
-        "name": "Grief, Joy, & Gratitude",
-        "url": "https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo"
-      },
-      "artists": [
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Grief, Joy, & Gratitude",
-      "url": "https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2"
     },
     {
       "added_at": "2025-11-04 21:00:27",

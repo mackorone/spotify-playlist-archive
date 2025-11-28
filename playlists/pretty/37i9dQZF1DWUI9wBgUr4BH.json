@@ -1,31 +1,31 @@
 {
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Taylor Swift",
-  "num_followers": 316138,
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo : Aya Nakamura",
+  "num_followers": 316151,
   "original_name": "Futurs Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABouNwif0bi8jEP5CxA8BsukbFnM",
+  "snapshot_id": "AAAAAF90Y0lOrZEG8LAP0Hd0KzZhLtPW",
   "tracks": [
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "Destin\u00e9e",
+        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
       ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+      "duration_ms": 146626,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/7LSDia8E3oKftKJbEvWAP7"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "KALISTA (Eke-ke-ke-ke)",
         "url": "https://open.spotify.com/album/5eNJdyQRNeMt8ROwAVYluX"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/4E2sPamzFvyDbZecdcX4Ik"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Mille fois",
         "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
@@ -77,7 +93,43 @@
       "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235355,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "you broke my heart",
+        "url": "https://open.spotify.com/album/4qlepw30PfRYTSi4t9dhG6"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        },
+        {
+          "name": "Myla",
+          "url": "https://open.spotify.com/artist/0NVFZ3XpjyXGlsJ7CMWDFj"
+        }
+      ],
+      "duration_ms": 133236,
+      "name": "you broke my heart",
+      "url": "https://open.spotify.com/track/2Ra23u7YOr8EZJ4QO27SCq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -97,23 +149,7 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "WHERE IS MY HUSBAND!",
-        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 196795,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Pom Pom Pom",
         "url": "https://open.spotify.com/album/0xHa6kFqBfU2gVEDspJO4w"
@@ -141,7 +177,7 @@
       "url": "https://open.spotify.com/track/6SPyKWcqwlXpUXGZUI8Atl"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
@@ -165,7 +201,23 @@
       "url": "https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Die On This Hill",
+        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 217008,
+      "name": "Die On This Hill",
+      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8"
@@ -181,27 +233,23 @@
       "url": "https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
-        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
+        "name": "Cry For You",
+        "url": "https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Bormin\u2019",
+          "url": "https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5"
         }
       ],
-      "duration_ms": 151805,
-      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
-      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+      "duration_ms": 161305,
+      "name": "Cry For You",
+      "url": "https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Etincelles",
         "url": "https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB"
@@ -221,39 +269,7 @@
       "url": "https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Cry For You",
-        "url": "https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE"
-      },
-      "artists": [
-        {
-          "name": "Bormin\u2019",
-          "url": "https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5"
-        }
-      ],
-      "duration_ms": 161305,
-      "name": "Cry For You",
-      "url": "https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Si demain tout s'arr\u00eate",
-        "url": "https://open.spotify.com/album/5UlqAQp3IWkarMS2Ldqvcw"
-      },
-      "artists": [
-        {
-          "name": "Charles Dor\u00e9",
-          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
-        }
-      ],
-      "duration_ms": 152539,
-      "name": "Si demain tout s'arr\u00eate",
-      "url": "https://open.spotify.com/track/6w41B36Con7ZfOPcTTupX1"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Run (feat. Ragdoll)",
         "url": "https://open.spotify.com/album/7fjndSdcSBxsoB4CWZMOpe"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/35t8pOqxELRbWS7ODsyc7p"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Dis-moi oui",
         "url": "https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
@@ -305,27 +321,63 @@
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
-        "name": "\u00c0 qui le tour",
-        "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
       "artists": [
         {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Carla",
-          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 162247,
-      "name": "\u00c0 qui le tour",
-      "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Restes d'averses (Regretting You Version)",
+        "url": "https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 173364,
+      "name": "Restes d'averses - Regretting You Version",
+      "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Edge of Desire",
+        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        }
+      ],
+      "duration_ms": 134905,
+      "name": "Edge of Desire",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Our Time",
         "url": "https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz"
@@ -353,23 +405,27 @@
       "url": "https://open.spotify.com/track/3MUFebos5drIwrUHxUorhP"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
-        "name": "Restes d'averses (Regretting You Version)",
-        "url": "https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ"
+        "name": "\u00c0 qui le tour",
+        "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
       },
       "artists": [
         {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
         }
       ],
-      "duration_ms": 173364,
-      "name": "Restes d'averses - Regretting You Version",
-      "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"
+      "duration_ms": 162247,
+      "name": "\u00c0 qui le tour",
+      "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
         "url": "https://open.spotify.com/album/4wuC0kVrCS4zlTl3XhtErb"
@@ -393,63 +449,23 @@
       "url": "https://open.spotify.com/track/5lu4L7DP5K8h8XIZuqnUWn"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
-        "name": "MON B\u00c9B\u00c9",
-        "url": "https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8"
+        "name": "Si demain tout s'arr\u00eate",
+        "url": "https://open.spotify.com/album/5UlqAQp3IWkarMS2Ldqvcw"
       },
       "artists": [
         {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
         }
       ],
-      "duration_ms": 130500,
-      "name": "MON B\u00c9B\u00c9",
-      "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+      "duration_ms": 152539,
+      "name": "Si demain tout s'arr\u00eate",
+      "url": "https://open.spotify.com/track/6w41B36Con7ZfOPcTTupX1"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Edge of Desire",
-        "url": "https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        }
-      ],
-      "duration_ms": 134905,
-      "name": "Edge of Desire",
-      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "GARANTIE",
-        "url": "https://open.spotify.com/album/5S7saNtEfQRpsRn3BkvRU1"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 152791,
-      "name": "GARANTIE",
-      "url": "https://open.spotify.com/track/6lfZOG3tO57nv6HSFShsrq"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Mussulo (feat. Doddy)",
         "url": "https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO"
@@ -473,43 +489,7 @@
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "particule",
-        "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
-      },
-      "artists": [
-        {
-          "name": "miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "particule",
-      "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "grandir",
         "url": "https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7"
@@ -525,79 +505,7 @@
       "url": "https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Quiero Decirte",
-        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 222348,
-      "name": "Quiero Decirte",
-      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn"
-      },
-      "artists": [
-        {
-          "name": "Star Academy",
-          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Voulez-Vous",
-      "url": "https://open.spotify.com/track/513s60DKMknigRNGVzSORD"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Toi jamais",
-        "url": "https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ"
-      },
-      "artists": [
-        {
-          "name": "Oria",
-          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "Toi jamais",
-      "url": "https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Noventa (with J Balvin)",
         "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
@@ -617,7 +525,119 @@
       "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "particule",
+        "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
+      },
+      "artists": [
+        {
+          "name": "miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "particule",
+      "url": "https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "GARANTIE",
+        "url": "https://open.spotify.com/album/5S7saNtEfQRpsRn3BkvRU1"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 152791,
+      "name": "GARANTIE",
+      "url": "https://open.spotify.com/track/6lfZOG3tO57nv6HSFShsrq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2CqOc7E7a4aQHEAD6ctS8I"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5ECf8gpBqmIUN7MWMN4WZx"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Toi jamais",
+        "url": "https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ"
+      },
+      "artists": [
+        {
+          "name": "Oria",
+          "url": "https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "Toi jamais",
+      "url": "https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 222348,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Chiens",
         "url": "https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/51qMciprNwFso3R3XioUUu"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
@@ -649,23 +669,7 @@
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "Nous",
-        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 155290,
-      "name": "Nous",
-      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF"
@@ -685,7 +689,39 @@
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
-      "added_at": "2025-11-20 23:00:32",
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Voulez-Vous",
+      "url": "https://open.spotify.com/track/513s60DKMknigRNGVzSORD"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:04",
       "album": {
         "name": "Mode avion",
         "url": "https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc"
@@ -703,38 +739,6 @@
       "duration_ms": 144010,
       "name": "Mode avion",
       "url": "https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-11-20 23:00:32",
-      "album": {
-        "name": "D\u00e9sarmer",
-        "url": "https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 158263,
-      "name": "D\u00e9sarmer",
-      "url": "https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC"
     }
   ],
   "unique_name": "Futurs Hits",

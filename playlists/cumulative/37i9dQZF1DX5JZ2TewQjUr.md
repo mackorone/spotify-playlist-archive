@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Lucid Express
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Carson Leung
 
-1,565 songs - 3 day 16 hr 31 min
+1,570 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Fears](https://open.spotify.com/track/1vqGvYITaMS6IYvJPby3sY) | [Sage Vapid](https://open.spotify.com/artist/7d598fEPZUr7rcu9HFkVof) | [Fears](https://open.spotify.com/album/7FIG6JsX0ihcw0gJJl1U3Q) | 3:55 | 2025-05-29 | 2025-11-21 |
 | [feel / night](https://open.spotify.com/track/7hlWJUgc8R4enuBhWAeQBR) | [rosemances](https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK) | [feel / night](https://open.spotify.com/album/7Igprspl27yshxLlS7ZfeW) | 3:37 | 2023-03-30 | 2023-07-14 |
 | [Feel the Rain](https://open.spotify.com/track/41ePILFgS5liu9g4iBodob) | [DEADHEIR](https://open.spotify.com/artist/3kUjUAQE2usKTo1Gt2MZBU) | [Feel the Rain](https://open.spotify.com/album/7GVEQttmD40HbQf85iIE68) | 4:20 | 2022-09-01 | 2023-01-06 |
+| [FeelGoodLookGood](https://open.spotify.com/track/2mcuoM3QMNr1DYQJxdzIS2) | [DAWN](https://open.spotify.com/artist/0N5VSbyA9QKuM3WlA7dMP6) | [FeelGoodLookGood](https://open.spotify.com/album/4Nkyo7KX4fjxoP1JmMrJQI) | 3:28 | 2025-11-27 |  |
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-27 | 2023-02-03 |
 | [feelit?](https://open.spotify.com/track/1NFls9VltXXSfZh2GxzNAX) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [feelit?](https://open.spotify.com/album/3IEOmMfmbLheFV7utGKmuO) | 2:50 | 2023-11-23 | 2024-01-05 |
 | [Feels like back in 2018](https://open.spotify.com/track/393U6czC5kq6BC5e6z2Eua) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Bye.](https://open.spotify.com/album/3O8g3PI0mEjHD6ByNMVsx4) | 2:16 | 2024-11-28 | 2025-03-14 |
@@ -401,6 +402,7 @@
 | [I CAN'T](https://open.spotify.com/track/4gWWZGAvRd78Ztz4kfwTSu) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I CAN'T](https://open.spotify.com/album/4LPLzvpPWmbuOOpK1vaiQl) | 2:07 | 2023-12-14 | 2024-05-10 |
 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-01-18 | 2024-05-10 |
 | [I can’t be you \(Demo\) Korean ver.](https://open.spotify.com/track/6OF1PjHMnpZBabhECwmWsL) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I can't be you \(Remixes\)](https://open.spotify.com/album/2z0e4SF1Ec62KxZKHSwDnV) | 3:40 | 2024-05-09 | 2024-11-15 |
+| [I Don't Like Me](https://open.spotify.com/track/1MFbS9WwBlQgCXfTqMp8U4) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [I Don't Like Me](https://open.spotify.com/album/4u9y7ezpXc0MLMShh2b75I) | 3:37 | 2025-11-27 |  |
 | [I don't want to](https://open.spotify.com/track/55o4oMQcxg6bMtFQR2X4tK) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [I don't want to](https://open.spotify.com/album/3oelo5BHuJqQdzXn0e61Y0) | 4:23 | 2023-11-23 | 2024-02-02 |
 | [I DUNNO](https://open.spotify.com/track/0tsPSVMVeb6zfVHZ4sfYST) | [Uni Bay](https://open.spotify.com/artist/6zi62nA6JzepN7oYTMlw72), [Vin](https://open.spotify.com/artist/6eOHXXIxesSFctu1YxWMLt) | [I DUNNO](https://open.spotify.com/album/2DBjeZL9oVjqzngjcIvIya) | 2:54 | 2025-02-14 | 2025-05-30 |
 | [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 | 2024-09-05 | 2024-12-13 |
@@ -419,6 +421,7 @@
 | [I Think It's Called Love](https://open.spotify.com/track/20qSlGJcQWb42VaQldUdvS) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [I Think It's Called Love](https://open.spotify.com/album/3YUeNdoLFls6W5VQQjm8KK) | 2:10 | 2022-12-15 | 2023-03-18 |
 | [I Want You To Know](https://open.spotify.com/track/04smOHus0tSrhdQG6O2M2M) | [lowkeylng](https://open.spotify.com/artist/2z5qEZpkm0pjA4EKEGnlZ9) | [Beauty Of What Could've Been](https://open.spotify.com/album/5m84S4n9M5h01aerTioAz2) | 3:12 | 2024-08-15 | 2024-12-13 |
 | [I Wish](https://open.spotify.com/track/1uGWXD2mnNRqWtxBz8bVmm) | [Oscar Yuan](https://open.spotify.com/artist/0zQfE7X3rNeKFPp7GvLeNv), [Emlo](https://open.spotify.com/artist/1BHivWEpmuwIT1rBtmI0fb) | [I Wish](https://open.spotify.com/album/3qntf8oitgKJp03AaMADp0) | 2:33 | 2024-08-08 | 2024-11-15 |
+| [I Wish I Could Say Sorry](https://open.spotify.com/track/5ygQ2e7x5ZWjhiFcDruGuJ) | [Andy Is Typing](https://open.spotify.com/artist/3cKjWAYtDVV9OlDnJcT57t) | [I Wish I Could Say Sorry](https://open.spotify.com/album/4Jdwbnq7axi4n24DzdxUS4) | 4:57 | 2025-11-27 |  |
 | [i wish you were here](https://open.spotify.com/track/5gWc5Ruz8DYg1rlIhZti3q) | [dai'zy](https://open.spotify.com/artist/2AwggAldACBkcFHUM0t4kP) | [i wish you were here](https://open.spotify.com/album/0VcUXZ2N4nwzgrEHwcUBa5) | 4:44 | 2025-08-07 | 2025-11-21 |
 | [i'll shine](https://open.spotify.com/track/5BVUabiHdhozWcy8DlgJDZ) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [i'll shine](https://open.spotify.com/album/5mw25o5rZsomWFgr4UC8ys) | 3:56 | 2025-02-14 | 2025-05-30 |
 | [I'm fine](https://open.spotify.com/track/45i9AnKCsESmgxax2LUCO9) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [I'm fine](https://open.spotify.com/album/0kaRw8015M8LQEEkvM6mmL) | 2:34 | 2025-06-12 | 2025-11-21 |
@@ -1154,6 +1157,7 @@
 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 | 2025-11-13 | 2025-11-21 |
 | [原生結](https://open.spotify.com/track/0KFnJisJRHA8m68fOjaS1n) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [ngo⁵](https://open.spotify.com/album/41KGazA3CEnkvVVr2FQuNN) | 4:28 | 2025-10-29 |  |
 | [原石](https://open.spotify.com/track/216a8TsFRn5PtsR6nRMPag) | [Dvk.](https://open.spotify.com/artist/014lHDdSXKmOzcw3VLWNdD) | [岸邊 I](https://open.spotify.com/album/3P7a5UgCtvbt8c27DRq4vZ) | 2:41 | 2022-10-20 | 2023-02-03 |
+| [叉燒飯（加埋辣椒油\)](https://open.spotify.com/track/7fQdGScdX0LOLg42ccr83I) | [非洲王子 Kunbi](https://open.spotify.com/artist/4bsY8pqiRupho6S3ymcZHz) | [叉燒飯（加埋辣椒油\)](https://open.spotify.com/album/2flAQ1k7Bz9d3POAOEMDPK) | 2:29 | 2025-11-27 |  |
 | [古怪情歌](https://open.spotify.com/track/4P0HaRPbekow8YCKhHsVB5) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls), [Midnight 海倫](https://open.spotify.com/artist/4MTGOJf14wiMGPB920iXNq) | [古怪情歌](https://open.spotify.com/album/5I1k8TRWMizDJv742hvehN) | 3:38 | 2024-02-08 | 2024-05-10 |
 | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/track/43Y9A3yEEwdpZhlawhQChk) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Ryanleeisgod](https://open.spotify.com/artist/02Hhkeh8JMihnNCW1pWyTB) | [只得我一個人\(feat.MU 木\)](https://open.spotify.com/album/3y8cczL71BdIcjPVePxT2C) | 2:46 | 2023-12-07 | 2024-02-16 |
 | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/track/5uEstLfRPUgShflpMbh0ON) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [絵麗奈 Erena So](https://open.spotify.com/artist/14SH1hZNtnwtiX9P7hHezA) | [只想有人令我呼叫 \(feat\. 絵麗奈 Erena So\)](https://open.spotify.com/album/6TGMTWPg3jC81Y5yC4occr) | 3:24 | 2023-09-07 | 2023-12-01 |
@@ -1523,6 +1527,7 @@
 | [這裡等](https://open.spotify.com/track/0VTnMjE4Z91i4M3s9Wymkb) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [這裡等](https://open.spotify.com/album/1q4NFC4B3Z6fHIaR7Mr1Qv) | 3:30 | 2022-11-17 | 2023-03-18 |
 | [這裡等 \- Night Version](https://open.spotify.com/track/0WOUUnbn1DC6zQ39OvpXAx) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [GoodNite..\. \(Night Version\)](https://open.spotify.com/album/5EeZ4NipzcK4RFsa4lKptN) | 3:31 | 2023-09-28 | 2024-01-05 |
 | [過去過不去](https://open.spotify.com/track/0NhIEAV7elUg0cpOLPwl5z) | [胡樂彤](https://open.spotify.com/artist/3y7xbntnGkT9eyXv384NeI) | [過去過不去](https://open.spotify.com/album/1t0MnE7H8ycpzZzgwZCn27) | 4:37 | 2022-08-11 | 2022-11-04 |
+| [道別後有空間整理](https://open.spotify.com/track/1IZMZOt5GGjmmXY9OI9tOi) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w), [EELEE](https://open.spotify.com/artist/1ghSU42Gxi1hJxieIlltJK) | [暮色俱樂部](https://open.spotify.com/album/5cpBDHMwDC8jrtTzkT142e) | 2:21 | 2025-11-27 |  |
 | [道別重聚散](https://open.spotify.com/track/6KILI17lSadzer8OEEAH1J) | [Locksmiths 開鎖佬](https://open.spotify.com/artist/1Z4uKuJsVmcbUGaozKoXO8) | [道別重聚散](https://open.spotify.com/album/0QXwyMkU7HazMMwQrPMs1d) | 4:47 | 2024-01-05 | 2024-05-10 |
 | [選取快樂](https://open.spotify.com/track/3hewKyGbSovF9eCBMONXBe) | [Daze in White](https://open.spotify.com/artist/3Cw4lXyrHjSM0dUCTdRSmW) | [選取快樂](https://open.spotify.com/album/5GIdqbe4pjdwWIlfQYgVQM) | 3:08 | 2024-09-20 | 2024-12-13 |
 | [都在](https://open.spotify.com/track/7msvZulyOBzcgGw2CPWfuv) | [Luyiu 盧瑤](https://open.spotify.com/artist/4n6hzTbTd8utM49SkddN4X) | [都在](https://open.spotify.com/album/5MSbuG72kngoVfBuzW4iO1) | 2:31 | 2025-07-03 | 2025-11-21 |

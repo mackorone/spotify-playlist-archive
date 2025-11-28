@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Samui \(사뮈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,093 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,063 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Someday, With You Again](https://open.spotify.com/track/3zCpxJLcDmmfklrBvfk5Bn) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Someday, With You Again](https://open.spotify.com/album/6DgOYZr2IYEtyhz623SFcY) | 3:42 |
 | 50 | [Megamind](https://open.spotify.com/track/0nbFfGsI841xVr2woT8YTB) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [Amateur Hunting Squad](https://open.spotify.com/album/1Se3NMCm7LMts4q5BrVAbL) | 4:52 |
 
-Snapshot ID: `AAAAABoufifQ4Tw8d80ShvfTUEnB7gTi`
+Snapshot ID: `AAAAAECI0/QV55+iUWWGhffvfVEK3/XC`

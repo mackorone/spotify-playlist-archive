@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Le-one in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Vale Lambo e Lele Blade, Le Scimmie, in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -101,6 +101,32 @@
     },
     {
       "album": {
+        "name": "2 FRAT",
+        "url": "https://open.spotify.com/album/3NtgFylmX1QdICBE6QaIpB"
+      },
+      "artists": [
+        {
+          "name": "Le Scimmie",
+          "url": "https://open.spotify.com/artist/4ZWezIz4lP1tqeBaO9eoie"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196125,
+      "name": "2 FRAT",
+      "url": "https://open.spotify.com/track/3lfoDvu8QOhGX5iTK8UKsR"
+    },
+    {
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
       },
@@ -178,6 +204,32 @@
       "duration_ms": 138521,
       "name": "300",
       "url": "https://open.spotify.com/track/6sGjCLGlRhFrPJ54i5b343"
+    },
+    {
+      "album": {
+        "name": "350",
+        "url": "https://open.spotify.com/album/2oYyrWjG1fk4cweW5tYyY1"
+      },
+      "artists": [
+        {
+          "name": "LM219",
+          "url": "https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ"
+        },
+        {
+          "name": "Babywyne",
+          "url": "https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk"
+        },
+        {
+          "name": "GF",
+          "url": "https://open.spotify.com/artist/0l2fWb4OvY60iyb7IvPw7Y"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180004,
+      "name": "350",
+      "url": "https://open.spotify.com/track/6Q9tr8L0FhZNTOUmO1lnzP"
     },
     {
       "album": {
@@ -2486,7 +2538,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 162000,
       "name": "Cu Me",
       "url": "https://open.spotify.com/track/7IyIWzLTpWeR4PstT753Xo"
@@ -3354,7 +3406,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 146165,
       "name": "FOR CA CAP",
       "url": "https://open.spotify.com/track/691fL1mW35gZ7BrgiRpG01"
@@ -4999,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "Life Is A Tarantella",
+        "url": "https://open.spotify.com/album/7vmN4YcQZdOOCBCZj6oNHp"
+      },
+      "artists": [
+        {
+          "name": "Enzo Dong",
+          "url": "https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211343,
+      "name": "Life Is A Tarantella",
+      "url": "https://open.spotify.com/track/5QrsO6l7uUy7SfrL61VgBS"
+    },
+    {
+      "album": {
         "name": "Lonely (feat. Christian Revo)",
         "url": "https://open.spotify.com/album/2nAjv2gB9U51oIJB0h2yLz"
       },
@@ -5248,7 +5318,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 165111,
       "name": "Mafia",
       "url": "https://open.spotify.com/track/1C58r5MSFMBnEUB2xdYWPL"
@@ -5932,6 +6002,28 @@
       "duration_ms": 217000,
       "name": "MILLY (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l"
+    },
+    {
+      "album": {
+        "name": "MINORENNE",
+        "url": "https://open.spotify.com/album/6ShpdByhCeMj0RqOBoLvYL"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "TONYSHOTTA",
+          "url": "https://open.spotify.com/artist/3zUocz7j52Ble7bKa01vTM"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109090,
+      "name": "MINORENNE",
+      "url": "https://open.spotify.com/track/7diylIrZ1SMWbSxqlFRjaQ"
     },
     {
       "album": {
@@ -9007,6 +9099,28 @@
     },
     {
       "album": {
+        "name": "ROSARIO SUL PETTO",
+        "url": "https://open.spotify.com/album/7FqNr4HOapt154sXZUYXSa"
+      },
+      "artists": [
+        {
+          "name": "Skugnizz",
+          "url": "https://open.spotify.com/artist/2JdjbtVckoqADquM30hdSc"
+        },
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "ROSARIO SUL PETTO",
+      "url": "https://open.spotify.com/track/60bOXT8WkiMGK5334ASICB"
+    },
+    {
+      "album": {
         "name": "Royalty (Stirpe Nova, Vol.2)",
         "url": "https://open.spotify.com/album/0eNJ6p3SIEa9o6PxJV35Bn"
       },
@@ -10364,7 +10478,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 122400,
       "name": "Top 10",
       "url": "https://open.spotify.com/track/2Rx9zdq4KzSdAkbcnwIp4I"
@@ -11112,7 +11226,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 122482,
       "name": "Veng a int all\u2019infern (feat. Nt\u00f2)",
       "url": "https://open.spotify.com/track/4uDt5PdXsJaTwjUm9nnQGl"
@@ -11156,7 +11270,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 141692,
       "name": "Vida Du Crimi",
       "url": "https://open.spotify.com/track/768ekJEIZH9tZPXWNxDKrF"

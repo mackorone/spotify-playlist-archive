@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-700 songs - 1 day 6 hr 23 min
+701 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,9 +224,10 @@
 | [Ginseng Brew](https://open.spotify.com/track/0shoIFhc8XSOMuMr73iVxq) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN), [yungmerrin](https://open.spotify.com/artist/5rsVYU0xdA9SUiipNxLmnf) | [Ginseng Brew](https://open.spotify.com/album/6ipGSt2pzMHtJncpWHYy05) | 1:52 | 2024-09-27 |  |
 | [Glitz](https://open.spotify.com/track/6O3jMWP1iS9r6rw7eDiysW) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [Glitz](https://open.spotify.com/album/5qagsDYKqCUvIrlgk9RfNf) | 1:51 | 2025-09-26 |  |
 | [Glow](https://open.spotify.com/track/0s3ChS6utpd1BCAorGjty4) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Glow](https://open.spotify.com/album/22ilqibUPL59Msmx0orSTa) | 2:00 | 2025-04-25 |  |
+| [Go Hug Yourself](https://open.spotify.com/track/7KYRLuzQTWgOcrC4oztiIp) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Go Hug Yourself](https://open.spotify.com/album/0guodT7zJsuIPxp1CmSubj) | 2:35 | 2025-11-21 |  |
 | [Goin' Places](https://open.spotify.com/track/5hPSNpGlMkiTtlqsnikJvz) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Goin' Places](https://open.spotify.com/album/66XkfG45HOeDtK9z7m6dzU) | 1:39 | 2025-10-03 |  |
 | [Going Along With It](https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Going Along With It](https://open.spotify.com/album/3S63qle6fwfLmeKjWLNTwl) | 1:32 | 2025-02-03 |  |
-| [Golden](https://open.spotify.com/track/0puARhK6jKkusREeVYGchX) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Golden](https://open.spotify.com/album/0xPEVbpkS6FMtA2JNboDWZ) | 2:10 | 2025-10-03 |  |
+| [Golden](https://open.spotify.com/track/0puARhK6jKkusREeVYGchX) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Golden](https://open.spotify.com/album/0xPEVbpkS6FMtA2JNboDWZ) | 2:10 | 2025-10-03 | 2025-11-28 |
 | [Golden Hour](https://open.spotify.com/track/5pYa3nB6k9VZpBynPrWLIo) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Golden Hour](https://open.spotify.com/album/12cathoKU0frumffV7uCTA) | 1:44 | 2025-10-24 |  |
 | [Golden Hour](https://open.spotify.com/track/56gzYeY3J2VVUqF5Fyx0fa) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Golden Hour](https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL) | 1:26 | 2025-04-18 | 2025-09-13 |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 | 2024-09-29 |

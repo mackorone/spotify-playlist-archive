@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Memphis LK
 
-1,211 songs - 2 day 17 hr 58 min
+1,216 songs - 2 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Dreamy Bruises](https://open.spotify.com/track/7KQSC7OTYK5lM7DvBICuvL) | [CactusTeam](https://open.spotify.com/artist/3CWlfAolH0gJigqzPafSbm) | [Dreamy Bruises](https://open.spotify.com/album/5UK3VhwIuncmSto0zWhvpb) | 2:17 | 2022-05-06 | 2022-11-12 |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-07-13 | 2024-05-04 |
 | [Drink & Drugs & Sex & Money](https://open.spotify.com/track/5iCPLG8iWdWZ9oUwx42zJ8) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz) | [Drink & Drugs & Sex & Money](https://open.spotify.com/album/4kGb21KI1hLPoPD6V671vw) | 2:37 | 2025-01-08 | 2025-08-29 |
+| [Drip](https://open.spotify.com/track/7A8TjnegZwDGOhWaQetlfE) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More is More is More](https://open.spotify.com/album/4szXUtJNCDZ17vDNcrpLm5) | 2:22 | 2025-11-28 |  |
 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 | 2022-03-04 | 2022-09-03 |
 | [DRM](https://open.spotify.com/track/7z0Zr23nnYM7RWem0rFviY) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Simmer](https://open.spotify.com/album/5AUMIbcAEn7BLBu3slRIDA) | 8:19 | 2022-07-08 | 2022-08-27 |
 | [drop kick](https://open.spotify.com/track/4koPlGtAIvagp7QNZCgCOU) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [drop kick](https://open.spotify.com/album/1gv7IkTkzXCGkCHi2xSdeH) | 2:40 | 2023-04-21 | 2023-10-14 |
@@ -508,6 +509,7 @@
 | [Hold On](https://open.spotify.com/track/7lfzzDkPkf4gkMkyZUbDnw) | [Lwny](https://open.spotify.com/artist/0nwK1tWueQUPpKudMyAArz) | [Hold On](https://open.spotify.com/album/6FYQHkZTk1loxJmcTAynGh) | 2:30 | 2022-09-02 | 2022-11-19 |
 | [Hold On](https://open.spotify.com/track/1eT1wAm2ST4vWfpaCpxTtH) | [Mallin](https://open.spotify.com/artist/4iPnnExHNrbrRTIJkcqEfv) | [Hold On](https://open.spotify.com/album/5PPP62zkQEJ7k9gGAjG8B6) | 2:30 | 2025-08-22 |  |
 | [Hold On](https://open.spotify.com/track/6pCrx0kmrXsXlMfKK9KksT) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Hold On](https://open.spotify.com/album/5EE83YjGBKzM6x5O9AT9rN) | 4:13 | 2025-03-07 |  |
+| [Hold You Close](https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [Hold You Close](https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC) | 4:01 | 2025-11-28 |  |
 | [Holding U](https://open.spotify.com/track/2SNEa0hRBkovPufdgGjhys) | [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD) | [Holding U](https://open.spotify.com/album/2bMMRDSxXxFNwDNEpNut0b) | 2:47 | 2021-09-24 | 2022-02-26 |
 | [Holding Your Hand](https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Holding Your Hand](https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ) | 2:32 | 2025-05-29 |  |
 | [HOLDMECLOSE](https://open.spotify.com/track/0jONgVFz2gyvTf2OgowurS) | [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [HOLDMECLOSE](https://open.spotify.com/album/0ipWEfZihyye9p7SeoDZyi) | 2:30 | 2022-06-03 | 2022-10-01 |
@@ -617,6 +619,7 @@
 | [Just Remember](https://open.spotify.com/track/0r00GmsuZ6o12uKsYjn8wz) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Just Remember](https://open.spotify.com/album/0WLCXtpAAkKqt2AIaNpwD3) | 4:08 | 2022-07-15 | 2022-09-03 |
 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 | 2023-11-17 | 2024-01-13 |
 | [Kawaii Razor Blades](https://open.spotify.com/track/5bDol0wPoQlIgLWzP8tbkW) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Irly](https://open.spotify.com/album/2WUxZpVbQWjMqyc7SDQlzh) | 5:38 | 2022-02-18 | 2022-06-18 |
+| [Keep Suffering](https://open.spotify.com/track/3WlZq0r2ujGvuRE57F6SIr) | [Tommy Holohan](https://open.spotify.com/artist/19KYorPPDJewrAXMeoZccy) | [Keep Suffering](https://open.spotify.com/album/2JKTz7lHiy7bpk342TRC26) | 4:00 | 2025-11-28 |  |
 | [keepsake Flip](https://open.spotify.com/track/6boGATmxPm6ghQRKNQj5d8) | [t0ni](https://open.spotify.com/artist/26r0xmNARyUapPJw2R6I5H), [Broosnica](https://open.spotify.com/artist/4x7GBuoe0tEsKcgUecaC2m) | [keepsake Flip](https://open.spotify.com/album/3VgkcZN2LjKiKCyxdXy6hu) | 3:04 | 2022-01-14 | 2022-06-18 |
 | [Kiera ♡](https://open.spotify.com/track/6wxp4xFZqVO1sY5ibRKa71) | [Pearling](https://open.spotify.com/artist/3q7tzDobzMqdYhv6huNbr7) | [Kiera ♡](https://open.spotify.com/album/6P9rbLVVB0D9lSZ7HXHYGn) | 2:56 | 2023-05-18 | 2023-11-10 |
 | [Kira Kira](https://open.spotify.com/track/2lQsaY9KsbtE8oij9Db9eB) | [Cecilia Gault](https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk) | [Kira Kira](https://open.spotify.com/album/0AfOR652wvcBCWzxwh5OWz) | 2:48 | 2022-03-04 | 2022-05-07 |
@@ -783,6 +786,7 @@
 | [Obsessed](https://open.spotify.com/track/1IFKYRv6OC6yZnUW85Gn17) | [Jenn Gunn](https://open.spotify.com/artist/0MK2H6N7fGXeqzlL3hTuZP) | [Obsessed](https://open.spotify.com/album/2AwN8NZWzSccZR6VNvZGsp) | 2:10 | 2025-03-28 |  |
 | [ode to girlhood](https://open.spotify.com/track/1L5Za6GWzAqJTlTC2wYf9N) | [klurax](https://open.spotify.com/artist/74CONfALMyKd8tbE0yiMT8) | [ode to girlhood](https://open.spotify.com/album/1BY16stCGBI3NSVivqRiXX) | 3:18 | 2021-08-25 | 2022-02-24 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-08 | 2024-01-30 |
+| [OH MY GOD I'M DREAMING](https://open.spotify.com/track/2qQeEJVIF6Jp6nstEIkfur) | [Im Blu.](https://open.spotify.com/artist/2mwg1ZiRIXH81No99fWtgJ) | [OH MY GOD I'M DREAMING](https://open.spotify.com/album/5VhJbKnRaj7fytz2DCQH7F) | 3:10 | 2025-11-28 |  |
 | [oh, Mr DJ!!!](https://open.spotify.com/track/2E8LllpSU2FmTFbo9EKfQz) | [Shelhiel](https://open.spotify.com/artist/1YiJh4CyYHF215ak2CmoaE) | [SuperKiss: A](https://open.spotify.com/album/6AS9T4GWYPrK8BnhFkBLzw) | 3:19 | 2024-03-22 | 2024-11-30 |
 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 | 2024-08-02 | 2025-04-18 |
 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 | 2022-07-29 | 2023-05-26 |
@@ -1136,6 +1140,7 @@
 | [waiting4u](https://open.spotify.com/track/6VyOvf5oFhv5xZJuUaSN1Z) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg) | [waiting4u](https://open.spotify.com/album/5aZ37s3WgR13isMncPBJi5) | 3:49 | 2024-07-18 | 2025-04-04 |
 | [walk\-4.0](https://open.spotify.com/track/4uZcR0pZQBlhFMnmNfSiOV) | [yion](https://open.spotify.com/artist/0SKj35DCAPNfu3KVUBTiVE) | [walk\-4.0](https://open.spotify.com/album/12k6tCJAmLyUpCm3LcaC08) | 2:40 | 2022-06-10 | 2022-09-03 |
 | [Walking Wounded](https://open.spotify.com/track/6ipYeyYFs9H74Xv863rfn3) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded \(Deluxe Edition\)](https://open.spotify.com/album/61qmNyeHwJ8SMCOKMRCaV2) | 6:05 | 2022-02-11 | 2022-02-15 |
+| [Want \(Need\) \- Baobei Remix](https://open.spotify.com/track/56vBgebKOhEnhg4Ttcth53) | [Stresshead](https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs), [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [Want \(Need\) \[Remixes\]](https://open.spotify.com/album/6hLEmrJCrHY5aP5mAFtgvo) | 2:41 | 2025-11-28 |  |
 | [Want It](https://open.spotify.com/track/03kl31ZkWyNhMnhFVBRRSz) | [Rahul.mp3](https://open.spotify.com/artist/3Y3lcQULVuy43NluZDkr1N) | [Want It](https://open.spotify.com/album/2029MRuYZndypKEE70tK0R) | 3:03 | 2025-08-04 |  |
 | [Want Me](https://open.spotify.com/track/2PKEGiGJAeEOaSaOZsQhCH) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Want Me](https://open.spotify.com/album/0fkVNPJnTjVb8Q97hAjN8u) | 4:34 | 2024-03-22 | 2024-11-08 |
 | [Want U](https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo) | [Naylor](https://open.spotify.com/artist/7pwuyPsv8oRsNL7nnhqOLy) | [Want U](https://open.spotify.com/album/7yAV9Ts9PwX544kUEHBhlv) | 3:59 | 2021-12-10 | 2022-03-05 |

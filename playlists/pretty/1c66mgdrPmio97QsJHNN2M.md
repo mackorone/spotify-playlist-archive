@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,429 likes - 386 songs - 21 hr 51 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,435 likes - 394 songs - 22 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -394,5 +394,13 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 384 | [Closer](https://open.spotify.com/track/12eIu4SdTy6GwrtKfpvSLt) | [Hobart Curtis](https://open.spotify.com/artist/39sME8uZeT4llM1R9Ef4i5) | [Breathe Now, Before You Are Dead](https://open.spotify.com/album/3HtLKZuPSKjrZMPjqAndu1) | 3:02 |
 | 385 | [THE FLOOD](https://open.spotify.com/track/66REyxn7pU2K48UdF67XLc) | [Lea G](https://open.spotify.com/artist/4clYvo5vtpEnp6ibDxg16G) | [THE FLOOD](https://open.spotify.com/album/19FuAgXOfALCOWARIHfllP) | 2:50 |
 | 386 | [May Sunset](https://open.spotify.com/track/136Q1IiijFsB0dBKD3pLYa) | [Ilia Chkolnik](https://open.spotify.com/artist/020ktVWMg5BAOiYI5B9Ffa) | [May Sunset](https://open.spotify.com/album/6yZolKuA99kELUnkAGvEHt) | 3:37 |
+| 387 | [Nothing but a Memory](https://open.spotify.com/track/68tcsrNM7NoCbRE0EW4x9A) | [Teddy Is Offline](https://open.spotify.com/artist/3Uj7YPDmbS3gpV6iH9sF0V) | [Nothing but a Memory](https://open.spotify.com/album/3SWH29p4dFHzyY9fAbboOy) | 3:06 |
+| 388 | [Rewind](https://open.spotify.com/track/1LLYCYULqFnaA8vdafgQ4T) | [conboy](https://open.spotify.com/artist/7qAVC3I6Elh8KfQbj8w2nE) | [Rewind](https://open.spotify.com/album/2pUF5tKzFD1uHLi3MbYUtI) | 3:20 |
+| 389 | [Tearing me apart](https://open.spotify.com/track/5aVwu0xfBj3NQ1ZVGyEFnb) | [Dan Jakob Pedersen](https://open.spotify.com/artist/5PeMuqmoA5XnlTaFoZA1zG) | [Tearing me apart](https://open.spotify.com/album/0BRrQJpNtuNClUMZ32DOv1) | 3:58 |
+| 390 | [THE QUIET LIGHT](https://open.spotify.com/track/26BgU7G1o8lO6fjg4JEvY0) | [VALORÉ](https://open.spotify.com/artist/2CLXmx11PQ9aUkXfjaSyYo) | [THE QUIET LIGHT](https://open.spotify.com/album/2BlkyV84P6p9h9m4CUwV9p) | 3:09 |
+| 391 | [Snow in the air](https://open.spotify.com/track/05CrvcstO9MsMhO93l6MVL) | [HERCULEZZ](https://open.spotify.com/artist/1PVA15YvDWvEDQ9n3jYIPB) | [Snow in the air](https://open.spotify.com/album/1NvMC24PON2T4k7T38tIAU) | 2:51 |
+| 392 | [Paper Wings](https://open.spotify.com/track/7lwiGDNF0tewbMBEVf21fX) | [Ava Callen](https://open.spotify.com/artist/6bzb8i6DkYAu4iJZoSflhv) | [Paper Wings](https://open.spotify.com/album/0643vg6vaBN7hfQLQZqg6F) | 3:04 |
+| 393 | [No More Tears](https://open.spotify.com/track/49zbrN4Cu5hyS8622W29y6) | [zorin morris](https://open.spotify.com/artist/4GXDjadAdGpMT7F9SqXMYJ) | [No More Tears](https://open.spotify.com/album/2wnhBZPrzfFexr2r80ifZo) | 4:14 |
+| 394 | [Playground](https://open.spotify.com/track/6SywbCpj3tTQnUG5sZQHRX) | [YRI & Aïsha Rae](https://open.spotify.com/artist/4Njwz5Sg94qnVi4sWY6udS) | [Playground](https://open.spotify.com/album/7saGu8dmEuINrYheYyYsnf) | 4:12 |
 
-Snapshot ID: `AAAx4IhQBJTw9c9/vZfpJOy8QmLkQ6zN`
+Snapshot ID: `AAAx6CwEYZg1C0Bu12hciSg5jVyO2R6v`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nKISS OF LIFE)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nKRYSTAL)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -9401,6 +9401,28 @@
     },
     {
       "album": {
+        "name": "LOVE VIRUS Pt.1",
+        "url": "https://open.spotify.com/album/1wMPSnMWI5JE47n8GHrK19"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223199,
+      "name": "Love Virus (Feat. I.M)",
+      "url": "https://open.spotify.com/track/5jgXg4Sen0qi02jDf68RSA"
+    },
+    {
+      "album": {
         "name": "love you twice",
         "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
       },
@@ -11130,7 +11152,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 152473,
       "name": "Nocturne 07 (for aerse)",
       "url": "https://open.spotify.com/track/3CV5geHX47MIejxoQ9evgA"
@@ -11596,7 +11618,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 147242,
       "name": "On The Rocks",
       "url": "https://open.spotify.com/track/4HOxNNxaJEP7xfX0f0Nm7O"
@@ -14216,6 +14238,24 @@
       "duration_ms": 209000,
       "name": "Soaring",
       "url": "https://open.spotify.com/track/6SbVQBOr3l0JNxY0WNT7es"
+    },
+    {
+      "album": {
+        "name": "Solitary",
+        "url": "https://open.spotify.com/album/6332xxEEpdU7af0Cxv31YQ"
+      },
+      "artists": [
+        {
+          "name": "KRYSTAL",
+          "url": "https://open.spotify.com/artist/253YRxmnmB0BcRhFtj1tBI"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Solitary",
+      "url": "https://open.spotify.com/track/1HlZyNtc0IhqsoIeu0ExKE"
     },
     {
       "album": {

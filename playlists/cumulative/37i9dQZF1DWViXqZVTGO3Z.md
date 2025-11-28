@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
 
-495 songs - 1 day 8 hr 11 min
+496 songs - 1 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Silent Night](https://open.spotify.com/track/4vgPZaZf6mZib4FO0KBsqY) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cassia & Myrrh](https://open.spotify.com/artist/5gQZwYs3GNecx5mXkWEoV9) | [Silent Night](https://open.spotify.com/album/2Y8WECLIhD8EvAexL4STpB) | 3:17 | 2024-11-23 | 2025-11-17 |
 | [Silent Night](https://open.spotify.com/track/3COMbciYueBYOSMSdjcYZV) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Silent Night](https://open.spotify.com/album/1ZVDtoMTHJCDMZfiQtonWo) | 3:11 | 2024-11-23 | 2025-11-06 |
 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 | 2023-11-03 | 2024-02-28 |
+| [Silent Night](https://open.spotify.com/track/1z8Jfid7k90zN3UUEnOvrC) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Silent Night](https://open.spotify.com/album/5OS3woEzeXYIlP6fzjTo76) | 2:34 | 2025-11-22 |  |
 | [Silent Night](https://open.spotify.com/track/5c36yPOfMB9Pq7kdkRxGkd) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf), [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Silent Night](https://open.spotify.com/album/6qIpmmge0GlUTpeIgHXPnL) | 4:28 | 2024-11-29 |  |
 | [Silent Night / Jesus We Love You \(feat\. Brandon Lake, Phil Wickham, Kim Walker\-Smith & Mav City Gospel Choir\)](https://open.spotify.com/track/3V8I1b2cuZahTwpfjgpNlL) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 9:12 | 2021-12-11 |  |
 | [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-11-03 | 2024-08-01 |
@@ -421,7 +422,7 @@
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-11 | 2024-08-01 |
 | [The Call of Christmas](https://open.spotify.com/track/4CVVBVuneLPTuYD7U5xebZ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [The Call of Christmas](https://open.spotify.com/album/3JvX21JATxnDyDB4oLv5LU) | 3:49 | 2021-12-11 |  |
 | [The Christmas Shoes](https://open.spotify.com/track/6F2fBbJN8jsxbARj9xvbKe) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Sheltering Tree](https://open.spotify.com/album/5nJ6FO2Ik7Ajpg4ZnjiiGg) | 4:51 | 2021-12-11 | 2023-12-16 |
-| [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-11 |  |
+| [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-11 | 2025-11-28 |
 | [The Christmas Song](https://open.spotify.com/track/7eKlFgqlJdnr1aa67lgl27) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | ['Tis The Season](https://open.spotify.com/album/6K4POkZ7OKtFmz73wW7EyP) | 3:17 | 2024-10-27 | 2025-11-23 |
 | [The Elf Song](https://open.spotify.com/track/4zDelYDM5che1s73Xf0Ody) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 2:47 | 2022-11-26 | 2023-12-16 |
 | [The First Christmas](https://open.spotify.com/track/4hbAE2LJzCupitJ898V6k4) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [The First Christmas](https://open.spotify.com/album/69ob5WRhc4ftmaSr9A3I90) | 3:53 | 2021-12-11 |  |

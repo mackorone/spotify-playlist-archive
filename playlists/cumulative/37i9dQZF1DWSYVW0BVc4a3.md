@@ -2,7 +2,7 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> The Deans are taking over the world!
+> Anna\-My & Harrison First with the sound of the Scandi underground
 
 1,355 songs - 4 day 4 hr 14 min
 

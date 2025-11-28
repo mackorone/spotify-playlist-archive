@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Rob Zombie
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,472 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,520 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 14 | [AGONY, ETERNAL](https://open.spotify.com/track/51BaJDrwnt6ihxe5JDEwgp) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [AGONY, ETERNAL](https://open.spotify.com/album/6QyrkSLrEAJ53EZMvoL7jk) | 2:57 |
 | 15 | [If I Fall](https://open.spotify.com/track/0avJuXswVJMWa3g1OHNUc8) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [If I Fall](https://open.spotify.com/album/2xwHb1mUYfkaHi4FeWT4lt) | 4:10 |
 | 16 | [Field of Swords](https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Field of Swords](https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr) | 4:11 |
-| 17 | [Time's Up](https://open.spotify.com/track/6BD1LIdXYKL5KNASooeCz7) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Time's Up](https://open.spotify.com/album/5o0OYZFbFLPHzaKIIEMs6V) | 3:31 |
+| 17 | [TIME'S UP](https://open.spotify.com/track/6BD1LIdXYKL5KNASooeCz7) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [TIME'S UP](https://open.spotify.com/album/5o0OYZFbFLPHzaKIIEMs6V) | 3:31 |
 | 18 | [Disgusting.](https://open.spotify.com/track/1jSEh6q8AUYW6gfF8dgILF) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [Disgusting.](https://open.spotify.com/album/1ggUatRBRidbFQIbR5fALG) | 1:54 |
 | 19 | [Addicted](https://open.spotify.com/track/0e58R84OMeySZNxhAw1NM3) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS), [Crispin Earl](https://open.spotify.com/artist/73YIx2qlVBlhjmFLSu9oB9), [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r) | [Addicted](https://open.spotify.com/album/1TxmOxa0izXNSumxHxNrla) | 3:14 |
 | 20 | [Shoreline](https://open.spotify.com/track/6HSmNUrdAiQNforGJMNqmq) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [We Are Shadows](https://open.spotify.com/album/5szZPN7qrKaey9QqZCzdH3) | 3:37 |

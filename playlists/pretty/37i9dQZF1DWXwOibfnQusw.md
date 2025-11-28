@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yo Te Alabo de Corazón](https://open.spotify.com/track/46EFrvB241699KfRrG7GEe) | [Coro Alegria](https://open.spotify.com/artist/56TFN5FLx50mR6SzLZ5aCJ) | [Grande Es el Señor](https://open.spotify.com/album/127zvUZME3NL01sSaC9wIq) | 2:16 |
-| 2 | [Grande Y Fuerte](https://open.spotify.com/track/4gGm3mnfUJvo3nj4wi2nVc) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:34 |
+| 2 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
 | 3 | [Hey hacia el Arca](https://open.spotify.com/track/3Zk6VgYEVsEelFFrSLJqLm) | [Papel Maché Kids](https://open.spotify.com/artist/3mzFjP2aZNl0FXP4TswE83) | [Hey hacia el Arca](https://open.spotify.com/album/3h1okivxEWBxeqA1QzKBNn) | 3:14 |
-| 4 | [Lázaro](https://open.spotify.com/track/5gbSJRXXRngWqmfZbaRqxN) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:42 |
+| 4 | [Grande Y Fuerte](https://open.spotify.com/track/4gGm3mnfUJvo3nj4wi2nVc) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:34 |
 | 5 | [Soldado Soy de Jesus \- Infantil](https://open.spotify.com/track/3fL7nixcmR0Oza3J8tIxfr) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:00 |
 | 6 | [El Gran Nombre De Dios](https://open.spotify.com/track/4lfIRMzRuLzjCwQ4BM3O92) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [El Gran Nombre De Dios](https://open.spotify.com/album/2HfBNHLiPsyhdtPZQBbIby) | 4:05 |
-| 7 | [Jehová Es Mi Pastor](https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 2:28 |
-| 8 | [Increíble](https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:40 |
+| 7 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
+| 8 | [Jehová Es Mi Pastor](https://open.spotify.com/track/6F9qH4lm0t3fHy4Hu5yVM0) | [Rey de Reyes Kids](https://open.spotify.com/artist/2HFZghIkDskGVAHLRVDUao) | [Rey de Reyes Kids](https://open.spotify.com/album/70B2c1nBy7n7wUFUrECN0b) | 2:28 |
 | 9 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3QtTQ2uFHqHqMj3IWYpjQb) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Que Se Llene Tu Casa](https://open.spotify.com/album/7dMAKj2uWzdtjrEVE4ZEAm) | 3:15 |
-| 10 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
+| 10 | [Increíble](https://open.spotify.com/track/1BYjwl50ZTPXJfLLf4tO6l) | [Miel San Marcos Kids](https://open.spotify.com/artist/7cYETZOsorcZYrVef2c22c) | [Agradecido](https://open.spotify.com/album/7B1bhXT3PyV2LP6zO1yHUN) | 3:40 |
 | 11 | [El Arca de Noé \- Infantil](https://open.spotify.com/track/7mhTn1WILa52WAk329YBQC) | [CANCIONES CRISTIANAS INFANTILES](https://open.spotify.com/artist/3bNl0IaEKmZHAAb7NDHwRH) | [Canciones Cristianas para Niños](https://open.spotify.com/album/5pLXgf6RTuAECVBholK2ly) | 2:48 |
 | 12 | [Cuidado Mis Ojitos al Mirar](https://open.spotify.com/track/30IXNi5WlQcTfAHRGzXc53) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:29 |
 | 13 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 |

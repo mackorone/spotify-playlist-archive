@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 166101,
+  "num_followers": 166110,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAABcs3Rcv/o7HsqmE7rZ0sbZ",
+  "snapshot_id": "aSZDAAAAAACJaYsiGUVw+RlBdeX62LdQ",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,26 @@
       "duration_ms": 335160,
       "name": "I'm Leaving You (Commit A Crime) - Live",
       "url": "https://open.spotify.com/track/2z9BPNJ7YgANyqBEEU07ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 459493,
+      "name": "Match Box Blues",
+      "url": "https://open.spotify.com/track/0ucfROd1kaXBwNG2AJUIzM"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

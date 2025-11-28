@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Jo Soegono
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-279 songs - 19 hr 21 min
+280 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Belum Boleh Pulang](https://open.spotify.com/track/3lBOSflCf0zyZK3NHZ3dfk) | [Boy Warongan & The Palmeiros](https://open.spotify.com/artist/4xvwA3TjOcTtzsqgBaZdb2), [Gabriella Fernaldi](https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO) | [Belum Boleh Pulang](https://open.spotify.com/album/7DoQfDYmtTcYGRggIrfCHT) | 4:08 | 2025-10-09 |  |
 | [Berbunga \- Bunga](https://open.spotify.com/track/3NtqKyA6WU6AR6ajEAntjO) | [The Groove](https://open.spotify.com/artist/4QaAmS47H6ZCc5JtXP5933), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Sejiwa](https://open.spotify.com/album/4rEgxywUFenTE0CSvJxUAO) | 3:56 | 2023-08-24 |  |
 | [Berdansa Sejenak](https://open.spotify.com/track/4wQc5aLDPH58ncFsv1EpnD) | [djalto](https://open.spotify.com/artist/17s3iWyEdWg6OnUePMXG7r) | [Berdansa Sejenak](https://open.spotify.com/album/2Hk1gGS699WYzv1L3UpHjp) | 3:15 | 2022-09-02 | 2024-08-16 |
+| [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [](https://open.spotify.com/album/null) | 3:47 | 2025-11-27 |  |
 | [Best Friend](https://open.spotify.com/track/0QMKNY9xswyHRqA7OjVrNj) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Best Friend](https://open.spotify.com/album/1HJWP2NJ19Sa1TxZtpTou0) | 3:09 | 2022-09-02 | 2024-02-23 |
 | [Bintang\-bintang](https://open.spotify.com/track/1cDCkIiIRIYGMcizh9bxnU) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W) | [Bintang\-bintang](https://open.spotify.com/album/7to0vEoiHNNpYKkVasZMtE) | 4:18 | 2025-05-08 |  |
 | [bitterlove](https://open.spotify.com/track/74OLXYsvpfmSgPCMMi898K) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [bitterlove](https://open.spotify.com/album/5pSxeG2bdlj3MYdBVRBexK) | 3:36 | 2022-09-02 | 2023-07-14 |

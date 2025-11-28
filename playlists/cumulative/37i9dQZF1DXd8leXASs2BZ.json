@@ -7593,6 +7593,24 @@
     },
     {
       "album": {
+        "name": "Before The Fame",
+        "url": "https://open.spotify.com/album/6vu0RsQZbDlbJvYS9fiWEz"
+      },
+      "artists": [
+        {
+          "name": "Jahxncho",
+          "url": "https://open.spotify.com/artist/1xF8q5zFMA0Hz5RSjciswQ"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149802,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/0zVDRQ7FGICe6bXR1EUkcB"
+    },
+    {
+      "album": {
         "name": "Freestyle (feat. SMILEE & P-Free)",
         "url": "https://open.spotify.com/album/6L4627FrdPcouGUDkYFSLM"
       },
@@ -8412,6 +8430,28 @@
       "duration_ms": 160880,
       "name": "Good Day (feat. YELLASOMA & Lucy)",
       "url": "https://open.spotify.com/track/1LJOb686FLwF7CbeLoCbsi"
+    },
+    {
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/0Xgnfb01FiYnYl02C6cfsJ"
+      },
+      "artists": [
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        },
+        {
+          "name": "Vingo",
+          "url": "https://open.spotify.com/artist/7s0XITv7PpvCkdr0rKWQqH"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/785BETMnaavuSW6TJPOoeO"
     },
     {
       "album": {

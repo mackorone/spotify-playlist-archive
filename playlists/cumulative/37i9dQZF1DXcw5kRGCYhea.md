@@ -2,7 +2,7 @@
 
 ### [SEHD](https://open.spotify.com/playlist/37i9dQZF1DXcw5kRGCYhea)
 
-> Les sons urbains et Afro les plus chauds 🔥 Cover: Khtek
+> Les sons urbains et Afro les plus chauds 🔥 Cover: Stormy
 
 316 songs - 15 hr 59 min
 

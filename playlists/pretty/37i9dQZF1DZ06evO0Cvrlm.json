@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 592548,
+  "num_followers": 592584,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAABjq+UsDBslAkb/SoH+NKpW",
+  "snapshot_id": "aSZDAAAAAABncPLuX7judorzMAwP/ILb",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 282040,
-      "name": "As",
-      "url": "https://open.spotify.com/track/22WJbbti5hZkY7J8jwVX9o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ARETHA",
         "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 240120,
       "name": "I Knew You Were Waiting (For Me)",
       "url": "https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 282040,
+      "name": "As",
+      "url": "https://open.spotify.com/track/22WJbbti5hZkY7J8jwVX9o"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 280980,
+      "name": "Praying for Time - Remastered",
+      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 318866,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 280980,
-      "name": "Praying for Time - Remastered",
-      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "A Different Corner",
-      "url": "https://open.spotify.com/track/1Tb9OskLklgUMb0tUBJwRy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 289996,
       "name": "Waiting for That Day - Remastered",
       "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/1Tb9OskLklgUMb0tUBJwRy"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 283426,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 251173,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 283426,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6SfWgcAHkQo3SMRvRIzJm6"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Killer / Papa Was a Rollin' Stone",
-      "url": "https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 310906,
       "name": "Miss Sarajevo",
       "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Killer / Papa Was a Rollin' Stone",
+      "url": "https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 319440,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 201135,
       "name": "Desafinado (with Astrud Gilberto)",
       "url": "https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs From The Last Century",
-        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 319440,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 285361,
-      "name": "Going To A Town - Live",
-      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 245533,
       "name": "If I Told You That (feat. George Michael) - Radio Edit",
       "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 285361,
+      "name": "Going To A Town - Live",
+      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Symphonica (Deluxe Version)",
-        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 230508,
-      "name": "Let Her Down Easy - Live",
-      "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twenty Five",
         "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 296506,
       "name": "This Is Not Real Love (feat. Mutya) - Remastered 2006",
       "url": "https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 230508,
+      "name": "Let Her Down Easy - Live",
+      "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
     },
     {
       "added_at": null,
@@ -903,22 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets An American Classic",
-        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
       "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 323320,
-      "name": "How Do You Keep the Music Playing? (with George Michael)",
-      "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
+      "duration_ms": 269891,
+      "name": "Idol - Live",
+      "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
     }
   ],
   "unique_name": "This Is George Michael",

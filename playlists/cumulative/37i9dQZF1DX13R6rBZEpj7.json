@@ -1454,6 +1454,10 @@
           "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
         },
         {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        },
+        {
           "name": "Sammy Virji",
           "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
@@ -1464,6 +1468,32 @@
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
+    },
+    {
+      "album": {
+        "name": "Courvoisier",
+        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
+      },
+      "artists": [
+        {
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147104,
+      "name": "Courvoisier",
+      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
     },
     {
       "album": {
@@ -3002,7 +3032,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 148124,
       "name": "Head's Gone",
       "url": "https://open.spotify.com/track/3bZ30vr6E19I2p1RPHAsFJ"
@@ -6568,7 +6598,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 123981,
       "name": "Style",
       "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
@@ -6966,6 +6996,28 @@
       "duration_ms": 236307,
       "name": "Things You Do",
       "url": "https://open.spotify.com/track/6PLBibkZhlekUzOHpC9fA2"
+    },
+    {
+      "album": {
+        "name": "Thinking Bout You More",
+        "url": "https://open.spotify.com/album/4vz3k9z9zTWGgemOVPukfe"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145286,
+      "name": "Thinking Bout You More",
+      "url": "https://open.spotify.com/track/5bIzuYtgBrEGqhY9aG0mOc"
     },
     {
       "album": {

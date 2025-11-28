@@ -2,9 +2,9 @@
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: Keinemusik
+> The heartbeat of Afro House from Africa and around the globe\. Cover: Dlala Thukzin
 
-238 songs - 20 hr 33 min
+239 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Free 2 Be \- Badrops, Wrigley Remix Radio](https://open.spotify.com/track/0DF7EU4I1VAHbuE2zOKksT) | [InfeXus](https://open.spotify.com/artist/1t4xGfQQtCecZ6pUuOlEGO), [Anza](https://open.spotify.com/artist/02IA6HyxoGPRNIjfdCJZSy), [Badrops](https://open.spotify.com/artist/4rXpEUhjMgyZTMGsYML9RM), [Wrigley](https://open.spotify.com/artist/28GFABpKrciCumwMFo04BV) | [Free 2 Be](https://open.spotify.com/album/2PZ5ntpaeQyz9eatXOHKSQ) | 3:32 | 2025-06-19 | 2025-07-04 |
 | [Free Spirit](https://open.spotify.com/track/75jyYAIOkGEUeH4wWBrwYw) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Julian Place](https://open.spotify.com/artist/0l5bLIu2lwaoE2Jp15kVcr) | [Indigo Child II: Love & Frequency](https://open.spotify.com/album/0BSATiEsjpmeIribCMFqGT) | 8:16 | 2025-06-26 | 2025-07-18 |
 | [Funk Overload \- Radio Edit](https://open.spotify.com/track/1Zgo6Cii66ANoFuD6wjM2o) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Funk Overload](https://open.spotify.com/album/19mtskeGEUFJM9LToqf3rX) | 3:16 | 2025-06-26 | 2025-07-11 |
-| [Gaarah](https://open.spotify.com/track/2fZJh5BoVd9mcuGhJkdL1x) | [EyeRonik](https://open.spotify.com/artist/6G5rPciwdreuIQVCShrAsj) | [Gaarah](https://open.spotify.com/album/7rk9smzaAyvarlHNdUSEA1) | 6:32 | 2025-08-14 |  |
+| [Gaarah](https://open.spotify.com/track/2fZJh5BoVd9mcuGhJkdL1x) | [EyeRonik](https://open.spotify.com/artist/6G5rPciwdreuIQVCShrAsj) | [Gaarah](https://open.spotify.com/album/7rk9smzaAyvarlHNdUSEA1) | 6:32 | 2025-08-14 | 2025-11-28 |
 | [Gaia](https://open.spotify.com/track/2HS2q5q5DPHbu5XpGBKMXl) | [Naza \(Musik\)](https://open.spotify.com/artist/6tSUEn1E6DkoJtL5yWLzj8), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Gaia](https://open.spotify.com/album/57mB2YwMS31n6gtysv3MIL) | 7:15 | 2025-07-03 | 2025-07-25 |
 | [Gemu \- Radio Edit](https://open.spotify.com/track/1iApKEOkBkgAkkelE9NdiW) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Madmix](https://open.spotify.com/artist/33CPdnBb3lDoa1adNWa6Zt), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly), [Young Dotun](https://open.spotify.com/artist/0ghNW8oIeK38iwNhCl9X7Y) | [Gemu](https://open.spotify.com/album/2iR5TrADcgp8zJsnzBgGiv) | 3:32 | 2025-07-17 |  |
 | [Glory](https://open.spotify.com/track/2BwVqnuWjXwZkRmmGJDmk1) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Asante III](https://open.spotify.com/album/5zi9wqbDdf4iBDSDWbzu6D) | 5:01 | 2025-06-19 | 2025-09-13 |
@@ -198,6 +198,7 @@
 | [The Oracle](https://open.spotify.com/track/1ZKUeb4VShKVUSmf9EQTT9) | [Warren Deep](https://open.spotify.com/artist/1VeB0gDzrF52WT55s8rSG6), [Takue SBT](https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U) | [The Oracle](https://open.spotify.com/album/7woygLyit8Van2Bgpngekf) | 6:15 | 2025-07-31 | 2025-08-15 |
 | [Tholukuthi \(Clap Song\) \(feat\. MaWhoo\)](https://open.spotify.com/track/1d3srkotnZxmQhsqbIu9jv) | [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Tholukuthi \(Clap Song\) \[feat\. MaWhoo\]](https://open.spotify.com/album/3fdFe3KPYCzaUpbOngXaem) | 7:43 | 2025-06-26 |  |
 | [Thonga Lami](https://open.spotify.com/track/3nBzoSYfVHHDMVlM37YAui) | [Harricane](https://open.spotify.com/artist/58Zaghu7BDXbq72pNggeh3), [SBO SA](https://open.spotify.com/artist/1eA17YzZx9iVEvSOjcFUvo), [Catalyst](https://open.spotify.com/artist/7we5WqcBSJ5SuGANciiz8T), [Teekay](https://open.spotify.com/artist/2YA5TR00ZNaKMrkwpN0SJD) | [Thonga Lami](https://open.spotify.com/album/1A4qOjyfhz3X55CvRBEIyH) | 5:31 | 2025-07-17 | 2025-07-25 |
+| [Track 5](https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-06-26 | 2025-07-18 |
 | [Tsama \- Club Version](https://open.spotify.com/track/1Hz1UaD6whGtv8QWgitnSg) | [Basti Grub](https://open.spotify.com/artist/3VAVMUyDwL7FlkivpaMeRh), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [OTXX](https://open.spotify.com/artist/5tfnHT4DjO0IX5JIWFQpXJ) | [Tsama \(Club Version\)](https://open.spotify.com/album/5GnDWnztb7kjCFnmVxieLA) | 4:15 | 2025-06-19 | 2025-07-04 |
 | [Tsameka](https://open.spotify.com/track/0oHtJDWGkXyDNdNJpynTy1) | [LaTique](https://open.spotify.com/artist/5RXEBy5lIlw5c5DgcboZAD) | [Winter Tones III](https://open.spotify.com/album/1XypJzPYnn29S0CJgkL57D) | 6:08 | 2025-07-31 | 2025-08-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Dein Deutschpop. Deine Welt. Deine Playlist. Cover: NESS",
+  "description": "Dein Deutschpop. Deine Welt. Deine Playlist. Cover: verifiziert",
   "name": "POPLAND",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 168000,
       "name": "Aschenbecher",
       "url": "https://open.spotify.com/track/4wsPwygeXbplj6tsagzHGE"
@@ -356,10 +356,68 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 142993,
       "name": "AZRA",
       "url": "https://open.spotify.com/track/6SGCvB2LejiqTX2BH2vWVC"
+    },
+    {
+      "album": {
+        "name": "baby t",
+        "url": "https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143606,
+      "name": "baby T",
+      "url": "https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf"
+    },
+    {
+      "album": {
+        "name": "besser so",
+        "url": "https://open.spotify.com/album/7qV8IL3t34DiDgZ9CALFPP"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        },
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173632,
+      "name": "besser so",
+      "url": "https://open.spotify.com/track/75a0tGKSqVuLZ8CBtkTHhC"
+    },
+    {
+      "album": {
+        "name": "Beste",
+        "url": "https://open.spotify.com/album/6tlPvg7QG4hlG193DFDXeV"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128354,
+      "name": "Beste",
+      "url": "https://open.spotify.com/track/3q5MXFeYu0f7XMDgqFhWJv"
     },
     {
       "album": {
@@ -418,6 +476,24 @@
       "duration_ms": 185019,
       "name": "Clair de Lune",
       "url": "https://open.spotify.com/track/1yR1WJ6isOn9L1fgt9gMff"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125204,
+      "name": "Crashout gehen",
+      "url": "https://open.spotify.com/track/5FSa7VpkTwOkWbRnK8es8G"
     },
     {
       "album": {
@@ -659,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Doktor Doktor",
+        "url": "https://open.spotify.com/album/0tMdfQhBku9acAvBGS3Ta6"
+      },
+      "artists": [
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140577,
+      "name": "Doktor Doktor",
+      "url": "https://open.spotify.com/track/1P2CfJixPtgRQkBEgZl7Jq"
+    },
+    {
+      "album": {
         "name": "Du Fehlst Hier",
         "url": "https://open.spotify.com/album/6hqFDjBsVVljEJoR4MlCm2"
       },
@@ -782,7 +876,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 114529,
       "name": "Ene Mene Miste",
       "url": "https://open.spotify.com/track/1ksyq9jQJboSrGhqzL5kSh"
@@ -836,10 +930,28 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 116733,
       "name": "Filmriss",
       "url": "https://open.spotify.com/track/6MXGRSgIS9jHJ0mWlAO75d"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "LoSin",
+          "url": "https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121461,
+      "name": "Flaschenpost",
+      "url": "https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw"
     },
     {
       "album": {
@@ -1251,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Immer",
+        "url": "https://open.spotify.com/album/5IrbRM2lseX3Y29Q70BktO"
+      },
+      "artists": [
+        {
+          "name": "Tim Bendzko",
+          "url": "https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "Immer",
+      "url": "https://open.spotify.com/track/7gk8sVJCVRI9EiTYLHQpTa"
+    },
+    {
+      "album": {
         "name": "INNENLEBEN",
         "url": "https://open.spotify.com/album/1lusCOu3YELL3WLCyq17oM"
       },
@@ -1421,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "Kirschbl\u00fcten",
+        "url": "https://open.spotify.com/album/2xzh63BMkGAdHCqVBBNzrw"
+      },
+      "artists": [
+        {
+          "name": "Florian K\u00fcnstler",
+          "url": "https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE"
+        },
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125613,
+      "name": "Kirschbl\u00fcten",
+      "url": "https://open.spotify.com/track/2lfiUGX43eKM28rkbxUI9E"
+    },
+    {
+      "album": {
         "name": "Krass dass du noch da bist",
         "url": "https://open.spotify.com/album/4OPVu6L9hsmXUiWcTx1HyY"
       },
@@ -1534,6 +1686,24 @@
       "duration_ms": 141453,
       "name": "leicht",
       "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
+    },
+    {
+      "album": {
+        "name": "Leise",
+        "url": "https://open.spotify.com/album/671Sx2mRv2PATZ64qxvaQW"
+      },
+      "artists": [
+        {
+          "name": "Josh.",
+          "url": "https://open.spotify.com/artist/1nngQyj8LCicyLKclbWTmU"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210073,
+      "name": "Leise",
+      "url": "https://open.spotify.com/track/74b7U40UyovtnZPAzIuWLr"
     },
     {
       "album": {
@@ -1736,7 +1906,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 189945,
       "name": "mein zimmer",
       "url": "https://open.spotify.com/track/1qlkKk4dEb9paErnBL4bAd"
@@ -1866,7 +2036,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 127726,
       "name": "OOTD",
       "url": "https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6"
@@ -2086,7 +2256,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 176326,
       "name": "Sommer der bleibt",
       "url": "https://open.spotify.com/track/0UkjouhcI6gSLPN6BaXOpA"
@@ -2104,7 +2274,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 201306,
       "name": "Sonntag",
       "url": "https://open.spotify.com/track/7hYLmwd4kC6ubbggdNMtEB"
@@ -2166,6 +2336,24 @@
       "duration_ms": 145000,
       "name": "Sp\u00fcrst du das auch",
       "url": "https://open.spotify.com/track/2ixJRQMGyC7oWRrH6CbewK"
+    },
+    {
+      "album": {
+        "name": "stabiler verlierer",
+        "url": "https://open.spotify.com/album/0wQXLAMpyi5q4fai0oEXPB"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154060,
+      "name": "stabiler verlierer",
+      "url": "https://open.spotify.com/track/4uNiQsNvXabVZ0f1JvaOrK"
     },
     {
       "album": {
@@ -2238,7 +2426,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 151699,
       "name": "tu was du nicht lassen kannst.",
       "url": "https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8"
@@ -2274,7 +2462,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 138031,
       "name": "Unfair",
       "url": "https://open.spotify.com/track/5wfVTGw8MvQHzd7mtjy5b8"
@@ -2523,6 +2711,24 @@
     },
     {
       "album": {
+        "name": "AZRA",
+        "url": "https://open.spotify.com/album/5ZMMzhKyImXgTtCMsJiFbp"
+      },
+      "artists": [
+        {
+          "name": "ELIF",
+          "url": "https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222498,
+      "name": "WEGEN DIR",
+      "url": "https://open.spotify.com/track/6RmE4KcszM9FNtVXaDiGUp"
+    },
+    {
+      "album": {
         "name": "wei\u00dfweinen",
         "url": "https://open.spotify.com/album/0Sh1eXVABWyPbsGdU6toYl"
       },
@@ -2596,6 +2802,24 @@
       "duration_ms": 199013,
       "name": "Wenn du vor mir gehst",
       "url": "https://open.spotify.com/track/4YSRd2DqqAWHJCalU2TgbO"
+    },
+    {
+      "album": {
+        "name": "wenn ich schrei",
+        "url": "https://open.spotify.com/album/3JUYbcPBrBJ3twQNjRfjkA"
+      },
+      "artists": [
+        {
+          "name": "Aleyna",
+          "url": "https://open.spotify.com/artist/46kCUKOgib9MWOFJVcAF6V"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183697,
+      "name": "wenn ich schrei",
+      "url": "https://open.spotify.com/track/748UyAensK4O1xKbuwDcGs"
     },
     {
       "album": {

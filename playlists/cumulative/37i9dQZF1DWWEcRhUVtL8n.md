@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Esha Tewari
 
-2,226 songs - 4 day 22 hr 7 min
+2,227 songs - 4 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-09-02 |
 | [Anything Could Happen](https://open.spotify.com/track/7cdS2ZpDLR4kOug7FrRssx) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Anything Could Happen](https://open.spotify.com/album/5aBYZUmWL1v3mmk3Ji3M9Y) | 3:27 | 2021-03-16 | 2021-10-13 |
 | [Appetite](https://open.spotify.com/track/5VbH21TVJrKIsDpNbpTi7B) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PETROL BLOOM](https://open.spotify.com/album/2dAk99NhCCyRdko6BPPe9q) | 3:32 | 2020-12-08 | 2021-05-26 |
-| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-25 |  |
+| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-25 | 2025-11-28 |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-11 | 2024-12-14 |
 | [are we done yet?](https://open.spotify.com/track/1BdzvR20FObuU4AdB7EuTs) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [are we done yet?](https://open.spotify.com/album/42mnwpVIAIYSNXjgCKsyLu) | 4:01 | 2022-09-23 | 2022-10-08 |
 | [Are We Having Any Fun Yet?](https://open.spotify.com/track/63koRk9rszZKFiVLuhdo88) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Are We Having Any Fun Yet?](https://open.spotify.com/album/11iKlt3QabcuCbewlu2xHj) | 3:17 | 2020-10-20 | 2021-10-22 |
@@ -1573,6 +1573,7 @@
 | [Pretty Places \- St\. Lucia Remix](https://open.spotify.com/track/0JYR0lyLlDinGYd2XDMXmO) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i), [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Pretty Places \(St\. Lucia Remix\)](https://open.spotify.com/album/2Ic52xcEkav61Ppa3ilzVZ) | 4:41 | 2021-08-13 | 2022-05-21 |
 | [Pride \(with mxmtoon\)](https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Pride](https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN) | 2:49 | 2020-10-24 | 2021-06-03 |
 | [Prim & Propa](https://open.spotify.com/track/73782aOQUGbQfZrg6P1wIq) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Prim & Propa](https://open.spotify.com/album/6SkM7R8HS1aGgTqm2QLViD) | 3:30 | 2021-10-14 | 2021-10-16 |
+| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-14 |  |
 | [Probabilities](https://open.spotify.com/track/68SHPJk44d9gnbGKdvRcOo) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Probabilities](https://open.spotify.com/album/4XZJNpBu0w1yAV4NySwYtJ) | 2:28 | 2022-07-22 | 2022-08-06 |
 | [Producer Man](https://open.spotify.com/track/5BArc3UpONi77FMkNT4LYU) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Producer Man](https://open.spotify.com/album/4TEbnRfzMNFYy2H6U2oRt4) | 2:21 | 2020-10-16 | 2021-05-27 |
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-25 | 2021-10-14 |

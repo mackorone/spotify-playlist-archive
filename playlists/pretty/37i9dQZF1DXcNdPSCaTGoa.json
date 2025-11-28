@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 96007,
+  "num_followers": 96042,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
+        "name": "Tsholofelo (Platinum Edition)",
+        "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 231839,
+      "name": "Doc Shebeleza",
+      "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
         "name": "Evo Mix",
         "url": "https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 295813,
       "name": "Khona",
       "url": "https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Tsholofelo (Platinum Edition)",
-        "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        }
-      ],
-      "duration_ms": 231839,
-      "name": "Doc Shebeleza",
-      "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
     },
     {
       "added_at": "2025-10-10 02:53:29",

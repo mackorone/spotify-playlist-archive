@@ -1,410 +1,70 @@
 {
-  "description": "Brand new music from The Kid LAROI, Tate McRae, Ninajirachi, Frost Children, 5 Seconds of Summer. Fred again.., Sammy Virji + more",
-  "num_followers": 431602,
+  "description": "Brand new music from These New South Whales, Ed Sheeran, Central Cee, Jordan Rakei, Jalen Ngonda, Drax Project + more",
+  "num_followers": 431969,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANuodJLJOcxF9uIeob5Hijh37hB5",
+  "snapshot_id": "AAAAAExWGhMGE3a/X2PfiKEFqBBHd5f9",
   "tracks": [
     {
-      "added_at": "2025-11-20 17:00:09",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+      "duration_ms": 161069,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 19:00:04",
       "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+        "name": "Booga",
+        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 168134,
-      "name": "NOBODY'S GIRL",
-      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
+      "duration_ms": 112733,
+      "name": "Booga",
+      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 19:00:04",
       "album": {
-        "name": "Fuck My Computer (Frost Children Remix)",
-        "url": "https://open.spotify.com/album/3mkVo55KYmJAxy21rPssZ4"
+        "name": "What It Gave Me",
+        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
       "artists": [
         {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         },
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 197956,
-      "name": "Fuck My Computer - Frost Children Remix",
-      "url": "https://open.spotify.com/track/4msZzTP3dJlqmHRhUb4v3f"
+      "duration_ms": 164605,
+      "name": "What It Gave Me",
+      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "EVERYONE'S A STAR! (Fully Evolved)",
-        "url": "https://open.spotify.com/album/5PZaqv1kmnGYMvO8lS0Cqs"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/7dnoDyysjq8Kvu8ZZGrQSx"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Winny",
-        "url": "https://open.spotify.com/album/63ITryjqkiwjmk3GABslAj"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        },
-        {
-          "name": "Winny",
-          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Winny",
-      "url": "https://open.spotify.com/track/4qhrMsB4w2pHYB3BhX5WPr"
-    },
-    {
-      "added_at": "2025-11-21 05:00:20",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "Big Daddy",
-      "url": "https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack",
-        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "The Girl in the Bubble",
-      "url": "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Big Ideas",
-        "url": "https://open.spotify.com/album/7xfeC5mioThYz3byVAIeOO"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 159748,
-      "name": "Big Ideas",
-      "url": "https://open.spotify.com/track/75epmKQsn2S7ZGKKGHiupK"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "In Twos",
-        "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 166897,
-      "name": "In Twos",
-      "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/62WjM9e9gRlBD7vukuXRQq"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/06jQrdwR5Cby21cZ8hfDPa"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "I'm Always On Stage",
-        "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 243546,
-      "name": "I'm Always On Stage",
-      "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Once I Was Wild",
-        "url": "https://open.spotify.com/album/1JgEFxvTJdTlzhJjbTqpq7"
-      },
-      "artists": [
-        {
-          "name": "The Smith Street Band",
-          "url": "https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp"
-        }
-      ],
-      "duration_ms": 253955,
-      "name": "Constellation",
-      "url": "https://open.spotify.com/track/59sVpJdlde6l45NDCRU2bX"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "Cold (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/7fIIi2KQB2AUqRgmpreKYj"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Contact",
-        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/7jIIaLkLcxyn9z2GvQi1Se"
-    },
-    {
-      "added_at": "2025-11-21 05:00:20",
-      "album": {
-        "name": "From Me 2 U",
-        "url": "https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY"
-      },
-      "artists": [
-        {
-          "name": "Nemzzz",
-          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
-        }
-      ],
-      "duration_ms": 104605,
-      "name": "MR DND",
-      "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Songs I'd Rather Not Sing",
-        "url": "https://open.spotify.com/album/1g2lIajRkoTuD6NuEYp11X"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Songs I'd Rather Not Sing",
-      "url": "https://open.spotify.com/track/0sdDCmGW4QomnHcLvd3KCh"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "That Boy's Not Nice",
-        "url": "https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 198695,
-      "name": "That Boy's Not Nice",
-      "url": "https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Red Sunset",
-        "url": "https://open.spotify.com/album/7xp4WMkjX9w1cWg4qJaScM"
-      },
-      "artists": [
-        {
-          "name": "Bic Runga",
-          "url": "https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Red Sunset",
-      "url": "https://open.spotify.com/track/3r75cePFVQSSg6Lvejm8Zr"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "WORLDS APART*",
-        "url": "https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 146258,
-      "name": "BOTHER ME (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Changing",
-        "url": "https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Jonas",
-          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/0yGiWLAQnPV4AT9mVcgrcF"
-      },
-      "artists": [
-        {
-          "name": "Meg Mac",
-          "url": "https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz"
-        }
-      ],
-      "duration_ms": 219561,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5Pda9qkVnViDw4yG7Fpbt5"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "LOCKED IN",
-        "url": "https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 131707,
-      "name": "LOCKED IN",
-      "url": "https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "BIRDBRAIN / PIG",
-        "url": "https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
@@ -412,1241 +72,1205 @@
           "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
         }
       ],
-      "duration_ms": 118280,
-      "name": "PIG",
-      "url": "https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM"
+      "duration_ms": 176706,
+      "name": "R.I.P. ME",
+      "url": "https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Say My Name In Your Sleep",
-        "url": "https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz"
+        "name": "Summer Rain",
+        "url": "https://open.spotify.com/album/6TYlMrMfyjvb31NLqgRvb8"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
         }
       ],
-      "duration_ms": 192173,
-      "name": "Say My Name In Your Sleep",
-      "url": "https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7"
+      "duration_ms": 220500,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/79EW8ABTuMJmbxG0VTS0D9"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Big Don",
-        "url": "https://open.spotify.com/album/11cK5YaX4JYHPWxzhEvee2"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "Celly",
-          "url": "https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz"
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "I'LL NEVER KNOW WHY",
+      "url": "https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Claws",
+        "url": "https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 167122,
+      "name": "Claws",
+      "url": "https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Hellcat Speedracer",
+          "url": "https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV"
+        }
+      ],
+      "duration_ms": 157853,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Play My Part (SLIDE) (feat. Stone II)",
+        "url": "https://open.spotify.com/album/15NNhrMTBtpPI9hSSa3TFV"
+      },
+      "artists": [
+        {
+          "name": "J Emz",
+          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
         },
         {
           "name": "ONEFOUR",
           "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "Big Don",
-      "url": "https://open.spotify.com/track/5eCTcda91IJHESvBpNwBnj"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Fantasy Camera (feat. Forest Claudette)",
-        "url": "https://open.spotify.com/album/7LCKojbf1T8VJGaqm9eVHq"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
         },
         {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
+          "name": "Stone II",
+          "url": "https://open.spotify.com/artist/4WIa7bwGO6UbJGOa3dYy9H"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Fantasy Camera (feat. Forest Claudette)",
-      "url": "https://open.spotify.com/track/5GrUr9jQJqRRvA6AuHiYYH"
+      "duration_ms": 138468,
+      "name": "Play My Part (SLIDE) (feat. Stone II)",
+      "url": "https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Dear Friend",
-        "url": "https://open.spotify.com/album/2ZQZ9xjA8hoDxpDhmsSbDr"
+        "name": "Hold You Close",
+        "url": "https://open.spotify.com/album/5kUj5N8dkfn9PMX35xX4oC"
       },
       "artists": [
         {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
         },
         {
-          "name": "Ova Looven",
-          "url": "https://open.spotify.com/artist/2TimZvD1IDNMwwzQDNHMKX"
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
         }
       ],
-      "duration_ms": 312728,
-      "name": "Memories (Feat. Ova Looven)",
-      "url": "https://open.spotify.com/track/7wjyAbP4at1DDE6Af4Y1uE"
+      "duration_ms": 241632,
+      "name": "Hold You Close",
+      "url": "https://open.spotify.com/track/3oAkenLgVAQNhZMYPr2xQx"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "DO IT",
-        "url": "https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw"
+        "name": "LIVE LAUGH COOL STAR",
+        "url": "https://open.spotify.com/album/2cXKr33dR0o2MrbVKpV8C9"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
         }
       ],
-      "duration_ms": 159000,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN"
+      "duration_ms": 154708,
+      "name": "Rot",
+      "url": "https://open.spotify.com/track/7kZzn2dgVaU0itU7CpIBYL"
     },
     {
-      "added_at": "2025-11-21 05:00:20",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "No Comment",
-        "url": "https://open.spotify.com/album/5jMW8JRRvthPDR7qQLNMqb"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "No Comment",
-      "url": "https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Be Me",
-        "url": "https://open.spotify.com/album/3UXg4BQBhMrPNhkB0YQhn7"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Be Me",
-      "url": "https://open.spotify.com/track/24tokRChZL5vKAYJHC3ZxJ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "the wild, the innocent & the raging",
-        "url": "https://open.spotify.com/album/5HRTO3VPXz185L1l7DxSvu"
-      },
-      "artists": [
-        {
-          "name": "ILUKA",
-          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6UQ0GUr5v1aDCR4iW1OWuW"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Paradise Runner",
-        "url": "https://open.spotify.com/album/2llFvkt14pwvA4XzsSC9I5"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 276477,
-      "name": "Paradise Runner",
-      "url": "https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Flower City Heartbreak",
-        "url": "https://open.spotify.com/album/4r3eoK1hWHYrsiBJUkCCeB"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Supposed To Be My Lover",
-      "url": "https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "A GIRL IS A DRUG",
-        "url": "https://open.spotify.com/album/1RGfe07wazAbln9mx2XjtI"
-      },
-      "artists": [
-        {
-          "name": "Parris Goebel",
-          "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
-        }
-      ],
-      "duration_ms": 121208,
-      "name": "LICK THE BEAT",
-      "url": "https://open.spotify.com/track/6xmDjcqyMhttlhnipqaqW3"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 178846,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Without You (with Skillibeng)",
-        "url": "https://open.spotify.com/album/5dqiHFlnv1VHJmFSrAdtgw"
-      },
-      "artists": [
-        {
-          "name": "Cholita",
-          "url": "https://open.spotify.com/artist/6v1frZGIbqJEs7UKRFdFbe"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
-        }
-      ],
-      "duration_ms": 208873,
-      "name": "Without You (with Skillibeng)",
-      "url": "https://open.spotify.com/track/0ycJKH5LaMsTfFZIDt8rps"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Limerence",
-        "url": "https://open.spotify.com/album/4uHsy1vw6kS8DgHMDgk5yH"
-      },
-      "artists": [
-        {
-          "name": "Charley",
-          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Limerence",
-      "url": "https://open.spotify.com/track/3OtIUjgVfvETI0RLNwsOOz"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Cabin In The Sky",
-        "url": "https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 210734,
-      "name": "Run It Back!!",
-      "url": "https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Paradise Now & Forever",
-        "url": "https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 215531,
-      "name": "Lipdance",
-      "url": "https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "FKN",
-        "url": "https://open.spotify.com/album/1tfAFZfcVHhliNF2lNS5CR"
-      },
-      "artists": [
-        {
-          "name": "Loosie Grind",
-          "url": "https://open.spotify.com/artist/3qOZFyhCatzdumox0KQotv"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "FKN",
-      "url": "https://open.spotify.com/track/3I15DkkpCxjl5jKLche3zd"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "if you don't love me",
-        "url": "https://open.spotify.com/album/0T4jDRsLvx2ZSsquuuvyUS"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "if you don't love me",
-      "url": "https://open.spotify.com/track/2YfFvs79Ho9JpW4zKkUglB"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "T Shirt",
-        "url": "https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "T Shirt",
-      "url": "https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "High Tolerance",
-        "url": "https://open.spotify.com/album/0y2zbatXy9YPZnMDD9vRxN"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 145650,
-      "name": "High Tolerance",
-      "url": "https://open.spotify.com/track/19PdOaQgCjuZy0kSL3aIr0"
-    },
-    {
-      "added_at": "2025-11-21 05:00:20",
-      "album": {
-        "name": "EASY WITH ME",
-        "url": "https://open.spotify.com/album/2GNIedD3ftWWWBdG7i3ftM"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 217269,
-      "name": "EASY WITH ME",
-      "url": "https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Middle Night",
-        "url": "https://open.spotify.com/album/1PCtUWceVjXpqyMXCBjPoJ"
-      },
-      "artists": [
-        {
-          "name": "Hayden Calnin",
-          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
-        }
-      ],
-      "duration_ms": 249041,
-      "name": "Take",
-      "url": "https://open.spotify.com/track/2TuX4jkeuj3nlloC10nJAL"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/0CT0ofStdh15crKzer9dcg"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        }
-      ],
-      "duration_ms": 265099,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/5Y7WONRdWnjQhsn8TyOyS8"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "lover girl!",
-        "url": "https://open.spotify.com/album/0iwmlrk48ZNx0vMuLukJ9c"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 194875,
-      "name": "lover girl!",
-      "url": "https://open.spotify.com/track/0DhsGKUzigP9xrYCpVqm0N"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "takeaways",
-        "url": "https://open.spotify.com/album/7auX3hZqaH4Xlvfz8G5thm"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 183815,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/6LGbYF62eHtdQlK0UCkq2m"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Road Nights",
-        "url": "https://open.spotify.com/album/3xzUlpLPq3M7dOuKJXv1Ax"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
-        {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
-        },
-        {
-          "name": "Flesh-n-Bone",
-          "url": "https://open.spotify.com/artist/0catX1w54ZWxFrEC77ahGU"
-        },
-        {
-          "name": "Layzie Bone",
-          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
-        }
-      ],
-      "duration_ms": 183207,
-      "name": "Road Nights",
-      "url": "https://open.spotify.com/track/3Ae91HccXXPBS8nJvBpJ3i"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Everything For You",
-        "url": "https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM"
-      },
-      "artists": [
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        },
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 167208,
-      "name": "Everything For You",
-      "url": "https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "SLOW DOWN",
-        "url": "https://open.spotify.com/album/0WcnjrxFMmgzLHipvjXP6j"
-      },
-      "artists": [
-        {
-          "name": "Newport",
-          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
-        }
-      ],
-      "duration_ms": 198740,
-      "name": "SLOW DOWN",
-      "url": "https://open.spotify.com/track/4hDyQa2vq3yBIPrZCSojzD"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/0Tlecf1ySre2TlkS3wr8kw"
-      },
-      "artists": [
-        {
-          "name": "The Black Seeds",
-          "url": "https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY"
-        }
-      ],
-      "duration_ms": 281400,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/25TZkUwSB3tl0opMrkmfAr"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "LONG LIVE THE OLD DEAD GODS",
-        "url": "https://open.spotify.com/album/6jUuB6KyYXSULKAIJiy3F2"
-      },
-      "artists": [
-        {
-          "name": "Zheani",
-          "url": "https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY"
-        },
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 264509,
-      "name": "HEROINE ICONOCLAST (feat. DANNY BROWN)",
-      "url": "https://open.spotify.com/track/0ewQHJ5lPVIhkmOB9C84XT"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Cry For Me",
-        "url": "https://open.spotify.com/album/3KCG7PWkUKcXwuAXLGGCtC"
-      },
-      "artists": [
-        {
-          "name": "Gloria Laing",
-          "url": "https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi"
-        }
-      ],
-      "duration_ms": 273448,
-      "name": "Cry For Me",
-      "url": "https://open.spotify.com/track/2hzwynvjnS8kL7PNB1iU7D"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "BOTA (feat. MC Lan)",
-        "url": "https://open.spotify.com/album/03SZzt5XMIIiRwukZkCgxL"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "MC Lan",
-          "url": "https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "BOTA (feat. MC Lan)",
-      "url": "https://open.spotify.com/track/4FaRs5JRhBCMsTLmmqcGGQ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "DREAD",
-        "url": "https://open.spotify.com/album/233secapP2hwkOG4P1IpFr"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        },
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 143775,
-      "name": "DREAD",
-      "url": "https://open.spotify.com/track/4oyodp4Qn7q7eypCzv3k8a"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Hot Off The Press",
-        "url": "https://open.spotify.com/album/4mg8xyECbr5wE9owcdZcid"
-      },
-      "artists": [
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        }
-      ],
-      "duration_ms": 222154,
-      "name": "Hot Off The Press",
-      "url": "https://open.spotify.com/track/5QvU5Fm4JqHuHBTQa0POuP"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Rhode House",
-        "url": "https://open.spotify.com/album/6aT0twuAt5UPUJxEzfmSEE"
-      },
-      "artists": [
-        {
-          "name": "Mr Rhodes",
-          "url": "https://open.spotify.com/artist/3NEL17Y3w46qOrjJXgeMO8"
-        },
-        {
-          "name": "Reyne House",
-          "url": "https://open.spotify.com/artist/4EDKYXiDYdGSLTn6gYrml0"
-        },
-        {
-          "name": "Drac Hammond",
-          "url": "https://open.spotify.com/artist/3jYhVamC6KtzwLwMhRbaqA"
-        }
-      ],
-      "duration_ms": 165918,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/5Yl4OiAIKubOR4Prw07W5m"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "do over",
-        "url": "https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G"
-      },
-      "artists": [
-        {
-          "name": "Homegrown Trio",
-          "url": "https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2"
-        }
-      ],
-      "duration_ms": 172546,
-      "name": "do over",
-      "url": "https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/30GcqGT851gJEsiHaPdeEN"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "Space Funk",
-      "url": "https://open.spotify.com/track/1U9LfeByX5hkTV6CxeOQ1u"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "PEPPER",
-        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "PEPPER",
-      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "He Sucks",
-        "url": "https://open.spotify.com/album/5oFY8EG3EZKWRgyod11IJc"
-      },
-      "artists": [
-        {
-          "name": "George Alice",
-          "url": "https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL"
-        }
-      ],
-      "duration_ms": 133645,
-      "name": "He Sucks",
-      "url": "https://open.spotify.com/track/3J7OqET7TeUKuSENjltjz4"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Everything In My Backpocket",
-        "url": "https://open.spotify.com/album/2BBp4GQarcNZFZbsoTcU6g"
-      },
-      "artists": [
-        {
-          "name": "Mariae Cassandra",
-          "url": "https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "The City",
-      "url": "https://open.spotify.com/track/4bPToiSnmjEg3aoXc5zr0e"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Live To Dance",
-        "url": "https://open.spotify.com/album/2YxHfqm5wUlGWVXBEziD1C"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Bree",
-          "url": "https://open.spotify.com/artist/2IlTe9Gm5w5qrt2kKdOvAh"
-        },
-        {
-          "name": "Princess Chelsea",
-          "url": "https://open.spotify.com/artist/6SrA4711bML5NvPO13Tr6t"
-        }
-      ],
-      "duration_ms": 250803,
-      "name": "Live To Dance",
-      "url": "https://open.spotify.com/track/3tAqRXrSTyX1MYDK1V6QuL"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "All the Money in the World",
-        "url": "https://open.spotify.com/album/6CDQtNZX0TqbU19fI2l8I6"
-      },
-      "artists": [
-        {
-          "name": "The Wet Whistles",
-          "url": "https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj"
-        }
-      ],
-      "duration_ms": 197012,
-      "name": "All the Money in the World",
-      "url": "https://open.spotify.com/track/3tushgSMyb4XBr8wh4mVPv"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Something Strong",
-        "url": "https://open.spotify.com/album/1gwVDP26kNJ6lwiPryOxOE"
-      },
-      "artists": [
-        {
-          "name": "Nick Prosen",
-          "url": "https://open.spotify.com/artist/0EBMNukxHDo8Ju3Sg5kwKP"
-        },
-        {
-          "name": "Julie Benson",
-          "url": "https://open.spotify.com/artist/7I0kExgxiEOZ7JuzhE6mtZ"
-        }
-      ],
-      "duration_ms": 109244,
-      "name": "Something Strong",
-      "url": "https://open.spotify.com/track/0TfUkA8rLeYIvPEMJS3qWz"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "LFTBU",
-        "url": "https://open.spotify.com/album/6gv2gotiPouTPqVCiggWra"
-      },
-      "artists": [
-        {
-          "name": "WHO SHOT SCOTT",
-          "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
-        }
-      ],
-      "duration_ms": 178771,
-      "name": "LFTBU",
-      "url": "https://open.spotify.com/track/6vLWH4QOUFqChN5GAhW2gT"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Times Like These",
-        "url": "https://open.spotify.com/album/2pcfbl4k3wezMpB9sPSXnd"
-      },
-      "artists": [
-        {
-          "name": "Grace Cummings",
-          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
-        },
-        {
-          "name": "Jim James",
-          "url": "https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Times Like These",
-      "url": "https://open.spotify.com/track/0f7FLJNDqLrYgTCsYOKL9S"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Blisters (feat. Noah Learmonth)",
-        "url": "https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b"
+        "name": "Body Broker",
+        "url": "https://open.spotify.com/album/2qOPFkzeD33AyGvMOblT5u"
       },
       "artists": [
         {
           "name": "Sex Mask",
           "url": "https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ"
+        }
+      ],
+      "duration_ms": 143502,
+      "name": "Curse",
+      "url": "https://open.spotify.com/track/3Uq3THjKQx73juBlWnLFqa"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Middle of the Summer",
+        "url": "https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "Middle of the Summer",
+      "url": "https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Cash Flow (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
-          "name": "Noah Learmonth",
-          "url": "https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 210946,
-      "name": "Blisters (feat. Noah Learmonth)",
-      "url": "https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR"
+      "duration_ms": 174628,
+      "name": "Cash Flow (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Rare Groove Spectrum, Vol. 3",
-        "url": "https://open.spotify.com/album/3feSktjrJ1GsGVNUPd5evR"
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5"
       },
       "artists": [
         {
-          "name": "Lance Ferguson",
-          "url": "https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua"
-        }
-      ],
-      "duration_ms": 320187,
-      "name": "Losalamitoslatinfunklovesong",
-      "url": "https://open.spotify.com/track/3RPs3DThWDaKHEEhHWUDnc"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "BARS",
-        "url": "https://open.spotify.com/album/4I16W9kibWEJnYweLp8gYv"
-      },
-      "artists": [
-        {
-          "name": "Moses",
-          "url": "https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs"
-        }
-      ],
-      "duration_ms": 277058,
-      "name": "BARS",
-      "url": "https://open.spotify.com/track/4m0OFyY9n8iuy7egdhVXVS"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Funk2",
-        "url": "https://open.spotify.com/album/2XKBME9TrQvSEWEeUNFxyA"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 249473,
-      "name": "Funk2",
-      "url": "https://open.spotify.com/track/4cuLoHDFHh0RKa8NcraeAP"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Fallin Luv",
-        "url": "https://open.spotify.com/album/0SO5QS6SlWk1shnErAvO9p"
-      },
-      "artists": [
-        {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
-        }
-      ],
-      "duration_ms": 234396,
-      "name": "Fallin Luv",
-      "url": "https://open.spotify.com/track/6i81v3bqmHedM4h6u5a5NQ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Good Sleeps",
-        "url": "https://open.spotify.com/album/1bQPC5llS7G0jt7w9ud2hz"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Littles",
-          "url": "https://open.spotify.com/artist/0xT92KyrqgKqPuKBtRSqEO"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "Good Sleeps",
-      "url": "https://open.spotify.com/track/3qKMvE5LdG96qBC3mIbsy7"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Overseas",
-        "url": "https://open.spotify.com/album/6c4ta5kdmfYOi6Eib9jXz9"
-      },
-      "artists": [
-        {
-          "name": "YSN Fab",
-          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         },
         {
-          "name": "Day1",
-          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+          "name": "Jacob M\u00fchlrad",
+          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
+        }
+      ],
+      "duration_ms": 279033,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "PRETTY GYAL",
+        "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "duration_ms": 218134,
+      "name": "PRETTY GYAL",
+      "url": "https://open.spotify.com/track/4C2uLpeiOtQjDDC3XSsLvt"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Dark Horse",
+        "url": "https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8"
+      },
+      "artists": [
+        {
+          "name": "The Terrys",
+          "url": "https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS"
+        }
+      ],
+      "duration_ms": 129866,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/1w4atrX5zIvzAbZv5QFpV9"
+      },
+      "artists": [
+        {
+          "name": "Lady Shaka",
+          "url": "https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt"
         },
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "Rubi Du",
+          "url": "https://open.spotify.com/artist/3omcGuSFdQRpFptKW9iG1H"
         }
       ],
-      "duration_ms": 185399,
-      "name": "Overseas",
-      "url": "https://open.spotify.com/track/0X3qs1Yw4zu1Akchj45G8o"
+      "duration_ms": 224528,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5KnJl9TD19VQV6AIBVCyJy"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Head Bang",
-        "url": "https://open.spotify.com/album/48gPiuKnAIPgrzrq9fR6Z4"
+        "name": "Behaviour (feat. A.D.O.R.)",
+        "url": "https://open.spotify.com/album/1ieZsGSghohH5qrMlQVWP7"
       },
       "artists": [
         {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
-        }
-      ],
-      "duration_ms": 195919,
-      "name": "Head Bang",
-      "url": "https://open.spotify.com/track/5gMc7k4JeLOilc0h4UdEGT"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Overdue",
-        "url": "https://open.spotify.com/album/3GwMxrENpmgkEbxczNBZ85"
-      },
-      "artists": [
-        {
-          "name": "jayteehazard",
-          "url": "https://open.spotify.com/artist/7hAe5ugiq355U0YCNR4DiZ"
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
         },
         {
-          "name": "RISSA",
-          "url": "https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ"
+          "name": "A.D.O.R.",
+          "url": "https://open.spotify.com/artist/5dniQPRxD0LDjCqMI4rvrM"
         }
       ],
-      "duration_ms": 167750,
-      "name": "Overdue",
-      "url": "https://open.spotify.com/track/4Ldl9y6juKHRHH2zdhiaq0"
+      "duration_ms": 140625,
+      "name": "Behaviour (feat. A.D.O.R.)",
+      "url": "https://open.spotify.com/track/4GAVRZ9ABPQzvy0Nj4hGPy"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Steady Rockin'",
-        "url": "https://open.spotify.com/album/2ZP8deDTFKLVaIJodVBTid"
+        "name": "Bernard's Boogie",
+        "url": "https://open.spotify.com/album/5RRaRYGMzIKmxSzy4hLoT2"
       },
       "artists": [
         {
-          "name": "Three Houses Down",
-          "url": "https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv"
+          "name": "Donny Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN"
         }
       ],
-      "duration_ms": 191889,
-      "name": "Steady Rockin'",
-      "url": "https://open.spotify.com/track/6c5sh3yDJnnVWUZ1rFfPq3"
+      "duration_ms": 344116,
+      "name": "Bernard's Boogie",
+      "url": "https://open.spotify.com/track/51TMpQYzmqzJPrXru6McPT"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Iron (Expansion Pack)",
-        "url": "https://open.spotify.com/album/187tru6tNXdhJH7wAT5d2t"
+        "name": "Betterman",
+        "url": "https://open.spotify.com/album/4kAuXyxnQ6ESgJBxeLj9HV"
       },
       "artists": [
         {
-          "name": "Post Animal",
-          "url": "https://open.spotify.com/artist/4iaDWP59Z3e62DW7YWDbIE"
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
         }
       ],
-      "duration_ms": 249014,
-      "name": "Something Drive",
-      "url": "https://open.spotify.com/track/7FKjd4xCN6Im9tB7gqQz49"
+      "duration_ms": 206329,
+      "name": "Betterman",
+      "url": "https://open.spotify.com/track/1vZZqlp7KUorrbTrBGtPVo"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Shut Up!",
-        "url": "https://open.spotify.com/album/1gkPHhgc9K5E0VZ2KaVNgG"
+        "name": "KISSED",
+        "url": "https://open.spotify.com/album/2OX0MlIQj7UtQfW3DDPknI"
       },
       "artists": [
         {
-          "name": "AUGIS",
-          "url": "https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb"
+          "name": "Gordon's Grandson",
+          "url": "https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9"
+        }
+      ],
+      "duration_ms": 149184,
+      "name": "GREEN LIPS",
+      "url": "https://open.spotify.com/track/6SzEvq5ByhDSQe5aQelWvi"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Backstreets",
+        "url": "https://open.spotify.com/album/15SLKSZFLE7f2mMR84D1bK"
+      },
+      "artists": [
+        {
+          "name": "Miss Kaninna",
+          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
+        }
+      ],
+      "duration_ms": 211074,
+      "name": "Backstreets",
+      "url": "https://open.spotify.com/track/3XzGb1aeUv1lu0u1Bozknw"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Troy Kingi Presents: Night Lords",
+        "url": "https://open.spotify.com/album/3kRyDkJp74DG9T3hfarRw6"
+      },
+      "artists": [
+        {
+          "name": "Troy Kingi",
+          "url": "https://open.spotify.com/artist/5B3LZw3NTEg074irKeEAom"
         },
         {
-          "name": "BIG WETT",
-          "url": "https://open.spotify.com/artist/5EbB3qseTBegpJEACqHfHB"
+          "name": "MOKOMOKAI",
+          "url": "https://open.spotify.com/artist/6IyLCow3HLUYJJJ12P9WQd"
         }
       ],
-      "duration_ms": 197423,
-      "name": "Shut Up!",
-      "url": "https://open.spotify.com/track/4NmXB7JYOrTJqYTh3UQJFK"
+      "duration_ms": 210866,
+      "name": "Hori on a Hoiho",
+      "url": "https://open.spotify.com/track/5pUugwAJtc8FVv8mGPqjgj"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/65WlmRLstNjDhsvYvrvpl6"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "TAKTiX",
-          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+          "name": "Chris Lanzon",
+          "url": "https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS"
         }
       ],
-      "duration_ms": 178144,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6HVvCFU4ibH3bvfcgrL7dx"
+      "duration_ms": 284044,
+      "name": "Dinner Party",
+      "url": "https://open.spotify.com/track/0JcHZURRa95cCgzqAKwPgw"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "KELLY",
-        "url": "https://open.spotify.com/album/0CA6dEScbqTQd2k2pNyLSp"
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "Sara Berki",
+          "url": "https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd"
         }
       ],
-      "duration_ms": 195689,
-      "name": "LOSE YOUR HEAD",
-      "url": "https://open.spotify.com/track/3iWarmifsPD56ys6TBuN9N"
+      "duration_ms": 176250,
+      "name": "Outrun",
+      "url": "https://open.spotify.com/track/2kinzdcjotbBzwP64wrjwI"
     },
     {
-      "added_at": "2025-11-20 13:00:15",
+      "added_at": "2025-11-27 13:00:15",
       "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/1zPPuZfjhnF044B0eqbYFD"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0PKaRb5LXHHEzexPoTAIC2"
       },
       "artists": [
         {
-          "name": "Inkabee",
-          "url": "https://open.spotify.com/artist/09cUVzX7itryGp6zaJjmiX"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/4Yy3X6vFhmX6F58wtzvJgW"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "So Much For Second Chances",
-        "url": "https://open.spotify.com/album/7jhn6VFqUruhHEU8Ny7vE0"
-      },
-      "artists": [
-        {
-          "name": "SoSo",
-          "url": "https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Let it be.",
-      "url": "https://open.spotify.com/track/2gc7rdtMLqXcUzoT5JIcQ6"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/47Ej3YAV40mRK7LFS76iFH"
-      },
-      "artists": [
-        {
-          "name": "Arjuna Oakes",
-          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/0O343Jy6qgeeZUmxIriCCF"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Big Modern",
-        "url": "https://open.spotify.com/album/07Grit2srI4QYHsXbE0zIX"
-      },
-      "artists": [
-        {
-          "name": "Big Modern",
-          "url": "https://open.spotify.com/artist/6YqLPGpAOXTBVndsTaQXxp"
-        }
-      ],
-      "duration_ms": 66360,
-      "name": "Gatekeep",
-      "url": "https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/2rLeUHpwWMWgqh8tlTPjB0"
-      },
-      "artists": [
-        {
-          "name": "Bryson Hill",
-          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
-        }
-      ],
-      "duration_ms": 205781,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/7yNIHEX3xbHutNTxnVkavL"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/1vUCa3GlNBnCeQ0zDESShp"
-      },
-      "artists": [
-        {
-          "name": "jimmyallnite",
-          "url": "https://open.spotify.com/artist/02XL9u0jm3DXQ2cStkjV4M"
-        }
-      ],
-      "duration_ms": 238571,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/5XYhBbrb5InBqeWNOldj9v"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Unapologetic",
-        "url": "https://open.spotify.com/album/65HwKxgRkQhhfZ45h2IDsz"
-      },
-      "artists": [
-        {
-          "name": "Josh Setterfield",
-          "url": "https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u"
-        }
-      ],
-      "duration_ms": 189259,
-      "name": "Unapologetic",
-      "url": "https://open.spotify.com/track/3vjwV75w8uaS0SKc8E0Xb1"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "UH HUH!",
-        "url": "https://open.spotify.com/album/2BUEV2pIjISYKyPbLTiUCd"
-      },
-      "artists": [
-        {
-          "name": "AMARNI",
-          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
-        }
-      ],
-      "duration_ms": 152694,
-      "name": "UH HUH!",
-      "url": "https://open.spotify.com/track/7BEfgRKgGxXZWo3Fx7idIX"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Everything You Gave Me",
-        "url": "https://open.spotify.com/album/2lyOXcBQzfQ7KyqgJP0Y2J"
-      },
-      "artists": [
-        {
-          "name": "Sunscreen",
-          "url": "https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F"
-        }
-      ],
-      "duration_ms": 187903,
-      "name": "Heating Up",
-      "url": "https://open.spotify.com/track/3q0Lsq7In9pv7Yds2JcH81"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Houston",
-        "url": "https://open.spotify.com/album/27ny3uUXDMhRBx2uMr02hH"
-      },
-      "artists": [
-        {
-          "name": "Lucky",
-          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
-        }
-      ],
-      "duration_ms": 168818,
-      "name": "Houston",
-      "url": "https://open.spotify.com/track/0caKZQcpTAalVAlJguSIn5"
-    },
-    {
-      "added_at": "2025-11-20 13:00:15",
-      "album": {
-        "name": "Moisturise & Decolonise",
-        "url": "https://open.spotify.com/album/76cke2V2wrYDBaEjbLTk1o"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh"
+          "name": "LMNT 115",
+          "url": "https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu"
         },
         {
-          "name": "Swizl Jager",
-          "url": "https://open.spotify.com/artist/0SN65FsSX7cxoHvh4ImcDn"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Moisturise & Decolonise",
-      "url": "https://open.spotify.com/track/4HEm30jyZjWQSbxFQlMYwf"
+      "duration_ms": 207000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7faqSCbULashpPcq3Mln4P"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "CRASH OUT",
+      "url": "https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Ride The Rhythm",
+        "url": "https://open.spotify.com/album/2Oa3jdOW49zhvR2Td8U1in"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        },
+        {
+          "name": "William Kiss",
+          "url": "https://open.spotify.com/artist/2AI2RMWWeOAhkMhrQgxyNx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Ride The Rythm",
+      "url": "https://open.spotify.com/track/1YegcBgdwE2zkWGP8IMJVT"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/1UN5gObNd0xJZabF2BKHmE"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Rule 31",
+        "url": "https://open.spotify.com/album/2SMWUV7fij4YwtmQqYiJjx"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 254753,
+      "name": "Rule 31",
+      "url": "https://open.spotify.com/track/7pAfFtGxND5IaeRzOuPHcJ"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Kiss and Run",
+        "url": "https://open.spotify.com/album/3akASDLvNPFrUd5qwFr93R"
+      },
+      "artists": [
+        {
+          "name": "Evie Irie",
+          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+        }
+      ],
+      "duration_ms": 201386,
+      "name": "Kiss and Run",
+      "url": "https://open.spotify.com/track/1NS2zRwRP3mi9VWIG66bJM"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7vulueHhGo64AVnt88kcxd"
+      },
+      "artists": [
+        {
+          "name": "Jason Dhakal",
+          "url": "https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp"
+        },
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "duration_ms": 173611,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6NT8Sa3jev1C3Xm33VDcJF"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Spaceman",
+        "url": "https://open.spotify.com/album/7DxlsjOhJ1e4rAufEC7jue"
+      },
+      "artists": [
+        {
+          "name": "Sam Alfred",
+          "url": "https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR"
+        }
+      ],
+      "duration_ms": 197697,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/79yhXYDZ8RE0AyXxDvgSwU"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Shot Caller",
+        "url": "https://open.spotify.com/album/7p8iWzdtG32lZuqMdwc31G"
+      },
+      "artists": [
+        {
+          "name": "Nafe Smallz",
+          "url": "https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0"
+        }
+      ],
+      "duration_ms": 148087,
+      "name": "Shot Caller",
+      "url": "https://open.spotify.com/track/4i15z1pvFVNuaMEQQFBTDm"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/4KrJPKfGyTHutJaRTT3b9i"
+      },
+      "artists": [
+        {
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
+        }
+      ],
+      "duration_ms": 253368,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/2YlIsOSE5FeKprNOqh8ZHM"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "My Broken Spine",
+        "url": "https://open.spotify.com/album/2VPNutgCHosAhbLoCuinqD"
+      },
+      "artists": [
+        {
+          "name": "Gyroscope",
+          "url": "https://open.spotify.com/artist/384DhgGNBZ91pyVJF61u18"
+        }
+      ],
+      "duration_ms": 210261,
+      "name": "My Broken Spine",
+      "url": "https://open.spotify.com/track/5UHEdOMcaKy0GAbLdkbF6J"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 169638,
+      "name": "Basic Instinct",
+      "url": "https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "T.B.C",
+        "url": "https://open.spotify.com/album/3YarlQeJ1TUb0Zdu76bOJV"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "duration_ms": 223585,
+      "name": "Passion (feat. BIG30)",
+      "url": "https://open.spotify.com/track/0GnBxRkTOMVe7FsRzReEzf"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Little House",
+      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "rosemary",
+        "url": "https://open.spotify.com/album/7hoTie5haMGFgvJ0MyNGh5"
+      },
+      "artists": [
+        {
+          "name": "annie hamilton",
+          "url": "https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "rosemary",
+      "url": "https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "made it out",
+        "url": "https://open.spotify.com/album/4GKHxwU0R2O4xw8M90oIiu"
+      },
+      "artists": [
+        {
+          "name": "Jet Walker",
+          "url": "https://open.spotify.com/artist/4warK7747ZZIvygZIzEVN7"
+        }
+      ],
+      "duration_ms": 221877,
+      "name": "made it out",
+      "url": "https://open.spotify.com/track/6Yo9LnehLL5Bik5G0UVjjR"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Nights Like This",
+        "url": "https://open.spotify.com/album/2utoJLRx2rzYOmoYjXf8fi"
+      },
+      "artists": [
+        {
+          "name": "Youngn Lipz",
+          "url": "https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV"
+        }
+      ],
+      "duration_ms": 129924,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/21bkT5EFIpmYajZKygqbya"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "GRUBS",
+        "url": "https://open.spotify.com/album/578i985lYDQvCauJN8hTUg"
+      },
+      "artists": [
+        {
+          "name": "Kaila",
+          "url": "https://open.spotify.com/artist/6DlHoO5AWaPN0sLDws9Fyo"
+        }
+      ],
+      "duration_ms": 213004,
+      "name": "PEARL",
+      "url": "https://open.spotify.com/track/77nf29DhcupLBv6aHUaIVU"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Keyring",
+        "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
+      },
+      "artists": [
+        {
+          "name": "CODY JON",
+          "url": "https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD"
+        }
+      ],
+      "duration_ms": 198155,
+      "name": "Keyring",
+      "url": "https://open.spotify.com/track/0IY5BUE8RQCpMKN6712qwY"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "BLISS-N-OUT",
+        "url": "https://open.spotify.com/album/4InXnAxFrODMiELdVgvxrn"
+      },
+      "artists": [
+        {
+          "name": "Adrian Eagle",
+          "url": "https://open.spotify.com/artist/3GC3e3b4g7rHeLdLUsxJZV"
+        }
+      ],
+      "duration_ms": 396000,
+      "name": "BLISS-N-OUT",
+      "url": "https://open.spotify.com/track/7uwR2fWoyi7J7ZDDlsTII4"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Pur\u00e9e",
+          "url": "https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa"
+        }
+      ],
+      "duration_ms": 203547,
+      "name": "A4",
+      "url": "https://open.spotify.com/track/7iD5D3ocuy6ndBUW06eLzJ"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Look Twice",
+        "url": "https://open.spotify.com/album/6fiIZ413jf8EGbG4428XRG"
+      },
+      "artists": [
+        {
+          "name": "byjaye",
+          "url": "https://open.spotify.com/artist/2lAY2uQZNhOkCfPtj76Aoy"
+        }
+      ],
+      "duration_ms": 187007,
+      "name": "Look Twice",
+      "url": "https://open.spotify.com/track/27BoofRU9R5S4r1OQpBV7U"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Damzz",
+          "url": "https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "Silent Approach",
+      "url": "https://open.spotify.com/track/4m50P9Q09O5W5ngsGVqf4B"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "We Left The Lights On",
+        "url": "https://open.spotify.com/album/0bkvVbTPkQEPnx9M8az7uZ"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        },
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "We Left The Lights On",
+      "url": "https://open.spotify.com/track/1hllcD1pLPkAog4Q33q8fo"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Sofia's bestfriend",
+        "url": "https://open.spotify.com/album/494l6gFSrZCgaaVxPSo8YP"
+      },
+      "artists": [
+        {
+          "name": "Nafeesisboujee",
+          "url": "https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "duration_ms": 136041,
+      "name": "Sofia's bestfriend",
+      "url": "https://open.spotify.com/track/7m8BGToukbL76htSIoHvnB"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "The Man Comes Around",
+        "url": "https://open.spotify.com/album/3Dnjc7dbVYRoqy16L5yoE7"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 337342,
+      "name": "The Man Comes Around",
+      "url": "https://open.spotify.com/track/7gQtvYYJwLLypRFXJFx5KK"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/0lXpZTjbE0baebjDbnWybq"
+      },
+      "artists": [
+        {
+          "name": "Seb Szabo",
+          "url": "https://open.spotify.com/artist/2Fo3rEzOXtPFjkvs0LyeoT"
+        },
+        {
+          "name": "Joan & the Giants",
+          "url": "https://open.spotify.com/artist/3qO9p8T3FpAu5OhHV5P0G4"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4BuO1GyW43Z2XBTzzA7RNo"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Growing Up Is Hard To Do",
+        "url": "https://open.spotify.com/album/2JWPv45dJmhFXP0VreEpSg"
+      },
+      "artists": [
+        {
+          "name": "Ella Hooper",
+          "url": "https://open.spotify.com/artist/0Fkkpc8GhsqoaSNoWC8XWc"
+        }
+      ],
+      "duration_ms": 193944,
+      "name": "Growing Up Is Hard To Do",
+      "url": "https://open.spotify.com/track/4EL3JjXDyTIr9nDuTDaQmb"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "NY GOATS",
+        "url": "https://open.spotify.com/album/6HWCy0UcjqunmbY4iiQKgY"
+      },
+      "artists": [
+        {
+          "name": "M.O.P.",
+          "url": "https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g"
+        },
+        {
+          "name": "Meeco",
+          "url": "https://open.spotify.com/artist/6n5aqrtqKxRHEdap5f4vgQ"
+        },
+        {
+          "name": "DJ Access",
+          "url": "https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T"
+        }
+      ],
+      "duration_ms": 178399,
+      "name": "NY GOATS",
+      "url": "https://open.spotify.com/track/1KpG74MA4a6hivcPetNaVK"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "grow grow grow",
+        "url": "https://open.spotify.com/album/6NDspPoaZ98hOKEXY16YdK"
+      },
+      "artists": [
+        {
+          "name": "PA777IENCE",
+          "url": "https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t"
+        }
+      ],
+      "duration_ms": 284672,
+      "name": "grow grow grow",
+      "url": "https://open.spotify.com/track/0dTb3EQIYiHFVQNDaKkgxF"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/5rSuWBaKPh27nU0eHIh5QE"
+      },
+      "artists": [
+        {
+          "name": "HEAVY CHEST",
+          "url": "https://open.spotify.com/artist/57fgfg6PTbTqtPegX6rXV5"
+        }
+      ],
+      "duration_ms": 153096,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/5x9GSIy0CF2z4rpdyX0LRm"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "EUROCLUB",
+          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "THINKING ABOUT YOU",
+      "url": "https://open.spotify.com/track/5L8sLMsxXNwj8DbamUjs7c"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Take It All",
+        "url": "https://open.spotify.com/album/4RTRjHA4AMlGA841eZ25wc"
+      },
+      "artists": [
+        {
+          "name": "Beth and Blue",
+          "url": "https://open.spotify.com/artist/5GuxrCuMK60uFW7wwFokmC"
+        }
+      ],
+      "duration_ms": 232861,
+      "name": "A Song About Defeat",
+      "url": "https://open.spotify.com/track/59CD4rdQP5t3KYDy57bnWY"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/5jHileGNK4STVnxI7AaCD8"
+      },
+      "artists": [
+        {
+          "name": "Noble",
+          "url": "https://open.spotify.com/artist/007MRB1x9rAofj9AVhAqbO"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/7oV1u72fWvvPLIKPwcyHD6"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "as you are",
+        "url": "https://open.spotify.com/album/2EtIYsBOJjIci94rv9ORym"
+      },
+      "artists": [
+        {
+          "name": "jnr.",
+          "url": "https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj"
+        }
+      ],
+      "duration_ms": 180209,
+      "name": "as you are",
+      "url": "https://open.spotify.com/track/6dX0pWZ58EQTpt1bkQqJpd"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "sheba",
+        "url": "https://open.spotify.com/album/2HwMtRK3uDJathKvSQ449c"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "sheba",
+      "url": "https://open.spotify.com/track/5mIFcP4S4z5igxO4fFRxXW"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Drive By",
+        "url": "https://open.spotify.com/album/328Cp2NIHFsiKQbaj3wr0E"
+      },
+      "artists": [
+        {
+          "name": "Djammin",
+          "url": "https://open.spotify.com/artist/4jilFXy7RGLxKG6C1oju57"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 150461,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/5GDJLHTiJKqTqLqowVmtU4"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "duration_ms": 215512,
+      "name": "CRTX/VRTX",
+      "url": "https://open.spotify.com/track/4MrUkGfYHtxwZlcSqCiw8X"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Silent War",
+        "url": "https://open.spotify.com/album/3pIyEjKUoytocadT9yQbAZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Silent War",
+      "url": "https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "LIVE",
+        "url": "https://open.spotify.com/album/1bn81VSEu4XDoRKQpCmn8V"
+      },
+      "artists": [
+        {
+          "name": "DRIZZZ",
+          "url": "https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0"
+        },
+        {
+          "name": "Jorda",
+          "url": "https://open.spotify.com/artist/2c69Dm8j44qEfglHXq3oKU"
+        }
+      ],
+      "duration_ms": 142804,
+      "name": "LIVE",
+      "url": "https://open.spotify.com/track/0VhlhAx4wESQ71nApYHK2M"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/7pqaYrRIKbZtbk7oJWFFUf"
+      },
+      "artists": [
+        {
+          "name": "MAD DAY",
+          "url": "https://open.spotify.com/artist/7JG77CHphAY01w2lKrvrTM"
+        }
+      ],
+      "duration_ms": 171555,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/6fbFaegQxrCs5uPSXbBcK1"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/4nNPebTTolEsaAsMe6VWAZ"
+      },
+      "artists": [
+        {
+          "name": "Mid Drift",
+          "url": "https://open.spotify.com/artist/6D1ONv6dkTpWhFK4Sfsf8F"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/4xVhMGM0dzVVUzaiTbsuC9"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "WITHOUT LOVE",
+        "url": "https://open.spotify.com/album/3MqyJtBfThW2g17eT2CB5m"
+      },
+      "artists": [
+        {
+          "name": "Stevan",
+          "url": "https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6"
+        }
+      ],
+      "duration_ms": 113120,
+      "name": "WITHOUT LOVE",
+      "url": "https://open.spotify.com/track/4DIZ6guqmEnFaboDPaYPfu"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "RAUNCH.",
+        "url": "https://open.spotify.com/album/5Q2AW792nHT8XsdmLmAhIo"
+      },
+      "artists": [
+        {
+          "name": "REDD.",
+          "url": "https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "I'M ON ONE.",
+      "url": "https://open.spotify.com/track/6RBBD9e48D4V5eS0As8wMx"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "chorus",
+        "url": "https://open.spotify.com/album/69yFBaotVjgLznWZaF44An"
+      },
+      "artists": [
+        {
+          "name": "Maple's Pet Dinosaur",
+          "url": "https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "chorus",
+      "url": "https://open.spotify.com/track/3RJhh1GLykN0BlM2OkmoF7"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "nonchalant",
+        "url": "https://open.spotify.com/album/4gbMODZxzT9NjFCt7nUg0a"
+      },
+      "artists": [
+        {
+          "name": "Jai Waetford",
+          "url": "https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "nonchalant",
+      "url": "https://open.spotify.com/track/5osCRu1LK5KgKNUls3c0mB"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew"
+      },
+      "artists": [
+        {
+          "name": "Local the Neighbour",
+          "url": "https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK"
+    },
+    {
+      "added_at": "2025-11-27 13:00:15",
+      "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/58brpO8JC7EfTE8WsRWwll"
+      },
+      "artists": [
+        {
+          "name": "Squid the Kid",
+          "url": "https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/1upj0VnntRFbNirqCYMQu2"
     }
   ],
   "unique_name": "New Music Friday AU & NZ",

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22372,
+  "num_followers": 22387,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Intens\u00e3o",
-        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
-      },
-      "artists": [
-        {
-          "name": "Afrodite Bxd",
-          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 210526,
-      "name": "Intens\u00e3o",
-      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
-    },
-    {
-      "added_at": "2025-11-14 03:03:04",
-      "album": {
         "name": "Te Amo",
         "url": "https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 176647,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P"
+    },
+    {
+      "added_at": "2025-11-14 03:03:04",
+      "album": {
+        "name": "Intens\u00e3o",
+        "url": "https://open.spotify.com/album/6i5hLAkU4fjwNFihYAtmqm"
+      },
+      "artists": [
+        {
+          "name": "Afrodite Bxd",
+          "url": "https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 210526,
+      "name": "Intens\u00e3o",
+      "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -1067,26 +1067,22 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "BIG BIG",
-        "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
       "artists": [
         {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Mya Akoma",
-          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 182500,
-      "name": "BIG BIG",
-      "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-11-14 03:03:04",
@@ -1135,22 +1131,26 @@
     {
       "added_at": "2025-11-14 03:03:04",
       "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+        "name": "BIG BIG",
+        "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
         },
         {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+          "name": "Mya Akoma",
+          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         }
       ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+      "duration_ms": 182500,
+      "name": "BIG BIG",
+      "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
     },
     {
       "added_at": "2025-11-14 03:03:04",

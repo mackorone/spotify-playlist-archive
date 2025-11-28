@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 405052,
+  "num_followers": 405032,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
+        "name": "Change the Game",
+        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
+      },
+      "artists": [
+        {
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+        }
+      ],
+      "duration_ms": 208901,
+      "name": "Change The Game",
+      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
+    },
+    {
+      "added_at": "2025-11-15 05:00:20",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 228557,
       "name": "Like She Does",
       "url": "https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd"
-    },
-    {
-      "added_at": "2025-11-15 05:00:20",
-      "album": {
-        "name": "Change the Game",
-        "url": "https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 208901,
-      "name": "Change The Game",
-      "url": "https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc"
     },
     {
       "added_at": "2025-11-15 05:00:20",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2025-11-15 05:00:20",
@@ -1215,18 +1211,22 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2025-11-15 05:00:20",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
-        "name": "A Few Years Back",
-        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
-      },
-      "artists": [
-        {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "A Few Years Back",
-      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
-    },
-    {
-      "added_at": "2025-11-15 05:00:20",
-      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1635,18 +1619,34 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
-        "name": "Broke Umbrella",
-        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
+        "name": "A Few Years Back",
+        "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
       },
       "artists": [
         {
-          "name": "Cameron Sacky Band",
-          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 245589,
-      "name": "Broke Umbrella",
-      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
+      "duration_ms": 220474,
+      "name": "A Few Years Back",
+      "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+    },
+    {
+      "added_at": "2025-11-15 05:00:20",
+      "album": {
+        "name": "Flyin",
+        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Nothin But Texas",
+      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2025-11-15 05:00:20",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2025-11-15 05:00:20",
       "album": {
+        "name": "Broke Umbrella",
+        "url": "https://open.spotify.com/album/6zCrDjTnw73WVSCmpkrCoO"
+      },
+      "artists": [
+        {
+          "name": "Cameron Sacky Band",
+          "url": "https://open.spotify.com/artist/7cuhHElVWaF67zEb1cGIG0"
+        }
+      ],
+      "duration_ms": 245589,
+      "name": "Broke Umbrella",
+      "url": "https://open.spotify.com/track/4GY7J4ecSUU3wkyIU5GZbs"
+    },
+    {
+      "added_at": "2025-11-15 05:00:20",
+      "album": {
         "name": "Your Kinda Guy",
         "url": "https://open.spotify.com/album/2u0yPFMd8n3qlIupYUPNun"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 197754,
       "name": "Your Kinda Guy",
       "url": "https://open.spotify.com/track/1kHcWTgsMNwduZzS8K8RTt"
-    },
-    {
-      "added_at": "2025-11-15 05:00:20",
-      "album": {
-        "name": "Flyin",
-        "url": "https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Nothin But Texas",
-      "url": "https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG"
     },
     {
       "added_at": "2025-11-15 05:00:20",

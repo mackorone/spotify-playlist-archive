@@ -4,7 +4,7 @@
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-62 songs - 3 hr 45 min
+64 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Caminhos do Destino](https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:00 | 2023-09-18 |  |
 | [Carta Pra Amy](https://open.spotify.com/track/2fOzeW265HQxThDOrA66Mc) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 4:22 | 2023-09-18 | 2025-11-26 |
 | [Carta Pra Amy](https://open.spotify.com/track/6zrAWJ9BF9pAkd1IjjCtSh) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 4:22 | 2025-11-26 |  |
-| [Chuck Berry](https://open.spotify.com/track/23fd5EB9vHXNxDQQxikpEF) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Chuck Berry](https://open.spotify.com/album/08ZkA9tW2y30l2WVJjxHpu) | 2:50 | 2023-09-18 |  |
+| [Chuck Berry](https://open.spotify.com/track/14wonkYOgDaYgDZGuGIUAn) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Chuck Berry](https://open.spotify.com/album/0mbqNbJKX0e942BUstZEXs) | 2:50 | 2025-11-28 |  |
+| [Chuck Berry](https://open.spotify.com/track/23fd5EB9vHXNxDQQxikpEF) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Chuck Berry](https://open.spotify.com/album/08ZkA9tW2y30l2WVJjxHpu) | 2:50 | 2023-09-18 | 2025-11-28 |
 | [Como Eu Te Quero](https://open.spotify.com/track/5JX81dHdlOVfTXim2itZKw) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:30 | 2023-09-18 |  |
 | [Como Eu Te Quero \- Remix](https://open.spotify.com/track/028kyZPJ1bWNSDrtmj6CWM) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Como Eu Te Quero \(Remix\)](https://open.spotify.com/album/202XFQhcWaClPP1PbwDb5y) | 3:10 | 2023-09-18 |  |
 | [CONTEXTO \- Ao Vivo](https://open.spotify.com/track/6tV1Y71b01jjIFpXhnvmUE) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 4:05 | 2024-11-09 |  |
@@ -45,7 +46,8 @@
 | [Papaia](https://open.spotify.com/track/4k5u1ja0I1T0d2jzcVN17x) | [Hot e Oreia](https://open.spotify.com/artist/2sxBXOW6WrpuO6rXZ3kHtE), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Hot](https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A) | [Crianças Selvagens](https://open.spotify.com/album/1AY1gFOjPTPJ3jXhpEgKe1) | 3:55 | 2025-02-26 |  |
 | [Papo Reto](https://open.spotify.com/track/7pTzeVZeSIRANp2ajcbvYG) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Daniel Yoruba](https://open.spotify.com/artist/3U7bRKXDeu2IONs3BPtJeX), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Coisas do Meu Imaginário](https://open.spotify.com/album/7GflQRs2UHd9J5aDAx2ntx) | 3:35 | 2025-04-01 | 2025-04-04 |
 | [Perícia Na Delícia](https://open.spotify.com/track/1ToSJIoW4JyI6qHrurcNQP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon By Gus Vol\. 1 \- o Ano do Macaco](https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH) | 3:41 | 2025-11-24 |  |
-| [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 | 2023-09-18 |  |
+| [Pique Peaky Blinders](https://open.spotify.com/track/3PbWQTnOxpbZCyGjZuWUhk) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/5PYCa2wn42rxBgKKdg8HhD) | 3:05 | 2023-09-18 | 2025-11-28 |
+| [Pique Peaky Blinders](https://open.spotify.com/track/4xYsv5qcjZ1uJga9n20QSn) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Pique Peaky Blinders](https://open.spotify.com/album/7lVZtOG3hxfh408sFeSO6x) | 3:05 | 2025-11-28 |  |
 | [Que Nem o Meu Cachorro](https://open.spotify.com/track/6EHOyqVSyd8JRmQniT721T) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 3:31 | 2023-09-18 | 2025-11-27 |
 | [Que Nem o Meu Cachorro](https://open.spotify.com/track/6q6H1hnPigK21jsTvPbAKU) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 3:31 | 2025-11-27 |  |
 | [QUEIMANDO TUDO \- Ao Vivo](https://open.spotify.com/track/4PJ8X3IJx0DmBT5soPDI6a) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [BASEADO EM FATOS REAIS: 30 ANOS DE FUMAÇA \(Ao Vivo\)](https://open.spotify.com/album/7MFlfX1nH78XBjiSnHcTew) | 2:55 | 2024-11-09 |  |

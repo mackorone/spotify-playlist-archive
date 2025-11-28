@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: DellaXOZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,295,393 likes - 170 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,295,319 likes - 170 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": " kpop com molho br / foto: Pabllo Vittar, NMIXX",
-  "num_followers": 594568,
+  "num_followers": 594530,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-08-22 03:00:13",
       "album": {
+        "name": "Ground",
+        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Ground",
+      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+    },
+    {
+      "added_at": "2025-08-22 03:00:13",
+      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 253057,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
-    },
-    {
-      "added_at": "2025-08-22 03:00:13",
-      "album": {
-        "name": "Ground",
-        "url": "https://open.spotify.com/album/44kxeIVSEqnpZKnPHb2Lhw"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Ground",
-      "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
     },
     {
       "added_at": "2025-08-22 03:00:13",

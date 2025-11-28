@@ -1,12 +1,12 @@
 {
   "description": "This is kessoku band. The essential tracks, all in one playlist.",
-  "num_followers": 34754,
+  "num_followers": 34761,
   "original_name": "This Is kessoku band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAABYjPwcFgc5EXRtk5JaI+fl",
+  "snapshot_id": "aSZDAAAAAAAAzVGZpHEC959FqJbfcWrz",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
-        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
-      "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6708\u4e26\u307f\u306b\u8f1d\u3051 / \u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
         "url": "https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 258906,
       "name": "\u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
       "url": "https://open.spotify.com/track/0xA23rORcjZCUn6HMM0DMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc / Re:Re:",
+        "url": "https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "\u30c9\u30c3\u30da\u30eb\u30b2\u30f3\u30ac\u30fc",
+      "url": "https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2"
     },
     {
       "added_at": null,
@@ -404,38 +404,6 @@
           "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
         }
       ],
-      "duration_ms": 273320,
-      "name": "\u30ab\u30e9\u30ab\u30e9 -We will B- Live ver.",
-      "url": "https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u7d50\u675f\u30d0\u30f3\u30c9LIVE-\u6052\u661f- at Zepp Haneda\uff08TOKYO\uff09",
-        "url": "https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
-      "duration_ms": 274184,
-      "name": "\u30ab\u30e9\u30ab\u30e9 -\u6052\u661f- Live ver.",
-      "url": "https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u7d50\u675f\u30d0\u30f3\u30c9 TOUR \u201cWe will B\u201d",
-        "url": "https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR"
-      },
-      "artists": [
-        {
-          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
-          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
-        }
-      ],
       "duration_ms": 274053,
       "name": "\u661f\u5ea7\u306b\u306a\u308c\u305f\u3089 -We will B- Live ver.",
       "url": "https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx"
@@ -455,6 +423,38 @@
       "duration_ms": 283626,
       "name": "\u5fd8\u308c\u3066\u3084\u3089\u306a\u3044 -\u6052\u661f- Live ver.",
       "url": "https://open.spotify.com/track/5kSQT3kthSFcU7ewqYN43D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9 TOUR \u201cWe will B\u201d",
+        "url": "https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 273320,
+      "name": "\u30ab\u30e9\u30ab\u30e9 -We will B- Live ver.",
+      "url": "https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u7d50\u675f\u30d0\u30f3\u30c9LIVE-\u6052\u661f- at Zepp Haneda\uff08TOKYO\uff09",
+        "url": "https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE"
+      },
+      "artists": [
+        {
+          "name": "\u7d50\u675f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD"
+        }
+      ],
+      "duration_ms": 274184,
+      "name": "\u30ab\u30e9\u30ab\u30e9 -\u6052\u661f- Live ver.",
+      "url": "https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD"
     },
     {
       "added_at": null,

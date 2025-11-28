@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Dato' Sri Siti Nurhaliza, Ade Govinda
+> The best tracks from the world of music\. Cover: Afgan
 
 448 songs - 1 day 1 hr 30 min
 

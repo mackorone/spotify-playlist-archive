@@ -1,12 +1,12 @@
 {
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Hamza Malik,  Anumpta Sabri",
-  "num_followers": 15381,
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Zafar & Ali Haider",
+  "num_followers": 15389,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABoKeMRST8JKBNcWrORVtKdX7/g7",
+  "snapshot_id": "AAAAAKKg4DsP8ugpWmnYn7Xw5vhDraOx",
   "tracks": [
     {
       "added_at": "2025-11-24 07:31:23",
@@ -137,6 +137,22 @@
       "url": "https://open.spotify.com/track/6GfV8hDW1zx9QgCpxRza8Q"
     },
     {
+      "added_at": "2025-11-27 15:22:02",
+      "album": {
+        "name": "Asim Ali",
+        "url": "https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Asim Ali",
+      "url": "https://open.spotify.com/track/6T7PpWbGFxy092blOmTlMd"
+    },
+    {
       "added_at": "2025-11-24 07:31:23",
       "album": {
         "name": "Delusion",
@@ -171,6 +187,26 @@
       "duration_ms": 191194,
       "name": "AKHIYAN",
       "url": "https://open.spotify.com/track/7qLPJNYDRrPPC7ksctRldu"
+    },
+    {
+      "added_at": "2025-11-24 07:31:23",
+      "album": {
+        "name": "Laut Aaye",
+        "url": "https://open.spotify.com/album/3UYNsrnQGbzg3pD16AwlMk"
+      },
+      "artists": [
+        {
+          "name": "Nazia Zuberi Hassan",
+          "url": "https://open.spotify.com/artist/2PIlFo5GY1SrkMWAqK6JpS"
+        },
+        {
+          "name": "Alex Shahbaz",
+          "url": "https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Laut Aaye",
+      "url": "https://open.spotify.com/track/3udWmeycfb1VRuXhT4xKWj"
     },
     {
       "added_at": "2025-11-24 07:31:23",
@@ -987,74 +1023,6 @@
       "duration_ms": 138788,
       "name": "Supreme Mode",
       "url": "https://open.spotify.com/track/6dAdThAhyvjGetAW8v8Ztu"
-    },
-    {
-      "added_at": "2025-11-24 07:31:23",
-      "album": {
-        "name": "Taray",
-        "url": "https://open.spotify.com/album/15lRPoY6UJwWBdWase9Nyn"
-      },
-      "artists": [
-        {
-          "name": "Saad Hassan",
-          "url": "https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "Taray",
-      "url": "https://open.spotify.com/track/7gO3kiAPcAf2HphgKcfxkb"
-    },
-    {
-      "added_at": "2025-11-24 07:31:23",
-      "album": {
-        "name": "You Don't Know",
-        "url": "https://open.spotify.com/album/3ip5XSRYPQlgUXGhDqeN7u"
-      },
-      "artists": [
-        {
-          "name": "Mr. A.R",
-          "url": "https://open.spotify.com/artist/6wXNqWzEKbikOSA7FDUfPw"
-        }
-      ],
-      "duration_ms": 191162,
-      "name": "You Don't Know",
-      "url": "https://open.spotify.com/track/4NZ3Aw33ORlIb9074e8ME9"
-    },
-    {
-      "added_at": "2025-11-24 07:31:23",
-      "album": {
-        "name": "Jaun Mein Kahan",
-        "url": "https://open.spotify.com/album/3SCMYI0YTENh6MX9gys4Dt"
-      },
-      "artists": [
-        {
-          "name": "Kashmir",
-          "url": "https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt"
-        }
-      ],
-      "duration_ms": 213781,
-      "name": "Jaun Mein Kahan",
-      "url": "https://open.spotify.com/track/4f6e4B1wx9ZOiDjYcpS0zr"
-    },
-    {
-      "added_at": "2025-11-24 07:31:23",
-      "album": {
-        "name": "Mohobbat Karne Wale",
-        "url": "https://open.spotify.com/album/21LY0yLNrj01MXNjek0svA"
-      },
-      "artists": [
-        {
-          "name": "NAYEL",
-          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
-        },
-        {
-          "name": "Shahrukh",
-          "url": "https://open.spotify.com/artist/02yAoSmsqYASF4Wb45bRlJ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Mixed Signals",
-      "url": "https://open.spotify.com/track/2KIvVYYEQm49fZo6Td7yBM"
     }
   ],
   "unique_name": "New Pakistani Pop",

@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 199037,
+  "num_followers": 199062,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSTxgAAAAACLzZMySTDWmfC8RSFiBND1",
+  "snapshot_id": "aSZDAAAAAABqjCa3lS8KZHNU3YfF8Kg+",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 297226,
-      "name": "This Must Be the Place (Naive Melody) - Live",
-      "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 332093,
       "name": "(Nothing But) Flowers - 2005 Remaster",
       "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 297226,
+      "name": "This Must Be the Place (Naive Melody) - Live",
+      "url": "https://open.spotify.com/track/0cAPfvvqFZsqsIz3ZDSKIa"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Uh-Oh, Love Comes to Town",
-      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
+      "duration_ms": 273200,
+      "name": "Houses in Motion - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 273200,
-      "name": "Houses in Motion - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
+      "duration_ms": 169160,
+      "name": "Uh-Oh, Love Comes to Town",
+      "url": "https://open.spotify.com/track/06JKOTOoHXuuKkiSBDdU6n"
     },
     {
       "added_at": null,
@@ -439,6 +439,38 @@
       "duration_ms": 129800,
       "name": "Thank You for Sending Me an Angel - Live",
       "url": "https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 387560,
+      "name": "The Great Curve - 2005 Remaster",
+      "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "Making Flippy Floppy - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
     },
     {
       "added_at": null,
@@ -463,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
@@ -472,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 354213,
-      "name": "Making Flippy Floppy - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2OsuNPRc9qt34UOatyrAlZ"
+      "duration_ms": 195373,
+      "name": "Found a Job - Live",
+      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
     },
     {
       "added_at": null,
@@ -488,25 +520,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 387560,
-      "name": "The Great Curve - 2005 Remaster",
-      "url": "https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Found a Job - Live",
-      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
+      "duration_ms": 204520,
+      "name": "Seen and Not Seen - 2005 Remaster",
+      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seen and Not Seen - 2005 Remaster",
-      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Don't Worry About the Government",
-      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 252040,
       "name": "Mind - 2005 Remaster",
       "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Don't Worry About the Government",
+      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "The Book I Read",
-      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 188973,
       "name": "I Zimbra - 2005 Remaster",
       "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "The Book I Read",
+      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Pulled Up",
-      "url": "https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 210013,
       "name": "Memories Can't Wait - 2005 Remaster",
       "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Pulled Up",
+      "url": "https://open.spotify.com/track/6qSzRfSevJwvfCL1Y2gK45"
     },
     {
       "added_at": null,

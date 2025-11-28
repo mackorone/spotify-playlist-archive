@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light, Noizy",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 171428,
       "name": "ABRA KADABRA",
       "url": "https://open.spotify.com/track/36dCG87rdMiCuZO1sT7R31"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 172235,
       "name": "AKOMA EDW",
       "url": "https://open.spotify.com/track/2zs6oTRBADGgx2EWovzskK"
@@ -2681,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Demon Vol 1",
+        "url": "https://open.spotify.com/album/03V8CWWyL6bZfo91x8a9s7"
+      },
+      "artists": [
+        {
+          "name": "ATC Nico",
+          "url": "https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117791,
+      "name": "Demon Vol 1",
+      "url": "https://open.spotify.com/track/2SyJKcK9wNoJnnG3eAn1DO"
+    },
+    {
+      "album": {
         "name": "Den Koimamai",
         "url": "https://open.spotify.com/album/5TxVXH7UsMqj5QnyOcWksg"
       },
@@ -4561,6 +4579,28 @@
     },
     {
       "album": {
+        "name": "GHOSTBUSTERS",
+        "url": "https://open.spotify.com/album/4iDMzmEMKz6eM2Y4UfC3k3"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162233,
+      "name": "GHOSTBUSTERS",
+      "url": "https://open.spotify.com/track/4Z3ey55mT83QaU0wGXJ9OJ"
+    },
+    {
+      "album": {
         "name": "Gia Na Gemiso To Piatto",
         "url": "https://open.spotify.com/album/1Vu8D3m1OMkJI9RMILxrjc"
       },
@@ -5326,7 +5366,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 148928,
       "name": "ILLEGAL Freestyle",
       "url": "https://open.spotify.com/track/05o24gqC0LogpiVQ32KzB4"
@@ -5905,6 +5945,32 @@
     },
     {
       "album": {
+        "name": "GYALINOS KOSMOS",
+        "url": "https://open.spotify.com/album/6l9neRDoThD9loGS7iwBDJ"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "KATHE FORA POU TON HLIO PIANO",
+      "url": "https://open.spotify.com/track/42Nz6Td19soH4iG6objKdm"
+    },
+    {
+      "album": {
         "name": "Ke Ti Den Tha Dina",
         "url": "https://open.spotify.com/album/7fycmjm7HIc2ogDfX1aTx0"
       },
@@ -6333,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "Lefta",
+        "url": "https://open.spotify.com/album/5gGleYfrlvUjQWQTwWEura"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109011,
+      "name": "Lefta",
+      "url": "https://open.spotify.com/track/0oDGgUtfgk1fm0VVaAYYFm"
+    },
+    {
+      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/2l66ZnB5fKPkQkv6KVZB3f"
       },
@@ -6352,6 +6436,32 @@
       "duration_ms": 192500,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/4Sfb8n4vc3tPOC5dk5A33s"
+    },
+    {
+      "album": {
+        "name": "Lete Lete",
+        "url": "https://open.spotify.com/album/0GAUs5okKyONukvSDhXSjS"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "Lete Lete",
+      "url": "https://open.spotify.com/track/676OyMHIOfootgShTPbJgC"
     },
     {
       "album": {
@@ -7512,7 +7622,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 145766,
       "name": "MPAOU MPAOU",
       "url": "https://open.spotify.com/track/2LQ8DYZIB850XrVml9kNbl"
@@ -10110,7 +10220,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 127346,
       "name": "ROVER",
       "url": "https://open.spotify.com/track/3bc4LJbL8BM34pD9yvbcOw"
@@ -10802,7 +10912,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 240930,
       "name": "Spasmeni Fleva",
       "url": "https://open.spotify.com/track/5OBGB0w41ecJacqcdSop5B"
@@ -11034,6 +11144,28 @@
       "duration_ms": 149760,
       "name": "SUPERFLOW",
       "url": "https://open.spotify.com/track/2CsZ3yl4pOMF4uQiv8QDmZ"
+    },
+    {
+      "album": {
+        "name": "SUPERSTAR",
+        "url": "https://open.spotify.com/album/0H0yH3OAMyV7ukvJu9iWLE"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122637,
+      "name": "SUPERSTAR",
+      "url": "https://open.spotify.com/track/4oT1BiDu0b2P4dDWng62VB"
     },
     {
       "album": {

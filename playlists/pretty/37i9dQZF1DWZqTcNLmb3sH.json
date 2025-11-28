@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 65925,
+  "num_followers": 65938,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABYeTwJi3eWaxE0wQsAOl/M1KogL",
+  "snapshot_id": "AAAAAFn5LFyGaJxInZGxetzvxu/VMiQd",
   "tracks": [
     {
       "added_at": "2025-11-03 10:55:48",
@@ -89,6 +89,30 @@
       "url": "https://open.spotify.com/track/1ItNEEE7mfygs2I62xBbgw"
     },
     {
+      "added_at": "2025-11-27 08:15:28",
+      "album": {
+        "name": "Innu Munde Neene Ella (From \"Radheyaa\")",
+        "url": "https://open.spotify.com/album/3HupasgHkLUL5x7rDNghBX"
+      },
+      "artists": [
+        {
+          "name": "Viyaan S A",
+          "url": "https://open.spotify.com/artist/3gGDews5IwOTwkgw1uwina"
+        },
+        {
+          "name": "Pramod Maravante",
+          "url": "https://open.spotify.com/artist/072hm2tGA2geeswvhueVQe"
+        },
+        {
+          "name": "Sangeetha Ravindranath",
+          "url": "https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Innu Munde Neene Ella (From \"Radheyaa\")",
+      "url": "https://open.spotify.com/track/6Mj4u7bUAO1yCU8p34DtcW"
+    },
+    {
       "added_at": "2025-11-26 11:03:42",
       "album": {
         "name": "BRATISM (From \"BRAT\")",
@@ -127,6 +151,34 @@
       "duration_ms": 254969,
       "name": "Waah! Veerane (From \"Bicchugatthiya Bantana Ballirena\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4J5FifzqsL4NNQawHN8YrQ"
+    },
+    {
+      "added_at": "2025-11-27 08:15:28",
+      "album": {
+        "name": "Hasravva (From \"Mango Pachcha\")",
+        "url": "https://open.spotify.com/album/0XxFDcCO8JVUSle6sW9ZeT"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Mohan Kumar N",
+          "url": "https://open.spotify.com/artist/6IHdeveUdgaHWaYxYlbDIe"
+        },
+        {
+          "name": "Sharath Vashisht",
+          "url": "https://open.spotify.com/artist/0lA5IL88MXDYdwm4pdFha8"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Hasravva (From \"Mango Pachcha\")",
+      "url": "https://open.spotify.com/track/708pqA2Txv0uNy9ZAHy0Bc"
     },
     {
       "added_at": "2025-11-26 06:59:12",
@@ -1705,30 +1757,6 @@
       "url": "https://open.spotify.com/track/5gOYOYmvYSuMm6EXznlSpc"
     },
     {
-      "added_at": "2025-10-23 10:20:40",
-      "album": {
-        "name": "Eddelo Eega (From \"Hey Prabhu\")",
-        "url": "https://open.spotify.com/album/72dZoelqB4gbcj36y4UXu0"
-      },
-      "artists": [
-        {
-          "name": "Tejaswi Haridas",
-          "url": "https://open.spotify.com/artist/7x6LvACeD7JAP3bfffzUEb"
-        },
-        {
-          "name": "Danny Anderson",
-          "url": "https://open.spotify.com/artist/3rWhgt7IGoENnvmEbe8cyA"
-        },
-        {
-          "name": "Arasu Antara",
-          "url": "https://open.spotify.com/artist/0cyYMIfGGMph37WUvptOpR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Eddelo Eega (From \"Hey Prabhu\")",
-      "url": "https://open.spotify.com/track/4S5EFha12i8GtxmBMcPdFM"
-    },
-    {
       "added_at": "2025-09-26 06:35:51",
       "album": {
         "name": "Karedare Hagella (From \"S / O Muthanna\")",
@@ -1827,26 +1855,6 @@
       "duration_ms": 253228,
       "name": "Veera Naaga (From \"Lokah - Chapter 1: Chandra\")",
       "url": "https://open.spotify.com/track/5qJkL2KbVhJPVTYiTxc5A3"
-    },
-    {
-      "added_at": "2025-09-17 08:24:36",
-      "album": {
-        "name": "Neene Nanna Odeya (From \"Karimani Malika Neenalla\")",
-        "url": "https://open.spotify.com/album/2h8QZhlXw6fEql0mtieDc4"
-      },
-      "artists": [
-        {
-          "name": "Chandru Obaiah",
-          "url": "https://open.spotify.com/artist/4cllCIrGu05Jo803DCYW9N"
-        },
-        {
-          "name": "Lahari Mahesh",
-          "url": "https://open.spotify.com/artist/4zWCZjFTPmksVLFqbBLceH"
-        }
-      ],
-      "duration_ms": 251854,
-      "name": "Neene Nanna Odeya (From \"Karimani Malika Neenalla\")",
-      "url": "https://open.spotify.com/track/6JSnTl1dqt8O10lLfilJFd"
     },
     {
       "added_at": "2025-09-15 06:43:59",

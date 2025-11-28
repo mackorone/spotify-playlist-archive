@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Restes d'averses" de Marine est le Grand Hit de la semaine
+> "Autrement" de Julien Lieb est le Grand Hit de la semaine
 
-296 songs - 15 hr 12 min
+297 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-07-25 | 2024-10-04 |
 | [Les bougies](https://open.spotify.com/track/4VqILOLkQsyp2ZLvTQpouZ) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 3:38 | 2024-01-25 | 2024-03-08 |
 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 | 2023-09-28 | 2023-11-11 |
-| [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-08 |  |
+| [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-08 | 2025-11-28 |
 | [Les jours qui restent](https://open.spotify.com/track/0frKjAjwE6M58Q6bmnesKk) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Les jours qui restent](https://open.spotify.com/album/1cc7KL70u0dacUY7Cog900) | 2:42 | 2024-08-22 | 2024-09-13 |
 | [Les jours qui restent](https://open.spotify.com/track/5a7xABOf6HTMIlNoQmaKIR) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [15h22](https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1) | 2:42 | 2024-09-26 | 2024-10-11 |
 | [Les longueurs \- Edit](https://open.spotify.com/track/5TH1qlhAzrCE2EgfJlkXAV) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Alexia Gredy](https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg) | [Les longueurs \(Edit\)](https://open.spotify.com/album/6sPxIi31QDF9wq61tFA1C4) | 3:11 | 2024-04-18 | 2024-05-03 |
@@ -247,6 +247,7 @@
 | [Reflet](https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Reflet](https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp) | 2:48 | 2025-02-20 | 2025-10-17 |
 | [Rendez\-vous](https://open.spotify.com/track/6ITYUKNLvfR9hNxU4hbzFz) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [La loi du papillon](https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3) | 2:58 | 2024-05-02 | 2024-07-19 |
 | [Respire](https://open.spotify.com/track/7n2mcTJtSNgGRrAFEneYRz) | [Laura](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Respire](https://open.spotify.com/album/3troTVEc8IZUyYF6N85BJW) | 2:57 | 2023-10-19 | 2024-01-19 |
+| [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 | 2025-11-27 |  |
 | [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 | 2025-10-23 |  |
 | [Retiens les rêves](https://open.spotify.com/track/3tYSZZjpt5lth5lZbWdQVR) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Retiens les rêves](https://open.spotify.com/album/6pWAMFNK0xTDAj3CLFaYKy) | 3:39 | 2023-09-28 | 2024-04-26 |
 | [Rien comme les autres](https://open.spotify.com/track/0Hxm3ciCNteZghavphxUha) | [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [A.M.O.U.R](https://open.spotify.com/album/3LwsjIHgP08344cotAfY0N) | 4:40 | 2024-04-18 | 2024-05-10 |

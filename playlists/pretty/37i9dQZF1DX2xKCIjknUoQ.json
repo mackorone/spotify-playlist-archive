@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 54572,
+  "num_followers": 54589,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "L'Homme Fleur",
-        "url": "https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM"
-      },
-      "artists": [
-        {
-          "name": "Blankass",
-          "url": "https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03"
-        }
-      ],
-      "duration_ms": 267760,
-      "name": "La crois\u00e9e",
-      "url": "https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Aston Villa",
         "url": "https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 307440,
       "name": "Raisonne",
       "url": "https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "L'Homme Fleur",
+        "url": "https://open.spotify.com/album/1XTxNFUiQHU304hDMg5mHM"
+      },
+      "artists": [
+        {
+          "name": "Blankass",
+          "url": "https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03"
+        }
+      ],
+      "duration_ms": 267760,
+      "name": "La crois\u00e9e",
+      "url": "https://open.spotify.com/track/7AlVE4SVUoXpe5L6kO77xE"
     },
     {
       "added_at": "2025-11-13 09:07:41",

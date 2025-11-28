@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: \u6843\u5b50A1J",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Niki the Unicorn",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 166064,
       "name": "AXIS",
       "url": "https://open.spotify.com/track/5HHtUofAVLVozGHHsLdKPn"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 197073,
       "name": "BANDO",
       "url": "https://open.spotify.com/track/7kWgePJ550aDVw79A69L8a"
@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 182400,
       "name": "Feeling Better",
       "url": "https://open.spotify.com/track/2MCr6eVXF5KsChTdx9r66j"
@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Hackery",
+        "url": "https://open.spotify.com/album/7u7NRI7T7L6EoJVv9yLX4b"
+      },
+      "artists": [
+        {
+          "name": "Flesh Juicer",
+          "url": "https://open.spotify.com/artist/78ltY2tUrZpkWJ9CWYGZfl"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Hackery",
+      "url": "https://open.spotify.com/track/50HuO1enoZQANZ7cWYyr4b"
+    },
+    {
+      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/0zsJoOnTe5HvEmhkfOs16o"
       },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 230808,
       "name": "Happiness hurts",
       "url": "https://open.spotify.com/track/09KWWKSqEx2d0O6TDCQNNk"
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 224008,
       "name": "In the End of the World (I Love You) - A_LIVE PASS Session",
       "url": "https://open.spotify.com/track/0QG8PkqzGxlcw4Ihrx28ag"
@@ -3827,6 +3845,24 @@
     },
     {
       "album": {
+        "name": "Leeroy Jenkins",
+        "url": "https://open.spotify.com/album/3smRQEAkkVIcRbt2w3cyT8"
+      },
+      "artists": [
+        {
+          "name": "Bremen Entertainment Inc.",
+          "url": "https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221596,
+      "name": "Leeroy Jenkins",
+      "url": "https://open.spotify.com/track/0ooNgDTsM7TMPWv7ZDnn8g"
+    },
+    {
+      "album": {
         "name": "LET GO",
         "url": "https://open.spotify.com/album/2QqKEuJ6aFEv6YYBuNOF2V"
       },
@@ -3864,6 +3900,24 @@
       "duration_ms": 207458,
       "name": "Let it Out",
       "url": "https://open.spotify.com/track/0Hq4ipiDzacP4oDNS7sHae"
+    },
+    {
+      "album": {
+        "name": "Let it! Shake it! / Carry On",
+        "url": "https://open.spotify.com/album/7uNclugkD9plQsbDBROcuO"
+      },
+      "artists": [
+        {
+          "name": "The Salitus",
+          "url": "https://open.spotify.com/artist/4TR7zNw9uDpmuGVMUKxSFj"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205833,
+      "name": "Let it! Shake it!",
+      "url": "https://open.spotify.com/track/2BlbIy2oLGxjtJwpPXuiny"
     },
     {
       "album": {
@@ -5266,7 +5320,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 214714,
       "name": "Overwrite",
       "url": "https://open.spotify.com/track/6Ga6MT3h6JTmeHE0rOFtCV"
@@ -5984,7 +6038,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 226363,
       "name": "Saturday Afternoon",
       "url": "https://open.spotify.com/track/3BdHVuoguj7lLHVocezemX"
@@ -6502,6 +6556,28 @@
       "duration_ms": 215142,
       "name": "Someone Will Miss You",
       "url": "https://open.spotify.com/track/6B81ZNr3pqeS1AlSVGpOv2"
+    },
+    {
+      "album": {
+        "name": "Southern Boy",
+        "url": "https://open.spotify.com/album/29VQ2mhMWf0LC64uLFNXRL"
+      },
+      "artists": [
+        {
+          "name": "Niki the Unicorn",
+          "url": "https://open.spotify.com/artist/3p87hio1EUjj3wCzaYMe6q"
+        },
+        {
+          "name": "\u543e\u6a4b\u6709\u6c34 FloodingBridge",
+          "url": "https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Southern Boy",
+      "url": "https://open.spotify.com/track/0PbRnXlYpw0SKkIf3SQWdR"
     },
     {
       "album": {

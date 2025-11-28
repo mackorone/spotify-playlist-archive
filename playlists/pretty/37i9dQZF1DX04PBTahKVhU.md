@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX04PBTahKVhU.md) - [plain]
 
 > When love is your biggest risk, is it worth taking? Listen to the music from My Fault: London, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,019 likes - 27 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,029 likes - 27 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

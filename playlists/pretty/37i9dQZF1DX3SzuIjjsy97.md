@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 
 > The best hits from the biggest shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,600 likes - 49 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,608 likes - 49 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 | 46 | [96,000](https://open.spotify.com/track/0mqcxeYg1b57YjniPNTtQ6) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Seth Stewart](https://open.spotify.com/artist/6EaIoLoH3COaTIlNlSUrEF), [Janet Dacal](https://open.spotify.com/artist/40EMRBhARMflvBy3KYukJx), [Andrea Burns](https://open.spotify.com/artist/23OBpHr3yXnMMCu13Fg1Oa) | [In the Heights \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg) | 5:35 |
 | 47 | [Aquarius](https://open.spotify.com/track/0WviwuG403gqtW6bZevBpP) | [Galt MacDermot](https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr) | [Hair](https://open.spotify.com/album/1llShsXxqoYFxKEX7JkKBj) | 4:48 |
 | 48 | [I'd Rather Be Me](https://open.spotify.com/track/5cesclKWAhsCcZJDBhkWaa) | [Barrett Wilbert Weed](https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 2:50 |
-| 49 | [In Summer \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/6p6AMtWxEt4W2jc3HmpqdB) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 1:50 |
+| 49 | [Out Tonight](https://open.spotify.com/track/5XzG0GT1WntHu1N1T2UVDJ) | [Rosario Dawson](https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX) | [RENT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ) | 3:54 |
 
 Snapshot ID: `AAAAAP2XmR2JEg3NtDfrmndcQt3YrQAn`

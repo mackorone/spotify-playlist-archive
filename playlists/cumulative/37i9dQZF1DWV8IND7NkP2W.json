@@ -12888,7 +12888,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 125130,
       "name": "stricta",
       "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
@@ -14502,6 +14502,24 @@
       "duration_ms": 114800,
       "name": "Universal Grammar",
       "url": "https://open.spotify.com/track/1btMhHpEB4OvHpKFePAxqa"
+    },
+    {
+      "album": {
+        "name": "unstable",
+        "url": "https://open.spotify.com/album/5Bt7UlXSx1G75ieZIH3s10"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "date_added": "2025-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140808,
+      "name": "unstable",
+      "url": "https://open.spotify.com/track/70IWLuFvDpuEkChta4PpjG"
     },
     {
       "album": {

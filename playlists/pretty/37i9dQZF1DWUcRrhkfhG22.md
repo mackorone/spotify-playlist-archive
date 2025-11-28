@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,582 likes - 96 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,588 likes - 96 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 42 | [Mamacita](https://open.spotify.com/track/2tDdZBlft2KbcRjRdbX13E) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [Mamacita](https://open.spotify.com/album/3VeXhkyKkUPyI6RO9w3sZ3) | 3:14 |
 | 43 | [Treasure \- Cover](https://open.spotify.com/track/7e0QtmkcaWUZMKZ1vV2VnS) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [Made in Street 2 \(Live Covers\)](https://open.spotify.com/album/31I6U15zlGiCa4OC82JZxe) | 4:23 |
 | 44 | [Power Station](https://open.spotify.com/track/1z7PHD8GeatMCzuBY3SUsB) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Power Station](https://open.spotify.com/album/4hGwNNlT72jpOJFWIatuEk) | 3:22 |
-| 45 | [Gangsta Boogaloos Theme \(feat\. Swan\)](https://open.spotify.com/track/4ulK01u2JEvcoArPxxjQ4u) | [The Sleepers RecordZ](https://open.spotify.com/artist/7t71EyKcDTtGXsmxvb9aRM), [Swan](https://open.spotify.com/artist/2Eb9qjMKYLcykVNGU7LK2t) | [The Way of Street Dance, Vol.2](https://open.spotify.com/album/4jlnSC0KapvZEjmWgX3D3h) | 4:02 |
+| 45 | [Gangsta Boogaloos Theme \(feat\. Swan\)](https://open.spotify.com/track/4ulK01u2JEvcoArPxxjQ4u) | [The Sleepers RecordZ](https://open.spotify.com/artist/7t71EyKcDTtGXsmxvb9aRM), [Swan](https://open.spotify.com/artist/0nn7L4s5DjRRXfRwRj7hAW) | [The Way of Street Dance, Vol.2](https://open.spotify.com/album/4jlnSC0KapvZEjmWgX3D3h) | 4:02 |
 | 46 | [With You](https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Velvet Portraits](https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c) | 4:08 |
 | 47 | [\(We Go Together Like\) Saturday & Sunday](https://open.spotify.com/track/40KwK6ekSsxLN1r2XG6ZNQ) | [Diamond Ortiz](https://open.spotify.com/artist/4tm2O1beMNSAdbG3pQvDCP) | [Loveline](https://open.spotify.com/album/3gIf24xmoiKSq3gVSisAz4) | 2:51 |
 | 48 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |

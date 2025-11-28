@@ -1,6 +1,6 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 448436,
+  "num_followers": 448501,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,26 @@
     {
       "added_at": "2025-07-31 16:00:18",
       "album": {
+        "name": "Monster Paradise",
+        "url": "https://open.spotify.com/album/0zCqTL9pofyiYRf1t3bKAf"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Bombs Away",
+          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Monster Paradise",
+      "url": "https://open.spotify.com/track/71BQG6SlpeXpdx7PJaFNnB"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "Monster Paradise",
-        "url": "https://open.spotify.com/album/0zCqTL9pofyiYRf1t3bKAf"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Bombs Away",
-          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Monster Paradise",
-      "url": "https://open.spotify.com/track/71BQG6SlpeXpdx7PJaFNnB"
     },
     {
       "added_at": "2025-07-31 16:00:18",

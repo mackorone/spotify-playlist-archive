@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281400,
+      "name": "Lopsided",
+      "url": "https://open.spotify.com/track/7KNnNM01ePw7Py0WdF9Gpg"
+    },
+    {
+      "album": {
         "name": "Vaya",
         "url": "https://open.spotify.com/album/1dQADTXF672pzeJPcRwjbs"
       },
@@ -700,7 +718,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-28",
       "duration_ms": 158360,
       "name": "Pickpocket",
       "url": "https://open.spotify.com/track/7tXHRWpHsYH8Yy8w7v4N7d"

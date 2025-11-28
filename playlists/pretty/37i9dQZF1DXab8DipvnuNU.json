@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 45395,
+  "num_followers": 45409,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -73,10 +73,10 @@
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
+      "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 364441,
-      "name": "Don't Stop 'Til You Get Enough",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
+      "duration_ms": 240134,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -153,10 +153,10 @@
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
+      "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 240134,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
+      "duration_ms": 364441,
+      "name": "Don't Stop 'Til You Get Enough",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -605,22 +605,6 @@
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "Aijuswanaseing",
@@ -635,6 +619,22 @@
       "duration_ms": 251426,
       "name": "Just Friends (Sunny)",
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
     },
     {
+      "added_at": "2025-07-14 16:53:39",
+      "album": {
+        "name": "Between Friends",
+        "url": "https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US"
+    },
+    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Between the Sheets",
@@ -947,22 +963,6 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
-    },
-    {
-      "added_at": "2025-07-14 16:53:39",
-      "album": {
-        "name": "Between Friends",
-        "url": "https://open.spotify.com/album/3fWRZINvsj236ZaWNo6g9J"
-      },
-      "artists": [
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/1Ly3sQABkGYruk0s8XF6US"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Beautifully Human: Words and Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 236906,
       "name": "Still Not a Player (feat. Joe)",
       "url": "https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Beautifully Human: Words and Sounds Vol. 2",
-        "url": "https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 290466,
       "name": "Fantasy (feat. O.D.B.)",
       "url": "https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
     },
     {
       "added_at": "2023-06-16 17:58:31",
