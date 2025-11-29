@@ -1,4 +1,4 @@
-## Playlists \(9010\)
+## Playlists \(9011\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -5967,6 +5967,7 @@
 - [TWICE FANMEETING \[HOME 9ROUND\]](/playlists/pretty/37i9dQZF1DWTAam0w6i0dI.md)
 - [TWICE WORLD TOUR \[THIS IS FOR\]](/playlists/pretty/37i9dQZF1DX4v1kmgPjq1t.md)
 - [Taco Placero](/playlists/pretty/37i9dQZF1DX5QNpvPWsGKY.md)
+- [Taewitdak Radio](/playlists/pretty/37i9dQZF1E4yFjPEVNm1gW.md)
 - [Tagga För OS](/playlists/pretty/0uZg7go8TKu5hpv1L6CJ4y.md)
 - [Tailgate Party](/playlists/pretty/37i9dQZF1DXdgnLr18vPvu.md)
 - [Take it Easy](/playlists/pretty/3vnx7BaCl3YmHrg3WGLedp.md)
