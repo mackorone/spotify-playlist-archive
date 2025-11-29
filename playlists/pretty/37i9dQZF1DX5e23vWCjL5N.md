@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Punchline, storytelling, rap italiano\. Cover: Nitro
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,097 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,108 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

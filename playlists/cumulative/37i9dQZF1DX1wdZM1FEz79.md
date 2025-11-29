@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 홍이삭\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 겸 \(GYE0M\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-634 songs - 1 day 13 hr 21 min
+635 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Dawn](https://open.spotify.com/track/5zbTSY9o6rRNbcoN2yPosM) | [Chance](https://open.spotify.com/artist/4qtH69NwjHUulLj4verBCJ) | [Dawn](https://open.spotify.com/album/0fL3Kkh9t8rv1BkpckEqHD) | 3:29 | 2021-12-10 | 2022-04-16 |
 | [dawn](https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT) | [Swon](https://open.spotify.com/artist/2s1VMSW1ooLGKqO5eLAguQ) | [dawn](https://open.spotify.com/album/0x1GXi4uJ7fMPdCkKmPbCm) | 3:09 | 2024-08-12 | 2024-09-04 |
 | [Deadline](https://open.spotify.com/track/1jIeeKf8N3UXLct7FI0VQy) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:19 | 2022-03-31 | 2022-04-17 |
-| [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 |  |
+| [dear \- monstera ver.](https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [dear \(monstera ver.\)](https://open.spotify.com/album/1n7j1w0rcDrbiQnKnBGmws) | 3:57 | 2025-10-30 | 2025-11-29 |
 | [Dear DRan](https://open.spotify.com/track/5HiBQsMNcVehiKNUFiRsyu) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha), [무성](https://open.spotify.com/artist/4kYzRUks4PPzWaPQU8wMY9) | [Dear DRan](https://open.spotify.com/album/1ftozu6DmZ4J3OlPrjJFTn) | 3:11 | 2022-03-31 | 2022-06-07 |
 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 | 2023-01-25 | 2023-02-15 |
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
@@ -171,7 +171,7 @@
 | [From Winter To Winter](https://open.spotify.com/track/704lNx7gCD6CooNMVp8tdl) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Seoul Check\-in OST Part 3](https://open.spotify.com/album/6RPncLDPcNlnuFrxLNGmFx) | 3:17 | 2022-05-02 | 2022-05-12 |
 | [Frost](https://open.spotify.com/track/67MOlOhWOxq2hiK32nphc9) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Naturous Album](https://open.spotify.com/album/6Ow6ZukVE8reCHVZU7W5NK) | 3:14 | 2025-02-03 | 2025-02-19 |
 | [Fuel](https://open.spotify.com/track/0fzF35JGZANP4E3KKBNs6J) | [ASHER](https://open.spotify.com/artist/6fXfmVxyO2JZJApAM38BKl) | [FUEL](https://open.spotify.com/album/4SDu4Gt3aYP4uZaXR53R4e) | 3:59 | 2022-03-31 | 2022-04-04 |
-| [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2021-12-10 | 2025-11-25 |
+| [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2021-12-10 |  |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-03-21 | 2022-04-10 |
 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 | 2024-03-06 | 2024-03-16 |
 | [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 | 2025-08-21 |
@@ -314,6 +314,7 @@
 | [Love U \(feat\. J\_ust\)](https://open.spotify.com/track/4Umuqgh54N3EsC9G1ChxVc) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK), [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Daily](https://open.spotify.com/album/5r4renU9S9JbftT1CC8IfV) | 4:22 | 2022-01-13 | 2022-07-09 |
 | [love was](https://open.spotify.com/track/2v4bYDSLpmPTKESwL2lOh3) | [Yegyeong](https://open.spotify.com/artist/6SBOyJtbPSAaB2Ds6MqPEB) | [love was](https://open.spotify.com/album/0wB6OjI21q4NRCQDC4XOl6) | 3:28 | 2025-09-22 | 2025-09-25 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-12 |
+| [Love, After All](https://open.spotify.com/track/220eac16XYiepPKj7igHzB) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Love, After All](https://open.spotify.com/album/78rLlylzjtm8JpCbFpUQkz) | 3:57 | 2025-11-28 |  |
 | [Love, Maybe \(Acoustic Ver.\)](https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Love, Maybe \(A Business Proposal OST Bonus Track\)](https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz) | 2:51 | 2022-04-12 |  |
 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-11-10 | 2025-08-14 |
 | [lueur](https://open.spotify.com/track/2C74IomQPvdPBkMXyGGbiW) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [souhait](https://open.spotify.com/album/5gikxLdFWi2K2hpVlhseXE) | 4:22 | 2025-05-28 | 2025-06-14 |
@@ -408,7 +409,7 @@
 | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [Reason \(Vocal by Kim Seonho\)](https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas) | 3:37 | 2021-12-10 | 2022-08-13 |
 | [Reason Why We Have To Break Up](https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv) | [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [Reason Why We Have To Break Up](https://open.spotify.com/album/4nwxtVuw1mxCzZ3SGIGEcu) | 3:22 | 2022-01-13 | 2022-06-25 |
 | [Regrets 미안한 마음](https://open.spotify.com/track/59PiMiACfGn5yfLTPcFeYA) | [PAPERCUT PROJECT](https://open.spotify.com/artist/40MbmSwJQPPCvWV2Q6Cuqp) | [Regrets 미안한 마음](https://open.spotify.com/album/3XsBCKZMBVB5eJt98fBJ9x) | 4:03 | 2022-03-31 | 2022-04-13 |
-| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 |  |
+| [Remember Me](https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Our Blues, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/4o6ROt6vToHvwc1uMfgENE) | 3:44 | 2022-05-11 | 2025-11-29 |
 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 | 2022-03-31 |  |
 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 | 2022-08-25 | 2024-09-03 |
 | [Romeo & Juliet](https://open.spotify.com/track/2WkJb27TKlVaNTM4vulZDy) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/2zZvTk4dSHV1qpLdtiILlr) | 2:52 | 2024-12-10 | 2025-01-02 |

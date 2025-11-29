@@ -215,6 +215,28 @@
     },
     {
       "album": {
+        "name": "Balcony Brunch",
+        "url": "https://open.spotify.com/album/2OINrl8R6cffaS1LSeXoh7"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123495,
+      "name": "Balcony Brunch",
+      "url": "https://open.spotify.com/track/382zMwH9fiEFPIYdaAch9I"
+    },
+    {
+      "album": {
         "name": "Beach Flowers",
         "url": "https://open.spotify.com/album/76CKcn5LDD09atNLtSwn4R"
       },
@@ -1194,7 +1216,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 118500,
       "name": "Eggin",
       "url": "https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA"

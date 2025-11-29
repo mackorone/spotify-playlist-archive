@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: El Alfa",
-  "num_followers": 699489,
+  "num_followers": 699488,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMAR/VtTc9aD0Va0SJAl8F5xY6U1",
+  "snapshot_id": "AAAAAEhdHsjIZfo2ZiqYNTHDbmMqXM+U",
   "tracks": [
     {
       "added_at": "2025-05-12 13:44:40",
@@ -245,6 +245,26 @@
       "url": "https://open.spotify.com/track/1BIXs6CdkPRLytuqoXs6XN"
     },
     {
+      "added_at": "2025-11-28 23:05:55",
+      "album": {
+        "name": "Doble Cara",
+        "url": "https://open.spotify.com/album/5qNKXX21843wFzwVdYZXoL"
+      },
+      "artists": [
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        }
+      ],
+      "duration_ms": 81578,
+      "name": "Doble Cara",
+      "url": "https://open.spotify.com/track/19uTZiUsjbvSpZZeHLGMAz"
+    },
+    {
       "added_at": "2025-01-06 17:55:48",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
@@ -259,26 +279,6 @@
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2025-11-20 23:06:31",
-      "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0"
-      },
-      "artists": [
-        {
-          "name": "mhtresuno",
-          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
-        },
-        {
-          "name": "Angel Dior",
-          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
-        }
-      ],
-      "duration_ms": 134813,
-      "name": "Gatillero",
-      "url": "https://open.spotify.com/track/6vlgqKBRTamlIKx0cauIwX"
     },
     {
       "added_at": "2024-12-26 18:03:46",
@@ -363,22 +363,6 @@
       "duration_ms": 115161,
       "name": "Crazy Design - Que Rica",
       "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
-    },
-    {
-      "added_at": "2025-11-20 23:06:31",
-      "album": {
-        "name": "Santo Domingo",
-        "url": "https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0"
-      },
-      "artists": [
-        {
-          "name": "mhtresuno",
-          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
-        }
-      ],
-      "duration_ms": 110831,
-      "name": "Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/6GkjBM5a2BPGYukETXcetc"
     },
     {
       "added_at": "2025-10-09 19:40:25",
@@ -535,6 +519,22 @@
       "duration_ms": 105441,
       "name": "Ni un Ki Ki",
       "url": "https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9"
+    },
+    {
+      "added_at": "2025-11-28 23:05:55",
+      "album": {
+        "name": "Te choko / Con lo pie",
+        "url": "https://open.spotify.com/album/2IZDIVEn9UeBJTJA80o56V"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "duration_ms": 109853,
+      "name": "Te choko",
+      "url": "https://open.spotify.com/track/40f8b9j3XT9jcZog0njOcw"
     },
     {
       "added_at": "2025-10-09 19:40:25",

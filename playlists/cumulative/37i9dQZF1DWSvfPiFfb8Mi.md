@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-414 songs - 1 day 3 hr 0 min
+415 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Feel Yourself](https://open.spotify.com/track/5WGNKRx4dYMXHvwGPrrci7) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI) | [Feel Yourself](https://open.spotify.com/album/286uUL0vH8fFrbRs6DuP9A) | 6:03 | 2024-02-16 |  |
 | [Feelin' It](https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82) | [Feelin' It](https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2) | 3:21 | 2025-09-26 |  |
 | [Feeling For You \(feat\. FARLEY\)](https://open.spotify.com/track/6pC6TW94GCOUwEj7ZchIk6) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Feeling For You \(feat\. FARLEY\)](https://open.spotify.com/album/43JAltifXLaRCkVzgfV7eb) | 3:46 | 2023-12-01 | 2023-12-30 |
-| [Fighting Love](https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Fighting Love](https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3) | 3:08 | 2025-02-14 |  |
+| [Fighting Love](https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Fighting Love](https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3) | 3:08 | 2025-02-14 | 2025-11-29 |
 | [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-17 | 2024-09-18 |
 | [Flawless](https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Open Market](https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011) | 3:10 | 2023-05-19 |  |
 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/0oNyJ1uKqzEJuse2I1eaSu) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love](https://open.spotify.com/album/0EbrQzvIR6vEOgMRaM3FLy) | 3:59 | 2023-07-07 | 2024-03-04 |
@@ -198,6 +198,7 @@
 | [Kiss of Life](https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Kiss of Life](https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn) | 3:13 | 2023-05-19 | 2023-11-18 |
 | [Kiss of Life](https://open.spotify.com/track/3yenE3U2DbvNyQcHZHTg1W) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [DISCO: Guest List Edition](https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh) | 3:13 | 2023-12-01 | 2024-04-19 |
 | [KNIGHTS OF HEAVEN](https://open.spotify.com/track/0tGnI8MTI0MxZjS7skuIOp) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [KNIGHTS OF HEAVEN](https://open.spotify.com/album/5DZGPl7S8b2Aes5IAyiz1m) | 3:21 | 2024-10-18 | 2024-11-01 |
+| [Know Less](https://open.spotify.com/track/2qLyC6QhuIrNDtojE0w2Dg) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX), [Viken Arman](https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK) | [Sidequests Chapter Three](https://open.spotify.com/album/6O2duZegWCcnzUztIItHyz) | 4:59 | 2025-11-21 |  |
 | [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 | 2024-06-07 |  |
 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 | 2022-06-20 | 2023-05-23 |
 | [La Luna](https://open.spotify.com/track/3Yxc08PwQ9uRUt5bkDll2I) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [La Luna](https://open.spotify.com/album/1zoVH0wshtj6gJgmt3jJhz) | 3:37 | 2022-06-20 | 2023-05-20 |

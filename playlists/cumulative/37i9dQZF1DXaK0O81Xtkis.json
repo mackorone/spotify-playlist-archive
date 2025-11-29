@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Pash",
+  "description": "a little indie, a little pop, soda featuring South Arcade",
   "name": "soda",
   "tracks": [
     {
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179500,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3W3KiThUax82v78hiinyCP"
@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "PLAY!",
+        "url": "https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196338,
+      "name": "Blood Run Warm",
+      "url": "https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH"
+    },
+    {
+      "album": {
         "name": "Bloodstream",
         "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
       },
@@ -3324,6 +3342,24 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "album": {
+        "name": "britney in 07",
+        "url": "https://open.spotify.com/album/5niKmHGHPcCIEMT6KDgK7W"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185390,
+      "name": "britney in 07",
+      "url": "https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD"
     },
     {
       "album": {
@@ -11176,7 +11212,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 170785,
       "name": "I Can Die Now",
       "url": "https://open.spotify.com/track/6fzN61K7pQ6rooDa0zMe5B"
@@ -15152,7 +15188,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 168634,
       "name": "lucid dreaming",
       "url": "https://open.spotify.com/track/5FtbSnllpWLkoDYYzl2Biw"
@@ -18468,6 +18504,24 @@
       "duration_ms": 233406,
       "name": "Pink + White - Live at Electric Lady",
       "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
+    },
+    {
+      "album": {
+        "name": "Pink Lemonade",
+        "url": "https://open.spotify.com/album/54HW5AhdlCDtb0x2KejVq6"
+      },
+      "artists": [
+        {
+          "name": "thebandfriday",
+          "url": "https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237303,
+      "name": "Pink Lemonade",
+      "url": "https://open.spotify.com/track/32X0giiWhSwrgJdyiFOqr1"
     },
     {
       "album": {

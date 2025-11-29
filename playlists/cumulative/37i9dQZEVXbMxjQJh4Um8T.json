@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Ain't No Mountain High Enough",
       "url": "https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 177338,
       "name": "Algo Sencillito",
       "url": "https://open.spotify.com/track/3bE8SznOXJ990MK1ElQnfr"
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5"
@@ -3750,7 +3750,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 303494,
       "name": "Careless Whisper - Remastered",
       "url": "https://open.spotify.com/track/5ac3D4hNLW7NFhYFCThXgh"
@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 176374,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 158954,
       "name": "C\u00d3RRER PELS CAMPS",
       "url": "https://open.spotify.com/track/5MUkMnWbFJ2eONjQuk7tx2"
@@ -6246,7 +6246,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 244973,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
@@ -9652,6 +9652,28 @@
       "duration_ms": 213528,
       "name": "GRAN V\u00cdA",
       "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
+    },
+    {
+      "album": {
+        "name": "DOLOR DE BARRIO",
+        "url": "https://open.spotify.com/album/1lOELCyPm4JWdiuu0fHwTQ"
+      },
+      "artists": [
+        {
+          "name": "FERNANDOCOSTA",
+          "url": "https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ"
+        },
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143180,
+      "name": "GRECOFERNANDA",
+      "url": "https://open.spotify.com/track/0mguL4pFDCe6BqSHHFQUpB"
     },
     {
       "album": {
@@ -15688,7 +15710,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 125825,
       "name": "Moonlight's Puppet Remix",
       "url": "https://open.spotify.com/track/5PSaLujSojEfsog1wwG17m"
@@ -18886,7 +18908,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 171813,
       "name": "QUE HACES",
       "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
@@ -21878,7 +21900,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
@@ -27288,7 +27310,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 198153,
       "name": "YO y T\u00da",
       "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"

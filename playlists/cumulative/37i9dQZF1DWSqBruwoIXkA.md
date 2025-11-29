@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with The Kid LAROI
 
-998 songs - 2 day 6 hr 56 min
+999 songs - 2 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-04-16 |
 | [Hot All the Time](https://open.spotify.com/track/6bkJJicRR6gduGo6ZituLh) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Hot All the Time](https://open.spotify.com/album/4gAXGVFBGfDnYQL1KVEkej) | 3:01 | 2022-10-14 | 2022-10-29 |
 | [House With No Mirrors](https://open.spotify.com/track/3iPJ039BamX9MIVZQWEnnL) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Only Child](https://open.spotify.com/album/7v0KN0VlHJZrhAbSbxEZvZ) | 3:47 | 2021-12-17 | 2022-05-20 |
+| [How Am I Supposed To Love Myself?](https://open.spotify.com/track/3Fc478Rl4HYlqLYMZ5gfMT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [How Am I Supposed To Love Myself?](https://open.spotify.com/album/3PBbBLpCuIveNKgxRQds1e) | 3:44 | 2025-11-28 |  |
 | [How Are You?](https://open.spotify.com/track/66Ax82JB40Iq5G2YykYMUQ) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [How Are You?](https://open.spotify.com/album/7vbuUTprIXVeJEXtEPOn69) | 2:49 | 2023-01-06 | 2023-04-09 |
 | [How Could You](https://open.spotify.com/track/7fkxcbBBsV7keJPnNfNf2L) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [How Could You](https://open.spotify.com/album/45iO8UkIUsCwFCuf8sI6ER) | 3:07 | 2022-10-14 | 2022-12-17 |
 | [HOW DARE YOU](https://open.spotify.com/track/4s3yRuJm8kO1Xzi3Yeqa81) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Dear Joe,](https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI) | 3:58 | 2024-06-28 | 2024-09-20 |
@@ -427,7 +428,7 @@
 | [I Lost Myself In Loving You](https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 3:21 | 2022-10-28 | 2024-04-19 |
 | [i love you](https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:51 | 2021-12-17 | 2022-10-01 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-07-19 |  |
-| [I MISS MY FRIEND](https://open.spotify.com/track/4rMgccSZbFOTaY4pC5hBuQ) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [I MISS MY FRIEND](https://open.spotify.com/album/569qmMiN3cnCv3DdwVnbUn) | 4:14 | 2025-08-22 |  |
+| [I MISS MY FRIEND](https://open.spotify.com/track/4rMgccSZbFOTaY4pC5hBuQ) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [I MISS MY FRIEND](https://open.spotify.com/album/569qmMiN3cnCv3DdwVnbUn) | 4:14 | 2025-08-22 | 2025-11-29 |
 | [I Miss You](https://open.spotify.com/track/2uQHdZMHPKiBXfaotVgYxL) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [I Miss You](https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv) | 4:12 | 2024-12-13 | 2024-12-21 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/3tcbegaaVvEVoK7TDnJEA5) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [ugly](https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4) | 3:22 | 2024-01-19 | 2024-04-27 |
 | [i miss you \(skin to skin\)](https://open.spotify.com/track/6oJLVRSwk81VPHHtyP8BOx) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [i miss you \(skin to skin\)](https://open.spotify.com/album/34YHay3VJ4vsP3L2O5Xdjw) | 3:22 | 2022-06-24 | 2022-12-01 |

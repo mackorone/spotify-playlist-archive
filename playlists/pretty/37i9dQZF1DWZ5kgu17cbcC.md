@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including All's Fair, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,887 likes - 105 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,869 likes - 105 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

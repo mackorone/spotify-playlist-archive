@@ -4,7 +4,7 @@
 
 > Fall fast asleep with deep noise
 
-639 songs - 1 day 9 hr 52 min
+640 songs - 1 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [500 Hz Pink Noise](https://open.spotify.com/track/1zG0OftduRQ076dtJ5YgWS) | [Sleep In Space](https://open.spotify.com/artist/5yU8rZ0JcBNXpkdrxQpvwr) | [Pink Galaxies](https://open.spotify.com/album/0c94LL6rE0NcbQKzakKbfg) | 3:00 | 2022-08-02 | 2025-11-22 |
 | [89 hz Band Q brown noise](https://open.spotify.com/track/5sEbUxmIkJ5R7LgXwJd0iv) | [Mind & Ears](https://open.spotify.com/artist/2qENnTxR7p4FZM4ImXiOLN) | [Deep Sleep Brown Noise](https://open.spotify.com/album/0qY4ZRzXvzntIIwPFj1tIT) | 2:33 | 2022-06-03 | 2023-12-06 |
 | [Abundant Brown Noise](https://open.spotify.com/track/4urad775yq5bhYEf7LNoS2) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Abundant Brown Noise](https://open.spotify.com/album/3B3TSP9WL509iVgqjrvWHz) | 3:46 | 2023-01-27 |  |
+| [Abyss](https://open.spotify.com/track/4KweUDF4OoAEykjQJU79K6) | [Stillgroove](https://open.spotify.com/artist/1H8FfSgkrPs9BaNuUKhTIT) | [Abyss](https://open.spotify.com/album/0dBSouy9hCWxMttx55hIGQ) | 3:39 | 2025-11-13 |  |
 | [Afastar](https://open.spotify.com/track/20bXlK3s0xGcHT5IEu47vB) | [Tempo Discreto](https://open.spotify.com/artist/2rTnrP5DSv4EFXS0V6VFbb) | [Afastar](https://open.spotify.com/album/7xHlrGXd3PDRhNzI4CIJyx) | 2:38 | 2021-12-01 | 2023-03-25 |
 | [Air Noise](https://open.spotify.com/track/7hRfJQpVX4kzPGPCvKImwL) | [Sit Back Relax](https://open.spotify.com/artist/3SKwyv6qJSexnm9ZKpmOR6) | [Air Noise](https://open.spotify.com/album/3AijgHMUpMh8M8yQTmWtQQ) | 2:13 | 2021-12-01 | 2022-12-21 |
 | [Airplane Pink Noise](https://open.spotify.com/track/2IdDClXlZ6McADUOm0GCMd) | [Noise Momentum](https://open.spotify.com/artist/7CPyFkzYuNgkvYs4rb7q7D) | [Into The Pink](https://open.spotify.com/album/5F2NGUnyRg7vzR4QFn2Rc7) | 2:51 | 2023-01-27 |  |
@@ -491,7 +492,7 @@
 | [Pink Pulse](https://open.spotify.com/track/2ftj8ntnOeh01t8fZ9Acwf) | [Soundverb](https://open.spotify.com/artist/3w2djoMmoqY5bpkArWBuyo) | [Pink Pulse](https://open.spotify.com/album/17VvYfibRHRDoPWTBz2Um2) | 3:23 | 2024-02-09 |  |
 | [Pink Relaxative](https://open.spotify.com/track/0Q2xNXtrUEWKOORsYd0lmh) | [Calmatics](https://open.spotify.com/artist/37sS66WbTIbdn4ewquyWhw) | [In Noise We Trust](https://open.spotify.com/album/1O6qnez7geSm25PhYvB8md) | 2:52 | 2023-01-27 |  |
 | [Pink Rest Noise](https://open.spotify.com/track/58k7PfETcMsXj1eYX8dsc7) | [Me & Us](https://open.spotify.com/artist/3uMrYsI7icaVVHV2DxMJqC) | [Focus With Deep Pink Noise](https://open.spotify.com/album/3kivWK63tfnqCy6T5PX7Wm) | 2:53 | 2023-01-27 | 2025-10-10 |
-| [Pink Sky](https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Pink Sky](https://open.spotify.com/album/61VcpmFcMq9l2fVOr6zsNu) | 3:38 | 2024-02-09 |  |
+| [Pink Sky](https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Pink Sky](https://open.spotify.com/album/61VcpmFcMq9l2fVOr6zsNu) | 3:38 | 2024-02-09 | 2025-11-29 |
 | [Pink Sky Noise](https://open.spotify.com/track/0AP0T794qaAvwfUnT4j7Mb) | [Orbit Noise](https://open.spotify.com/artist/10s0nSfxODbV3vNHS8sO0V) | [Restful Pink Noise](https://open.spotify.com/album/5Wsu1Xou2OwBeZUuL8c977) | 2:07 | 2022-12-20 | 2025-09-12 |
 | [Pink Sonos](https://open.spotify.com/track/1jEhXzSSIMjzrlFjWBYlNV) | [Synthetic Architect](https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5) | [Pink Stellar](https://open.spotify.com/album/7BTSIrVrwjP4T9HOFbw2Ym) | 2:52 | 2022-12-20 |  |
 | [Pink Static for Sleeping](https://open.spotify.com/track/3Qa2mBS0IKfiRVzmYJbUHE) | [High Above The Clouds](https://open.spotify.com/artist/0TGwwqBPOAEsrEQKOT2FVY) | [Pink Static for Sleeping](https://open.spotify.com/album/0UBiMJKm5h5cXwg12evNon) | 3:43 | 2025-11-13 |  |

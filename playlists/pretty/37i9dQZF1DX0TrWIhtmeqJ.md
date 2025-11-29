@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Pozzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,480 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,513 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [WTTF](https://open.spotify.com/track/5sQO0GEH7Qy3THyo87wbX5) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo), [Liki](https://open.spotify.com/artist/1AVIIynCNINkkr5jqkAbCQ) | [WTTF](https://open.spotify.com/album/4GLvezg6SkCebtVqUGbmYd) | 3:43 |
 | 70 | [skip!](https://open.spotify.com/track/4ncEJ67Xn1yjaURi2X7aTy) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [skip!](https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81) | 2:32 |
 
-Snapshot ID: `AAAAAIRxmT1sSeHVHFeim0CvUuoEreNu`
+Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`

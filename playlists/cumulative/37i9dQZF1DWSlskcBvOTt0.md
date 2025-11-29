@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,037 songs - 3 day 14 hr 21 min
+1,038 songs - 3 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [iPlan](https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zaba](https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC) | [Permanent Music 3](https://open.spotify.com/album/6qXlSLu7mrUz8XIyJaBlow) | 6:50 | 2023-12-01 | 2024-05-11 |
 | [Is It Real \- Tim Engelhardt & Sean Doron Remix](https://open.spotify.com/track/1qjxMcRJ53XetiwsBqrhpF) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE), [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Is It Real \(Tim Engelhardt & Sean Doron Remix\)](https://open.spotify.com/album/1MLxlLcf8ZmfcdfUJ7AEi8) | 4:17 | 2024-05-24 | 2024-07-25 |
 | [Isaka \(6am\)](https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Isaka \(6am\)](https://open.spotify.com/album/3r5uZvE4Cxt6bDibCl6qKY) | 5:49 | 2025-04-11 |  |
-| [It Feels Different Now](https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [It Feels Different Now](https://open.spotify.com/album/6t4sjy5ObPiOqraABIxjWk) | 3:14 | 2025-09-26 |  |
+| [It Feels Different Now](https://open.spotify.com/track/5dKvWRtZxZajgExSnyFkK6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [It Feels Different Now](https://open.spotify.com/album/6t4sjy5ObPiOqraABIxjWk) | 3:14 | 2025-09-26 | 2025-11-29 |
 | [It's You \- Alex Wann Remix](https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1) | [FCL](https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [It’s You \(Alex Wann Remix\)](https://open.spotify.com/album/4RVlszrpBpxLlzdu29sWiN) | 3:51 | 2024-11-01 | 2024-12-10 |
 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 | 2025-05-16 |  |
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-08 | 2022-07-22 |
@@ -520,6 +520,7 @@
 | [Losing My Religion](https://open.spotify.com/track/7xF4m3N4NhUeLVbMnnwOnk) | [Samantha Loveridge](https://open.spotify.com/artist/4j9yrmRQGfRicLiUdcvPjt), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp) | [Losing My Religion](https://open.spotify.com/album/2ClVRUJPXI9Bd6AEqfD7lK) | 4:28 | 2023-06-02 | 2024-04-19 |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-04-19 | 2023-09-30 |
 | [Lost In The Desert](https://open.spotify.com/track/2RNrddOJ8ABDSNIyqCwg25) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF) | [Lost In The Desert](https://open.spotify.com/album/3Dl447qI0KgKOwhVMagDQC) | 4:24 | 2024-11-08 | 2024-11-14 |
+| [Lost In The Mellow Circus](https://open.spotify.com/track/490WOBHMpwktztXilZOcdr) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU) | [Lost In The Mellow Circus](https://open.spotify.com/album/3tOkdgrgsPOSs91djzWoh5) | 3:12 | 2025-11-28 |  |
 | [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-02 | 2023-09-30 |
 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2021-04-21 | 2023-04-29 |
 | [Love and Hate \- Nandu Remix](https://open.spotify.com/track/4UX4lVdixYSjR1gBeIyjs3) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0) | [Temple Of Dreams \(Remixes Part 5\)](https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001) | 3:31 | 2024-02-02 | 2024-07-06 |

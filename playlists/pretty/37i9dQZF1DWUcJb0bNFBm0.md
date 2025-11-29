@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Sunlotus \(Indonesia\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: srwks\. \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,404 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,412 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Something Blue](https://open.spotify.com/track/0eC5DI6DHdKNl6gCZR1HEO) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Instant Comfort](https://open.spotify.com/album/6KBQf0GFYaF9TvulppGidz) | 5:44 |
-| 2 | [Eternal Wailing](https://open.spotify.com/track/3YV2i4ICZUUYFWMvB3Ojkm) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Stephania Shakila](https://open.spotify.com/artist/6M6v6KDBvjtweSnL3i6uSK) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 6:53 |
-| 3 | [In My Head](https://open.spotify.com/track/5MNqHwNYDBkKVtqViQnmaP) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [In My Head / Her](https://open.spotify.com/album/4fBvWh0PM82batrTtlk7XW) | 3:22 |
-| 4 | [LOADED](https://open.spotify.com/track/0JZKXCCxYAYCGDp6fmsphk) | [Toots](https://open.spotify.com/artist/2vG7Gc8oR9AEARU3bPzsiZ) | [LOADED](https://open.spotify.com/album/3FmM1iLuGGigRjAmWKutUl) | 2:42 |
-| 5 | [Dancing Shrimp](https://open.spotify.com/track/622c7gFUpd8saVIC7K6TVc) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Pizza Party Tequila & Xanax](https://open.spotify.com/album/1KxqDhdXGPPFtxEFX4WbOf) | 4:48 |
+| 2 | [Dancing Shrimp](https://open.spotify.com/track/622c7gFUpd8saVIC7K6TVc) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Pizza Party Tequila & Xanax](https://open.spotify.com/album/1KxqDhdXGPPFtxEFX4WbOf) | 4:48 |
+| 3 | [Eternal Wailing](https://open.spotify.com/track/3YV2i4ICZUUYFWMvB3Ojkm) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Stephania Shakila](https://open.spotify.com/artist/6M6v6KDBvjtweSnL3i6uSK) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 6:53 |
+| 4 | [In My Head](https://open.spotify.com/track/5MNqHwNYDBkKVtqViQnmaP) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [In My Head / Her](https://open.spotify.com/album/4fBvWh0PM82batrTtlk7XW) | 3:22 |
+| 5 | [LOADED](https://open.spotify.com/track/0JZKXCCxYAYCGDp6fmsphk) | [Toots](https://open.spotify.com/artist/2vG7Gc8oR9AEARU3bPzsiZ) | [LOADED](https://open.spotify.com/album/3FmM1iLuGGigRjAmWKutUl) | 2:42 |
 | 6 | [retrograde](https://open.spotify.com/track/6PCP233czm2r4cFnsuN1lR) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [you are not real](https://open.spotify.com/album/6NVZkMmV3yMg8bHLV57sSB) | 4:12 |
 | 7 | [Too late](https://open.spotify.com/track/6EST5938544IpKZhFk5ESN) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Too late](https://open.spotify.com/album/4mpr8II2XoPL7HC83hxhNq) | 4:09 |
 | 8 | [そのとき](https://open.spotify.com/track/5dZDHprMDKVwQ5dzU736JL) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 99 | [stay away go!](https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [internet teenage lover](https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK) | 4:34 |
 | 100 | [Kota Lelah](https://open.spotify.com/track/4N4nalAYeIlr70eSbJDKvs) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Sonic Archives](https://open.spotify.com/album/4aJJcG9I4Cj4Q8KTCMzd9K) | 3:14 |
 
-Snapshot ID: `AAAAAJOFj+0iK5qqx2X0265wmNm2P0+S`
+Snapshot ID: `AAAAACGRnU5SAe0oZUQ4iQV1aCd47l4X`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,188 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,197 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 64 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
 | 65 | [Paciencia](https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Al filo del abismo](https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj) | 4:15 |
 | 66 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 |
-| 67 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |
+| 67 | [Mesita del Miravalles](https://open.spotify.com/track/6SmnXXBm7YncpNWmUujfJY) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0XzpwQu58Mfsddh1O405wA) | 3:23 |
 | 68 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 69 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
 | 70 | [Historias](https://open.spotify.com/track/2zksb0j5tjiG83xPDIYuBg) | [El Padre César](https://open.spotify.com/artist/6PjvpIOzogn283TGorNxKN), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Historias](https://open.spotify.com/album/3WqoOfnRn68SsPTtkK3A5O) | 2:54 |

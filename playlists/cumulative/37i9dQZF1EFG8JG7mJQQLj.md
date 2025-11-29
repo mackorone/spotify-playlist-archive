@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-593 songs - 1 day 9 hr 31 min
+594 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,8 @@
 | [Holiday \- Bonus Track](https://open.spotify.com/track/5o5ka05ItTA1yoG8odtpUZ) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [Best Of](https://open.spotify.com/album/3w94bw5d71KiF3NOkxSwPi) | 4:05 | 2024-01-29 |  |
 | [Honey \(with Muni Long\)](https://open.spotify.com/track/1ei5bZDXeMNU4rw3iEQ2zX) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:20 | 2024-01-29 |  |
 | [Honey \- Piano Version](https://open.spotify.com/track/7x8efoIjgyyQGogsHltYFf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND \(Solo Piano Version\)](https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo) | 3:42 | 2025-11-05 |  |
-| [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/0cIzKcSr6dWw0su2ZBCTcQ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:47 | 2024-01-29 |  |
+| [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/0cIzKcSr6dWw0su2ZBCTcQ) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/281qyDCG6ixGTlN0BDJXSf) | 2:47 | 2024-01-29 | 2025-11-29 |
+| [HOW COULD YOU NOT KNOW](https://open.spotify.com/track/6zteHvoa7AnyI9gjeRT49R) | [Jocelyn Alice](https://open.spotify.com/artist/7iymigONRODGl6XJIprcuF) | [BABY GIRL](https://open.spotify.com/album/4HDfCzEnRIIbxurbkdBjxM) | 2:47 | 2025-11-28 |  |
 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 | 2024-01-29 |  |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-07 | 2024-07-15 |
 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 | 2024-07-14 |  |
@@ -347,7 +348,7 @@
 | [Need](https://open.spotify.com/track/3Fgr0oHWqNnzI3061G0hB3) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Make A Move](https://open.spotify.com/album/1EQNkmhggPKCVbFpJldHeb) | 3:47 | 2024-01-29 |  |
 | [Need This](https://open.spotify.com/track/0LAHULt5Ex1dSqeBMRrOYo) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/4MiBVyve588OD16F3Cis1J) | 2:38 | 2024-10-02 |  |
 | [Need This](https://open.spotify.com/track/1NtTh07pR8bWUeZzMpHKdn) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Owl](https://open.spotify.com/album/1JePk3Bz3Oce3zzkiRywGn) | 2:38 | 2024-01-29 | 2024-10-03 |
-| [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 | 2024-01-29 | 2025-11-27 |
+| [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 | 2024-01-29 |  |
 | [Neon Lights](https://open.spotify.com/track/7gJRbWCTtFc6ijYBjRx6aV) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Neon Lights \(Official Video\)](https://open.spotify.com/album/1Aadfa8cRnJtpzD1kzLbvv) | 3:59 | 2024-01-30 | 2024-02-01 |
 | [Neon Lights](https://open.spotify.com/track/6ok1D9R7MZW7slwfRWQ45N) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:42 | 2024-01-29 |  |
 | [Never Let You Go \(feat\. Ryan Tedder\)](https://open.spotify.com/track/74jWtkE4yrDbwukyjgf3SO) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 4:20 | 2024-01-29 |  |

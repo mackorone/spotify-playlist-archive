@@ -1529,6 +1529,48 @@
     },
     {
       "album": {
+        "name": "Galorizzy",
+        "url": "https://open.spotify.com/album/4wiyTKvZUmiW5mTTjc7hzP"
+      },
+      "artists": [
+        {
+          "name": "Galorizzy",
+          "url": "https://open.spotify.com/artist/6S9TlkW0vuMPSukzSi2ekT"
+        },
+        {
+          "name": "Ecool",
+          "url": "https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        },
+        {
+          "name": "Scotts.M",
+          "url": "https://open.spotify.com/artist/5CbILdzsB80ETgCPcfGzVi"
+        },
+        {
+          "name": "Iphxne Dj",
+          "url": "https://open.spotify.com/artist/4EfQl4TQ42KtYG63xYRutj"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253992,
+      "name": "Galorizzy",
+      "url": "https://open.spotify.com/track/7Ipc9fI8BbZnm2U2L5vz5x"
+    },
+    {
+      "album": {
         "name": "Gobe",
         "url": "https://open.spotify.com/album/5sFGAjqTJ1c0WVa3zNpk4Z"
       },
@@ -2176,7 +2218,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"

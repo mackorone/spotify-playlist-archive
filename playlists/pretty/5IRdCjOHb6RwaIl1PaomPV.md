@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer, Bennett Coast, and Pegassi.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,679 likes - 100 songs - 5 hr 44 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,676 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 10 | [27a Pitfield St](https://open.spotify.com/track/53uhTsdGotEgrDAJydRSov) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Forever](https://open.spotify.com/album/7c2Tim7H0rp30NoE8dVbu5) | 2:47 |
 | 11 | [Exitin](https://open.spotify.com/track/04GobBF9S74lfUGKIYLkcP) | [Cece Natalie](https://open.spotify.com/artist/41CdW0otOaIg40HyVDPm2F) | [Miss Behaves](https://open.spotify.com/album/5wYCR4cyy7F4B9V9GGHbud) | 3:07 |
 | 12 | [Angel](https://open.spotify.com/track/4FruossVF98i2rAN40buon) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [HEROINA](https://open.spotify.com/album/49MiJYe7d4CfKDeJFqAWal) | 3:06 |
-| 13 | [Catch Me \(feat\. Naaz\) \- Dj Jedag Jedug Remix](https://open.spotify.com/track/2VnuwAuvVHxrRP778xWUG3) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Dj Jedag Jedug](https://open.spotify.com/artist/5dX0YsbXvCbqy1CGJ4efq5), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Blood For Mercy \(10th Anniversary 2025 Remaster\)](https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g) | 2:05 |
+| 13 | [Catch Me \(feat\. Naaz\) \- Dj Jedag Jedug Remix](https://open.spotify.com/track/2VnuwAuvVHxrRP778xWUG3) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DJ JEDAG JEDUG](https://open.spotify.com/artist/1itOzty1USG70kv2sEyMKr), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Blood For Mercy \(10th Anniversary 2025 Remaster\)](https://open.spotify.com/album/254eBFR9RejuAMJemzTy4g) | 2:05 |
 | 14 | [Video Mind](https://open.spotify.com/track/6i4HXAiCheoAewgY5pxC6c) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Fashion For The Mourning](https://open.spotify.com/album/3I1mbyWW01ZmdUXrpUpyuW) | 3:37 |
 | 15 | [Badman](https://open.spotify.com/track/5UzypuRZAmvW4ySeVIV56D) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Fashion For The Mourning](https://open.spotify.com/album/3I1mbyWW01ZmdUXrpUpyuW) | 2:54 |
 | 16 | [Bring It Back](https://open.spotify.com/track/24ZahOwPra9cPxv6RO1G1R) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Bring It Back](https://open.spotify.com/album/4QjbL64QEVqwc8VqrZbSPG) | 3:48 |

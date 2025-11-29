@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring Foudeqush \u2728",
+  "description": "como en una nube. Bedroom pop vibes featuring fidoisblue \u2728",
   "name": "dreamy ",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 180236,
       "name": "2000nunca",
       "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 213088,
       "name": "80's",
       "url": "https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 114706,
       "name": "Deriva",
       "url": "https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 229615,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8"
@@ -4164,6 +4164,24 @@
       "duration_ms": 186156,
       "name": "Moncler",
       "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
+    },
+    {
+      "album": {
+        "name": "Monterrey",
+        "url": "https://open.spotify.com/album/1Xe894qEmBKCk0Nd7HMzga"
+      },
+      "artists": [
+        {
+          "name": "Edgar Villarreal",
+          "url": "https://open.spotify.com/artist/4Gs8OzUWnl7S6Zmdh7UwoK"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193671,
+      "name": "Monterrey",
+      "url": "https://open.spotify.com/track/75AZBKXYy52p3H7kU4bfJ1"
     },
     {
       "album": {
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 259579,
       "name": "Prometimos No Hablar",
       "url": "https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF"
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 201931,
       "name": "Si t\u00fa vuelves",
       "url": "https://open.spotify.com/track/2XCobKSIKF6S27TCmHnAzh"
@@ -6347,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Traigo un monte",
+        "url": "https://open.spotify.com/album/4Tji6shiBgFB3oHHIqPmWo"
+      },
+      "artists": [
+        {
+          "name": "Bosque",
+          "url": "https://open.spotify.com/artist/6xIiv2i3zkP4mzGQvGVHTS"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Tiempo, a ver",
+      "url": "https://open.spotify.com/track/6GD69uM56K8RSEY2K4bBvK"
+    },
+    {
+      "album": {
         "name": "Toda La Luz",
         "url": "https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p"
       },
@@ -6528,6 +6564,24 @@
       "duration_ms": 216468,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/0xGwvVzNbl4Dym2xjsouRr"
+    },
+    {
+      "album": {
+        "name": "t\u00fa y yo",
+        "url": "https://open.spotify.com/album/7JZsAk0CQI5HKLRoCDV9jm"
+      },
+      "artists": [
+        {
+          "name": "fidoisblue",
+          "url": "https://open.spotify.com/artist/2IEpSetcwTdjlktsTRlBjI"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148043,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/2ctZiTm8JNvmQsBfrr5T3g"
     },
     {
       "album": {
@@ -6952,6 +7006,24 @@
       "duration_ms": 187815,
       "name": "Vuelvo A Ti",
       "url": "https://open.spotify.com/track/0a5pyR7iQFtlRMBzHh8XQH"
+    },
+    {
+      "album": {
+        "name": "#dreamcore",
+        "url": "https://open.spotify.com/album/2ywZ8Pl0PM3cc2cb2xvVbw"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224750,
+      "name": "www.malcriadamusic.com",
+      "url": "https://open.spotify.com/track/2vudAsdYCi6hIxN4kzt6VQ"
     },
     {
       "album": {

@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "AG\u00dcITADO",
+        "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168034,
+      "name": "AG\u00dcITADO",
+      "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
+    },
+    {
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1132,7 +1154,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193613,
       "name": "El \u00c1guila Real (Nave 727)",
       "url": "https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK"

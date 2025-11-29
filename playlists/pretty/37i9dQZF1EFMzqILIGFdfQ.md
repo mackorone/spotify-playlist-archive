@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 116 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,059 likes - 116 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 7 | [ENERGY \(feat\. Beam\)](https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 1:56 |
 | 8 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
 | 9 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 |
-| 10 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 |
-| 11 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:41 |
+| 10 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:41 |
+| 11 | [MEGATRON](https://open.spotify.com/track/1ZDmxwg7Lywlx68b7SsJjj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [MEGATRON](https://open.spotify.com/album/4PsIFkX5QIvAI0xB7qHugW) | 3:10 |
 | 12 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 |
 | 13 | [CRZY](https://open.spotify.com/track/6Dwtha2FtZFoMEBh5GR2sq) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:11 |
 | 14 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 95 | [Me + You](https://open.spotify.com/track/1ZVHmwgdfGjFe01SaqXm3J) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Me + You](https://open.spotify.com/album/2vtMfH5f2TCeTvc7fi63ce) | 3:34 |
 | 96 | [Keep It Movin’](https://open.spotify.com/track/2IWvs7NUJ54EeZuosgnmM9) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Phylicia Pearl Mpasi](https://open.spotify.com/artist/4sgoLI8KFagQQt3wiIMcHC) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 3:52 |
 | 97 | [Love Suicide](https://open.spotify.com/track/19FFLSUP97EtKlicaB0slt) | [Tessanne Chin](https://open.spotify.com/artist/3gtaVMrNBTAFtlzYTeHNua) | [Love Suicide \- Single](https://open.spotify.com/album/3588siG1z4pQFxBDHz8DC5) | 3:27 |
-| 98 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 |
-| 99 | [Finally \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/3WZn98ifY0D3WmnZWlVZRw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Finally \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/3xQ8XKfiCYGewk8b3oBFNe) | 4:09 |
+| 98 | [Finally \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/3WZn98ifY0D3WmnZWlVZRw) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Finally \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/3xQ8XKfiCYGewk8b3oBFNe) | 4:09 |
+| 99 | [Chemistry](https://open.spotify.com/track/2wIxANHzWpJuGp7JbCW1Kk) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:01 |
 | 100 | [Westside](https://open.spotify.com/track/3bItNedEUjf8f1BIUqWQay) | [Charm La'Donna](https://open.spotify.com/artist/4EATVWAsGWEbpI1GH0lCiT) | [La'Donna](https://open.spotify.com/album/3DCseDHoJhI3dLk3TwmjqH) | 2:56 |
 | 101 | [Keep Pushin’ \(Missy Elliott Remix\) \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/2iJD1owfFgSQjPQTnG7C0P) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Rico Santana](https://open.spotify.com/artist/0WG1mFn0LkcBZSW7gvUlPV), [Corte Ellis](https://open.spotify.com/artist/4GsvJxjhrNMK7SpsmpbZFt) | [Keep Pushin’ \(Missy Elliott Remix\) \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/6rFY4YdVyFxWBTV3JtPJ7R) | 2:27 |
 | 102 | [Mama I Made It \(How We Do It\)](https://open.spotify.com/track/6SaMuPtzdKuRne9Q5ySoBR) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Say Mo](https://open.spotify.com/artist/4m0SRqbCQvBLrk4MO0nML4) | [Mama I Made It \(How We Do It\)](https://open.spotify.com/album/4qHDwSgNteS5Nk2cS9Ug2Q) | 3:24 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMzqILIGFdfQ.md) - [plain]
 | 115 | [Heaven On Earth](https://open.spotify.com/track/55NGMZ4yqhnXZ5ucOww4lw) | [Kendall Cudd](https://open.spotify.com/artist/5omufeVw7t0EfjorCC8rDK) | [Heaven On Earth](https://open.spotify.com/album/7ufOgb0K3eDHvkiJiojFHj) | 2:45 |
 | 116 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 |
 
-Snapshot ID: `AcCvcAAAAADzi+6KpU74n+vhP3pEy6ML`
+Snapshot ID: `AcC1EAAAAABxm3+9C8tyOg8r0rdW4qDp`

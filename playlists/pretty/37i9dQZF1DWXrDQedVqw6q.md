@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 
 > Calm music to help you focus on your reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,658 likes - 113 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,693 likes - 113 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 |
 | 2 | [White Pine Walk](https://open.spotify.com/track/3ufE58IyU7sQ3eVgeO0xu2) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [White Pine Walk](https://open.spotify.com/album/6iJ81bctWngX1dka5Wmj1x) | 1:04 |
 | 3 | [hidden in the heather](https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [hidden in the heather](https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ) | 2:15 |
-| 4 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 |
-| 5 | [Glowfall](https://open.spotify.com/track/3MDAGUzIwtNfriGkxJAazG) | [Stardustara](https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS) | [Glowfall](https://open.spotify.com/album/6Aszp5YqbWTov0plJQbmsc) | 2:48 |
+| 4 | [Glowfall](https://open.spotify.com/track/3MDAGUzIwtNfriGkxJAazG) | [Stardustara](https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS) | [Glowfall](https://open.spotify.com/album/6Aszp5YqbWTov0plJQbmsc) | 2:48 |
+| 5 | [Recumbent](https://open.spotify.com/track/6pFr2LQhkK3vwJ7WeQdwea) | [Rellendum](https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY) | [Recumbent](https://open.spotify.com/album/0DTsSWOCx0CJUDTv3QouHt) | 2:07 |
 | 6 | [Kasumi](https://open.spotify.com/track/1colGrag0pPDCAqOghAMA1) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Kasumi](https://open.spotify.com/album/1ibkDw7AGynU7UvyhTQV28) | 2:15 |
 | 7 | [Skuggfält](https://open.spotify.com/track/1z00ZOyncZVlIjmTNsykuO) | [Freja Lönn](https://open.spotify.com/artist/51Cj51rdauVedrbequipzo) | [Skuggfält](https://open.spotify.com/album/51YdeUDFqmYGVIwpdsNfYR) | 2:52 |
 | 8 | [Timeless](https://open.spotify.com/track/4wDO6MjP0OoVxwHVizSBip) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Hourglass](https://open.spotify.com/album/50By33dGFe0wJ6GiQZKO8T) | 2:58 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrDQedVqw6q.md) - [plain]
 | 112 | [Reveries](https://open.spotify.com/track/1ZVTGSiQgZpat29115Whiv) | [Astred](https://open.spotify.com/artist/15ePtWQalF3PZbWRhZbck5) | [Reveries](https://open.spotify.com/album/4RqbjSBSX042YKc9X1NUKW) | 3:04 |
 | 113 | [Appalachia Borealis](https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [Appalachia Borealis](https://open.spotify.com/album/6CGLtIg3MR7NfDINHlZCm8) | 3:34 |
 
-Snapshot ID: `AAAAAI+gL77xXfjFhj4inWwlgsx5XXOB`
+Snapshot ID: `AAAAANpXJaQQ8um8f/FUcllDZpd6HgW1`

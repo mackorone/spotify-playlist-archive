@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \ud64d\uc774\uc0ad) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uacb8 (GYE0M)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 237600,
       "name": "dear - monstera ver.",
       "url": "https://open.spotify.com/track/67tqFgcYqw6eIcrkf9wN3E"
@@ -3062,7 +3062,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -5725,6 +5725,24 @@
     },
     {
       "album": {
+        "name": "Love, After All",
+        "url": "https://open.spotify.com/album/78rLlylzjtm8JpCbFpUQkz"
+      },
+      "artists": [
+        {
+          "name": "GYE0M",
+          "url": "https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237619,
+      "name": "Love, After All",
+      "url": "https://open.spotify.com/track/220eac16XYiepPKj7igHzB"
+    },
+    {
+      "album": {
         "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
         "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
       },
@@ -7484,7 +7502,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 224189,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3WJ6HJ1kebnVA7S8bPKnEP"

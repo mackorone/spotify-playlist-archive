@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,299 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,316 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 19 | [1952 Vincent Black Lightning](https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT) | [Richard Thompson](https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz) | [Rumor And Sigh](https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ) | 4:43 |
 | 20 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 21 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 22 | [Do I Look Worried](https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 4:35 |
-| 23 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 |
+| 22 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 |
+| 23 | [Do I Look Worried](https://open.spotify.com/track/1JFdocYRMthec2BNrkOF1b) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Made Up Mind](https://open.spotify.com/album/41qVSZezrAYJ8zXZvoyLGA) | 4:35 |
 | 24 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
 | 25 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 |
 | 26 | [Are You Alright?](https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [West](https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K) | 5:18 |
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 81 | [Reverie](https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9) | [Son Volt](https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe) | [Electro Melodier](https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS) | 3:35 |
 | 82 | [Barbeque](https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [The Party Never Ends](https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc) | 4:42 |
 | 83 | [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 |
-| 84 | [I'm Dying for Someone to Live For](https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Wouldn't It Be Great](https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr) | 2:30 |
-| 85 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
+| 84 | [I Am Your Tambourine](https://open.spotify.com/track/0TWanZCXaXfRwCpOhcgJ6A) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Tambourine](https://open.spotify.com/album/5WxgJTkb7d1eGsCAoG276N) | 3:44 |
+| 85 | [I'm Dying for Someone to Live For](https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Wouldn't It Be Great](https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr) | 2:30 |
 | 86 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
 | 87 | [36 Cents](https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [36 ¢](https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV) | 4:24 |
 | 88 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
 | 89 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
 | 90 | [New York City](https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Robby Hecht](https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4) | 3:41 |
-| 91 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
-| 92 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 91 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 92 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
 | 93 | [Troublesome Waters](https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA) | [Carlene Carter](https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Carter Girl](https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T) | 5:18 |
 | 94 | [Every Pilgrim Needs a Highway](https://open.spotify.com/track/0AsSPcTKgY81UnorV87EJa) | [Craig Market](https://open.spotify.com/artist/6FhgZHX7TCADlFAnBawzov), [Thomm Jutz](https://open.spotify.com/artist/1ebv4m89CN6v5nKtG0yu2D) | [Nowhere to Hide](https://open.spotify.com/album/2ffD2tYaD8wcbnsgOudUtA) | 3:32 |
 | 95 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |

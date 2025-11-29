@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140346,
+  "num_followers": 140342,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,26 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Broski\u2019s",
+        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Broski\u2019s",
+      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Love Doesn't Exist",
         "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 170269,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Broski\u2019s",
-        "url": "https://open.spotify.com/album/6QQveJTy0ZAbqBMTYwpS3V"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Broski\u2019s",
-      "url": "https://open.spotify.com/track/3D0wRuJbUqjoLdeXEYc5E3"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 166911,
       "name": "Van Mij Zijn",
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
-        "name": "Appel Mint Puur",
-        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 207430,
-      "name": "Appel Mint Puur",
-      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
         "name": "PGS",
         "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 151016,
       "name": "PGS",
       "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
+        "name": "Appel Mint Puur",
+        "url": "https://open.spotify.com/album/38hA8Zqn3mR4pO5us9D6uQ"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 207430,
+      "name": "Appel Mint Puur",
+      "url": "https://open.spotify.com/track/3Pv2qL5XAHqx6j1L5ZkeY3"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Herinnering",
+        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 154663,
+      "name": "Herinnering",
+      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Strandje Aan De Maas",
         "url": "https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 161252,
       "name": "Tyar\u2019 En Waka",
       "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Herinnering",
-        "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 154663,
-      "name": "Herinnering",
-      "url": "https://open.spotify.com/track/17iAh2zKuYtwOSTFvQIYY0"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 195643,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
         "name": "In De Nacht",
         "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 150840,
       "name": "In De Nacht",
       "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/2UMTQXRwobqaIDJaYDsHN8"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 195643,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7kleqbfZAvPzMMiX1uxCin"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
+        "name": "Stemgeluid",
+        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
+      },
+      "artists": [
+        {
+          "name": "Vlins",
+          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
+        },
+        {
+          "name": "Laura Yasmin",
+          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
+        }
+      ],
+      "duration_ms": 175263,
+      "name": "Stemgeluid",
+      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
-        "name": "Stemgeluid",
-        "url": "https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk"
-      },
-      "artists": [
-        {
-          "name": "Vlins",
-          "url": "https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5"
-        },
-        {
-          "name": "Laura Yasmin",
-          "url": "https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2"
-        }
-      ],
-      "duration_ms": 175263,
-      "name": "Stemgeluid",
-      "url": "https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj"
     },
     {
       "added_at": "2025-11-20 23:00:56",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2025-11-20 23:00:56",
       "album": {
-        "name": "Klop Klop",
-        "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        }
-      ],
-      "duration_ms": 167684,
-      "name": "Meteoriet",
-      "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
-    },
-    {
-      "added_at": "2025-11-20 23:00:56",
-      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 147090,
       "name": "Love = Scary",
       "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
+    },
+    {
+      "added_at": "2025-11-20 23:00:56",
+      "album": {
+        "name": "Klop Klop",
+        "url": "https://open.spotify.com/album/0W6z6Tvad2uvZ0mQb8651o"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        }
+      ],
+      "duration_ms": 167684,
+      "name": "Meteoriet",
+      "url": "https://open.spotify.com/track/1ruXNzERqtHdoXULOAcCsJ"
     },
     {
       "added_at": "2025-11-20 23:00:56",

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: Neton Vega, Peso Pluma & Tiesto",
+  "description": "The wave of Latin Electronic music. Cover: R\u00d8Z",
   "name": "mint Latin",
   "tracks": [
+    {
+      "album": {
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125814,
+      "name": "/Tramadol",
+      "url": "https://open.spotify.com/track/4YPkc6Jb9Oh0SIylROVNOa"
+    },
     {
       "album": {
         "name": "2 Da Floor",
@@ -878,6 +896,28 @@
       "duration_ms": 169062,
       "name": "Bien Loco",
       "url": "https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA"
+    },
+    {
+      "album": {
+        "name": "Bitch",
+        "url": "https://open.spotify.com/album/2lfxXTo48Acq4YZXO4wkSJ"
+      },
+      "artists": [
+        {
+          "name": "Private Music",
+          "url": "https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L"
+        },
+        {
+          "name": "Joonyes",
+          "url": "https://open.spotify.com/artist/3blefdKESIFMEPBM11UYw9"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/6CB9r4IC3iHpKjowIVinOV"
     },
     {
       "album": {
@@ -4463,6 +4503,28 @@
     },
     {
       "album": {
+        "name": "la vuelta",
+        "url": "https://open.spotify.com/album/5KCeDTcZYLehMtRszwxkoD"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199846,
+      "name": "la vuelta",
+      "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+    },
+    {
+      "album": {
         "name": "Labios (La Noche)",
         "url": "https://open.spotify.com/album/3X8HllC0xAvaYMJ1TevzXG"
       },
@@ -4676,6 +4738,24 @@
       "duration_ms": 147352,
       "name": "LIBRE",
       "url": "https://open.spotify.com/track/1NkqNR5EokqtxGvFA1XblI"
+    },
+    {
+      "album": {
+        "name": "Like A Cholo",
+        "url": "https://open.spotify.com/album/5cQnTE6EHg3H2FKXa87OfA"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Like A Cholo",
+      "url": "https://open.spotify.com/track/29XFfrZ8TSbBJWRzuzRPxc"
     },
     {
       "album": {

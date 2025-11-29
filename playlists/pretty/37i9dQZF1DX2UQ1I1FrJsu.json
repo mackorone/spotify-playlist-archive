@@ -1,12 +1,12 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 137313,
+  "num_followers": 137386,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMdJeXpUTFrYhnLaBTJ5FrKCeRK",
+  "snapshot_id": "AAAAAJ3/5jnYOdv4SlquiHj52joKrn6F",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:33",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-11-21 05:00:33",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
-    },
-    {
-      "added_at": "2025-11-21 05:00:33",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 344680,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj"
+    },
+    {
+      "added_at": "2025-11-21 05:00:33",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
     },
     {
       "added_at": "2025-11-21 05:00:33",

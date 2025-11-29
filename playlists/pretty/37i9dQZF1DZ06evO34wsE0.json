@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251490,
+  "num_followers": 251498,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAeERuIn2vUXWjZe933asor",
+  "snapshot_id": "aSeUgAAAAAC8N60HJJv6HbiOw9XGBg2o",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up! (Red and Green Versions)",
+        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "When You Kiss Me",
+      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
         "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 176000,
       "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
       "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up! (Red and Green Versions)",
-        "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 246826,
-      "name": "When You Kiss Me",
-      "url": "https://open.spotify.com/track/1BA3xgTr3U6fMT4UwlRgwH"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day of Summer",
-        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
+        "name": "Shania Twain",
+        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 190268,
-      "name": "Last Day of Summer",
-      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
+      "duration_ms": 168933,
+      "name": "You Lay A Whole Lot Of Love On Me",
+      "url": "https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs"
     }
   ],
   "unique_name": "This Is Shania Twain",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Kery James
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,135 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,143 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [R.A.P](https://open.spotify.com/track/6dTMjsMC9VHEvUNvmJkx1J) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle) | [](https://open.spotify.com/album/null) | 4:46 |
+| 1 | [R.A.P](https://open.spotify.com/track/6dTMjsMC9VHEvUNvmJkx1J) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle) | [R.A.P](https://open.spotify.com/album/67zNwWM049qwffckBDIzPY) | 4:46 |
 | 2 | [Ce qui restera](https://open.spotify.com/track/453CZ5QOvjjiP2C9mMGfEh) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Dieu Donne, J’utilise part.1](https://open.spotify.com/album/2d7lwWCSsSZU62EuuJulKg) | 2:56 |
 | 3 | [SOLDAT](https://open.spotify.com/track/7aE1A09IXb9jqyx9lsJ00e) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL) | [SOLDAT](https://open.spotify.com/album/6Gj0mMnBLqqiJSU6n3r7Ba) | 1:55 |
 | 4 | [L'usine](https://open.spotify.com/track/6SxhEpfC7K1A7d48QdXxNj) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [L'usine](https://open.spotify.com/album/3wXVPlj7mpDK2wf8GobWMD) | 3:32 |

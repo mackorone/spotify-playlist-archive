@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-704 songs - 2 day 5 hr 24 min
+705 songs - 2 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [New Evil](https://open.spotify.com/track/2rDkRLPyZoeUz0Z5nLz4Lr) | [Nocturna](https://open.spotify.com/artist/3Eo8pwg5OKX59PKpAFfPqX) | [Daughters Of The Night](https://open.spotify.com/album/2jtvxz7ihLYzIVjnaomd5J) | 4:25 | 2023-05-19 | 2024-04-19 |
 | [New Found Power](https://open.spotify.com/track/0KKDXtEugnwp8lyNPo0YxK) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [New Found Power](https://open.spotify.com/album/3SIe3cPl0rIvPMCafeSNyV) | 4:15 | 2021-10-29 | 2022-06-12 |
 | [New Horizons](https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [New Horizons](https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK) | 4:25 | 2023-05-19 | 2025-06-07 |
+| [Nexus](https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Equinox](https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ) | 4:07 | 2025-11-28 |  |
 | [Night Call Girl](https://open.spotify.com/track/7BwCvMXMUf1kt36Xfbi9k6) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Night Call Girl](https://open.spotify.com/album/56gGS0xjiT7JeEQVRFXKiC) | 4:43 | 2020-11-29\* | 2021-05-07 |
 | [Night of Winterlight](https://open.spotify.com/track/2rKcdlxT26F4eUKAOxv3gE) | [Twilight Force](https://open.spotify.com/artist/0tO6ALWmduAbneXoHmnl2T) | [Night of Winterlight](https://open.spotify.com/album/6lEItenfBY37nilP64qkrS) | 5:07 | 2020-11-29\* | 2021-05-14 |
 | [Ninja Dance](https://open.spotify.com/track/5ouKKuCddQ6Pum6aN1JJBs) | [Gyze](https://open.spotify.com/artist/0E40KPKfyyqTXyPHbPf2ou) | [Ninja Dance](https://open.spotify.com/album/0ArZvQvpzTCvJIEhZxrssR) | 3:42 | 2021-09-25 | 2022-03-12 |
@@ -583,7 +584,7 @@
 | [The Grand Inferno](https://open.spotify.com/track/6wvS71j5iww95t0Wu07kJI) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [The Grand Inferno](https://open.spotify.com/album/0pa0VDXc571gPfHDTICWiq) | 4:42 | 2024-09-20 | 2024-12-02 |
 | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/track/4xXkmpsOPJtR7z7dy0tiNn) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp), [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [The Great Tribulation \(feat\. Fleshgod Apocalypse\)](https://open.spotify.com/album/73I0s203vjEG5d7ZC2PtsV) | 5:03 | 2022-10-14 | 2022-10-27 |
 | [The Hanging Tree](https://open.spotify.com/track/1VkIiifhcYok0aujKKYCHZ) | [Elvenking](https://open.spotify.com/artist/09b5OcuIELTdD7FfzQzcdB) | [The Hanging Tree](https://open.spotify.com/album/44ZPTnl5lj6W0RvZPgKSHM) | 4:27 | 2023-01-20 | 2025-05-06 |
-| [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 | 2022-08-05 |  |
+| [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 | 2022-08-05 | 2025-11-29 |
 | [The Hawthorn](https://open.spotify.com/track/1Kyu2V8kxobYLdGHVrrmFU) | [Cruachan](https://open.spotify.com/artist/6QpbkfyEQJ3JiQw2AbTRUH) | [The Hawthorn](https://open.spotify.com/album/0rhNvRLBxdsDYjrRotRsuW) | 4:59 | 2020-11-29\* | 2021-11-20 |
 | [The Inevitable End](https://open.spotify.com/track/1f0WFbQxhMXx2U3q53FaFZ) | [Etherius](https://open.spotify.com/artist/2Zf0Tw5O2i9ecpqmSl5lOb) | [The Inevitable End](https://open.spotify.com/album/3HzXlBc2Y1gvlBhr14aNH0) | 4:01 | 2022-07-13 | 2022-07-30 |
 | [The Keeper](https://open.spotify.com/track/41tlP5zUoBL8Zca4EGUiPv) | [Solarus](https://open.spotify.com/artist/1uyqmZqACSHV00vIFCsALU) | [A Dance With Tragedy](https://open.spotify.com/album/62vkQQ6Y4eVH0udX8eBxKA) | 5:40 | 2021-12-17 | 2022-04-23 |

@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-153 songs - 6 hr 55 min
+154 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Did It Again](https://open.spotify.com/track/4Z2oORKlQdMBpI3syl8iZl) | [TRTrizzy](https://open.spotify.com/artist/2CXGDRh4MYWK9NPff9nCMy), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Did It Again](https://open.spotify.com/album/5PT0DdEwow8sctBE5EVz3O) | 3:04 | 2024-02-17 | 2024-04-12 |
 | [Dirt McGerk \(feat\. EST Gee & Lil Crix\)](https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:53 | 2023-05-27 | 2025-06-16 |
 | [Do My Own Stunts](https://open.spotify.com/track/0j2WIceULTVtQV4iqlq33W) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 2:30 | 2025-02-02 | 2025-06-29 |
+| [El Toro](https://open.spotify.com/track/6jmKbCmt3dsJT6xBUrKvOB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:44 | 2025-11-29 |  |
 | [EST GEE – boss of all bosses 9.26](https://open.spotify.com/track/32hCGWrrB67OcyE9oxjeJn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 1:16 | 2025-06-16 | 2025-06-21 |
 | [Everybody Shooters Too](https://open.spotify.com/track/6QHlEUJAtLzAtb1ZmhSamg) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 1:52 | 2022-10-28 |  |
 | [Fa Fa Fa \(Yo Gotti, EST Gee\)](https://open.spotify.com/track/0lXARimmFyRbhQsv0is6Ju) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:44 | 2023-10-10 | 2023-12-25 |
@@ -136,7 +137,7 @@
 | [Steve and Jony](https://open.spotify.com/track/43FHpBvKLq6PBVYD4kLDSL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 2:56 | 2023-11-10 | 2024-01-17 |
 | [Strong \(EST Gee, Moneybagg Yo\)](https://open.spotify.com/track/7vlUxa8sFLirILRYnmHWEh) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 2:11 | 2022-10-28 | 2022-12-05 |
 | [Switches & Dracs \(with Lil Durk feat\. EST Gee\)](https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:13 | 2022-10-28 |  |
-| [Take my time Geeski SH Feb 23](https://open.spotify.com/track/4cJx4c5R3ZpegG6fq1pFPC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 | 2025-07-14 |  |
+| [Take my time Geeski SH Feb 23](https://open.spotify.com/track/4cJx4c5R3ZpegG6fq1pFPC) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 2:54 | 2025-07-14 | 2025-11-29 |
 | [Take my time Geeski SH Feb 23](https://open.spotify.com/track/5HX3m4LUWtDjFBtTLd8PHo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Take my time Geeski SH Feb 23](https://open.spotify.com/album/0cH8XPlr5xRwUWABrGEye6) | 2:54 | 2025-06-07 | 2025-07-14 |
 | [THE BIGGEST](https://open.spotify.com/track/7Fr5xo3GHRrJ1Q5kacxrGv) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:15 | 2023-08-21 | 2023-09-19 |
 | [The King](https://open.spotify.com/track/5L4xGFT1D0F9Pp2rL5oXos) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [El Toro](https://open.spotify.com/album/5Toh6bfdNUnxAZHlTbe1b3) | 2:11 | 2024-03-19 |  |

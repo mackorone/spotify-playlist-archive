@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22669,
+  "num_followers": 22674,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAB/ukPXkpcyLYTQRmy2QY9n",
+  "snapshot_id": "aSeUgAAAAAAj9QjW0fxrfC2yWWwlUQxy",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 309173,
+      "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drive In (Ao Vivo)",
         "url": "https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 352064,
       "name": "Todavia me Alegrarei (Ao Vivo)",
       "url": "https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 309173,
-      "name": "Medley - Corinhos de Fogo (Deus Forte Como Jeov\u00e1 / Divisa de Fogo / Vem C\u00e1 Vem Ver / Carros de Fogo / Jac\u00f3 Segurou o Anjo / Desemborca o Vaso) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO"
     },
     {
       "added_at": null,
@@ -291,22 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasci Pra Voar",
-        "url": "https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7"
+        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
       },
       "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 309001,
-      "name": "Que Tal",
-      "url": "https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y"
+      "duration_ms": 289598,
+      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/58XvmnEv0FeuIPOm9J24It"
+        "name": "Nasci Pra Voar",
+        "url": "https://open.spotify.com/album/6u8T90oj5FjrcsoljgjmT7"
       },
       "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 289598,
-      "name": "Reescreve a Minha Hist\u00f3ria (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ASFmAqQWs1vLMkfHBeNPN"
+      "duration_ms": 309001,
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/1cKmv6Ca3hqonAttrAOH6y"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quem Me Tocou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 293030,
-      "name": "Quem Me Tocou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 220589,
       "name": "Jesus N\u00e3o Esqueceu de Voc\u00ea",
       "url": "https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quem Me Tocou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 293030,
+      "name": "Quem Me Tocou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 277339,
-      "name": "Eu Vim Te Adorar",
-      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milagre",
         "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 300234,
       "name": "Um Novo Tempo",
       "url": "https://open.spotify.com/track/1olnFjuP51k8W4xgGZYfjs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 277339,
+      "name": "Eu Vim Te Adorar",
+      "url": "https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enquanto a Igreja Ora (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 196200,
       "name": "Enquanto a Igreja Ora (Ao Vivo)",
       "url": "https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 314542,
       "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
       "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 265032,
+      "name": "T\u00fa \u00c9s Adorado",
+      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Melhor Pra Ti",
         "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
       },
@@ -735,6 +751,22 @@
       "duration_ms": 243000,
       "name": "O Melhor Pra Ti",
       "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
     },
     {
       "added_at": null,
@@ -763,38 +795,6 @@
       "duration_ms": 298144,
       "name": "Meu Milagre (Ao Vivo)",
       "url": "https://open.spotify.com/track/5JlfhpLoJTtsQNqrRs8OAa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 265032,
-      "name": "T\u00fa \u00c9s Adorado",
-      "url": "https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW"
     },
     {
       "added_at": null,

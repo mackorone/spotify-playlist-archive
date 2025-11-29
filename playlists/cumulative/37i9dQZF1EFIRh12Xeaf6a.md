@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-341 songs - 17 hr 28 min
+342 songs - 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,8 @@
 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 | 2023-12-30 |  |
 | [Directions](https://open.spotify.com/track/0FkpcNnT38YM9NLRVjLWvv) | [Illskillz](https://open.spotify.com/artist/2uPLrf6Eg6PENCm0l1uSg7) | [Sick Music 2](https://open.spotify.com/album/7fsWT3eJkTw46541pYLC7g) | 6:20 | 2023-12-30 |  |
 | [Disco Tech](https://open.spotify.com/track/2DZNCsROS75UeAfUIJBQ03) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:09 | 2023-12-30 |  |
-| [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 | 2024-01-04 |  |
-| [Don't Bring Me Down \- Remastered](https://open.spotify.com/track/0IVtfmGFFY9DzXMQcBSJSs) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things \(Remastered\)](https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q) | 2:10 | 2025-09-10 | 2025-11-28 |
+| [Don't Bring Me Down \(Bonus Track\)](https://open.spotify.com/track/15ZTgm66bORwVxRQySgMkN) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [Animalisms](https://open.spotify.com/album/5owTdQnJSxKgLgnz8ZgFmc) | 3:16 | 2024-01-04 | 2025-11-29 |
+| [Don't Bring Me Down \- Remastered](https://open.spotify.com/track/0IVtfmGFFY9DzXMQcBSJSs) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [The Pretty Things \(Remastered\)](https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q) | 2:10 | 2025-09-10 |  |
 | [Don't Ever Take Her For Granted](https://open.spotify.com/track/4qxdMUUt6w1Eh4J5epKYJA) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [The Essential Bobby Vee](https://open.spotify.com/album/4pUfjuVHUx9UpYMpgRlMgk) | 3:06 | 2023-12-30 |  |
 | [Don't Have The Right To Cry](https://open.spotify.com/track/3snVJyPEbFrnKdAYXzU0k6) | [Erma Franklin](https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG) | [Erma Franklin: Piece Of Her Heart \- The Epic And Shout Years](https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW) | 3:19 | 2023-12-30 |  |
 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 | 2023-12-30 |  |
@@ -244,7 +244,8 @@
 | [Snow Queen](https://open.spotify.com/track/4ixqlGDNCyg5HvWDtC0lBQ) | [Aliotta Haynes Jeremiah](https://open.spotify.com/artist/4VmWYQQ5M9N9AiAx14v2yg) | [Lake Shore Drive](https://open.spotify.com/album/24NY6n4z0tDzpt8QCiWEGV) | 4:32 | 2023-12-30 |  |
 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 | 2025-09-10 |  |
 | [So Far Away](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:55 | 2023-12-30 |  |
-| [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 | 2023-12-30 |  |
+| [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 | 2023-12-30 | 2025-11-29 |
+| [So Goes Love \[Unissued Single\]](https://open.spotify.com/track/3ygLf0mbG1TcyqLY0ppADX) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [The Best Of The Turtles \('65 \- '67\)](https://open.spotify.com/album/0uuB2CxAtHWcwkU8hM4w9P) | 2:38 | 2025-11-28 |  |
 | [So Many Ways](https://open.spotify.com/track/7scWRQNIqipbmrcngQfwmf) | [Crash Kings](https://open.spotify.com/artist/08QZWYiCiN62cbBoq8JR5I) | [Dark Of The Daylight](https://open.spotify.com/album/70uumErsWpotWrGrfmkqiH) | 4:06 | 2023-12-30 |  |
 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 | 2023-12-30 |  |
 | [Sochy V Dešti](https://open.spotify.com/track/2p4LGTKcOWd2BznnqEdEVW) | [Eva Pilarová](https://open.spotify.com/artist/1OdNNnYsNlXvq3ZKZ94x60), [Jaromír Mayer](https://open.spotify.com/artist/4uFiL0LD4i4hMKkcGyqrKc) | [Story II](https://open.spotify.com/album/0U9szJSYaA5VFUMinoXxwO) | 1:58 | 2023-12-30 |  |

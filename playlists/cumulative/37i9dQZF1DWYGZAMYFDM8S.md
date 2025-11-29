@@ -4,7 +4,7 @@
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-383 songs - 23 hr 55 min
+384 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Girl \- Acoustic](https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl \(Acoustic\)](https://open.spotify.com/album/7fdAAXgcc7E5F9XE0ZFDQs) | 3:31 | 2021-11-05 | 2022-07-29 |
 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 | 2022-07-22 | 2024-04-19 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-22 |  |
+| [Go Down River \- Acoustic](https://open.spotify.com/track/0mvml8wDmxQjbxnifxQslV) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life And Life Only \(Expanded Edition\)](https://open.spotify.com/album/251B0kXoPz8dil5Miu9b4H) | 3:49 | 2024-11-08 |  |
 | [Gold](https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Gold](https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd) | 3:31 | 2021-11-05 | 2025-10-15 |
 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 | 2021-11-05 |  |
 | [Good Place](https://open.spotify.com/track/5ljNGwMSRhtfl2fgiWkSzm) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Good Place](https://open.spotify.com/album/3JD02sIq9654hYvOG0yASa) | 2:42 | 2022-02-21 | 2022-07-29 |
@@ -169,7 +170,7 @@
 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 | 2022-02-07 |  |
 | [I Miss Strangers \- Acoustic](https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows \(Acoustic\)](https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK) | 2:47 | 2023-03-10 |  |
 | [I Tried](https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F) | [I Tried](https://open.spotify.com/album/0m6Rqk4Dgy7D8XEvTbrVuZ) | 4:26 | 2022-02-07 | 2022-07-29 |
-| [I'll Keep You](https://open.spotify.com/track/753h0atsE418iQyz7Jbtci) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk), [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [I'll Keep You](https://open.spotify.com/album/27XjdLrwcrDDrlBmVHook8) | 2:37 | 2021-11-05 |  |
+| [I'll Keep You](https://open.spotify.com/track/753h0atsE418iQyz7Jbtci) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk), [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [I'll Keep You](https://open.spotify.com/album/27XjdLrwcrDDrlBmVHook8) | 2:37 | 2021-11-05 | 2025-11-29 |
 | [I\-89 \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 3:00 | 2021-11-05 |  |
 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 | 2022-02-21 |  |
 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 | 2021-11-05 |  |

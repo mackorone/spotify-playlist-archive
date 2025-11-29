@@ -4,7 +4,7 @@
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-73 songs - 4 hr 47 min
+74 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Señorita Licor](https://open.spotify.com/track/0XhfUuzitgJkATaO7eS86r) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 3:37 | 2024-08-19 |  |
 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 | 2023-09-15 |  |
 | [Sin Ti](https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sin Ti](https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i) | 5:46 | 2023-09-15 |  |
-| [Sirenas Lloran](https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Sirenas Lloran](https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8) | 4:25 | 2023-09-15 |  |
+| [Sirenas Lloran](https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Sirenas Lloran](https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8) | 4:25 | 2023-09-15 | 2025-11-29 |
 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 | 2023-09-15 |  |
 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 | 2023-11-10 |  |
 | [Somos Guerreros](https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Somos Guerreros](https://open.spotify.com/album/5hGoY2vlu617nfSlf7uNVN) | 4:44 | 2025-09-23 | 2025-11-12 |
@@ -76,6 +76,7 @@
 | [Tocando Arena](https://open.spotify.com/track/75tNS9948mAaxl7uTAkj4k) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tocando Arena](https://open.spotify.com/album/0yVFiCr3aRdihBIOCPouBo) | 4:12 | 2023-09-15 | 2023-12-14 |
 | [Todo x Nada](https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Todo x Nada](https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe) | 6:14 | 2023-09-15 |  |
 | [Un Ratito](https://open.spotify.com/track/5zxcDBDiyNTB5OEcDyCfbq) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Un Ratito](https://open.spotify.com/album/0NCt9a5gcYV8b0Yp3oJspf) | 3:47 | 2023-09-15 |  |
+| [Una Vida Chola](https://open.spotify.com/track/1v9t8RzawAQQCqVKzJvfrm) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Una Vida Chola](https://open.spotify.com/album/5Gylu5dJvJyUgHBjXSaz2M) | 3:09 | 2025-11-29 |  |
 | [Volando](https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volando](https://open.spotify.com/album/3h9sn7qACkviYYhvey79hp) | 3:38 | 2023-09-15 |  |
 | [Volvió A Amanecer](https://open.spotify.com/track/0dcVgVt6fPoJnZl52xUG4a) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Volvió A Amanecer](https://open.spotify.com/album/4djLVh799E7iDt4qyKG7Cr) | 3:42 | 2023-09-15 |  |
 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 | 2023-09-15 |  |

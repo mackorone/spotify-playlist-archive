@@ -4,7 +4,7 @@
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-89 songs - 9 hr 14 min
+90 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Alfa E Ômega / Pra Te Adorar](https://open.spotify.com/track/7d9UqIsX4AKTICcI4ritcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:59 | 2023-07-09 | 2024-03-22 |
 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 | 2023-07-09 |  |
 | [Atos 2](https://open.spotify.com/track/0L3UFMmq5An0W3j1Q9cLG6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [EP Gabriela Rocha](https://open.spotify.com/album/2rUBQJxzkFWK2Qofmitap9) | 5:14 | 2023-07-09 |  |
-| [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L) | [ALEXANDRE APOSAN](https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J) | 5:42 | 2024-06-04 |  |
+| [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/track/5bvOdRoFQQRHyhdEJ5jk9L) | [ALEXANDRE APOSAN](https://open.spotify.com/artist/5aqyG1NWZsQ3F1puhd9egt), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Atos 2 \(feat\. Gabriela Rocha\)](https://open.spotify.com/album/5HDVHKvh41RiKifa8fjL5J) | 5:42 | 2024-06-04 | 2025-11-29 |
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2023-09-25 | 2024-06-20 |
 | [Believe For It](https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It](https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz) | 5:38 | 2023-07-09 | 2025-03-03 |
 | [Bom Bom Pai](https://open.spotify.com/track/5VfjpBT1ZLGx9lCmYixWmm) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pequenos Levitas](https://open.spotify.com/album/1uL3H2Et3F4SyWt3F5Rsv0) | 3:22 | 2024-10-25 |  |
@@ -48,6 +48,7 @@
 | [Hosana \- Ao Vivo](https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Hosana \(Ao Vivo\)](https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA) | 5:26 | 2023-07-09 | 2024-11-08 |
 | [Leão \- Ao Vivo](https://open.spotify.com/track/4MnEvCz1PWVC9o4l3KhQHA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Leão \(Ao Vivo\)](https://open.spotify.com/album/5lll2ZdpRaDufZ4ASV4zWE) | 4:46 | 2023-07-09 | 2024-02-07 |
 | [Lugar Secreto](https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 7:02 | 2023-07-09 |  |
+| [Me Ama/How He Loves](https://open.spotify.com/track/1XuWfRvWC9kmzUmbL4trm1) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Me Ama/How He Loves](https://open.spotify.com/album/7LTPqmwdrIofjN1LU7cyFk) | 7:00 | 2025-11-29 |  |
 | [Me Aproximou \- Ao Vivo](https://open.spotify.com/track/0Jonr4Mb95BeP3gVX9KHcS) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 5:16 | 2023-12-29 | 2024-10-18 |
 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 | 2023-11-10 | 2023-12-14 |
 | [Me Atraiu \- Ao Vivo](https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Ao Vivo\)](https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U) | 8:23 | 2023-07-09 |  |

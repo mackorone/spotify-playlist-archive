@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 
 > Your escape to the world of chill Indian pop\. Cover \- Thoda Thoda Pyaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,454 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,518 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdCC2tMwtB2.md) - [plain]
 | 15 | [Blue Eyes](https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Blue Eyes](https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB) | 3:40 |
 | 16 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 |
 | 17 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 |
-| 18 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 |
-| 19 | [Main Rahoon Ya Na Rahoon](https://open.spotify.com/track/6f3ANRNQ8nCiPZ6VqXqq93) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Main Rahoon Ya Na Rahoon](https://open.spotify.com/album/2hlpZpzFRp0SxM8Fk50dsp) | 5:09 |
+| 18 | [Main Rahoon Ya Na Rahoon](https://open.spotify.com/track/6f3ANRNQ8nCiPZ6VqXqq93) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Main Rahoon Ya Na Rahoon](https://open.spotify.com/album/2hlpZpzFRp0SxM8Fk50dsp) | 5:09 |
+| 19 | [Tu Aake Dekhle](https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [The Carnival](https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE) | 4:30 |
 | 20 | [Brown Rang](https://open.spotify.com/track/3yRLROmAcKJBqTrdEczFB8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [International Villager](https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S) | 3:31 |
 | 21 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 |
 | 22 | [Yeh Raaten Yeh Mausam](https://open.spotify.com/track/1ApfHqjOoBmJZ0SjdjzVyA) | [Sanam](https://open.spotify.com/artist/7o7doCwqft91WC690aglWC), [Simran Sehgal](https://open.spotify.com/artist/22aMB7ZvN33U8hTkPn9J5D) | [Yeh Raaten Yeh Mausam \- Sanam And Simran Shgal](https://open.spotify.com/album/5eREKQz2rtf9lBwvsTdFjk) | 3:28 |

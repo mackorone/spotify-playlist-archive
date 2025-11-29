@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 来日公演『2025 RIIZE CONCERT TOUR \[RIIZING LOUD\] IN JAPAN』 のセットリストをスペシャルメッセージとともに公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,494 likes - 28 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,490 likes - 28 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

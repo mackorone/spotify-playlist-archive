@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61840,
+  "num_followers": 61841,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Ordet",
-        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
-      },
-      "artists": [
-        {
-          "name": "Bremer/McCoy",
-          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
-        }
-      ],
-      "duration_ms": 118400,
-      "name": "Forenet",
-      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Ellis In Wonderland",
         "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 224320,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Ordet",
+        "url": "https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq"
+      },
+      "artists": [
+        {
+          "name": "Bremer/McCoy",
+          "url": "https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "Forenet",
+      "url": "https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Wind",
-        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Maalouf",
-          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
-        }
-      ],
-      "duration_ms": 294586,
-      "name": "Doubts 2",
-      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Midnight Blue (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 416986,
       "name": "Mule - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/3ZLu2sI75K3GRZJixWXRa2"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Wind",
+        "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Maalouf",
+          "url": "https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb"
+        }
+      ],
+      "duration_ms": 294586,
+      "name": "Doubts 2",
+      "url": "https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Self-Portrait in Three Colors",
-      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Wind",
         "url": "https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI"
       },
@@ -999,6 +983,22 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Self-Portrait in Three Colors",
+      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
         "name": "And Suddenly There Was Love",
         "url": "https://open.spotify.com/album/4hQwj7s73VTBILEHWp71h4"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "return to casual",
-        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Mother Stands for Comfort",
-      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "What Is There To Say?",
         "url": "https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 246066,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/3AeIbfjydFf46N27feEFri"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "return to casual",
+        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Mother Stands for Comfort",
+      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -1159,30 +1159,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "It's Nice to Be with You: Jim Hall in Berlin",
-        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
-      },
-      "artists": [
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
-        },
-        {
-          "name": "Jimmy Woode",
-          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
-        },
-        {
-          "name": "Daniel Humair",
-          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
-        }
-      ],
-      "duration_ms": 265024,
-      "name": "Young One for Debra",
-      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1211,6 +1187,30 @@
       "duration_ms": 214375,
       "name": "The Ansible",
       "url": "https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "It's Nice to Be with You: Jim Hall in Berlin",
+        "url": "https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD"
+      },
+      "artists": [
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+        },
+        {
+          "name": "Jimmy Woode",
+          "url": "https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb"
+        },
+        {
+          "name": "Daniel Humair",
+          "url": "https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL"
+        }
+      ],
+      "duration_ms": 265024,
+      "name": "Young One for Debra",
+      "url": "https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -1279,26 +1279,18 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Gone With The Wind",
-        "url": "https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r"
+        "name": "Java Jazz: A Bold Instrumental Jazz Roast",
+        "url": "https://open.spotify.com/album/6QDhV4WQwbKz6Yxc0fDDet"
       },
       "artists": [
         {
-          "name": "Martin Wind",
-          "url": "https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT"
-        },
-        {
-          "name": "Bill Mays",
-          "url": "https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ"
-        },
-        {
-          "name": "Keith Copeland",
-          "url": "https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe"
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
         }
       ],
-      "duration_ms": 499600,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym"
+      "duration_ms": 313440,
+      "name": "Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0IKnidRgUVph8HaApRVWD6"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

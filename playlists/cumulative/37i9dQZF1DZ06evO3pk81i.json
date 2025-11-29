@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193843,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/55t8gWMIShuAGtzcmomFvx"
+    },
+    {
+      "album": {
         "name": "Mami",
         "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
       },
@@ -784,7 +802,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193843,
       "name": "Mami",
       "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"

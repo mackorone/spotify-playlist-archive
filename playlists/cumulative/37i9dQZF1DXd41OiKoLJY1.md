@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Sam Cruz Artwork: Isu Kim
 
-3,904 songs - 9 day 11 hr 54 min
+3,905 songs - 9 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1379,6 +1379,7 @@
 | [Hindi 'To Harana](https://open.spotify.com/track/6iwG7iAtTEBScNarCwtWmU) | [ivanderzz](https://open.spotify.com/artist/3iBlTtPkUPevj0O5T0SsH2) | [Hindi 'To Harana](https://open.spotify.com/album/4HOhrIkBF7vx1NHWGQbFds) | 3:50 | 2024-11-07 | 2025-02-14 |
 | [Hindi Ako](https://open.spotify.com/track/2WKPhJJAq5yajU264erQqp) | [HUNYO](https://open.spotify.com/artist/6MTKAoD2eQlPGPjuXSW9Et) | [Hindi Ako](https://open.spotify.com/album/61ZBguQxqSNVsEM5Aqyzwg) | 5:22 | 2023-04-27 | 2024-01-12 |
 | [Hindi Hihiwalay](https://open.spotify.com/track/01vobZtrWSSb7af1dR6tdB) | [Aubrey Caraan](https://open.spotify.com/artist/6eEUEW6MNy1FSGJkHxYSKF) | [Hindi Hihiwalay](https://open.spotify.com/album/5fEcjFAuXLRxXc5gImaTqK) | 3:15 | 2025-02-20 | 2025-04-04 |
+| [Hindi Ka Para Sa'kin](https://open.spotify.com/track/7riBMcxKCQu33KHBGoVF77) | [Marlon Calunod](https://open.spotify.com/artist/47AbnXnklFCBCauNjEuXfe) | [Hindi Ka Para Sa'kin](https://open.spotify.com/album/3XndGOM7vvMDeKqHWrrLWs) | 4:10 | 2025-11-27 |  |
 | [Hindi Mapakali](https://open.spotify.com/track/18Wy0tTKgU58NBX98mI01Z) | [SNG On Da Track](https://open.spotify.com/artist/497uh8Q5OmAzaNpaZDVL35), [Jelay Pilones](https://open.spotify.com/artist/1KMlYWRp506FHKUAnOOR6h), [DGrimm](https://open.spotify.com/artist/4hTrkS34MP3Aoybxxlmsuh), [Rish Mel](https://open.spotify.com/artist/3IYBM9nA4dxsLSUwiKoEBs) | [Hindi Mapakali](https://open.spotify.com/album/1V8S93eZc6iz8zLgT5lPWG) | 4:32 | 2022-09-08 | 2022-10-14 |
 | [Hindi Na](https://open.spotify.com/track/1MvSj44soL3QqNxVfTfs1n) | [Allan Benavides](https://open.spotify.com/artist/1jvqBSm4pVPxklyp6hxnHg), [Bby Jaye](https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth) | [Hindi Na](https://open.spotify.com/album/3ZYygADJ6n7zvtE05vvdMe) | 3:42 | 2024-01-11 | 2024-02-16 |
 | [Hindi na](https://open.spotify.com/track/4lQGuBkD7m10emD1MnTd9E) | [Joshyyd](https://open.spotify.com/artist/6oU3T0uXJT1FJn8jj4Zl2l) | [Hindi na](https://open.spotify.com/album/0j7DRLGbn1sMaaMsYdyIqW) | 2:48 | 2025-03-20 | 2025-05-23 |
@@ -3251,6 +3252,7 @@
 | [Space and Time](https://open.spotify.com/track/7o8TZzkEAG0ogvHfNqejZw) | [Armeia](https://open.spotify.com/artist/5MPZeWH1rgNZG0HDLHWqhJ) | [Space and Time](https://open.spotify.com/album/4ftwpVwaFBPW4TRR9tNURE) | 2:32 | 2024-04-18 | 2024-06-07 |
 | [SPCL](https://open.spotify.com/track/0dljI5JKBmdlPtPSO5pWLE) | [boredr](https://open.spotify.com/artist/04F0UpZLrWzmLu12KIavZJ), [sail](https://open.spotify.com/artist/7GYkfFgA5OqdAq5z7sUCMh), [Teeyan](https://open.spotify.com/artist/5WjrEebXfUBQ5J5nbsOaj8) | [SPCL](https://open.spotify.com/album/5kKeKJanUL5m7cWyY5AM1c) | 4:23 | 2023-04-27 | 2023-05-19 |
 | [Speed Dial \#9](https://open.spotify.com/track/2YOdvMFEmq6EcNs779EsrH) | [JDRX](https://open.spotify.com/artist/53WGKDzoDHR36FwHBXKcp9) | [Speed Dial \#9](https://open.spotify.com/album/6YPvQBSn0MgTAbJ1dFW0y8) | 4:39 | 2024-04-18 | 2024-06-01 |
+| [Spell](https://open.spotify.com/track/6qTDjapOB6SxD0pf55gITw) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Heartscapes](https://open.spotify.com/album/19qiMULId98PydQaU6dOtu) | 3:40 | 2025-11-27 |  |
 | [Speyship](https://open.spotify.com/track/1mFnjODpMcVomFdoQGUKSt) | [jrald](https://open.spotify.com/artist/2mzUNagDlUNAipJU0XbJBo), [Kitong](https://open.spotify.com/artist/0qjrz1kPPUQmi88i4myjN3) | [Speyship](https://open.spotify.com/album/6P2n5xxfchxj7iYSqukk4L) | 3:20 | 2022-11-03 | 2023-02-03 |
 | [Spinning](https://open.spotify.com/track/54M2ZaB0L3HtpM3bBrHjWl) | [Paper Satellites](https://open.spotify.com/artist/45eAWMbvTmm7HbyFlxMKub) | [Manila Meltdown](https://open.spotify.com/album/6q82AlM8ZO9bLuhR0mxzBR) | 4:41 | 2022-03-31 | 2022-04-08 |
 | [Sta\. Clara](https://open.spotify.com/track/5h2lrA7NMKNhxQXXZDwMm4) | [Guerrero Valderama](https://open.spotify.com/artist/7hfoBRRBKvOnwurt20FjV3) | [Sta\. Clara](https://open.spotify.com/album/1rgjpeeBBVH4b64bPOgr5C) | 5:52 | 2022-01-20 | 2022-02-11 |
@@ -3547,7 +3549,6 @@
 | [TOXIC](https://open.spotify.com/track/1jJb9OuE26uSzFep0XJaYt) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E), [Dominsuu](https://open.spotify.com/artist/2u913cPvHStJrhCDTLckhU) | [TOXIC](https://open.spotify.com/album/0VhzIC8f5QzF64lUgohJnU) | 2:41 | 2024-04-11 | 2024-06-01 |
 | [Toxic Kiss](https://open.spotify.com/track/0tdTaCoELlYv9jQZnBrpR6) | [YUZON](https://open.spotify.com/artist/2vVmdFWujk0ZF5H2f39xY6) | [Toxic Kiss](https://open.spotify.com/album/3PFZokQ6m4NzcPydrWgMqP) | 3:32 | 2023-02-23 | 2023-03-10 |
 | [Toyo](https://open.spotify.com/track/3swCmgkJL1LtMGMQPlGUK0) | [Mikee Genie](https://open.spotify.com/artist/3gWcGwZWiX2vcQylqC552M) | [Toyo](https://open.spotify.com/album/1ROZNS7QSkmr8mQddlC5yD) | 3:54 | 2025-05-01 | 2025-06-13 |
-| [Track 5](https://open.spotify.com/track/6qTDjapOB6SxD0pf55gITw) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Tragedy](https://open.spotify.com/track/3XPeZXx4dHZoyx6l4Ov5IZ) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Tragedy](https://open.spotify.com/album/5BI0KJ0Pk2fCyYdIpGGX07) | 3:53 | 2022-09-08 | 2022-11-25 |
 | [Tragedy](https://open.spotify.com/track/5CnPw5SHRXjSDfzctxeN4X) | [Alexis Gildore](https://open.spotify.com/artist/0pie0aHWJncJV8IYRnYcD3) | [Tragedy](https://open.spotify.com/album/1VRDjSLobepbb9zwy5Xdyc) | 3:53 | 2024-02-15 | 2024-03-22 |
 | [Transit](https://open.spotify.com/track/4LQGtHm1urEStDmLSaCwfC) | [Keith Martin Reyes](https://open.spotify.com/artist/2DaczBzAP5HPI5x7xEynwq) | [Transit](https://open.spotify.com/album/1zjQEnkwQZNKWWTqKpFAWG) | 3:57 | 2025-01-23 | 2025-02-28 |

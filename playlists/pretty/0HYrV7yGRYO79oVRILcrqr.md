@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,579 likes - 137 songs - 8 hr 30 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,581 likes - 140 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,8 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 135 | [Shake That Thing](https://open.spotify.com/track/36eCRqqm1Xac8b6fockewa) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [The Blues Ain't That Bad](https://open.spotify.com/album/7Az7QkvAHEfACkzyDw1G1Y) | 3:33 |
 | 136 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 |
 | 137 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 |
+| 138 | [Búsqueda](https://open.spotify.com/track/3omNsXHqJL3sg5Rj3Swwgw) | [Galaxia Ventura](https://open.spotify.com/artist/7CLTzydEhFbCSNaNPzGgu5) | [Un cambio](https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e) | 3:05 |
+| 139 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 |
+| 140 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 |
 
-Snapshot ID: `AAAKE15HIvVvj7KwpnjOf1Lcp0DeIlYS`
+Snapshot ID: `AAAKFgBQXAV0HY2pCGM3Md0nS4cjBUJW`

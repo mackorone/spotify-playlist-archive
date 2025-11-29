@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: These New South Whales
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,150 likes - 124 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,216 likes - 124 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 123 | [PALO ALTO](https://open.spotify.com/track/1BjPdGnP7ibXfEYC0tyRZ5) | [Scarlet Street](https://open.spotify.com/artist/0bAZy8K5gTFOhGcatCuEbW) | [PALO ALTO](https://open.spotify.com/album/5MdeTB7HLyWsWArKr0EDFO) | 3:01 |
 | 124 | [Illuminati](https://open.spotify.com/track/1eWaxavPr9AWPgeklw4HA7) | [Alien Chicks](https://open.spotify.com/artist/1V2a5Mkw4VP93kP1vrB4T4) | [Illuminati](https://open.spotify.com/album/2aXj0Kr4jFR2USb6MK3OvF) | 3:14 |
 
-Snapshot ID: `AAAAAH9yrrFjUG/ivc4FxCRUYaKHjsVT`
+Snapshot ID: `AAAAAKoe+NbznXJQoBoP9XYtWC/7vX70`

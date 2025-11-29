@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Dé playlist voor het najaar van 2025! 🌦️☔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,966 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,949 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 14 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 15 | [Nog Even Blijven](https://open.spotify.com/track/3VbpCqh33Dn8in4JC1c46o) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nog Even Blijven](https://open.spotify.com/album/4cVl4YviVNupCLjdyHCLu6) | 2:50 |
 | 16 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
-| 17 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [](https://open.spotify.com/album/null) | 3:43 |
+| 17 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 |
 | 18 | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [AM to PM \(feat\. Zoe Wees\)](https://open.spotify.com/album/1o9rbjKjVBu7VQq0hzAJK1) | 2:44 |
 | 19 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 |
 | 20 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 |

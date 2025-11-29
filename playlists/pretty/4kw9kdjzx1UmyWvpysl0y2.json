@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU3F+eyviZb1CF888XhXdMSNDzPDMx",
+  "snapshot_id": "AAAU4XAo103uxloE36nUnF74Ae4zMypA",
   "tracks": [
+    {
+      "added_at": "2025-11-28 16:13:25",
+      "album": {
+        "name": "TELL ME",
+        "url": "https://open.spotify.com/album/1i227PMtdLpeA03UfEmvc8"
+      },
+      "artists": [
+        {
+          "name": "YUSSI",
+          "url": "https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997"
+        },
+        {
+          "name": "WIMBO",
+          "url": "https://open.spotify.com/artist/4UvTMZplahiJPeTH60gEOq"
+        }
+      ],
+      "duration_ms": 203314,
+      "name": "TELL ME",
+      "url": "https://open.spotify.com/track/18ZCeMWBE8cZjrybSqIo69"
+    },
     {
       "added_at": "2025-11-27 15:02:44",
       "album": {
@@ -1119,26 +1139,6 @@
       "duration_ms": 197563,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/51I5TnEKANW1F8I5MiTc83"
-    },
-    {
-      "added_at": "2025-09-10 15:05:36",
-      "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/39nfFsklbXE8R5eGhRkbNF"
-      },
-      "artists": [
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        },
-        {
-          "name": "SpaceYeti",
-          "url": "https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ"
-        }
-      ],
-      "duration_ms": 222600,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

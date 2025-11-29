@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,366 likes - 130 songs - 6 hr 26 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 55,359 likes - 130 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dopamine \(feat\. Malou\)](https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dopamine \(feat\. Malou\)](https://open.spotify.com/album/26UUDkAk8TuBAj2xSs0ftn) | 2:03 |
-| 2 | [Love Like That](https://open.spotify.com/track/7fIMjKYjgPJtfFjMN6AW5y) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Love Like That](https://open.spotify.com/album/04fDKhnxvWOCt9EIzBn8nK) | 2:23 |
-| 3 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
-| 4 | [Louder For The People \(with AFROJACK\)](https://open.spotify.com/track/5l5Fzw9yb70i02lL56Nb9w) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Louder For The People \(with AFROJACK\)](https://open.spotify.com/album/62HVrOiM7xK5hH87G6KRQ8) | 2:44 |
-| 5 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
-| 6 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
+| 2 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
+| 3 | [Love Like That](https://open.spotify.com/track/7fIMjKYjgPJtfFjMN6AW5y) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [The Beach](https://open.spotify.com/artist/6xqpdCiMM646Q6nAD5n3vO) | [Love Like That](https://open.spotify.com/album/04fDKhnxvWOCt9EIzBn8nK) | 2:23 |
+| 4 | [The Cure](https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 3:38 |
+| 5 | [Louder For The People \(with AFROJACK\)](https://open.spotify.com/track/5l5Fzw9yb70i02lL56Nb9w) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Louder For The People \(with AFROJACK\)](https://open.spotify.com/album/62HVrOiM7xK5hH87G6KRQ8) | 2:44 |
+| 6 | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Nyasia](https://open.spotify.com/artist/1FmH6MmsNdjm11V4qa9nMW) | [Mimosa \(Now And Forever\) \(feat\. Nyasia\)](https://open.spotify.com/album/0lOJweUvYg9YigEri5QqPm) | 1:57 |
 | 7 | [ABOUT YOU](https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [ABOUT YOU](https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE) | 3:31 |
 | 8 | [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 |
 | 9 | [Higher Love](https://open.spotify.com/track/0QUzSHpdiTTh4wrB2bPhE7) | [Kush Kush](https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Higher Love](https://open.spotify.com/album/1HsgziXkEaJNjAIpJArkA5) | 2:02 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 129 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 130 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
 
-Snapshot ID: `AAAgkI6MEXVnzfmsLGyq+GefHJ+jkr3D`
+Snapshot ID: `AAAgk29Oroax1dOU6gUUFcKava7HFT6e`

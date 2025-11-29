@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,610 songs - 4 day 2 hr 2 min
+1,613 songs - 4 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Bad Place](https://open.spotify.com/track/7CFbskWjyQA92IvdApIIpV) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Bad Place](https://open.spotify.com/album/0z860fZ61LspJYvgCb2pYT) | 2:19 | 2024-03-04 |  |
 | [Bae](https://open.spotify.com/track/1cjeKHaax2YIMDP2zC714F) | [Carlos Lapin](https://open.spotify.com/artist/6cypL54UbWFB1jP8v8BlqZ) | [Bae](https://open.spotify.com/album/3W2TlP2dI4Snfg5Dbkpe1q) | 1:36 | 2025-05-26 |  |
 | [Bal Ed Dred](https://open.spotify.com/track/7oIiJu1Y6Jmnq3qbRaUKZI) | [Med Dred](https://open.spotify.com/artist/6utzvGsysMRFwhsetANHlg) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 3:59 | 2024-03-23 |  |
+| [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 | 2025-11-28 |  |
 | [Balance](https://open.spotify.com/track/7eUNIfxTlIQyZVRzLHxx0N) | [Luna Dharma](https://open.spotify.com/artist/1RXLMXtNtNKXx5drIuuwjm) | [Balance](https://open.spotify.com/album/6LhEyeEepdi5yxhxpSlnO6) | 2:41 | 2024-04-20 |  |
 | [Balleremo](https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Balleremo](https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50) | 2:48 | 2024-06-24 |  |
 | [Bandits](https://open.spotify.com/track/4KWHSYv9fMwA7km3Vcx2q0) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 3:22 | 2024-03-23 |  |
@@ -224,6 +225,7 @@
 | [CELLES](https://open.spotify.com/track/21EckdWhnAnaGILOzwkyYu) | [Scott Lucchini](https://open.spotify.com/artist/2XwAoF8nWo3UNIYpGTieCQ) | [CELLES](https://open.spotify.com/album/6KMnrkJubkJc3SEfaBl7BQ) | 3:40 | 2025-05-22 |  |
 | [CENERE](https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty) | 3:28 | 2023-03-15 |  |
 | [Cenário Apocalíptico](https://open.spotify.com/track/6Ub64JpRN7CNzBFRQtSD4n) | [Tapuru](https://open.spotify.com/artist/6efhglYGjl31jFVNDRzHzh) | [Ignorância Natural](https://open.spotify.com/album/5TAkSlid9jUS2fSV35hwld) | 2:43 | 2025-06-07 |  |
+| [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/track/5OJLmwa30Cnz756KKfGz01) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/album/1yZszTyGMJLly1ulxpS8Wp) | 2:52 | 2025-11-29 |  |
 | [Chalice Dub](https://open.spotify.com/track/7JX3Dbh9H3Mtq1cLya90Oo) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:40 | 2024-05-01 |  |
 | [Chalodnaja Zorka](https://open.spotify.com/track/2pnc2Hzf8SrGpNiThKOqVG) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 4:52 | 2025-10-09 |  |
 | [Chaos In My Head](https://open.spotify.com/track/0zwUK4UeE2GqEuI3riJXYl) | [Bortitz](https://open.spotify.com/artist/0Ypm8wsqi6TW6beD1lO0rC), [Anna Indiana](https://open.spotify.com/artist/5F8GF9eKpRyhV6NQdJ0Bdp) | [Karma](https://open.spotify.com/album/10JyibAycZJEvMjMdHOpvE) | 2:41 | 2025-05-25 |  |
@@ -1554,6 +1556,7 @@
 | [Wistful Memories](https://open.spotify.com/track/5DszXVpnelS3wLiwNp67vi) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Wistful Memories](https://open.spotify.com/album/1HkTINroXN5CLbdOyWSNxl) | 2:12 | 2025-05-12 |  |
 | [Without a Reason](https://open.spotify.com/track/2o5gul0W5f9SYu6dCcNZK5) | [Beastboy](https://open.spotify.com/artist/1G5jYhRa0DC7ZvRFfn6bNY) | [Without a Reason](https://open.spotify.com/album/6mU9ssYhm7uiNSKd3nCH50) | 2:22 | 2025-09-30 |  |
 | [Wojna Dub](https://open.spotify.com/track/0QtwrPl98iJpzRStHPlZup) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 4:50 | 2024-05-04 |  |
+| [WONDERING](https://open.spotify.com/track/2zR1Gl1WnrAxRfUP5ECHVX) | [ELIYAR](https://open.spotify.com/artist/5WxWBGx3GAQhm6PaZZsuUD) | [WONDERING](https://open.spotify.com/album/4VnGSzzxH1ZyuBLWCsD35p) | 2:40 | 2025-11-29 |  |
 | [Words](https://open.spotify.com/track/0I4G08JqBqcS3djIJo9mot) | [BalduinS](https://open.spotify.com/artist/70kRPt1jUwrV8DLgHPX62Q) | [Words](https://open.spotify.com/album/0LN7Oe2LfPl08szgNw99oU) | 3:17 | 2025-05-09 |  |
 | [WORK YA MOVE](https://open.spotify.com/track/4Gp1OZ3zhYLdEnrkBij6L1) | [Lasko Bills](https://open.spotify.com/artist/74EkLh0aaLfG5EcEQ9iEx8) | [PLAYER FABLES](https://open.spotify.com/album/23mrXbZBQdgiFpglEUy9hU) | 4:15 | 2025-10-07 |  |
 | [Working for a Brighter Day](https://open.spotify.com/track/18pfdGh5I0gqIjSjFb2BUT) | [Sax n Dub](https://open.spotify.com/artist/1lTpzANT3gWVh5ll93tw8V), [Madi Simmons](https://open.spotify.com/artist/3SQE1dVGhld5RE9qJHaFD1) | [Working for a Brighter Day](https://open.spotify.com/album/0IpQlxq3Lmtk6oRr6kp3Fp) | 4:17 | 2024-03-25 |  |

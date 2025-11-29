@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2159,
+  "num_followers": 2160,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADMDJfHS0KOTM4hAqrm9uHp",
+  "snapshot_id": "aSeUgAAAAAApvKLEYm7agjSo118Hx8YI",
   "tracks": [
     {
       "added_at": null,
@@ -443,34 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlett\u00b4s",
-        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 170250,
-      "name": "Scarlett\u00b4s",
-      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electromorbo",
         "url": "https://open.spotify.com/album/4xgirQoTPMCnKMB3L9qZzW"
       },
@@ -503,6 +475,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scarlett\u00b4s",
+        "url": "https://open.spotify.com/album/01OP1ZtMfybGhgGZh6U2bM"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "duration_ms": 170250,
+      "name": "Scarlett\u00b4s",
+      "url": "https://open.spotify.com/track/3RY4osHntr45D9PG9TcTJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prendo Un Gallo",
         "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
       },
@@ -531,34 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobra y Falta",
-        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "Sobra y Falta",
-      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recio",
         "url": "https://open.spotify.com/album/5mV8yGq6qr4etRyh4RRy4e"
       },
@@ -583,6 +555,34 @@
       "duration_ms": 151564,
       "name": "Recio",
       "url": "https://open.spotify.com/track/4B8D0CyBvZQeEfzx4lQSMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobra y Falta",
+        "url": "https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU"
+      },
+      "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 190161,
+      "name": "Sobra y Falta",
+      "url": "https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW"
     },
     {
       "added_at": null,
@@ -683,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GUZBYE",
-        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "GUZBYE",
-      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cartier en Mano",
         "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GUZBYE",
+        "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "GUZBYE",
+      "url": "https://open.spotify.com/track/6qNktE3ki1AqZThqp5EL7u"
     },
     {
       "added_at": null,
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 214042,
-      "name": "El R\u00e1pido - En Vivo",
-      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     },
     {
       "added_at": null,
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 214042,
+      "name": "El R\u00e1pido - En Vivo",
+      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
     }
   ],
   "unique_name": "This Is Sebastian Esquivel",

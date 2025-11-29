@@ -2,7 +2,7 @@
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: AllDay Project
+> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: ALLDAY PROJECT
 
 5,097 songs - 12 day 7 hr 3 min
 
@@ -3140,7 +3140,7 @@
 | [Sixteen, Fifteen](https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9) | 3:40 | 2023-01-29 | 2023-02-06 |
 | [SKATEBOARD](https://open.spotify.com/track/6l73YRbkfTjBUtTm3DrkAu) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/0if8s53ZdbpKQnE2vH1Ggl) | 3:05 | 2023-06-18 | 2023-06-26 |
 | [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 | 2023-05-07 | 2023-05-15 |
-| [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 | 2025-11-27 |  |
+| [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 |  |
 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 | 2023-08-27 | 2023-10-02 |
 | [skirt](https://open.spotify.com/track/1CbMXhAVAaR1LyUMrZ49h8) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [skirt](https://open.spotify.com/album/0Jiz6XnUfQWiz06PrtuOVa) | 4:15 | 2024-08-22 | 2024-09-27 |
 | [Sky](https://open.spotify.com/track/0Z6Zik8ZgPzqy6GrJU8qTx) | [Leonald](https://open.spotify.com/artist/0NRTDdR3mqDDtBI9rN8rHN), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Sky](https://open.spotify.com/album/4zDj9doKBQ81SgFqgGQhcR) | 3:36 | 2023-01-29 | 2023-02-13 |

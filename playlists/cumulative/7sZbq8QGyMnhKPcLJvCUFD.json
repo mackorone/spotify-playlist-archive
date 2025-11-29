@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Alone Tonight",
+        "url": "https://open.spotify.com/album/3ave53sq5zjnw4d5EUUFfD"
+      },
+      "artists": [
+        {
+          "name": "Cepaque",
+          "url": "https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164317,
+      "name": "Alone Tonight",
+      "url": "https://open.spotify.com/track/48MPdfrY3sc1hmYp41cTJc"
+    },
+    {
+      "album": {
         "name": "Along Your Way",
         "url": "https://open.spotify.com/album/632FZyDyOX2WScV3RK5bWd"
       },

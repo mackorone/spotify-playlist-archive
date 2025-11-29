@@ -4,13 +4,14 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-183 songs - 11 hr 20 min
+186 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9/11 Dinamite](https://open.spotify.com/track/2ZfSQw1PBEyBt3YQZgZPEV) | [Italiani Medi](https://open.spotify.com/artist/6pDVMmLAVZr7n3249bB34G) | [Pasta con l'Odio](https://open.spotify.com/album/0z20JFHPazYmTBBeP5bMXP) | 3:08 | 2025-10-22 | 2025-11-28 |
 | [A favor del viento](https://open.spotify.com/track/3E5NnbloyZmsuLoP5tUqxF) | [P.R.O.A.](https://open.spotify.com/artist/6cMptGtvHkjH88qP0s57eO) | [A favor del viento](https://open.spotify.com/album/1l6vAcGBQETIZqsUNmaP7C) | 5:30 | 2025-09-25 |  |
 | [A Need For Speed](https://open.spotify.com/track/7fjXIJeA3gxuZVJuGQT5Vs) | [Thomas Blug](https://open.spotify.com/artist/5u06pLBt7EpsyZRi2BcV44), [Martin Engelien](https://open.spotify.com/artist/1dQhTNS8uFmj2GfDCHQ7Iq), [Ben Granfelt](https://open.spotify.com/artist/43cECndNaXkIuR3VnHss5e) | [A Need For Speed](https://open.spotify.com/album/5y32mI5YjygYOgCtHiVuGQ) | 3:30 | 2025-09-22 |  |
+| [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2025-11-28 |  |
 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 | 2025-11-26 |  |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-24 |  |
 | [Ain't It Fun?](https://open.spotify.com/track/5XTkhdlsfIAMm5DvRYpG4Z) | [Tent](https://open.spotify.com/artist/0Gv2DlvET0fQVJ8jqLx7RC), [regina hum](https://open.spotify.com/artist/1GzBgXa7ZG3GRRHkhZXYSK), [Gabriel Peralta](https://open.spotify.com/artist/1qhj4RJDwgkhjWXssCAQva) | [Ain't It Fun?](https://open.spotify.com/album/4TXm8iB8yhyJdd5zedbxdK) | 5:01 | 2025-09-22 |  |
@@ -30,6 +31,7 @@
 | [Breathe In](https://open.spotify.com/track/5lmqUdPqVs8zrcrRIgAw8d) | [Eight Feet Fine](https://open.spotify.com/artist/6NCVf4mDJv1vB8FbTPMzrV) | [Breathe In](https://open.spotify.com/album/4MOZuggfZkPg5TkQ5WQk81) | 5:06 | 2025-09-24 |  |
 | [Bringin' It Back](https://open.spotify.com/track/7h9I6NCzj20ggQWRqo26eJ) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 4:11 | 2025-09-03 |  |
 | [Broken and free](https://open.spotify.com/track/7fxqxtQFoAmOFPNW0JQP8M) | [GrooO](https://open.spotify.com/artist/5HgOlcue2r9Z5jBv3YzNmW) | [Broken and free](https://open.spotify.com/album/0TreN2tdVacgPX3c0XBwWO) | 2:52 | 2025-09-29 |  |
+| [Búsqueda](https://open.spotify.com/track/3omNsXHqJL3sg5Rj3Swwgw) | [Galaxia Ventura](https://open.spotify.com/artist/7CLTzydEhFbCSNaNPzGgu5) | [Un cambio](https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e) | 3:05 | 2025-11-28 |  |
 | [Call My Name](https://open.spotify.com/track/33xuhHhDgCVaEMHXHB9bd8) | [L'Orely & The Scarlett Band](https://open.spotify.com/artist/12aIeiS0nbNCcfRIJss29n) | [Ne doute pas](https://open.spotify.com/album/4rlD5iOOSof6wuxrihIsuW) | 3:40 | 2025-11-02 |  |
 | [Can't Get Enough \- Live](https://open.spotify.com/track/55KAZ5rHlaRtWfY83vva54) | [Rockers On Broadway](https://open.spotify.com/artist/4tBjymJzFjkdHwNPk0aKZP), [Donnie Kehr](https://open.spotify.com/artist/5iMECNzLtUZYMgkGoxRTRG), [Simon Kirke](https://open.spotify.com/artist/0vKffNhiMY9sJ6lyOJL6NF) | [Rockers On Broadway, Vol\. 2 \(Live\)](https://open.spotify.com/album/1WHUj6k8JuNzn5yjGC7IFQ) | 3:10 | 2025-10-17 | 2025-11-28 |
 | [Can't Stop The Bop!](https://open.spotify.com/track/54WZmqgaoO1OyiA7fkurMI) | [Cealee Maag](https://open.spotify.com/artist/595TbVycqvKvUL0dYIudlM), [Pleach](https://open.spotify.com/artist/5fFkXBl9jCXDHcRnJDHeus) | [Can't Stop The Bop!](https://open.spotify.com/album/5p6wMOgSdy4vRwRQLRQK8h) | 4:27 | 2025-10-04 |  |
@@ -128,6 +130,7 @@
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 |  |
 | [Ouroboros](https://open.spotify.com/track/23w8U7ujIWpdMlRYazgl1F) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:56 | 2025-11-23 |  |
+| [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 | 2025-11-28 |  |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 |  |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-09-29 |  |
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 |  |

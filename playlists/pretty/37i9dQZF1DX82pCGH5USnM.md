@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,384,317 likes - 224 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,384,593 likes - 224 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,4 +233,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 223 | [Serene Waves](https://open.spotify.com/track/73WEbDUWwi131nFtG4a5Xt) | [Static 99](https://open.spotify.com/artist/3KWyHBYuMIZF9fuhrhGoju) | [Serene Waves](https://open.spotify.com/album/5aM2DcY5F7vqZL4JW4AggR) | 2:34 |
 | 224 | [Peaceful Morning](https://open.spotify.com/track/7boolZ0xriDWqmQiD0xHky) | [kuki](https://open.spotify.com/artist/4rruOFsptZo8QKLFQrRCeV) | [Peaceful Morning](https://open.spotify.com/album/5We72krNoyWNVgh2UbGMHq) | 2:45 |
 
-Snapshot ID: `AAAAAFA2DXHVdWKcrvXB0qkZV4sLJL8U`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

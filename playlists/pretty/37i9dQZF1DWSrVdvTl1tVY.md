@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,829 likes - 147 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,928 likes - 147 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [](https://open.spotify.com/album/null) | 3:26 |
+| 1 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [Come Closer EP](https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz) | 3:26 |
 | 2 | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/track/7rAsQpCZO8lJPSCl7Uyk0H) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Mitsubishi \(feat\. Muki\)](https://open.spotify.com/album/6CNCCnwbxxI5Q10DLWI7tC) | 2:56 |
 | 3 | [Shake Your Body](https://open.spotify.com/track/2BqvchB4rpgtvUDLXlytNV) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe), [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Shake Your Body](https://open.spotify.com/album/0ABRGpbsdRppVOq1D2eovx) | 3:27 |
 | 4 | [Basic Instinct](https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Basic Instinct](https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP) | 2:49 |

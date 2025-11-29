@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Birds at the River Mouth",
+        "url": "https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj"
+      },
+      "artists": [
+        {
+          "name": "Solmer",
+          "url": "https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4"
+        }
+      ],
+      "date_added": "2025-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122580,
+      "name": "Birds at the River Mouth",
+      "url": "https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc"
+    },
+    {
+      "album": {
         "name": "Forest Sounds for Peace of Mind",
         "url": "https://open.spotify.com/album/6egF1GuipId0GYNcYMB0jU"
       },
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 192875,
       "name": "Rain Forest Birds",
       "url": "https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc"

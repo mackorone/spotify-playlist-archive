@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,852 likes - 100 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,877 likes - 100 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

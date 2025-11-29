@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Naledi Aphiwe, Mawelele
 
-725 songs - 2 day 3 hr 41 min
+726 songs - 2 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 | 2022-11-17 | 2023-06-30 |
 | [Igama Lami](https://open.spotify.com/track/1LQGJzyBHAuF2wNG1nrSWo) | [Zakwethu](https://open.spotify.com/artist/0ftrdf0KoMHqUtAOPNCshS) | [Igama Lami](https://open.spotify.com/album/60Bu0kgH5kkA6vvHZtiyP1) | 3:01 | 2024-05-31 |  |
 | [Igama Linamandla](https://open.spotify.com/track/27Xb7QuzQBDZwBinbFEcrT) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [Igama Linamandla](https://open.spotify.com/album/4GkJLi4ChudBXFzDqoaHAt) | 4:32 | 2025-07-04 |  |
-| [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 |  |
+| [Ikhandlela](https://open.spotify.com/track/6K6nUh69oUPiyQar1Vkdya) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Ikhandlela](https://open.spotify.com/album/0cGh4bbnCT1yoVDwsdUVSp) | 5:22 | 2025-08-15 | 2025-11-29 |
 | [Ikhandlela \(Acoustic\)](https://open.spotify.com/track/1VRCgqvsnw7kBBQZ5sAaei) | [Phila Dlozi](https://open.spotify.com/artist/6Gvhwr7PyROJRjb54EY71v) | [Ikhandlela \(Acoustic\)](https://open.spotify.com/album/19vwRiP3ofuDGIqRGuXQ07) | 5:40 | 2025-04-18 | 2025-06-13 |
 | [Ikherubhi](https://open.spotify.com/track/2n8tN67x4dBNUjf5qCGa5r) | [Mpumi Mzobe](https://open.spotify.com/artist/28HsboP2nvlkVyNemAvs3l), [Villager SA](https://open.spotify.com/artist/3IV8hNUqZuET32bq0ttUoj) | [Ikherubhi](https://open.spotify.com/album/2DHztJwxjSs9vdvZcDIIcv) | 5:38 | 2022-10-28 | 2022-11-15 |
 | [Ilanga](https://open.spotify.com/track/2HmBIq2pmNSjCmNNeZMJjM) | [Buhlebendalo](https://open.spotify.com/artist/1Nu3lDd06uk8y73zM6r6MW), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Deeply Rooted](https://open.spotify.com/album/4lOWybiZPn6y3T47b6b8JZ) | 3:45 | 2021-12-28 | 2022-02-18 |
@@ -703,6 +703,7 @@
 | [Wampona Naah](https://open.spotify.com/track/5YsqtTeCZNyRDwzzQO7Bva) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [Wampona Naah](https://open.spotify.com/album/0dwg3rQ1M7Ir5KvkgBfKps) | 5:11 | 2022-06-30 | 2022-10-14 |
 | [Wamuhle](https://open.spotify.com/track/1Hfi5ASQy39dZJRnRsE6ws) | [DJ So Nice](https://open.spotify.com/artist/5AZBqGvfbhzmsARDuBW9te), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k), [BonafideBilli](https://open.spotify.com/artist/2J4kgQeg22uB6DhVYZXnUn) | [Wamuhle](https://open.spotify.com/album/3yM2OA0HaTVOoytKipIADw) | 3:45 | 2022-06-30 | 2022-09-16 |
 | [Wanele](https://open.spotify.com/track/4OAAdlGqGBfTmKszKEuWj2) | [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Paula Sibiya](https://open.spotify.com/artist/5mEZ8Btz4Qm529ID3lpoUv), [DSax](https://open.spotify.com/artist/1kMLqA8FdK8kAp25mPmhgd) | [Wanele](https://open.spotify.com/album/1ptuvBAQZJfLgIyC2W4iQ1) | 8:00 | 2023-07-14 | 2023-08-04 |
+| [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 | 2025-11-28 |  |
 | [Wela \(Unplugged\)](https://open.spotify.com/track/4i5k9oYKeGW6L2FFOfnd1D) | [Lady X](https://open.spotify.com/artist/649qBoYcGe7w66qRD0xKum) | [Wela \(Unplugged\)](https://open.spotify.com/album/2uM4vgqnUgypsZOzFTQg52) | 5:10 | 2022-06-02 | 2022-06-10 |
 | [Wemnakwethu](https://open.spotify.com/track/4Uec6r78IRwC7ekw0fEKQJ) | [Sbahle](https://open.spotify.com/artist/6gTIIzxlV4RQnh0stmRQk5) | [Wemnakwethu](https://open.spotify.com/album/2gYBfd3AMPWrLV9vtKKtOs) | 2:50 | 2025-04-24 |  |
 | [Wena](https://open.spotify.com/track/32WKq65uODGqGpEWzslSd2) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Ngumama](https://open.spotify.com/album/3aVcedqj0IXKp136xu2YVZ) | 3:21 | 2021-01-28 | 2022-07-29 |

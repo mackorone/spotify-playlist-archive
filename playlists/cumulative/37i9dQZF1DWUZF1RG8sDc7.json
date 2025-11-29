@@ -2399,6 +2399,32 @@
     },
     {
       "album": {
+        "name": "La Combinaci\u00f3n Vallenata, Vol. 2",
+        "url": "https://open.spotify.com/album/5z2MpAXOEjwYJBKhpUc55k"
+      },
+      "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+        },
+        {
+          "name": "Victor \"Rey\" Reyes",
+          "url": "https://open.spotify.com/artist/2VuafUDzCmCB9a6H3h7OEu"
+        }
+      ],
+      "date_added": "2024-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306733,
+      "name": "Que Me Perdone",
+      "url": "https://open.spotify.com/track/5KyNTRKevJLoF2qy0QyLzE"
+    },
+    {
+      "album": {
         "name": "La Combinacion Vallenata Vol. 2",
         "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
       },
@@ -3602,7 +3628,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 292224,
       "name": "Volver",
       "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"

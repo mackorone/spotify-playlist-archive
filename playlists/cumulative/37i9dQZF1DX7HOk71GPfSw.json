@@ -5137,6 +5137,24 @@
     },
     {
       "album": {
+        "name": "BFF",
+        "url": "https://open.spotify.com/album/33mnXGN1236HTRpTaGUE7p"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145025,
+      "name": "BFF",
+      "url": "https://open.spotify.com/track/3wGlth38MGe6Rwuix0wROh"
+    },
+    {
+      "album": {
         "name": "Blinks",
         "url": "https://open.spotify.com/album/6nWmnZpOMHaYBjDZe43fuJ"
       },
@@ -5250,6 +5268,28 @@
       "duration_ms": 114545,
       "name": "BIG ONE",
       "url": "https://open.spotify.com/track/0p1odhs9JGRwTbvq1XBH9m"
+    },
+    {
+      "album": {
+        "name": "BIG ONE (Arca Remix)",
+        "url": "https://open.spotify.com/album/7jNDKWMBl005x9VcBZibed"
+      },
+      "artists": [
+        {
+          "name": "Ian Isiah",
+          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+        },
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "BIG ONE (Arca Remix)",
+      "url": "https://open.spotify.com/track/5vbESxbJBFlFYqKlwHbfni"
     },
     {
       "album": {
@@ -15235,6 +15275,28 @@
     },
     {
       "album": {
+        "name": "Final Song (bod [\u5305\u5bb6\u5df7] Remix)",
+        "url": "https://open.spotify.com/album/0wPySlV4tKSgKmYl4l2smP"
+      },
+      "artists": [
+        {
+          "name": "Bassvictim",
+          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
+        },
+        {
+          "name": "bod [\u5305\u5bb6\u5df7]",
+          "url": "https://open.spotify.com/artist/1D6VOxRs2bOirIONpA4u70"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126956,
+      "name": "Final Song - bod [\u5305\u5bb6\u5df7] Remix",
+      "url": "https://open.spotify.com/track/4RgDoM6QBWYzMVtu8BpO0i"
+    },
+    {
+      "album": {
         "name": "finale",
         "url": "https://open.spotify.com/album/1w1KCN7xrExGbT1mlPor7G"
       },
@@ -15922,6 +15984,24 @@
       "duration_ms": 167989,
       "name": "forget",
       "url": "https://open.spotify.com/track/01VF7wkmqT4SGPAQcTrIHu"
+    },
+    {
+      "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/39rtkjv0wlKNFnxaCUkweR"
+      },
+      "artists": [
+        {
+          "name": "Solum",
+          "url": "https://open.spotify.com/artist/6F9ta3wL8xXN6ufrpqvICW"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193604,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/3M4JwfSJIlpZLCHgiuQQl7"
     },
     {
       "album": {
@@ -21356,6 +21436,24 @@
       "duration_ms": 133459,
       "name": "i always lose :/",
       "url": "https://open.spotify.com/track/69fra6WaruN2FxUO0RLh6K"
+    },
+    {
+      "album": {
+        "name": "Rust Pop, Pt. 1",
+        "url": "https://open.spotify.com/album/2c8Q75Gpk5rrUdjkdd5x7m"
+      },
+      "artists": [
+        {
+          "name": "hanna \u00f6gonsten",
+          "url": "https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157916,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2FFusd66B0nxFk0t1HJ4gE"
     },
     {
       "album": {
@@ -29960,7 +30058,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 207296,
       "name": "Music",
       "url": "https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y"
@@ -34544,7 +34642,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 163074,
       "name": "Poplife",
       "url": "https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK"
@@ -36958,7 +37056,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 167320,
       "name": "ride or die",
       "url": "https://open.spotify.com/track/1rLdDdCgKA1oWhzvm3cDb3"
@@ -48374,7 +48472,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 126906,
       "name": "What2Say",
       "url": "https://open.spotify.com/track/7HD2vDfc8KW11VkRGj5JXr"
@@ -49568,7 +49666,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 205937,
       "name": "YOLO",
       "url": "https://open.spotify.com/track/0tTRPoaUNt8QyfEugN3K7T"

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Elma Dae
 
-1,264 songs - 3 day 9 hr 6 min
+1,265 songs - 3 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Bayangan Cinta Yang Lalu](https://open.spotify.com/track/7k5KS786ibuDQIU4YKRnQ7) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Bayangan Cinta Yang Lalu](https://open.spotify.com/album/3LAMMg0LKfDuIePDLgnTBH) | 3:44 | 2025-10-09 |  |
 | [Bayangkan Ku Hilang](https://open.spotify.com/track/4BDp34OApfupugYc40FKp7) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Bayangkan Ku Hilang](https://open.spotify.com/album/0Tvr62v4t214HmoGbsIbXM) | 4:08 | 2025-07-03 | 2025-08-15 |
 | [Be A Man](https://open.spotify.com/track/0LcfZzp12LVdTBfQS6PhFa) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Be A Man](https://open.spotify.com/album/2wTXUsDxmWfah8xpWtNn1J) | 3:53 | 2024-01-18 | 2024-02-09 |
+| [Be Mine](https://open.spotify.com/track/1JHZ8AjrOJGPhayXfaCPMI) | [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3), [Melly Mono](https://open.spotify.com/artist/4ASFLx9FJ0YNGRKGzwSoxR) | [Be Mine](https://open.spotify.com/album/4XpV1xgSu3HtKi2jrhNyjl) | 3:37 | 2025-11-27 |  |
 | [Be My Baby](https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Be My Baby](https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR) | 2:31 | 2025-02-27 | 2025-03-28 |
 | [Be There for You](https://open.spotify.com/track/1FK4AGndttnVCBQKBgj0AK) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Be There for You](https://open.spotify.com/album/1dfzuM1P1PzBdJMxGXmz12) | 3:27 | 2024-02-23 | 2024-03-29 |
 | [Begini Begitu](https://open.spotify.com/track/4yTEKXWBDWoazJWrjii0Hk) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [CAN MACHINES FALL IN LOVE?](https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB) | 3:08 | 2024-05-30 | 2024-09-27 |
@@ -155,7 +156,7 @@
 | [Berjuang Sekali Lagi](https://open.spotify.com/track/21I0SxYD4D1KhKe7VIPl9J) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Ribuan Rindu](https://open.spotify.com/album/328DciGsj3VvYYwD46MDjn) | 3:24 | 2025-02-20 | 2025-05-30 |
 | [Berkaca\-kaca](https://open.spotify.com/track/6qGiArzJsuYwtoeVLZyBUl) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g) | [Berkaca\-kaca](https://open.spotify.com/album/1hmZkPnKiiWzd7zZ67b8dl) | 3:51 | 2025-09-25 | 2025-11-07 |
 | [Berlalu](https://open.spotify.com/track/5BoOfotbJbhCJ05l3Gw2bV) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu](https://open.spotify.com/album/1MsLzxbDF2l8yQ1y7azYou) | 3:19 | 2024-03-28 | 2024-04-26 |
-| [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [](https://open.spotify.com/album/null) | 3:47 | 2025-11-27 |  |
+| [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [Cita Cinta](https://open.spotify.com/album/7HEXcM3rUIwmU9kueJKsza) | 3:47 | 2025-11-27 |  |
 | [Berlalu \- Demo](https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu \(Demo\)](https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr) | 3:14 | 2024-08-01 | 2024-09-06 |
 | [Bermekaran Dan Mewangi](https://open.spotify.com/track/66sMzBAgVVLsyZvJ3pYasC) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2), [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Ode Matahari](https://open.spotify.com/album/6BtjSzF583B56ZvqFb7Oah) | 3:19 | 2024-05-16 | 2024-06-07 |
 | [Bermimpi](https://open.spotify.com/track/7wV0iEfHVxCROmq9VBBN7D) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Bermimpi](https://open.spotify.com/album/7g2oUacBwA4VsClXkjJgYB) | 3:37 | 2025-09-25 | 2025-11-28 |

@@ -4,7 +4,7 @@
 
 > The sweetest bops\. Cover: GIRLSET
 
-257 songs - 12 hr 38 min
+258 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [New me \- English Version](https://open.spotify.com/track/271zNzzoDjTFdoJBVIZ0JN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [New me \(English Version\)](https://open.spotify.com/album/0j1tTvqx4RK3xwzRocBTJY) | 3:22 | 2025-07-11 |  |
 | [No Business On The Dancefloor](https://open.spotify.com/track/47EttOPfJblOFsztpSseEm) | [Keira](https://open.spotify.com/artist/5DEU6xCvrSgrpI5GsMFZng) | [No Business On The Dancefloor](https://open.spotify.com/album/2PBGkaNBeBpkHedZ9J7eXH) | 2:47 | 2023-03-22 | 2024-03-16 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-03-22 |  |
+| [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 | 2025-11-28 |  |
 | [NOT YOUR GIRL](https://open.spotify.com/track/05aq7OhxdoLiUKOigmiqcj) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:22 | 2023-04-14 | 2024-01-20 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-03-22 | 2023-10-05 |
 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 | 2023-03-22 | 2025-01-18 |
@@ -204,7 +205,7 @@
 | [Run Away](https://open.spotify.com/track/3iDGRv7rqwDYRlHoTaVE96) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/13a0SjtqEvhGLv5J46vURm) | 3:18 | 2024-09-06 |  |
 | [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-08-29 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-03-22 |  |
-| [See U Tonight](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 | 2025-05-09 |  |
+| [See U Tonight](https://open.spotify.com/track/1DFLm3LKaIYZwHsfKpwkQM) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [B.O.Y.](https://open.spotify.com/album/6ITrAoLmu9UBpTW5B89xgW) | 2:10 | 2025-05-09 | 2025-11-29 |
 | [SET ME FREE \(ENG\)](https://open.spotify.com/track/6bkTxw6m6vl8Oc3xtKBXN0) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 | 2023-03-22 | 2024-03-28 |
 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 | 2025-05-09 | 2025-11-22 |
 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 | 2023-03-22 | 2023-07-01 |

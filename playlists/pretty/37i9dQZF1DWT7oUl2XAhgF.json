@@ -1,13 +1,65 @@
 {
   "description": "A new take on a classic sound. Cover: Sekou",
-  "num_followers": 380501,
+  "num_followers": 380609,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANAmtHIAWiqT6PJbgnEV61cqgMX2",
+  "snapshot_id": "AAAAANoR0ihlgAQsZynIy9As56WxUWKt",
   "tracks": [
+    {
+      "added_at": "2025-11-28 05:00:15",
+      "album": {
+        "name": "What It Gave Me",
+        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "What It Gave Me",
+      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
+    },
+    {
+      "added_at": "2025-11-28 05:00:15",
+      "album": {
+        "name": "Can\u2019t Sit Down",
+        "url": "https://open.spotify.com/album/3Gqtz8NilDqhHu8uAX0s4N"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Can\u2019t Sit Down",
+      "url": "https://open.spotify.com/track/0fPfnMUL1qFzkLAIs1bwNl"
+    },
+    {
+      "added_at": "2025-11-28 05:00:15",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3jfc4LTE0Hf7gfQGZrt0jP"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 320813,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1yeortMt1F7wWuCMZKHd2O"
+    },
     {
       "added_at": "2025-11-21 05:00:28",
       "album": {
@@ -23,6 +75,22 @@
       "duration_ms": 190513,
       "name": "Find Your Love",
       "url": "https://open.spotify.com/track/34yxhgQ7fIRnT6l6LmlUxD"
+    },
+    {
+      "added_at": "2025-11-28 05:00:15",
+      "album": {
+        "name": "Stagger Lee",
+        "url": "https://open.spotify.com/album/75XqMtKZjrLveeQU6uLj9S"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Stagger Lee",
+      "url": "https://open.spotify.com/track/22VccMAswE1oV9eQVgzJWz"
     },
     {
       "added_at": "2025-11-14 05:00:25",
@@ -1107,22 +1175,6 @@
     {
       "added_at": "2025-02-07 05:00:22",
       "album": {
-        "name": "Magic Bus Sessions",
-        "url": "https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 223826,
-      "name": "Carry My Name - Magic Bus Sessions",
-      "url": "https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:22",
-      "album": {
         "name": "Slick McGhee",
         "url": "https://open.spotify.com/album/6C5jgRNY53TDMfKw6l2dMY"
       },
@@ -1501,22 +1553,6 @@
       "url": "https://open.spotify.com/track/0PI0V4qRgLpWG5IBASbpdk"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Wild as a Rainstorm",
-        "url": "https://open.spotify.com/album/2a1NCIpag6kQe7v6K36xLJ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Collier",
-          "url": "https://open.spotify.com/artist/5WLpN9bFV4liSYhf4J3aVs"
-        }
-      ],
-      "duration_ms": 253404,
-      "name": "Wild as a Rainstorm",
-      "url": "https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Artemis",
@@ -1613,22 +1649,6 @@
       "url": "https://open.spotify.com/track/0uBXE0zIKcfFiFHHmMuU2R"
     },
     {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "R.L.M",
-        "url": "https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF"
-      },
-      "artists": [
-        {
-          "name": "MRCY",
-          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
-        }
-      ],
-      "duration_ms": 225484,
-      "name": "R.L.M",
-      "url": "https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj"
-    },
-    {
       "added_at": "2024-03-29 04:01:00",
       "album": {
         "name": "Don't Wanna Lose You",
@@ -1659,22 +1679,6 @@
       "duration_ms": 231346,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/4Q6WTLLZtYZ2OuQ4pCZH0A"
-    },
-    {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2dMifVzH1LJCNbnAqftCVA"
-      },
-      "artists": [
-        {
-          "name": "ROME",
-          "url": "https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa"
-        }
-      ],
-      "duration_ms": 196181,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO"
     },
     {
       "added_at": "2024-01-26 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un autunno non proprio felice \(Naska in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,281 likes - 110 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,340 likes - 110 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

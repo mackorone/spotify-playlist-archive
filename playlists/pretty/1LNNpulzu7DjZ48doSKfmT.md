@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 448 likes - 506 songs - 1 day 2 hr 11 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 522 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -514,5 +514,21 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 504 | [She's Alright & INSANE \(グリッチビート 2023年11月27日\)](https://open.spotify.com/track/5bKlvF94DMRV09VrE1pLxr) | [earprnOS](https://open.spotify.com/artist/5Mx5kvG2sIH6UmpZBhnotL), [LoveStroke Radio](https://open.spotify.com/artist/0YO2Ofx6dBxVSCSpndZUk4) | [She's Alright & INSANE \(グリッチビート 2023年11月27日\)](https://open.spotify.com/album/3ORz0j3MTibp9lY1aYY50Y) | 1:55 |
 | 505 | [Way Back Home](https://open.spotify.com/track/2gwXKIaShkN2FUjJuicI0r) | [BRAIN](https://open.spotify.com/artist/4AVuKJus9aYsezG3aladQA) | [Way Back Home](https://open.spotify.com/album/51mc9xOyiXC5Gh79aUap92) | 4:46 |
 | 506 | [vicious/deadly](https://open.spotify.com/track/10MCIL2udRrZp7DV01TStN) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 2:00 |
+| 507 | [A place](https://open.spotify.com/track/74ZXpHcFQzrQTXNlxu1xGk) | [Steve Marrocco](https://open.spotify.com/artist/5Q9SgDy9ayLODLsBPs9yIn) | [A place](https://open.spotify.com/album/1SJmSK9ZAsptAMGugcQ16b) | 2:59 |
+| 508 | [Progreso \- Optimizada](https://open.spotify.com/track/5kTYLuZflOB8DVvQH1MGYA) | [Bruno Dos Santos](https://open.spotify.com/artist/4ERwO1fYD3cMBZ5KyLZQe9) | [Progreso](https://open.spotify.com/album/2JW2FZPRqEJaJrWbLEonNu) | 2:15 |
+| 509 | [Riprocker](https://open.spotify.com/track/2VzqjgLXniZ8doML8qxDrj) | [HXN](https://open.spotify.com/artist/7tJX5rskc8orHwU1Zx1aWZ) | [Riprocker](https://open.spotify.com/album/6OgXojvMWTVFqV4OBOYnyZ) | 3:54 |
+| 510 | [What Ya Gonna Do With Yr Days](https://open.spotify.com/track/46Hc2GXCWO0L5Hb5Fg2q9u) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:37 |
+| 511 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 |
+| 512 | [I Drink](https://open.spotify.com/track/44xcj9t0HoNPu5cfNmWZ38) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [Paul Marturano Volume 1 Three Album Set Originals / Bucks County / Reflection](https://open.spotify.com/album/7cvhesmU6n33r24SOrZpdF) | 2:28 |
+| 513 | [Red Flag](https://open.spotify.com/track/17hGpOUdykZePyjstLzxdm) | [Laura T](https://open.spotify.com/artist/3Qt7acxY253meLC7AntJ4Q) | [Red Flag](https://open.spotify.com/album/1vvS7s1AWG5WZCVQuTiSrN) | 3:26 |
+| 514 | [Showdown](https://open.spotify.com/track/3hIY2FA4NkIgHE2UeGJmuf) | [True School Records](https://open.spotify.com/artist/0SqKDn8HSvW2FhEhgUeJ0o), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Old School Jewels](https://open.spotify.com/album/7jCg0vOsmsLkKhbblqvhRX) | 2:25 |
+| 515 | [What if I](https://open.spotify.com/track/78TQCIfLsP3dXVTeRdykLK) | [Horizon Odyssey](https://open.spotify.com/artist/32XvjStGh3riNBBK8FOJYj), [SAIR](https://open.spotify.com/artist/4Lf5hXoHexdG8yi75pbwBD) | [What if I](https://open.spotify.com/album/3Qzaxg0bmIYzCflnuswLZR) | 3:19 |
+| 516 | [Make Time](https://open.spotify.com/track/4nDThqsNtLip4HictdNEDj) | [Dreamcube](https://open.spotify.com/artist/5PlNt9Xm268iPZp6aDciQ2) | [Make Time](https://open.spotify.com/album/7klOHmwuJ1Cu44jDcwsya4) | 3:04 |
+| 517 | [The Way It Makes Me Feel](https://open.spotify.com/track/3oBUdNLtPspoHjr4mMlQkk) | [Penelope](https://open.spotify.com/artist/10TjnjAFoOorE5NJoomfoN) | [The Way It Makes Me Feel](https://open.spotify.com/album/6LxSvGxZ6Csn5ijB3QtVcZ) | 3:33 |
+| 518 | [SwingTown](https://open.spotify.com/track/4zOmuNgdFpZU17qzCuJjRC) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [SwingTown](https://open.spotify.com/album/66QXvoXLmRBnaKyuzYgtPp) | 2:29 |
+| 519 | [backseat confessions](https://open.spotify.com/track/79lCZgjb8Sw6cVqsJTJ5FA) | [DeMonte Lavon](https://open.spotify.com/artist/417b6aqhC6zWo0I5iD8Q9K) | [backseat confessions](https://open.spotify.com/album/2ZxJeVllW06njTXqorI5P4) | 4:27 |
+| 520 | [Boom Bop Bam](https://open.spotify.com/track/3IPqGJuQ4VUMlMfHAjAEEJ) | [JustPierre](https://open.spotify.com/artist/153NVBXEIRJk7EXhvBPUHa), [Testimony](https://open.spotify.com/artist/03LOg8LebGaIdSmADNXG7K) | [Boom Bop Bam](https://open.spotify.com/album/3Vmwokro8m05kB6n7hZsBa) | 2:29 |
+| 521 | [Fantasy](https://open.spotify.com/track/4KIcjICZDgeRmLtJ37Ezyu) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Seeko](https://open.spotify.com/artist/6CE5ddAC32B4XKW6y0bbR3), [Danii Dee](https://open.spotify.com/artist/26hHacionHpjqCqFj8DX43) | [Fantasy](https://open.spotify.com/album/6pOTUKyF8Tvv2FHhJBkPUL) | 2:11 |
+| 522 | [When you talk about me](https://open.spotify.com/track/2jyyTMC8Bcpmon1xtys4gH) | [Van Hoick](https://open.spotify.com/artist/6w2IE77DRioYFTs0nF0Vik) | [When you talk about me](https://open.spotify.com/album/6l2KsVfUJwYheeDkyTrYzh) | 2:10 |
 
-Snapshot ID: `AAAXGxKN7k0I/w/dFaZSyKz+FPHtur6+`
+Snapshot ID: `AAAXK6eSsj1gkA1wr45T6JTsBaLlD+dy`

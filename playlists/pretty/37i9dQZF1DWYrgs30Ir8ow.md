@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,155 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,247 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 25 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 |
 | 26 | [Meisje uit het Gooi](https://open.spotify.com/track/496VmZiPrXM9S1D5o3GDWp) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Meisje uit het Gooi](https://open.spotify.com/album/5twBJKrXQKbxq9VRgC5e0O) | 2:37 |
 | 27 | [IK MOET GAAN](https://open.spotify.com/track/62PIx4LkcpnwxXdGmdFvzq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Gedoe](https://open.spotify.com/album/4UW6gZzDkRJcEDdZPhmu4R) | 2:43 |
-| 28 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 28 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 29 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
 | 30 | [Proost](https://open.spotify.com/track/1yJyVyiwLfcvjoibA4WnNM) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Proost](https://open.spotify.com/album/237Q7Gxp8uPJW7oW9bHZdg) | 2:56 |
 | 31 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 33 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
 | 34 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
 | 35 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 |
-| 36 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [](https://open.spotify.com/album/null) | 3:43 |
+| 36 | [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 |
 | 37 | [LAATSTE BERICHT](https://open.spotify.com/track/4q45RErPte0Hxe03YSh4fM) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [Dior](https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt) | [LAATSTE BERICHT](https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu) | 3:03 |
 | 38 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 39 | [Afterparty](https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Afterparty](https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU) | 2:35 |

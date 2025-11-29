@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > canciones que nos gustaría que Dua Lipa cante en su concierto en la CDMX.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,413 likes - 45 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,415 likes - 45 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

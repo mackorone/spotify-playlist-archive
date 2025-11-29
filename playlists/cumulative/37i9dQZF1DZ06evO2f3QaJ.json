@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/7sawPIwTZC4ObF1QopFHti"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/7nG2vsMFNE9W4McyrQu7BF"
+    },
+    {
+      "album": {
         "name": "Ameixa",
         "url": "https://open.spotify.com/album/2RJTbJmnJ5MsSXo6JjJ5nD"
       },
@@ -442,6 +460,24 @@
     {
       "album": {
         "name": "EGOT",
+        "url": "https://open.spotify.com/album/2T5hs46iISjZhIsiJiXcTy"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "EGOT",
+      "url": "https://open.spotify.com/track/3HVj3BM9hwU6xw7DGRa9Bq"
+    },
+    {
+      "album": {
+        "name": "EGOT",
         "url": "https://open.spotify.com/album/4xCsgAMtfKlE8VQmindu4m"
       },
       "artists": [
@@ -452,7 +488,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 232727,
       "name": "EGOT",
       "url": "https://open.spotify.com/track/5CdYmHG5yjBsRsRzui8aLc"
@@ -718,7 +754,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 81428,
       "name": "H.E.R. (Humano em Reabilita\u00e7\u00e3o) Interl\u00fadio",
       "url": "https://open.spotify.com/track/7v6DjClTryH8XbIJYgYJle"
@@ -1430,7 +1466,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 163240,
       "name": "Ordem Natural",
       "url": "https://open.spotify.com/track/5JE1zOziDo4rOzAm0FC8FA"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 217120,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/6khq3X9l2JCOzPuxBitezU"

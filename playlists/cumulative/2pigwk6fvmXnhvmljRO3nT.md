@@ -4,7 +4,7 @@
 
 > 
 
-7,919 songs - 20 day 10 hr 14 min
+7,920 songs - 20 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2318,6 +2318,7 @@
 | [Gold Man](https://open.spotify.com/track/6d91zsBXZWYOUAomhxVxNj) | [Maxo](https://open.spotify.com/artist/758sHPdw5FpB5ZM8f5MpXe) | [SMILE](https://open.spotify.com/album/6r0KRiICKe1bQd5qIBTuD3) | 1:23 | 2025-01-04 |  |
 | [Gold Rings \(feat\. Pusha T\)](https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 3:42 | 2025-01-03 |  |
 | [Gold Roses \(feat\. Drake\)](https://open.spotify.com/track/1rX5L6pyl3rVWb55D8Cprr) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Port of Miami 2](https://open.spotify.com/album/1mgw5rbUS94uif2ce9QCf0) | 5:49 | 2025-01-15 |  |
+| [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-11-28 |  |
 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 | 2025-01-01 |  |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2025-01-03 |  |
 | [Goldie](https://open.spotify.com/track/31G9RaSaDOI2NWcpnIp734) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:12 | 2024-12-05 |  |

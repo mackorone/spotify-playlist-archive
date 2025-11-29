@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... CAPO en portada.",
-  "num_followers": 289534,
+  "num_followers": 289540,
   "original_name": "El Barrio MP3 x VGLY ",
   "owner": {
     "name": "Spotify",
@@ -1339,6 +1339,30 @@
     {
       "added_at": "2025-10-20 23:50:01",
       "album": {
+        "name": "\u00d1EROSTARS",
+        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
+    },
+    {
+      "added_at": "2025-10-20 23:50:01",
+      "album": {
         "name": "R\u00e1pido Soy",
         "url": "https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr"
       },
@@ -1367,30 +1391,6 @@
       "duration_ms": 310720,
       "name": "Bitch, Don\u2019t Kill My Vibe",
       "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
-    },
-    {
-      "added_at": "2025-10-20 23:50:01",
-      "album": {
-        "name": "\u00d1EROSTARS",
-        "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
     },
     {
       "added_at": "2025-10-20 23:50:01",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-10-20 23:50:01",
       "album": {
-        "name": "Kalashnikov",
-        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 129500,
-      "name": "Kalashnikov",
-      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
-    },
-    {
-      "added_at": "2025-10-20 23:50:01",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 168210,
       "name": "YW&F - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+    },
+    {
+      "added_at": "2025-10-20 23:50:01",
+      "album": {
+        "name": "Kalashnikov",
+        "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Kalashnikov",
+      "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
     },
     {
       "added_at": "2025-10-20 23:50:01",

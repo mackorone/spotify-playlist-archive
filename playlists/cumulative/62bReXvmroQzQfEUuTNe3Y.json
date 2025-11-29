@@ -9737,6 +9737,24 @@
     },
     {
       "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/08lvnFa8o51c7yEeO9PA44"
+      },
+      "artists": [
+        {
+          "name": "April Girl",
+          "url": "https://open.spotify.com/artist/6F6kiCnzdyGJlHGCeGukPs"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164593,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3yh06bgDnH0QZFiHVeObWH"
+    },
+    {
+      "album": {
         "name": "Us",
         "url": "https://open.spotify.com/album/1FtgISKKm0jFKfZxKvZ8QC"
       },
@@ -9908,7 +9926,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 264614,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"

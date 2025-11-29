@@ -4,7 +4,7 @@
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-216 songs - 12 hr 19 min
+217 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,8 +74,9 @@
 | [FU & UF](https://open.spotify.com/track/6EmVYBTauOBjejUU5n9GyF) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/6KwW5AwZbyHJD3KyZuuyM1) | 2:39 | 2025-10-24 |  |
 | [Give You The World](https://open.spotify.com/track/14jzHnfgLUZDLNcI0EciWb) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Give You The World](https://open.spotify.com/album/5Sp7sBzrqrOVcIZ4xY0iU4) | 3:39 | 2025-07-18 |  |
 | [Gold](https://open.spotify.com/track/4Qy7yWT1UI6FK2CWrqkGwR) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [This Marauder's Midnight](https://open.spotify.com/album/6Nahal5iYJfGxEXeGSL3b3) | 4:11 | 2025-07-18 |  |
+| [Gone In The Morning \- Radio Edit](https://open.spotify.com/track/3QPiJjSyHB5ZUxtxQQiOuH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Gone In The Morning \(Radio Edit\)](https://open.spotify.com/album/2GYGS0eufr8rjplsfGUPGg) | 2:47 | 2025-11-28 |  |
 | [good old days](https://open.spotify.com/track/1XcPFhBIMCUgXlBC5CuBOM) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [good old days](https://open.spotify.com/album/3qPnAsGYDEi6kboQkQS0cT) | 2:36 | 2025-07-18 | 2025-09-13 |
-| [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 | 2025-07-18 |  |
+| [Gorgeous](https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Gorgeous](https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF) | 3:05 | 2025-07-18 | 2025-11-29 |
 | [Greatest Gift \(feat\. Lila Iké\)](https://open.spotify.com/track/25FpYk2r43jMp2Rn1orAFp) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa) | 3:12 | 2025-07-18 | 2025-11-08 |
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-07-18 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 | 2025-08-09 |

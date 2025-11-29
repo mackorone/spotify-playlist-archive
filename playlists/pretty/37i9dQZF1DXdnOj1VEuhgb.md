@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Aspova
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406,055 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,406,069 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ismarla](https://open.spotify.com/track/5Gz8iZTmpjM3DAD38oomQS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Ismarla](https://open.spotify.com/album/18LeoXntfGUeeksKT2M45B) | 3:03 |
 | 2 | [Geri Ver](https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Geri Ver](https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw) | 2:49 |
-| 3 | [Track 3](https://open.spotify.com/track/1EkVunrlzRCBRydTEgIIlv) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [KURŞUNLARA KAFA](https://open.spotify.com/track/1EkVunrlzRCBRydTEgIIlv) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf) | [FAM](https://open.spotify.com/album/59wTR74ppNXF7o2nRvibvC) | 2:24 |
 | 4 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
 | 5 | [KUSURA BAKMA](https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KUSURA BAKMA](https://open.spotify.com/album/06jvhVjkzizEpZQ3goLOmf) | 2:37 |
 | 6 | [BATUFLEX](https://open.spotify.com/track/33ucZnn3dMflJee2xgx2mv) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [BATUFLEX](https://open.spotify.com/album/3F6qrGP61m790ftBHAMmOH) | 2:06 |

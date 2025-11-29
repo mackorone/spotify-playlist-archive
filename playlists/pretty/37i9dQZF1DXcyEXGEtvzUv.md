@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 
 > O melhor do rap e a música urbana em 2024\. Foto: Plutonio
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,146 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,148 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyEXGEtvzUv.md) - [plain]
 | 23 | [NR6](https://open.spotify.com/track/61r5JPTLkPZQ725NODvAcC) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [NR6](https://open.spotify.com/album/3IWVaeKkVGpYAkwN6GUFRp) | 4:27 |
 | 24 | [Povo](https://open.spotify.com/track/3W7cu7ORKiHF6A2BvQLam3) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Povo](https://open.spotify.com/album/07m5H8wCm5QicG9jqqh02D) | 3:30 |
 | 25 | [Melodia](https://open.spotify.com/track/5HSYsk35AOOmLqE5rYcMFx) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Melodia](https://open.spotify.com/album/2RZXeyPA9S4ePRYwDvID1P) | 2:55 |
-| 26 | [Pai Nosso](https://open.spotify.com/track/2Wt9Xg5ANi2brf6MMFZCVG) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Pai Nosso](https://open.spotify.com/album/78919XqfT2YtPVZt6CloJs) | 4:24 |
-| 27 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
+| 26 | [Pai Nosso](https://open.spotify.com/track/2Wt9Xg5ANi2brf6MMFZCVG) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Dji Tafinha](https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS) | [Pai Nosso](https://open.spotify.com/album/78919XqfT2YtPVZt6CloJs) | 4:24 |
+| 27 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
 | 28 | [Bram Bram](https://open.spotify.com/track/521wrQjzG1znX4e8caN2LG) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Loreta Kba](https://open.spotify.com/artist/3BgAxhLchLBb8Y6h7mVbyk) | [Bram Bram](https://open.spotify.com/album/3yXviYzjm4OfflqOcl3MVj) | 3:39 |
 | 29 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 30 | [Camisa Branca](https://open.spotify.com/track/70Sllhn5EkksI0bWDCTpBH) | [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Rahiz](https://open.spotify.com/artist/5O8NHM6tAIEigAbZbxQsfd) | [Camisa Branca](https://open.spotify.com/album/1RhNSC8JZ44atoJiZbDcaW) | 3:52 |

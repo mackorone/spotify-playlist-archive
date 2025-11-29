@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 245795,
       "name": "Blank Space - Acoustic",
       "url": "https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm"
@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp"
+      },
+      "artists": [
+        {
+          "name": "late september",
+          "url": "https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203608,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg"
+    },
+    {
+      "album": {
         "name": "Crazy Love",
         "url": "https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy"
       },
@@ -1674,6 +1692,24 @@
       "duration_ms": 148369,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/43i4sdTLCnalaVPtXsIeSp"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
+      },
+      "artists": [
+        {
+          "name": "LAJKA",
+          "url": "https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
     },
     {
       "album": {
@@ -5000,7 +5036,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 205188,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN"

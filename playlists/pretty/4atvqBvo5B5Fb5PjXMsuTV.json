@@ -1,13 +1,117 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Nov 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Nov 04:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWaVh55BWQYW87o3Pcy4DWmnIXjMwq",
+  "snapshot_id": "AAAWcY+kKIKonk0x5Yw3bjsJq3ml5tYh",
   "tracks": [
+    {
+      "added_at": "2025-11-29 04:04:03",
+      "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Jacob M\u00fchlrad",
+          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
+        }
+      ],
+      "duration_ms": 279033,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA"
+    },
+    {
+      "added_at": "2025-11-28 09:04:16",
+      "album": {
+        "name": "YCDL",
+        "url": "https://open.spotify.com/album/05LCKxUoZvV33ytK1ZUTWc"
+      },
+      "artists": [
+        {
+          "name": "prettifun",
+          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+        }
+      ],
+      "duration_ms": 151632,
+      "name": "YCDL",
+      "url": "https://open.spotify.com/track/6aV4ryo9wMfgbWkfItsWZr"
+    },
+    {
+      "added_at": "2025-11-28 09:04:16",
+      "album": {
+        "name": "Goat Stamp",
+        "url": "https://open.spotify.com/album/63N1gzlQ9beKpClgpD6r3l"
+      },
+      "artists": [
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 216377,
+      "name": "Goat Stamp",
+      "url": "https://open.spotify.com/track/4H6OFCJ5GHuM3NzuCHjvsc"
+    },
+    {
+      "added_at": "2025-11-28 19:04:06",
+      "album": {
+        "name": "Booga",
+        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 112733,
+      "name": "Booga",
+      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
+    },
+    {
+      "added_at": "2025-11-29 04:04:03",
+      "album": {
+        "name": "Hello Revenge",
+        "url": "https://open.spotify.com/album/7p0bwadyv161k3YvYnJ5Eb"
+      },
+      "artists": [
+        {
+          "name": "NLE The Great",
+          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 249941,
+      "name": "Hello Revenge",
+      "url": "https://open.spotify.com/track/6ewqXnUFLxYfuUJPiWS2Bj"
+    },
+    {
+      "added_at": "2025-11-28 19:04:06",
+      "album": {
+        "name": "I'LL NEVER KNOW WHY",
+        "url": "https://open.spotify.com/album/0bESUF4v7mCKoaHS8Q2s6Q"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "I'LL NEVER KNOW WHY",
+      "url": "https://open.spotify.com/track/1IgmgXE7u8EojsElPe8TwJ"
+    },
     {
       "added_at": "2025-11-27 09:03:50",
       "album": {
@@ -39,6 +143,22 @@
       "duration_ms": 169066,
       "name": "I've Got A Broken Heart",
       "url": "https://open.spotify.com/track/38ifZytnEYRRwRfEx60hgk"
+    },
+    {
+      "added_at": "2025-11-28 19:04:06",
+      "album": {
+        "name": "Devil Wanna Dance",
+        "url": "https://open.spotify.com/album/0zHEUBV4Dy7jFycNaaXf0Z"
+      },
+      "artists": [
+        {
+          "name": "Edward Skeletrix",
+          "url": "https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS"
+        }
+      ],
+      "duration_ms": 131160,
+      "name": "Devil Wanna Dance",
+      "url": "https://open.spotify.com/track/1cjCuyY7dKHqLJE3gCZWWi"
     },
     {
       "added_at": "2025-11-25 23:04:20",
@@ -135,6 +255,26 @@
       "duration_ms": 145650,
       "name": "High Tolerance",
       "url": "https://open.spotify.com/track/19PdOaQgCjuZy0kSL3aIr0"
+    },
+    {
+      "added_at": "2025-11-28 14:03:38",
+      "album": {
+        "name": "Bring Me To Life",
+        "url": "https://open.spotify.com/album/0hLl6XW9qAjuuPijk9SKTe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Bring Me To Life",
+      "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
     },
     {
       "added_at": "2025-11-22 09:04:38",
@@ -703,138 +843,6 @@
       "duration_ms": 215268,
       "name": "Searchlight",
       "url": "https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo"
-    },
-    {
-      "added_at": "2025-11-18 23:04:20",
-      "album": {
-        "name": "Left For Good",
-        "url": "https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 233737,
-      "name": "Left For Good",
-      "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
-    },
-    {
-      "added_at": "2025-11-19 19:03:59",
-      "album": {
-        "name": "GIMME MORE",
-        "url": "https://open.spotify.com/album/79TfVmx8S2A6aDGRUYDjRk"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        }
-      ],
-      "duration_ms": 184716,
-      "name": "GIMME MORE",
-      "url": "https://open.spotify.com/track/3H5zeP0WbEuk77bUwcOqcZ"
-    },
-    {
-      "added_at": "2025-11-21 14:04:18",
-      "album": {
-        "name": "No Comment",
-        "url": "https://open.spotify.com/album/5jMW8JRRvthPDR7qQLNMqb"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "No Comment",
-      "url": "https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb"
-    },
-    {
-      "added_at": "2025-11-23 09:03:48",
-      "album": {
-        "name": "T Shirt",
-        "url": "https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "T Shirt",
-      "url": "https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P"
-    },
-    {
-      "added_at": "2025-11-17 14:05:46",
-      "album": {
-        "name": "ONE MORE TIME",
-        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 195259,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
-    },
-    {
-      "added_at": "2025-11-17 23:04:32",
-      "album": {
-        "name": "A Violet to Remember",
-        "url": "https://open.spotify.com/album/2zzM42TgcBC65kOLj9hNwo"
-      },
-      "artists": [
-        {
-          "name": "PURPLE KISS",
-          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/3L5wYisClQZ30ercc1hdn6"
-    },
-    {
-      "added_at": "2025-11-19 04:04:04",
-      "album": {
-        "name": "Seatbelt Off",
-        "url": "https://open.spotify.com/album/0KiXJ2GmgF1WL1hxf7oRcW"
-      },
-      "artists": [
-        {
-          "name": "Edward Skeletrix",
-          "url": "https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS"
-        }
-      ],
-      "duration_ms": 110656,
-      "name": "Seatbelt Off",
-      "url": "https://open.spotify.com/track/3IofWajzrTj002lv6Cq0Ig"
-    },
-    {
-      "added_at": "2025-11-16 09:04:47",
-      "album": {
-        "name": "FEAR",
-        "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 268519,
-      "name": "FEAR",
-      "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
     }
   ],
   "unique_name": "New Singles Now",

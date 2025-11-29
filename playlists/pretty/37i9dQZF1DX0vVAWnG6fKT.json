@@ -283,22 +283,6 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "The Essential Roy Acuff",
-        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
-      },
-      "artists": [
-        {
-          "name": "Roy Acuff",
-          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Tennessee Waltz",
-      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
-    },
-    {
-      "added_at": "2025-11-03 22:13:16",
-      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -315,18 +299,34 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "Look What Thoughts Will Do",
-        "url": "https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx"
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
       },
       "artists": [
         {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
         }
       ],
-      "duration_ms": 173933,
-      "name": "If You've Got the Money I've Got the Time",
-      "url": "https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5"
+      "duration_ms": 174106,
+      "name": "Tennessee Waltz",
+      "url": "https://open.spotify.com/track/2fzQJzCsURVzw4luzqZPcw"
+    },
+    {
+      "added_at": "2025-11-03 22:13:16",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -351,34 +351,18 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+        "name": "Look What Thoughts Will Do",
+        "url": "https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx"
       },
       "artists": [
         {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2025-11-03 22:13:16",
-      "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
-      },
-      "artists": [
-        {
-          "name": "Hank Snow",
-          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
-        }
-      ],
-      "duration_ms": 165453,
-      "name": "The Golden Rocket",
-      "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
+      "duration_ms": 173933,
+      "name": "If You've Got the Money I've Got the Time",
+      "url": "https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -395,6 +379,22 @@
       "duration_ms": 129133,
       "name": "Cool Water",
       "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
+    },
+    {
+      "added_at": "2025-11-03 22:13:16",
+      "album": {
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/3CihtEK0DUIjF3clGitVGE"
+      },
+      "artists": [
+        {
+          "name": "Hank Snow",
+          "url": "https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S"
+        }
+      ],
+      "duration_ms": 165453,
+      "name": "The Golden Rocket",
+      "url": "https://open.spotify.com/track/5jcprGzyDUAq25Babtyuei"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+        "name": "Rhythm & Booze",
+        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
       "artists": [
         {
-          "name": "George Morgan",
-          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+      "duration_ms": 164506,
+      "name": "Beer Drinking Blues",
+      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
     },
     {
       "added_at": "2025-11-03 22:13:16",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-11-03 22:13:16",
       "album": {
-        "name": "Rhythm & Booze",
-        "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
       },
       "artists": [
         {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+          "name": "George Morgan",
+          "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 164506,
-      "name": "Beer Drinking Blues",
-      "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+      "duration_ms": 172733,
+      "name": "Candy Kisses",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2025-11-03 22:13:16",

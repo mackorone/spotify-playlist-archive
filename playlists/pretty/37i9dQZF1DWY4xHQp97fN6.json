@@ -1,57 +1,13 @@
 {
   "description": "Mood: Turnt Cover: Don Toliver",
-  "num_followers": 6599681,
+  "num_followers": 6599409,
   "original_name": "Get Turnt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUnBy8GTk1nuyzFG4Iy5fz8O7+I",
+  "snapshot_id": "AAAAAG3xXBwOnjbttuD9KuCJATbAQBCf",
   "tracks": [
-    {
-      "added_at": "2025-11-21 05:04:44",
-      "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 132485,
-      "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
-      "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
-    },
-    {
-      "added_at": "2025-11-21 05:04:44",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 135275,
-      "name": "TOXIC (with Skepta)",
-      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
-    },
     {
       "added_at": "2025-11-21 05:04:44",
       "album": {
@@ -103,22 +59,6 @@
     {
       "added_at": "2025-11-21 05:04:44",
       "album": {
-        "name": "A+",
-        "url": "https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 155955,
-      "name": "A+",
-      "url": "https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe"
-    },
-    {
-      "added_at": "2025-11-21 05:04:44",
-      "album": {
         "name": "FWU",
         "url": "https://open.spotify.com/album/7zJFjXfJQfezdDfp0rqAt4"
       },
@@ -155,6 +95,66 @@
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "added_at": "2025-11-21 05:04:44",
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 132485,
+      "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
+      "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
+    },
+    {
+      "added_at": "2025-11-21 05:04:44",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 135275,
+      "name": "TOXIC (with Skepta)",
+      "url": "https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx"
+    },
+    {
+      "added_at": "2025-11-21 05:04:44",
+      "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 155955,
+      "name": "A+",
+      "url": "https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe"
     },
     {
       "added_at": "2025-11-21 05:04:44",

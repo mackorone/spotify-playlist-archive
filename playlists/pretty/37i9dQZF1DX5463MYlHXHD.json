@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 583928,
+  "num_followers": 584008,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -491,38 +491,6 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 235368,
-      "name": "Vengo de la casa de ella",
-      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
-    },
-    {
-      "added_at": "2025-11-20 11:35:43",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2025-11-20 11:35:43",
-      "album": {
         "name": "Auto Al Piso",
         "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
       },
@@ -543,6 +511,38 @@
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "added_at": "2025-11-20 11:35:43",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2025-11-20 11:35:43",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 235368,
+      "name": "Vengo de la casa de ella",
+      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "Dando Clase",
-        "url": "https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a"
+        "name": "Sin Rivales",
+        "url": "https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         }
       ],
-      "duration_ms": 274037,
-      "name": "Amor de Colegio",
-      "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
+      "duration_ms": 228728,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/1bbsktoXqz97oLecvXG8tL"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "Sin Rivales",
-        "url": "https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP"
+        "name": "Dando Clase",
+        "url": "https://open.spotify.com/album/6jrmX8SsZmRRgxV4428j7a"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
         }
       ],
-      "duration_ms": 228728,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/1bbsktoXqz97oLecvXG8tL"
+      "duration_ms": 274037,
+      "name": "Amor de Colegio",
+      "url": "https://open.spotify.com/track/6AdJIZ62Nmhp1Zh0wFpZPW"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "La Repandilla",
-        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
-      },
-      "artists": [
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
-    },
-    {
-      "added_at": "2025-11-20 11:35:43",
-      "album": {
         "name": "Libre y Soltero",
         "url": "https://open.spotify.com/album/6QEEpXCjvRcufUT14J4pXe"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+    },
+    {
+      "added_at": "2025-11-20 11:35:43",
+      "album": {
+        "name": "La Repandilla",
+        "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 208631,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "Moviendo la Cola",
-        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
-      },
-      "artists": [
-        {
-          "name": "Barrabox",
-          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Siempre Es la Misma Situaci\u00f3n",
-      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
-    },
-    {
-      "added_at": "2025-11-20 11:35:43",
-      "album": {
         "name": "LOGI",
         "url": "https://open.spotify.com/album/273WUOLBoPxnNIPld4cmkA"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
+        "name": "Moviendo la Cola",
+        "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
+      },
+      "artists": [
+        {
+          "name": "Barrabox",
+          "url": "https://open.spotify.com/artist/6z01XcnKo6MCOI3qhVEghp"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Siempre Es la Misma Situaci\u00f3n",
+      "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2025-11-20 11:35:43",
+      "album": {
         "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
         "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
       },
@@ -1583,22 +1583,6 @@
       "duration_ms": 198253,
       "name": "Sentate en el pelado",
       "url": "https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP"
-    },
-    {
-      "added_at": "2025-11-20 11:35:43",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Caramelito",
-      "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1639,22 +1623,18 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "DJ ALEX, EL NOBA - TEKA | E6",
-        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 137500,
-      "name": "DJ ALEX, EL NOBA - TEKA | E6",
-      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
+      "duration_ms": 157826,
+      "name": "Caramelito",
+      "url": "https://open.spotify.com/track/6UIvUdhVbtd5jgbBzfZYgg"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1671,6 +1651,26 @@
       "duration_ms": 247144,
       "name": "Vos de Bebe",
       "url": "https://open.spotify.com/track/2mVBkHUzTGdHZsZ90F77bF"
+    },
+    {
+      "added_at": "2025-11-20 11:35:43",
+      "album": {
+        "name": "DJ ALEX, EL NOBA - TEKA | E6",
+        "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 137500,
+      "name": "DJ ALEX, EL NOBA - TEKA | E6",
+      "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
     },
     {
       "added_at": "2025-11-20 11:35:43",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-11-20 11:35:43",
       "album": {
-        "name": "De Culo",
-        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 275356,
-      "name": "El reloj cu cu",
-      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
-    },
-    {
-      "added_at": "2025-11-20 11:35:43",
-      "album": {
         "name": "Y Pinto... El Arrebato Guacho",
         "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 177093,
       "name": "Quiero Que Escuches",
       "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+    },
+    {
+      "added_at": "2025-11-20 11:35:43",
+      "album": {
+        "name": "De Culo",
+        "url": "https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 275356,
+      "name": "El reloj cu cu",
+      "url": "https://open.spotify.com/track/2vW9tweB3LKfNayGp6wQ8t"
     },
     {
       "added_at": "2025-11-20 11:35:43",

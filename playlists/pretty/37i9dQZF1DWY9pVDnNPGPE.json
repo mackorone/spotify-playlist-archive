@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 9978,
+  "num_followers": 9985,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-10-15 08:07:35",
       "album": {
+        "name": "Q",
+        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
+    },
+    {
+      "added_at": "2025-10-15 08:07:35",
+      "album": {
         "name": "Airman Morning Diaries",
         "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 201077,
       "name": "Blue Island (feat. 1Ho & Chan)",
       "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
-    },
-    {
-      "added_at": "2025-10-15 08:07:35",
-      "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/3L1LYjwpQmEBnnVqq8CcvT"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/6fEde6ywATXNTpSA36GWyg"
     },
     {
       "added_at": "2025-10-15 08:07:35",

@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 680741,
+  "num_followers": 680934,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "The Big Picture",
         "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 168755,
       "name": "Oh My Love",
       "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
+        "name": "Bells On Sand",
+        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
+      },
+      "artists": [
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 329306,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
         "name": "These Are the Memories",
         "url": "https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb"
       },
@@ -803,22 +823,18 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "Bells On Sand",
-        "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
+        "name": "Lumi\u00e9re",
+        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
       },
       "artists": [
         {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Emily Sage",
+          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
         }
       ],
-      "duration_ms": 329306,
-      "name": "Just A Dream",
-      "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
+      "duration_ms": 196250,
+      "name": "Lumi\u00e9re",
+      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -843,22 +859,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "Lumi\u00e9re",
-        "url": "https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82"
-      },
-      "artists": [
-        {
-          "name": "Emily Sage",
-          "url": "https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL"
-        }
-      ],
-      "duration_ms": 196250,
-      "name": "Lumi\u00e9re",
-      "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 176720,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Come Fly With Me",
-      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -907,6 +891,22 @@
       "duration_ms": 240666,
       "name": "One Day I Fly Away",
       "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/3quRrdM2QORsA07w31zq5N"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Come Fly With Me",
+      "url": "https://open.spotify.com/track/12v7P7tjpUJmNCdhsBbeSl"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+        "name": "The Sound of Music",
+        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
       },
       "artists": [
         {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
         }
       ],
-      "duration_ms": 170767,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
+      "duration_ms": 245148,
+      "name": "The Sound of Music",
+      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL"
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
       },
       "artists": [
         {
-          "name": "Martina DaSilva",
-          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
         }
       ],
-      "duration_ms": 245148,
-      "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx"
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Tis Autumn",
         "url": "https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
         "name": "Peter Cincotti",
         "url": "https://open.spotify.com/album/4Cs9KXE4AhiqiptCLmL3eT"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 257680,
       "name": "Comes Love",
       "url": "https://open.spotify.com/track/2ymzmGwO7lIs3XkONaOHVz"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "Reawakened",
+        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
+      },
+      "artists": [
+        {
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1131,18 +1147,22 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "Reawakened",
-        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
+        "name": "Coming Back To You",
+        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
       },
       "artists": [
         {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+          "name": "Here It Is",
+          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 212323,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
+      "duration_ms": 220600,
+      "name": "Coming Back To You",
+      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1167,26 +1187,6 @@
       "duration_ms": 344223,
       "name": "Calling You",
       "url": "https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
-        "name": "Coming Back To You",
-        "url": "https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31"
-      },
-      "artists": [
-        {
-          "name": "Here It Is",
-          "url": "https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw"
-        },
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Coming Back To You",
-      "url": "https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "The Look Of Love - Burt Bacharach Songbook",
-        "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
-      },
-      "artists": [
-        {
-          "name": "Trijntje Oosterhuis",
-          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Here It Is: A Tribute to Leonard Cohen",
         "url": "https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff"
       },
@@ -1295,22 +1275,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "Take on Me",
-        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Old Cape Cod",
         "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
       },
@@ -1323,6 +1287,42 @@
       "duration_ms": 209043,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "The Look Of Love - Burt Bacharach Songbook",
+        "url": "https://open.spotify.com/album/34pw7PTVYdcEkfHnIo9jx2"
+      },
+      "artists": [
+        {
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/6MZg4IeXiCaRe9MtWYmaul"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "Take on Me",
+        "url": "https://open.spotify.com/album/1bg42x7Z7uS4M1JTWayTlD"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
+        "name": "You Better Go Now",
+        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170070,
+      "name": "You Better Go Now",
+      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
         "name": "Next Time",
         "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 255000,
       "name": "A Man and a Woman",
       "url": "https://open.spotify.com/track/1mWZWF9qOktP3YUKIvAQtj"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
-        "name": "You Better Go Now",
-        "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170070,
-      "name": "You Better Go Now",
-      "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "You Are There",
-        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
-      },
-      "artists": [
-        {
-          "name": "Kate Kortum",
-          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
-        }
-      ],
-      "duration_ms": 345176,
-      "name": "You Are There",
-      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Autumn Breeze",
         "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "You Are There",
+        "url": "https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM"
+      },
+      "artists": [
+        {
+          "name": "Kate Kortum",
+          "url": "https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D"
+        }
+      ],
+      "duration_ms": 345176,
+      "name": "You Are There",
+      "url": "https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
+        "name": "Baby Won't You Please Come Home",
+        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
+      },
+      "artists": [
+        {
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Baby Won't You Please Come Home",
+      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
         "name": "It's Oh So Quiet",
         "url": "https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 228174,
       "name": "It's Oh So Quiet",
       "url": "https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
-        "name": "Baby Won't You Please Come Home",
-        "url": "https://open.spotify.com/album/7zGetqTzEBJLNxoY0mCjjk"
-      },
-      "artists": [
-        {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Baby Won't You Please Come Home",
-      "url": "https://open.spotify.com/track/6hm8NyGtdQ3AVgb6ik3V0z"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "Lover Man (Oh, Where Can You Be?)",
-        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183901,
-      "name": "Lover Man (Oh, Where Can You Be?)",
-      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 260377,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "Lover Man (Oh, Where Can You Be?)",
+        "url": "https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 183901,
+      "name": "Lover Man (Oh, Where Can You Be?)",
+      "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
-        "name": "The World in You",
-        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Wright",
-          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "The World in You",
-      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
         "name": "Boy Boredom",
         "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 221241,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
+        "name": "The World in You",
+        "url": "https://open.spotify.com/album/5rURPDHLOl1PdDlEEUJh4p"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Wright",
+          "url": "https://open.spotify.com/artist/5Hwrd6zkxZGSGH9dD5FdzQ"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "The World in You",
+      "url": "https://open.spotify.com/track/1243N2Yax6rkqE0QRnktCK"
     },
     {
       "added_at": "2025-11-07 08:02:27",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2025-11-07 08:02:27",
       "album": {
+        "name": "Summer Wind",
+        "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 161271,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
+    },
+    {
+      "added_at": "2025-11-07 08:02:27",
+      "album": {
         "name": "I\u00b4m a Fool to Want You",
         "url": "https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5"
       },
@@ -2303,22 +2319,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2025-11-07 08:02:27",
-      "album": {
-        "name": "Summer Wind",
-        "url": "https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 161271,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx"
     },
     {
       "added_at": "2025-11-07 08:02:27",

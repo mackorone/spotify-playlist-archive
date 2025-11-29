@@ -4,7 +4,7 @@
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-153 songs - 7 hr 59 min
+154 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 | 2022-06-01 |  |
 | [Agua y Jabón](https://open.spotify.com/track/0R7VmO41DcNk0nKYWc7Q2G) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Agua y Jabón + Play Mode](https://open.spotify.com/album/3VS0fKzz7D1bP18ono6VZ4) | 3:11 | 2025-09-27 |  |
 | [Agua y Jabón](https://open.spotify.com/track/2YXOaQCPYE2N0MWpDxewHE) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Agua y Jabón + Play Mode](https://open.spotify.com/album/0C77YbchVCq3apU30l8R8r) | 3:11 | 2025-09-22 | 2025-09-27 |
+| [AGÜITADO](https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [AGÜITADO](https://open.spotify.com/album/7m211hDuffAarROqfim9Ht) | 2:48 | 2025-11-29 |  |
 | [Alias Jabón](https://open.spotify.com/track/1bpNq8orXbDAn4NALBPFfT) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:03 | 2023-12-13 |  |
 | [Amor Eterno \(En Vivo\)](https://open.spotify.com/track/1HrqWh8DBG0eiczpDubCzt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Amor Eterno \(En Vivo\)](https://open.spotify.com/album/3hKiPu1qULgUMOhHRqHnA1) | 3:55 | 2023-02-23 | 2023-06-16 |
 | [Amor Prisionero](https://open.spotify.com/track/0DautUGAz7cf1TF82rRrWv) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Los Cervantes de Sinaloa](https://open.spotify.com/artist/5Lo344jGKpJx3m7RYyfO63) | [Homenaje A Lalo El Gallo](https://open.spotify.com/album/7sL1ypN2RxNzW7lNJKPWFw) | 2:49 | 2022-06-01 | 2022-10-13 |
@@ -62,7 +63,7 @@
 | [El Perro Negro](https://open.spotify.com/track/1rP90VhA9IlyqfJGOHuRX1) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Corridos Con Banda](https://open.spotify.com/album/6t0RoJRFAW9eiZsrkVRUGQ) | 2:35 | 2022-06-01 | 2025-03-06 |
 | [EL RELOJITO](https://open.spotify.com/track/2QE59JyEPQAwCj92Lryao6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [EL RELOJITO](https://open.spotify.com/album/6aKRUnrvwB3b53ddouvs6h) | 3:09 | 2024-01-13 |  |
 | [El Resbalon \( Mix\)](https://open.spotify.com/track/6mMUMnp1T9qCdh4Vz45ywe) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Voy Con La Otra Club Remix](https://open.spotify.com/album/0bs8GysMax5qGODOxhj9d0) | 5:13 | 2025-03-16 | 2025-03-23 |
-| [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 | 2022-06-01 |  |
+| [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 | 2022-06-01 | 2025-11-29 |
 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 | 2022-06-01 | 2022-12-13 |
 | [Enséñame A Olvidar](https://open.spotify.com/track/7J2YIWWQlNCz1MLXpdPUwV) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Me Gusta Lo Bueno](https://open.spotify.com/album/7zIVogafUn2oW899iQmGMI) | 3:21 | 2022-06-01 | 2023-02-28 |
 | [ESPEJO](https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [ESPEJO](https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2) | 3:19 | 2025-11-09 |  |

@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,165 songs - 3 day 12 hr 46 min
+1,166 songs - 3 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [A Statue of the King](https://open.spotify.com/track/6onJXFCCG302XlD7j0puR8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Avatar Country](https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY) | 3:44 | 2022-03-22 | 2022-04-20 |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2023-03-10 | 2023-07-17 |
 | [A Visceral Retch](https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Visceral Retch](https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N) | 4:05 | 2024-09-13 |  |
-| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
+| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 | 2025-11-29 |
 | [A.N.G.S.T.](https://open.spotify.com/track/2pyjEyfm9ZTlYJwmq1m3xZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [A.N.G.S.T](https://open.spotify.com/album/2jxI0Ma0GPmKiGoRlrQOLe) | 5:08 | 2025-01-31 | 2025-03-12 |
 | [Absinthe Children](https://open.spotify.com/track/1sLuebUQL26k6N47EE7lD7) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [Ruins](https://open.spotify.com/album/7ddNWr43lXlo6LbFZgOLdf) | 5:31 | 2022-01-28 | 2022-07-26 |
 | [Abyss](https://open.spotify.com/track/45NROGUYtGuOJzO7NTlgx9) | [Mind Riot](https://open.spotify.com/artist/1TfGMeYSHRoSmgkNqhPdRw) | [Abyss](https://open.spotify.com/album/5LHQvwBOHoHQb45ss15KkH) | 3:49 | 2021-12-17 | 2022-04-20 |
@@ -657,6 +657,7 @@
 | [New Millennium Cyanide Christ](https://open.spotify.com/track/0vpLgxoX2cpJM0Fvxwbw84) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere \(Reloaded\)](https://open.spotify.com/album/6iqYmBmkI5UcCsTKmhCqSw) | 5:35 | 2022-08-19 | 2024-04-19 |
 | [New Religion](https://open.spotify.com/track/2PKlwU7fwVIvTDxR5eSZlV) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [HOPIUMFORTHEMASSES](https://open.spotify.com/album/04Z322o7T5mwSnFVtUGAaV) | 5:05 | 2024-03-08 | 2024-06-22 |
 | [Next To Bleed](https://open.spotify.com/track/5o9Dm3eHGbywhmy3ao6Vgi) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Death Comes To All](https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx) | 1:54 | 2025-03-28 | 2025-04-26 |
+| [Nexus](https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Equinox](https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ) | 4:07 | 2025-11-28 |  |
 | [Night of the Hunter](https://open.spotify.com/track/23o9GMdOaEZp9DH0DxsOpP) | [Astral Doors](https://open.spotify.com/artist/0lc8BWRWnjTL78iCV21Bo9) | [Night of the Hunter](https://open.spotify.com/album/0LJ3W93RKRXwAd0GZa1aac) | 4:42 | 2021-12-29 | 2022-04-16 |
 | [Night Rider](https://open.spotify.com/track/0MGLlKw16k1qGlpb69xDZ1) | [Hellryder](https://open.spotify.com/artist/26oAigbWdVRhrCEja6DB0W), [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Night Rider](https://open.spotify.com/album/1BHqnv1grh8s1mXj8Oekf4) | 3:14 | 2021-12-17 | 2022-07-25 |
 | [Night Terror \- Radio Edit](https://open.spotify.com/track/69rXxY0Vbo9Z2BCYfKlWdF) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 6:01 | 2024-10-11 |  |

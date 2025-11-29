@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4203,
+  "num_followers": 4207,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAecre8MvCLPjk1ZJETezJf",
+  "snapshot_id": "aSeUgAAAAAA96MrFYUsbwnR6+w7SMkCQ",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Of America (The Second Coming)",
-        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Milk And Honey",
-      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djesse Vol. 4",
         "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 291200,
       "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
       "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Heart Protector",
-        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 220622,
-      "name": "The Book Of Love (with Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
     },
     {
       "added_at": null,
@@ -727,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "The Golden Heart Protector",
+        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
       },
       "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
+      "duration_ms": 220622,
+      "name": "The Book Of Love (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
     },
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighbor Song (ft. Madison Cunningham)",
-        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 220230,
-      "name": "Neighbor Song [Feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "Neighbor Song (ft. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
       "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+      "duration_ms": 220230,
+      "name": "Neighbor Song [Feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
     },
     {
       "added_at": null,

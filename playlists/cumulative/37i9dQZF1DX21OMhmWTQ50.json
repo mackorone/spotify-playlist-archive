@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Christmas Sonata No. 1",
+        "url": "https://open.spotify.com/album/2dCiFXjo6xtvzvBCHYqJdX"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199072,
+      "name": "A Christmas Sonata No. 1",
+      "url": "https://open.spotify.com/track/10NiU4sSzMBfxwZ0uS8LVk"
+    },
+    {
+      "album": {
         "name": "A Cradle in Bethlehem",
         "url": "https://open.spotify.com/album/0VOw1vFXbhrB5E5XbRq0MU"
       },
@@ -283,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Do They Know It's Christmas?",
+        "url": "https://open.spotify.com/album/50Jp9e9TAGg5B3OSYKoR9w"
+      },
+      "artists": [
+        {
+          "name": "Bastiaan van Rijk",
+          "url": "https://open.spotify.com/artist/75K1yGA3RFqRaNtt7pIeUV"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137335,
+      "name": "Do They Know It's Christmas?",
+      "url": "https://open.spotify.com/track/1Mi8SgLjfMAHOnWqTtTQRy"
+    },
+    {
+      "album": {
         "name": "I Heard The Bells On Christmas Day",
         "url": "https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA"
       },
@@ -316,6 +352,24 @@
       "duration_ms": 180433,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/5AOxcIbAt8YbNk2Y1HGPaY"
+    },
+    {
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/527PhyzpwDUKWn1imUBhs3"
+      },
+      "artists": [
+        {
+          "name": "Ron Lopata",
+          "url": "https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151841,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/3oXasoJjz0st8zUsdIrK6I"
     },
     {
       "album": {
@@ -517,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Jesu, Joy of Man's Desiring",
+        "url": "https://open.spotify.com/album/59KaMF4TGpxaSnWyToTNmb"
+      },
+      "artists": [
+        {
+          "name": "Pauline Poncelet",
+          "url": "https://open.spotify.com/artist/73ujyZVgl0cLkBj6CPI8JM"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149482,
+      "name": "Jesu, Joy of Man's Desiring",
+      "url": "https://open.spotify.com/track/4iSpJOotQU6eWlaB9Qo50F"
+    },
+    {
+      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/3vzrqbCszsdtXKNeeDTiwk"
       },
@@ -535,6 +607,24 @@
     },
     {
       "album": {
+        "name": "A Touch Of December",
+        "url": "https://open.spotify.com/album/3fclWgItqyFKFTuBfxjivJ"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155862,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/39iHvNIr3IToSb2wjsU8Ss"
+    },
+    {
+      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4"
       },
@@ -546,7 +636,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 131842,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP"
@@ -564,7 +654,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 121981,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/5J0I2BZoTbwDGb0xVHeLxH"
@@ -964,10 +1054,28 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 138627,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/427BbU2FPM1pfVWET7bCJs"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/2HHiWzSdQDH58Qn0IQWTDr"
+      },
+      "artists": [
+        {
+          "name": "Samuel Wright",
+          "url": "https://open.spotify.com/artist/10v374WJVYK1n7uMM6FNVm"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94619,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/08tg93375LQTUu883QMXXq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-116 songs - 4 hr 59 min
+117 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [All Creatures of Our God and King \- Piano](https://open.spotify.com/track/0OkaDCNIJOMuwL5JYp6fmh) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Our God and King \(Piano\)](https://open.spotify.com/album/32E8Rf6P23KTvY63PY0OpW) | 2:54 | 2024-03-20 |  |
 | [All Hail the Power of Jesus' Name \(Coronation\) \- Piano](https://open.spotify.com/track/4PsucT5BzsvcT98uW4fs1D) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [The Power of His Joy \(Piano\)](https://open.spotify.com/album/6DXOJdQGlsENNI4T7JyNuE) | 2:18 | 2024-03-20 |  |
 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 | 2024-03-20 |  |
-| [Amazing Grace](https://open.spotify.com/track/17DrWnayXlmAeKcfRjytgl) | [Maynoir](https://open.spotify.com/artist/1vNziw05za5hqjNeMrtKQW) | [Amazing Grace](https://open.spotify.com/album/50AkH1bzWyWf4Cq8p1ysY3) | 2:26 | 2025-11-05 |  |
+| [Amazing Grace](https://open.spotify.com/track/17DrWnayXlmAeKcfRjytgl) | [Maynoir](https://open.spotify.com/artist/1vNziw05za5hqjNeMrtKQW) | [Amazing Grace](https://open.spotify.com/album/50AkH1bzWyWf4Cq8p1ysY3) | 2:26 | 2025-11-05 | 2025-11-29 |
 | [Amazing Grace! \(How Sweet The Sound\)](https://open.spotify.com/track/5kC4N5H8YCjcaK00gys1n7) | [Orphan Collective](https://open.spotify.com/artist/4PibzND7lx6W7zXHGiXxLP) | [Amazing Grace! \(How Sweet The Sound\)](https://open.spotify.com/album/133mlcPnxlE5qSMPym2Cq1) | 2:45 | 2024-03-20 | 2025-03-05 |
 | [An Open Door](https://open.spotify.com/track/7DSUn7v238UDTXzQLouWiv) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [An Open Door](https://open.spotify.com/album/6ilAMABb1TSkbwqX4i6LLL) | 2:32 | 2025-02-21 |  |
 | [And Can It Be That I Should Gain \- Piano](https://open.spotify.com/track/7ahdNh4B5iAAS4Rt32CPQH) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:24 | 2024-03-20 |  |
@@ -45,6 +45,7 @@
 | [Gateway to peace](https://open.spotify.com/track/0rVB2OiZHIxZifUVllP2iV) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Gateway to peace](https://open.spotify.com/album/6McNuhNx2BztWLtb1wcJhW) | 2:04 | 2025-04-04 |  |
 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 | 2024-11-19 |  |
 | [Glimpses of Glory](https://open.spotify.com/track/3SMEMrh3Z2OaMHRNJSvvlE) | [Joel Carrington](https://open.spotify.com/artist/09DPxIQWwKpQSRHsn5CNcf) | [Glimpses of Glory](https://open.spotify.com/album/3lySba71h9HDrTlIKA1aMo) | 2:37 | 2025-05-20 | 2025-06-11 |
+| [Gloria in the Evening](https://open.spotify.com/track/1guFphU5YoqqAOtm4KshF8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Gloria in the Evening](https://open.spotify.com/album/2J3Xe1lu4qElUEsYHYNCK4) | 2:34 | 2025-11-28 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/6j9sxrPzicPYaesxdlRVME) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Go Tell It on the Mountain](https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN) | 2:35 | 2024-11-06 | 2024-11-20 |
 | [Go, Tell It on the Mountain](https://open.spotify.com/track/41gAeCFzMwTpI4tj8YKFew) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Go, Tell It on the Mountain](https://open.spotify.com/album/75iDlwqkGkNZEbMzTfUw0d) | 2:10 | 2024-11-19 |  |
 | [Goodness of God](https://open.spotify.com/track/5gtNXKWhY49TGnw7ODrvVM) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Goodness of God](https://open.spotify.com/album/79k3a3N8fkcRI7m11bGhFZ) | 2:38 | 2025-05-14 | 2025-11-06 |

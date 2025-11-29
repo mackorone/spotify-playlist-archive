@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259852,
+  "num_followers": 259846,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 232837,
-      "name": "when the party's over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "The Grenade Sessions",
         "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 232837,
+      "name": "when the party's over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6H7fWtwEUHVfTyZD7zeG4w"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -567,26 +567,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "I'm Good (Blue) [Acoustic]",
-        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 138024,
-      "name": "I'm Good (Blue) - Acoustic",
-      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Meant to Be (Acoustic)",
         "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 228231,
       "name": "Barquinho de papel",
       "url": "https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "I'm Good (Blue) [Acoustic]",
+        "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 138024,
+      "name": "I'm Good (Blue) - Acoustic",
+      "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "Live Acoustic EP",
-        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209741,
-      "name": "New Rules - Piano, Acoustic; Live",
-      "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
         "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 295223,
       "name": "Ovelha Negra - Ac\u00fastico MTV",
       "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "Live Acoustic EP",
+        "url": "https://open.spotify.com/album/7ahC3nVbClJ8pqASWOIhda"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209741,
+      "name": "New Rules - Piano, Acoustic; Live",
+      "url": "https://open.spotify.com/track/73B1hH8CzvGGq4hnEvmPTl"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
-        "name": "At\u00e9 Envelhecer",
-        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "At\u00e9 Envelhecer",
-      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7zHMR1njPkiD4pPS3JPMSJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 222270,
       "name": "Attention - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/6qgMSxNUPmqHbVr5uPKuqo"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
+        "name": "At\u00e9 Envelhecer",
+        "url": "https://open.spotify.com/album/7LPeshWUF07odB5Zd0QU2O"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "At\u00e9 Envelhecer",
+      "url": "https://open.spotify.com/track/2JYP4KOugjmv1ge4NqBS0z"
     },
     {
       "added_at": "2025-03-28 04:59:26",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-03-28 04:59:26",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Us - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
+    },
+    {
+      "added_at": "2025-03-28 04:59:26",
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
         "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 187364,
       "name": "Sagrado Profano - Ac\u00fastico",
       "url": "https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj"
-    },
-    {
-      "added_at": "2025-03-28 04:59:26",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2EMazBF6QXkOSpRSVg8Pdj"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Us - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/5rOI6O8olG9nobqsLzEqWZ"
     },
     {
       "added_at": "2025-03-28 04:59:26",

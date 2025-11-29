@@ -4,7 +4,7 @@
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: KeBlack
 
-874 songs - 1 day 18 hr 32 min
+874 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 | 2024-11-21 | 2025-05-16 |
 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 | 2022-06-16 | 2022-09-23 |
 | [Bounce](https://open.spotify.com/track/3ku51L937DfBoNcU9hmDQy) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [PANDEMIC](https://open.spotify.com/album/4DTPlpehe0NPh3hFqMOAgS) | 3:04 | 2021-12-27 | 2022-01-14 |
+| [BOUNCE AFRICA](https://open.spotify.com/track/0LhtFvcXXkJSMVWUhbSS3Y) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:19 | 2025-11-27 |  |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-04-17 | 2025-08-08 |
 | [Bresom \(feat\. Naza\)](https://open.spotify.com/track/6o7lJeWBrDtsortS0FPKPJ) | [Jaymax](https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Bresom \(feat\. Naza\)](https://open.spotify.com/album/0R4UB0U5Cg3CIzCKOm9zCY) | 2:11 | 2022-01-13 | 2022-02-11 |
 | [Bright Future](https://open.spotify.com/track/0aZTyzxgWS4GGXw2kh0t7R) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Bright Future](https://open.spotify.com/album/1mAh2El18qMQk03NOOq0K9) | 3:31 | 2023-03-09 | 2023-04-28 |
@@ -810,7 +811,6 @@
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-06-06 | 2024-09-20 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-19 | 2022-09-16 |
 | [Toxic Love](https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Toxic Love](https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP) | 3:27 | 2021-12-27 | 2022-02-11 |
-| [Track 8](https://open.spotify.com/track/0LhtFvcXXkJSMVWUhbSS3Y) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Trop intense](https://open.spotify.com/track/16AMJ7tU9TXfiSKepxpCJR) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5) | [Trop intense](https://open.spotify.com/album/5pK1UjbKezgFzawUAFACEI) | 2:10 | 2023-06-08 | 2023-06-13 |
 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 | 2023-08-03 | 2024-02-16 |
 | [Trophy](https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Féeries](https://open.spotify.com/album/2W94yzXafkE28LcyiQD4YH) | 2:59 | 2023-02-23 | 2023-05-12 |

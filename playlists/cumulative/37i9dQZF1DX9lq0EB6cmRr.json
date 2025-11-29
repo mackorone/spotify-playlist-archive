@@ -1449,6 +1449,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Goldberg Variations, BWV 988: Var. 3. Canone all'Unisono a 1 Clav. (Live at Carnegie Hall, New York, 2025)",
+        "url": "https://open.spotify.com/album/5ayRczrZ1VaAgNDxp9k97Z"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122386,
+      "name": "Goldberg Variations, BWV 988: Var. 3. Canone all'Unisono a 1 Clav. - Live at Carnegie Hall, New York, 2025",
+      "url": "https://open.spotify.com/track/70zKq7pbp9teMVVkzwXUfW"
+    },
+    {
+      "album": {
         "name": "Golden Age (Orchestra Version)",
         "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
       },
@@ -4000,7 +4022,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 246986,
       "name": "While You Live",
       "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"

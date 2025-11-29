@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 101544,
+  "num_followers": 101549,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABYG/GzrEdIjQOInbCTccud",
+  "snapshot_id": "aSeUgAAAAAATSXGD34Qh7dQew/QjRVr/",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beat A B!tch Up",
-        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
       },
       "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 167746,
-      "name": "Beat A B!tch Up",
-      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
     },
     {
       "added_at": null,
@@ -231,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+        "name": "Beat A B!tch Up",
+        "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
       },
       "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 135063,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
+      "duration_ms": 167746,
+      "name": "Beat A B!tch Up",
+      "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ROCKET",
         "url": "https://open.spotify.com/album/6AJH32yVIKjKu93tSgn0El"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 166315,
       "name": "ROCKET",
       "url": "https://open.spotify.com/track/7wgZCec9TpT6OPH8gKK0fG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": null,

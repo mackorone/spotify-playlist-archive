@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0bUGQdz5BJG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0bUGQdz5BJG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0bUGQdz5BJG)
 
-### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
+### [Coming Up Country](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
 > Your ears on the ground in Music City\. Cover: Cooper Alan
 

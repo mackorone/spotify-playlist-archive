@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Jutes
 
-1,492 songs - 3 day 11 hr 49 min
+1,494 songs - 3 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-06-21 | 2024-09-21 |
 | [Get Dumber \- feat\. Jeff Rosenstock](https://open.spotify.com/track/35zLu8pT2KSMN0O36JLhIL) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN), [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [Get Dumber \(feat\. Jeff Rosenstock\)](https://open.spotify.com/album/6TV72STw4FAjY9cxpIWWmu) | 2:36 | 2025-03-28 | 2025-05-03 |
 | [Get My Things & Go](https://open.spotify.com/track/2fJJGcHxMc9nnZ62Ob5thN) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Get My Things & Go](https://open.spotify.com/album/7FMxjnRo3zT6HYprB2lv0H) | 2:50 | 2022-06-24 | 2022-10-01 |
+| [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 | 2025-11-28 |  |
 | [Get Up](https://open.spotify.com/track/5R8SxUYD9W4rXuak7DH1nh) | [The Riot Police](https://open.spotify.com/artist/0friBnrKTzdtdl8S2hb55x) | [Get Up](https://open.spotify.com/album/0EqWNzN38t0gTqgsxf1sRh) | 3:15 | 2022-01-07 | 2022-03-05 |
 | [Ghost](https://open.spotify.com/track/0UDgAr1L3PWtivDoPARmex) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [AFTERLIFE](https://open.spotify.com/album/3J14Y5GCG4wCb4hfbjkHwG) | 2:33 | 2025-10-31 |  |
 | [GHOST IN THE MACHINE](https://open.spotify.com/track/2G2ljNxu8hG0hfsOfV0fyb) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [ISOLATOR](https://open.spotify.com/album/3HC6AOC9UxN6aVzKYpHvNG) | 3:28 | 2023-10-13 | 2024-07-27 |
@@ -631,6 +632,7 @@
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-12-31 | 2022-03-19 |
 | [I Wanna Know You](https://open.spotify.com/track/3ENwOP2kZLbiAAPQmqtZlo) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Outta Sight](https://open.spotify.com/album/7bTPEsKhpCQbM36uZLA40j) | 3:30 | 2022-06-03 | 2023-02-11 |
 | [I Want A Dog](https://open.spotify.com/track/0uYYTsx565AvNkQJMzGzmK) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [I Want A Dog](https://open.spotify.com/album/4Ttms3JPJD2QEczSv7lyUt) | 2:48 | 2022-12-09 | 2023-02-18 |
+| [I Was Ill, You Were Wrong](https://open.spotify.com/track/0AZTuF4fVy8dcpV9l7X25b) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [I Was Ill, You Were Wrong](https://open.spotify.com/album/3GOC1jdseQ1c4OEfTBvk7I) | 5:05 | 2025-11-28 |  |
 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 | 2024-08-02 | 2024-12-14 |
 | [I'LL BE OKAY](https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL) | [The OBGMs](https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI), [Just John](https://open.spotify.com/artist/5yJAfyfCn2mE6q9GeYrKWb) | [THE HEALING](https://open.spotify.com/album/53bQKEJqHq9Ikc0OlIrSJI) | 2:39 | 2024-05-31 | 2024-07-06 |
 | [I'm Not Getting Better](https://open.spotify.com/track/5ZOh8soFtf3Fye1n8Vu6JE) | [Marianas Trench](https://open.spotify.com/artist/68EB3QvNdVLkC7SAgDbHIR) | [I'm Not Getting Better](https://open.spotify.com/album/0phWDxh2m6HV3ThEuxTgmg) | 2:49 | 2024-07-12 | 2024-08-17 |

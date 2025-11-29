@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Tulsi Kumar, Jaani,  Asees Kaur and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,506 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,582 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 2 | [Saasu Maa](https://open.spotify.com/track/4l8OKmEhloJwVezJDHW59k) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Saasu Maa](https://open.spotify.com/album/6j8Gb6b9cwapu7aWRRUgpq) | 4:13 |
 | 3 | [Mili Nazar](https://open.spotify.com/track/46D8RnxxnSATr3fJzfKtMN) | [Ritesh Bhoyar](https://open.spotify.com/artist/3ZH8RUR1gA9aIBsz28sUk1), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Romy](https://open.spotify.com/artist/4DsMMZFmbJlq48rrgj1uTu) | [Mili Nazar](https://open.spotify.com/album/78DNxfo8d7Mauf2g0ybDP0) | 3:20 |
 | 4 | [Chal Khediye \(From "Bhoomi 2025"\)](https://open.spotify.com/track/10ML39O7swAemi7JOPUNU2) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [Chal Khediye \(From "Bhoomi 2025"\)](https://open.spotify.com/album/46LFi8d5QNqeghsC0DVtot) | 2:56 |
-| 5 | [Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [](https://open.spotify.com/album/null) | 4:09 |
+| 5 | [Saaye](https://open.spotify.com/track/2pvyXcmJ7plAiYA7z1LN01) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [In Case We Forget](https://open.spotify.com/album/4UCUZ5mScC73JlcCGy5Ga3) | 4:09 |
 | 6 | [Ban gayi main teri piya](https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW), [Siddharth Mahadevan](https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW) | [Ban gayi main teri piya](https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3) | 3:20 |
 | 7 | [Dariaa](https://open.spotify.com/track/1IIK5l7cDgwNeaDSqzkqPe) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Dariaa](https://open.spotify.com/album/3kgwWQdxryWLeRfxhAJaxm) | 2:33 |
 | 8 | [You're The One](https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [You're The One](https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9) | 2:33 |

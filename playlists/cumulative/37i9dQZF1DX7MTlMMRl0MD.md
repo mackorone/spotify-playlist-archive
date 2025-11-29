@@ -2,9 +2,9 @@
 
 ### [Bachata Lovers](https://open.spotify.com/playlist/37i9dQZF1DX7MTlMMRl0MD)
 
-> Tu lista favorita de Bachata ❤️ Cover: Rauw Alejandro
+> Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-436 songs - 1 day 2 hr 20 min
+437 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bebo](https://open.spotify.com/track/7HsebNHZDGj8UhWIrZaMx6) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:55 | 2022-09-02 | 2022-09-10 |
 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 | 2022-03-04 | 2024-09-27 |
 | [Besos a Escondidas](https://open.spotify.com/track/2Xhlix5Adgb9GOavFElFcq) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Besos a Escondidas](https://open.spotify.com/album/346eT9YtGMHvvv2yTM6YqB) | 4:03 | 2022-03-04 | 2022-09-03 |
+| [Better Late Than Never](https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:08 | 2025-11-28 |  |
 | [Bluetooth](https://open.spotify.com/track/3TtXbnqC4U5BUW1NlOFHVz) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bluetooth](https://open.spotify.com/album/3bDX277eDWvvUECpCIKDUj) | 2:40 | 2022-12-04 | 2023-03-02 |
 | [Boomerang](https://open.spotify.com/track/0ill3qz7eiLAswHanCCoeJ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 4:07 | 2022-09-02 | 2022-09-10 |
 | [Borracho y Loco](https://open.spotify.com/track/4ui5Hqz3BHuPFRDCSe05D7) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Los Mejores Éxitos de Luis Vargas](https://open.spotify.com/album/5CGzqTntYVPmNbYKqsERQk) | 3:17 | 2022-03-04 | 2022-07-29 |

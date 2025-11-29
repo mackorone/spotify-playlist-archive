@@ -1,12 +1,12 @@
 {
   "description": "Jazzy takes on your favorite Holiday songs. Cover: Samara Joy",
-  "num_followers": 625924,
+  "num_followers": 626462,
   "original_name": "Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2xwEwR3npdl4sYdhPtAz1xV4jK",
+  "snapshot_id": "AAAAAOkXaySRaYbTYhP2UXATUsuYaGQL",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:17",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/4We6RiOruyHTQM1qDOVTjz"
     },
     {
+      "added_at": "2025-11-28 05:00:13",
+      "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5QKSi5WVcYdS7M7T49JBF5"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA"
+    },
+    {
       "added_at": "2025-10-17 04:00:34",
       "album": {
         "name": "Merry Christmas, Darling",
@@ -77,20 +93,24 @@
       "url": "https://open.spotify.com/track/6XXMs8hRg0KSvopUMSOqzh"
     },
     {
-      "added_at": "2025-11-14 05:00:20",
+      "added_at": "2025-11-28 05:00:13",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/6amqkrUiXL6INWYtO64oeq"
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1siJhS6dINDX20yWLmiKXX"
       },
       "artists": [
         {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Christie Dashiell",
+          "url": "https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth"
         }
       ],
-      "duration_ms": 292773,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1ucrWudcEalcwSKlzjXUSy"
+      "duration_ms": 224160,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5KftXbglq34A75Zc6Q18Rj"
     },
     {
       "added_at": "2025-10-10 14:39:28",
@@ -947,22 +967,6 @@
       "duration_ms": 179416,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/5AA209yWZzBZ3ASH0g5ECH"
-    },
-    {
-      "added_at": "2025-10-10 14:39:28",
-      "album": {
-        "name": "The Christmas Waltz",
-        "url": "https://open.spotify.com/album/3AL7JAKqZ8qYkELBarVLjx"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/1lz9Zt51FkorcpO9ImTF0v"
     },
     {
       "added_at": "2025-10-10 14:39:28",

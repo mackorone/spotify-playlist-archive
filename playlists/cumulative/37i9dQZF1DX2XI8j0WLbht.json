@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "una guitarra y mucho sentimiento para cantar. Natalia Lafourcade en portada.",
+  "description": "una guitarra y mucho sentimiento para cantar. Macario Mart\u00ednez en portada.",
   "name": "Folk Mexicano",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 149374,
       "name": "EL MUNDO SE VA A ACABAR",
       "url": "https://open.spotify.com/track/1EsKliwEB0F9cy8JT9qbzr"
@@ -1779,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "Fotograf\u00edas",
+        "url": "https://open.spotify.com/album/6Jw3cM7MRp1D4yhf1Fj9Km"
+      },
+      "artists": [
+        {
+          "name": "Tavo Guarneros",
+          "url": "https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243318,
+      "name": "Fotograf\u00edas",
+      "url": "https://open.spotify.com/track/7Co0T0D7mnUwrx7ffdrPya"
+    },
+    {
+      "album": {
         "name": "Fuerza Vocal",
         "url": "https://open.spotify.com/album/22qOXplb2VYixbNyxGaIys"
       },
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 211680,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB"
@@ -3618,6 +3636,24 @@
       "duration_ms": 238560,
       "name": "Se Me Va A Quemar El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9"
+    },
+    {
+      "album": {
+        "name": "Seguirte",
+        "url": "https://open.spotify.com/album/2G1YEu65XRDBnCdTXjA0sp"
+      },
+      "artists": [
+        {
+          "name": "Sam Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/5GpWkjxYTy97PC84yWcxsm"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Seguirte",
+      "url": "https://open.spotify.com/track/1eot6WprsYiGUcX4YPpRhO"
     },
     {
       "album": {

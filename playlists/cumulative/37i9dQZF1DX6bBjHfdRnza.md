@@ -4,7 +4,7 @@
 
 > The best new dance music by independent artists and labels, featuring X & Ivy\. Artwork by Rewina Beshue.
 
-3,287 songs - 8 day 22 hr 43 min
+3,288 songs - 8 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1573,7 +1573,7 @@
 | [Jump N Scream](https://open.spotify.com/track/6zDI6bEMcLAwjMjwLQSDJ1) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n), [Gabriel Muñoz](https://open.spotify.com/artist/5HlCl9bk3XegCGmoTp1noF) | [ATW023 EP](https://open.spotify.com/album/6Q8NBTxzPWY8ixjvAKC1v1) | 2:54 | 2025-07-09 | 2025-07-26 |
 | [Jump On The Mic](https://open.spotify.com/track/2z0br2rnvKRsA94gVZwGdg) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Jump On The Mic](https://open.spotify.com/album/6TQ1WTzV7g0KaYPNwkGhEt) | 4:23 | 2023-11-08 | 2023-11-30 |
 | [Jungle Is Safe](https://open.spotify.com/track/5AKNsUHFvzAOXEvKCsfnWW) | [I Promised Mom](https://open.spotify.com/artist/3TtAGU0L1vHEPLQyuoQUw6) | [Jungle Is Safe](https://open.spotify.com/album/43WeOMUeoxDXUDgHbkeBiS) | 3:25 | 2025-07-25 | 2025-08-23 |
-| [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 | 2025-10-17 |  |
+| [JUST A BEAT](https://open.spotify.com/track/0Ii2qImvnAB6eFNBHFIMk3) | [weirdtechnogirlfriend](https://open.spotify.com/artist/48rdFIAjyZud68hCEKoiWC), [PAUL LE BÁY](https://open.spotify.com/artist/158VfpLQK95rtUjwRsk8vn), [WTG & PLB](https://open.spotify.com/artist/6KtOZetajL2lUGSl60goQq) | [JUST A BEAT](https://open.spotify.com/album/3mfcOBJlCxcCiL1tnFAmkQ) | 3:43 | 2025-10-17 | 2025-11-29 |
 | [just a feeling](https://open.spotify.com/track/5b6BUda5b3JGm7ForCOQL0) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl) | [just a feeling](https://open.spotify.com/album/4j0wvCuZDQk2kfhiAM1Twv) | 2:54 | 2025-03-05 | 2025-06-19 |
 | [Just a Thing \- Radio Edit](https://open.spotify.com/track/4CdfRun1xVV11nkhCGmEac) | [INTERPOL](https://open.spotify.com/artist/0ShxwiirUZhl326ZTiddHb) | [Just a Thing](https://open.spotify.com/album/4yKsVQ4Yk9Sy3GvqwxYtlA) | 4:36 | 2025-09-05 | 2025-10-09 |
 | [just alone](https://open.spotify.com/track/2TNgS6N47IpQFqPLR24Phy) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [just alone](https://open.spotify.com/album/7gODujaTUC04p5AxjEkyM8) | 2:26 | 2023-05-17 | 2023-06-22 |
@@ -1721,6 +1721,7 @@
 | [Long Lost](https://open.spotify.com/track/5R3WUgJ80aX5AzYpxtG6zk) | [Fluidity](https://open.spotify.com/artist/2DnD2184WMkwsUO9BJUnmS) | [Long Lost / Ollika](https://open.spotify.com/album/6e8VSoMBjF1iW1zXIvV85K) | 4:32 | 2023-03-15 | 2023-04-13 |
 | [LOOK at me\(x2\) NOW](https://open.spotify.com/track/72hDFwf8x4ORCf4NE3bsmh) | [Angelyna Rose](https://open.spotify.com/artist/3VMSgl4NbbLftYJw3vNaSs), [XXJANEDOEXX](https://open.spotify.com/artist/1CchyAayGlwiSdoAzVPRZu) | [LOOK at me\(x2\) NOW](https://open.spotify.com/album/0zuqOihdDtE2QO5YLMRYx3) | 3:15 | 2023-02-08 | 2023-03-09 |
 | [look at the sky](https://open.spotify.com/track/3woRXgtwY7W4ZZBS8Pmbsk) | [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [look at the sky](https://open.spotify.com/album/6Cmktdp3Qu7SU9Ovuzpmrb) | 3:42 | 2023-01-25 | 2023-02-16 |
+| [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 | 2025-11-28 |  |
 | [Look in the mirror](https://open.spotify.com/track/4kT4fkSZiMu5Hjhbqmgeoj) | [Cuezy.](https://open.spotify.com/artist/4lKn9D68mehoGHZAzYRTVB) | [Look in the mirror](https://open.spotify.com/album/1dAEJO2xmpnowElMFVogAh) | 4:34 | 2024-11-06 | 2024-12-05 |
 | [Look The Other Way](https://open.spotify.com/track/5x9tTch2LsMNPReORReT7I) | [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [Look The Other Way](https://open.spotify.com/album/3gqQjbbgkdbKUeBYtXeHdI) | 3:33 | 2024-01-17 | 2024-02-15 |
 | [Looking For Something](https://open.spotify.com/track/7MpDsggmJaTIUGtQmoFizN) | [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Looking For Something EP](https://open.spotify.com/album/7if5jDOZzdfL6LLrl95xG0) | 3:26 | 2022-09-28 | 2022-12-01 |

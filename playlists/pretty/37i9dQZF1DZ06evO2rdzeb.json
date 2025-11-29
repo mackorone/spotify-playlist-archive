@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 17988,
+  "num_followers": 17999,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAC8VA6FlGXIWY4Wwjvs6wfo",
+  "snapshot_id": "aSeUgAAAAADiic7j31p/qhhVh6YVRFWB",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 171453,
       "name": "Kerina",
       "url": "https://open.spotify.com/track/57qpL2xmsydc04uBmiH2DC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/1uqRGTN9gQNf2SZ3BD6Txf"
     },
     {
       "added_at": null,

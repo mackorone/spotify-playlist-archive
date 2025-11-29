@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-1,598 songs - 3 day 15 hr 0 min
+1,599 songs - 3 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -945,7 +945,7 @@
 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/1iLbUmb2b2btyAAcQ68a1p) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/album/5NwbUP5QkkMndzwJp9kkxr) | 3:09 | 2023-10-07 | 2024-02-11 |
 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 3:09 | 2023-10-06 | 2023-10-08 |
 | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/track/3XybL2wmmhiSLTrmgRgdid) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Milo J: Bzrp Music Sessions, Vol\. 57](https://open.spotify.com/album/6diVwPqpMMs0LoivZkK8SV) | 2:33 | 2024-01-31 | 2024-02-03 |
-| [Mio Cristo Piange Diamanti](https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:29 | 2025-11-08 |  |
+| [Mio Cristo Piange Diamanti](https://open.spotify.com/track/0hVZnH3f3xmudcfCFLdw1V) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 4:29 | 2025-11-08 | 2025-11-29 |
 | [Mirame](https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mirame](https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz) | 2:37 | 2024-07-15 | 2024-08-01 |
 | [MIRAME REMIX](https://open.spotify.com/track/2S8bH7ABqJ02bWeH8bgQfU) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [MIRAME REMIX](https://open.spotify.com/album/47R1FL1iRs4EDRcRgqvBwK) | 3:58 | 2024-12-14 | 2025-01-07 |
 | [Mis Días A Tu Suerte](https://open.spotify.com/track/0XRJc66Gcvq8F98KE1TXD8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:23 | 2025-06-21 | 2025-06-23 |
@@ -1446,6 +1446,7 @@
 | [Tokicha](https://open.spotify.com/track/5uPGtSSHtN28xUhX7W4eAp) | [J Castle](https://open.spotify.com/artist/7nNS9kiCWRqHGBcWxLB0Pk), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tokicha](https://open.spotify.com/album/6zAlmaTBclBxZ63eeWHPSe) | 2:21 | 2025-03-05 | 2025-03-28 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-15 | 2022-04-10 |
 | [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-06-10 | 2025-10-30 |
+| [TORA](https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [TORA](https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh) | 3:07 | 2025-11-28 |  |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-25 | 2023-03-15 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-25 | 2024-05-27 |
 | [TOY](https://open.spotify.com/track/4QdF9zn5U0QML5xgOqh5c7) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt) | 3:22 | 2025-11-15 | 2025-11-22 |

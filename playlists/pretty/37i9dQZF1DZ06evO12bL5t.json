@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 139935,
+  "num_followers": 139963,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACy94lAPiQfiQ8hxRseWM2c",
+  "snapshot_id": "aSeUgAAAAABeSRXYXvyfXUvONMixfJXQ",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 132527,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Va Pa' Largo",
         "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 164925,
       "name": "Cupcake Factory",
       "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 132527,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa Largo 2",
-        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "NO VAN A PODER",
-      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Va Pa Largo 2",
+        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "NO VAN A PODER",
+      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 137769,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 161998,
-      "name": "Pasajes De La Vida",
-      "url": "https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 152433,
       "name": "Buena Vida Mala Fama",
       "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 161998,
+      "name": "Pasajes De La Vida",
+      "url": "https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv"
     }
   ],
   "unique_name": "This Is Herencia de Patrones",

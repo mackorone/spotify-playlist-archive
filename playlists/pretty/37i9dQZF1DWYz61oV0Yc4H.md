@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYz61oV0Yc4H.md) - [plain]
 
 > Our editor’s picks for the best songs from The Indie List in 2024\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,025 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,022 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

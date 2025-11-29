@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-182 songs - 8 hr 18 min
+183 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [Koala](https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Koala](https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF) | 2:15 | 2025-06-13 | 2025-08-02 |
 | [Kool Kids](https://open.spotify.com/track/2b9sTGqIWVTFVu7AUMQn7h) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:09 | 2021-11-19 | 2024-01-26 |
 | [Learn Your State Capitols](https://open.spotify.com/track/5GBH7uQ6hX7umS4Bl9RZ8J) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 4:38 | 2021-11-19 | 2023-04-09 |
-| [Little Bird!](https://open.spotify.com/track/6aHbIDselnojx1BxnKIu56) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Little Bird!](https://open.spotify.com/album/6jPReyNmbGA8Y9dQw2yAHL) | 1:59 | 2025-10-24 |  |
+| [Let's Go Outside!](https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Let's Go Outside!](https://open.spotify.com/album/0bwGW9K4v1Cj2u0FKDt2aX) | 2:32 | 2025-11-28 |  |
+| [Little Bird!](https://open.spotify.com/track/6aHbIDselnojx1BxnKIu56) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Little Bird!](https://open.spotify.com/album/6jPReyNmbGA8Y9dQw2yAHL) | 1:59 | 2025-10-24 | 2025-11-29 |
 | [LOL LAUGH OUT LOUD](https://open.spotify.com/track/1qhtoRTnYx6icGiwcKiT4j) | [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Carrie Clark](https://open.spotify.com/artist/3J1fapB3gyP3uAmKuqavh8) | [LOL LAUGH OUT LOUD](https://open.spotify.com/album/4glq20l2Wimpfi4Ac3KHXL) | 2:25 | 2024-01-30 | 2024-06-22 |
 | [Lovable and Capable \- All Star Remix](https://open.spotify.com/track/7qmhq9HB3avP0XWOMjhiXb) | [Mega Ran](https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw), [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Lovable and Capable \(All Star Remix\)](https://open.spotify.com/album/22wpa7n1zlx9PEvGLNIE2g) | 3:40 | 2024-01-30 | 2025-04-26 |
 | [Man Stop](https://open.spotify.com/track/12Llj63CAU32PYzOc40h8Z) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Da Boss Baby EP](https://open.spotify.com/album/1x5OIHJhieOQhkqjUoulQ8) | 1:59 | 2022-02-04 | 2023-11-04 |

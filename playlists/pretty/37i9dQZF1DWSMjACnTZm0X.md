@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=ptujw\_JxQqKkC0xBdre1Tw">Teni</a> and <a href="https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=YHMYqWMfSU698gw1kt39mQ">Gunna</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,645 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,643 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 49 | [Egwu](https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Egwu](https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi) | 2:16 |
 | 50 | [HAUSAPIANO](https://open.spotify.com/track/7BQnaquuCho6dWfkkhuxxl) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X) | [HAUSAPIANO](https://open.spotify.com/album/5388hvdjmbFfloBwdKDFGH) | 1:43 |
 
-Snapshot ID: `AAAAAOZwCChOjoC8SrenIHRyEzG1OBeV`
+Snapshot ID: `AAAAAC4NGIaaRQcnvo1daLLWj1Uf/BZS`

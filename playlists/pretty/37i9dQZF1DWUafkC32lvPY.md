@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,980 likes - 80 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,995 likes - 80 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 57 | [Miércoles Azul](https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Monno Briceno](https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys) | [Miércoles Azul](https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI) | 2:47 |
 | 58 | [Guaraní Landscape](https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv) | [Guaraní Landscape](https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY) | 3:09 |
 | 59 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
-| 60 | [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 |
-| 61 | [Alcázar](https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE) | [Tranquilo](https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE) | [Alcázar](https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ) | 1:38 |
+| 60 | [Alcázar](https://open.spotify.com/track/1uwUX9qZ3a28u0yZ3HdQIE) | [Tranquilo](https://open.spotify.com/artist/1nsZek7hpjsfxkKDwRykLE) | [Alcázar](https://open.spotify.com/album/0K0MtDb1ld66SupQhiclIZ) | 1:38 |
+| 61 | [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 |
 | 62 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 |
 | 63 | [Break](https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK) | [Anto Pla](https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee) | [Break](https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ) | 1:56 |
 | 64 | [bailar contigo](https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G) | [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA) | [un atardecer a tu lado](https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l) | 1:41 |

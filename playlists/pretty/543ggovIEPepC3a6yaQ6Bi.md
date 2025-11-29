@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 
 > Enjoy the all\-time favorite R&amp;B songs from the 90s, 00s &amp; 2010s\. Best long mix of old school RnB classics &amp; throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, The Weeknd &amp; more\. Best Old Skool R&amp;B love music collection
 
-[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 82,475 likes - 255 songs - 17 hr 29 min
+[Legacy Of Music](https://open.spotify.com/user/sonymusicthelegacy) - 82,453 likes - 255 songs - 17 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,4 +264,4 @@ pretty - [cumulative](/playlists/cumulative/543ggovIEPepC3a6yaQ6Bi.md) - [plain]
 | 254 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
 | 255 | [Lovers And Friends](https://open.spotify.com/track/41PWz0hAiU9FqsmjR9Wh62) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Crunk Juice](https://open.spotify.com/album/0hk2hXNB5d65F400dhcdcV) | 4:20 |
 
-Snapshot ID: `AAAFYyzXqlh047bjmXwjoahw7e/5cuAU`
+Snapshot ID: `AAAFZZIk1JH6mWhUdg8Rysi/Qrk7ovgA`

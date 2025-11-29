@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,050 likes - 173 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,054 likes - 173 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 1 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 2 | [Växtvärk](https://open.spotify.com/track/71YshPURU1bulv8OuF9d94) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Växtvärk](https://open.spotify.com/album/2dGH45FriITKuSDiYDhp46) | 3:29 |
 | 3 | [Jag har förlorat](https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Jag har förlorat](https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq) | 2:56 |
 | 4 | [Silent War](https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Silent War](https://open.spotify.com/album/3pIyEjKUoytocadT9yQbAZ) | 3:59 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 9 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 10 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
 | 11 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
-| 12 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [](https://open.spotify.com/album/null) | 3:52 |
+| 12 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
 | 13 | [Joshua Tree](https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep \(Little Bit Extra Version\)](https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7) | 3:23 |
 | 14 | [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 |
 | 15 | [Modigare](https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Modigare](https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i) | 3:53 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 26 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |
 | 27 | [On My Mind](https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA) | [Dione](https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK) | [On My Mind](https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z) | 3:22 |
 | 28 | [En av alla andra](https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Tryna make it in LA](https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D) | 2:21 |
-| 29 | [Bebezinho](https://open.spotify.com/track/4jJWFFZieYnbNWr7j6KUMz) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [](https://open.spotify.com/album/null) | 3:59 |
+| 29 | [Bebezinho](https://open.spotify.com/track/4jJWFFZieYnbNWr7j6KUMz) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:59 |
 | 30 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
 | 31 | [Sweet Emotion](https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Sweet Emotion](https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh) | 2:37 |
 | 32 | [Like Nobody's Watching](https://open.spotify.com/track/3cIp93HfAFtar0Brj9YJTY) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [DISCOTECA](https://open.spotify.com/album/7zpj7DhnmXzAnw7w1wqePL) | 2:30 |

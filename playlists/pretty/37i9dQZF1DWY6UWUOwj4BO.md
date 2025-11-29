@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,852 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,898 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 49 | [Gold \- Acoustic](https://open.spotify.com/track/2RpMIPx8SPeO5kAMdrHNak) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Gold \(Acoustic\)](https://open.spotify.com/album/2TOC7DKcekUzDh8UAzF4T2) | 2:49 |
 | 50 | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/track/3kZ2KSpxRmbdiAL7IOjawQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait \(Acoustic\)](https://open.spotify.com/album/3ICGn2SlvLwgYDN8i7bWR0) | 2:32 |
 
-Snapshot ID: `AAAAAGliUv4WMfWwegXa8MWB09DObi1d`
+Snapshot ID: `AAAAADAQoaDC7EiQ62oGUtmsI/ZpFXLK`

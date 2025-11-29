@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Natalia Lafourcade en portada.
+> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
 
-244 songs - 15 hr 57 min
+246 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [El Diablo y la Bruja](https://open.spotify.com/track/2UQhZFHl6kRUd9E99wC4mR) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [El Diablo y la Bruja](https://open.spotify.com/album/1gD56P1cbXWLpCrFt0j4Ll) | 3:53 | 2022-03-04 | 2025-05-31 |
 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 | 2022-03-04 | 2025-05-31 |
 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 | 2025-05-30 |  |
-| [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/1EsKliwEB0F9cy8JT9qbzr) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/6gRP2tO49B56rkcLzrBSpq) | 2:29 | 2025-06-24 |  |
+| [EL MUNDO SE VA A ACABAR](https://open.spotify.com/track/1EsKliwEB0F9cy8JT9qbzr) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [EL MUNDO SE VA A ACABAR](https://open.spotify.com/album/6gRP2tO49B56rkcLzrBSpq) | 2:29 | 2025-06-24 | 2025-11-29 |
 | [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-23 | 2025-05-31 |
 | [El Pájaro Cú](https://open.spotify.com/track/0d7B2tUlBpaTfm4UufYpPD) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/7qqzSgpINycbcdZmRnzl8G) | 3:47 | 2022-03-04 | 2025-05-31 |
 | [El Pájaro Cú](https://open.spotify.com/track/7GBKatFFO8xPt9cgT0H74D) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/6emglSRi7jlfog1ZDBkXBh) | 3:51 | 2022-03-04 | 2024-04-19 |
@@ -101,6 +101,7 @@
 | [Eso](https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Eso](https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W) | 4:02 | 2022-03-04 | 2025-05-31 |
 | [Espacio](https://open.spotify.com/track/0V1Bfgwp2RVDYxbpicF2IT) | [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Mucho Gusto](https://open.spotify.com/album/0XWdaufTjSXBkTl9dZpDtN) | 3:26 | 2025-05-30 |  |
 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 | 2022-03-04 | 2024-09-07 |
+| [Fotografías](https://open.spotify.com/track/7Co0T0D7mnUwrx7ffdrPya) | [Tavo Guarneros](https://open.spotify.com/artist/759KTIF2TLEnFd1UyRfs4Q) | [Fotografías](https://open.spotify.com/album/6Jw3cM7MRp1D4yhf1Fj9Km) | 4:03 | 2025-11-28 |  |
 | [Fuerza Vocal](https://open.spotify.com/track/4feH6J8GiazximCINmxvxa) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Pat Boy](https://open.spotify.com/artist/7w2LEbH35jdB5RamMTuf40), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF), [Zara Monrroy](https://open.spotify.com/artist/3aowb82qA25g96n68zJIIx), [DJ Rakalku](https://open.spotify.com/artist/0zumQDPW1fSzDNRZV0NXVy) | [Fuerza Vocal](https://open.spotify.com/album/22qOXplb2VYixbNyxGaIys) | 4:10 | 2023-02-03 | 2025-05-31 |
 | [Hasta la Piel](https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:01 | 2025-05-30 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2025-05-30 |  |
@@ -115,7 +116,7 @@
 | [La Canícula](https://open.spotify.com/track/5kQ2OzJ6OJZgkc3u7P65ey) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [La Canícula](https://open.spotify.com/album/5fw1tmc1GBEunY8wjXgGBA) | 3:07 | 2022-03-04 | 2025-05-31 |
 | [La Canícula](https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 3:07 | 2025-05-30 |  |
 | [La Ciudad](https://open.spotify.com/track/2WkdQRVKSpQR7m8ADRgen5) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [La Ciudad](https://open.spotify.com/album/6Kg0WYwrz6on4qEPJLGuWO) | 3:33 | 2025-06-24 |  |
-| [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 | 2025-05-30 |  |
+| [La Corriente](https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL) | 3:31 | 2025-05-30 | 2025-11-29 |
 | [La Distancia](https://open.spotify.com/track/00PlbGbxatNx4FdF7WiSXS) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Distancia](https://open.spotify.com/album/5YSQOfpviTDmkNEbOytKJE) | 3:33 | 2025-01-10 |  |
 | [La llorona](https://open.spotify.com/track/4Mq73FvzLlMdy0VuOvVzjN) | [Alexandra Gravas](https://open.spotify.com/artist/3jDJ5r0kU32EeVl2Dd5uYv), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Songbook 3 El Amor Es Vida](https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT) | 6:44 | 2022-03-04 | 2025-05-31 |
 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 | 2022-03-04 | 2025-05-31 |
@@ -196,6 +197,7 @@
 | [Santo Canto](https://open.spotify.com/track/6OnMudP5H3yXkv9K2cXuJH) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:13 | 2022-03-04 | 2023-03-04 |
 | [Se acaba el mundo \(The World is coming to an end\)](https://open.spotify.com/track/07dfnPckaeJCxs0t3q5FYK) | [Grupo Mono Blanco Y Stone Lips](https://open.spotify.com/artist/3z2qTdU8yUeUZWAgtbTqgu) | [Grupo Mono Blanco Y Stone Lips: El Mundo Se Va A Acabar](https://open.spotify.com/album/3lhBjWndaNcIej2AJW57Vz) | 6:36 | 2022-03-04 | 2025-05-31 |
 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 | 2025-05-30 |  |
+| [Seguirte](https://open.spotify.com/track/1eot6WprsYiGUcX4YPpRhO) | [Sam Chávez](https://open.spotify.com/artist/5GpWkjxYTy97PC84yWcxsm) | [Seguirte](https://open.spotify.com/album/2G1YEu65XRDBnCdTXjA0sp) | 2:42 | 2025-11-28 |  |
 | [Sembrando Flores](https://open.spotify.com/track/3KIq1vktXNBv96HdZukx5h) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/57YprT0mwEpE8fQajd6noj) | 5:16 | 2022-03-04 | 2025-05-31 |
 | [Sembrando Flores](https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Sembrando Flores](https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8) | 5:16 | 2022-03-04 | 2024-04-19 |
 | [Senor Presidente](https://open.spotify.com/track/0cbrL5ApWdHZLGfgzQ0Zwa) | [Los Mocosos](https://open.spotify.com/artist/3iZwn8c4lsHa2r6M4BKVAT) | [Latin Revolution](https://open.spotify.com/album/3QR2sMtztC1wn2FN4AbZuJ) | 4:52 | 2022-03-04 | 2025-01-11 |

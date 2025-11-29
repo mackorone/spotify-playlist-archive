@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,583 likes - 19 songs - 1 hr 13 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,586 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,5 +27,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 17 | [Sarra](https://open.spotify.com/track/1jE72J1IkFypVBhAt4EnIv) | [Gary Davenport](https://open.spotify.com/artist/49c7NHtdbavJhYgbbSMqDN) | [Scattered Thoughts](https://open.spotify.com/album/5ESXATt30MXodjyyubLgx2) | 5:04 |
 | 18 | [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 |
 | 19 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 |
+| 20 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 |
 
-Snapshot ID: `AAANcJA5GTFJxNtGW7ap2bn8AHqW85pc`
+Snapshot ID: `AAANcXV/Uahp9HqQTDFiEOT9twCbBq/D`

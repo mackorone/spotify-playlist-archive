@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Tainy & KAROL G",
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Romeo Santos, Prince Royce",
   "name": "Viva Latino",
   "tracks": [
     {
@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248217,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo"
+    },
+    {
+      "album": {
         "name": "Big Booty",
         "url": "https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt"
       },
@@ -3704,7 +3726,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 293166,
       "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
       "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"

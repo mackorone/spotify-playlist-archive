@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmLl2r5kAOQ.md) - [plain]
 
 > Songs from the UK's best kids musicians and characters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,125 likes - 90 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,128 likes - 90 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

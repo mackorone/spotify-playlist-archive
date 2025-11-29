@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 67859,
+  "num_followers": 67882,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACW7FQv2WeHo5tcPuxvDo5J",
+  "snapshot_id": "aSeUgAAAAAAwRQHtZgw6EYI4PJuSnZKL",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Mi Borrachera",
+      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Reca\u00edda en Los Excesos",
         "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 183724,
       "name": "Mi Reca\u00edda en Los Excesos",
       "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ah\u00ed Deje las Llaves, Mami",
-        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Mi Borrachera",
-      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 181893,
-      "name": "Necesito Odiarte",
-      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+      "duration_ms": 165653,
+      "name": "A Punto De Marcharme - Remastered",
+      "url": "https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambi\u00e9n De Los Ranchos Bajan",
-        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 194146,
-      "name": "En Mil Pedazos",
-      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 \u00c9xitos (Versiones Originales)",
-        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 165653,
-      "name": "A Punto De Marcharme - Remastered",
-      "url": "https://open.spotify.com/track/6jb7fBU3VDJS2rcHfAZIQH"
+      "duration_ms": 194146,
+      "name": "En Mil Pedazos",
+      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las + Tocadas",
-        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 180860,
-      "name": "El Corrido de Ramiro Quiroz",
-      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/61eyl90QQVNrvi4oKn0wbb"
       },
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 199173,
-      "name": "Lucio Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     },
     {
       "added_at": null,
@@ -887,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey de Mil Coronas",
         "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 160493,
       "name": "Ojitos a Mi Gusto",
       "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "La Carga Ladeada",
-      "url": "https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh"
     },
     {
       "added_at": null,
@@ -947,6 +931,22 @@
       "duration_ms": 198280,
       "name": "Entre La Vida Y La Muerte",
       "url": "https://open.spotify.com/track/4HZgxD2MQ8mWcmwhsLSMln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "La Carga Ladeada",
+      "url": "https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh"
     }
   ],
   "unique_name": "This Is Lalo Mora",

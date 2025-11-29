@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 133793,
+  "num_followers": 133810,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 331266,
       "name": "Two Not One",
       "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 494026,
-      "name": "Somethin' Else",
-      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 308960,
       "name": "The Good Life - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4ZNx7AMUbhIo7DFkhWlrdy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 494026,
+      "name": "Somethin' Else",
+      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Magnificent Charlie Parker",
-        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+        "name": "New Time, New 'Tet",
+        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 162805,
-      "name": "Au Privave - Take 3 Master",
-      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+      "duration_ms": 453133,
+      "name": "From Dream to Dream",
+      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "New Time, New 'Tet",
-        "url": "https://open.spotify.com/album/5i6M0JCHTTR8vfYfy6kXHP"
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 453133,
-      "name": "From Dream to Dream",
-      "url": "https://open.spotify.com/track/1VKza9389xxGndNAuoB1W3"
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 381346,
-      "name": "Lester Leaps In",
-      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 381346,
+      "name": "Lester Leaps In",
+      "url": "https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 508933,
       "name": "Lover Come Back To Me",
       "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Stan Getz Quartets (Remastered)",
-        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Third Season",
         "url": "https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 401546,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Stan Getz Quartets (Remastered)",
+        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
-        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
-      },
-      "artists": [
-        {
-          "name": "Leo Parker",
-          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
-      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 497906,
       "name": "Vertigo - Remastered 2000",
       "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
+        "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
+      },
+      "artists": [
+        {
+          "name": "Leo Parker",
+          "url": "https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
+      "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Quartets",
-        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 444840,
-      "name": "Haghia Sophia",
-      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/18bi2UuLLBj78oai30goPA"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 368053,
       "name": "Eco - Remastered",
       "url": "https://open.spotify.com/track/6XHR5Gs3ZbrBrqVPPA1tGa"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Quartets",
+        "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 444840,
+      "name": "Haghia Sophia",
+      "url": "https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd"
     },
     {
       "added_at": "2024-07-17 12:24:10",

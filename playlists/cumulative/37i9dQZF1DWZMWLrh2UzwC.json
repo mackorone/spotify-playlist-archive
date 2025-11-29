@@ -108301,6 +108301,24 @@
     },
     {
       "album": {
+        "name": "Get This",
+        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
+    },
+    {
+      "album": {
         "name": "GET THIS RIGHT",
         "url": "https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu"
       },
@@ -142833,8 +142851,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Don't Tease Me With A Good Time",
+        "url": "https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg"
       },
       "artists": [
         {
@@ -161468,7 +161486,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 227109,
       "name": "Kepada Hati",
       "url": "https://open.spotify.com/track/1OtK3JCSYcY4sls2CxcfZh"
@@ -254435,8 +254453,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "punca kecewa",
+        "url": "https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK"
       },
       "artists": [
         {
@@ -267031,8 +267049,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Play (Deluxe)",
+        "url": "https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7"
       },
       "artists": [
         {
@@ -311372,24 +311390,6 @@
       "duration_ms": 219073,
       "name": "Traces of Blue",
       "url": "https://open.spotify.com/track/0pFV40nlzcshkTEZD4Jupb"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "date_added": "2025-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
     },
     {
       "album": {

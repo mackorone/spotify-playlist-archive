@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/0t6BynGppLtuUWXwJStk2I"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235084,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/2ol3m3QuLmRqovHv4w6KgF"
+    },
+    {
+      "album": {
         "name": "Addicted To Bass",
         "url": "https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR"
       },
@@ -1537,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Free Bird",
+        "url": "https://open.spotify.com/album/17xVCasmYL3TuVrSbvIiRV"
+      },
+      "artists": [
+        {
+          "name": "Jomaa",
+          "url": "https://open.spotify.com/artist/6BTiqgxEX6MaEXH34YyfvQ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410680,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/0eLrLLPuvLpNHqFhtQdwiM"
+    },
+    {
+      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/5ilhGQhL9oU74pmYBSNlbc"
       },
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 328741,
       "name": "Galattica",
       "url": "https://open.spotify.com/track/3LUJW20DcOH2NS2S9ANDS8"
@@ -1964,7 +2000,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 335866,
       "name": "Hypnotise",
       "url": "https://open.spotify.com/track/3AIC86lnu5hEQOxrWpvbPo"
@@ -2638,7 +2674,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 297232,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/1h500WiplE5ctR7Hk8ctVa"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 280751,
       "name": "Maxed Out",
       "url": "https://open.spotify.com/track/2g168jCE2KtGOqNBdsYMew"
@@ -3011,6 +3047,24 @@
     },
     {
       "album": {
+        "name": "Nami",
+        "url": "https://open.spotify.com/album/0tK707ZVFTjgBY5xDCPepq"
+      },
+      "artists": [
+        {
+          "name": "Lawyn",
+          "url": "https://open.spotify.com/artist/1XB0OnFSFFqJclIjN8yU9g"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344738,
+      "name": "Nami",
+      "url": "https://open.spotify.com/track/3MABXSNpFcNHEBJYUl5cKR"
+    },
+    {
+      "album": {
         "name": "Nasty",
         "url": "https://open.spotify.com/album/37RHLRLT4dP5ZQ12U00Jmt"
       },
@@ -3084,6 +3138,24 @@
       "duration_ms": 142124,
       "name": "No Lover",
       "url": "https://open.spotify.com/track/5su8Hl3YmYuiirnAptsYOI"
+    },
+    {
+      "album": {
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/5B4TB2KGMpblIYMZsJMI9n"
+      },
+      "artists": [
+        {
+          "name": "VE/RA",
+          "url": "https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324392,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/3mhELYn3JwPrC0fqTSAbhB"
     },
     {
       "album": {
@@ -3232,7 +3304,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 345605,
       "name": "One Mind",
       "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
@@ -3590,7 +3662,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 257653,
       "name": "Rave Dance Drink",
       "url": "https://open.spotify.com/track/3zBJtcxkMok2B2CWOQPa8n"
@@ -4652,7 +4724,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 234899,
       "name": "Type Of Beat",
       "url": "https://open.spotify.com/track/24MsTRZEENB0kRMRrpB736"
@@ -4852,6 +4924,24 @@
       "duration_ms": 192011,
       "name": "Voices In My Head - Amelie Lens Remix",
       "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
+    },
+    {
+      "album": {
+        "name": "Vul Dica",
+        "url": "https://open.spotify.com/album/3yWisbMJFIJTSjnhQnhaAW"
+      },
+      "artists": [
+        {
+          "name": "GALL\u00d8",
+          "url": "https://open.spotify.com/artist/6RuaGhkEO0m1IOXcsK40rP"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319026,
+      "name": "Vul Dica",
+      "url": "https://open.spotify.com/track/3at31s6nJl41gboWgcI9DO"
     },
     {
       "album": {

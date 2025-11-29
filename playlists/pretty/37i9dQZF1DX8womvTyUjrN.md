@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Natalia Lacunza
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,232 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,360 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [frenas](https://open.spotify.com/track/76lfpkdpqNwLjAsOpzcKKr) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [frenas](https://open.spotify.com/album/6APQW90Wb5DLzX0GdeHI9h) | 2:46 |
 | 50 | [me cuesta hablar](https://open.spotify.com/track/7J2yiSiENs7Yexe08XW9h6) | [Nina](https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [me cuesta hablar](https://open.spotify.com/album/4spdgnGkbsTubgVbkhdKfa) | 3:00 |
 
-Snapshot ID: `AAAAAIbPXEnFXMLDhdsf5gymimx9bwpt`
+Snapshot ID: `AAAAAINHpQGcLkFdqra//f63fPg4MEnj`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,969 songs - 8 day 17 hr 19 min
+3,970 songs - 8 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2841,7 +2841,7 @@
 | [Pot\-Pourri: Turma Do Funil / Cachaça / Ressaca](https://open.spotify.com/track/7x99gjAbTpJRdpx7f0KJ1y) | [Banda Carnavalesca Brasileira](https://open.spotify.com/artist/3ocHpn0KlmFSDLpSvnKuOb) | [43 Marchinhas de Carnaval](https://open.spotify.com/album/0ERYcE6WXncchQVgBz4hhv) | 4:58 | 2023-02-20 | 2024-02-19 |
 | [POTE DE OURO](https://open.spotify.com/track/3f1lEgEorble8TWplM949r) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:58 | 2024-09-03 | 2024-09-18 |
 | [Pow Pow na Pepekinha](https://open.spotify.com/track/1iNb89RNRk4Lsydg4HT9cB) | [DJ Gouveia](https://open.spotify.com/artist/4tjtE10Cy3hoYiDdPhoVem), [DJ DEIVÃO](https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk) | [Pow Pow na Pepekinha](https://open.spotify.com/album/0gR3fZefISjEgXjLIvzW3v) | 2:17 | 2024-10-08 | 2024-11-03 |
-| [Pq Vc Não Me Liga?](https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [winx](https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:58 | 2025-08-17 |  |
+| [Pq Vc Não Me Liga?](https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [winx](https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:58 | 2025-08-17 | 2025-11-29 |
 | [Pra que falar mal da macumba](https://open.spotify.com/track/5esbXuPOy2IRyvH5Vl9fwt) | [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az), [THEUZZIN](https://open.spotify.com/artist/4xQrZxDunp16t3UzWHCwwo), [DJ Denilson o clínico](https://open.spotify.com/artist/3AxhmSZxKQruKNmeLqsfQs), [Mc Flavinho](https://open.spotify.com/artist/3gJ0iXECjtAZmxCGlcCX1y) | [Pra que falar mal da macumba](https://open.spotify.com/album/3tb5opzf78XAGeuhATVWfp) | 2:41 | 2025-11-11 |  |
 | [Pra Roncar Tem Que Desbicar](https://open.spotify.com/track/7L8SotQQBU5lmA96DVyp9f) | [Veloz Ent](https://open.spotify.com/artist/3ZIQpdgZJr7YUApP2gMe5v) | [Pra Roncar Tem Que Desbicar](https://open.spotify.com/album/776ANqNMTpnlefAetaib6Y) | 8:39 | 2024-05-26 | 2024-05-29 |
 | [Pra Vaquejada Eu Vou](https://open.spotify.com/track/1h6z4Z81uMprKLApU8tMpZ) | [Gean Toddy](https://open.spotify.com/artist/2CbvWG64UBfY3wicgPk7Il) | [Pra Vaquejada Eu Vou](https://open.spotify.com/album/028nyOf1ol2346P4njBrep) | 2:33 | 2023-06-15 | 2023-06-17 |
@@ -3049,6 +3049,7 @@
 | [Ruas de São Paulo](https://open.spotify.com/track/28hPIa5oKt0npMW77APoMY) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Prado](https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq), [lWally](https://open.spotify.com/artist/2r6Kehsh7Isrp0ofpaPSko) | [Ruas de São Paulo](https://open.spotify.com/album/0z8GoE3zEtSaktKdqrKQ0t) | 3:59 | 2023-05-25 | 2023-06-12 |
 | [Rude Boy \(Remix\)](https://open.spotify.com/track/68ggNb9R9TzyyQ54iJXli2) | [Dell J](https://open.spotify.com/artist/0INg5KpktJNZu32MQX0iDX) | [Money To Blow Mixtape 2011](https://open.spotify.com/album/60Pr50JMJt8rrbzFQEpnod) | 3:19 | 2023-02-23 | 2023-03-05 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-03-15 | 2022-03-30 |
+| [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2025-11-28 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-29 | 2022-08-03 |
 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-08-08 | 2023-08-23 |
 | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/track/2qgt9GiXVhFIXTA3OdHDUG) | [2T.](https://open.spotify.com/artist/1Q8WSMv0yYl2ae0AO4k6qc) | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB) | 3:00 | 2024-10-15 | 2024-10-20 |

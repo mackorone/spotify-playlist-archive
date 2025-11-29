@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu"
+      },
+      "artists": [
+        {
+          "name": "OTK",
+          "url": "https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/7D6SEmF2v2xlFUct2atTfe"
+    },
+    {
+      "album": {
         "name": "DESIRE96",
         "url": "https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb"
       },
@@ -3954,6 +3972,28 @@
       "duration_ms": 341401,
       "name": "I Wanna Rock",
       "url": "https://open.spotify.com/track/6HOqLBmMCQMPnyPZcqYAP2"
+    },
+    {
+      "album": {
+        "name": "I Want to be",
+        "url": "https://open.spotify.com/album/17lhDcl1Pixl7IbOjf6iN3"
+      },
+      "artists": [
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        },
+        {
+          "name": "Mauro Fiore",
+          "url": "https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260047,
+      "name": "I Want to be",
+      "url": "https://open.spotify.com/track/4Xu7Jzud5lcgt0tWLbjpWe"
     },
     {
       "album": {

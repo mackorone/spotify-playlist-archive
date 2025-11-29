@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-81 songs - 4 hr 6 min
+82 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Party No Dey Stop \(with Zinoleesky\)](https://open.spotify.com/track/49ytLGEP5S20N3AhB5YuwJ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:48 | 2024-01-29 |  |
 | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/track/0tjkC3oD2A3sj4nTMEsezR) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Pattern Up \(feat\. ZieZie\)](https://open.spotify.com/album/7m13fjwYVPw5URrUvS89K0) | 3:57 | 2024-01-29 |  |
 | [Rain](https://open.spotify.com/track/2WQvKZwVrLGQmriYmQqU6o) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Rain](https://open.spotify.com/album/4RgASg0hEG5MgZrn0bSmz5) | 3:21 | 2024-01-29 |  |
+| [Raincheck](https://open.spotify.com/track/1DqLq5cD2XxJBDNiOtxnGM) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S), [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Raincheck](https://open.spotify.com/album/2c03XLPfXgI5TlglXkGX1i) | 3:49 | 2025-11-28 |  |
 | [Real Life](https://open.spotify.com/track/1ridgt4PwhqyjMDOyUzAle) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [I Came Home Late](https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud) | 3:14 | 2024-01-29 |  |
 | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/track/2sDXpPNots6fAZWa2sVl2G) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Elevator Jay](https://open.spotify.com/artist/2JmhnB4HLAf3PjqmikkJrC) | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/album/1BqlYDKcWfyj0vMPLRspqh) | 3:16 | 2025-05-04 |  |
 | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/track/6T0weoG6mJIshaxnnUgXIO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp), [Elevator Jay](https://open.spotify.com/artist/2JmhnB4HLAf3PjqmikkJrC) | [Say Cheese \(feat\. Elevator Jay\)](https://open.spotify.com/album/5MLZPzbEBVAUnPkamfuPvZ) | 3:16 | 2024-01-29 | 2025-05-05 |
@@ -84,7 +85,7 @@
 | [Walking Away](https://open.spotify.com/track/0ATBZJ1E0lkMC9oweBVLqa) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:32 | 2024-01-29 |  |
 | [Want It With You](https://open.spotify.com/track/1NODaCfupGkQSWckbtW6X1) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Chapter One](https://open.spotify.com/album/0e6oknt3pDkHsOOR16V0Q5) | 3:16 | 2024-01-29 |  |
 | [White Lie](https://open.spotify.com/track/1pu8uTETEknskKiQ2ZRV2d) | [Molly Ashcroft](https://open.spotify.com/artist/5GaBtvbFE0zu26I2UZHGIk) | [White Lie](https://open.spotify.com/album/338zZshtwKxZY8gXfMBmMr) | 2:50 | 2024-01-29 | 2024-04-14 |
-| [Who Gon Love You](https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [HOFFA](https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi) | 4:13 | 2025-01-28 | 2025-04-12 |
+| [Who Gon Love You](https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [HOFFA](https://open.spotify.com/album/1xYcF3T1DnGQ7M5BdzJppi) | 4:13 | 2025-01-28 |  |
 | [Why Would I](https://open.spotify.com/track/3tlagYGVQF3IArtnyE6f8x) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [I Feel Different Every Day](https://open.spotify.com/album/4dNFEQBU7izCLpGiMvbylB) | 3:21 | 2025-02-09 |  |
 | [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 | 2024-10-02 | 2025-02-10 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2024-01-29 |  |

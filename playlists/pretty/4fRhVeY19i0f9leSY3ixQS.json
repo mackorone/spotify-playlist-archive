@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1052,
+  "num_followers": 1054,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAHx+oMDs+ZVh+483tNvxcX2VxR06ci",
+  "snapshot_id": "AAAH0KTyiGIZvoRyOZnQkTwdudZy/KKB",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -3637,6 +3637,26 @@
       "url": "https://open.spotify.com/track/37bhIC163NksI9rRAzeCTL"
     },
     {
+      "added_at": "2025-11-28 10:54:41",
+      "album": {
+        "name": "The Night on Fire",
+        "url": "https://open.spotify.com/album/6GZszizjAdpKzt1Zbq5o7r"
+      },
+      "artists": [
+        {
+          "name": "LuumixX",
+          "url": "https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n"
+        },
+        {
+          "name": "DJ Mokka",
+          "url": "https://open.spotify.com/artist/2HsoBly6mGxZkMKZ0XjAyr"
+        }
+      ],
+      "duration_ms": 171959,
+      "name": "The Night on Fire",
+      "url": "https://open.spotify.com/track/3H4RWWL4RAqP8ewNclLZfS"
+    },
+    {
       "added_at": "2025-11-27 10:36:16",
       "album": {
         "name": "Someone to Love",
@@ -3843,6 +3863,134 @@
       "duration_ms": 164279,
       "name": "Nastasia",
       "url": "https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH"
+    },
+    {
+      "added_at": "2025-11-28 10:56:50",
+      "album": {
+        "name": "Diagnostics",
+        "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
+      },
+      "artists": [
+        {
+          "name": "The Galacticas",
+          "url": "https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Diagnostics",
+      "url": "https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev"
+    },
+    {
+      "added_at": "2025-11-28 10:57:10",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/5j1OiGLguSko1Gje70rx9D"
+      },
+      "artists": [
+        {
+          "name": "December Daybreak",
+          "url": "https://open.spotify.com/artist/6EKs2NrFlMNMuI9kNr4ky2"
+        }
+      ],
+      "duration_ms": 245044,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/5cY9J2rpud610I2qTa3toF"
+    },
+    {
+      "added_at": "2025-11-28 14:48:02",
+      "album": {
+        "name": "Antesis, Pt. 2",
+        "url": "https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0"
+      },
+      "artists": [
+        {
+          "name": "No Drop For Us",
+          "url": "https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw"
+        }
+      ],
+      "duration_ms": 178905,
+      "name": "Piras",
+      "url": "https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9"
+    },
+    {
+      "added_at": "2025-11-28 14:48:50",
+      "album": {
+        "name": "Nervous Systems",
+        "url": "https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml"
+      },
+      "artists": [
+        {
+          "name": "House of Light",
+          "url": "https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0"
+    },
+    {
+      "added_at": "2025-11-28 14:50:22",
+      "album": {
+        "name": "Comma Comma Page Break",
+        "url": "https://open.spotify.com/album/3K4eaPSKy3sW1274r17bWH"
+      },
+      "artists": [
+        {
+          "name": "Wilson Getchell",
+          "url": "https://open.spotify.com/artist/5vVgsLGU7Y7zwfVrZo2yN3"
+        }
+      ],
+      "duration_ms": 350023,
+      "name": "Comma Comma Page Break",
+      "url": "https://open.spotify.com/track/5Qhlvrhbm5IFTlMCTvrZKC"
+    },
+    {
+      "added_at": "2025-11-28 14:51:05",
+      "album": {
+        "name": "Don't Quit",
+        "url": "https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 174793,
+      "name": "Don't Quit",
+      "url": "https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT"
+    },
+    {
+      "added_at": "2025-11-28 14:53:33",
+      "album": {
+        "name": "smth in the way",
+        "url": "https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z"
+      },
+      "artists": [
+        {
+          "name": "Asira SW",
+          "url": "https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA"
+        }
+      ],
+      "duration_ms": 250743,
+      "name": "smth in the way",
+      "url": "https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ"
+    },
+    {
+      "added_at": "2025-11-28 14:53:56",
+      "album": {
+        "name": "Never There",
+        "url": "https://open.spotify.com/album/4UotUytIl9YcpgNPlGHoTk"
+      },
+      "artists": [
+        {
+          "name": "Trophy Boy Poems",
+          "url": "https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/4l6VMALVzlUboAJy17CAqG"
     }
   ],
   "unique_name": "Shuffle Roulette",

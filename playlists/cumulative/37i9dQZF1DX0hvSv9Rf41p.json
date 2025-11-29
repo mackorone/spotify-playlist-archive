@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 257118,
       "name": "ALL I NEED",
       "url": "https://open.spotify.com/track/5veuEV1GRASKLad3lJwQxJ"
@@ -6010,7 +6010,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 150857,
       "name": "COLLECT",
       "url": "https://open.spotify.com/track/5gWjK4UcP5DSh8DzoPFZZs"
@@ -7956,7 +7956,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 171000,
       "name": "Disaster",
       "url": "https://open.spotify.com/track/65Ga5ZT9oE2zZVC1nCHxW7"
@@ -8048,6 +8048,24 @@
       "duration_ms": 150857,
       "name": "DJJJJJJJJJ",
       "url": "https://open.spotify.com/track/5aJnl3PVYb1svAjOzSqQHS"
+    },
+    {
+      "album": {
+        "name": "DMT",
+        "url": "https://open.spotify.com/album/1JTrJ6e7x4Uw1QuCBAa1U8"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "DMT",
+      "url": "https://open.spotify.com/track/7hWzKjcvsPIYORcrQ3zIia"
     },
     {
       "album": {
@@ -13623,6 +13641,24 @@
     },
     {
       "album": {
+        "name": "HAVEN",
+        "url": "https://open.spotify.com/album/5TQNCmdBWKLD0PBr9y1eyr"
+      },
+      "artists": [
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "HAVEN",
+      "url": "https://open.spotify.com/track/7fKEuqdii6qrd5n95sC76y"
+    },
+    {
+      "album": {
         "name": "HAWT",
         "url": "https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV"
       },
@@ -18786,7 +18822,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 164442,
       "name": "machine_age",
       "url": "https://open.spotify.com/track/55fKc3ex9q7lEQUgPzPyLy"
@@ -19516,6 +19552,36 @@
       "duration_ms": 270000,
       "name": "Microworlds",
       "url": "https://open.spotify.com/track/5sDu7SdtfxXRcqWQd40eoi"
+    },
+    {
+      "album": {
+        "name": "Midnight Control (feat. Emily Makis)",
+        "url": "https://open.spotify.com/album/6AsIVNHLfL69rCv0WtUX0Y"
+      },
+      "artists": [
+        {
+          "name": "Skream & Benga",
+          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Midnight Control (feat. Emily Makis)",
+      "url": "https://open.spotify.com/track/6nSTAGsQTciuqHFNwZ9INM"
     },
     {
       "album": {
@@ -24269,6 +24335,32 @@
     },
     {
       "album": {
+        "name": "Raise the Dead",
+        "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Raise the Dead",
+      "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
+    },
+    {
+      "album": {
         "name": "Rapid Fire",
         "url": "https://open.spotify.com/album/5hqK495WT7LZG2AKzOWyTV"
       },
@@ -25328,6 +25420,32 @@
       "duration_ms": 133150,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k"
+    },
+    {
+      "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "JiLLi",
+          "url": "https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235285,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz"
     },
     {
       "album": {
@@ -27688,7 +27806,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 198400,
       "name": "SO DAMN GOOD",
       "url": "https://open.spotify.com/track/4rLRo9sQKBU4jx2XNRsMWw"

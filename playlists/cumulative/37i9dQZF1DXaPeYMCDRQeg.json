@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "PERMANENTLY YOURS",
+        "url": "https://open.spotify.com/album/5dcfcH1GZ71FgtZKzIXToU"
+      },
+      "artists": [
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218793,
+      "name": "5U",
+      "url": "https://open.spotify.com/track/186OPt8SQ2qyqLhPF2IIKh"
+    },
+    {
+      "album": {
         "name": "A Muse",
         "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
       },
@@ -766,7 +788,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 192626,
       "name": "Ballin'",
       "url": "https://open.spotify.com/track/6qWfJkV2jRO5RkOIZMC3hL"

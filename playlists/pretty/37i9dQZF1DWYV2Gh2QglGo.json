@@ -6,23 +6,103 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOujYUfPemFE1KXYavmbsG1CnkeW",
+  "snapshot_id": "AAAAAKC1cw3jjoq0tT+LREvgkJs60yXK",
   "tracks": [
     {
-      "added_at": "2025-11-14 12:09:53",
+      "added_at": "2025-11-28 05:01:04",
       "album": {
-        "name": "Appaloosa",
-        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
+        "name": "Count On Me",
+        "url": "https://open.spotify.com/album/5ithF5SZhrIOImWRo7pB3m"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
         }
       ],
-      "duration_ms": 213137,
-      "name": "Oh My Days",
-      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
+      "duration_ms": 219929,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1KunqIj5qXEYbB8aBCY5bb"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "Phone Call From Home",
+        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 187119,
+      "name": "Phone Call From Home",
+      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
+    },
+    {
+      "added_at": "2025-11-28 05:01:04",
+      "album": {
+        "name": "That's Just Love For Ya",
+        "url": "https://open.spotify.com/album/5pDtTHZty1ErXzu4r7k1Us"
+      },
+      "artists": [
+        {
+          "name": "The Prairie States",
+          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
+        }
+      ],
+      "duration_ms": 188663,
+      "name": "That's Just Love For Ya",
+      "url": "https://open.spotify.com/track/50U3w2Cj9TRbX9Ea3Yju0L"
+    },
+    {
+      "added_at": "2025-11-28 05:01:04",
+      "album": {
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/5mblQYNXeC9Ob7bYSgNNh7"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        }
+      ],
+      "duration_ms": 170501,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/2KlpiqavcINb8DaNR4mlxc"
+    },
+    {
+      "added_at": "2025-11-28 05:01:04",
+      "album": {
+        "name": "Must Be Listening",
+        "url": "https://open.spotify.com/album/6YX0AUv2zsKIlHtU4seeth"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Fisher",
+          "url": "https://open.spotify.com/artist/72fK1tR09pjiiGHJciVg73"
+        }
+      ],
+      "duration_ms": 173388,
+      "name": "Must Be Listening",
+      "url": "https://open.spotify.com/track/4Q7460eF0zC7PZN2voDMvy"
+    },
+    {
+      "added_at": "2025-11-14 12:09:53",
+      "album": {
+        "name": "The Hard Way (Deluxe)",
+        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 154623,
+      "name": "Problem",
+      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
     },
     {
       "added_at": "2025-11-21 05:02:28",
@@ -47,34 +127,34 @@
     {
       "added_at": "2025-11-14 12:09:53",
       "album": {
-        "name": "Phone Call From Home",
-        "url": "https://open.spotify.com/album/2SwS87Y78RE0nNbZk1FFmi"
+        "name": "Appaloosa",
+        "url": "https://open.spotify.com/album/33YNI8LLZpVJJcOpSjbOh2"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 187119,
-      "name": "Phone Call From Home",
-      "url": "https://open.spotify.com/track/5kCcDjNlnxtW4ifsds3Fyf"
+      "duration_ms": 213137,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/5xIlWBGj7l83z87YZJISD0"
     },
     {
-      "added_at": "2025-11-14 12:09:53",
+      "added_at": "2025-11-28 05:01:04",
       "album": {
-        "name": "The Hard Way (Deluxe)",
-        "url": "https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv"
+        "name": "County Line Five",
+        "url": "https://open.spotify.com/album/226NykY7k0IaAjiTzQLys4"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Bradley Hale",
+          "url": "https://open.spotify.com/artist/1TPjClIZ0S2xtgSNfqV6gF"
         }
       ],
-      "duration_ms": 154623,
-      "name": "Problem",
-      "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
+      "duration_ms": 218624,
+      "name": "Back 40 Bible Verse",
+      "url": "https://open.spotify.com/track/3zrMYDjtOWEDrku50OCE5g"
     },
     {
       "added_at": "2025-11-21 05:02:28",
@@ -107,6 +187,22 @@
       "duration_ms": 202506,
       "name": "Memories and Empties",
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
+    },
+    {
+      "added_at": "2025-11-28 05:01:04",
+      "album": {
+        "name": "Wish I Didn't",
+        "url": "https://open.spotify.com/album/6rYqmeUTz1kclLPnwOiiV4"
+      },
+      "artists": [
+        {
+          "name": "Spencer Burns",
+          "url": "https://open.spotify.com/artist/4NmjSQ0m4Z3vtiz08n2o08"
+        }
+      ],
+      "duration_ms": 193792,
+      "name": "Wish I Didn't",
+      "url": "https://open.spotify.com/track/3e3qxcYhZmPL0GjUdNzjnK"
     },
     {
       "added_at": "2025-10-24 04:25:20",

@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 956882,
+  "num_followers": 957011,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADE+BgmRX0t7MT6TH1z3Sqq",
+  "snapshot_id": "aSeUgAAAAACGjKd/5TlX7yvKFJU8O7zE",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 206700,
-      "name": "This Is Why",
-      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
+      "duration_ms": 215093,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 215093,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
+      "duration_ms": 206700,
+      "name": "This Is Why",
+      "url": "https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
       "duration_ms": 200146,
       "name": "Monster - Transformers Soundtrack Version",
       "url": "https://open.spotify.com/track/04BSvYghzdxjSJNpee36er"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 235012,
-      "name": "Crave",
-      "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 235012,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7wYCva1bI1AkHRQoVXhy8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 309973,
       "name": "Last Hope",
       "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/7BpYWzZwrsljT1eIjb0TqR"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Fake Happy",
-      "url": "https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 212560,
       "name": "(One of Those) Crazy Girls",
       "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Fake Happy",
+      "url": "https://open.spotify.com/track/6t44iU80A0h8WQ7vc4OoRj"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Laughter",
-        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 309293,
       "name": "Hate to See Your Heart Break",
       "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/3xCsHloPBl211Yi4UEUUcm"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 185660,
-      "name": "In the Mourning",
-      "url": "https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg"
+      "duration_ms": 208094,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 208094,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
+      "duration_ms": 185660,
+      "name": "In the Mourning",
+      "url": "https://open.spotify.com/track/2NSjoft78kEQSUgpOXeMDg"
     },
     {
       "added_at": null,

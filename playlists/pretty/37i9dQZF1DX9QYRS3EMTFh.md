@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Kalibwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,738 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,762 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 12 | [Soum Soum](https://open.spotify.com/track/59TPSkY5yVmw0kvbPa9uV3) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Soum Soum](https://open.spotify.com/album/6f4IyHaKqP6tIcW6ltXiEw) | 2:19 |
 | 13 | [Joconde](https://open.spotify.com/track/4S6ig1OGaIaajusolEjWAd) | [Selera](https://open.spotify.com/artist/5tFvIHHaE0q4ELXkEKi199), [NAIROD](https://open.spotify.com/artist/3uPD41pE4IS6ZWYf6KYbnd) | [Joconde](https://open.spotify.com/album/4XrVyIsz0qixI6FCcFFqUg) | 2:35 |
 | 14 | [No gwo pwel](https://open.spotify.com/track/2qauDjxuq5BrU0Q9Iu2Tb5) | [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6), [Mafio House](https://open.spotify.com/artist/0foFX6o95mgehKzL3n9VQw) | [No gwo pwel](https://open.spotify.com/album/6zJXOIk5QkB9j5hTNYe14I) | 2:36 |
-| 15 | [Track 3](https://open.spotify.com/track/00CR7qZbuyDqGhVHLYKN1H) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [Quand Même](https://open.spotify.com/track/00CR7qZbuyDqGhVHLYKN1H) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE), [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp) | [Sha'Pa Style](https://open.spotify.com/album/6h4IIQxKQFUOT5rYln4ouQ) | 2:35 |
 | 16 | [GANGSTA](https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [GANGSTA](https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW) | 2:12 |
 | 17 | [Paola](https://open.spotify.com/track/1DSLFCne67y4Vtl5xzeEXQ) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Paola](https://open.spotify.com/album/4DAmkCe0oG3ibulWFILclQ) | 2:05 |
 | 18 | [Follasse](https://open.spotify.com/track/4LKABvF9h5iMnQlxCsuMPH) | [KENZY DONA](https://open.spotify.com/artist/3tVOuuZqPW4toF0vFTERMl) | [Follasse](https://open.spotify.com/album/3QFReuHQy2eXvOW78Ghr91) | 2:07 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 23 | [Madd Ting](https://open.spotify.com/track/5Iku7QUJV5KXyT5fVHAxcd) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Jhorrmountain](https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o) | [Madd Ting](https://open.spotify.com/album/5aFNds41L7xe2SJO9XkM5I) | 2:24 |
 | 24 | [Dans la fiesta](https://open.spotify.com/track/4k2A7j9Wx8PU2QKEd8zqci) | [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Dans la fiesta](https://open.spotify.com/album/00msJVI5gvPi3RRADlUgEy) | 2:42 |
 | 25 | [Le Pain](https://open.spotify.com/track/2DV5KEPN747LIcavwZa7y2) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Le Pain](https://open.spotify.com/album/6E1TYEe5Fei2Ri0ZpU1wnm) | 1:56 |
-| 26 | [Dana Hoes](https://open.spotify.com/track/556bVUL8uJEwMmjgwNtiQ3) | [Alvin Brown Beats](https://open.spotify.com/artist/06YsgAfOVUoiazGBN7eYfZ), [AIRONE](https://open.spotify.com/artist/7fNOyPZIttGTSV2qii5YNS) | [Dana Hoes](https://open.spotify.com/album/7DRbrsyQkR1kkQwLWYQuK2) | 2:24 |
+| 26 | [Dana Hoes](https://open.spotify.com/track/556bVUL8uJEwMmjgwNtiQ3) | [Alvin Brown Beats](https://open.spotify.com/artist/06YsgAfOVUoiazGBN7eYfZ), [AIRONE](https://open.spotify.com/artist/7fNOyPZIttGTSV2qii5YNS) | [Dana Hoes](https://open.spotify.com/album/7DRbrsyQkR1kkQwLWYQuK2) | 2:15 |
 | 27 | [TELEPHONE](https://open.spotify.com/track/6mN11eZ37CqgTFd3vHeRDR) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [TELEPHONE](https://open.spotify.com/album/2yoNlQZmZ3ff9zoIzrXEgm) | 2:39 |
 | 28 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
 | 29 | [Wine](https://open.spotify.com/track/7w5Os3yRQ0Irx1EG852HVs) | [Karl Lemoine](https://open.spotify.com/artist/4wG2c1KkZ1Nz4U7PjFzXrx) | [Wine](https://open.spotify.com/album/1kqyF8iwx55zXN4R45tVCi) | 2:22 |

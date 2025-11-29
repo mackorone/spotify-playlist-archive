@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Elma Dae ",
-  "num_followers": 144550,
+  "num_followers": 144592,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2025-11-27 17:00:33",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4XpV1xgSu3HtKi2jrhNyjl"
+      },
+      "artists": [
+        {
+          "name": "T-Five",
+          "url": "https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3"
+        },
+        {
+          "name": "Melly Mono",
+          "url": "https://open.spotify.com/artist/4ASFLx9FJ0YNGRKGzwSoxR"
+        }
+      ],
+      "duration_ms": 217084,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/1JHZ8AjrOJGPhayXfaCPMI"
+    },
+    {
+      "added_at": "2025-11-27 17:00:33",
+      "album": {
         "name": "Bila (Live From See You On Wednesday)",
         "url": "https://open.spotify.com/album/2aKwzPcQ7ndw5Ky9U3sNFw"
       },
@@ -327,8 +347,8 @@
     {
       "added_at": "2025-11-27 17:00:33",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Cita Cinta",
+        "url": "https://open.spotify.com/album/7HEXcM3rUIwmU9kueJKsza"
       },
       "artists": [
         {

@@ -4,7 +4,7 @@
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-72 songs - 4 hr 41 min
+73 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 | 2021-12-16 |  |
 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 | 2021-12-16 |  |
 | [La Curiosidad](https://open.spotify.com/track/3AtfmXxTKKn0QIEbdRRvJI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PB.DB\. The Mixtape](https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc) | 3:39 | 2024-04-06 |  |
+| [La Malquerida](https://open.spotify.com/track/5Ufz5dUvW8aZ5AdVYRGmsx) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Malquerida](https://open.spotify.com/album/5o1tsy4vrN01OoOkx00YNA) | 2:58 | 2024-07-13 |  |
 | [La promesa](https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:53 | 2021-12-16 |  |
 | [Lejos de Aquí](https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:41 | 2021-12-16 |  |
 | [Llegaste Tú](https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [8](https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI) | 3:41 | 2021-12-16 |  |
@@ -70,7 +71,7 @@
 | [Si Tú No Estás](https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tú No Estás](https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg) | 3:38 | 2024-04-06 | 2024-04-19 |
 | [Suena Mamal\*\*\*](https://open.spotify.com/track/3qTatqQ0vzzztgYdaQGEmV) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Campa](https://open.spotify.com/artist/60qHhKcrUepPj9R1kZ2YGR) | [Golpe Avisa](https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL) | 4:45 | 2021-12-16 |  |
 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 | 2021-12-16 |  |
-| [Tocado y hundido](https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:31 | 2021-12-16 |  |
+| [Tocado y hundido](https://open.spotify.com/track/4lN533ecUjcnqTkdxaYoP2) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:31 | 2021-12-16 | 2025-11-29 |
 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 | 2024-04-06 |  |
 | [Travesuras](https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Travesuras](https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He) | 3:15 | 2021-12-16 | 2024-04-19 |
 | [Travesuras \- Remix](https://open.spotify.com/track/2a87ec23uKFtHk0kaM47B2) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Travesuras \(Remix\)](https://open.spotify.com/album/4kk9vyGNaye8S9Oi3o8MM3) | 4:46 | 2021-12-16 | 2024-04-19 |

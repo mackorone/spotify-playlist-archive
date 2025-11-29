@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,546 likes - 69 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,480 likes - 69 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 68 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 |
 | 69 | [30 Something](https://open.spotify.com/track/1DKVwrlshIVSRXBA6C62Yq) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Jupiter](https://open.spotify.com/album/66HcLnKvY2NUrUta3OduYH) | 3:30 |
 
-Snapshot ID: `AAAAAOyV9Mr0LYuqZgk9bz1M0eKk4ZOQ`
+Snapshot ID: `AAAAAF0Cgws9bX27HjikGcahZIpb794f`

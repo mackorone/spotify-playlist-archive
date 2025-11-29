@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,012 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Daily Bundle](https://open.spotify.com/track/5YXwtHacsQiPVd0Yk6fwzs) | [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Daily Bundle](https://open.spotify.com/album/0aubgASRi7N38T8bG24Pmh) | 2:41 |
 | 2 | [Nyweera](https://open.spotify.com/track/32fgnccnW2GGN0Sh5tu2cz) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nyweera](https://open.spotify.com/album/3fjpmzYRV1dh2XNXdYIxuX) | 3:28 |
-| 3 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [](https://open.spotify.com/album/null) | 2:56 |
+| 3 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 4 | [Amazaina](https://open.spotify.com/track/1gobRUGrQ3nxM343Z3SINY) | [Pia Pounds](https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p), [Masaka Kids Africana](https://open.spotify.com/artist/4kwmWKJWiP1asCUp81zC5H) | [Amazaina](https://open.spotify.com/album/4g7YJc1kXDa79qf9LoqGJh) | 2:44 |
 | 5 | [Njagala Mukwano](https://open.spotify.com/track/6PzFNEhqh5s5osIbIgseE5) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Njagala Mukwano](https://open.spotify.com/album/1iD6TzKVWgf7sgChI5777R) | 2:58 |
 | 6 | [Good Idea](https://open.spotify.com/track/6MHDsDMdC4l2DZ9fUdmk6L) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6) | [Good Idea](https://open.spotify.com/album/6H1rdKxDBAVCEq3fpRGLI2) | 3:00 |

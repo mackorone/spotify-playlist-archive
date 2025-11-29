@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95972,
+  "num_followers": 95980,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADY0nUXl7AzKggwHIFjIgFF",
+  "snapshot_id": "aSeUgAAAAADcUKoOJGEBit/KxcOdhDO4",
   "tracks": [
     {
       "added_at": null,
@@ -795,18 +795,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rexdale",
-        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+        "name": "Daytona (Remix)",
+        "url": "https://open.spotify.com/album/2QLjscrXJ2ZsWL7VM20mjr"
       },
       "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 125093,
-      "name": "Rexdale",
-      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
+      "duration_ms": 219741,
+      "name": "Daytona - Remix",
+      "url": "https://open.spotify.com/track/6YRxtTysuvoAvo4aTOmQmv"
     },
     {
       "added_at": null,
@@ -823,6 +831,22 @@
       "duration_ms": 159000,
       "name": "Good For It",
       "url": "https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
     },
     {
       "added_at": null,
@@ -863,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fell In Love (2016)",
-        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 177413,
-      "name": "Fell In Love (2016)",
-      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAV",
         "url": "https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ"
       },
@@ -895,26 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daytona (Remix)",
-        "url": "https://open.spotify.com/album/2QLjscrXJ2ZsWL7VM20mjr"
+        "name": "Fell In Love (2016)",
+        "url": "https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ"
       },
       "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        },
         {
           "name": "NAV",
           "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         }
       ],
-      "duration_ms": 219741,
-      "name": "Daytona - Remix",
-      "url": "https://open.spotify.com/track/6YRxtTysuvoAvo4aTOmQmv"
+      "duration_ms": 177413,
+      "name": "Fell In Love (2016)",
+      "url": "https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 128071,
-      "name": "No Debate (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 133773,
       "name": "Foreign (feat. Nav)",
       "url": "https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 128071,
+      "name": "No Debate (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP"
     },
     {
       "added_at": null,

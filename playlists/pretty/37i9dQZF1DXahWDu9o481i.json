@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KETTAMA",
-  "num_followers": 51145,
+  "num_followers": 51573,
   "original_name": "Editors' Picks: Best Songs of October",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "viscus (feat. FKA twigs)",
-        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 220534,
-      "name": "viscus (feat. FKA twigs)",
-      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
-    },
-    {
-      "added_at": "2025-11-04 21:00:27",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
+    },
+    {
+      "added_at": "2025-11-04 21:00:27",
+      "album": {
+        "name": "viscus (feat. FKA twigs)",
+        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 220534,
+      "name": "viscus (feat. FKA twigs)",
+      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -699,22 +699,18 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Aging Young Women",
-        "url": "https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V"
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
       },
       "artists": [
         {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        },
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
         }
       ],
-      "duration_ms": 241133,
-      "name": "Aging Young Women",
-      "url": "https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2"
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
     },
     {
       "added_at": "2025-11-04 21:00:27",
@@ -735,18 +731,22 @@
     {
       "added_at": "2025-11-04 21:00:27",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+        "name": "Aging Young Women",
+        "url": "https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V"
       },
       "artists": [
         {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
         }
       ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
+      "duration_ms": 241133,
+      "name": "Aging Young Women",
+      "url": "https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2"
     },
     {
       "added_at": "2025-11-04 21:00:27",

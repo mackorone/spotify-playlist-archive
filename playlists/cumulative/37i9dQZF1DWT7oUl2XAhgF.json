@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/3jfc4LTE0Hf7gfQGZrt0jP"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320813,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1yeortMt1F7wWuCMZKHd2O"
+    },
+    {
+      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/4QgY2HVCC3Ljwprc7cjQqE"
       },
@@ -1067,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Sit Down",
+        "url": "https://open.spotify.com/album/3Gqtz8NilDqhHu8uAX0s4N"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Can\u2019t Sit Down",
+      "url": "https://open.spotify.com/track/0fPfnMUL1qFzkLAIs1bwNl"
+    },
+    {
+      "album": {
         "name": "Magic Bus Sessions",
         "url": "https://open.spotify.com/album/7wbQ4FeW8zl8hhDdfSuuEK"
       },
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 223826,
       "name": "Carry My Name - Magic Bus Sessions",
       "url": "https://open.spotify.com/track/26PuNsYkMzveo40E5eNOFJ"
@@ -2640,7 +2676,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 196181,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO"
@@ -7096,7 +7132,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 225484,
       "name": "R.L.M",
       "url": "https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj"
@@ -8496,6 +8532,24 @@
       "duration_ms": 201963,
       "name": "Stack The Deck",
       "url": "https://open.spotify.com/track/7KlAw9Himd2Er1gflw2DML"
+    },
+    {
+      "album": {
+        "name": "Stagger Lee",
+        "url": "https://open.spotify.com/album/75XqMtKZjrLveeQU6uLj9S"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Stagger Lee",
+      "url": "https://open.spotify.com/track/22VccMAswE1oV9eQVgzJWz"
     },
     {
       "album": {
@@ -10181,6 +10235,28 @@
     },
     {
       "album": {
+        "name": "What It Gave Me",
+        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164605,
+      "name": "What It Gave Me",
+      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
+    },
+    {
+      "album": {
         "name": "What More Can I Do",
         "url": "https://open.spotify.com/album/4d0s8nBxKeOgJPTDylVz2j"
       },
@@ -10398,7 +10474,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 253404,
       "name": "Wild as a Rainstorm",
       "url": "https://open.spotify.com/track/2Zg2gWL8IJAwbd12O4W3jE"

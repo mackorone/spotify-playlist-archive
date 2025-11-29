@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 95385,
+  "num_followers": 95402,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADwTVwxVy4hwBgj75QpK+vn",
+  "snapshot_id": "aSeUgAAAAAATD99MdlYKPNYoAIYNyTMU",
   "tracks": [
     {
       "added_at": null,
@@ -195,18 +195,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "Doggy (feat. Love Spells and Truly Young)",
+        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
       "artists": [
         {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        },
+        {
+          "name": "Truly Young",
+          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
         }
       ],
-      "duration_ms": 107280,
-      "name": "Westcoast Collective",
-      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
+      "duration_ms": 172359,
+      "name": "Doggy (feat. Love Spells and Truly Young)",
+      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
     },
     {
       "added_at": null,
@@ -243,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doggy (feat. Love Spells and Truly Young)",
-        "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
-      },
-      "artists": [
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
-        },
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        },
-        {
-          "name": "Truly Young",
-          "url": "https://open.spotify.com/artist/6Hqu0lCYGK2QO1vp4rwDMS"
-        }
-      ],
-      "duration_ms": 172359,
-      "name": "Doggy (feat. Love Spells and Truly Young)",
-      "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -284,9 +268,29 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 133560,
-      "name": "She Wants My Money",
-      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
+      "duration_ms": 107280,
+      "name": "Westcoast Collective",
+      "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209970,
+      "name": "Photo ID (with Dominic Fike)",
+      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 209970,
-      "name": "Photo ID (with Dominic Fike)",
-      "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
+      "duration_ms": 133560,
+      "name": "She Wants My Money",
+      "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 209830,
-      "name": "Maroon",
-      "url": "https://open.spotify.com/track/6lJxjmUZ0EcZoxyKNhOOGa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209830,
+      "name": "Maroon",
+      "url": "https://open.spotify.com/track/6lJxjmUZ0EcZoxyKNhOOGa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rollerblades",
         "url": "https://open.spotify.com/album/6pOBptbCkOMPilLRihX4tw"
       },
@@ -631,30 +631,6 @@
       "duration_ms": 134066,
       "name": "Rollerblades",
       "url": "https://open.spotify.com/track/7iSNEgSJYlc42H73xePMLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Geezer",
-          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "Geezer",
-      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
     },
     {
       "added_at": null,
@@ -687,6 +663,30 @@
       "duration_ms": 177400,
       "name": "A\u00e7a\u00ed Bowl",
       "url": "https://open.spotify.com/track/5M3KOe4FGUidvRDUbFFdFk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Geezer",
+          "url": "https://open.spotify.com/artist/1Px3z0pAOyBLWpcFPb5VYH"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "Geezer",
+      "url": "https://open.spotify.com/track/76jsGLoaUN5kgYglcACpvC"
     },
     {
       "added_at": null,

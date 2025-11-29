@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173458,
+  "num_followers": 173481,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAYiSkvfV2oHjuLoukWV2XB",
+  "snapshot_id": "aSeUgAAAAABmGmyDoGx8Lig5eP6hwomw",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9 Tudo Pra Ontem",
-        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
+        "name": "At\u00e9 A \u00daltima Rima",
+        "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
       },
       "artists": [
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
         },
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 310400,
-      "name": "\u00c9 Tudo Pra Ontem",
-      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
+      "duration_ms": 275555,
+      "name": "Leandro Roque",
+      "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
     },
     {
       "added_at": null,
@@ -343,26 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 A \u00daltima Rima",
-        "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
+        "name": "\u00c9 Tudo Pra Ontem",
+        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
       },
       "artists": [
         {
-          "name": "Jotap\u00ea",
-          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 275555,
-      "name": "Leandro Roque",
-      "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
+      "duration_ms": 310400,
+      "name": "\u00c9 Tudo Pra Ontem",
+      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Madagascar",
-      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casas",
         "url": "https://open.spotify.com/album/1luu1JuZyWqBFNcssZBK8o"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 294049,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/68tUNy23zU6wic6xh67E2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Madagascar",
+      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
     },
     {
       "added_at": null,
@@ -526,11 +526,19 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        },
+        {
+          "name": "Thiago Ventura",
+          "url": "https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0"
         }
       ],
-      "duration_ms": 335600,
-      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
-      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
+      "duration_ms": 292013,
+      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
+      "url": "https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD"
     },
     {
       "added_at": null,
@@ -602,19 +610,11 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        },
-        {
-          "name": "Thiago Ventura",
-          "url": "https://open.spotify.com/artist/5fk2j97tfvbVybgZvWmhs0"
         }
       ],
-      "duration_ms": 292013,
-      "name": "Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)",
-      "url": "https://open.spotify.com/track/78m3BiWZ2dLGzElYwrIfFD"
+      "duration_ms": 335600,
+      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
+      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 249373,
       "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
       "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
-      "url": "https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh"
     },
     {
       "added_at": null,
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pantera Negra",
+        "url": "https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 199613,
+      "name": "Pantera Negra",
+      "url": "https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -963,34 +979,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantera Negra",
-        "url": "https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3"
+        "name": "Sobe junto",
+        "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 199613,
-      "name": "Pantera Negra",
-      "url": "https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
-      },
-      "artists": [
+        },
         {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 209480,
-      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+      "duration_ms": 205440,
+      "name": "Sobe junto",
+      "url": "https://open.spotify.com/track/67aYew5Aa9CAhSWPzviiGy"
     },
     {
       "added_at": null,
@@ -1015,26 +1023,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobe junto",
-        "url": "https://open.spotify.com/album/3hmUh5giqCBLlFLUrhnFPa"
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
       "artists": [
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Sobe junto",
-      "url": "https://open.spotify.com/track/67aYew5Aa9CAhSWPzviiGy"
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
     },
     {
       "added_at": null,
@@ -1087,6 +1087,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "S\u00f3 Isso",
+      "url": "https://open.spotify.com/track/6HWD7W8mDDnSy18GFwuHt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Coisas",
+        "url": "https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Mil Coisas",
+      "url": "https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 371466,
+      "name": "Quem Tem Um Amigo (Tem Tudo) / A Amizade - Ao Vivo",
+      "url": "https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SQUAD",
         "url": "https://open.spotify.com/album/338HAz3kyO6uZ7GU6G7GOU"
       },
@@ -1115,58 +1167,6 @@
       "duration_ms": 222720,
       "name": "SQUAD",
       "url": "https://open.spotify.com/track/2Eh914v2yNJWMLSN1vjWQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "S\u00f3 Isso",
-      "url": "https://open.spotify.com/track/6HWD7W8mDDnSy18GFwuHt7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 371466,
-      "name": "Quem Tem Um Amigo (Tem Tudo) / A Amizade - Ao Vivo",
-      "url": "https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mil Coisas",
-        "url": "https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Mil Coisas",
-      "url": "https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK"
     }
   ],
   "unique_name": "This Is Emicida",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrGNtrGiJfVh8TSrPHSiE">Christine McVie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 520 likes - 87 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 521 likes - 87 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AcCvcAAAAADGk+fiHATwIP304I/1x9Eu`
+Snapshot ID: `AcC1EAAAAACkjuSnuGXD/QSMwZ3jiFD+`

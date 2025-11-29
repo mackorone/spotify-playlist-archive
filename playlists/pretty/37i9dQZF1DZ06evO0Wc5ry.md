@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,689 likes - 49 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,706 likes - 49 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 22 | [Two Dope Boyz \(In a Cadillac\)](https://open.spotify.com/track/2q8lHMMso6wx6pb5uwqzOs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 2:42 |
 | 23 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |
 | 24 | [Skew It on the Bar\-B \(feat\. Raekwon\)](https://open.spotify.com/track/6EQ4orawx8eo0aXH0pOKLE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 3:15 |
-| 25 | [Git Up, Git Out \(feat\. Goodie Mob\)](https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 7:27 |
+| 25 | [Black Ice \(Sky High\) \(feat\. Outkast\)](https://open.spotify.com/track/0Uu8BPsWQGZk5AiRN3uBwn) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Still Standing](https://open.spotify.com/album/0MMxX1jX2lwR1iKRuB7yG7) | 3:25 |
 | 26 | [Wheelz of Steel](https://open.spotify.com/track/5qKqRkWnRTXNVWbEOOmGxk) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:03 |
-| 27 | [Black Ice \(Sky High\) \(feat\. Outkast\)](https://open.spotify.com/track/0Uu8BPsWQGZk5AiRN3uBwn) | [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Still Standing](https://open.spotify.com/album/0MMxX1jX2lwR1iKRuB7yG7) | 3:25 |
+| 27 | [Git Up, Git Out \(feat\. Goodie Mob\)](https://open.spotify.com/track/6XadDzmDVhtEQ1Itt5t8h8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 7:27 |
 | 28 | [Gasoline Dreams \(with Khujo Goodie\)](https://open.spotify.com/track/1Jo3u8eXp8xobbrvq0FIi9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Khujo Goodie](https://open.spotify.com/artist/28i3mntNBlXpjstb1nHhkJ) | [Stankonia](https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj) | 3:34 |
 | 29 | [Dracula's Wedding \(feat\. Kelis\)](https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 2:32 |
 | 30 | [Millennium](https://open.spotify.com/track/50Fp9rUhDZvGJ4UUz4mTwp) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 48 | [Sole Sunday \(feat\. Goodie Mob\) \- Dirty Mix](https://open.spotify.com/track/0jHeh2OVWqd5xvtRULVoI9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 4:39 |
 | 49 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `aSZDAAAAAACRH5kYy5mnYBSCV/k1tidh`
+Snapshot ID: `aSeUgAAAAABRocCw+t+ZUyUkflozHoDO`

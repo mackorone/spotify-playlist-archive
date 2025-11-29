@@ -4,7 +4,7 @@
 
 > love is in the air...breathe in
 
-882 songs - 1 day 18 hr 42 min
+883 songs - 1 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,7 +327,7 @@
 | [Go Crazy](https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Go Crazy](https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE) | 2:36 | 2025-09-26 |  |
 | [Go Low](https://open.spotify.com/track/18knj0rESK9fge8VWsAGOM) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X) | 2:04 | 2024-04-19 | 2024-04-20 |
 | [Go Low](https://open.spotify.com/track/4XOdCFCCortagag6YCi7Qu) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Go Low](https://open.spotify.com/album/46qAo4a7iWazSa0jzHNa73) | 2:04 | 2024-03-15 | 2024-04-19 |
-| [Go Shawty \(It’s Your Birthday\)](https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [DJ Tunez](https://open.spotify.com/artist/1yvqRS5Rv6YaP79DBLgWn3) | [](https://open.spotify.com/album/null) | 2:31 | 2025-11-28 |  |
+| [Go Shawty \(It’s Your Birthday\)](https://open.spotify.com/track/6qNA3exuFmvOzVOTPgzG5D) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [DJ Tunez](https://open.spotify.com/artist/1yvqRS5Rv6YaP79DBLgWn3) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:31 | 2025-11-28 |  |
 | [GOD DESIGN](https://open.spotify.com/track/4Su04rfy8UL4yDkIT6gFgG) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [GOD DESIGN](https://open.spotify.com/album/0CCDzLrKHUXqYls1J7mlRp) | 3:35 | 2025-04-18 | 2025-08-26 |
 | [Goddess](https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Goddess](https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR) | 2:30 | 2024-08-30 | 2025-03-08 |
 | [GOLIATH](https://open.spotify.com/track/5cI5ynzXU4SsRql9dKYnmR) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/12BoH0Ap35t0UyiuSXTMQC) | 2:34 | 2025-03-21 | 2025-04-05 |
@@ -514,7 +514,7 @@
 | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/track/0M8zgwFqNr6h2yX1405Z8S) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Medicine \(feat\. Maleek Berry & LADIPOE\)](https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I) | 4:12 | 2022-11-18 | 2023-01-20 |
 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 | 2025-06-27 | 2025-08-26 |
 | [Melody](https://open.spotify.com/track/5HMk6l89LGrGxG7hnlme1y) | [ginius](https://open.spotify.com/artist/1mLnlcLJuK1VpACCwhuciw), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Her Notions Since '97](https://open.spotify.com/album/6O0LMIl1QM7YBe4UP9Ofyw) | 2:23 | 2022-08-12 | 2022-08-26 |
-| [MELODY](https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [MELODY](https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3) | 2:54 | 2025-10-24 |  |
+| [MELODY](https://open.spotify.com/track/3SxV2lTylKaXUVd68MqgSm) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [MELODY](https://open.spotify.com/album/0xnPL7EWuvYFkMCEieyJR3) | 2:54 | 2025-10-24 | 2025-11-29 |
 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 | 2024-04-05 | 2024-08-30 |
 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 | 2024-10-12 | 2025-04-07 |
 | [Mercedes](https://open.spotify.com/track/5yddpYI7Hwe7fQv2NLg7l1) | [Samba Peuzzi](https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Mercedes](https://open.spotify.com/album/3qZWv38DiTCaImDx6ylRed) | 3:22 | 2023-01-27 | 2023-03-04 |
@@ -748,6 +748,7 @@
 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 | 2024-03-15 | 2024-06-28 |
 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 | 2024-11-29 | 2025-08-26 |
 | [Soro](https://open.spotify.com/track/5bYTh2T6OCVtwnQmwWBUis) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:42 | 2024-02-13 | 2024-02-16 |
+| [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 | 2025-11-28 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2023-01-12 | 2023-09-29 |
 | [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 | 2024-11-22 | 2025-03-08 |
 | [Soundgasm](https://open.spotify.com/track/2psl5iNJCrmmm2XtS7LZqb) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:24 | 2022-02-11 | 2023-02-24 |
@@ -889,6 +890,6 @@
 | [Your Type](https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Your Type](https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k) | 2:36 | 2025-08-25 | 2025-10-10 |
 | [Zombie](https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Zombie](https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc) | 2:13 | 2024-08-29 | 2025-03-08 |
 | [Zone \(feat\. 5ive Rings\)](https://open.spotify.com/track/3gbPlNSHpu7RFlf7oAoccM) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [5ive Rings](https://open.spotify.com/artist/1rYu7GER72nKaiEcCkXNjx) | [The 6th Wave](https://open.spotify.com/album/0Jvvr1GcdsiFsrY0Hp4VqJ) | 2:41 | 2022-10-21 | 2023-01-20 |
-| [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [](https://open.spotify.com/album/null) | 2:56 | 2025-11-28 |  |
+| [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 | 2025-11-28 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

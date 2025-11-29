@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Pabst ",
-  "num_followers": 263473,
+  "num_followers": 263487,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "This is normal now",
+        "url": "https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I"
       },
       "artists": [
         {
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 189073,
+      "name": "Limbo No. 5",
       "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
     },
     {
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 169717,
-      "name": "so american",
-      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
         "name": "Heavy Is the Crown",
         "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 169717,
+      "name": "so american",
+      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -671,22 +671,18 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "The Happy Dictator (feat. Sparks)",
-        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+        "name": "Where Are You Christmas?",
+        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Sparks",
-          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 284775,
-      "name": "The Happy Dictator (feat. Sparks)",
-      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+      "duration_ms": 188545,
+      "name": "Where Are You Christmas?",
+      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -707,6 +703,26 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
+        "name": "The Happy Dictator (feat. Sparks)",
+        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
-        "name": "Where Are You Christmas?",
-        "url": "https://open.spotify.com/album/2ThNTAN9IGLdp0xuRLDy0J"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 188545,
-      "name": "Where Are You Christmas?",
-      "url": "https://open.spotify.com/track/7zqv6rEbwXksyE0tk9RCO1"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "Everybody Scream",
-        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Everybody Scream",
-      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
         "name": "Caramel",
         "url": "https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -951,18 +935,18 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -979,6 +963,22 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "Unravel",
-        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 175446,
-      "name": "Unravel",
-      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/2fDy68BuFDTa7UGVicym4Z"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
+        "name": "Unravel",
+        "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 175446,
+      "name": "Unravel",
+      "url": "https://open.spotify.com/track/43fImwroNsNnVKRVz999XF"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
         "name": "Unravelling",
         "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
+        "name": "SAVE MY SOUL",
+        "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 237370,
+      "name": "SAVE MY SOUL",
+      "url": "https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
         "name": "Beat A B!tch Up",
         "url": "https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2"
       },
@@ -1451,50 +1467,18 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "BEST OF (Volume 2)",
-        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
         }
       ],
-      "duration_ms": 226500,
-      "name": "Cold - 2025 VERSION",
-      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
-        "name": "no cell phones in rehab",
-        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 155470,
-      "name": "no cell phones in rehab",
-      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
-        "name": "SAVE MY SOUL",
-        "url": "https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 237370,
-      "name": "SAVE MY SOUL",
-      "url": "https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv"
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
-        "name": "Make It Out Alive",
-        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+        "name": "BEST OF (Volume 2)",
+        "url": "https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU"
       },
       "artists": [
         {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 209799,
-      "name": "Make It Out Alive",
-      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+      "duration_ms": 226500,
+      "name": "Cold - 2025 VERSION",
+      "url": "https://open.spotify.com/track/3iJD97o04av0fRPMmciboH"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-11-27 15:00:08",
       "album": {
+        "name": "Anthology 4",
+        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Real Love (2025 Mix)",
+      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
         "name": "Young & Dumb (feat. Simple Plan)",
         "url": "https://open.spotify.com/album/4qiHuolMaUIhdu27VJpntV"
       },
@@ -1563,6 +1563,22 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+    },
+    {
+      "added_at": "2025-11-27 15:00:08",
+      "album": {
+        "name": "no cell phones in rehab",
+        "url": "https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 155470,
+      "name": "no cell phones in rehab",
+      "url": "https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9"
     },
     {
       "added_at": "2025-11-27 15:00:08",
@@ -1631,22 +1647,6 @@
       "duration_ms": 222500,
       "name": "The End (feat. BABYMETAL) - 2025 VERSION",
       "url": "https://open.spotify.com/track/7yvUwUbPeQBtf3313SNw85"
-    },
-    {
-      "added_at": "2025-11-27 15:00:08",
-      "album": {
-        "name": "Anthology 4",
-        "url": "https://open.spotify.com/album/0L7ggz4vMdACCCnGV2lioZ"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Real Love (2025 Mix)",
-      "url": "https://open.spotify.com/track/3QA599capcsQEvh952BNYx"
     },
     {
       "added_at": "2025-11-27 15:00:08",

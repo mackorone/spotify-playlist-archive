@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,468 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,482 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 67 | [I'll Take You Home Again, Kathleen](https://open.spotify.com/track/3rfvssyMQbY28825P2sztA) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 2:57 |
 | 68 | [Tom Dooley](https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP) | [Lonnie Donegan](https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n) | [The EP Collection](https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu) | 3:20 |
 | 69 | [Love Is A Many Splendoured Thing](https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq) | [The Four Aces](https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 3:00 |
-| 70 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
-| 71 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
+| 70 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
+| 71 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
 | 72 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
 | 73 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
 | 74 | [Look At That Girl](https://open.spotify.com/track/3Dnfvd4VGayvFaAMe1YTzE) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [The Very Best of Guy Mitchell](https://open.spotify.com/album/7u2Iowg6LckE5uQyoYHzBz) | 2:53 |
 | 75 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [60's Triple set](https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7) | 2:53 |
 | 76 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
 | 77 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
-| 78 | [I Need You Now \- 2001 Remastered](https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 2:29 |
-| 79 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
-| 80 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
+| 78 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
+| 79 | [I Need You Now \- 2001 Remastered](https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Greatest Hits](https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc) | 2:29 |
+| 80 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/51kNuqPnmllwTygxcMhC7P) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Hits](https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX) | 2:20 |
 
 Snapshot ID: `AAAAAEtxqEitCBj66EiAsgRXZFAm3TaF`

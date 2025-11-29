@@ -1,18 +1,18 @@
 {
   "description": "The most calming Christmas carols.",
-  "num_followers": 28223,
+  "num_followers": 28259,
   "original_name": "Calming Carols",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANNDoIEDGpMwWci1Em9/nn/ElAWS",
+  "snapshot_id": "AAAAAEsxRiikcBtFhOTK+w6+kTXNisCb",
   "tracks": [
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
-        "name": "Franz Gruber: Silent Night (Arr. John Rutter)",
-        "url": "https://open.spotify.com/album/43mIstoTpYvztTQBzSYZOL"
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn"
       },
       "artists": [
         {
@@ -20,24 +20,44 @@
           "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
         },
         {
-          "name": "Daniel Hyde",
-          "url": "https://open.spotify.com/artist/7H6L3HVFT9SDD9TK50x21K"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Choir of King's College, Cambridge",
-          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
         },
         {
-          "name": "Britten Sinfonia",
-          "url": "https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy"
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Silent Night (Arr. John Rutter)",
-      "url": "https://open.spotify.com/track/3DXhAc8VhlYNYXrGD32k22"
+      "duration_ms": 239720,
+      "name": "Silent Night (Arr. J. Rutter)",
+      "url": "https://open.spotify.com/track/0CgLUbrTxkmrBAsog9j1J6"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "VOCES8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        }
+      ],
+      "duration_ms": 311853,
+      "name": "In the Bleak Midwinter (Arr. Gjeilo)",
+      "url": "https://open.spotify.com/track/4a0npy6TddlwGKXNQI0Ixx"
+    },
+    {
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Lully, Lulla, Lullay",
         "url": "https://open.spotify.com/album/0QiluLX0Ab01sVSNieA3Da"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/3Ph2mf5oK7oviKdAdIKCxz"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Favourite Carols from King's",
         "url": "https://open.spotify.com/album/3SBTbZQLObtqqw8Zp4LjUR"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/1PgtdNIE83A4NjTPIrhDru"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The First Noel (Arr. Gregson for Solo Cello, Choir and Strings)",
         "url": "https://open.spotify.com/album/72zGnTI0mbQc50Zh5JGfty"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/3l6U1o6ZDHE0a3nbzog6Zg"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Away in a Manger",
         "url": "https://open.spotify.com/album/4wfByvjDSosW5Uu4tuGkKQ"
@@ -157,27 +177,7 @@
       "url": "https://open.spotify.com/track/10Gq29WYwHlK1hJ6zXiaMu"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
-      "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lS5mutdPdnySUumtZoMGI"
-      },
-      "artists": [
-        {
-          "name": "Gustav Holst",
-          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
-        },
-        {
-          "name": "VOCES8",
-          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
-        }
-      ],
-      "duration_ms": 311853,
-      "name": "In the Bleak Midwinter (Arr. Gjeilo)",
-      "url": "https://open.spotify.com/track/4a0npy6TddlwGKXNQI0Ixx"
-    },
-    {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A Westminster Christmas, Vol. 2",
         "url": "https://open.spotify.com/album/1Bp7JeVu1pqQQm3pNsYEHW"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/31Yv2Go7cSNiSktwzFfjES"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Thou who wast rich beyond all splendour (Arr. Charles Herbert Kitson & Daniel Hyde)",
         "url": "https://open.spotify.com/album/5OSb7tMCV5SgSmDGTeXIXX"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/6HHhxIQoyRuugG9Ncb8d8G"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Once, as I remember...",
         "url": "https://open.spotify.com/album/4B4pfO2MIpez0ypBbhWACH"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/0C5CggxscNiGGV1MDTPppB"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols with The King's Singers",
         "url": "https://open.spotify.com/album/4a7m1G7BReF2HwxKIPD0Xk"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/1lwMjJtAZzVbajPlYvCZyJ"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A King's Christmas",
         "url": "https://open.spotify.com/album/3RaDEXtyQcb8W0UFhqrx5c"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/1swcjfk363ehtLlrBlocnO"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Lauridsen: O Magnum Mysterium / Lux Aeterna / Madrigali / Les Chansons Des Roses",
         "url": "https://open.spotify.com/album/2KpDg5XbaWzQWepVfDpefT"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/0S0YKiEdR9cT9pYgEaTevF"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "What Sweeter Music: Songs and Carols for Christmas",
         "url": "https://open.spotify.com/album/1TsZm9UbZaVYA9x24qsKuQ"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1zPv5KR8byLsf3756onjPh"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Carols Of The Nativity",
         "url": "https://open.spotify.com/album/2BMURLQIQgmhR9XPZ1BE4Q"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/1cw2xmDu2SdEEHyYi7aZKG"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Bryn Terfel: Simple Gifts",
         "url": "https://open.spotify.com/album/17idcZuuEzf6Mr4XdJGndL"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/3bubQt12IIShAS0yvZ9Gk5"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A Babe is Born: Music for Christmas",
         "url": "https://open.spotify.com/album/1iwD2WvNs5XsU3kDDLGcAs"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/7oT4WvDG5yfylftNWu7TiP"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The John Rutter Christmas Album",
         "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/2bqHn6lv8rnYCGamGumRW3"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Carols from Queen's",
         "url": "https://open.spotify.com/album/3tjzMxDobWALsXVD812u27"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/2tsN3FktJ3oj78HYWhd9uU"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Chilcott: The Sleeping Child",
         "url": "https://open.spotify.com/album/2Ul5o881ZwkFPll6XkNMYc"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/5Yy7htu9WwJbB3yfRXNt1q"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Her kjem me, dine arme smaa (Arr. Idunn Vindspoll)",
         "url": "https://open.spotify.com/album/5gfFGwmTAPUzAtE79E1khP"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/3lYKj2V7CveMz2Is2nGEXy"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Choral Music - Paulus, S. / Britten, B. / Mcdowall, C. / Howells, H. / Busto, J. / Willan, H. / Belmont, J. (Spotless Rose)",
         "url": "https://open.spotify.com/album/54CBoLZazdcA5KOSVcrWr7"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/04jCDghWqnkhcoURY81NlG"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "J. S. Bach: How shall I fitly meet thee?",
         "url": "https://open.spotify.com/album/2LRHMoRh2nnJKyEwmaAsLZ"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/77x84GIRkAYlY7NO1zFZma"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Otto Goldschmidt: A tender shoot",
         "url": "https://open.spotify.com/album/68iNytjCax2hpfWaYQXWes"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/488drfCa1JpLCWZkxX0ura"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The John Tavener Collection",
         "url": "https://open.spotify.com/album/2nYYQPIdIEAFrnxiMeck17"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/5iYpHuC2kgavYPyAEu662D"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Relaxing Christmas",
         "url": "https://open.spotify.com/album/5cxYpLOSYnLAiHyrPltMZE"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/1fIb8o9rPVZVOdvshVlKMC"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "What Sweeter Music: Songs and Carols for Christmas",
         "url": "https://open.spotify.com/album/1TsZm9UbZaVYA9x24qsKuQ"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/1gTYtzmYo72HNVlOvbkUIw"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
         "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/1VvBzbkNq1DcqhXR4XLEUJ"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/3yJmWo67x2ycZzdUwdpoUm"
@@ -725,10 +725,10 @@
       "url": "https://open.spotify.com/track/7cEKAOiCiDWXhbUbetAEem"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
-        "name": "Cambridge Singers Christmas Album",
-        "url": "https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb"
+        "name": "The Holly and The Ivy (Arr. for Choir by Ola Gjeilo)",
+        "url": "https://open.spotify.com/album/1xYaLLZhcp74i3rlZHAw1F"
       },
       "artists": [
         {
@@ -736,20 +736,20 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+          "name": "Meridian",
+          "url": "https://open.spotify.com/artist/3VD753sbevlkiZ0m7lU3Za"
         },
         {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          "name": "Irene Messoloras",
+          "url": "https://open.spotify.com/artist/7bLs9uL2MjQUMXwSqW5btL"
         }
       ],
-      "duration_ms": 178133,
-      "name": "The Holly & the Ivy (Arr. H. Walford Davies)",
-      "url": "https://open.spotify.com/track/57lKCJHxa9IKtlzsaEFKVQ"
+      "duration_ms": 223226,
+      "name": "The Holly and The Ivy (Arr. for Choir by Ola Gjeilo)",
+      "url": "https://open.spotify.com/track/2DJWqvuEkcW3EUxF37SGwj"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Christmas Story, Christmas: V. O magnum mysterium",
         "url": "https://open.spotify.com/album/1LKgpYJdyrkSg98TfVGGLa"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/0CNnVfbF16AuwTyGbH4Bga"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The John Rutter Christmas Album",
         "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
@@ -801,7 +801,7 @@
       "url": "https://open.spotify.com/track/3GhKDhSE9G5rDfy1dLUZjW"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "101 Christmas",
         "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
@@ -833,7 +833,31 @@
       "url": "https://open.spotify.com/track/1L3npTsXSbChXmkIclQQZ2"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
+      "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7e0m9lz1AqHRAhDiJHQm8x"
+      },
+      "artists": [
+        {
+          "name": "Mykola Leontovych",
+          "url": "https://open.spotify.com/artist/7vdH45G4aZD0tIf3A74R7n"
+        },
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/60bVqEfzSfsUPTiuqdmLCR"
+    },
+    {
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Cambridge Singers Christmas Album",
         "url": "https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/6YmFxWKaXrrLKq7AS1AETu"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/6VMtaMm3dHTt6NVUvLKNpC"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Andrew Carter: A Maiden Most Gentle",
         "url": "https://open.spotify.com/album/06n5dWfjbyCVwWKqdqEf5o"
@@ -905,7 +929,7 @@
       "url": "https://open.spotify.com/track/3l2z1XExV3pkQZqNfJtfi2"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas At King's",
         "url": "https://open.spotify.com/album/4hjLcbcLZVJN7twx4sMaYe"
@@ -929,7 +953,7 @@
       "url": "https://open.spotify.com/track/1zryOtzpix1qwxRgraBHUB"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Karl Jenkins: Stella Natalis",
         "url": "https://open.spotify.com/album/0PVHSzFASVJFbVZ4mqlu1u"
@@ -949,7 +973,7 @@
       "url": "https://open.spotify.com/track/3hU2pSOsUBtUezr6xb1NGd"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Mystery of Christmas",
         "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
@@ -973,7 +997,7 @@
       "url": "https://open.spotify.com/track/2HxO75cQo1QyBf3rI5dz6b"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Mother and Child",
         "url": "https://open.spotify.com/album/4Vr0SCzTyAaoaUUCnXjQ5z"
@@ -997,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4b4HmjKdUMyPJAJIW5F4vk"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "All is calm, all is bright: Christmas Favourites",
         "url": "https://open.spotify.com/album/1iZ1KxdIxMKFfMTQubz4tg"
@@ -1021,7 +1045,7 @@
       "url": "https://open.spotify.com/track/6AD61H8CvyRXHA6Q7VmNn3"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Carols Album",
         "url": "https://open.spotify.com/album/3hO4MXCVnMuu85jGOnx6IH"
@@ -1045,7 +1069,7 @@
       "url": "https://open.spotify.com/track/2NmRUcPkeOraxzVf8E3sRV"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
         "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
@@ -1069,7 +1093,7 @@
       "url": "https://open.spotify.com/track/4PSJlhR5BOClWSsvEELVpp"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Chilcott: The Rose in the Middle of Winter",
         "url": "https://open.spotify.com/album/3u5Fczt8EiHVWuPezi33fO"
@@ -1097,7 +1121,7 @@
       "url": "https://open.spotify.com/track/1QRUb1j32Fbdd6niEOHp4v"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Tavener, J.: Ex Maria Virgine (Clare College Choir)",
         "url": "https://open.spotify.com/album/1fhPxkDG0KxuxiSz9ptPwm"
@@ -1125,7 +1149,7 @@
       "url": "https://open.spotify.com/track/72dNdGMJKWQ3dWv0xJhUxl"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A Christmas Offering (Christmas works by Kristina Arakelyan)",
         "url": "https://open.spotify.com/album/1wWf9iYLiXsa1LnmyTLe2u"
@@ -1157,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2WunbfM6dDGBNaCX5gUd3g"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A Winter's Light: A Christmas Collection",
         "url": "https://open.spotify.com/album/1AzqBGmKqvkaBpZ6raPpjc"
@@ -1181,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3bwKcXjfeAB5CX6vbUBuJG"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Work of Christmas",
         "url": "https://open.spotify.com/album/3u3cZHZI7COv1IrUFolmYv"
@@ -1205,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0wlq4qRLZ7AwAlLBSCXrDF"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Mystery of Christmas",
         "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
@@ -1229,7 +1253,31 @@
       "url": "https://open.spotify.com/track/3n4ja4eGntFYh9tfHOWnCW"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
+      "album": {
+        "name": "Nowel: Advent & Beyond",
+        "url": "https://open.spotify.com/album/13EtD8v3jywSHu1o8qpZ0e"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Ensemble Pro Victoria",
+          "url": "https://open.spotify.com/artist/0ac06ScSSBl5mezP4VqPxk"
+        },
+        {
+          "name": "Toby Ward",
+          "url": "https://open.spotify.com/artist/5IrFpK2JE3JYjTZgKQPdWv"
+        }
+      ],
+      "duration_ms": 204071,
+      "name": "Lulla, Lullaby",
+      "url": "https://open.spotify.com/track/6ye1gJDZkSmpP9X4MNkXZ9"
+    },
+    {
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A Danish Christmas",
         "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
@@ -1253,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2aPE4X1bjj89wWLReWyffw"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "On Yoolis Night: Medieval Carols & Motets",
         "url": "https://open.spotify.com/album/04EcpG3qd3bhmugVCsUvPg"
@@ -1273,7 +1321,7 @@
       "url": "https://open.spotify.com/track/04VDc3NcKv3jwmUbM1xb0D"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Dawn of Grace: Music for Christmas",
         "url": "https://open.spotify.com/album/17E40HFQFCxCHHMmBP4sfN"
@@ -1297,7 +1345,7 @@
       "url": "https://open.spotify.com/track/5Oyq4aSXnhKfFMPX1IrcdU"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "101 Christmas",
         "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
@@ -1321,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5m8UGMYduXJXZwPQRHf5qT"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Watkins: Carol Eliseus",
         "url": "https://open.spotify.com/album/13T9ea5DyktonLeZ632Hng"
@@ -1345,7 +1393,7 @@
       "url": "https://open.spotify.com/track/7x4ItZ816T9PIwafbKCp8c"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Card Carols",
         "url": "https://open.spotify.com/album/3CfOItbjlaChQCvfY9ihff"
@@ -1381,7 +1429,7 @@
       "url": "https://open.spotify.com/track/5rPBZcUodq8nAd9UcqF8Ok"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Mystery of Christmas",
         "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
@@ -1401,7 +1449,35 @@
       "url": "https://open.spotify.com/track/26gykO1LdAsBHUK3dlYoOM"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/3JXfmfjRaJ6buf8iYmUuW1"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Canterbury Cathedral Choristers",
+          "url": "https://open.spotify.com/artist/61bvefHdBXOUgFLpVOkqsU"
+        },
+        {
+          "name": "David Newsholme",
+          "url": "https://open.spotify.com/artist/3SczYzTbgZ1nxRwQc1MQag"
+        },
+        {
+          "name": "David Rees-Williams",
+          "url": "https://open.spotify.com/artist/5bTBcdO62YXIAmkNj6UU2W"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Silent Night (Arr. David Rees-Williams)",
+      "url": "https://open.spotify.com/track/3UQpNARL72T8dMn76X6y1l"
+    },
+    {
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
         "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
@@ -1425,7 +1501,7 @@
       "url": "https://open.spotify.com/track/1DQZuhz3gJk9rLdcnPEGJH"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "101 Christmas",
         "url": "https://open.spotify.com/album/4390M01bRaK1UgdXmvqbq4"
@@ -1449,7 +1525,7 @@
       "url": "https://open.spotify.com/track/0lFj048MzSEUcrziub3sxm"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols From Tewkesbury Abbey",
         "url": "https://open.spotify.com/album/31uwWoSYGLBuRh9kWdmn4K"
@@ -1473,7 +1549,7 @@
       "url": "https://open.spotify.com/track/3gHRrTol1xu1WhFEXB1QG1"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols",
         "url": "https://open.spotify.com/album/1dUCyoZLj0ivpkIQ4oWFvN"
@@ -1505,7 +1581,7 @@
       "url": "https://open.spotify.com/track/7rre9AWUeHvP0aFwCXquL5"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "A Danish Christmas",
         "url": "https://open.spotify.com/album/3qsU43BWEwZbGrYOsJVU0m"
@@ -1529,7 +1605,7 @@
       "url": "https://open.spotify.com/track/5W0gD1zaO5IOxCzZZm5PnE"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "\"Northern Lights\", Choral Works by Ola Gjeilo",
         "url": "https://open.spotify.com/album/3s342kUUi8ExL4ZbjVVQWE"
@@ -1553,7 +1629,7 @@
       "url": "https://open.spotify.com/track/4NJpcjY8ICNNIiuzzfz4Me"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
         "url": "https://open.spotify.com/album/3hyofvZetV71zZT5Yg4C3g"
@@ -1577,7 +1653,7 @@
       "url": "https://open.spotify.com/track/68PPhaGW7YDyrUrPAjdE4B"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas With The Academy",
         "url": "https://open.spotify.com/album/6iTdvF2QKKP9ZQtPuhwl0e"
@@ -1601,7 +1677,7 @@
       "url": "https://open.spotify.com/track/7mexI6xAP6xwjpa35XxpSk"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The John Rutter Christmas Album",
         "url": "https://open.spotify.com/album/3RfvXpfCMVhoXWOXOCk7jt"
@@ -1629,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1V7VEgAjZag75ZXMKZ7BIz"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols",
         "url": "https://open.spotify.com/album/1dUCyoZLj0ivpkIQ4oWFvN"
@@ -1653,7 +1729,7 @@
       "url": "https://open.spotify.com/track/2dE45LpxTM8GDGnz0bW6JR"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "In Winter's House",
         "url": "https://open.spotify.com/album/1gG4RymheSIQSAAunmMmjh"
@@ -1677,7 +1753,31 @@
       "url": "https://open.spotify.com/track/4v3dVSzguIfVsRlDddeZYZ"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
+      "album": {
+        "name": "Classical Christmas",
+        "url": "https://open.spotify.com/album/2cHASJonqVZVgSpgAliOQG"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Laurence Equilbey",
+          "url": "https://open.spotify.com/artist/3UzPUByZ2mlcfGjh24HtUS"
+        },
+        {
+          "name": "Accentus",
+          "url": "https://open.spotify.com/artist/38eCqknV7qzJIS2khX98Fw"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Stille Nacht! Heilige Nacht!",
+      "url": "https://open.spotify.com/track/4s6J8tfsB5oCRLVLF42oGh"
+    },
+    {
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Fantasy",
         "url": "https://open.spotify.com/album/3k3md2BdrQZ28dgO2t0IPa"
@@ -1701,7 +1801,7 @@
       "url": "https://open.spotify.com/track/6d8Bg0i5aubfegTSTrNhwI"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Once, as I remember...",
         "url": "https://open.spotify.com/album/4B4pfO2MIpez0ypBbhWACH"
@@ -1725,7 +1825,7 @@
       "url": "https://open.spotify.com/track/6T9Ly7NsWWesrMA0xYlrMm"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Mystery of Christmas",
         "url": "https://open.spotify.com/album/7f0bnn1vYunXWeA3y3XQpr"
@@ -1749,7 +1849,7 @@
       "url": "https://open.spotify.com/track/3iWzlc7GzsCbcJSyKzyksO"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Whitbourn: Carolae \u2013 Music for Christmas",
         "url": "https://open.spotify.com/album/5FQaP3lkpARGMlSZ3oRuPD"
@@ -1777,7 +1877,7 @@
       "url": "https://open.spotify.com/track/5l8F71WY0kXRwBvx8J9ysa"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Candlelight Carols: Music for Chorus & Harp",
         "url": "https://open.spotify.com/album/6wPjg4zr33MLVjwvqwDDnv"
@@ -1805,7 +1905,7 @@
       "url": "https://open.spotify.com/track/2bRYNOovUo8SH62mRUFexQ"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
         "url": "https://open.spotify.com/album/3hyofvZetV71zZT5Yg4C3g"
@@ -1829,7 +1929,7 @@
       "url": "https://open.spotify.com/track/08B9bWEtqirNe72qm6xQN9"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Sleep, Holy Babe - A Collection of Christmas Lullabies",
         "url": "https://open.spotify.com/album/3hyofvZetV71zZT5Yg4C3g"
@@ -1849,7 +1949,7 @@
       "url": "https://open.spotify.com/track/4KJJodkPh1isOq2nZGiNAy"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "Christmas Carols",
         "url": "https://open.spotify.com/album/1dUCyoZLj0ivpkIQ4oWFvN"
@@ -1873,7 +1973,7 @@
       "url": "https://open.spotify.com/track/0KkgyIZxBS55G5LSFY7bpu"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Wonder of Christmas",
         "url": "https://open.spotify.com/album/4haacqQmvY9rUIcb5HyC4J"
@@ -1897,7 +1997,7 @@
       "url": "https://open.spotify.com/track/4I00sMOhbckH6dKthGWUGN"
     },
     {
-      "added_at": "2025-11-03 14:16:54",
+      "added_at": "2025-11-28 17:22:15",
       "album": {
         "name": "The Wonder of Christmas",
         "url": "https://open.spotify.com/album/4haacqQmvY9rUIcb5HyC4J"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 20, 21 y 22.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,322 likes - 73 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,323 likes - 73 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 67 | [MC Dinero](https://open.spotify.com/track/5vDKAa8p9ect2w1D0jVLDa) | [ANTOPIKO3](https://open.spotify.com/artist/7pIvpBpGKSiazpGDqeuj3a) | [Enkryptada](https://open.spotify.com/album/7CT5a6r4GHKRK3UKb62G1p) | 1:19 |
 | 68 | [La Colisión](https://open.spotify.com/track/5mKKcE9nZzLGDsi7hw9ZbN) | [dvd](https://open.spotify.com/artist/2zLbu1txxbXVkqql76GCGR) | [La Colisión](https://open.spotify.com/album/0mGWewNlWnhAeoLGNE0QBf) | 2:48 |
 | 69 | [Sosiego enla voz](https://open.spotify.com/track/30uKVQ8hm5lPKqn2hou9sJ) | [Agraciada](https://open.spotify.com/artist/0bXDryOL53cE5905IBMDOQ) | [Sosiego enla voz](https://open.spotify.com/album/6Rg95q6m55BBgYL8ULrIf8) | 2:03 |
-| 70 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
-| 71 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
+| 70 | [una casualidad](https://open.spotify.com/track/75t6WipUSPWFFj9qY8wfpa) | [Daniel Andrés](https://open.spotify.com/artist/3osQVuvWyX0Cxs0XTrB96q), [Jc Aviles](https://open.spotify.com/artist/5tbIXWoBJxflr4ng65iPiT) | [una casualidad](https://open.spotify.com/album/36l46wDSzUroaT9no4i0Ik) | 3:56 |
+| 71 | [Demo](https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Demo](https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ) | 3:06 |
 | 72 | [fuga](https://open.spotify.com/track/0LKqLPLiE8ZdSy5k3IJW33) | [innexen](https://open.spotify.com/artist/4ifKGift7hUW8xG85qZjwK) | [hot steel: round 3](https://open.spotify.com/album/1K2ox3o0sOrs4SIzyKQ3XS) | 5:49 |
 | 73 | [Ay de Mí](https://open.spotify.com/track/65bu8UhDJamcrDNaqOFri1) | [Zarigüeya](https://open.spotify.com/artist/0ez7ZBFnBaAeiKeimAyZtl) | [Verso Marsupial](https://open.spotify.com/album/7f4kK0Lk82lhEC6bp02Mmj) | 2:47 |
 

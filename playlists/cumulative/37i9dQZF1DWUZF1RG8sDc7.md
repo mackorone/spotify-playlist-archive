@@ -4,7 +4,7 @@
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-188 songs - 14 hr 33 min
+189 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Paro de Mi Corazon](https://open.spotify.com/track/1yFwCLlghy1oVAjVWs2plD) | [Rudigo Vallenato](https://open.spotify.com/artist/2ys5IS6DgjO7xSMAyPhl2Q) | [40 Vallenatos Poderosos](https://open.spotify.com/album/1Su3Xen1N683ZWf7dNVYPZ) | 4:54 | 2024-03-28 |  |
 | [Perdóname la Vida](https://open.spotify.com/track/2Z4mhXRWi1ef8eqW8i4hjH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/4yKNXDW1ZOpkFIapNpfyHR) | 4:52 | 2024-03-28 | 2025-09-14 |
 | [que bonito](https://open.spotify.com/track/1u9DL4eScCcHcW77QjfWIv) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [binomio de oro](https://open.spotify.com/album/6WXG4L9q2al6vPSJxc2VF8) | 4:54 | 2024-03-28 | 2025-08-10 |
+| [Que Me Perdone](https://open.spotify.com/track/5KyNTRKevJLoF2qy0QyLzE) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Victor "Rey" Reyes](https://open.spotify.com/artist/2VuafUDzCmCB9a6H3h7OEu) | [La Combinación Vallenata, Vol\. 2](https://open.spotify.com/album/5z2MpAXOEjwYJBKhpUc55k) | 5:06 | 2024-03-28 |  |
 | [Que Me Perdone](https://open.spotify.com/track/0W9BmcGUqOAjxwmNYq3Orp) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [Víctor Reyes](https://open.spotify.com/artist/2SAOJkscpt6lG9tjWdrauo) | [La Combinacion Vallenata Vol\. 2](https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl) | 5:06 | 2022-12-16 | 2024-04-19 |
 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 | 2024-03-28 | 2025-04-24 |
 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 | 2022-12-16 | 2024-04-19 |
@@ -191,7 +192,7 @@
 | [Vives En Mi](https://open.spotify.com/track/4jOsVBZsUDaAvguaywRL9J) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Con Altura](https://open.spotify.com/album/5jejUhn3xyKXuk4jCoqycP) | 4:44 | 2024-03-28 |  |
 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 | 2022-12-16 |  |
 | [Vivo por Ti](https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Son los Gigantes](https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu) | 4:39 | 2024-03-28 | 2025-02-20 |
-| [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 | 2024-03-28 |  |
+| [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 | 2024-03-28 | 2025-11-29 |
 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 | 2022-12-16 | 2024-04-19 |
 | [Voy a Enloquecer](https://open.spotify.com/track/5EPiuK5gNJIUrljQo8ylnd) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 4:39 | 2024-03-28 | 2025-09-13 |
 | [Voy a Olvidarte](https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Volando Alto](https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303) | 5:12 | 2024-03-28 |  |

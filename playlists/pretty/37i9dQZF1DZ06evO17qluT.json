@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 94604,
+  "num_followers": 94670,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABhjlNopUIH4ZeYeux01E0p",
+  "snapshot_id": "aSeUgAAAAADJjjwOhcuXB63nfHyq7FKQ",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICARUS",
+        "url": "https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Gigantes",
+          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        }
+      ],
+      "duration_ms": 205690,
+      "name": "Continua\u00e7\u00e3o de um sonho",
+      "url": "https://open.spotify.com/track/4fpq2JgpKm125EvXsoV8sX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 203520,
       "name": "N\u00e3o Me Abandona",
       "url": "https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ICARUS",
-        "url": "https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Gigantes",
-          "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        }
-      ],
-      "duration_ms": 205690,
-      "name": "Continua\u00e7\u00e3o de um sonho",
-      "url": "https://open.spotify.com/track/4fpq2JgpKm125EvXsoV8sX"
     },
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00f3gos",
         "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 194478,
       "name": "Amores, V\u00edcios e Obsess\u00f5es",
       "url": "https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
     },
     {
       "added_at": null,
@@ -903,46 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um",
-        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 225877,
-      "name": "O Que Quiser Fazer",
-      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        }
-      ],
-      "duration_ms": 186806,
-      "name": "O Pr\u00f3ximo Nascer do Sol",
-      "url": "https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gigantes",
         "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
       },
@@ -967,6 +927,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        }
+      ],
+      "duration_ms": 186806,
+      "name": "O Pr\u00f3ximo Nascer do Sol",
+      "url": "https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um",
+        "url": "https://open.spotify.com/album/0rcx8BIJykJsZHhUwpcAN0"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 225877,
+      "name": "O Que Quiser Fazer",
+      "url": "https://open.spotify.com/track/7Gz1ia9WBuR38wHPT2G9yj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O L\u00edder em Movimento",
         "url": "https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq"
       },
@@ -983,6 +983,54 @@
       "duration_ms": 217044,
       "name": "Pessoas",
       "url": "https://open.spotify.com/track/5Iqv9gAh4aAyLFi9vUDLi0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct"
+        }
+      ],
+      "duration_ms": 309618,
+      "name": "Quadros",
+      "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
     },
     {
       "added_at": null,
@@ -1027,54 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct"
-        }
-      ],
-      "duration_ms": 309618,
-      "name": "Quadros",
-      "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cidade do Pecado",
         "url": "https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx"
       },
@@ -1095,26 +1095,6 @@
       "duration_ms": 217647,
       "name": "Para\u00edso Que Me Cerca",
       "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 249490,
-      "name": "Castelos & Ru\u00ednas",
-      "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
     },
     {
       "added_at": null,
@@ -1156,13 +1136,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
         }
       ],
-      "duration_ms": 195324,
-      "name": "Sigo na Sombra",
-      "url": "https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5"
+      "duration_ms": 249490,
+      "name": "Castelos & Ru\u00ednas",
+      "url": "https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5"
     },
     {
       "added_at": null,
@@ -1183,6 +1163,26 @@
       "duration_ms": 251668,
       "name": "Julius",
       "url": "https://open.spotify.com/track/3BYG6GNJypc1bIOxSkorDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 195324,
+      "name": "Sigo na Sombra",
+      "url": "https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5"
     }
   ],
   "unique_name": "This Is BK",

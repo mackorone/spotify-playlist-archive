@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 36961,
+  "num_followers": 36962,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAQeKc0T3BVR42nxAq/uDhB",
+  "snapshot_id": "aSeUgAAAAAAuIUEF23sOfCmQDkS43A2v",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Over Everything (Live In Las Vegas)",
+        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 236247,
+      "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -687,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Over Everything (Live In Las Vegas)",
-        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 236247,
-      "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0vtGFiSSmdHEnAb2faXyzC"
       },
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -747,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+        "name": "Jesus Over Everything (Live In Las Vegas)",
+        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
       },
       "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 333247,
-      "name": "I Will Follow",
-      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
+      "duration_ms": 306159,
+      "name": "Blessings on Blessings (Another Thing) (with Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM"
     },
     {
       "added_at": null,
@@ -791,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Over Everything (Live In Las Vegas)",
-        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
       },
       "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
         {
           "name": "Tasha Cobbs Leonard",
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 306159,
-      "name": "Blessings on Blessings (Another Thing) (with Tasha Cobbs Leonard) - Live",
-      "url": "https://open.spotify.com/track/67JYk0HjCsGhrY2rhwiYZM"
+      "duration_ms": 333247,
+      "name": "I Will Follow",
+      "url": "https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 552401,
       "name": "Great I Am (feat. Tasha Cobbs Leonard) - Live",
       "url": "https://open.spotify.com/track/5MlBcBP7ARqZI4dYNzcZMa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,

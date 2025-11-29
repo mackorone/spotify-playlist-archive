@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Leon Vynehall",
-  "num_followers": 39163,
+  "num_followers": 39172,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
-        "name": "viscus (feat. FKA twigs)",
-        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 220534,
-      "name": "viscus (feat. FKA twigs)",
-      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
         "name": "Keep Me Satisfied",
         "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
+        "name": "viscus (feat. FKA twigs)",
+        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 220534,
+      "name": "viscus (feat. FKA twigs)",
+      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
         "name": "Turn Up The Love",
         "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 186728,
       "name": "Turn Up The Love",
       "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "Chewing The Fat (Deluxe)",
+        "url": "https://open.spotify.com/album/3trlSAdPTDzZl6nAzzgo5A"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183496,
+      "name": "Love Will Make You Do Strange Things",
+      "url": "https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
       },
@@ -815,6 +831,22 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 218179,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "Seasoning",
         "url": "https://open.spotify.com/album/4oGm7MGGkXCtWH7H2phRfI"
       },
@@ -831,22 +863,6 @@
       "duration_ms": 203869,
       "name": "Seasoning (feat. 2b.Frank)",
       "url": "https://open.spotify.com/track/0kIim0efkAEH8y0AUctVDt"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 218179,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -907,22 +923,6 @@
       "duration_ms": 211653,
       "name": "GIRL I WANT YOU",
       "url": "https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
-        "name": "Chewing The Fat (Deluxe)",
-        "url": "https://open.spotify.com/album/3trlSAdPTDzZl6nAzzgo5A"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183496,
-      "name": "Love Will Make You Do Strange Things",
-      "url": "https://open.spotify.com/track/4SzPqEp7vBRRacbcrfCbCj"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "Everlight",
         "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 249553,
       "name": "High & Low",
       "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 175748,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl"
     },
     {
       "added_at": "2025-11-27 15:10:07",

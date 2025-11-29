@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10826,
+  "num_followers": 10840,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAC0XDk4bI9V3EzIAYytTYPN",
+  "snapshot_id": "aSeUgAAAAAA9k6lGx+QlfmfKmvJ+y+qA",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 275198,
+      "name": "Save Me From You",
+      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 275198,
-      "name": "Save Me From You",
-      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Purple (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 237387,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
         "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 230782,
       "name": "I Don't Know How to Love Him",
       "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 237387,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
     },
     {
       "added_at": null,
@@ -691,22 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
       "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
       "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -959,34 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together (Soundtrack from Year in Search)",
-        "url": "https://open.spotify.com/album/1lBWCio6Lq0FcZTkyV7GWy"
+        "name": "Inspirational",
+        "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
       },
       "artists": [
         {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+          "name": "Alison Jiear",
+          "url": "https://open.spotify.com/artist/7JpWm6GJgOca4w9WejYES8"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Chicago Children's Choir",
-          "url": "https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg"
-        },
-        {
-          "name": "Matt Jones (Re-Collective Orchestra)",
-          "url": "https://open.spotify.com/artist/5aIudIa5jdxKBDLH1qVPWC"
         }
       ],
-      "duration_ms": 192873,
-      "name": "Together (Soundtrack from Year in Search)",
-      "url": "https://open.spotify.com/track/4P3YIQ8etgONpiS1DIpFat"
+      "duration_ms": 360527,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/3oYfGUdhyhlHRrb29EVdrA"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 214032,
       "name": "Brainwaves",
       "url": "https://open.spotify.com/track/5NT8TpORnAW6Cl3QiTfOKr"
@@ -3384,7 +3384,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 202285,
       "name": "Brass Danger",
       "url": "https://open.spotify.com/track/7mvHuyhA2Ts2ZEdw6aKEdp"
@@ -5550,7 +5550,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 144535,
       "name": "DABADABADABADABA",
       "url": "https://open.spotify.com/track/3VxkYtmVCInFfhkbsaMg0B"
@@ -6522,7 +6522,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 218482,
       "name": "Dingus",
       "url": "https://open.spotify.com/track/4xWXrhg0Vwc29lbeyHZsYt"
@@ -6746,6 +6746,24 @@
       "duration_ms": 150857,
       "name": "DJJJJJJJJJ",
       "url": "https://open.spotify.com/track/5aJnl3PVYb1svAjOzSqQHS"
+    },
+    {
+      "album": {
+        "name": "DMT",
+        "url": "https://open.spotify.com/album/1JTrJ6e7x4Uw1QuCBAa1U8"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "DMT",
+      "url": "https://open.spotify.com/track/7hWzKjcvsPIYORcrQ3zIia"
     },
     {
       "album": {
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 195200,
       "name": "Emperors",
       "url": "https://open.spotify.com/track/4SgXFVxpHpWUTYkF0IHDFd"
@@ -11364,6 +11382,24 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
+    },
+    {
+      "album": {
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/54JOZGnbDW4l1P1i2UlMju"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
     },
     {
       "album": {
@@ -18369,6 +18405,32 @@
     },
     {
       "album": {
+        "name": "Raise the Dead",
+        "url": "https://open.spotify.com/album/5oqUWkWtQXdA56RSUC5g0Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Taylor Barber",
+          "url": "https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Raise the Dead",
+      "url": "https://open.spotify.com/track/7wij83rkAGXUP7Dc7MQihR"
+    },
+    {
+      "album": {
         "name": "RATS",
         "url": "https://open.spotify.com/album/05ICsCw7Q4bjHsxhekDb3V"
       },
@@ -19304,6 +19366,32 @@
       "duration_ms": 133150,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2EfDJpX1h3fB2MLc2Uos4k"
+    },
+    {
+      "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "JiLLi",
+          "url": "https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235285,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz"
     },
     {
       "album": {
@@ -20562,7 +20650,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 204800,
       "name": "SHOCKWAVE",
       "url": "https://open.spotify.com/track/5oVAQRdLfOpnDnfF9CIKqj"

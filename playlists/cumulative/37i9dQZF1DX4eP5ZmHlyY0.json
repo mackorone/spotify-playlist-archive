@@ -11159,6 +11159,24 @@
     },
     {
       "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ"
+      },
+      "artists": [
+        {
+          "name": "JUNGWOO",
+          "url": "https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5"
+    },
+    {
+      "album": {
         "name": "Sugar Blood Kiss",
         "url": "https://open.spotify.com/album/1Yom3QQprg3A5Ui2sT6kmB"
       },

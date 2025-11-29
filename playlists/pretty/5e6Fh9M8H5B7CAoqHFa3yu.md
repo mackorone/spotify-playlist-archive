@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,674 songs - 4 day 5 hr 58 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,677 songs - 4 day 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1682,5 +1682,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1672 | [Zeno Dino Spadaccino](https://open.spotify.com/track/2FVj1fRBJ53SSJZPGHOOdJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Zeno Dino Spadaccino](https://open.spotify.com/album/6stjLmCpYUc0JU39BEpOdV) | 2:09 |
 | 1673 | [Montana](https://open.spotify.com/track/6uhjgTj3Pm10Y1LxU9iCWg) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 2:26 |
 | 1674 | [Art School Dropout](https://open.spotify.com/track/4GOnSEpWwueDwVHDhYzGpN) | [BlessJerz](https://open.spotify.com/artist/4Pony5OsF8zpETNbNqCbLD) | [Montana](https://open.spotify.com/album/0Jzh1BajLYz2xWehUZlvxo) | 1:54 |
+| 1675 | [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 |
+| 1676 | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/track/5OJLmwa30Cnz756KKfGz01) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/album/1yZszTyGMJLly1ulxpS8Wp) | 2:52 |
+| 1677 | [WONDERING](https://open.spotify.com/track/2zR1Gl1WnrAxRfUP5ECHVX) | [ELIYAR](https://open.spotify.com/artist/5WxWBGx3GAQhm6PaZZsuUD) | [WONDERING](https://open.spotify.com/album/4VnGSzzxH1ZyuBLWCsD35p) | 2:40 |
 
-Snapshot ID: `AAAHbj6r6Ypnnuzm64Lxj4EZWW0mrpGd`
+Snapshot ID: `AAAHcX4MBXAFl45FuP4KVByT7d9khWqY`

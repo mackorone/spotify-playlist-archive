@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain](/playlists/plain/37i9dQZF1DX0bUGQdz5BJG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0bUGQdz5BJG)
 
-### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
+### [Coming Up Country](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
 > Your ears on the ground in Music City\. Cover: Cooper Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,252 likes - 200 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,310 likes - 200 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Where The Wild Things Are](https://open.spotify.com/track/5quoZRe3UBgQSLS31dD24r) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [Where The Wild Things Are](https://open.spotify.com/album/7KJoH64n6jpy94v6zUyJXr) | 4:30 |
 | 200 | [Ole Virginia](https://open.spotify.com/track/0JD3n5DxGyzfnLFiYW5APx) | [The Jack Wharff Band](https://open.spotify.com/artist/7Hw6prEoT6M58ChR8A1Rlz) | [Ole Virginia](https://open.spotify.com/album/1MqDJDfRISRaUgsCxz3ydK) | 2:16 |
 
-Snapshot ID: `AAAAAGbh7u34vwXqTmLuma7k05I/mLSJ`
+Snapshot ID: `AAAAAIsQgqRn2D9yO0P/DLt8g+k0Bmb3`

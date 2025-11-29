@@ -4,7 +4,7 @@
 
 > Latrelle e Nerissima in cover della playlist con il futuro del rap italiano 📈
 
-2,148 songs - 3 day 18 hr 59 min
+2,148 songs - 3 day 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [200%](https://open.spotify.com/track/4uHe0ruDjF9fLfhmwLfNLf) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM) | [200%](https://open.spotify.com/album/3OnCEvXg7YvEfzc7bI3KEF) | 2:00 | 2023-03-30 | 2023-04-07 |
 | [2025 Baby](https://open.spotify.com/track/2tJ3KEJrXWM1g2hnBaIBu5) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [2025 Baby](https://open.spotify.com/album/3cZ7BoGN4z1R7AtPuhq7iN) | 3:03 | 2025-03-20 | 2025-04-18 |
 | [20PAIA / FANCULO](https://open.spotify.com/track/2SaTKzZRfvXOjHjX52dHos) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/67SfuiDNcf4E76QmAv5gVx) | 2:25 | 2025-05-15 | 2025-09-13 |
-| [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 4:42 | 2025-11-27 |  |
+| [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 | 2025-11-27 |  |
 | [24/7](https://open.spotify.com/track/118lBaOeoRLNnySo8DOKRc) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [24/7](https://open.spotify.com/album/7KA4HQshkUPNtpP3UDpowQ) | 3:05 | 2024-11-14 | 2024-12-13 |
 | [24/7](https://open.spotify.com/track/4qhA9YjkvA1e4JmR12TRPx) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [24/7](https://open.spotify.com/album/2fiQL8X4r4nCNheso7sO8R) | 2:26 | 2024-10-03 | 2024-11-01 |
 | [28 MAY](https://open.spotify.com/track/7MzxxztMIxQ5ZAywzDA1zf) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [28 MAY](https://open.spotify.com/album/3ZYwxLGvtRdvCDSBgXxgoR) | 2:28 | 2025-05-29 | 2025-06-20 |

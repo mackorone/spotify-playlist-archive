@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,038 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,101 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 1 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 2 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
 | 3 | [Dead To Me](https://open.spotify.com/track/0HtKDTDBOQwOdCX24OymzO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Dead To Me](https://open.spotify.com/album/5SY0bDrwMoMZqqbumGDjkn) | 2:21 |
 | 4 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 17 | [No Stress](https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [No Stress](https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud) | 2:26 |
 | 18 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 |
 | 19 | [Storm](https://open.spotify.com/track/72znMykhK3rkAY1bMCvwn0) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Storm](https://open.spotify.com/album/1kajLTmy2V3br5sFkfK32Q) | 3:38 |
-| 20 | [Waxing Salon](https://open.spotify.com/track/6mtvYfks5OBCRVemyO30Vs) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [](https://open.spotify.com/album/null) | 2:39 |
+| 20 | [Waxing Salon](https://open.spotify.com/track/6mtvYfks5OBCRVemyO30Vs) | [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Corporate Composer](https://open.spotify.com/album/5nlzyYGYE5a7HRkfEEOQ3t) | 2:39 |
 | 21 | [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 |
 | 22 | [Cruel Intentions](https://open.spotify.com/track/1fzagPfHoRH9UX6OYkGu5G) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Cruel Intentions](https://open.spotify.com/album/7zLWgFOuBFNupzKppNsAj1) | 2:52 |
 | 23 | [Homeless](https://open.spotify.com/track/6PNWBLl6JUX39gX3vzpjj4) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Homeless](https://open.spotify.com/album/6BQ7fqRqPD7rLdszcHRX3b) | 3:15 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 33 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 |
 | 34 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 |
 | 35 | [Time \(feat\. Jade Bird\)](https://open.spotify.com/track/3yR8gF5hxJFTXSaZcJCRr3) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0), [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Time \(feat\. Jade Bird\)](https://open.spotify.com/album/4baR3GcohEvZbNkyHqEFC6) | 2:59 |
-| 36 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [](https://open.spotify.com/album/null) | 3:52 |
+| 36 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
 | 37 | [Closer To Me](https://open.spotify.com/track/6A5Y0hB4SGK9MCCkJJXAWm) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Closer To Me](https://open.spotify.com/album/6iwo9QpsRBRrjQFtFzL8VK) | 2:46 |
 | 38 | [Haunting Me](https://open.spotify.com/track/1NqDEg1esUlPwqqQaOsGyx) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Haunting Me](https://open.spotify.com/album/43c6zbnVAPsSsNXBF7Lxjc) | 2:39 |
 | 39 | [Walk on Water](https://open.spotify.com/track/75jNZjHPRvPOD8WzlvFdFm) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Heat](https://open.spotify.com/album/2PX3hLaXuxlNqBrkTQwRDQ) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,558 likes - 70 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,090 likes - 70 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 69 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [Mc Luan](https://open.spotify.com/artist/1RdD4CJBoJIEo0vOogJCCF), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Karol X](https://open.spotify.com/artist/0ByBhGIqP8T6O0YZWnAMCR) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
 | 70 | [EU VOU CAIR NA NOITE](https://open.spotify.com/track/0FU9OdkvY12HJQ2Y0VaAsf) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5Rs8lbUvsQnuQxMrQojmZR) | [EU VOU CAIR NA NOITE](https://open.spotify.com/album/5wpoawf07u3Oi0KRRrzgRG) | 2:05 |
 
-Snapshot ID: `AAAAABCDVroMNu7rvh4Q51xz2xoXTG6J`
+Snapshot ID: `AAAAANUe8oLC0+mZsDukCpzvJ1LXPVil`

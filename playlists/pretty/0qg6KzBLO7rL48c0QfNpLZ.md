@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,033 likes - 101 songs - 4 hr 17 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,019 likes - 107 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 99 | [Magical Days](https://open.spotify.com/track/4Gfg6Ka58w3HkDE8JxHHiq) | [Ola Martin](https://open.spotify.com/artist/54FIu0DlnGcGqTDLod7X0b), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn) | [Magical Days](https://open.spotify.com/album/3fmK2L6oo2wb9FEzBsxTUM) | 2:16 |
 | 100 | [Memories](https://open.spotify.com/track/4HMQcmdviIm28WNMDsbyXT) | [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM), [RODA](https://open.spotify.com/artist/39PpUkKS1ul0OKtz72q0qE) | [Memories](https://open.spotify.com/album/5rQFaeiWrJpTjfjJZeVjqj) | 2:34 |
 | 101 | [Follow](https://open.spotify.com/track/5vl7lho5HYGYCquZL7NUc1) | [Neonica](https://open.spotify.com/artist/48dGofwEMmTKNTO7bZj8WF), [Syntheticsax](https://open.spotify.com/artist/05hm1QdbuSVF4WdgzA0tFJ), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Follow](https://open.spotify.com/album/1fdfRTfputh6cOwgTc7O3B) | 2:50 |
+| 102 | [Set Me Free](https://open.spotify.com/track/0aNPxsnz0v4e5uyt89f6NR) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [2FarAway](https://open.spotify.com/artist/0m0DFcA4Bg5HemIW0vQ4U3) | [Set Me Free](https://open.spotify.com/album/4ULcSZyu5SUekSGQESgCqO) | 2:14 |
+| 103 | [Lingered Love \(feat\. Courtney Storm\)](https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK) | [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Lingered Love \(feat\. Courtney Storm\)](https://open.spotify.com/album/5FEDolmT92Ik0WScotb6rj) | 2:14 |
+| 104 | [Everything](https://open.spotify.com/track/1EZyN7CYpw4IaT9qnSaoxl) | [IVANA](https://open.spotify.com/artist/7pn6Syh1RaJDbprpLFz58N) | [Everything](https://open.spotify.com/album/5lh0NJy7Z7hs2SYkDSOaxR) | 2:11 |
+| 105 | [Soft Rebellion](https://open.spotify.com/track/6eBIg91WFHpDCoxyDkOxeX) | [Areo](https://open.spotify.com/artist/2dENRehan79skEVUk7z9fM) | [Soft Rebellion](https://open.spotify.com/album/3xhqKxTJdZYsqvvzIQCrL0) | 3:36 |
+| 106 | [Tear Us Apart](https://open.spotify.com/track/6LsMxKkgPTyrKdP1jS1SJT) | [Quincy](https://open.spotify.com/artist/3oQPAmnuPAaE5BNeJei29F), [Nash & Pepper](https://open.spotify.com/artist/3jmsH1gZKmD7P1NpqeLJbf) | [Tear Us Apart](https://open.spotify.com/album/5dAcTLuY7Scb2SoWlE3lBb) | 3:23 |
+| 107 | [Morning Light](https://open.spotify.com/track/6UNNZ4OrJ05nHZ8BFjpLrd) | [ just here](https://open.spotify.com/artist/3e8DK3HacvVTlhoYlQOIAx) | [Morning Light](https://open.spotify.com/album/4I82NcWk3s9CmJmBOqMrCM) | 2:52 |
 
-Snapshot ID: `AAAiJ9+dK5lW3YbVojD+B29Nkmc1w5br`
+Snapshot ID: `AAAiLTLN9MrpXYj+D8FOvHMcmhTTCVzi`

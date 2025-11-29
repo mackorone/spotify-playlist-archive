@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Mary Ann Alexander",
+  "description": "English songs from Indian artists\nCover: BombayMami",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -1580,6 +1580,24 @@
       "duration_ms": 242466,
       "name": "Do The Dance",
       "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
+    },
+    {
+      "album": {
+        "name": "Don't Know Where Else",
+        "url": "https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase"
+      },
+      "artists": [
+        {
+          "name": "Takar Nabam",
+          "url": "https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220691,
+      "name": "Don't Know Where Else",
+      "url": "https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39"
     },
     {
       "album": {
@@ -3227,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/7sC1UNkygx7EVbmhrba7S8"
+      },
+      "artists": [
+        {
+          "name": "BombayMami",
+          "url": "https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168139,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/2ZU8jZLLS5x7BsTBvc0Xf4"
+    },
+    {
+      "album": {
         "name": "Je Suis La Pomme Rouge",
         "url": "https://open.spotify.com/album/071Ym9vm31HXWiF14VARnv"
       },
@@ -4442,7 +4478,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 264191,
       "name": "No Vices",
       "url": "https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw"
@@ -5382,7 +5418,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 209554,
       "name": "Semi Automatic Butane",
       "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"

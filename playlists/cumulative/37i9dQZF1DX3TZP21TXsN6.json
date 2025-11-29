@@ -1577,6 +1577,32 @@
     },
     {
       "album": {
+        "name": "Idolen",
+        "url": "https://open.spotify.com/album/4Uu7gSBUsHiZIy6EajKiXR"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "ADF Samski",
+          "url": "https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "De Avond Is Van Mij",
+      "url": "https://open.spotify.com/track/1gjZNt0dkLja62Qin0lKEe"
+    },
+    {
+      "album": {
         "name": "DE ZON SCHIJNT",
         "url": "https://open.spotify.com/album/7Lsmz2X42D66Cm1iIfki8a"
       },

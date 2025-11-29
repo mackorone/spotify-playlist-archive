@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,978 likes - 49 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,977 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [KODE](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [TANGOHOLICS](https://open.spotify.com/album/3icXdOisWKJwLenvX97Mmr) | 2:16 |
 | 2 | [LA DEN LIG](https://open.spotify.com/track/2axfYnvIhxqVVJMbVDoD09) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw) | [LA DEN LIG](https://open.spotify.com/album/5rhGdvD3VmkoHJipw2vN2f) | 2:41 |
 | 3 | [XL\-BYG](https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [XL\-BYG](https://open.spotify.com/album/32Ev2loIcvWsph87jlExk0) | 2:22 |
 | 4 | [NATTEN BLIVER MORGEN](https://open.spotify.com/track/5wAsvoOWg6LzSSmiBQGWKk) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 3:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: byjaye
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,717 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,722 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 4 | [Rot](https://open.spotify.com/track/7kZzn2dgVaU0itU7CpIBYL) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [LIVE LAUGH COOL STAR](https://open.spotify.com/album/2cXKr33dR0o2MrbVKpV8C9) | 2:34 |
 | 5 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 |
 | 6 | [Summer Rain](https://open.spotify.com/track/79EW8ABTuMJmbxG0VTS0D9) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Summer Rain](https://open.spotify.com/album/6TYlMrMfyjvb31NLqgRvb8) | 3:40 |
-| 7 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [](https://open.spotify.com/album/null) | 3:52 |
+| 7 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
 | 8 | [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 |
 | 9 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 |
-| 10 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 10 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 11 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 |
 | 12 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 |
 | 13 | [Solo](https://open.spotify.com/track/6UQ0GUr5v1aDCR4iW1OWuW) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [the wild, the innocent & the raging](https://open.spotify.com/album/5HRTO3VPXz185L1l7DxSvu) | 3:19 |
 | 14 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 |
 | 15 | [Miss Erotica](https://open.spotify.com/track/5PNy5elvtxQgYtossfpgAI) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Miss Erotica](https://open.spotify.com/album/4RCODSJEhuEtzxYai4toJa) | 2:30 |
 | 16 | [Say My Name In Your Sleep](https://open.spotify.com/track/12zzqWVkgNwlMf8BJ577I7) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Say My Name In Your Sleep](https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz) | 3:12 |
-| 17 | [Dinner Party](https://open.spotify.com/track/0JcHZURRa95cCgzqAKwPgw) | [Chris Lanzon](https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS) | [](https://open.spotify.com/album/null) | 4:44 |
+| 17 | [Dinner Party](https://open.spotify.com/track/0JcHZURRa95cCgzqAKwPgw) | [Chris Lanzon](https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS) | [You're Missing The Best Part](https://open.spotify.com/album/2GL5y9yjyLAsCuwjcnYBBf) | 4:44 |
 | 18 | [Sometimes](https://open.spotify.com/track/5Pda9qkVnViDw4yG7Fpbt5) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Sometimes](https://open.spotify.com/album/0yGiWLAQnPV4AT9mVcgrcF) | 3:39 |
 | 19 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
 | 20 | [Limerence](https://open.spotify.com/track/3OtIUjgVfvETI0RLNwsOOz) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Limerence](https://open.spotify.com/album/4uHsy1vw6kS8DgHMDgk5yH) | 2:40 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 46 | [Hold Me](https://open.spotify.com/track/5TIOvM3a1H6872XKWIKU0e) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Hold Me](https://open.spotify.com/album/0IAuRK4GBCkj0OVh7gBl73) | 3:02 |
 | 47 | [Palaces](https://open.spotify.com/track/1A4fhhL8nFcEmDnLjSXsSM) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Palaces](https://open.spotify.com/album/4bgsi7TkqYeZQ8v4Ywf7Ub) | 2:47 |
 | 48 | [Die Happy](https://open.spotify.com/track/4lU0whPQnQn0EMgmF46iz0) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Die Happy](https://open.spotify.com/album/25Sk6k5HonelxbWMChnl4k) | 3:49 |
-| 49 | [Shouldn't](https://open.spotify.com/track/66HtSqz5GWEEdzcS0SfBI7) | [Jemma Siles](https://open.spotify.com/artist/647ZMtcX3HcjejdoUPqdAM) | [](https://open.spotify.com/album/null) | 3:15 |
+| 49 | [Shouldn't](https://open.spotify.com/track/66HtSqz5GWEEdzcS0SfBI7) | [Jemma Siles](https://open.spotify.com/artist/647ZMtcX3HcjejdoUPqdAM) | [Scripts of Fate](https://open.spotify.com/album/4Q9Mgqbhz3GM2tCkYIsfyu) | 3:15 |
 | 50 | [Mean To Me](https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [Mean To Me](https://open.spotify.com/album/5IIRP1vjVpiFrJQkdVQSFA) | 2:04 |
 | 51 | [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 |
 | 52 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 |

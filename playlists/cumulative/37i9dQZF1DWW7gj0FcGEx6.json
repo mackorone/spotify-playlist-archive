@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 170186,
       "name": "A Complicated History",
       "url": "https://open.spotify.com/track/6mV5CiHRfYT14Ox9uaYIuA"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 95453,
       "name": "A Hui Hou",
       "url": "https://open.spotify.com/track/3NlxZe1aY9G1XAMvOKFJZc"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 81746,
       "name": "A Quick Fix",
       "url": "https://open.spotify.com/track/7Ga3wOriU4b8RriDkBv0RF"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 229485,
       "name": "Across the Bridge",
       "url": "https://open.spotify.com/track/75RshNisiUA6quyNu9G0tY"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 173920,
       "name": "Adore Matchmaking",
       "url": "https://open.spotify.com/track/2WphR73xLzbD5ZcUtM9Aez"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 139120,
       "name": "All Life Began in the Deep Blue Sea",
       "url": "https://open.spotify.com/track/7ufghGshBe2Tvk1ku68Msw"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 174884,
       "name": "And You Will Come",
       "url": "https://open.spotify.com/track/5OFL45xX9fNkQRFwr2gWLv"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 163240,
       "name": "Anna",
       "url": "https://open.spotify.com/track/78RLOS4uRrOI6bUV4P6LzX"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 69800,
       "name": "Aqueous Premonition",
       "url": "https://open.spotify.com/track/3HLPSrwHLQ9jwUI21C4XcR"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 50858,
       "name": "Asajj Ventress - End Credits",
       "url": "https://open.spotify.com/track/3mxktDV4Ysp4eCAG1L8vTE"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 92573,
       "name": "Asleep Forever",
       "url": "https://open.spotify.com/track/1ioTzMpFMbuZRzM4UaRJ80"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 105551,
       "name": "Bloodlines (End Titles)",
       "url": "https://open.spotify.com/track/5Zg8jYpeYoFBCDSJgIXbhf"
@@ -1485,6 +1485,28 @@
     },
     {
       "album": {
+        "name": "Blues - Pluribus edit (from \"Pluribus\")",
+        "url": "https://open.spotify.com/album/70hkEO3bgXyOQECbZScesF"
+      },
+      "artists": [
+        {
+          "name": "Nina Becker",
+          "url": "https://open.spotify.com/artist/4HNWCD51r0ZgOkQGuxMgJV"
+        },
+        {
+          "name": "Marcelo Callado",
+          "url": "https://open.spotify.com/artist/5PPXLAl96nllrxUESPD64E"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87032,
+      "name": "Blues - Pluribus edit (from \"Pluribus\")",
+      "url": "https://open.spotify.com/track/3HfrJ2bQm6hZFNG8rV0t3j"
+    },
+    {
+      "album": {
         "name": "Boat Chase (from Jurassic World Rebirth)",
         "url": "https://open.spotify.com/album/3PhryoocXJgxwBrs41LPfj"
       },
@@ -1496,7 +1518,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 314506,
       "name": "Boat Chase (from Jurassic World Rebirth)",
       "url": "https://open.spotify.com/track/1ZgoNVMKLvPT9E2BzHeU1l"
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 106573,
       "name": "Born in a Storm - From The Surfer",
       "url": "https://open.spotify.com/track/0sKbaDH6FKhx4i24ixFTTh"
@@ -1558,7 +1580,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 344280,
       "name": "Breaking The Circle",
       "url": "https://open.spotify.com/track/41yc63zlKVFRWXjOvHaPIk"
@@ -1606,7 +1628,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 41666,
       "name": "Brick",
       "url": "https://open.spotify.com/track/19GhmymIqKgMRPf3LjUOJ4"
@@ -1790,7 +1812,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 234332,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/2CPdBzS58VD8NSLqWjfOKE"
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 123920,
       "name": "Camargo",
       "url": "https://open.spotify.com/track/1pichI6XULWMJrkpt1gsjd"
@@ -2022,7 +2044,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 124496,
       "name": "Chef Anant",
       "url": "https://open.spotify.com/track/2JX5fMwbXESwaNIfZuk15h"
@@ -2156,7 +2178,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 236004,
       "name": "Cleanse",
       "url": "https://open.spotify.com/track/5tqSi0sMX9o8wTJBmRUKJ1"
@@ -2366,7 +2388,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 60779,
       "name": "Dabba Cartel Theme - From \"Dabba Cartel\"",
       "url": "https://open.spotify.com/track/4kK1E6Kn61Uu0ynmATS1tr"
@@ -2932,7 +2954,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 109903,
       "name": "Downshift",
       "url": "https://open.spotify.com/track/2LRM5ez8W1JO3SJPB1562B"
@@ -3144,7 +3166,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179093,
       "name": "Eddington (Ending)",
       "url": "https://open.spotify.com/track/2f36PS5Hg8vdJEcxb3dylS"
@@ -3292,7 +3314,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 230653,
       "name": "End Message",
       "url": "https://open.spotify.com/track/5VXUuWpRTyq5TlRCavVXQ1"
@@ -3520,7 +3542,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 124863,
       "name": "Espiral sin Salida",
       "url": "https://open.spotify.com/track/7hcG28FuqPjvhThB9uAYEZ"
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 191520,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/5pYUdGu0eoIW3Sghlw0qL6"
@@ -4137,6 +4159,24 @@
     },
     {
       "album": {
+        "name": "Desperate Journey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28OpCFGSCj46GZTZ0Wz9hD"
+      },
+      "artists": [
+        {
+          "name": "Ilan Eshkeri",
+          "url": "https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199586,
+      "name": "Freddie Knoller",
+      "url": "https://open.spotify.com/track/0vpeoyWMp30WFGtqLP9W3P"
+    },
+    {
+      "album": {
         "name": "The Deliverance (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4gyGqyk3kCY9J139QNMLXW"
       },
@@ -4286,7 +4326,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 155133,
       "name": "Glory Before Death",
       "url": "https://open.spotify.com/track/1x1mEXEZr7P3bGiwiOPA07"
@@ -4604,7 +4644,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 251266,
       "name": "Heads of State",
       "url": "https://open.spotify.com/track/3Njp6CLh7QFtb4MAXvnlEg"
@@ -4782,7 +4822,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 169199,
       "name": "HOPE FOR REDEMPTION",
       "url": "https://open.spotify.com/track/1J9EynpgB4QLRaKr9T2pWc"
@@ -4872,7 +4912,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 150020,
       "name": "How Long - From \"North of Normal\" Soundtrack",
       "url": "https://open.spotify.com/track/6XA54VzMKBFEYNvO0JkNSk"
@@ -4952,7 +4992,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 82933,
       "name": "I Don't Want to Garden Anymore",
       "url": "https://open.spotify.com/track/51VP3M7YjiVXZWOY49JPEL"
@@ -5158,7 +5198,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 146306,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/24yjQYvblfrG5BEwagPEiZ"
@@ -5180,7 +5220,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 169242,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/34Cp7NG72xINOEqMp2hyab"
@@ -5342,7 +5382,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 267577,
       "name": "In the House - In a Heartbeat (Theme from \"28 Days Later\") - Epic Version",
       "url": "https://open.spotify.com/track/6ZXT8MwEuUqlZfJdq8LXxt"
@@ -5582,7 +5622,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 137180,
       "name": "Ironheart (Riri's Theme) - From \"Marvel's Ironheart\"",
       "url": "https://open.spotify.com/track/1HyzgWZRW17hyzwpluQ0fK"
@@ -5672,7 +5712,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 223986,
       "name": "It\u2019s Why You Died",
       "url": "https://open.spotify.com/track/5Jvi4ybQSlpLyXUCn0trwk"
@@ -5766,6 +5806,28 @@
       "duration_ms": 132306,
       "name": "Jay Kelly Theme - Quintet (from the Original Motion Picture) - Single Version",
       "url": "https://open.spotify.com/track/7xmumdDIlGmtuELEuUdVoD"
+    },
+    {
+      "album": {
+        "name": "Turmschatten (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0KIQ4xRDDeNZgThnzRcPdi"
+      },
+      "artists": [
+        {
+          "name": "Martina Eisenreich",
+          "url": "https://open.spotify.com/artist/4LYEOCTnfZxA9U0TuXwAfH"
+        },
+        {
+          "name": "Michael Kadelbach",
+          "url": "https://open.spotify.com/artist/05B8ng9XjFvTBV3jZnf4EY"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273333,
+      "name": "Jeder Neue Tag - Epilog",
+      "url": "https://open.spotify.com/track/4Hz80L0PW9q5ppF3YLkxIN"
     },
     {
       "album": {
@@ -6578,7 +6640,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 269630,
       "name": "Leviathan Main Theme",
       "url": "https://open.spotify.com/track/1C2n0E1qgAySAgkYvJOylR"
@@ -6780,7 +6842,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 148186,
       "name": "Love You Tally",
       "url": "https://open.spotify.com/track/5emJXiPmLrJO6dUUKIYnnE"
@@ -6882,7 +6944,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 61300,
       "name": "M3gan 2.0",
       "url": "https://open.spotify.com/track/13hsy8OpS8Or2fjiq4JsXX"
@@ -6936,7 +6998,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 210893,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/48Cr9Kjzk14PgvGYX2R9i5"
@@ -6972,7 +7034,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 114000,
       "name": "Main Title Credits",
       "url": "https://open.spotify.com/track/4Mk3k1FwDnbrSD8JKh11OD"
@@ -7548,7 +7610,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179172,
       "name": "Millie",
       "url": "https://open.spotify.com/track/6EwjzHHAymvNFl0HxwsiPo"
@@ -7808,7 +7870,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 121213,
       "name": "Mother Knows Best",
       "url": "https://open.spotify.com/track/6129x03GSbe00vA9iJWGL3"
@@ -7844,7 +7906,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 183885,
       "name": "Mothers",
       "url": "https://open.spotify.com/track/5Cas0bP7jwQk0cvU9yGuvC"
@@ -8212,7 +8274,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 84315,
       "name": "New Planet",
       "url": "https://open.spotify.com/track/7xlhiGrlx6Rl174u6oDEoa"
@@ -8562,7 +8624,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 163120,
       "name": "Nurse Discovers Juliet",
       "url": "https://open.spotify.com/track/4FNmD2lLeoao7QZQtVjgcB"
@@ -8682,7 +8744,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 99534,
       "name": "Old Guard On The Move",
       "url": "https://open.spotify.com/track/7vEYYpUHMBhWYsvlDUdhLM"
@@ -9414,7 +9476,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 112786,
       "name": "Prepare For Arrival",
       "url": "https://open.spotify.com/track/3IlAKdo55RvKUjfaV6uR4a"
@@ -9686,7 +9748,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 329506,
       "name": "Remember",
       "url": "https://open.spotify.com/track/3GpvYGN12T63jOUn15v51Q"
@@ -9704,7 +9766,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 120554,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/0DEW6NlEqz5hiJ9Wxf8u2G"
@@ -9958,7 +10020,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 66360,
       "name": "Ride to Town",
       "url": "https://open.spotify.com/track/1XpHs5WcL9qoeYEtvp1REy"
@@ -9976,7 +10038,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 130560,
       "name": "Riding To The Ridge",
       "url": "https://open.spotify.com/track/12yEdJ4d5Xk8VQhTowy2Pz"
@@ -10398,7 +10460,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 172874,
       "name": "Selfish Girl",
       "url": "https://open.spotify.com/track/3xYxCpBwoJIXQBYyJddkpw"
@@ -10456,7 +10518,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 191470,
       "name": "Shaping My Movements",
       "url": "https://open.spotify.com/track/1JsbNeSSusRGynH0TScxIs"
@@ -10586,7 +10648,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 129640,
       "name": "Sirens End Credits",
       "url": "https://open.spotify.com/track/3GTKqpCxQ7DDuwSqhqE6K3"
@@ -10684,7 +10746,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 129933,
       "name": "So Much Like Your Sister",
       "url": "https://open.spotify.com/track/0WqYHIKKTipnBqyGHWONyz"
@@ -10760,7 +10822,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 157282,
       "name": "Sorry, Baby - Piano",
       "url": "https://open.spotify.com/track/5njMk86FUZOPPIFy2urvuN"
@@ -11422,7 +11484,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 183240,
       "name": "Test Driving Toothless (from How to Train Your Dragon)",
       "url": "https://open.spotify.com/track/6autehKz60InHGLgW5umk3"
@@ -11776,7 +11838,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 88026,
       "name": "The Break In",
       "url": "https://open.spotify.com/track/7aiE6tA4k3kEGqYB6JiAgO"
@@ -11870,7 +11932,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 298280,
       "name": "The Communiverse",
       "url": "https://open.spotify.com/track/3tfiTpwGzJEBcciVethYeb"
@@ -12080,7 +12142,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 202560,
       "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
       "url": "https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw"
@@ -12098,10 +12160,28 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 452500,
       "name": "The Ferry",
       "url": "https://open.spotify.com/track/6T2CFapeYxn2cru24kawa8"
+    },
+    {
+      "album": {
+        "name": "Jay Kelly (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5jWUOYVx3c4nejJmSsTB29"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99480,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/262rHXdxQM3dj5Ju8uDSC3"
     },
     {
       "album": {
@@ -12642,7 +12722,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 121320,
       "name": "The Mortician",
       "url": "https://open.spotify.com/track/0wILnfgaVwKjqMxxwjNhQ9"
@@ -13286,10 +13366,36 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 96253,
       "name": "The Trans-Mountain Locomotive Tunnel",
       "url": "https://open.spotify.com/track/7igpkY5nKHPI95Gs8ZbeHU"
+    },
+    {
+      "album": {
+        "name": "Troll: 2 (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/78qQvwO2Jdln1plLYTyPaB"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ringen",
+          "url": "https://open.spotify.com/artist/7c16TShAemRcpdBNSfji0I"
+        },
+        {
+          "name": "Brita Sj\u00f6berg",
+          "url": "https://open.spotify.com/artist/35KU3WPZcOMFQ4FBvPq1rv"
+        },
+        {
+          "name": "Tarjei Nysted",
+          "url": "https://open.spotify.com/artist/2bMbARQPLWF7MMKZKIgvbF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97962,
+      "name": "The Troll Massacre",
+      "url": "https://open.spotify.com/track/5RbnB8MoP9ukaF9W1YKCoX"
     },
     {
       "album": {
@@ -13304,7 +13410,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 225643,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/0b3te8DIBBf1KnRmOjAMqH"
@@ -13344,7 +13450,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 105750,
       "name": "The Underdogs",
       "url": "https://open.spotify.com/track/5rvGJptet9ZFd3cqyyslXk"
@@ -13514,7 +13620,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 106475,
       "name": "Theme from Reunion",
       "url": "https://open.spotify.com/track/6XzMFCeJE3NvILytsw6SZT"
@@ -13536,7 +13642,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 180595,
       "name": "Theme from Superman (Official Trailer Version)",
       "url": "https://open.spotify.com/track/3G5160KEvjeowX9y0FCl7M"
@@ -13832,7 +13938,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 47770,
       "name": "Titles - Hot Milk",
       "url": "https://open.spotify.com/track/5pHOVsjrhdelxobnXEExkQ"
@@ -13922,7 +14028,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 180134,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/0VQOWBgUvLfBsXbcgDphPB"
@@ -14292,7 +14398,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 68258,
       "name": "Unsinkable",
       "url": "https://open.spotify.com/track/53pWR41LjS7879ZJtZHHHR"
@@ -14594,7 +14700,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 96600,
       "name": "Watch This (From The Motion Picture Sketch)",
       "url": "https://open.spotify.com/track/0AbjZtmhekxnHpxfI1D2tO"
@@ -14937,6 +15043,24 @@
     },
     {
       "album": {
+        "name": "Eternity (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3hfLkK9uPSXMp01nU0Ypy7"
+      },
+      "artists": [
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224525,
+      "name": "When Do We Leave",
+      "url": "https://open.spotify.com/track/3242u962EMReJzjWIpWttr"
+    },
+    {
+      "album": {
         "name": "The Trap (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gZQq6m4jnDlvkf6Ix0Ga2"
       },
@@ -15180,7 +15304,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 432120,
       "name": "Wrong Body",
       "url": "https://open.spotify.com/track/4ziDdS9gGZEyjMYbkRI2vZ"
@@ -15288,7 +15412,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 105498,
       "name": "You Are My Homeward",
       "url": "https://open.spotify.com/track/3Qsvx0PLGCT43Z5uzB7XSU"
@@ -15328,7 +15452,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 133882,
       "name": "You Have to be Invisible",
       "url": "https://open.spotify.com/track/4zzb6AQkWoLna8dbp5JQSD"
@@ -15382,7 +15506,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 234837,
       "name": "You\u2019re On Your Own",
       "url": "https://open.spotify.com/track/4OmVfuDZkWfgyN20wi3UM1"

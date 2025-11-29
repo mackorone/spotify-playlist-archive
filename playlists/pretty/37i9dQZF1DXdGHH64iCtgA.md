@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,964 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,981 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 32 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
 | 33 | [Traffic](https://open.spotify.com/track/7IUckluwamoou1fey8fVFj) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/1sKj6LEXiEfCmsiKwPy5uG) | 5:17 |
 | 34 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 |
-| 35 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
-| 36 | [Woodpecker](https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM) | [Woodpecker](https://open.spotify.com/album/0JygTmxFm484atUuryZF2F) | 3:26 |
+| 35 | [Woodpecker](https://open.spotify.com/track/2ZLX6RCcJLp4uoIH2CwivA) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM) | [Woodpecker](https://open.spotify.com/album/0JygTmxFm484atUuryZF2F) | 3:26 |
+| 36 | [Musique](https://open.spotify.com/track/2easgxsXK5j6lNp63yZF7S) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Musique, Vol\. 1](https://open.spotify.com/album/4a0p1M12f7VaZWdoNSdEK4) | 6:53 |
 | 37 | [Let the Beat Control Your Body](https://open.spotify.com/track/5Ku0pfmAZUyEbO5grfQsyP) | [Brodinski](https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK), [Louisahhh](https://open.spotify.com/artist/42TogPbYEXl164PrqTEVBW) | [Bromance \#1 \- Single](https://open.spotify.com/album/50jBbRc85Two6YRoGbsGWt) | 5:11 |
 | 38 | [Thank God I'm A Lizard](https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Family Portrait](https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf) | 5:06 |
 | 39 | [they told us it was hard, but they were wrong.](https://open.spotify.com/track/1appKZZwq0t8cBeovLBPKi) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 6:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 97 | [Eatin' Good](https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB) | 3:41 |
 | 98 | [Pain In The Ass \- Original Mix](https://open.spotify.com/track/5WsDRf1ldzeP97rs7lhSDi) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Pain In The Ass](https://open.spotify.com/album/2l263dfPVQ4prf1z2cwqbz) | 6:40 |
 | 99 | [Mount Everest](https://open.spotify.com/track/18wCJcoFmXZ0jfrFhF6cYS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Mount Everest](https://open.spotify.com/album/0nkyBztSulCRM2vlPR2GF1) | 2:37 |
-| 100 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 |
+| 100 | [Solitary Daze](https://open.spotify.com/track/7vqcDtNvoJn5pXhktc8qe8) | [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj), [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX) | [Solitary Daze](https://open.spotify.com/album/462nMAgJr4l14IqVngpOXM) | 7:43 |
 
 Snapshot ID: `AAAAAPavPfAKNFgdiSWsQq6mq6KAcxuH`

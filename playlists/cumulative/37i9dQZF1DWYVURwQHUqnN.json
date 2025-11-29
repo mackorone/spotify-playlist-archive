@@ -4131,6 +4131,28 @@
     },
     {
       "album": {
+        "name": "LES DENTS DU BONHEUR",
+        "url": "https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159680,
+      "name": "M'EN ALLER",
+      "url": "https://open.spotify.com/track/6dVo2Af8Qb8GiT8Akxjuxt"
+    },
+    {
+      "album": {
         "name": "Ma beaut\u00e9",
         "url": "https://open.spotify.com/album/5JtUYSVQrWBBbGobCt1lUb"
       },
@@ -7954,24 +7976,6 @@
       "duration_ms": 178266,
       "name": "TP",
       "url": "https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "date_added": "2025-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/6dVo2Af8Qb8GiT8Akxjuxt"
     },
     {
       "album": {

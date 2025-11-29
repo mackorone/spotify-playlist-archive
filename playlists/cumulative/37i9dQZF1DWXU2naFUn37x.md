@@ -4,7 +4,7 @@
 
 > Skinny, Papa e Nerissima in cover della playlist street italiana ❄️
 
-931 songs - 1 day 18 hr 32 min
+931 songs - 1 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [2016](https://open.spotify.com/track/2JgCXiJC4ddwW9knhqFJ5B) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [BLUE TAPE](https://open.spotify.com/album/1qkwowXA6TPNPl1kbSIPmn) | 2:47 | 2024-04-11 | 2024-06-14 |
 | [20PAIA / FANCULO](https://open.spotify.com/track/2SaTKzZRfvXOjHjX52dHos) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/67SfuiDNcf4E76QmAv5gVx) | 2:25 | 2025-05-15 | 2025-06-06 |
 | [21 Freestyle](https://open.spotify.com/track/2WnKNBq12Hf8BzTdrjwEkP) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [21 Freestyle](https://open.spotify.com/album/58apMhROHuGnRpGbjtJ00u) | 2:41 | 2022-12-19 | 2023-01-27 |
-| [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 4:42 | 2025-11-27 |  |
+| [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 | 2025-11-27 |  |
 | [2TRAP \(feat\. Sayf\)](https://open.spotify.com/track/6MubaSiStqpRNAvPHBkV1g) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [2TRAP \(feat\. Sayf\)](https://open.spotify.com/album/2c8Nm0AviL4Rv5tIY8j7NI) | 2:10 | 2025-05-08 | 2025-05-23 |
 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 | 2022-05-11 | 2022-09-09 |
 | [30 THOTTIE](https://open.spotify.com/track/7LdZviAofiMRFgJpBTBRJg) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [SPINGERE SEMPRE](https://open.spotify.com/album/2T7gONSadyUZBCzu47VDyW) | 2:04 | 2024-07-04 | 2024-07-27 |

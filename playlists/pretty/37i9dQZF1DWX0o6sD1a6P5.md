@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,716 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,857 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 8 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 |
 | 9 | [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 |
 | 10 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 |
-| 11 | [Track 8](https://open.spotify.com/track/0LhtFvcXXkJSMVWUhbSS3Y) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [BOUNCE AFRICA](https://open.spotify.com/track/0LhtFvcXXkJSMVWUhbSS3Y) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:19 |
 | 12 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 13 | [Gili Gili](https://open.spotify.com/track/5NLTu65fiIbo6BadXjyIYB) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Masta Dégât](https://open.spotify.com/album/6nYK0U8HOFENSCgntdKSFs) | 3:17 |
 | 14 | [SÉCURITÉ \(feat\. Aya Nakamura\)](https://open.spotify.com/track/58MQ1HSuo7ZPsvUkWuUNMP) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [SÉCURITÉ \(feat\. Aya Nakamura\)](https://open.spotify.com/album/58q7Czi1Fg68OZEULLUywr) | 3:01 |

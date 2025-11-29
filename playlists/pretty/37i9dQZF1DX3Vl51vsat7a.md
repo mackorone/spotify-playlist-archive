@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,441 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,443 likes - 74 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 2 | [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 |
 | 3 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 4 | [Dimelo](https://open.spotify.com/track/0EExLvFDjUzoonMODtXkOm) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Dimelo](https://open.spotify.com/album/72rHHjp2UVsp6DlfSLToHu) | 3:18 |
-| 5 | [Track 1](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 |
 | 6 | [Weinst du](https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ) | [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Weinst du](https://open.spotify.com/album/66zd2Y2c612fRO39Nywah1) | 2:16 |
 | 7 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
 | 8 | [Dankbar](https://open.spotify.com/track/0iggusHoFL0jVH9a3rMMUT) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Dankbar](https://open.spotify.com/album/7I41RkVYbBHhTrnPdCjaDm) | 2:43 |

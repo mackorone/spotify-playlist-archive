@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 65938,
+  "num_followers": 65957,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFn5LFyGaJxInZGxetzvxu/VMiQd",
+  "snapshot_id": "AAAAAMSlJsISFuitFvQeZMRlqNQNbj/H",
   "tracks": [
     {
       "added_at": "2025-11-03 10:55:48",
@@ -87,6 +87,30 @@
       "duration_ms": 240000,
       "name": "Manase Maya Maya (From \"Chimera\")",
       "url": "https://open.spotify.com/track/1ItNEEE7mfygs2I62xBbgw"
+    },
+    {
+      "added_at": "2025-11-28 08:18:58",
+      "album": {
+        "name": "Swati Muttu (From \"Udaala\")",
+        "url": "https://open.spotify.com/album/4xWBoVfOZvXDqKMTuD3K7s"
+      },
+      "artists": [
+        {
+          "name": "Chetan - Daavy",
+          "url": "https://open.spotify.com/artist/0VVvrLAbnAzjjDfJ19PmyD"
+        },
+        {
+          "name": "Chetan Sosca",
+          "url": "https://open.spotify.com/artist/7f7Dqiejk8fbLj3LyTKwpW"
+        },
+        {
+          "name": "Yogaraj Bhat",
+          "url": "https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1"
+        }
+      ],
+      "duration_ms": 137894,
+      "name": "Swati Muttu (From \"Udaala\")",
+      "url": "https://open.spotify.com/track/6DAY20Xu5KeoZ5ORfn1SnI"
     },
     {
       "added_at": "2025-11-27 08:15:28",
@@ -1779,34 +1803,6 @@
       "duration_ms": 275520,
       "name": "Karedare Hagella - From \"S / O Muthanna\"",
       "url": "https://open.spotify.com/track/5e8fY9lgcBmwVGiT921YSo"
-    },
-    {
-      "added_at": "2025-09-26 06:37:37",
-      "album": {
-        "name": "Olavu Shuru (From \"Balipe\")",
-        "url": "https://open.spotify.com/album/1XxsAHbpakG1yFX8HRtStV"
-      },
-      "artists": [
-        {
-          "name": "Vyshak",
-          "url": "https://open.spotify.com/artist/23o9bCStOirOyli4CuXc8R"
-        },
-        {
-          "name": "Vaishnavi K",
-          "url": "https://open.spotify.com/artist/12Z7OndQfWi7UbP2tNg2w1"
-        },
-        {
-          "name": "Akash Reddy",
-          "url": "https://open.spotify.com/artist/71JGFO5mgqGqeiiG06pBrq"
-        },
-        {
-          "name": "V Nagendea Prasad",
-          "url": "https://open.spotify.com/artist/2AtREMcGGQVb6NeF4oVoYz"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Olavu Shuru - From \"Balipe\"",
-      "url": "https://open.spotify.com/track/4bLxIsnWKtlDEG5tPx3OOC"
     },
     {
       "added_at": "2025-09-18 08:47:17",

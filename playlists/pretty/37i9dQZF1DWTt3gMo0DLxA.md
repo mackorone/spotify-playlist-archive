@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Peddi
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,154 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,658 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 11 | [Singari](https://open.spotify.com/track/2N96K0NT6IZ1f1OKrNoJZY) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Dude \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4O6oeHbnla1SUNHYpMfrsk) | 3:28 |
 | 12 | [Prema Velluva \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Prema Velluva \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG) | 4:12 |
 | 13 | [Star Star](https://open.spotify.com/track/4Tv5dT7vbc4fRjKGLxJOHY) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/1VF37SSW3iRYR0u2v9ItdL) | [Kodama Simham](https://open.spotify.com/album/4yGgUb3SblZKk800n5IqJC) | 5:10 |
-| 14 | [Amrutham Title Song](https://open.spotify.com/track/1TTOCPTs7tQTkbjtnPOGoO) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ) | [Amrutham Title Song](https://open.spotify.com/album/1F5eLcXZ3N8hFpnSJ83zBW) | 3:03 |
+| 14 | [Amrutham Title Song](https://open.spotify.com/track/1TTOCPTs7tQTkbjtnPOGoO) | [Kalyani Mallik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ) | [Amrutham Title Song](https://open.spotify.com/album/1F5eLcXZ3N8hFpnSJ83zBW) | 3:03 |
 | 15 | [Nee Yadalo Naaku](https://open.spotify.com/track/4wUOdPcYoqYZGM2wSdoLQu) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Sagar Desai](https://open.spotify.com/artist/2GD7Jxc5ztOuLNsZIHBREJ), [Vennelakanti](https://open.spotify.com/artist/2BJEnjcz5E2JuIdpwSXwwQ) | [Awaara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UKhCWkRL6X4Kwbjz8Pf0q) | 4:52 |
 | 16 | [Idhedho Bagundhe](https://open.spotify.com/track/7eTIs4iPvHTaf5KHXw4SOv) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/70GQncn0eMcN7GYTBvQqxR) | 4:26 |
 | 17 | [Trance of Omi \(From "They Call Him OG"\)](https://open.spotify.com/track/3UtQB2Z4sNPBGGV1VkFIzT) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Harsha Darivemula](https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk), [Adviteeya Vojjala](https://open.spotify.com/artist/09J325BgRreHJKVVVAECLx) | [Trance of Omi \(From "They Call Him OG"\)](https://open.spotify.com/album/1H15UAj9xq0lUSeeMy9w1H) | 2:47 |

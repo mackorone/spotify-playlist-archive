@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KETTAMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,145 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,573 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 22 | [Restless Eyes](https://open.spotify.com/track/6xDeYK7kBYz5pk7HaNcf1H) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:51 |
 | 23 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 24 | [baby](https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [baby](https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr) | 3:03 |
-| 25 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
-| 26 | [Always](https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Always](https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp) | 3:28 |
+| 25 | [Always](https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Always](https://open.spotify.com/album/3XM4YnOEeSoyTnucc5U0Jp) | 3:28 |
+| 26 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |
 | 27 | [Favorite Place](https://open.spotify.com/track/523GiEoDg0ulav50HZItuF) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Favorite Place](https://open.spotify.com/album/09SzjW7xbr4UST7uKQq4m6) | 3:16 |
 | 28 | [White Lighter](https://open.spotify.com/track/1BVulvTYmkPUPmEjdfm4qh) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [White Lighter](https://open.spotify.com/album/1CJcaw2pUIVh9y4fI9SS6W) | 2:51 |
 | 29 | [Verónica](https://open.spotify.com/track/3ppKzJJeiveJtB03kuk43D) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Tristán, Ahora Con Reloj](https://open.spotify.com/album/7oDxt14IyAbiLAxlCMLHEe) | 2:53 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 37 | [Wholesale Anthem](https://open.spotify.com/track/76amMtyRHVVa2mpIuclM9l) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Thank You for Almost Everything](https://open.spotify.com/album/5bvnIPBtewSFLftfn7LONj) | 3:27 |
 | 38 | [Feels Like Love](https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Feels Like Love](https://open.spotify.com/album/3gOvENiYFE7aYNWeHe4Xjq) | 4:35 |
 | 39 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 |
-| 40 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 |
+| 40 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
 | 41 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 |
-| 42 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
+| 42 | [Aging Young Women](https://open.spotify.com/track/3U2Vb6F85QTZOtHniK6Km2) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Aging Young Women](https://open.spotify.com/album/6b53y5yECVDSx2t5XtpH8V) | 4:01 |
 | 43 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
 | 44 | [ALL MY ANGELS](https://open.spotify.com/track/1U3UoJ4VxuTI8mlD4zOI8x) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ALL MY ANGELS](https://open.spotify.com/album/6r1dO7jcuNo8xP4mESY0Er) | 3:01 |
 | 45 | [Kick](https://open.spotify.com/track/14wokvToKGCEFqAhxMUjFp) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 3:49 |

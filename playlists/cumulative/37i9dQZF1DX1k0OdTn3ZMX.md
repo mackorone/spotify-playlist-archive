@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with MOTHICA.
 
-396 songs - 22 hr 9 min
+397 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 | 2024-01-12 | 2024-07-06 |
 | [Bomb.com](https://open.spotify.com/track/3LRfBx8Z1PMQEwlFIyeNAs) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Bomb.com](https://open.spotify.com/album/5pBDxsLn3W3V8ZAvt1QZ1m) | 2:30 | 2024-10-25 | 2025-09-06 |
 | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Toby Morse](https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd) | [BRAINDEAD \(feat\. Toby Morse\)](https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv) | 3:11 | 2025-06-27 |  |
+| [Brand New Generation](https://open.spotify.com/track/0vt7iixdB9F0AHNsjIu9Dk) | [Eralise](https://open.spotify.com/artist/504J12bSagoGwTf3FICGTB), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [Brand New Generation](https://open.spotify.com/album/4f2YafQIQbHdTwE6jvLEwA) | 3:29 | 2025-11-28 |  |
 | [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
 | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/track/03epNQcpWbIg6kWRIWLfN7) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Break These Chains \(feat\. Niko Vilhelm of Blind Channel\)](https://open.spotify.com/album/7ouCL5sH19AwXq1VMHhXmV) | 3:43 | 2025-05-16 | 2025-11-15 |
 | [Broken Promises](https://open.spotify.com/track/5gqivPDPduM6fPYqSJx06Y) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Broken Promises](https://open.spotify.com/album/6BIyNgon67GKN6JCLKnpZh) | 3:29 | 2025-06-27 | 2025-08-16 |
@@ -167,7 +168,7 @@
 | [I WON'T BOW DOWN](https://open.spotify.com/track/1j04ijjf5krI9LtRDQeCeQ) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [I WON'T BOW DOWN](https://open.spotify.com/album/1DVowlgDsDVU6xrYRnyYVb) | 2:40 | 2024-01-19 | 2024-05-25 |
 | [I'm Not Right](https://open.spotify.com/track/3mtwzP9E05Ad8sJCvrnRvK) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 3:46 | 2023-09-13 | 2024-06-15 |
 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 | 2025-04-04 | 2025-10-11 |
-| [IDGAF](https://open.spotify.com/track/1Xjrir3GrFEMkUn4U4ZvDS) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q), [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [IDGAF](https://open.spotify.com/album/1odTnw4dT0CDwkix6HVwcx) | 2:21 | 2025-05-16 |  |
+| [IDGAF](https://open.spotify.com/track/1Xjrir3GrFEMkUn4U4ZvDS) | [20TOKENS](https://open.spotify.com/artist/283uQnP38E3Ua5ExYuOH0Q), [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [IDGAF](https://open.spotify.com/album/1odTnw4dT0CDwkix6HVwcx) | 2:21 | 2025-05-16 | 2025-11-29 |
 | [Illusion](https://open.spotify.com/track/7g0SMI51rIALnXGqjOv55U) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Illusion](https://open.spotify.com/album/110dUvtDm6eIdKe2tL5MqC) | 3:33 | 2025-11-14 |  |
 | [Illusions](https://open.spotify.com/track/5Lbu0d5dXJfwUbf9BTVkdm) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Cypress Hill Mixtape](https://open.spotify.com/album/6vViDUE5CWCL88MMVR8sSj) | 3:21 | 2024-11-29 | 2025-08-23 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-22 |  |

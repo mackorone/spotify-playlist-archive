@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-631 songs - 1 day 14 hr 49 min
+632 songs - 1 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,7 +367,7 @@
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2020-12-22 | 2024-04-19 |
 | [Motions](https://open.spotify.com/track/3D81x9iBQu5Q0Xqhr5k8JV) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Motions](https://open.spotify.com/album/1nKbm1qYmxHKXHplTVna51) | 3:10 | 2025-07-12 |  |
 | [Move You](https://open.spotify.com/track/636Tfd3B6teJFB3L6ToVkC) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Move You](https://open.spotify.com/album/6eLtqlfzQJwz5o0bOYrtNg) | 3:47 | 2020-12-22 | 2022-04-21 |
-| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 |  |
+| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 | 2025-11-29 |
 | [Music Sounds Better With You](https://open.spotify.com/track/0GL1ye91pT3nJIQzXwncG2) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better With You](https://open.spotify.com/album/143dMy2NJalRNn5AdOA8AI) | 3:18 | 2020-12-22 | 2022-07-29 |
 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 | 2020-12-22 | 2024-04-19 |
 | [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2024-04-19 | 2024-05-11 |
@@ -426,6 +426,7 @@
 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 | 2023-03-17 | 2023-12-16 |
 | [Past Life](https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Past Life](https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr) | 3:57 | 2024-04-26 | 2025-08-01 |
 | [Past Lives \- Tuff City Kids Remix](https://open.spotify.com/track/4nxKS9vm2XDSGnW0r4kpoQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Tuff City Kids](https://open.spotify.com/artist/3tUtnhxnXl3zZdQUOpcyq6) | [Past Lives \(Tuff City Kids Remix\)](https://open.spotify.com/album/15xPa3Fd03krubIkXxC25l) | 7:20 | 2020-12-22 | 2022-04-18 |
+| [Pattern](https://open.spotify.com/track/2EynOp7wuujhYI9jOuCXnU) | [Love Remain](https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx) | [With Every Cloud](https://open.spotify.com/album/1dQlwQvwVnru1XsqMdy8JM) | 4:10 | 2025-11-28 |  |
 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 | 2025-01-31 | 2025-09-23 |
 | [Persuasive](https://open.spotify.com/track/5MA0iU2dyAFwWUzfyrk2di) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Persuasive](https://open.spotify.com/album/3WTIoQzJzDyR8Oc0qiWayx) | 3:36 | 2022-05-13 | 2022-06-04 |
 | [Petit Boy](https://open.spotify.com/track/0MSN9A0nVONYW8E3Ml7k3E) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Petit Boy](https://open.spotify.com/album/4V9Cce5LCcaxbWxzHIyTVg) | 3:09 | 2024-09-20 | 2024-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Venerus e Angelina ci insegnano a disinfettare le ferite d'amore ❤️‍🩹 + tutte le altre uscite indie
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,372 likes - 121 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,380 likes - 121 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 11 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 |
 | 12 | [Addiaccio](https://open.spotify.com/track/7uFeGyXsHE5yBmulyXptlh) | [Marco Giudici](https://open.spotify.com/artist/04hb6csoUymn42lRJg8fFy) | [Trovarsi soli all'improvviso](https://open.spotify.com/album/3bwH0VsP6E2geTBAAmE8Eo) | 3:34 |
 | 13 | [Tra le tue braccia \(feat\. Cosmo\)](https://open.spotify.com/track/4d6WWKu0HAs0psJP57AUrO) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 3:30 |
-| 14 | [VI](https://open.spotify.com/track/2zug63ppHXbHMqvSnJxSdF) | [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS) | [](https://open.spotify.com/album/null) | 3:30 |
+| 14 | [VI](https://open.spotify.com/track/2zug63ppHXbHMqvSnJxSdF) | [RIVA](https://open.spotify.com/artist/2XDxxRIdkv0BotNB3Pd9uS) | [L'AMANTE INFELICE](https://open.spotify.com/album/1R3Aun9eHHEMkDeMgLifT9) | 3:30 |
 | 15 | [REPLAY](https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [REPLAY](https://open.spotify.com/album/5dm3wk4h6JCZzM46lImPIP) | 2:07 |
 | 16 | [se ti sapessi](https://open.spotify.com/track/1eJl69mVUtSdXSN8fJedcQ) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [come ortiche nel cemento](https://open.spotify.com/album/66hGMyDv7n3DKseRtr9OlF) | 2:37 |
 | 17 | [barche di carta](https://open.spotify.com/track/0oEth0Jxw3hjDutL7oyc1F) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [barche di carta](https://open.spotify.com/album/3ZMuKjeKM3if8cwoKeX4HR) | 3:02 |
 | 18 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 |
 | 19 | [L’amore visto dall’eternità](https://open.spotify.com/track/0hK2IJpduWRoSZc98SH1Kh) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj), [Amalfitano](https://open.spotify.com/artist/6etd8FRodAwSq5dBetjTHJ) | [L’amore visto dall’eternità](https://open.spotify.com/album/5Q9pl2khtyhaddVY7GYiwA) | 3:05 |
 | 20 | [This Christmas](https://open.spotify.com/track/4KWMWsQmXZkoh5cngfG9ms) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [This Christmas](https://open.spotify.com/album/1ZhEmyiqIplk3dWXoE788M) | 3:45 |
-| 21 | [C'era il Mare \- Gli Amanti \(VI\)](https://open.spotify.com/track/1TYKE6gD4UPsF5nOVnp9tF) | [Vesuviano](https://open.spotify.com/artist/3zWZiuJpuHeA18luNoAxgS), [Stella Manfredi](https://open.spotify.com/artist/3iABEmvZlWRAVZWmpwGh2y) | [](https://open.spotify.com/album/null) | 3:30 |
+| 21 | [C'era il Mare \- Gli Amanti \(VI\)](https://open.spotify.com/track/1TYKE6gD4UPsF5nOVnp9tF) | [Vesuviano](https://open.spotify.com/artist/3zWZiuJpuHeA18luNoAxgS), [Stella Manfredi](https://open.spotify.com/artist/3iABEmvZlWRAVZWmpwGh2y) | [Arcana XXIII, Vol.1](https://open.spotify.com/album/2yVnj4qXbAEJJHqK0Xvt1X) | 3:30 |
 | 22 | [BASTA SESSION N°7](https://open.spotify.com/track/4GDcYPN8SvwbSvC1rlGruE) | [BASTA](https://open.spotify.com/artist/33Tsn820ALXaapDADshYiU), [Goedi](https://open.spotify.com/artist/7bZowks3ghYkw5ywye26j9), [Lvnar](https://open.spotify.com/artist/4mZyPH71jJJCVoui8Q3n3O), [Amore Audio](https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT), [Sup Nasa](https://open.spotify.com/artist/4FlqZhoTqYt8tpct6QwgZR) | [BASTA SESSION N°7](https://open.spotify.com/album/000m24w6Qpk6N8BL0msKw3) | 3:06 |
 | 23 | [Gioventù, amore e rabbia](https://open.spotify.com/track/2Z0zECoJJHQaWa6T6ZlZZ3) | [Satantango](https://open.spotify.com/artist/5DFr0aAEV4CYkcW8stBcdS) | [Satantango](https://open.spotify.com/album/25lHq8OoDEJr7q5nmFIZce) | 3:28 |
 | 24 | [Ho perso i sogni](https://open.spotify.com/track/0pb8AUJmhscgKPdhQkX19S) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Ho perso i sogni](https://open.spotify.com/album/7fSezRLrfVlLOeeG8JdxeU) | 3:36 |

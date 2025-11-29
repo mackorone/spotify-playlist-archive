@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/638cn2WMZea3FRuYPjsf3R.md) - [plain]
 
 > All your hot new RnB Jams in one Cover: M.O &amp; AJ Tracey
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 181,720 likes - 66 songs - 3 hr 37 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 181,683 likes - 66 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

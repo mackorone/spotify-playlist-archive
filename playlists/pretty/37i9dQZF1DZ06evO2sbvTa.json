@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAChQjy+cYkeN6BUUcJVY7td",
+  "snapshot_id": "aSeUgAAAAAA6EFRIHuupGUOfX0Nan8++",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 233725,
+      "name": "Do It Big (feat. Future)",
+      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Columbia Remix",
         "url": "https://open.spotify.com/album/1pk75KjlNX0OPNslAAoGZQ"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 310733,
       "name": "Columbia Remix (Dirty)",
       "url": "https://open.spotify.com/track/7in3GxNPphXDq1Mcm586el"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 233725,
-      "name": "Do It Big (feat. Future)",
-      "url": "https://open.spotify.com/track/4WogORkwFHHvXGQLmLMwnB"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish Me Well 2",
-        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Bloodshed",
-      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 185077,
       "name": "Imma Ball Forever",
       "url": "https://open.spotify.com/track/5heBkfjqYt14ah0pFbBEYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well 2",
+        "url": "https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Bloodshed",
+      "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "U Ain't No Hustla",
+      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Astronaut Status",
         "url": "https://open.spotify.com/album/56P7aZkTGJGsYGe0DH7mqA"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "U Ain't No Hustla",
-      "url": "https://open.spotify.com/track/7k4cs9RYFOdOUZx2rqsAfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAD",
         "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 142277,
       "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
       "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trippple Cross",
-        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 190824,
-      "name": "Drug Deals",
-      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,
@@ -863,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Married to the Streets",
-        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "77 Birds (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trippple Cross",
         "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
@@ -907,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Streetz Krazy",
-        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+        "name": "Married to the Streets",
+        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
       },
       "artists": [
         {
@@ -916,13 +880,29 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         },
         {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Number Game",
-      "url": "https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ"
+      "duration_ms": 239693,
+      "name": "77 Birds (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetz Krazy",
+        "url": "https://open.spotify.com/album/0C7TkavM9yq1OZlwqnRPD9"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 197244,
+      "name": "Trap It Out",
+      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
     },
     {
       "added_at": null,
@@ -947,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Baby",
-        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+        "name": "Trippple Cross",
+        "url": "https://open.spotify.com/album/49Nzzm0upje7KGQaVTxc0C"
       },
       "artists": [
         {
@@ -956,9 +936,9 @@
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 187063,
-      "name": "Drugs",
-      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+      "duration_ms": 190824,
+      "name": "Drug Deals",
+      "url": "https://open.spotify.com/track/14LUV1NU3UiumYiuGD5949"
     },
     {
       "added_at": null,
@@ -994,11 +974,31 @@
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
         }
       ],
-      "duration_ms": 197244,
-      "name": "Trap It Out",
-      "url": "https://open.spotify.com/track/25ewjSPi4yqL2ion1KCzvh"
+      "duration_ms": 192000,
+      "name": "Number Game",
+      "url": "https://open.spotify.com/track/4mmmxpXJVKKEJxDr0umiOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "80's Baby",
+        "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
+      },
+      "artists": [
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 187063,
+      "name": "Drugs",
+      "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
     },
     {
       "added_at": null,

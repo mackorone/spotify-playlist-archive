@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709,765 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,710,353 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Aashiqui Aa Gayi](https://open.spotify.com/track/7Bnc9gWHdjZAmjSuTY42CJ) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Radhe Shyam](https://open.spotify.com/album/2oIvwzpOzC8bTiNnwynHVo) | 4:20 |
 | 75 | [Naseeb Se \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/3dpM3ijJz0vGzbkh5DcMXz) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [A.M\. Turaz](https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9) | [Naseeb Se \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/0wjqUAQ7YkdRqTcDjzkepU) | 3:04 |
 
-Snapshot ID: `AAAAAFGg/fjm/MDQYMP3R4XF/6fY+e5w`
+Snapshot ID: `AAAAAOj5aJOmQ2dmgRpNyqb1We9xudcT`

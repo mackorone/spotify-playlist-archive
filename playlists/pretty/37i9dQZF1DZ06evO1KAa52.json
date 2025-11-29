@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 663537,
+  "num_followers": 663554,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADJSksNTNbstTH0HqXOFs/d",
+  "snapshot_id": "aSeUgAAAAAD7k/mHmir+S3NcT4o2u4TX",
   "tracks": [
     {
       "added_at": null,
@@ -686,11 +686,19 @@
         {
           "name": "Troye Sivan",
           "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
+      "duration_ms": 116293,
+      "name": "Better Place (Family Harmony)",
+      "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
     },
     {
       "added_at": null,
@@ -723,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "LoveStoned / I Think She Knows (Interlude)",
+      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -743,22 +767,6 @@
       "duration_ms": 178360,
       "name": "Hair Up",
       "url": "https://open.spotify.com/track/2986J0T5CGwJGY3aqgANtE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 444333,
-      "name": "LoveStoned / I Think She Knows (Interlude)",
-      "url": "https://open.spotify.com/track/5iyE2d4U3Vc5cqY9mPTlpy"
     },
     {
       "added_at": null,
@@ -786,19 +794,11 @@
         {
           "name": "Troye Sivan",
           "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 116293,
-      "name": "Better Place (Family Harmony)",
-      "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
     },
     {
       "added_at": null,

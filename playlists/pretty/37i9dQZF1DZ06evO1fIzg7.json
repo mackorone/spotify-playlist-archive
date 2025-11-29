@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAClX0huqsbQmmYs+QYKV7sZ",
+  "snapshot_id": "aSeUgAAAAAB2QeJr9EUMmTJHRLuZkK6d",
   "tracks": [
     {
       "added_at": null,
@@ -187,38 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 231413,
-      "name": "Crying at the Discotheque",
-      "url": "https://open.spotify.com/track/2m3c0Fe9teHlUKlOfFgOd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perimenopop",
-        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 243008,
-      "name": "Relentless Love",
-      "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -239,6 +207,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perimenopop",
+        "url": "https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 243008,
+      "name": "Relentless Love",
+      "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 231413,
+      "name": "Crying at the Discotheque",
+      "url": "https://open.spotify.com/track/2m3c0Fe9teHlUKlOfFgOd8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trip The Light Fantastic",
         "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
@@ -255,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
-        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
       "artists": [
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
         }
       ],
-      "duration_ms": 206600,
-      "name": "Heartbreak (Make Me a Dancer)",
-      "url": "https://open.spotify.com/track/4By3KHnU2rwtFyIJXLrjFj"
+      "duration_ms": 218960,
+      "name": "Music Gets The Best Of Me",
+      "url": "https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy"
     },
     {
       "added_at": null,
@@ -291,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+        "name": "Songs from the Kitchen Disco: Sophie Ellis-Bextor's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV"
       },
       "artists": [
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Music Gets The Best Of Me",
-      "url": "https://open.spotify.com/track/504KQuqyGkSg3xxN3FeSyy"
+      "duration_ms": 206600,
+      "name": "Heartbreak (Make Me a Dancer)",
+      "url": "https://open.spotify.com/track/4By3KHnU2rwtFyIJXLrjFj"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Runaway Daydreamer",
-      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
+      "duration_ms": 261093,
+      "name": "Wild Forever",
+      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
     },
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 261093,
-      "name": "Wild Forever",
-      "url": "https://open.spotify.com/track/4KeQNNKhy2M5CZSydwzg60"
+      "duration_ms": 240040,
+      "name": "Runaway Daydreamer",
+      "url": "https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990"
     },
     {
       "added_at": null,

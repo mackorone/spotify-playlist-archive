@@ -2929,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/2RQZ6tJEOzRuqo2FCn5WUl"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u0430\u0436\u0430\u043d\u043d\u0430",
+          "url": "https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/0Un8tNJLPWNoU3b7wXuSA2"
+    },
+    {
+      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -7126,7 +7144,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 191921,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/1IqRoFm0NHj23m8L1CMqw2"
@@ -7286,6 +7304,40 @@
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "album": {
@@ -11686,7 +11738,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 114437,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7"
@@ -22458,7 +22510,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 197727,
       "name": "\u0410 \u0449\u043e?",
       "url": "https://open.spotify.com/track/7AOsOM6WnN0yEuomqdpifO"
@@ -25026,7 +25078,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU"
@@ -25470,7 +25522,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 200000,
       "name": "\u0413\u0435\u043d\u0433\u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/3zHlmzzkUVgL8ao2KKojAt"
@@ -28162,7 +28214,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 203493,
       "name": "\u0417\u0446\u0430\u043f\u0430\u043b\u0430-\u0437\u043b\u0430\u043f\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q"
@@ -29032,7 +29084,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -36636,7 +36688,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 179631,
       "name": "\u0422\u043e\u043a\u0441\u0456\u043a",
       "url": "https://open.spotify.com/track/3O6R6CXo0660qvmdeG6EOD"
@@ -37354,7 +37406,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 239200,
       "name": "\u0423\u043d\u043e\u0447\u0456",
       "url": "https://open.spotify.com/track/5NRC7uilAteXQoyHnTgWTW"
@@ -37808,7 +37860,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 190818,
       "name": "\u0425\u0430\u043d\u043d\u0430\u043c\u043e\u043d\u0442\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542"

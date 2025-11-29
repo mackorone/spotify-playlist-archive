@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5693,
+  "num_followers": 5694,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADeRflamokd7uslu7fX0Vpq",
+  "snapshot_id": "aSeUgAAAAAB0z33JjHBslKewAvgU+taU",
   "tracks": [
     {
       "added_at": null,
@@ -515,34 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIU",
-        "url": "https://open.spotify.com/album/0f5AqFFSvx7wwySFMC2Su7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brackins",
-          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
-        },
-        {
-          "name": "Nic Nac",
-          "url": "https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FIU",
-      "url": "https://open.spotify.com/track/4A8otmmNOLHDhkpXKDXMuM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What's That?",
         "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
       },
@@ -583,6 +555,34 @@
       "duration_ms": 203187,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIU",
+        "url": "https://open.spotify.com/album/0f5AqFFSvx7wwySFMC2Su7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brackins",
+          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
+        },
+        {
+          "name": "Nic Nac",
+          "url": "https://open.spotify.com/artist/3JUt8Eb39ikWDdahCinDwB"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FIU",
+      "url": "https://open.spotify.com/track/4A8otmmNOLHDhkpXKDXMuM"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Should Know",
         "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
       },
@@ -731,6 +715,46 @@
       "duration_ms": 177000,
       "name": "Mack",
       "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Connected And Respected",
+        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "B-Legit",
+          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 221287,
+      "name": "Boy (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
     },
     {
       "added_at": null,
@@ -759,30 +783,6 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Connected And Respected",
-        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "B-Legit",
-          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 221287,
-      "name": "Boy (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
     },
     {
       "added_at": null,
@@ -843,6 +843,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "For The Soil",
+        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 217710,
+      "name": "Suede",
+      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For The Soil",
-        "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
-        }
-      ],
-      "duration_ms": 217710,
-      "name": "Suede",
-      "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1059,26 +1059,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 161250,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
     }
   ],
   "unique_name": "This Is P-Lo",

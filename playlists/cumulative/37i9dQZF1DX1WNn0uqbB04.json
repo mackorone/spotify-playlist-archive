@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-10",
-  "description": "El Tango est\u00e1 m\u00e1s vivo que nunca. Disfrut\u00e1 los cl\u00e1sicos en <a href=\"spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV\">Tangos y Milongas</a>",
+  "description": "El Tango est\u00e1 m\u00e1s vivo que nunca \ud83d\udcf8 Santiago Motorizado & FLORIAN",
   "name": "Neo Tango",
   "tracks": [
     {
@@ -284,6 +284,28 @@
       "duration_ms": 181623,
       "name": "Codigo de barra",
       "url": "https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm"
+    },
+    {
+      "album": {
+        "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
+        "url": "https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172779,
+      "name": "COMO DOS EXTRA\u00d1OS (feat. Santiago Motorizado)",
+      "url": "https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1"
     },
     {
       "album": {
@@ -1788,7 +1810,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 143970,
       "name": "Tango De Crueldad",
       "url": "https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq"

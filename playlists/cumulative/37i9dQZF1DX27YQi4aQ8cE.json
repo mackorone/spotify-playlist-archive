@@ -525,6 +525,32 @@
     },
     {
       "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7e0m9lz1AqHRAhDiJHQm8x"
+      },
+      "artists": [
+        {
+          "name": "Mykola Leontovych",
+          "url": "https://open.spotify.com/artist/7vdH45G4aZD0tIf3A74R7n"
+        },
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140493,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/60bVqEfzSfsUPTiuqdmLCR"
+    },
+    {
+      "album": {
         "name": "On Yoolis Night: Medieval Carols & Motets",
         "url": "https://open.spotify.com/album/04EcpG3qd3bhmugVCsUvPg"
       },
@@ -1359,6 +1385,32 @@
     },
     {
       "album": {
+        "name": "Nowel: Advent & Beyond",
+        "url": "https://open.spotify.com/album/13EtD8v3jywSHu1o8qpZ0e"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Ensemble Pro Victoria",
+          "url": "https://open.spotify.com/artist/0ac06ScSSBl5mezP4VqPxk"
+        },
+        {
+          "name": "Toby Ward",
+          "url": "https://open.spotify.com/artist/5IrFpK2JE3JYjTZgKQPdWv"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204071,
+      "name": "Lulla, Lullaby",
+      "url": "https://open.spotify.com/track/6ye1gJDZkSmpP9X4MNkXZ9"
+    },
+    {
+      "album": {
         "name": "Christmas Fantasy",
         "url": "https://open.spotify.com/album/3k3md2BdrQZ28dgO2t0IPa"
       },
@@ -1959,6 +2011,66 @@
     },
     {
       "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/3JXfmfjRaJ6buf8iYmUuW1"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Canterbury Cathedral Choristers",
+          "url": "https://open.spotify.com/artist/61bvefHdBXOUgFLpVOkqsU"
+        },
+        {
+          "name": "David Newsholme",
+          "url": "https://open.spotify.com/artist/3SczYzTbgZ1nxRwQc1MQag"
+        },
+        {
+          "name": "David Rees-Williams",
+          "url": "https://open.spotify.com/artist/5bTBcdO62YXIAmkNj6UU2W"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Silent Night (Arr. David Rees-Williams)",
+      "url": "https://open.spotify.com/track/3UQpNARL72T8dMn76X6y1l"
+    },
+    {
+      "album": {
+        "name": "The John Rutter Christmas Album",
+        "url": "https://open.spotify.com/album/229Ap7BM41Vld93zoov3Jn"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Silent Night (Arr. J. Rutter)",
+      "url": "https://open.spotify.com/track/0CgLUbrTxkmrBAsog9j1J6"
+    },
+    {
+      "album": {
         "name": "Franz Gruber: Silent Night (Arr. John Rutter)",
         "url": "https://open.spotify.com/album/43mIstoTpYvztTQBzSYZOL"
       },
@@ -1982,7 +2094,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 242226,
       "name": "Silent Night (Arr. John Rutter)",
       "url": "https://open.spotify.com/track/3DXhAc8VhlYNYXrGD32k22"
@@ -2202,6 +2314,32 @@
       "duration_ms": 139000,
       "name": "Still, Still, Still (Arr. J. Rutter)",
       "url": "https://open.spotify.com/track/6YmFxWKaXrrLKq7AS1AETu"
+    },
+    {
+      "album": {
+        "name": "Classical Christmas",
+        "url": "https://open.spotify.com/album/2cHASJonqVZVgSpgAliOQG"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Gruber",
+          "url": "https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y"
+        },
+        {
+          "name": "Laurence Equilbey",
+          "url": "https://open.spotify.com/artist/3UzPUByZ2mlcfGjh24HtUS"
+        },
+        {
+          "name": "Accentus",
+          "url": "https://open.spotify.com/artist/38eCqknV7qzJIS2khX98Fw"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "Stille Nacht! Heilige Nacht!",
+      "url": "https://open.spotify.com/track/4s6J8tfsB5oCRLVLF42oGh"
     },
     {
       "album": {
@@ -2502,10 +2640,36 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 178133,
       "name": "The Holly & the Ivy (Arr. H. Walford Davies)",
       "url": "https://open.spotify.com/track/57lKCJHxa9IKtlzsaEFKVQ"
+    },
+    {
+      "album": {
+        "name": "The Holly and The Ivy (Arr. for Choir by Ola Gjeilo)",
+        "url": "https://open.spotify.com/album/1xYaLLZhcp74i3rlZHAw1F"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Meridian",
+          "url": "https://open.spotify.com/artist/3VD753sbevlkiZ0m7lU3Za"
+        },
+        {
+          "name": "Irene Messoloras",
+          "url": "https://open.spotify.com/artist/7bLs9uL2MjQUMXwSqW5btL"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "The Holly and The Ivy (Arr. for Choir by Ola Gjeilo)",
+      "url": "https://open.spotify.com/track/2DJWqvuEkcW3EUxF37SGwj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-456 songs - 1 day 0 hr 11 min
+456 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Love Myself](https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Love Myself](https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP) | 2:41 | 2024-06-28 | 2024-09-20 |
 | [Love Myself](https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe) | [Nessi](https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl) | [Rollercoaster](https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j) | 2:30 | 2024-08-15 | 2024-11-09 |
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2025-05-09 |
+| [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 | 2025-11-27 |  |
 | [luften i maj](https://open.spotify.com/track/0lCZhCH8XT87T1zQDCeHsZ) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [bland molnen/under isen](https://open.spotify.com/album/1ruLTxzG4vZvQqvPslsrzo) | 2:48 | 2025-05-01 | 2025-06-13 |
 | [luminary rainbows](https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [luminary rainbows](https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr) | 4:52 | 2024-08-22 | 2024-10-28 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-08-16 |
@@ -425,7 +426,6 @@
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 | 2025-11-21 |
 | [Tjejerna](https://open.spotify.com/track/0933FD1xHrm3KGjkz1cMl5) | [Zoe Lobos](https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA) | [Tjejerna](https://open.spotify.com/album/4v8as5ZYEZakizcgP0iVWW) | 3:05 | 2025-06-05 | 2025-06-13 |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-23 | 2025-10-03 |
-| [Track 2](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-07-14 |
 | [Tro](https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Tro](https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6) | 2:16 | 2025-05-29 | 2025-09-12 |
 | [Trouble](https://open.spotify.com/track/3R0qGldm3jznL1kR5htHIf) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Trouble](https://open.spotify.com/album/4aRMJ0Qzq6fub5VK0O1Hxk) | 2:35 | 2024-09-26 | 2025-05-09 |

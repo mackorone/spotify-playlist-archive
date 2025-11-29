@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 61255,
+  "num_followers": 61269,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Amaneciendo",
-        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
-          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
-        },
-        {
-          "name": "Luis Angel Torres",
-          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
-        }
-      ],
-      "duration_ms": 379080,
-      "name": "El Cascabel",
-      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 187013,
       "name": "Rumbeando Pal Litoral",
       "url": "https://open.spotify.com/track/5Vb3AxrP4DXsqfpc072wrf"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        },
+        {
+          "name": "Luis Angel Torres",
+          "url": "https://open.spotify.com/artist/2gu0de5RSdqvaEiEow3uAB"
+        }
+      ],
+      "duration_ms": 379080,
+      "name": "El Cascabel",
+      "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1035,33 +1035,13 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
-        "url": "https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6"
-      },
-      "artists": [
-        {
-          "name": "Maxi Bravo Arde Chamame",
-          "url": "https://open.spotify.com/artist/5AbgxJSizZTrjThFK9k4yS"
-        },
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 313344,
-      "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
-      "url": "https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
       },
       "artists": [
         {
           "name": "Litoral Tag\u00fce",
-          "url": "https://open.spotify.com/artist/0odFequN8vGiLfovpuY8bE"
+          "url": "https://open.spotify.com/artist/0P1o1eQR5HWzWKDb3p6pfD"
         }
       ],
       "duration_ms": 189360,
@@ -1087,6 +1067,26 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
+        "url": "https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6"
+      },
+      "artists": [
+        {
+          "name": "Maxi Bravo Arde Chamame",
+          "url": "https://open.spotify.com/artist/5AbgxJSizZTrjThFK9k4yS"
+        },
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 313344,
+      "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
+      "url": "https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 189600,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Cate",
+          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
+        }
+      ],
+      "duration_ms": 123226,
+      "name": "Un simbronazo",
+      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 140040,
       "name": "El Toro",
       "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Cate",
-          "url": "https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf"
-        }
-      ],
-      "duration_ms": 123226,
-      "name": "Un simbronazo",
-      "url": "https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamam\u00e9 Con Estilo Propio",
-        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
+        "name": "D\u00fao Cejas Sol\u00eds",
+        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
       },
       "artists": [
         {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+          "name": "Duo Cejas Solis",
+          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
         }
       ],
-      "duration_ms": 156025,
-      "name": "El Petizo Maceta",
-      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
+      "duration_ms": 122733,
+      "name": "Palomita Mensajera",
+      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1511,34 +1511,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "D\u00fao Cejas Sol\u00eds",
-        "url": "https://open.spotify.com/album/6ykh0xH1kYW80selPX5WUS"
+        "name": "Chamam\u00e9 Con Estilo Propio",
+        "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
       },
       "artists": [
         {
-          "name": "Duo Cejas Solis",
-          "url": "https://open.spotify.com/artist/4jVtTtMgp00oqszMFhv0Q1"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
         }
       ],
-      "duration_ms": 122733,
-      "name": "Palomita Mensajera",
-      "url": "https://open.spotify.com/track/7hoTIUdGyOfdGrSdbIJ2DU"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Juancito el Peregrino",
-          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Temple guarani",
-      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
+      "duration_ms": 156025,
+      "name": "El Petizo Maceta",
+      "url": "https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1555,6 +1539,22 @@
       "duration_ms": 120720,
       "name": "Jineteando",
       "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Juancito el Peregrino",
+          "url": "https://open.spotify.com/artist/2Tx1vMzCcO0Ev2uDgMksXj"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Temple guarani",
+      "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

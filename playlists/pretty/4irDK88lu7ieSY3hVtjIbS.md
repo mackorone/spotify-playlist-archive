@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,451 likes - 80 songs - 3 hr 25 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,453 likes - 81 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,5 +88,6 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 78 | [BET UNCU\(N\)T](https://open.spotify.com/track/5fcknHYAGKzdaKE4TISCzR) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [GLITTERMUTT](https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp) | [BET UNCU\(N\)T](https://open.spotify.com/album/4zEz2gi2w0EJ1nTaScS3Co) | 2:02 |
 | 79 | [Wooden Ships \- 2005 Remaster](https://open.spotify.com/track/39m6vOwUEgjErRnsm93wu2) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 5:26 |
 | 80 | [I love furry porn](https://open.spotify.com/track/0aPZo4BwluQ7KzWUlCmCbQ) | [Jennie journey](https://open.spotify.com/artist/4yhGHFJZeriPmVdrWbl4Mr) | [I love furry porn](https://open.spotify.com/album/5mZLdpplt3He5C87c2SC9U) | 1:27 |
+| 81 | [Bark Like You Want It](https://open.spotify.com/track/1TqmlXyMcCppD8v2OogDMR) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Return Of The Bumpasaurus](https://open.spotify.com/album/0QPr5RZLfVPCewlds0UoLK) | 3:20 |
 
-Snapshot ID: `AAAAe/Z7nWbqVsMqG6iUTJj1TXNodMX1`
+Snapshot ID: `AAAAfLCwqknaeZERKrJMPfcszhFdKdlD`

@@ -1,12 +1,12 @@
 {
   "description": "This is Kasey Chambers. The essential tracks, all in one playlist.",
-  "num_followers": 11724,
+  "num_followers": 11723,
   "original_name": "This Is Kasey Chambers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABkQubHuwyx2g7IvWwnM9lv",
+  "snapshot_id": "aSeUgAAAAAD3hDzSd0fRZNVTzL8conGI",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        },
+        {
+          "name": "Bernard Fanning",
+          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tea & Sympathy (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6zt2LZDe7Yv6a0zpH7xjBN"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 240893,
       "name": "Watch Over Me (feat. Kasey Chambers & Clare Bowditch)",
       "url": "https://open.spotify.com/track/45LCTq3XmuEVhCb09vDUDc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/1myXD7yWPc0SXYhm7luUcj"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        },
-        {
-          "name": "Bernard Fanning",
-          "url": "https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/0XeJjBlJ5RLoUkFutyN2K9"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Better Be Home Soon",
-      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barricades & Brickwalls",
         "url": "https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 205346,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/70Iwjc7YiM12IUYDohUqIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Better Be Home Soon",
+      "url": "https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Bird",
-        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 210213,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
+      "duration_ms": 245156,
+      "name": "You Got The Car",
+      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB"
+        "name": "Little Bird",
+        "url": "https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
         }
       ],
-      "duration_ms": 245156,
-      "name": "You Got The Car",
-      "url": "https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v"
+      "duration_ms": 210213,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "A Love Like Springsteen",
+      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/4cnOOtSM3k3qFBbE4zNOgO"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 175832,
       "name": "Whispering Voice",
       "url": "https://open.spotify.com/track/1CNckFP5VsvL6jrMX7ESsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "A Love Like Springsteen",
-      "url": "https://open.spotify.com/track/69SpIDFJ8Qfg2KrXEStlBt"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Captain",
-        "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
-      },
-      "artists": [
-        {
-          "name": "Kasey Chambers",
-          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
-        }
-      ],
-      "duration_ms": 166026,
-      "name": "Freight Train",
-      "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backbone",
         "url": "https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 194186,
       "name": "Beautiful Mess",
       "url": "https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Captain",
+        "url": "https://open.spotify.com/album/7DFWFL8pqjsBdQiHlAtyvU"
+      },
+      "artists": [
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "duration_ms": 166026,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/1ejDgThqS6BLWTVMKPahmX"
     },
     {
       "added_at": null,

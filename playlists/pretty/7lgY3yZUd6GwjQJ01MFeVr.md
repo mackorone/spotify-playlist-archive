@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,141 likes - 101 songs - 5 hr 19 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,139 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 100 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
 | 101 | [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 |
 
-Snapshot ID: `AAAeC5f4wRdfdlycIfl4+N0Y2lOnBpYA`
+Snapshot ID: `AAAeKUv0tGrHvnB0bnu00sPdy5Htm/yJ`

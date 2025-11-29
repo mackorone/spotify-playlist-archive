@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Nelly Furtado &amp; HAYLA
 
-379 songs - 19 hr 50 min
+380 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [F\*Me](https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [F\*Me](https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH) | 3:08 | 2024-12-13 |  |
 | [Fade Away](https://open.spotify.com/track/34oeP18McHOZnAyigk6LZl) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Fade Away](https://open.spotify.com/album/19TAs7mYNcz1OMjAQcY0sk) | 2:58 | 2024-02-16 | 2025-01-22 |
 | [FADED](https://open.spotify.com/track/0OSKN4D9kXEunDf89augTt) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [FADED](https://open.spotify.com/album/2MUwWCMAyqzlf0xn3LyH4s) | 3:35 | 2025-11-14 |  |
+| [Fall In Love Again](https://open.spotify.com/track/351uaz0UJ7h0RYRD0e2w5V) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Fall In Love Again](https://open.spotify.com/album/24UtZxwqRZKMLb3uUdqMBt) | 3:03 | 2025-11-28 |  |
 | [Falling](https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Chemistry](https://open.spotify.com/album/3DmcV2cmZdX9olNRHcRUZ2) | 4:10 | 2025-07-11 |  |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-10-09 |  |
 | [Fancy $hit](https://open.spotify.com/track/6Ar3apWGoJLPZ3zy6Eb94F) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/178hg0pgag9NoDE2WLabZP) | 2:48 | 2025-11-17 |  |

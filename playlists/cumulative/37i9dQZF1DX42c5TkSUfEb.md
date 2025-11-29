@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-459 songs - 1 day 4 hr 0 min
+460 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2022-11-25 | 2024-02-10 |
 | [Halloween](https://open.spotify.com/track/7AkPusgKsrTqbOcTTbRnFr) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:34 | 2024-02-08 | 2024-03-28 |
 | [Happy Birthday](https://open.spotify.com/track/5iBUS6fqRWhwqRXXfKu3tV) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Hers](https://open.spotify.com/album/0XPxK2qGH4BelboUUiVRvE) | 3:36 | 2025-05-15 | 2025-10-03 |
-| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 |  |
+| [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-25 | 2025-11-29 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-27 | 2023-03-03 |
 | [Heartbreakdown](https://open.spotify.com/track/3JxE1VLDvO3B0l27LPunRt) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Heartbreakdown](https://open.spotify.com/album/0EDaM1SqlZIyOeWqsJfsKY) | 4:14 | 2025-02-06 | 2025-07-11 |
 | [Heaven Thunder](https://open.spotify.com/track/2KFa0LSqxL20wZVeeNpVEr) | [Mina Tindle](https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Heaven Thunder](https://open.spotify.com/album/3GJsSofQBUF4fZMUIZgYnC) | 3:37 | 2025-07-03 | 2025-11-07 |
@@ -376,6 +376,7 @@
 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 | 2022-11-25 | 2023-02-17 |
 | [Suburban House](https://open.spotify.com/track/676TvM26wVq88afbYDPRO3) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Suburban House](https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA) | 3:49 | 2023-11-16 | 2024-03-28 |
 | [Suffisamment](https://open.spotify.com/track/2G0jAoWT4mtcvsOyXaWzSt) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [Suffisamment](https://open.spotify.com/album/5bYohHTjPB1Na7wcv5YRG3) | 3:46 | 2023-03-27 | 2023-04-06 |
+| [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 | 2025-11-28 |  |
 | [Sugar Mountain](https://open.spotify.com/track/5Jt7FHiODNrKfzs82dhvSO) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Sugar Mountain](https://open.spotify.com/album/3P7ZwzzLmDouKiP82hDuKp) | 5:03 | 2025-04-25 | 2025-05-16 |
 | [Suis\-moi](https://open.spotify.com/track/3ZaNBvzdl0Zhn5sNJbDtOi) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Le Petit Prince \(Bande originale du film\)](https://open.spotify.com/album/6epIOxXmRWOLlxTjIgKG7k) | 3:26 | 2024-06-07 | 2024-12-10 |
 | [Summer & Smoke](https://open.spotify.com/track/6rKTRLs7GDQcNH0B37ce4l) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Summer & Smoke](https://open.spotify.com/album/4in3xmG3lzfXEnlEmrVZik) | 4:01 | 2023-05-25 | 2023-06-13 |

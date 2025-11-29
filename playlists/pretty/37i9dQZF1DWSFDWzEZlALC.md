@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Jassin, Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,596 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,793 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wieder zurück \(feat\. Edwin Rosen\)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh), [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Arsenalplatz](https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j) | 3:58 |
 | 2 | [All die schönen Worte feat\. Faber](https://open.spotify.com/track/6d7QE9925lkSV8IxaNC55s) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [All die schönen Worte feat\. Faber](https://open.spotify.com/album/3aEYufSNb9oRDRQXBxDNi3) | 3:24 |
 | 3 | [GIB MIR DEIN GELD!](https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [GIB MIR DEIN GELD!](https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L) | 3:56 |
-| 4 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [](https://open.spotify.com/album/null) | 2:01 |
+| 4 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zeitraffer](https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq) | 2:01 |
 | 5 | [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [geklaut](https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph) | 2:36 |
 | 6 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
 | 7 | [BIS EINER WEINT](https://open.spotify.com/track/1iMuG0PaAK5ORbHuIJ54Ah) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BIS EINER WEINT](https://open.spotify.com/album/2Rtyne5TEgOHq7PCAG4fIy) | 2:53 |

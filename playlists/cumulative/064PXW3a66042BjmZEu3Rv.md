@@ -4,7 +4,7 @@
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-115 songs - 5 hr 34 min
+116 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Buut Vrij](https://open.spotify.com/track/3QPg1dEGWflIOjyFQyho8i) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Buut Vrij](https://open.spotify.com/album/630fn7jhz1GbN3pWWuR1qu) | 2:38 | 2025-10-03 |  |
 | [C'est La Vie](https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [C'est La Vie](https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV) | 3:03 | 2025-08-27 |  |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-07-04 | 2025-08-22 |
+| [Call You Home](https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [First Rodeo](https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj) | 3:43 | 2025-11-28 |  |
 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 | 2025-07-04 | 2025-08-22 |
 | [Could Have Been Us](https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Could Have Been Us](https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8) | 3:16 | 2025-07-04 | 2025-08-22 |
 | [De Vleugels Van Mijn Vlucht](https://open.spotify.com/track/5ig3mVSdACeAjS6tJvvJFZ) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/2F0CSeLdoFoWQ7dQNhmTfH) | 3:14 | 2025-09-01 |  |

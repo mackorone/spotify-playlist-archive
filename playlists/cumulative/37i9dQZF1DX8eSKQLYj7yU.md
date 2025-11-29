@@ -4,7 +4,7 @@
 
 > Bluegrass fit for the holiday season
 
-115 songs - 6 hr 7 min
+118 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Christmas Lullaby](https://open.spotify.com/track/3oW9dH8OuKIBu4DwxwCiLS) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Christmas Americana](https://open.spotify.com/album/5S6RP0u2RILM30AmXtg1lm) | 2:07 | 2024-11-29 |  |
 | [Christmas Story](https://open.spotify.com/track/6IKLAS8zI1a8Pj8xOGA9X4) | [The Nashville Bluegrass Band](https://open.spotify.com/artist/60PxSDzeNfdNALOPi5oe7b) | [Tinsel Tunes \- More Holiday Treats From Sugar Hill](https://open.spotify.com/album/1r9igVbo3vaHZcYp93Zdei) | 2:54 | 2024-11-29 |  |
 | [Christmas Time Back Home](https://open.spotify.com/track/6WV4vADrWLtYtl1eqs2gcH) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK) | [A Mountain Home Christmas](https://open.spotify.com/album/4ELjvFQKauxcPp6w2zN56Q) | 2:59 | 2024-11-29 |  |
+| [Christmas Time Back Home](https://open.spotify.com/track/5UwoynJdN7dWbOgvgFTUWV) | [High Fidelity](https://open.spotify.com/artist/34bKWGpOaWlussfYQW71EO) | [Christmas Time Back Home](https://open.spotify.com/album/5Osl53dn2krFQVG9H1iNqQ) | 3:18 | 2025-11-28 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/2GWrJcQoR7OkiHXrawY5un) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [Jerry Christmas](https://open.spotify.com/album/4CloZGS0oU6rV342Bfo6hk) | 3:10 | 2024-11-29 |  |
 | [Christmas Time is Here](https://open.spotify.com/track/12yoAh1vXEhvPT34hdS2Il) | [Tony Wray](https://open.spotify.com/artist/130ShDSmz0I3kDPg37lqlW), [Tim Crouch](https://open.spotify.com/artist/1q7fFBA1aUDCQMhpUAIMxb), [Ethan Burkhardt](https://open.spotify.com/artist/66ONZHHb6U6lrRBCI1ZMO0) | [Christmas Time is Here](https://open.spotify.com/album/1vKrGMhazVmvKTJAZP4Ce1) | 3:53 | 2024-11-29 |  |
 | [Christmas Time On Rocky Top](https://open.spotify.com/track/7okja5dY9131S9YtkELgUB) | [The Osborne Brothers](https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c) | [Christmas On The Mountain \(A Bluegrass Christmas\)](https://open.spotify.com/album/7vKGxVilYDM2iYuv3FyIVJ) | 2:56 | 2024-11-29 |  |
@@ -96,7 +97,9 @@
 | [Sleigh Ride](https://open.spotify.com/track/2hesAWphHJNv3878Rc7W7h) | [Authentic Unlimited](https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO) | [Christmas Time Is Here](https://open.spotify.com/album/3nGf4nBY4pk0w3OCebZMeC) | 2:13 | 2024-11-29 |  |
 | [Sleigh Ride](https://open.spotify.com/track/2wVbEJ6UiofNKiPBpC4Bcy) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Bluegrass Christmas 2](https://open.spotify.com/album/70GAoOjjTnU9sKtP8Qr2bC) | 3:41 | 2024-11-29 |  |
 | [Sleigh Ride](https://open.spotify.com/track/5l0EEmKtcyyCHiGdcmVaEp) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Tinsel Tunes \- More Holiday Treats From Sugar Hill](https://open.spotify.com/album/1r9igVbo3vaHZcYp93Zdei) | 3:51 | 2024-11-29 |  |
+| [Snow in the Holler](https://open.spotify.com/track/4sAqH6jBikTyWaUkfbrkXM) | [Troubadour Blue](https://open.spotify.com/artist/3EadWMHUn9FfrzAWxMM7GG) | [Snow in the Holler](https://open.spotify.com/album/4xjiPnMpIYfwTFlpJJeziV) | 3:19 | 2025-11-28 |  |
 | [Snowbird](https://open.spotify.com/track/7F1QwL7cYL8VrV2kW5iRI5) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Snowbird](https://open.spotify.com/album/3T43QsJmuywzsRApuCVs2L) | 3:32 | 2024-11-29 |  |
+| [Snowflake Reel](https://open.spotify.com/track/4A8UQXWkIhn4e1sITkg0aZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Christmas In The Smoky Mountains](https://open.spotify.com/album/65jPd5hkSZdJuO0nW0Kpk5) | 2:49 | 2025-11-28 |  |
 | [Snowin' On Raton](https://open.spotify.com/track/0ZDisZv0IHEykx8u8rbdbZ) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Christmas Americana](https://open.spotify.com/album/5S6RP0u2RILM30AmXtg1lm) | 3:52 | 2024-11-29 |  |
 | [Song for a Winter's Night](https://open.spotify.com/track/20Dz1YrI5LMrVs1cpGaNMb) | [Rumour Mill](https://open.spotify.com/artist/2Ehy1qL1iqqFumGgwFClw6), [Aline Deanna](https://open.spotify.com/artist/4Bs1gHun8gFz6HJAGtAdLV), [Anna Katarina](https://open.spotify.com/artist/3wUofml5k6dhBcD5OKPLup) | [Song for a Winter's Night](https://open.spotify.com/album/57cxci74OPUile2bjgfso2) | 3:35 | 2024-11-29 |  |
 | [The Box](https://open.spotify.com/track/5fkk2GgQKrRk8x35ER4W9m) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [The Christmas 45, Vol\. 2](https://open.spotify.com/album/5qoQle0mbkac002Ji2KDe2) | 3:36 | 2024-11-29 |  |

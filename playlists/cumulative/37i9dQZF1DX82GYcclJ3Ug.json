@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: The Neighbourhood",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: WesGhost",
   "name": "The New Alt",
   "tracks": [
     {
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 174981,
       "name": "2022",
       "url": "https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q"
@@ -6669,6 +6669,24 @@
     },
     {
       "album": {
+        "name": "PLAY!",
+        "url": "https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196338,
+      "name": "Blood Run Warm",
+      "url": "https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH"
+    },
+    {
+      "album": {
         "name": "Blood Runs Red",
         "url": "https://open.spotify.com/album/5H3bz4xuj3L3AKaWQrM0bw"
       },
@@ -8784,6 +8802,24 @@
       "duration_ms": 192706,
       "name": "Can't Say No",
       "url": "https://open.spotify.com/track/5tHUOYZMCOHCZKzqalt1Hv"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
     },
     {
       "album": {
@@ -13288,7 +13324,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 189772,
       "name": "detroit",
       "url": "https://open.spotify.com/track/0ESmbstBQI4arPAsNkHZ8g"
@@ -14876,7 +14912,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
@@ -15236,7 +15272,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 207250,
       "name": "DRUNKEN GOD",
       "url": "https://open.spotify.com/track/1v7Wc0Sa1PDlhkBAV2GB45"
@@ -17072,6 +17108,24 @@
       "duration_ms": 196746,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/5fy3nLcbKOZ7R7QRBcGsCF"
+    },
+    {
+      "album": {
+        "name": "EXISTED",
+        "url": "https://open.spotify.com/album/3p4WJXKa2sZyLzCvGYWkiY"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215662,
+      "name": "EXISTED",
+      "url": "https://open.spotify.com/track/2WFPlR4bqnE0q80A6XndyH"
     },
     {
       "album": {
@@ -19736,6 +19790,24 @@
       "duration_ms": 168428,
       "name": "Get Off My Phone",
       "url": "https://open.spotify.com/track/3ArhAv6XnxAnGK8s6et1E1"
+    },
+    {
+      "album": {
+        "name": "Get This",
+        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
     },
     {
       "album": {
@@ -23506,7 +23578,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 203174,
       "name": "Hollow Noon",
       "url": "https://open.spotify.com/track/2OYoQkTfbPP40cJWA8Ixch"
@@ -25852,6 +25924,24 @@
       "duration_ms": 162820,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/31QOLUDQM4LKB7Sg2aOEMF"
+    },
+    {
+      "album": {
+        "name": "I've Got A Broken Heart",
+        "url": "https://open.spotify.com/album/3DztGBFFRznexpmi3CjUt6"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "I've Got A Broken Heart",
+      "url": "https://open.spotify.com/track/38ifZytnEYRRwRfEx60hgk"
     },
     {
       "album": {
@@ -30413,6 +30503,24 @@
     },
     {
       "album": {
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403520,
+      "name": "LOOK OUT FOR ME",
+      "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz"
+    },
+    {
+      "album": {
         "name": "look what you're doing to me",
         "url": "https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c"
       },
@@ -31966,7 +32074,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 194853,
       "name": "Man on the Run (feat. Brianna Collins)",
       "url": "https://open.spotify.com/track/4sa4aOEyc19IpJJX9WdKou"
@@ -42397,6 +42505,24 @@
     },
     {
       "album": {
+        "name": "Sad Generation",
+        "url": "https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152103,
+      "name": "Sad Generation",
+      "url": "https://open.spotify.com/track/7wR0zykN2dzYviTGcvV8BH"
+    },
+    {
+      "album": {
         "name": "Sad Girl Summer",
         "url": "https://open.spotify.com/album/6BD3f64782idv4IF2npufe"
       },
@@ -46810,7 +46936,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 267520,
       "name": "SPIDERS",
       "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
@@ -49272,7 +49398,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 317040,
       "name": "Talk To You (ft. Elton John)",
       "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
@@ -50374,7 +50500,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"

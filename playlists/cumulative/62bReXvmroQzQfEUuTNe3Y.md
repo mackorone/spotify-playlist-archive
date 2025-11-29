@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2025\. Updated weekly!
 
-508 songs - 1 day 4 hr 20 min
+509 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Until the Sun Needs to Rise](https://open.spotify.com/track/4UbwXGInqdJMM28GOEUSvZ) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 4:52 | 2025-07-30 |  |
 | [Until We Leave the Ground \- Steve James Remix](https://open.spotify.com/track/1qcxoSRrWRDxvOCHVit2of) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Steve James](https://open.spotify.com/artist/7k8z1Z8hQqKnLLMQ5Ihzjk) | [Far from Here \(The Remix Album\)](https://open.spotify.com/album/0wi2YmWEKfm2g0YuvCMcUH) | 3:17 | 2022-03-11 |  |
 | [Uplifted](https://open.spotify.com/track/4E3xcXqrCfywoL2GQ0aayE) | [Jozels](https://open.spotify.com/artist/0U1vPNbcJ2OJIcqFmhf3dy), [Jon Hazel](https://open.spotify.com/artist/0s7OxlyWZNRp85gNvzkMDv) | [Uplifted](https://open.spotify.com/album/4bXw5B4YvjVMLmsBVM8XkF) | 4:04 | 2021-03-11 | 2021-04-03 |
+| [Upside Down](https://open.spotify.com/track/3yh06bgDnH0QZFiHVeObWH) | [April Girl](https://open.spotify.com/artist/6F6kiCnzdyGJlHGCeGukPs) | [Upside Down](https://open.spotify.com/album/08lvnFa8o51c7yEeO9PA44) | 2:44 | 2025-11-28 |  |
 | [Us \- Selected Mix](https://open.spotify.com/track/5PU3Pd7ml1GfvJt7IqksG6) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Us](https://open.spotify.com/album/1FtgISKKm0jFKfZxKvZ8QC) | 2:43 | 2021-03-11 |  |
 | [Velvet & Ice](https://open.spotify.com/track/2ahkfDeB4jC8xo2zWGSDbF) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Velvet & Ice](https://open.spotify.com/album/4edlLfaxHqCnxyPHkfYZzM) | 3:08 | 2025-11-21 |  |
 | [VIEWS](https://open.spotify.com/track/0zXjUo1w3t9MNT6RKYmNHv) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:48 | 2022-08-05 |  |
@@ -472,7 +473,7 @@
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-01-21 | 2022-09-17 |
 | [Want It](https://open.spotify.com/track/37OhtSnCY0kzqkPWmfN3RD) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Want It](https://open.spotify.com/album/495KToZQi6VijKwHedBAAH) | 2:32 | 2021-06-12 | 2021-07-17 |
 | [Warmer](https://open.spotify.com/track/5KiXHbjpJuKD4XHR1fcjYP) | [Imanos](https://open.spotify.com/artist/26fsavNxrXVdRK7wL3jZKb) | [Warmer](https://open.spotify.com/album/5wLRDM7IOWxh997fsJrtD9) | 2:32 | 2021-09-18 | 2021-11-11 |
-| [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 |  |
+| [Waterfall](https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV) | [Waterfall](https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx) | 4:24 | 2025-04-11 | 2025-11-29 |
 | [Weightless](https://open.spotify.com/track/14Qgz11mmNGbIQ57IZlAUF) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Weightless](https://open.spotify.com/album/2lJ4zllo7kxxEbeWTJxLR6) | 3:06 | 2024-10-18 | 2025-04-16 |
 | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Weightless \(jamesjamesjames Remix\)](https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0) | 4:09 | 2025-01-03 | 2025-07-31 |
 | [Weyu](https://open.spotify.com/track/0LGUxRAobq2shxKN3xtnMJ) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [Weyu](https://open.spotify.com/album/4FbMW7LEw4yDVgSXBXYvdT) | 2:13 | 2025-11-18 |  |

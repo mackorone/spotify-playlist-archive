@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Papillon entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,346 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,368 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 2 | [Offline](https://open.spotify.com/track/3dXtvTPF6BzNaiHvS7Nnrh) | [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Elixir](https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3) | 4:06 |
 | 3 | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/3Zf4sVsmsFMSMiq6EcLuCz) | [YeezYuri](https://open.spotify.com/artist/7cM8f3lRgDVn4SUo0DLLeo), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [teletubbies \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/7ykDqjbu0EIVs6RVJ7bUzK) | 4:08 |
 | 4 | [Salo](https://open.spotify.com/track/4lDQoq2cyhMcz5gg5y2Zr6) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Intervenção Social](https://open.spotify.com/album/0oyQBDFWkiuBmavLa69PfP) | 2:48 |
-| 5 | [Meia Noite](https://open.spotify.com/track/1D8118p3KEFv14bqgh2VYv) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo), [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [](https://open.spotify.com/album/null) | 2:55 |
+| 5 | [Meia Noite](https://open.spotify.com/track/1D8118p3KEFv14bqgh2VYv) | [Deedz B](https://open.spotify.com/artist/3uFX3kMxtOUFMDaJoFPJwo), [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Amar em Silêncio](https://open.spotify.com/album/54Gdf6csl6rltTXmOYpJCY) | 2:55 |
 | 6 | [¡ +1 !](https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [¡ +1 !](https://open.spotify.com/album/73O1BtNLX4dNnqBqcc0oYx) | 3:54 |
 | 7 | [Conto de Fadas](https://open.spotify.com/track/7qqUMaeAqKgiI8Pn1PEZVY) | [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Rahiz](https://open.spotify.com/artist/5O8NHM6tAIEigAbZbxQsfd) | [Conto de Fadas](https://open.spotify.com/album/1K2PtJYkvh12hU6WNGxt82) | 2:33 |
 | 8 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 |
 | 9 | [Nossa História](https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Nossa História](https://open.spotify.com/album/4ly1joTaalQ5wAP0rbwmPT) | 4:13 |
 | 10 | [DADDY](https://open.spotify.com/track/5cnv7sOnQt78of2b9xphhg) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [DADDY](https://open.spotify.com/album/2KU1CX8yce0x3eKHJWY3TZ) | 3:29 |
 | 11 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
-| 12 | [Manda Fogo](https://open.spotify.com/track/3TzLz0o0ilVEmc2EUGl7zM) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [](https://open.spotify.com/album/null) | 2:42 |
+| 12 | [Manda Fogo](https://open.spotify.com/track/3TzLz0o0ilVEmc2EUGl7zM) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Novo Messi 3](https://open.spotify.com/album/7KdHxhow3v6OPsdVrGfSSz) | 2:42 |
 | 13 | [Aplausos](https://open.spotify.com/track/6aR1vmIXugRUPPusdZEfaj) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Aplausos](https://open.spotify.com/album/6o4tdPrgwYVsaYdPPbEbHu) | 3:58 |
 | 14 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 15 | [Saudade](https://open.spotify.com/track/6ogRFVwRCIIbaWwIvYeyQ1) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Saudade](https://open.spotify.com/album/0ch2cUW8uCWyIroYGNRjs3) | 2:25 |

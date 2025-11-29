@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Owen Riegling
 
-393 songs - 21 hr 27 min
+394 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Talk With Me](https://open.spotify.com/track/15yl5Tuk1QhV8ScQ8chspI) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Talk With Me](https://open.spotify.com/album/7k6FBmrJzoUkCAw1gN2855) | 3:16 | 2025-02-28 | 2025-05-10 |
 | [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 | 2025-08-08 | 2025-11-22 |
 | [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 | 2025-04-04 | 2025-11-22 |
+| [That's Just Love For Ya](https://open.spotify.com/track/50U3w2Cj9TRbX9Ea3Yju0L) | [The Prairie States](https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde) | [That's Just Love For Ya](https://open.spotify.com/album/5pDtTHZty1ErXzu4r7k1Us) | 3:08 | 2025-11-28 |  |
 | [The Architect](https://open.spotify.com/track/78SjYKRXdivtTDHBzaehnm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:57 | 2024-03-15 | 2024-07-30 |
 | [The Call](https://open.spotify.com/track/2eyhcmJHSEbdakGBBDsiqE) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County \(From The Beginning\)](https://open.spotify.com/album/1LfbRC9L0MfNXSHZfX63hq) | 4:59 | 2024-11-01 | 2025-03-01 |
 | [The Day That I'm Over You](https://open.spotify.com/track/6ZnV68nwB7llr1I22kQjmQ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [The Day That I'm Over You](https://open.spotify.com/album/1sfqqJAPXEg6jMkpavqHDD) | 3:18 | 2023-11-03 | 2024-01-13 |

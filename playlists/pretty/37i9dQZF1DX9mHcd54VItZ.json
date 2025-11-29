@@ -1,32 +1,28 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Droomsindroom & Zaan Sonnekus",
-  "num_followers": 25668,
+  "description": "The best new and classic South African Rock. Cover: Elle E",
+  "num_followers": 25678,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH",
+  "snapshot_id": "AAAAANbZiSeTILq1ittGONFqC5q3s5+n",
   "tracks": [
     {
-      "added_at": "2025-11-07 07:53:11",
+      "added_at": "2025-11-28 07:22:14",
       "album": {
-        "name": "Gatvol",
-        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
+        "name": "Don't Be Late",
+        "url": "https://open.spotify.com/album/2qRCNiAU4RG5Wy2gExcb58"
       },
       "artists": [
         {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
         }
       ],
-      "duration_ms": 166031,
-      "name": "Gatvol",
-      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
+      "duration_ms": 139352,
+      "name": "Don't Be Late",
+      "url": "https://open.spotify.com/track/72AiPTmRkv3TweWaPh0c8O"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -61,20 +57,20 @@
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
     },
     {
-      "added_at": "2025-11-07 07:53:11",
+      "added_at": "2025-11-28 07:22:14",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/7HHgQX997jps6Gtpc1yEpa"
+        "name": "Fluit Fluit",
+        "url": "https://open.spotify.com/album/7nzn0eRaGOmevIz78nI3WN"
       },
       "artists": [
         {
-          "name": "FREDDY L",
-          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/24qoC16krMl7flCFz8yi7N"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Undercover",
-      "url": "https://open.spotify.com/track/3122Tq7clEd0NgsAO7s4Gg"
+      "duration_ms": 161000,
+      "name": "Fluit Fluit",
+      "url": "https://open.spotify.com/track/0sciJcNsNp7inOlpmw7ILt"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -117,6 +113,22 @@
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
+      "added_at": "2025-11-28 07:22:14",
+      "album": {
+        "name": "KLEUR",
+        "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
+      },
+      "artists": [
+        {
+          "name": "MOEGOE",
+          "url": "https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ"
+        }
+      ],
+      "duration_ms": 201420,
+      "name": "KLEUR",
+      "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
       "added_at": "2025-11-14 06:02:00",
       "album": {
         "name": "Pink Hell (Deluxe)",
@@ -131,6 +143,58 @@
       "duration_ms": 185913,
       "name": "Fire Sign",
       "url": "https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw"
+    },
+    {
+      "added_at": "2025-11-07 07:53:11",
+      "album": {
+        "name": "Gatvol",
+        "url": "https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 166031,
+      "name": "Gatvol",
+      "url": "https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P"
+    },
+    {
+      "added_at": "2025-11-28 07:22:14",
+      "album": {
+        "name": "As It Should Be",
+        "url": "https://open.spotify.com/album/548fp5hcdsBBHtKCNhkrqY"
+      },
+      "artists": [
+        {
+          "name": "ARD matthews",
+          "url": "https://open.spotify.com/artist/5LeZoIsr3HTDipdWQbiAfo"
+        }
+      ],
+      "duration_ms": 273676,
+      "name": "No Avoiding It",
+      "url": "https://open.spotify.com/track/5yhBq05n6uyaF2Mj4xGsCt"
+    },
+    {
+      "added_at": "2025-11-07 07:53:11",
+      "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -149,20 +213,20 @@
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
-      "added_at": "2025-11-07 18:56:39",
+      "added_at": "2025-11-28 07:22:14",
       "album": {
-        "name": "Hermit",
-        "url": "https://open.spotify.com/album/2gjTnYpUWysnVYYi3kga0J"
+        "name": "Hey Jack",
+        "url": "https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W"
       },
       "artists": [
         {
-          "name": "Kayla The Crow",
-          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
         }
       ],
-      "duration_ms": 222388,
-      "name": "Hermit",
-      "url": "https://open.spotify.com/track/0q0Q3nVdpV9BVGsLkyAl4v"
+      "duration_ms": 174000,
+      "name": "Hey Jack",
+      "url": "https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9"
     },
     {
       "added_at": "2025-08-08 08:08:22",
@@ -185,38 +249,6 @@
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
     },
     {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
-    },
-    {
-      "added_at": "2025-11-14 06:02:00",
-      "album": {
-        "name": "TV TYD",
-        "url": "https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a"
-      },
-      "artists": [
-        {
-          "name": "Henru",
-          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
-        }
-      ],
-      "duration_ms": 204269,
-      "name": "Kaya",
-      "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
-    },
-    {
       "added_at": "2025-09-19 09:12:03",
       "album": {
         "name": "Spoed",
@@ -233,20 +265,36 @@
       "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
-      "added_at": "2025-11-14 06:02:00",
+      "added_at": "2025-11-28 07:22:14",
       "album": {
-        "name": "Gutter",
-        "url": "https://open.spotify.com/album/1myfho9zeroM315rbNoEpY"
+        "name": "Monsters Den",
+        "url": "https://open.spotify.com/album/3imSIWaG9HM1shu3hGOkAU"
       },
       "artists": [
         {
-          "name": "RICKY",
-          "url": "https://open.spotify.com/artist/1vsGHYgsUeGCF5SiR1Ghnj"
+          "name": "Vaughn Prangley",
+          "url": "https://open.spotify.com/artist/6ji1Ym2kjznFqaJk0E6q5g"
         }
       ],
-      "duration_ms": 138400,
-      "name": "Gutter",
-      "url": "https://open.spotify.com/track/5EONW5KMY8cPHsoOcDm1q5"
+      "duration_ms": 282146,
+      "name": "Monsters Den",
+      "url": "https://open.spotify.com/track/6RUBf7Bz0Lix1FV9tT839i"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -265,22 +313,6 @@
       "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
-      "added_at": "2025-11-07 07:53:11",
-      "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
-    },
-    {
       "added_at": "2025-08-07 22:00:52",
       "album": {
         "name": "Another Universe",
@@ -297,6 +329,22 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
+      "added_at": "2025-11-28 07:22:14",
+      "album": {
+        "name": "Wys Vir My Die Lyn",
+        "url": "https://open.spotify.com/album/4ptsXgkSYJaxeX8SZOBoVc"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Wys Vir My Die Lyn",
+      "url": "https://open.spotify.com/track/78bc7rcQbiaV0yZ3Vuuy0d"
+    },
+    {
       "added_at": "2025-08-07 22:00:52",
       "album": {
         "name": "Hello Crazy World -10th Anniversary Special",
@@ -311,26 +359,6 @@
       "duration_ms": 222666,
       "name": "Hello",
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
-    },
-    {
-      "added_at": "2025-11-07 07:53:11",
-      "album": {
-        "name": "Ek Dink Te Veel",
-        "url": "https://open.spotify.com/album/6ceCa4ISJm6S8fU2W6b75i"
-      },
-      "artists": [
-        {
-          "name": "Schwabie",
-          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
-        },
-        {
-          "name": "Tylo",
-          "url": "https://open.spotify.com/artist/299MvNkYz1bIwdWQpffHKr"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ek Dink Te Veel",
-      "url": "https://open.spotify.com/track/0nJcHyQST727NW3jNhzlFh"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -373,26 +401,6 @@
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
     },
     {
-      "added_at": "2025-11-07 07:53:11",
-      "album": {
-        "name": "My Eie Kop",
-        "url": "https://open.spotify.com/album/4wUeUYAf56IJHmFHlQWuDb"
-      },
-      "artists": [
-        {
-          "name": "Peer Papsak",
-          "url": "https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25"
-        },
-        {
-          "name": "KayCee",
-          "url": "https://open.spotify.com/artist/1MBDvZuGnSzGV1NHDHXpDw"
-        }
-      ],
-      "duration_ms": 185537,
-      "name": "My Eie Kop",
-      "url": "https://open.spotify.com/track/0MgT9eDkNv17wZ3fVUVg0z"
-    },
-    {
       "added_at": "2025-08-07 22:00:52",
       "album": {
         "name": "Surpass The Power",
@@ -409,6 +417,22 @@
       "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
+      "added_at": "2025-11-28 07:22:14",
+      "album": {
+        "name": "My Brein",
+        "url": "https://open.spotify.com/album/1bPI4g8amCBrIcpniiCUum"
+      },
+      "artists": [
+        {
+          "name": "Ruderick Heuer",
+          "url": "https://open.spotify.com/artist/5hPDlLuNcGmAQPiJ0WQwcD"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "My Brein",
+      "url": "https://open.spotify.com/track/7w0ZQwMP5Q0dWhliqtmRqt"
+    },
+    {
       "added_at": "2025-08-07 22:00:52",
       "album": {
         "name": "As Jy Met Vuur Speel Sal Jy Brand",
@@ -423,6 +447,22 @@
       "duration_ms": 159253,
       "name": "Hemel Op Die Platteland",
       "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Mulberry Tree",
+        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 209834,
+      "name": "Foxglove",
+      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -457,20 +497,20 @@
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
-      "added_at": "2025-11-07 07:53:11",
+      "added_at": "2025-11-28 07:22:14",
       "album": {
-        "name": "Galop Van Die Suikerruiter",
-        "url": "https://open.spotify.com/album/7fn8sHx0dKXd2IYfc4gJxV"
+        "name": "Speakers",
+        "url": "https://open.spotify.com/album/1PBnmHUw2gL5UHqRdruO1J"
       },
       "artists": [
         {
-          "name": "Karel Bester & Die Kraaines Band",
-          "url": "https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz"
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
         }
       ],
-      "duration_ms": 200101,
-      "name": "Galop Van Die Suikerruiter",
-      "url": "https://open.spotify.com/track/65tjkKUnoQ9de5nzwI7keR"
+      "duration_ms": 169750,
+      "name": "Speakers",
+      "url": "https://open.spotify.com/track/1mOFfJtljzbKcEXa4hhUnw"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -521,20 +561,20 @@
       "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
     },
     {
-      "added_at": "2025-08-07 22:00:52",
+      "added_at": "2025-11-07 07:53:11",
       "album": {
-        "name": "Mulberry Tree",
-        "url": "https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9"
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/7HHgQX997jps6Gtpc1yEpa"
       },
       "artists": [
         {
-          "name": "Babble Hume",
-          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
         }
       ],
-      "duration_ms": 209834,
-      "name": "Foxglove",
-      "url": "https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS"
+      "duration_ms": 190000,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/3122Tq7clEd0NgsAO7s4Gg"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -553,20 +593,24 @@
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
-      "added_at": "2025-10-17 07:23:36",
+      "added_at": "2025-11-07 07:53:11",
       "album": {
-        "name": "Your Curse",
-        "url": "https://open.spotify.com/album/18MSwKWrDcrObiqwHGiaOx"
+        "name": "Ek Dink Te Veel",
+        "url": "https://open.spotify.com/album/6ceCa4ISJm6S8fU2W6b75i"
       },
       "artists": [
         {
-          "name": "Babette",
-          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        },
+        {
+          "name": "Tylo",
+          "url": "https://open.spotify.com/artist/299MvNkYz1bIwdWQpffHKr"
         }
       ],
-      "duration_ms": 222359,
-      "name": "Your Curse",
-      "url": "https://open.spotify.com/track/1GRajx7wJBtvsNET2B2G6r"
+      "duration_ms": 180000,
+      "name": "Ek Dink Te Veel",
+      "url": "https://open.spotify.com/track/0nJcHyQST727NW3jNhzlFh"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -583,6 +627,22 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+    },
+    {
+      "added_at": "2025-10-17 07:23:36",
+      "album": {
+        "name": "Your Curse",
+        "url": "https://open.spotify.com/album/18MSwKWrDcrObiqwHGiaOx"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 222359,
+      "name": "Your Curse",
+      "url": "https://open.spotify.com/track/1GRajx7wJBtvsNET2B2G6r"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -631,6 +691,22 @@
       "duration_ms": 255722,
       "name": "Berge",
       "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
+    },
+    {
+      "added_at": "2025-11-14 06:02:00",
+      "album": {
+        "name": "TV TYD",
+        "url": "https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a"
+      },
+      "artists": [
+        {
+          "name": "Henru",
+          "url": "https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk"
+        }
+      ],
+      "duration_ms": 204269,
+      "name": "Kaya",
+      "url": "https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38"
     },
     {
       "added_at": "2025-08-07 22:00:52",
@@ -745,26 +821,6 @@
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
-      "added_at": "2025-08-29 08:21:07",
-      "album": {
-        "name": "Doen Cool Shit",
-        "url": "https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 193571,
-      "name": "Doen Cool Shit",
-      "url": "https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P"
-    },
-    {
       "added_at": "2025-08-07 22:00:52",
       "album": {
         "name": "Judas Mind",
@@ -779,74 +835,6 @@
       "duration_ms": 244728,
       "name": "Judas Mind - edit",
       "url": "https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
-      },
-      "artists": [
-        {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
-    },
-    {
-      "added_at": "2025-08-29 08:21:07",
-      "album": {
-        "name": "Hou Weer Moed",
-        "url": "https://open.spotify.com/album/6UJ9O5EIWbwqHDsDy9Ck8N"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        },
-        {
-          "name": "Emile Swiegers",
-          "url": "https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i"
-        }
-      ],
-      "duration_ms": 246291,
-      "name": "Hou Weer Moed",
-      "url": "https://open.spotify.com/track/34pyJmYIP3R26RuFvZ0ISo"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "Victor Ludorum",
-        "url": "https://open.spotify.com/album/53bANzS97yzookNh9mNnm3"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        }
-      ],
-      "duration_ms": 189895,
-      "name": "Victor Ludorum",
-      "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "AfterlifeSatisfaction",
-        "url": "https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 282973,
-      "name": "Genie",
-      "url": "https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX"
     }
   ],
   "unique_name": "SA Rock ",

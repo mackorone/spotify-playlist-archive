@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,201 likes - 115 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,208 likes - 115 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 15 | [Adonai](https://open.spotify.com/track/5q4o2JtCVOwoNAxpSkbfIn) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [The Spirit of Prophecy](https://open.spotify.com/album/1Kkxf41K8ewlPrmuxOBjOr) | 3:26 |
 | 16 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |
 | 17 | [Super Hero](https://open.spotify.com/track/6ek9PTs1H4HLJwByyL4azo) | [TELMAN](https://open.spotify.com/artist/1yUoEAx9505meg1nEyulne) | [Super Hero](https://open.spotify.com/album/2dv6noZc13Is35cIRJpybj) | 2:24 |
-| 18 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
+| 18 | [E Dey Flow](https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [SpotLite Nation](https://open.spotify.com/artist/2UhKWXKdeg54DFRMVK3wqS), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [E Dey Flow](https://open.spotify.com/album/4qt2lEkiK39cy0nnbfJMLW) | 2:36 |
 | 19 | [Odogwu Jesus](https://open.spotify.com/track/3mz182YvhlOW48A1xZguEb) | [Evang\. Ifiok Chukwudi](https://open.spotify.com/artist/7JRpcN29El3husnrx7RHvO), [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [Odogwu Jesus](https://open.spotify.com/album/7EoaDtWxBulrkOWUn8Hog2) | 2:50 |
 | 20 | [Omo Baba](https://open.spotify.com/track/6Cq9fb1yZMQ7ZljGQLkkSJ) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Omo Baba](https://open.spotify.com/album/4bup49mjtfuz6vRg1a2Uw2) | 3:15 |
 | 21 | [Faraway](https://open.spotify.com/track/3R0SeTHGkyhaSRAYtK3deo) | [Keptah](https://open.spotify.com/artist/3BLBdRyLyibc3aKdZ6ZdcJ), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Faraway](https://open.spotify.com/album/6LkzRyjFjhEvfbd83UcqCS) | 2:46 |

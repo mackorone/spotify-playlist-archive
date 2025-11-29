@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 53,055 likes - 75 songs - 3 hr 8 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 53,053 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 27 | [Haver Cappu \(feat\. Milolaathetlukken & ADF Samski\)](https://open.spotify.com/track/645mR9ln7ISijLQJDq1a3M) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Haver Cappu \(feat\. Milolaathetlukken & ADF Samski\)](https://open.spotify.com/album/6vVMdhEOvfcVh7YDqLRaKl) | 2:24 |
 | 28 | [Vieze Dingen](https://open.spotify.com/track/3GzsVvah7WHhzTAxUVEB3Y) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Vieze Dingen](https://open.spotify.com/album/4nNsZ3SwBtAcyUFzCwWrMg) | 2:11 |
 | 29 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 |
-| 30 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 |
-| 31 | [FALL AGAIN](https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [FALL AGAIN](https://open.spotify.com/album/2Gwa3T4RlRVl2EBuDiiLEB) | 2:47 |
-| 32 | [Echo van de Nacht](https://open.spotify.com/track/6PQNVtaWphnTqYmWY9TbWU) | [TIJE](https://open.spotify.com/artist/55gYZdYxonabF6ptsbSm7C), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu), [KlikKlak](https://open.spotify.com/artist/000TJhsWOqbyNbTqCU26cW) | [Echo van de Nacht](https://open.spotify.com/album/6ri5kmnWT8i5WzbxZpdUus) | 2:22 |
+| 30 | [Kristallen](https://open.spotify.com/track/2GmQZqpwMkLEbIcLpwyQZw) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 3:06 |
+| 31 | [Chaos](https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Chaos](https://open.spotify.com/album/2cUXkhXp0T5uWU1rgfWku2) | 2:51 |
+| 32 | [FALL AGAIN](https://open.spotify.com/track/5OwcN7VpWuViKrtYlZuzTn) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [FALL AGAIN](https://open.spotify.com/album/2Gwa3T4RlRVl2EBuDiiLEB) | 2:47 |
 | 33 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 |
 | 34 | [Lovin Lovin](https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Lovin Lovin](https://open.spotify.com/album/4DOZs3ELHMAqof1ho2LG4O) | 2:15 |
 | 35 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 | 74 | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free \(feat\. Bruno Mars\)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3:27 |
 | 75 | [Okee Shordy](https://open.spotify.com/track/47AUY6Kl6iiuSzZbOgwGF9) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Okee Shordy](https://open.spotify.com/album/3U0lv1cCRjEfiRAplhaqgw) | 2:30 |
 
-Snapshot ID: `AAATu+H6EFHSPZbafZoFSua6wAtOk1+B`
+Snapshot ID: `AAATvVdtY3pSZrbYlNvr+czqRggY8SiH`

@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 275913,
+  "num_followers": 275912,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACJ4UNmfY3KScsTc5mQJHqD",
+  "snapshot_id": "aSeUgAAAAAAjJGSbjDvo36u7XumaeUGF",
   "tracks": [
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "XNDA",
-          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
-        }
-      ],
-      "duration_ms": 245295,
-      "name": "Pipe (feat. XNDA)",
-      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
         "url": "https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 216737,
       "name": "Pa Mis Muchachas (feat. NATHY PELUSO)",
       "url": "https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "XNDA",
+          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
+        }
+      ],
+      "duration_ms": 245295,
+      "name": "Pipe (feat. XNDA)",
+      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
     },
     {
       "added_at": null,

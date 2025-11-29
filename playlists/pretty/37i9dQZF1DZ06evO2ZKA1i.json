@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 300153,
+  "num_followers": 300162,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACsOsSaUW2+3EAmws7JYvpS",
+  "snapshot_id": "aSeUgAAAAAChfnWtDtcUMVU4yo1b8ZiL",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 218173,
-      "name": "Gettin' Tighter - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now What ?!",
         "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 261493,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Gettin' Tighter - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapture of the Deep (20th Anniversary Remix)",
         "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 354884,
       "name": "Rapture of the Deep - 20th Anniversary Remix",
       "url": "https://open.spotify.com/track/7ayF99jzq2CWQ8CVyrWw7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Book of Taliesyn",
+        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 391866,
+      "name": "Anthem - 2000 Remaster",
+      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     },
     {
       "added_at": null,

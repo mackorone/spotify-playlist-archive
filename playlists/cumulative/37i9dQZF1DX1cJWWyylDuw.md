@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-752 songs - 2 day 0 hr 7 min
+753 songs - 2 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Banquet of Enigmatic Horrors Pt1: Terror](https://open.spotify.com/track/4vjralLcZQXtoCFTQajZQu) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Banquet of Enigmatic Horrors Pt 1: Terror](https://open.spotify.com/album/4t6hqON21Pp8pkNAXKd9lK) | 4:22 | 2021-12-17 | 2022-07-28 |
 | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/track/4RxrwJYJ3gRnxrUBpyKkzz) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J), [Oliver Rae Aleron](https://open.spotify.com/artist/2IHcesdgSqwFOxH6n7GOXQ) | [Banquet of Enigmatic Horrors, Pt\. 2: Agony](https://open.spotify.com/album/2zwDvKAqalRZTDl4luS9bW) | 4:45 | 2021-12-17 | 2022-07-29 |
 | [Banshee](https://open.spotify.com/track/5zCf7x1mTeCOf4Uzxw2WWm) | [Seeing Things](https://open.spotify.com/artist/0PQdHOK4NlRByaOMPQeWEH) | [Banshee](https://open.spotify.com/album/2gPp8IUtPPOkTWaIGSxcxj) | 3:10 | 2022-05-27 | 2025-04-26 |
-| [Barbed Wire Noose](https://open.spotify.com/track/6EPr6M5Dslm38wvzaJ1J4b) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Barbed Wire Noose](https://open.spotify.com/album/40NWko84ggAd1kosTIXTNx) | 3:44 | 2025-03-14 |  |
+| [Barbed Wire Noose](https://open.spotify.com/track/6EPr6M5Dslm38wvzaJ1J4b) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Barbed Wire Noose](https://open.spotify.com/album/40NWko84ggAd1kosTIXTNx) | 3:44 | 2025-03-14 | 2025-11-29 |
 | [Barren and Breathless Macrocosm](https://open.spotify.com/track/3FlPw9Js3uGZQ0eNqWKtS3) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Barren and Breathless Macrocosm](https://open.spotify.com/album/5yOlm4DL4IfxA1EJotKHZz) | 4:56 | 2021-12-17 | 2025-06-07 |
 | [Bathe in the Flame](https://open.spotify.com/track/3fJWw5Od5tGvKlyh02jLib) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Bathe in the Flame](https://open.spotify.com/album/1hHaXapKFTDXsnDhlZbmN6) | 4:00 | 2021-12-17 | 2024-06-26 |
 | [Battles Are Won Within](https://open.spotify.com/track/1x3h4Gt8q5lr3lCr9DwW40) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Battles Are Won Within](https://open.spotify.com/album/2SxBnU5KV2nnjndfDlQgqZ) | 3:56 | 2021-12-17 | 2022-07-23 |
@@ -195,6 +195,7 @@
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-05-27 |  |
 | [Demon Teeth](https://open.spotify.com/track/0QdbAYQjcONRUWTyghP8P3) | [lil sleepy](https://open.spotify.com/artist/33pxNrBzoYvOQYcXlCJ1GG), [No Face No Case](https://open.spotify.com/artist/1jwcvlHFsttKb6JY8jPUXQ) | [Demon Teeth](https://open.spotify.com/album/6PCrTxBz2IhgwR47YbFmWo) | 3:18 | 2022-04-22 | 2025-03-15 |
 | [DEPTHS](https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL) | [SUICIDE MESSIAH](https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO), [ENEMY 906](https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [DEPTHS](https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3) | 3:16 | 2025-08-15 |  |
+| [Desecrate Infinite](https://open.spotify.com/track/7i4BhFW2LMShsOULSjN9ko) | [Crown Magnetar](https://open.spotify.com/artist/0DlST2L7efoM5Lb0uxG3Tx) | [Desecrate Infinite](https://open.spotify.com/album/5RiOQviWhbcKtjvO1F2e6Y) | 3:11 | 2025-11-28 |  |
 | [Desensitised](https://open.spotify.com/track/2NyaVGt3OWO3PbBiiYIznZ) | [Carbine](https://open.spotify.com/artist/2cuY8G1GO57896caxClTIj) | [Desensitised](https://open.spotify.com/album/3SWIjXdp9UvrQvzlrlh1eL) | 3:21 | 2021-12-17 | 2022-07-27 |
 | [Desolate Specter](https://open.spotify.com/track/6UYTzsBQfVCLa5F1WdCJfX) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo) | [Desolate Specter](https://open.spotify.com/album/73vvbakKYjHpokxsROMeKf) | 3:12 | 2021-12-17 | 2024-06-26 |
 | [Destroyer of Worlds](https://open.spotify.com/track/1mLq1if1kfmyS9pkm7AJTW) | [Heaven Is A Lie](https://open.spotify.com/artist/00TMUdRnoUHuJLcHgU1hkQ) | [Destroyer of Worlds](https://open.spotify.com/album/0b9xzeBQTf14vtjBpsIoTe) | 4:49 | 2025-08-15 | 2025-10-07 |

@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: RAYE
 
-853 songs - 1 day 22 hr 30 min
+855 songs - 1 day 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,12 +132,14 @@
 | [Catch You When You Fall](https://open.spotify.com/track/4YJ4LyVaICt6O32gZ45w4b) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Catch You When You Fall](https://open.spotify.com/album/3r3y1v9oCalBtpNIUz54FU) | 3:12 | 2023-03-18 | 2023-07-15 |
 | [Celestial](https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Celestial](https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29) | 3:29 | 2022-09-30 | 2023-06-10 |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-01-20 | 2023-01-28 |
+| [Changing](https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9) | [Kevin Jonas](https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu) | [Changing](https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR) | 3:02 | 2025-11-28 |  |
 | [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-04-12 | 2024-05-18 |
 | [Chicken Little](https://open.spotify.com/track/5NzrfsIkCCexhDh2R9A2cG) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chicken Little](https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko) | 2:42 | 2023-07-14 | 2024-02-10 |
 | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-09-08 | 2024-06-29 |
 | [Circles](https://open.spotify.com/track/0GJawEkfRlrZy0zWbhyB2q) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [BASED ON A TRUE STORY II](https://open.spotify.com/album/3bAUbpLC4nG9GMQxm9qzAa) | 2:36 | 2022-11-04 | 2022-12-17 |
 | [Circles](https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:35 | 2022-02-04 | 2022-02-19 |
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-08 | 2023-03-19 |
+| [cliché \- Jonas Brothers remix](https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [cliché \(Jonas Brothers remix\)](https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn) | 2:56 | 2025-11-28 |  |
 | [Close To You](https://open.spotify.com/track/2bl81llf715VEEbAx03yvB) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:45 | 2024-07-05 | 2025-05-31 |
 | [closure](https://open.spotify.com/track/5iKyrrKFZ9zHbW0mpW18GA) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [closure](https://open.spotify.com/album/1r2rmgwbxAqt6qG6DWRpYy) | 3:03 | 2023-10-20 | 2024-02-10 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-02-04 | 2022-06-04 |
@@ -495,7 +497,7 @@
 | [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 | 2022-09-02 | 2022-09-28 |
 | [Love The Hell Out Of You](https://open.spotify.com/track/2vBBUQnM6YSN44gbe4uCoH) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Love The Hell Out Of You](https://open.spotify.com/album/1Jp3i4GcmKeOvP7DAVq9Pg) | 3:25 | 2024-08-16 | 2025-09-21 |
 | [Love Worth Saving](https://open.spotify.com/track/3pg1HtWCkZOQtxp2jDKwTJ) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [20 Years From Now](https://open.spotify.com/album/4lRXKH3vPERvxgS9qdP7Sq) | 2:54 | 2025-02-14 |  |
-| [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-08 |  |
+| [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-08 | 2025-11-29 |
 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 | 2025-09-05 |  |
 | [Lust Not Love](https://open.spotify.com/track/5koVy7p8bh0YcwUCUuu3op) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [Words From My Bedroom](https://open.spotify.com/album/0EYR5dwivh17s1lgiEoD7N) | 3:07 | 2022-11-11 | 2023-01-21 |
 | [Mad At You](https://open.spotify.com/track/3AiL2GpNg6Id6hTfgUvt2p) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Mad At You](https://open.spotify.com/album/1tfeWytB6j3m6yl9OA05mT) | 2:45 | 2022-05-27 | 2022-06-11 |

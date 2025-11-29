@@ -5169,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "KUSAMBILA (First Phase)",
+        "url": "https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C"
+      },
+      "artists": [
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215009,
+      "name": "CULTURE CLUB",
+      "url": "https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx"
+    },
+    {
+      "album": {
         "name": "Healers Vol. 1",
         "url": "https://open.spotify.com/album/2Ll1j6O1ipT0z9w5VBymq8"
       },
@@ -7964,7 +7982,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 298030,
       "name": "Feelings Gone (feat. London Grammar)",
       "url": "https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi"
@@ -8434,6 +8452,24 @@
       "duration_ms": 244262,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc"
+    },
+    {
+      "album": {
+        "name": "Night Jams Vol. 1",
+        "url": "https://open.spotify.com/album/0uIkEtG88ctflUePoWGFQ5"
+      },
+      "artists": [
+        {
+          "name": "Maya Jane Coles",
+          "url": "https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285557,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/3NAMgDOWvLmuZIDP1gP3Rb"
     },
     {
       "album": {
@@ -24202,24 +24238,6 @@
       "duration_ms": 275439,
       "name": "Traces",
       "url": "https://open.spotify.com/track/0vcv7tSmp10u55eKYTAQ1E"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "date_added": "2025-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx"
     },
     {
       "album": {

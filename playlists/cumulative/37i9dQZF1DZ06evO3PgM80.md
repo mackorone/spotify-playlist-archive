@@ -4,7 +4,7 @@
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-68 songs - 6 hr 31 min
+69 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Eu Canto \- Ao Vivo](https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Para as Nações](https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v) | 8:19 | 2024-02-18 | 2025-03-13 |
 | [Eu Me Rendo \- Acústico](https://open.spotify.com/track/4g92G2KdbzOPfXtvbTkazd) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:38 | 2024-12-09 |  |
 | [Eu Sou do Meu Deus: Live Session](https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet) | [Joe Vasconcelos](https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Eu Sou do Meu Deus: Live Session](https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz) | 6:42 | 2024-08-03 | 2024-12-12 |
-| [Fome e Sede](https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Fome e Sede](https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq) | 6:01 | 2023-07-09 |  |
+| [Fome e Sede](https://open.spotify.com/track/0aj5sYUnI2iOqueBpTz6lP) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Fome e Sede](https://open.spotify.com/album/3l6DUJSX8ZCTXx1MEEJWwq) | 6:01 | 2023-07-09 | 2025-11-29 |
 | [Hambre Y Sed](https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Hambre Y Sed](https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB) | 6:01 | 2023-07-09 | 2025-06-06 |
 | [Há Liberdade Aqui \- Ao Vivo](https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Há Liberdade Aqui \(Ao Vivo\)](https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn) | 9:28 | 2023-09-15 | 2024-12-09 |
 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 | 2023-07-09 |  |
@@ -56,6 +56,7 @@
 | [Palavras](https://open.spotify.com/track/31tZBMILhUQPwPDEMrQg3Z) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Palavras](https://open.spotify.com/album/1sQrDiL3Fh8ZBa0AlqcoAG) | 4:24 | 2023-07-09 |  |
 | [Perto Eu Quero Estar \- Ao Vivo](https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Perto Eu Quero Estar \(Ao Vivo\)](https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x) | 4:12 | 2023-07-09 |  |
 | [Redimido \- Ao Vivo](https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Redimido \(Ao Vivo\)](https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt) | 5:47 | 2023-12-13 |  |
+| [Restaura o Teu Altar \- Ao Vivo](https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Restaura o Teu Altar \(Ao Vivo\)](https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF) | 6:58 | 2025-11-29 |  |
 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Risen Savior \(Sing My Soul\)](https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf) | 7:29 | 2023-07-09 | 2025-02-25 |
 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/6nie5worGylqWCX2Uc0VsG) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [The Mystery Of Christ](https://open.spotify.com/album/4BeyMJHnoyB5GQ3107qXMd) | 7:29 | 2025-04-21 | 2025-11-11 |
 | [Risen Savior \(Sing My Soul\) \- Live](https://open.spotify.com/track/3QyqnZ99aTFijvIfUJKScD) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [The Mystery Of Christ](https://open.spotify.com/album/4WqqAAsOclKygm5hhIVkU6) | 7:29 | 2025-02-25 | 2025-04-21 |

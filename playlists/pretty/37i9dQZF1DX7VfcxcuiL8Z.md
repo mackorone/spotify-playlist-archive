@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: DZ Deathrays
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,221 likes - 83 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,222 likes - 83 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 5 | [HANDS](https://open.spotify.com/track/64QFjvDeg3YVf9oGkASVx3) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [HANDS](https://open.spotify.com/album/2KTzR18cs1Oj7US8wUXFvi) | 2:55 |
 | 6 | [Unravel](https://open.spotify.com/track/43fImwroNsNnVKRVz999XF) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Unravel](https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn) | 2:55 |
 | 7 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 8 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [](https://open.spotify.com/album/null) | 2:56 |
+| 8 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 |
 | 9 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 10 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 |
 | 11 | [Kiss the Rain](https://open.spotify.com/track/796pQutsRdXDdYoV0wgCRk) | [THIRST TRAP](https://open.spotify.com/artist/6igX8KxCATg98x9uBHMytV) | [Kiss the Rain](https://open.spotify.com/album/6FK8wwxb2hLpVt7n87co0p) | 3:45 |

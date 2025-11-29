@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: AntsLive
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,953 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,964 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
 | 2 | [Shot Caller](https://open.spotify.com/track/4i15z1pvFVNuaMEQQFBTDm) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Shot Caller](https://open.spotify.com/album/7p8iWzdtG32lZuqMdwc31G) | 2:28 |
-| 3 | [12 CAR CONVOY](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 Car Convoy](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 |
-| 4 | [Track 2](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [12 Car Convoy](https://open.spotify.com/track/5sj2QAjQFAGWXDsIxVEhtP) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [12 Car Convoy](https://open.spotify.com/album/5mjK8j5GD8IfzCyiqhDrWA) | 2:34 |
+| 4 | [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 |
 | 5 | [How Much Will It Take](https://open.spotify.com/track/06x8K7S6w6M318VvWUg5GA) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [bygone](https://open.spotify.com/album/4ratZOOUKwmfsv2ZgRzosO) | 3:39 |
 | 6 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 |
 | 7 | [Tempa Wine](https://open.spotify.com/track/0A9obIXOVkx2HXs7Lhf0Xv) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Tempa](https://open.spotify.com/artist/464FYjDR479Kkym3Fhb19g), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [Tempa Wine](https://open.spotify.com/album/1RMsT8WLJPGkIbFAItBspd) | 2:26 |
 | 8 | [Badman Business](https://open.spotify.com/track/0nZGlYoLOXsN4WLtS2TwYD) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Paradise](https://open.spotify.com/album/55iTWkt6gIsiJ2KlMQYzPf) | 2:31 |
 | 9 | [Whine On Me](https://open.spotify.com/track/7lSwOtmyMx0eWWTSR9KbFb) | [Tight Road Baby](https://open.spotify.com/artist/2EpdHpmTKzN3AhqAByP6pt) | [Toys Out The Pram](https://open.spotify.com/album/60x5A0WgKdGQlfKQYVKP9i) | 2:07 |
-| 10 | [Track 3](https://open.spotify.com/track/3MxMwreQVfntETE5np8Qwf) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [](https://open.spotify.com/album/null) | 0:00 |
-| 11 | [Silent Approach](https://open.spotify.com/track/4m50P9Q09O5W5ngsGVqf4B) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [](https://open.spotify.com/album/null) | 2:12 |
+| 10 | [DEM BOYZ](https://open.spotify.com/track/3MxMwreQVfntETE5np8Qwf) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [FLIP PHONE SHORTY \- STRICTLY FOR DA STREETZ VOL\. 1](https://open.spotify.com/album/0zg1LBiJQ2X8MHdaVqjKUw) | 3:00 |
+| 11 | [Silent Approach](https://open.spotify.com/track/4m50P9Q09O5W5ngsGVqf4B) | [Damzz](https://open.spotify.com/artist/0gIUtcSvpmZsNEGo3rusf4) | [Recency Bias V4](https://open.spotify.com/album/4KNzSckggHdyJcYCrK4Ofp) | 2:12 |
 | 12 | [Clean](https://open.spotify.com/track/2sne1i9emLeNbT6kSe1KMG) | [Channel Alt](https://open.spotify.com/artist/4bm6gCBWXybTRcT2CisoH2), [CassKidd](https://open.spotify.com/artist/6PK38JPBr6Rq8N7qOeu2BI), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p) | [Clean](https://open.spotify.com/album/7tx4cFdi9Cg2Xxzb77dWKA) | 2:48 |
 | 13 | [Night Bus](https://open.spotify.com/track/4lzNhnPPUkyqavqQyqNnqz) | [Danny Sanchez](https://open.spotify.com/artist/73Urm8TgtoYR7Iavs8UTRL) | [Night Bus](https://open.spotify.com/album/6urop77k3bbfqbj6rSffxk) | 1:52 |
 | 14 | [Ladybird](https://open.spotify.com/track/6RYa2mxf1AnAx03OHeroMy) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Ladybird](https://open.spotify.com/album/7DJDMQUmgusYIKoWEv2L4K) | 3:09 |

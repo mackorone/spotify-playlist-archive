@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,062 songs - 4 day 10 hr 57 min
+2,063 songs - 4 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [Evighet](https://open.spotify.com/track/4cEN3svbqObdDpaZiv9sWP) | [Död Mark](https://open.spotify.com/artist/36ufPZjygPOubok9wycfl9) | [Död Mark 4Evigt](https://open.spotify.com/album/70XKEcF9OgL0YE3icy72ft) | 2:37 | 2023-10-05 | 2024-01-12 |
 | [Evigt ung](https://open.spotify.com/track/6e2RCj2TJ3G7Jn31kthwv6) | [Ana Diaz](https://open.spotify.com/artist/4Lw6zDFtDp7WVblSAXcQdW) | [Evigt ung](https://open.spotify.com/album/35O5IzH51F7gFXmJEnfufw) | 2:40 | 2022-02-17 | 2022-05-13 |
 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-08 |  |
+| [Exit](https://open.spotify.com/track/7feGG0pLDbMYOHnPmYNK1p) | [Margaux Flavet](https://open.spotify.com/artist/2lj99Le4XXGP1pU59UhihV) | [Exit](https://open.spotify.com/album/257H9ZON3dGEx7U88CTmhS) | 3:00 | 2025-11-27 |  |
 | [Explosion](https://open.spotify.com/track/0lOMfJkmkV20ajd98fpM7z) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Explosion](https://open.spotify.com/album/20rt7cmBrpIM9iKGtOrWWq) | 3:06 | 2023-10-26 | 2024-02-09 |
 | [Extraordinär](https://open.spotify.com/track/5ruFvhnLQFmUxpDxkyp0Cv) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Extraordinär](https://open.spotify.com/album/0471t7yUn97TJ0Z23pAAPp) | 2:17 | 2025-09-25 | 2025-10-23 |
 | [F\*n va bra](https://open.spotify.com/track/5W4zgLC5lBqTZOeBx8rpT2) | [Jakob Karlberg](https://open.spotify.com/artist/2wTNL2DgYACRKqxGb9oKO1), [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN) | [F\*n va bra](https://open.spotify.com/album/0xNDN5H4kvqo7n3057oAZZ) | 2:14 | 2024-04-26 | 2024-05-24 |
@@ -1132,7 +1133,7 @@
 | [Madame Monroe](https://open.spotify.com/track/1chwGzlvIOU6Vcs2sM34yL) | [Alex Järvi](https://open.spotify.com/artist/1J0C99LuAwjCC6IQOmJEDE) | [Madame Monroe](https://open.spotify.com/album/5DCYOasytPRcMArmRrBw96) | 3:02 | 2024-04-11 | 2024-05-17 |
 | [Magic Stone](https://open.spotify.com/track/1A8uTEGcDuZJDaPWoFb2yt) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Magic Stone](https://open.spotify.com/album/0Tjw2af2Rj2jUJSiAGMUdS) | 3:33 | 2023-06-15 | 2023-10-20 |
 | [Magik](https://open.spotify.com/track/6MjSZDtkKMNaFY9CV4oArA) | [DUO](https://open.spotify.com/artist/6FFSeDNJPtdauDFJQt6hZD) | [Magik](https://open.spotify.com/album/6MWKGkxYUhO5zi2y29Ttol) | 4:00 | 2022-01-13 | 2022-04-02 |
-| [Magkänsla](https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Jag Är](https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB) | 3:03 | 2025-06-26 |  |
+| [Magkänsla](https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Jag Är](https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB) | 3:03 | 2025-06-26 | 2025-11-29 |
 | [Make Me Whole](https://open.spotify.com/track/2hjkKFr4umuhj1Ru3tmcsO) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [For You](https://open.spotify.com/album/5J4McIA9reqqfM5nopbWHC) | 2:55 | 2025-03-27 | 2025-06-27 |
 | [Mama’s House](https://open.spotify.com/track/0s7SD8mzw7jw4N2QbrcNfq) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO), [Brother Leo](https://open.spotify.com/artist/4FEOZMbo7XIdGHVrrioAP6) | [The Kids Are Still Awake](https://open.spotify.com/album/6JbCONWYhKKmpIjREglYIF) | 3:05 | 2024-05-02 | 2024-06-01 |
 | [Mamma](https://open.spotify.com/track/6GuWgmVACcJo9amMxliQOR) | [Nils\-Pontus](https://open.spotify.com/artist/2dzdtFxXRM7DB1YyDhL7Yr) | [Mamma](https://open.spotify.com/album/4NneLR9nt7OZ2MVKSoOMTl) | 2:57 | 2021-12-16 | 2022-01-12 |

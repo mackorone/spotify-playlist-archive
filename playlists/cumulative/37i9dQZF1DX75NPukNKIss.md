@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Cover: Don Toliver
+> Way 2 Slizzy\. Cover: Cash Cobain
 
-153 songs - 7 hr 3 min
+155 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2 PEOPLE \(feat\. Cash Cobain\)](https://open.spotify.com/track/03gFKrwfhi6SsO66tQKULE) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [INDUSTRY MACHINE](https://open.spotify.com/album/0I8i8NKTztZQJiQCkUSA63) | 2:05 | 2025-10-10 |  |
 | [5 Star](https://open.spotify.com/track/2FdSq3OWUxXraCnSSIGBAn) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [5 Star](https://open.spotify.com/album/74VyEIWzUs1Nm838tlm9jq) | 2:29 | 2024-11-01 | 2024-11-09 |
 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 | 2024-10-25 |  |
-| [act xiv: twerksongggg](https://open.spotify.com/track/4ICz9E2PB4GE2RwkFBHlGj) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:20 | 2025-10-10 |  |
+| [act xiv: twerksongggg](https://open.spotify.com/track/4ICz9E2PB4GE2RwkFBHlGj) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:20 | 2025-10-10 | 2025-11-29 |
 | [Addicted](https://open.spotify.com/track/2tCGA7eGKeXXAKS1DCxx9k) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl) | [Addicted](https://open.spotify.com/album/3PSgrVSIYeWDBhtNfTLhqa) | 2:15 | 2024-11-08 |  |
 | [ALL THE TIME](https://open.spotify.com/track/0SJpyExB722bVpoqzrhFj5) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [ALL THE TIME](https://open.spotify.com/album/4NLfYhSIdnaEy1ODScJQMX) | 2:48 | 2024-10-25 |  |
 | [ARROZ CON POLLO](https://open.spotify.com/track/0FhcqNBNWj54wP6p6drcVf) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [ARROZ CON POLLO](https://open.spotify.com/album/4G8vW2va4KZX2ZKxURiAf3) | 1:42 | 2024-12-10 |  |
@@ -23,6 +23,7 @@
 | [BABY](https://open.spotify.com/track/1hs6NSqRaOSnnsHDTq23D4) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [BABY](https://open.spotify.com/album/1A2scsZ160QX6nuUkCEJ04) | 2:14 | 2024-12-13 | 2024-12-21 |
 | [Baby \(with Chris Brown\)](https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:28 | 2025-11-18 |  |
 | [Baby Girl On The Way](https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Baby Girl On The Way](https://open.spotify.com/album/10JghYSsQ9P5vXQQpcOoZq) | 2:52 | 2024-10-25 |  |
+| [BACK ON THE STREETS](https://open.spotify.com/track/7Ho3bo307nys30J2omGY7V) | [SLIZZY ENT](https://open.spotify.com/artist/5uKNhhqqDiqLjmZwOi8s4B), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Lonny Love](https://open.spotify.com/artist/4AROj468VOYU9TFJD8KcOm) | [SLIZZY POPE PRESENTS: SLIZZGIVING](https://open.spotify.com/album/1QM4YHDm72UD1QkoZMoN6s) | 3:04 | 2025-11-28 |  |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-17 |  |
 | [Bad Bitches](https://open.spotify.com/track/1bOUmlmuxBY22foEJvYcQB) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Bad Bitches](https://open.spotify.com/album/6HdImiXIslmzq6aFofGWCF) | 2:12 | 2025-04-18 |  |
 | [Bad For Me](https://open.spotify.com/track/46htLemGubh1NvYMbeBGeV) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 3:58 | 2025-02-14 | 2025-07-26 |
@@ -155,8 +156,9 @@
 | [Us vs Them](https://open.spotify.com/track/0lmypbWmfuFdxVhq9N95hv) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Us vs Them](https://open.spotify.com/album/0FG0BmMgabNW3UGesOFmeE) | 2:03 | 2024-12-13 |  |
 | [wait a while' \(tenten\)](https://open.spotify.com/track/4lgTWetZXDVqF2vQm2RCTC) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [wait a while' \(tenten\)](https://open.spotify.com/album/5nYCpm7idneKM9CZ7Prdf6) | 2:02 | 2025-03-19 | 2025-09-06 |
 | [Want Somebody](https://open.spotify.com/track/2eHFKaj0BzRqxYH5IgljkR) | [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Mr\. Maneuver](https://open.spotify.com/album/5YqPZvNG59SukCPWxvqAGR) | 2:57 | 2024-12-20 |  |
-| [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 |  |
+| [What is you on](https://open.spotify.com/track/3kj1dmC5aUiSL55jzKZRRo) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [On my way!](https://open.spotify.com/album/3rWjzYdAQ9re4QkndcDvQE) | 2:39 | 2025-02-21 | 2025-11-29 |
 | [What These Niggas Want](https://open.spotify.com/track/2UNIVvqZBbSljTy2EhvSnF) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Earth to Breezy](https://open.spotify.com/album/7CO70qKtgBLZ5Etx25rnuZ) | 2:13 | 2025-06-17 | 2025-07-26 |
+| [WHAT'S THE WORD](https://open.spotify.com/track/4hfl3p9kFftWFy2BG1fCsE) | [SLIZZY ENT](https://open.spotify.com/artist/5uKNhhqqDiqLjmZwOi8s4B), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Payroll](https://open.spotify.com/artist/7yzcsplXURYcG1Luakmkqy) | [SLIZZY POPE PRESENTS: SLIZZGIVING](https://open.spotify.com/album/1QM4YHDm72UD1QkoZMoN6s) | 2:19 | 2025-11-28 |  |
 | [Worldwide Sniper](https://open.spotify.com/track/2l5eJalX3GYBBddwe9dFb9) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Worldwide Sniper](https://open.spotify.com/album/2kaGYEPSczvb7UzFlKYMOT) | 2:03 | 2024-10-25 | 2025-05-22 |
 | [WYA](https://open.spotify.com/track/71uWu2a9wJ2D1COG3bX4aW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [WYA](https://open.spotify.com/album/3rTs62aOlpldtu6cMdDoc1) | 2:04 | 2024-10-25 |  |
 | [yes mami!](https://open.spotify.com/track/6JRGXkiSyIi2UBOGTwfift) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GIRLS CUM FIRST!](https://open.spotify.com/album/7e6x5Hm3bHg9cENpfsCyvw) | 2:52 | 2025-02-14 | 2025-02-23 |

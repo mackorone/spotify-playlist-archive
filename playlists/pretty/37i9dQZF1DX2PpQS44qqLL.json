@@ -1,6 +1,6 @@
 {
   "description": "Recordamos la voz y personalidad de Dulce \ud83d\udd4a\ufe0f",
-  "num_followers": 200843,
+  "num_followers": 200898,
   "original_name": "Las Estrellas ",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Laura Pausini - Spanish Version",
+        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Amores extra\u00f1os",
+      "url": "https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Grandes Duetos",
         "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Laura Pausini - Spanish Version",
-        "url": "https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 255266,
-      "name": "Amores extra\u00f1os",
-      "url": "https://open.spotify.com/track/3HPF8PGYVMRczBwPufGaYb"
+      "duration_ms": 202266,
+      "name": "Hoy Lo Vi Pasar",
+      "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
     },
     {
       "added_at": "2025-01-03 04:11:23",
@@ -671,22 +687,6 @@
       "duration_ms": 192413,
       "name": "Mary Es Mi Amor",
       "url": "https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/3lcEDEeQZzC0LSbrbKT6Xd"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Hoy Lo Vi Pasar",
-      "url": "https://open.spotify.com/track/3yGTCMzOnSd66VepQCd1ZK"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Intimamente",
-        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Insoportablemente Bella",
-      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Deseo Carnal",
         "url": "https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 217000,
       "name": "Ni t\u00fa ni nadie",
       "url": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Intimamente",
+        "url": "https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Insoportablemente Bella",
+      "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -947,6 +947,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "La Historia De Magneto",
+        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+      },
+      "artists": [
+        {
+          "name": "Magneto",
+          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Vuela, Vuela (Voyage, Voyage)",
+      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -963,18 +979,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Historia De Magneto",
-        "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
+        "name": "Un Segundo En El Tiempo",
+        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
       },
       "artists": [
         {
-          "name": "Magneto",
-          "url": "https://open.spotify.com/artist/5v287QKYZ7Dyuw4CNzv89p"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Vuela, Vuela (Voyage, Voyage)",
-      "url": "https://open.spotify.com/track/6nz1ojKuYx5HO7Vh0wmuWp"
+      "duration_ms": 237866,
+      "name": "Es Mejor As\u00ed",
+      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1007,22 +1023,6 @@
       "duration_ms": 204293,
       "name": "Jam\u00e1s",
       "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Un Segundo En El Tiempo",
-        "url": "https://open.spotify.com/album/2cdfwA47UN9VUx0Vnc6YNw"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Es Mejor As\u00ed",
-      "url": "https://open.spotify.com/track/1LUIgyVglAOLb3AtA9ZgYb"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Flans",
-        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "Bazar",
-      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 257453,
       "name": "Cosas del Amor (with Vikki Carr)",
       "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Flans",
+        "url": "https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "Bazar",
+      "url": "https://open.spotify.com/track/7CLxH03q65I3aktL79k4vE"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 257773,
       "name": "La Cima del Cielo",
       "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "No Es Por Mi",
+        "url": "https://open.spotify.com/album/1swbb6vTQ3hCXt1Y36RaVV"
+      },
+      "artists": [
+        {
+          "name": "Ana Cirr\u00e9",
+          "url": "https://open.spotify.com/artist/5xfkmGviowtoTBIa7s9kP2"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Casi Perfecto",
+      "url": "https://open.spotify.com/track/3D7oEQW1sblgMN8vxR6x06"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Todo El Amor",
         "url": "https://open.spotify.com/album/3K3pNRZGFoW9T0iMuQOw3n"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 253066,
       "name": "Luna m\u00e1gica",
       "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "No Es Por Mi",
-        "url": "https://open.spotify.com/album/1swbb6vTQ3hCXt1Y36RaVV"
-      },
-      "artists": [
-        {
-          "name": "Ana Cirr\u00e9",
-          "url": "https://open.spotify.com/artist/5xfkmGviowtoTBIa7s9kP2"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Casi Perfecto",
-      "url": "https://open.spotify.com/track/3D7oEQW1sblgMN8vxR6x06"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Encuentro Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
-      },
-      "artists": [
-        {
-          "name": "Abracadabra",
-          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "En realidad",
-      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Fey",
         "url": "https://open.spotify.com/album/28ibwBS08IFdLkcmYSN7Jh"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 221173,
       "name": "Media Naranja",
       "url": "https://open.spotify.com/track/2xhRroGUvJTSqHqPeLjdwC"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Encuentro Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4bujC3sYUCIghBbAX9egyk"
+      },
+      "artists": [
+        {
+          "name": "Abracadabra",
+          "url": "https://open.spotify.com/artist/1F10Dyz1RuRFkgHQ5Es3uZ"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "En realidad",
+      "url": "https://open.spotify.com/track/3I4kCERqFLTFNVwl5YCKo9"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -1835,8 +1835,8 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Siempre",
-        "url": "https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr"
+        "name": "Hay Amores Y Amores",
+        "url": "https://open.spotify.com/album/0c8ulhHZT3OiudBHDGtfgd"
       },
       "artists": [
         {
@@ -1844,9 +1844,9 @@
           "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 246826,
-      "name": "La Guirnalda",
-      "url": "https://open.spotify.com/track/35FJIXX8h7u9ApGAMoFzWY"
+      "duration_ms": 214933,
+      "name": "C\u00f3mo Han Pasado los A\u00f1os",
+      "url": "https://open.spotify.com/track/1p6WLICpvRXvTgP9aMcBvK"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Todo Me Gusta De Ti",
-      "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "La Historia De Magneto",
         "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 250066,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5nDWALUZxhEzwbmIbjk2ZZ"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Todo Me Gusta De Ti",
+      "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Transparente",
-        "url": "https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj"
-      },
-      "artists": [
-        {
-          "name": "Litzy",
-          "url": "https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Lucerito",
         "url": "https://open.spotify.com/album/1Ylk1qtCXpMdBpDaZvPd0I"
       },
@@ -2287,18 +2271,18 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+        "name": "Transparente",
+        "url": "https://open.spotify.com/album/2vLW5vIVvlXL8oPVWgS5Aj"
       },
       "artists": [
         {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+          "name": "Litzy",
+          "url": "https://open.spotify.com/artist/3u4GbCOWNszEqm4Vzv7liB"
         }
       ],
-      "duration_ms": 238826,
-      "name": "Este hombre no se toca",
-      "url": "https://open.spotify.com/track/047T2fSx1eNiRbCNztIAhL"
+      "duration_ms": 206840,
+      "name": "No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1tGlvcURGYW4olaROV1w6N"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2335,6 +2319,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Este hombre no se toca",
+      "url": "https://open.spotify.com/track/047T2fSx1eNiRbCNztIAhL"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
         "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
@@ -2347,22 +2347,6 @@
       "duration_ms": 196200,
       "name": "Te Voy a Ense\u00f1ar a Querer",
       "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2383,6 +2367,22 @@
       "duration_ms": 255200,
       "name": "Vivimos siempre juntos (feat. Mercedes Ferrer)",
       "url": "https://open.spotify.com/track/6ijh6CO529euKaq3YfSuCZ"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 1)",
-        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/6K9mQMZejVTCBsXs6wtizd"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 225466,
       "name": "Solo \u00c9l Y Yo",
       "url": "https://open.spotify.com/track/0G8zH9qCj0eXD55BAsNhTa"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "La Mas Completa Coleccion (Disco 1)",
+        "url": "https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "S\u00e9 Como Duele",
-        "url": "https://open.spotify.com/album/27ihlO6JX8joygy2nXsZ1l"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "S\u00e9 Como Duele",
-      "url": "https://open.spotify.com/track/5fZyZdlzUAcFTn6Bwu3pLv"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Locas Por La M\u00fasica",
         "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 178040,
       "name": "Cuando No Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/6R1V5zSzuLVTc41hUMHohP"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "S\u00e9 Como Duele",
+        "url": "https://open.spotify.com/album/27ihlO6JX8joygy2nXsZ1l"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "S\u00e9 Como Duele",
+      "url": "https://open.spotify.com/track/5fZyZdlzUAcFTn6Bwu3pLv"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2763,6 +2763,22 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
+        "name": "En Vivo! (La Mas Espectacular Experiencia de los 80's)",
+        "url": "https://open.spotify.com/album/0Nkwpkttxjb8y1sOhyhxLe"
+      },
+      "artists": [
+        {
+          "name": "Matute",
+          "url": "https://open.spotify.com/artist/6z7mf1FeKhq3GFy73o6PvC"
+        }
+      ],
+      "duration_ms": 526226,
+      "name": "Siempre en Domingo Medley: S\u00e9 Como Duele / Tour / Celos / Ser\u00e1 Porque Te Amo / Soldado del Amor / Quien Piensa en Ti",
+      "url": "https://open.spotify.com/track/41hgUQ66SI9YTw2BPXOgCP"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
         "name": "Amada Mas Que Nunca",
         "url": "https://open.spotify.com/album/0zYr89WE7LZER2OUy9eUSw"
       },
@@ -2791,22 +2807,6 @@
       "duration_ms": 223906,
       "name": "Quiero Escaparme De Ti",
       "url": "https://open.spotify.com/track/0T4foqM5NWaO1eiaR7pn1G"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
-        "name": "En Vivo! (La Mas Espectacular Experiencia de los 80's)",
-        "url": "https://open.spotify.com/album/0Nkwpkttxjb8y1sOhyhxLe"
-      },
-      "artists": [
-        {
-          "name": "Matute",
-          "url": "https://open.spotify.com/artist/6z7mf1FeKhq3GFy73o6PvC"
-        }
-      ],
-      "duration_ms": 526226,
-      "name": "Siempre en Domingo Medley: S\u00e9 Como Duele / Tour / Celos / Ser\u00e1 Porque Te Amo / Soldado del Amor / Quien Piensa en Ti",
-      "url": "https://open.spotify.com/track/41hgUQ66SI9YTw2BPXOgCP"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2907,22 +2907,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Mis Canciones, Mi Voz, Mi Piano",
-        "url": "https://open.spotify.com/album/2zM7EeQzkEVgHpUunxV4E5"
-      },
-      "artists": [
-        {
-          "name": "Armando Manzanero",
-          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/1WpVNGu96nRoVeeUNthWkt"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 202720,
       "name": "Amor No Me Ignores",
       "url": "https://open.spotify.com/track/5WAAN3MdyF3NiFHtQLIhPc"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Mis Canciones, Mi Voz, Mi Piano",
+        "url": "https://open.spotify.com/album/2zM7EeQzkEVgHpUunxV4E5"
+      },
+      "artists": [
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/1WpVNGu96nRoVeeUNthWkt"
     },
     {
       "added_at": "2021-12-21 16:52:55",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2021-12-21 16:52:55",
       "album": {
-        "name": "Tatiana y Johnny",
-        "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
-      },
-      "artists": [
-        {
-          "name": "Tatiana y Johnny",
-          "url": "https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm"
-        }
-      ],
-      "duration_ms": 223477,
-      "name": "Cuando Estemos Juntos",
-      "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
-    },
-    {
-      "added_at": "2021-12-21 16:52:55",
-      "album": {
         "name": "El Encuentro",
         "url": "https://open.spotify.com/album/4iBEwn186Zj1LAnVncCsXa"
       },
@@ -3003,6 +2987,22 @@
       "duration_ms": 221360,
       "name": "Cuatro Veces Amor - En Vivo",
       "url": "https://open.spotify.com/track/2EmwqWL6GnDB2v0mm4QBj2"
+    },
+    {
+      "added_at": "2021-12-21 16:52:55",
+      "album": {
+        "name": "Tatiana y Johnny",
+        "url": "https://open.spotify.com/album/7MctcX1XsSRfudnAyihmSi"
+      },
+      "artists": [
+        {
+          "name": "Tatiana y Johnny",
+          "url": "https://open.spotify.com/artist/3hWYqGI2MA8NWKxWuTcuvm"
+        }
+      ],
+      "duration_ms": 223477,
+      "name": "Cuando Estemos Juntos",
+      "url": "https://open.spotify.com/track/1p79WfRuI5Ov4rHXxPHMS1"
     },
     {
       "added_at": "2021-12-21 16:52:55",

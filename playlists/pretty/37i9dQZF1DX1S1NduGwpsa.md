@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Jowee Omicil
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,106 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,143 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SHouLd I sMiLe?](https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz) | [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [sMiLes](https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ) | 2:54 |
-| 2 | [Track 9](https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC) | [VEEKO](https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [AMISTAD](https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC) | [VEEKO](https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [HOUSE OF BIRDS](https://open.spotify.com/album/62OfSUbBm4t5ootwPrYHQI) | 3:05 |
 | 3 | [RUST](https://open.spotify.com/track/5ejBZt6jqTXPW1S1DfKBS9) | [Amaury Faye](https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte), [Julian Lee](https://open.spotify.com/artist/4vkAguYu71OITfPIO1qT0p), [Amina Scott](https://open.spotify.com/artist/2mA7agMNb4IjjXcEb5U6La), [Herlin Riley](https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir) | [RUST](https://open.spotify.com/album/4OsGsUmunboaDQbAb1tA0e) | 3:34 |
 | 4 | [More Understanding Than A Man](https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy) | [Flore Benguigui & The Sensible Notes](https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6) | [More Understanding Than A Man](https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE) | 3:51 |
 | 5 | [White Keys](https://open.spotify.com/track/3bZVl3PDZXdCwBVTcjGmmR) | [Cyril Benhamou](https://open.spotify.com/artist/3ziSv447mOaDiSm177bXdF), [Jérôme Mouriez](https://open.spotify.com/artist/46HeHgRPYB4VHA5OVTTZ4r), [Pascal Blanc](https://open.spotify.com/artist/10zfJDCGvTci6BdaEkwFF3) | [White Keys](https://open.spotify.com/album/6EGBzjlalI2ygImj0aqouF) | 3:12 |

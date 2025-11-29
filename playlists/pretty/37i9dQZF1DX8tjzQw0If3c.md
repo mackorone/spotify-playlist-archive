@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Listen to the future\. Cover: Fahimi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,141 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WTVR U LIKE](https://open.spotify.com/track/5OigaClxxYXyfrvYJyzdIg) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:48 |
-| 2 | [sampai bila bila](https://open.spotify.com/track/7Dd8cjtC83OQ9JDAEIIOkz) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh), [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [](https://open.spotify.com/album/null) | 4:56 |
+| 2 | [sampai bila bila](https://open.spotify.com/track/7Dd8cjtC83OQ9JDAEIIOkz) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh), [Airliftz](https://open.spotify.com/artist/4O2Gfcx2x2dIrFdFrrf0PY) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:56 |
 | 3 | [ONE DAY AT A TIME](https://open.spotify.com/track/3uGdsz2OOs5pGodQvEiPnh) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ), [Kevin Brendan](https://open.spotify.com/artist/6ugRGLIWSHusjCas08bxXr) | [ONE DAY AT A TIME](https://open.spotify.com/album/43r58mDnZjEN1v3DQEMGP5) | 3:57 |
 | 4 | [梦的篮筐 \(新传媒戏剧《力挽狂篮》主题曲\)](https://open.spotify.com/track/7GuInOhpVfe3cQGAJM1nKt) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [新传媒戏剧《力挽狂篮》](https://open.spotify.com/album/4tSNukIK4cDOVLdlRqIbcY) | 2:40 |
 | 5 | [is she the one](https://open.spotify.com/track/3aMoftC4huWLJPH4T4NKAb) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [off\-hours](https://open.spotify.com/album/5HRf8LUEbweUEdqpjOEaLM) | 3:34 |
 | 6 | [AMBANI MONEY](https://open.spotify.com/track/0FbFG2Oe58DgtBmVGVZJoR) | [Kidd Santhe](https://open.spotify.com/artist/0Lu69YvIcUDh5DEAbALY9z) | [AMBANI MONEY](https://open.spotify.com/album/700iQlRgavSFq8H3JMqxIj) | 2:47 |
-| 7 | [selamanya](https://open.spotify.com/track/6Lpb8uAjtqW0p05vaQCnNS) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [](https://open.spotify.com/album/null) | 4:05 |
+| 7 | [selamanya](https://open.spotify.com/track/6Lpb8uAjtqW0p05vaQCnNS) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:05 |
 | 8 | [Tak Cukup](https://open.spotify.com/track/4smgiReZGd4ipGRz0F1d7D) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:54 |
 | 9 | [FREEFALL](https://open.spotify.com/track/3HbCHPILR31b1riAxfEjmj) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Echoes from the Hills](https://open.spotify.com/album/3XZ2Y55Gt0c99bh0jKAAtB) | 2:52 |
 | 10 | [Menjadi Dewasa](https://open.spotify.com/track/4nhzCMML73Im5AAhWzAviK) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf), [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Menjadi Dewasa](https://open.spotify.com/album/1U1XHck0TGcN7cpPnlzOUd) | 4:15 |

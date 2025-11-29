@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235791,
+  "num_followers": 235786,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADDJA6r2OqQWVGTUh+4h7/S",
+  "snapshot_id": "aSeUgAAAAAC8YTjwcfDntvNF0h7RXqqb",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KHE CALOR",
-        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "KHE CALOR",
-      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 173613,
       "name": "Nada",
       "url": "https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KHE CALOR",
+        "url": "https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "KHE CALOR",
+      "url": "https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 161373,
-      "name": "PLATONIK",
-      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
+      "duration_ms": 203546,
+      "name": "AMANECER",
+      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 203546,
-      "name": "AMANECER",
-      "url": "https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ"
+      "duration_ms": 161373,
+      "name": "PLATONIK",
+      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
     },
     {
       "added_at": null,
@@ -387,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 A\u00f1os Contigo",
-        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
       "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 166333,
-      "name": "Vuelve, Vuelve",
-      "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "20 A\u00f1os Contigo",
+        "url": "https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw"
       },
       "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+      "duration_ms": 166333,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los D\u00fao 3",
         "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 299066,
       "name": "De M\u00ed Enam\u00f3rate",
       "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 181946,
-      "name": "AMOR \u00c1CIDO",
-      "url": "https://open.spotify.com/track/1WnzNGJICOdCu7NPeEOXk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danna Paola (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 219693,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 181946,
+      "name": "AMOR \u00c1CIDO",
+      "url": "https://open.spotify.com/track/1WnzNGJICOdCu7NPeEOXk1"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 148546,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/2uBvWhlfPmQAC025aD3Aas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SIE7E +",
         "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 184760,
       "name": "Final Feliz",
       "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 148546,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/2uBvWhlfPmQAC025aD3Aas"
     },
     {
       "added_at": null,

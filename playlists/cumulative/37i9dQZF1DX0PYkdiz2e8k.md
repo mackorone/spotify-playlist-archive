@@ -4,7 +4,7 @@
 
 > pela liberdade de falar sobre sua skin de antes // Foto: Duquesa
 
-144 songs - 7 hr 27 min
+145 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 | 2023-08-18 | 2024-11-26 |
 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 | 2023-07-21 | 2023-09-12 |
 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 | 2023-08-11 |  |
-| [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-10-04 |  |
+| [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 | 2024-10-04 | 2025-11-29 |
 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 | 2023-08-25 |  |
 | [Lindo, Gostoso!](https://open.spotify.com/track/4iuNOEUMAaXlhAAcBgGPDP) | [Laura Schadeck](https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS) | [Lindo, Gostoso!](https://open.spotify.com/album/75vK4bi7lvuhuEhcGKlXFc) | 2:13 | 2024-05-24 | 2024-06-22 |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-16 |  |
@@ -152,5 +152,6 @@
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-02-23 | 2024-04-27 |
 | [you're not special](https://open.spotify.com/track/0EmHtG6X5rGAXvkvYhGts2) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/3plGf9mIlywpBlDLEap7Cz) | 2:46 | 2024-03-01 | 2024-04-19 |
 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 | 2023-07-21 | 2025-06-14 |
+| [É US CAPETA NÃO ADIANTA](https://open.spotify.com/track/2FGOh3cQ5J2cAvf3jVFRUz) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [HISTERIA AGRESSIVA 100% NEURÓTICA VOL\. 2 \- MUITO MAIS NEURÓTICO](https://open.spotify.com/album/4AbKSRPS5HllLZo0nmPQUz) | 3:41 | 2025-11-28 |  |
 
 \*This playlist was first scraped on 2023-07-23. Prior content cannot be recovered.

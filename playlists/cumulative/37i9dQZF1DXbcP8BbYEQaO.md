@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-816 songs - 1 day 21 hr 47 min
+818 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Accelerator](https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Accelerator](https://open.spotify.com/album/59s90G0tc3u2Vg9FBWuObS) | 2:51 | 2024-03-29 | 2025-08-16 |
 | [Adore You](https://open.spotify.com/track/6NyaXh11cDhWT7CI5S3TiU) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Adore You](https://open.spotify.com/album/1vcVSYUyhfFEqFdE3s4eSA) | 3:45 | 2020-10-13\* | 2021-02-19 |
 | [Again & Again](https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Again & Again](https://open.spotify.com/album/5ctwJQS6cTwdb7y5QPWoQU) | 2:49 | 2021-10-30 | 2022-03-18 |
-| [Agnostic](https://open.spotify.com/track/7lXsk9wPqSrFUJ1vdiSPXL) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Agnostic](https://open.spotify.com/album/0udRRD0WX6mUqGV7voDWY1) | 3:21 | 2025-08-08 |  |
+| [Agnostic](https://open.spotify.com/track/7lXsk9wPqSrFUJ1vdiSPXL) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Agnostic](https://open.spotify.com/album/0udRRD0WX6mUqGV7voDWY1) | 3:21 | 2025-08-08 | 2025-11-29 |
 | [Air](https://open.spotify.com/track/2Nc3Eg0p5Ot6RYkAMmVowH) | [July Jones](https://open.spotify.com/artist/0sFyRdif7dRPjq9uHmsJlp) | [Air](https://open.spotify.com/album/2jSqZSQ32EHQc2RdFQKru6) | 3:37 | 2021-12-17 | 2022-04-17 |
 | [Air](https://open.spotify.com/track/3bJJu6tjuKlSGD8vbwJ7FB) | [Phebe Starr](https://open.spotify.com/artist/5buTKeJ19EBEcckqTe0XqP) | [Air](https://open.spotify.com/album/4Fz2th3B672VGj7wm7904J) | 3:48 | 2021-11-20 | 2022-03-26 |
 | [Alchemy \(Living Is Not For The Heart\)](https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Again, for the first time](https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd) | 3:39 | 2025-11-07 |  |
@@ -148,7 +148,7 @@
 | [Crumbs](https://open.spotify.com/track/4SBTecHxEs2ayXLiqs7Kmz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Crumbs](https://open.spotify.com/album/2GYTn1Jzit4e1GC80h9yzQ) | 3:13 | 2022-11-18 | 2023-03-02 |
 | [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 5:07 | 2024-08-26 |  |
 | [CUNTISSIMO](https://open.spotify.com/track/3a9P1PqOV6gr4A9ywDZ7mg) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUNTISSIMO](https://open.spotify.com/album/0Y25OO4Whcw7FLJkhdJSKq) | 4:00 | 2025-04-11 |  |
-| [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-28 |  |
+| [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-28 | 2025-11-29 |
 | [Cursed Romantics](https://open.spotify.com/track/5492WJL5APlDdZFOjn0PxK) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Cursed Romantics](https://open.spotify.com/album/0JKztCLBEY4jKjVSQBWeGE) | 3:10 | 2024-05-24 |  |
 | [Cynical](https://open.spotify.com/track/2LW4Bkirg94ae861UMg4bW) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Cynical](https://open.spotify.com/album/6CkRa8wMIAPDJYiPXA6nHp) | 3:09 | 2020-10-13\* | 2021-09-25 |
 | [Dance Alone](https://open.spotify.com/track/4jlFQMGIn42SphX3hk2r8l) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:33 | 2021-09-11 | 2023-01-29 |
@@ -662,6 +662,7 @@
 | [Stand Back](https://open.spotify.com/track/3MZexS7gY85ivYKaW6Lahf) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Stand Back](https://open.spotify.com/album/4WISihDJet0G4fl0mekEzI) | 4:33 | 2024-05-24 | 2024-08-03 |
 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 | 2020-11-18 | 2021-02-19 |
 | [Stay](https://open.spotify.com/track/4WNrx9GTx4RvdnxR6qVysR) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Stay](https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy) | 2:52 | 2022-04-29 | 2023-09-23 |
+| [Stay The Night](https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9) | [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Stay The Night](https://open.spotify.com/album/01ZXm2k9PdMIJE8I01gRqM) | 3:58 | 2025-11-28 |  |
 | [Stay The Night \- Featuring Hayley Williams Of Paramore](https://open.spotify.com/track/2QtJA4gbwe1AcanB2p21aP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Clarity \(Deluxe\)](https://open.spotify.com/album/4xak0izXQHOMV9Wu1mDAAy) | 3:37 | 2021-06-26 | 2021-07-04 |
 | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/track/5VvUxoP2bKyps8sroie6T1) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Steal My Clothes \(feat\. Bea Miller\)](https://open.spotify.com/album/6Xss8KphZhnWr2bq2tvEr4) | 2:09 | 2021-08-11 | 2022-04-17 |
 | [Sting](https://open.spotify.com/track/3CRLMDJygwt1KWMg1FASye) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Sting](https://open.spotify.com/album/7yzUIJZNrla6TdWmYiziuR) | 3:07 | 2022-09-02 | 2023-03-25 |
@@ -730,6 +731,7 @@
 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 | 2022-04-08 | 2022-07-29 |
 | [The Woman I Am](https://open.spotify.com/track/6CBS6AS5vgUMb6hW2WCiX1) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/43l45TcznI4U1gqraFZ0Tx) | 3:13 | 2022-07-21 | 2022-09-09 |
 | [Things I Really Mean](https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [Things I Really Mean](https://open.spotify.com/album/3cxyV5ddJhlyCR9KmshfLR) | 2:42 | 2025-11-07 |  |
+| [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 | 2025-11-28 |  |
 | [This City is a Graveyard](https://open.spotify.com/track/7KCgYJ7DF33PpPU3UF6NBH) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [This City is a Graveyard](https://open.spotify.com/album/2ZLMegn1V02WxJEXsW4OlH) | 3:07 | 2023-06-23 | 2024-03-23 |
 | [Thoughts](https://open.spotify.com/track/2jm0S3dMxpAz5H59z4lOJH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Thoughts](https://open.spotify.com/album/3XFWmmwiJR0i7WnHDvgten) | 3:05 | 2020-10-13\* | 2021-12-04 |
 | [Three Hail Marys](https://open.spotify.com/track/1rU8C0FoUSQBVQLX1gwFH9) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Three Hail Marys](https://open.spotify.com/album/3lkgZzXuQ9FUGU72hNcC7y) | 2:23 | 2025-01-24 |  |

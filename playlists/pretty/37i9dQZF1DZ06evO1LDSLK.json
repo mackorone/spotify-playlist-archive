@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 74152,
+  "num_followers": 74158,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACbs64egi/8UachoUcBirls",
+  "snapshot_id": "aSeUgAAAAAC4LBejfkjy2YXhCskFxBij",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 219831,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frenchy",
         "url": "https://open.spotify.com/album/33aacw53MZVyxjzjqxcs9o"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7gWHElHSGXdzBcMogudgzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 219831,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5VOJ3OFUebaLuNqzJSNeEn"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 314186,
-      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 221374,
       "name": "Some Weird Sin",
       "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arizona Dream (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 314186,
+      "name": "In The Deathcar - \"Arizona Dream\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "Les Feuilles Mortes",
-      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -383,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
         {
@@ -392,9 +376,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
+      "duration_ms": 235293,
+      "name": "Les Feuilles Mortes",
+      "url": "https://open.spotify.com/track/4jsfwKGrdOLfQM5DHheVz8"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
       "duration_ms": 259113,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "He's Frank (Slight Return)",
         "url": "https://open.spotify.com/album/3cohHyy8SX0mbSi8cerA5F"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 197013,
       "name": "He's Frank - Slight Return",
       "url": "https://open.spotify.com/track/7kbOroxknznMU4k7MaWnZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -791,26 +791,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECHOES \u2013 ANCIENT & MODERN",
-        "url": "https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
         {
-          "name": "Trevor Horn",
-          "url": "https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT"
-        },
-        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 206266,
-      "name": "Personal Jesus",
-      "url": "https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX"
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
     },
     {
       "added_at": null,
@@ -831,18 +823,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+        "name": "ECHOES \u2013 ANCIENT & MODERN",
+        "url": "https://open.spotify.com/album/5tY51acOrbffScV0oR2Kbq"
       },
       "artists": [
         {
+          "name": "Trevor Horn",
+          "url": "https://open.spotify.com/artist/2oQd3GVbHbjyCyeG4MGMuT"
+        },
+        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+      "duration_ms": 206266,
+      "name": "Personal Jesus",
+      "url": "https://open.spotify.com/track/1YX3505xUckBaX9qIkVROX"
     },
     {
       "added_at": null,

@@ -3745,6 +3745,32 @@
     },
     {
       "album": {
+        "name": "MOODBOARD",
+        "url": "https://open.spotify.com/album/0dEWzhpR6tABssev2QxWDT"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Josh Sidhu",
+          "url": "https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW"
+        },
+        {
+          "name": "Gurjit Gill",
+          "url": "https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166638,
+      "name": "FIRST LOVE",
+      "url": "https://open.spotify.com/track/0i4m3NaYFt8MCLid2PRgRx"
+    },
+    {
+      "album": {
         "name": "Fly Karke",
         "url": "https://open.spotify.com/album/5KU161bc0CN9vn0LmpVMki"
       },
@@ -4834,7 +4860,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 263647,
       "name": "Ik Tarfa",
       "url": "https://open.spotify.com/track/4BEw20SnfQY362eE1eC8zs"
@@ -8260,6 +8286,36 @@
       "duration_ms": 196133,
       "name": "Phulkari",
       "url": "https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO"
+    },
+    {
+      "album": {
+        "name": "Phurr (From the Movie \u201cKis Kisko Pyaar Karoon 2\u201d)",
+        "url": "https://open.spotify.com/album/4UUy3KVYnWeIsaboo6M9pd"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Raj Brar",
+          "url": "https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv"
+        },
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "Phurr - From the Movie \u201cKis Kisko Pyaar Karoon 2\u201d",
+      "url": "https://open.spotify.com/track/12WdjvcXjLMdr9nIeQY9C6"
     },
     {
       "album": {
@@ -11928,7 +11984,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179469,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy"

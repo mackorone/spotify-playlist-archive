@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español, con San Tosielo en portada.
 
-6,817 songs - 15 day 14 hr 18 min
+6,818 songs - 15 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2208,7 +2208,7 @@
 | [Especial](https://open.spotify.com/track/0becwxEO40AxKIDQto7CLD) | [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Especial](https://open.spotify.com/album/6oEcAncUpwIrzxNDnmOabF) | 3:27 | 2024-08-09 | 2024-08-24 |
 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 | 2022-04-22 | 2022-05-07 |
 | [Espejismo](https://open.spotify.com/track/4uEnOnU1lCv4a7aWUoHzWU) | [Segunda Comunión](https://open.spotify.com/artist/4iwezv6CwXW39f2dZu6FwH) | [Espejismo](https://open.spotify.com/album/5O8Zyhw8gxXRGiJk2KspKS) | 3:15 | 2023-02-17 | 2023-02-25 |
-| [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [](https://open.spotify.com/album/null) | 2:21 | 2025-11-27 |  |
+| [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 | 2025-11-27 |  |
 | [Espera](https://open.spotify.com/track/1UqwvHN3GzqQ8E1JRQZ5w6) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe), [Modelo](https://open.spotify.com/artist/3xcGSLQmwbzsQMHqjmJlht) | [Espera](https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT) | 3:33 | 2024-05-31 | 2024-06-08 |
 | [Esperando](https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Esperando](https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO) | 2:21 | 2023-11-24 | 2023-12-02 |
 | [Esperanza](https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Esperanza/ Nunca te vayas](https://open.spotify.com/album/0RN51pSdZYAHMKCxmNnUao) | 2:30 | 2024-08-09 | 2024-08-17 |
@@ -3593,7 +3593,7 @@
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-05-23 | 2025-06-07 |
 | [Malicia](https://open.spotify.com/track/5ylsvgN3rSWBU6PnyRbfIs) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Malicia](https://open.spotify.com/album/35LXS0jbbnya85SBWrWdwj) | 2:57 | 2024-05-31 | 2024-06-15 |
 | [maligna](https://open.spotify.com/track/0I5GPsripSqbQ3VLtV9TEd) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [maligna](https://open.spotify.com/album/4CHhgOEkspyY1ZCT5CaBsi) | 2:45 | 2025-10-24 | 2025-11-08 |
-| [Malo](https://open.spotify.com/track/47jmflHshtToQFN4iLBK6T) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [](https://open.spotify.com/album/null) | 2:32 | 2025-11-27 |  |
+| [Malo](https://open.spotify.com/track/47jmflHshtToQFN4iLBK6T) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Lo Que Me Pasa](https://open.spotify.com/album/42yV6DNDY5Cy2yDj9RG32F) | 2:32 | 2025-11-27 |  |
 | [MALONA](https://open.spotify.com/track/4pwbCOjyz62GpHI2UwkUOw) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [MALONA](https://open.spotify.com/album/1BEpXQ1topBEWGB5xkJ9JN) | 2:20 | 2024-04-26 | 2024-05-11 |
 | [Malos Sentimientos](https://open.spotify.com/track/67oBvYeZMkNctGAiXELHVe) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Sombra de Tiburón](https://open.spotify.com/album/3D1JEn6aDdEfqz9eBx47W4) | 3:15 | 2024-08-09 | 2024-08-17 |
 | [Malos Tiempos](https://open.spotify.com/track/0uThyu6v9vVviMAYOZkNUu) | [Firmado, Carlota](https://open.spotify.com/artist/67oRGgY9uFw1mH7XR9jvzI) | [Malos Tiempos](https://open.spotify.com/album/49svFhRu3mBytmr8UTcXqo) | 3:09 | 2022-05-20 | 2022-05-28 |
@@ -4791,6 +4791,7 @@
 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 | 2022-07-29 | 2022-08-06 |
 | [PENÉLOPE](https://open.spotify.com/track/3wetETkA76tOFOeUujaq1N) | [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [MIS PLANTAS MUERTAS](https://open.spotify.com/album/480v7YXnoev8J08UBgA1vs) | 2:41 | 2024-09-20 | 2024-09-28 |
 | [Pepita De Oro](https://open.spotify.com/track/2O74CldHf1fWUINiWTchRA) | [Flor de Lava](https://open.spotify.com/artist/1Kmfay6VWbRpdDJllGJ6B6) | [Flor de Lava](https://open.spotify.com/album/5GPK0RmNwuu4STJK8v0bXC) | 2:44 | 2025-05-08 | 2025-05-24 |
+| [Peque\-peque](https://open.spotify.com/track/1IBpiraCW7y5YMsIAPldaB) | [Andrea Martinez](https://open.spotify.com/artist/5PD9UmTt7zV9DvTH8ZED8Z) | [AMBROSÍA](https://open.spotify.com/album/4HNIfC6yTPQyrO1ZqsJCE6) | 3:28 | 2025-11-27 |  |
 | [Pequeñas Esperanzas](https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Pequeñas Esperanzas](https://open.spotify.com/album/2aEF1ElCdYn9fGLRkFAi5K) | 3:20 | 2023-06-09 | 2023-06-17 |
 | [PEQUEÑO HURACÁN](https://open.spotify.com/track/04VY6HxLwi4gXxm1ZL0eR0) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [PEQUEÑO HURACÁN](https://open.spotify.com/album/7mipHQDxaaMLDyOzslcvrl) | 2:53 | 2025-04-18 | 2025-05-03 |
 | [Pequeños Milagros](https://open.spotify.com/track/7w1ywTtMNTysAvFl9yPifA) | [Esotérica Tropical](https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs) | [Pequeños Milagros](https://open.spotify.com/album/38RhFKyAfDY04jA64bFdFP) | 2:32 | 2024-07-12 | 2024-07-19 |
@@ -5089,7 +5090,7 @@
 | [Que te parta un rayo](https://open.spotify.com/track/1AR3Xeu36321ZWz5xaFkyT) | [Pauline En La Playa](https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe) | [Que te parta un rayo](https://open.spotify.com/album/68o0h7V0M3TacqOzcy3UDu) | 4:14 | 2024-10-25 | 2024-11-09 |
 | [Que Todo Ocurra](https://open.spotify.com/track/0d5gK1GjaBD9OIzX6nGiAX) | [Surikata Ki](https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7) | [Sistema](https://open.spotify.com/album/56td7MvmbqeaXN3LXmtxhi) | 3:35 | 2022-07-08 | 2022-07-16 |
 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 | 2023-05-05 | 2023-05-20 |
-| [Que X Bien No Venga](https://open.spotify.com/track/4ggvW54DPjsVSkd8FqQY6i) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [](https://open.spotify.com/album/null) | 3:12 | 2025-11-27 |  |
+| [Que X Bien No Venga](https://open.spotify.com/track/4ggvW54DPjsVSkd8FqQY6i) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Dios Dirá, Dios Proveerá](https://open.spotify.com/album/4ufxpTTu6rBLm7ZhKAXsgI) | 3:12 | 2025-11-27 |  |
 | [quebrantarse](https://open.spotify.com/track/1wFHLkUscbfPoliv0FLCJu) | [Fillas de Cassandra](https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5) | [quebrantarse](https://open.spotify.com/album/3L27wAdMFX7RXyX7AnIwfG) | 2:40 | 2025-03-28 | 2025-04-12 |
 | [QUEBRANTO](https://open.spotify.com/track/1sgeAR6QD9GHihvaUVNPb1) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [QUEBRANTO](https://open.spotify.com/album/5kDxY5rsWi08WK8TTbFyDG) | 3:00 | 2024-11-22 | 2024-11-30 |
 | [Quebranto](https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP) | [Neck Talese](https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [El Poder de Lola](https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse) | 5:34 | 2022-07-08 | 2022-07-16 |

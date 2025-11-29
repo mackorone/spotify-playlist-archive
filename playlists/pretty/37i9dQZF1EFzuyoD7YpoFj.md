@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486 likes - 391 songs - 20 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 487 likes - 391 songs - 20 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,9 +125,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 115 | [When I Found You](https://open.spotify.com/track/4aGDe0Gdr8yl110J4UbNjn) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [Grit, Groove & Guitar](https://open.spotify.com/album/1cbi8zTZbOLpeN521p1znx) | 2:28 |
 | 116 | [Acquerello Napoletano](https://open.spotify.com/track/4J1fAfXhkKmFb7n66dgodJ) | [Carla Boni](https://open.spotify.com/artist/2J7iEpAkPqe41okCsm4Ja5) | [Carla Boni con Angelini](https://open.spotify.com/album/55jSs8KhXVChUs430bgkez) | 3:08 |
 | 117 | [I Love You Samantha](https://open.spotify.com/track/1e4VJ7Z3UL0aoBP37bl2dk) | [Dutch Swing College Band](https://open.spotify.com/artist/650v0b6TXS3YQdHpJLrh3E) | [The Swing Code](https://open.spotify.com/album/6pTJuqALhPMz6BRFts2a04) | 2:31 |
-| 118 | [Out Of This World](https://open.spotify.com/track/4CprHTUD6qUHM8SCfL0dal) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Harold Arlen Song Book](https://open.spotify.com/album/2yprBiSeLBqwoPdDNl5kbI) | 2:43 |
-| 119 | [Rosalie](https://open.spotify.com/track/5F8wDhqyfZL41NIaCyOIWw) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Walkman Jazz: Erroll Garner](https://open.spotify.com/album/5Y3L2wMDpgXO9IRlJMtfTC) | 2:34 |
-| 120 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 118 | [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 |
+| 119 | [Out Of This World](https://open.spotify.com/track/4CprHTUD6qUHM8SCfL0dal) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Harold Arlen Song Book](https://open.spotify.com/album/2yprBiSeLBqwoPdDNl5kbI) | 2:43 |
+| 120 | [Rosalie](https://open.spotify.com/track/5F8wDhqyfZL41NIaCyOIWw) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Walkman Jazz: Erroll Garner](https://open.spotify.com/album/5Y3L2wMDpgXO9IRlJMtfTC) | 2:34 |
 | 121 | [Looking at You](https://open.spotify.com/track/1KS9Jpjg6vDyNUsq6AYPKs) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [Sings the Songs of George & Ira Gershwin & Cole Porter](https://open.spotify.com/album/12h9mMJlUqT7OIK7RdeRlX) | 3:25 |
 | 122 | [Voodoo](https://open.spotify.com/track/3C2HSGEUxEd9tXCsuzdSPL) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [Cow Fingers and Mosquito Pie \(Expanded Edition\)](https://open.spotify.com/album/7iqV06s6GOh88Y1f9cgEud) | 2:40 |
 | 123 | [Where Is The Life That Late I Led?](https://open.spotify.com/track/0lnjAgtSKBb7YqdWAkrm0Y) | [Broadway Cast Recording](https://open.spotify.com/artist/6sOb9xJUZJ8lWcRcZE8bp8) | [Kiss Me Kate \- Music By Cole Porter](https://open.spotify.com/album/7qPCNFVeywaa2WMEK0UaW7) | 4:34 |
@@ -187,8 +187,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 177 | [The Dance Sequence](https://open.spotify.com/track/3qBqSqRi3X90EEatwo3tTb) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 4:55 |
 | 178 | [Arlena & Patrick](https://open.spotify.com/track/5QQCrmZFBF2d65z0bsFjNk) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 1:32 |
 | 179 | [Another Spring, Another Love](https://open.spotify.com/track/7H0w7bTQtVGyyNtwuGtLg7) | [Marlene Dietrich](https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM) | [Marlene Dietrich \(Deluxe Edition\)](https://open.spotify.com/album/3GOd8BP1DNu1BbnPm8EDyQ) | 2:22 |
-| 180 | [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 |
-| 181 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
+| 180 | [I've Got You On My Mind](https://open.spotify.com/track/3T5JLJBYutMiltE7eAkMAk) | [Sarah King](https://open.spotify.com/artist/6N1eTTbmPXYZBXTgZ7j0fp) | [The Masquerade Is Over](https://open.spotify.com/album/0ZiXlEziOd3wt46v3TPRof) | 3:00 |
+| 181 | [I'm gettin' myself ready for you](https://open.spotify.com/track/3ks8teAYHndHIccgy0T2PV) | [Blanche Calloway And Her Orchestra](https://open.spotify.com/artist/3CxyR0I8HEgLlqFS7oR3zg), [Blanche Calloway](https://open.spotify.com/artist/4Pb1I6ZTK7XnAfk7bJtvjh) | [Blanche Calloway, The first woman to lead an all male orchestra](https://open.spotify.com/album/4fBJ7BFYPLFmcPYj0F2rRT) | 3:07 |
 | 182 | [The Grotto](https://open.spotify.com/track/4q98RXShlnhFhtWt0YTJm1) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:05 |
 | 183 | [Fresh As A Daisy](https://open.spotify.com/track/0xzqp1cuSZzVPAniCnBROp) | [Glenn Miller Orchestra](https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z) | [Moonlight Serenade](https://open.spotify.com/album/5zVJWmLOvtD3RO2dyEfeOO) | 2:47 |
 | 184 | [Can Can](https://open.spotify.com/track/7vFRI6pxGYoxu1B2mYJlGj) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/6lW9fc3yUitOjJwg6nWYj1) | 2:12 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 390 | [It Ain't Etiquette](https://open.spotify.com/track/1GbMATrktLfNh0qpFFckW3) | [Ronny Graham](https://open.spotify.com/artist/1p9N6ZU2PVPiQnqVRYdb96) | [Cole Porter Revisited](https://open.spotify.com/album/6nLxZJkzWzt72wRAj0uyWI) | 2:31 |
 | 391 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AcCvZgAAAACmCX6MexF6h/95O+1zM704`
+Snapshot ID: `AcC1BgAAAABFama08oHdjo5IO4NVctjF`

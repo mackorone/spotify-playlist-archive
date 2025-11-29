@@ -4397,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "This is normal now",
+        "url": "https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189073,
+      "name": "Limbo No. 5",
+      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
+    },
+    {
+      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG"
       },
@@ -7476,24 +7494,6 @@
       "duration_ms": 378191,
       "name": "To Whom All Lovers",
       "url": "https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Pabst",
-          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
-        }
-      ],
-      "date_added": "2025-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
     },
     {
       "album": {

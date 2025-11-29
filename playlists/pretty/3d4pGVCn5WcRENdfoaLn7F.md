@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 327 likes - 89 songs - 5 hr 22 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 329 likes - 90 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 87 | [Runaway](https://open.spotify.com/track/6fVrdZhPQDPFX78HqcUu24) | [Nate the Great](https://open.spotify.com/artist/4EHovbr428q6Tnj15gQWu8) | [Runaway](https://open.spotify.com/album/7loqwEQe6W5HYObon40D0H) | 2:40 |
 | 88 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 |
 | 89 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 |
+| 90 | [My Energy Transformation](https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 6:21 |
 
-Snapshot ID: `AAACAcDJr5S/9dPL9lUaOLTAQEh2liAO`
+Snapshot ID: `AAACAnZTR6Gmj/7Agt/X5PIlR1bgL1ta`

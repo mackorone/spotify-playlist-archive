@@ -2,9 +2,9 @@
 
 ### [MARROW](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
 
-> Rock never dies\. Cover: Poppy
+> Rock never dies\. Cover: Ecca Vandal
 
-1,106 songs - 2 day 13 hr 41 min
+1,108 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Blood](https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Earthkeeper](https://open.spotify.com/album/1T8drhwbWC7ksyrXvR8O0n) | 4:02 | 2025-08-29 | 2025-11-15 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-19 | 2023-07-01 |
 | [Blood In The Water](https://open.spotify.com/track/36h5JAbSei6u5AcZJji05T) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Blood In The Water](https://open.spotify.com/album/51XawJfwZu5NH45ICmVAwI) | 3:37 | 2023-04-07 | 2023-09-16 |
+| [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 | 2025-11-28 |  |
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-16 | 2025-07-12 |
 | [Blow It](https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Blow It](https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk) | 2:44 | 2024-06-28 | 2024-11-16 |
 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 | 2023-05-12 | 2023-10-01 |
@@ -547,7 +548,7 @@
 | [love is embarrassing](https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:34 | 2024-03-13 | 2024-03-23 |
 | [Love On The Outside](https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Love On The Outside](https://open.spotify.com/album/3B9HjAh429LhGc19K0hue7) | 3:58 | 2024-05-24 | 2024-08-24 |
 | [Love Raider \- Spotify Singles](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \(Spotify Singles\)](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 | 2024-08-28 | 2024-10-26 |
-| [Love to Death](https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Love to Death](https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL) | 3:33 | 2025-04-25 |  |
+| [Love to Death](https://open.spotify.com/track/7ymuSgXlOoI4tZGCafwzWv) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Love to Death](https://open.spotify.com/album/5yeGMj1vnXgSGjrkIdaMWL) | 3:33 | 2025-04-25 | 2025-11-29 |
 | [Love To Walk Away](https://open.spotify.com/track/1GKsOmCVxqmNavF3nAIrwE) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 2:07 | 2024-03-01 | 2024-03-12 |
 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2024-01-12 | 2024-03-02 |
 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 | 2022-12-16 | 2023-02-18 |
@@ -689,7 +690,7 @@
 | [Overcompensate \(edit\)](https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Overcompensate](https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz) | 3:10 | 2024-03-01 | 2024-05-18 |
 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 | 2023-03-24 | 2023-05-20 |
 | [Pages](https://open.spotify.com/track/6j6OD4QQ2jRuvss0ssZSOK) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Pages](https://open.spotify.com/album/7jMiaQZa1FqzmQcj91JStf) | 2:34 | 2022-11-04 | 2023-03-29 |
-| [Pain](https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Pain](https://open.spotify.com/album/2KkSDX1QPMwmLfNKbpSC5X) | 3:01 | 2025-08-29 |  |
+| [Pain](https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Pain](https://open.spotify.com/album/2KkSDX1QPMwmLfNKbpSC5X) | 3:01 | 2025-08-29 | 2025-11-29 |
 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 | 2024-09-06 | 2024-09-21 |
 | [Pale Moonlight](https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Pale Moonlight](https://open.spotify.com/album/5ad8oCDDBwNymZEBEBNDJs) | 3:40 | 2025-05-02 | 2025-08-09 |
 | [Palindrome](https://open.spotify.com/track/21lWTLhV6ZJMSbrBb2jPfi) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Anomaly IV](https://open.spotify.com/album/34QW18TUfBtQcte51fQKZS) | 4:32 | 2025-07-11 | 2025-09-06 |
@@ -747,6 +748,7 @@
 | [Pumpkin](https://open.spotify.com/track/1IQx5nJcdso6KsMloQSWza) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Pumpkin](https://open.spotify.com/album/6b5OV9K1FhzSTREVtpy8hs) | 4:17 | 2024-06-14 | 2025-02-08 |
 | [PURGE ft\. Siiickbrain](https://open.spotify.com/track/1DtlyZk7uxrg5T29zQls44) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PURGE ft\. Siiickbrain](https://open.spotify.com/album/5O7wZ6lbvfTi7OJexsULS1) | 2:37 | 2022-05-13 | 2022-06-25 |
 | [Puzzles](https://open.spotify.com/track/56F0w1wbpp3mQRpTlKXVi8) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:41 | 2022-06-17 | 2022-07-16 |
+| [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 | 2025-11-28 |  |
 | [Radioactive Dreams](https://open.spotify.com/track/4av7jI8GRkkmstLsviD63M) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH), [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Radioactive Dreams](https://open.spotify.com/album/71CTf366ZVym2w6ett4dAV) | 2:55 | 2025-08-29 | 2025-10-11 |
 | [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 | 2024-05-11 |
 | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/track/7Eta7z7ofiykxOyk9HVWij) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Rage \(feat\. Travis Barker and Aimee Interrupter of The Interrupters\)](https://open.spotify.com/album/00HwTxnfnfF0OVuXeOhJCZ) | 3:14 | 2021-10-22 | 2022-01-22 |

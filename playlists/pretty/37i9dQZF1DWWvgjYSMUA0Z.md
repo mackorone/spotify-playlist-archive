@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,768 likes - 156 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,867 likes - 156 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 155 | [Seamless](https://open.spotify.com/track/0I364Zpa3RKSaQjAJ2tTvL) | [Sydney Woods](https://open.spotify.com/artist/4TmYC9ChYdsrhNwEKkKs2z) | [Seamless](https://open.spotify.com/album/1cqLv4r0uHclBqp70HiWth) | 3:01 |
 | 156 | [Antidote](https://open.spotify.com/track/1C7ful7gtkA5pizJKGlD7Z) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Antidote](https://open.spotify.com/album/2T8AS71aMJNSqBiKCxWvVN) | 2:31 |
 
-Snapshot ID: `AAAAAJgUFJxIDWNX0YE1l7BM2EtiyWfE`
+Snapshot ID: `AAAAAAQimVenzehraf1UfMlRK/BEEJq7`

@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: K.S.Harisankar
 
-442 songs - 1 day 3 hr 25 min
+443 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Insaan](https://open.spotify.com/track/3CKWa385jgUqTxZbAzCfM7) | [kāf](https://open.spotify.com/artist/7HWBA8GKx19Bt7W3pkVi6O), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Insaan](https://open.spotify.com/album/0gOwStQAxXp2YWpz9ij59O) | 3:03 | 2025-06-13 | 2025-07-23 |
 | [Insaanile](https://open.spotify.com/track/4e93naqdNOsCxFsGNuVJlB) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Suhail Sulthan](https://open.spotify.com/artist/1NJ6PqavygiCeOsUlfDccC) | [Insaanile](https://open.spotify.com/album/6g66omwNeL8sexrKakXMnJ) | 2:45 | 2025-04-01 |  |
 | [Irish Kannazhagi](https://open.spotify.com/track/0CPNtE3qj2wMlTkVNVNXkt) | [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC) | [Irish Kannazhagi](https://open.spotify.com/album/45HUSnecxVm0iripgrMb3U) | 1:15 | 2025-05-16 | 2025-07-15 |
+| [Irul](https://open.spotify.com/track/7uN0ioDq2z87igYZNeuHJe) | [Aswin Dev](https://open.spotify.com/artist/1Ha6CbeoZHr1KDakwnv2TH) | [Irul](https://open.spotify.com/album/4Hu5u1DQCwGTR6V2kQRwEL) | 3:23 | 2025-11-28 |  |
 | [Irul](https://open.spotify.com/track/3zVr8z8gPkr469hbNhiJL2) | [Kannan Brahmamangalam](https://open.spotify.com/artist/4nidUdkbOcuwtyVQhoAJWR), [Alwin Leena Martin](https://open.spotify.com/artist/1FAUvU1UW8d7qwbGJITRD0) | [Irul](https://open.spotify.com/album/3bJ7vvpAJCp7vpKxw9uVNE) | 5:28 | 2023-07-03 | 2023-07-28 |
 | [Irulil](https://open.spotify.com/track/1fv3df6n4mqoseIx1oX8TP) | [SidVoc](https://open.spotify.com/artist/29JiaR2Nfjq1usiQ9rX744) | [Irulil](https://open.spotify.com/album/24JsFJCl7Oq5EWPNCoKcFN) | 4:31 | 2023-09-26 | 2024-02-19 |
 | [Jaalam](https://open.spotify.com/track/57m7Uqgd902GeGsL6sG15r) | [Saju Sreenivas](https://open.spotify.com/artist/6CmEs3zFMHjLjYsanVCK0T) | [Jaalam](https://open.spotify.com/album/24FkJ1b7d5IWcMyTtyPkj0) | 3:33 | 2023-10-27 | 2024-02-19 |
@@ -288,7 +289,7 @@
 | [Nin Peru Entha](https://open.spotify.com/track/0FyKI6iz2TOmoIRrg4RRdJ) | [Teejay](https://open.spotify.com/artist/0TBQhPUEj1c5PlmTu3Hq5q), [Geethiyaa Varman](https://open.spotify.com/artist/2E9wl9bV29g6klARlECHsy) | [Nin Peru Entha](https://open.spotify.com/album/671on1d6WwmQn6GUDuy3lc) | 4:12 | 2024-06-07 | 2024-10-01 |
 | [Ninakkai](https://open.spotify.com/track/4vRNRzuhjVXJgr15n8V3TR) | [DJ Jerin](https://open.spotify.com/artist/73JAdYJPsVO4U8ftoKCqmE), [Gourigayathri](https://open.spotify.com/artist/5VKwlNWRpXhi8DDa1FygQc) | [Ninakkai](https://open.spotify.com/album/5APWQwYkzeehE27zDX6fEw) | 4:23 | 2025-07-14 | 2025-11-26 |
 | [Ninnullam](https://open.spotify.com/track/6wddmTvb3rh5xv0qVafxPU) | [Favas Fazin](https://open.spotify.com/artist/7F3MFMJcy1eBbeD6Mq3KAc) | [In Search of Love](https://open.spotify.com/album/2UVh4d257okhn0wjbAXnRz) | 3:40 | 2025-04-24 | 2025-04-26 |
-| [NISHANI](https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [NISHANI](https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7) | 2:48 | 2024-06-14 |  |
+| [NISHANI](https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa) | [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [NISHANI](https://open.spotify.com/album/5YGg7k9HioYHeUDJtms8k7) | 2:48 | 2024-06-14 | 2025-11-29 |
 | [NIZHAL](https://open.spotify.com/track/0QcDTA18Y2xsgBz3HBxefL) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [NIZHAL](https://open.spotify.com/album/0sxwiQKE0wbXnY00pe73sv) | 4:05 | 2025-04-11 | 2025-09-26 |
 | [Nizhalaay](https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf) | [Dins George](https://open.spotify.com/artist/6l460ivmL177cdAsVzQz1Q) | [Nizhalaay](https://open.spotify.com/album/5IopDVaCsbGr5PinWfdq9D) | 4:40 | 2024-08-20 | 2025-04-22 |
 | [Nizhalattam](https://open.spotify.com/track/3pjXqo5XpSTAiiqFJ7pwP9) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Nizhalattam](https://open.spotify.com/album/2YGwnh3gkg79QjDWkxEcju) | 3:40 | 2024-07-26 | 2025-01-14 |

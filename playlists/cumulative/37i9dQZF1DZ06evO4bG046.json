@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220373,
+      "name": "Aconcagua",
+      "url": "https://open.spotify.com/track/0FYSaSJEndxvjuIEKprPuy"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
         "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 220373,
       "name": "Aconcagua",
       "url": "https://open.spotify.com/track/1J3YwZoLyuT0pPOtMbenOE"
@@ -200,6 +218,24 @@
       "duration_ms": 408000,
       "name": "Arrebol",
       "url": "https://open.spotify.com/track/6jKbQFXeH2rzcR7t6wdOJ4"
+    },
+    {
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "Ayer Cache - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep"
     },
     {
       "album": {
@@ -520,10 +556,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 209800,
       "name": "Debajo de las Higueras",
       "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Debajo de las Higueras",
+      "url": "https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG"
     },
     {
       "album": {
@@ -986,10 +1040,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 181573,
       "name": "Huairuro",
       "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Huairuro",
+      "url": "https://open.spotify.com/track/4CW1pkbEJgEESNxpPWnl5I"
     },
     {
       "album": {
@@ -1004,10 +1076,32 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 96160,
       "name": "Huaynito de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1mdt5Jh5wSHicq7y6jvmuj"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361533,
+      "name": "Indio Hermano - Versi\u00f3n 1996",
+      "url": "https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6"
     },
     {
       "album": {
@@ -1026,7 +1120,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 361533,
       "name": "Indio Hermano - Versi\u00f3n 1996",
       "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
@@ -1127,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
+    },
+    {
+      "album": {
         "name": "La Ventana (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -1138,7 +1250,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 283189,
       "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
@@ -1200,6 +1312,28 @@
     {
       "album": {
         "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Eduardo Gatti",
+          "url": "https://open.spotify.com/artist/4XeXlVlcBAqU4tYCP3SdoY"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Los Momentos - Versi\u00f3n 1997",
+      "url": "https://open.spotify.com/track/1De4HB7wgMO4oRuPVidrtK"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
       "artists": [
@@ -1214,7 +1348,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 215600,
       "name": "Los Momentos - Versi\u00f3n 1997",
       "url": "https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL"
@@ -1232,10 +1366,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 944040,
       "name": "Mamalluca",
       "url": "https://open.spotify.com/track/5cZqYxULKUnsi9cHKp78pS"
+    },
+    {
+      "album": {
+        "name": "Mamalluca: Obras Sinf\u00f3nicas, Vol. 1",
+        "url": "https://open.spotify.com/album/0ZPChiwu8RZKzNfCDSvku2"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 944040,
+      "name": "Mamalluca",
+      "url": "https://open.spotify.com/track/6HhGrqxEJHOPdOiPLSBFIE"
     },
     {
       "album": {
@@ -1658,6 +1810,24 @@
     {
       "album": {
         "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "Takirari del Puerto",
+      "url": "https://open.spotify.com/track/1BHHR8y6keQDMdTdiXyxdl"
+    },
+    {
+      "album": {
+        "name": "Aconcagua",
         "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
@@ -1668,7 +1838,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 230133,
       "name": "Takirari del Puerto",
       "url": "https://open.spotify.com/track/361zrhidWZOrmjFExUpfSy"
@@ -1763,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345096,
+      "name": "Todos Juntos - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2K0z6L77gmn3Wl0MHMtE0G"
+    },
+    {
+      "album": {
         "name": "La Ventana (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
       },
@@ -1774,7 +1962,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 345096,
       "name": "Todos Juntos - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/5E8fsTZfvnj7tuRvCnV4SV"
@@ -1818,6 +2006,28 @@
     {
       "album": {
         "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "Valpara\u00edso - Versi\u00f3n 1996",
+      "url": "https://open.spotify.com/track/1SwVz4P6vzrjS7ce3N860c"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
       "artists": [
@@ -1832,7 +2042,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 240560,
       "name": "Valpara\u00edso - Versi\u00f3n 1996",
       "url": "https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv"
@@ -1890,10 +2100,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 170160,
       "name": "Verg\u00fcenza Ajena",
       "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
+    },
+    {
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170160,
+      "name": "Verg\u00fcenza Ajena",
+      "url": "https://open.spotify.com/track/6ZwYH70Fvk8sEFG3lah8ud"
     },
     {
       "album": {

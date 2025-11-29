@@ -4,7 +4,7 @@
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-367 songs - 20 hr 20 min
+369 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2025-08-22 |  |
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2025-10-27 |  |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2025-07-18 | 2025-08-23 |
+| [Blue](https://open.spotify.com/track/4Vudlr60FXFP47yNlLzixA) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Blue](https://open.spotify.com/album/3LyaOh01KBQsQ0dSBJhIYz) | 3:11 | 2025-11-28 |  |
 | [Blur](https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:01 | 2025-11-21 |  |
 | [Boy Made Out Of Stars](https://open.spotify.com/track/4nxLZs5vTr7hi47wQ4lzY8) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Boy Made Out Of Stars](https://open.spotify.com/album/61u3bJdUYO6zizGTPxK7zZ) | 3:26 | 2025-07-18 |  |
 | [Break A Promise](https://open.spotify.com/track/0GhN5uzkfnVTWzmI2RpWBX) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Break A Promise](https://open.spotify.com/album/6iCjFxkd0iZu2ZkeCO7wdg) | 3:08 | 2025-07-18 | 2025-09-20 |
@@ -81,6 +82,7 @@
 | [DIAMONDS FOR YOUR PAIN](https://open.spotify.com/track/6QBQ8IiJC47SHuG7omEub0) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 1:28 | 2025-07-18 |  |
 | [Did You Love Somebody](https://open.spotify.com/track/1j4BkEFGLcBysD9SbnT4ld) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did You Love Somebody](https://open.spotify.com/album/7HYIpIJ4qfmAFqgHYOC3fR) | 4:09 | 2025-07-18 | 2025-08-23 |
 | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB) | 4:08 | 2025-07-18 | 2025-08-23 |
+| [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2025-11-28 |  |
 | [Different Kind Of Love](https://open.spotify.com/track/24OSstaojKavFMAad7CHBb) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Different Kind Of Love](https://open.spotify.com/album/3lGbBlPUeNyxU52Nm5gpdz) | 2:52 | 2025-07-18 |  |
 | [Distant](https://open.spotify.com/track/6XLmbs1FhNAeUVTCgXFvaF) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Distant](https://open.spotify.com/album/2Fe9DVV8LX8MDj04jf8Jyi) | 2:56 | 2025-07-18 |  |
 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 | 2025-07-18 | 2025-08-23 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,874 songs - 4 day 6 hr 0 min
+1,875 songs - 4 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
 | [Atasanté Part.2](https://open.spotify.com/track/64rFW9zxAIeH6dLuiB56Tz) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:14 | 2023-02-18 | 2023-02-20 |
 | [Athéna](https://open.spotify.com/track/07pUayx7i1415PoJvPX0S4) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:16 | 2021-12-05 | 2021-12-06 |
-| [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 | 2025-05-02 |  |
+| [Atiteha l'amour عطيتها](https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Atiteha l'amour عطيتها](https://open.spotify.com/album/3F7MCxGdT3r1guFLD8fddV) | 2:55 | 2025-05-02 | 2025-11-29 |
 | [Au Bout De La Nuit](https://open.spotify.com/track/2r6L78L65TyGirzPgJvYEy) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:01 | 2023-02-18 | 2023-02-20 |
 | [AVENTADOR](https://open.spotify.com/track/5B1hKvBdctYfhHRi03EnmL) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AVENTADOR](https://open.spotify.com/album/4WolsRkPh1ANLPvzhT0gVa) | 2:59 | 2021-09-24 | 2021-09-25 |
 | [AWAH](https://open.spotify.com/track/3C6uHDNRwV2bQAJKesvK4b) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:49 | 2024-02-10 | 2024-02-22 |
@@ -221,7 +221,7 @@
 | [Bent Nass](https://open.spotify.com/track/0Z8y3vH8mt5uMxQ21Eb43g) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:10 | 2021-03-27\* | 2021-05-28 |
 | [Berline noire](https://open.spotify.com/track/7qROyJQ41KImPuBsJ7d8cU) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:15 | 2021-11-28 | 2021-11-28 |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-13 |
-| [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 | 2023-11-24 | 2025-11-27 |
+| [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 | 2023-11-24 |  |
 | [BGHIT](https://open.spotify.com/track/64pMlfA9kqdcb6YO2xT4VH) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [NAFIDA](https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs) | 3:33 | 2025-05-24 | 2025-05-26 |
 | [BILLETS](https://open.spotify.com/track/4cMnyrkND95x27zUwjDbqB) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:21 | 2023-11-25 | 2023-12-30 |
 | [Bip Bip](https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR) | [BAWS](https://open.spotify.com/artist/3AJxg1LAMYLSbiTvuoGXgK) | [Bip Bip](https://open.spotify.com/album/69bn20UloS5fQKpAzs4WL0) | 2:24 | 2022-04-04 | 2022-04-16 |
@@ -629,6 +629,7 @@
 | [Gaza](https://open.spotify.com/track/4S07oYRMNExjXLFGaTJyTj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 5:05 | 2021-09-15 | 2021-09-18 |
 | [Gaza](https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb) | [Un jour de paix](https://open.spotify.com/artist/4ClHj8bEVJatxqxBqY7SHA), [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Gaza](https://open.spotify.com/album/2wP3iEGhtn0HkcCrX44GhP) | 4:33 | 2023-12-10 | 2023-12-12 |
 | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/track/1B7hZEXDweYKwHMT3CcHC7) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 4:03 | 2024-11-30 | 2025-01-05 |
+| [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-11-28 |  |
 | [Get Along Better](https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:49 | 2021-09-05 | 2021-09-06 |
 | [Getafe](https://open.spotify.com/track/43Pgt36ri9xbuHXbUgcDjR) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [ALLO](https://open.spotify.com/album/0TzL09QzzlXkbUxK3hIqzo) | 4:27 | 2025-10-14 | 2025-10-17 |
 | [GHAFILINE](https://open.spotify.com/track/6IfUoWRZUPTVxyduJjrl59) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:50 | 2025-11-22 |  |
@@ -803,7 +804,7 @@
 | [JCVDEMS](https://open.spotify.com/track/1HCJ5RO87crtux9fWtXvDQ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:48 | 2025-05-31 | 2025-06-02 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-06-12 | 2022-07-16 |
 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 | 2025-08-10 | 2025-09-25 |
-| [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 | 2025-02-18 |  |
+| [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 | 2025-02-18 | 2025-11-29 |
 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 | 2024-10-27 | 2024-10-31 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-05 | 2022-04-16 |
 | [Jelaba](https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Jelaba](https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM) | 3:06 | 2024-04-20 | 2024-04-28 |
@@ -1470,7 +1471,7 @@
 | [Salat La Fête](https://open.spotify.com/track/2C6EKSJ9CJMhaf61UDTqAm) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:05 | 2021-10-03 | 2021-10-18 |
 | [SALGOAT \(with Roi Heenok\)](https://open.spotify.com/track/0CSUop9EXJG70Ie6m3P6rf) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Roi Heenok](https://open.spotify.com/artist/1UPSZ2WuhDQc3Y6TBT8bFf) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 0:55 | 2024-11-29 | 2024-12-08 |
 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 | 2024-04-27 | 2024-05-12 |
-| [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-05-11 |  |
+| [San Siro](https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:24 | 2024-05-11 | 2025-11-29 |
 | [Sanae \(Skit\)](https://open.spotify.com/track/3MRdoQYIdAgWV4y0InHrws) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 1:53 | 2022-11-04 | 2022-11-10 |
 | [Sans Sbagha](https://open.spotify.com/track/39ShYRB7WgkZ0IUzXkiBAE) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [DJ Sim\-H](https://open.spotify.com/artist/4vhOcnMfCqZAOoLTpiDxXF) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 1:28 | 2021-04-13 | 2021-04-14 |
 | [Santa Fe](https://open.spotify.com/track/07gqbz5UFQhWtCfT31zGyo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 4:16 | 2021-03-27\* | 2021-06-23 |
@@ -1839,7 +1840,7 @@
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-11-09 | 2022-05-04 |
 | [YSL](https://open.spotify.com/track/3u2dEwgpdqfAPgSXBpfgpY) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:38 | 2021-12-05 | 2021-12-06 |
 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 | 2024-05-11 | 2024-05-26 |
-| [Zahri](https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:20 | 2021-03-27\* | 2025-11-24 |
+| [Zahri](https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 3:20 | 2021-03-27\* |  |
 | [ZANDA](https://open.spotify.com/track/1n8YdvsqgIMMYRnQ6SmScD) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [ZANDA](https://open.spotify.com/album/2trmvgEuBnQXHDruoZo4V6) | 3:07 | 2023-11-29 | 2024-01-05 |
 | [ZANDA](https://open.spotify.com/track/4UCOg9a0A5ObLYGa9acg66) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [ZANDA](https://open.spotify.com/album/4jAEyZacdRwtsL5cyhZuAZ) | 3:07 | 2024-01-05 | 2024-01-11 |
 | [Zarzour](https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Zarzour](https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe) | 3:19 | 2023-06-23 | 2024-09-11 |

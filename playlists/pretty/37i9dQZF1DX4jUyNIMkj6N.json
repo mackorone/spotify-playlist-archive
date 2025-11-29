@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 220427,
+  "num_followers": 220423,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7"
+      },
+      "artists": [
+        {
+          "name": "Maren Lein",
+          "url": "https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq"
+        }
+      ],
+      "duration_ms": 181187,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
         "name": "Never Look Down",
         "url": "https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 198333,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2sENyZSkrNmZcePPnkPszn"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/0tY0wD2plh4fIeaGVNR6y7"
-      },
-      "artists": [
-        {
-          "name": "Maren Lein",
-          "url": "https://open.spotify.com/artist/5KSwZiOZLgVyZBJya03dpq"
-        }
-      ],
-      "duration_ms": 181187,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/7FsuOh45ILYfnT6Z9kbuUg"
     },
     {
       "added_at": "2025-11-13 23:00:14",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2025-11-13 23:00:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Mamma og Pappa",
-        "url": "https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke"
-      },
-      "artists": [
-        {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "Mamma og Pappa",
-      "url": "https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "Something Good",
         "url": "https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 225939,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Mamma og Pappa",
+        "url": "https://open.spotify.com/album/6WpwisMIzyL9deJ4veWlke"
+      },
+      "artists": [
+        {
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "Mamma og Pappa",
+      "url": "https://open.spotify.com/track/2oiq7rEbWpXshuTIKnYFPX"
     },
     {
       "added_at": "2025-11-13 23:00:14",

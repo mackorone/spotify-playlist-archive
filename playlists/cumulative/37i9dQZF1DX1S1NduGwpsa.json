@@ -819,6 +819,28 @@
     },
     {
       "album": {
+        "name": "HOUSE OF BIRDS",
+        "url": "https://open.spotify.com/album/62OfSUbBm4t5ootwPrYHQI"
+      },
+      "artists": [
+        {
+          "name": "VEEKO",
+          "url": "https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185472,
+      "name": "AMISTAD",
+      "url": "https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC"
+    },
+    {
+      "album": {
         "name": "An Epic Story",
         "url": "https://open.spotify.com/album/6SqlvtbQbVy3SbDPVDZHWQ"
       },
@@ -16558,24 +16580,6 @@
       "duration_ms": 166124,
       "name": "Top Hat, White Tie and Tails - Live",
       "url": "https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "VEEKO",
-          "url": "https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg"
-        }
-      ],
-      "date_added": "2025-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Noyz Narcos,  Shiva, Latrelle e Nerissima Serpe, 18k e d/rose, ayo ally e HOODINi e molti altri.
 
-6,464 songs - 11 day 22 hr 26 min
+6,464 songs - 11 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [22Drgz](https://open.spotify.com/track/0gf5FFRHhLJ6F8CezGpIZq) | [Raspyy](https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [22Drgz](https://open.spotify.com/album/7Cp4FqpqT5YW5wr9zBLhdu) | 2:42 | 2024-01-12 | 2024-01-26 |
 | [23 'till infinity](https://open.spotify.com/track/7KSph55egVlxw5cX2JOUvj) | [Dj Zeta](https://open.spotify.com/artist/0igQlEtSvEt9px4qy91gSU), [Manny Mani](https://open.spotify.com/artist/1kHtH9IQvMgCkJgKYy3ZP3), [Cricca Dei Balordi](https://open.spotify.com/artist/2ABQVj6lXu0Zf7rxC3vrAN), [DJ Myke](https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O) | [23 'till infinity](https://open.spotify.com/album/5ftkyYfHmf17tIej89RYYw) | 2:59 | 2023-06-01 | 2023-06-16 |
 | [24 MAFIA](https://open.spotify.com/track/7DANLIR04iE7nFIFAQW0ix) | [Pucho](https://open.spotify.com/artist/5ton3sbMDq2uEanAdRe8Vr) | [24 MAFIA](https://open.spotify.com/album/1ukTq2NGs0C6ZkCktohkWj) | 2:00 | 2024-07-11 | 2024-07-27 |
-| [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 4:42 | 2025-11-28 |  |
+| [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 | 2025-11-28 |  |
 | [24/7](https://open.spotify.com/track/118lBaOeoRLNnySo8DOKRc) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [24/7](https://open.spotify.com/album/7KA4HQshkUPNtpP3UDpowQ) | 3:05 | 2024-11-14 | 2024-12-06 |
 | [24/7](https://open.spotify.com/track/4qhA9YjkvA1e4JmR12TRPx) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [24/7](https://open.spotify.com/album/2fiQL8X4r4nCNheso7sO8R) | 2:26 | 2024-10-03 | 2024-11-01 |
 | [24/7 \(feat\. Ensi & Gemitaiz\)](https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [24/7 \(feat\. Ensi & Gemitaiz\)](https://open.spotify.com/album/3xf6UBG5iCYpuCEm8B8qqy) | 3:01 | 2025-09-04 | 2025-09-26 |

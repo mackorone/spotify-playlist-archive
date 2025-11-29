@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2024-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "Escapar",
+      "url": "https://open.spotify.com/track/43RR8ItPkVLf5SEAQ4Ao3x"
+    },
+    {
+      "album": {
         "name": "Floricienta",
         "url": "https://open.spotify.com/album/2X3U1Ra8bYgf0wXMjYJ1rN"
       },
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 205880,
       "name": "Todos Me Miran",
       "url": "https://open.spotify.com/track/7iKSx0WjzCgYYaM7o1R5CV"

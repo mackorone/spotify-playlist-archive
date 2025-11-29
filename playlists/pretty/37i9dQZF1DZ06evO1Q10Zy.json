@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38083,
+  "num_followers": 38090,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAA3uRxysGu8XQ9H7XWzcygn",
+  "snapshot_id": "aSeUgAAAAABZm88N2hVOS15sNWv0Nwgi",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "What If - Urban Mix",
-      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Return Of The Tender Lover",
         "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 340386,
       "name": "Exceptional",
       "url": "https://open.spotify.com/track/5JVzZOgYzxK5p5Eq2hPZvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "What If - Urban Mix",
+      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
     },
     {
       "added_at": null,
@@ -774,11 +774,15 @@
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
+      "duration_ms": 259626,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
     },
     {
       "added_at": null,
@@ -850,15 +854,11 @@
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 259626,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka"
+      "duration_ms": 278293,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out",
-        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
+        "name": "Back With A Heart",
+        "url": "https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 195097,
-      "name": "Seamless (with Kehlani)",
-      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
+      "duration_ms": 246533,
+      "name": "I Honestly Love You",
+      "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
     },
     {
       "added_at": null,
@@ -931,22 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back With A Heart",
-        "url": "https://open.spotify.com/album/3WOgAppeszaqNnvNeQGX90"
+        "name": "Girls Night Out",
+        "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
       "artists": [
         {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        },
-        {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 246533,
-      "name": "I Honestly Love You",
-      "url": "https://open.spotify.com/track/586aJTfgYDYOkYcoApmsXp"
+      "duration_ms": 195097,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
     }
   ],
   "unique_name": "This Is Babyface",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Charles Doré
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,197 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,213 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 4 | [La vie qu'on mène](https://open.spotify.com/track/67KNgIyHFDX68mOepundEw) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vie qu'on mène](https://open.spotify.com/album/3uP80wyt5ZuWBnoBaaolIa) | 2:42 |
 | 5 | [Mieux que moi](https://open.spotify.com/track/582fzdZiGTRxGigvLVZ7V7) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mieux que moi](https://open.spotify.com/album/31qQHs1Y0ZL3McKKTQdA6S) | 3:35 |
 | 6 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 |
-| 7 | [Le cœur et la tête](https://open.spotify.com/track/5vhXl4IddXezpcH2kJgjbm) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [](https://open.spotify.com/album/null) | 2:56 |
+| 7 | [Le cœur et la tête](https://open.spotify.com/track/5vhXl4IddXezpcH2kJgjbm) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [IV saisons](https://open.spotify.com/album/4t72EmgjwrB3DkDzd9CBW0) | 2:56 |
 | 8 | [Comme toutes les filles](https://open.spotify.com/track/45BhIKShrRfxQjuP9povgy) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Comme toutes les filles](https://open.spotify.com/album/4QQKgw54wOtdBM17hYsa3B) | 2:47 |
 | 9 | [Lentement](https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Lentement](https://open.spotify.com/album/7m80SDtHS4znhOoqxMqECv) | 2:59 |
 | 10 | [Boule au ventre](https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:00 |
 | 11 | [Avec toi](https://open.spotify.com/track/1j8Yt6ZhiyAAq7voD6z5ja) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [C amir²](https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya) | 3:30 |
-| 12 | [J'veux que t'aies mal](https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [](https://open.spotify.com/album/null) | 3:12 |
+| 12 | [J'veux que t'aies mal](https://open.spotify.com/track/269aCU3cP4Dxw8TTXjJV41) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Éclair](https://open.spotify.com/album/0gNAAFYDnBfBiPtMq4vtpu) | 3:12 |
 | 13 | [Let Me Go](https://open.spotify.com/track/4M8a60X9qBfIjJ0rDfNQUc) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Let Me Go](https://open.spotify.com/album/1PuCjuF1fBuuh6SwLclfns) | 2:50 |
 | 14 | [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 |
 | 15 | [En boucle](https://open.spotify.com/track/7DnucB1OzPCM8qP7dziWbC) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [En boucle](https://open.spotify.com/album/5flNY5V3mKeP4WFoqsjGRA) | 4:06 |

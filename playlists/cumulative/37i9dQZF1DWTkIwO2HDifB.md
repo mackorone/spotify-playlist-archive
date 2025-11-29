@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: DJJapa NK, MC Meno K, Mc Jacaré, MC Ryan SP, DJ DAVI DOGDOG
+> Os funks mais 🔑 do Brasil / Foto: MC GP,  MC leleJP,  DJ Davi DOGDOG
 
 406 songs - 23 hr 50 min
 

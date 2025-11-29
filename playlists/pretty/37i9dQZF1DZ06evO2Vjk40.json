@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 705568,
+  "num_followers": 705668,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABnu96Z3GMyND1mv6ypyMya",
+  "snapshot_id": "aSeUgAAAAABdZBLYTpEesCw1dTxW//7s",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 222413,
       "name": "Traveller",
       "url": "https://open.spotify.com/track/178OI1A3qjROeFeh8lmNwW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Weight Of Your World",
+      "url": "https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starting Over",
         "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 309853,
       "name": "Cold",
       "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 236333,
       "name": "Whiskey And You",
       "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 234160,
-      "name": "Weight Of Your World",
-      "url": "https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Hard Livin'",
-      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 225026,
       "name": "The Fire",
       "url": "https://open.spotify.com/track/4Jn2CdZYqtIsPpIRYB1o47"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
     },
     {
       "added_at": null,

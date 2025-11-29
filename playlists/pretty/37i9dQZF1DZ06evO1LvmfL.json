@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 447875,
+  "num_followers": 448056,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAA2xaGseLL7dj2MQ28A4SDO",
+  "snapshot_id": "aSeUgAAAAACciWA+3uQPc5aJWQBAFSv2",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
       },
       "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 179086,
-      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
+      "duration_ms": 207794,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "About A Woman (Deluxe)",
-        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
       },
       "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 207794,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/15JqWJoyG7WNJi9qrAYT86"
+      "duration_ms": 179086,
+      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
     },
     {
       "added_at": null,
@@ -867,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+        "name": "Unlearning",
+        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
       },
       "artists": [
         {
           "name": "Teddy Swims",
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 163314,
-      "name": "All Gas No Brakes (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
+      "duration_ms": 209132,
+      "name": "Will It Find Me",
+      "url": "https://open.spotify.com/track/0msLXGH72jfmy50Z5CAqPA"
     }
   ],
   "unique_name": "This Is Teddy Swims",

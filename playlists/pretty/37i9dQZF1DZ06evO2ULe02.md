@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 8 | [People Pleaser](https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:10 |
 | 9 | [ricochet](https://open.spotify.com/track/41zRFZskGaj9msEL43fJjD) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:07 |
 | 10 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 |
-| 11 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
-| 12 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 |
+| 11 | [Different](https://open.spotify.com/track/7kjhPDeXgKMawtdGeZl212) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Different](https://open.spotify.com/album/2gMqEdAujugcErSftyzTki) | 3:20 |
+| 12 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 |
 | 13 | [2 much 2 handle](https://open.spotify.com/track/7AjYFYnhzEcjui2weZzIdR) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 2:20 |
 | 14 | [dance around it](https://open.spotify.com/track/6Boo0GQjPI7JqhUVjy4bS2) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [dance around it](https://open.spotify.com/album/0pX52I7Q7kfR4vniTPIK6H) | 2:25 |
 | 15 | [Dumped](https://open.spotify.com/track/2G6mLCWcfHTPEJ7Vscf0FL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Dumped](https://open.spotify.com/album/6mKVK9W2eY2WdfgrAh9HMW) | 2:43 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 26 | [How's It Gonna End?](https://open.spotify.com/track/3RVe55HNkkjblwYqMh8bol) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:30 |
 | 27 | [are we in love yet?](https://open.spotify.com/track/1len89NNhcvNKZg4gwuO4S) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 2:57 |
 
-Snapshot ID: `aSZDAAAAAAB1cIsFn/YaCtCP0TJQyYYB`
+Snapshot ID: `aSeUgAAAAAB2MBg9ae2cvxhLEhS6g0Al`

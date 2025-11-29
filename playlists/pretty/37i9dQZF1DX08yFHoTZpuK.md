@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,940 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,983 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 39 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
 | 40 | [RESONATE](https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5) | [Surya Hearts](https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin) | [RESONATE](https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR) | 2:55 |
 | 41 | [TOKYO](https://open.spotify.com/track/4asW0vZmvIWmqp2ueazpeQ) | [Nakajin](https://open.spotify.com/artist/2TIGcMsXemeBUE3CN6c0Uk) | [TOKYO](https://open.spotify.com/album/3ichHRNhN8dHWctJ4mTCsH) | 3:01 |
-| 42 | [From The Darkside \(monoqlom Remix\)](https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m) | [Coakira](https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K), [monoqlom](https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg) | [Darkside 2075](https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z) | 2:45 |
-| 43 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
+| 42 | [Life, Dream, Love](https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r) | [Daishi Dance](https://open.spotify.com/artist/01HEACGPo5xyiXgAJKEvxQ), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Oh Jieun](https://open.spotify.com/artist/0yhoq5pPSa7eCpA65358cU), [Himekami](https://open.spotify.com/artist/7F1bUE2y2JjoReZ4hESAAV) | [Life, Dream, Love](https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P) | 3:52 |
+| 43 | [From The Darkside \(monoqlom Remix\)](https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m) | [Coakira](https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K), [monoqlom](https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg) | [Darkside 2075](https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z) | 2:45 |
 | 44 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
 | 45 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
 | 46 | [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 |

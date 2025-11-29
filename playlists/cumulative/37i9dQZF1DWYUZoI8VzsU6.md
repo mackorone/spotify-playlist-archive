@@ -2,9 +2,9 @@
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with Ole 60
+> back roads up loud with Treaty Oak Revival
 
-59 songs - 3 hr 19 min
+60 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [M.I.A](https://open.spotify.com/track/0h45L8tQrb6lwrQHUQovNn) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [M.I.A](https://open.spotify.com/album/1K9hq2qxMtxu1LwJJmqywc) | 3:06 | 2025-09-26 |  |
 | [Make It Look Easy](https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Make It Look Easy](https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE) | 2:33 | 2025-09-05 |  |
 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 | 2025-09-05 |  |
+| [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 | 2025-11-28 |  |
 | [Missed Call](https://open.spotify.com/track/6ybZUqlfk938oS6WeBmDab) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:15 | 2025-09-05 |  |
 | [Name In A Song](https://open.spotify.com/track/7pCopTBQmUIvVHCAREicYC) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Name In A Song](https://open.spotify.com/album/5TnxrgBI9muACAEOHEO0Ik) | 3:20 | 2025-09-05 |  |
 | [Next Week](https://open.spotify.com/track/0r54Tm572IfsTmt0qXpJQO) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Simpler Days](https://open.spotify.com/album/1RNkTsTneXFwzZkiAKRnnN) | 2:53 | 2025-09-05 |  |

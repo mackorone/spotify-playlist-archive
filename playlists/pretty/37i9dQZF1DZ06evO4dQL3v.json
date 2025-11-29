@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6404,
+  "num_followers": 6405,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADWxvije1xVmKMA+uR9L65t",
+  "snapshot_id": "aSeUgAAAAACtbKcjT/FU4PQmM8XkpjSN",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Oh Que Gusto de Volverte a Ver",
-      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestra Historia, Vol. 1",
         "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 195946,
       "name": "Me Rio de Miedo",
       "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Oh Que Gusto de Volverte a Ver",
+      "url": "https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+        "name": "Polvo y Nada",
+        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 148093,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
+      "duration_ms": 240066,
+      "name": "A Mi Manera",
+      "url": "https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo y Nada",
-        "url": "https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE"
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 240066,
-      "name": "A Mi Manera",
-      "url": "https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY"
+      "duration_ms": 148093,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
     },
     {
       "added_at": null,

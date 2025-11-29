@@ -1,13 +1,61 @@
 {
   "description": "New releases for the kids. Cover: Gabby's Dollhouse",
-  "num_followers": 79726,
+  "num_followers": 79871,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJx4BhTPRBm2UGEA+pZrdy+unrv",
+  "snapshot_id": "AAAAALQuXCsPhHjvmB8M866EVmI0WzH2",
   "tracks": [
+    {
+      "added_at": "2025-11-28 05:00:17",
+      "album": {
+        "name": "Bops & Beats DJ Table",
+        "url": "https://open.spotify.com/album/0BjYm6QEunqbrA9Fu0lQlg"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 106680,
+      "name": "Follow the DJ",
+      "url": "https://open.spotify.com/track/6tiCVOKzd81yvxVP6nInoC"
+    },
+    {
+      "added_at": "2025-11-25 22:39:00",
+      "album": {
+        "name": "M\u00e1s Melod\u00eda",
+        "url": "https://open.spotify.com/album/7vRKcxFSfQijYaJ6Q5PQzf"
+      },
+      "artists": [
+        {
+          "name": "Taboo",
+          "url": "https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP"
+        },
+        {
+          "name": "Jett Gomez",
+          "url": "https://open.spotify.com/artist/6lkSUwZ5v3KOGkJmb66fJW"
+        },
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+        }
+      ],
+      "duration_ms": 85969,
+      "name": "Quickatoo",
+      "url": "https://open.spotify.com/track/3YpgKwdxCfnfjNjg6JaH47"
+    },
     {
       "added_at": "2025-11-21 05:00:24",
       "album": {
@@ -45,32 +93,20 @@
       "url": "https://open.spotify.com/track/60VxsOWX2Umcil8DbOfb32"
     },
     {
-      "added_at": "2025-11-25 22:39:00",
+      "added_at": "2025-11-28 05:00:17",
       "album": {
-        "name": "M\u00e1s Melod\u00eda",
-        "url": "https://open.spotify.com/album/7vRKcxFSfQijYaJ6Q5PQzf"
+        "name": "Let's Go Outside!",
+        "url": "https://open.spotify.com/album/0bwGW9K4v1Cj2u0FKDt2aX"
       },
       "artists": [
         {
-          "name": "Taboo",
-          "url": "https://open.spotify.com/artist/6WirJzihzKTGyw7mgEdJUP"
-        },
-        {
-          "name": "Jett Gomez",
-          "url": "https://open.spotify.com/artist/6lkSUwZ5v3KOGkJmb66fJW"
-        },
-        {
-          "name": "Nick Jr.",
-          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
-        },
-        {
-          "name": "Dora The Explorer",
-          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
         }
       ],
-      "duration_ms": 85969,
-      "name": "Quickatoo",
-      "url": "https://open.spotify.com/track/3YpgKwdxCfnfjNjg6JaH47"
+      "duration_ms": 152728,
+      "name": "Let's Go Outside!",
+      "url": "https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd"
     },
     {
       "added_at": "2025-11-21 05:00:24",

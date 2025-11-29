@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 
 > <a href="spotify:artist:3JkLFcTej6tdwZoQT6Nx4B">Seth Troxler</a>'s favorite tracks\. Updated regularly\. Curated by Seth Troxler\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,767 likes - 53 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,778 likes - 53 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

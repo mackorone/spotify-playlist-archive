@@ -4,7 +4,7 @@
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️ Featuring music from: Harry Styles, Bruno Mars, Beyoncé, SZA, Adele, H.E.R, Usher, Alicia Keys, Michael Jackson, John Mayer, John Legend, Rihanna, Ed Sheeran and more\. Chill vibes \| Romantic dinner 2025
 
-336 songs - 20 hr 40 min
+337 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bloodbuzz Ohio](https://open.spotify.com/track/6ORquZGOYGRlH1P7ZYhFz8) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Bloodbuzz Ohio](https://open.spotify.com/album/35NALiZBv8Ka1D4CnWxvMG) | 4:39 | 2023-03-28 | 2024-10-05 |
 | [Born With a Broken Heart](https://open.spotify.com/track/36r085cj95tQcGaOoPLfc5) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:28 | 2025-05-19 |  |
 | [Bound](https://open.spotify.com/track/3ogo2xTItjR1seyKazMPLQ) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Bound](https://open.spotify.com/album/74fddg32HWNLWswE2ZVFml) | 3:58 | 2025-10-10 |  |
-| [Broke](https://open.spotify.com/track/0KsFrdNwsirFTNarhckDKd) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Broke](https://open.spotify.com/album/2cocOtybmDsIlGY0tNLFOn) | 2:49 | 2025-09-26 |  |
+| [Broke](https://open.spotify.com/track/0KsFrdNwsirFTNarhckDKd) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Broke](https://open.spotify.com/album/2cocOtybmDsIlGY0tNLFOn) | 2:49 | 2025-09-26 | 2025-11-29 |
 | [Broken Heart](https://open.spotify.com/track/16MTQq5iwPVy76gbgcAS6i) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Broken Heart](https://open.spotify.com/album/3b6EgeeuKDdfwG8xC5cFHC) | 2:36 | 2025-09-12 | 2025-09-27 |
 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 | 2025-02-12 | 2025-02-14 |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2024-10-04 | 2025-01-31 |
@@ -118,6 +118,7 @@
 | [Gold](https://open.spotify.com/track/4Qy7yWT1UI6FK2CWrqkGwR) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [This Marauder's Midnight](https://open.spotify.com/album/6Nahal5iYJfGxEXeGSL3b3) | 4:11 | 2025-01-24 | 2025-09-13 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 |  |
 | [Gone Girl](https://open.spotify.com/track/2Sjx8DWZO5zaTyTAmgo2gY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:04 | 2024-10-04 | 2025-06-06 |
+| [Gone In The Morning \- Radio Edit](https://open.spotify.com/track/3QPiJjSyHB5ZUxtxQQiOuH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Gone In The Morning \(Radio Edit\)](https://open.spotify.com/album/2GYGS0eufr8rjplsfGUPGg) | 2:47 | 2025-11-28 |  |
 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 | 2022-05-27 | 2024-10-05 |
 | [Gravity](https://open.spotify.com/track/3SktMqZmo3M9zbB7oKMIF7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:05 | 2025-02-13 |  |
 | [Greatest Love of All](https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:51 | 2022-05-27 | 2024-10-05 |

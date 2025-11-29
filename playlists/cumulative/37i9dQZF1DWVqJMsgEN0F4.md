@@ -2,7 +2,7 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> Twenty One Pilots along with the hottest alternative songs right now.
+> Tame Impala along with the hottest alternative songs right now.
 
 986 songs - 2 day 8 hr 8 min
 

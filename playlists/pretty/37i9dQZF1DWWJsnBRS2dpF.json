@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 66568,
+  "num_followers": 66587,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Are You That Somebody",
-        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
-    },
-    {
-      "added_at": "2022-10-01 16:21:24",
-      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 227560,
       "name": "Damage",
       "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
+    },
+    {
+      "added_at": "2022-10-01 16:21:24",
+      "album": {
+        "name": "Are You That Somebody",
+        "url": "https://open.spotify.com/album/3leLClL6IJTf7Pez7yJKJD"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/1sSuFkO3m3Cr6YN24NYol5"
     },
     {
       "added_at": "2022-10-01 16:21:24",

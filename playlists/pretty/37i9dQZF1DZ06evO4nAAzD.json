@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABnbsgM/dYgt8EzIkYVohvX",
+  "snapshot_id": "aSeUgAAAAAA14INfZWrVYCc9m+Hyjdtm",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pouco Assunto",
+        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
+      },
+      "artists": [
+        {
+          "name": "ANAJU",
+          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 166491,
+      "name": "Pouco Assunto",
+      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pouco Assunto",
-        "url": "https://open.spotify.com/album/2qlqrSaD2YDmhCNHCmCcFx"
-      },
-      "artists": [
-        {
-          "name": "ANAJU",
-          "url": "https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 166491,
-      "name": "Pouco Assunto",
-      "url": "https://open.spotify.com/track/0JjWZ5QDvBCqtksJ4miyeF"
     },
     {
       "added_at": null,
@@ -763,6 +763,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terror das Faixa Rosa",
+        "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
+      },
+      "artists": [
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Terror das Faixa Rosa",
+      "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
       },
@@ -803,38 +835,6 @@
       "duration_ms": 170318,
       "name": "Gelo no Copo - Remix",
       "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terror das Faixa Rosa",
-        "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
-      },
-      "artists": [
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Terror das Faixa Rosa",
-      "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
     },
     {
       "added_at": null,
@@ -1259,6 +1259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Que Vai Ser de Mim",
+        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "O Que Vai Ser de Mim",
+      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quer Ibope",
         "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 223218,
       "name": "Quer Ibope",
       "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Vai Ser de Mim",
-        "url": "https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "O Que Vai Ser de Mim",
-      "url": "https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc"
     },
     {
       "added_at": null,

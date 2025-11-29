@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210945,
+      "name": "Au Pays du Cocaine",
+      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
+    },
+    {
+      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu"
       },

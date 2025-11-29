@@ -4,7 +4,7 @@
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-145 songs - 7 hr 47 min
+148 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2023-12-08 |  |
 | [All I Want for Christmas is You](https://open.spotify.com/track/4rTeOy6VlQm10EGRhcEi0V) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Walter Afanasieff](https://open.spotify.com/artist/3kre11hj5tSyNIKQdZ8u2i), [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [All I Want for Christmas is You](https://open.spotify.com/album/6qa7hIEIMrq8kn23zobv9u) | 3:13 | 2023-12-08 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/5doDIuDiarczhIkbudNuUC) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [All I Want for Christmas Is You](https://open.spotify.com/album/7itCtZEW4ZIPgFGIGQ0Doo) | 3:35 | 2023-12-08 |  |
+| [All That Glitters](https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [All That Glitters](https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm) | 3:19 | 2025-11-28 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/73Qw33wmrc3r4kSRBXHGSX) | [Susan Boyle](https://open.spotify.com/artist/1qAuetfG6mhtDgsVIffWQc) | [The Gift](https://open.spotify.com/album/2SHlXY3Z9gKK2MPExaWR8M) | 2:44 | 2023-12-08 |  |
 | [Baby, It's Cold Outside \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/54q6WgqyTXjwOSrevVR8z9) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [A Legendary Christmas: Deluxe Edition](https://open.spotify.com/album/3wanKGZXsWXr6ZKdQrDtGu) | 3:38 | 2023-12-08 |  |
 | [Baby, It's Cold Outside \(Glee Cast Version\) \(feat\. Darren Criss\)](https://open.spotify.com/track/7CbC13sGsgSAHpaJ5oDcU6) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Glee: The Music, The Christmas Album](https://open.spotify.com/album/7FNrLZcarhJDymYgoUQfQN) | 2:46 | 2023-12-08 |  |
@@ -42,6 +43,7 @@
 | [Do You Hear What I Hear?](https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 3:32 | 2023-12-08 |  |
 | [Don't Save It All for Christmas Day](https://open.spotify.com/track/1MRVRdoN9YbLa90eZIysEf) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/0LvrjOn7CrNSs0jVUvrgVy) | 4:37 | 2023-12-08 |  |
 | [Driving Home for Christmas](https://open.spotify.com/track/3VjgjxrTALIa6cQlAirfIL) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [Driving Home for Christmas \(Pt\. 1\)](https://open.spotify.com/album/5utR4zIyp4wEHPRaCVbc85) | 2:32 | 2023-12-08 |  |
+| [Every Ribbon](https://open.spotify.com/track/6KENqX9oo89IrkZqKZMKnX) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Every Ribbon](https://open.spotify.com/album/09Rm2tuITidVaeuIdTJu7F) | 3:52 | 2025-11-28 |  |
 | [Father Christmas](https://open.spotify.com/track/2oDoXdt2ZNyjlMTX2wahLW) | [Platinum Blonde](https://open.spotify.com/artist/5oxTKyMgf6POnzlqM1mduA) | [Father Christmas / Père Noël](https://open.spotify.com/album/4tWk6d2AhKexFb7GxNKXL5) | 3:47 | 2023-12-08 |  |
 | [Feliz Navidad](https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [The Definite Best](https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv) | 3:02 | 2023-12-08 |  |
 | [Frosty the Snowman](https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:20 | 2023-12-08 |  |
@@ -112,6 +114,7 @@
 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 | 2023-12-08 |  |
 | [One Wish \(For Christmas\)](https://open.spotify.com/track/6pPLhUHaxNy37eIUNYu5JL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 4:12 | 2023-12-08 |  |
 | [Please Come Home for Christmas](https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Please Come Home for Christmas](https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8) | 2:45 | 2023-12-08 |  |
+| [Presente de Natal \- Living Room Edition](https://open.spotify.com/track/6RGSoeY5tibSU26oZvBNbA) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Dan Chmielinski](https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD) | [A Very Deluxe ChimyTina Christmas](https://open.spotify.com/album/00fHubsDxrcLnDvo31z5ia) | 1:50 | 2025-11-28 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2023-12-08 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/5lyikKk6KFWfWCuDDir9Fx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0kCDFEzZ3zNnr5zdO0Bh08) | 1:56 | 2023-12-08 |  |
 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:46 | 2023-12-08 |  |

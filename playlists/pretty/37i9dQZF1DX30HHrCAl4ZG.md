@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from mercury
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,449 likes - 165 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,419 likes - 165 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 164 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 |
 | 165 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
 
-Snapshot ID: `AAAAAKAf1Gim+YAIE23YaxbCEA8kyaFf`
+Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`

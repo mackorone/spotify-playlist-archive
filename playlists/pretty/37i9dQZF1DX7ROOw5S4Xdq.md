@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Julia Vitória
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,319 likes - 48 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,672 likes - 48 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 35 | [Eu Vi Jesus](https://open.spotify.com/track/1ut4jni7Jd72mkAlU6YtlM) | [Brenda Danese](https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r) | [Eu Vi Jesus](https://open.spotify.com/album/1JuLVbjQlpll5SXJ4OTJWS) | 5:03 |
 | 36 | [Me Refaz](https://open.spotify.com/track/5OdGnvRDt9hZs8tUettEHP) | [Izza D](https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Me Refaz](https://open.spotify.com/album/4A93MiFm7ZQ0KauYRuTD8O) | 2:15 |
 | 37 | [O Amor Permanecerá \(1 Coríntios 13\) \- Ao Vivo](https://open.spotify.com/track/1zAAWBccDSFaf9QxKhKms7) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [O Amor Permanecerá \(1 Coríntios 13\) \[Ao Vivo\]](https://open.spotify.com/album/1cl2piegK93rB94PsosImu) | 3:43 |
-| 38 | [Que Deus É Esse](https://open.spotify.com/track/0wCD22svCZmNFms4NTNGfg) | [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH) | [Que Deus É Esse](https://open.spotify.com/album/7ajemaHfTYaxWXikHxEDMw) | 5:50 |
+| 38 | [Que Deus É Esse](https://open.spotify.com/track/0wCD22svCZmNFms4NTNGfg) | [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH) | [Que Deus É Esse](https://open.spotify.com/album/7ajemaHfTYaxWXikHxEDMw) | 3:41 |
 | 39 | [Deus É Tudo pra Mim](https://open.spotify.com/track/12KPTpN705SH9tg3Q2zMsh) | [Talita Santos](https://open.spotify.com/artist/1DInSATyTbdiv5dyZM7X69), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [Deus É Tudo pra Mim](https://open.spotify.com/album/7z24qpMpdPobnXOf13rbga) | 5:08 |
 | 40 | [Profundo](https://open.spotify.com/track/0oyhxqg3FjauKkwFK9xqLQ) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [ARISE](https://open.spotify.com/artist/55ODiuoLqv02mQkm06CxtW) | [PROFUNDO](https://open.spotify.com/album/6M6qg1Kf2wAIfwgJWskasz) | 3:14 |
 | 41 | [A Fé](https://open.spotify.com/track/4AHOQbYouI5YfAhk9YWmDA) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [A Fé](https://open.spotify.com/album/5YaAmIYatUTmxcniRoemRx) | 4:35 |

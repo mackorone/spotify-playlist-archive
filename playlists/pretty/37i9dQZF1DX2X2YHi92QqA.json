@@ -1,6 +1,6 @@
 {
   "description": "\u041c\u0443\u0437\u0438\u043a\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0454\u043c\u043d\u0438\u0445 \u043e\u0441\u0456\u043d\u043d\u0456\u0445 \u043f\u0440\u043e\u0433\u0443\u043b\u044f\u043d\u043e\u043a \ud83c\udf41",
-  "num_followers": 38862,
+  "num_followers": 38860,
   "original_name": "\u041e\u0441\u0456\u043d\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "I think we should just move in together",
-        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
-      },
-      "artists": [
-        {
-          "name": "Min Taka",
-          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
-        }
-      ],
-      "duration_ms": 245836,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
         "name": "Lucerna",
         "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 376000,
       "name": "Lucerna",
       "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
+        "name": "I think we should just move in together",
+        "url": "https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "duration_ms": 245836,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
     },
     {
       "added_at": "2025-09-01 16:25:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-09-01 16:25:25",
       "album": {
-        "name": "\u0414\u0456\u0442\u0438",
-        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
-      },
-      "artists": [
-        {
-          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
-          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
-        }
-      ],
-      "duration_ms": 238672,
-      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
-      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
-    },
-    {
-      "added_at": "2025-09-01 16:25:25",
-      "album": {
         "name": "Nich",
         "url": "https://open.spotify.com/album/5uZN4GeZekd1sUKcdHPh3r"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 230660,
       "name": "Nich",
       "url": "https://open.spotify.com/track/1dfi1Jv98IN75RVmohHLil"
+    },
+    {
+      "added_at": "2025-09-01 16:25:25",
+      "album": {
+        "name": "\u0414\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/7i9VX5UVn6oRKLCowh3rlZ"
+      },
+      "artists": [
+        {
+          "name": "\u0421\u0430\u043b\u044c\u0442\u043e \u041d\u0430\u0437\u0430\u0434",
+          "url": "https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW"
+        }
+      ],
+      "duration_ms": 238672,
+      "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
+      "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
     },
     {
       "added_at": "2025-09-01 16:25:25",

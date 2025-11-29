@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87242,
+  "num_followers": 87248,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Don't Tease Me With A Good Time",
+        "url": "https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg"
       },
       "artists": [
         {
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
         "name": "bandaids",
         "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 182008,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 184133,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 184133,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Smooth",
-        "url": "https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 173316,
-      "name": "Smooth",
-      "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 215156,
       "name": "Fy faen du e deili",
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Smooth",
+        "url": "https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 173316,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 145733,
       "name": "Alle vil til himmelen",
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-11-27 23:00:14",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-11-27 23:00:14",
       "album": {
-        "name": "Store gutter gr\u00e5ter ikke",
-        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 208366,
-      "name": "Store gutter gr\u00e5ter ikke",
-      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
-    },
-    {
-      "added_at": "2025-11-27 23:00:14",
-      "album": {
         "name": "My First Heartbreak",
         "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 206800,
       "name": "My First Heartbreak",
       "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
+    },
+    {
+      "added_at": "2025-11-27 23:00:14",
+      "album": {
+        "name": "Store gutter gr\u00e5ter ikke",
+        "url": "https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 208366,
+      "name": "Store gutter gr\u00e5ter ikke",
+      "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
     },
     {
       "added_at": "2025-11-27 23:00:14",

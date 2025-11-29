@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 14967,
+  "num_followers": 14981,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACDbgR7Tnd54dKGJEqyxs9L",
+  "snapshot_id": "aSeUgAAAAABr1Up4FjGV2Wi7zy1qmnDE",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190819,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skido (with Olamide)",
         "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 166375,
       "name": "Skido (with Olamide)",
       "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190819,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1pheB3ku1OKy80SaB8VXqG"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "Sawa",
-      "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 164324,
+      "name": "Sawa",
+      "url": "https://open.spotify.com/track/7lrCHLEPnEs8E1lfxbjrmk"
     },
     {
       "added_at": null,
@@ -947,26 +947,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tayo",
-        "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
       },
       "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "SO7ACE",
-          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
-        },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 162162,
-      "name": "Milli (feat. Victony)",
-      "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
     }
   ],
   "unique_name": "This Is Victony",

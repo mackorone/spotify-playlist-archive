@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Dominique Fils-Aim\u00e9 and music for your soul.",
+  "description": "Dominique Fils-Aim\u00e9  and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -4838,7 +4838,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 168208,
       "name": "Cabin Feva",
       "url": "https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd"
@@ -5278,7 +5278,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 250192,
       "name": "Carolina Honey",
       "url": "https://open.spotify.com/track/7frjJZJQYBkL8gbs3udaew"
@@ -12814,6 +12814,24 @@
       "duration_ms": 207498,
       "name": "Grow - A COLORS ENCORE",
       "url": "https://open.spotify.com/track/4NIIAwRjwayqGCk929daQh"
+    },
+    {
+      "album": {
+        "name": "grow grow grow",
+        "url": "https://open.spotify.com/album/6NDspPoaZ98hOKEXY16YdK"
+      },
+      "artists": [
+        {
+          "name": "PA777IENCE",
+          "url": "https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284672,
+      "name": "grow grow grow",
+      "url": "https://open.spotify.com/track/0dTb3EQIYiHFVQNDaKkgxF"
     },
     {
       "album": {
@@ -32686,6 +32704,28 @@
       "duration_ms": 121318,
       "name": "What If We Met",
       "url": "https://open.spotify.com/track/5aPtpl2s3lQdQWEnIPzNNJ"
+    },
+    {
+      "album": {
+        "name": "What It Gave Me",
+        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164605,
+      "name": "What It Gave Me",
+      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
     },
     {
       "album": {

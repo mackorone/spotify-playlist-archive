@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Sarah Klang
 
-1,030 songs - 2 day 11 hr 36 min
+1,030 songs - 2 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 | 2024-08-29 | 2025-01-17 |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-22 | 2024-08-30 |
 | [In The Sound Of Breathing](https://open.spotify.com/track/7yNYzyUExexEqXvN0F4E9A) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [In The Sound Of Breathing / Opening](https://open.spotify.com/album/5jdLTKpUZFbtreAaGuZ3vt) | 3:55 | 2025-03-07 | 2025-06-20 |
+| [Inbetween](https://open.spotify.com/track/5ala3q0xJxgbkWR8NA1oYf) | [10 000 år](https://open.spotify.com/artist/0emic5nhAqsyLBJHDy3E4l) | [1/1](https://open.spotify.com/album/4rHFpXPksOZBrGDARtk4HF) | 2:59 | 2025-11-27 |  |
 | [Incomprehensible](https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Incomprehensible](https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7) | 3:53 | 2025-06-05 | 2025-10-10 |
 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 | 2025-01-02 | 2025-04-18 |
 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 | 2024-11-14 | 2025-02-28 |
@@ -933,7 +934,6 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
-| [Track 2](https://open.spotify.com/track/5ala3q0xJxgbkWR8NA1oYf) | [10 000 år](https://open.spotify.com/artist/0emic5nhAqsyLBJHDy3E4l) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
 | [trash paradise, moonlight](https://open.spotify.com/track/1T906XVun8dtijlUmrE4E0) | [haisonne](https://open.spotify.com/artist/0SGm5nFXYtiL33xIJTW7jZ) | [trash paradise, moonlight](https://open.spotify.com/album/29T2Ys3uewbbuMva3CbCsw) | 3:40 | 2024-06-27 | 2024-08-09 |

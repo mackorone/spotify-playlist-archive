@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-738 songs - 1 day 16 hr 14 min
+739 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -496,7 +496,7 @@
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2023-02-15 | 2023-03-22 |
 | [Offa Me \(feat\. Victoria Monét\)](https://open.spotify.com/track/3BRna1YDKLEtiEiJ0ArbSA) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:09 | 2025-04-18 | 2025-05-03 |
 | [OH..\. LOVE?](https://open.spotify.com/track/28e7DJum4nbKPKKoK48d5I) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6), [Lu](https://open.spotify.com/artist/67ZBvSCWPfqDt63Bu1PmZ4) | [OH..\. LOVE?](https://open.spotify.com/album/4ZZRgsS4FklILTj2ogRoO7) | 2:27 | 2022-07-15 | 2022-08-13 |
-| [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-04-04 |  |
+| [Ojos Tristes \(with The Marías\)](https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:21 | 2025-04-04 | 2025-11-29 |
 | [OKWME](https://open.spotify.com/track/42D7JO9zwBTfi66tg7wBMj) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:17 | 2022-03-28 | 2022-04-16 |
 | [Old Me \(New Wig\)](https://open.spotify.com/track/5z2uZEskbJ5BpsIgLSLj7A) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Old Me \(New Wig\)](https://open.spotify.com/album/1eEsQqAyFkj2C6gU1IYTGh) | 2:19 | 2025-08-01 | 2025-08-09 |
 | [One Condition](https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [One Condition](https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD) | 3:54 | 2025-07-25 | 2025-10-11 |
@@ -605,6 +605,7 @@
 | [Soup](https://open.spotify.com/track/0KyZUDBEPjaK0F2jVexK3y) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Soup](https://open.spotify.com/album/2H2TqzhMx3OwSElUdvG0lT) | 3:33 | 2024-07-19 | 2024-08-24 |
 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 | 2022-04-01 | 2022-04-21 |
 | [Sparkle](https://open.spotify.com/track/601a0ZcnViKhwORpkT8RKp) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Sparkle](https://open.spotify.com/album/2GVtX4lv8aj7Yj3rKBwPQo) | 2:10 | 2023-07-14 | 2023-08-12 |
+| [Spazzatura \(Italo Disco\)](https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Spazzatura \(Italo Disco\)](https://open.spotify.com/album/03xAD8s8jnVX4GBPzbxHhn) | 2:49 | 2025-11-28 |  |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:39 | 2024-04-12 | 2024-05-25 |
 | [Star Shaped Baby](https://open.spotify.com/track/7ybbe0cqxwhz0jhycOVOnJ) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Star Shaped Baby](https://open.spotify.com/album/2OVBN2U6FSs9CcWfNJWFj9) | 2:49 | 2024-09-27 | 2024-11-02 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2021-12-29 | 2022-07-29 |

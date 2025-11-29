@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 NTVG
 
-405 songs - 1 day 1 hr 52 min
+406 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Mega High](https://open.spotify.com/track/1WMsoTfHfsOQLkfQkkvTn8) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY) | [Mega High](https://open.spotify.com/album/2FQlaNod5tCo6wz8XARrTV) | 2:40 | 2023-08-25 | 2023-09-22 |
 | [Mejor](https://open.spotify.com/track/25wBdqgOjCrFUnNvTPpV8V) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [Amor valiente](https://open.spotify.com/album/5GK2jgHl42G8oalMoJ7LxN) | 3:17 | 2025-04-04 | 2025-04-26 |
 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 4:46 | 2023-09-21 | 2023-09-28 |
+| [MERCADO BLUE](https://open.spotify.com/track/1aSzuaGJPPqeLYKaqZyoxU) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 4:19 | 2025-11-28 |  |
 | [Mermelada](https://open.spotify.com/track/4M796JAW8wYqsgFHQTgxiI) | [Maniqui](https://open.spotify.com/artist/7gq8mqhV9MrSfSKAsbYFae), [Hollywood Bungalows](https://open.spotify.com/artist/4R8wRxSAhFbsZzHTScrFLv) | [Mermelada](https://open.spotify.com/album/5nd36c1EWZUCGUvVGdc3z4) | 4:26 | 2025-02-21 | 2025-04-04 |
 | [Metalero](https://open.spotify.com/track/2NjWjoVZ20JvL6GqKvdQTC) | [Viva Elastico](https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ) | [Metalero](https://open.spotify.com/album/55aqfVZQmIGFN7lOglZgaB) | 3:28 | 2025-02-28 | 2025-04-04 |
 | [Mi Caramelo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/2pC6LUWFEf2S6BIuBjrWWF) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:29 | 2022-07-01 |  |
@@ -406,7 +407,7 @@
 | [Voy Dejando Atrás](https://open.spotify.com/track/6snF6krbkLtbfYq3Ue0rgo) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Voy Dejando Atrás](https://open.spotify.com/album/6BN8riRvckGDLeNDjJ5gJ7) | 4:22 | 2022-07-01 | 2022-07-28 |
 | [Washington](https://open.spotify.com/track/1kdC7TRPWpZC0O26qBggLD) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [LA FUERZA](https://open.spotify.com/album/3ynXtOWXUAZTyjJ1QwxXVC) | 4:12 | 2023-06-16 | 2023-08-26 |
 | [Ya Lo Sabés](https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 3:28 | 2022-06-29 | 2022-07-29 |
-| [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2023-12-15 |  |
+| [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 | 2023-12-15 | 2025-11-29 |
 | [Ya No Sos Igual](https://open.spotify.com/track/39fgFkCOgbTd4QfahwsPPT) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | [Ya No Sos Igual](https://open.spotify.com/album/0yTm9bRv0Ui1Q0iZoLqAWH) | 3:42 | 2022-11-08 | 2023-04-15 |
 | [Yendo a la Casa de Damián](https://open.spotify.com/track/3tUk2PzTp8KCIU4cxstJq1) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Raro](https://open.spotify.com/album/6evTdl2CjuBbkiCaXOKUKW) | 4:14 | 2022-07-19 | 2024-04-19 |
 | [Yendo de la Cama al Living \- En Vivo Teatro Ópera](https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Fabián Von Quintiero](https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG) | [Yendo de la Cama al Living \(En Vivo Teatro Ópera\)](https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc) | 4:58 | 2022-07-19 | 2022-07-25 |

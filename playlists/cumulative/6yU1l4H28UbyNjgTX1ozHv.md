@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-309 songs - 15 hr 51 min
+310 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/1SF2bj3uabmtHL3l6kpUjY) | [Plamina](https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp) | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/album/5DlRpjorDGkHQPmWJYceGq) | 3:36 | 2025-08-25 |  |
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/25WqOFXGafpwxSb19RwXOP) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH) | 3:16 | 2024-01-12 | 2024-11-04 |
 | [As Long As You Love Me \- Acoustic](https://open.spotify.com/track/4MeIqmkDUpzCNh25g7PaYN) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [As Long As You Love Me \(Acoustic\)](https://open.spotify.com/album/4TOEnObzWo2hprdRapk6Jc) | 2:38 | 2025-06-14 | 2025-07-14 |
-| [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 | 2025-07-05 |  |
+| [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 | 2025-07-05 | 2025-11-29 |
 | [Baby I'm Yours \- Acoustic](https://open.spotify.com/track/6HTPUY4wJX7cR2b67nLFa5) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Baby I'm Yours \(Acoustic\)](https://open.spotify.com/album/2yyCCIXv0Kl95gwmK6zZ7g) | 1:59 | 2021-05-24 | 2024-03-04 |
 | [Beautiful Birds \- Acoustic](https://open.spotify.com/track/0LenfZSOzFiUB6sLmbB8pS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Young as the Morning Old as the Sea \(Deluxe Edition\)](https://open.spotify.com/album/6MRC1VH6UnmiDFMvalRV68) | 2:53 | 2019-10-13 |  |
 | [Beautiful Day \- Acoustic](https://open.spotify.com/track/7eWOW1egL8jXVrFuWHeFOY) | [Ben Weighill](https://open.spotify.com/artist/6yAU69cTqYRuizldebquYb) | [Beautiful Day \(Acoustic\)](https://open.spotify.com/album/3jnfn4qhQMw8DO5xBvMpZe) | 3:04 | 2024-04-19 | 2024-06-15 |
@@ -194,6 +194,7 @@
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ) | 2:23 | 2023-05-06 |  |
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/6tpYrSlAy3AI2RQilzawrm) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/1S8QuVTrjyVNPrsDIdcjpk) | 2:56 | 2024-05-31 | 2025-09-06 |
 | [Never Gonna Give You Up \- Acoustic Live Session](https://open.spotify.com/track/0YotL4I236UOrsXNab0Twe) | [Bottlemoth](https://open.spotify.com/artist/08Ed5qtdJSM4RqlqhPbgeq), [STABAL](https://open.spotify.com/artist/14Fy429gXhC1L1LJ7Etyyf) | [Never Gonna Give You Up \(Acoustic Live Session\)](https://open.spotify.com/album/6Ol46XddMOINuLH5liivU0) | 3:08 | 2024-02-23 | 2024-03-04 |
+| [Never Tear Us Apart](https://open.spotify.com/track/0nrgRYApN2iNRQ3FTZILer) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Never Tear Us Apart](https://open.spotify.com/album/3qjVJQkiIpG2jVKjzWRV3K) | 2:00 | 2025-11-28 |  |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4) | 2:43 | 2023-02-10 | 2023-06-17 |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/5pogDdn3JuddF2kkYXRJKb) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/75BcA0fgNTUDn9USI0VsYO) | 3:01 | 2022-06-03 | 2023-02-28 |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/2vMJzstrV9NINEBu05fJMR) | 2:32 | 2022-07-02 | 2023-02-02 |

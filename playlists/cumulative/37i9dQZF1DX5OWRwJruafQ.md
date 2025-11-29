@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-752 songs - 1 day 11 hr 51 min
+753 songs - 1 day 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Bad Boy](https://open.spotify.com/track/405XCqBuCIDDqVnaRYWKr6) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Bad Boy](https://open.spotify.com/album/6r6cbSRfx2jw0Ih1xB7KfW) | 3:00 | 2023-06-08 | 2023-07-13 |
 | [Bad Company](https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [ITS VIBEE](https://open.spotify.com/artist/1UZc3uZyScqHHUTRrzbbVB) | [Bad Company](https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC) | 3:08 | 2024-10-04 | 2025-06-20 |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-11 | 2024-05-25 |
-| [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 | 2023-10-25 |  |
+| [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 | 2023-10-25 | 2025-11-29 |
 | [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 | 2023-12-21 |
 | [Badmashia](https://open.spotify.com/track/40g99EnVyvocZZYHLCiyxv) | [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Badmashia](https://open.spotify.com/album/00BiLxMo9j4BrKsGvpjYSO) | 2:41 | 2024-06-28 | 2024-07-09 |
 | [Badshah](https://open.spotify.com/track/0WaHi9IeuUxIbeQ6Bsmf6N) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [No\-B](https://open.spotify.com/artist/0BjAEbhzlrdPrKWc0GUBN3) | [Badshah](https://open.spotify.com/album/5QnVCsOQGypYatKCksdc7D) | 2:43 | 2025-11-06 |  |
@@ -88,6 +88,7 @@
 | [Banda Bamb](https://open.spotify.com/track/4VzONhg2UBxyzcmOi1NFHJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:54 | 2025-06-05 |  |
 | [Bandook](https://open.spotify.com/track/0PI4h632z9m5GWEV5UuBJr) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Bandook](https://open.spotify.com/album/0sk24QdJxC9xo3pf0kUtnO) | 2:54 | 2023-11-24 | 2023-12-19 |
 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-26 | 2025-01-11 |
+| [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 | 2025-11-28 |  |
 | [Basantiya Nachaounda](https://open.spotify.com/track/2IsRBRExF9b6SOzWhvWT5L) | [Preet Sandhu](https://open.spotify.com/artist/65vX07QbbDkq0m0WSJvSmq) | [Basantiya Nachaounda](https://open.spotify.com/album/1IdwyRFTUyiA1gRiktlXMI) | 2:15 | 2025-06-20 | 2025-07-04 |
 | [BBBB](https://open.spotify.com/track/0BUMpBR4SqkIQNTLV6m0kN) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/0sgCrpfFug0BxvOvmrpSv3) | 3:42 | 2023-03-29 | 2024-04-19 |
 | [BBBB](https://open.spotify.com/track/1znLcG8azH6tPHtK5hoULz) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [BBBB](https://open.spotify.com/album/47vpnqefBzIDbgUz4uaBYP) | 3:42 | 2024-04-19 | 2024-08-14 |

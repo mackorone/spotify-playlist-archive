@@ -1,13 +1,33 @@
 {
   "description": "The best of today's funk. Cover: MonoNeon",
-  "num_followers": 348289,
+  "num_followers": 348311,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGgji/P1z1sLxfY6P7iL6a/xA031",
+  "snapshot_id": "AAAAAPRBmi7aLQa3ZfP3bOWm1GUyby8c",
   "tracks": [
+    {
+      "added_at": "2025-11-28 05:00:14",
+      "album": {
+        "name": "Ol Skool Love",
+        "url": "https://open.spotify.com/album/0b9SUO9zjqyD2md1dipty2"
+      },
+      "artists": [
+        {
+          "name": "Ben Jones",
+          "url": "https://open.spotify.com/artist/5uFhgpnmddmAmfqZawWt3k"
+        },
+        {
+          "name": "Vula",
+          "url": "https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz"
+        }
+      ],
+      "duration_ms": 244755,
+      "name": "Ol Skool Love",
+      "url": "https://open.spotify.com/track/6ghNG2qu3N6RHTKXshtd2b"
+    },
     {
       "added_at": "2025-11-14 05:00:23",
       "album": {
@@ -1591,22 +1611,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Lover (Love Her)",
-        "url": "https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6"
-      },
-      "artists": [
-        {
-          "name": "Molly Grace",
-          "url": "https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH"
-        }
-      ],
-      "duration_ms": 198900,
-      "name": "Lover (Love Her)",
-      "url": "https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy"
     },
     {
       "added_at": "2023-10-27 04:01:00",

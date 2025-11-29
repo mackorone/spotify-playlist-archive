@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,146 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,164 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 26 | [Sure, Ok](https://open.spotify.com/track/4QAvVugE3bnfY52wEOSs3I) | [First Day Back](https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx) | [Forward](https://open.spotify.com/album/0YMs1zWAno5lULSw5rlXUp) | 2:21 |
 | 27 | [777](https://open.spotify.com/track/1bIg5pzhE8NCiyzlhh2JtS) | [Riley!](https://open.spotify.com/artist/6mxWaHNcOgrJeD8NCRenps) | [Keep Your Cool](https://open.spotify.com/album/2N2nVXYiltFdU8NL0ACh7T) | 3:00 |
 | 28 | [i used to check my driveway hoping one day i might see you there](https://open.spotify.com/track/74qNCVxEXgqHlb8sZW5Kik) | [empty parking lot](https://open.spotify.com/artist/5PbZSC1skXoz4QHNor8JiB) | [silly songs for a silly girl](https://open.spotify.com/album/4LBL1hPWZd9nddHGVMwdqE) | 2:42 |
-| 29 | [One Day At A Time](https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One Day At A Time](https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT) | 3:13 |
+| 29 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
 | 30 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 |
-| 31 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 |
+| 31 | [One Day At A Time](https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One Day At A Time](https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT) | 3:13 |
 | 32 | [Stop Talking](https://open.spotify.com/track/2pVyYoFLpGRea0wPvVpz8H) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Stop Talking](https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR) | 3:20 |
 | 33 | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 |
 | 34 | [Eternal](https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 2:18 |

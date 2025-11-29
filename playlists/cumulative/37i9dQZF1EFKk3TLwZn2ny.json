@@ -1067,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Raincheck",
+        "url": "https://open.spotify.com/album/2c03XLPfXgI5TlglXkGX1i"
+      },
+      "artists": [
+        {
+          "name": "Madison Bailey",
+          "url": "https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S"
+        },
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229753,
+      "name": "Raincheck",
+      "url": "https://open.spotify.com/track/1DqLq5cD2XxJBDNiOtxnGM"
+    },
+    {
+      "album": {
         "name": "I Came Home Late",
         "url": "https://open.spotify.com/album/2Py2P92ndsLK4oQnbhhRud"
       },
@@ -1488,7 +1510,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Who Gon Love You",
       "url": "https://open.spotify.com/track/244cX8u7OwVyiW2z6uaD3C"

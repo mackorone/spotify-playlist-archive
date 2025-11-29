@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-875 songs - 1 day 18 hr 16 min
+877 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Enlightened](https://open.spotify.com/track/0xaUgYfJy23wj9ekJHW5Sx) | [Kouyou](https://open.spotify.com/artist/4fzta8hw7U88KPJ5uHKooH) | [Enlightened](https://open.spotify.com/album/3VIuvvyBDxglsVD8X5DJZI) | 2:50 | 2025-03-05 | 2025-06-26 |
 | [Ensorceler](https://open.spotify.com/track/2Fi6BCJD9cafMcnI6FBSaI) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Ensorceler](https://open.spotify.com/album/28mJ0ga3VfdBq3pXlCNYub) | 3:12 | 2024-03-06 | 2024-05-23 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2023-03-23 | 2024-03-21 |
+| [Entity](https://open.spotify.com/track/6STBNWnDbWvUH2JE9ujHqc) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Entity](https://open.spotify.com/album/1GNSvKhFfsruNxhHY873f1) | 2:42 | 2025-11-12 |  |
 | [Eons](https://open.spotify.com/track/538bWp96juSoSBvM7wD2Qm) | [Erratic Peace](https://open.spotify.com/artist/2soZQALc84ALUcZxlDyxPD) | [Eons](https://open.spotify.com/album/1mrlHBWDGAFlIiZooWzedK) | 3:03 | 2023-03-23 | 2024-02-09 |
 | [Equanimity](https://open.spotify.com/track/1AY8reOYV2AmYUFzSSYuFg) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Equanimity](https://open.spotify.com/album/5y763GFYJu5ytjrNyjKlAE) | 2:55 | 2025-07-01 |  |
 | [Equinox](https://open.spotify.com/track/26gAtYU4DIHaTspPkgkaVu) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Equinox](https://open.spotify.com/album/2xKeqMVKtm0FSK6mZcg3gF) | 3:10 | 2025-11-12 |  |
@@ -371,6 +372,7 @@
 | [Hibernation](https://open.spotify.com/track/3td70QAqqhGc6NLnXIbG4o) | [Nova Issue](https://open.spotify.com/artist/2JG4r9snKhqze9RGKeGEvh) | [Hibernation](https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [Hikari](https://open.spotify.com/track/7DUZul1sAZe77qPJKxMDhI) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Hikari](https://open.spotify.com/album/722j5U3DLZstV3QX4pqozB) | 2:52 | 2025-10-08 |  |
 | [Homelands](https://open.spotify.com/track/3Vl7cwxOxYhpgDDpFv7mG7) | [Staffa Iona](https://open.spotify.com/artist/4kWKLcO6SD1mOa5KHsI5Mw) | [Homelands](https://open.spotify.com/album/02mAAZSknW3RNscrlOl89i) | 3:00 | 2023-03-23 | 2024-01-18 |
+| [Hope Revived](https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Hope Revived](https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih) | 2:43 | 2025-11-12 |  |
 | [Hopeful](https://open.spotify.com/track/6OTCHM8icoVQmWYdULItOz) | [Unwritten Skies](https://open.spotify.com/artist/19f60nUZGFKTsf9mhvQbtl) | [Hopeful](https://open.spotify.com/album/1u7Xlr1lUkCBPyiE2U6Z7n) | 2:42 | 2023-03-23 | 2024-01-18 |
 | [Houd me vast](https://open.spotify.com/track/6c7RxrwbJkLaWZHj7nX1tm) | [Niel Hupkes](https://open.spotify.com/artist/6PcwDVyKXjNm4SIFamEg30) | [Houd me vast](https://open.spotify.com/album/0PzBc1gaKGp5EtdTp0Bvmh) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-03-23 | 2024-05-05 |
@@ -433,7 +435,7 @@
 | [Les dormeurs](https://open.spotify.com/track/7ygS19lO68LzUmz355qp3S) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Les dormeurs](https://open.spotify.com/album/5EJzEhMPzGxDBIrpsK9Rwt) | 2:21 | 2024-07-15 | 2025-01-03 |
 | [Let Go](https://open.spotify.com/track/2OfRvDHLoUkUFIRzDndGqa) | [Remi Ainsley](https://open.spotify.com/artist/0rIQ2dXfAr8DbyfHr8LDcs) | [Let Go](https://open.spotify.com/album/0ec0kpPBsLL9pfCK9YMJKl) | 2:22 | 2025-11-12 |  |
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2023-03-23 | 2024-01-18 |
-| [Letters Never Sent](https://open.spotify.com/track/4Kvv7noJbZIPJLQ7BplKDI) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Letters Never Sent](https://open.spotify.com/album/1k3FzXQseLosEj5hP5sRFG) | 2:11 | 2025-07-24 |  |
+| [Letters Never Sent](https://open.spotify.com/track/4Kvv7noJbZIPJLQ7BplKDI) | [Greyling](https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz) | [Letters Never Sent](https://open.spotify.com/album/1k3FzXQseLosEj5hP5sRFG) | 2:11 | 2025-07-24 | 2025-11-29 |
 | [Levitate](https://open.spotify.com/track/0GRyPs3q2ywZWnUFyc1yUb) | [Ocean Pulse](https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX) | [Levitate](https://open.spotify.com/album/0zeZuh7s0PugfanmMyWBpN) | 3:16 | 2024-05-20 | 2025-03-26 |
 | [Levitation](https://open.spotify.com/track/0zQ2Qbxic7cXWOVv9Qy98n) | [Lulu Helensworth](https://open.spotify.com/artist/43qsbkyR2EgZ14k6eJXd3j) | [Levitation](https://open.spotify.com/album/5U7rGOt0KLvEF2HXnvE88J) | 2:36 | 2023-03-23 | 2024-04-06 |
 | [Lifetimes](https://open.spotify.com/track/7w0Svp1oDZJtoBBq8JGKUn) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Lifetimes](https://open.spotify.com/album/0bwRZLWzCHcyxzKUYn7wgz) | 4:01 | 2023-03-23 | 2024-02-09 |
@@ -532,7 +534,7 @@
 | [Nightfall](https://open.spotify.com/track/06jxKLpRUEKFDrhf7DcqAW) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Nightfall](https://open.spotify.com/album/2bwacRdVqpeopwLiXL8r2X) | 2:59 | 2025-02-14 | 2025-10-20 |
 | [Nightfall](https://open.spotify.com/track/4HeTp7uxT3yqJQYXP5RnPN) | [Zahra Tate](https://open.spotify.com/artist/1tHpWX1vFJiLSbSYrNzkhN) | [Nightfall](https://open.spotify.com/album/1NFDvhPuSJWgIDfJjfqnXz) | 3:15 | 2023-03-23 | 2024-03-21 |
 | [Nikad ne Zaboravi](https://open.spotify.com/track/717ijFnuktEjgu8yn7Qvw6) | [Nadia Bulic](https://open.spotify.com/artist/40kJyvmOynMTDFT8bBuk4d) | [Nikad ne Zaboravi](https://open.spotify.com/album/4x8sORIXCiVndueGBD78mU) | 2:22 | 2023-03-23 | 2024-01-18 |
-| [Nimbus](https://open.spotify.com/track/3J6ywQydA3NXiFqWMLTAKU) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Nimbus](https://open.spotify.com/album/4skUek92hc2FzXRUSrXnEJ) | 2:42 | 2025-04-09 |  |
+| [Nimbus](https://open.spotify.com/track/3J6ywQydA3NXiFqWMLTAKU) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Nimbus](https://open.spotify.com/album/4skUek92hc2FzXRUSrXnEJ) | 2:42 | 2025-04-09 | 2025-11-29 |
 | [Nisi](https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH) | [Systema Solaris](https://open.spotify.com/artist/2uEkBvMxZC3hHkcF3Azzqz) | [Nisi](https://open.spotify.com/album/06BYSQb5Bm40zuA0qJkNkh) | 2:34 | 2024-06-18 | 2025-01-02 |
 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 | 2024-06-18 | 2024-12-21 |
 | [Noctilux](https://open.spotify.com/track/1YmlK58J5yCxrbSp1c36HR) | [Oaktale](https://open.spotify.com/artist/4IuzTmSlbUNhhIcAK5fBiQ) | [Noctilux](https://open.spotify.com/album/6JDfWPPl4PDY7UILOjDcFz) | 3:02 | 2025-09-23 |  |

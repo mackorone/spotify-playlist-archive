@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Crooked Lines",
+        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Eden",
+          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202823,
+      "name": "A Brand New Color",
+      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
+    },
+    {
+      "album": {
         "name": "Water the Flowers, Pray for a Garden",
         "url": "https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK"
       },
@@ -1102,7 +1120,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 268735,
       "name": "All Seven Seasons",
       "url": "https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2"
@@ -2870,6 +2888,24 @@
       "duration_ms": 169039,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/2l0xzmV0j4nrnpBdhrxEtR"
+    },
+    {
+      "album": {
+        "name": "Bodies Dancing",
+        "url": "https://open.spotify.com/album/68J7PA40K16nIdQynfDfSN"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161058,
+      "name": "Bodies Dancing",
+      "url": "https://open.spotify.com/track/2X2mE9yxpob2zUBgR1XelK"
     },
     {
       "album": {
@@ -11948,6 +11984,24 @@
       "duration_ms": 135000,
       "name": "i wish i could rip off this old face",
       "url": "https://open.spotify.com/track/5t3MKtYPpzPz4LfsqeTgpq"
+    },
+    {
+      "album": {
+        "name": "I Wish We Could Have Talked About It",
+        "url": "https://open.spotify.com/album/63Bdv5wVrQt9ASGyENBVVW"
+      },
+      "artists": [
+        {
+          "name": "link3",
+          "url": "https://open.spotify.com/artist/2hlo7e04n5T55WoJVs71XC"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99446,
+      "name": "I Wish We Could Have Talked About It",
+      "url": "https://open.spotify.com/track/7nntDFMRqtmNrtTPSEFAWu"
     },
     {
       "album": {
@@ -22970,7 +23024,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 198534,
       "name": "Talk",
       "url": "https://open.spotify.com/track/3VmvuoxvS9Iva7HeQvZGn0"
@@ -23364,7 +23418,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 157281,
       "name": "That's My Love",
       "url": "https://open.spotify.com/track/7h9JeOJ5hayqsQjnZibq0h"

@@ -2,7 +2,7 @@
 
 ### [Afropop](https://open.spotify.com/playlist/37i9dQZF1DWYs2pvwxWA7l)
 
-> The hottest Afropop records on the planet\.  Cover:  Victony
+> The hottest Afropop records on the planet\.  Cover:  Joshua Baraka
 
 725 songs - 1 day 12 hr 53 min
 
@@ -177,7 +177,7 @@
 | [Different Sides \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1cSitFlpZlhS0KAnoH6a69) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Island 54](https://open.spotify.com/album/07n3iriTEHGIDuJtYysdtB) | 2:52 | 2024-06-28 | 2024-07-05 |
 | [Dimension](https://open.spotify.com/track/5mBvUoQKcjf7vXwiBSc30Z) | [Fully Focus](https://open.spotify.com/artist/3cSXE6QoAmNGlvzR5hqG78), [Bien](https://open.spotify.com/artist/7F0Sf0Xx4SbwoB2tcbaolD) | [Dimension](https://open.spotify.com/album/697R2AlnzeIpEQBLDLpO9q) | 2:31 | 2022-05-05 | 2022-05-24 |
 | [Dishonest \(feat\. Tyler ICU & Sha Sha\)](https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT) | [Dishonest \(feat\. Tyler ICU & Sha Sha\)](https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL) | 3:04 | 2024-03-08 | 2024-05-08 |
-| [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 | 2025-10-10 |  |
+| [Dive In](https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Dive In](https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos) | 3:15 | 2025-10-10 | 2025-11-29 |
 | [Djo](https://open.spotify.com/track/0zJNXNZwraYNRzTr7Vt8uO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MOOD3 \(Glish\)](https://open.spotify.com/album/0inzbBWUtazS8ju1B5fhhb) | 2:47 | 2023-06-02 | 2023-06-16 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2021-09-27 | 2022-03-25 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2024-01-26 |
@@ -585,7 +585,7 @@
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-10-04 | 2023-11-09 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 | 2025-03-14 |
 | [Rumours](https://open.spotify.com/track/7v3Yy6EoWxY76ee4uspxi2) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 3:05 | 2024-10-12 | 2025-02-20 |
-| [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-09 | 2025-10-24 |
+| [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-09 |  |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 | 2023-10-20 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 | 2023-03-10 |
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2021-09-27 | 2022-02-25 |
@@ -732,6 +732,6 @@
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-08-08 |  |
 | [Your Body](https://open.spotify.com/track/2E5YFuY3aRD7oZr7GKfgCQ) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Your Body](https://open.spotify.com/album/196SOihxCXE85Ooazqz1sk) | 2:46 | 2024-06-14 | 2024-07-05 |
 | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/track/648h77piOsFhlzniWDHqBo) | [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D) | [Ọ̀rọ̀ Àṣẹ](https://open.spotify.com/album/2OPQRNJ1Mcon7wWKMlNVab) | 4:03 | 2024-06-21 | 2024-07-05 |
-| [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [](https://open.spotify.com/album/null) | 2:56 | 2025-11-28 |  |
+| [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 | 2025-11-28 |  |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

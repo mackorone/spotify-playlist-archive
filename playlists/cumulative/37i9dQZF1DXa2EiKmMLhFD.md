@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari Idgitaf,  Rizky Febian, Adrian Khalif, Taylor Swift serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari Daniel Caesar, Idgitaf,  Rizky Febian, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 359 songs - 22 hr 14 min
 

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: AllDay Project
+> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: ALLDAY PROJECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,276 likes - 68 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,287 likes - 68 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ONE MORE TIME](https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ONE MORE TIME](https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy) | 3:15 |
-| 2 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 2 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 3 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 |
 | 4 | [Changes](https://open.spotify.com/track/4kUI0vuDd0Zub4IvxxNreM) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Changes](https://open.spotify.com/album/3ciPO09YDjuEuCs3SyQV4O) | 3:04 |
 | 5 | [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 67 | [Level up](https://open.spotify.com/track/76hK1up4IZX5jru3LMArLz) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Level up](https://open.spotify.com/album/6fEJgo9dzJ4rZOy0FIziq8) | 2:48 |
 | 68 | [Red Lights](https://open.spotify.com/track/1M7FWAED7yPzGhRaZwtol6) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4) | [Red Lights](https://open.spotify.com/album/251iGxnvDjU1Kl8wruMS4n) | 2:50 |
 
-Snapshot ID: `AAAAADvcVVjXYB5ua2mbA8pIQw1ROtG/`
+Snapshot ID: `AAAAAF7I+/iEXwZNcCmVYkUmQuxnTT4z`

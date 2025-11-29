@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Rubby P\u00e9rez",
-  "num_followers": 387649,
+  "num_followers": 387655,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -339,8 +339,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Y M\u00e1s",
-        "url": "https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke"
+        "name": "Me Olvide de Vivir",
+        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2"
+      "duration_ms": 351026,
+      "name": "Me Olvide De Vivir",
+      "url": "https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -419,8 +419,8 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Me Olvide de Vivir",
-        "url": "https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD"
+        "name": "Y M\u00e1s",
+        "url": "https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke"
       },
       "artists": [
         {
@@ -428,25 +428,9 @@
           "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 351026,
-      "name": "Me Olvide De Vivir",
-      "url": "https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "El Maestro Con Sus 16 Exitos",
-        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Orlando",
-          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Gotas De Pena",
-      "url": "https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg"
+      "duration_ms": 248400,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -463,6 +447,22 @@
       "duration_ms": 229053,
       "name": "Dominicano Ausente",
       "url": "https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El Maestro Con Sus 16 Exitos",
+        "url": "https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Orlando",
+          "url": "https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Gotas De Pena",
+      "url": "https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "20 A\u00f1os Despues",
-        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "La Radio",
-      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 298333,
       "name": "Entre Tu Cuerpo y el Mio",
       "url": "https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "20 A\u00f1os Despues",
+        "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "La Radio",
+      "url": "https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Explosivo",
-        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "20 Exitos",
         "url": "https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Explosivo",
+        "url": "https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Merengue Passion",
         "url": "https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 286333,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
-        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Pecadora",
-      "url": "https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
+        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Pecadora",
+      "url": "https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "20 A\u00f1os Despues",
         "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 287013,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
-        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "El Lapiz",
-      "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -947,6 +931,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
+        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "El Lapiz",
+      "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "20 A\u00f1os Despues",
         "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Fiesta Latina",
-        "url": "https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau"
-      },
-      "artists": [
-        {
-          "name": "Tropical Fantasia",
-          "url": "https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Te Compro Tu Novia",
-      "url": "https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Merengues Clasicos",
         "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 259360,
       "name": "Te Buscare",
       "url": "https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Fiesta Latina",
+        "url": "https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fantasia",
+          "url": "https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Te Compro Tu Novia",
+      "url": "https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "El Diente de Oro",
-      "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "El D\u00edsco de Oro de los Hermanos Rosario",
         "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 266666,
       "name": "Me Tiene Amarrao",
       "url": "https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 241786,
+      "name": "El Diente de Oro",
+      "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Que Es Lo Que Tienes",
-      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 273066,
       "name": "Como Duele - En Vivo",
       "url": "https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Que Es Lo Que Tienes",
+      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 242613,
-      "name": "Con las Manos en la Masa",
-      "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 275400,
       "name": "Culpable O No - En Vivo",
       "url": "https://open.spotify.com/track/6Q53A9fvMQ2eMgP33SL18R"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
+      },
+      "artists": [
+        {
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
+        }
+      ],
+      "duration_ms": 242613,
+      "name": "Con las Manos en la Masa",
+      "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
     },
     {
       "added_at": "2024-06-28 21:55:14",

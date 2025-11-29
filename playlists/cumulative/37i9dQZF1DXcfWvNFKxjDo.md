@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY
 
-5,004 songs - 9 day 22 hr 59 min
+5,004 songs - 9 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4224,6 +4224,7 @@
 | [Sweet Sunrise](https://open.spotify.com/track/7niYVJqB5julLCEsAtaB9x) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Sweet Sunrise](https://open.spotify.com/album/2F6zx3Y5FgBO1mrRdx80V4) | 3:14 | 2025-08-07 | 2025-08-22 |
 | [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 | 2025-08-15 | 2025-08-22 |
 | [Switch](https://open.spotify.com/track/5l9wqqfosStld3rOPimbDw) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Switch](https://open.spotify.com/album/6L2qyexv1IleiJkkcYl4zT) | 3:09 | 2024-07-18 | 2024-08-09 |
+| [SYNAPSE](https://open.spotify.com/track/48FA81f1a0a00JRFHWOwZr) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [FLESH](https://open.spotify.com/album/66dSBlqqla5JTu3Te2I5yX) | 2:22 | 2025-11-27 |  |
 | [System](https://open.spotify.com/track/2Ljvr2oBO1QrQJBvWFEd69) | [Lordnox](https://open.spotify.com/artist/6foP1FxrbPWJ7byQW5uzHW), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Multiversa](https://open.spotify.com/artist/5TJUKHXGMMli7h6pZdtRtU) | [System](https://open.spotify.com/album/7s9riZOeRdJ6sqh0sVyn9q) | 2:22 | 2025-10-16 | 2025-10-24 |
 | [System Overload](https://open.spotify.com/track/1WFnutnvow1XigIfHAtuTE) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd) | [System Overload](https://open.spotify.com/album/5eZfRPC5GiPwBDOOv1aD50) | 2:08 | 2025-10-23 | 2025-10-31 |
 | [T\-Shirt](https://open.spotify.com/track/2c8wDars3qvBW5v5SAEDPH) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [T\-Shirt](https://open.spotify.com/album/04G7zMgiTnEHbU7cXiDRva) | 2:41 | 2024-08-15 | 2024-08-30 |
@@ -4522,7 +4523,6 @@
 | [Touching Heaven](https://open.spotify.com/track/6CFRatJhEj4bOhXGw9Djzo) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6) | [Touching Heaven](https://open.spotify.com/album/5lbRvxMrww2GdKMxb8R0SY) | 2:38 | 2024-11-21 | 2024-11-29 |
 | [Tout le monde est fou](https://open.spotify.com/track/23gjnzrBdrhmEiN49pFY4k) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Tout le monde est fou](https://open.spotify.com/album/121NvqR0PtSYNe3rFP6KnV) | 3:25 | 2025-02-27 | 2025-03-07 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-27 | 2025-04-04 |
-| [Track 4](https://open.spotify.com/track/48FA81f1a0a00JRFHWOwZr) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Traffic Lights](https://open.spotify.com/track/51hz6qJbXGs75AmI08WLBM) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Traffic Lights](https://open.spotify.com/album/2i62S40RzXinIWM0I1fFhB) | 2:08 | 2024-06-13 | 2024-06-28 |
 | [Tragic \(Never Let Go\)](https://open.spotify.com/track/1ry7rvoKbZIQfHq0q8dtV7) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7) | [Tragic \(Never Let Go\)](https://open.spotify.com/album/7a99ZQ9MhaEA33gWDOnl9M) | 1:50 | 2024-04-11 | 2024-04-26 |
 | [Trails](https://open.spotify.com/track/37drBnXJEDVWIZqvHctE03) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Trails](https://open.spotify.com/album/1EgHatheLbD86h4mfgO4ri) | 2:30 | 2024-05-09 | 2024-05-17 |

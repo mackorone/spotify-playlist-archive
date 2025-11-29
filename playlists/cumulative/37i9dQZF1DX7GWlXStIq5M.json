@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Vivi\n",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: GIANA\n",
   "name": "Palco POP",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
@@ -1599,6 +1599,28 @@
     },
     {
       "album": {
+        "name": "AMOR PROIBIDO",
+        "url": "https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS"
+      },
+      "artists": [
+        {
+          "name": "Gael Vicci",
+          "url": "https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw"
+        },
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142926,
+      "name": "AMOR PROIBIDO",
+      "url": "https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH"
+    },
+    {
+      "album": {
         "name": "Amor Sint\u00e9tico",
         "url": "https://open.spotify.com/album/3EabNCXQmD8BhyCrv8YZVB"
       },
@@ -2636,7 +2658,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 154500,
       "name": "Banquete",
       "url": "https://open.spotify.com/track/0ofvSx2IL3cPEqonyjBk85"
@@ -6624,7 +6646,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 201000,
       "name": "Encontros",
       "url": "https://open.spotify.com/track/6kUuvZCS0A2mCimWR9yPnp"
@@ -8422,6 +8444,28 @@
       "duration_ms": 156712,
       "name": "Garoto Invis\u00edvel",
       "url": "https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem"
+    },
+    {
+      "album": {
+        "name": "FEL\u00cdDIA",
+        "url": "https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179874,
+      "name": "Gata Anos 2000",
+      "url": "https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5"
     },
     {
       "album": {
@@ -11298,6 +11342,24 @@
       "duration_ms": 149351,
       "name": "Me Deixa",
       "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
+    },
+    {
+      "album": {
+        "name": "Me Deixa Partir",
+        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174107,
+      "name": "Me Deixa Partir",
+      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
     },
     {
       "album": {
@@ -14284,7 +14346,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 130000,
       "name": "Ot\u00e1rio",
       "url": "https://open.spotify.com/track/1YnSFxlL8pXptezaPnODYx"
@@ -16929,6 +16991,24 @@
     },
     {
       "album": {
+        "name": "Queda Livre",
+        "url": "https://open.spotify.com/album/3gois0Rmk5Bcbumx6QRarj"
+      },
+      "artists": [
+        {
+          "name": "NATI OFICIAL",
+          "url": "https://open.spotify.com/artist/0hKYGll2ZuRZFNNHkrexY4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101583,
+      "name": "Queda Livre",
+      "url": "https://open.spotify.com/track/2hDXBmxT4SpgZxsXkQsK14"
+    },
+    {
+      "album": {
         "name": "Quem Manda em Mim",
         "url": "https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ"
       },
@@ -18169,6 +18249,24 @@
     },
     {
       "album": {
+        "name": "Se Eu Sofresse em 1985",
+        "url": "https://open.spotify.com/album/6alz1rozo68ohd7OtOYaC5"
+      },
+      "artists": [
+        {
+          "name": "Whindersson Nunes",
+          "url": "https://open.spotify.com/artist/2emd6h8cx0U8QUAxDddXPF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177374,
+      "name": "Se Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/56B9AI27u2hnVrSmyIs1YP"
+    },
+    {
+      "album": {
         "name": "Se Voc\u00ea Quiser",
         "url": "https://open.spotify.com/album/69ULBtdTrF5BxymBScNMQK"
       },
@@ -18502,7 +18600,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 165176,
       "name": "Sensa\u00e7\u00e3o Estranha",
       "url": "https://open.spotify.com/track/1DG6MmJPqaQihyXKTzLXKc"
@@ -20792,7 +20890,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 259591,
       "name": "Trama",
       "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
@@ -22072,7 +22170,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193685,
       "name": "Vivendo Demais",
       "url": "https://open.spotify.com/track/1IiqU7Bz5sEEuwAesXI6Ka"

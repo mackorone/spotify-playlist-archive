@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "Gringa",
+        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187762,
+      "name": "Belle \u00e2me",
+      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
+    },
+    {
+      "album": {
         "name": "BISOUS SAL\u00c9S & COQUILLAGES",
         "url": "https://open.spotify.com/album/4RmvYkVHV97qDlgEyj4XKk"
       },
@@ -1166,7 +1188,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 220167,
       "name": "coup de vent",
       "url": "https://open.spotify.com/track/7bgL5HIj6yUwrew8SyVK20"
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179466,
       "name": "Galaxie",
       "url": "https://open.spotify.com/track/4cE3YZpsggEkLKmZshbbk6"
@@ -2186,7 +2208,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 195625,
       "name": "Hypra-Sensorial - Bellaire Remix",
       "url": "https://open.spotify.com/track/327BO34qqnMPKaHEDEb7Ss"
@@ -5031,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "When You Know You Know",
+        "url": "https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI"
+      },
+      "artists": [
+        {
+          "name": "Joneaux",
+          "url": "https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5"
+    },
+    {
+      "album": {
         "name": "Whisper",
         "url": "https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM"
       },
@@ -5146,6 +5186,24 @@
       "duration_ms": 246613,
       "name": "Yesterday's World",
       "url": "https://open.spotify.com/track/6MClJYRD7op0WvDuBGWsMn"
+    },
+    {
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/7mOkW1xkEFjnTfF0FiZMMn"
+      },
+      "artists": [
+        {
+          "name": "Ashel",
+          "url": "https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183197,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5laOXHixUUQpb8k1piJOpH"
     },
     {
       "album": {

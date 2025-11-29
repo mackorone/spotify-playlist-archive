@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+    },
+    {
+      "album": {
         "name": "all of that",
         "url": "https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 129264,
       "name": "all of that",
       "url": "https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 153498,
       "name": "Posh",
       "url": "https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf"

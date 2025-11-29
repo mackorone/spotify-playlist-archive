@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,853 likes - 99 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,875 likes - 99 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 10 | [叉燒飯（加埋辣椒油\)](https://open.spotify.com/track/7fQdGScdX0LOLg42ccr83I) | [非洲王子 Kunbi](https://open.spotify.com/artist/4bsY8pqiRupho6S3ymcZHz) | [叉燒飯（加埋辣椒油\)](https://open.spotify.com/album/2flAQ1k7Bz9d3POAOEMDPK) | 2:29 |
 | 11 | [Ga tau](https://open.spotify.com/track/0XSaZoNBPYIZ4OT0bJDaa9) | [Tacbo](https://open.spotify.com/artist/5224c570dMiD896ZBEr7YW) | [Ga tau](https://open.spotify.com/album/2i7VKeBfRiDc6dNB5BXdDt) | 2:18 |
 | 12 | [777](https://open.spotify.com/track/0UjHDsV44xnLDp6YWDcEPv) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [777](https://open.spotify.com/album/5wNHjkk2nmOsoP1dj5fFN2) | 3:04 |
-| 13 | [CRTX/VRTX](https://open.spotify.com/track/4MrUkGfYHtxwZlcSqCiw8X) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [](https://open.spotify.com/album/null) | 3:35 |
+| 13 | [CRTX/VRTX](https://open.spotify.com/track/4MrUkGfYHtxwZlcSqCiw8X) | [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C) | [ONYX’!](https://open.spotify.com/album/1RjZWl3SPtDf2CfQvAFWAP) | 3:35 |
 | 14 | [NO MORE](https://open.spotify.com/track/37uCMtEEluikocKrWbdgL8) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Anything Is Possible](https://open.spotify.com/album/6kIPgKG1DFay2doE1KARXU) | 2:09 |
 | 15 | [FOR GRANTED](https://open.spotify.com/track/68kxRiEjmwrPkBGVuZDORg) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [TARZZAN](https://open.spotify.com/artist/1A6LzcBnzxNf5phjx1ZSPr) | [GRANTED](https://open.spotify.com/album/6iKATce880GoSVyQdDwZh9) | 3:21 |
 | 16 | [Run It Back!!](https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Cabin In The Sky](https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA) | 3:30 |

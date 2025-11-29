@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Mikayla Geier
 
-1,268 songs - 2 day 17 hr 57 min
+1,269 songs - 2 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Burn](https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Burn](https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY) | 3:21 | 2024-03-29 | 2024-08-17 |
 | [Busy Girl](https://open.spotify.com/track/5fWIgbo26HAvQr5M5KnQ3B) | [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Grace](https://open.spotify.com/album/0nsE8WfVuc1uB9RtJwEDGx) | 2:30 | 2025-08-15 |  |
 | [But Not For Me](https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [But Not For Me](https://open.spotify.com/album/0Ja89bV6PXqLzPqE80uoXj) | 2:09 | 2024-12-13 | 2025-01-18 |
-| [Butcher Shop](https://open.spotify.com/track/0C3K3A8USDkaI4mv7AIryb) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Butcher Shop](https://open.spotify.com/album/6O23FrFj880TG8CqVElyRn) | 3:44 | 2025-04-11 |  |
+| [Butcher Shop](https://open.spotify.com/track/0C3K3A8USDkaI4mv7AIryb) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn) | [Butcher Shop](https://open.spotify.com/album/6O23FrFj880TG8CqVElyRn) | 3:44 | 2025-04-11 | 2025-11-29 |
 | [butterflies \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/7GMm5RZY83ZUJZY0zjetB4) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:49 | 2023-05-26 | 2023-11-04 |
 | [Butterfly](https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Butterfly](https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU) | 3:32 | 2022-05-27 | 2022-07-29 |
 | [Butterfly](https://open.spotify.com/track/43Ch2eVId5xoG1PIGt0tr3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Butterfly](https://open.spotify.com/album/7bxkAjxvdedCBCL1DSb5Hv) | 2:53 | 2022-10-28 | 2023-02-08 |
@@ -753,6 +753,7 @@
 | [Moonlight](https://open.spotify.com/track/7cens2GI2PTemvKNnpjxs8) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/204uhd5Yr7mUtfydYTnBDQ) | 2:48 | 2024-05-03 | 2024-08-31 |
 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 | 2025-07-18 |  |
 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 | 2023-09-22 | 2024-06-15 |
+| [Morning](https://open.spotify.com/track/3Loj7PPp5LnYMTkluYIMJJ) | [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [Morning](https://open.spotify.com/album/26kkbFV8Rt2gS0WB4KI3pa) | 2:29 | 2025-11-28 |  |
 | [MOST WANTED MAN](https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [MOST WANTED MAN](https://open.spotify.com/album/4RjkqlSc7GqoqyOYqOtXOx) | 2:47 | 2024-09-06 | 2025-01-11 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-21 | 2025-06-20 |
 | [Movie Star \(ft\. MOD SUN & Global Dan\)](https://open.spotify.com/track/0P6jpMI0OXirXvurwBgM5d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [HiROQUEST: Genesis](https://open.spotify.com/album/0lF8VwXlAyOMFt1XQvCa5l) | 3:33 | 2022-09-16 | 2022-09-24 |

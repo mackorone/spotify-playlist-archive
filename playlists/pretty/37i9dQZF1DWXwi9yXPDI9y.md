@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,339 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,453 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 76 | [Angel Eyes](https://open.spotify.com/track/1Q2JDCziEXv7f5rYqmyW4D) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Angel Eyes](https://open.spotify.com/album/1dJdVdOxgyI16fjd6V5XEW) | 8:48 |
 | 77 | [Where Or When](https://open.spotify.com/track/6XgFdmolxw7DgvNQIiCNVB) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [The Nearness Of You](https://open.spotify.com/album/7LovmiRQviwrb2SczixozJ) | 6:11 |
 | 78 | [Yesterdays](https://open.spotify.com/track/4GlQQ5hDC6HMnArUvrgva3) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 6:00 |
-| 79 | [Oh Look At Me Now \- Studio](https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq), [Joe Bushkin](https://open.spotify.com/artist/22vG2wpYZKQvNG7dIajDdK) | [The Total \- Vol\. 1](https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH) | 3:12 |
-| 80 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:37 |
+| 79 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:37 |
+| 80 | [Oh Look At Me Now \- Studio](https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq), [Joe Bushkin](https://open.spotify.com/artist/22vG2wpYZKQvNG7dIajDdK) | [The Total \- Vol\. 1](https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH) | 3:12 |
 | 81 | [Little Girl Blue](https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Ballads](https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR) | 7:14 |
 | 82 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
 | 83 | [My Funny Valentine](https://open.spotify.com/track/0nBGIx5yWqxvtf1EEnEGgm) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [I Remember Miles](https://open.spotify.com/album/0hGqrIcYgj6l11MAbmJEmd) | 5:34 |
-| 84 | [Your Love Has Faded](https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:00 |
-| 85 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 |
+| 84 | [Moonglow](https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:56 |
+| 85 | [Your Love Has Faded](https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:00 |
 | 86 | [Make The Man Love Me](https://open.spotify.com/track/6OXdOnoAKftmieuch2Fbis) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 5:35 |
 | 87 | [Time On My Hands](https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 4:18 |
 | 88 | [Come Rain Or Come Shine](https://open.spotify.com/track/02ptMhCrjCMFVzXKMGbF1E) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Verve Jazz Masters 43: Ben Webster](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 4:21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WvunxF0tu8.md) - [plain]
 
 > Revisit some of Bill's latest conversations with celebrities, athletes, and media staples.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 8 songs - 16 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 301 likes - 8 songs - 16 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 263480,
       "name": "Bahagiamu Deritaku",
       "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
@@ -4974,7 +4974,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ"
@@ -11056,7 +11056,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -11092,7 +11092,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 257847,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB"
@@ -14560,7 +14560,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 207216,
       "name": "Monolog",
       "url": "https://open.spotify.com/track/1zu5ZpnrSArdoaT6Qq3yo9"
@@ -15506,6 +15506,24 @@
       "duration_ms": 351000,
       "name": "Nostalgia Aidilfitri",
       "url": "https://open.spotify.com/track/2NTay1SiXWWGPhX8J1pEqt"
+    },
+    {
+      "album": {
+        "name": "NOT CUTE ANYMORE",
+        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131997,
+      "name": "NOT CUTE ANYMORE",
+      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
       "album": {
@@ -17476,7 +17494,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 287071,
       "name": "Rahsia Tuhan",
       "url": "https://open.spotify.com/track/0FYnBVsruGEFIBRI3a4Vmz"
@@ -17790,7 +17808,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 265406,
       "name": "Reminisensi",
       "url": "https://open.spotify.com/track/0TRKtVvsVmOkXCvnq5AgNE"
@@ -25020,7 +25038,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

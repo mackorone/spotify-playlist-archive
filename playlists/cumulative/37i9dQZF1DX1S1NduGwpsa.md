@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Jowee Omicil
 
-875 songs - 2 day 14 hr 16 min
+875 songs - 2 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Always Be \(feat\. Kaya Thomas\-Dyke\)](https://open.spotify.com/track/58SELDL70hm66Oy4fwzBFM) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Roulette](https://open.spotify.com/album/3ri9BvsRSttcqo5i4ofKME) | 3:28 | 2025-10-02 |  |
 | [Always Late](https://open.spotify.com/track/3IVycuq6FCllLMFic3lX2h) | [takoda](https://open.spotify.com/artist/73iCRSMTOEczMdEyZwWzME), [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Hubie](https://open.spotify.com/artist/06pHfTjRYEOBsFQ4viO0oM) | [Together Tomorrow](https://open.spotify.com/album/2r54jmgXYv5F2Cn7Qqjxa0) | 2:17 | 2024-11-21 | 2025-04-18 |
 | [Amazone Blues](https://open.spotify.com/track/1ohcAmZl6D4BtaQ1TjQDoQ) | [Henri Texier](https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES), [Sébastien Texier](https://open.spotify.com/artist/6zwjF5PQCREmT9hfRnSEeu), [Hermon Mehari](https://open.spotify.com/artist/3xQJfdus5EvyRsKxuQUEjT), [Emmanuel Borghi](https://open.spotify.com/artist/2zQxEBrtaCkbyrUVBcxRPk), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Healing Songs](https://open.spotify.com/album/5htGZT3fLKOMEPMLI5Gi4y) | 5:56 | 2025-11-13 |  |
+| [AMISTAD](https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC) | [VEEKO](https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [HOUSE OF BIRDS](https://open.spotify.com/album/62OfSUbBm4t5ootwPrYHQI) | 3:05 | 2025-11-27 |  |
 | [An Epic Story](https://open.spotify.com/track/7ikZgNimOqNqnl2zujDdv2) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo) | [An Epic Story](https://open.spotify.com/album/6SqlvtbQbVy3SbDPVDZHWQ) | 4:15 | 2025-03-27 | 2025-06-20 |
 | [An Ode](https://open.spotify.com/track/59C1gt0M1tvtwFdJR0tzX1) | [Emile Londonien](https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7) | [An Ode](https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby) | 5:01 | 2022-11-10 | 2023-02-10 |
 | [And it's Supposed to be Love](https://open.spotify.com/track/0urxP2bs2nCwRAssKUWjmh) | [Marion Rampal](https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD) | [And it's Supposed to be Love](https://open.spotify.com/album/3QZxr52UF2igKJTTBTpY31) | 3:56 | 2025-09-25 |  |
@@ -792,7 +793,6 @@
 | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/track/2xoKI8Q32j85vB2CsutaAd) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF) | [Tom Sawyer \(feat\. Chris Thile\)](https://open.spotify.com/album/5BixI41jRQeNxOCG4IqoLQ) | 7:44 | 2022-04-14 | 2022-04-22 |
 | [Tomorrow](https://open.spotify.com/track/2OmKfDdY4wSdvTB9YuCJ4t) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [The Return of Slick](https://open.spotify.com/album/1t2kpu4LHR0O5PsQLxSQnp) | 3:19 | 2025-10-16 |  |
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
-| [Track 9](https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC) | [VEEKO](https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️<br/>cover: charli xcx
 
-557 songs - 1 day 6 hr 0 min
+558 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-12 | 2025-03-14 |
 | [Apple Of My Eye](https://open.spotify.com/track/4AGZSDIcFlEsqyde0cq8Id) | [Aimée Fatale](https://open.spotify.com/artist/7Fcb8iazCnwwwIxGhjFt4G) | [Apple Of My Eye](https://open.spotify.com/album/3fa14PyrLcll8XXZMEIgyX) | 2:57 | 2025-11-07 |  |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-10 | 2025-03-21 |
+| [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 | 2025-11-28 |  |
 | [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:26 | 2025-10-23 |  |
 | [As Scared As Can Be](https://open.spotify.com/track/1yjXEIowi1Rp64zlkYnxvn) | [Sydney Sprague](https://open.spotify.com/artist/6kclOkS27VyWBtdnNq5GHs) | [As Scared As Can Be](https://open.spotify.com/album/719Eksotj9w0EwXLJ7Gj4A) | 2:07 | 2025-05-15 | 2025-08-29 |
 | [ASCETIC HEDONIST](https://open.spotify.com/track/01vg6oJXn3iwhlDhe2wF6p) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [ASCETIC HEDONIST](https://open.spotify.com/album/5hC4idUD8YDAtRNJitUB2C) | 3:08 | 2025-09-11 | 2025-11-07 |
@@ -463,7 +464,7 @@
 | [slack](https://open.spotify.com/track/7EfA4kiIZJebf3fIHiO0Ge) | [woody](https://open.spotify.com/artist/1MOlxrTqAReNKA5a5uFvC4) | [slack / she's all that i need](https://open.spotify.com/album/6ZAEBW95fQsflooTxmkLmY) | 2:40 | 2025-05-15 | 2025-07-18 |
 | [Sleeper \(Hit\)](https://open.spotify.com/track/6gXkV4YnMvB4ao0zFNXMHZ) | [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Sleeper \(Hit\)](https://open.spotify.com/album/0DpiDseJ4gpSIsaMKEDmy1) | 2:54 | 2025-04-24 | 2025-07-11 |
 | [So Fast](https://open.spotify.com/track/7sC4LsVu0KTdn1dLC2tnhu) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 2:30 | 2024-07-12 | 2025-03-08 |
-| [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 | 2025-06-26 |  |
+| [SOFT SCOOP TALKING DOG](https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI) | [Greta Isaac](https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN) | [SOFT SCOOP TALKING DOG](https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V) | 2:03 | 2025-06-26 | 2025-11-29 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-10 | 2025-02-14 |
 | [Somewhere](https://open.spotify.com/track/3GPybyy3AiWaWGfUTaIZh6) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Somewhere](https://open.spotify.com/album/4jTq7j1OnDNGUhoenowReN) | 4:32 | 2025-06-26 | 2025-10-03 |
 | [Soprano](https://open.spotify.com/track/3DNgrWGDoVefYTLdzUnLWX) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Soprano](https://open.spotify.com/album/70pGjy9mpZ3GFZKyFlHF1S) | 2:13 | 2025-03-14 | 2025-04-18 |

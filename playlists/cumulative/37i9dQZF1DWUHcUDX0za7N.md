@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Zaylevelten
 
-676 songs - 1 day 7 hr 46 min
+676 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [Ice Cream](https://open.spotify.com/track/0k1iGWN9cX5SzXE6dGn4to) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ice Cream](https://open.spotify.com/album/1k3GHzhZBvuLUEfpk5NdK5) | 2:15 | 2022-06-09 | 2023-02-24 |
 | [IDAN](https://open.spotify.com/track/6b5Xz3pqizdtTU0UvMSyki) | [PDSTRN](https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [IDAN](https://open.spotify.com/album/1dOxtUsvRR96cU5ptMn6zb) | 3:05 | 2024-11-22 | 2024-11-30 |
 | [Idan Buruku \(Freestyle\)](https://open.spotify.com/track/5DfbRtg9E4jx7SuCTbUUq6) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Idan Buruku \(Freestyle\)](https://open.spotify.com/album/2s6XjErO2LqXTXgvFUVfD8) | 1:31 | 2025-01-24 | 2025-06-20 |
+| [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [IDme \(owo to po leti\)](https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [IDme \(owo to po leti\)](https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi) | 2:25 | 2023-09-14 | 2023-09-29 |
 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 | 2024-01-12 | 2024-09-28 |
 | [Ije Nwoke](https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Ije Nwoke](https://open.spotify.com/album/7q8Vopxx2mj4DSe04qHP1X) | 2:37 | 2024-05-10 | 2024-10-05 |
@@ -617,7 +618,6 @@
 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 | 2024-03-01 | 2024-11-22 |
 | [TOSPI](https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [TOSPI](https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz) | 2:35 | 2025-02-21 | 2025-03-29 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-07 | 2025-09-26 |
-| [Track 16](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
 | [Trapping](https://open.spotify.com/track/7dTf5PWqNfWcRTlgw8d4fu) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 3:45 | 2022-10-14 | 2022-10-29 |
 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2022-06-09 | 2023-11-10 |
 | [True Life Story](https://open.spotify.com/track/1m7ffYVHFhtOUF6pYHGqCC) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 2:58 | 2022-10-14 | 2022-10-29 |

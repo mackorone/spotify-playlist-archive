@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: RIIZE
 
-812 songs - 1 day 20 hr 27 min
+813 songs - 1 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [STUNNER](https://open.spotify.com/track/63j1HWrXmSk1zK7IZYQepo) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [STUNNER \- The 2nd Mini Album](https://open.spotify.com/album/0Q0FQVj4Npz4MmQuNaHh8u) | 3:34 | 2025-03-24 | 2025-06-13 |
 | [STUPID](https://open.spotify.com/track/73zoJOtMEpGqWLGIOCChSz) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [UPSIDE DOWN](https://open.spotify.com/album/7F4KP5n3EcXCWlaphhV5fq) | 3:19 | 2025-08-24 | 2025-11-05 |
 | [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 | 2025-07-28 | 2025-10-27 |
+| [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 | 2025-11-28 |  |
 | [Sugar Blood Kiss](https://open.spotify.com/track/14vIy9ZQnigIz5bU1k7G59) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Sugar Blood Kiss](https://open.spotify.com/album/1Yom3QQprg3A5Ui2sT6kmB) | 3:32 | 2024-04-23 | 2024-05-15 |
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [Summer Light](https://open.spotify.com/track/0nvv7QmRopuA4rylN4EOly) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Summer Light](https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg) | 3:01 | 2025-08-04 | 2025-10-01 |

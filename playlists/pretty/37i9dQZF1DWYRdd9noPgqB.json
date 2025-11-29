@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298897,
+  "num_followers": 298887,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,26 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
+        "name": "Sweet Emotion",
+        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 157441,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
         "name": "Kicking My Feet",
         "url": "https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5"
       },
@@ -507,22 +527,18 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
-        "name": "Sweet Emotion",
-        "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
       },
       "artists": [
         {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 157441,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
     },
     {
       "added_at": "2025-11-27 23:00:13",
@@ -539,22 +555,6 @@
       "duration_ms": 159078,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
-        "name": "Children of the Baked Potato",
-        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
     },
     {
       "added_at": "2025-11-27 23:00:13",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-11-27 23:00:13",
       "album": {
+        "name": "Give Me Your Love Back",
+        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 176097,
+      "name": "Give Me Your Love Back",
+      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2025-11-27 23:00:13",
+      "album": {
         "name": "Daisy",
         "url": "https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 164780,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs"
-    },
-    {
-      "added_at": "2025-11-27 23:00:13",
-      "album": {
-        "name": "Give Me Your Love Back",
-        "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 176097,
-      "name": "Give Me Your Love Back",
-      "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
     },
     {
       "added_at": "2025-11-27 23:00:13",

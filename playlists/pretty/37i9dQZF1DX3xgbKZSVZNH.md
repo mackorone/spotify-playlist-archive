@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,665 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,710 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 44 | [Here I Go Again 87 \- 2007 Remastered Version](https://open.spotify.com/track/51tuwnX8OPvQCXoBnjMkfF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:30 |
 | 45 | [I'd Do Anything for Love \(But I Won't Do That\) \- Radio Edit](https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Playlist: The Very Best Of Meat Loaf](https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf) | 5:21 |
 | 46 | [All By Myself](https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/0351W7FeCQal5XzaR161tW) | 7:15 |
-| 47 | [China In Your Hand](https://open.spotify.com/track/7ph8TWuva3z6E29oIH7wfY) | [T'Pau](https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC) | [Pure Love](https://open.spotify.com/album/3DYrzx6kOGl4xqaznMzEpF) | 4:47 |
-| 48 | [Glory Of Love](https://open.spotify.com/track/1rCvELDf9YKp1pNxVWAqAm) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Rock Ballads](https://open.spotify.com/album/7BvcQLsLEvk6vl2yuRFzve) | 4:20 |
-| 49 | [I'm with You](https://open.spotify.com/track/003qa9jZ2byfApC0hBnr0G) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq) | 3:43 |
+| 47 | [I'm with You](https://open.spotify.com/track/003qa9jZ2byfApC0hBnr0G) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/2RHaVgBsaXdHOvBTOD0vwq) | 3:43 |
+| 48 | [China In Your Hand](https://open.spotify.com/track/7ph8TWuva3z6E29oIH7wfY) | [T'Pau](https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC) | [Pure Love](https://open.spotify.com/album/3DYrzx6kOGl4xqaznMzEpF) | 4:47 |
+| 49 | [Glory Of Love](https://open.spotify.com/track/1rCvELDf9YKp1pNxVWAqAm) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z) | [Rock Ballads](https://open.spotify.com/album/7BvcQLsLEvk6vl2yuRFzve) | 4:20 |
 | 50 | [When Love And Hate Collide](https://open.spotify.com/track/5HJoLjMetgvuOyvuubDl1g) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Best Of](https://open.spotify.com/album/2MHIDS8G3Er8PUI7QkgoXi) | 4:16 |
 
 Snapshot ID: `AAAAANkUWfYnU//M4drWgYnz0S+0pFUo`

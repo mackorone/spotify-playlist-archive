@@ -4,7 +4,7 @@
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-84 songs - 6 hr 1 min
+85 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [La Razón De Mi Locura](https://open.spotify.com/track/4XMVNHon9FJPFsIytwPx77) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [La Razón De Mi Locura](https://open.spotify.com/album/7HYQ2xWVTemPTe5NWBXGuk) | 3:56 | 2022-12-16 | 2023-10-11 |
 | [Lleno de Ti](https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:51 | 2022-12-16 |  |
 | [Mañana Sale el Sol](https://open.spotify.com/track/4BZjznSJmBXSu9xyUzyfNv) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [En Concierto](https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU) | 4:21 | 2024-05-07 | 2024-08-03 |
-| [Me Sobran las Palabras](https://open.spotify.com/track/0zIERn4aP7d0eVBIhwyPwW) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/7aDqowxLLL5VH6M9R9zEHa) | 4:30 | 2022-12-16 |  |
+| [Me Sobran las Palabras](https://open.spotify.com/track/0zIERn4aP7d0eVBIhwyPwW) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/7aDqowxLLL5VH6M9R9zEHa) | 4:30 | 2022-12-16 | 2025-11-29 |
+| [Me Sobran las Palabras](https://open.spotify.com/track/7BYYKvm5msGYv8rU1CQVc0) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/1WwRdmPqcBQ9WLVWxGWris) | 4:30 | 2025-11-29 |  |
 | [Mi Mejor Canción](https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Enamorado Como Siempre](https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z) | 3:54 | 2022-12-16 |  |
 | [Mi Novia y Mi Pueblo](https://open.spotify.com/track/4SYjWNFpwOyYXLER9XalBQ) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 5:41 | 2024-08-03 |  |
 | [Mi Pedazo de Cielo](https://open.spotify.com/track/1UNC1wX7OUQjLE7MFUPs0R) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 4:04 | 2025-08-14 | 2025-08-22 |

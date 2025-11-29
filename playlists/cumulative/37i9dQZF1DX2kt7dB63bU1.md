@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Ledisi
 
-873 songs - 2 day 12 hr 29 min
+874 songs - 2 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [I Won't Dance](https://open.spotify.com/track/0Xs9Ye5qtHNcYT64UCyNd6) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Ilhan Saferali](https://open.spotify.com/artist/7csYYeURDiqpKRoEJYRDx0) | [I Won't Dance](https://open.spotify.com/album/4SJIp0aXgqqePlTDBgPPRx) | 1:58 | 2021-12-03 | 2022-07-25 |
 | [I Won't Dance](https://open.spotify.com/track/1tqhYXhkFajcMomIS2bJ0e) | [Robin Mckelle](https://open.spotify.com/artist/1HExVl6jUdYXFYmB6GoKDV), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Impressions of Ella](https://open.spotify.com/album/6hqp7wdLDkgPkSrDh8VTVO) | 4:17 | 2023-06-02 | 2024-10-19 |
 | [I Wonder Why](https://open.spotify.com/track/6Ho8YoVurhNZKv2yIyIF06) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [I Wonder Why](https://open.spotify.com/album/1XCNXzUp7EK5onDVjoHdAd) | 4:59 | 2022-02-11 | 2022-07-29 |
-| [I Wouldn't Be Me Without You](https://open.spotify.com/track/50bEtFhdleGI20UI8qO5sT) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [I Wouldn't Be Me Without You](https://open.spotify.com/album/6zTVxFah8Eu7gHcCumPhIr) | 3:51 | 2025-06-13 |  |
+| [I Wouldn't Be Me Without You](https://open.spotify.com/track/50bEtFhdleGI20UI8qO5sT) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [I Wouldn't Be Me Without You](https://open.spotify.com/album/6zTVxFah8Eu7gHcCumPhIr) | 3:51 | 2025-06-13 | 2025-11-29 |
 | [I'd Do It for Your Love](https://open.spotify.com/track/0w7P8nRrYztfsZ2VbjKUyt) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [I'd Do It for Your Love](https://open.spotify.com/album/231OMQHNM5rCeVAeprsYZ4) | 4:05 | 2022-03-11 | 2022-07-27 |
 | [I'll Be A Nobody](https://open.spotify.com/track/78SlkDi5FwmQtiwG3osxc5) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV) | [Nobody](https://open.spotify.com/album/4oeeGgoxnskIdsr6V7benD) | 4:13 | 2025-11-21 |  |
 | [I'll Be Hard to Handle](https://open.spotify.com/track/6B45peRgPoRivUPADSvl0G) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [I'll Be Hard to Handle](https://open.spotify.com/album/4hOtezV280kidUiaE20bBi) | 4:04 | 2023-06-09 | 2023-07-22 |
@@ -353,6 +353,7 @@
 | [Icarus](https://open.spotify.com/track/1nZZKucdf7A34DtHVsyPi6) | [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Seven Eyes](https://open.spotify.com/artist/0M6umUTp0QgXZP8ECTwybz) | [Icarus](https://open.spotify.com/album/7GNqqFENHq8xEVVvTlLWY3) | 4:01 | 2024-02-16 | 2025-11-22 |
 | [If I Didn't Care](https://open.spotify.com/track/3wZWkqbqKCyJwBYv35Pyh6) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/0qshBfZ7c1fQLjr8fIAROW) | 2:57 | 2023-01-20 | 2024-05-03 |
 | [If I Didn't Care](https://open.spotify.com/track/73VnXjXnvO3mjR6S7U6ud8) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [As Time Goes By](https://open.spotify.com/album/5Jbs3q02uedHLy8QVbZzmk) | 2:57 | 2023-01-27 | 2024-04-19 |
+| [If I Loved You](https://open.spotify.com/track/4QZfE0uBTRIUknpnmru7XQ) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [If I Loved You](https://open.spotify.com/album/15L2n6vVD5Gm2EE1v4ti4y) | 3:50 | 2025-11-28 |  |
 | [If I Loved You](https://open.spotify.com/track/6mMaZQLLPCMxOWhTjBpRkW) | [Spencer Day](https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Broadway By Day](https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3) | 4:10 | 2022-02-25 | 2023-02-25 |
 | [If I Never Get To Heaven](https://open.spotify.com/track/4uqMVAe76Y0UBQXn0KCXLh) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [For Dinah](https://open.spotify.com/album/7jH6j03bgQIOsVG3Haw5kZ) | 6:05 | 2025-10-03 |  |
 | [If I Ruled the World](https://open.spotify.com/track/1ur83GnjXdRY6FKYeHrUg6) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs), [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW) | [If I Ruled The World](https://open.spotify.com/album/2jz9UQA6s4AsFsqyum9GBg) | 2:53 | 2024-06-14 | 2024-07-06 |

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Kauta
 
-3,096 songs - 6 day 0 hr 24 min
+3,097 songs - 6 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,7 +531,7 @@
 | [Close to you](https://open.spotify.com/track/6CBurTHmYJhIcDD72Qgjnm) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Close to you](https://open.spotify.com/album/0kSsLJiSSakbOSZrHGlVRP) | 1:43 | 2025-06-19 | 2025-06-27 |
 | [Cloud](https://open.spotify.com/track/3BzUXih3wwnalV34k1arHj) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Cloud](https://open.spotify.com/album/2pckppGAwqQM0KtrnS5Itc) | 3:07 | 2022-06-17 | 2022-06-24 |
 | [Clown zum Freak](https://open.spotify.com/track/2Xam1sL5Mkib0UPCHX75KM) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 2:31 | 2023-11-02 | 2024-01-05 |
-| [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2025-06-09 |  |
+| [Club Bizarre](https://open.spotify.com/track/4fHug3zCanK33sdvticISi) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Club Bizarre](https://open.spotify.com/album/49CWPw9MGkEvc78gTjLnEe) | 5:00 | 2025-06-09 | 2025-11-29 |
 | [cm2](https://open.spotify.com/track/5AqngRFnPVogBXBPf3TF6X) | [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [cm2](https://open.spotify.com/album/1b7zO0tGRsuNqrDumyNOTS) | 3:44 | 2025-03-27 | 2025-04-18 |
 | [Co\-Star](https://open.spotify.com/track/3yBXk5tj0EqlTe4lOSnaWL) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [XAVER](https://open.spotify.com/artist/2XGaD0VuieQxr4zvfjDzmC) | [Co\-Star](https://open.spotify.com/album/55NZPIZWOlYDGZyual8BVk) | 2:28 | 2023-04-06 | 2023-04-18 |
 | [COACHELLA](https://open.spotify.com/track/3gyRaifTaAoQrwtYiQu9ur) | [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm), [Nullzweizwei](https://open.spotify.com/artist/0TVANDORspsd2X7Gg9rhcW) | [COACHELLA](https://open.spotify.com/album/3rKUse3bRNWC18dktsMnCX) | 2:46 | 2022-06-09 | 2022-08-05 |
@@ -1271,6 +1271,7 @@
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-22 | 2024-11-15 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-29 | 2022-11-18 |
 | [I Think I Need A DJ](https://open.spotify.com/track/2lKOI1nwP5qZtZC7TGQVY8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Crybaby](https://open.spotify.com/artist/68sTQgQtPe9e4Bb7OtoqET), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Think I Need A DJ](https://open.spotify.com/album/1ElP3WFqq5sgMcc3ScIR4l) | 2:35 | 2024-09-19 | 2024-10-11 |
+| [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 | 2025-11-28 |  |
 | [I Think You Should Go](https://open.spotify.com/track/7cRfC6VZyy8r985B31baJA) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [BLIND](https://open.spotify.com/album/3KwHPX5p6O8VgJVoL5YgWj) | 2:23 | 2024-03-04 | 2024-03-08 |
 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 | 2025-11-26 |  |
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2023-06-22 | 2023-08-04 |

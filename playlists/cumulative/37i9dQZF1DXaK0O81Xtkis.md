@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Pash
+> a little indie, a little pop, soda featuring South Arcade
 
-1,495 songs - 3 day 2 hr 33 min
+1,498 songs - 3 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Backyard Boy](https://open.spotify.com/track/0QpOqKz66ZxHNqj2PPHiFF) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [BeVerly Hills BoYfRiEnd](https://open.spotify.com/album/47MpwVFLbn15zhYD3mIx5y) | 2:09 | 2024-01-05 | 2024-02-10 |
 | [Bad At Letting Go](https://open.spotify.com/track/4uWDzzFjuB9AV1hMSTyEAJ) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Bad At Letting Go](https://open.spotify.com/album/25cBhyZGuY9xdg7QMCdc9K) | 3:20 | 2023-01-20 | 2023-03-25 |
 | [Bad Dream](https://open.spotify.com/track/4G7LYlnVgPWVmjXERE8NnB) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Bad Dream](https://open.spotify.com/album/3Ksfxxd3u2IABEqECQ8UWw) | 3:30 | 2024-04-26 | 2024-06-01 |
-| [Bad News](https://open.spotify.com/track/3W3KiThUax82v78hiinyCP) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Bad News](https://open.spotify.com/album/0E9G5XeL83v7CKiyKXkU4z) | 2:59 | 2025-08-08 |  |
+| [Bad News](https://open.spotify.com/track/3W3KiThUax82v78hiinyCP) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Bad News](https://open.spotify.com/album/0E9G5XeL83v7CKiyKXkU4z) | 2:59 | 2025-08-08 | 2025-11-29 |
 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2022-09-23 | 2023-03-04 |
 | [Baked Alaska](https://open.spotify.com/track/63reuc8nVqfO3bmxCLUKDq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Baked Alaska](https://open.spotify.com/album/0yRDamj20wKD1LWVIxoFrc) | 2:50 | 2024-09-27 | 2025-01-25 |
 | [ballerina](https://open.spotify.com/track/7iYjdHCh4dgsmiktEaEkOV) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [ballerina](https://open.spotify.com/album/2wMEm63VJKzy3Y9d6nTyeh) | 3:22 | 2024-09-20 | 2025-01-11 |
@@ -156,6 +156,7 @@
 | [bleachers](https://open.spotify.com/track/537lxjgEWi70xoayyrCWus) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleachers](https://open.spotify.com/album/4BxtVVOL8m6cZLYNtJejGQ) | 2:36 | 2024-04-26 | 2024-07-19 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-28 | 2025-05-17 |
 | [Blind \(feat\. Keiynan Lonsdale\)](https://open.spotify.com/track/0xVLBgZW9QeL4VKTj2yvMB) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Blind \(feat\. Keiynan Lonsdale\)](https://open.spotify.com/album/2lzrgCaMxKjwNqfHkGsc8x) | 3:13 | 2025-01-17 | 2025-03-22 |
+| [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 | 2025-11-28 |  |
 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 | 2024-02-09 | 2024-03-16 |
 | [Bloom](https://open.spotify.com/track/5pvZYywDL4vELF5bwunAEZ) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:33 | 2024-01-05 | 2024-02-28 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2024-09-21 |
@@ -189,6 +190,7 @@
 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 | 2025-09-05 |  |
 | [break up with that guy.](https://open.spotify.com/track/4OhTm6quMnqHRbzntToUKG) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [break up with that guy.](https://open.spotify.com/album/1eUtqH9UpAY4SR6Cst8oSL) | 2:23 | 2022-11-25 | 2023-03-25 |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-19 | 2025-06-28 |
+| [britney in 07](https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [britney in 07](https://open.spotify.com/album/5niKmHGHPcCIEMT6KDgK7W) | 3:05 | 2025-11-28 |  |
 | [Broken](https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Broken](https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12) | 3:12 | 2022-02-04 | 2022-03-18 |
 | [Brooklyn\. Friday\. Love.](https://open.spotify.com/track/5y9HfnJfcHDfXZG84RWFz5) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Brooklyn\. Friday\. Love.](https://open.spotify.com/album/7asmUloIMh9aEq4SQBEbKg) | 3:52 | 2022-08-05 | 2022-08-27 |
 | [brown eyes\*](https://open.spotify.com/track/5OOSqqoKCL4s7WIFNbSZPD) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [brown eyes\*](https://open.spotify.com/album/7rfwHApmeagSJIrqmfUOVO) | 2:43 | 2024-03-22 | 2024-06-01 |
@@ -614,7 +616,7 @@
 | [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 | 2023-03-24 | 2023-07-22 |
 | [Hypocrite](https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hypocrite](https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP) | 2:43 | 2024-08-23 | 2024-12-14 |
 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 | 2024-09-20 | 2025-01-25 |
-| [I Can Die Now](https://open.spotify.com/track/6fzN61K7pQ6rooDa0zMe5B) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/0k7o4QYwQEmbCnF6mFhB5H) | 2:50 | 2025-07-18 |  |
+| [I Can Die Now](https://open.spotify.com/track/6fzN61K7pQ6rooDa0zMe5B) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/0k7o4QYwQEmbCnF6mFhB5H) | 2:50 | 2025-07-18 | 2025-11-29 |
 | [i can't do anything right](https://open.spotify.com/track/1P76yNLdadQMDblQsmMXvB) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [this is what i get](https://open.spotify.com/album/3dwsGxoPZWWyJzpxKnz1cn) | 2:16 | 2022-11-18 | 2023-02-04 |
 | [i can't get my shit together](https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [i can't get my shit together](https://open.spotify.com/album/4Q1JfWQoV1zWHLejdhpyey) | 2:53 | 2023-10-27 | 2024-06-01 |
 | [I Can’t Grow Up](https://open.spotify.com/track/5b2teiHzEXQQJJfa0btYpF) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [I Can't Grow Up](https://open.spotify.com/album/0yQuEAGDMu7hJKLWfX11Vm) | 3:20 | 2022-09-30 | 2023-03-04 |
@@ -830,7 +832,7 @@
 | [Lover or an Enemy](https://open.spotify.com/track/5bJvk3oiSK1QvDT7tFijgR) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Lover or an Enemy](https://open.spotify.com/album/51HxAKNk0UR0JITtYpq12L) | 3:19 | 2023-09-22 | 2024-01-05 |
 | [Loverman](https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6UyQiKLbwj1rfvWK0ybprK) | 2:26 | 2023-12-01 | 2024-02-10 |
 | [lowdown](https://open.spotify.com/track/4s10wX7nZoqgP8erbDwekP) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [JESTERMAN](https://open.spotify.com/album/2uhSDUavjgBCB46C5rYqUQ) | 3:14 | 2024-05-31 | 2024-07-19 |
-| [lucid dreaming](https://open.spotify.com/track/5FtbSnllpWLkoDYYzl2Biw) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [lucid dreaming](https://open.spotify.com/album/28b8F7dZus7smK4RW67Heb) | 2:48 | 2025-08-08 |  |
+| [lucid dreaming](https://open.spotify.com/track/5FtbSnllpWLkoDYYzl2Biw) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [lucid dreaming](https://open.spotify.com/album/28b8F7dZus7smK4RW67Heb) | 2:48 | 2025-08-08 | 2025-11-29 |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-07-29 | 2022-09-03 |
 | [LUCKY BOY](https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [LUCKY BOY](https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y) | 2:48 | 2025-01-17 | 2025-04-12 |
 | [Mad](https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Mad](https://open.spotify.com/album/1jqgdLTganjzL121lxeusU) | 2:54 | 2025-06-27 | 2025-09-06 |
@@ -1011,6 +1013,7 @@
 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 | 2025-01-24 | 2025-04-05 |
 | [Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 2:56 | 2023-03-03 | 2023-07-22 |
 | [Pink + White \- Live at Electric Lady](https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Live at Electric Lady](https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ) | 3:53 | 2022-08-19 | 2022-09-24 |
+| [Pink Lemonade](https://open.spotify.com/track/32X0giiWhSwrgJdyiFOqr1) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Pink Lemonade](https://open.spotify.com/album/54HW5AhdlCDtb0x2KejVq6) | 3:57 | 2025-11-28 |  |
 | [Pipe Down](https://open.spotify.com/track/688zECd3rFRSFq3i5EDf5w) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Pipe Down](https://open.spotify.com/album/5FgmQh0UVoKBqC3tnoBzTz) | 2:55 | 2024-01-26 | 2024-02-17 |
 | [Pity Party](https://open.spotify.com/track/7y9EejfRa4hJihEO70QOIV) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Pity Party](https://open.spotify.com/album/75F9DShI8jtDKXmvYP1kl3) | 2:42 | 2022-04-29 | 2022-08-06 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-10-29 | 2022-02-19 |

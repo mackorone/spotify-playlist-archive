@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,163,902 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,163,961 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 12 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 13 | [TU ME RENDS BÊTE](https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [TU ME RENDS BÊTE](https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2) | 2:45 |
 | 14 | [Cullinan](https://open.spotify.com/track/3YayhNph43ExprziXDkKxR) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:11 |
-| 15 | [Track 12](https://open.spotify.com/track/6dVo2Af8Qb8GiT8Akxjuxt) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [](https://open.spotify.com/album/null) | 0:00 |
+| 15 | [M'EN ALLER](https://open.spotify.com/track/6dVo2Af8Qb8GiT8Akxjuxt) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:39 |
 | 16 | [Cristalline](https://open.spotify.com/track/14AX5JL3aJjzwZB7HGqp4Q) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Cristalline](https://open.spotify.com/album/29nlVmBV3PkXA98DtlwMaR) | 2:54 |
 | 17 | [ZOU BISOU](https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:42 |
 | 18 | [PRESIDENTIAL](https://open.spotify.com/track/2GDrvSBtD1SfNBa39kmcl0) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [PRESIDENTIAL](https://open.spotify.com/album/6xDlBkGeWBtMWm2obCj44f) | 1:57 |

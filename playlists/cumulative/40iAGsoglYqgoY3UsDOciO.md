@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-438 songs - 21 hr 11 min
+439 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-07-26 |  |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-07-26 |  |
 | [Stand By Me \(feat\. Morgan Wallen\)](https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Almost Healed](https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce) | 3:39 | 2023-07-26 |  |
+| [Starhero](https://open.spotify.com/track/7hX6Maampqji3vHpftrHGV) | [RorreN](https://open.spotify.com/artist/3RhESwqU21m7aa1x1X0Cnu) | [Starhero \(Love Story\)](https://open.spotify.com/album/1eqSFzJ2c6ihj3MrN4jmyr) | 2:13 | 2025-11-28 |  |
 | [Stay Focused Stand Tall](https://open.spotify.com/track/1kgd80GPndjB5HjXAuEa2O) | [King Mane](https://open.spotify.com/artist/4SM6YEAr6a8TByUcfZ5Ort) | [Salina Made](https://open.spotify.com/album/2igo8C5NJwvJNTml01fEmS) | 2:39 | 2024-05-21 |  |
 | [STEP IN THE RING](https://open.spotify.com/track/5bYt6lPL6R3mUXkmzXlNku) | [WONNDONN](https://open.spotify.com/artist/4dz2N9M5T2tvasi9eUoYVZ) | [STEP IN THE RING](https://open.spotify.com/album/3GNjdyLOInViVmT73ePP5v) | 2:15 | 2024-08-03 |  |
 | [Sticking 2 the Plan](https://open.spotify.com/track/54uqTvEwRLKq4SDsgqTqAJ) | [Prote\-J](https://open.spotify.com/artist/5AUPhuCFm1mQO2hoB6NxSr) | [Sticking 2 the Plan](https://open.spotify.com/album/63FIrpu8jDe0zHSOMMXwUJ) | 2:09 | 2025-10-08 |  |

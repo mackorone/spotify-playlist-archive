@@ -10873,6 +10873,24 @@
     },
     {
       "album": {
+        "name": "Blink Of An Eye",
+        "url": "https://open.spotify.com/album/1oV0v00ztV4wVkjaJFEQcX"
+      },
+      "artists": [
+        {
+          "name": "Naesia",
+          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Blink Of An Eye",
+      "url": "https://open.spotify.com/track/7LDuXtT2nPktN85RNQEKPa"
+    },
+    {
+      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -15960,6 +15978,24 @@
       "duration_ms": 185715,
       "name": "Charge It",
       "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
+    },
+    {
+      "album": {
+        "name": "Charming",
+        "url": "https://open.spotify.com/album/0gY6C7ekJVKInH9EDATYEr"
+      },
+      "artists": [
+        {
+          "name": "Prismala",
+          "url": "https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209823,
+      "name": "Charming",
+      "url": "https://open.spotify.com/track/5uFT2A2OUve2LorP6KNNtS"
     },
     {
       "album": {
@@ -27953,6 +27989,24 @@
     },
     {
       "album": {
+        "name": "Everything's A TV Show",
+        "url": "https://open.spotify.com/album/5eYFZOrPmwCoETxH1IPtzp"
+      },
+      "artists": [
+        {
+          "name": "Rooskin",
+          "url": "https://open.spotify.com/artist/010wxklenCFtHumkvnpUXg"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221696,
+      "name": "Everything's A TV Show",
+      "url": "https://open.spotify.com/track/6m3KtoxxHE3vQ6FTjGpEpZ"
+    },
+    {
+      "album": {
         "name": "INT'L NFFERNO II",
         "url": "https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG"
       },
@@ -30864,7 +30918,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 169043,
       "name": "Fitted Dress",
       "url": "https://open.spotify.com/track/7JL7B426UdkdTjiR5exBjv"
@@ -46508,7 +46562,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 371594,
       "name": "It's Your Thing",
       "url": "https://open.spotify.com/track/2UHFRqS7rewxOuDYsIWpdj"
@@ -51154,6 +51208,28 @@
       "duration_ms": 153652,
       "name": "Lick My Body",
       "url": "https://open.spotify.com/track/14lMGhPuCKTJvT19gfky49"
+    },
+    {
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/5hEZJAXDNWhlUKImqqcTmn"
+      },
+      "artists": [
+        {
+          "name": "Angels Of Libra",
+          "url": "https://open.spotify.com/artist/3u6psmBj8ZGKHKRTHUGBDL"
+        },
+        {
+          "name": "Nathan Johnston",
+          "url": "https://open.spotify.com/artist/6Vz8qpQ7nZNOlhmTU0Ibwb"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226590,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/3TgL95YXeyc28PCFqKuwrL"
     },
     {
       "album": {
@@ -59492,6 +59568,24 @@
       "duration_ms": 331194,
       "name": "Moses' Mama",
       "url": "https://open.spotify.com/track/1U9Se5xHezUHYai6HwaWQ4"
+    },
+    {
+      "album": {
+        "name": "Days Hours Nights",
+        "url": "https://open.spotify.com/album/7pwaBIepILNjay0iv4O4SD"
+      },
+      "artists": [
+        {
+          "name": "Bets",
+          "url": "https://open.spotify.com/artist/1UKb8fKzb3cCbapXoaMbqH"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171813,
+      "name": "Most of the Time",
+      "url": "https://open.spotify.com/track/3vX49liEI7bAxMLvLP1gTW"
     },
     {
       "album": {
@@ -71418,7 +71512,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 190635,
       "name": "Put Your Love On Me",
       "url": "https://open.spotify.com/track/3xtu3O28oPaWWfZ5v2axqD"

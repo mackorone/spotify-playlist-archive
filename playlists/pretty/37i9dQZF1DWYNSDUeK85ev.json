@@ -1,12 +1,12 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 690287,
+  "num_followers": 690333,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJR0ivQBo4gtQ7GSlZZk4eXW/Euv",
+  "snapshot_id": "AAAAAHihqMgy2EPkAiq2LD0fHhNKEOmo",
   "tracks": [
     {
       "added_at": "2025-11-20 12:09:53",
@@ -279,6 +279,26 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "Reggaeton Viejo",
+        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
+      },
+      "artists": [
+        {
+          "name": "La Secta",
+          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
+        },
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "La Locura Autom\u00e1tica - Reggaeton",
+      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "Reggaeton Viejo",
-        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
-      },
-      "artists": [
-        {
-          "name": "La Secta",
-          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
-        },
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "La Locura Autom\u00e1tica - Reggaeton",
-      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 209414,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "P\u00c9GATE",
         "url": "https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 137331,
       "name": "P\u00c9GATE",
       "url": "https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "El Mismo Aire",
-        "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 209414,
-      "name": "El Mismo Aire",
-      "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "POSEIDON",
-        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 142234,
-      "name": "POSEIDON",
-      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Mala Costumbre",
         "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 230728,
       "name": "Mala Costumbre",
       "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "POSEIDON",
+        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 142234,
+      "name": "POSEIDON",
+      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "MUJERON",
+        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
+      },
+      "artists": [
+        {
+          "name": "Reggi El Autentico",
+          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "MUJERON",
+      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "MUJERON",
-        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
-      },
-      "artists": [
-        {
-          "name": "Reggi El Autentico",
-          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "MUJERON",
-      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "ADI\u00d3S (Live Version)",
         "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "100% Negro Cumbiero",
-        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "El humo de mi fasito",
-      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Ahi Ahi",
         "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 176796,
       "name": "Ahi Ahi",
       "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "100% Negro Cumbiero",
+        "url": "https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "El humo de mi fasito",
+      "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Sesi\u00f3n - 6",
         "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 150315,
       "name": "Sesi\u00f3n - 6",
       "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1243,30 +1243,30 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
-        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
+        "name": "Pistola Remix",
+        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
       "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
         {
           "name": "L-Gante",
           "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         },
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "El Mas Ladron",
+          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
+        },
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 229426,
-      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
-      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+      "duration_ms": 136806,
+      "name": "Pistola Remix",
+      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1295,30 +1295,30 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Pistola Remix",
-        "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
+        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
+        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
       "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
         {
           "name": "L-Gante",
           "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         },
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "El Mas Ladron",
-          "url": "https://open.spotify.com/artist/1M1s4ofh9rBEBWhyYsXAcn"
-        },
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 136806,
-      "name": "Pistola Remix",
-      "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
+      "duration_ms": 229426,
+      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
+      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Ojitos Chiquititos",
         "url": "https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK"
       },
@@ -1655,18 +1635,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
       },
       "artists": [
         {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "Los Maleantes",
         "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 164780,
       "name": "Sentado en la Esquina",
       "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "cuatro veinte",
+        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1731,22 +1747,6 @@
       "duration_ms": 130613,
       "name": "LUCK RA | DJ TAO Turreo Sessions #19",
       "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "cuatro veinte",
-        "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 125828,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 125828,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "Deprimida",
+        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 217627,
+      "name": "Deprimida",
+      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 176144,
       "name": "BM | DJ TAO Turreo Sessions #17",
       "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "Deprimida",
-        "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 217627,
-      "name": "Deprimida",
-      "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
     },
     {
       "added_at": "2025-11-20 12:09:53",

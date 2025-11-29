@@ -2854,6 +2854,24 @@
     {
       "album": {
         "name": "Irul",
+        "url": "https://open.spotify.com/album/4Hu5u1DQCwGTR6V2kQRwEL"
+      },
+      "artists": [
+        {
+          "name": "Aswin Dev",
+          "url": "https://open.spotify.com/artist/1Ha6CbeoZHr1KDakwnv2TH"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203043,
+      "name": "Irul",
+      "url": "https://open.spotify.com/track/7uN0ioDq2z87igYZNeuHJe"
+    },
+    {
+      "album": {
+        "name": "Irul",
         "url": "https://open.spotify.com/album/3bJ7vvpAJCp7vpKxw9uVNE"
       },
       "artists": [
@@ -6080,7 +6098,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 168048,
       "name": "NISHANI",
       "url": "https://open.spotify.com/track/7ku3rPm8SXmRRaI6x3GGBa"

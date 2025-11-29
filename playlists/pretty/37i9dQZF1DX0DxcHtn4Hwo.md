@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 
 > Soothing instrumental music for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,169 likes - 250 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,324 likes - 250 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,7 +237,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DxcHtn4Hwo.md) - [plain]
 | 227 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 |
 | 228 | [Moon Snooze](https://open.spotify.com/track/0ND1Ae54muo962QTvMvYQj) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Moon Snooze](https://open.spotify.com/album/0t7QYru1zbpqsK6kMn8AUv) | 2:04 |
 | 229 | [Lightly Row](https://open.spotify.com/track/1sacy8TpS19p2dvQAQ4Rwk) | [Otis Meadow](https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8) | [Lightly Row](https://open.spotify.com/album/3gxVaMfXE1w67zbrzueuzU) | 1:22 |
-| 230 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Scarlet Sutton](https://open.spotify.com/artist/3uBIlLw3btitlfBAH34Hif) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 |
+| 230 | [Humpty Dumpty](https://open.spotify.com/track/4MQtNTRVapyWkyKmL8Uy1M) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Humpty Dumpty](https://open.spotify.com/album/17Fo4tx58tyz7khFwtsk45) | 1:19 |
 | 231 | [Boattrip with Mum and Dad](https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Boattrip with Mum and Dad](https://open.spotify.com/album/573EWoRYMPR2NvIptRbfls) | 1:25 |
 | 232 | [Up, Up in the Sky](https://open.spotify.com/track/6t8aYdVINglxNI7paOtemX) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [Up, Up in the Sky](https://open.spotify.com/album/64tZQZOwB4wu518sXkTMfG) | 1:58 |
 | 233 | [My Little Cat](https://open.spotify.com/track/1Q6z5u3PE90BMkeqCuWfKK) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [My Little Cat](https://open.spotify.com/album/7DJ3vEW3DcZ1uPYgWQoYuC) | 2:05 |

@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Julia Vitória
 
-2,940 songs - 10 day 7 hr 59 min
+2,940 songs - 10 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2137,7 +2137,7 @@
 | [Quarto Homem da Fornalha \- Ao Vivo](https://open.spotify.com/track/5GL8X5opXMUWYlOIioMnUA) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Camp Fire \(Ao Vivo\)](https://open.spotify.com/album/1H0PlzxpVh1DsiytUhMdYL) | 6:21 | 2025-07-19 | 2025-08-01 |
 | [Quase Morri \(Ao Vivo\)](https://open.spotify.com/track/55ZfPgtLxrISiOHq8q05rQ) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Quase Morri \(Ao Vivo\)](https://open.spotify.com/album/2Dlj8slJdNdErP7c0l7m2C) | 3:21 | 2023-11-03 | 2023-11-25 |
 | [Que Amor É Esse?](https://open.spotify.com/track/7gLmp3ms2aJyfV7ni8dFq3) | [ELEVE \(vocal e banda\)](https://open.spotify.com/artist/4zXiD4sv8wMj7YJW1u11Jn), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z), [Coral Uniaene](https://open.spotify.com/artist/6EOoTe9HyT4A1SeRLB63pB) | [Que Amor É Esse?](https://open.spotify.com/album/4sKphRGuRsPUvMBsLKaK48) | 6:06 | 2024-10-25 | 2024-11-09 |
-| [Que Deus É Esse](https://open.spotify.com/track/0wCD22svCZmNFms4NTNGfg) | [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH) | [Que Deus É Esse](https://open.spotify.com/album/7ajemaHfTYaxWXikHxEDMw) | 5:50 | 2025-11-28 |  |
+| [Que Deus É Esse](https://open.spotify.com/track/0wCD22svCZmNFms4NTNGfg) | [Lukão Carvalho](https://open.spotify.com/artist/4J9VoD3dositGs74UscKfH) | [Que Deus É Esse](https://open.spotify.com/album/7ajemaHfTYaxWXikHxEDMw) | 3:41 | 2025-11-28 |  |
 | [Que Deus é esse? \- Acústico](https://open.spotify.com/track/2i8LSJzQpOhNIsxwXKdMLI) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Que Deus é esse?](https://open.spotify.com/album/1rMVakhSSrkhWO4UejMiUj) | 3:41 | 2023-09-01 | 2023-09-09 |
 | [Que Ele Cresça](https://open.spotify.com/track/1V7Pu1MJH75ytuDjHKG6G8) | [Aline Souza](https://open.spotify.com/artist/0BHCwfUMWR6sfefxO9H0rI) | [Que Ele Cresça](https://open.spotify.com/album/3BjRUZeRVL5svE7TPTnmiV) | 4:45 | 2024-08-09 | 2024-08-17 |
 | [Que Ele Cresça \- Ao Vivo](https://open.spotify.com/track/0QedXioFfupwNKfgPc1j0w) | [Netto](https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP) | [Que Ele Cresça \(Ao Vivo\)](https://open.spotify.com/album/6EDm9MgnHuwX4kx0G1KSsh) | 6:32 | 2023-10-20 | 2023-11-04 |

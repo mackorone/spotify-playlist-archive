@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Montesanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,387 likes - 80 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,472 likes - 80 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 79 | [Aleluya, Él Viene Ya](https://open.spotify.com/track/20qAKoemFPaqeDsUqwdxTJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 4:58 |
 | 80 | [El Gozo de Dios \- Live At The Belonging Co, Nashville, TN / 2024](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \(Live\)](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
 
-Snapshot ID: `AAAAABP84g3eyrOGrkSrW4rs8cwoPXPz`
+Snapshot ID: `AAAAAJm6zSw1NNBan/h4zXMPA0ZPlQiL`

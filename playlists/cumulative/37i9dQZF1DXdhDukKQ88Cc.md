@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-469 songs - 20 hr 3 min
+469 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Kirsebær](https://open.spotify.com/track/5dCLDvxvL4TPhcj43hsTBu) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Kirsebær](https://open.spotify.com/album/2GvNkzQVVOI3WxUyE1GPi5) | 2:13 | 2025-09-18 | 2025-10-10 |
 | [KITTY \(feat\. Tessa\)](https://open.spotify.com/track/0L8mArFgQMunWP6qip3U7k) | [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH), [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [KITTY \(feat\. Tessa\)](https://open.spotify.com/album/2o4OKDnYbLOXp9md43Nqnt) | 2:16 | 2024-06-06 | 2024-11-08 |
 | [KNÆ OG TÅ](https://open.spotify.com/track/10U0KmJ0ls2QkMHZVmwmT4) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [KNÆ OG TÅ](https://open.spotify.com/album/3y8VWPgl8elI04EXOjYI75) | 2:05 | 2025-04-24 | 2025-06-20 |
+| [KODE](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [TANGOHOLICS](https://open.spotify.com/album/3icXdOisWKJwLenvX97Mmr) | 2:16 | 2025-11-27 |  |
 | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/track/7ppzo53maz9xPCKFpen2yE) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kogende \(feat\. Noah Carter\)](https://open.spotify.com/album/4ywvzvzwa2PNNuMJku1V6r) | 2:10 | 2024-08-22 | 2024-11-01 |
 | [Koldere Brise \(feat\. Jamaika\)](https://open.spotify.com/track/6dLaovqiSmaHAFxYo7a9o5) | [Edo6k](https://open.spotify.com/artist/1OyJnaSDsPqfU4Y1T7AcNa), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Koldere Brise \(feat\. Jamaika\)](https://open.spotify.com/album/2pSUCb5NUi2VkWZpmQnjoE) | 2:21 | 2025-10-23 |  |
 | [KOM HERHEN](https://open.spotify.com/track/7ig9hPxbAJ6do2HRqwJhoA) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ) | [KOM HERHEN](https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS) | 2:24 | 2024-05-23 | 2025-01-10 |
@@ -423,7 +424,6 @@
 | [To Gange](https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 1:56 | 2024-08-07 | 2025-02-28 |
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
-| [Track 4](https://open.spotify.com/track/5dSxfRinJsjI2wnNFlNDMa) | [2Tiltango](https://open.spotify.com/artist/50Z7q8GxBq0FllwqnZeexw) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 |  |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |
 | [Trump](https://open.spotify.com/track/4SxPAIOIiVTXbacf83ZPne) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Trump](https://open.spotify.com/album/4FOR6AyYhKQZfYNBaMZzsx) | 2:02 | 2025-05-15 | 2025-06-06 |

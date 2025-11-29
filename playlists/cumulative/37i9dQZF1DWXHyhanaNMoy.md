@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: GIMS✨
 
-1,584 songs - 2 day 22 hr 24 min
+1,585 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Hadouken](https://open.spotify.com/track/5mnG4NDkKDLCCNbEBvXAbc) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Hadouken](https://open.spotify.com/album/09vIssiYehcRNJ1KgLWrMg) | 2:26 | 2024-08-29 | 2024-09-20 |
 | [HALLELUYAH](https://open.spotify.com/track/4EFMeGHju9olQxQG8XCoHO) | [Jayboogz](https://open.spotify.com/artist/5tTHX8CPiN6VMR8YEWecSS) | [HALLELUYAH](https://open.spotify.com/album/74vauA8dODXFAYaRGianKv) | 2:19 | 2023-06-15 | 2023-07-21 |
 | [HAMMA](https://open.spotify.com/track/63xYkQNeCb7EYyBFqoJVmK) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [HAMMA](https://open.spotify.com/album/3MC886v5swRTdejOseX1hP) | 2:43 | 2023-11-23 | 2024-02-09 |
+| [Handbag Moet Van Een Merk Zijn](https://open.spotify.com/track/1BYqFxfaZUG2bO8GZUKBHn) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Idolen](https://open.spotify.com/album/4Uu7gSBUsHiZIy6EajKiXR) | 2:20 | 2025-11-28 |  |
 | [Handle het](https://open.spotify.com/track/49bTk7fqDs7DclyCnuX0pm) | [Skiezo](https://open.spotify.com/artist/5VL1Dsii72aph9qChrkuJC), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [UIT DE GOOT](https://open.spotify.com/album/2HeL7F2piDUSEuXcFUcHSk) | 2:13 | 2023-06-14 | 2023-06-30 |
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-12 | 2022-10-14 |
 | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/track/4SG0taCeFyMRCk1B2oPJ9R) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/album/48xPTdsbfEwQcuJ3FIHNpn) | 2:38 | 2022-12-15 | 2023-04-28 |

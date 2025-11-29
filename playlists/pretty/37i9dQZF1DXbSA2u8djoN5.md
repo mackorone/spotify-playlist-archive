@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: OG Eastbull, Lino Golden
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,096 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,102 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 43 | [LUNA](https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx) | [4 226](https://open.spotify.com/artist/74itn5RZELPit7DjPJ1MxD), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [Ravisval](https://open.spotify.com/artist/05FwNBU8DxWSysdXH2c8vZ), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [BITTNER](https://open.spotify.com/artist/0vWnEKLANNWb7QEqdRg5K3) | [CO$ANO$TRA](https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8) | 3:01 |
 | 44 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 45 | [Adam](https://open.spotify.com/track/6deXLFe1JUF7x76CNbBRiJ) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Deliric X Silent Strike III](https://open.spotify.com/album/64iIHOllncN6PQ7pW1g7ch) | 4:17 |
-| 46 | [Demonio](https://open.spotify.com/track/1HRHeBfLF7gVLbwY1wgprT) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [POR LA PLATA Y POR AMOR](https://open.spotify.com/album/6lFbYVI9jdwkChJSbezr20) | 2:29 |
-| 47 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
-| 48 | [Twinnin](https://open.spotify.com/track/1GR0oEHQKR8GcWL3tE1PQ5) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Twinnin](https://open.spotify.com/album/4Xu6t9blgQ7OT5YNiYAk1W) | 2:32 |
+| 46 | [Lumea toată](https://open.spotify.com/track/1H5ymY6zVPvz43md1qJnql) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Lumea toată](https://open.spotify.com/album/0evtaj3GaU12XA1t9j4tCT) | 2:15 |
+| 47 | [Twinnin](https://open.spotify.com/track/1GR0oEHQKR8GcWL3tE1PQ5) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Twinnin](https://open.spotify.com/album/4Xu6t9blgQ7OT5YNiYAk1W) | 2:32 |
+| 48 | [Demonio](https://open.spotify.com/track/1HRHeBfLF7gVLbwY1wgprT) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [POR LA PLATA Y POR AMOR](https://open.spotify.com/album/6lFbYVI9jdwkChJSbezr20) | 2:29 |
 | 49 | [Hai Să Recunoaștem](https://open.spotify.com/track/7FuBCO9oT1czcAJEdU76Nv) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy) | [Hai Să Recunoaștem](https://open.spotify.com/album/1ehTMIKjhF1p4w5V3mfnlF) | 3:06 |
 | 50 | [S.O.S.](https://open.spotify.com/track/7y8gBW0r70bPZaF3h9fI7x) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [S.O.S.](https://open.spotify.com/album/2mayvivDMSVcl9n0FcqsAP) | 2:18 |
 
-Snapshot ID: `AAAAANe3r2ZbVKllU+gQcoVmeDegu29M`
+Snapshot ID: `AAAAALOms8zYOs5UHke7gmmgqKtsq2x2`

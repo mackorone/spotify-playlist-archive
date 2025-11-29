@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Peso Pluma y Tito Double P en portada .",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Dua Lipa en portada .",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 232458,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 151836,
       "name": "ANSIEDAD",
       "url": "https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX"
@@ -3178,8 +3178,8 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
-      "duration_ms": 164481,
+      "date_removed": null,
+      "duration_ms": 164482,
       "name": "CHAVALITAS",
       "url": "https://open.spotify.com/track/3qdeRGn9erK9sjs1kUtBys"
     },
@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-18",
+      "date_removed": null,
       "duration_ms": 180923,
       "name": "CHINGON 2",
       "url": "https://open.spotify.com/track/54gJmxMx9Ea5zRaAKNodqp"
@@ -3252,6 +3252,28 @@
       "duration_ms": 132051,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/07bruo5RoHasGqnun1Z31S"
+    },
+    {
+      "album": {
+        "name": "Cholo 2",
+        "url": "https://open.spotify.com/album/275lbusSPofF1Oqr0wOdhL"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183873,
+      "name": "Cholo 2",
+      "url": "https://open.spotify.com/track/6IMTgx19KOecnpXmbkgkyN"
     },
     {
       "album": {
@@ -5614,7 +5636,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 195306,
       "name": "El Final De Nuestra Historia",
       "url": "https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj"
@@ -13892,7 +13914,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 170042,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/29njYrJqsr7TjooshA1BB5"
@@ -17806,6 +17828,24 @@
       "duration_ms": 158965,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "album": {
+        "name": "Radical Optimism",
+        "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209487,
+      "name": "Training Season",
+      "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
     },
     {
       "album": {

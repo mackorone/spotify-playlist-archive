@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2485542,
+  "num_followers": 2485601,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,18 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Tingin",
-        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
       "artists": [
         {
-          "name": "Cup of Joe",
-          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
-        },
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
         }
       ],
-      "duration_ms": 222298,
-      "name": "Tingin",
-      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -99,18 +95,22 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+        "name": "Tingin",
+        "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
       },
       "artists": [
         {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        },
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
         }
       ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+      "duration_ms": 222298,
+      "name": "Tingin",
+      "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -147,38 +147,6 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Grandma",
-        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
-      },
-      "artists": [
-        {
-          "name": "Unique Salonga",
-          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
-        }
-      ],
-      "duration_ms": 280426,
-      "name": "Sino",
-      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
-    },
-    {
-      "added_at": "2025-11-27 03:01:03",
-      "album": {
-        "name": "Umaasa",
-        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
-      },
-      "artists": [
-        {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
-        }
-      ],
-      "duration_ms": 335624,
-      "name": "Umaasa",
-      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
-    },
-    {
-      "added_at": "2025-11-27 03:01:03",
-      "album": {
         "name": "Middle-Aged Juvenile Novelty Pop Rockers",
         "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
       },
@@ -195,6 +163,38 @@
       "duration_ms": 194946,
       "name": "Pangarap Lang Kita",
       "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
+    },
+    {
+      "added_at": "2025-11-27 03:01:03",
+      "album": {
+        "name": "TAKE ALL THE LOVE",
+        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 206181,
+      "name": "TAKE ALL THE LOVE",
+      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
+    },
+    {
+      "added_at": "2025-11-27 03:01:03",
+      "album": {
+        "name": "Grandma",
+        "url": "https://open.spotify.com/album/0oEXZAhZrEhLUtgKcMaxPg"
+      },
+      "artists": [
+        {
+          "name": "Unique Salonga",
+          "url": "https://open.spotify.com/artist/30mZI7Hw2MhoarTVYxfyZM"
+        }
+      ],
+      "duration_ms": 280426,
+      "name": "Sino",
+      "url": "https://open.spotify.com/track/2xCkiGqGMkAIg6fQTag51C"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -219,18 +219,18 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "TAKE ALL THE LOVE",
-        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+        "name": "Umaasa",
+        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
         }
       ],
-      "duration_ms": 206181,
-      "name": "TAKE ALL THE LOVE",
-      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
+      "duration_ms": 335624,
+      "name": "Umaasa",
+      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
+        "name": "Pagsamo",
+        "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 297001,
+      "name": "Pagsamo",
+      "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
+    },
+    {
+      "added_at": "2025-11-27 03:01:03",
+      "album": {
         "name": "RomCom",
         "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 237485,
       "name": "RomCom",
       "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
-    },
-    {
-      "added_at": "2025-11-27 03:01:03",
-      "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Pagsamo",
-        "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 297001,
-      "name": "Pagsamo",
-      "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -631,18 +631,18 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
       },
       "artists": [
         {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
         }
       ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -663,18 +663,18 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2025-11-27 03:01:03",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-11-27 03:01:03",
       "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
       "artists": [
         {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     }
   ],
   "unique_name": "OPM Favorites",

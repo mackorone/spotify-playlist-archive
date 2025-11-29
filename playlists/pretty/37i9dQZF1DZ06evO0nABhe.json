@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11558,
+  "num_followers": 11561,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAA5/tlW4gAUfib9OkfhpV4r",
+  "snapshot_id": "aSeUgAAAAACOoeupSW3unM6wvhKfbV4p",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 247386,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GALLOWS",
         "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 182266,
       "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
       "url": "https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 224480,
-      "name": "The Black Swan",
-      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
+      "duration_ms": 205903,
+      "name": "How Can We Go On",
+      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "How Can We Go On",
-      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -592,9 +576,25 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+      "duration_ms": 224480,
+      "name": "The Black Swan",
+      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "A Part of Me",
+      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 241663,
-      "name": "A Part of Me",
-      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
     },
     {
       "added_at": null,

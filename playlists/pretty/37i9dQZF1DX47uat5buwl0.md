@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,222 likes - 76 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,222 likes - 76 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 15 | [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 |
 | 16 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 |
 | 17 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 |
-| 18 | [Track 2](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 18 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 |
 | 19 | [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 |
 | 20 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
 | 21 | [Barman](https://open.spotify.com/track/57FswJp3cmjj0EXolasm8o) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Barman](https://open.spotify.com/album/609khigXToopoRE1yguAQ8) | 2:54 |

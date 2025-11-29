@@ -3173,6 +3173,24 @@
     },
     {
       "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "Luke Alexander",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+    },
+    {
+      "album": {
         "name": "Civic",
         "url": "https://open.spotify.com/album/5e1gtkXawki92Bg44QBCyP"
       },

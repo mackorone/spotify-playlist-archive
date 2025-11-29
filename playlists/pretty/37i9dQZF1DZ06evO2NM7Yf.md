@@ -10,11 +10,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Disco Dystopia](https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:16 |
 | 2 | [Cross My Heart I Hope U Die](https://open.spotify.com/track/3TSRH5IgWTHc8QZSAmo4bz) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/5AQdr3EeYdMHLTTXNEwfWO) | 2:48 |
-| 3 | [I've got a bad feeling...](https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:22 |
+| 3 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:41 |
 | 4 | [Winner](https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme) | 2:46 |
 | 5 | [Carlos, Get in the Car!](https://open.spotify.com/track/0qUKGLsD5NIv2KK5KjAA3L) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Carlos, Get in the Car!](https://open.spotify.com/album/2Wk3M83LeaiyacfDhiqKyY) | 2:55 |
 | 6 | [jesus christ in a mini skirt](https://open.spotify.com/track/24zNxMViyAoKKKqiJ6bAEp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:00 |
-| 7 | [Girls Just Wanna Be Famous](https://open.spotify.com/track/1EzqvVdQJh0QgimQMmCGoB) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:41 |
+| 7 | [I've got a bad feeling...](https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:22 |
 | 8 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 |
 | 9 | [breakup with a friend](https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7) | 2:42 |
 | 10 | [emotional affair](https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:01 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 30 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
 | 31 | [Because of Me](https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 3:02 |
 
-Snapshot ID: `aSZDAAAAAADt2UiTV7dv527R0mGuwMrb`
+Snapshot ID: `aSeUgAAAAAA+UOYrt6K3AJzb1umEnFW0`

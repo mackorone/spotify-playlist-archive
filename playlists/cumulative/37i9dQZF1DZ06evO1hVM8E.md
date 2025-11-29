@@ -4,7 +4,7 @@
 
 > This is La Original Banda El Limón de Salvador Lizárraga\. The essential tracks, all in one playlist.
 
-138 songs - 7 hr 8 min
+139 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [El 24 De Junio](https://open.spotify.com/track/1K8OcTGhqE2o4bjVWcSxP1) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [25 Corridos Explosivos](https://open.spotify.com/album/1wqdhLWLKOu9l5R54oQtpM) | 2:47 | 2024-02-18 | 2025-06-30 |
 | [El 24 de Junio](https://open.spotify.com/track/195mKbKWXbSbjQjxmGhuiL) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 2:50 | 2022-06-01 |  |
 | [El Abandonado](https://open.spotify.com/track/6DaZrI8CJueK9v607LjEWh) | [Julio Preciado](https://open.spotify.com/artist/332dFYM9sC7JH8UvRL1TiR), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Más Original Que Nunca](https://open.spotify.com/album/4eq9E7F1vZHHvnQwmfMjhJ) | 2:12 | 2022-09-14 |  |
+| [El Amor De Mi Vida](https://open.spotify.com/track/1hmB7TppstlMpwQLUsdbDB) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [60 Aniversario: El Legado Continúa](https://open.spotify.com/album/0dIogYaSGCLU5fiVJMin26) | 2:12 | 2025-11-29 |  |
 | [El Balido de Mi Ganado](https://open.spotify.com/track/5wEH0WguIFC6gbBcLzhHLE) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:08 | 2022-06-01 | 2022-10-13 |
 | [El Camaleón](https://open.spotify.com/track/4dmVjDzryo2ybwFZhUb1bS) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Camaleón](https://open.spotify.com/album/3Z6UXc4IMKuTBfJeBjWoM2) | 2:50 | 2022-11-25 | 2022-12-31 |
 | [El Cantador](https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:07 | 2023-02-26 |  |
@@ -91,7 +92,7 @@
 | [Me Enamoré](https://open.spotify.com/track/6VRj4KDvAAy2aGuPdJJeZA) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Momentos](https://open.spotify.com/album/0I23ARWW1udSmzFAqi7Ydb) | 2:57 | 2025-02-16 | 2025-07-01 |
 | [Me Esta Doliendo el Alma](https://open.spotify.com/track/45OPKIF7clW1z8cMGi31jW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Esta Doliendo el Alma](https://open.spotify.com/album/1K3TqiWrJRWN6QuB2uVg3I) | 3:19 | 2022-06-01 | 2025-10-13 |
 | [Me Lo Contaron Ayer](https://open.spotify.com/track/2rfwtM9C88E3WO282eoU9L) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Lo Contaron Ayer](https://open.spotify.com/album/7hT6QaevlgYP5QcmCJBRDT) | 2:34 | 2022-06-01 |  |
-| [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 | 2022-09-05 |  |
+| [Me Muero por Ella \(Bachata\) Feat\. La Original Banda el Limón de Salvador Lizárraga](https://open.spotify.com/track/3mwCGXffSsLqyWxNqPmYUd) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Merengue y Sentimiento](https://open.spotify.com/album/1sICskXqVMRys1f0AKqyBS) | 3:54 | 2022-09-05 | 2025-11-29 |
 | [Me Pongo en Tu Lugar](https://open.spotify.com/track/6tanSQtzUgIZ8L7us6vLvz) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/0O80BGAcwn10G27PDx8qLl) | 3:06 | 2022-06-01 | 2022-07-14 |
 | [Me Pongo En Tu Lugar](https://open.spotify.com/track/6xSumymUkikvGOrzXIUgVW) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [El Presente Es Lo Que Cuenta](https://open.spotify.com/album/50sCpwaW5adOp1SNtg6reZ) | 3:06 | 2022-12-10 | 2023-12-14 |
 | [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/track/1unucSoKiY6rNR3IM8oZHP) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Me Pongo en Tu Lugar \(En Vivo\)](https://open.spotify.com/album/2DTPGxkk5O9bSArdXM4lpI) | 3:12 | 2022-10-15 | 2022-12-11 |

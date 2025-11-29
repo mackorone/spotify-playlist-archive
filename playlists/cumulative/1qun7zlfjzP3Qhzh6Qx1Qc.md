@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-539 songs - 1 day 5 hr 55 min
+540 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 | 2025-08-22 |  |
 | [Turns Out That I Am God](https://open.spotify.com/track/6x592JUnn8F8fJuO4y1Zqk) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Turns Out That I Am God](https://open.spotify.com/album/3EJQOpa5mrtRQwernIVL36) | 3:05 | 2025-06-20 | 2025-08-16 |
 | [Two Roads](https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Two Roads](https://open.spotify.com/album/5N1HWPxpCPkYSxt5eBwsdi) | 3:34 | 2025-08-15 |  |
+| [Two Step To Forget](https://open.spotify.com/track/0zWNBnhYlkkvM5f8yyUnFJ) | [Johnny 99](https://open.spotify.com/artist/0PibitZYT4dnVnmt0Iyfrz) | [Mr\. Lonely](https://open.spotify.com/album/0B3l4trJQFjQg7ZkTcXm7U) | 2:57 | 2025-11-28 |  |
 | [Two Steppin’ With The Devil](https://open.spotify.com/track/2aNKFUZL5uPoHwNC6MySi3) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Two Steppin’ With The Devil](https://open.spotify.com/album/6xVapK6G4A84V1nW3BCa0X) | 3:08 | 2025-03-07 | 2025-05-03 |
 | [Two Things](https://open.spotify.com/track/13zH3KnJYNaPbF8R0tfHPW) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Two Things](https://open.spotify.com/album/2zsmwdFND80TtWAYkrN6SA) | 3:35 | 2024-09-20 | 2024-10-26 |
 | [Two Trains \(feat\. Marcus King\)](https://open.spotify.com/track/23cBxlsY43hiuiLwXn5Xkn) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Two Trains \(feat\. Marcus King\)](https://open.spotify.com/album/41GVN5tLVfbmMjqa7JhC94) | 3:35 | 2025-10-14 |  |

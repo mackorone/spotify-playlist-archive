@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > THE David Byrne shares his biking soundtrack of familiar and obscure tunes for pedaling through the city\. Check out <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,451 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,471 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 49 | [Hold On](https://open.spotify.com/track/3fUqWnDqW95Mz2V73Pwd8K) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls \(Deluxe Edition\)](https://open.spotify.com/album/55ye5wDWdOgEQ1FuA09I3T) | 3:46 |
 | 50 | [Hammer](https://open.spotify.com/track/5XpZFOSIvQlHLZV39uHNkW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Hammer](https://open.spotify.com/album/6yPr0ELbEgCD9cmS5CLBGU) | 3:13 |
 
-Snapshot ID: `AAAAAFAKU21pJFqKYJU4bIoRkYpx2AUP`
+Snapshot ID: `AAAAAL9v/dvSNk1VJ3+7YRmMmg9QMgoj`

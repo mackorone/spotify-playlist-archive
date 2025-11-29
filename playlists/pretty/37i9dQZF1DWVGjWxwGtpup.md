@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Tito "El Bambino"
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,068 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,083 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 12 | [Viernes](https://open.spotify.com/track/5ydIprMt8QT0XSdapQ4BKt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [](https://open.spotify.com/album/null) | 2:38 |
 | 13 | [La Plena \- W Sound 05](https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt) | 2:30 |
 | 14 | [Cuentale](https://open.spotify.com/track/2s5DLw9R0OjZLMDUlgbHQ6) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Cuentale](https://open.spotify.com/album/3zDmejQLElhbjKeAnxx73W) | 2:39 |
-| 15 | [Bebezinho](https://open.spotify.com/track/4jJWFFZieYnbNWr7j6KUMz) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [](https://open.spotify.com/album/null) | 3:59 |
+| 15 | [Bebezinho](https://open.spotify.com/track/4jJWFFZieYnbNWr7j6KUMz) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Erick Brian](https://open.spotify.com/artist/4tSDK2ySq41vxwERzxVRZH) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:59 |
 | 16 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
 | 17 | [Scarface](https://open.spotify.com/track/1yjo7N3FQCGyNeTQCPJjMu) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Scarface](https://open.spotify.com/album/5u20EM93IFNbGp2IGDJdAo) | 1:58 |
 | 18 | [Tamo Bien](https://open.spotify.com/track/72RjC359lcwhf1cON9ppls) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w) | [Tamo Bien](https://open.spotify.com/album/2K3vXTZjcuWR8H8LgvJ8Yk) | 3:06 |

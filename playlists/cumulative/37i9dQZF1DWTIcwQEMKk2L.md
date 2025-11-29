@@ -4,13 +4,13 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-210 songs - 10 hr 1 min
+211 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Pieces, Op\. 76: No\. 10 Elegiaco](https://open.spotify.com/track/0Ebt6OdB0LXBzcE1AxpFuT) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Håvard Gimse](https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I) | [Sibelius: Piano Music, Vol\. 4](https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2) | 2:05 | 2024-04-29 | 2025-02-28 |
 | [2 Irish Pieces: No\. 1\. From the Countryside](https://open.spotify.com/track/3h1U34AiOBjsFnr6FwxXkj) | [William Alwyn](https://open.spotify.com/artist/33yO64zQ3GSPwEC6ok4BDP), [Ashley Wass](https://open.spotify.com/artist/3uAZQWPMvD19hIhFI6TWgN) | [Alwyn, W.: Piano Music, Vol\. 2 \- 12 Preludes / Contes Barbares / Movements](https://open.spotify.com/album/5PzqHd8Pql5B5cWMshZlVs) | 2:18 | 2024-09-09 | 2024-10-05 |
-| [5th Avenue](https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [5th Avenue](https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl) | 2:26 | 2025-02-03 |  |
+| [5th Avenue](https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [5th Avenue](https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl) | 2:26 | 2025-02-03 | 2025-11-29 |
 | [A Game of Badminton \(feat\. Jack Liebeck\)](https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg), [Jack Liebeck](https://open.spotify.com/artist/4PwrerouUXvowe3ynAOWSP), [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Jane Eyre \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX) | 0:58 | 2023-11-20 |  |
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2023-11-20 |  |
 | [A New Era](https://open.spotify.com/track/7JkKc9FMZnuv1ZgZiMfkKq) | [Zoe Chambers](https://open.spotify.com/artist/08QwhHz0qhZmyySexOOLZd) | [Healing Waves](https://open.spotify.com/album/1qV9uz5AkWRaTe7F5j42vm) | 1:58 | 2023-11-20 | 2024-01-09 |
@@ -140,6 +140,7 @@
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2025-02-03 |  |
 | [Over The Rainbow](https://open.spotify.com/track/2Wvwr16E4O51JeNSs5K5Dp) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:58 | 2023-11-20 |  |
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2023-11-20 | 2025-05-17 |
+| [Pachelbel Canon In D \- Solo Piano \- Cannon, Kanon](https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh) | [Johann Pachelbel](https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3) | [10 Ways Of Canon In D By Johann Pachelbel](https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh) | 3:20 | 2025-11-24 |  |
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2024-12-23 | 2025-03-23 |
 | [Patience](https://open.spotify.com/track/013eYaVKpTVsX41dEPSFt8) | [Augusta Winslow](https://open.spotify.com/artist/6Wn5qwb2t9rkoewfpdAp8z) | [Patience](https://open.spotify.com/album/0v94JSSqZJG235UT7MX2ZB) | 3:03 | 2024-02-12 | 2024-11-30 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2023-11-20 | 2025-08-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: YONAKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,138 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,094 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,26 +18,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 8 | [I SEE IT](https://open.spotify.com/track/1pR7qxJIY5rGubSBQnDQdO) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [FEVEREATEN](https://open.spotify.com/album/0UvNdmhApnZZ4WCozEv6CP) | 3:51 |
 | 9 | [To Space](https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [EP \#2](https://open.spotify.com/album/4LZ7eLsW6zSsLjBFxhbBg8) | 3:53 |
 | 10 | [Hole In The Ground](https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Hole In The Ground](https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK) | 3:44 |
-| 11 | [Track 1](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 |
 | 12 | [Asking For A Friend](https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Asking For A Friend](https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn) | 4:29 |
 | 13 | [Guns In Their Hands](https://open.spotify.com/track/5YCUPkEbbuZjW8BlXc6lj4) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Guns In Their Hands](https://open.spotify.com/album/46h4WQ0skMhdMBRgGxhYaW) | 3:40 |
 | 14 | [Storm Warnings](https://open.spotify.com/track/1ChB4a5EAEBYR976Rvpdan) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Storm Warnings](https://open.spotify.com/album/2zR9Yz7UAkFyRdyvxebcf0) | 3:45 |
 | 15 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
 | 16 | [Barbed Wire](https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Barbed Wire](https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp) | 3:04 |
 | 17 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 |
-| 18 | [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [](https://open.spotify.com/album/null) | 3:16 |
+| 18 | [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 |
 | 19 | [Cherry](https://open.spotify.com/track/6arjfkXcKsLhvEtb9gKLc1) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cherry](https://open.spotify.com/album/0Lav96JqaZmqMCbryXUPgE) | 2:08 |
 | 20 | [Haze](https://open.spotify.com/track/7pmOVNGWu1lRBWVpYTcKH1) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Ellie](https://open.spotify.com/artist/6HUjt5rB3ZotTFN4BA2a9S) | [Tremor](https://open.spotify.com/album/2Mf3c9BbAcMOybdL2FTkkJ) | 3:56 |
 | 21 | [Pull Like a Dog](https://open.spotify.com/track/70zu9D0jl2JivONuazwrcM) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Pull Like a Dog](https://open.spotify.com/album/5dkb8Ecc4DNu2t7grbU6di) | 3:09 |
 | 22 | [Left For Good](https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Left For Good](https://open.spotify.com/album/3i3GvVgRCQzAYbMeWUSzMq) | 3:53 |
 | 23 | [Second Best](https://open.spotify.com/track/3maVS3WFsYND7s97LJQnzF) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Second Best](https://open.spotify.com/album/6wuwiiAyhdR1B8fuW7Entm) | 3:31 |
-| 24 | [Track 3](https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [The Wake](https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Yips \(A Case Of\)](https://open.spotify.com/album/2x8cBNEaveu3x7jA9resgN) | 5:22 |
 | 25 | [Stay In Your Lane](https://open.spotify.com/track/57PrllRlE4s9GIKnEzUcYv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/5BtTOMAFKV3byS0EidtQnc) | 3:14 |
 | 26 | [Wild Woman](https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [One More Time](https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS) | 3:35 |
 | 27 | [PLAINTIVE NATIVE](https://open.spotify.com/track/752jJf80yhDnt7K7dTfTnO) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [PLAINTIVE NATIVE](https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL) | 3:18 |
 | 28 | [Juice](https://open.spotify.com/track/6VxBEwjCqZuQUxqhSedNFa) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Night Light](https://open.spotify.com/album/28XX98fScUpE4dZN0hIvAR) | 4:29 |
 | 29 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
-| 30 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [](https://open.spotify.com/album/null) | 2:56 |
+| 30 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 |
 | 31 | [Euphoria](https://open.spotify.com/track/4cImz6ALStITqRds60YUmF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Euphoria](https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5) | 3:25 |
 | 32 | [no cell phones in rehab](https://open.spotify.com/track/5pxTM2hj4HFV8q8YduAAR9) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [no cell phones in rehab](https://open.spotify.com/album/1beGhAPo6Me2t9BweRd49e) | 2:35 |
 | 33 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 46 | [Violence \(feat\. As December Falls\)](https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ), [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Violence \(feat\. As December Falls\)](https://open.spotify.com/album/35NJW2tUWom47p99Zzq6q1) | 2:32 |
 | 47 | [Burnout](https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK) | [Girl Tones](https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6) | [Burnout](https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd) | 2:28 |
 | 48 | [On and On](https://open.spotify.com/track/34PAOBsQ9IZKGSPIkHanpY) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [On and On](https://open.spotify.com/album/0neNPjNpMwz6EW1RULoeg1) | 3:13 |
-| 49 | [Track 1](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 49 | [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 |
 | 50 | [To the Brim](https://open.spotify.com/track/6YjU68fNU3Qnj7f9yhwzIE) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [To The Brim](https://open.spotify.com/album/5fgk0OxdLy5xfdCM3etFln) | 3:19 |
 | 51 | [PIG](https://open.spotify.com/track/33qLbrztG3T7A4YLqO88BM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIRDBRAIN / PIG](https://open.spotify.com/album/7hWvLBn1TarX302yU3QmUq) | 1:58 |
 | 52 | [Swamped](https://open.spotify.com/track/58TNAizQRjprUNUE0QWB87) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Sky is Falling](https://open.spotify.com/album/2Ji3HEhRwkQiSNgDki2mY2) | 3:17 |

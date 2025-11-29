@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "La sc\u00e8ne rap francophone sans fronti\u00e8res. Photo: Dinos",
+  "description": "La sc\u00e8ne rap francophone sans fronti\u00e8res. Photo: Genezio",
   "name": "Rap francophone",
   "tracks": [
+    {
+      "album": {
+        "name": "+971",
+        "url": "https://open.spotify.com/album/5lforRYyhZm0hYg5Uyl132"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201923,
+      "name": "+971",
+      "url": "https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1"
+    },
     {
       "album": {
         "name": "JVLIVS III : Ad Finem",
@@ -250,7 +268,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 244693,
       "name": "3arbi Connection",
       "url": "https://open.spotify.com/track/7poaQxy8eaknAZl4in4udV"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 198974,
       "name": "5 bleus",
       "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
@@ -414,10 +432,32 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 160031,
       "name": "Alexander",
       "url": "https://open.spotify.com/track/5IcKyyMQ4Zu4DsFc6wQHob"
+    },
+    {
+      "album": {
+        "name": "Alicia Ariana",
+        "url": "https://open.spotify.com/album/4JXSeCWXdrdYLTGqfIs1dx"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "FRANKLIN",
+          "url": "https://open.spotify.com/artist/20VhaQlc16VUPbf1xTiTG5"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128520,
+      "name": "Alicia Ariana",
+      "url": "https://open.spotify.com/track/1xIyEVFDMdgetvA9fYxjZL"
     },
     {
       "album": {
@@ -476,6 +516,28 @@
       "duration_ms": 190773,
       "name": "amsterdam",
       "url": "https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU"
+    },
+    {
+      "album": {
+        "name": "archive 2001",
+        "url": "https://open.spotify.com/album/7ItWaVj4eLwNaHAMGVVC0G"
+      },
+      "artists": [
+        {
+          "name": "Nawfal",
+          "url": "https://open.spotify.com/artist/0YTJRguouZtIVP0xFGLfkr"
+        },
+        {
+          "name": "Kheir",
+          "url": "https://open.spotify.com/artist/7kaof8rwuCnCp2pWlk9yzh"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117988,
+      "name": "archive 2001",
+      "url": "https://open.spotify.com/track/0jhy3QaIzpDmY0Bq5MPFIa"
     },
     {
       "album": {
@@ -1318,6 +1380,28 @@
       "duration_ms": 170711,
       "name": "Cantona",
       "url": "https://open.spotify.com/track/2JVPQ5VbURgorwJH0LPAeS"
+    },
+    {
+      "album": {
+        "name": "CO2",
+        "url": "https://open.spotify.com/album/40ZUHqyTGLHBiT8Do4oEEx"
+      },
+      "artists": [
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        },
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "Carnavoile",
+      "url": "https://open.spotify.com/track/2XvidBX68bjkIS5nuEuxqb"
     },
     {
       "album": {
@@ -2292,7 +2376,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 238160,
       "name": "DRAGONS",
       "url": "https://open.spotify.com/track/6bhObRBG732wGeTWWR1781"
@@ -3161,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/5pbFYdzBIp68TjQ4Ust45D"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127949,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV"
+    },
+    {
+      "album": {
         "name": "H\u00e9las",
         "url": "https://open.spotify.com/album/3FczKjTL5VelPAfdgzFyPk"
       },
@@ -3216,6 +3318,28 @@
       "duration_ms": 152571,
       "name": "I'M SORRY",
       "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
+    },
+    {
+      "album": {
+        "name": "IA",
+        "url": "https://open.spotify.com/album/425cExyVclgT7wF8Y7K5Fz"
+      },
+      "artists": [
+        {
+          "name": "HD La R",
+          "url": "https://open.spotify.com/artist/3EguGZpwO69eFcoNj0vqW4"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169180,
+      "name": "IA",
+      "url": "https://open.spotify.com/track/3m0mIBEsm8irnsn8q02OGe"
     },
     {
       "album": {
@@ -3402,7 +3526,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 201045,
       "name": "INSPIR\u00c9 DE FAITS R\u00c9ELS #8",
       "url": "https://open.spotify.com/track/0wZhS3m3YeLNAO8TXi3vKU"
@@ -3438,7 +3562,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 211399,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2bniQFXQRtmHcEx35GJTsN"
@@ -3518,7 +3642,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 132400,
       "name": "JE.D\u00c9TESTE.LA.FRANCE.pt1 (il y aura pas de pt2)",
       "url": "https://open.spotify.com/track/7lc4ue2LiSfYRaABxq4YkT"
@@ -4632,7 +4756,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 144000,
       "name": "MODE CRYPT\u00c9",
       "url": "https://open.spotify.com/track/0OOFzZxPzKeFIHvlJlmKPW"
@@ -5111,6 +5235,28 @@
     },
     {
       "album": {
+        "name": "LES DENTS DU BONHEUR",
+        "url": "https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "OG",
+      "url": "https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI"
+    },
+    {
+      "album": {
         "name": "Oh oui",
         "url": "https://open.spotify.com/album/1g6vGZcHw7fslO5kII265M"
       },
@@ -5130,6 +5276,28 @@
       "duration_ms": 199698,
       "name": "Oh oui",
       "url": "https://open.spotify.com/track/4TRSWjUjyW0EQYTT187igH"
+    },
+    {
+      "album": {
+        "name": "Omerta 19",
+        "url": "https://open.spotify.com/album/7AsadRpwB5tzCxWWv6uqik"
+      },
+      "artists": [
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251212,
+      "name": "Omerta 19",
+      "url": "https://open.spotify.com/track/3BRQQ4IGg4kZPY4EOBwmQj"
     },
     {
       "album": {
@@ -6711,6 +6879,24 @@
     },
     {
       "album": {
+        "name": "Survivant",
+        "url": "https://open.spotify.com/album/1bhXd9glieV8NmK4Fu4UPB"
+      },
+      "artists": [
+        {
+          "name": "Meeko",
+          "url": "https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Survivant",
+      "url": "https://open.spotify.com/track/58VZurLTMH9szEdaNndfj9"
+    },
+    {
+      "album": {
         "name": "T'aimerais (feat. Ziak)",
         "url": "https://open.spotify.com/album/39BFIcWfCAGva6bjZ7MoUX"
       },
@@ -6946,6 +7132,28 @@
       "duration_ms": 175906,
       "name": "TOKA",
       "url": "https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl"
+    },
+    {
+      "album": {
+        "name": "Ton pr\u00e9nom",
+        "url": "https://open.spotify.com/album/5g3Y97rI09TPtItwjoIdg5"
+      },
+      "artists": [
+        {
+          "name": "Leys",
+          "url": "https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG"
+        },
+        {
+          "name": "Clara Charlotte",
+          "url": "https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ton pr\u00e9nom",
+      "url": "https://open.spotify.com/track/29VVqJVWZGwRIj6G8gSPGT"
     },
     {
       "album": {

@@ -3226,7 +3226,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -4150,7 +4150,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 197466,
       "name": "BGHAWNI",
       "url": "https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9"
@@ -12315,6 +12315,24 @@
     },
     {
       "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151487,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -15722,7 +15740,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 182535,
       "name": "Jedi ou Jedek",
       "url": "https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE"
@@ -28992,7 +29010,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 204350,
       "name": "San Siro",
       "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
@@ -36438,7 +36456,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 200599,
       "name": "Zahri",
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"

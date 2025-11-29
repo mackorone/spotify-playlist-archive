@@ -4,7 +4,7 @@
 
 > Your music taste matches the character on the playlist cover\. Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-303 songs - 18 hr 1 min
+304 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Portal Drill](https://open.spotify.com/track/4P3FJMT2ZaF9nE36RJg514) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 1:47 | 2019-07-10 |  |
 | [Portsmouth](https://open.spotify.com/track/2hSTrsKXvbZoYbH3GJe7rk) | [John Graham Donaldson](https://open.spotify.com/artist/5UX1cKLNbRzY81pyK8WBfZ) | [Folk Music of England](https://open.spotify.com/album/6xjz9nitclqA0XjQpUyDeH) | 1:12 | 2019-07-10 |  |
 | [Presumptuous](https://open.spotify.com/track/1eBqRGp5vfJ42HxwUJFThD) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:33 | 2017-12-20 |  |
-| [Pretty In Pink](https://open.spotify.com/track/6dMTErrChMf9jUmANoeBSd) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Pretty In Pink](https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY) | 4:39 | 2025-11-27 |  |
+| [Pretty In Pink](https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Talk Talk Talk](https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh) | 3:58 | 2025-11-28 |  |
+| [Pretty In Pink](https://open.spotify.com/track/6dMTErrChMf9jUmANoeBSd) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Pretty In Pink](https://open.spotify.com/album/0Q0SN4tLsKMec6pAD4EzGY) | 4:39 | 2025-11-27 | 2025-11-29 |
 | [Prophecies](https://open.spotify.com/track/1QGQ7wB1KZfpbbWNFCaVGm) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [Koyaanisqatsi](https://open.spotify.com/album/0I5Te5Oi0Cbes6nwEe4uFV) | 8:11 | 2022-05-27 |  |
 | [Psycho Killer](https://open.spotify.com/track/5uG1n1fvJVJEJuHwHgW1yQ) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 4:18 | 2022-05-27 |  |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-05-27 | 2024-04-19 |

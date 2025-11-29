@@ -4,7 +4,7 @@
 
 > The best of electronic trap 🏆 with RL Grime & Deadcrow
 
-830 songs - 1 day 19 hr 30 min
+831 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [hardcore](https://open.spotify.com/track/3QiUwncYrc6BfP5VSXH6e2) | [asáu](https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0), [Golden Child](https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR) | [definitely not trap](https://open.spotify.com/album/635AhI1h8sPSRnhlaak6BG) | 2:25 | 2024-05-31 | 2024-11-09 |
 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 | 2022-02-01 | 2023-11-18 |
 | [Hate Me](https://open.spotify.com/track/1j0RG6ucg2KjQAp7PAHm3a) | [Aweminus](https://open.spotify.com/artist/3sS9RKjrDJMl7zpG3cWHk7) | [Hate Me / 1208](https://open.spotify.com/album/4AWZKhaWg4Tmj9aggSsexy) | 4:08 | 2024-05-10 | 2024-06-08 |
+| [HAVEN](https://open.spotify.com/track/7fKEuqdii6qrd5n95sC76y) | [FrostTop](https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4) | [HAVEN](https://open.spotify.com/album/5TQNCmdBWKLD0PBr9y1eyr) | 2:38 | 2025-11-28 |  |
 | [HAWT](https://open.spotify.com/track/5KbDsa9FwfOLlU0lEK4a54) | [Hydraulix](https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W), [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [HAWT](https://open.spotify.com/album/6FhSIhgctT9qOQ7akFXMMV) | 3:49 | 2024-05-24 | 2025-04-19 |
 | [HD \(feat\. JAWNZA\)](https://open.spotify.com/track/4AELwTzxvrUtZ81UaSxJVj) | [Lab Group](https://open.spotify.com/artist/4VSPQ1ufWQpHYbIIbRguSV), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0), [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [HD \(feat\. JAWNZA\)](https://open.spotify.com/album/0MYuJaZESPI01y6dqK9P1G) | 2:52 | 2024-02-23 | 2024-04-19 |
 | [Headcold](https://open.spotify.com/track/28SxiFOFTdwfmr5q1WK5vv) | [Vincebyvince](https://open.spotify.com/artist/23YVksFFCFvDTWscq2KVkX), [Palpa](https://open.spotify.com/artist/3LEyOY5ERmIn8nmHF99F9z) | [Headcold](https://open.spotify.com/album/1XFQ4AZeBKmxVAyo1aTIlQ) | 2:08 | 2023-12-15 | 2024-01-06 |
@@ -824,7 +825,7 @@
 | [Wish I Could Forget \- William Black Remix](https://open.spotify.com/track/4cDt111m1lza60RxflHUoA) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Wish I Could Forget \(William Black Remix\)](https://open.spotify.com/album/2epDNme9aR6mueN6NQ9Mhx) | 3:06 | 2025-01-31 |  |
 | [WITH U](https://open.spotify.com/track/0c0ttqxjpexVGFS4koYGsD) | [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [MAYV](https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt) | [WITH U](https://open.spotify.com/album/4HIcthK9m2gP1sZNPY7sqV) | 3:05 | 2025-07-11 | 2025-08-16 |
 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 | 2022-02-01 | 2024-07-13 |
-| [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 | 2025-03-14 |  |
+| [WONKY](https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [WONKY](https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae) | 2:52 | 2025-03-14 | 2025-11-29 |
 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 | 2025-08-15 |  |
 | [World on Fire](https://open.spotify.com/track/47pIAb5BLYGWDEr9YjShED) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [World on Fire](https://open.spotify.com/album/4HgOamSb7rU4gf95jLtJgs) | 3:26 | 2024-11-23 | 2025-05-17 |
 | [WOW!](https://open.spotify.com/track/1wHzum4Guz5XfaGXd2t9QY) | [Kollaba](https://open.spotify.com/artist/6Ls6gOeudldLCGkNCgUMTG), [Reach](https://open.spotify.com/artist/4lYh6s3KAhgk3mLQa1F5C8) | [WOW!](https://open.spotify.com/album/5yJiBgxkPAdkxrNCKIYOfR) | 3:20 | 2024-07-12 | 2024-09-07 |

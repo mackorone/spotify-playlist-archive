@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 3Li¥en
 
-1,185 songs - 2 day 6 hr 52 min
+1,186 songs - 2 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Come & Go](https://open.spotify.com/track/6FFiHVRezV7ax7bR2MUfT9) | [Awkisonic](https://open.spotify.com/artist/0pp7Inzv8t7mpInEHqrMNn) | [15](https://open.spotify.com/album/3mcVLHC7MTAEf1jnMOizhN) | 2:11 | 2025-07-01 | 2025-09-24 |
 | [come around](https://open.spotify.com/track/26Ea1ELPf9Lhe7qZnwfilu) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [come around](https://open.spotify.com/album/3jBzXZ0H7dgK9NA7GCgWUe) | 3:45 | 2024-03-21 | 2024-04-17 |
 | [Come Back](https://open.spotify.com/track/2ZIGZwbJGcjFrqimcqMHrf) | [HAKU](https://open.spotify.com/artist/5e7WY3osdEKUSJy2LozHqC) | [UNCHAIN](https://open.spotify.com/album/7hTm6fj4DpPqB0LgLavfsw) | 2:13 | 2024-02-20 | 2024-03-27 |
+| [Come My Way](https://open.spotify.com/track/3xYWVHwyvTH3pFZC0BPwTI) | [BFN TOKYOTRILL](https://open.spotify.com/artist/1VuOxzoNAxcI7c2QROGWM2) | [Come My Way](https://open.spotify.com/album/4i7M2uuj0sMVOVPCVhWWbp) | 2:36 | 2025-11-27 |  |
 | [Coming back](https://open.spotify.com/track/63nrvnHKOAcLt5nVMu91z8) | [Qlama](https://open.spotify.com/artist/0tGV852uf2VKpgELlBJGP6) | [Walkin'](https://open.spotify.com/album/1rx5eKhkeXY91e53lEELwQ) | 3:21 | 2025-08-26 | 2025-11-19 |
 | [Conclusion](https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q) | [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf), [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE) | [Conclusion](https://open.spotify.com/album/7oEhBHRIGkwc4QOBFB1iBP) | 3:14 | 2024-05-28 | 2024-10-27 |
 | [Crew up](https://open.spotify.com/track/4r96S9ST7u1SfNqjvmuTJ6) | [Authority](https://open.spotify.com/artist/6fY9vo5VWazGw5fZesSB71), [ShowyRENZO](https://open.spotify.com/artist/1DXib0yTufkuTm2KkQIwvi) | [Crew up](https://open.spotify.com/album/0QuDieUt9menSlhCQvf0M6) | 2:10 | 2024-02-20 | 2024-04-03 |

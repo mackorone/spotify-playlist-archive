@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14523,
+  "num_followers": 14525,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAADE0ftUmpM7orPqHFV4kXQ",
+  "snapshot_id": "aSeUgAAAAADsUTWj//tw3pHiPteF6bKz",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Violin Encores: Perlman",
+        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Paganini: Sonata for Violin and Guitar in E Minor, Op. 3 No. 6 (Version for Violin and Piano)",
+      "url": "https://open.spotify.com/track/0OGRw2Ikkgszpe11t16mlC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaldi: Le quattro stagioni",
         "url": "https://open.spotify.com/album/6C6a2lqcgoIHMtTpTAOT5z"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 685346,
       "name": "Romance in F Minor, Op. 11, B. 39",
       "url": "https://open.spotify.com/track/2vHbfPTOuUObevOTkYpwGv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Violin Encores: Perlman",
-        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Paganini: Sonata for Violin and Guitar in E Minor, Op. 3 No. 6 (Version for Violin and Piano)",
-      "url": "https://open.spotify.com/track/0OGRw2Ikkgszpe11t16mlC"
     },
     {
       "added_at": null,
@@ -1187,30 +1187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruch: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/6G9fhBrDqHLlegkym0rBEf"
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf"
       },
       "artists": [
         {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Bernard Haitink",
-          "url": "https://open.spotify.com/artist/13F9LNBUeRx3FYLr96Bge1"
-        },
-        {
-          "name": "Royal Concertgebouw Orchestra",
-          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
         }
       ],
-      "duration_ms": 501293,
-      "name": "Violin Concerto No. 1 in G Minor, Op. 26: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1DyXa68AwuLvbfcte5BKQx"
+      "duration_ms": 100333,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 1 in E Major",
+      "url": "https://open.spotify.com/track/7pEIKAaZYLyYc81IENw8IQ"
     },
     {
       "added_at": null,

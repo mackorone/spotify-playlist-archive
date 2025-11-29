@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 121525,
+  "num_followers": 121553,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAACaE+R4RkAsyitfnkdA4uh",
+  "snapshot_id": "aSeUgAAAAABup/Tun2Lhgbu1GNnU4eWC",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Vez",
-        "url": "https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 258853,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonando desde el Auditorio Nacional",
         "url": "https://open.spotify.com/album/3KIOJqMlw5Mon5X6NfVLr8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 226466,
       "name": "Ara\u00f1a Ska - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/4SKvkWO5CPTTkkzOt4P3SP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/6Gy4e2sYwQ3VKEW4AkUtXd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 258853,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna (Sonando Desde El Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
       "artists": [
         {
@@ -652,17 +652,13 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         },
         {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        },
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6"
         }
       ],
-      "duration_ms": 321493,
-      "name": "Luna - Sonando Desde El Auditorio Nacional",
-      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
+      "duration_ms": 224000,
+      "name": "El Amargado",
+      "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
     },
     {
       "added_at": null,
@@ -699,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+        "name": "Luna (Sonando Desde El Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/554mV2o4xXe18Z8WPvNQnW"
       },
       "artists": [
         {
@@ -708,13 +704,17 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         },
         {
-          "name": "Chico Trujillo",
-          "url": "https://open.spotify.com/artist/3QSTHfiY4StrlFtEoCvQK6"
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        },
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         }
       ],
-      "duration_ms": 224000,
-      "name": "El Amargado",
-      "url": "https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH"
+      "duration_ms": 321493,
+      "name": "Luna - Sonando Desde El Auditorio Nacional",
+      "url": "https://open.spotify.com/track/301p7RYR4Bg9a16m80XWnY"
     },
     {
       "added_at": null,

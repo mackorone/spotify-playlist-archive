@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > as gêmeas com uma enxurrada de refs e quem tem dó é cavaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,903 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,142 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [Risquinho na Régua](https://open.spotify.com/track/5wFRckREY9EkJiz2RM3YHh) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [INDIATHEBO$$](https://open.spotify.com/artist/1Kr5D5CsWUlhtHnNCRfLDO), [wBoy](https://open.spotify.com/artist/6IGiSwB4WOac9EkGQMTNRI) | [Risquinho na Régua](https://open.spotify.com/album/6i4JWGJUPgr7q3QmRnrIGC) | 2:26 |
 | 50 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 
-Snapshot ID: `AAAAAA6pt0U1IsJEuk8XueIbMT/0Wo/u`
+Snapshot ID: `AAAAAL0RdCHFK4W58q7Zxkf3VzdsWygv`

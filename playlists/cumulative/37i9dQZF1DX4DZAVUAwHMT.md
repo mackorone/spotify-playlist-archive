@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: YONAKA
 
-1,212 songs - 2 day 19 hr 29 min
+1,212 songs - 2 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [blindfolded](https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [blindfolded](https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i) | 3:19 | 2023-01-13 | 2023-03-03 |
 | [blindspot](https://open.spotify.com/track/0SqZvFpQbApABMTzwQ4rXh) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:27 | 2024-03-08 | 2024-03-09 |
 | [BLOOD AND SUGAR](https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [BLOOD AND SUGAR](https://open.spotify.com/album/030TjWifiM82d85tllj2QY) | 3:06 | 2023-05-18 | 2023-07-28 |
-| [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [](https://open.spotify.com/album/null) | 3:16 | 2025-11-28 |  |
+| [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 | 2025-11-28 |  |
 | [Bloodline](https://open.spotify.com/track/4j4rbZs658sxsDefOzq5Gu) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [MIXED EMOTIONS](https://open.spotify.com/album/2fbZbR42v9wRJ8aojApy5Z) | 3:11 | 2025-05-08 | 2025-07-25 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-09-11 | 2025-10-17 |
 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 | 2023-07-13 | 2023-08-18 |
@@ -399,6 +399,7 @@
 | [Get Free](https://open.spotify.com/track/0agVVzbyorgegkwR8lVvMN) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Get Free](https://open.spotify.com/album/5xFCERL28FPqxpbyqbSHwz) | 1:33 | 2023-10-26 | 2023-12-22 |
 | [Get Out](https://open.spotify.com/track/5ERyOjxbrhVZfwAPpX2O6G) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Get Out](https://open.spotify.com/album/4ckU05Gz1l6kf4buoNG4Ay) | 2:58 | 2024-04-18 | 2024-06-21 |
 | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/track/1MWtB95XxXM3rlhH058YsD) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Get Out My Face AKA Bad Kitty](https://open.spotify.com/album/1ULJktTBsYpAt3CgCyyH5L) | 4:36 | 2025-05-08 | 2025-05-30 |
+| [Get This](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Get This](https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH) | 3:19 | 2025-11-28 |  |
 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-08 | 2025-09-02 |
 | [Gift Horse](https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Gift Horse](https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j) | 4:09 | 2024-01-19 | 2024-02-16 |
 | [GIMME](https://open.spotify.com/track/1d9pnTuvvi0AVgcO8DkP1S) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [GIMME](https://open.spotify.com/album/65bHWObuGFN9SQqitY9dMi) | 1:40 | 2023-01-27 | 2023-03-10 |
@@ -613,6 +614,7 @@
 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 | 2024-05-09 | 2024-09-13 |
 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 | 2023-01-13 | 2023-02-24 |
 | [Like You Did Before](https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Like You Did Before](https://open.spotify.com/album/6E2uTSZDiQWP3xpoHvSczg) | 3:07 | 2024-12-13 | 2025-03-14 |
+| [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 | 2025-11-28 |  |
 | [Line It Up \(feat\. LP\)](https://open.spotify.com/track/6pt3VzqcJ5jIUR5JyBtkmW) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 4:01 | 2023-01-13 | 2023-03-03 |
 | [Lion Rumpus](https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Lion Rumpus](https://open.spotify.com/album/2FQlTOSIj5D5gQZh8DsRYr) | 3:33 | 2024-11-01 | 2025-01-24 |
 | [Little Bit Closer](https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7) | 3:54 | 2025-02-21 | 2025-05-30 |
@@ -854,7 +856,7 @@
 | [Quiet Life](https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Quiet Life](https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2) | 3:16 | 2025-07-10 | 2025-10-03 |
 | [QWERTY](https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Papercuts](https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl) | 3:21 | 2024-04-11 | 2024-06-07 |
 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 | 2025-05-29 | 2025-09-02 |
-| [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [](https://open.spotify.com/album/null) | 2:56 | 2025-11-28 |  |
+| [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 | 2025-11-28 |  |
 | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/track/3prI01KDvDe7nNLlZ8UF85) | [Caught Stealing Movie](https://open.spotify.com/artist/7tA53pONjaW3je6N1ugaPo), [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Rabbit Run \(From the "Caught Stealing" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dA8X01ZBLGjM8g8rThf3h) | 3:46 | 2025-07-31 | 2025-09-26 |
 | [Radio Reject](https://open.spotify.com/track/5e2nKdiIRq7bNt8xkhvJhX) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:22 | 2023-01-13 | 2023-02-10 |
 | [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 | 2025-07-17 | 2025-09-05 |
@@ -1067,6 +1069,7 @@
 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-17 | 2023-05-19 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-20 | 2023-02-17 |
 | [The System](https://open.spotify.com/track/6rU6rWzTjHUTVaJ9DG4TVm) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The System](https://open.spotify.com/album/2W60odszcRNJrbZTuESsWs) | 2:42 | 2024-11-22 | 2025-03-07 |
+| [The Wake](https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Yips \(A Case Of\)](https://open.spotify.com/album/2x8cBNEaveu3x7jA9resgN) | 5:22 | 2025-11-28 |  |
 | [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 | 2025-07-10 | 2025-09-12 |
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2023-06-29 | 2023-09-08 |
 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 | 2025-01-10 | 2025-02-21 |
@@ -1097,9 +1100,6 @@
 | [tough love](https://open.spotify.com/track/6ERnRiuKn7UoPjnrPIPkj5) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [tough love](https://open.spotify.com/album/5yAFypkqbOtxBzfI4AqQe9) | 4:31 | 2025-09-11 | 2025-10-10 |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-09-11 | 2025-11-28 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 |  |
-| [Track 1](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
-| [Track 1](https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
-| [Track 3](https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
 | [trainers](https://open.spotify.com/track/23vLeNNP8fSyjyW8E7ruLg) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [rl stine](https://open.spotify.com/album/1Kr3GUqBV7mcSFLE7UD0AQ) | 2:45 | 2025-10-02 | 2025-10-31 |
 | [Trash Puppy](https://open.spotify.com/track/1ywFs89j3YEMzc69fYRDdZ) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc) | 3:08 | 2023-11-17 | 2023-11-18 |
 | [Trash Puppy](https://open.spotify.com/track/3oTsGbcgAedlZwLY2425L0) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Cream](https://open.spotify.com/album/6YwvYiSdEW6AULeLF5imiQ) | 3:08 | 2023-11-17 | 2024-01-19 |

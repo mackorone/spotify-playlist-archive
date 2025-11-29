@@ -4210,7 +4210,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 205963,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4cImz6ALStITqRds60YUmF"
@@ -6406,7 +6406,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179225,
       "name": "IF IT DOESN'T HURT",
       "url": "https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI"
@@ -7298,6 +7298,24 @@
       "duration_ms": 238524,
       "name": "Like I Am Nothing",
       "url": "https://open.spotify.com/track/3sQAS20dAfL9gwQmXIeDqR"
+    },
+    {
+      "album": {
+        "name": "This is normal now",
+        "url": "https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189073,
+      "name": "Limbo No. 5",
+      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
     },
     {
       "album": {
@@ -9024,6 +9042,24 @@
       "duration_ms": 203640,
       "name": "Ok, But This Is The Last Time",
       "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
+    },
+    {
+      "album": {
+        "name": "SONGS",
+        "url": "https://open.spotify.com/album/1ERnqF39eUW1JCt8y7emAg"
+      },
+      "artists": [
+        {
+          "name": "Blackout Problems",
+          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180020,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/6xKKL8J5f4QgO9AlluRN5Y"
     },
     {
       "album": {
@@ -12802,42 +12838,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Pabst",
-          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
-        }
-      ],
-      "date_added": "2025-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Blackout Problems",
-          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
-        }
-      ],
-      "date_added": "2025-11-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/6xKKL8J5f4QgO9AlluRN5Y"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 618960,
+  "num_followers": 619011,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAPjI3tIjAiTwj+ssu6O4SB",
+  "snapshot_id": "aSeUgAAAAAD9iAqnOBnHTs5Au21fmi6O",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Parade: The B-Sides",
-        "url": "https://open.spotify.com/album/3WEwomTOJHNRGZggBfCeGX"
-      },
-      "artists": [
-        {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Heaven Help Us",
-      "url": "https://open.spotify.com/track/6rlnljojqC42vtUeixpFAg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Famous Last Words",
         "url": "https://open.spotify.com/album/2jFq1xVAnsoEV1zqgCbqU1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 178448,
       "name": "My Way Home Is Through You",
       "url": "https://open.spotify.com/track/5HmSNijgNQ9xUmVfCyPjHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Parade: The B-Sides",
+        "url": "https://open.spotify.com/album/3WEwomTOJHNRGZggBfCeGX"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Heaven Help Us",
+      "url": "https://open.spotify.com/track/6rlnljojqC42vtUeixpFAg"
     },
     {
       "added_at": null,

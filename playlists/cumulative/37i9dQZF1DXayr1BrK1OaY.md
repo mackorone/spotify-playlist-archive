@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-619 songs - 1 day 12 hr 24 min
+620 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 | 2024-08-02 |  |
 | [Lay It All On Me](https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Lay It All On Me](https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37) | 3:47 | 2022-01-28 | 2022-07-29 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA) | 3:01 | 2024-10-04 |  |
+| [Leave Me](https://open.spotify.com/track/3GWvyrys5GdqLDfn0Rpbft) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh) | [Leave Me](https://open.spotify.com/album/5XSSkjJX4b6lG72mozCGvS) | 2:09 | 2025-11-28 |  |
 | [Leave Me Slowly](https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ) | [Starsmith](https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw) | [Leave Me Slowly](https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs) | 2:47 | 2024-08-16 | 2024-12-17 |
 | [Leave the Door Open](https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h) | [BONNIE X CLYDE](https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r) | [There's No Tomorrow](https://open.spotify.com/album/5INNKGgFD6LbVOwAOyctZ8) | 2:45 | 2024-04-05 | 2025-01-02 |
 | [Leave With My Love](https://open.spotify.com/track/3fQLLG61qoXyRy3tMWiqbk) | [ayokay](https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb) | [Leave With My Love](https://open.spotify.com/album/3YDbviYPVAnFmWz8C480r7) | 3:36 | 2024-07-12 | 2024-08-03 |
@@ -565,7 +566,7 @@
 | [Toi et moi](https://open.spotify.com/track/5yzlBpUNflMjcwAryoo2zJ) | [Paradis](https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9) | [Toi Et Moi](https://open.spotify.com/album/72ykeilNg1F8LtbeZbmxs8) | 3:41 | 2021-04-02 | 2022-04-11 |
 | [TOO LOUD](https://open.spotify.com/track/0qcjhu6sjTjGBxa1U7FsQ5) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Aloboi](https://open.spotify.com/artist/4Lfqvnzd6MN7hmHJt6LfcY) | [OXY](https://open.spotify.com/album/7jadg9v5YG5vSAkKHitFuJ) | 3:11 | 2025-05-23 | 2025-07-20 |
 | [Too Many Questions](https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Too Many Questions](https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30) | 3:38 | 2024-06-28 | 2024-09-24 |
-| [Tourist](https://open.spotify.com/track/0jL2O3nwv8o9JLwKVBiqDY) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tourist](https://open.spotify.com/album/6V5curslyng8zBaD5xDXe8) | 4:21 | 2025-11-14 |  |
+| [Tourist](https://open.spotify.com/track/0jL2O3nwv8o9JLwKVBiqDY) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tourist](https://open.spotify.com/album/6V5curslyng8zBaD5xDXe8) | 4:21 | 2025-11-14 | 2025-11-29 |
 | [Try](https://open.spotify.com/track/1YJ8Sx2YZjBFNWhvCDUEKa) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm), [Qhairo](https://open.spotify.com/artist/4iZFdVAuD09d0newPwscSk) | [Try](https://open.spotify.com/album/4r5rI5k5ansCDpZ8tfRuv5) | 3:47 | 2023-12-01 | 2024-01-13 |
 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 | 2022-06-24 | 2022-08-09 |
 | [U REALLY HURT ME](https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [U REALLY HURT ME](https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5) | 2:42 | 2024-07-05 | 2025-11-08 |

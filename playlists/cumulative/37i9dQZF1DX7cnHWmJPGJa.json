@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Don't Have To Be Jolly",
+        "url": "https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB"
+      },
+      "artists": [
+        {
+          "name": "Cara Rose",
+          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Don't Have To Be Jolly",
+      "url": "https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy"
+    },
+    {
+      "album": {
         "name": "don't leave me behind",
         "url": "https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8"
       },
@@ -838,7 +856,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 184253,
       "name": "The Rodeo",
       "url": "https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu"

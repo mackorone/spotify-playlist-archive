@@ -980,7 +980,7 @@
           "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
         },
         {
-          "name": "Prodigio",
+          "name": "Prod\u00edgio",
           "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
         },
         {
@@ -7157,6 +7157,28 @@
     },
     {
       "album": {
+        "name": "Entre Paredes e Sentimentos EP",
+        "url": "https://open.spotify.com/album/6sYxFmjjqJCSKmxDuMLMzb"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "WAY 45",
+          "url": "https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Inimigos",
+      "url": "https://open.spotify.com/track/5gS76MFf3uUdoz6x4RTpT4"
+    },
+    {
+      "album": {
         "name": "INOCENTE?",
         "url": "https://open.spotify.com/album/0nKzQwIrkzeqLUkDMGULBT"
       },
@@ -8729,8 +8751,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Amar em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/54Gdf6csl6rltTXmOYpJCY"
       },
       "artists": [
         {
@@ -14952,24 +14974,6 @@
       "duration_ms": 142000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "date_added": "2025-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5gS76MFf3uUdoz6x4RTpT4"
     },
     {
       "album": {

@@ -4107,6 +4107,24 @@
     },
     {
       "album": {
+        "name": "Heaven's Just A Flight",
+        "url": "https://open.spotify.com/album/74XAANgs1sgl5VmiDxJLd6"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226040,
+      "name": "Kissing Someone Else",
+      "url": "https://open.spotify.com/track/3mUAcYWoIerwT5v9GppuKo"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -7236,7 +7254,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 147451,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"

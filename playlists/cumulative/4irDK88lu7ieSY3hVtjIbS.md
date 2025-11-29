@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-81 songs - 3 hr 28 min
+82 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [At Least Not Yet](https://open.spotify.com/track/0eVRfIVLjaxIss80CrUjoG) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 3:22 | 2024-07-10 |  |
 | [Back End Blues](https://open.spotify.com/track/7g1HuVyMNGmMxfzS8nQ1Hn) | [Pepper Coyote](https://open.spotify.com/artist/4BaRyymiAjO4Q0PPG1dai5) | [Blast Radius: New Game+](https://open.spotify.com/album/7n7bzBs2kYJMDT8IcIuddx) | 2:51 | 2024-07-10 |  |
 | [Bad Dragon](https://open.spotify.com/track/10KAcnsjEFtKTgmk1lQ1hG) | [Hixbi Fox](https://open.spotify.com/artist/76ZTP1RJUrzT2bQSEd8lZ3) | [Furry Addicts](https://open.spotify.com/album/2VbKVxuP0TX1oD3i0NvI6H) | 4:13 | 2023-11-14 |  |
+| [Bark Like You Want It](https://open.spotify.com/track/1TqmlXyMcCppD8v2OogDMR) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Return Of The Bumpasaurus](https://open.spotify.com/album/0QPr5RZLfVPCewlds0UoLK) | 3:20 | 2025-11-29 |  |
 | [Bass Slut \- Original Mix](https://open.spotify.com/track/51czegKF9UbmUZkp8etKj2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Bass Slut / It Went / Crazy Ass Bitch](https://open.spotify.com/album/0RqSHxahadfXnYzdq8hi3z) | 5:29 | 2023-11-25 |  |
 | [Bathroom Bitch](https://open.spotify.com/track/75bLecYzbQpsnFMSWl055x) | [HOLYCHILD](https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ) | [Bathroom Bitch](https://open.spotify.com/album/6it2UEO6XzYwLKZ0uu2U2l) | 2:49 | 2023-11-25 |  |
 | [BET UNCU\(N\)T](https://open.spotify.com/track/5fcknHYAGKzdaKE4TISCzR) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [GLITTERMUTT](https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp) | [BET UNCU\(N\)T](https://open.spotify.com/album/4zEz2gi2w0EJ1nTaScS3Co) | 2:02 | 2025-05-16 |  |

@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: MonoNeon
 
-493 songs - 1 day 4 hr 47 min
+494 songs - 1 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Love Myself](https://open.spotify.com/track/14OQ9qHCNEOGiy9UryGImS) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Love Myself](https://open.spotify.com/album/2OtqYv9drYUxpKV1gpX67l) | 3:44 | 2024-06-14 |  |
 | [Love The Mystery \- Jafunk Remix](https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Love The Mystery \(Jafunk Remix\)](https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX) | 2:57 | 2024-05-10 | 2024-08-10 |
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 | 2024-05-04 |
-| [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 | 2023-08-18 |  |
+| [Lover \(Love Her\)](https://open.spotify.com/track/25peL25ddKWMVkiS50jlAy) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Lover \(Love Her\)](https://open.spotify.com/album/4E0hwdPcKQzlOT35qDtcQ6) | 3:18 | 2023-08-18 | 2025-11-29 |
 | [Lover Boy](https://open.spotify.com/track/3Dc6tLYl8GHl2lFfsiag2a) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Lover Boy](https://open.spotify.com/album/4tlZkAJU6UmBKMRi22ojve) | 3:49 | 2024-11-15 |  |
 | [LOVEなシーン](https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [LOVEなシーン](https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z) | 5:19 | 2024-03-01 |  |
 | [Lucky \(Song 7\)](https://open.spotify.com/track/2mLnBJjlMOcDWQcuMYqkOR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK) | [Lucky \(Song 7\)](https://open.spotify.com/album/6vtYTmK07RguZCw1MEXCQa) | 3:51 | 2024-11-15 |  |
@@ -328,6 +328,7 @@
 | [Nothing But Love](https://open.spotify.com/track/2QkKo7MwMQESbx2Fzcgf9t) | [Cosmo Klein](https://open.spotify.com/artist/4tzTHSSGpobu0p7I6lfJeJ), [The Campers](https://open.spotify.com/artist/7fDWXRCDvxkDLCbEKJJNYd) | [Nothing But Love](https://open.spotify.com/album/2HdYVxvkpLihAd3nja44TN) | 3:16 | 2023-05-23 | 2024-01-06 |
 | [Nowhere](https://open.spotify.com/track/6iUrjnEoie1HaPaJaGKMkj) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Tom Felton](https://open.spotify.com/artist/1iI14WMayUkaRujQ32Unmm), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Nowhere](https://open.spotify.com/album/5ssBbJFcFuAr6u74qlGLss) | 3:45 | 2025-02-14 | 2025-02-22 |
 | [OKALRIGHTISEEYOU](https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [The Time](https://open.spotify.com/album/2wf89BqslFiWLJK0ZKHulS) | 2:34 | 2023-08-25 | 2024-05-18 |
+| [Ol Skool Love](https://open.spotify.com/track/6ghNG2qu3N6RHTKXshtd2b) | [Ben Jones](https://open.spotify.com/artist/5uFhgpnmddmAmfqZawWt3k), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Ol Skool Love](https://open.spotify.com/album/0b9SUO9zjqyD2md1dipty2) | 4:04 | 2025-11-28 |  |
 | [Old Skool Funk](https://open.spotify.com/track/7Bnq7r5Dx0zJqK6iJsMqkJ) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN), [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Warrior Princess](https://open.spotify.com/album/2HT5wyg1UfnaoGyX3LAB6N) | 4:33 | 2025-06-06 |  |
 | [Olive](https://open.spotify.com/track/0Vixvjts9iR4NWI7jV3HXr) | [Brian Robert Jones](https://open.spotify.com/artist/11HU5b0t0QkmZpYfpUgmvm) | [Olive](https://open.spotify.com/album/3FmgixQBVW20aEShnxbHlV) | 3:51 | 2022-08-19 | 2023-02-25 |
 | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/track/0nRKvQcTyF1eaJ1l2QM62i) | [Joseph Luca](https://open.spotify.com/artist/1IWfY0owaPFIphGyuZ0oBu), [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w) | [One Last Dance \(feat\. The Pocket Queen\)](https://open.spotify.com/album/01DAXu7k20vJkTA21Bcjhe) | 3:18 | 2024-03-15 |  |

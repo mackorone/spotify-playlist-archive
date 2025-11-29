@@ -2,9 +2,9 @@
 
 ### [Neo Tango](https://open.spotify.com/playlist/37i9dQZF1DX1WNn0uqbB04)
 
-> El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
+> El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-111 songs - 6 hr 57 min
+112 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Chiqué](https://open.spotify.com/track/11XWTsiSeaIhv6nvYoaKIP) | [Ramiro Boero](https://open.spotify.com/artist/06yGc3ObG7hzni93vyv6Gb) | [Chiqué](https://open.spotify.com/album/5pxeddULMTojRNkSmSJyjB) | 3:42 | 2024-08-16 |  |
 | [Clarens](https://open.spotify.com/track/1IHH4ncmI3TQZRed7SQEWd) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Tango Groove](https://open.spotify.com/album/7uRW2LahOcPwUiX68ACG7F) | 5:02 | 2023-08-04 | 2024-04-19 |
 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 | 2023-08-04 |  |
+| [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc) | 2:52 | 2025-11-28 |  |
 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 | 2023-11-24 |  |
 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 | 2024-11-04 |  |
 | [Diferente](https://open.spotify.com/track/5I3jKRlR8WS0xYYamnAhpG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Hôtel Costes 9](https://open.spotify.com/album/3l1nGJTNNjFwQ1cADEGHaw) | 4:39 | 2023-08-04 |  |
@@ -98,7 +99,7 @@
 | [Subrealidad](https://open.spotify.com/track/04349i5UALrGIrKNGu1lPi) | [Orquesta Típica Fernández Fierro](https://open.spotify.com/artist/1wAtmDhWZHAQUcq1foSZXv) | [Ahora y Siempre](https://open.spotify.com/album/7Detx05YysB5gIzv7Z3Fxd) | 2:08 | 2023-08-04 | 2025-11-22 |
 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 | 2023-08-04 |  |
 | [Tango](https://open.spotify.com/track/7wGc5C1U1Z241pMWzGGPMC) | [Cirque du Soleil](https://open.spotify.com/artist/0iF2gedsSjoVHRUh5vXSdu) | [Cirque du Soleil](https://open.spotify.com/album/3o5It5Kg6G4ZzDnTS9h7ej) | 5:13 | 2023-08-04 | 2024-10-24 |
-| [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 | 2023-11-24 |  |
+| [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 | 2023-11-24 | 2025-11-29 |
 | [Tango del Falluto](https://open.spotify.com/track/1iT5XNmkXSDBUSBoSk2LSD) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Tango del Falluto](https://open.spotify.com/album/065br6DY3VQsvlio0EHar2) | 3:09 | 2023-08-04 | 2023-12-10 |
 | [Tanguera](https://open.spotify.com/track/2Bas5NJDcCXgJE3W48hbgV) | [Diego Schissi Quinteto](https://open.spotify.com/artist/4ot8iEVkzB5p3K18cnGRdZ) | [Tanguera](https://open.spotify.com/album/1u2zR173xUYZkfK6S4JudX) | 4:14 | 2023-08-04 | 2025-11-25 |
 | [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 | 2023-08-04 | 2025-02-16 |

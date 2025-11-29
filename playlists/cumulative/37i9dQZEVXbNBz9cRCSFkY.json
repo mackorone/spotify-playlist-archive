@@ -320,7 +320,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "4:AM",
       "url": "https://open.spotify.com/track/0iq4IOcuvSXP3VNTjOLBf1"
@@ -6504,7 +6504,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -7248,6 +7248,24 @@
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
+    },
+    {
+      "album": {
+        "name": "Hindi Ako Mawawala",
+        "url": "https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS"
+      },
+      "artists": [
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283809,
+      "name": "Hindi Ako Mawawala",
+      "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
     },
     {
       "album": {
@@ -8084,7 +8102,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
@@ -8794,7 +8812,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 257720,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 257847,
       "name": "It Will Rain",
       "url": "https://open.spotify.com/track/4rMNgxEwGWoPHIUcvB5BrB"

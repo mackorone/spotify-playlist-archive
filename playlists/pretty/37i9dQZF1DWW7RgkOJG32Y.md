@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Trending for a reason \- the home of country's future monster hits\. Cover: Brandon Coleman of The Red Clay Strays
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,072 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,139 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 49 | [Day Late & A Buck Short](https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Day Late & A Buck Short](https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj) | 2:33 |
 | 50 | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Bad As I Used To Be \(From F1® The Movie\)](https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b) | 5:00 |
 
-Snapshot ID: `AAAAANR8U81HfPABnanUnnAomRvv0zvB`
+Snapshot ID: `AAAAADGdNfrjeZEPThK+CWx7HyE2XfGt`

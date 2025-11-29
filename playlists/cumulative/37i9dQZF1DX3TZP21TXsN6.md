@@ -4,7 +4,7 @@
 
 > Nieuwe tracks elke week!
 
-272 songs - 11 hr 48 min
+273 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Daar voor jou](https://open.spotify.com/track/5aBQ6NZbiiRQR8tbB7sTaa) | [Ries](https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG) | [Daar voor jou](https://open.spotify.com/album/5LM3tmU6uglf9Jb5ybMUD3) | 3:05 | 2025-10-31 |  |
 | [Daggoes](https://open.spotify.com/track/61a5hhb4R9HQ41SVCJs94x) | [Marcos](https://open.spotify.com/artist/01feU9Lfs2fzxyf4nfu69t) | [Daggoes](https://open.spotify.com/album/0ixiURrcCvL2oAbCdtXpc2) | 1:17 | 2025-10-16 | 2025-11-28 |
 | [Dark Roads](https://open.spotify.com/track/4anjGiy7a50AXHFlrX8Hug) | [Gilly](https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN), [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq) | [Dark Roads](https://open.spotify.com/album/0dVNn3GdxddTdkY7q4T8d9) | 2:51 | 2025-10-02 | 2025-11-07 |
+| [De Avond Is Van Mij](https://open.spotify.com/track/1gjZNt0dkLja62Qin0lKEe) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Idolen](https://open.spotify.com/album/4Uu7gSBUsHiZIy6EajKiXR) | 2:34 | 2025-11-28 |  |
 | [DE ZON SCHIJNT](https://open.spotify.com/track/0SCoB0HWVWJZRHx1debCi4) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs) | [DE ZON SCHIJNT](https://open.spotify.com/album/7Lsmz2X42D66Cm1iIfki8a) | 2:16 | 2025-08-07 | 2025-09-05 |
 | [Degradatie](https://open.spotify.com/track/1r2NF9qGlhOE1I4CaxwpeP) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [Degradatie](https://open.spotify.com/album/2BdM34Vhz4W06U2OZK7V8Z) | 2:37 | 2025-07-17 | 2025-08-15 |
 | [Deuren](https://open.spotify.com/track/42jy2xGOTW1w8zsSf9HKMZ) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO) | [Deuren](https://open.spotify.com/album/5t07wAr09HD0LS0nEIPthD) | 2:30 | 2025-11-06 |  |

@@ -491,6 +491,46 @@
     },
     {
       "album": {
+        "name": "G\u00caMEOS EM G\u00caMEOS",
+        "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156714,
+      "name": "alquimista",
+      "url": "https://open.spotify.com/track/1rqt4fsXY36HvkUQuRm6r2"
+    },
+    {
+      "album": {
+        "name": "Amapiano",
+        "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Amapiano",
+      "url": "https://open.spotify.com/track/7sP6wejK3mVZcv63h20Zil"
+    },
+    {
+      "album": {
         "name": "AMEIANOITE",
         "url": "https://open.spotify.com/album/5D5BwY5BCQSV296xzalpXk"
       },
@@ -2418,7 +2458,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179996,
       "name": "Deslocado",
       "url": "https://open.spotify.com/track/31CsSZ9KlQmEu0JvWSkM3j"
@@ -2444,7 +2484,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 188000,
       "name": "Deu Fuga",
       "url": "https://open.spotify.com/track/4MBAPktG4S6jq309xDvnYA"
@@ -3451,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "FEL\u00cdDIA",
+        "url": "https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C"
+      },
+      "artists": [
+        {
+          "name": "GIANA",
+          "url": "https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179874,
+      "name": "Gata Anos 2000",
+      "url": "https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5"
+    },
+    {
+      "album": {
         "name": "REVERSA",
         "url": "https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq"
       },
@@ -3466,6 +3528,24 @@
       "duration_ms": 144961,
       "name": "GLITTER",
       "url": "https://open.spotify.com/track/3yfjvYImiSdypyIeYUknyy"
+    },
+    {
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
     },
     {
       "album": {
@@ -4483,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Me Deixa Partir",
+        "url": "https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174107,
+      "name": "Me Deixa Partir",
+      "url": "https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr"
+    },
+    {
+      "album": {
         "name": "Me Deixa Viver",
         "url": "https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV"
       },
@@ -4722,7 +4820,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 161515,
       "name": "Meninos e Meninas",
       "url": "https://open.spotify.com/track/5B1skkpiljQOQLAmANiaDa"
@@ -5792,6 +5890,28 @@
       "duration_ms": 296567,
       "name": "Ouro de Tolo",
       "url": "https://open.spotify.com/track/3JmULmAsT5nAEd9NrsJOLg"
+    },
+    {
+      "album": {
+        "name": "BAUNILHA",
+        "url": "https://open.spotify.com/album/3hheTmYxbjQHeT3i2QPxqr"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176926,
+      "name": "Pac\u00edfico",
+      "url": "https://open.spotify.com/track/21d3Wn57kL1f7c4ehGL614"
     },
     {
       "album": {
@@ -6870,7 +6990,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 165680,
       "name": "Quero Te Contar",
       "url": "https://open.spotify.com/track/1ipzXULADlyLgDD8l7r8U5"
@@ -7078,6 +7198,28 @@
       "duration_ms": 124312,
       "name": "recadin no espelho",
       "url": "https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf"
+    },
+    {
+      "album": {
+        "name": "Reca\u00edda",
+        "url": "https://open.spotify.com/album/2e5eqvR4bgZoPEuJzS2w02"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148692,
+      "name": "Reca\u00edda",
+      "url": "https://open.spotify.com/track/75XqGeWAYcC0Z69T04zDYM"
     },
     {
       "album": {
@@ -8106,6 +8248,28 @@
       "duration_ms": 175000,
       "name": "S\u00e3o Amores",
       "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
+    },
+    {
+      "album": {
+        "name": "s\u00f3 (mais) uma vez",
+        "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221596,
+      "name": "s\u00f3 (mais) uma vez",
+      "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
     },
     {
       "album": {
@@ -9142,6 +9306,28 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
+    },
+    {
+      "album": {
+        "name": "\u00c1GUA DE COCO",
+        "url": "https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE"
+      },
+      "artists": [
+        {
+          "name": "MARTTE",
+          "url": "https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d"
+        },
+        {
+          "name": "Heddy Beats",
+          "url": "https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134705,
+      "name": "\u00c1GUA DE COCO",
+      "url": "https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY"
     },
     {
       "album": {

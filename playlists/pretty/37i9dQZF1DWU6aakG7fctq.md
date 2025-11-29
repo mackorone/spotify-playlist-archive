@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,847 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,877 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Dices](https://open.spotify.com/track/1kDN02eiEo9CLoShy5S0Xv) | [Corana](https://open.spotify.com/artist/5m70lMyk6wA6xNXICbXoPP) | [Dices](https://open.spotify.com/album/4DWJ0piaBUeU1ZfvhAoBcK) | 3:52 |
 | 50 | [Ecos](https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k) | [Soultade](https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV) | [Nítido](https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41) | 2:45 |
 
-Snapshot ID: `AAAAAGXJU7AHgkX0prTedxcdp7N72OEZ`
+Snapshot ID: `AAAAADfBtio0EzisOOnMKVdXoVkUi/LI`

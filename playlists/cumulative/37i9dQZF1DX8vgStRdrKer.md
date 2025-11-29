@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-670 songs - 2 day 7 hr 43 min
+671 songs - 2 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2023-10-20 | 2024-03-14 |
 | [Neem die wêreld, gee my Jesus](https://open.spotify.com/track/20hvpxz9huGDcSRIAPRWal) | [Die Lekker Crew](https://open.spotify.com/artist/5QrMxygemSDMjHJGLegMdh) | [Neem die wêreld, gee my Jesus](https://open.spotify.com/album/1cfk5z1JROnMUjO5RHvQyt) | 6:24 | 2025-07-11 | 2025-09-17 |
 | [Never Again \- Live](https://open.spotify.com/track/0avSfabWivCociv7l1vKRM) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Never Again \(Live\)](https://open.spotify.com/album/2YUIEDZNAge8KlCfIC8oam) | 11:04 | 2025-06-06 |  |
+| [NEVER ALONE](https://open.spotify.com/track/48BjLsEvyfrNxkRfNLOKT3) | [Oge Stan](https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c) | [NEVER ALONE](https://open.spotify.com/album/6E9mQ8c7nG2U1RTPq7gcG7) | 4:24 | 2025-11-21 |  |
 | [Never Go Back](https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [REDEEMED](https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S) | 3:17 | 2024-10-18 | 2024-12-07 |
 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-01-05 | 2025-06-13 |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-02-02 | 2025-06-27 |
@@ -529,7 +530,7 @@
 | [Shoulder\(Cry\)](https://open.spotify.com/track/4Fz8pg9oc3vhyit0H1dcDC) | [Sekrade](https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Shoulder\(Cry\)](https://open.spotify.com/album/3tHIvpJlabaAVYg1SO2Cku) | 2:32 | 2025-06-06 | 2025-07-11 |
 | [Shouts Of Grace \(Remix\)](https://open.spotify.com/track/5YOCz9QzrEI8AVBhcaIfNO) | [Eno Michael](https://open.spotify.com/artist/4gG4TRziJfH2Tjo5fUqqdk) | [Shouts Of Grace \(Remix\)](https://open.spotify.com/album/1oWltUo0cSwiwtTEpvTrHZ) | 5:59 | 2025-08-08 | 2025-09-05 |
 | [Show me who you are](https://open.spotify.com/track/6k0QtdLw2UEvCYaWEyblux) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Show me who you are](https://open.spotify.com/album/1ovVxj4bjUtvPe3ZMd6wG2) | 3:16 | 2025-05-30 | 2025-10-03 |
-| [Show Up \- Live](https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Show Up \(Live\)](https://open.spotify.com/album/1J1n3e15bHM3wgP6O2U24o) | 8:45 | 2025-07-11 |  |
+| [Show Up \- Live](https://open.spotify.com/track/64QSlc4hsh1ABuNkiyrIWg) | [Ema Onyx](https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Show Up \(Live\)](https://open.spotify.com/album/1J1n3e15bHM3wgP6O2U24o) | 8:45 | 2025-07-11 | 2025-11-29 |
 | [Sing](https://open.spotify.com/track/2vaKwFtTvNmq2PAbKtxPpH) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Sing](https://open.spotify.com/album/775gzUzBh5ga4fThcVEflT) | 3:18 | 2025-08-01 | 2025-08-28 |
 | [Sing Hallelujah](https://open.spotify.com/track/7tV5kspyHg9hM9hMAnMXSG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Sing Hallelujah](https://open.spotify.com/album/1b46ZBLiS7hkot89IFTV9p) | 4:31 | 2024-08-30 | 2025-05-30 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |

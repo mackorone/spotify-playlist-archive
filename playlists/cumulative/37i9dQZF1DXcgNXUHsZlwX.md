@@ -2,9 +2,9 @@
 
 ### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
 
-> De la douceur pour accompagner votre journée\. 🍂
+> De la douceur pour accompagner votre journée\. ❄️
 
-533 songs - 1 day 7 hr 38 min
+535 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1000 \- sunset version](https://open.spotify.com/track/4p6e7EE4NVJ8ZkO7UNRyq6) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1000](https://open.spotify.com/album/2YHeBvEeEKpRN04rUIMRWp) | 3:59 | 2021-09-19 | 2022-07-28 |
 | [1000 Bornes](https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:04 | 2022-05-20 | 2025-02-13 |
 | [1000 Times](https://open.spotify.com/track/6VhrEDlP5O5zFTrvA7KoXh) | [Metò](https://open.spotify.com/artist/4wp0ECrVP1QOBZNo9JxMY2) | [1000 Times](https://open.spotify.com/album/1uxoj9PkFEBpxrdZay2b9s) | 3:57 | 2022-09-23 | 2023-03-06 |
+| [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 | 2025-11-28 |  |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* | 2024-10-18 |
 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 | 2023-11-10 |  |
 | [Abri](https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf), [Noémie Kaiser](https://open.spotify.com/artist/7lY8bTj95cRXHKOKGycelA) | [Abri](https://open.spotify.com/album/7puqUMfRuARh1o4xmelNuD) | 3:32 | 2025-10-17 |  |
@@ -39,7 +40,7 @@
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2023-02-24 |
 | [baby blue frigidaire mini fridge](https://open.spotify.com/track/6YWKvsh28AOZKYHJZksbaX) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [baby blue frigidaire mini fridge](https://open.spotify.com/album/0GPaa5BO7kPvc6pjhxEjya) | 3:39 | 2025-08-07 | 2025-08-20 |
-| [Beau Bassin](https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Beau Bassin](https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb) | 2:37 | 2025-08-28 |  |
+| [Beau Bassin](https://open.spotify.com/track/3gMWoY91kSBm4TQwfxONUl) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Beau Bassin](https://open.spotify.com/album/6YQ0k2zg4JThc0snaxgaeb) | 2:37 | 2025-08-28 | 2025-11-29 |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2025-08-08 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 | 2024-04-19 |
 | [berceuse \(elle veille encore\)](https://open.spotify.com/track/7o2VWOEH0XznJlwW0OllFE) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1), [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR) | [elle veille encore](https://open.spotify.com/album/36stZjlUhNpOzaK6MIvV4l) | 3:38 | 2024-11-08 | 2025-11-22 |
@@ -279,6 +280,7 @@
 | [Les longues migrations](https://open.spotify.com/track/6NB5YYtXAzfZOu2vTflAHA) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Mémoires](https://open.spotify.com/album/6iiDJfzBCgLaQmJf8vHcfq) | 3:52 | 2021-01-03\* | 2022-07-27 |
 | [Les mots qui nous manquent](https://open.spotify.com/track/4MsRf1Ka0nVjJzk1HhUcaY) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Les mots qui nous manquent](https://open.spotify.com/album/1eyswuwRnpxBj4nPBItxdg) | 4:14 | 2024-05-03 | 2024-06-08 |
 | [Les nuits incandescentes](https://open.spotify.com/track/3Ahqt9mwrDj9hTvDQkz4AB) | [Vincent Alizé](https://open.spotify.com/artist/2lgS5ZE6g9BhF47APJPrTD) | [Nos royaumes interdits](https://open.spotify.com/album/2OaemYlWbshatH7gXnNxyz) | 4:08 | 2021-02-22 | 2022-07-19 |
+| [Les oiseaux](https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP) | [Fleur de Peau](https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi) | [Les oiseaux](https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu) | 4:04 | 2025-11-28 |  |
 | [Les pieds dans le vide \- Radio Edit](https://open.spotify.com/track/3PVkLL0TmL2jbsBPgMtWiV) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Les pieds dans le vide \(Radio Edit\) \- Single](https://open.spotify.com/album/3Rb2F9S6VoRGDzl8H5J4yN) | 2:47 | 2021-01-03\* | 2021-10-13 |
 | [Les pommiers envahis](https://open.spotify.com/track/0iYZ8hkEx9POpr0TlS87pl) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Pays](https://open.spotify.com/album/6qNk4o8WSwbaT95aJuoW1n) | 4:59 | 2022-07-08 | 2023-06-17 |
 | [Les pommiers envahis](https://open.spotify.com/track/2NKZj5P2qpPZAH98ERdWc8) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Les pommiers envahis](https://open.spotify.com/album/6lJg8jJu2VKZOqAFTzQ4Ux) | 4:59 | 2021-01-15 | 2022-07-29 |
@@ -351,7 +353,7 @@
 | [New Favorite](https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [New Favorite](https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL) | 2:39 | 2023-12-15 | 2024-01-13 |
 | [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 | 2023-08-25 |  |
 | [nina](https://open.spotify.com/track/0FqFijwbC5IHuEjV5awDZQ) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 3:14 | 2022-07-08 | 2024-04-19 |
-| [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 | 2022-02-11 |  |
+| [nina](https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [nina](https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq) | 3:14 | 2022-02-11 | 2025-11-29 |
 | [Nos corps](https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT) | [Dans la forêt numérique](https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR) | 3:51 | 2021-01-15 | 2025-09-09 |
 | [Nos corps qui se longent](https://open.spotify.com/track/239bGYtMgOU7OqFlt5LJPb) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Nos corps qui se longent](https://open.spotify.com/album/4jbtiI2XfuxHS4JLQigLZx) | 3:56 | 2021-01-03\* | 2025-06-20 |
 | [Nos détours](https://open.spotify.com/track/1jMceI8njQF9cYm0Udvpla) | [Guillaume Beaulac](https://open.spotify.com/artist/69x9nmYbBPXbFNk3aEY6CG) | [Guillaume Beaulac](https://open.spotify.com/album/2i2J1pgs153PSHAZlI67uS) | 3:45 | 2021-05-08 | 2021-09-10 |

@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-686 songs - 1 day 11 hr 16 min
+687 songs - 1 day 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Make U Mine](https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [96 REBIRTH](https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1) | 2:33 | 2025-11-20 |  |
 | [Make You Remember Me](https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Make You Remember Me](https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz) | 2:25 | 2024-03-01 | 2025-02-06 |
 | [Mamma Mia](https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa) | 1:29 | 2024-02-23 | 2024-08-02 |
+| [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 | 2025-11-28 |  |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-17 |  |
 | [Miles Away](https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Miles Away](https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5) | 1:35 | 2023-04-06 | 2023-09-01 |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-12-16 | 2022-01-21 |
@@ -421,7 +422,7 @@
 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 | 2025-02-05 |  |
 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 | 2025-07-03 |  |
 | [Nobody believes me](https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Nobody believes me](https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth) | 2:38 | 2024-05-16 | 2025-02-11 |
-| [Not Enough](https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Not Enough](https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC) | 2:07 | 2025-04-11 |  |
+| [Not Enough](https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Not Enough](https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC) | 2:07 | 2025-04-11 | 2025-11-29 |
 | [Not Fair](https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Not Fair](https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi) | 3:25 | 2025-08-07 |  |
 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-06-02 |  |
 | [Not Me](https://open.spotify.com/track/2l1XKxwgWjMVZU4L0IKDUC) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9), [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Not Me](https://open.spotify.com/album/4eiE9YotL6BXz6MDFuVDqF) | 3:42 | 2023-01-12 | 2023-08-23 |

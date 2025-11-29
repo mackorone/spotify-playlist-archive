@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: LFERDA
+> Cover: Inkonnu
 
-457 songs - 1 day 0 hr 0 min
+460 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [AJI TCHOUF](https://open.spotify.com/track/75DWIaOCmyEP7licOYs9pl) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [AJI TCHOUF](https://open.spotify.com/album/3QcLNHlCktUOE2d2QknP8K) | 3:56 | 2023-09-21 | 2023-12-30 |
 | [Akhennouch](https://open.spotify.com/track/0jhnXwnkKVB4FpI3Y7nJjW) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie \(DELUXE\)](https://open.spotify.com/album/5KH7VsdG6AuFxZygl3osgS) | 2:43 | 2024-09-01 | 2025-02-13 |
 | [Akhennouch](https://open.spotify.com/track/4ue8qeZznm4DJJFs7DXYCk) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:43 | 2023-11-10 | 2024-05-10 |
-| [Alaska](https://open.spotify.com/track/3rI36YKtHPFsqzj1dopQZQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Alaska](https://open.spotify.com/album/44xgCRX6NDYWXQiYXfXt1t) | 3:36 | 2025-11-07 |  |
+| [Alaska](https://open.spotify.com/track/3rI36YKtHPFsqzj1dopQZQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Alaska](https://open.spotify.com/album/44xgCRX6NDYWXQiYXfXt1t) | 3:36 | 2025-11-07 | 2025-11-29 |
 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 | 2023-02-18 | 2023-06-23 |
 | [ALL THE MONSTERS COME OUT AT NIGHT](https://open.spotify.com/track/0FAMmPD8qMBkTylNs3WJsH) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1), [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [DIARY OF A DEAD MAN](https://open.spotify.com/album/6vxkoCVCD9t5QWbSpeAmP8) | 3:23 | 2024-06-20 | 2024-07-13 |
 | [Allaho Akbar](https://open.spotify.com/track/2Omr2NN6IRfzxnXlGw7dSs) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM) | [٤in \(Act 3\)](https://open.spotify.com/album/2doGuuy9HguV8Sxo4VcXEv) | 3:49 | 2022-11-17 | 2022-12-02 |
@@ -158,6 +158,7 @@
 | [GALÈRE](https://open.spotify.com/track/5CCjNFx5hkx3GfRdux4DDQ) | [Nouvo](https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [GALÈRE](https://open.spotify.com/album/3wmwLmLOPGjhyRmPPDJ5Hd) | 3:17 | 2025-02-10 | 2025-11-25 |
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |
 | [Gelato](https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Gelato](https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo) | 2:58 | 2024-12-19 | 2025-06-28 |
+| [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-11-28 |  |
 | [GHALTAN](https://open.spotify.com/track/7lBNVJiEh3YTyGNsgFR5dy) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [GHALTAN](https://open.spotify.com/album/5QnlDrWrr0MWV9N2qnpyT4) | 2:44 | 2024-05-25 | 2024-09-14 |
 | [Gharam](https://open.spotify.com/track/5rgsmHsWUhmTWTb1i5dNJH) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Gharam](https://open.spotify.com/album/65buUKao3hIRYbi3Wi3W2g) | 3:02 | 2025-02-17 |  |
 | [Ghetto Symphony](https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 4:11 | 2024-06-20 | 2024-08-06 |
@@ -276,9 +277,10 @@
 | [Molotov](https://open.spotify.com/track/6HJPnvA2dmuViqGx0bSxI0) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 3:33 | 2024-07-12 | 2024-08-02 |
 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 | 2023-04-29 | 2023-05-13 |
 | [MON LOVE OHO](https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9) | 2:19 | 2023-04-09 | 2023-05-08 |
-| [Money Cash](https://open.spotify.com/track/37enI5HLEliszFasVgpjlz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 2:50 | 2025-05-28 |  |
+| [Money Cash](https://open.spotify.com/track/37enI5HLEliszFasVgpjlz) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 2:50 | 2025-05-28 | 2025-11-29 |
 | [Moon](https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Dracula](https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR) | 3:00 | 2024-12-26 | 2025-10-23 |
 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 | 2025-07-16 |  |
+| [Mora ya hayat](https://open.spotify.com/track/3F2IUteIxmngWHAUh54Z5L) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [The Plug](https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km) | 2:57 | 2025-11-28 |  |
 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 | 2022-11-14 | 2023-06-14 |
 | [Moulaga](https://open.spotify.com/track/2s4eIt2bWj7xwcXEV7lQdG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Moulaga](https://open.spotify.com/album/0OeZXdYEZcy5yWuC4oQLMt) | 2:52 | 2022-11-14 | 2023-12-08 |
 | [MSN](https://open.spotify.com/track/4LzUZ8rJFQoCEUgzDf238L) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [MSN](https://open.spotify.com/album/4vZGalyyPhXYctz7QEn84B) | 3:31 | 2025-04-12 | 2025-05-22 |
@@ -366,7 +368,7 @@
 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 | 2023-11-15 | 2024-12-22 |
 | [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-28 | 2024-01-11 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 | 2023-09-30 |
-| [Sobba d Légumes](https://open.spotify.com/track/03PJKbsQkf48Tn3JVhXoUb) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:35 | 2025-09-24 |  |
+| [Sobba d Légumes](https://open.spotify.com/track/03PJKbsQkf48Tn3JVhXoUb) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:35 | 2025-09-24 | 2025-11-29 |
 | [Sociopath](https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Sociopath](https://open.spotify.com/album/7bHaIDfBfqYkEhy361w3yB) | 3:28 | 2022-11-25 | 2023-03-03 |
 | [SOLIDE](https://open.spotify.com/track/0CodDf6ggz8hvHNo8aEV7b) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:01 | 2025-11-24 |  |
 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2023-08-17 | 2024-05-03 |
@@ -398,6 +400,7 @@
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-11-14 | 2023-04-01 |
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-29 | 2023-07-12 |
 | [TAY9 \- Spotify Singles](https://open.spotify.com/track/33vKgJAIkPU3AOcsAmggGG) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN), [AKOA](https://open.spotify.com/artist/3a0HEhdCd1Ca2a1Q9hqHlq) | [TAY9 \(Spotify Singles\)](https://open.spotify.com/album/3fMQ4kuJGfwQThWWYTo322) | 3:49 | 2023-12-07 | 2024-03-08 |
+| [TAYER](https://open.spotify.com/track/0WGrLatfM7KSRJXmvkiJIp) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 | 2025-11-28 |  |
 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 | 2022-11-14 | 2023-05-26 |
 | [Tesla](https://open.spotify.com/track/1SVQijtlWVBZZxEgIojsrA) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [Tesla](https://open.spotify.com/album/5K5WVJViRMWdRXjw2W3VYG) | 2:56 | 2024-11-12 | 2024-12-08 |
 | [Tesseract.](https://open.spotify.com/track/7oj4kiXHha22qTVp0FWOLI) | [GCFOREAL](https://open.spotify.com/artist/7d85jErT1HPgYMQqMiwbDv) | [Tesseract.](https://open.spotify.com/album/2J5nvs01e78AwE6WCDWl1q) | 2:03 | 2025-07-16 | 2025-08-09 |

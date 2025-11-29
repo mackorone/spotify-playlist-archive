@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/6mTrLn3lgmcX1Wj4sZNadR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Jonas",
+          "url": "https://open.spotify.com/artist/11bdWrCwHE2gCdVARdASuu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182467,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9"
+    },
+    {
+      "album": {
         "name": "Cherry On Top",
         "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
       },
@@ -2418,6 +2436,28 @@
       "duration_ms": 227240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
+    },
+    {
+      "album": {
+        "name": "clich\u00e9 (Jonas Brothers remix)",
+        "url": "https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "clich\u00e9 - Jonas Brothers remix",
+      "url": "https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4"
     },
     {
       "album": {
@@ -9170,7 +9210,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"

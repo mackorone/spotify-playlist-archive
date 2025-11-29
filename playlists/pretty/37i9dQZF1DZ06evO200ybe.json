@@ -1,29 +1,13 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122654,
+  "num_followers": 122661,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABw677WPNNtmiq4UjZvLthU",
+  "snapshot_id": "aSeUgAAAAADdQEf1QgB+sjc3Zhou9IED",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make Me Rainbows",
-        "url": "https://open.spotify.com/album/76J4OCj6na4NliLGRK1X2E"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 201629,
-      "name": "Make Me Rainbows",
-      "url": "https://open.spotify.com/track/5Mh5M6Q72P7mLjFIu5hnm1"
-    },
     {
       "added_at": null,
       "album": {
@@ -95,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
       },
       "artists": [
         {
@@ -104,9 +88,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 427280,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/7oehX4YTJOAwGFaAW1yvcs"
+      "duration_ms": 223706,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
     },
     {
       "added_at": null,
@@ -127,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
       },
       "artists": [
         {
@@ -136,9 +120,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 223706,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
+      "duration_ms": 427280,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/7oehX4YTJOAwGFaAW1yvcs"
     },
     {
       "added_at": null,
@@ -195,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -223,6 +191,22 @@
       "duration_ms": 303973,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": null,
@@ -439,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 412256,
-      "name": "Alone Together - Mono",
-      "url": "https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Essential Standards",
         "url": "https://open.spotify.com/album/0whq7qknr3srbyrfSwSj6L"
       },
@@ -467,6 +435,22 @@
       "duration_ms": 172426,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/5QxoGg03WwYV3bbwgOAGwK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 412256,
+      "name": "Alone Together - Mono",
+      "url": "https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW"
     },
     {
       "added_at": null,
@@ -503,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet (Mono)",
-        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 276827,
-      "name": "You'd Be So Nice To Come Home To - Mono",
-      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -531,6 +499,22 @@
       "duration_ms": 473666,
       "name": "Polka Dots And Moonbeams",
       "url": "https://open.spotify.com/track/1pzTm9kIN7PJ5LM5qDrwcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet (Mono)",
+        "url": "https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 276827,
+      "name": "You'd Be So Nice To Come Home To - Mono",
+      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Art Of The Ballad",
+        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "I've Grown Accustomed To Her Face",
+      "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Art Of The Ballad",
-        "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "I've Grown Accustomed To Her Face",
-      "url": "https://open.spotify.com/track/4mDUnJXdRS9XuZSmCp9EFB"
     },
     {
       "added_at": null,

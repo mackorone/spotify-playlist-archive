@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 69 | [All Ways](https://open.spotify.com/track/5DH635Kh0z9A0uLaj9eugX) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [All Ways](https://open.spotify.com/album/7JkhCAperaUpB0LxtI51Z3) | 2:17 |
 | 70 | [50/50](https://open.spotify.com/track/22hfS6XgllEJyBcAX9s7BM) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Saanvarey](https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5) | 2:32 |
 | 71 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 |
-| 72 | [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 |
-| 73 | [Time](https://open.spotify.com/track/2xib6dJD5peIhTI1gI4zmI) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Time](https://open.spotify.com/album/7wgty91e77sAvyj7AIWiHz) | 2:09 |
+| 72 | [Time](https://open.spotify.com/track/2xib6dJD5peIhTI1gI4zmI) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Time](https://open.spotify.com/album/7wgty91e77sAvyj7AIWiHz) | 2:09 |
+| 73 | [fund$](https://open.spotify.com/track/0kSl3WjIB3A1u6aYvsphfU) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Pain/Pleasure](https://open.spotify.com/album/2HpqpXC3OKIQ6zfnwJ9qIf) | 2:32 |
 | 74 | [Dealer](https://open.spotify.com/track/0Oyyi8XyZzXZKs3oCm9e9e) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ) | [Dealer](https://open.spotify.com/album/2cvvNvywxW7kCrwYBDmxed) | 2:26 |
 | 75 | [sick](https://open.spotify.com/track/3pcitZpUaeU51VOYPn1NJ6) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Handle With Care](https://open.spotify.com/album/2Lm7qb3X3n25YoBWLwbbnG) | 2:11 |
 | 76 | [25](https://open.spotify.com/track/228n9ebSdUW4iGdsuoSbKQ) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 4:12 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 134 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 135 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcCvSAAAAAD4xYd9lgSfPSRZz++k5KvH`
+Snapshot ID: `AcC06AAAAAB5bZRRHB6raA+FzpX/olsD`

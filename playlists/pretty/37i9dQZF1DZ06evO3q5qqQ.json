@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 116487,
+  "num_followers": 116498,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACG1oSZ3xEpWtgVJZMz+sy/",
+  "snapshot_id": "aSeUgAAAAACiFgOHKwkJ3aCOx/4bytm2",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fugitivo (En Vivo)",
-        "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "El Fugitivo (En Vivo)",
-      "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confidencial",
         "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 175162,
       "name": "Confidencial",
       "url": "https://open.spotify.com/track/41UeD03DM1lLtfJB2I7gsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Fugitivo (En Vivo)",
+        "url": "https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "El Fugitivo (En Vivo)",
+      "url": "https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Ah\u00ed Quede",
+      "url": "https://open.spotify.com/track/0pcvJQf5xsC4aOu6MKCFKn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 273920,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Ah\u00ed Quede",
-      "url": "https://open.spotify.com/track/0pcvJQf5xsC4aOu6MKCFKn"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mes De Las Madres",
+        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 154409,
+      "name": "El Me\u00f1o",
+      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pato Nada",
         "url": "https://open.spotify.com/album/6nWyosgrGdpADFNBALolyt"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 164989,
       "name": "El Pato Nada",
       "url": "https://open.spotify.com/track/63VicIXgAYX11BIS5vvfbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mes De Las Madres",
-        "url": "https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 154409,
-      "name": "El Me\u00f1o",
-      "url": "https://open.spotify.com/track/0R7ryDiB3sID2SDt9ny50C"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalando La Bandona (En Vivo)",
         "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 172000,
       "name": "Prohibido (En vivo)",
       "url": "https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,
@@ -866,31 +866,11 @@
         {
           "name": "Grupo Arriesgado",
           "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         }
       ],
-      "duration_ms": 152106,
-      "name": "M&G",
-      "url": "https://open.spotify.com/track/65JrwoN5AgA9KOGYtYCxou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La De Rogar",
-        "url": "https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 155483,
-      "name": "La De Rogar",
-      "url": "https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf"
+      "duration_ms": 169855,
+      "name": "Nada Que Ver",
+      "url": "https://open.spotify.com/track/0hoXjJHVEngfgyeTHUXRFs"
     },
     {
       "added_at": null,
@@ -907,6 +887,22 @@
       "duration_ms": 132328,
       "name": "Aqui En Mi Corazon Tu Mandas",
       "url": "https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La De Rogar",
+        "url": "https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 155483,
+      "name": "La De Rogar",
+      "url": "https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

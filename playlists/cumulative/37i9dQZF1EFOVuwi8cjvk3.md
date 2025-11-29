@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RRbChYKNCUva4pRPwsBbC">Ging FKA Frank Dukes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-288 songs - 17 hr 4 min
+289 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Company](https://open.spotify.com/track/0paIDUEcixm7WmcC72KgKZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 3:24 | 2025-04-15 |  |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2023-12-13 |  |
 | [Confessions](https://open.spotify.com/track/1Sc2RHxyKHMeyCChQTWTnp) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 5:00 | 2023-12-13 |  |
-| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-13 | 2025-11-25 |
+| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2023-12-13 |  |
 | [Congratulations \- Remix](https://open.spotify.com/track/2YK01AIIWuywG24gsbuizE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Congratulations \(Remix\)](https://open.spotify.com/album/3oeiU8nG5eDm5YPpDvK6eS) | 4:44 | 2023-12-13 |  |
 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 | 2023-12-13 |  |
 | [Cs60](https://open.spotify.com/track/397XzSTDSC6CjiybfmWKU0) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 6:52 | 2023-12-13 |  |
@@ -275,7 +275,8 @@
 | [Wasted Times](https://open.spotify.com/track/7DKS0rX27cCEPsK0R6tFWS) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [My Dear Melancholy,](https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO) | 3:40 | 2023-12-13 |  |
 | [We \(feat\. CeeLo Green\)](https://open.spotify.com/track/4k5UZm89ZX0YAHUp55zpt9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:19 | 2023-12-13 |  |
 | [We Alive](https://open.spotify.com/track/4Ir1Dfv018qxVndX1zCiG3) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:03 | 2023-12-13 |  |
-| [We Do This Shit \(feat\. DeJ Loaf\)](https://open.spotify.com/track/4AGxqBn4ogwTgKuyUfguLh) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 3:51 | 2023-12-13 |  |
+| [We Do This Shit \(feat\. DeJ Loaf\)](https://open.spotify.com/track/4AGxqBn4ogwTgKuyUfguLh) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 3:51 | 2023-12-13 | 2025-11-29 |
+| [We Do This Shit \(feat\. DeJ Loaf\)](https://open.spotify.com/track/5iir27HcFGvW5lCq5RYxWQ) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Movie](https://open.spotify.com/album/0dDmZUEULQCuVBs85dAsQB) | 3:51 | 2025-11-28 |  |
 | [Wedding Crashers](https://open.spotify.com/track/3nVDOYBJpdCkRR6r1DbZum) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Good For You](https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p) | 3:49 | 2023-12-13 |  |
 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 | 2023-12-13 |  |
 | [What About Heaven](https://open.spotify.com/track/2zGlgpb31HU1JLfDNcZpNZ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 3:38 | 2025-01-26 |  |

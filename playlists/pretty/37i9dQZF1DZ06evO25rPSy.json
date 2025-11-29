@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
-  "num_followers": 25018,
+  "num_followers": 25020,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACI/oq40AkzrxssS7mgcS6R",
+  "snapshot_id": "aSeUgAAAAAAwhW21QIkzZrhj5u4jfozX",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Acuerdo Qui\u00e9n Fui",
-        "url": "https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
       },
       "artists": [
-        {
-          "name": "Christian Meier",
-          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 231897,
-      "name": "Esa S\u00ed Es una Mujer",
-      "url": "https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS"
+      "duration_ms": 238626,
+      "name": "Lo Olvid\u00e9",
+      "url": "https://open.spotify.com/track/2Xxx8Xv7DLXHRYtL1i76jy"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB"
+        "name": "No Me Acuerdo Qui\u00e9n Fui",
+        "url": "https://open.spotify.com/album/6T0Ekn1CIDccf5CbDRfHkF"
       },
       "artists": [
+        {
+          "name": "Christian Meier",
+          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
+        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 238626,
-      "name": "Lo Olvid\u00e9",
-      "url": "https://open.spotify.com/track/5knDuscjSq3x4mEa1G1wP6"
+      "duration_ms": 231897,
+      "name": "Esa S\u00ed Es una Mujer",
+      "url": "https://open.spotify.com/track/0XXbz44sfkVbDgs2c7sKOS"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+        "name": "30 Grandes Canciones",
+        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 283440,
-      "name": "Ponerme a volar",
-      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
+      "duration_ms": 173266,
+      "name": "Amor Yo Te Perd\u00ed La Fe",
+      "url": "https://open.spotify.com/track/1kiJIuvxjENeBKNIkoOS3m"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Grandes Canciones",
-        "url": "https://open.spotify.com/album/5K9kijwfrDJGHFjjiHbl3I"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Amor Yo Te Perd\u00ed La Fe",
-      "url": "https://open.spotify.com/track/1kiJIuvxjENeBKNIkoOS3m"
+      "duration_ms": 283440,
+      "name": "Ponerme a volar",
+      "url": "https://open.spotify.com/track/46pW45nZ7gRXkqa0kr1YlB"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Recu\u00e9stame",
+      "url": "https://open.spotify.com/track/1j91eyFgzH7MiAmUCtjBSh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amazonas",
         "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
       },
@@ -411,70 +427,6 @@
       "duration_ms": 236186,
       "name": "Amazonas",
       "url": "https://open.spotify.com/track/5yJQWY6GhEF5i4mj717vp1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Recu\u00e9stame",
-      "url": "https://open.spotify.com/track/7nfSTmx7HF1aAklJuwA2vT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Buscando Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6AXzOb7rKHui82CU8Q5WNW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Degeneracion Actual",
-        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 248346,
-      "name": "Tren Sexual",
-      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Hay un modo",
-      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -499,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 268266,
-      "name": "Qu\u00e9 Oscuridad",
-      "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Degeneracion Actual",
         "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
       },
@@ -524,9 +460,25 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 282266,
-      "name": "D\u00e9jame Vivir",
-      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
+      "duration_ms": 248346,
+      "name": "Tren Sexual",
+      "url": "https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Buscando Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6AXzOb7rKHui82CU8Q5WNW"
     },
     {
       "added_at": null,
@@ -540,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 237880,
-      "name": "Ella y \u00e9l",
-      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
+      "duration_ms": 215200,
+      "name": "Hay un modo",
+      "url": "https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP"
     },
     {
       "added_at": null,
@@ -563,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Degeneracion Actual",
+        "url": "https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 282266,
+      "name": "D\u00e9jame Vivir",
+      "url": "https://open.spotify.com/track/23fdwUloWJ2n92QaTWTD2i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
       },
@@ -572,15 +540,31 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 204480,
-      "name": "Los Ni\u00f1os Se Enamoran",
-      "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
+      "duration_ms": 268266,
+      "name": "Qu\u00e9 Oscuridad",
+      "url": "https://open.spotify.com/track/6dxz8sm7n7tQhHqwolLdWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Ella y \u00e9l",
+      "url": "https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA"
     },
     {
       "added_at": null,
       "album": {
         "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
-        "url": "https://open.spotify.com/album/5WckkHkSVlDEpMdf0KtNr9"
+        "url": "https://open.spotify.com/album/3fk92m0deWHsUlkDeySzTa"
       },
       "artists": [
         {
@@ -597,27 +581,27 @@
         },
         {
           "name": "Ezio Oliva",
-          "url": "https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln"
+          "url": "https://open.spotify.com/artist/13VQn367NHwGWe1vQbDawm"
         },
         {
           "name": "Lucho Quequezana",
-          "url": "https://open.spotify.com/artist/26602pmPYeVz6KXGldVTEu"
+          "url": "https://open.spotify.com/artist/6RZw6Uxm1JgLuI293XA2Y7"
         },
         {
           "name": "Sonia Morales",
-          "url": "https://open.spotify.com/artist/6fWtb6DzqSMMDSxRAUiFFb"
+          "url": "https://open.spotify.com/artist/2Ygsf1reW7mIhmiO0X2I0y"
         },
         {
           "name": "Bartola",
-          "url": "https://open.spotify.com/artist/1XbwufcjNzo4kSHBDcBpd6"
+          "url": "https://open.spotify.com/artist/2IGcePH75Tnvk4TDVsQq2A"
         },
         {
           "name": "Christian Yaip\u00e9n",
-          "url": "https://open.spotify.com/artist/5Hcw0zvINciBD0LZv13oNL"
+          "url": "https://open.spotify.com/artist/68h9Hwsl5HjA62EAPjZ4pw"
         },
         {
           "name": "Renata Flores",
-          "url": "https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT"
+          "url": "https://open.spotify.com/artist/1EAJb8brwi1kaoOkIwvrLJ"
         },
         {
           "name": "Guillermo Bussinger",
@@ -626,7 +610,23 @@
       ],
       "duration_ms": 252133,
       "name": "Cuando Pienses en Volver - Versi\u00f3n Cumbia- Salsa",
-      "url": "https://open.spotify.com/track/2eeLReh5i1YWCkp5zUfQrW"
+      "url": "https://open.spotify.com/track/7wAVxo1CSjGlxWSXAp53OM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/7jdASaqtZM48RluVTKthrR"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 259252,
+      "name": "Bailar",
+      "url": "https://open.spotify.com/track/52YFzji6kJVzC4UqZrsPKT"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 225546,
-      "name": "Su Lengua Baila",
-      "url": "https://open.spotify.com/track/4Bz25C8lywSz3KxEQkj9D6"
+      "duration_ms": 204480,
+      "name": "Los Ni\u00f1os Se Enamoran",
+      "url": "https://open.spotify.com/track/24dMkYdYG9B1sYgvUW9osX"
     }
   ],
   "unique_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",

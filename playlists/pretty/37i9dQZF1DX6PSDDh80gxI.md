@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Non volevamo far festa ma ci serviva un pretesto… per festeggiare i 10 anni di Mainstream 🫒
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,840 likes - 82 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,153 likes - 82 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

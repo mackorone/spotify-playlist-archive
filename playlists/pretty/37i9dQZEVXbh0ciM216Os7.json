@@ -6,10 +6,178 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aR/x0AAAAAAUDpJIH/otlTvwgvDuIV0H",
+  "snapshot_id": "aSksUAAAAAByLbU0X9K/Rx09YdmXN6G9",
   "tracks": [
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Chanel Boy",
+        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Chanel Boy",
+      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "G Code",
+        "url": "https://open.spotify.com/album/5vEC2OuQtgnkSaQS5vh1a5"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "G Code",
+      "url": "https://open.spotify.com/track/68sNi0LsMO2V0zgBGYuB4Z"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Yeast Talkin'",
+        "url": "https://open.spotify.com/album/4fpd5BYLQeUfGwNWlPqE5p"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Spank Nitti James",
+          "url": "https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "SCALE BACK",
+      "url": "https://open.spotify.com/track/0HM0aFsSWTxAhtAg55lyFq"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Defected presents Most Rated 2026 (DJ Mix)",
+        "url": "https://open.spotify.com/album/4uhix5GJ8kXFctJBAvbhMa"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+        }
+      ],
+      "duration_ms": 257493,
+      "name": "Natural Blues - Mixed",
+      "url": "https://open.spotify.com/track/3BiGzgYwI5PX7McfoD8Bod"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "The White Samurai Saga 2",
+        "url": "https://open.spotify.com/album/1B2Dccua6Z4ZNCNR1oH0Rj"
+      },
+      "artists": [
+        {
+          "name": "Ka$h Route",
+          "url": "https://open.spotify.com/artist/5AIkixnrD5fcAAX75mpL4o"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 277654,
+      "name": "47 Ronin",
+      "url": "https://open.spotify.com/track/3AuiCjoEuBv0L2AKtuspZF"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Jingle Bell Heist (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6pqxTWQoWV9Zrtc5JL2usT"
+      },
+      "artists": [
+        {
+          "name": "Steve Hackman",
+          "url": "https://open.spotify.com/artist/180C8ZQPSTjNQKXtM9HYEG"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "TaRon Lockett",
+          "url": "https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL"
+        },
+        {
+          "name": "Nick Clark",
+          "url": "https://open.spotify.com/artist/0fJZck0DftO8hNBfTn1Bi7"
+        },
+        {
+          "name": "Lucia Micarelli",
+          "url": "https://open.spotify.com/artist/5uQhOx84p7rsBcBsMwQhTV"
+        }
+      ],
+      "duration_ms": 255226,
+      "name": "Jingle Bell Heist Jam",
+      "url": "https://open.spotify.com/track/74Sr5ptoHt32LE0s8mSPmd"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "The God Of Lying (feat. IDLES)",
+        "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 189021,
+      "name": "The God of Lying (feat. IDLES)",
+      "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Upside Down (Candy Crush)",
+        "url": "https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Upside Down (Candy Crush)",
+      "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Shine On You Crazy Diamond (Pts. 1-9, New Stereo Mix)",
         "url": "https://open.spotify.com/album/4B1bOlJb3djUjSzrVYDAkh"
@@ -25,7 +193,115 @@
       "url": "https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Stankonia (25th Anniversary)",
+        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 304059,
+      "name": "Speedballin'",
+      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Memory Of A Day (Deluxe)",
+        "url": "https://open.spotify.com/album/3czzeQCe16BPhd00oDCbGE"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 248455,
+      "name": "Move In Silence",
+      "url": "https://open.spotify.com/track/3il4y44v2aMLfp96IJg7qu"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "The Fate of Ophelia",
+        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 217862,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Who Wants To Live Forever (Stranger Things Remix)",
+        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Who Wants To Live Forever - Stranger Things Remix",
+      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
+      },
+      "artists": [
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 193635,
+      "name": "California Games (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/1xEqdMfvDPGcwFklsaC35w"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Warning (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02aHyiT3M89F7bDbv8mF5J"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 201214,
+      "name": "Waiting - Otis Mix",
+      "url": "https://open.spotify.com/track/4Y9uKlCmKjubxXV0XDsyjW"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Wicked: For Good \u2013 The Soundtrack",
         "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
@@ -45,35 +321,83 @@
       "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "the decoupling of the nuclear family",
-        "url": "https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE"
+        "name": "Bold As Love",
+        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
       },
       "artists": [
         {
-          "name": "_BY.ALEXANDER",
-          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
-        },
-        {
-          "name": "HAWA",
-          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 229220,
-      "name": "the decoupling of the nuclear family",
-      "url": "https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT"
+      "duration_ms": 184680,
+      "name": "Castles Made of Sand - Backwards Guitar",
+      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Black And Blue (2025 Mix)",
+        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "Hand Of Fate - 2025 Mix",
+      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Come and Go",
+        "url": "https://open.spotify.com/album/7nYSaxLTD3FvUiy6eR78yX"
+      },
+      "artists": [
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Come and Go",
+      "url": "https://open.spotify.com/track/4bK7oS1X4zlvreEO3IbGFd"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Okinawan Wuman",
         "url": "https://open.spotify.com/album/2qdNHigKoFUZtBlnXlYiwb"
@@ -101,7 +425,7 @@
       "url": "https://open.spotify.com/track/6eiYcJsjcyIinPf9vrlcbK"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Cabin In The Sky",
         "url": "https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA"
@@ -121,7 +445,115 @@
       "url": "https://open.spotify.com/track/6viucpurvIYb20njlYzZNs"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "the decoupling of the nuclear family",
+        "url": "https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE"
+      },
+      "artists": [
+        {
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 229220,
+      "name": "the decoupling of the nuclear family",
+      "url": "https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2o6TZnbzeqEJBq54dv8ZGn"
+      },
+      "artists": [
+        {
+          "name": "Your Broken Hero",
+          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
+        },
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 177233,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6gXkK7zdUFcRjWmGwOfdBf"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 324776,
+      "name": "1-800 Heartbreak (with Anderson .Paak)",
+      "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/7ewYfNRexvl3zorBnwsMZ4"
+      },
+      "artists": [
+        {
+          "name": "David Dallas",
+          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/6F4kLWOW0j2h4yiVXjAFSK"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
+        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 377862,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "We Are The World (Remastered)",
         "url": "https://open.spotify.com/album/1WIXeACAExhr1gXIV1TL6d"
@@ -213,439 +645,7 @@
       "url": "https://open.spotify.com/track/1izz8IdjjrLYsn5xdqxs9y"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Destin\u00e9e",
-        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187080,
-      "name": "Baby Boy (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5mvpnxfWnht7Qk5Dx7boFe"
-      },
-      "artists": [
-        {
-          "name": "Shen",
-          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 128142,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/6GrG5mI6qYCscN72XO5cMZ"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Somni",
-        "url": "https://open.spotify.com/album/72Tr4gYIAko7djIwgfS4i1"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 652858,
-      "name": "It Stays With You",
-      "url": "https://open.spotify.com/track/3XckH9nZTF2Y2gp6UoMotk"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Big Dog Pt. 2",
-        "url": "https://open.spotify.com/album/0s5l2jWtroVY9Sp1IiOyBc"
-      },
-      "artists": [
-        {
-          "name": "Bert Da God",
-          "url": "https://open.spotify.com/artist/5N5KFeX6322OajPm5YZr1S"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 272880,
-      "name": "Big Dog Pt. 2",
-      "url": "https://open.spotify.com/track/78Mf25QSqilvyv5pqN5baS"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "En catimini",
-        "url": "https://open.spotify.com/album/5QC4Y9OWxPblcDK76gsX9u"
-      },
-      "artists": [
-        {
-          "name": "Jean-Luc Fonck",
-          "url": "https://open.spotify.com/artist/34RmECd3hupr0G8N7vpYSV"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        },
-        {
-          "name": "Sttellla",
-          "url": "https://open.spotify.com/artist/7eh36YiTKBxxhCChxbuN1j"
-        }
-      ],
-      "duration_ms": 146350,
-      "name": "En catimini",
-      "url": "https://open.spotify.com/track/7qIgvOXOBQI2sGJHakCfS4"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "The God Of Lying (feat. IDLES)",
-        "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 189021,
-      "name": "The God of Lying (feat. IDLES)",
-      "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Upside Down (Candy Crush)",
-        "url": "https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Upside Down (Candy Crush)",
-      "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Stankonia (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 304059,
-      "name": "Speedballin'",
-      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "The Fate of Ophelia",
-        "url": "https://open.spotify.com/album/1pPlZt4oGTY2owb4E0TZgF"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 217862,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Memory Of A Day (Deluxe)",
-        "url": "https://open.spotify.com/album/3czzeQCe16BPhd00oDCbGE"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 248455,
-      "name": "Move In Silence",
-      "url": "https://open.spotify.com/track/3il4y44v2aMLfp96IJg7qu"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
-      },
-      "artists": [
-        {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "California Games (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/1xEqdMfvDPGcwFklsaC35w"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Who Wants To Live Forever (Stranger Things Remix)",
-        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 167103,
-      "name": "Who Wants To Live Forever - Stranger Things Remix",
-      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Warning (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/02aHyiT3M89F7bDbv8mF5J"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 201214,
-      "name": "Waiting - Otis Mix",
-      "url": "https://open.spotify.com/track/4Y9uKlCmKjubxXV0XDsyjW"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Bold As Love",
-        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Castles Made of Sand - Backwards Guitar",
-      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Black And Blue (2025 Mix)",
-        "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "Hand Of Fate - 2025 Mix",
-      "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 208864,
-      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Come and Go",
-        "url": "https://open.spotify.com/album/7nYSaxLTD3FvUiy6eR78yX"
-      },
-      "artists": [
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Come and Go",
-      "url": "https://open.spotify.com/track/4bK7oS1X4zlvreEO3IbGFd"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Shadows of the Hearts",
-        "url": "https://open.spotify.com/album/70mmbuMnnjrLuMXNuT479P"
-      },
-      "artists": [
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Shadows of the Hearts",
-      "url": "https://open.spotify.com/track/6WEQcvEBgjxDGD4flTIjBh"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 324776,
-      "name": "1-800 Heartbreak (with Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/2o6TZnbzeqEJBq54dv8ZGn"
-      },
-      "artists": [
-        {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 177233,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6gXkK7zdUFcRjWmGwOfdBf"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
-        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 377862,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/7ewYfNRexvl3zorBnwsMZ4"
-      },
-      "artists": [
-        {
-          "name": "David Dallas",
-          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/6F4kLWOW0j2h4yiVXjAFSK"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "red moon",
         "url": "https://open.spotify.com/album/3AGNHG6lqPZYphbRdSxBKA"
@@ -665,7 +665,47 @@
       "url": "https://open.spotify.com/track/22ZQR1KpOHhy0GzqgTOIwQ"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Destin\u00e9e",
+        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187080,
+      "name": "Baby Boy (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5mvpnxfWnht7Qk5Dx7boFe"
+      },
+      "artists": [
+        {
+          "name": "Shen",
+          "url": "https://open.spotify.com/artist/7MwWZioKq1EaMiOlxzRyOP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 128142,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/6GrG5mI6qYCscN72XO5cMZ"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Nodega",
         "url": "https://open.spotify.com/album/62BSz8pWCmSK1fxxEp9CoQ"
@@ -693,7 +733,31 @@
       "url": "https://open.spotify.com/track/5JB5bn1vu5b2MRehhI7HqK"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Somni",
+        "url": "https://open.spotify.com/album/72Tr4gYIAko7djIwgfS4i1"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 652858,
+      "name": "It Stays With You",
+      "url": "https://open.spotify.com/track/3XckH9nZTF2Y2gp6UoMotk"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/79u6HQ838dC9MxAUkXHvS6"
@@ -717,7 +781,35 @@
       "url": "https://open.spotify.com/track/07rPGAMTFCeRrpJjQXyrQ7"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "Big Dog Pt. 2",
+        "url": "https://open.spotify.com/album/0s5l2jWtroVY9Sp1IiOyBc"
+      },
+      "artists": [
+        {
+          "name": "Bert Da God",
+          "url": "https://open.spotify.com/artist/5N5KFeX6322OajPm5YZr1S"
+        },
+        {
+          "name": "Shyheim",
+          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 272880,
+      "name": "Big Dog Pt. 2",
+      "url": "https://open.spotify.com/track/78Mf25QSqilvyv5pqN5baS"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Elaenia (10 Year Anniversary)",
         "url": "https://open.spotify.com/album/4y8CLxoV77gwzciPcNNEqr"
@@ -733,7 +825,7 @@
       "url": "https://open.spotify.com/track/0M1UEWcNQLmuXfyvOvqyAN"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Metaphysical Sherpa: Spiritual Alchemy",
         "url": "https://open.spotify.com/album/6yhgMeJtyBmDnSHHfbyQgQ"
@@ -757,7 +849,31 @@
       "url": "https://open.spotify.com/track/64s2b4VAUBM3lh0S5KSqxY"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "En catimini",
+        "url": "https://open.spotify.com/album/5QC4Y9OWxPblcDK76gsX9u"
+      },
+      "artists": [
+        {
+          "name": "Jean-Luc Fonck",
+          "url": "https://open.spotify.com/artist/34RmECd3hupr0G8N7vpYSV"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        },
+        {
+          "name": "Sttellla",
+          "url": "https://open.spotify.com/artist/7eh36YiTKBxxhCChxbuN1j"
+        }
+      ],
+      "duration_ms": 146350,
+      "name": "En catimini",
+      "url": "https://open.spotify.com/track/7qIgvOXOBQI2sGJHakCfS4"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "My Payback",
         "url": "https://open.spotify.com/album/6A1WfTybv8lvaE08xniTxD"
@@ -785,7 +901,7 @@
       "url": "https://open.spotify.com/track/2a6f9Z6WXitQXLXScfIvKk"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Philip Glass & Tenzin Choegyal: Be The Sky",
         "url": "https://open.spotify.com/album/0DmLtheEK1vWDrj3NcTNzT"
@@ -821,7 +937,7 @@
       "url": "https://open.spotify.com/track/0TU6xH5FIxex6j4oeZlJup"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "American Revolution, a Film by Ken Burns, Sarah Botstein, and David Schmidt. Music From the PBS Documentary",
         "url": "https://open.spotify.com/album/0L1yIypnICd53OzV0uxAAN"
@@ -837,27 +953,7 @@
       "url": "https://open.spotify.com/track/48AhUdhr7sneJ9WKy2WkP0"
     },
     {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "WuVill",
-        "url": "https://open.spotify.com/album/4doOaei0WQ3J7WQK8Z3WCa"
-      },
-      "artists": [
-        {
-          "name": "B-HI",
-          "url": "https://open.spotify.com/artist/6OD4c7PdZkOdvuvphSplF1"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 191889,
-      "name": "Ya Highnezz",
-      "url": "https://open.spotify.com/track/1CW5I2P2OKwFSdNPVDN44J"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
+      "added_at": "2025-11-28 05:00:00",
       "album": {
         "name": "Drop That Shit",
         "url": "https://open.spotify.com/album/0vuefANCkOG5aLx4MQVH0O"
@@ -871,30 +967,6 @@
       "duration_ms": 120000,
       "name": "Drop That Shit",
       "url": "https://open.spotify.com/track/2XtjdpFZ9ZovLAy2RJrv3r"
-    },
-    {
-      "added_at": "2025-11-21 05:00:00",
-      "album": {
-        "name": "A Wonderful Holiday",
-        "url": "https://open.spotify.com/album/7Jr217zqDAsLZGrlggtq7G"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Shelea Frazier",
-          "url": "https://open.spotify.com/artist/6OPntGXtNj76UndGx0aHU5"
-        },
-        {
-          "name": "B.Slade",
-          "url": "https://open.spotify.com/artist/6pkVb5qgplY8wKqV9uyD1p"
-        }
-      ],
-      "duration_ms": 241363,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/2CHrl78th19Dq4YJUL4aHd"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

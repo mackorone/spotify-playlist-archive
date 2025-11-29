@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-332 songs - 18 hr 1 min
+334 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [BLACKBIRD](https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [BLACKBIRD](https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW) | 2:08 | 2023-02-03 | 2024-10-19 |
 | [Blackbird](https://open.spotify.com/track/2gHs36DV2So9lW0boL5XeY) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:19 | 2023-01-04 | 2023-01-20 |
 | [Blackbird \- Special Edition](https://open.spotify.com/track/0UHG3Gy4tL87HzRktavNr1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:19 | 2022-08-26 | 2023-01-12 |
-| [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 |  |
+| [Blank Space \- Acoustic](https://open.spotify.com/track/33XljpJIYSrlAy6nD9SVpm) | [Scottie](https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K) | [Blank Space \- Acoustic](https://open.spotify.com/album/77iOxkdJOIWcJIHe5peMKq) | 4:05 | 2022-10-14 | 2025-11-29 |
 | [Blanket On The Ground](https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Blanket On The Ground](https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo) | 3:33 | 2023-03-31 | 2023-09-01 |
 | [Bless the Broken Road](https://open.spotify.com/track/1EeCCbgSTeusyCCswMNvyc) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Bless the Broken Road](https://open.spotify.com/album/6iKcEtNDnjXaPtHGL9Vnwo) | 3:06 | 2022-10-14 |  |
 | [Blinding Lights](https://open.spotify.com/track/7q8Tf2APnxcQWKT69nfegF) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Blinding Lights](https://open.spotify.com/album/34fwE3cLPQVlNRA8seANC1) | 3:26 | 2024-02-02 |  |
@@ -76,6 +76,7 @@
 | [Closer](https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH) | [Eric Serenade](https://open.spotify.com/artist/6Hqfwx2sW2vYX6tvA1SMda) | [Closer](https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih) | 3:08 | 2024-08-30 |  |
 | [Complicated](https://open.spotify.com/track/7t24uFfZmiMrYMUIgaCQ3e) | [Ben & Tim](https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv) | [Complicated](https://open.spotify.com/album/5DJqyKsCjkMaU3CiSOoTxA) | 3:02 | 2023-08-08 |  |
 | [Constant Craving](https://open.spotify.com/track/3uSmwh3Dp1bBIrYPylNnWt) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Constant Craving](https://open.spotify.com/album/5i547fQ91ASnxLdTixmhyY) | 2:51 | 2022-08-26 | 2023-01-20 |
+| [Crazy](https://open.spotify.com/track/1xGVmK3MKRxlr5p9QQJ7hg) | [late september](https://open.spotify.com/artist/6vmXDaMIqG9xlTi4d65wuc) | [Crazy](https://open.spotify.com/album/17xJ0M1bBeUxR7yrc7hMpp) | 3:23 | 2025-11-28 |  |
 | [Crazy Love](https://open.spotify.com/track/5zIJSNhDKaBsSlgbkcBS8Q) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Crazy Love](https://open.spotify.com/album/3ssxRD3YsdiESDBhp42uiy) | 3:12 | 2023-02-17 |  |
 | [Dancing In The Dark](https://open.spotify.com/track/1bqxj84nNs2iic1dsi6h9K) | [Bear Little](https://open.spotify.com/artist/5gf3VTWJ6siWvD4xtPUfJf) | [Dancing In The Dark](https://open.spotify.com/album/6OV5a9PVlsfnMVtgKPc1Gy) | 3:17 | 2022-08-26 | 2023-02-03 |
 | [dancing in the moonlight](https://open.spotify.com/track/3tRQA9BwdAQ4Xz4Bkepv8E) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [dancing in the moonlight](https://open.spotify.com/album/3yP1s7qjVjxHYa9tZNMG6r) | 1:58 | 2024-10-18 |  |
@@ -100,6 +101,7 @@
 | [End of Beginning](https://open.spotify.com/track/4V1yfubkZxKCJCMi04I9X2) | [Mellow Boo](https://open.spotify.com/artist/5CHDQxGo8jQFR57do29LMp) | [End of Beginning](https://open.spotify.com/album/2ns3pZFMMaMKf3LbKAFqup) | 2:36 | 2025-10-16 |  |
 | [End Of The Road](https://open.spotify.com/track/01sHaFgDKSq32CO7M7zc3p) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [End Of The Road](https://open.spotify.com/album/1K9raKQnK8fyDDa7CPsPaH) | 3:15 | 2022-08-26 | 2023-01-20 |
 | [Enjoy the Silence](https://open.spotify.com/track/43i4sdTLCnalaVPtXsIeSp) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [Enjoy the Silence](https://open.spotify.com/album/07u9PipIdLMHFX2wq3JHNG) | 2:28 | 2022-08-26 | 2023-05-12 |
+| [Espresso](https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6) | [LAJKA](https://open.spotify.com/artist/1TXoz9sNHLfykNUS07PZOh) | [Espresso](https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS) | 2:40 | 2025-11-28 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2022-08-26 | 2022-12-24 |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/2JcfyEmEWwdlgLKq44ALCU) | [Chlara](https://open.spotify.com/artist/39rKElzF7q6K4O2flycSEc) | [\#acousticNOW5](https://open.spotify.com/album/3mCzvH0RCKiZft5aZClNNU) | 3:38 | 2022-08-26 | 2022-12-24 |
 | [Eyes Closed](https://open.spotify.com/track/6Haih5koeTEO8I5SL30VE4) | [OSIS](https://open.spotify.com/artist/3y4Zdm8q9efdnD8LC7Ryea) | [Eyes Closed](https://open.spotify.com/album/3RwTMkKgKPczeOBQTVK94g) | 3:26 | 2023-05-12 |  |
@@ -280,7 +282,7 @@
 | [So Hot You're Hurting My Feelings \- Acoustic](https://open.spotify.com/track/2y4KKdn0UQPCIh0wbBYfgR) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Acoustic EP](https://open.spotify.com/album/2hqtH9rg9G0BsaymBNA8Bp) | 2:46 | 2022-12-23 | 2024-04-19 |
 | [Someone I Used To Know](https://open.spotify.com/track/3cQlRg6dG0hdA2r9MWtXAW) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Someone I Used To Know](https://open.spotify.com/album/4JT9X9aNNbHLLpXF2HMBZR) | 2:21 | 2023-04-14 | 2023-09-01 |
 | [Someone You Loved](https://open.spotify.com/track/5VhW6Px1Nxc2gTqdS4isdl) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/3BY5B7BMQJ2LwKAjw5SJu8) | 3:25 | 2023-02-03 | 2024-04-19 |
-| [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-08-26 |  |
+| [Someone You Loved](https://open.spotify.com/track/6o49CIQox7lfuEpxDw0FRN) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Acoustic Sessions](https://open.spotify.com/album/0nlQDrmzmr6aLzw3TkkEze) | 3:25 | 2022-08-26 | 2025-11-29 |
 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 | 2022-08-26 |  |
 | [Speak Your Heart](https://open.spotify.com/track/3d4k38C0dO6BWOkPn62eey) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s), [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Speak Your Heart](https://open.spotify.com/album/6XWyL2HcchIDLcTQCcE4Hy) | 3:47 | 2022-08-26 | 2023-02-18 |
 | [Stand by Me](https://open.spotify.com/track/3bkrE2TqHt5o8OZmvdtlfv) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Stand by Me](https://open.spotify.com/album/0zdozOrvqTR9fhHsbV8wPE) | 2:22 | 2022-08-26 | 2022-12-24 |

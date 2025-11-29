@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Opeth
 
-848 songs - 3 day 0 hr 39 min
+849 songs - 3 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [As the Sea Divides](https://open.spotify.com/track/2ajQYCwCyfVU6PIkPk6Sz9) | [Shattered Skies](https://open.spotify.com/artist/01x1T6wFazEkb6L3DjaIYX) | [Songs in the Key of D](https://open.spotify.com/album/5Q6P6hVIPRyX2K6ha1Npqj) | 5:52 | 2021-12-17 | 2022-01-29 |
 | [Assassins](https://open.spotify.com/track/3AG4HbsTsfWs9UxQkiZjjW) | [HYVMINE](https://open.spotify.com/artist/04SzeqqeUYtUPhwyEGCVbz) | [Assassins](https://open.spotify.com/album/6nMcudVxY5q322alkFs2wh) | 5:50 | 2021-12-17 | 2022-07-29 |
 | [Astral Liberation](https://open.spotify.com/track/4W0pJ4h0uQvQMbBU9aRbXC) | [The Paralydium Project](https://open.spotify.com/artist/2tDD4Lon3s0KIvXbCnNzFO) | [The Paralydium Project](https://open.spotify.com/album/4ts2vqasJLcacHS9sQY0MZ) | 8:40 | 2021-12-17 | 2022-01-28 |
-| [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 | 2025-02-07 |  |
+| [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 | 2025-02-07 | 2025-11-29 |
 | [At the behest of night](https://open.spotify.com/track/54549MU3UapPjbGzY3PUXq) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [At the behest of night](https://open.spotify.com/album/2rq8tI4CdZUcha8VioRobG) | 5:03 | 2021-12-17 | 2022-07-28 |
 | [At the behest of night](https://open.spotify.com/track/7fHFdpyc17WghB8DAicz6S) | [In Mourning](https://open.spotify.com/artist/0gsIXiV7rw5I9wJaxgoOdB) | [The Bleeding Veil](https://open.spotify.com/album/2CUsVsLGck7UNb0XCi7Mvw) | 5:03 | 2022-09-02 | 2023-01-21 |
 | [At the Behest of Origins](https://open.spotify.com/track/1T3tO7bdsMwlA8W4hWbXwE) | [Stengah](https://open.spotify.com/artist/4tvaP00z8io0RNfc8ib0sF) | [At the Behest of Origins](https://open.spotify.com/album/6WdZ2mbYCKFIB8NcTOJUef) | 4:32 | 2021-12-17 | 2022-01-22 |
@@ -424,7 +424,7 @@
 | [Lotus](https://open.spotify.com/track/3aUXwNbiCZRkuA0p2Ic79Y) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/4XiQU9w2Ldk1WYSa8Qm5qd) | 5:23 | 2021-12-17 | 2022-07-01 |
 | [Love in the Time of Pestilence](https://open.spotify.com/track/1L4BtGYob6EaRXLDzSmcom) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Love in the Time of Pestilence](https://open.spotify.com/album/2umQh1Vbk9Kxvpg8dlkvId) | 7:41 | 2021-12-31 | 2022-07-27 |
 | [Love Weapon](https://open.spotify.com/track/0YWKzSTSpRTjdQp1Wmym4M) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Love Weapon](https://open.spotify.com/album/4XbIcl1VoAf9T8OTWkYdfv) | 4:40 | 2025-10-24 | 2025-11-08 |
-| [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 | 2023-02-24 | 2025-11-28 |
+| [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 | 2023-02-24 |  |
 | [Lucid \- Instrumental](https://open.spotify.com/track/2ZxbarbDgwGoe2DwoNM3v7) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/7ja3OhYK0rI9jO9N1rnc6r) | 4:30 | 2022-07-13 | 2024-06-11 |
 | [Lunatic Fringe](https://open.spotify.com/track/5aFvQjdc3KvJEvUkEHI7TL) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Lunatic Fringe](https://open.spotify.com/album/5rrj2JXuTlR2QY3vtrSQTE) | 4:13 | 2021-12-17 | 2022-07-28 |
 | [MADARA · endless dream](https://open.spotify.com/track/1DHbRaVkKEUneuzlVN4Yoc) | [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj) | [MADARA · endless dream](https://open.spotify.com/album/5YB8RXBdO0fvRK7PRjYnS1) | 4:08 | 2025-09-26 |  |
@@ -452,6 +452,7 @@
 | [Mirrorman](https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP) | [Black Orchid Empire](https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1) | [Mirrorman](https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH) | 5:05 | 2025-08-29 |  |
 | [Misguided](https://open.spotify.com/track/7a0lsYzYQVJFrYXyJwEugp) | [Distorted Harmony](https://open.spotify.com/artist/014v7wyYEzOsxoWbiqXFOA) | [Chain Reaction](https://open.spotify.com/album/5uYS1yyyEAnzovt5yOLcvs) | 8:33 | 2021-12-17 | 2022-01-29 |
 | [mnemonic](https://open.spotify.com/track/5Y6WHnoBdimQ9Gm3P1jxig) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [mnemonic](https://open.spotify.com/album/2QiKnj6bf2La7Jow51PYJG) | 4:49 | 2023-12-06 |  |
+| [Moment](https://open.spotify.com/track/64qXgECEcs6Xf6IJVwZ3lx) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Moment](https://open.spotify.com/album/0kXlAypsbp03KdKbhC0VcZ) | 6:31 | 2025-11-28 |  |
 | [Monarch](https://open.spotify.com/track/3qNhMJ4T70gVZPDaj3dCi8) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Monarch](https://open.spotify.com/album/5wd6XULvXyHvuxFq2wO3vY) | 4:52 | 2021-12-17 | 2022-09-03 |
 | [Mono No Aware](https://open.spotify.com/track/59fmZqAYhaGc7rPzumREFC) | [The Odious](https://open.spotify.com/artist/1Vloojr1lQdt2vl3XQ6HtE) | [Mono No Aware](https://open.spotify.com/album/6rWgutCaW1084UIJ3znx6G) | 6:49 | 2021-12-17 | 2022-07-29 |
 | [Monomyth](https://open.spotify.com/track/0WiLaIOpXOqfyMfCEuKUJ5) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [Monomyth](https://open.spotify.com/album/4QpUgATVSx1YGHvq8nDwsl) | 3:26 | 2022-07-13 | 2022-11-05 |
@@ -827,7 +828,7 @@
 | [Welcome to the Damned](https://open.spotify.com/track/1Jp5g5oyJI4R1iuvzX0Rh2) | [Gracchus](https://open.spotify.com/artist/4vxxZALsgAXbF0fDPESlqZ) | [Welcome to the Damned](https://open.spotify.com/album/4xpHKN2VldSRxx6b4gpC1g) | 5:45 | 2021-12-17 | 2023-01-21 |
 | [Westworld](https://open.spotify.com/track/0xxPniO2R2FN7lrfBrJQGf) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Westworld](https://open.spotify.com/album/7gdQWyX2P1bnl3PzNKJBXV) | 5:28 | 2021-12-17 | 2023-01-21 |
 | [What I Leave Behind](https://open.spotify.com/track/2jwKrSVn8L9FZmxwomwFNB) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Raging River](https://open.spotify.com/album/4AyosRz27DscmVHTLPpCM0) | 5:57 | 2021-12-17 | 2022-07-29 |
-| [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 | 2022-07-08 |  |
+| [What Is War](https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [What Is War](https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9) | 3:59 | 2022-07-08 | 2025-11-29 |
 | [Wheel](https://open.spotify.com/track/3AKdPJni2bJAdUDcfW3EGg) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Moving Backwards](https://open.spotify.com/album/3ljdaYc9YueusEqCmMv6yM) | 10:10 | 2021-12-17 | 2022-07-01 |
 | [when we were young](https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [when we were young](https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9) | 3:13 | 2022-08-19 |  |
 | [Where August Mourns](https://open.spotify.com/track/4j1gGmXFQFoQ6duER3N6gg) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Where August Mourns](https://open.spotify.com/album/1Qsw63G6iAWD1pWEOOc3ou) | 5:31 | 2021-12-17 | 2022-09-03 |

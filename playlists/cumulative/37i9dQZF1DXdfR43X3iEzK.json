@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        },
+        {
+          "name": "Jacob M\u00fchlrad",
+          "url": "https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279033,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA"
+    },
+    {
+      "album": {
         "name": "LOVERCORE",
         "url": "https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB"
       },
@@ -8426,7 +8448,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 123870,
       "name": "SOFT SCOOP TALKING DOG",
       "url": "https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI"

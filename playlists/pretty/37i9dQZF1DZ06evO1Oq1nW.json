@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 34018,
+  "num_followers": 34019,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAB/+/h6mWSt7aB7Fo62+Zc5",
+  "snapshot_id": "aSeUgAAAAACY+hOiKpMREwdTGj3u3e5d",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotionally Yours",
-        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "Emotionally Yours",
-      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Touch You",
         "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 318253,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotionally Yours",
+        "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "Emotionally Yours",
+      "url": "https://open.spotify.com/track/1SkVy7i1WQ5QteieGb9qeI"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 415333,
+      "name": "Family Reunion",
+      "url": "https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Favorite Person",
         "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 216600,
       "name": "Let Me Make Love To You",
       "url": "https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 415333,
-      "name": "Family Reunion",
-      "url": "https://open.spotify.com/track/1ECFqMRNA6NFbRXgbHl87e"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential O'Jays",
-        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 181426,
-      "name": "I'll Be Sweeter Tomorrow (Than I Was Today)",
-      "url": "https://open.spotify.com/track/704ko7ZDPIYq51VxFT7TJU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emotionally Yours",
         "url": "https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 283600,
       "name": "Keep On Lovin' Me",
       "url": "https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 181426,
+      "name": "I'll Be Sweeter Tomorrow (Than I Was Today)",
+      "url": "https://open.spotify.com/track/704ko7ZDPIYq51VxFT7TJU"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Favorite Person",
-        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
+        "name": "Live In London",
+        "url": "https://open.spotify.com/album/3hfWpCxiuNDogbYIbx4ZQg"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 255733,
-      "name": "My Favorite Person",
-      "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
+      "duration_ms": 583373,
+      "name": "Wildflower - Live at Hammersmith Odeon, London, England - December 1973",
+      "url": "https://open.spotify.com/track/7rMPj6IZQGoLT75rC8m1m3"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In London",
-        "url": "https://open.spotify.com/album/3hfWpCxiuNDogbYIbx4ZQg"
+        "name": "My Favorite Person",
+        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 583373,
-      "name": "Wildflower - Live at Hammersmith Odeon, London, England - December 1973",
-      "url": "https://open.spotify.com/track/7rMPj6IZQGoLT75rC8m1m3"
+      "duration_ms": 255733,
+      "name": "My Favorite Person",
+      "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,656 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,667 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [Llueve](https://open.spotify.com/track/1gnzgNCAULZMgU3vsEwb9w) | [Los Rusos Hijos de Puta](https://open.spotify.com/artist/7HMBGT3pyDCDQrBkDiKwkW) | [Llueve](https://open.spotify.com/album/0qo6T7TGB8uh0ddsKXNwzo) | 2:15 |
 | 100 | [Boca de Dama](https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi) | [Socorro](https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA) | [Exquisito como el Disgusto](https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP) | 4:23 |
 
-Snapshot ID: `AAAAAMGIOnJ9cx9MKYBLwsvGRAahjKKJ`
+Snapshot ID: `AAAAACXfw12N8AzL5Kn4H9WFVnjUM55G`

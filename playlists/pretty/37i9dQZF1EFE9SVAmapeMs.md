@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 48 | [Ready Set Go \(feat\. 03 Greedo & XXXTENTACION\)](https://open.spotify.com/track/5Iz8Iz5jdWwW95JusFxGrC) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:01 |
 | 49 | [One Mo' Gen](https://open.spotify.com/track/7pwAOy7WJBeSBPbH9lXvI8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:25 |
 | 50 | [Lady In Yellow](https://open.spotify.com/track/0EnAawF5uCdpjt3Tp44nXl) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Teenage Emotions](https://open.spotify.com/album/6upTR3RFKR7K20OnHRXDkL) | 3:38 |
-| 51 | [Never Let Up](https://open.spotify.com/track/5fn4YpsHIowEeWfuyhQbnP) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Surrender Your Soul](https://open.spotify.com/album/4VIdladobId1PgK1qpeFDM) | 2:30 |
-| 52 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
+| 51 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
+| 52 | [Never Let Up](https://open.spotify.com/track/5fn4YpsHIowEeWfuyhQbnP) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Surrender Your Soul](https://open.spotify.com/album/4VIdladobId1PgK1qpeFDM) | 2:30 |
 | 53 | [Antares](https://open.spotify.com/track/3NTQws0JI0usmAUXHD8Gia) | [Kris Wu](https://open.spotify.com/artist/2lbUjuMzHkT4qIECvk2f3L) | [Antares](https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS) | 3:06 |
 | 54 | [TORTURED](https://open.spotify.com/track/6lf3AVE3AkyTcRqtLcSyIm) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:55 |
 | 55 | [Odd Future](https://open.spotify.com/track/1theg4U4CQUh3PHK7uu8Tk) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Odd Future](https://open.spotify.com/album/5SjfLDf3bJsI0duL0ufSZg) | 4:47 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 68 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 | 69 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `AcCvSAAAAAC3QEUTRGKHhCrHMVba56dF`
+Snapshot ID: `AcC06AAAAAD0mqbQNLCj7pj1zDVOqTbi`

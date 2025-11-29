@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨DJ Suzy ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,763 likes - 286 songs - 15 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,924 likes - 286 songs - 15 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Silent War](https://open.spotify.com/track/3o2yy5B9AEuw791DZMBjok) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Silent War](https://open.spotify.com/album/3pIyEjKUoytocadT9yQbAZ) | 3:59 |
 | 2 | [Winny](https://open.spotify.com/track/4qhrMsB4w2pHYB3BhX5WPr) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Winny](https://open.spotify.com/album/63ITryjqkiwjmk3GABslAj) | 4:24 |
-| 3 | [Track 2](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 |
 | 4 | [wanna know](https://open.spotify.com/track/1vXR2dgcg46srmu4pYleX1) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Significant Value](https://open.spotify.com/album/1XlxQ0FxsIsNM8tu4BZ9uH) | 2:40 |
 | 5 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
 | 6 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 |

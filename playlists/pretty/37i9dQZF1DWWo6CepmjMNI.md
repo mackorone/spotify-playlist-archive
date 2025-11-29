@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: loserpop
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,532 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,535 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 |
 | 50 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 |
 
-Snapshot ID: `AAAAACqR6hg1SXjmbunHymJXLKA02n/Q`
+Snapshot ID: `AAAAAM97CtITA0KFOo8cCVmTaEPfWFFO`

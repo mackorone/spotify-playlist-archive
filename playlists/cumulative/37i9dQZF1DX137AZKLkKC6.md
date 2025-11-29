@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-319 songs - 16 hr 27 min
+321 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2 Veces](https://open.spotify.com/track/2G5kj8gYNAVM4pQ0IBBaGA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [2 Veces](https://open.spotify.com/album/0ddW33CDTAi75BC9ELsXSJ) | 3:09 | 2022-08-12 |  |
 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 | 2022-08-12 | 2024-09-27 |
 | [77](https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [77](https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq) | 3:35 | 2023-05-12 | 2023-05-27 |
-| [A Ella](https://open.spotify.com/track/1I88XGUqtzp4GhlxkeSMQr) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Rodeos](https://open.spotify.com/album/7nJKLhhZcVY9bFcBY4JNE4) | 2:55 | 2025-08-08 |  |
+| [A Ella](https://open.spotify.com/track/1I88XGUqtzp4GhlxkeSMQr) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Rodeos](https://open.spotify.com/album/7nJKLhhZcVY9bFcBY4JNE4) | 2:55 | 2025-08-08 | 2025-11-29 |
 | [Acapulco](https://open.spotify.com/track/5xWl4EKIDgoBEekNbNDrvJ) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Acapulco](https://open.spotify.com/album/1Tef5lg7nycsUlABVz41Cy) | 3:03 | 2023-09-15 | 2023-10-19 |
 | [Adicta al Dolor](https://open.spotify.com/track/0V0350NvG0jvbiUTXPzIXU) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [Adicta al Dolor](https://open.spotify.com/album/4s8Cb35rdzwYijUoRpXCPL) | 2:53 | 2022-08-12 |  |
 | [Adiós Amor](https://open.spotify.com/track/0HhtLyMxtbpaZon5A8OQU6) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/3K9yYCwXWBRI8KrIpt2cC5) | 3:19 | 2024-04-05 |  |
@@ -83,7 +83,7 @@
 | [DIME QUE PREFIERES](https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [DIME QUE PREFIERES](https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq) | 3:21 | 2025-08-08 |  |
 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 | 2023-04-28 | 2023-09-09 |
 | [Distancia 83](https://open.spotify.com/track/74wblrz6ymCY45Ftco0qqK) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [Distancia 83](https://open.spotify.com/album/3hxmMGEW4KzM4HBCsn0xUE) | 3:01 | 2023-04-14 | 2023-04-29 |
-| [DOLCE](https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [DOLCE](https://open.spotify.com/album/0QJKGRAF89Fcgw2ho6oW6A) | 3:21 | 2025-04-16 |  |
+| [DOLCE](https://open.spotify.com/track/4Y8aEVWS9Wtc63EkEACjS4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [DOLCE](https://open.spotify.com/album/0QJKGRAF89Fcgw2ho6oW6A) | 3:21 | 2025-04-16 | 2025-11-29 |
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 | 2024-02-24 |
 | [Dulce Pecado](https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Dulce Pecado](https://open.spotify.com/album/4uKTBb1RCAHdxo5kGeT3q3) | 2:55 | 2023-02-24 | 2023-03-04 |
 | [Dulce Pecado](https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:55 | 2022-08-12 | 2023-02-25 |
@@ -102,6 +102,7 @@
 | [El Liso](https://open.spotify.com/track/42ZxwmSUhD6oTekjr7ctJv) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv) | [El Liso](https://open.spotify.com/album/5mrUzu7rgCkj3e62qucrg2) | 3:02 | 2025-08-08 | 2025-11-15 |
 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 | 2023-02-13 | 2023-08-19 |
 | [El Malo \- Remix](https://open.spotify.com/track/15FunEnp98TNXSnfb2wECW) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Malo \(Remix\)](https://open.spotify.com/album/3gjPRTTtRKp3tmDVtA8EO9) | 4:19 | 2023-08-18 |  |
+| [El Mozo](https://open.spotify.com/track/3JneBHxVFNoys9wYrOg4cM) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW), [Daniel Merak](https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK) | [El Mozo](https://open.spotify.com/album/4uquyLXvfIUlXkeZQqc8ss) | 3:24 | 2025-11-28 |  |
 | [El Niño del Barrio](https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [El Niño del Barrio](https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm) | 2:16 | 2025-03-07 |  |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/45DhsSxAU4rENWHUfaZedt) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/3hoHs5feFArgYdfpEoQTqq) | 5:01 | 2022-08-12 | 2024-04-19 |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/4LbGHQLSkcDZlYpufbtJBQ) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/5mab8qFRUJFw6ale18NflS) | 5:01 | 2024-04-05 | 2025-11-15 |
@@ -179,6 +180,7 @@
 | [Me Llamó Mi Ex \- Remix](https://open.spotify.com/track/0FcAVXegYuB0UTAQOdhBoZ) | [Dany Cardona](https://open.spotify.com/artist/3JgApvKfEl4tdErCKQEhIv), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Me Llamó Mi Ex \(Remix\)](https://open.spotify.com/album/0Whs8AXifgHtgXauwndBLe) | 3:09 | 2024-08-02 | 2025-02-08 |
 | [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 | 2023-05-13 |
 | [Me Recordaras](https://open.spotify.com/track/1Rgapgagk9d7HnGrcYh55l) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Me Recordaras](https://open.spotify.com/album/0rZjGjQ7Ldvcn43ecZ1z2b) | 3:28 | 2025-02-21 |  |
+| [Me Retiré](https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Me Retiré](https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx) | 2:04 | 2025-11-28 |  |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 | 2023-09-23 |
 | [Melancolía](https://open.spotify.com/track/4lel8m8KSkmGlRYdOV6zk4) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv) | [Melancolía](https://open.spotify.com/album/1GZGQpmwMbtj8hty4KFkbP) | 2:37 | 2022-10-28 | 2023-01-28 |
 | [Mi Adicción](https://open.spotify.com/track/29hIEYdUegee9SPp9mWRyg) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Mi Adicción](https://open.spotify.com/album/307DczXlOZ7O1u5xFm256I) | 2:16 | 2024-03-08 | 2024-04-06 |

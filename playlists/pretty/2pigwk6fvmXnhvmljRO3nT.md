@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,803 songs - 20 day 3 hr 26 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,804 songs - 20 day 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7811,5 +7811,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7801 | [悔やむと書いてミライ](https://open.spotify.com/track/1gJvR8hrUbYPGpwKcY0hNf) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:49 |
 | 7802 | [乙女解剖](https://open.spotify.com/track/1tqmdA898RzkQpCUK1wFMm) | [暁山瑞希](https://open.spotify.com/artist/55KskxVnv2cAWebKf331ug) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:42 |
 | 7803 | [Responsibility](https://open.spotify.com/track/1UTM2QAVJcEuB4sNoUfoF4) | [Nor](https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p) | [Blue Archive 3rd Anniversary \(Original Soundtrack\)](https://open.spotify.com/album/2IoxB3yDVX8syf1cOHqxcu) | 2:03 |
+| 7804 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 |
 
-Snapshot ID: `AAAJm+aQco5GyBlrT+0BS8NFbuSLHVp+`
+Snapshot ID: `AAAJnC9Pb93LFXRaaHGca1a7JvIbVXGV`

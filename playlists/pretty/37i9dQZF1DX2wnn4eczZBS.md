@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: De Zweefclub
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,996 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,998 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 44 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
 | 45 | [Jochie](https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [De Helft Van Het Verhaal](https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4) | 4:04 |
 | 46 | [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 |
-| 47 | [Evenwicht](https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO), [Fé](https://open.spotify.com/artist/0m73YFCtlwhxvn3LiOHDNY) | [Het Moment Suprême](https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ) | 2:24 |
-| 48 | [niet meer zo](https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [niet meer zo](https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV) | 3:34 |
+| 47 | [niet meer zo](https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [niet meer zo](https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV) | 3:34 |
+| 48 | [Evenwicht](https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI) | [LE MOTAT](https://open.spotify.com/artist/5ETmxctyLILUwpIf9H30iO), [Fé](https://open.spotify.com/artist/0m73YFCtlwhxvn3LiOHDNY) | [Het Moment Suprême](https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ) | 2:24 |
 | 49 | [Zweef Hier](https://open.spotify.com/track/0WOO50jMuMIYUSpZb9bXTs) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zweef Hier](https://open.spotify.com/album/6CeCZiANVnTBmGg8Fh3AfH) | 2:32 |
 | 50 | [Haast](https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Haast](https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f) | 3:00 |
 

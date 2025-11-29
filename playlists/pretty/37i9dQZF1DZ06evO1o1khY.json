@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 42287,
+  "num_followers": 42294,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADV88ic4jd8MPq89hq/CQPf",
+  "snapshot_id": "aSeUgAAAAAB08kA3eYJrCLdPzW4E0Ado",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "love?... or something like it",
-        "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
+        "name": "ILBB2 (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
       },
       "artists": [
         {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+          "name": "Jorjiana",
+          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
         },
         {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 241507,
-      "name": "know about me (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
+      "duration_ms": 133589,
+      "name": "ILBB2 (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ILBB2 (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/4Ix1k6xM0MnwXWSiYe6f5R"
-      },
-      "artists": [
-        {
-          "name": "Jorjiana",
-          "url": "https://open.spotify.com/artist/3tIDgNCk7FQmTHl7hEj1rF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 133589,
-      "name": "ILBB2 (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/6rqskah6GlMDlWAvkUym0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 132000,
       "name": "Redbone (with GloRilla)",
       "url": "https://open.spotify.com/track/7nP8jrKvubPXbVHE52OPdo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "love?... or something like it",
+        "url": "https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 241507,
+      "name": "know about me (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 199741,
       "name": "Accent (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
     },
     {
       "added_at": null,

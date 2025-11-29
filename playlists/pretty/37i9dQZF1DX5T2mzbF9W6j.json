@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112205,
+  "num_followers": 112203,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-11-14 12:19:18",
       "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
+    },
+    {
+      "added_at": "2025-11-14 12:19:18",
+      "album": {
         "name": "Oj, dziewczyno!",
         "url": "https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 158268,
       "name": "Oj, dziewczyno!",
       "url": "https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4"
-    },
-    {
-      "added_at": "2025-11-14 12:19:18",
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": "2025-11-14 12:19:18",
@@ -935,26 +935,6 @@
     {
       "added_at": "2025-11-14 12:19:18",
       "album": {
-        "name": "JESZCZE RAZ",
-        "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
-      },
-      "artists": [
-        {
-          "name": "Kinny Zimmer",
-          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
-        },
-        {
-          "name": "Kaptur",
-          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
-        }
-      ],
-      "duration_ms": 206367,
-      "name": "JESZCZE RAZ",
-      "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
-    },
-    {
-      "added_at": "2025-11-14 12:19:18",
-      "album": {
         "name": "Naiwna ja",
         "url": "https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 140111,
       "name": "Naiwna ja",
       "url": "https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v"
+    },
+    {
+      "added_at": "2025-11-14 12:19:18",
+      "album": {
+        "name": "JESZCZE RAZ",
+        "url": "https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        }
+      ],
+      "duration_ms": 206367,
+      "name": "JESZCZE RAZ",
+      "url": "https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T"
     },
     {
       "added_at": "2025-11-14 12:19:18",

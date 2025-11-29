@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 101288,
+  "num_followers": 101340,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Fullg\u00e1s",
         "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 247533,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Canto Das Tr\u00eas Ra\u00e7as",
+        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Gal Estratosf\u00e9rica",
         "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 205200,
       "name": "Timoneiro",
       "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Canto Das Tr\u00eas Ra\u00e7as",
-        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Focus On...500 Years Of Brazil",
-        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Conto de Areia",
         "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 178613,
       "name": "O Mar Serenou",
       "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Focus On...500 Years Of Brazil",
+        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Conversa Fiada",
-        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 196810,
-      "name": "Conversa Fiada",
-      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "20 Grandes \u00caxitos",
         "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 215600,
       "name": "Swing da Cor - Ao Vivo",
       "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Conversa Fiada",
+        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 196810,
+      "name": "Conversa Fiada",
+      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -915,38 +915,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Realce",
-        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Realce",
-      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Ligeiro",
-        "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 211588,
-      "name": "Ligeiro",
-      "url": "https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -975,6 +943,38 @@
       "duration_ms": 185280,
       "name": "S\u00e3o Jorge",
       "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Ligeiro",
+        "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 211588,
+      "name": "Ligeiro",
+      "url": "https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Realce",
+        "url": "https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Realce",
+      "url": "https://open.spotify.com/track/6991iMrfqqHjYSPzsobNeW"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Pequim",
         "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 198897,
       "name": "Pequim",
       "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
-      },
-      "artists": [
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1147,30 +1147,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Olorum",
-        "url": "https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O"
-      },
-      "artists": [
-        {
-          "name": "Mateus Aleluia",
-          "url": "https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv"
-        },
-        {
-          "name": "Thiago Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
-        },
-        {
-          "name": "Pastoras do Ros\u00e1rio",
-          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Canta Sabi\u00e1",
-      "url": "https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Mudei de Ideia",
         "url": "https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw"
       },
@@ -1199,6 +1175,30 @@
       "duration_ms": 256053,
       "name": "P\u00e9 do Meu Samba - Ao Vivo",
       "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Olorum",
+        "url": "https://open.spotify.com/album/2fiHxJmtaxhALNt1FQkN4O"
+      },
+      "artists": [
+        {
+          "name": "Mateus Aleluia",
+          "url": "https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv"
+        },
+        {
+          "name": "Thiago Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
+        },
+        {
+          "name": "Pastoras do Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Canta Sabi\u00e1",
+      "url": "https://open.spotify.com/track/6wacEauGn1wWnqyi9sbLw8"
     }
   ],
   "unique_name": "Baile Maravilha",

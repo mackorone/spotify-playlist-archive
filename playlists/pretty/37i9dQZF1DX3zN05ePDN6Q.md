@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Sant, L7NNON, Mc Marechal
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,022 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,080 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 11 | [Etiqueta \(Under Sesh \#9\)](https://open.spotify.com/track/0KhxrKcloIqedRkOBqKULg) | [Lucky Real](https://open.spotify.com/artist/4eYZoQdST7n6eEraQfMXcz), [Long beatz](https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Etiqueta \(Under Sesh \#9\)](https://open.spotify.com/album/4NCFK3Hu3GmucbNhOomGJ8) | 2:30 |
 | 12 | [Homens de Negócio](https://open.spotify.com/track/2vfACVbjl5dptW2BWlo5Fk) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Homens de Negócio](https://open.spotify.com/album/6C2TmhVZ83ZGOZzvcKG7UH) | 2:42 |
 | 13 | [Dharma](https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:18 |
-| 14 | [Chega Namoral](https://open.spotify.com/track/1VaJpZRGFBdLtX5HcrUq3D) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Chega Namoral](https://open.spotify.com/album/5I8rpQyluLYg5wgpCB6aIW) | 4:02 |
+| 14 | [Relíquias do Bairro](https://open.spotify.com/track/1VaJpZRGFBdLtX5HcrUq3D) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD) | [Relíquias do Bairro](https://open.spotify.com/album/5I8rpQyluLYg5wgpCB6aIW) | 4:02 |
 | 15 | [LÁ DA 019](https://open.spotify.com/track/0d40dU8PlnOmaCNgcMUCaA) | [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54), [Gui Cunha](https://open.spotify.com/artist/6xKCjLlyTnGQnncGoAnH60), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Mackson Kennedy](https://open.spotify.com/artist/4wxdre2KysU64aU6XvhJMI) | [ALMA DE PROTAGONISTA](https://open.spotify.com/album/7zk97gDKTtJRwHEWz8yL7N) | 3:26 |
 | 16 | [PERFIL \#107 \- RESILIÊNCIA](https://open.spotify.com/track/6hZREi3EtO4s0kfY9caSLT) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [PERFIL \#107 \- RESILIÊNCIA](https://open.spotify.com/album/2K2I0p8Gk1SX1NZvPKoJ1s) | 2:47 |
 | 17 | [Alucinações e Reflexões](https://open.spotify.com/track/5VCs1YptggXPpaBzlxIrb1) | [PaZSado](https://open.spotify.com/artist/2CIlA8xeXEe4ZIANVB05Yv), [Digmanybeats](https://open.spotify.com/artist/6S3UKXF6SJpHxa0IAsiFrf), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2), [Janvi](https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ) | [Alucinações e Reflexões](https://open.spotify.com/album/24jiVLscggBO4g0smxg7fC) | 2:01 |

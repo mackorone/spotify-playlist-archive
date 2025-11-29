@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 119686,
+  "num_followers": 119738,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman Sextet",
+          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
+        },
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Wholly Cats (feat. Charlie Christian)",
+      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Vital Techtones",
         "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 345706,
       "name": "Giant Steps",
       "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Sextet",
-          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
-        },
-        {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Wholly Cats (feat. Charlie Christian)",
-      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Time On My Hands",
-        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 267800,
-      "name": "Let's Say We Did",
-      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Early Stan",
         "url": "https://open.spotify.com/album/1V0xTNXZSiQEpkcM1vdc56"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Time On My Hands",
+        "url": "https://open.spotify.com/album/204uhoOaWn4a1XK8RmJi92"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 267800,
+      "name": "Let's Say We Did",
+      "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 280333,
       "name": "Freedom Dance",
       "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Deep Song",
+        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 502440,
+      "name": "Brooklyn Sometimes",
+      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1247,22 +1263,6 @@
       "duration_ms": 384413,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Deep Song",
-        "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 502440,
-      "name": "Brooklyn Sometimes",
-      "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "I Have The Room Above Her",
         "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -1375,30 +1375,6 @@
       "duration_ms": 271200,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/3hQ6hSnDRPpHht0jK9AWeg"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        },
-        {
-          "name": "Reuben Rogers",
-          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
-        },
-        {
-          "name": "Eric Harland",
-          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
-        }
-      ],
-      "duration_ms": 432093,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1431,6 +1407,30 @@
       "duration_ms": 396360,
       "name": "Little Walk",
       "url": "https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/4juJmyC6vE1k4KYZVSJYMQ"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        },
+        {
+          "name": "Reuben Rogers",
+          "url": "https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "duration_ms": 432093,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Jazz Winds From A New Direction",
-        "url": "https://open.spotify.com/album/4Vm5jnLkuiWyxkFAgfYknB"
-      },
-      "artists": [
-        {
-          "name": "Hank Garland",
-          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Past Present",
         "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 321866,
       "name": "Enjoy The Future !",
       "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Jazz Winds From A New Direction",
+        "url": "https://open.spotify.com/album/4Vm5jnLkuiWyxkFAgfYknB"
+      },
+      "artists": [
+        {
+          "name": "Hank Garland",
+          "url": "https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx"
     },
     {
       "added_at": "2025-09-10 12:20:14",

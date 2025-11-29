@@ -1,13 +1,29 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: John Cale & Charli xcx",
-  "num_followers": 557118,
+  "description": "Feeling dramatic? All eyes on you. Cover: James The Seventh",
+  "num_followers": 557129,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACfFtUUORuWAhmGKEgR5MeQpDqnj",
+  "snapshot_id": "AAAAAIqt+5u/0Uf2aMM+hW3kVJJB3exf",
   "tracks": [
+    {
+      "added_at": "2025-11-28 05:00:21",
+      "album": {
+        "name": "Mind Your Business",
+        "url": "https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu"
+      },
+      "artists": [
+        {
+          "name": "James the Seventh",
+          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
+        }
+      ],
+      "duration_ms": 124878,
+      "name": "Trauma Olympics",
+      "url": "https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl"
+    },
     {
       "added_at": "2025-11-14 05:00:24",
       "album": {
@@ -27,6 +43,38 @@
       "duration_ms": 197593,
       "name": "House featuring John Cale",
       "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
+    },
+    {
+      "added_at": "2024-08-23 04:11:51",
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Army Dreamers - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
+    },
+    {
+      "added_at": "2025-11-28 05:00:21",
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/7oNPziidIN0W0BeX5YULBo"
+      },
+      "artists": [
+        {
+          "name": "Ninush",
+          "url": "https://open.spotify.com/artist/1p5RlGU6wB8WuQc024cWB0"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/6wL3cuhOPz17kioLBs2Ger"
     },
     {
       "added_at": "2025-10-31 04:00:43",
@@ -61,22 +109,6 @@
       "url": "https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565"
     },
     {
-      "added_at": "2025-09-19 04:00:30",
-      "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
-    },
-    {
       "added_at": "2025-10-31 04:00:43",
       "album": {
         "name": "HOT POT!",
@@ -107,6 +139,38 @@
       "duration_ms": 245336,
       "name": "My Endeavour",
       "url": "https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB"
+    },
+    {
+      "added_at": "2025-11-28 05:00:21",
+      "album": {
+        "name": "Jaded / In Autumn My Heart Breaks",
+        "url": "https://open.spotify.com/album/4DEaLsNdM9Ooi08ity08m4"
+      },
+      "artists": [
+        {
+          "name": "Maddie Ashman",
+          "url": "https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO"
+        }
+      ],
+      "duration_ms": 180398,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/7x5s2nUXugkzCsW4SAAu6i"
+    },
+    {
+      "added_at": "2025-09-19 04:00:30",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
     },
     {
       "added_at": "2025-10-17 04:01:03",
@@ -191,6 +255,22 @@
       "duration_ms": 113186,
       "name": "Velcro",
       "url": "https://open.spotify.com/track/54K4WsM7uRhK0z57aoVmNr"
+    },
+    {
+      "added_at": "2025-11-28 05:00:21",
+      "album": {
+        "name": "Mr. Get Any Girl",
+        "url": "https://open.spotify.com/album/7xaM3iqfLTn1wYgDxwAVSR"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 157465,
+      "name": "Mr. Get Any Girl",
+      "url": "https://open.spotify.com/track/4pK8pBWr3awox7BAbYuypa"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -349,22 +429,6 @@
       "url": "https://open.spotify.com/track/49oZ3BaOpa7zr3bVVD9Cbf"
     },
     {
-      "added_at": "2025-09-12 04:00:22",
-      "album": {
-        "name": "He Asked for It",
-        "url": "https://open.spotify.com/album/3L2pyTDUV3Ks9fe26iFcTN"
-      },
-      "artists": [
-        {
-          "name": "Ella Red",
-          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
-        }
-      ],
-      "duration_ms": 171236,
-      "name": "He Asked for It",
-      "url": "https://open.spotify.com/track/748Jj8PHFv5YcURGcD9hrr"
-    },
-    {
       "added_at": "2025-09-22 16:38:25",
       "album": {
         "name": "Holy Water",
@@ -411,22 +475,6 @@
       "duration_ms": 175851,
       "name": "Carlos, Get in the Car!",
       "url": "https://open.spotify.com/track/0qUKGLsD5NIv2KK5KjAA3L"
-    },
-    {
-      "added_at": "2025-10-10 04:00:48",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/76xxR4qL7NneahIJKzjapk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Rowe",
-          "url": "https://open.spotify.com/artist/7kXzb6D2RxF6KjfmValKlV"
-        }
-      ],
-      "duration_ms": 371591,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/64TzwGjTpMwofrTDvfDcds"
     },
     {
       "added_at": "2025-09-15 16:36:27",
@@ -805,22 +853,6 @@
       "url": "https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO"
     },
     {
-      "added_at": "2025-07-18 04:00:30",
-      "album": {
-        "name": "Brutus",
-        "url": "https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 148051,
-      "name": "Brutus",
-      "url": "https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm"
-    },
-    {
       "added_at": "2025-08-18 02:36:33",
       "album": {
         "name": "Coyote Stories",
@@ -931,38 +963,6 @@
       "duration_ms": 223013,
       "name": "ODE TO A BLACK HOLE",
       "url": "https://open.spotify.com/track/7jiKUb6Gras1SjfhB01uzu"
-    },
-    {
-      "added_at": "2024-08-23 04:11:51",
-      "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Army Dreamers - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
-    },
-    {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "At Least I'd Be A Cowboy!",
-        "url": "https://open.spotify.com/album/3LaOLtlVtwETFzfSnae2zb"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "At Least I'd Be A Cowboy!",
-      "url": "https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW"
     },
     {
       "added_at": "2025-05-09 04:00:10",

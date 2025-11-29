@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 66096,
+  "num_followers": 66105,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACPG0I3U9rqHxnSk6kIaT6Z",
+  "snapshot_id": "aSeUgAAAAAAIzu/j0c8FVMzdRAo1KKSD",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldito Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/67Lp9kVL6E0KWnnp1fIjge"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Maldito Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4hgnCn9YlSTs1igsFyGInk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 177306,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maldito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/67Lp9kVL6E0KWnnp1fIjge"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Maldito Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4hgnCn9YlSTs1igsFyGInk"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Gabino Barrera",
-      "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Castillo de Ilusi\u00f3n",
         "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 206200,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la"
     },
     {
       "added_at": null,

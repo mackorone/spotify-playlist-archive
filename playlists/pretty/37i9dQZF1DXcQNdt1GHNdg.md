@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,392 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,542 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [0008](https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 2:12 |
+| 1 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
 | 2 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 3 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 |
 | 4 | [Hammer](https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 |
 | 50 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 
-Snapshot ID: `AAAAAEpTEfywDG4NknjRB+9HBx6iTRtw`
+Snapshot ID: `AAAAAOM+HwJlgMzSWvmuoVp9VTdTANKO`

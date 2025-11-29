@@ -9219,6 +9219,24 @@
     },
     {
       "album": {
+        "name": "Get This",
+        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/0EqWNzN38t0gTqgsxf1sRh"
       },
@@ -11492,6 +11510,24 @@
       "duration_ms": 168666,
       "name": "I Want A Dog",
       "url": "https://open.spotify.com/track/0uYYTsx565AvNkQJMzGzmK"
+    },
+    {
+      "album": {
+        "name": "I Was Ill, You Were Wrong",
+        "url": "https://open.spotify.com/album/3GOC1jdseQ1c4OEfTBvk7I"
+      },
+      "artists": [
+        {
+          "name": "TRAITRS",
+          "url": "https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305666,
+      "name": "I Was Ill, You Were Wrong",
+      "url": "https://open.spotify.com/track/0AZTuF4fVy8dcpV9l7X25b"
     },
     {
       "album": {

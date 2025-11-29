@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 323659,
+  "num_followers": 323682,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAt4ZhJaWjk1OLvGVG+5zsE",
+  "snapshot_id": "aSeUgAAAAADilfZZwAMMweFp7pDE30eH",
   "tracks": [
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Free / Up From The Skies (Demo)",
-        "url": "https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 137053,
-      "name": "Stone Free / Up From The Skies - Demo",
-      "url": "https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 469600,
       "name": "Once I Had a Woman",
       "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Free / Up From The Skies (Demo)",
+        "url": "https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 137053,
+      "name": "Stone Free / Up From The Skies - Demo",
+      "url": "https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z"
     },
     {
       "added_at": null,

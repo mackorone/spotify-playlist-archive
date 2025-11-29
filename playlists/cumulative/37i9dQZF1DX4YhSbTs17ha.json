@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Tainy y Karol G en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Julieta Venegas en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -534,6 +534,24 @@
       "duration_ms": 165663,
       "name": "Abril",
       "url": "https://open.spotify.com/track/4S225vyxNhDTPXtRgiINc2"
+    },
+    {
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184654,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "album": {
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 166480,
       "name": "Beso de Novela",
       "url": "https://open.spotify.com/track/4TOIbly1a3G25HrrPWZRRB"
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 200492,
       "name": "Eres Para M\u00ed - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV"
@@ -6370,7 +6388,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 212571,
       "name": "G.R.A.C.I.A.S.",
       "url": "https://open.spotify.com/track/7nKlVhxN2hqgND1xJ6vh3J"
@@ -10158,7 +10176,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 235026,
       "name": "Milagros",
       "url": "https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V"
@@ -12383,6 +12401,28 @@
     },
     {
       "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157745,
+      "name": "Pero Yo S\u00ed",
+      "url": "https://open.spotify.com/track/4prlsQZ6dYQLTHAua1SqcR"
+    },
+    {
+      "album": {
         "name": "Pesadilla",
         "url": "https://open.spotify.com/album/3b2z5O7s1vxHaaTsn1J1Cz"
       },
@@ -13640,6 +13680,28 @@
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181909,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
     },
     {
       "album": {
@@ -15123,6 +15185,24 @@
     },
     {
       "album": {
+        "name": "Tiempos Dorados",
+        "url": "https://open.spotify.com/album/26TiKiZVkAWxVLwZaARdKA"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193015,
+      "name": "Tiempos Dorados",
+      "url": "https://open.spotify.com/track/5URAVqeziec6KkHDqxZOBv"
+    },
+    {
+      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -16284,7 +16364,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 242857,
       "name": "VETIVER Y AMARETTO",
       "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
@@ -16328,6 +16408,28 @@
       "duration_ms": 198650,
       "name": "Viendo Vemos",
       "url": "https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH"
+    },
+    {
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
     },
     {
       "album": {

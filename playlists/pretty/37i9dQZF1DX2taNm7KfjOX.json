@@ -1,6 +1,6 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Big Thief",
-  "num_followers": 1356588,
+  "num_followers": 1356474,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "you were mine",
-        "url": "https://open.spotify.com/album/39ju9X6Fk0OXi3TMtPdCwN"
-      },
-      "artists": [
-        {
-          "name": "Esha Tewari",
-          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
-        }
-      ],
-      "duration_ms": 221584,
-      "name": "you were mine",
-      "url": "https://open.spotify.com/track/546JgeDaffKxYAt6K4U3o0"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 224419,
+      "name": "Marlay Park",
+      "url": "https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/16QA9SMR24G6Jf5GvJBJB8"
-      },
-      "artists": [
-        {
-          "name": "Amble",
-          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
-        }
-      ],
-      "duration_ms": 224419,
-      "name": "Marlay Park",
-      "url": "https://open.spotify.com/track/4Uh27w3SzvO8EPOk42xe9z"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -603,8 +603,8 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Cinder Block",
-        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 222310,
-      "name": "Cinder Block",
-      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "I Saw The Mountains",
         "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Cinder Block",
+        "url": "https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 222310,
+      "name": "Cinder Block",
+      "url": "https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1095,22 +1095,18 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "For Sale Sign (feat. Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
         }
       ],
-      "duration_ms": 266666,
-      "name": "For Sale Sign (feat. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+        "name": "For Sale Sign (feat. Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
       "artists": [
         {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
+      "duration_ms": 266666,
+      "name": "For Sale Sign (feat. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Wouldn't Come Back",
-        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Wouldn't Come Back",
-      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Anytime, Anyplace, Anyhow",
         "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Wouldn't Come Back",
+        "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Wouldn't Come Back",
+      "url": "https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "The Surface",
-        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "The Surface",
-      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 142097,
       "name": "Crown",
       "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "The Surface",
+        "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "The Surface",
+      "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Mark William Lewis",
         "url": "https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 381560,
       "name": "Tomorrow is Perfect",
       "url": "https://open.spotify.com/track/5wbrVIxqyoW16dxyqa9ZLQ"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Bus Back To Richmond / More Than Friends",
+        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 174744,
+      "name": "Bus Back To Richmond",
+      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1743,42 +1743,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Feel (with Kyson)",
-        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
-      },
-      "artists": [
-        {
-          "name": "YUUL",
-          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
-        },
-        {
-          "name": "Kyson",
-          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Feel - with Kyson",
-      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -1799,34 +1763,38 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "All For Something",
-        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
       },
       "artists": [
         {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 256245,
-      "name": "People Always Change",
-      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
         }
       ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1871,6 +1839,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 256245,
+      "name": "People Always Change",
+      "url": "https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
         "name": "Sleepless in Seattle",
         "url": "https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Dirty Laundry",
-        "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 156414,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Country",
         "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 256000,
       "name": "Abilene",
       "url": "https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Dirty Laundry",
+        "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 156414,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Nothing to Lose",
-        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "Nothing to Lose",
-      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Nobody Lives Here Anymore",
         "url": "https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 371976,
       "name": "Sold My Soul",
       "url": "https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Younger & Dumber",
         "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
@@ -2323,18 +2307,18 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 186794,
-      "name": "Square One",
-      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2351,6 +2335,22 @@
       "duration_ms": 207982,
       "name": "Stay cool",
       "url": "https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/5RxLtm4VMNQydJWFFXLqc8"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 186794,
+      "name": "Square One",
+      "url": "https://open.spotify.com/track/5taOnvtHJUxuaqaLdMNqFd"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2403,42 +2403,6 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "I Imagine You Are Happy",
-        "url": "https://open.spotify.com/album/3aEZw35iy4byUNEc6vcK25"
-      },
-      "artists": [
-        {
-          "name": "Laura Lucas",
-          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
-        },
-        {
-          "name": "Lawson Hull",
-          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
-        }
-      ],
-      "duration_ms": 217570,
-      "name": "I Imagine You Are Happy",
-      "url": "https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 285320,
-      "name": "Dizzy Spin",
-      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
-    },
-    {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
         "name": "Constantinople",
         "url": "https://open.spotify.com/album/7ErjZ7TCyUNUkoD9vYdJgd"
       },
@@ -2463,18 +2427,22 @@
     {
       "added_at": "2025-10-17 04:00:57",
       "album": {
-        "name": "Leap Year",
-        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+        "name": "I Imagine You Are Happy",
+        "url": "https://open.spotify.com/album/3aEZw35iy4byUNEc6vcK25"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Laura Lucas",
+          "url": "https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc"
+        },
+        {
+          "name": "Lawson Hull",
+          "url": "https://open.spotify.com/artist/218354K2Ph7ewCzbVvGe0K"
         }
       ],
-      "duration_ms": 345040,
-      "name": "Leap Year",
-      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+      "duration_ms": 217570,
+      "name": "I Imagine You Are Happy",
+      "url": "https://open.spotify.com/track/6xoNSCZMDFOgLSFsOz1YjL"
     },
     {
       "added_at": "2025-10-17 04:00:57",
@@ -2491,6 +2459,38 @@
       "duration_ms": 209837,
       "name": "Michelangelo",
       "url": "https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Leap Year",
+        "url": "https://open.spotify.com/album/2qiB8YSEJw27QY68Pyx1uO"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 345040,
+      "name": "Leap Year",
+      "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "added_at": "2025-10-17 04:00:57",
+      "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 285320,
+      "name": "Dizzy Spin",
+      "url": "https://open.spotify.com/track/4ZEipZpT0Rai3askcC5gkr"
     },
     {
       "added_at": "2025-10-17 04:00:57",

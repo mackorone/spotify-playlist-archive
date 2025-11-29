@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAhtzvQ+LARRhK0s+iAxKRf",
+  "snapshot_id": "aSeUgAAAAABdbAT4p/7wEVZ3nWokd+/y",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 212415,
-      "name": "No \u02bb\u0100nela U\u02bbilani, He Inoa",
-      "url": "https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD"
+      "duration_ms": 108674,
+      "name": "Molokini Hula",
+      "url": "https://open.spotify.com/track/7zcWp3M2RKV8uVQ8IFmhog"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 108674,
-      "name": "Molokini Hula",
-      "url": "https://open.spotify.com/track/7zcWp3M2RKV8uVQ8IFmhog"
+      "duration_ms": 212415,
+      "name": "No \u02bb\u0100nela U\u02bbilani, He Inoa",
+      "url": "https://open.spotify.com/track/4GpEb52SHnvTBEZNG07UbD"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
       "duration_ms": 188841,
       "name": "Honokowai",
       "url": "https://open.spotify.com/track/3vEK9J9FuhBMAK9koYYbQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
-      },
-      "artists": [
-        {
-          "name": "Keauhou",
-          "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
-        }
-      ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
     }
   ],
   "unique_name": "This Is Keauhou",

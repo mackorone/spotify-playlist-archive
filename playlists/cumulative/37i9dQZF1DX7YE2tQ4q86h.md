@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> Demi Lovato  is our main pop girl emergency 🆘
+> Robyn is always our main pop girl emergency 🆘
 
-1,515 songs - 3 day 3 hr 54 min
+1,518 songs - 3 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [After All](https://open.spotify.com/track/3y5k4YAFvknch51j0UtMIA) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [After All](https://open.spotify.com/album/3jAzhfivp48sZJRnB1P87z) | 3:12 | 2024-05-17 | 2024-05-25 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-05 | 2024-09-21 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2022-12-24 |
+| [Afterbody](https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SELLOUT II](https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI) | 3:08 | 2025-11-28 |  |
 | [Aftersun](https://open.spotify.com/track/59uOpmo1HJq3yhcdxx1epC) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Aftersun](https://open.spotify.com/album/6KIvFocAYyPaJqnHCLeQlO) | 3:00 | 2025-06-13 | 2025-07-12 |
 | [Against The Wall](https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Against The Wall](https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4) | 3:25 | 2023-11-22 | 2024-06-29 |
 | [Ahi](https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 2:37 | 2024-04-26 | 2024-05-11 |
@@ -432,7 +433,7 @@
 | [Femininomenon](https://open.spotify.com/track/1YlOZY3puELE0PgxD1enZo) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Femininomenon](https://open.spotify.com/album/6wsWilHjzetverzs9qfHZF) | 3:39 | 2022-08-12 | 2023-01-06 |
 | [Femininomenon](https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:39 | 2024-07-24 | 2025-01-25 |
 | [Fever](https://open.spotify.com/track/7aIqS1ulAFezQjAlQDn0hd) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Fever](https://open.spotify.com/album/0lTVQwPiUOS7ut4U01nl1Y) | 3:48 | 2023-02-24 | 2023-03-25 |
-| [FFFFF](https://open.spotify.com/track/33zsWwMMcJawZoy2h40eNm) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [FFFFF](https://open.spotify.com/album/6zgwKHP92p0cYgndnsk6Jd) | 3:03 | 2025-05-30 |  |
+| [FFFFF](https://open.spotify.com/track/33zsWwMMcJawZoy2h40eNm) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [FFFFF](https://open.spotify.com/album/6zgwKHP92p0cYgndnsk6Jd) | 3:03 | 2025-05-30 | 2025-11-29 |
 | [Figure You Out](https://open.spotify.com/track/2yv7z2i0N0ItdmOHgxTPtW) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Figure You Out](https://open.spotify.com/album/0Qyf9iXdQCMuzWj2yxZKGZ) | 3:29 | 2023-09-01 | 2024-01-27 |
 | [FILLE](https://open.spotify.com/track/3rqyWkpY4Qx3HVsryAOcFu) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [FILLE](https://open.spotify.com/album/1reg9VJhlIsm3n9ZthHW2Q) | 2:08 | 2025-06-20 | 2025-09-13 |
 | [Filter](https://open.spotify.com/track/104KjF0t9EnlFOoxGLxiSQ) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:31 | 2025-03-07 | 2025-07-26 |
@@ -775,6 +776,7 @@
 | [Kissing In the Cold](https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Kissing In the Cold](https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA) | 3:54 | 2024-04-19 | 2024-06-22 |
 | [Kissing It](https://open.spotify.com/track/3abL5Xh5bP0dz8RreFFsXJ) | [Pebbles&TamTam](https://open.spotify.com/artist/2Bv1Fns7qP5fQrrGQRA3Of) | [Kissing It](https://open.spotify.com/album/1iNgXieGf8CeHRzrqSSO8K) | 2:51 | 2025-07-11 | 2025-08-16 |
 | [KITTY](https://open.spotify.com/track/07V9IpmgI7kaKwoMyaldiH) | [REYSHA RAMI](https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j) | [KITTY](https://open.spotify.com/album/5elwfe8kBov1FNLAZmIZfl) | 1:45 | 2023-10-20 | 2024-06-22 |
+| [KPOP B!TCH](https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [KPOP B!TCH](https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk) | 2:52 | 2025-11-28 |  |
 | [La dadi](https://open.spotify.com/track/5kbHPzyUI8hvNWGP6xBKcV) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [La dadi](https://open.spotify.com/album/2RpsmC0H0Ozk7wUmTsbbhD) | 2:17 | 2024-05-24 | 2024-07-13 |
 | [La La La](https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [La La La](https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF) | 2:14 | 2023-08-04 | 2023-11-11 |
 | [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-09 | 2023-01-28 |
@@ -798,7 +800,7 @@
 | [Less of You](https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Less of You](https://open.spotify.com/album/5ToS3Ko163aEjhvmKr5qht) | 3:13 | 2024-06-07 | 2024-07-19 |
 | [Let Go](https://open.spotify.com/track/20ZHGiItqZgOHhZGbTEtj9) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Let Go](https://open.spotify.com/album/5xB8GG0H8xMQO7hOqsjudz) | 3:37 | 2023-12-01 | 2023-12-23 |
 | [Let Love Go](https://open.spotify.com/track/6wULOKKYcFk3K6bJnFPxMg) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Let Love Go](https://open.spotify.com/album/1neoGq8qTuu9k4QbBQqxgj) | 2:53 | 2022-07-01 | 2022-08-27 |
-| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-24 |  |
+| [Let You Go](https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 3:03 | 2025-10-24 | 2025-11-29 |
 | [Let's Go MIA](https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Let's Go MIA](https://open.spotify.com/album/4oVQuTeU8QTlgKXqTAWIb1) | 3:00 | 2023-06-09 | 2023-09-23 |
 | [Lethal Woman](https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Lethal Woman](https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ) | 2:06 | 2023-10-20 | 2024-06-15 |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-21 | 2024-10-19 |
@@ -1219,9 +1221,10 @@
 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 | 2024-09-20 | 2025-01-25 |
 | [Sour](https://open.spotify.com/track/3qWLYGfwSRXa9xlITX1tpK) | [Kaeyra](https://open.spotify.com/artist/3LRqB4U9moDI5yO6e4NrEG) | [Sour](https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c) | 3:07 | 2024-07-19 | 2025-02-08 |
 | [Space](https://open.spotify.com/track/4McwT5oQNfrrqjscHtLFLS) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Space](https://open.spotify.com/album/6BpecWwKN8nyJ3ke2YHZti) | 2:48 | 2023-07-28 | 2023-09-16 |
+| [Spazzatura \(Italo Disco\)](https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Spazzatura \(Italo Disco\)](https://open.spotify.com/album/03xAD8s8jnVX4GBPzbxHhn) | 2:49 | 2025-11-28 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-06-30 | 2023-10-21 |
 | [Spinning](https://open.spotify.com/track/6cXiBpoXVCWr9NH9N9wHrw) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Spinning](https://open.spotify.com/album/1brqiOya6F8Lyu9pNQJwCB) | 2:28 | 2023-01-20 | 2023-03-18 |
-| [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 |  |
+| [Sports car](https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Sports car](https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge) | 2:45 | 2025-01-24 | 2025-11-29 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-20 | 2025-02-08 |
 | [Spring breakers](https://open.spotify.com/track/3dk7WaeS0y0JG0OMd0FVcg) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-06-10 | 2024-06-22 |
 | [Spring breakers featuring kesha](https://open.spotify.com/track/6iiofFfntEWeKApZqX18WD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Spring breakers featuring kesha](https://open.spotify.com/album/0qsp9ye0GPLLEdey7UAzaN) | 2:22 | 2024-10-18 | 2025-05-31 |

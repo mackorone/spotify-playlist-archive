@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8219,
+  "num_followers": 8221,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAv5UmXG8mwA4D5IUgjSe0X",
+  "snapshot_id": "aSeUgAAAAADJlsy+tW7eYOl7hTMwZDXM",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Felixxx",
-          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Todos Contra 1",
-      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 182923,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Todos Contra 1",
+      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
     },
     {
       "added_at": null,
@@ -619,6 +619,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desce & Sobe",
+        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Desce & Sobe",
+      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outro Lugar",
         "url": "https://open.spotify.com/album/4RBWF7dnGgQdxMUp9vsGOZ"
       },
@@ -663,30 +687,6 @@
       "duration_ms": 164204,
       "name": "Agi Igual Homem",
       "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desce & Sobe",
-        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Desce & Sobe",
-      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetas No Topo 3.3, Pt. 1",
         "url": "https://open.spotify.com/album/0Y6sQBLqax8F8uvVLvFXkP"
       },
@@ -903,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OgEMr",
         "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
       },
@@ -967,30 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FZND DNV",
-        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FZND DNV",
-      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOLA + 1 BECK (DELUXE)",
         "url": "https://open.spotify.com/album/1igloqPc3QZzGlugijWVga"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 376874,
       "name": "Chovendo L\u00e1 Fora",
       "url": "https://open.spotify.com/track/2rfnq5ykySo2YPO5vXo5HB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FZND DNV",
+        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FZND DNV",
+      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
     },
     {
       "added_at": null,
@@ -1151,6 +1151,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "V\u00cdBORA",
+        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
+      },
+      "artists": [
+        {
+          "name": "funBABE",
+          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "V\u00cdBORA",
+      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
         "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
       },
@@ -1175,22 +1203,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+        "name": "Tormento",
+        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
       "artists": [
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
         },
         {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+          "name": "Karol Conk\u00e1",
+          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
+      "duration_ms": 198454,
+      "name": "Tormento",
+      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
     },
     {
       "added_at": null,
@@ -1227,26 +1259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tormento",
-        "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
       },
       "artists": [
         {
-          "name": "Cleo",
-          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
-        },
-        {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
         }
       ],
-      "duration_ms": 198454,
-      "name": "Tormento",
-      "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     },
     {
       "added_at": null,
@@ -1271,62 +1299,6 @@
       "duration_ms": 141923,
       "name": "Azzy On The Radar Freestyle",
       "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "V\u00cdBORA",
-        "url": "https://open.spotify.com/album/07ZvorgEhaclWT0lAbUucU"
-      },
-      "artists": [
-        {
-          "name": "funBABE",
-          "url": "https://open.spotify.com/artist/7BDrGAjK6k6TyxEKxRuHSl"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205717,
-      "name": "V\u00cdBORA",
-      "url": "https://open.spotify.com/track/7JHzRVeIdtiCkLu91ZQ2IK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        },
-        {
-          "name": "Valey",
-          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
-        },
-        {
-          "name": "NERESZZ",
-          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
-        }
-      ],
-      "duration_ms": 150329,
-      "name": "Tipo Uma Dan\u00e7a",
-      "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"
     },
     {
       "added_at": null,
@@ -1419,6 +1391,34 @@
       "duration_ms": 177253,
       "name": "As Ruas Sabem Meu Nome",
       "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        },
+        {
+          "name": "Valey",
+          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
+        }
+      ],
+      "duration_ms": 150329,
+      "name": "Tipo Uma Dan\u00e7a",
+      "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"
     },
     {
       "added_at": null,

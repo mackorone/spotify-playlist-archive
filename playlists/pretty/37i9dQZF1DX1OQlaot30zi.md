@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Noyz Narcos,  Shiva, Latrelle e Nerissima Serpe, 18k e d/rose, ayo ally e HOODINi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,000 likes - 116 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,034 likes - 116 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 3 | [Siamo Nebbia \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/7eaak6EyDuPuP6DBcPVOqF) | [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [Precipitazioni](https://open.spotify.com/album/7eMYR9JDQBKkQEZ8cPvEzv) | 2:10 |
 | 4 | [UPPDOWNN](https://open.spotify.com/track/6U1mD5A4DFE7knET7XbsHj) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta) | [UPPDOWNN](https://open.spotify.com/album/5JsAD7CyYzjRMsJmUIMl4t) | 2:15 |
 | 5 | [Kawasaki](https://open.spotify.com/track/3qFttN7ZFUzj6f9dYzHMaU) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR), [HOODINi](https://open.spotify.com/artist/0xHcTfDoefJ0M04UZyX901) | [Kawasaki](https://open.spotify.com/album/05rfbtxO1rjh3r0dW129C2) | 2:12 |
-| 6 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 4:42 |
+| 6 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 |
 | 7 | [Britney](https://open.spotify.com/track/5px6wydIxz9Z4ONr4Zk57x) | [Pirrons](https://open.spotify.com/artist/5GNm6r9ruYWX2EMXjt2B1O) | [Britney](https://open.spotify.com/album/41GQ9DVigGfEOXCXdgfsvT) | 1:52 |
 | 8 | [FINALE DIVERSO \(feat\. Shiva\)](https://open.spotify.com/track/5fJioNT3gcSavYrplGXmqF) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:58 |
 | 9 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |

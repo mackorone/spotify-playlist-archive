@@ -4,7 +4,7 @@
 
 > for the baddies.
 
-158 songs - 9 hr 32 min
+159 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 | 2024-05-31 | 2025-03-09 |
 | [Don't Need You](https://open.spotify.com/track/6tpwK4QEA9IlWGv3KuaR6n) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Don't Need You](https://open.spotify.com/album/35gFs2xTjmciWt5UXv4RwC) | 3:26 | 2024-02-15 | 2025-05-10 |
 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 | 2023-09-20 |  |
+| [Dream](https://open.spotify.com/track/1Roy4KbdJZOTcsI1PLCxn5) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Dream](https://open.spotify.com/album/1aJ77LdHu7K126x8POe3zz) | 3:27 | 2025-11-28 |  |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 | 2024-11-06 |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-09-20 | 2025-09-02 |
 | [Even In Arcadia](https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 4:28 | 2025-05-09 |  |
@@ -79,7 +80,7 @@
 | [Kleptomaniac](https://open.spotify.com/track/52hhvUNX3OaAI4MP7suPBw) | [Aemia](https://open.spotify.com/artist/7moBZujRHUZsfdHu9eAkG1) | [Kleptomaniac](https://open.spotify.com/album/2svG7sxs570d5D5xChUVbN) | 3:13 | 2025-10-14 |  |
 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 | 2023-09-20 | 2023-10-30 |
 | [Knockoff](https://open.spotify.com/track/7FuQkitKqCDWGSuj7XjquY) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 3:04 | 2023-10-27 | 2024-03-16 |
-| [Letting Go](https://open.spotify.com/track/2hQJFN6wkwtScdFcUbbj1R) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Letting Go](https://open.spotify.com/album/6PmANbpP9JqPJzcy5VjO2q) | 3:23 | 2025-05-23 |  |
+| [Letting Go](https://open.spotify.com/track/2hQJFN6wkwtScdFcUbbj1R) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Letting Go](https://open.spotify.com/album/6PmANbpP9JqPJzcy5VjO2q) | 3:23 | 2025-05-23 | 2025-11-29 |
 | [liMOusIne \(feat\. AURORA\)](https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:11 | 2024-05-31 |  |
 | [Lithium](https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:44 | 2023-09-20 | 2024-01-20 |
 | [Lonely Day \- Spotify Singles](https://open.spotify.com/track/2bmGjqYsvXVTt1CRfUicIH) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Lonely Day \- Spotify Singles](https://open.spotify.com/album/2GUhX1GveJBRtgpyUQhTSY) | 2:36 | 2024-02-12 |  |

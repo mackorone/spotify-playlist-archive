@@ -4,7 +4,7 @@
 
 > 
 
-2,687 songs - 5 day 20 hr 1 min
+2,688 songs - 5 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2273,6 +2273,7 @@
 | [TELL ME WHY](https://open.spotify.com/track/5WX5LOr8DZ15CG5gnEuyh1) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [TELL ME WHY](https://open.spotify.com/album/75tmdS7XiMvqVYqu3hQle1) | 1:57 | 2024-06-08 |  |
 | [Temper](https://open.spotify.com/track/43ka4uu0HQKPtcQrGD1UHe) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [B\-Nance](https://open.spotify.com/artist/4wbC9CtvdxR2bMkAaNbHd5) | [Temper](https://open.spotify.com/album/5hs5g34dvOjo3plbiQP8aB) | 3:49 | 2023-01-08 |  |
 | [Tempest](https://open.spotify.com/track/1UXvDVGvL6ZxO8y1AXAtXz) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Tempest](https://open.spotify.com/album/41YvHD45S2qaoZM4yhcPed) | 3:09 | 2025-08-02 |  |
+| [Terminator \- Radio Edit](https://open.spotify.com/track/7BJmTrWXJTpKuDS7v3k1Dc) | [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD), [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Terminator](https://open.spotify.com/album/5txcY37tkn8HIA2qW6tAfp) | 3:43 | 2025-11-28 |  |
 | [Test of Time](https://open.spotify.com/track/3aFE9oSnFhVbtZjFfGo7Zx) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Brad Pickle](https://open.spotify.com/artist/68gLUBZH8yVdoHyikVPX0m), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [Pickled Pig EP](https://open.spotify.com/album/2Ft7t7tVsQZ18ETGOptrxa) | 3:23 | 2024-11-22 |  |
 | [Th3 Futur3](https://open.spotify.com/track/5v2OTwYsxDsMcWzpxtaY4v) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Th3 Futur3](https://open.spotify.com/album/7oLPuFQvUpGCUbZiS5mjdL) | 3:28 | 2023-10-20 |  |
 | [Thank You \(Hardstyle Mix\)](https://open.spotify.com/track/0nxzxVry3Dtc8bKg4kckez) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Pulsar](https://open.spotify.com/artist/5tmXZZoksgHRk1uLumsGCo) | [Thank You \(Hardstyle Mix\)](https://open.spotify.com/album/5BzrKhPS9ZVIUEbsrlRoHu) | 2:49 | 2024-03-08 |  |

@@ -2647,8 +2647,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "PLAY!",
+        "url": "https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu"
       },
       "artists": [
         {
@@ -7155,6 +7155,24 @@
     },
     {
       "album": {
+        "name": "Get This",
+        "url": "https://open.spotify.com/album/3wnZQqCyY2lNT4kNsr43mH"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199632,
+      "name": "Get This",
+      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
+    },
+    {
+      "album": {
         "name": "Even In Arcadia",
         "url": "https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj"
       },
@@ -11092,6 +11110,24 @@
       "duration_ms": 187639,
       "name": "Like You Did Before",
       "url": "https://open.spotify.com/track/1rxnxA9qz9NITsSavxyxco"
+    },
+    {
+      "album": {
+        "name": "This is normal now",
+        "url": "https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I"
+      },
+      "artists": [
+        {
+          "name": "Pabst",
+          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189073,
+      "name": "Limbo No. 5",
+      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
     },
     {
       "album": {
@@ -15501,8 +15537,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "GODSPEED",
+        "url": "https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY"
       },
       "artists": [
         {
@@ -19395,6 +19431,24 @@
     },
     {
       "album": {
+        "name": "The Yips (A Case Of)",
+        "url": "https://open.spotify.com/album/2x8cBNEaveu3x7jA9resgN"
+      },
+      "artists": [
+        {
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322068,
+      "name": "The Wake",
+      "url": "https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr"
+    },
+    {
+      "album": {
         "name": "The Weather",
         "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
       },
@@ -19936,60 +19990,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Pabst",
-          "url": "https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD"
-        }
-      ],
-      "date_added": "2025-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "date_added": "2025-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Petey USA",
-          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
-        }
-      ],
-      "date_added": "2025-11-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5kvwMfGM31DnbBFMfGfTfr"
     },
     {
       "album": {

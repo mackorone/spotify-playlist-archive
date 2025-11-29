@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Future Palace
 
-755 songs - 1 day 18 hr 53 min
+755 songs - 1 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [End of You](https://open.spotify.com/track/0PsFsv5xUyX06ZhIEtFkeA) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [End of You](https://open.spotify.com/album/7heJiiZpgQXmqVIoz2Fra1) | 3:12 | 2025-09-04 |  |
 | [ENEMY](https://open.spotify.com/track/5P0kf8MWosBmZDZtWJkXiN) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ENEMY](https://open.spotify.com/album/4QJVcO58dTP9RE587Z6Hxs) | 3:32 | 2025-08-07 | 2025-08-15 |
 | [Euphoria](https://open.spotify.com/track/1B6H3I2HsyKqc0NRDvUif5) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Euphoria](https://open.spotify.com/album/6wxfuQyrRa1kLykMH3HFha) | 3:18 | 2025-10-09 | 2025-10-17 |
-| [Euphoria](https://open.spotify.com/track/4cImz6ALStITqRds60YUmF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Euphoria](https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5) | 3:25 | 2025-11-20 | 2025-11-28 |
+| [Euphoria](https://open.spotify.com/track/4cImz6ALStITqRds60YUmF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Euphoria](https://open.spotify.com/album/5Vkg8LIEAj31OeoV66YEN5) | 3:25 | 2025-11-20 |  |
 | [Even If It Kills Me](https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Even If It Kills Me](https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x) | 3:32 | 2025-01-23 |  |
 | [Everest](https://open.spotify.com/track/5rZLkmdMY0T0PnUnmfUQoB) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/4frviFPPh65QTlBHlEaNTQ) | 4:47 | 2025-05-30 | 2025-06-20 |
 | [Evergreen](https://open.spotify.com/track/4mZZfE80LCtfOf9z15K3EX) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Greetings From Suffocate City \(From Beyond The Abyss: Deluxe Edition\)](https://open.spotify.com/album/12ttyJzXOnnpSzA1Pk8FD2) | 3:23 | 2025-06-12 | 2025-06-20 |
@@ -343,7 +343,7 @@
 | [I WON'T BACK DOWN](https://open.spotify.com/track/7nBKzSA8l5msyNV4wkDvQp) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [I WON'T BACK DOWN](https://open.spotify.com/album/10C6jOFAImGjenVam7idgu) | 3:21 | 2025-05-08 | 2025-05-23 |
 | [I'll Be Back \(feat\. Arnold Schwarzenegger\)](https://open.spotify.com/track/5I3lLjn74gkTscrhSprPwF) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0), [Arnold Schwarzenegger](https://open.spotify.com/artist/5ZVu6bRMk9JBHaeEPH7teP) | [I'll Be Back \(feat\. Arnold Schwarzenegger\)](https://open.spotify.com/album/4vLQLqlm0VgMy9l74bq0qj) | 2:39 | 2025-05-30 | 2025-06-06 |
 | [I'm So Excited](https://open.spotify.com/track/0isPWROk42n44eKXk8rmrl) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [I'm So Excited](https://open.spotify.com/album/65NB4nYpY7ey8CvvnArWjU) | 3:00 | 2025-08-07 | 2025-08-15 |
-| [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-06-27 |  |
+| [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 | 2024-06-27 | 2025-11-29 |
 | [Ignoring People](https://open.spotify.com/track/4Cny1Mqmvs2u5xxT0d7w9Q) | [Grundeis](https://open.spotify.com/artist/7KvUT9udHg6tPuKWwPdQ4p) | [Ignoring People](https://open.spotify.com/album/6C95GWViOax1WeAmasJcX9) | 3:39 | 2024-11-14 | 2024-11-22 |
 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 | 2024-08-22 | 2024-10-28 |
 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 | 2024-07-25 | 2024-08-23 |
@@ -392,6 +392,7 @@
 | [LIGHTS\_OUT](https://open.spotify.com/track/1pVk5QiXf7ry1wMuJuqjUo) | [H\-Blockx](https://open.spotify.com/artist/1V3Nl0Y3EZwqP38KHws6vB) | [LIGHTS\_OUT](https://open.spotify.com/album/5czPXogzCAHU8VOmRPwOqK) | 2:32 | 2025-09-25 | 2025-10-03 |
 | [Like A Woman Can](https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Everest](https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv) | 4:22 | 2025-08-07 | 2025-11-28 |
 | [Like I Am Nothing](https://open.spotify.com/track/3sQAS20dAfL9gwQmXIeDqR) | [IONIC](https://open.spotify.com/artist/4dxSFdG4qMdOnTFPdn9BLC) | [Like I Am Nothing](https://open.spotify.com/album/2qb3MPi7BBiQrFscYZOuh0) | 3:58 | 2025-03-06 | 2025-03-14 |
+| [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 | 2025-11-27 |  |
 | [Lion Rumpus](https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Lion Rumpus](https://open.spotify.com/album/2FQlTOSIj5D5gQZh8DsRYr) | 3:33 | 2024-10-31 | 2024-11-08 |
 | [Listen Up](https://open.spotify.com/track/4IIdwu2qr7CZZsImuArXGx) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Listen Up](https://open.spotify.com/album/1fegkigvCLmcXA3jUVn1VT) | 3:03 | 2024-11-28 | 2025-01-03 |
 | [Little Girl](https://open.spotify.com/track/3qWB0PqkjR8D0tC3xmpy4s) | [The Red Flags](https://open.spotify.com/artist/7FIb3f7HlWJre42vwT6rDN) | [Little Girl](https://open.spotify.com/album/2EjiBxcgXvcpuG7mwI2yro) | 1:31 | 2025-04-10 | 2025-04-18 |
@@ -485,6 +486,7 @@
 | [Obsolete](https://open.spotify.com/track/7MuVMzOoomIlcdTRPx4hiP) | [vianova](https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n) | [Obsolete](https://open.spotify.com/album/5t5ATC7XZSx8clvDETqDYH) | 5:12 | 2025-08-14 | 2025-08-23 |
 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 | 2025-09-04 | 2025-09-26 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-10 | 2024-12-20 |
+| [ON](https://open.spotify.com/track/6xKKL8J5f4QgO9AlluRN5Y) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [SONGS](https://open.spotify.com/album/1ERnqF39eUW1JCt8y7emAg) | 3:00 | 2025-11-27 |  |
 | [On Repeat](https://open.spotify.com/track/2B5ZNovTMGMW50ml95BP7L) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [On Repeat](https://open.spotify.com/album/3OofANTV95MpiLS4OXMj3y) | 3:18 | 2025-07-17 | 2025-09-06 |
 | [ONATRAIN](https://open.spotify.com/track/4sd8WH0k0UxY3rWt62uI7w) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [RIOT \- Deluxe](https://open.spotify.com/album/2Zfj8i2BPhfjsqUEIKSm4W) | 2:43 | 2024-08-22 | 2024-08-30 |
 | [one by one](https://open.spotify.com/track/4vWjhclo8wnfpllXhiefxx) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED](https://open.spotify.com/album/42KPmh26BJtkXWEQqsfIQ3) | 3:18 | 2025-08-22 | 2025-10-10 |
@@ -688,8 +690,6 @@
 | [Tommy](https://open.spotify.com/track/0M5yOiTKWbHlZOGS9q1Lqy) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Tommy](https://open.spotify.com/album/7f79w4qMEqGgFaVgMfBAwb) | 2:02 | 2025-04-10 | 2025-04-18 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 |  |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 1](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
-| [Track 9](https://open.spotify.com/track/6xKKL8J5f4QgO9AlluRN5Y) | [Blackout Problems](https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2025-11-14 |

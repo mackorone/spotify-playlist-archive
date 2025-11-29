@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "SELLOUT II",
+        "url": "https://open.spotify.com/album/1OAJ1g8pCfiJEPQ5h8V8cI"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Afterbody",
+      "url": "https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx"
+    },
+    {
+      "album": {
         "name": "All The Way Up (feat. Infared)",
         "url": "https://open.spotify.com/album/7vzvohRzBtrnr3miUJrpAk"
       },
@@ -2953,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "HOT LIKE!",
+        "url": "https://open.spotify.com/album/1XCINzipUUic0psL70cuJp"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145161,
+      "name": "HOT LIKE!",
+      "url": "https://open.spotify.com/track/4A4H0UDSTKsphl4wnDEzoe"
+    },
+    {
+      "album": {
         "name": "don't hold me accountable",
         "url": "https://open.spotify.com/album/2u6W98T3gHuYNrkQbOZVyB"
       },
@@ -3378,7 +3414,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
@@ -5546,7 +5582,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 103520,
       "name": "Super",
       "url": "https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy"

@@ -1,15 +1,79 @@
 {
-  "description": "Where your new favourite bands are discovered. Cover: Witch Post",
+  "description": "Where your new favourite bands are discovered. Cover: Cardinals ",
   "num_followers": 85088,
   "original_name": "Hot New Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts",
+  "snapshot_id": "AAAAAMX4dMfw46LLKPoufQXPFy5aNmf1",
   "tracks": [
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Barbed Wire",
+        "url": "https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "duration_ms": 215609,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "tied",
+        "url": "https://open.spotify.com/album/2aaQHXlEsfVq3yb2gH5NHe"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "duration_ms": 94117,
+      "name": "tied",
+      "url": "https://open.spotify.com/track/1tg5xY6QMlEME9emTaJmEN"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Break the Girl",
         "url": "https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl"
@@ -25,7 +89,23 @@
       "url": "https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Marsh",
+        "url": "https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "duration_ms": 174190,
+      "name": "Marsh",
+      "url": "https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Changeling",
         "url": "https://open.spotify.com/album/55fj3lv8GYftOEs5eLBfEo"
@@ -41,39 +121,7 @@
       "url": "https://open.spotify.com/track/0CxblZYOpspbcyamka1LLR"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Drunk Surfer",
-        "url": "https://open.spotify.com/album/5MbQ33JkvmHNKeYbuYB1f8"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 234680,
-      "name": "Drunk Surfer",
-      "url": "https://open.spotify.com/track/2OLM7e95IViS4hd26Rc0au"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8"
-      },
-      "artists": [
-        {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
-        }
-      ],
-      "duration_ms": 188829,
-      "name": "Masquerade",
-      "url": "https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Siren",
         "url": "https://open.spotify.com/album/7gxWrfjgky0pVjUXXyH5VY"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/5ZUlQwfPA1vKUsV70eiUyu"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Red Brick / Whale Station",
         "url": "https://open.spotify.com/album/7EVzAURmuTIhI7oCyG4ODO"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/5JiEzvDyUom70fKv4gYEEr"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "play",
         "url": "https://open.spotify.com/album/23DZluFqPwk3JjjEWn6p6I"
@@ -129,7 +177,23 @@
       "url": "https://open.spotify.com/track/0VjFUemUuObcbFlpynM6d4"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Gallowine",
+        "url": "https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "duration_ms": 249026,
+      "name": "Gallowine",
+      "url": "https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Bleary Eyes",
         "url": "https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD"
@@ -145,7 +209,7 @@
       "url": "https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Bee",
         "url": "https://open.spotify.com/album/1QOQMSkO3Un13WnGucH4DP"
@@ -161,7 +225,7 @@
       "url": "https://open.spotify.com/track/2Eq7MKIx9nFCH7NXEQT66w"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "I Knew We'd Talk About It One Day",
         "url": "https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y"
@@ -177,7 +241,23 @@
       "url": "https://open.spotify.com/track/4gl3euvAe8I95fIW8LKASU"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Wingman",
+        "url": "https://open.spotify.com/album/3CdSPVFDSIwtKBwm9pf5oq"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "duration_ms": 165529,
+      "name": "Wingman",
+      "url": "https://open.spotify.com/track/4XA4i4BT5hgy2Gxdh7jCDJ"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "I Heard, I Saw",
         "url": "https://open.spotify.com/album/61RHatwLMZ5hKVMDvmOADK"
@@ -193,7 +273,7 @@
       "url": "https://open.spotify.com/track/1uNhpnn7iZxSCzGfVIZPuo"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/12hBbCObC2UB756DKj6tca"
@@ -209,7 +289,7 @@
       "url": "https://open.spotify.com/track/70DK9qoXC1XvgRjeOIHdH1"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "GREED BETWEEN THE LINES",
         "url": "https://open.spotify.com/album/62xHSwQplVIsGotSCoVUkV"
@@ -225,7 +305,23 @@
       "url": "https://open.spotify.com/track/5Wj7k4nW3fNiO8KU1Q1XdY"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
+      "album": {
+        "name": "Measly Means",
+        "url": "https://open.spotify.com/album/39XEYzp5W10qC16dwPekg4"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "duration_ms": 209119,
+      "name": "Measly Means",
+      "url": "https://open.spotify.com/track/0vtRXEqmLyIlbEhqnPIXX3"
+    },
+    {
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "My Favourite Monster",
         "url": "https://open.spotify.com/album/3HcqPbTSgSh7CDAbOVU3zu"
@@ -241,7 +337,7 @@
       "url": "https://open.spotify.com/track/3Stk5Oa5Pc2ertfAP5tRUZ"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Tiles & Moss",
         "url": "https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx"
@@ -257,7 +353,7 @@
       "url": "https://open.spotify.com/track/5MHKVTslowdhxzyOLOgA5X"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/5JUBmHorgabNcHUb8fbtxy"
@@ -273,7 +369,7 @@
       "url": "https://open.spotify.com/track/4j9tHe6pw1ljHc30IivKYT"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Danang",
         "url": "https://open.spotify.com/album/2fj55cSyZkIMlInvBSWulb"
@@ -289,7 +385,7 @@
       "url": "https://open.spotify.com/track/7KUuYnVoIKo0dL0XGbQPJe"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Hattrick",
         "url": "https://open.spotify.com/album/4614NZ99KGlxn9I2A1nHnn"
@@ -305,7 +401,7 @@
       "url": "https://open.spotify.com/track/4Qh12Dgv4ZkNCfnC7oSgEw"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/2ovFFMm3HNWjLwfusZOCrC"
@@ -321,7 +417,7 @@
       "url": "https://open.spotify.com/track/66mge0rOG9i1gUCnHOHKN5"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Angles Mortz",
         "url": "https://open.spotify.com/album/6UM5wrJbAOW1eHz62V8yIg"
@@ -337,7 +433,7 @@
       "url": "https://open.spotify.com/track/4CFGeqMhzAPy48XAh0ttAm"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "It's hip to be dumb",
         "url": "https://open.spotify.com/album/43jZcMNKgfvetNUty3idNt"
@@ -353,7 +449,7 @@
       "url": "https://open.spotify.com/track/0Jnjcqpx4IHpzsxwGUsXbC"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Thistlesifting",
         "url": "https://open.spotify.com/album/1e4izHPTI9KauHqWfmyZOm"
@@ -369,7 +465,7 @@
       "url": "https://open.spotify.com/track/1ehrMT6pkSQ5gGZBm1Eo5V"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "All The Good Men",
         "url": "https://open.spotify.com/album/6DbvRvEnPQI4TEaw5opO7t"
@@ -385,7 +481,7 @@
       "url": "https://open.spotify.com/track/1lHsjpIJ9aFOkz4w4yduzt"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Excruciating Heights",
         "url": "https://open.spotify.com/album/3tb7hYhY92Z9kK4becvnEj"
@@ -401,7 +497,7 @@
       "url": "https://open.spotify.com/track/57133ll3L1wgpVmMTgbbdT"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Doctor",
         "url": "https://open.spotify.com/album/1RUK9ZieNdt2C2NzQTmCPL"
@@ -417,7 +513,7 @@
       "url": "https://open.spotify.com/track/4EeeuPsL6LNDwhTPiKDLj5"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Poke",
         "url": "https://open.spotify.com/album/2TauZCi6TpNjJqx8EU2frn"
@@ -433,7 +529,7 @@
       "url": "https://open.spotify.com/track/5aha1ojLhdvtUfIKGGZsTP"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Bohemian Clutter",
         "url": "https://open.spotify.com/album/4wrs2l9zfbi8iBwdxfiMa3"
@@ -449,7 +545,7 @@
       "url": "https://open.spotify.com/track/1jOHyaoZuxjJuHvkaf3AAK"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Saltspreader",
         "url": "https://open.spotify.com/album/0Qf68KWWjg6dMdgoXcTsog"
@@ -465,7 +561,7 @@
       "url": "https://open.spotify.com/track/2QvJ5GzPTZg2PEiPdPMdMp"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/5JOZgnD5mvt03P9GRaS36H"
@@ -481,7 +577,7 @@
       "url": "https://open.spotify.com/track/3T48D9LzeS7XqiD888McVq"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Cartography",
         "url": "https://open.spotify.com/album/64JipGp2nASRjpEsgfyoHz"
@@ -497,7 +593,7 @@
       "url": "https://open.spotify.com/track/0DcaDx6b5ycTUjIlWrfQmJ"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/608G4bFmSNFNJib0gHQqKl"
@@ -513,7 +609,7 @@
       "url": "https://open.spotify.com/track/5zEgkeDQtPTKAC7sM5ocUp"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/7g0xA6Sf6yZDWDfZEC2P2z"
@@ -529,7 +625,7 @@
       "url": "https://open.spotify.com/track/6NnosBSfVn6Jn1sjQ6DF5w"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Adam & Steve / MadDog",
         "url": "https://open.spotify.com/album/61KE02laFp4q3CafbAsyac"
@@ -545,7 +641,7 @@
       "url": "https://open.spotify.com/track/6xSDByE98jAiuplhWyZ4nE"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Queen Bee",
         "url": "https://open.spotify.com/album/6MgU0vlUrNZEEogKkGujcc"
@@ -561,7 +657,7 @@
       "url": "https://open.spotify.com/track/4rRoEb8tEiKBAnzUqgPEZK"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Ain't Quite Right (unresolved)",
         "url": "https://open.spotify.com/album/02s6UxvbPdQPCGzYfxJzrH"
@@ -577,7 +673,7 @@
       "url": "https://open.spotify.com/track/0GGzlOymjqX36JgsXMDXLm"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Feel You Close",
         "url": "https://open.spotify.com/album/4raq31XDivfTZWoACsfdVu"
@@ -593,7 +689,7 @@
       "url": "https://open.spotify.com/track/3auEqnCkXkbpgtNLT5zMIz"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Won't Obey",
         "url": "https://open.spotify.com/album/5ap3JvurI9KBfQLYpapm20"
@@ -609,7 +705,7 @@
       "url": "https://open.spotify.com/track/3W5cpcTbjcGLwqD4ktR0nY"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Wait (Hatchet Gets a New Hide)",
         "url": "https://open.spotify.com/album/1Phb8HO8seOVKS3l3gHI8F"
@@ -625,7 +721,7 @@
       "url": "https://open.spotify.com/track/1x37Qa6shlgWvjQloaCcc0"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Bury Me Not",
         "url": "https://open.spotify.com/album/4zfAwgeHdqOC5zQT6fd7lP"
@@ -641,7 +737,7 @@
       "url": "https://open.spotify.com/track/5OG5tAPqIskd9z3ZP1biUK"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "someday, forever",
         "url": "https://open.spotify.com/album/4gh9R1hd96kiam5GwHsJ5I"
@@ -657,7 +753,7 @@
       "url": "https://open.spotify.com/track/66FelwsHEPIMj9KmPT3NaK"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Same Old Story",
         "url": "https://open.spotify.com/album/309zf0om4yJm4XAN0sKcJm"
@@ -673,7 +769,7 @@
       "url": "https://open.spotify.com/track/5yK7FjhMRC2S1d7APaaeSm"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "madonna",
         "url": "https://open.spotify.com/album/0xD50sOwEbUZQuIur3c3Pe"
@@ -689,7 +785,7 @@
       "url": "https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Sit Awake",
         "url": "https://open.spotify.com/album/1TkNN5PGB0SlU4ajSHWr0u"
@@ -705,7 +801,7 @@
       "url": "https://open.spotify.com/track/3yzxeoLhMMwXNe3xqy5Baw"
     },
     {
-      "added_at": "2025-10-03 13:46:28",
+      "added_at": "2025-11-28 10:32:57",
       "album": {
         "name": "Kitchen Song",
         "url": "https://open.spotify.com/album/4zmCzNoChmpYhDIfAfAe8k"
@@ -719,102 +815,6 @@
       "duration_ms": 154257,
       "name": "Kitchen Song",
       "url": "https://open.spotify.com/track/5v1qYxzAEegcsv22GpmuTE"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/03c2hK6Otkae2V4QGLGce4"
-      },
-      "artists": [
-        {
-          "name": "Powerplant",
-          "url": "https://open.spotify.com/artist/6Uh9lH1RiHWp6z8t2wXZDx"
-        }
-      ],
-      "duration_ms": 226645,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/7dKK4YlK5ancC7qWhAVF3C"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Post-Punk / New-Wave",
-        "url": "https://open.spotify.com/album/7H7TO2iMINvFvOb3L6RZce"
-      },
-      "artists": [
-        {
-          "name": "Pynch",
-          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
-        }
-      ],
-      "duration_ms": 168433,
-      "name": "Post-Punk / New-Wave",
-      "url": "https://open.spotify.com/track/6VdYmcxD7HLMCa8rBMZAOI"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Culture Cannibal",
-        "url": "https://open.spotify.com/album/0z2UKiHpxX3M9fUXlJFe0L"
-      },
-      "artists": [
-        {
-          "name": "Big Fear",
-          "url": "https://open.spotify.com/artist/0rB1OW3G0q3Dfy5fVWF6mS"
-        }
-      ],
-      "duration_ms": 232520,
-      "name": "Culture Cannibal",
-      "url": "https://open.spotify.com/track/4TrpE40Zdbq8VgUN78Ce43"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "See No Evil",
-        "url": "https://open.spotify.com/album/3Q8MYb36jqudetFFTOS8Rc"
-      },
-      "artists": [
-        {
-          "name": "Legss",
-          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
-        }
-      ],
-      "duration_ms": 250376,
-      "name": "See No Evil",
-      "url": "https://open.spotify.com/track/4Gzo80WcwBGapbLQE0O1B9"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Ruminate",
-        "url": "https://open.spotify.com/album/7DGL058t2VrOUa7et3IZdh"
-      },
-      "artists": [
-        {
-          "name": "Big Sleep",
-          "url": "https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Ruminate",
-      "url": "https://open.spotify.com/track/6odyiCWTis0oVok60fdogG"
-    },
-    {
-      "added_at": "2025-10-03 13:46:28",
-      "album": {
-        "name": "Spiralic",
-        "url": "https://open.spotify.com/album/4jvLHICHqUvvRm6L9OOuMm"
-      },
-      "artists": [
-        {
-          "name": "Hank",
-          "url": "https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK"
-        }
-      ],
-      "duration_ms": 339023,
-      "name": "Dogstar",
-      "url": "https://open.spotify.com/track/2AyEU2UDBgWaaGNgnSY4Uo"
     }
   ],
   "unique_name": "Hot New Bands",

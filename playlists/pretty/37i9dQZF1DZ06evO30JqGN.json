@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 136456,
+  "num_followers": 136474,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADRtmq08K7ltTz2APG5vfdW",
+  "snapshot_id": "aSeUgAAAAACW1VlLdEvKHPD6gA3NmyoE",
   "tracks": [
     {
       "added_at": null,
@@ -250,11 +250,15 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 146015,
-      "name": "No",
-      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+      "duration_ms": 148277,
+      "name": "Baby (with Chris Brown)",
+      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
     },
     {
       "added_at": null,
@@ -322,15 +326,11 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 148277,
-      "name": "Baby (with Chris Brown)",
-      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/3LdGRWewvpcaZrkOpc70fP"
+      "duration_ms": 109413,
+      "name": "BP",
+      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 109413,
-      "name": "BP",
-      "url": "https://open.spotify.com/track/7B1c8GzIeRVfuU7pqgmBaR"
+      "duration_ms": 166106,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/3LdGRWewvpcaZrkOpc70fP"
     },
     {
       "added_at": null,

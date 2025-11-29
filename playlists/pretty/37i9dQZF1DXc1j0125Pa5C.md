@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,614 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,689 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Trajetória / Caminho Sem Amor / Ela](https://open.spotify.com/track/1QHFOp0tKVrbAfLHfjeqLZ) | [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq) | [Pagodyando](https://open.spotify.com/album/3mDO0IegPEimurbyQ8slYK) | 5:01 |
 | 75 | [Refém / Trovão / Cansei de Farra \- Ao Vivo](https://open.spotify.com/track/78yISFDMff0e2JHdteBGhc) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9) | [De Férias Com Presença, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5tHQsUtyaphhjN9DOVZdcc) | 5:27 |
 
-Snapshot ID: `AAAAANal1AgpY9VJmgcFRyHWUoGTd9DW`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

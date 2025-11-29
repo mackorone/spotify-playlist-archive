@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-131 songs - 8 hr 36 min
+132 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [I Hate What You Do to Me](https://open.spotify.com/track/6k0qiK8ZWEHfaFnEVg0Hez) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Afro Hip Hop, Vol\. 3](https://open.spotify.com/album/2XFjFHxRuoCGQmCDTUYecH) | 3:54 | 2021-12-28 | 2022-06-12 |
 | [I Sing](https://open.spotify.com/track/2xDxCDyTAfiqo9nSCfgEh2) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [UNSTOPPABLE](https://open.spotify.com/album/40XgoMi52ckhRR5iBoYO07) | 5:40 | 2022-07-03 | 2022-07-07 |
 | [If Love Is A Crime](https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:29 | 2021-12-28 |  |
-| [If To Say](https://open.spotify.com/track/1rtDPay5p7EhDShN2qPjc5) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [The Men, The Boys and Your Guy](https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg) | 3:02 | 2025-09-29 |  |
+| [If To Say](https://open.spotify.com/track/1rtDPay5p7EhDShN2qPjc5) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [The Men, The Boys and Your Guy](https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg) | 3:02 | 2025-09-29 | 2025-11-29 |
 | [Ihe Ne Me](https://open.spotify.com/track/1A2wFAONqaU2BrzmFVqZQS) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 4:13 | 2021-12-28 | 2024-03-28 |
 | [Ihe Ne Me](https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:13 | 2024-03-27 |  |
 | [Implication](https://open.spotify.com/track/0ZORrd5CsTwRg0UP1bn3Tm) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 3:29 | 2021-12-28 | 2024-03-23 |
@@ -79,6 +79,7 @@
 | [Life Is Beautiful \(feat\. 2baba\)](https://open.spotify.com/track/5pAU0AC3qNiORdnXO2kDOg) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Versus](https://open.spotify.com/album/1QLLC5ZGukhxLehg8dFE62) | 5:07 | 2022-05-17 | 2023-09-26 |
 | [Love and Ashes](https://open.spotify.com/track/3ZURg62F2dIG5wTANPatMC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [In Love & Ashes](https://open.spotify.com/album/20KVvmHDZaEBsxMo3ccWYs) | 4:18 | 2021-12-28 | 2022-10-13 |
 | [Love Me, Love Me](https://open.spotify.com/track/2Lf9sq98qQsJA0Z6JiICOO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:16 | 2022-01-17 | 2022-05-23 |
+| [Mad Over Hills](https://open.spotify.com/track/3Q60LbnG9q7GvSZoz267FN) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 2:34 | 2025-11-29 |  |
 | [Mad Over Hills](https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Mad Over Hills](https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH) | 2:34 | 2022-11-13 | 2025-11-23 |
 | [My Love](https://open.spotify.com/track/64VlTvAsakYvPBhaTAsN9V) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 5:33 | 2022-01-22 | 2022-09-09 |
 | [Nfana Ibaga \(No Problem\) \- Remastered Version](https://open.spotify.com/track/7L3sQ9DSqZTmxkxZy7HMxe) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:25 | 2021-12-28 | 2022-10-20 |

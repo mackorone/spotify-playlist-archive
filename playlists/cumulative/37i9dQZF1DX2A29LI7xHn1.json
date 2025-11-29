@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 120784,
       "name": "Baddie Baddie",
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
@@ -5333,6 +5333,24 @@
     },
     {
       "album": {
+        "name": "Chanel Boy",
+        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Chanel Boy",
+      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
+    {
+      "album": {
         "name": "Chanel Pit",
         "url": "https://open.spotify.com/album/2NKwZME1B25cxta0a7L77q"
       },
@@ -5754,7 +5772,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 135211,
       "name": "CLOUD 9",
       "url": "https://open.spotify.com/track/2UqjSm4u2Mpb5E4Y265LQJ"
@@ -22800,6 +22818,24 @@
       "duration_ms": 156428,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH"
+    },
+    {
+      "album": {
+        "name": "Relevant",
+        "url": "https://open.spotify.com/album/3FmIbnXxabqY6nZT5QxArA"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122553,
+      "name": "Relevant",
+      "url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
     },
     {
       "album": {

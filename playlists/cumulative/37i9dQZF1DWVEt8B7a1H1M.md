@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-158 songs - 8 hr 55 min
+159 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Birds and Rain](https://open.spotify.com/track/0eQgJL7i10K9jDSDwHUcEH) | [The Sound Of The Rain](https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh) | [Volume 2](https://open.spotify.com/album/5NgY5CULUgD79hID4M1XMB) | 3:25 | 2021-12-08 | 2022-02-19 |
 | [Birds Around The Brook](https://open.spotify.com/track/62DNn8FKECcxRXw5Du456T) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Ambient Nature Serenity](https://open.spotify.com/album/6hbt6OWGfes8YpfpZXnMSL) | 3:01 | 2021-12-08 | 2022-07-05 |
 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 | 2021-12-08 | 2025-11-12 |
+| [Birds at the River Mouth](https://open.spotify.com/track/6OgaXzdlt8fOkiXUpytRCc) | [Solmer](https://open.spotify.com/artist/7eqdkq0HQG1Q53nCfjCIE4) | [Birds at the River Mouth](https://open.spotify.com/album/7LCP7Q9dZSJdgRBagA5tfj) | 2:02 | 2025-11-11 |  |
 | [Birds by the Waterside](https://open.spotify.com/track/4vknBBfaGO6ZnHw69a2Bi0) | [Outside Broadcast Recordings](https://open.spotify.com/artist/3RchxeOVaDXmQRBWeL5CNZ) | [Forest Sounds for Peace of Mind](https://open.spotify.com/album/6egF1GuipId0GYNcYMB0jU) | 3:55 | 2021-12-08 | 2022-07-05 |
 | [Birds chirp In Kitsilano, Vancouver \(Vögelgezwitscher\)](https://open.spotify.com/track/5nckb93IUcl7UNqPoQslHj) | [Life Sounds Nature](https://open.spotify.com/artist/0SGJ24mW8PvCH3O8GeXSFg) | [The Very Best Sound Of Birds And Nature \(With Rain, Forest, Creek, River, Wind, Thunder\)](https://open.spotify.com/album/2rrNOxZ5jEL4KaJUGbyzuV) | 3:24 | 2021-12-08 | 2022-07-05 |
 | [Birds Chorus](https://open.spotify.com/track/4jf5KQAc8AUqgZ1qIHYmIz) | [Nature Sounds For Sleeping](https://open.spotify.com/artist/6Ph6DcY2qlTEHtyDYodJLO) | [Birds Chorus](https://open.spotify.com/album/4BFzcd0oGaWid53qU2MD4R) | 2:13 | 2023-06-20 | 2024-02-15 |
@@ -128,7 +129,7 @@
 | [Rain Forest Bird Sounds](https://open.spotify.com/track/05lsppV4srCvaDYOh7XeOB) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 2](https://open.spotify.com/album/7yy6Qew5fxV9dMJAYAmEnk) | 2:48 | 2021-12-08 | 2022-07-05 |
 | [Rain Forest Birds](https://open.spotify.com/track/15ovQxV8biA0iMQMrkJg6q) | [S\. Key](https://open.spotify.com/artist/4qtNIq9FnFG0UYLN8eMIp3) | [Rain Forest Bird Sounds](https://open.spotify.com/album/08DMQ9qH0U7vef2xE48l4c) | 1:48 | 2021-12-08 | 2022-07-05 |
 | [Rain Forest Birds](https://open.spotify.com/track/2C9TaqPP3rgZriyjBxAlIT) | [Swedish\-Bird\-Sounds](https://open.spotify.com/artist/7r4MqLN5DpsHNTexMJPakD) | [Swedish Morning Birds](https://open.spotify.com/album/4GGkrc2HZyOsZphGmvWRYF) | 3:00 | 2021-12-22 | 2025-11-07 |
-| [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 | 2025-11-11 |  |
+| [Rain Forest Birds](https://open.spotify.com/track/2IYxIeTZCkcjWrXOAZ7QFc) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Autumn Rain](https://open.spotify.com/album/7tjr0VEI6SgRVK8VB1UmhI) | 3:12 | 2025-11-11 | 2025-11-29 |
 | [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 | 2025-11-11 |  |
 | [Rain in the Andorran Forest](https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Soothing Rain Songs](https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg) | 3:07 | 2025-11-11 |  |
 | [Rain Streams](https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxing Sounds of Nature](https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG) | 2:43 | 2025-11-11 |  |

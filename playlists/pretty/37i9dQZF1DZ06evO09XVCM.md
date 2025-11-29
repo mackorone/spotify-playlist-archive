@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,787 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,789 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [the only](https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [the only](https://open.spotify.com/album/0aEFPclRPtQ6Oje18BXfU9) | 4:05 |
 | 50 | [Lighthouse](https://open.spotify.com/track/2q2u47Zn6pK7TDzz9ZEw4W) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 4:20 |
 
-Snapshot ID: `aSZDAAAAAAAAuvJO2OSH5w/8MGRAPfOs`
+Snapshot ID: `aSeUgAAAAADHwE2+WhVBMpLtEX/elCFI`

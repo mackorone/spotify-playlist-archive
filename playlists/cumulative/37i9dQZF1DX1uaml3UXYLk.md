@@ -4,7 +4,7 @@
 
 > Electronic music with caffeine.
 
-776 songs - 1 day 21 hr 4 min
+780 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Breather](https://open.spotify.com/track/3EX7o6cJG9jGUJBSOLLKdP) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Pending](https://open.spotify.com/album/2SZomWDmOD84JYTbqJo6PG) | 3:26 | 2020-10-20\* | 2021-06-23 |
 | [Breeze](https://open.spotify.com/track/7lIqdxaQprUnIjgkZsppyP) | [Lauren Que](https://open.spotify.com/artist/7DQiNBj7qfmV8s5Z0HmOLW) | [Breeze](https://open.spotify.com/album/5zv8gtm5j7nezGo3FdAEh8) | 2:34 | 2024-04-09 |  |
 | [Breezin](https://open.spotify.com/track/3wUHfX5JyU1ipP9BOXBLB5) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [Breezin](https://open.spotify.com/album/1OiSBgpilimYhIUmfuOpuZ) | 3:08 | 2020-10-20\* | 2021-08-25 |
+| [Brisa Del Mar](https://open.spotify.com/track/0nGu2i3ODDLWqw1JNVuNg9) | [Gofica](https://open.spotify.com/artist/55F2AITuHErxRXifp8W8Y7) | [Brisa Del Mar](https://open.spotify.com/album/3nueHTAWGva2GaGbwbxaDH) | 2:30 | 2025-11-28 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2021-08-25 | 2022-02-11 |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2020-10-20\* | 2021-07-09 |
 | [Buenos Aires Bound](https://open.spotify.com/track/3ZP0pxXCj7L4iEOTFAVlJ9) | [Jack's Mistress Frida](https://open.spotify.com/artist/6ZgqMiHfzrfXYYQxus20BS) | [Buenos Aires Bound](https://open.spotify.com/album/3wvvETVls0zK62Op0KeWID) | 4:20 | 2023-01-13 |  |
@@ -160,6 +161,7 @@
 | [Dancing On The Ceiling](https://open.spotify.com/track/4i9EX3daDLV0qiWOROKCUJ) | [SCRP](https://open.spotify.com/artist/6mRmujco5e9ge5KHau1mV1) | [Dancing On The Ceiling](https://open.spotify.com/album/1t1lPrpOtT685DdfsWwIuz) | 3:51 | 2023-01-13 | 2023-12-02 |
 | [Dancing with Taylor](https://open.spotify.com/track/36PqpImKv4HV6ueNoR0o9s) | [Venus Bay](https://open.spotify.com/artist/6LUI0R17HWaZZPh7xDYzNp) | [Dancing with Taylor](https://open.spotify.com/album/4bLhdFsywgLO3Hup4H4Qan) | 3:01 | 2023-10-12 |  |
 | [Dawncaller](https://open.spotify.com/track/68RwfkkJ1VFOr5g3Apeif7) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Raincaller](https://open.spotify.com/album/0ZHvIq9zoftFWPbBeRpgVc) | 4:04 | 2020-10-20\* | 2021-05-13 |
+| [Daydreaming](https://open.spotify.com/track/7aJslKRTPKYWGOPmhrW9zZ) | [Nordsky](https://open.spotify.com/artist/0yixcVWpULGQAcURRVLxRr) | [Daydreaming](https://open.spotify.com/album/5FhOLeSOWgvEXssDOOgPDa) | 2:37 | 2025-11-28 |  |
 | [Dayglow](https://open.spotify.com/track/4bes7ffMOJqS54hbUD8rKe) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Dayglow](https://open.spotify.com/album/3hsi2iHQOSaYlrXii69cN0) | 2:31 | 2025-07-25 |  |
 | [Decaffeinate](https://open.spotify.com/track/1ymZ0HDx1YilCVx7knG9pA) | [Il Greco](https://open.spotify.com/artist/6akppwCmIdXMHpXWXzYTyp) | [Decaffeinate](https://open.spotify.com/album/7eH50RGuoYqhD45MCtxYQR) | 2:14 | 2024-09-02 | 2025-05-17 |
 | [Deep Forest](https://open.spotify.com/track/1wVd0OZYD1aUQfqwwJqf7U) | [TOMATOSLICE](https://open.spotify.com/artist/6EqyBfmaGsykcIF15BCATj) | [Deep Forest](https://open.spotify.com/album/0efSrTP5Bp6QsyZdUJV6rj) | 5:18 | 2020-12-24 | 2021-01-29 |
@@ -658,6 +660,7 @@
 | [Suede](https://open.spotify.com/track/3L0h3F6legZt2hBN1h9KZg) | [Alexis Dex](https://open.spotify.com/artist/0cTgUITSZa5GgXygwDcyqV) | [Suede](https://open.spotify.com/album/4AxjnlN28EuaWC1tZyOGu1) | 3:03 | 2021-10-16 | 2025-09-06 |
 | [Summer Daze](https://open.spotify.com/track/6IicRTrwqlLmP0d3s5cFra) | [Kev Twine](https://open.spotify.com/artist/00LMt4rvi6xkahRJ8UVKDU) | [Summer Daze](https://open.spotify.com/album/7IMNPhTvyJ524UefN6aTQW) | 2:19 | 2020-10-20\* | 2021-06-23 |
 | [Summer Rain](https://open.spotify.com/track/7lQxkbFv1kvPld5x44w3RT) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Happiness Therapy LP01 : The Coast](https://open.spotify.com/album/4rde1PzuPvIf5kwBRuIFyW) | 6:12 | 2020-12-24 | 2021-01-15 |
+| [Sun Comes Down](https://open.spotify.com/track/6CVUY862d0GnqG9lTBXijY) | [Velvet Palms](https://open.spotify.com/artist/3xhneqIDG6xK6nruEfcIaG) | [Sun Comes Down](https://open.spotify.com/album/2XVALlJsdS9swX8vel31N6) | 2:10 | 2025-11-28 |  |
 | [Sun Glitches](https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo) | [Dream Lanterns](https://open.spotify.com/artist/4gpy3xS2i5lM4Yopidaimg) | [Sun Glitches](https://open.spotify.com/album/2MkOSCMXM1BVOVKZQUrR6h) | 4:01 | 2021-03-25 | 2022-01-22 |
 | [Sun King](https://open.spotify.com/track/2EezpKbfw5GdDaYZiUEAhH) | [Lemon Pi](https://open.spotify.com/artist/4iXm09MxBWzOQBhZVUGw12) | [Sun King](https://open.spotify.com/album/5RVLPgfGR3OMktOr3BHCXP) | 2:37 | 2021-04-15 | 2024-12-07 |
 | [Sun Kissed](https://open.spotify.com/track/1ekkdsi28d2JRo8sAwf8yb) | [Col Wright](https://open.spotify.com/artist/3N4pZH3LcxBjfnxb5IKeo9) | [All Good](https://open.spotify.com/album/7cIOjaVAEQ2oEuUii6pLAY) | 3:17 | 2021-06-23 | 2022-01-22 |
@@ -703,6 +706,7 @@
 | [The Knight](https://open.spotify.com/track/5sbRAQCXRi3BN7SsNMDkoZ) | [SUNSY](https://open.spotify.com/artist/6QTuqSeb1X7zUghAQO8312) | [The Knight](https://open.spotify.com/album/7FKfgliK5MeJ7RZGdcEFGC) | 2:04 | 2022-11-25 | 2025-02-01 |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2020-10-20\* | 2021-05-13 |
 | [The Mesmerizing Circle](https://open.spotify.com/track/5CQVy5xnf7gb4J093YQkDg) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Dreamer](https://open.spotify.com/album/2O1yshzp8iyZFq1lhThaUg) | 6:57 | 2020-10-20\* | 2021-01-29 |
+| [The Mystery](https://open.spotify.com/track/1FFQVTvsaDznVBWyqHPq4P) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [The Mystery](https://open.spotify.com/album/46VtL8ivE5nAheUlfbXIlP) | 3:31 | 2025-11-28 |  |
 | [The Next Morning](https://open.spotify.com/track/19HMYmoV0N0mZh8HuR0uae) | [Aneto](https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs) | [The Next Morning](https://open.spotify.com/album/2rT4qP0xxhTpow4brUeUau) | 3:03 | 2025-01-17 |  |
 | [The Palms](https://open.spotify.com/track/6Pby1rzTNp8P68GVRDm4ag) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [The Palms](https://open.spotify.com/album/3PHjZlt9FRbcln2xvZvD0q) | 2:24 | 2025-10-10 |  |
 | [The Rhythm Section](https://open.spotify.com/track/728uaKQI7UyB6q1f1A4jdH) | [Here we go!](https://open.spotify.com/artist/58X3mn1Nur7Oo4XHdCYHnl) | [The Rhythm Section](https://open.spotify.com/album/0eYmfB2FzX9LbkqcvevxSW) | 3:55 | 2021-11-10 | 2022-02-11 |

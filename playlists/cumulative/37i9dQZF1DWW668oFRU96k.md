@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dipha Barus
 
-2,081 songs - 4 day 10 hr 5 min
+2,081 songs - 4 day 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1732,6 +1732,7 @@
 | [Synergy](https://open.spotify.com/track/35NvrrDGnW9VzG0yyga4ls) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb), [The Fifth](https://open.spotify.com/artist/2Xaj2DFblCS9qZEkSUjBiD) | [Synergy](https://open.spotify.com/album/4UxB3VrOTh93ofyDEsFJnW) | 2:43 | 2023-10-12 | 2023-11-17 |
 | [TA HI HO](https://open.spotify.com/track/5lnSFlLBnwNmJ2gI03mWtn) | [Mawang](https://open.spotify.com/artist/5xM0GaEgdDWgYowzLLAQbn), [Ezzarush](https://open.spotify.com/artist/58CMaU0486iJ6bUqRigG5P), [Mita Kulsum](https://open.spotify.com/artist/03iOD011SEtI8v6Kj7Wmeq) | [TA HI HO](https://open.spotify.com/album/5lGU4IUpz1eVr3pFkBNwOy) | 2:35 | 2023-05-11 | 2023-06-16 |
 | [TAKA](https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [TAKA](https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40) | 2:54 | 2024-03-21 | 2024-04-26 |
+| [TAKATAKA](https://open.spotify.com/track/4si6nKeoCVKeBbE3WhxTL7) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [SURAK EP](https://open.spotify.com/album/0VpvdjYxvw0Zlg8YdTZnyC) | 2:22 | 2025-11-27 |  |
 | [Take A Moment](https://open.spotify.com/track/1lsc5LOovzQxITA5H3S3SN) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [David Frank](https://open.spotify.com/artist/1DTCyYmKxKEv37N97OTczW) | [Take A Moment](https://open.spotify.com/album/1ps7klPI1BZcao85aOCeuf) | 2:36 | 2024-02-01 | 2024-03-08 |
 | [Take Control](https://open.spotify.com/track/4rQx0fftZ7fXbL1tU35gNI) | [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Max Bering](https://open.spotify.com/artist/13BieYgRwIpIknGgwsNHoV) | [Take Control](https://open.spotify.com/album/7ImthyGtcB9fLAILJYA08I) | 2:22 | 2024-04-25 | 2024-06-01 |
 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-25 | 2024-03-01 |
@@ -1854,7 +1855,6 @@
 | [Toxic](https://open.spotify.com/track/1aM1JMFsQeMYT4Wgth8VFo) | [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI) | [Toxic](https://open.spotify.com/album/1gkDfNIdyneHLG6EYQ8mPL) | 2:11 | 2023-08-10 | 2023-09-15 |
 | [Toxic Love](https://open.spotify.com/track/4cJaSBHYmzr2Nj5aTogqYJ) | [STXRSHOV](https://open.spotify.com/artist/0bOIj7gV53mwf3NlZOO6L7), [QUATTROTEQUE](https://open.spotify.com/artist/0l1kVCUpMOfiqosrJLdFJX), [TRETIAKOVA](https://open.spotify.com/artist/4wWGmZ9dwQkkK3u7lEMChO) | [Toxic Love](https://open.spotify.com/album/4pOWpIVWFVDCBlOCsYgBGj) | 2:01 | 2023-12-08 | 2024-01-12 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-24 | 2023-10-06 |
-| [Track 1](https://open.spotify.com/track/4si6nKeoCVKeBbE3WhxTL7) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-04-27 | 2023-06-02 |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-06 | 2024-07-12 |
 | [treat me right \(with fuii\)](https://open.spotify.com/track/1OqQjAd8jXuqQsfdsiDzxD) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [fuii](https://open.spotify.com/artist/5ENnOdDG0bUbY4GCQP1pkj) | [treat me right \(with fuii\)](https://open.spotify.com/album/4bp2C0Dra6KZcn6FIbNWKT) | 2:01 | 2024-05-30 | 2024-07-05 |

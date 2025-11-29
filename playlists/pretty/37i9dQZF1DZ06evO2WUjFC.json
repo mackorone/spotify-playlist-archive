@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAfOOHJz1c1vFlFA+IJVPit",
+  "snapshot_id": "aSeUgAAAAADpqT+ACERG+YAbDn7X1nZs",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "El 0-10",
+        "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
       },
       "artists": [
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Tomas Madrigal",
-          "url": "https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C"
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 220970,
-      "name": "EL REY DE MIL CORONAS - En Vivo",
-      "url": "https://open.spotify.com/track/4pCa8V4EFQxJiJg7NYwWHf"
+      "duration_ms": 162318,
+      "name": "El 0-10",
+      "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
     },
     {
       "added_at": null,
@@ -303,22 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 0-10",
-        "url": "https://open.spotify.com/album/7xKrS83b5Yy9JBvWlYo7aJ"
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Tomas Madrigal",
+          "url": "https://open.spotify.com/artist/29MvAYU9dWzjODhCShvn4C"
         }
       ],
-      "duration_ms": 162318,
-      "name": "El 0-10",
-      "url": "https://open.spotify.com/track/6NovnVrwsY1OVoOuXDj6VF"
+      "duration_ms": 220970,
+      "name": "EL REY DE MIL CORONAS - En Vivo",
+      "url": "https://open.spotify.com/track/4pCa8V4EFQxJiJg7NYwWHf"
     },
     {
       "added_at": null,
@@ -399,22 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Tumbado",
-        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6"
       },
       "artists": [
         {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
         },
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 174946,
-      "name": "\u00bfCon Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
+      "duration_ms": 231765,
+      "name": "De Cero",
+      "url": "https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X"
     },
     {
       "added_at": null,
@@ -451,42 +455,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6"
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
       "artists": [
         {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        },
-        {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 231765,
-      "name": "De Cero",
-      "url": "https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X"
+      "duration_ms": 174946,
+      "name": "\u00bfCon Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Lilo Bermudez",
+          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
         }
       ],
-      "duration_ms": 175586,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
+      "duration_ms": 218623,
+      "name": "VENGO A VER UNOS OJOS - En Vivo",
+      "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
     },
     {
       "added_at": null,
@@ -514,35 +518,27 @@
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
         }
       ],
-      "duration_ms": 127481,
-      "name": "CATALOGADO",
-      "url": "https://open.spotify.com/track/12JMpbENTgoRuOvhifnn9h"
+      "duration_ms": 163781,
+      "name": "NOCHE ARREGLADA",
+      "url": "https://open.spotify.com/track/4ZWy7q1vy2KAOESS3HOjHX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Lilo Bermudez",
-          "url": "https://open.spotify.com/artist/5bES419H93yPwH6fzmrlDa"
         }
       ],
-      "duration_ms": 218623,
-      "name": "VENGO A VER UNOS OJOS - En Vivo",
-      "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
+      "duration_ms": 175586,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8"
     },
     {
       "added_at": null,
@@ -591,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EN VIVO DESDE EL VALLE",
+        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 183530,
+      "name": "COMPA BLADI - En Vivo",
+      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ah\u00ed Viene la Subida",
         "url": "https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ"
       },
@@ -607,22 +619,6 @@
       "duration_ms": 255923,
       "name": "Hora de Abordar",
       "url": "https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO DESDE EL VALLE",
-        "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 183530,
-      "name": "COMPA BLADI - En Vivo",
-      "url": "https://open.spotify.com/track/0TihV9VrLmGM8HlG0eXpno"
     },
     {
       "added_at": null,
@@ -671,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
-        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 242061,
-      "name": "Culiacan Se Estremecia",
-      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EN VIVO DESDE EL VALLE",
         "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
@@ -707,6 +683,26 @@
       "duration_ms": 167061,
       "name": "EL SUBE Y BAJA - En Vivo",
       "url": "https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
+        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 242061,
+      "name": "Culiacan Se Estremecia",
+      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
     },
     {
       "added_at": null,
@@ -767,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sue\u00f1o De Un Marihuano",
-        "url": "https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los Cuates de Sinaloa",
-          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "El Sue\u00f1o De Un Marihuano",
-      "url": "https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ranchito (En Vivo)",
         "url": "https://open.spotify.com/album/1CCEw0IApi1xVQ43G6ufvf"
       },
@@ -807,6 +783,26 @@
       "duration_ms": 281840,
       "name": "Mi Ranchito (En Vivo)",
       "url": "https://open.spotify.com/track/5ILd4zLafaVVp4VtbAIMIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sue\u00f1o De Un Marihuano",
+        "url": "https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los Cuates de Sinaloa",
+          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "El Sue\u00f1o De Un Marihuano",
+      "url": "https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP"
     },
     {
       "added_at": null,

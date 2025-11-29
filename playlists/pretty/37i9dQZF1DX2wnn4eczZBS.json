@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 10996,
+  "num_followers": 10998,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "niet meer zo",
+        "url": "https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV"
+      },
+      "artists": [
+        {
+          "name": "Laura Sjin",
+          "url": "https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L"
+        }
+      ],
+      "duration_ms": 214029,
+      "name": "niet meer zo",
+      "url": "https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Het Moment Supr\u00eame",
         "url": "https://open.spotify.com/album/5hLf8KGSoR9cvf4ZPyFgRQ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 144374,
       "name": "Evenwicht",
       "url": "https://open.spotify.com/track/4YCIKgw9G0YNaN5vOzmxhI"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "niet meer zo",
-        "url": "https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV"
-      },
-      "artists": [
-        {
-          "name": "Laura Sjin",
-          "url": "https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L"
-        }
-      ],
-      "duration_ms": 214029,
-      "name": "niet meer zo",
-      "url": "https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU"
     },
     {
       "added_at": "2025-11-08 08:13:51",

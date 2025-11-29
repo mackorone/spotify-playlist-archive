@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223985,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
+    },
+    {
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J"
       },

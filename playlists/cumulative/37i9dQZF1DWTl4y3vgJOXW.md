@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: James Harden
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Micah Parsons
 
-862 songs - 1 day 20 hr 0 min
+864 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [2 Million Up](https://open.spotify.com/track/5JS1gz9zP4GTy0LZYvSeUK) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [ONLY BUILT 4 DIAMOND LINKS](https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp) | 2:39 | 2022-08-19 | 2023-06-10 |
 | [2022 Freestyle](https://open.spotify.com/track/3HWcK5EIfIdOQD1Rsj4yek) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [2022 Freestyle](https://open.spotify.com/album/1WRiN6skJPCcnoP99a0oIQ) | 2:56 | 2023-02-17 | 2023-02-22 |
 | [21](https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blank Blank](https://open.spotify.com/album/6L2X9oAs6pLMweH6pSpfTT) | 2:50 | 2021-09-02 | 2022-09-17 |
+| [2v2 \(with EBK Jaaybo\)](https://open.spotify.com/track/7rGDpPYmXZ9JcWtizej9JE) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [2v2 \(with EBK Jaaybo\)](https://open.spotify.com/album/016Uvr9eqAsJY3sHZfZ5Ht) | 2:27 | 2025-11-28 |  |
 | [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 | 2025-07-19 |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2023-02-17 | 2023-02-22 |
 | [4 Da Gang \(with Roddy Ricch\)](https://open.spotify.com/track/1mAey8kEPmDM2icL56kS9d) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:36 | 2022-06-24 | 2023-06-10 |
@@ -160,7 +161,8 @@
 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 | 2025-11-07 |  |
 | [Catch Me Outside 2](https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Catch Me Outside 2](https://open.spotify.com/album/3NBaHOQq0oj586RZBMkxQG) | 2:06 | 2025-07-11 | 2025-08-23 |
 | [Celine Frames](https://open.spotify.com/track/0Gmi0VeJIjybMPkJwLlS80) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Last Man Standing](https://open.spotify.com/album/2aFnmYzaupGK12iAYejKC4) | 2:35 | 2022-11-04 | 2023-03-14 |
-| [Check Please](https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:01 | 2025-10-17 |  |
+| [Chanel Boy](https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Chanel Boy](https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND) | 2:37 | 2025-11-28 |  |
+| [Check Please](https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:01 | 2025-10-17 | 2025-11-29 |
 | [Checkmate \(Smooth\)](https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:12 | 2025-08-22 |  |
 | [City Boys](https://open.spotify.com/track/1Ad8oEhaNWDe5shUeZYlYH) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/51r39Gm18d7yIS3PC1QD8B) | 2:33 | 2024-07-12 | 2024-07-19 |
 | [CLOUD 9](https://open.spotify.com/track/2UqjSm4u2Mpb5E4Y265LQJ) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WARNING SHOT](https://open.spotify.com/album/0b71YRhkucJcuODZV0ykOj) | 2:15 | 2025-10-24 |  |
@@ -505,7 +507,7 @@
 | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 | 2025-09-12 | 2025-10-18 |
 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2023-06-09 | 2024-04-19 |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-05-18 | 2024-09-01 |
-| [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd) | 2:19 | 2025-08-15 |  |
+| [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Move Wrong \(feat\. VonOff1700\)](https://open.spotify.com/album/7v6gSKQkaHs78xNG9FMLFd) | 2:19 | 2025-08-15 | 2025-11-29 |
 | [Mr Chow](https://open.spotify.com/track/4YLizxRQsTqqnvzzYq2VaE) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:57 | 2024-11-01 | 2024-12-14 |
 | [MR DND](https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [From Me 2 U](https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY) | 1:44 | 2025-11-21 |  |
 | [Mr\. President](https://open.spotify.com/track/0Z3ds3GJ7FqoaSgn6tLKF3) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Mr\. President](https://open.spotify.com/album/4h4xBYSdDUOLwlUKa72zba) | 2:14 | 2025-08-08 | 2025-08-16 |

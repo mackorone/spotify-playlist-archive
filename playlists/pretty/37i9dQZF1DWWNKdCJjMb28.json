@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/karencivil/?hl=en\">Karen Civil</a>",
-  "num_followers": 37586,
+  "num_followers": 37590,
   "original_name": "Karen Civil's Taste",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 155168,
+      "name": "Said Sum",
+      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 235987,
       "name": "Rags2Riches 2 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 155168,
-      "name": "Said Sum",
-      "url": "https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Dark Conversation",
+      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Street Sermons",
         "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 237840,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Dark Conversation",
-      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
     },
     {
       "added_at": "2022-10-01 16:00:00",

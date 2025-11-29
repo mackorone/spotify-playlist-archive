@@ -4,12 +4,12 @@
 
 > pov: u hand the internet the aux
 
-364 songs - 18 hr 35 min
+365 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0QKhC7BGbjb38EsW8Dgm5r) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Give It To Me \(Remix\)](https://open.spotify.com/album/3bqPkfqc4dMwmdyxIESBEf) | 0:00 | 2022-12-28 | 2023-02-09 |
-| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-07 |  |
+| [](https://open.spotify.com/track/60zIis3BtyfNQFEucmDvE7) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0Mx4ZDmXhfWQ1E3xp3TiSP) | 0:00 | 2025-11-07 | 2025-11-29 |
 | [\#BrooklynBloodPop!](https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu) | [SyKo](https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2) | [\#BrooklynBloodPop!](https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU) | 2:25 | 2021-12-03 | 2023-03-14 |
 | [\#Doyalike](https://open.spotify.com/track/4JhL6VywH5lKtAW6E3gKpD) | [kazeWIW](https://open.spotify.com/artist/021U5Ph1AQMVUndqnLPMkL) | [\#Doyalike](https://open.spotify.com/album/1E4Eap7cvWM5wtLNZsVlev) | 3:03 | 2022-04-08 | 2022-07-29 |
 | [2 Phút Hơn \- KAIZ Remix](https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [KAIZ](https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj) | [2 Phút Hơn \(KAIZ Remix\)](https://open.spotify.com/album/1V8qSPtmixwUiyLheEazuc) | 3:03 | 2021-12-03 | 2022-04-19 |
@@ -149,6 +149,7 @@
 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 | 2024-04-12 |  |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-23 | 2025-08-30 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-22 | 2023-08-19 |
+| [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 | 2025-11-28 |  |
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2021-12-03 | 2022-07-29 |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/3uKqnQ0dGBcpovf9lV2nqg) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/3uW306euM0l6tAJpae90LS) | 1:50 | 2023-12-29 | 2024-05-23 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-06-27 |  |

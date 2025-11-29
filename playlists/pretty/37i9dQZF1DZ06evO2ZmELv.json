@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABGW2AVKOCc9mx5KOq4jDto",
+  "snapshot_id": "aSeUgAAAAABDpNkj5VqMICl2ousjwiGc",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/0e1fGfeuU2Qj2fKyjvmcu1"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 258827,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/1RhHzJxQQcmg3ON1GzqlPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOS VALE MADRE",
         "url": "https://open.spotify.com/album/43NoqcA11wC5ZDw61N43Sc"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 174745,
       "name": "NOS VALE MADRE",
       "url": "https://open.spotify.com/track/7bcD0xvqzdOWB7KNd0xfCe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/0e1fGfeuU2Qj2fKyjvmcu1"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 258827,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/1RhHzJxQQcmg3ON1GzqlPQ"
     },
     {
       "added_at": null,
@@ -460,41 +460,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 197733,
-      "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
-      "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Adios Ranchero",
-        "url": "https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 196993,
-      "name": "El Adios Ranchero",
-      "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo de Anoche",
-        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Lo de Anoche",
-      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
+      "duration_ms": 229774,
+      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
     },
     {
       "added_at": null,
@@ -515,6 +483,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo de Anoche",
+        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 187750,
+      "name": "Lo de Anoche",
+      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Adios Ranchero",
+        "url": "https://open.spotify.com/album/0EK0m5wKph9XDBhW5O307j"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 196993,
+      "name": "El Adios Ranchero",
+      "url": "https://open.spotify.com/track/71Df3vsvIfMwG9zGFVzASo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones de Oro (En Vivo)",
         "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
@@ -524,9 +524,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 229774,
-      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
+      "duration_ms": 197733,
+      "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 162346,
+      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
     },
     {
       "added_at": null,
@@ -547,6 +563,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Convences",
+        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 205155,
+      "name": "Me Convences",
+      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancheritas Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
       },
@@ -556,9 +604,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
-      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 168096,
+      "name": "El Hubiera No Existe",
+      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
     },
     {
       "added_at": null,
@@ -588,9 +652,25 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 160160,
-      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
+      "duration_ms": 198469,
+      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 184074,
+      "name": "Cuando El Destino - En Vivo",
+      "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
     },
     {
       "added_at": null,
@@ -607,22 +687,6 @@
       "duration_ms": 192413,
       "name": "Me Cae",
       "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "Destino Cruel - En Vivo",
-      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
     },
     {
       "added_at": null,
@@ -647,70 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
-      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 168096,
-      "name": "El Hubiera No Existe",
-      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancheritas Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 184074,
-      "name": "Cuando El Destino - En Vivo",
-      "url": "https://open.spotify.com/track/2k4QOrC1GMrcHvDhmUxDaw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Convences",
-        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 205155,
-      "name": "Me Convences",
-      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones de Oro, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
       },
@@ -720,25 +720,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un D\u00eda 27",
-        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 191542,
-      "name": "Un D\u00eda 27",
-      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un D\u00eda 27",
+        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 191542,
+      "name": "Un D\u00eda 27",
+      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Causa Perdida",
         "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
       },
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
-      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     },
     {
       "added_at": null,

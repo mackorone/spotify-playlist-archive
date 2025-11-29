@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-335 songs - 1 day 0 hr 33 min
+336 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |
 | [Hitotoki](https://open.spotify.com/track/7oihgOOxT7CvQrDNF1yDo8) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Hitotoki](https://open.spotify.com/album/3PoEsNjbgIkR1dQtnT1FYT) | 2:41 | 2022-12-20 | 2023-08-19 |
 | [Holy](https://open.spotify.com/track/4tM5iliYtWcS5jSZCHc6rB) | [Twon Lake](https://open.spotify.com/artist/0DWNbLXfqQRTAZz7SJhYuB) | [White Tape](https://open.spotify.com/album/0E6xFj4zYpjWDuIBSf23fe) | 3:55 | 2022-01-07 |  |
-| [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 | 2023-01-06 |  |
+| [Hondou no Kumo](https://open.spotify.com/track/3fd0CkItjLx54Fk9PPQaBf) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 1:55 | 2023-01-06 | 2025-11-29 |
 | [honnkakuha](https://open.spotify.com/track/3SqTFpSAlMdl3J84674IWx) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Kimi](https://open.spotify.com/album/7jRxYILcGpWI1ETlXIiNEX) | 2:33 | 2023-09-08 |  |
 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 | 2024-06-07 |  |
 | [horizon](https://open.spotify.com/track/19Rms0r43i2fLRAoaUEYuV) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [horizon](https://open.spotify.com/album/40Wq6rw9mbo4N4e0dNqMzJ) | 2:30 | 2024-11-15 | 2025-08-02 |
@@ -212,6 +212,7 @@
 | [Plants Feast](https://open.spotify.com/track/5o9roDxnHFxzGgA0zLfSF4) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Plants Feast](https://open.spotify.com/album/3HAH0Vl5Fbu0eoM5wgUH2W) | 3:26 | 2023-04-28 | 2025-05-03 |
 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 | 2025-03-06 |  |
 | [Plop](https://open.spotify.com/track/0hEQzOexeeU2ckT1SL6rVk) | [亜門](https://open.spotify.com/artist/5REcVneZv9jSl3HBWwuScq) | [Plop](https://open.spotify.com/album/1hDe8GfH4n54x7GGBHVwaE) | 3:24 | 2024-12-14 |  |
+| [Poetics of Non\-Savoir](https://open.spotify.com/track/30BzK9YR9PnnmBu9DHCHNo) | [Kenta Tanaka](https://open.spotify.com/artist/0QEKyMa0WTiCpRz5vN0f9K) | [Poetics of Non\-Savoir](https://open.spotify.com/album/5m37WiULVcxjKwZKuYOldE) | 5:28 | 2025-11-11 |  |
 | [Pollen](https://open.spotify.com/track/1jcyEOv0oyOGxI7pvVmKzp) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/0DPw8nGwiZBAQGlA2fv9wf) | 7:50 | 2022-01-07 | 2025-01-25 |
 | [Pollen](https://open.spotify.com/track/78SrgFOU9fDxx4gOWc1ypx) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Sonne und Wasser](https://open.spotify.com/album/7fNiI99gYGhMzn3HAqQ2le) | 7:50 | 2022-10-15 | 2024-04-19 |
 | [Postcards](https://open.spotify.com/track/6PiGxd8jyfWCGPojb4tpf5) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 5:36 | 2022-01-07 |  |

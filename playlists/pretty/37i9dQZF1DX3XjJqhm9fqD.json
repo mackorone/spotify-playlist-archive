@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 98436,
+  "num_followers": 98440,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Bwa Kale",
+        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        },
+        {
+          "name": "T-Babas",
+          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
+        }
+      ],
+      "duration_ms": 185965,
+      "name": "Bwa Kale",
+      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Teke Fren",
         "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Bwa Kale",
-        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        },
-        {
-          "name": "T-Babas",
-          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
-        }
-      ],
-      "duration_ms": 185965,
-      "name": "Bwa Kale",
-      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1363,18 +1363,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+        "name": "10 IS IT",
+        "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
       },
       "artists": [
         {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+          "name": "Master Brain",
+          "url": "https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR"
+        },
+        {
+          "name": "Mechanst",
+          "url": "https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M"
+        },
+        {
+          "name": "Maykimac",
+          "url": "https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg"
         }
       ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
+      "duration_ms": 229341,
+      "name": "Valide",
+      "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1415,26 +1423,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "10 IS IT",
-        "url": "https://open.spotify.com/album/3Un7lXX88umyt0YffFDzAU"
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
       },
       "artists": [
         {
-          "name": "Master Brain",
-          "url": "https://open.spotify.com/artist/0NP194EnYajZdRa0hBiyQR"
-        },
-        {
-          "name": "Mechanst",
-          "url": "https://open.spotify.com/artist/7nbBRH8kZ28ejxzsltDX2M"
-        },
-        {
-          "name": "Maykimac",
-          "url": "https://open.spotify.com/artist/4v8m8xiWZ9wBAP8jImyiBg"
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
         }
       ],
-      "duration_ms": 229341,
-      "name": "Valide",
-      "url": "https://open.spotify.com/track/3UJqfTCaYTRmfMKAnWbHHP"
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1743,38 +1743,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
-      },
-      "artists": [
-        {
-          "name": "\u00c4SHH",
-          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "FENOMENAL",
-      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Rasanbleman (Red Moon)",
         "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
@@ -1795,18 +1763,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Plenyen Player Yo",
-        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
       },
       "artists": [
         {
-          "name": "TROUBLEBOY HITMAKER",
-          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+          "name": "\u00c4SHH",
+          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
         }
       ],
-      "duration_ms": 226542,
-      "name": "Plenyen Player Yo",
-      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+      "duration_ms": 187862,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1827,6 +1795,38 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Plenyen Player Yo",
+        "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
+      },
+      "artists": [
+        {
+          "name": "TROUBLEBOY HITMAKER",
+          "url": "https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio"
+        }
+      ],
+      "duration_ms": 226542,
+      "name": "Plenyen Player Yo",
+      "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2025-07-25 04:00:50",

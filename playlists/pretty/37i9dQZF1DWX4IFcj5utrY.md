@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Floyd Lavine
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,963 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,139 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

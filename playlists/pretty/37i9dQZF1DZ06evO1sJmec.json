@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2084133,
+  "num_followers": 2084378,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABvo1PQwReStZzRjTp/yxz0",
+  "snapshot_id": "aSeUgAAAAAC/gJnwvX1BzR66DqPp+AAT",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Magnetic",
+        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 466586,
+      "name": "The Unforgiven III",
+      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Disappear",
         "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Magnetic",
-        "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 466586,
-      "name": "The Unforgiven III",
-      "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Garage Inc.",
         "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 345283,
-      "name": "Harvester of Sorrow",
-      "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 261706,
       "name": "Hero of the Day - Remastered",
       "url": "https://open.spotify.com/track/0nB11Yb0wGnGcoQ26cyoc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 345283,
+      "name": "Harvester of Sorrow",
+      "url": "https://open.spotify.com/track/6qgYe6noMKsElSoPg9yS91"
     },
     {
       "added_at": null,
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ride The Lightning (Remastered)",
         "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 86906,
-      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
-      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     },
     {
       "added_at": null,

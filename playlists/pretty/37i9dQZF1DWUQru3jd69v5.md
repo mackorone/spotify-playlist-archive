@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Latrelle e Nerissima in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,032 likes - 69 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,078 likes - 69 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 4 | [UPPDOWNN](https://open.spotify.com/track/6U1mD5A4DFE7knET7XbsHj) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta) | [UPPDOWNN](https://open.spotify.com/album/5JsAD7CyYzjRMsJmUIMl4t) | 2:15 |
 | 5 | [FLOW PAPA](https://open.spotify.com/track/24Oks4dkZ3mftdZhgREIHG) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [FLOW PAPA](https://open.spotify.com/album/07ldN1bAhf4u357xasL8wE) | 2:37 |
 | 6 | [Britney](https://open.spotify.com/track/5px6wydIxz9Z4ONr4Zk57x) | [Pirrons](https://open.spotify.com/artist/5GNm6r9ruYWX2EMXjt2B1O) | [Britney](https://open.spotify.com/album/41GQ9DVigGfEOXCXdgfsvT) | 1:52 |
-| 7 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 4:42 |
+| 7 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 |
 | 8 | [WROØM WROØM](https://open.spotify.com/track/60ZDfFRHuY7UB0Dxq9HO8d) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [WROØM WROØM](https://open.spotify.com/album/1isHPLHhzEpxcMkqeCate7) | 3:26 |
 | 9 | [No Pinscher \(feat\. Nerissima Serpe, Papa V & Rhove\)](https://open.spotify.com/track/6qaIxiM2EFYaec3oBaRqwj) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Best](https://open.spotify.com/album/169sTK9nskG7EdmL78KR8y) | 2:38 |
 | 10 | [CATCALLING](https://open.spotify.com/track/3m5uVGF4qtsM4KvtiXrkjZ) | [The Luxe](https://open.spotify.com/artist/3zhhnmtw4IO0PsXlzLbuLd) | [CATCALLING](https://open.spotify.com/album/6O87ZWwRv06hIbcMRsMX1o) | 2:18 |

@@ -1,13 +1,29 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 234,
+  "num_followers": 237,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGJjpp5MFvbOkaT9ySKpNZsDqrClfA",
+  "snapshot_id": "AAAGKlXwvLBOXh72VyuQfqrHMUis8SEG",
   "tracks": [
+    {
+      "added_at": "2025-11-28 15:41:12",
+      "album": {
+        "name": "Chokehold",
+        "url": "https://open.spotify.com/album/0k7bxndtD9MpYl5PkFrsic"
+      },
+      "artists": [
+        {
+          "name": "Eli Vale",
+          "url": "https://open.spotify.com/artist/74zIGbaLk6F8RVJ42FuBeE"
+        }
+      ],
+      "duration_ms": 229519,
+      "name": "Holy Sin",
+      "url": "https://open.spotify.com/track/1TVSVDpEk8RReunuDGRqCX"
+    },
     {
       "added_at": "2025-11-24 13:35:34",
       "album": {
@@ -8048,8 +8064,8 @@
       },
       "artists": [
         {
-          "name": "Silverfish",
-          "url": "https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90"
+          "name": "Lush Duck",
+          "url": "https://open.spotify.com/artist/4Eq6Km0Da2p2nOdSU09tXu"
         }
       ],
       "duration_ms": 206463,
@@ -59479,6 +59495,54 @@
       "duration_ms": 222511,
       "name": "(Like a) Dandy Warhol",
       "url": "https://open.spotify.com/track/0ioeSwEh7824IZ30X1x6s6"
+    },
+    {
+      "added_at": "2025-11-28 22:48:05",
+      "album": {
+        "name": "Point Blank",
+        "url": "https://open.spotify.com/album/4dERb041ujbOvXGUJurgez"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "duration_ms": 187312,
+      "name": "Point Blank",
+      "url": "https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR"
+    },
+    {
+      "added_at": "2025-11-29 00:47:51",
+      "album": {
+        "name": "When the Dust Settles",
+        "url": "https://open.spotify.com/album/6XWmwSASV5UpKocQ9YZqn8"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "duration_ms": 187267,
+      "name": "When the Dust Settles",
+      "url": "https://open.spotify.com/track/14UJ4wYdOJnsxehkPamTh2"
+    },
+    {
+      "added_at": "2025-11-29 00:48:07",
+      "album": {
+        "name": "Clonazepam",
+        "url": "https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quickus",
+          "url": "https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf"
+        }
+      ],
+      "duration_ms": 155844,
+      "name": "Clonazepam",
+      "url": "https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o"
     }
   ],
   "unique_name": "playlist spotify free",

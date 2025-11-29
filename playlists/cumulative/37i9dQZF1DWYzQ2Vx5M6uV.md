@@ -4,7 +4,7 @@
 
 > Heat that will make you sweat 🥵 Cover: Ozuna, Beéle & Ovy on The Drums
 
-317 songs - 16 hr 8 min
+318 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 | 2025-05-16 |  |
 | [No Wahala \- Latin Remix](https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [No Wahala \(Latin Remix\)](https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz) | 2:37 | 2022-04-28 | 2024-09-21 |
 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 | 2025-05-30 |  |
+| [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 | 2025-11-28 |  |
 | [Normal](https://open.spotify.com/track/0kfTRces8TqfRbtoj6QQye) | [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Normal](https://open.spotify.com/album/0NfyRwPqxtCqpbxgMDBSuZ) | 2:33 | 2025-01-31 | 2025-11-08 |
 | [NUESTRA ISLA](https://open.spotify.com/track/5M3BNBFh7YujQGs5njZbb4) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [SUKHA](https://open.spotify.com/album/1Xvw59wO0nV2rDMyJKaPUk) | 1:57 | 2024-12-13 | 2025-06-07 |
 | [Obsesión](https://open.spotify.com/track/7sllDb8lSLGnubFanPcU1h) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Obsesión](https://open.spotify.com/album/0bJ54lmTdYGrjvB4q0IZbq) | 2:16 | 2025-01-31 | 2025-05-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Vana is on top of today's best Metal playlist.",
+  "description": "Lamb of God is on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/04yjYHGB3aoyS3q7D7LiKy"
@@ -2774,6 +2774,24 @@
       "duration_ms": 220837,
       "name": "Bruised Sky",
       "url": "https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH"
+    },
+    {
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/7cJrjU2s9qj6g3DX9mZYXC"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148333,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/77uuyBIpyczOIkkbeJqLVb"
     },
     {
       "album": {
@@ -6115,6 +6133,24 @@
     },
     {
       "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215566,
+      "name": "Elegy",
+      "url": "https://open.spotify.com/track/6Fru9ck2yZQpyLHxSfmasq"
+    },
+    {
+      "album": {
         "name": "Elevator Operator",
         "url": "https://open.spotify.com/album/6JNW5L80qRIaLPhN60fkaM"
       },
@@ -6606,7 +6642,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 261000,
       "name": "Eyes Above",
       "url": "https://open.spotify.com/track/2XB2Hp4JtKMUAqRHh6DNZc"
@@ -14929,6 +14965,28 @@
     },
     {
       "album": {
+        "name": "Hideous Aftermath",
+        "url": "https://open.spotify.com/album/7y5OWsiatwngkMtaPXgyET"
+      },
+      "artists": [
+        {
+          "name": "Sanguisugabogg",
+          "url": "https://open.spotify.com/artist/0n98EIfTSiyxUZHUojHykN"
+        },
+        {
+          "name": "Todd Jones",
+          "url": "https://open.spotify.com/artist/3SkjTMFOdjH9BNwgNwJFRR"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288312,
+      "name": "Ritual of Autophagia (feat. Todd Jones)",
+      "url": "https://open.spotify.com/track/1FqQe6Kxe9uPGhfYmHigXX"
+    },
+    {
+      "album": {
         "name": "CURSED",
         "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
       },
@@ -21752,7 +21810,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 196666,
       "name": "Your Idol (KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/4VmiSWsMVZ25tbf2HErZtC"

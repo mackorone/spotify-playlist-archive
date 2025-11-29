@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,235 likes - 104 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,268 likes - 104 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 92 | [KADOSH \- Live](https://open.spotify.com/track/5AKxPk2q7D05Yh0PZjBx7S) | [Clergystrings](https://open.spotify.com/artist/1FLBl5sPP0Gc9TnHRQkSzV) | [KADOSH \(Live\)](https://open.spotify.com/album/2qUJhTlgr3OErgVwWKjz18) | 10:01 |
 | 93 | [Rest on me \- Live](https://open.spotify.com/track/2i7zwHw1zddbT9Obx7MFQL) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Rest on me \(Live\)](https://open.spotify.com/album/2isingTz5ck4713KaKfbEi) | 14:51 |
 | 94 | [Live Worship Medley](https://open.spotify.com/track/5p3eZrJOpJjYdxMy7Bs847) | [Glitch Gospel](https://open.spotify.com/artist/7g9iFNrR0eMrFq2gXkw57Q), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Live Worship Medley](https://open.spotify.com/album/3VbdAlFQTE7ul2PciwWAyV) | 7:39 |
-| 95 | [Victory Praise \- Live](https://open.spotify.com/track/46UBVMKVX2mYXS453PcvlJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Victory Praise \(Live\)](https://open.spotify.com/album/1o02xBcfIuhOt4MVTgr7Nn) | 12:44 |
+| 95 | [Victory Praise \(Live\)](https://open.spotify.com/track/46UBVMKVX2mYXS453PcvlJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Victory Praise \(Live\)](https://open.spotify.com/album/1o02xBcfIuhOt4MVTgr7Nn) | 12:44 |
 | 96 | [Emmanuel \- Live](https://open.spotify.com/track/0yd8O2jhQgaJ09ev2Xs1t2) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [DOMINUS OMNIUM \(Live\)](https://open.spotify.com/album/3yeICbZK652HJMHgu47FK5) | 7:40 |
 | 97 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 |
 | 98 | [Full Surrender \(Live\)](https://open.spotify.com/track/7ECm6U66LhwROK4CvqcnD2) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [Full Surrender \(Live\)](https://open.spotify.com/album/35c3pfkXamPsGb7Wdh6TuA) | 6:00 |

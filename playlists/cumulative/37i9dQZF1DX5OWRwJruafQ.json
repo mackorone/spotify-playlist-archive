@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 224510,
       "name": "Badberry",
       "url": "https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV"
@@ -1778,6 +1778,28 @@
       "duration_ms": 143529,
       "name": "Barks",
       "url": "https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71"
+    },
+    {
+      "album": {
+        "name": "Barota",
+        "url": "https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Barota",
+      "url": "https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 199062,
+  "num_followers": 199073,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABqjCa3lS8KZHNU3YfF8Kg+",
+  "snapshot_id": "aSeUgAAAAAAyeLlnyIfuw3x1boaZPBko",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Cities - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 273200,
       "name": "Houses in Motion - 2005 Remaster",
       "url": "https://open.spotify.com/track/2hDMI3I7WGgHmP4EGAk7la"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Cities - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4jSSPIBpwdh1KpAYqZTJbC"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of Talking Heads",
         "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 298960,
       "name": "Blind - 2003 Remaster",
       "url": "https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,986 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,030 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 53 | [I Chose Wrong](https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [I Chose Wrong](https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE) | 2:52 |
 | 54 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 55 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
-| 56 | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3) | 2:22 |
-| 57 | [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 |
+| 56 | [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 |
+| 57 | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [DAILY ILLEGAL ANIME CONSUMPTION PT.1](https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3) | 2:22 |
 | 58 | [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 |
 | 59 | [Orca Adventure DX](https://open.spotify.com/track/2YfK7Ra5tJhvAaOzly6iN9) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Orca Adventure DX](https://open.spotify.com/album/1vdzEDINQgERKoITu3qzx7) | 2:51 |
 | 60 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 86 | [Take Me Back to Shinjuku](https://open.spotify.com/track/0M7udppMcGyscI3NtVXvQJ) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Take Me Back to Shinjuku](https://open.spotify.com/album/53Oabg4TRYA5oHPzWNrgHI) | 3:54 |
 | 87 | [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 |
 | 88 | [Answer](https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst) | [Pop Up!](https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi) | [Notilde Tapes, Vol\. 1](https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg) | 3:50 |
-| 89 | [Dance Dance Cochayuyo!](https://open.spotify.com/track/0poQqEQWvsao56183reAT7) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [Dance Dance Cochayuyo!](https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF) | 2:47 |
-| 90 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
+| 89 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
+| 90 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 |
 | 91 | [Cheetahs in Barcelona](https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk) | [Groovy Kaiju](https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR) | [Cheetahs in Barcelona](https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC) | 2:49 |
-| 92 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 |
+| 92 | [Dance Dance Cochayuyo!](https://open.spotify.com/track/0poQqEQWvsao56183reAT7) | [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [Dance Dance Cochayuyo!](https://open.spotify.com/album/4vAnkSoaLwR3QAtOGC85IF) | 2:47 |
 | 93 | [Exacta](https://open.spotify.com/track/05aRMsnObR7SdMQwxxJvHv) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Hooked On Aesthetics](https://open.spotify.com/album/2Uadv8pQQjvkAK77xgRB5u) | 2:43 |
 | 94 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 |
 | 95 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |

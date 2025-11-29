@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,611 songs - 7 day 23 hr 1 min
+3,615 songs - 7 day 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Clickbait heartbeat \(another\)](https://open.spotify.com/track/0XJtyxMo53e3euXirTc1qZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 3:04 | 2025-09-17 |  |
 | [Clickbait Heartbreak](https://open.spotify.com/track/5dvpLicZuxqKQaTTzaC33v) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits](https://open.spotify.com/album/7n78DBhkS59rCEEcfBxF54) | 2:25 | 2025-09-17 |  |
 | [Clickbait Heartbreak \(another\)](https://open.spotify.com/track/73RXHf3BEFKF4RybJParIm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Greatest pop hits](https://open.spotify.com/album/7n78DBhkS59rCEEcfBxF54) | 2:25 | 2025-09-17 |  |
+| [Clonazepam](https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Clonazepam](https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU) | 2:35 | 2025-11-29 |  |
 | [CLOUDY](https://open.spotify.com/track/7npfR1hhJfS5W91shSFCaJ) | [Upstates](https://open.spotify.com/artist/3vFCgxYcaQ5iBPavzd6bqH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [CLOUDY](https://open.spotify.com/album/5cZyzdhktFmNHLOhl3hpVI) | 2:41 | 2025-05-16 |  |
 | [Clout Chase](https://open.spotify.com/track/6FhTgjWJLCvN5jpkArnUvL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:21 | 2025-09-17 |  |
 | [Clout Chase \(another\)](https://open.spotify.com/track/2G4WOE6qWsiaLFUGRP1fid) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Rap Music](https://open.spotify.com/album/6lQku2RcXD7DkkoVLRsVO1) | 2:22 | 2025-09-17 |  |
@@ -1482,6 +1483,7 @@
 | [Hollywood Forever](https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hollywood Forever](https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9) | 4:37 | 2025-04-09 |  |
 | [Hologram Riot](https://open.spotify.com/track/63pBj8FcR5gM19z2lW5sjt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Virtual rock](https://open.spotify.com/album/48aggZCMxbdvSMGvL55GyX) | 2:48 | 2025-09-12 |  |
 | [Holy Rock'n'Roll](https://open.spotify.com/track/4GD6CdqxaquX6ObL2DpFk3) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Holy Rock'n'Roll](https://open.spotify.com/album/54AQHUKLziRPuOrYJZ5ZKY) | 2:26 | 2025-06-06 |  |
+| [Holy Sin](https://open.spotify.com/track/1TVSVDpEk8RReunuDGRqCX) | [Eli Vale](https://open.spotify.com/artist/74zIGbaLk6F8RVJ42FuBeE) | [Chokehold](https://open.spotify.com/album/0k7bxndtD9MpYl5PkFrsic) | 3:49 | 2025-11-28 |  |
 | [HOME](https://open.spotify.com/track/5SSwaaEflTrax8JPsW6ZkC) | [Scarlet City](https://open.spotify.com/artist/49klWMejrBkHg8mUW4tQrj) | [HOME](https://open.spotify.com/album/09ldHO1i16Ygsxi4CXzinL) | 3:05 | 2025-05-20 |  |
 | [Home Away From Home](https://open.spotify.com/track/267efG5oPeK80bVnfO1KcN) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Home Away From Home](https://open.spotify.com/album/1KkFRLLJukZOnWQzQgy78h) | 3:18 | 2025-06-04 |  |
 | [Home Is A Feeling](https://open.spotify.com/track/39DLHzhFtzqInCJneXZc8J) | [Amelia Pinter](https://open.spotify.com/artist/1NhvClkKenN1Sq8f3jcMp8) | [Home Is A Feeling](https://open.spotify.com/album/3WOvJgjRqX45ZLVZ1Tx6qP) | 3:17 | 2025-06-04 |  |
@@ -2419,6 +2421,7 @@
 | [Poesia de Liquidificador](https://open.spotify.com/track/2dA5Hv7RDD59fWOB27kd9Y) | [Ladrão](https://open.spotify.com/artist/5i16fTYmwhhn97V8nmge8W) | [Demo Cracia](https://open.spotify.com/album/2XZPm1F1EpESoo7adVMfRe) | 5:07 | 2025-06-09 |  |
 | [Pogo in the Streets](https://open.spotify.com/track/6vvoCK5al4sSro1gObcCWH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:48 | 2025-09-19 |  |
 | [pogoasana](https://open.spotify.com/track/4hYg1rLkqtvziccn5jhnOZ) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Su\-PER\-GIu](https://open.spotify.com/album/4yPh7FzQJJ31adWMGLUZfZ) | 2:02 | 2025-09-06 |  |
+| [Point Blank](https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Point Blank](https://open.spotify.com/album/4dERb041ujbOvXGUJurgez) | 3:07 | 2025-11-28 |  |
 | [Poison Saints](https://open.spotify.com/track/5dpGX1gJDxFKaqBefb6j9Y) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 3:02 | 2025-09-16 |  |
 | [polaroid](https://open.spotify.com/track/1C6snJlFy0QLmiKJeAjRcS) | [Die](https://open.spotify.com/artist/7CXRmSDpHDeasaFFj6xG9Y) | [polaroid](https://open.spotify.com/album/55GndEtulOZqqFWgBjBMRX) | 2:18 | 2025-05-27 |  |
 | [Polaroid](https://open.spotify.com/track/0jDqWnyvGD5HzpjCkpw5w9) | [Park Place Project](https://open.spotify.com/artist/5cCZ0B3kcfRmntY3iRhiTf) | [Polaroid](https://open.spotify.com/album/3PgW4d3lSQxl83jnmXOppf) | 3:01 | 2025-11-15 |  |
@@ -2659,7 +2662,7 @@
 | [Senza titol](https://open.spotify.com/track/1ixy5jRs4IvuRSbGQqWCcL) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Progressioni](https://open.spotify.com/album/0dGmrzc0FxXhl5PuDPT4sf) | 3:21 | 2025-06-02 |  |
 | [Senza un'uscita](https://open.spotify.com/track/1Ja91jJGVwzp6UDgT7f9DH) | [Ipostatomici](https://open.spotify.com/artist/1qtIbNG68SDTZfos1q4ACi) | [Senza un'uscita](https://open.spotify.com/album/4yoTNdW7BnOiFg7OhljnxE) | 3:40 | 2025-05-27 |  |
 | [Senza un'Uscita](https://open.spotify.com/track/4XpVRfBxcyesArVDSC0FNu) | [Post Atomic Nuclear Waste](https://open.spotify.com/artist/4GowJGrhr4lZKlPxDYOLqY) | [Il Primo Esperimento del Dott\. Stranamore](https://open.spotify.com/album/2IxDzqiMyPKfPug8YEPKGW) | 3:40 | 2025-05-27 |  |
-| [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Silverfish](https://open.spotify.com/artist/7Jc4asBe7zfajAZI04Rh90) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 | 2025-04-28 |  |
+| [Serpentine](https://open.spotify.com/track/5QZxcjUqcsQ5c9vNXNqa2n) | [Lush Duck](https://open.spotify.com/artist/4Eq6Km0Da2p2nOdSU09tXu) | [Serpentine](https://open.spotify.com/album/0YmSvmQrl9C9Dtc9VOV0Ra) | 3:26 | 2025-04-28 |  |
 | [Serpents and Snakes](https://open.spotify.com/track/5302JwW6xCy1x3UwIHQt5G) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 1:46 | 2025-11-05 |  |
 | [Sesso & Vino](https://open.spotify.com/track/3jxMw9TxM04BgM6HF7Ve0t) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Sesso & Vino](https://open.spotify.com/album/0Cx1yXdH8B6tVxLO5jdVVW) | 3:09 | 2025-06-06 |  |
 | [Set Him Free](https://open.spotify.com/track/3WQUHix74Pp8RflJBNSNoX) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [Set Him Free](https://open.spotify.com/album/3aMryRUbkqhEUPUIc1PIL3) | 3:38 | 2025-11-02 |  |
@@ -3453,6 +3456,7 @@
 | [Wendigo Psychosis](https://open.spotify.com/track/1GFazlBuOxr1ju7UnwVcD2) | [Wolves of Totem](https://open.spotify.com/artist/1YPgVxpuJHs9FVRejxxKV4) | [Dance of the Dead](https://open.spotify.com/album/7nJFwiZnbSFdxXQ8ZjFeDW) | 4:33 | 2025-07-03 |  |
 | [What You Tryin To Prove](https://open.spotify.com/track/11eC3QgjEfAe3nkaGa92cU) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [What You Tryin To Prove](https://open.spotify.com/album/4wHO4Iw8b4z3r9NsFzdDj8) | 4:04 | 2025-05-11 |  |
 | [What's Wrong With You?](https://open.spotify.com/track/34xB6KsnoMR2oTSZn47aIS) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [What's Wrong With You?](https://open.spotify.com/album/493LfPZPFGetvhsX9xH3KK) | 4:20 | 2025-06-20 |  |
+| [When the Dust Settles](https://open.spotify.com/track/14UJ4wYdOJnsxehkPamTh2) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [When the Dust Settles](https://open.spotify.com/album/6XWmwSASV5UpKocQ9YZqn8) | 3:07 | 2025-11-29 |  |
 | [When The Silence Breaks](https://open.spotify.com/track/6ye1n2cRLhITHu5oI49aon) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [When The Silence Breaks](https://open.spotify.com/album/7z8pnATQNsRzemYcrpoWbD) | 3:38 | 2025-06-14 |  |
 | [When We're All Gone](https://open.spotify.com/track/1kchx7g77R3lxZUzThhJw3) | [Journeys To Monas](https://open.spotify.com/artist/32mo0pave7LLstPQEBZ02t) | [Dawn](https://open.spotify.com/album/3vHqWSkAs7zWIJA7xNirPT) | 4:34 | 2025-11-05 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2025-11-05 |  |

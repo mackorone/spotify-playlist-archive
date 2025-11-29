@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Gabby's Dollhouse
 
-955 songs - 1 day 15 hr 28 min
+957 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Fly High](https://open.spotify.com/track/6Nl2LiTnWgp5HcdKVM3dYK) | [D.I.N.O.](https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j) | [We Are D.I.N.O.](https://open.spotify.com/album/1GoIUEH0Vd5OYTiZZEdGMb) | 1:42 | 2025-02-28 |  |
 | [Fly Like a Raven](https://open.spotify.com/track/7tmF5MugroJze9IvQFd5ID) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Jendog Lonewolf](https://open.spotify.com/artist/0QosYLdJrmAxbreHIDrczn) | [Fly Like a Raven](https://open.spotify.com/album/6QkqzN3mZYdUQWcMQeIodU) | 2:37 | 2024-07-19 | 2025-03-08 |
 | [Follow the DJ](https://open.spotify.com/track/1l6cWJcD82RBd8yOnQQFab) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Fisher\-Price DJ Table Music](https://open.spotify.com/album/0l5iN24B0jm5Ot6DpEBtMx) | 1:09 | 2025-03-28 | 2025-07-21 |
+| [Follow the DJ](https://open.spotify.com/track/6tiCVOKzd81yvxVP6nInoC) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Bops & Beats DJ Table](https://open.spotify.com/album/0BjYm6QEunqbrA9Fu0lQlg) | 1:46 | 2025-11-28 |  |
 | [Follow Your Heart](https://open.spotify.com/track/62g0ZP425BgKzILiIWyhzP) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Barbie & Teresa: Recipe for Friendship](https://open.spotify.com/album/4uJthLoA5QtHpLHRPWMQdX) | 2:22 | 2025-03-07 |  |
 | [Follow Your Passion](https://open.spotify.com/track/167R2ezxujzd4CA89RNZon) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Follow Your Passion](https://open.spotify.com/album/3Gz2eX6W56Dk5DKlfTwavH) | 2:27 | 2024-03-22 | 2024-08-24 |
 | [Forward and Back](https://open.spotify.com/track/46uVvBNpdIKGP0YS6Dqf6N) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Forward and Back](https://open.spotify.com/album/1CkwTG5aH5MPzPuqtScaCL) | 2:31 | 2025-08-15 |  |
@@ -484,6 +485,7 @@
 | [Let's Blow a Bubble](https://open.spotify.com/track/6ZuQHIyKxQZ3SUxwMqNpyN) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Let's Blow a Bubble](https://open.spotify.com/album/41suiiS3sQlTokya3iNbMT) | 2:29 | 2024-05-03 | 2025-03-08 |
 | [Let's Decorate the House for Halloween](https://open.spotify.com/track/4iwPcKfDmsGXkoYMa8Cm7g) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Let's Decorate the House for Halloween](https://open.spotify.com/album/6WNhjObUhy1pimzih4sr6g) | 2:15 | 2024-10-18 | 2024-11-07 |
 | [Let's Go Fly a Kite](https://open.spotify.com/track/6INp5m6Ppde1EN22XXeZjy) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Let's Go Fly a Kite](https://open.spotify.com/album/1ECsmmVic7JtILMS6HW4Cy) | 2:35 | 2025-01-03 | 2025-07-03 |
+| [Let's Go Outside!](https://open.spotify.com/track/60OVUOnq7n370eLiDY3agd) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv) | [Let's Go Outside!](https://open.spotify.com/album/0bwGW9K4v1Cj2u0FKDt2aX) | 2:32 | 2025-11-28 |  |
 | [Let's Go Play](https://open.spotify.com/track/6ni6NFV4XvCi3do4fMLBsa) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Let's Go Play](https://open.spotify.com/album/3g6jyZ3g9B3CF2vcALVqWs) | 2:42 | 2025-03-07 | 2025-07-21 |
 | [Let's Go!](https://open.spotify.com/track/6DvjkISFmzW5ba69F0odYb) | [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Let's Go!](https://open.spotify.com/album/3Z6kCD2E31N0QBbNfrk7RR) | 1:52 | 2025-03-07 |  |
 | [Let's Grow Together](https://open.spotify.com/track/3yCLPmnVfHTkBNKMKL2j5Q) | [Zoe](https://open.spotify.com/artist/7fwvBtJJavkIB34vf73p8V), [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street’s Tamir](https://open.spotify.com/artist/0mPoJFAaRIZhq9QkQEqXcn), [Sesame Street’s Charlie](https://open.spotify.com/artist/4bfEr94LI5n6CTxlWRA6fX), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Let's Grow Together](https://open.spotify.com/album/1l734c5LwoQbTVRUjIEh3J) | 1:21 | 2024-08-02 | 2025-03-08 |

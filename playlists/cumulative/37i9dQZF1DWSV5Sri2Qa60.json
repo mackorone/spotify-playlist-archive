@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Where your new favourite bands are discovered. Cover: Witch Post",
+  "description": "Where your new favourite bands are discovered. Cover: Cardinals ",
   "name": "Hot New Bands",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 196586,
       "name": "AWOL",
       "url": "https://open.spotify.com/track/2aZ5hd1ZxWZD9os2lZcVCV"
+    },
+    {
+      "album": {
+        "name": "Barbed Wire",
+        "url": "https://open.spotify.com/album/1wmIAv2aJG81QhwAEnk9bp"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184624,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/11Ct9tSc2I8JOOx1QVtPZx"
     },
     {
       "album": {
@@ -632,6 +650,24 @@
       "duration_ms": 327000,
       "name": "Bury Me Not",
       "url": "https://open.spotify.com/track/5OG5tAPqIskd9z3ZP1biUK"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
     },
     {
       "album": {
@@ -1042,7 +1078,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 232520,
       "name": "Culture Cannibal",
       "url": "https://open.spotify.com/track/4TrpE40Zdbq8VgUN78Ce43"
@@ -1294,7 +1330,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 339023,
       "name": "Dogstar",
       "url": "https://open.spotify.com/track/2AyEU2UDBgWaaGNgnSY4Uo"
@@ -1348,7 +1384,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 234680,
       "name": "Drunk Surfer",
       "url": "https://open.spotify.com/track/2OLM7e95IViS4hd26Rc0au"
@@ -1805,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Gallowine",
+        "url": "https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249026,
+      "name": "Gallowine",
+      "url": "https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0"
+    },
+    {
+      "album": {
         "name": "Get 2 Me",
         "url": "https://open.spotify.com/album/7CYwA8ioZnpTaCJiYVLvxq"
       },
@@ -2104,7 +2158,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 226645,
       "name": "Heat",
       "url": "https://open.spotify.com/track/7dKK4YlK5ancC7qWhAVF3C"
@@ -2939,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Marsh",
+        "url": "https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo"
+      },
+      "artists": [
+        {
+          "name": "Cliffords",
+          "url": "https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174190,
+      "name": "Marsh",
+      "url": "https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE"
+    },
+    {
+      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/55PAmXeH8DbLOizqAqzeC8"
       },
@@ -2950,7 +3022,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 188829,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4ZrWs0G2sN9qimhkbQzEr1"
@@ -2990,6 +3062,24 @@
       "duration_ms": 272589,
       "name": "Masterplan",
       "url": "https://open.spotify.com/track/6mwSxfB6frIf2PuZmSNe1V"
+    },
+    {
+      "album": {
+        "name": "Measly Means",
+        "url": "https://open.spotify.com/album/39XEYzp5W10qC16dwPekg4"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209119,
+      "name": "Measly Means",
+      "url": "https://open.spotify.com/track/0vtRXEqmLyIlbEhqnPIXX3"
     },
     {
       "album": {
@@ -3303,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Only Girl",
+        "url": "https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb"
+      },
+      "artists": [
+        {
+          "name": "Man/Woman/Chainsaw",
+          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215609,
+      "name": "Only Girl",
+      "url": "https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP"
+    },
+    {
+      "album": {
         "name": "Paith Own",
         "url": "https://open.spotify.com/album/3yOyHF7k7gt1n6vMs77Swu"
       },
@@ -3502,7 +3610,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 168433,
       "name": "Post-Punk / New-Wave",
       "url": "https://open.spotify.com/track/6VdYmcxD7HLMCa8rBMZAOI"
@@ -3664,7 +3772,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 181364,
       "name": "Ruminate",
       "url": "https://open.spotify.com/track/6odyiCWTis0oVok60fdogG"
@@ -3736,7 +3844,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 250376,
       "name": "See No Evil",
       "url": "https://open.spotify.com/track/4Gzo80WcwBGapbLQE0O1B9"
@@ -4517,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "tied",
+        "url": "https://open.spotify.com/album/2aaQHXlEsfVq3yb2gH5NHe"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94117,
+      "name": "tied",
+      "url": "https://open.spotify.com/track/1tg5xY6QMlEME9emTaJmEN"
+    },
+    {
+      "album": {
         "name": "Tiles & Moss",
         "url": "https://open.spotify.com/album/6k1wy9i4vriYhKfBHIuWlx"
       },
@@ -4874,6 +5000,24 @@
       "duration_ms": 225036,
       "name": "Wife Once",
       "url": "https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR"
+    },
+    {
+      "album": {
+        "name": "Wingman",
+        "url": "https://open.spotify.com/album/3CdSPVFDSIwtKBwm9pf5oq"
+      },
+      "artists": [
+        {
+          "name": "pencil",
+          "url": "https://open.spotify.com/artist/6QPwYkx2oeQobQdbCeogTk"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165529,
+      "name": "Wingman",
+      "url": "https://open.spotify.com/track/4XA4i4BT5hgy2Gxdh7jCDJ"
     },
     {
       "album": {

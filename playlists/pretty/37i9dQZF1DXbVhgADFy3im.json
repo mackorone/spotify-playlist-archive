@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1139975,
+  "num_followers": 1140360,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 179082,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 70400,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
       "added_at": "2025-11-26 06:51:17",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Cheri Cheri Lady",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 140250,
       "name": "High On You",
       "url": "https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
     },
     {
       "added_at": "2025-11-26 06:51:17",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
-        "name": "Ranjheya Ve",
-        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
-      },
-      "artists": [
-        {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
-        }
-      ],
-      "duration_ms": 278474,
-      "name": "Ranjheya Ve",
-      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
         "name": "Dooron Dooron",
         "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 215946,
       "name": "Dooron Dooron",
       "url": "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
     },
     {
       "added_at": "2025-11-26 06:51:17",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
-        "name": "Sajni (From \"Laapataa Ladies\")",
-        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Prashant Pandey",
-          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
-        }
-      ],
-      "duration_ms": 170044,
-      "name": "Sajni (From \"Laapataa Ladies\")",
-      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
         "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
         "url": "https://open.spotify.com/album/6WN60ZpoljxxwYluAGxvqn"
       },
@@ -1259,6 +1235,30 @@
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+        }
+      ],
+      "duration_ms": 170044,
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
       "added_at": "2025-11-26 06:51:17",
@@ -1367,34 +1367,6 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
-        "name": "Raat Bhar (From \"De De Pyaar De 2\")",
-        "url": "https://open.spotify.com/album/75aP3Sxn3ozGPn130ZNah5"
-      },
-      "artists": [
-        {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
-        },
-        {
-          "name": "Payal Dev",
-          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
-        },
-        {
-          "name": "Aditya Dev",
-          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 192199,
-      "name": "Raat Bhar (From \"De De Pyaar De 2\")",
-      "url": "https://open.spotify.com/track/3lX6k4KFMRUEjT1Om3i66o"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS"
       },
@@ -1419,6 +1391,34 @@
       "duration_ms": 228620,
       "name": "Aaj Ki Raat (From \"Stree 2\")",
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
+        "name": "Raat Bhar (From \"De De Pyaar De 2\")",
+        "url": "https://open.spotify.com/album/75aP3Sxn3ozGPn130ZNah5"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 192199,
+      "name": "Raat Bhar (From \"De De Pyaar De 2\")",
+      "url": "https://open.spotify.com/track/3lX6k4KFMRUEjT1Om3i66o"
     },
     {
       "added_at": "2025-11-26 06:51:17",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
+        "name": "Connie Francis Sings Second Hand Love & Other Hits",
+        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "duration_ms": 142520,
+      "name": "Pretty Little Baby",
+      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
         "name": "Heeriye (feat. Arijit Singh)",
         "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 194857,
       "name": "Heeriye (feat. Arijit Singh)",
       "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
-        "name": "Connie Francis Sings Second Hand Love & Other Hits",
-        "url": "https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 142520,
-      "name": "Pretty Little Baby",
-      "url": "https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD"
     },
     {
       "added_at": "2025-11-26 06:51:17",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-11-26 06:51:17",
       "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2025-11-26 06:51:17",
+      "album": {
         "name": "Mera Hua (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37hvufcZPSLdoI4aBsZOYC"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 223000,
       "name": "Mera Hua (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/6AruzerQiOr65Muh9T7rGI"
-    },
-    {
-      "added_at": "2025-11-26 06:51:17",
-      "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2025-11-26 06:51:17",

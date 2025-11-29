@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Maurice Kirya
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,812 likes - 61 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,837 likes - 61 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 7 | [Bikyuuka](https://open.spotify.com/track/0DIRhXNgkpDZR4WKJqfuJ4) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [Bikyuuka](https://open.spotify.com/album/12dCufx7Ngx6bk9WQDvRtM) | 3:17 |
 | 8 | [Treasure](https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Treasure](https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2) | 3:37 |
 | 9 | [AGENDA](https://open.spotify.com/track/40D9TE1bStQ10lNDnhlbMP) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [Agenda](https://open.spotify.com/album/79P9lpJeCfUvRW2FJDTJCx) | 3:54 |
-| 10 | [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [](https://open.spotify.com/album/null) | 2:41 |
+| 10 | [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:41 |
 | 11 | [Nzikiriza](https://open.spotify.com/track/6R97FR5ro7PL8h76QBXjmq) | [Nandor Love](https://open.spotify.com/artist/2EYPLKM3ofZPhkG9XY79U6) | [Nzikiriza](https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq) | 3:56 |
 | 12 | [LOML](https://open.spotify.com/track/2HfrpJfxPzGwbGQSWOW33f) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Rush](https://open.spotify.com/album/7xWYTujEJTUvd26ddqrwCA) | 2:10 |
 | 13 | [LONELY IN THE MORNING](https://open.spotify.com/track/2E9TRhcXedk2PBvrpiPlO0) | [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn), [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV), [Njovu](https://open.spotify.com/artist/3GBx2ug5FaA74dkpC4SYZj) | [LONELY IN THE MORNING](https://open.spotify.com/album/5QyWgWMNpGmnOhfFXbvD74) | 3:06 |

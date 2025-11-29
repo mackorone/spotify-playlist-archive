@@ -2,9 +2,9 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: Matt Crocker
+> The best mix of today's Christian music, all genres, worldwide\. Cover: Brandon Lake
 
-1,276 songs - 3 day 14 hr 50 min
+1,277 songs - 3 day 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [No Fear](https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9) | 3:32 | 2025-01-17 | 2025-05-31 |
 | [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 | 2024-08-23 | 2025-06-14 |
 | [No Hurt](https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [No Hurt](https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T) | 3:12 | 2022-08-05 | 2022-08-27 |
+| [No Idols](https://open.spotify.com/track/2EsmJl4nB2Na7qDkPFGcLN) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Skema Boy](https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1) | [No Idols](https://open.spotify.com/album/31kY6ARc1b9OmTgq4A40c6) | 2:37 | 2025-11-28 |  |
 | [no longer bound](https://open.spotify.com/track/1lF7uD9Yu2CL17a6tm4Tkh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [no longer bound](https://open.spotify.com/album/1ri9HxSukluBBAvkqPd39A) | 2:53 | 2023-01-06 | 2023-08-12 |
 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 | 2023-07-28 | 2023-09-16 |
 | [No One Knows](https://open.spotify.com/track/2DSQa62M7ek9NGMrzmniaU) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [No One Knows](https://open.spotify.com/album/67R1xZixrtROiZ1J6mBDlu) | 3:46 | 2025-08-01 |  |

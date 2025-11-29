@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: NOVAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,704 likes - 98 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,754 likes - 98 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

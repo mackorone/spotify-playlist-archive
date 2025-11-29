@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Terrys
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,463 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,473 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dark Horse](https://open.spotify.com/track/0qUCt1uIinMkpwTm7oNYMG) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Dark Horse](https://open.spotify.com/album/5UFStqQaeBcbKXs5qRrZO8) | 2:09 |
-| 2 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [](https://open.spotify.com/album/null) | 2:56 |
+| 2 | [R.I.P\. ME](https://open.spotify.com/track/2hrjSnIMbnOpNEhnkK9Tvd) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [GODSPEED](https://open.spotify.com/album/7CUuQk7lCT1Stgs5bqt9hY) | 2:56 |
 | 3 | [Claws](https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Claws](https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc) | 2:47 |
 | 4 | [Constellation](https://open.spotify.com/track/59sVpJdlde6l45NDCRU2bX) | [The Smith Street Band](https://open.spotify.com/artist/6DW1Yqi5B34jRtn9hPLvFp) | [Once I Was Wild](https://open.spotify.com/album/1JgEFxvTJdTlzhJjbTqpq7) | 4:13 |
 | 5 | [Heating Up](https://open.spotify.com/track/3q0Lsq7In9pv7Yds2JcH81) | [Sunscreen](https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F) | [Everything You Gave Me](https://open.spotify.com/album/2lyOXcBQzfQ7KyqgJP0Y2J) | 3:07 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 17 | [Try Hard](https://open.spotify.com/track/0bmcdgpMAujbqUAxik5g0j) | [Dick Move](https://open.spotify.com/artist/4y32anHRxQ5DXUQYomokdU) | [Dream, Believe, Achieve](https://open.spotify.com/album/5PzkplY05lNpnmBNDoJVlE) | 2:00 |
 | 18 | [BAIT](https://open.spotify.com/track/2dSu4SI2YI1xuACxFqUiQE) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BAIT](https://open.spotify.com/album/594fuCaZzrXD3irDrmW9gN) | 2:12 |
 | 19 | [Deserve It](https://open.spotify.com/track/5aw3pcW46iCK69isxNdP1x) | [smartcasual](https://open.spotify.com/artist/3v6uBjbyNjBJL9PhDgjzhu) | [Deserve It](https://open.spotify.com/album/0kLprrXMKIKZODdi7Fqy44) | 3:46 |
-| 20 | [A4](https://open.spotify.com/track/7iD5D3ocuy6ndBUW06eLzJ) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [](https://open.spotify.com/album/null) | 3:23 |
+| 20 | [A4](https://open.spotify.com/track/7iD5D3ocuy6ndBUW06eLzJ) | [Purée](https://open.spotify.com/artist/4wBguEl200jafxtVjWKPwa) | [What Happens Now?](https://open.spotify.com/album/6txGpx5Oa73ScOpIrZcoLb) | 3:23 |
 | 21 | [Phoebe's Song](https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Phoebe's Song](https://open.spotify.com/album/40wmLOiUiOIz1lRqKqC4KV) | 3:59 |
 | 22 | [Skyline](https://open.spotify.com/track/494b5aTzaNZBVm2VKMGryH) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Skyline](https://open.spotify.com/album/7cO3VWZieGiyYbZk77oqyV) | 3:21 |
 | 23 | [Born In the A.D's](https://open.spotify.com/track/2HAYMQVH6T9haMNv5iqfkK) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 4:33 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 32 | [Working Class Hero](https://open.spotify.com/track/7bkwlRmFsiteZzMrNFuAi6) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Working Class Hero](https://open.spotify.com/album/0dfOBm3T0jMxVpMsx8lRYW) | 3:52 |
 | 33 | [BIG MACHINE](https://open.spotify.com/track/1nMIgMOFK9c5xNFm4OuRLM) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [BIG MACHINE](https://open.spotify.com/album/1ObhvbWzD8dAHfm9Go4DZw) | 3:17 |
 | 34 | [Let it be.](https://open.spotify.com/track/2gc7rdtMLqXcUzoT5JIcQ6) | [SoSo](https://open.spotify.com/artist/4bdIMnDadxc6M1bnaHieL0) | [So Much For Second Chances](https://open.spotify.com/album/7jhn6VFqUruhHEU8Ny7vE0) | 2:44 |
-| 35 | [Bruises](https://open.spotify.com/track/1UN5gObNd0xJZabF2BKHmE) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [](https://open.spotify.com/album/null) | 4:24 |
+| 35 | [Bruises](https://open.spotify.com/track/1UN5gObNd0xJZabF2BKHmE) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [Long March Through the Jazz Age](https://open.spotify.com/album/5k1odhUSl3AWMbviR45MNV) | 4:24 |
 | 36 | [Stay In Your Lane](https://open.spotify.com/track/5lOn7OwAXXO1pahwPZgdYY) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Stay In Your Lane](https://open.spotify.com/album/2R2IGEJFuPkOeRp7A1CdN7) | 3:14 |
 | 37 | [Always](https://open.spotify.com/track/1tFM3FFCJRrkknAc5ffcDl) | [Paint](https://open.spotify.com/artist/4ohEeJGX3pShqjUeWFCeJJ) | [Forever and Always](https://open.spotify.com/album/5kAHRNHzhhBJ5zAHb9vRL1) | 2:50 |
 | 38 | [Reef Prince](https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Reef Prince / Better](https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG) | 3:07 |

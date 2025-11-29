@@ -818,7 +818,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 187675,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4jvWaSlb6sOQ3QWYegTDJv"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3TWLXrA7eWPFdXC52JK9IX"
+    },
+    {
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD"
       },
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 530363,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/2AuYtt0mlYy4vbK5oHDStV"
@@ -4502,7 +4520,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 160000,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H"
@@ -5862,6 +5880,24 @@
       "duration_ms": 525000,
       "name": "Wet",
       "url": "https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra"
+    },
+    {
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/0CfZme7Kb0sjNg7Iulc4js"
+      },
+      "artists": [
+        {
+          "name": "Paper Skies",
+          "url": "https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/3BVhYjt1CkyTIBUlVRt3np"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-788 songs - 1 day 13 hr 16 min
+789 songs - 1 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,7 @@
 | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/track/52SvJpSTJdPZweLl7Re6qs) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Kelewele \(feat\. Joeboy\)](https://open.spotify.com/album/6GnMYptKwPKbO6xGObOmgh) | 2:21 | 2024-06-28 | 2024-08-22 |
 | [Kenkele](https://open.spotify.com/track/6u1Hciw2SSywNhnrjvZPhp) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Kenkele](https://open.spotify.com/album/6Jm4FSKWl5NL5m5gF9954m) | 3:33 | 2022-07-22 | 2022-12-13 |
 | [KEROSENE](https://open.spotify.com/track/1o17ns83QiAuDt84MkdJ5K) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [KEROSENE](https://open.spotify.com/album/7jReirhUtytItxVqQGiTg8) | 2:38 | 2025-07-18 | 2025-09-27 |
-| [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 | 2024-11-15 |  |
+| [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 | 2024-11-15 | 2025-11-29 |
 | [King of Pop](https://open.spotify.com/track/6IvgXou1CDNFO1cuILIqsf) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:21 | 2023-09-27 | 2023-10-30 |
 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 | 2022-08-05 | 2023-03-27 |
 | [Koko](https://open.spotify.com/track/3OILFI5RxdzoGCHUEa6X00) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Koko](https://open.spotify.com/album/73cpCSFA8mfXBMxXZkzc4w) | 2:34 | 2024-06-28 | 2024-08-09 |
@@ -682,6 +682,7 @@
 | [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2024-08-02 | 2025-03-05 |
 | [Sometimes \- Remix](https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc) | 3:08 | 2022-06-09 | 2023-01-21 |
 | [Sooner](https://open.spotify.com/track/6PdAiqbKP3Zmr3YHRdgT1y) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:33 | 2024-03-15 | 2024-11-22 |
+| [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 | 2025-11-28 |  |
 | [soso](https://open.spotify.com/track/1wADwLSkYhrSmy4vdy6BRn) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 3:03 | 2022-07-14 | 2023-09-29 |
 | [Soundtrack](https://open.spotify.com/track/7dZC1iCnXYTYvQqdQTUXKL) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Soundtrack](https://open.spotify.com/album/35yw2Ye9kclVpGDvPthD1C) | 2:17 | 2023-02-10 | 2023-02-17 |
 | [South Africa](https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg) | [South Africa](https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD) | 2:33 | 2022-11-18 | 2022-12-03 |

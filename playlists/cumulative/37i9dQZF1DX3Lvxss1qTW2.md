@@ -4,7 +4,7 @@
 
 > The future hits of today.
 
-557 songs - 1 day 1 hr 40 min
+558 songs - 1 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [I Wish I Had More Time](https://open.spotify.com/track/5BQML4ZWArKHRCiQuQ4cDT) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [I Wish I Had More Time](https://open.spotify.com/album/3vmGWdWH4DkbiLWlb3s9kb) | 3:09 | 2025-05-30 | 2025-10-07 |
 | [I'll Be There](https://open.spotify.com/track/1VWqPyX82pCN4PTID10Ssg) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [I'll Be There](https://open.spotify.com/album/3dV6dktBCe7l03Ju0WCaPS) | 3:21 | 2025-01-31 | 2025-06-14 |
 | [i2SABI](https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [444PLAY](https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT) | 2:34 | 2025-07-18 | 2025-09-05 |
+| [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [iDey](https://open.spotify.com/track/0gqLCoeOQh7ItaLTZtdojy) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [iDey](https://open.spotify.com/album/67Hc4et6UWnbKKAIw5FqbQ) | 2:54 | 2025-04-11 | 2025-05-24 |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-06-28 | 2024-07-09 |
 | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/track/2ocENsYzOJb0MOjNoiBpzw) | [Almost Joey](https://open.spotify.com/artist/0YH29ysuaAwnwPQGbfjBt7), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Dey Lie \(with Crayon\)](https://open.spotify.com/album/6FRwWAMHc7ClPNp2etqn1q) | 2:49 | 2024-11-15 | 2024-11-22 |
@@ -321,7 +322,7 @@
 | [Malaika x Bien](https://open.spotify.com/track/3zKVexLr1QEzEh8YAK4q0S) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Malaika x Bien](https://open.spotify.com/album/1EjCiRMZrPaIms688xVeG3) | 3:55 | 2024-06-28 | 2024-08-09 |
 | [Man Not God](https://open.spotify.com/track/3rGnjwEwcqb2iMfchx0ZpF) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Man Not God](https://open.spotify.com/album/7pqhzzJiTABC6QZJkrLfZf) | 2:45 | 2024-06-28 | 2024-08-09 |
 | [Management](https://open.spotify.com/track/5kxMhIe7EvsRSkTT7Y8JYq) | [BIGKHALID](https://open.spotify.com/artist/5xnQJvSHeJkVvYjFhgUIFB), [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A) | [Management](https://open.spotify.com/album/3PVtMX98Q3vs8El1WEORgb) | 2:35 | 2025-02-19 | 2025-05-17 |
-| [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2025-09-19 |  |
+| [Manyana](https://open.spotify.com/track/1eDlrirBzJ2Y8yeWLTz9Bf) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Manyana](https://open.spotify.com/album/6XuZk8r7ludHlttY9Xule5) | 3:04 | 2025-09-19 | 2025-11-29 |
 | [Maria](https://open.spotify.com/track/0E77ZX9NeYpLCgDjqfWLZF) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Maria](https://open.spotify.com/album/5Rtj2Js2qFv8ESYMRiTvTC) | 2:26 | 2024-06-28 | 2024-08-09 |
 | [MARIO KART](https://open.spotify.com/track/52ZxqHSe1HesJPwuuBiW4U) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:51 | 2025-03-21 | 2025-05-17 |
 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 | 2024-10-18 | 2025-03-07 |
@@ -462,6 +463,7 @@
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-07-08 | 2024-09-28 |
 | [Solo](https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Solo](https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO) | 3:22 | 2024-11-15 | 2025-03-29 |
 | [Someday Soon](https://open.spotify.com/track/1tefeAORT76SRH3r4Qoj0g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:41 | 2025-11-10 | 2025-11-14 |
+| [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 | 2025-11-28 |  |
 | [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 | 2024-08-25 | 2024-10-26 |
 | [Soyaiya](https://open.spotify.com/track/1lC0Ezh2f3NrddIrURhzXw) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Iliya Entertainment Music](https://open.spotify.com/artist/0NwtS6wE1fRewrOxxSCSKh) | [Soyaiya](https://open.spotify.com/album/455cwBlTEdol2whwOFRY5j) | 2:22 | 2025-08-01 |  |
 | [Spaghetti](https://open.spotify.com/track/53ZPK0Ltgi5mQAHGm8dqWt) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Spaghetti](https://open.spotify.com/album/1pZ1HTqqaNNC312zmgpaBx) | 2:18 | 2025-10-10 |  |
@@ -502,7 +504,6 @@
 | [TOWN BOY.](https://open.spotify.com/track/68Uypk76czvoUelZtBJipr) | [ajofé.](https://open.spotify.com/artist/2xDBC3wszVDoVcCZTiW2iE) | [TOWN BOY.](https://open.spotify.com/album/1uPZXWLWuVafYWv1pOAOnk) | 2:54 | 2025-08-01 | 2025-08-09 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-04 | 2025-08-23 |
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-28 | 2024-11-08 |
-| [Track 16](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-28 |  |
 | [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-02-14 | 2025-04-08 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-06-28 | 2024-08-09 |
 | [Troubled Mind](https://open.spotify.com/track/6yIEi8mvrYSi2IgPhQ5Ym9) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 3:02 | 2025-02-19 | 2025-04-01 |

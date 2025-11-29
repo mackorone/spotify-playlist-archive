@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 
 > This is Manuel Medrano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,799 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,904 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 30 | [Me Gustas](https://open.spotify.com/track/7DwLHGbapLZRCIuWS0K6BQ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 2:37 |
 | 31 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 |
 | 32 | [Mojado](https://open.spotify.com/track/2vzq0rxX3UaNu88D2FjJBR) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:29 |
-| 33 | [Cuando Te Beso](https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 2:19 |
+| 33 | [Superior](https://open.spotify.com/track/68FmwuQOlAiruuhcynSXPm) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 2:54 |
 | 34 | [Historia De Un Amor](https://open.spotify.com/track/4kF52Us8ae35E230x84Vht) | [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Las De Infante](https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH) | 2:55 |
 | 35 | [BOLERITO](https://open.spotify.com/track/3HiHhnHqLNB5mlw7lbTrMO) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:27 |
 | 36 | [Este Cuento](https://open.spotify.com/track/0UgxIHqdtgEPM07ntZf9cg) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Este Cuento](https://open.spotify.com/album/6OQAaWJHUbwzxbYiOmCJJU) | 2:54 |
-| 37 | [Superior](https://open.spotify.com/track/68FmwuQOlAiruuhcynSXPm) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 2:54 |
+| 37 | [Cuando Te Beso](https://open.spotify.com/track/2iMnAAwsMGn2YSD9R6wAhj) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 2:19 |
 | 38 | [Una y Otra Vez \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/7qFiF4M4mTtvUkADadj8o2) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 4:41 |
 | 39 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 |
 | 40 | [Ángel](https://open.spotify.com/track/0mYz2LNNDV8P1bwHPnJJsE) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 2:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06p7qw.md) - [plain]
 | 49 | [Delincuentes](https://open.spotify.com/track/7weXEtywT6SjhByI0wg8oO) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:05 |
 | 50 | [Bajo El Agua \- En Vivo Desde El Auditorio Nacional](https://open.spotify.com/track/2TVT8FvCDThfpD4dW9cziC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano En Concierto 10 Años \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4LTxArHA6xtjdY4Kp7Eb6G) | 5:03 |
 
-Snapshot ID: `aSZDAAAAAAD5uPFYpwTdU7rYj7UTfg0v`
+Snapshot ID: `aSeUgAAAAABtWJ/KU7jsU4BCaubCK7Gz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Sacha.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,337 likes - 112 songs - 6 hr 11 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,330 likes - 113 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 110 | [Come Home to You](https://open.spotify.com/track/3OZIdWrjR85DbTX8DC4myC) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Come Home to You](https://open.spotify.com/album/3HmBqHCOjU219BMkGljj4t) | 3:53 |
 | 111 | [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 |
 | 112 | [Keeps Me Sane \(feat\. The Castellows\)](https://open.spotify.com/track/16c51SfenjUgP6F36uds5e) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z), [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Keeps Me Sane \(feat\. The Castellows\)](https://open.spotify.com/album/72qbpYZ96o9bEOookAyOf0) | 3:12 |
+| 113 | [Two Step To Forget](https://open.spotify.com/track/0zWNBnhYlkkvM5f8yyUnFJ) | [Johnny 99](https://open.spotify.com/artist/0PibitZYT4dnVnmt0Iyfrz) | [Mr\. Lonely](https://open.spotify.com/album/0B3l4trJQFjQg7ZkTcXm7U) | 2:57 |
 
-Snapshot ID: `AAANkfmRYnBjBcG9vCN20jJuk1aubd+I`
+Snapshot ID: `AAANkhL2OuDgcejGKwYgO2vjeoKaqShp`

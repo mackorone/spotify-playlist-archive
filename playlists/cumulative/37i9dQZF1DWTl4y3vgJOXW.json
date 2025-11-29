@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Fourth quarter, two minutes left .. get locked in. Cover: James Harden\n\n",
+  "description": "Fourth quarter, two minutes left .. get locked in. Cover: Micah Parsons\n\n",
   "name": "Locked In",
   "tracks": [
     {
@@ -284,6 +284,28 @@
       "duration_ms": 170853,
       "name": "21",
       "url": "https://open.spotify.com/track/1AdXchAT6hBUm5d6y4nKjI"
+    },
+    {
+      "album": {
+        "name": "2v2 (with EBK Jaaybo)",
+        "url": "https://open.spotify.com/album/016Uvr9eqAsJY3sHZfZ5Ht"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "2v2 (with EBK Jaaybo)",
+      "url": "https://open.spotify.com/track/7rGDpPYmXZ9JcWtizej9JE"
     },
     {
       "album": {
@@ -3173,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "Chanel Boy",
+        "url": "https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Chanel Boy",
+      "url": "https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA"
+    },
+    {
+      "album": {
         "name": "AM I THE DRAMA?",
         "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
       },
@@ -3184,7 +3224,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 121546,
       "name": "Check Please",
       "url": "https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE"
@@ -10482,7 +10522,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 139807,
       "name": "Move Wrong (feat. VonOff1700)",
       "url": "https://open.spotify.com/track/2SMF2u7O3EWWQOGOWV0saV"

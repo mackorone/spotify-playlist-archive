@@ -2203,6 +2203,28 @@
     },
     {
       "album": {
+        "name": "Doble Cara",
+        "url": "https://open.spotify.com/album/5qNKXX21843wFzwVdYZXoL"
+      },
+      "artists": [
+        {
+          "name": "Megadivo Produce",
+          "url": "https://open.spotify.com/artist/0fDsWL50lXtP2fc8ayi4KN"
+        },
+        {
+          "name": "Ronny GTA",
+          "url": "https://open.spotify.com/artist/4cnOWlaCqpRNGiLvsxgKgu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81578,
+      "name": "Doble Cara",
+      "url": "https://open.spotify.com/track/19uTZiUsjbvSpZZeHLGMAz"
+    },
+    {
+      "album": {
         "name": "Dembow Worldwide Hits Teteo 42",
         "url": "https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL"
       },
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 134813,
       "name": "Gatillero",
       "url": "https://open.spotify.com/track/6vlgqKBRTamlIKx0cauIwX"
@@ -4642,7 +4664,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 110831,
       "name": "Maldici\u00f3n",
       "url": "https://open.spotify.com/track/6GkjBM5a2BPGYukETXcetc"
@@ -8162,6 +8184,24 @@
       "duration_ms": 154083,
       "name": "TATARA REMIX",
       "url": "https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ"
+    },
+    {
+      "album": {
+        "name": "Te choko / Con lo pie",
+        "url": "https://open.spotify.com/album/2IZDIVEn9UeBJTJA80o56V"
+      },
+      "artists": [
+        {
+          "name": "mhtresuno",
+          "url": "https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109853,
+      "name": "Te choko",
+      "url": "https://open.spotify.com/track/40f8b9j3XT9jcZog0njOcw"
     },
     {
       "album": {

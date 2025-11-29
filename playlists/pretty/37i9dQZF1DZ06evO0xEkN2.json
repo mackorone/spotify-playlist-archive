@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 235315,
+  "num_followers": 235481,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAA/b3jYaHG4cfpVJ8Bulwrn",
+  "snapshot_id": "aSeUgAAAAAD2iUJUV7EEN5a5iK8ei1Yy",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 247680,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piel A Piel",
         "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 286733,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 247680,
-      "name": "Botellas",
-      "url": "https://open.spotify.com/track/4Wq399KYm69pDbK1XjFniT"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/7fhElVS29SBlYWftDgwXdx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cari\u00f1ito (Mexican Institute of Sound Mix)",
         "url": "https://open.spotify.com/album/6pvQhpi3DJpo6OBf1QootJ"
       },
@@ -419,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
@@ -428,9 +444,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 184585,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/7fhElVS29SBlYWftDgwXdx"
+      "duration_ms": 266746,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
     },
     {
       "added_at": null,
@@ -451,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
       },
       "artists": [
         {
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 266746,
-      "name": "La Distancia",
-      "url": "https://open.spotify.com/track/2oNMhDpqWkI3oIjOGmqV0z"
+      "duration_ms": 212490,
+      "name": "Cha Cha Love",
+      "url": "https://open.spotify.com/track/5MfNp4vrtHeDzEHPr8vjxq"
     },
     {
       "added_at": null,
@@ -483,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 212490,
-      "name": "Cha Cha Love",
-      "url": "https://open.spotify.com/track/5MfNp4vrtHeDzEHPr8vjxq"
+      "duration_ms": 219106,
+      "name": "Estrella Roja - En Vivo",
+      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
     },
     {
       "added_at": null,
@@ -515,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
       },
       "artists": [
         {
@@ -524,9 +540,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 219106,
-      "name": "Estrella Roja - En Vivo",
-      "url": "https://open.spotify.com/track/6hjYEBN9WwrpLHRRvhdsby"
+      "duration_ms": 204591,
+      "name": "Espejo",
+      "url": "https://open.spotify.com/track/0QXAcwJwC5PEwMJryzfQez"
     },
     {
       "added_at": null,
@@ -551,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+        "name": "XX A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
       "artists": [
         {
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 204591,
-      "name": "Espejo",
-      "url": "https://open.spotify.com/track/0QXAcwJwC5PEwMJryzfQez"
+      "duration_ms": 161946,
+      "name": "Hostilidades - En Vivo",
+      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
     },
     {
       "added_at": null,
@@ -583,38 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 161946,
-      "name": "Hostilidades - En Vivo",
-      "url": "https://open.spotify.com/track/6h0bu1UFTCDYP0wicZPoum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Infiernos",
-        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 293247,
-      "name": "Infiernos",
-      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonoro",
         "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
       },
@@ -631,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "Infiernos",
+        "url": "https://open.spotify.com/album/2VZbdgo7xM6fdY9PFlqnqm"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 192560,
-      "name": "Cuando Estoy Contigo (feat. Flavio Cianciarulo)",
-      "url": "https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak"
+      "duration_ms": 293247,
+      "name": "Infiernos",
+      "url": "https://open.spotify.com/track/1IeYD7s1s656dhU68VwS4e"
     },
     {
       "added_at": null,
@@ -671,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ej\u00e9rcito de Paz",
-        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Abajo y a la Izquierda",
-      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
+      "duration_ms": 192560,
+      "name": "Cuando Estoy Contigo (feat. Flavio Cianciarulo)",
+      "url": "https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak"
     },
     {
       "added_at": null,
@@ -703,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "Ej\u00e9rcito de Paz",
+        "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 322533,
-      "name": "Hasta Que Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
+      "duration_ms": 225053,
+      "name": "Abajo y a la Izquierda",
+      "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
       "duration_ms": 260666,
       "name": "Cumbia del Olvido",
       "url": "https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 322533,
+      "name": "Hasta Que Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/7f2Rpazz6GxPwKKGcTK3LA"
     },
     {
       "added_at": null,

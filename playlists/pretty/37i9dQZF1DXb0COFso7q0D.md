@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Peso Pluma & Tito Double P
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,305,299 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,305,093 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 79 | [HOLLYWOOD](https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 4:44 |
 | 80 | [SECRETO](https://open.spotify.com/track/504VfM2pmclGufjypM5c59) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [SECRETO](https://open.spotify.com/album/7GVR3lkK8tz5kcOa6LnQfG) | 3:28 |
 
-Snapshot ID: `AAAAAMvsJY5SAvzcdnJNUWuz0BSKqXVu`
+Snapshot ID: `AAAAAEuWJhvPugI2jtU//aQKp66ADMG8`

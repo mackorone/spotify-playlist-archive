@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Dlala Thukzin
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,817 likes - 65 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,824 likes - 65 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Ungenzani](https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Blaqseed](https://open.spotify.com/artist/42UXAwhimj87O57qHgAHAv) | [MAYVIS](https://open.spotify.com/album/24hB22GCffWSxZyTmfuCAb) | 6:00 |
 | 2 | [Uyankenteza](https://open.spotify.com/track/5yHF2bOclSpULpMqhMxd3G) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Afro Warriors](https://open.spotify.com/artist/22cqOfoALFWpzhK9V3hgzd), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Uyankenteza](https://open.spotify.com/album/218oP5D5LdMI6PVsNwLqeY) | 3:59 |
 | 3 | [Hutia](https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu) | [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Hutia](https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9) | 2:51 |
 | 4 | [Uthando Lwethu \(feat\. ChildDaDJ, Funktone & Elevators\)](https://open.spotify.com/track/3lvks5HZQw8E7CG03K7kVw) | [Noxolo Ngema](https://open.spotify.com/artist/4gR20Zh7XB48xnwxZnKGgb), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Janesh](https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L), [ChildDaDj](https://open.spotify.com/artist/70DzXxVr9BqAIfsBoa3rn5), [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8), [Elevators](https://open.spotify.com/artist/6OvUL257eBukWBqtvcngcM) | [Uthando Lwethu \(feat\. ChildDaDJ\)](https://open.spotify.com/album/0fO4Op2hYzu05lQiHTRsQS) | 5:44 |

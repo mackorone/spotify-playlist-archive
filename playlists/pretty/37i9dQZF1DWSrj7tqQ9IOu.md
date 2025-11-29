@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain](/playlists/plain/37i9dQZF1DWSrj7tqQ9IOu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrj7tqQ9IOu)
 
-### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
+### [Indie France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
 > Le meilleur de l'indie français\. Cover : Odetto
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,276 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,343 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [How and Why](https://open.spotify.com/track/1ZZzsWH20AiwCQnsTHxbnW) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [How and Why](https://open.spotify.com/album/2E1V1P1SBtdBjmA8j5Kpou) | 4:21 |
 | 50 | [J'aime cette fille](https://open.spotify.com/track/3ikP559a41B8wyZAgtzEhf) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nouvelle Romance](https://open.spotify.com/album/1KgkUFoyDbePr8K72vTffF) | 2:48 |
 
-Snapshot ID: `AAAAACCzENoQvDqjk7+DUgzMN2CFavsC`
+Snapshot ID: `AAAAAEKVvjND1w6pOJq8xUwgRTSlVynA`

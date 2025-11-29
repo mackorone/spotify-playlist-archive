@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 ### [Chill Karlo](https://open.spotify.com/playlist/37i9dQZF1DX9L0PulSSl2E)
 
-> Sit back, thand rakho te Chill Karlo with Armaan & Arnaaz Gill
+> Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,859 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,887 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [KALA JADOO](https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [KALA JADOO](https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4) | 2:46 |
+| 1 | [Aadat \(Feat\. AP Dhillon\)](https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:40 |
 | 2 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 |
 | 3 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 |
 | 4 | [Kaatilana](https://open.spotify.com/track/4gAYB5yzeYrQ0jz13FmFOV) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Push Kahlon](https://open.spotify.com/artist/3FV1d5JZKT5LjoMbBhZoBP), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Kaatilana](https://open.spotify.com/album/0nBHaOa8XXkIB0e3YAYnxf) | 3:12 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 9 | [You're U Tho](https://open.spotify.com/track/7E4EhLK8mG4ORi3QR52r2A) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:03 |
 | 10 | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/track/6qkIPklOHNKcK7seo0JMnQ) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/album/11Gu0MzhiiwyNfhM6GYvVt) | 2:45 |
 | 11 | [Lagda Na Dil](https://open.spotify.com/track/7Fjl2QuvHWjNofOZGpHNMe) | [RAAJA](https://open.spotify.com/artist/5C7H6bRxIcTnOpgyyj2Il5), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb), [Deepa Bandala](https://open.spotify.com/artist/3iZ7MuYEOcqPt8canew8ca) | [Lagda Na Dil](https://open.spotify.com/album/1lFY6bcXn6qTK7e7BBJF4N) | 3:06 |
-| 12 | [Aadat \(Feat\. AP Dhillon\)](https://open.spotify.com/track/1tlFHs9EuvokJgdcacWUV8) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:40 |
+| 12 | [KALA JADOO](https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [KALA JADOO](https://open.spotify.com/album/3wnuRJKW9gBIeG2hrP3Tf4) | 2:46 |
 | 13 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 14 | [GAME](https://open.spotify.com/track/4KcBt9xWi2VGzC5ggh0Rsu) | [Zafar Sandhu](https://open.spotify.com/artist/3Q1isolUOcUmnxscdi4TUM), [Pree Mayall](https://open.spotify.com/artist/53v5auqPwhDks2XwRhTUXh) | [GAME](https://open.spotify.com/album/1wvU3GHAuPlsTmBH302NwS) | 2:48 |
 | 15 | [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 | 49 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 |
 | 50 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 |
 
-Snapshot ID: `AAAAABqJ+jVeXVWZhFgiWy+4j1vsOG9t`
+Snapshot ID: `AAAAAM/FkfNj5oSN7I5Yxr9n8OVEXOhf`

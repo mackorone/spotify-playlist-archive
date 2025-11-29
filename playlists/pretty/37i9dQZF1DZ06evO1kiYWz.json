@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADsnua/FNKXxfTSAVNTQDxk",
+  "snapshot_id": "aSeUgAAAAABmY2XCriFbMgXwXYkmCVth",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antolog\u00eda (1994-2007)",
-        "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 263413,
-      "name": "El D\u00eda Final",
-      "url": "https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tardes Fr\u00edas De Verano",
         "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 226840,
       "name": "La Nueva Ola",
       "url": "https://open.spotify.com/track/0FKSQLCfGK9W3EUNBB48ER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Antolog\u00eda (1994-2007)",
+        "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 263413,
+      "name": "El D\u00eda Final",
+      "url": "https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Delirios M\u00edsticos",
+        "url": "https://open.spotify.com/album/2rY8Ao8BHIwoaq1eUQTMwi"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 390116,
+      "name": "Delirios M\u00edsticos",
+      "url": "https://open.spotify.com/track/3PYTRs8tzospUhQpSLNAPK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tardes Fr\u00edas De Verano",
         "url": "https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viaje En Espiral",
-        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 223594,
-      "name": "Sin Acci\u00f3n",
-      "url": "https://open.spotify.com/track/6gsa8v1oJE9GYFKA5EKq3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Olvido",
         "url": "https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM"
       },
@@ -475,22 +475,6 @@
       "duration_ms": 278480,
       "name": "El Olvido",
       "url": "https://open.spotify.com/track/2wCGjgOObAwJL9j3Fkil6s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delirios M\u00edsticos",
-        "url": "https://open.spotify.com/album/2rY8Ao8BHIwoaq1eUQTMwi"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 390116,
-      "name": "Delirios M\u00edsticos",
-      "url": "https://open.spotify.com/track/3PYTRs8tzospUhQpSLNAPK"
     },
     {
       "added_at": null,
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 305958,
-      "name": "El Hombre Sin Nombre",
-      "url": "https://open.spotify.com/track/3D0jQkIAwzPxQVrJS8jCC1"
+      "duration_ms": 223594,
+      "name": "Sin Acci\u00f3n",
+      "url": "https://open.spotify.com/track/6gsa8v1oJE9GYFKA5EKq3Q"
     },
     {
       "added_at": null,
@@ -543,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Angeles Y Dem\u00e1s Demonios",
-        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Despu\u00e9s De La Lluvia",
-      "url": "https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Te Falte Ni Gloria",
         "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
       },
@@ -575,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Angeles Y Dem\u00e1s Demonios",
+        "url": "https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Despu\u00e9s De La Lluvia",
+      "url": "https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viaje En Espiral",
         "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
       },
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 259538,
-      "name": "C\u00edrculos",
-      "url": "https://open.spotify.com/track/0zgG9gxJHOw4VfNhtMtio1"
+      "duration_ms": 305958,
+      "name": "El Hombre Sin Nombre",
+      "url": "https://open.spotify.com/track/3D0jQkIAwzPxQVrJS8jCC1"
     },
     {
       "added_at": null,
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 303908,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1wHMJnzd9EmKK3kGD7Y8WV"
+      "duration_ms": 259538,
+      "name": "C\u00edrculos",
+      "url": "https://open.spotify.com/track/0zgG9gxJHOw4VfNhtMtio1"
     },
     {
       "added_at": null,
@@ -687,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Antolog\u00eda (1994-2007)",
-        "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Sombra De Un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/42rSEvWPF6GMvsNY5oqMjU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que No Te Falte Ni Gloria",
         "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
       },
@@ -715,6 +683,22 @@
       "duration_ms": 180675,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/4jZ5rDnj9G1t2df1QTG33q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viaje En Espiral",
+        "url": "https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 303908,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1wHMJnzd9EmKK3kGD7Y8WV"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Antolog\u00eda (1994-2007)",
+        "url": "https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Sombra De Un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/42rSEvWPF6GMvsNY5oqMjU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adicci\u00f3n",
         "url": "https://open.spotify.com/album/4OT78VlrNDMDDwMCnD1pbv"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que No Te Falte Ni Gloria",
+        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
+      },
+      "artists": [
+        {
+          "name": "Campo De Almas.",
+          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
+        }
+      ],
+      "duration_ms": 257012,
+      "name": "Un Lugar en Tu Mente",
+      "url": "https://open.spotify.com/track/1wEBoL596AlzF1h2E6lkTr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Estuviste Ah\u00ed",
         "url": "https://open.spotify.com/album/0y40mqdz6q5YAcOZeUEV4R"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 247026,
       "name": "Camino Claro ( En Vivo)",
       "url": "https://open.spotify.com/track/7Gbao5b5qfspL3XCuGF0n6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que No Te Falte Ni Gloria",
-        "url": "https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec"
-      },
-      "artists": [
-        {
-          "name": "Campo De Almas.",
-          "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
-        }
-      ],
-      "duration_ms": 195998,
-      "name": "Mi Error",
-      "url": "https://open.spotify.com/track/2swhnrPE1dVPhK5OjHzOgU"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf"
         }
       ],
-      "duration_ms": 257012,
-      "name": "Un Lugar en Tu Mente",
-      "url": "https://open.spotify.com/track/1wEBoL596AlzF1h2E6lkTr"
+      "duration_ms": 195998,
+      "name": "Mi Error",
+      "url": "https://open.spotify.com/track/2swhnrPE1dVPhK5OjHzOgU"
     }
   ],
   "unique_name": "This Is Campo De Almas.",

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: lovehead",
-  "num_followers": 41034,
+  "num_followers": 41032,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-11-04 23:00:08",
       "album": {
+        "name": "Keine Phase",
+        "url": "https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "Keine Phase",
+      "url": "https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii"
+    },
+    {
+      "added_at": "2025-11-04 23:00:08",
+      "album": {
         "name": "Moi pour Toi",
         "url": "https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 157687,
       "name": "Moi pour Toi",
       "url": "https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6"
-    },
-    {
-      "added_at": "2025-11-04 23:00:08",
-      "album": {
-        "name": "Keine Phase",
-        "url": "https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Keine Phase",
-      "url": "https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii"
     },
     {
       "added_at": "2025-11-04 23:00:08",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Sliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,421 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,427 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [](https://open.spotify.com/album/null) | 3:47 |
+| 1 | [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [Cita Cinta](https://open.spotify.com/album/7HEXcM3rUIwmU9kueJKsza) | 3:47 |
 | 2 | [Pernah Muda](https://open.spotify.com/track/5Mi1HrLmE9tAz8VhTFhsCm) | [Deredia](https://open.spotify.com/artist/2suoGMN4uGe4gCBFwfkfoz) | [Pernah Muda](https://open.spotify.com/album/5ws56GVot5fiNNHtS2TvzR) | 3:30 |
 | 3 | [Dunia](https://open.spotify.com/track/7te1TuQxKFWrftuBuDjRu7) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Prof Jo](https://open.spotify.com/album/7z095HYTK1SgEbsg5RyqSE) | 3:43 |
 | 4 | [Funky Days](https://open.spotify.com/track/4fk2RLEsZZn4tifLJa3Odg) | [Alex Kuple](https://open.spotify.com/artist/1GFIKiUipgbe82QEs0tvg9) | [Funky Days](https://open.spotify.com/album/0lDOYBe2jM6P8Wxf5K9YK3) | 2:55 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 324606,
+  "num_followers": 324868,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADiBsfwXkL9tQB2C3jPvlVw",
+  "snapshot_id": "aSeUgAAAAACGNfYZB+lnSnrZtUvruUyO",
   "tracks": [
     {
       "added_at": null,
@@ -178,15 +178,11 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 156834,
-      "name": "El Mikima",
-      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
+      "duration_ms": 212563,
+      "name": "Pudiste Pero No Quisiste",
+      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
     },
     {
       "added_at": null,
@@ -250,11 +246,15 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
         }
       ],
-      "duration_ms": 212563,
-      "name": "Pudiste Pero No Quisiste",
-      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
+      "duration_ms": 156834,
+      "name": "El Mikima",
+      "url": "https://open.spotify.com/track/2CBfHu8O0jRDnJuUaQWVkg"
     },
     {
       "added_at": null,
@@ -282,15 +282,11 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 158841,
-      "name": "MONEY EDITION",
-      "url": "https://open.spotify.com/track/4z2QWSO49zzmLTNEBsdWDy"
+      "duration_ms": 241029,
+      "name": "Ni Te Conozco, Ni Me Saludes",
+      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
     },
     {
       "added_at": null,
@@ -350,11 +346,15 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 241029,
-      "name": "Ni Te Conozco, Ni Me Saludes",
-      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
+      "duration_ms": 158841,
+      "name": "MONEY EDITION",
+      "url": "https://open.spotify.com/track/4z2QWSO49zzmLTNEBsdWDy"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 181701,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Dama",
         "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 168514,
       "name": "La Dama",
       "url": "https://open.spotify.com/track/0g7reTogQTQ3PRUQR4x8Hw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 181701,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
     },
     {
       "added_at": null,

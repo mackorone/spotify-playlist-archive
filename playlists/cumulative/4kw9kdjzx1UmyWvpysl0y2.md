@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,127 songs - 2 day 15 hr 2 min
+1,128 songs - 2 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Afterlife](https://open.spotify.com/track/1gdxDPqrfDsEEJgGoDyEYk) | [Banyan](https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Afterlife](https://open.spotify.com/album/4hGsAaQq40bBBBD9DWk6tS) | 2:41 | 2025-09-23 |  |
 | [Afterlife](https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Afterlife](https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ) | 3:41 | 2025-03-13 | 2025-06-13 |
 | [Again](https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Again](https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq) | 3:48 | 2025-05-13 | 2025-08-06 |
-| [Against All Odds](https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Against All Odds](https://open.spotify.com/album/39nfFsklbXE8R5eGhRkbNF) | 3:42 | 2025-09-10 |  |
+| [Against All Odds](https://open.spotify.com/track/0H4qAzEAnCFE3ZdZ3Te2qS) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Against All Odds](https://open.spotify.com/album/39nfFsklbXE8R5eGhRkbNF) | 3:42 | 2025-09-10 | 2025-11-29 |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-28 | 2025-08-20 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
@@ -968,6 +968,7 @@
 | [Tear It Down](https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [Tear It Down](https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr) | 3:05 | 2024-06-07 | 2024-08-31 |
 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 | 2023-03-30 | 2023-06-24 |
 | [TELL ME](https://open.spotify.com/track/4DrsNByVNyPkIY2ZrFYy16) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [TELL ME](https://open.spotify.com/album/6NbsVa7upM30tVESZys9H0) | 2:48 | 2022-05-09 | 2022-07-21 |
+| [TELL ME](https://open.spotify.com/track/18ZCeMWBE8cZjrybSqIo69) | [YUSSI](https://open.spotify.com/artist/1IwkSL4i4wIu40Cej0a997), [WIMBO](https://open.spotify.com/artist/4UvTMZplahiJPeTH60gEOq) | [TELL ME](https://open.spotify.com/album/1i227PMtdLpeA03UfEmvc8) | 3:23 | 2025-11-28 |  |
 | [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-08 | 2023-12-14 |
 | [Tell Me Why You're Here](https://open.spotify.com/track/4afjY6JvNTwb4qBWQjFI2n) | [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Tell Me Why You're Here](https://open.spotify.com/album/1UixKcpQcJrPAC70crSRXI) | 2:41 | 2025-11-27 |  |
 | [Tender](https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV) | [Inner Voices](https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z) | 3:14 | 2023-04-24 | 2023-07-22 |

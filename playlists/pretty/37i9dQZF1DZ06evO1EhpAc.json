@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9635,
+  "num_followers": 9639,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADVrBT4WkVEP5K2/J+WlcO6",
+  "snapshot_id": "aSeUgAAAAAD8CZ6MhemkdqvmH70nkJWq",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More",
-        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 202537,
-      "name": "One More",
-      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 201239,
       "name": "WAKING UP DOWN",
       "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More",
+        "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 202537,
+      "name": "One More",
+      "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 201446,
+      "name": "Drink I\u2019m Sippin On",
+      "url": "https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Your Fantasy (Remix)",
         "url": "https://open.spotify.com/album/50Y11BDvO8tZf453abGL8Q"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 202605,
       "name": "In Your Fantasy (Yaeji Ver.)",
       "url": "https://open.spotify.com/track/4NZV1sYGV59U4wy5YdHYsE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 201446,
-      "name": "Drink I\u2019m Sippin On",
-      "url": "https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz"
     },
     {
       "added_at": null,
@@ -655,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
+        "name": "RAVE:N, The Remixes",
+        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
       },
       "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
+      "duration_ms": 149982,
+      "name": "Enough For Love - Yaeji heart+beat Remix",
+      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
     },
     {
       "added_at": null,
@@ -703,22 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAVE:N, The Remixes",
-        "url": "https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi"
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
       },
       "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        },
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 149982,
-      "name": "Enough For Love - Yaeji heart+beat Remix",
-      "url": "https://open.spotify.com/track/4IjNSEP03dDNFAcQVgUfXH"
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,

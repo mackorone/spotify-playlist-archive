@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/0dBSouy9hCWxMttx55hIGQ"
+      },
+      "artists": [
+        {
+          "name": "Stillgroove",
+          "url": "https://open.spotify.com/artist/1H8FfSgkrPs9BaNuUKhTIT"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219642,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/4KweUDF4OoAEykjQJU79K6"
+    },
+    {
+      "album": {
         "name": "Afastar",
         "url": "https://open.spotify.com/album/7xHlrGXd3PDRhNzI4CIJyx"
       },
@@ -8710,7 +8728,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 218000,
       "name": "Pink Sky",
       "url": "https://open.spotify.com/track/5Fbh018hoA0IQi7SM9CZfs"

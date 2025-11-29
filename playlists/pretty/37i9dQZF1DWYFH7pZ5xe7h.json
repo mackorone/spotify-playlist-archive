@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 57048,
+  "num_followers": 57057,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,30 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "duration_ms": 1297293,
+      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
+      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
         "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
         "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
       },
@@ -491,30 +515,6 @@
       "duration_ms": 2164733,
       "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
       "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
-        "name": "Mahler: Symphony No. 10",
-        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
-        },
-        {
-          "name": "Tonhalle-Orchester Z\u00fcrich",
-          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
-        }
-      ],
-      "duration_ms": 1297293,
-      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
-      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
     },
     {
       "added_at": "2025-09-15 14:00:15",
@@ -615,6 +615,30 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
+        "name": "Mahler: Songs from Des Knaben Wunderhorn & R\u00fcckert-Lieder / Schubert: Lieder",
+        "url": "https://open.spotify.com/album/6aOEkTx3b2aoP995tRhoL2"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Irwin Gage",
+          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "R\u00fcckert-Lieder: Liebst du um Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/4hkQ08cxtPUPiVEdVUwZr8"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
         "name": "Mahler: Das klagende Lied / Berg: Lulu-Suite",
         "url": "https://open.spotify.com/album/4Ov78YRYesjbQrwv3QNRyh"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 241093,
       "name": "Das klagende Lied (2 Movement Version): II. Hochzeitsst\u00fcck: a. Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live at Festspielhaus, Salzburg, 2011",
       "url": "https://open.spotify.com/track/30zTMjRPtzMxZzVeVWEt4L"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
-        "name": "Mahler: Songs from Des Knaben Wunderhorn & R\u00fcckert-Lieder / Schubert: Lieder",
-        "url": "https://open.spotify.com/album/6aOEkTx3b2aoP995tRhoL2"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Jessye Norman",
-          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
-        },
-        {
-          "name": "Irwin Gage",
-          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "R\u00fcckert-Lieder: Liebst du um Sch\u00f6nheit",
-      "url": "https://open.spotify.com/track/4hkQ08cxtPUPiVEdVUwZr8"
     },
     {
       "added_at": "2025-09-15 14:00:15",
@@ -1003,34 +1003,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Brahms, Schumann & Mahler: Lieder",
-        "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 145080,
-      "name": "R\u00fcckert-Lieder, Op. 44: 1. Ich atmet' einen linden Duft - Live",
-      "url": "https://open.spotify.com/track/5Fw8FVg8Z5XnayUWuSJ9FB"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
       },
@@ -1055,6 +1027,34 @@
       "duration_ms": 194266,
       "name": "Das Lied von der Erde: III. Von der Jugend",
       "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Brahms, Schumann & Mahler: Lieder",
+        "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 145080,
+      "name": "R\u00fcckert-Lieder, Op. 44: 1. Ich atmet' einen linden Duft - Live",
+      "url": "https://open.spotify.com/track/5Fw8FVg8Z5XnayUWuSJ9FB"
     },
     {
       "added_at": "2025-09-15 14:00:15",
@@ -1195,34 +1195,6 @@
     {
       "added_at": "2025-09-15 14:00:15",
       "album": {
-        "name": "Mahler: Des Knaben Wunderhorn",
-        "url": "https://open.spotify.com/album/2VMOxWRahor88AI0FXpHD3"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "George Szell",
-          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
-        },
-        {
-          "name": "Elisabeth Schwarzkopf",
-          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Mahler: Des Knaben Wunderhorn: No. 7, Rheinlegendchen",
-      "url": "https://open.spotify.com/track/1ndZ3nhH4ZzYaTkacGJzGi"
-    },
-    {
-      "added_at": "2025-09-15 14:00:15",
-      "album": {
         "name": "Mahler: Symphony No. 8",
         "url": "https://open.spotify.com/album/0v90cyaG7HGzM8pLfaLiZ8"
       },
@@ -1255,6 +1227,34 @@
       "duration_ms": 349497,
       "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
       "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
+    },
+    {
+      "added_at": "2025-09-15 14:00:15",
+      "album": {
+        "name": "Mahler: Des Knaben Wunderhorn",
+        "url": "https://open.spotify.com/album/2VMOxWRahor88AI0FXpHD3"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Mahler: Des Knaben Wunderhorn: No. 7, Rheinlegendchen",
+      "url": "https://open.spotify.com/track/1ndZ3nhH4ZzYaTkacGJzGi"
     },
     {
       "added_at": "2025-09-15 14:00:15",

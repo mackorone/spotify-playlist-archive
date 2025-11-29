@@ -32128,7 +32128,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193255,
       "name": "La Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5NK5vkJQCtC721Ut1OvHYj"
@@ -36492,7 +36492,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -53056,6 +53056,24 @@
     {
       "album": {
         "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "album": {
+        "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
@@ -59205,6 +59223,24 @@
     },
     {
       "album": {
+        "name": "Tamaulipas",
+        "url": "https://open.spotify.com/album/0jl7CxfgvPEJYrnZo6flg4"
+      },
+      "artists": [
+        {
+          "name": "deady",
+          "url": "https://open.spotify.com/artist/2naKTQQN0vpZlfC86nQRGB"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200074,
+      "name": "Tamaulipas",
+      "url": "https://open.spotify.com/track/164TCRCCSJ2MNRj0aLdRyR"
+    },
+    {
+      "album": {
         "name": "LA REINA DEL REGGAETON MEXICANO: TOMO I: La chica de las poes\u00edas",
         "url": "https://open.spotify.com/album/1R1vycz825HAGn6wZIJe7F"
       },
@@ -59368,7 +59404,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179124,
       "name": "Tatuadas las calaveras v1",
       "url": "https://open.spotify.com/track/2m47yekvmLJQhWIOtZfwW0"
@@ -68886,6 +68922,24 @@
       "duration_ms": 199960,
       "name": "Yo siempre contesto.",
       "url": "https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Feliz",
+        "url": "https://open.spotify.com/album/5ef6KpV7hufrkPPhWKz4QG"
+      },
+      "artists": [
+        {
+          "name": "El Pesito",
+          "url": "https://open.spotify.com/artist/17TsQWu7cRZrMfftAk7AqB"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171956,
+      "name": "Yo Soy Feliz",
+      "url": "https://open.spotify.com/track/0OuW7k0zxY135Jq4oJxniJ"
     },
     {
       "album": {

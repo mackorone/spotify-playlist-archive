@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jTifM0MFAVzFVvYIpez2Z">Tommy Parker</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 23 | [Over You](https://open.spotify.com/track/64WxLGjquEiDypddXZgggY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:46 |
 | 24 | [On Some New Shit](https://open.spotify.com/track/6Uddii97LejOyJrrqEqMYI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 2:50 |
 | 25 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
-| 26 | [STICKED UP \(feat\. 21 Savage\)](https://open.spotify.com/track/6vIjPq1ZpPX0kw5D1y81MO) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 3:06 |
-| 27 | [BLEEDING](https://open.spotify.com/track/1Q44YCmHulLTI61D3IGe2g) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:57 |
+| 26 | [BLEEDING](https://open.spotify.com/track/1Q44YCmHulLTI61D3IGe2g) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:57 |
+| 27 | [STICKED UP \(feat\. 21 Savage\)](https://open.spotify.com/track/6vIjPq1ZpPX0kw5D1y81MO) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 3:06 |
 | 28 | [Harder](https://open.spotify.com/track/2naTAenfZdW6fEhbwtqK0b) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 3:08 |
 | 29 | [HARDSTONE NATIONAL ANTHEM](https://open.spotify.com/track/72mqSiSQNHHNYSM6dOJYGr) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:41 |
 | 30 | [Sinner](https://open.spotify.com/track/7m57eGe3haQgQgbsuSufwJ) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:59 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 69 | [Dissolve](https://open.spotify.com/track/1vQ8UU7AGi4ljLZ8yngVBM) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [trying not to think about it](https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL) | 3:31 |
 | 70 | [can u?](https://open.spotify.com/track/4WkRn7DXBqE3FpIHM9tmLs) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [can u?](https://open.spotify.com/album/3QOJ06vA52E3QjK6cTo9Ry) | 2:50 |
 | 71 | [I Love Myself](https://open.spotify.com/track/2vh7iM4sr5w7e4C0wOsiaX) | [Lil Dicky](https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr) | [Penith \(The DAVE Soundtrack\)](https://open.spotify.com/album/0tD7YCpFten00qPVcMseoe) | 2:07 |
-| 72 | [2 B Loved](https://open.spotify.com/track/6pPrxCv6pTAm0qvT4Dc06u) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 2:55 |
-| 73 | [Together](https://open.spotify.com/track/5xz3JjXScpWsjYDpjeBZpd) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e) | 3:23 |
+| 72 | [Together](https://open.spotify.com/track/5xz3JjXScpWsjYDpjeBZpd) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas \(Deluxe Edition\)](https://open.spotify.com/album/6QTbzeEBJNZZObMZPhLS4e) | 3:23 |
+| 73 | [2 B Loved](https://open.spotify.com/track/6pPrxCv6pTAm0qvT4Dc06u) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Unbreakable](https://open.spotify.com/album/45nlliwsohn0gLFmQ49FAG) | 2:55 |
 | 74 | [Turn It Up](https://open.spotify.com/track/596pPwqpEzZeH57CcY75W4) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Here I Am \(Int'l Version\)](https://open.spotify.com/album/0fqSVcXza5It71LS2BJdLR) | 3:35 |
 | 75 | [White Man](https://open.spotify.com/track/5zyyicAObouqjww4FL7vsP) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:13 |
 | 76 | [The Disco Song](https://open.spotify.com/track/6oxEm1YTTY3UdHl287wbyR) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [The California Jet Club](https://open.spotify.com/artist/6OOn7tedu5plMS1AhGi022), [Jhonni Blaze](https://open.spotify.com/artist/1TPNC8TFcyC8s5TeSmQT23), [Maiya Sykes](https://open.spotify.com/artist/0f1RHEeWvaJDxBPY3UZ6Z4) | [The Reset](https://open.spotify.com/album/6YLCRtqGScLXhJpkRS2Tff) | 3:57 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 105 | [Make Me Proud](https://open.spotify.com/track/5UZAcHN4ElcLbXE5XAqujX) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak) | [Misguided](https://open.spotify.com/album/6OhEqr0AuYalawV1b3ZkmK) | 1:52 |
 | 106 | [9 Times Outta 10](https://open.spotify.com/track/06aSLdw80wKySs13JZB1Us) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Art of War](https://open.spotify.com/album/23eua6uVSevlpuWsN7JoiM) | 2:46 |
 | 107 | [Nobody](https://open.spotify.com/track/4uz5wCY6QbWDjb9aOoi23p) | [Jawan Harris](https://open.spotify.com/artist/1zWtqUs1JpL98hWc6B8DtA) | [Nobody](https://open.spotify.com/album/7Fk9iVazl3kbtgTLpIiDRS) | 2:47 |
-| 108 | [Mine](https://open.spotify.com/track/5zTdRY35xrvOUUpwRZs3TW) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Mine](https://open.spotify.com/album/3xXYS0X2RGfksBDK9stJYV) | 2:49 |
-| 109 | [Calm Like Kim](https://open.spotify.com/track/7lyuDIBBgZFEB2eouXnq5X) | [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Calm Like Kim](https://open.spotify.com/album/4I74n0c8VFwnoezOr9qSMO) | 2:22 |
+| 108 | [Calm Like Kim](https://open.spotify.com/track/7lyuDIBBgZFEB2eouXnq5X) | [Spencer Elmer](https://open.spotify.com/artist/79hHMv2Abnf54m7Nuc5v6c) | [Calm Like Kim](https://open.spotify.com/album/4I74n0c8VFwnoezOr9qSMO) | 2:22 |
+| 109 | [Mine](https://open.spotify.com/track/5zTdRY35xrvOUUpwRZs3TW) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl) | [Mine](https://open.spotify.com/album/3xXYS0X2RGfksBDK9stJYV) | 2:49 |
 | 110 | [Double Life](https://open.spotify.com/track/2Sg48T1SK3MwDtBlfQFV9q) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Empire \(Season 6, I Am Who I Am\) \[Music from the TV Series\]](https://open.spotify.com/album/500UKt3WeIJoOihhYLcozj) | 1:59 |
 | 111 | [Clap For Me](https://open.spotify.com/track/0F6mXWicsDyhFUn4xRX9Yx) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [Will A Fool](https://open.spotify.com/artist/6WfaRztdyz4BVdO3BbI1gB) | [Still Too Deep](https://open.spotify.com/album/0DK9TCkQ7qNN1Ubm7Tukbr) | 2:41 |
 | 112 | [Gone to Bed](https://open.spotify.com/track/4LQK4d8DCI8i16lFWk2kll) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/5Zmu0lS6RYtopzhAu9lQZW) | 2:56 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 124 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 125 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AcCvcAAAAAAeffnGyhmvByiYvsrcR4Aw`
+Snapshot ID: `AcC1EAAAAAB+IpvHQaD8SWDygrzniU8x`

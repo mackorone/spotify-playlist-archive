@@ -2,9 +2,9 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Tainy & KAROL G
+> Today's top Latin hits, elevando nuestra música\. Cover: Romeo Santos, Prince Royce
 
-974 songs - 2 day 3 hr 48 min
+975 songs - 2 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Besos Moja2](https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 3:49 | 2022-12-19 | 2023-06-10 |
 | [Besos Moja2](https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 3:49 | 2022-10-07 | 2022-12-20 |
 | [Beto’s Horns \- fred remix](https://open.spotify.com/track/53rDh4kB1LJyLgnxm8K6Np) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Beto’s Horns \(fred remix\)](https://open.spotify.com/album/4CC0Q6wTtZ15OWHtNTGvnU) | 3:46 | 2025-11-07 | 2025-11-22 |
+| [Better Late Than Never](https://open.spotify.com/track/6E16aoeOwaph7iNqiw38Mo) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:08 | 2025-11-28 |  |
 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 | 2023-03-10 | 2023-04-29 |
 | [Bing Bong](https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Bing Bong](https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu) | 2:03 | 2025-01-31 | 2025-04-19 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-22 | 2023-12-16 |
@@ -178,7 +179,7 @@
 | [Contrato](https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Contrato](https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno) | 3:24 | 2024-06-21 | 2024-07-13 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-06-30 | 2023-08-12 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-09-26 |  |
-| [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 |  |
+| [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 | 2025-11-29 |
 | [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 | 2025-08-01 | 2025-11-08 |
 | [Corazón de Piedra](https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Corazón de Piedra](https://open.spotify.com/album/34jqKGS3XSMznpvtCwh9so) | 3:13 | 2024-03-22 | 2024-07-19 |
 | [Corazón Puro](https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Corazón Puro](https://open.spotify.com/album/5VxwWfcKYIpcp4OCjjaIQp) | 3:46 | 2025-02-07 | 2025-04-05 |

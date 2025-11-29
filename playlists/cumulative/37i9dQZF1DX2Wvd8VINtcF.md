@@ -4,7 +4,7 @@
 
 > pearl of the week ✨DJ Suzy ✨
 
-2,166 songs - 4 day 21 hr 13 min
+2,166 songs - 4 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1156,6 +1156,7 @@
 | [Love Will Save Me](https://open.spotify.com/track/2YjXImhg2zXDmWcVy1oSDw) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Will Save Me](https://open.spotify.com/album/2QNFtpX9BzNTrzRF0A4tbe) | 4:37 | 2024-02-08 | 2024-05-03 |
 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 | 2024-05-09 | 2024-07-27 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 | 2024-04-12 |
+| [Lover's Rock](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Acoustics & Hood Psychedelia](https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl) | 2:48 | 2025-11-27 |  |
 | [Lover/Friend](https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:32 | 2023-11-30 | 2024-01-05 |
 | [lovergirl](https://open.spotify.com/track/48VPIoaHKU3gKHAVW2WMp8) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [lovergirl](https://open.spotify.com/album/2zUTN546u7OhfOGSY8fblP) | 2:14 | 2023-07-27 | 2023-09-01 |
 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 | 2023-04-13 | 2023-04-28 |
@@ -1956,7 +1957,6 @@
 | [Tough Love](https://open.spotify.com/track/0jeU42hx3LbPJAytAQEEPV) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 4:16 | 2024-01-11 | 2024-04-19 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-11-18 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-08-07 |  |
-| [Track 2](https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Traits](https://open.spotify.com/track/5ORHUVLPkm6JC3rHYd3Zgt) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9), [Harrison First](https://open.spotify.com/artist/0lcIRzEVZTKyNiEct4UKTo) | [In Motion, Always](https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S) | 4:02 | 2025-11-06 |  |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-06 | 2024-08-02 |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-06-20 |

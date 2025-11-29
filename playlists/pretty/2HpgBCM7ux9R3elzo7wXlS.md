@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,046 songs - 2 day 16 hr 14 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,048 songs - 2 day 16 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1054,5 +1054,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1044 | [Pose \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6e9biVAugkOfydEN8OiJpi) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pose \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/6nIe8wxpDcAzUJVj4v2v5r) | 2:50 |
 | 1045 | [The Largest](https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Largest](https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144) | 2:12 |
 | 1046 | [Monster](https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 2:58 |
+| 1047 | [Wham Bam Shang\-A\-Lang](https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU) | [Silver](https://open.spotify.com/artist/7oeuJSyVZTCkm3BurLz8cG) | [Silver](https://open.spotify.com/album/3sGENYCDR3UaIfFwWMJWrY) | 3:32 |
+| 1048 | [Operator \(That's Not the Way It Feels\)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:49 |
 
-Snapshot ID: `AAAHwFDk8EmOpjST5kxhQ9TXgXWdbyjy`
+Snapshot ID: `AAAHwnO/LBwCPXjwIKlPV33zYwkOaYUx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. VV Brujo en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. sundraks en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 142714,
       "name": "Bandidas",
       "url": "https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V"
@@ -1745,6 +1745,28 @@
     },
     {
       "album": {
+        "name": "R\u00d8Z \u2013 Spotify Sessions",
+        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293166,
+      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
+      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
+    },
+    {
+      "album": {
         "name": "Corrupted",
         "url": "https://open.spotify.com/album/2MHJfwPN2ruuHa8RTulzFk"
       },
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 173731,
       "name": "CRAYZI",
       "url": "https://open.spotify.com/track/353cf2mcZqNBaWTfnFFRao"
@@ -4118,7 +4140,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 159111,
       "name": "La Necesidad",
       "url": "https://open.spotify.com/track/7Bgr7dwLpwZIJtjelE9GLB"
@@ -4258,6 +4280,24 @@
       "duration_ms": 199846,
       "name": "la vuelta",
       "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+    },
+    {
+      "album": {
+        "name": "La \u00daltima Estrella",
+        "url": "https://open.spotify.com/album/3e2tTVn2S8zOkr3xpRdECm"
+      },
+      "artists": [
+        {
+          "name": "P\u00f8nce",
+          "url": "https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230291,
+      "name": "La \u00daltima Estrella",
+      "url": "https://open.spotify.com/track/2uOd8TUx1DBHYTU1rWz6bQ"
     },
     {
       "album": {
@@ -8747,6 +8787,46 @@
     },
     {
       "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158035,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
+    },
+    {
+      "album": {
+        "name": "Tutankamon House Mix",
+        "url": "https://open.spotify.com/album/1P1u7k08bAEEvcL9lRjGVF"
+      },
+      "artists": [
+        {
+          "name": "Sundraks",
+          "url": "https://open.spotify.com/artist/5U3mJ8I8zmoNFCVm01jWxI"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211588,
+      "name": "Tutankamon House Mix",
+      "url": "https://open.spotify.com/track/6DUMR5QXO3tu6QqptEBtR0"
+    },
+    {
+      "album": {
         "name": "Ultimate (ft. Snow Tha Product)",
         "url": "https://open.spotify.com/album/4qGyc7iOQDVBlIrq1VXtu6"
       },
@@ -9360,7 +9440,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 149015,
       "name": "\u00bfQui\u00e9n Soy Yo?",
       "url": "https://open.spotify.com/track/0NKVnIx0tRJ1zHvPnIHpd2"

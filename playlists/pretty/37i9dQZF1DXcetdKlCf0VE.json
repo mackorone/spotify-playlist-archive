@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 29786,
+  "num_followers": 29792,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
+      "duration_ms": 374000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
+      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Sibelius: Essentials",
         "url": "https://open.spotify.com/album/02VIadxooZpaFfKNDQomCM"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 727409,
       "name": "Pohjola's Daughter, Op. 49",
       "url": "https://open.spotify.com/track/4sOlhYFDDSdsHiQQMqReZu"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 374000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 4. Allegretto (ma pesante)",
-      "url": "https://open.spotify.com/track/0CnnEtrX6RbMcnOqhtlpWQ"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -555,30 +555,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
-        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Neeme J\u00e4rvi",
-          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Karelia Suite, Op. 11: I. Intermezzo. Moderato \u2013 Pi\u00f9 moderato",
-      "url": "https://open.spotify.com/track/4MVrLDFVe9be8put1dshpc"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
         "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 288000,
       "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
       "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
+        "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Neeme J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/5UHZvYJA0aPcJSLYkYAeps"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Karelia Suite, Op. 11: I. Intermezzo. Moderato \u2013 Pi\u00f9 moderato",
+      "url": "https://open.spotify.com/track/4MVrLDFVe9be8put1dshpc"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
-        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Emerson String Quartet",
-          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": II. Vivace",
-      "url": "https://open.spotify.com/track/7CBAYws0XMc8xNr7ylploe"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Sibelius Piano Works",
         "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 209893,
       "name": "Ten Pieces, Op. 24: Nocturno Op. 24: No. 8",
       "url": "https://open.spotify.com/track/1eGxfn4HNrxee4x1uY0yfv"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
+        "url": "https://open.spotify.com/album/7c0bdLGF2HeDHobb6xahAU"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "String Quartet in D Minor, Op. 56 \"Voces intimae\": II. Vivace",
+      "url": "https://open.spotify.com/track/7CBAYws0XMc8xNr7ylploe"
     },
     {
       "added_at": "2025-09-15 14:00:16",

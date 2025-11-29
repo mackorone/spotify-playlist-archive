@@ -4,7 +4,7 @@
 
 > All of it
 
-1,054 songs - 2 day 16 hr 42 min
+1,056 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 | 2025-06-02 |  |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2025-06-02 |  |
 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 | 2025-09-01 |  |
+| [Operator \(That's Not the Way It Feels\)](https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:49 | 2025-11-28 |  |
 | [Orange Colored Sky \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/6fUDNcmsnnUVyOtEnA9xdC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:33 | 2025-06-02 |  |
 | [Orbitron](https://open.spotify.com/track/2O1fWJD4M38spxqK6ly8qZ) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Transmission, Flux](https://open.spotify.com/album/1MKrXmYKkTv9foXroXTDbo) | 2:18 | 2025-06-02 |  |
 | [Original Me](https://open.spotify.com/track/0ddcSXm5VzpmviExjNj8X5) | [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Stars of Lyra+](https://open.spotify.com/album/1CCyPvnNWqsvdinI2pepqZ) | 3:43 | 2025-06-02 |  |
@@ -1004,6 +1005,7 @@
 | [Welcome to...](https://open.spotify.com/track/4fFiXfYW8JTyWwysayiNUf) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Somewhere City](https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn) | 3:05 | 2025-09-26 |  |
 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2025-06-02 |  |
 | [Wesley's Theory](https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:47 | 2025-06-02 |  |
+| [Wham Bam Shang\-A\-Lang](https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU) | [Silver](https://open.spotify.com/artist/7oeuJSyVZTCkm3BurLz8cG) | [Silver](https://open.spotify.com/album/3sGENYCDR3UaIfFwWMJWrY) | 3:32 | 2025-11-28 |  |
 | [what falling in love feels like](https://open.spotify.com/track/5ulDHy61Zya5WQm9f5Yysi) | [MarbleQuintana](https://open.spotify.com/artist/1eILdMtisgi8owdFP1b11w), [Carnicezha Segunto](https://open.spotify.com/artist/1FiurKI48dC07rSqHTgRkX), [p3ch4y](https://open.spotify.com/artist/69MEe5rX1YJcZSLOcIuAhk), [Jake 25.17](https://open.spotify.com/artist/5TiPtm5Bs1BjDrdYnxC92i) | [what falling in love feels like](https://open.spotify.com/album/0k9rHZpkZoUwZrX8mAAg64) | 1:57 | 2025-06-02 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2025-06-02 |  |
 | [WHAT'S GOOD](https://open.spotify.com/track/6bOkaEXc5CopinGazSLokx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:25 | 2025-06-02 |  |

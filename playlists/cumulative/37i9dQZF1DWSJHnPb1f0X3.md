@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-792 songs - 1 day 15 hr 18 min
+793 songs - 1 day 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,7 +670,7 @@
 | [Supernova Love](https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Supernova Love](https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X) | 3:19 | 2024-11-11 | 2025-02-08 |
 | [Survivor](https://open.spotify.com/track/5spdcS6enZ9tQrsIbUbD1R) | [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Meric Again](https://open.spotify.com/artist/2muaKB2dAVbfGrPySPiZqF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Survivor](https://open.spotify.com/album/16VGcAg1bLUWoyFyA4F4Jj) | 2:07 | 2022-04-01 | 2022-04-20 |
 | [Swayze](https://open.spotify.com/track/1VBiR0VzdnYsY3Hf2qf5CP) | [FXRMXNT](https://open.spotify.com/artist/0fYrI3Z1m4Bp80hKXlEVi0), [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [Swayze](https://open.spotify.com/album/7y85L9mrjGzbAA9PyepX2O) | 3:36 | 2022-03-25 | 2022-04-09 |
-| [Sweat](https://open.spotify.com/track/4Qa8mbZYA24jNGI5vkjob5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/6ohsQsuvSYqgM6Enqx6dzv) | 3:02 | 2025-10-17 |  |
+| [Sweat](https://open.spotify.com/track/4Qa8mbZYA24jNGI5vkjob5) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Sweat](https://open.spotify.com/album/6ohsQsuvSYqgM6Enqx6dzv) | 3:02 | 2025-10-17 | 2025-11-29 |
 | [Sweet but Psycho \- Morgan Page Dance Remix](https://open.spotify.com/track/7nbVbGjifh0m2fhPYqcI1R) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Sweet but Psycho \(Remixes\)](https://open.spotify.com/album/6pZkOJtEaENfW9IURljzSh) | 3:46 | 2022-03-25 | 2022-04-12 |
 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 | 2025-05-30 |  |
 | [Sweet Dreams](https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I) | 2:18 | 2021-12-17 | 2022-07-29 |
@@ -701,6 +701,7 @@
 | [The Door \- CYRIL Remix](https://open.spotify.com/track/6VD3T09spn64tjPcBih64P) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [The Door \(CYRIL Remix\)](https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN) | 3:30 | 2024-08-02 |  |
 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 | 2022-07-08 | 2023-10-03 |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-07-08 | 2024-08-10 |
+| [The Fate of Ophelia \- The Chainsmokers Remix](https://open.spotify.com/track/3JNaLxAymiSUMrmjOarjeo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [The Fate of Ophelia \(The Chainsmokers Remix\)](https://open.spotify.com/album/264e9sevSUiitcQeM1y1C5) | 2:55 | 2025-11-28 |  |
 | [The High](https://open.spotify.com/track/0a2oWi06Mvk4CooExJWJTc) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [The High](https://open.spotify.com/album/3Zlhl1M5UZ8s8MlUqO5B2X) | 3:29 | 2022-03-25 | 2022-04-19 |
 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 | 2025-05-30 |  |
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2021-12-17 |  |

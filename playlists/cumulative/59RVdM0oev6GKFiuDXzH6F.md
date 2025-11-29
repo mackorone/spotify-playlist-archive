@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,031 songs - 2 day 4 hr 50 min
+1,032 songs - 2 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Chiki Ta](https://open.spotify.com/track/6i5KdoiRrN290bPq6IQkIa) | [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Chiki Ta](https://open.spotify.com/album/4gozxbu9QuB6AAMW4CMv43) | 1:54 | 2023-05-01 | 2023-05-24 |
 | [Children Of The Resistance](https://open.spotify.com/track/0Iaan4z8XUttGENkEbmZFP) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Suark](https://open.spotify.com/artist/6iLBBp88stAFjZdnn0HsdD), [Armando](https://open.spotify.com/artist/4JSChvgYDHRIC9CbaxReS9) | [Children Of The Resistance](https://open.spotify.com/album/54Jnky4Rfl83BTAiDB5dwo) | 2:53 | 2023-02-12 | 2023-04-13 |
 | [Church](https://open.spotify.com/track/13omEuVGVe0b1JN867nBkl) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Church](https://open.spotify.com/album/3w8xzrogRGShyK4PzW3LgH) | 2:58 | 2024-08-05 | 2025-01-09 |
+| [Circus](https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd) | [Luke Alexander](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [Circus](https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H) | 2:09 | 2025-11-28 |  |
 | [Civic](https://open.spotify.com/track/5gyssr3m6179oVKKpFe5xw) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW), [Juliet Sikora](https://open.spotify.com/artist/27dP6YOr1pGNXLpHRLjvYx) | [Civic](https://open.spotify.com/album/5e1gtkXawki92Bg44QBCyP) | 2:56 | 2023-07-13 | 2023-12-14 |
 | [Close To Me](https://open.spotify.com/track/1oeSKljuCK0KcrpmG9QKE8) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Close To Me](https://open.spotify.com/album/6zqlz5x1Jgrl5LikzEVobS) | 5:30 | 2023-11-17 | 2024-11-30 |
 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-07-13 | 2023-12-14 |

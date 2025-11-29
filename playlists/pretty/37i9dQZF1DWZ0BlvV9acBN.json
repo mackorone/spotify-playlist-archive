@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 147938,
+  "num_followers": 147951,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -767,26 +767,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
-      },
-      "artists": [
-        {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 262480,
       "name": "Dia De Milagres",
       "url": "https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+      },
+      "artists": [
+        {
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "added_at": "2025-10-24 18:38:07",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
-        "name": "Na Corte do Egito (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Na Corte do Egito - Ao Vivo",
-      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
         "name": "Falhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 379130,
       "name": "Falhas - Ao Vivo",
       "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
+        "name": "Na Corte do Egito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Na Corte do Egito - Ao Vivo",
+      "url": "https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e"
     },
     {
       "added_at": "2025-10-24 18:38:07",

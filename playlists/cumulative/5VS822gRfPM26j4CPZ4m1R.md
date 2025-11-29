@@ -4,7 +4,7 @@
 
 > Playlist
 
-622 songs - 1 day 12 hr 51 min
+623 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Delay](https://open.spotify.com/track/6qkxabFsTPxgVYjQcawOyi) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 2:52 | 2023-10-25 |  |
 | [Derby Daze](https://open.spotify.com/track/2WNy0AZsFinL8qtwdK58Ao) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 3:53 | 2023-10-25 |  |
 | [Devil Fangs](https://open.spotify.com/track/1skTB66SoOJTxmLJJ0HMEn) | [Butter Bath](https://open.spotify.com/artist/5iZ8TjSyYZoBSmVSZRIJjg) | [Spectator](https://open.spotify.com/album/5Zyst5fbc6daSDDFGS92w6) | 3:13 | 2023-10-25 |  |
+| [Dia Azul](https://open.spotify.com/track/5qP6czxvzVk5rWni8RNQKc) | [Pedro Mizutani](https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R) | [Dia Azul](https://open.spotify.com/album/6CJx2b7OM7L0tKW0WOOUii) | 3:47 | 2025-11-28 |  |
 | [Dial Tone](https://open.spotify.com/track/7lkvJWBYlhPEMdJHRR9o66) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:43 | 2023-10-25 |  |
 | [Dick Daisey](https://open.spotify.com/track/4YvcCauEQ1bMmd2IrBt7o0) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 2:32 | 2023-10-25 |  |
 | [Disco Baby](https://open.spotify.com/track/4E4Zsbxs0BcqYPeTqx0Hdx) | [Atomic Blue](https://open.spotify.com/artist/4rcAeGnWUBRTTLlh2DauQJ) | [However Many Days](https://open.spotify.com/album/05pAn3ThAYRWz7wonOwbzy) | 3:46 | 2023-10-25 |  |

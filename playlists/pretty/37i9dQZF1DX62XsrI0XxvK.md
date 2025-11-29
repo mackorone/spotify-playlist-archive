@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Jordan Susanto
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,625 likes - 95 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,624 likes - 95 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 2 | [Harus Kemana](https://open.spotify.com/track/3TUae1oXQyibQs6XMboLDO) | [CHNCE](https://open.spotify.com/artist/0Fvh2UJqvgvzWFvCr8IJTI) | [Harus Kemana](https://open.spotify.com/album/4mcYhkSZ4PhwOaRZ7uinrL) | 4:11 |
 | 3 | [Crown](https://open.spotify.com/track/1KxuP61yS7dLOqcdnXWgVb) | [ICEBOX ID](https://open.spotify.com/artist/2DxcoF8pY8WD0QQar9x9Ze), [Italiani](https://open.spotify.com/artist/76dueGVYKmJWlTYhPx1kRs), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Crown](https://open.spotify.com/album/0QULlRrskGGkNA5lc06dMH) | 3:23 |
 | 4 | [Nyaman \(24/7\)](https://open.spotify.com/track/3H11yoJfR7kMkpqDC9Ef1s) | [Dominique Adhadiaz](https://open.spotify.com/artist/1CdlXDQpcRaeFOdY8eEiws) | [Nyaman \(24/7\)](https://open.spotify.com/album/24VfTPaMOtJ4EpDllK62Yl) | 3:16 |
-| 5 | [Arti Kehidupan](https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [](https://open.spotify.com/album/null) | 3:36 |
+| 5 | [Arti Kehidupan](https://open.spotify.com/track/0SGcJpFys6vSrSMPMpMBdC) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Loving You Like This](https://open.spotify.com/album/3davMx4cy50svq19sHjvhI) | 3:36 |
 | 6 | [Empty.](https://open.spotify.com/track/2kNpWuLtpMv8cSBKSozDau) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Empty.](https://open.spotify.com/album/0sLx2BGZGp0UC4tdF3iNVn) | 3:54 |
 | 7 | [BYE](https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [BYE](https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj) | 3:03 |
 | 8 | [Jaga Nafas](https://open.spotify.com/track/0oidZ9wJZ8fRgdnXBhvI9J) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY), [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Jaga Nafas](https://open.spotify.com/album/4LNg3PmRJim465tTBQYD9d) | 3:34 |

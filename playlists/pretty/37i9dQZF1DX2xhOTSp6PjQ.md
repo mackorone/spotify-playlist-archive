@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Inkos'Yamagcokama
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,193 likes - 95 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,357 likes - 95 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 14](https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [ISAZOCHOMELANA \(feat\. Boohle\)](https://open.spotify.com/track/4Psri1pSsv7OiH4B6hZUa2) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [TRUE COLOURS](https://open.spotify.com/album/7MVUr7a9jWPdH5EJJLGnJh) | 5:04 |
 | 2 | [Ngixolele Mtanami](https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ngixolele Mtanami](https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw) | 4:24 |
 | 3 | [Uyoncengwa Unyoko](https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Uyoncengwa Unyoko](https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq) | 4:19 |
 | 4 | [Inteng'dinayo](https://open.spotify.com/track/2OzioXFHANF9ySP8MEUrVZ) | [Falabo](https://open.spotify.com/artist/1tlK89N9NdqIWVXRSyClAw) | [Inteng'dinayo](https://open.spotify.com/album/4rVLH67fT6kNaxt2TcbE2L) | 3:12 |
 | 5 | [Umanikinikana](https://open.spotify.com/track/4Gnh44Op31MW2a98YBmtuD) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlanhla Izanebhadi](https://open.spotify.com/album/1NmM7eRBFKNLN4Y2lqq15R) | 3:43 |
 | 6 | [UNIKHODIMA](https://open.spotify.com/track/1x4yHR7HJ0ZQCQVjXb2Vc8) | [NHLOSO KHWELA](https://open.spotify.com/artist/1PoCttTLXvpmlzQBpVnli7), [Shenge wasehlalankosi](https://open.spotify.com/artist/1HYT018xvnsRBu6QvZmlcS) | [UNIKHODIMA](https://open.spotify.com/album/5QuSNX1DQuEkWkwjwsKrkJ) | 4:25 |
 | 7 | [Abasemzini](https://open.spotify.com/track/0CJJt0J9SOscYKzETJ0p4d) | [Umketule](https://open.spotify.com/artist/69trV3Y6hPvHULI7kHXC3y), [Jikijiki](https://open.spotify.com/artist/1NtILDTbvfbNKZF9OIjdCR) | [Abasemzini](https://open.spotify.com/album/3Nayxjqvi8EfRTYy7ZGPX3) | 5:17 |
-| 8 | [Ishende](https://open.spotify.com/track/4TZ54lOYr8NhFf5MqW6hjw) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61), [Lwa Ndlunkulu](https://open.spotify.com/artist/2uPnb4ndCU4NOKjhlpLdjd) | [](https://open.spotify.com/album/null) | 4:36 |
+| 8 | [Ishende](https://open.spotify.com/track/4TZ54lOYr8NhFf5MqW6hjw) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61), [Lwa Ndlunkulu](https://open.spotify.com/artist/2uPnb4ndCU4NOKjhlpLdjd) | [Intshebe Noka Manana](https://open.spotify.com/album/01WyYaZ2PHt9FREGzll0MM) | 4:36 |
 | 9 | [Ubu Ghost bami](https://open.spotify.com/track/18135pAIhu4DClNzwruriW) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Intombi yasoLundi](https://open.spotify.com/artist/4Bn20pYoT2Dij98WIQc4lt) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 2:51 |
 | 10 | [Intaba Zokhahlamba](https://open.spotify.com/track/24lofBbzbHV2KzxAMROTSS) | [Mphathiwohlelo MC](https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7), [SHENGE WASEHLALANKOSI](https://open.spotify.com/artist/2v1B7I9XcGoSQOASgMks5v), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Intaba Zokhahlamba](https://open.spotify.com/album/5qQEPFxsRvxHTwtmaLSgPR) | 3:46 |
 | 11 | [Isibaya Sikababa](https://open.spotify.com/track/2rHahLGm4dlLrEGmEN3lOb) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ushaka](https://open.spotify.com/album/44vwXTHyQ16D0s0HAYAviv) | 3:57 |

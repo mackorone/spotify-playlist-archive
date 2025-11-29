@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "4 Raws",
+      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "album": {
         "name": "4X4",
         "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
       },
@@ -370,7 +388,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 192000,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/0e3VM9tc363HP6RwsLBRDB"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 195789,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/0S9PPTm8Dx3KsQ3wi2EseQ"
@@ -1305,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Century",
+        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Century",
+      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
+    },
+    {
+      "album": {
         "name": "CHAMPAIN & VACAY",
         "url": "https://open.spotify.com/album/14otbl3uzw1CGMcBlu2Ykt"
       },
@@ -1666,7 +1702,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193440,
       "name": "Da Si Plashtal",
       "url": "https://open.spotify.com/track/1u8eHkUmd6VCRTVZQ7JKX1"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 151111,
       "name": "Discoteka",
       "url": "https://open.spotify.com/track/5NsyTXFybW50VUJGiH3vYG"
@@ -3280,7 +3316,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 180996,
       "name": "HIM",
       "url": "https://open.spotify.com/track/1qKx4C7IWQJWs0tifDZ6h0"
@@ -3444,7 +3480,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 158860,
       "name": "HULIGAN",
       "url": "https://open.spotify.com/track/3xieqAUOI7VXe4bULiIVZl"
@@ -3720,7 +3756,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 207760,
       "name": "Imame li vrazka",
       "url": "https://open.spotify.com/track/3XNlp4fJs4W7jbeYDfD3aD"
@@ -4388,6 +4424,32 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
+    },
+    {
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "LV Sandals",
+      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
     },
     {
       "album": {
@@ -6228,7 +6290,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 149004,
       "name": "RAZ DVA TRI",
       "url": "https://open.spotify.com/track/5HWg4Si59mx1qxMaFKrVr6"
@@ -8236,7 +8298,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 222400,
       "name": "Vinovna",
       "url": "https://open.spotify.com/track/4v7xSragiMZEfvpTvIaIdu"
@@ -8404,6 +8466,24 @@
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "album": {
@@ -8745,6 +8825,24 @@
     },
     {
       "album": {
+        "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
+        "url": "https://open.spotify.com/album/4RhHrWwy3WupzaU8JwbpIa"
+      },
+      "artists": [
+        {
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
+      "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
+    },
+    {
+      "album": {
         "name": "\u0411\u0430\u0448\u043c\u0430\u0439\u0441\u0442\u043e\u0440\u0441\u043a\u0430",
         "url": "https://open.spotify.com/album/3TSTVv5u0S4wGktlHdQNEO"
       },
@@ -8874,6 +8972,24 @@
       "duration_ms": 195000,
       "name": "\u0412 \u0447\u0443\u0436\u0434\u0438\u0442\u0435 \u043e\u0447\u0438",
       "url": "https://open.spotify.com/track/21SQFSO5iD87UoxKOQhSaO"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0434\u0438\u0433\u0430 \u043c\u0443 \u0431\u0438\u0432\u0448\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/2jz1sg31aNS943JsYNaxl6"
+      },
+      "artists": [
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193404,
+      "name": "\u0412\u0434\u0438\u0433\u0430 \u043c\u0443 \u0431\u0438\u0432\u0448\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/3iiSZNHW0SScG7pvi0fIUv"
     },
     {
       "album": {
@@ -9362,7 +9478,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 190570,
       "name": "\u0416\u0435\u0441\u0442\u043e\u043a?",
       "url": "https://open.spotify.com/track/2YVcP9lXu8vw6H3wmAbMbD"
@@ -9884,7 +10000,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 217959,
       "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je"
@@ -10044,7 +10160,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 188780,
       "name": "\u041c\u0435\u0440\u0430\u043a\u043b\u0438\u044f",
       "url": "https://open.spotify.com/track/0b2D7UMjaaIYJndNYBbdRU"

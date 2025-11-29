@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,102 likes - 177 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,103 likes - 177 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 77 | [Blakkst Skn](https://open.spotify.com/track/7JCly2B16uFNXruzsSYmqr) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Blakkst Skn](https://open.spotify.com/album/056FmmhZZZeEs8dcjzcziI) | 3:30 |
 | 78 | [THE MOVE \- prod\. KAYTRANADA](https://open.spotify.com/track/5ZnZelwYbsrBsi2QmBcTXC) | [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [THE MOVE \(prod\. KAYTRANADA\)](https://open.spotify.com/album/0d9pwcDuixiZHEcxwnvFNU) | 3:14 |
 | 79 | [September 21](https://open.spotify.com/track/7K1dTX1ydI3RMXTQU6dkgD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 1:51 |
-| 80 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
-| 81 | [Hold On \(feat\. Dawn Richard\)](https://open.spotify.com/track/2MlwYYIm8JUNrA5807mdLm) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |
+| 80 | [Hold On \(feat\. Dawn Richard\)](https://open.spotify.com/track/2MlwYYIm8JUNrA5807mdLm) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:16 |
+| 81 | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/track/610faOY46uYOBi3KXazpSj) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Xtasy \(Remix\) \[feat\. Doechii\]](https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n) | 4:30 |
 | 82 | [Driftin'](https://open.spotify.com/track/0dkaNSy8kq97d0FW492jrT) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: Elevators: Act I & II](https://open.spotify.com/album/2RlqdwCaiDJBegO1WbjMrE) | 3:02 |
 | 83 | [SPACE INVADER](https://open.spotify.com/track/5EsKjjNxjKeDjlxqdSs4X4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 4:34 |
 | 84 | [Live in the Moment \(feat\. GoldLink\)](https://open.spotify.com/track/6dt1vglokVwAR8XuVC9Gnd) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [The Time Is Now \(Expanded Edition\)](https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ) | 3:06 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 93 | [Telling The Truth](https://open.spotify.com/track/6LOWgH9NaSheAz0U4b7uQL) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 3:57 |
 | 94 | [Zipper Bagz](https://open.spotify.com/track/20UFm0JkFTmqpoRjgDYHnk) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [$oul $old $eparately](https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa) | 2:14 |
 | 95 | [Honey](https://open.spotify.com/track/5q83kstyzBZWeoVbEBmrMD) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Honey](https://open.spotify.com/album/1rdVX1CfqEydMADUJAVVXB) | 4:44 |
-| 96 | [Pressure](https://open.spotify.com/track/3ruMQcure3yXNsZkDx0Dqh) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:58 |
-| 97 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 |
+| 96 | [Oh Lala](https://open.spotify.com/track/7lbHonrDmzduOTFLO3wLKD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Oh Lala](https://open.spotify.com/album/57oOFLMwpyDg74EkJ0odnW) | 3:50 |
+| 97 | [Pressure](https://open.spotify.com/track/3ruMQcure3yXNsZkDx0Dqh) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:58 |
 | 98 | [K&A](https://open.spotify.com/track/4yPT4CtLpIXy1L1reXL9gK) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/0iAbMGXKXGfmtmneJrsNcl) | 5:04 |
 | 99 | [Bloody Waters](https://open.spotify.com/track/4bHLBqQzwceA3WtfWuWQfW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 4:20 |
 | 100 | [Stepped On](https://open.spotify.com/track/4KRbbNR117zPRlwZa7oKyN) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:01 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 176 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 177 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AcCvSAAAAAAdK4YGsSgwQmk1i3N4C0FS`
+Snapshot ID: `AcC06AAAAACW0So8g2AsII7rSaxTzCmK`

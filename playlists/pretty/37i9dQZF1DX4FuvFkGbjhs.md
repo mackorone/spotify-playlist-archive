@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Smerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,710 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,700 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 21 | [Woman Of Faces](https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4LjTxBjWubEIQbttwwdxUo) | 4:50 |
 | 22 | [See Through](https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [See Through](https://open.spotify.com/album/7qqtzUz4Wd44ylS9kC5wrP) | 2:50 |
 | 23 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
-| 24 | [Track 2](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [](https://open.spotify.com/album/null) | 0:00 |
+| 24 | [Don Gino](https://open.spotify.com/track/5ly0JKbOvlmkyIww75EBeQ) | [oreglo](https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt) | [THE WHIRR](https://open.spotify.com/album/5Ub4eoURboM3hSweAvLLqx) | 5:30 |
 | 25 | [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 |
 | 26 | [Greasy off the Racing Line](https://open.spotify.com/track/6Cpdq6s6JahxwEwLYaIyyB) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alison Mosshart](https://open.spotify.com/artist/5rexG906fVLfq8H9m8J9P9) | [Greasy off the Racing Line](https://open.spotify.com/album/7gEMU3rkf8kSz86naYCB67) | 4:09 |
 | 27 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 |

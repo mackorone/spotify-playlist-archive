@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,037 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,114 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 46 | [Attention!](https://open.spotify.com/track/27gQqzvrUqQ1fXYSk9bTdt) | [MaRLo](https://open.spotify.com/artist/2kd1zg9ZyGG6WjZO2dAsFd) | [Attention!](https://open.spotify.com/album/6bb10AeXRdqydEK1FfuF6a) | 3:04 |
 | 47 | [Ego Check](https://open.spotify.com/track/5J6LZGSbgjJvxUf6bKt8S2) | [ZEYPHIA](https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd), [MESSY](https://open.spotify.com/artist/2u5KJ1Wbzv2zoSwA611lyP) | [Ego Check](https://open.spotify.com/album/3AP27HuXuol3MGCCtwIMVX) | 2:24 |
 | 48 | [Disturbia](https://open.spotify.com/track/3nJr2dT4lZXvyi17vwTlCZ) | [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V) | [Disturbia](https://open.spotify.com/album/3YY3yyDdhy0Cy21pu7awlD) | 2:58 |
-| 49 | [Track 4](https://open.spotify.com/track/48FA81f1a0a00JRFHWOwZr) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [](https://open.spotify.com/album/null) | 0:00 |
+| 49 | [SYNAPSE](https://open.spotify.com/track/48FA81f1a0a00JRFHWOwZr) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [FLESH](https://open.spotify.com/album/66dSBlqqla5JTu3Te2I5yX) | 2:22 |
 | 50 | [On Repeat](https://open.spotify.com/track/6EWpyMOKacMLSPhJ5VS0dt) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [On Repeat](https://open.spotify.com/album/4OPGJJLMAVTTSua5snkDRa) | 3:30 |
 | 51 | [ACID](https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [ACID](https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf) | 3:35 |
 | 52 | [One Kiss in Space](https://open.spotify.com/track/15kEZ0AvaztTpFlbJvNQqa) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [One Kiss in Space](https://open.spotify.com/album/2kia7MpDdIf89Oh9mqtK3n) | 4:48 |

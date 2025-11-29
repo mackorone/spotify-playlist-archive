@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,034 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,032 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 35 | [Woran liegts?](https://open.spotify.com/track/3DqHHnYGVHWqwRDue9COax) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Woran liegts?](https://open.spotify.com/album/6fO8xpodayYBAUW0W6B0MB) | 3:09 |
 | 36 | [Caffeine](https://open.spotify.com/track/1MlhwzvVVopiMiLuwjR0WG) | [Paula Dalla Corte](https://open.spotify.com/artist/7p86QI1NsaOsdFPBMVyn0I) | [Circus](https://open.spotify.com/album/5yLXtzX6LsBINIz9W0JhTG) | 3:45 |
 | 37 | [Everybody Loves](https://open.spotify.com/track/13a32fcZFJQjd2XS8rZrTf) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Everybody Loves](https://open.spotify.com/album/2Vte0y9lguR8Az4NJ4tTXm) | 2:33 |
-| 38 | [Moi pour Toi](https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Moi pour Toi](https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp) | 2:37 |
-| 39 | [Keine Phase](https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keine Phase](https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu) | 2:30 |
+| 38 | [Keine Phase](https://open.spotify.com/track/6Nc9L93jJti8cKh99hHmii) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keine Phase](https://open.spotify.com/album/3QejjRx6pOQlAJDvnCKqJu) | 2:30 |
+| 39 | [Moi pour Toi](https://open.spotify.com/track/2m7aoo6fTqIiztM7V6BxC6) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ), [Sainte Nicole](https://open.spotify.com/artist/3CUCwpcTC3QHXCilDsw51Q) | [Moi pour Toi](https://open.spotify.com/album/3bBaApQ6EvrT8zZAn0ykLp) | 2:37 |
 | 40 | [In Love](https://open.spotify.com/track/3tubh3KCdMP3B7M5veSSYn) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [In Love](https://open.spotify.com/album/5QusaiQKE58ARj8jXlFQxJ) | 3:42 |
 | 41 | [Keep Talking](https://open.spotify.com/track/44jfB9HKuDpXn8RjzSxh5Y) | [DIVES](https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0) | [Keep Talking](https://open.spotify.com/album/6G6vBapM0ttf4Z8JPgXD2u) | 3:27 |
 | 42 | [Bibis Beauty Palace](https://open.spotify.com/track/3TtiIluPhmqx8AOcXY5GMN) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW), [Young Lime](https://open.spotify.com/artist/0Jhs3BaasBkHVakrZFUB4Q) | [Bibis Beauty Palace](https://open.spotify.com/album/0oNvl7gA4wuRMpRcI5LzrA) | 2:15 |

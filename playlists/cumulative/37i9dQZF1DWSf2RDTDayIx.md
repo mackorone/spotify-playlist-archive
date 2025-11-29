@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-499 songs - 1 day 2 hr 28 min
+500 songs - 1 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [If There is Love](https://open.spotify.com/track/5ngkOLKzDPNoYEXN0snzq3) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/5pfpy8N2przMVV6cOqiDAe) | 2:35 | 2021-12-03 | 2023-02-19 |
 | [If There is Love](https://open.spotify.com/track/6bzpgL7Swq2Yszt1gt5D5k) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [If There is Love](https://open.spotify.com/album/1WJaZh7DJ6KBHSjUb8Quzb) | 2:35 | 2023-03-10 | 2023-05-13 |
 | [If We’ll Ever Be Remembered](https://open.spotify.com/track/6wnzt59p7i8cAyuWl1avwr) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [If We’ll Ever Be Remembered](https://open.spotify.com/album/39oISAQPcYRNjQqKvYroME) | 3:30 | 2022-05-27 | 2024-09-07 |
+| [In It](https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [In It](https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w) | 3:10 | 2025-11-28 |  |
 | [In My Zone](https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [In My Zone](https://open.spotify.com/album/78t3QrtBcUZhthPk0ROf2r) | 2:41 | 2022-01-28 | 2024-09-21 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 |  |
 | [Infinity](https://open.spotify.com/track/5ZOHDJ5u6pHTvw1gT2SBRn) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Infinity](https://open.spotify.com/album/0hDRdaNZPdfRDWbThYA8LI) | 3:10 | 2022-05-06 | 2022-10-13 |
@@ -505,7 +506,7 @@
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-12-03 | 2022-11-19 |
 | [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 | 2025-05-11 |
 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival House Project](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 | 2023-05-12 | 2025-03-15 |
-| [Zou bisou bisou](https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou](https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe) | 2:27 | 2025-07-18 |  |
+| [Zou bisou bisou](https://open.spotify.com/track/4GZZ1mX5ijjdO3MwedvgDM) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Gillian Hills](https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL) | [Zou bisou bisou](https://open.spotify.com/album/5CqrmtrA9zFl9N0dF7GvRe) | 2:27 | 2025-07-18 | 2025-11-29 |
 | [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 | 2024-04-13 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

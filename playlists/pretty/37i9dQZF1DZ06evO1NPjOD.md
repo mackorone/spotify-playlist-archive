@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,472 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,474 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 22 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
 | 23 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
 | 24 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
-| 25 | [Peach](https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:51 |
-| 26 | [Fu\*k Dat Ni\*\*a](https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:14 |
+| 25 | [Fu\*k Dat Ni\*\*a](https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 3:14 |
+| 26 | [Peach](https://open.spotify.com/track/43tqXfCPAL7SwGd1IoVJr7) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:51 |
 | 27 | [Where The Bag At](https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 3:20 |
 | 28 | [Fuck The D To The A](https://open.spotify.com/track/3zIppQkJtX6oT067biHxPH) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:38 |
 | 29 | [Perfect \(feat\. City Girls\)](https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Trying To Find My Next Thrill](https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 49 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
 | 50 | [She A Winner](https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62) | [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Thug Luv](https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G) | 3:02 |
 
-Snapshot ID: `aSZDAAAAAAB0EV1BFyGvY0k4jUAqzC0J`
+Snapshot ID: `aSeUgAAAAACVmxKW8vfL/pMQ3LehjqUe`

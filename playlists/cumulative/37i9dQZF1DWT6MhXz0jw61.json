@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "31 Days",
+      "url": "https://open.spotify.com/track/5F2rFJ5cV8DxB5QubLdpSJ"
+    },
+    {
+      "album": {
         "name": "3333",
         "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
       },
@@ -4008,7 +4026,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 212024,
       "name": "Boy Meets World (feat. femdot.)",
       "url": "https://open.spotify.com/track/1Y7HzYiU2wVR6no2OSD81Q"
@@ -5672,6 +5690,24 @@
       "duration_ms": 195133,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/0lPLcyYX8VmJ0GcePZriZv"
+    },
+    {
+      "album": {
+        "name": "Clue",
+        "url": "https://open.spotify.com/album/3ZRKAEYVWRKlPobxR8W8M7"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189593,
+      "name": "Clue",
+      "url": "https://open.spotify.com/track/1JWGW7yVtvtyGjtd8gOEzb"
     },
     {
       "album": {
@@ -8738,7 +8774,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 172100,
       "name": "Excuses For Me",
       "url": "https://open.spotify.com/track/3ytxqAsPjPsCk0w0wkJDmf"
@@ -20290,7 +20326,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 241250,
       "name": "Pink Slip",
       "url": "https://open.spotify.com/track/1XrHZkFFDlo73gOUEYGSI5"
@@ -27473,6 +27509,28 @@
     },
     {
       "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Triple Nickel (feat. MIKE)",
+      "url": "https://open.spotify.com/track/3lvyHYECh2QYQcm2pX7iXZ"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -27696,6 +27754,28 @@
       "duration_ms": 152371,
       "name": "Two Tens (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL"
+    },
+    {
+      "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211366,
+      "name": "Typewriter (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
     },
     {
       "album": {
@@ -28488,7 +28568,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 224077,
       "name": "What You See",
       "url": "https://open.spotify.com/track/3YG8OpxeR9AZSAEkRR66xH"

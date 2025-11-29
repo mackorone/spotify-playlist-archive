@@ -1,6 +1,6 @@
 {
   "description": "go back in time and (re) discover these gems.",
-  "num_followers": 9617,
+  "num_followers": 9625,
   "original_name": "joyitas vintage",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-11-08 19:34:18",
       "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 202822,
+      "name": "Cuando no est\u00e1s",
+      "url": "https://open.spotify.com/track/5kl4FkCUzVa5wicxafa9yc"
+    },
+    {
+      "added_at": "2024-11-08 19:34:18",
+      "album": {
         "name": "La Ley MTV Unplugged",
         "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 328906,
       "name": "El Duelo (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1BH4LMGVMLBGc9uEJdm8D8"
-    },
-    {
-      "added_at": "2024-11-08 19:34:18",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/0rvKuIaaoeOlU1NDBI0EVm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 202822,
-      "name": "Cuando no est\u00e1s",
-      "url": "https://open.spotify.com/track/5kl4FkCUzVa5wicxafa9yc"
     },
     {
       "added_at": "2024-11-08 19:34:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Tommaso Paradiso in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,950 likes - 114 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,970 likes - 114 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 2 | [Senza se e senza ma \- BROOKLYN STUDIO, JOVA SESSION 25](https://open.spotify.com/track/7w8gx5kBSpKOolSYHykwau) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Spanish Harlem Orchestra](https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x) | [NIUIORCHERUBINI \(BROOKLYN STUDIO, JOVA SESSION 25\)](https://open.spotify.com/album/71ydkx8VLeUKNxwcwImstY) | 5:16 |
 | 3 | [sbalzi d'amore \(feat\. Annalisa\)](https://open.spotify.com/track/6WUN2vJOoPLkerVax8N8RJ) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [radio vega \(after dark\)](https://open.spotify.com/album/7BsC0Zs0bB8WmJbNgugd3j) | 2:58 |
 | 4 | [Quello che deve essere sarà](https://open.spotify.com/track/44DeJ53Lv0420Up1u96Jpt) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Quello che deve essere sarà](https://open.spotify.com/album/1euAp2jMAv333KhYkw5X2A) | 3:40 |
-| 5 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 5 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 6 | [Chica Galáctica \- W Sound 07](https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Chica Galáctica \(W Sound 07\)](https://open.spotify.com/album/4LG03Cn7TgdxBrujUG7ah2) | 3:07 |
 | 7 | [Sentire \(feat\. Angelina Mango\)](https://open.spotify.com/track/1hIwH3jEyXBgk8FflP3UNy) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Speriamo](https://open.spotify.com/album/5945EwcH66jMpVaJOI60Cj) | 3:20 |
 | 8 | [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 27 | [CIÒ CHE SARÀ](https://open.spotify.com/track/54HHNMAmehfJVOizKZ9p4r) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [CIÒ CHE SARÀ](https://open.spotify.com/album/4AULQG6nryDoZz9hOPU3Lj) | 2:59 |
 | 28 | [Qualcosa di Grande](https://open.spotify.com/track/4G0aWwC5REV9wfjtpNAseV) | [Flavia Buoncristiani](https://open.spotify.com/artist/2ArQNLlfE9zIfRKWj8kuBY) | [Qualcosa di Grande](https://open.spotify.com/album/6fAqTDbCwZFOZ8WHewHiIc) | 3:12 |
 | 29 | [7 Dias](https://open.spotify.com/track/4399pdqfywDAeHJ2YKv4ja) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [7 Dias](https://open.spotify.com/album/1IAgMjZ6sm4k1W9Pcab4eR) | 2:42 |
-| 30 | [Vento d'aprile](https://open.spotify.com/track/162kh6SDBUKouklzhBr0KR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [](https://open.spotify.com/album/null) | 4:08 |
+| 30 | [Vento d'aprile](https://open.spotify.com/track/162kh6SDBUKouklzhBr0KR) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [L'ultima notte rosa \(The final tour\) \[Live\]](https://open.spotify.com/album/5cWz0ZiHxIPP1UuIS9aCTR) | 4:08 |
 | 31 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
 | 32 | [Laguna](https://open.spotify.com/track/0L7oxMR89ji7A6htHnPR8L) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Laguna](https://open.spotify.com/album/5W4eH1naXtnfhw3f93qB2V) | 3:08 |
 | 33 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |

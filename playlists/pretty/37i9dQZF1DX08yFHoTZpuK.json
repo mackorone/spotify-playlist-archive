@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 18940,
+  "num_followers": 18983,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "Darkside 2075",
-        "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
-      },
-      "artists": [
-        {
-          "name": "Coakira",
-          "url": "https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K"
-        },
-        {
-          "name": "monoqlom",
-          "url": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
-        }
-      ],
-      "duration_ms": 165999,
-      "name": "From The Darkside (monoqlom Remix)",
-      "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
         "name": "Life, Dream, Love",
         "url": "https://open.spotify.com/album/0qUWCYFJilaDox1l7PAF8P"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 232558,
       "name": "Life, Dream, Love",
       "url": "https://open.spotify.com/track/0M6Xd82gmkSV5dvA6Jht3r"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
+        "name": "Darkside 2075",
+        "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
+      },
+      "artists": [
+        {
+          "name": "Coakira",
+          "url": "https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K"
+        },
+        {
+          "name": "monoqlom",
+          "url": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
+        }
+      ],
+      "duration_ms": 165999,
+      "name": "From The Darkside (monoqlom Remix)",
+      "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
     },
     {
       "added_at": "2025-11-07 08:48:49",

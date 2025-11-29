@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dipha Barus
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,370 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,374 likes - 90 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/4si6nKeoCVKeBbE3WhxTL7) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [TAKATAKA](https://open.spotify.com/track/4si6nKeoCVKeBbE3WhxTL7) | [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [SURAK EP](https://open.spotify.com/album/0VpvdjYxvw0Zlg8YdTZnyC) | 2:22 |
 | 2 | [Miles Away](https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Miles Away](https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE) | 2:27 |
 | 3 | [Free \(You Got To Live\)](https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Free \(You Got To Live\)](https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU) | 2:53 |
 | 4 | [Bass Down Low \(feat\. DEV\) \[Go Version\]](https://open.spotify.com/track/0rmNe8Ds7tl1nfkj4eNJq8) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Avancada](https://open.spotify.com/artist/2LvoCyCKPikfIOquhBqRce), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Bass Down Low \(feat\. DEV\) \[Go Version\]](https://open.spotify.com/album/1FogdMMgodRlRvaZ9WXzS8) | 2:54 |

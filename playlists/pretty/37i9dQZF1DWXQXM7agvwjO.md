@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Lucid Express \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,634 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,697 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 |
 | 100 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 |
 
-Snapshot ID: `AAAAAMt3e8WImy2EiyagCj8cVs4oAX5b`
+Snapshot ID: `AAAAAFcXJbYVnnpGQjGbjhBjS6uCgCmg`

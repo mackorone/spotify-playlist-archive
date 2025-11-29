@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203583,
+  "num_followers": 203588,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADyX1f1XRTHWnWAyrytassX",
+  "snapshot_id": "aSeUgAAAAACFDIxBeVmvaWRJl52hxYQU",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1100 Bel Air Place",
-        "url": "https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "To All the Girls I've Loved Before",
-      "url": "https://open.spotify.com/track/498EPEgZQ1jDoYHYpvF68F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 243436,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1100 Bel Air Place",
+        "url": "https://open.spotify.com/album/472BgcjV7Cp8526Nhp8YVn"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "To All the Girls I've Loved Before",
+      "url": "https://open.spotify.com/track/498EPEgZQ1jDoYHYpvF68F"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Paula Nelson",
+          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
+        }
+      ],
+      "duration_ms": 279328,
+      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
+      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire & Brimstone",
         "url": "https://open.spotify.com/album/54NjC2mCWlhIE3Ji4G9Vl0"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 181173,
       "name": "Welcome To Hazeville",
       "url": "https://open.spotify.com/track/39TYRr1lPpurfYPXzsOiBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Paula Nelson",
-          "url": "https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV"
-        }
-      ],
-      "duration_ms": 279328,
-      "name": "Have You Ever Seen the Rain (feat. Paula Nelson)",
-      "url": "https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 148293,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 191667,
       "name": "The Last Cowboy Song",
       "url": "https://open.spotify.com/track/2zfK1yLW1HzHGbmYx6X9F8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 148293,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
     },
     {
       "added_at": null,
@@ -1243,26 +1243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go Again: Celebrating The Genius Of Ray Charles",
-        "url": "https://open.spotify.com/album/39xEJSZ5p2fJu7t9tA8Qt6"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 232431,
-      "name": "Come Rain Or Come Shine - Live",
-      "url": "https://open.spotify.com/track/07h5NNEp2Wp0LCDNNoaxRI"
+      "duration_ms": 239564,
+      "name": "Red Headed Stranger",
+      "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
     },
     {
       "added_at": null,
@@ -1299,18 +1291,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "Here We Go Again: Celebrating The Genius Of Ray Charles",
+        "url": "https://open.spotify.com/album/39xEJSZ5p2fJu7t9tA8Qt6"
       },
       "artists": [
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 239564,
-      "name": "Red Headed Stranger",
-      "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
+      "duration_ms": 232431,
+      "name": "Come Rain Or Come Shine - Live",
+      "url": "https://open.spotify.com/track/07h5NNEp2Wp0LCDNNoaxRI"
     }
   ],
   "unique_name": "This Is Willie Nelson",

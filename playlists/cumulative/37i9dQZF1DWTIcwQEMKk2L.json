@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 146006,
       "name": "5th Avenue",
       "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
@@ -2410,6 +2410,24 @@
       "duration_ms": 164522,
       "name": "Oyasumi Nasai",
       "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
+    },
+    {
+      "album": {
+        "name": "10 Ways Of Canon In D By Johann Pachelbel",
+        "url": "https://open.spotify.com/album/4EqmXmIGvJ9ICr9PqqgSVh"
+      },
+      "artists": [
+        {
+          "name": "Johann Pachelbel",
+          "url": "https://open.spotify.com/artist/62TD7509VQIxUe4WpwO0s3"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200906,
+      "name": "Pachelbel Canon In D - Solo Piano - Cannon, Kanon",
+      "url": "https://open.spotify.com/track/2GrDy6CNYhyYFXJjSB5VOh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-809 songs - 1 day 23 hr 38 min
+810 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Asian Gangsta Kidz](https://open.spotify.com/track/1mYm6V3LtOrVAh5NosTpn7) | [ee](https://open.spotify.com/artist/1NS6IKQiXZTc1f03UWOrd7) | [Ramadan](https://open.spotify.com/album/2LC7F9j4VJq0mb4oLC7yyd) | 3:22 | 2025-10-08 | 2025-11-15 |
 | [At Yoshino Mountain](https://open.spotify.com/track/3nj36r8RUc0Qt1keHXPVbl) | [Ancient Infinity Orchestra](https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR) | [It's Always About Love](https://open.spotify.com/album/411vwZbdmbe4P2Fu8rY7NA) | 2:00 | 2025-10-26 | 2025-11-15 |
 | [Atoms For Peace](https://open.spotify.com/track/1yr5rQnDL8QhJWCI6rPId8) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [The Eraser](https://open.spotify.com/album/4X8Y79gWo6xm7Osdapg58E) | 5:13 | 2025-03-09 | 2025-05-09 |
+| [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-11-28 |  |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 | 2024-11-14 |
 | [Baby Lef Marah](https://open.spotify.com/track/0amK3uqJKw5AJ9CgeJArTz) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 3:10 | 2024-06-25 | 2024-07-12 |

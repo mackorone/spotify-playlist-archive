@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,724 likes - 72 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,865 likes - 72 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

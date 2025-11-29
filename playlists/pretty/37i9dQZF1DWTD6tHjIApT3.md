@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 家入レオ Leo Ieiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,433 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,538 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 57 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 58 | [Aria](https://open.spotify.com/track/5YqACM8RWUfAIVkOmtB2Mo) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Aria](https://open.spotify.com/album/6v19AL49KRqhe26ChlJH08) | 3:38 |
 | 59 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
-| 60 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
-| 61 | [冬の魔法](https://open.spotify.com/track/7Ez0TwE0PKAkJG9x7mhBEU) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [冬の魔法](https://open.spotify.com/album/5S7Lefial9F6o8iX5OxSpe) | 3:07 |
+| 60 | [冬の魔法](https://open.spotify.com/track/7Ez0TwE0PKAkJG9x7mhBEU) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [冬の魔法](https://open.spotify.com/album/5S7Lefial9F6o8iX5OxSpe) | 3:07 |
+| 61 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
 | 62 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
 | 63 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |
 | 64 | [Voyage](https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Voyage](https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL) | 3:38 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 68 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
 | 69 | [mimosa](https://open.spotify.com/track/2LHlcQqSZDrTVXGB6Hgf6e) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [mimosa](https://open.spotify.com/album/0x8DhYL1Y62n95Nsiu8kVj) | 5:09 |
 | 70 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
-| 71 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
-| 72 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
-| 73 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 |
-| 74 | [Kissing the machine](https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Kissing the machine](https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1) | 4:03 |
+| 71 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
+| 72 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
+| 73 | [Kissing the machine](https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Kissing the machine](https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1) | 4:03 |
+| 74 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 |
 | 75 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 |
 | 76 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
 | 77 | [Never ends](https://open.spotify.com/track/7N0wLuSlDPe3cEDA6zBhKZ) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Never ends](https://open.spotify.com/album/0olJZDgEjssjTCslrVVK0f) | 4:08 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 94 | [八月の花火](https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [八月の花火](https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr) | 4:06 |
 | 95 | [ビターエチュード](https://open.spotify.com/track/6JKLWsPeeNLlXNw4XXTN0T) | [明透](https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q) | [ビターエチュード](https://open.spotify.com/album/3U6a7FD3CjUMxK7HE41zz8) | 3:37 |
 | 96 | [一途な女の子。](https://open.spotify.com/track/06fMKL5WAQtTOgGW2CD90H) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [一途な女の子。](https://open.spotify.com/album/2Agow1p20GVdYvyfOKDRoB) | 2:59 |
-| 97 | [フィラメント](https://open.spotify.com/track/5dGooipYRVJl9ekI5XzkRo) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [フィラメント](https://open.spotify.com/album/22GBEBF4eH0uZuWhKuPF8e) | 4:23 |
-| 98 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
+| 97 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
+| 98 | [フィラメント](https://open.spotify.com/track/5dGooipYRVJl9ekI5XzkRo) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [フィラメント](https://open.spotify.com/album/22GBEBF4eH0uZuWhKuPF8e) | 4:23 |
 | 99 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
 | 100 | [素描](https://open.spotify.com/track/2WTDyaNE5JtuUWWFxy1XM9) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [素描](https://open.spotify.com/album/0OsYUg4pxgjKBJOqESsZju) | 4:35 |
 

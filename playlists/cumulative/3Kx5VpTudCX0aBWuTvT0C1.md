@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-99 songs - 5 hr 37 min
+100 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [My Friend](https://open.spotify.com/track/60tEe3FD5InMNCDJBSOAZi) | [postcard](https://open.spotify.com/artist/3SW3Kv43pKoTu9HwN4rhSj) | [Postcard](https://open.spotify.com/album/4XcJSh9lkIQkexyxQQLoqf) | 3:25 | 2025-10-29 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2025-11-03 |  |
 | [Noche Salvaje](https://open.spotify.com/track/2hKsTIIIv4MvrAmIy4sWWX) | [Break.Out](https://open.spotify.com/artist/5QYRdCdd7IpHlwrh5v2PPT) | [Noche Salvaje](https://open.spotify.com/album/5XQB8rZPholnVJusb803uP) | 3:21 | 2025-10-29 |  |
+| [Not Supposed to Let You Know](https://open.spotify.com/track/7nOehwhib8wpPrvt4ZFF2f) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Not Supposed to Let You Know](https://open.spotify.com/album/3X5OMgdsTqKqo0ZZ4RO98k) | 3:41 | 2025-11-28 |  |
 | [NOV\. 7TH](https://open.spotify.com/track/5CfQglqzFQs8Lh4XFkB8Jz) | [BLACKPUNK!](https://open.spotify.com/artist/433Ag1dK5zyWGEe1T58RgZ), [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN), [Mr\. Starbeast](https://open.spotify.com/artist/2g5awxfkf1XlvYsNBjATI8) | [NOV\. 7TH](https://open.spotify.com/album/7vM9Lwq37Xqjbz01xW2Gii) | 3:17 | 2025-11-11 |  |
 | [One Of These Days \- remastered 2025](https://open.spotify.com/track/7h6DCnqTJ9vrdM37KTbgWl) | [Gerhardt](https://open.spotify.com/artist/3bTrjrXSZ9XiJQ6DWVwkui), [Alakazam](https://open.spotify.com/artist/0lzWfn3p4ETAIyw6qPxeCM) | [Into The Ballroom](https://open.spotify.com/album/5gjOyZSfhCGDrMj52xobDU) | 2:41 | 2025-11-13 |  |
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 |  |

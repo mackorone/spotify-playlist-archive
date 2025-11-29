@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAC2VS4FOhGS4KE5Oh1SHAOk",
+  "snapshot_id": "aSeUgAAAAAAo+lCfmBkFc1ASOCneUXSc",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        }
+      ],
+      "duration_ms": 141057,
+      "name": "Manifesto (Vers\u00e3o Afrobeat)",
+      "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daniela Ara\u00fajo",
         "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
@@ -323,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
       },
       "artists": [
         {
@@ -332,17 +356,13 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
         }
       ],
-      "duration_ms": 141057,
-      "name": "Manifesto (Vers\u00e3o Afrobeat)",
-      "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
+      "duration_ms": 343320,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
     },
     {
       "added_at": null,
@@ -383,22 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+        "name": "Fam\u00edlia Soul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
       },
       "artists": [
         {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+          "name": "Fam\u00edlia Soul",
+          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
         },
         {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 343320,
-      "name": "Entrega",
-      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
+      "duration_ms": 276986,
+      "name": "Um Servo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
     },
     {
       "added_at": null,
@@ -439,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fam\u00edlia Soul (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
-      },
-      "artists": [
-        {
-          "name": "Fam\u00edlia Soul",
-          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "Um Servo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criador do Mundo (Ao Vivo)",
         "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
       },
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Pedro Henrique",
-          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
-        }
-      ],
-      "duration_ms": 238363,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 307647,
       "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
       "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "duration_ms": 238363,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 229565,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
+      "duration_ms": 248773,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 248773,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
+      "duration_ms": 229565,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Redentor",
         "url": "https://open.spotify.com/album/3S1PFd7sRDeUp26MpftkTn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200359,
       "name": "Por Qu\u00ea Voc\u00ea N\u00e3o Olha?",
       "url": "https://open.spotify.com/track/2RAURrpacgzDngLTISsBvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
     },
     {
       "added_at": null,

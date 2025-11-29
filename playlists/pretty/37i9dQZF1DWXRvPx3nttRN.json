@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 606505,
+  "num_followers": 606549,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-05-20 19:05:24",
       "album": {
+        "name": "Us (Acoustic)",
+        "url": "https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 181708,
+      "name": "Us - Acoustic",
+      "url": "https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI"
+    },
+    {
+      "added_at": "2025-05-20 19:05:24",
+      "album": {
         "name": "Anti-Hero (Acoustic Version)",
         "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2025-05-20 19:05:24",
       "album": {
-        "name": "Us (Acoustic)",
-        "url": "https://open.spotify.com/album/6HLfpr2l9bN38FkeeQAoCo"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 181708,
-      "name": "Us - Acoustic",
-      "url": "https://open.spotify.com/track/0GTPn99cNZRVl2Kv0bcwNI"
-    },
-    {
-      "added_at": "2025-05-20 19:05:24",
-      "album": {
         "name": "Our Way",
         "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-05-20 19:05:24",
       "album": {
-        "name": "Favourite Ex",
-        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 201694,
-      "name": "Favourite Ex",
-      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
-    },
-    {
-      "added_at": "2025-05-20 19:05:24",
-      "album": {
         "name": "Castle on the Hill (Acoustic)",
         "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 226226,
       "name": "Castle on the Hill - Acoustic",
       "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
+    },
+    {
+      "added_at": "2025-05-20 19:05:24",
+      "album": {
+        "name": "Favourite Ex",
+        "url": "https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 201694,
+      "name": "Favourite Ex",
+      "url": "https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae"
     },
     {
       "added_at": "2025-05-20 19:05:24",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-05-20 19:05:24",
       "album": {
-        "name": "All the Little Lights",
-        "url": "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 252733,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
-    },
-    {
-      "added_at": "2025-05-20 19:05:24",
-      "album": {
         "name": "Every Second Counts",
         "url": "https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 232853,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/0xM88xobymkMgg46MStfnV"
+    },
+    {
+      "added_at": "2025-05-20 19:05:24",
+      "album": {
+        "name": "All the Little Lights",
+        "url": "https://open.spotify.com/album/2sRnJq6dfXdqhIflBk0ve1"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 252733,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/6GmUVqe73u5YRfUUynZK6I"
     },
     {
       "added_at": "2025-05-20 19:05:24",

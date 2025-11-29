@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1792,
+  "num_followers": 1794,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -711,8 +711,8 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "CIRCLES",
-        "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
-      },
-      "artists": [
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 274053,
-      "name": "CIRCLES",
-      "url": "https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Push Power ( a 1 )",
         "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
@@ -807,8 +791,24 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+        "name": "CIRCLES",
+        "url": "https://open.spotify.com/album/35GLnwRLlCO2YY3x0WsfpD"
+      },
+      "artists": [
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 274053,
+      "name": "CIRCLES",
+      "url": "https://open.spotify.com/track/4T0RHYd7PAZgCP7opCDI3l"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-08-31 14:00:00",

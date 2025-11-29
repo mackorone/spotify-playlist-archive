@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,096 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,094 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 26 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 |
 | 27 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 |
 | 28 | [Blue Moon](https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Dreamwave](https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb) | 2:25 |
-| 29 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 |
-| 30 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
+| 29 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
+| 30 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 |
 | 31 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 |
 | 32 | [yomichi](https://open.spotify.com/track/5tEn5wDeLSd0fX98oGGKJQ) | [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT) | [yomichi](https://open.spotify.com/album/048Hs52yaVV2YrTTVHeMnj) | 2:00 |
 | 33 | [Let You Know](https://open.spotify.com/track/1yp0BMfs5P8jrHTzcjcfcu) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [The Color and the Light](https://open.spotify.com/album/4xiK7Y0QQPFkqTGeGN4XF8) | 4:55 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 40 | [Pockets](https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Pockets](https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl) | 3:20 |
 | 41 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 |
 | 42 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 |
-| 43 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 |
-| 44 | [山月](https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX) | [織田祐亮](https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD) | [山月](https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT) | 3:13 |
+| 43 | [山月](https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX) | [織田祐亮](https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD) | [山月](https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT) | 3:13 |
+| 44 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 |
 | 45 | [Breezy](https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:42 |
 | 46 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 |
 | 47 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |

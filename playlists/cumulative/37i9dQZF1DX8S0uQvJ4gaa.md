@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Emily Ann Roberts
+> New music discovery is what we're about\. Try it on for size\. Cover: Zach John King
 
-2,792 songs - 6 day 7 hr 7 min
+2,793 songs - 6 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -973,7 +973,7 @@
 | [Hate Me](https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Hate Me](https://open.spotify.com/album/28aNImQBnhTpzp02HkW9YX) | 2:52 | 2022-01-28 | 2022-09-03 |
 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 | 2022-08-26 | 2022-11-26 |
 | [Hate This Hometown](https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Hate This Hometown](https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab) | 3:13 | 2022-03-25 | 2022-07-16 |
-| [Hate Waking Up](https://open.spotify.com/track/4FIEIw7iVqP5YnpqKhZOMB) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hate Waking Up](https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy) | 3:28 | 2025-10-24 |  |
+| [Hate Waking Up](https://open.spotify.com/track/4FIEIw7iVqP5YnpqKhZOMB) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hate Waking Up](https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy) | 3:28 | 2025-10-24 | 2025-11-29 |
 | [Hate You Like I Love You](https://open.spotify.com/track/7fv8w55N7T95xtX72TycwQ) | [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF) | [Country Things](https://open.spotify.com/album/66cQh6B5mTvqYUGXgbH18w) | 2:53 | 2020-09-12 | 2020-11-21 |
 | [Hatin' Somebody](https://open.spotify.com/track/1vDVDftaEt4oKr0MkI2UDu) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Hatin' Somebody](https://open.spotify.com/album/4psdMdU4zHntVCoZ7K24XP) | 4:51 | 2020-08-01 | 2020-08-23 |
 | [Haunted](https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:24 | 2025-01-24 | 2025-06-07 |
@@ -1589,6 +1589,7 @@
 | [Mine Tomorrow](https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Mine Tomorrow](https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG) | 3:20 | 2025-02-07 | 2025-03-22 |
 | [Minimum Wage](https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Minimum Wage](https://open.spotify.com/album/0fQJbMjhfuiiP9HAQtrJEX) | 3:48 | 2021-01-16 | 2021-01-30 |
 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-07-12 | 2024-08-17 |
+| [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 | 2025-11-28 |  |
 | [Misery Loves Company](https://open.spotify.com/track/08GgZyqoP4icrkBMJFu9PN) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:16 | 2025-10-17 |  |
 | [Miss California](https://open.spotify.com/track/6P4XVBfW5Lx8UlX7mzJBNF) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Miss California](https://open.spotify.com/album/2jK6bmKeVU2j49lQPPJ9BZ) | 3:11 | 2019-09-22 | 2019-10-05 |
 | [Miss That Girl](https://open.spotify.com/track/2l2Izjvt7Vj4Q9823SZ6XE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [FLOWER SHOPS \(THE ALBUM\): Two Dozen Roses](https://open.spotify.com/album/50uRwBAbSJNhpdgpFf9NQr) | 2:17 | 2023-03-24 | 2023-08-19 |

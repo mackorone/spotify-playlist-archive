@@ -4,11 +4,11 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-304 songs - 14 hr 33 min
+305 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0008](https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 2:12 | 2025-06-11 |  |
+| [0008](https://open.spotify.com/track/5C3caQlYqE3Z6jcyRTtfME) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Moose Print](https://open.spotify.com/album/2MuQAMXZxuEkx6bHDl439k) | 2:12 | 2025-06-11 | 2025-11-29 |
 | [10 Bande](https://open.spotify.com/track/6yOfrhPr40G18wPui5CXxu) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC) | [10 Bande](https://open.spotify.com/album/5zpxoPuMHZIOYBoJjl1oO7) | 3:21 | 2024-04-06 | 2024-08-27 |
 | [10 Bande](https://open.spotify.com/track/7wX4ffiROMwngmsc3aeL7O) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [Rinku Chautala](https://open.spotify.com/artist/1wld069pW7ElApAwWfmyOa) | [10 Bande](https://open.spotify.com/album/2RJSx7VJU7VjcNCgmeKGhx) | 3:22 | 2023-07-18 | 2024-04-19 |
 | [10\-12](https://open.spotify.com/track/773XVnrWeNNq5s8UqasIrZ) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [10\-12](https://open.spotify.com/album/3BjJY2evGQ6BgTqPybPkiQ) | 2:31 | 2025-07-12 | 2025-11-27 |
@@ -51,6 +51,7 @@
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-07-18 | 2024-09-12 |
 | [Ban](https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:52 | 2025-10-15 |  |
 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 | 2025-02-05 |  |
+| [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 | 2025-11-28 |  |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-07-18 | 2024-01-31 |
 | [Bhasudi \- From "Raduaa Returns"](https://open.spotify.com/track/3j3S4kIbYbv18Sx5X6jfn2) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Ullumanati](https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz) | [Bhasudi \(From "Raduaa Returns"\)](https://open.spotify.com/album/1Pr4LQoCZsoyorOCByrC97) | 3:00 | 2024-11-18 | 2024-11-29 |
 | [Bhau Flow](https://open.spotify.com/track/0CfXLJr9A4qrcRkABEJM04) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Bhau Flow](https://open.spotify.com/album/6pTLQrkzuIstrgimGY4SRD) | 2:05 | 2025-11-14 |  |

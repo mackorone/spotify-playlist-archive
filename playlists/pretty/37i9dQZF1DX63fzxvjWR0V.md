@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > ¡VGLY y todo el crew están de regreso!  Disponible en HBO Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,262 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,273 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 | 27 | [Rolex Presidente](https://open.spotify.com/track/75YqLw3PBGy3rNzhMOOqiA) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:29 |
 | 28 | [Madonna](https://open.spotify.com/track/5LhI8m7n8xlQmNe3b7Rwis) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Madonna](https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd) | 3:07 |
 | 29 | [VGLY.exe](https://open.spotify.com/track/4lqseSUV4HIRLSN4rhp2HZ) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 2:27 |
-| 30 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
+| 30 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 |
 | 31 | [Ye$hua](https://open.spotify.com/track/3to6YHd8IgDctsFMX7fySQ) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch) | [VGLY Temporada 2 \(Original Soundtrack\)](https://open.spotify.com/album/5NiuKAA7AISFbL9PY2NLJ8) | 4:36 |
-| 32 | [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 |
+| 32 | [Hey Mor](https://open.spotify.com/track/1zsPaEkglFvxjAhrM8yhpr) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:16 |
 | 33 | [100pre No \(Original Soundtrack\)](https://open.spotify.com/track/2qrLDGrPe7NtLlCKnn7tk8) | [VGLY](https://open.spotify.com/artist/07hvj5YPoKfFLJY6DxUhch), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [100pre No \(Original Soundtrack\)](https://open.spotify.com/album/7HI6QqEob3PwaT97S9xMO4) | 3:35 |
 | 34 | [LA PATRULLA](https://open.spotify.com/track/2aYZaN5SmkRDLsrrV8GkBQ) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 2:10 |
 | 35 | [SI NO ES CONTIGO \- REMIX](https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [SI NO ES CONTIGO \(REMIX\)](https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj) | 4:14 |

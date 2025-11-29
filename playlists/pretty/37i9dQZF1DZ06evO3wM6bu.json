@@ -1,12 +1,12 @@
 {
   "description": "This is Westlife. The essential tracks, all in one playlist.",
-  "num_followers": 492588,
+  "num_followers": 492606,
   "original_name": "This Is Westlife",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADo+IMJVRDpTT8oYok+ZUW6",
+  "snapshot_id": "aSeUgAAAAADNf8HTN0QCdqSScc69I2is",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
         }
       ],
-      "duration_ms": 250493,
-      "name": "What About Now",
-      "url": "https://open.spotify.com/track/2pSUpHpEOWgy0YJZO0tP5D"
+      "duration_ms": 237773,
+      "name": "Where We Are",
+      "url": "https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
         }
       ],
-      "duration_ms": 237773,
-      "name": "Where We Are",
-      "url": "https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7"
+      "duration_ms": 250493,
+      "name": "What About Now",
+      "url": "https://open.spotify.com/track/2pSUpHpEOWgy0YJZO0tP5D"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
       "duration_ms": 258506,
       "name": "I'm Already There",
       "url": "https://open.spotify.com/track/70DYBBLSo10FpIYjc6Cl7A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where We Are",
-        "url": "https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/79totVEHvQwTDdgXCXLUMw"
     }
   ],
   "unique_name": "This Is Westlife",

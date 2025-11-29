@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Jovem Dex
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,729 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,909 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [MC de Batalha](https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [A.LBeats](https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo) | [MC de Batalha](https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy) | 3:08 |
 | 75 | [Minhas Neuroses](https://open.spotify.com/track/5SNNf1EelZcJLGQkBOZ0fM) | [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Maurin](https://open.spotify.com/artist/3tczhGs2LfnH9mwrmG9cRI) | [Minhas Neuroses](https://open.spotify.com/album/5YJ8khdjb4E3NxWqsfmRcf) | 2:56 |
 
-Snapshot ID: `AAAAANTNwHPaVWeMY4tXOAumrgY75fPX`
+Snapshot ID: `AAAAAEK+lmFmw2uSwx1K6W+lgz9XAnut`

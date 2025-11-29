@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Nuca
 
-2,471 songs - 5 day 23 hr 8 min
+2,472 songs - 5 day 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Bayangan Cinta Yang Lalu](https://open.spotify.com/track/7k5KS786ibuDQIU4YKRnQ7) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Bayangan Cinta Yang Lalu](https://open.spotify.com/album/3LAMMg0LKfDuIePDLgnTBH) | 3:44 | 2025-10-09 |  |
 | [Bayangkan Ku Hilang](https://open.spotify.com/track/4BDp34OApfupugYc40FKp7) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Bayangkan Ku Hilang](https://open.spotify.com/album/0Tvr62v4t214HmoGbsIbXM) | 4:08 | 2025-07-03 | 2025-08-01 |
 | [Be A Man](https://open.spotify.com/track/0LcfZzp12LVdTBfQS6PhFa) | [JESENN](https://open.spotify.com/artist/3cNQyXzy5m2IL2qplegOSq) | [Be A Man](https://open.spotify.com/album/2wTXUsDxmWfah8xpWtNn1J) | 3:53 | 2024-01-18 | 2024-01-26 |
+| [Be Mine](https://open.spotify.com/track/1JHZ8AjrOJGPhayXfaCPMI) | [T\-Five](https://open.spotify.com/artist/37VFhHJtDBkbN3gZnPiWQ3), [Melly Mono](https://open.spotify.com/artist/4ASFLx9FJ0YNGRKGzwSoxR) | [Be Mine](https://open.spotify.com/album/4XpV1xgSu3HtKi2jrhNyjl) | 3:37 | 2025-11-27 |  |
 | [Be My Baby](https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Egnever](https://open.spotify.com/artist/2kLUBqXeZx5RM3la9BtS5I) | [Be My Baby](https://open.spotify.com/album/0ivPMdVUDumsBrjGSfEARR) | 2:31 | 2025-02-27 | 2025-03-28 |
 | [Be Someone](https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Be Someone](https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW) | 3:45 | 2024-10-04 | 2024-11-01 |
 | [Be With You](https://open.spotify.com/track/195BQNAlavPubYDUfFIqPu) | [El Michael](https://open.spotify.com/artist/0zaGFZuyRciaCL3GQWApUS) | [Be With You](https://open.spotify.com/album/4gzmxaEfuzHzbLpVBh1BHD) | 4:17 | 2025-07-10 | 2025-08-01 |
@@ -255,7 +256,7 @@
 | [Berjuang Sekali Lagi](https://open.spotify.com/track/21I0SxYD4D1KhKe7VIPl9J) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Ribuan Rindu](https://open.spotify.com/album/328DciGsj3VvYYwD46MDjn) | 3:24 | 2025-02-20 | 2025-03-22 |
 | [Berkaca\-kaca](https://open.spotify.com/track/6qGiArzJsuYwtoeVLZyBUl) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g) | [Berkaca\-kaca](https://open.spotify.com/album/1hmZkPnKiiWzd7zZ67b8dl) | 3:51 | 2025-09-25 | 2025-10-31 |
 | [Berlalu](https://open.spotify.com/track/5BoOfotbJbhCJ05l3Gw2bV) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu](https://open.spotify.com/album/1MsLzxbDF2l8yQ1y7azYou) | 3:19 | 2024-03-28 | 2024-04-26 |
-| [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [](https://open.spotify.com/album/null) | 3:47 | 2025-11-27 |  |
+| [Berlalu](https://open.spotify.com/track/0svH95InfPxfc4F0FUN9EM) | [Sliver](https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W), [nadhira](https://open.spotify.com/artist/2M51WRjsROkHmqoTRKrlDM) | [Cita Cinta](https://open.spotify.com/album/7HEXcM3rUIwmU9kueJKsza) | 3:47 | 2025-11-27 |  |
 | [Berlalu \- Demo](https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux) | [Derai](https://open.spotify.com/artist/5sCGE57PAwZPpH4c2sNCwn), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Berlalu \(Demo\)](https://open.spotify.com/album/5mEQuTI0GBmCxkAqXXEowr) | 3:14 | 2024-08-01 | 2024-08-31 |
 | [Bermimpi](https://open.spotify.com/track/4Bq5WOROZbYRlfoEjh1gAM) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Koma,](https://open.spotify.com/album/0kEgfBZs3R5GJDuCp8yTYx) | 3:40 | 2025-10-30 |  |
 | [Bermimpi](https://open.spotify.com/track/7wV0iEfHVxCROmq9VBBN7D) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Bermimpi](https://open.spotify.com/album/7g2oUacBwA4VsClXkjJgYB) | 3:37 | 2025-09-25 | 2025-10-24 |
@@ -944,7 +945,7 @@
 | [I'd Be Lost](https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I'd Be Lost](https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij) | 2:47 | 2025-07-17 | 2025-08-23 |
 | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [I'd Rather Pretend \(with d4vd\)](https://open.spotify.com/album/4CDZFVWG65WF44WIMNFw2g) | 3:04 | 2024-09-13 | 2024-11-15 |
 | [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 | 2024-10-25 | 2024-11-29 |
-| [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [](https://open.spotify.com/album/null) | 3:52 | 2025-11-27 |  |
+| [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 | 2025-11-27 |  |
 | [I'm Always On Stage](https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [I'm Always On Stage](https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB) | 4:03 | 2025-11-20 |  |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 | 2024-05-10 |
 | [I'm Blessed](https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I'm Blessed](https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK) | 3:38 | 2024-02-09 | 2024-03-29 |
@@ -1963,7 +1964,7 @@
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-03-28 |
 | [Sirkus](https://open.spotify.com/track/3pSMg0s9GyRlGIkhF0902x) | [Ruang Senja](https://open.spotify.com/artist/2WSd3E18fZ6riwyEEJPQGp) | [Rampung](https://open.spotify.com/album/4MJIfun1IIBTsPwnK1oEgi) | 3:28 | 2025-02-27 | 2025-03-28 |
 | [Sirna \- Stripped Version](https://open.spotify.com/track/4MVZLoVciI76PPNppc15gn) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Sirna \(Stripped Version\)](https://open.spotify.com/album/6GmZQTa6qfkNTzofPmPtAj) | 4:25 | 2024-03-21 | 2024-04-19 |
-| [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 | 2025-11-27 |  |
+| [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-18 | 2024-01-26 |
 | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/track/2MKGrYH1PyPAUKu2Sl8IaT) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLASH \(From “Deadpool & Wolverine”\)](https://open.spotify.com/album/7pu8cy2ZNnN2rlLlkXXwq9) | 3:11 | 2024-07-25 | 2024-08-31 |
 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2024-01-18 | 2024-01-26 |

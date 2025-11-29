@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: De La Rose, Yan Block, Hades66 & Ñengo Flow
 
-538 songs - 1 day 6 hr 50 min
+540 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [FCK LOVE](https://open.spotify.com/track/044s0YuJx6qFv3fYQTLYb2) | [G.O.K.B.](https://open.spotify.com/artist/7fiP6lgxb6HlZcq8gDYCmE), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [FCK LOVE](https://open.spotify.com/album/3wcTfahjRB6Oz3IyyGJWOH) | 2:04 | 2025-01-24 | 2025-05-24 |
 | [FCK U X2](https://open.spotify.com/track/7CLRoWBqSizI8Zpolsud5K) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TRAP CAKE VOL\. 2](https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI) | 4:39 | 2022-03-18 | 2023-02-11 |
 | [FEEL ME??](https://open.spotify.com/track/4kELKaXaNP4EQR8Q8xNIID) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [FEEL ME??](https://open.spotify.com/album/5Db8gqfsfw0tcuACuLFzpR) | 3:07 | 2022-03-18 | 2022-05-04 |
+| [Felony](https://open.spotify.com/track/3IPDFQ4IjFtTdyDgJb67xN) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Felony](https://open.spotify.com/album/2CHYs0x7a81GMr74MFSiLY) | 2:56 | 2025-11-28 |  |
 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 | 2023-03-24 | 2023-11-11 |
 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 | 2023-03-21 | 2023-11-11 |
 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 | 2023-11-10 | 2025-07-26 |
@@ -251,6 +252,7 @@
 | [Headshot](https://open.spotify.com/track/2a1PNDDWyt68aKJDc47k4e) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Headshot](https://open.spotify.com/album/3DX8A6uhM9DseOwTOtkZYm) | 6:49 | 2024-12-13 |  |
 | [Heavyweight](https://open.spotify.com/track/75GbllGszQynPdm2qj78Lu) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:44 | 2024-05-03 |  |
 | [HELLCAT](https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [HELLCAT](https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV) | 3:06 | 2022-08-10 | 2025-04-05 |
+| [HERON PRESTON](https://open.spotify.com/track/2Cezxs5zPgiytWQs9Z9TtN) | [MECHAYRXMEO](https://open.spotify.com/artist/7B3Heyhw6s5y9XrxnP8TOx) | [S.L.B.S.](https://open.spotify.com/album/6Y1qPa0VTHURgPUDdwYdoU) | 2:05 | 2025-11-28 |  |
 | [Hickey](https://open.spotify.com/track/17jNQ0lKM8bA9lWcyXxIc0) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA) | [Hickey](https://open.spotify.com/album/1RpQyRy62ij8VYq7K4DL2l) | 3:31 | 2024-05-03 | 2024-08-27 |
 | [Hmm](https://open.spotify.com/track/7Gtx4i1zh875u3k5AmaPpS) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Hmm](https://open.spotify.com/album/6NsfFRsKueNyFFX9vTb7IQ) | 2:34 | 2022-03-18 | 2022-05-04 |
 | [HOMENAJE](https://open.spotify.com/track/02qsYZznhFSX0psInKC7st) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [HOMENAJE](https://open.spotify.com/album/0ztt17XG00kFS3YcCauWts) | 3:35 | 2024-01-26 | 2025-01-28 |

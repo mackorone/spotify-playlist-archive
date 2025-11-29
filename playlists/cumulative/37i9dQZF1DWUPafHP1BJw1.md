@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-289 songs - 16 hr 41 min
+291 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Love Me Like You Do](https://open.spotify.com/track/7CNO19a6MzNLmBd3m2iCbU) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions II](https://open.spotify.com/album/5d671ezfZZBL7X8gHxFHYe) | 3:15 | 2021-11-19 |  |
 | [Love Story \- Instrumental](https://open.spotify.com/track/2J9w2niEdBNS8fQyoPUqj1) | [Marco Velocci](https://open.spotify.com/artist/0fey1vDYFmbGGRWCo1iwWe) | [Love Story \(Instrumental\)](https://open.spotify.com/album/6Q9kKG8ZkVb8mq9FptA793) | 4:08 | 2024-09-13 |  |
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-19 |  |
+| [Lush Life](https://open.spotify.com/track/0jjiIO03ReQHF1Nb5t2iBG) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Sebastian Pecznik](https://open.spotify.com/artist/1DPRfHEFBz3JbL0foxRAfx), [Tomàs Peire Serrate](https://open.spotify.com/artist/5Ej2nkofJ86vrXgu1bTmgr) | [Lush Life](https://open.spotify.com/album/1QxIv5Xb2CXieMJ9Fr7oPW) | 2:49 | 2025-11-28 |  |
 | [Maniac \- Symphony Orchestra Version](https://open.spotify.com/track/3UAznpWQQtaE1UCRAZ6WZM) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Maniac \(Symphony Orchestra Version\)](https://open.spotify.com/album/3yDNmmVMxONGu3ZFm6poMy) | 3:45 | 2024-08-09 | 2025-05-17 |
 | [Material Girl](https://open.spotify.com/track/4p7na6NSU0F7lMOhx9kg9k) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:04 | 2022-03-30 |  |
 | [Matilda](https://open.spotify.com/track/0FsaTknAtvrXcf6qtJkOjI) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Matilda](https://open.spotify.com/album/0XTCR8EFxyZoT3zBfOJRMR) | 4:34 | 2023-04-14 |  |
@@ -287,6 +288,7 @@
 | [Wild Hearts Can't Be Broken](https://open.spotify.com/track/7enQY6PfkBiE4hgtZLXpuy) | [Alecia Moore](https://open.spotify.com/artist/6R9htKjJx70DWp0KgeGWRA), [Mike Busbee](https://open.spotify.com/artist/7sD3D3y8JdTbntQU3UBNBm), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50), [Deutsches Symphonie\-Orchester Berlin](https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY), [Anna Rakitina](https://open.spotify.com/artist/6L1TQSTginzQ2KrkbwsVRn) | [Wild Hearts Can't Be Broken](https://open.spotify.com/album/2QX2xKhSFWKC9YyxP31kea) | 3:49 | 2025-09-12 |  |
 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 | 2021-11-19 |  |
 | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Wildest Dreams \(Arr\. Lawson for Harp\)](https://open.spotify.com/album/7qJhOyhu04GZiiO9wJJjW5) | 5:06 | 2024-07-12 |  |
+| [Wonderful \(Arr\. Piano\) \- From "Wicked"](https://open.spotify.com/track/5jpHIWxs6opHRy4QtEDTQW) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Wonderful \(Arr\. Piano\) \[From "Wicked"\]](https://open.spotify.com/album/6ZA3tp9Lg7oNKiULQQED3O) | 1:52 | 2025-11-28 |  |
 | [Wonderwall \- Symphony Orchestra Version](https://open.spotify.com/track/4Zp1YMyksiSOy90WzvCsiP) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Wonderwall \(Symphony Orchestra Version\)](https://open.spotify.com/album/0U75KBm7BpaxiI2GY3rFN0) | 3:29 | 2025-09-26 |  |
 | [Wrecking Ball \(Arr\. Stephan Moccio for Piano\)](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 | 2021-11-19 |  |
 | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/track/3LP5CtYASoBvrr697nINRt) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Writing's On The Wall \(from "Spectre"\)](https://open.spotify.com/album/0C8D8jXhUgK827Bl3GG32m) | 4:31 | 2025-05-16 |  |

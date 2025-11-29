@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Dia Azul",
+        "url": "https://open.spotify.com/album/6CJx2b7OM7L0tKW0WOOUii"
+      },
+      "artists": [
+        {
+          "name": "Pedro Mizutani",
+          "url": "https://open.spotify.com/artist/64QDqXMHjg0lUoGbXSCX2R"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227262,
+      "name": "Dia Azul",
+      "url": "https://open.spotify.com/track/5qP6czxvzVk5rWni8RNQKc"
+    },
+    {
+      "album": {
         "name": "Cabin Fever Dreams",
         "url": "https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn"
       },

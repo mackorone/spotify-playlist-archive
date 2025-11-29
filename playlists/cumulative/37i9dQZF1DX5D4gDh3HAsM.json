@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/5QKSi5WVcYdS7M7T49JBF5"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278626,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/1LGpzgmVBF47TBDqOxTHRA"
+    },
+    {
+      "album": {
         "name": "A Legendary Christmas",
         "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
       },
@@ -2506,6 +2524,28 @@
     {
       "album": {
         "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1siJhS6dINDX20yWLmiKXX"
+      },
+      "artists": [
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Christie Dashiell",
+          "url": "https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5KftXbglq34A75Zc6Q18Rj"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song",
         "url": "https://open.spotify.com/album/0GYFMCzzDhIhBqIBfkpKjx"
       },
       "artists": [
@@ -2634,7 +2674,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 245000,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/1lz9Zt51FkorcpO9ImTF0v"
@@ -3148,7 +3188,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 292773,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1ucrWudcEalcwSKlzjXUSy"

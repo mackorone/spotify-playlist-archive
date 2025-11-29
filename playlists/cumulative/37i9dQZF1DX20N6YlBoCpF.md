@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Danny Smoke,<br/>Wilma Van Heerden, Chris Steyn, Snotkop en meer!
 
-2,247 songs - 5 day 5 hr 0 min
+2,248 songs - 5 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1284,6 +1284,7 @@
 | [Mej\. Sonskyn](https://open.spotify.com/track/6OevZk2HPccHFB5uJX3KNc) | [Angela Kotze](https://open.spotify.com/artist/1EllMypZXHd2NIrnPFLSLk) | [Mej\. Sonskyn](https://open.spotify.com/album/2nLKRp20YslsCoz9CmdLVv) | 3:20 | 2025-09-25 | 2025-10-24 |
 | [Mejuffrou Sonneblom](https://open.spotify.com/track/3rSipVJmseYXbPffITSTml) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [2021](https://open.spotify.com/album/17TMQLdvhTXOhE1UYr6rq8) | 3:24 | 2022-12-27 | 2023-01-02 |
 | [Melodie](https://open.spotify.com/track/2lfwxjePVdTRRCeyzJgB5h) | [Hugh Lynn](https://open.spotify.com/artist/7kdzDaVmfQRoFVTi7nb09w) | [Melodie](https://open.spotify.com/album/0MZ6kgROuDOZJBBBIYtFZm) | 3:23 | 2025-03-27 | 2025-04-18 |
+| [Memories](https://open.spotify.com/track/0W8NqLyr4BF1GEUNLTf8KN) | [Jeané Roux](https://open.spotify.com/artist/6SBjvZLDHitAuahMl842NC) | [Memories](https://open.spotify.com/album/1LLH6aQNSHh2Swo5VHiOGd) | 2:51 | 2025-11-27 |  |
 | [Memories Maak](https://open.spotify.com/track/3Iue15EbnjaD5dfgYCw7mf) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Memories Maak](https://open.spotify.com/album/28qOth6mq7ANU4Pgrb5KK9) | 3:36 | 2025-05-15 | 2025-08-15 |
 | [Mense Mense](https://open.spotify.com/track/76r2b2rGVqqd54GYQBY34H) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0) | [Mense Mense](https://open.spotify.com/album/3YgfDFQnkzzrogVA8mqYzy) | 2:47 | 2023-12-29 | 2024-01-06 |
 | [Mense Op Die Dorp](https://open.spotify.com/track/2gn27fzmASfLFmAK5pTBw2) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Mense Op Die Dorp](https://open.spotify.com/album/2k3CFyyZzQ2YuI5IoM6CJp) | 2:53 | 2023-10-12 | 2023-11-24 |

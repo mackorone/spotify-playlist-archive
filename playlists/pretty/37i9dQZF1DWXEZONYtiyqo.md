@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: JO
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,760 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,783 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Când vine dragostea](https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [](https://open.spotify.com/album/null) | 3:00 |
+| 1 | [Când vine dragostea](https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Fatata](https://open.spotify.com/album/0fZAUWaoMXuU2LrYcuhAai) | 3:00 |
 | 2 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
 | 3 | [Ai grijă de viața ta](https://open.spotify.com/track/75SRsA13cOVxq3i7CdwscT) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Ai grijă de viața ta](https://open.spotify.com/album/2206Aq1V7kmlZE1kQOukDB) | 2:52 |
 | 4 | [Ultimul Act De Iubire](https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [6 Simțuri](https://open.spotify.com/album/4DQqn3Pl8tKNiuDv8kbfB6) | 3:13 |

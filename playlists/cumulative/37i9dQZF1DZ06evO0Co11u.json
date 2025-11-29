@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "The Columbia & RCA Victor Live Recordings Vol. 3",
+        "url": "https://open.spotify.com/album/6caWTu3uR6ykaFv1asaqwG"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284373,
+      "name": "Tenderly / You'll Never Walk Alone - Live at Newport Jazz Festival 1958",
+      "url": "https://open.spotify.com/track/6KUJBNvzTWLf6PBKkYze8P"
+    },
+    {
+      "album": {
         "name": "The Decca Singles 1935-1946",
         "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 199893,
       "name": "West End Blues",
       "url": "https://open.spotify.com/track/1fcHyenlOvYHnF3xMz2wDB"

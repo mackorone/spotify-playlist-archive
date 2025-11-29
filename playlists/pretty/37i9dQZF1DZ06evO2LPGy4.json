@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 470192,
+  "num_followers": 470231,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABiDjN3OD5m3/ipjpIiEWEG",
+  "snapshot_id": "aSeUgAAAAAB6H/mZXfX8VUPSOd3FQEJG",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+        "name": "Comer\u00e9 Callado, Vol. 2",
+        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 154946,
-      "name": "El Trokero Lokochon",
-      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
+      "duration_ms": 174685,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comer\u00e9 Callado, Vol. 2",
-        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 174685,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM"
+      "duration_ms": 154946,
+      "name": "El Trokero Lokochon",
+      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Morir Y Existir",
+      "url": "https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ah\u00ed, Por Ah\u00ed",
         "url": "https://open.spotify.com/album/41KOsqoNOP6XhNBtY3yqi8"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 157116,
       "name": "Por Ah\u00ed, Por Ah\u00ed",
       "url": "https://open.spotify.com/track/2nlSXEs9hETAlXCjZbnNvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Morir Y Existir",
-      "url": "https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q"
     },
     {
       "added_at": null,

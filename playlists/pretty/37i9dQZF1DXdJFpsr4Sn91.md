@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️ Kannessa Ed Sheeran.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,175 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,183 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 1 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 2 | [Make up your mind](https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Make up your mind](https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj) | 3:08 |
 | 3 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
 | 4 | [joku toinen](https://open.spotify.com/track/4dZIiWYJQCyu9EDt4NzDTZ) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [joku toinen](https://open.spotify.com/album/2A6rbMqQY2nxKZ1gOrbQzQ) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,309 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,315 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 9 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
 | 10 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
 | 11 | [Ibiza](https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ibiza](https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7) | 2:30 |
-| 12 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
-| 13 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
+| 12 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
+| 13 | [Tóxico \(feat\. Ivandro & WIU\)](https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [FIM DO NADA](https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc) | 3:16 |
 | 14 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
 | 15 | [Desumanos](https://open.spotify.com/track/0fwrL9qubr4ZQ2obD3V3NL) | [Mc PP da VS](https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP), [Dj Nene](https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM) | [Desumanos](https://open.spotify.com/album/7m8D1tFI46VTCMqLkE5ofm) | 3:01 |
 | 16 | [replay](https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [replay](https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4) | 2:31 |

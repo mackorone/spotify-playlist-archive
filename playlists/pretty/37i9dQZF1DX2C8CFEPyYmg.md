@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 
 > Soothing strings for our sleepy little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,622 likes - 115 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,621 likes - 115 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rock A Bye Baby](https://open.spotify.com/track/3I31ZqTMemYn9LqnZf5cJt) | [Bianca Fuentes](https://open.spotify.com/artist/56kLVWogvECAhGHFoVXlqx) | [Rock A Bye Baby](https://open.spotify.com/album/49JxwC2Vp7wUHNuihwgg2l) | 1:35 |
 | 2 | [Twinkle Twinkle Little Star](https://open.spotify.com/track/6zWt8aRGtbqQ0kGaQIXV0W) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/3cofneXkg1OtWT3tYF4Z6k) | 1:37 |
 | 3 | [Frère Jacques \(Are you Sleeping, Brother John\)](https://open.spotify.com/track/2pvJEckkQJWM9zNwJLdmm9) | [Roary Hayes](https://open.spotify.com/artist/0BjdWFICerD6wyuHLAOPUa) | [Frère Jacques \(Are you Sleeping, Brother John\)](https://open.spotify.com/album/19e46jBhbIyTfa7f1YXUKm) | 1:35 |
-| 4 | [Alouette](https://open.spotify.com/track/0OcM9nChIc69m1WxmuPath) | [Maya Carr](https://open.spotify.com/artist/3moYZmkLXJhSnDFiLuqAyw) | [Alouette](https://open.spotify.com/album/1uOjj1c2PTFhgH7bQqzSxu) | 1:31 |
+| 4 | [Alouette](https://open.spotify.com/track/0OcM9nChIc69m1WxmuPath) | [Marcus Stillman](https://open.spotify.com/artist/4harlYKMPbSGXod94voGhU) | [Alouette](https://open.spotify.com/album/1uOjj1c2PTFhgH7bQqzSxu) | 1:31 |
 | 5 | [Best of Friends](https://open.spotify.com/track/3286bDcNakCQtB8jaTsr9d) | [Elysia Marlowe](https://open.spotify.com/artist/3D8dl1ctaWLMdFfH7lYFSR) | [Best of Friends](https://open.spotify.com/album/7a4mqRVm1Ot2AFzzej6vJL) | 1:39 |
 | 6 | [Everybody Knows Juanita](https://open.spotify.com/track/2uwHsvAfSWjQghbGKI8wqW) | [Solveig Bjørnsen](https://open.spotify.com/artist/6J2nTux5ymFNq9wT3Uaze2) | [Everybody Knows Juanita](https://open.spotify.com/album/2vr02OrEFuuyrXSHSKRMyJ) | 1:14 |
 | 7 | [Cai Cai Balão](https://open.spotify.com/track/1pPCs58FyrQKuAUaxvx4GV) | [Pipo and Roy](https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS) | [Cai Cai Balão](https://open.spotify.com/album/1lPJowoAoyvvbOUfo2CpM8) | 1:13 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 37 | [My Favourite Pillow](https://open.spotify.com/track/29l4of3MD72ipWWlP9VTqB) | [Olivia Droglly](https://open.spotify.com/artist/5HoWagdsHvpPEcaSU20HCv) | [My Favourite Pillow](https://open.spotify.com/album/4sYPwSkZtCfC0hAB5ioNwW) | 1:17 |
 | 38 | [ABC Song](https://open.spotify.com/track/21LURtt0dELILmz9u99mWK) | [Singing Guitar](https://open.spotify.com/artist/1SQq7ZFrr73CCZ5bidEnii) | [ABC Song](https://open.spotify.com/album/26COnZHGF6vpIIl6aVOtsV) | 1:42 |
 | 39 | [Sweet Starry Slumber](https://open.spotify.com/track/3uiqk9SzswRPj4WYOqrWuc) | [William Bonn](https://open.spotify.com/artist/77dsYvwvqG93BJw7uN15VO) | [Sweet Starry Slumber](https://open.spotify.com/album/3nIsD2D8wURFa96jpMgzhH) | 2:06 |
-| 40 | [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Aya Poole](https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 |
+| 40 | [Un grand cerf](https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Un grand cerf](https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL) | 1:41 |
 | 41 | [Birds Slumbering](https://open.spotify.com/track/6BPXQlOFV5BHXvi6GkgbuA) | [John Sun](https://open.spotify.com/artist/36yHkkNhCvETGwQoFpA92c) | [Birds Slumbering](https://open.spotify.com/album/372GrfnWrPW3XFDIjOvQPK) | 2:28 |
 | 42 | [Arrorró mi niño](https://open.spotify.com/track/2evLEM6b40sSXZ5dILCsQb) | [Joaquin Moreno Silva](https://open.spotify.com/artist/5vSCkD7iPcBU0GgEASL4ss) | [Arrorró mi niño](https://open.spotify.com/album/732cnh2czygqCKQtOrBnzI) | 1:48 |
 | 43 | [Something There](https://open.spotify.com/track/6tIIdGntB4kn9eWgbk1gsg) | [Elin Svensson](https://open.spotify.com/artist/7B1EUSbXfPfvKyuYlO0SYp) | [Something There](https://open.spotify.com/album/7lk5RkoZ2k0JNLIIHj7zZh) | 2:03 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 66 | [Somewhere over the Rainbow](https://open.spotify.com/track/2snEtWNsyYbWVxhxh2CA2s) | [Sasha Zimmerman](https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM) | [Somewhere over the Rainbow](https://open.spotify.com/album/5R5DbLz5aDyRLXpkAqvEp0) | 1:51 |
 | 67 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 |
 | 68 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 |
-| 69 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Astrid Fletcher](https://open.spotify.com/artist/3igWAsVVTd9O8R9KOMSY4K) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
+| 69 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Zack Allen](https://open.spotify.com/artist/66Lcw9CT6905ShD7NP1eNe) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
 | 70 | [Too\-Ra\-Loo\-Ra\-Loo\-](https://open.spotify.com/track/4IrWLFVlYt4g6kAX4oFOCk) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Too\-Ra\-Loo\-Ra\-Loo\-Ral](https://open.spotify.com/album/3gpqrTKYg6sy2dqsG8yQI5) | 2:13 |
 | 71 | [Calm Dreams](https://open.spotify.com/track/4WmcT9stH27GRJG2rmtfih) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Calm Dreams](https://open.spotify.com/album/1hKwkcZMb8NP9vzAaU0SvB) | 1:41 |
 | 72 | [Moonlight Sleep](https://open.spotify.com/track/7H0tAhQsYhCSmZQNSqFadM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Moonlight Sleep](https://open.spotify.com/album/42xwyjkYGvu05mTt63pQq4) | 1:43 |

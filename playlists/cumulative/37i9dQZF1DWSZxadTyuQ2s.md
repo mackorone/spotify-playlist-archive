@@ -2,15 +2,16 @@
 
 ### [Global Afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s)
 
-> The sound of Afrobeats echoing around the world\. Cover:  Ludmilla 🇧🇷
+> The sound of Afrobeats echoing around the world\. Cover:  Ludmilla
 
-98 songs - 4 hr 55 min
+100 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 | 2025-10-10 |  |
 | [Aiwo \- Remix](https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Aiwo \(Remix\)](https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ) | 2:55 | 2025-10-10 |  |
 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 | 2025-10-10 |  |
+| [Baby \(feat\. Minz\)](https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL) | [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Energy](https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr) | 2:13 | 2025-11-28 |  |
 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 | 2025-10-10 |  |
 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 | 2025-10-10 |  |
 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 | 2025-10-10 |  |
@@ -55,12 +56,12 @@
 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 | 2025-10-10 | 2025-11-15 |
 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 | 2025-10-10 | 2025-10-24 |
 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 | 2025-10-10 |  |
-| [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 | 2025-10-24 |  |
+| [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 | 2025-10-24 | 2025-11-29 |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2025-10-10 |  |
 | [Medida Certa](https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [Medida Certa](https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu) | 4:04 | 2025-10-10 | 2025-11-07 |
 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 | 2025-10-10 |  |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2025-10-10 |  |
-| [mieux en mieux](https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [mieux en mieux](https://open.spotify.com/album/2O4x7UD7LHPIys6mlCJQqp) | 2:46 | 2025-11-07 |  |
+| [mieux en mieux](https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [mieux en mieux](https://open.spotify.com/album/2O4x7UD7LHPIys6mlCJQqp) | 2:46 | 2025-11-07 | 2025-11-29 |
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2025-10-10 |  |
 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-10-10 |  |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-10-10 |  |
@@ -106,5 +107,6 @@
 | [you](https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [you](https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR) | 2:45 | 2025-10-10 |  |
 | [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-10-10 |  |
 | [Zota \(feat\. Tayc\)](https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Zota \(feat\. Tayc\)](https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V) | 2:22 | 2025-10-10 | 2025-10-30 |
+| [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 | 2025-11-28 |  |
 
 \*This playlist was first scraped on 2025-10-11. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-250 songs - 15 hr 36 min
+251 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bye Bye \(Feat\. LEE MU JIN\)](https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Bye Bye](https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn) | 4:28 | 2025-10-14 |  |
 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 | 2024-05-09 |  |
 | [Change](https://open.spotify.com/track/1xVUu2AbjTJTEvQI2rpEpp) | [Yoo Hwe Seung](https://open.spotify.com/artist/5ENwCCr5vpgcwr4HgTmWGs) | [Change](https://open.spotify.com/album/01SstNr2NESSMRU11yvCpQ) | 4:24 | 2025-10-20 | 2025-11-11 |
-| [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 | 2025-09-08 |  |
+| [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 | 2025-09-08 | 2025-11-29 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2024-02-21 |  |
 | [Couple](https://open.spotify.com/track/5qlHFVgVy3WBFw7vBZPjaL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Couple \- Special Single](https://open.spotify.com/album/5w9TtiYrHhiJsfVDrE5vWx) | 3:36 | 2025-04-03 | 2025-04-17 |
 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 | 2023-11-03 |  |
@@ -62,6 +62,7 @@
 | [Deeper](https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Deeper](https://open.spotify.com/album/7Av1NlOPnL2EwQ8GqkbmFD) | 2:57 | 2023-11-03 | 2023-11-18 |
 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 | 2025-08-04 | 2025-11-25 |
 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2024-02-21 |  |
+| [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 | 2025-11-21 |  |
 | [Don't be mad](https://open.spotify.com/track/4lXl37xDrmVwoz4CuninfI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Don't be mad](https://open.spotify.com/album/0sIbn4BGuc7oG21Fkl5x46) | 3:04 | 2023-11-03 | 2024-01-07 |
 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 | 2023-11-03 | 2025-05-09 |
 | [Don\`t you know\(PROD.ROCOBERRY\)](https://open.spotify.com/track/5jviSlh6YAznFM8JtMBEqV) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Don\`t you know](https://open.spotify.com/album/2z9U8RSPOJnFZcHbQbh9Gw) | 5:01 | 2025-03-12 |  |

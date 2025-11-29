@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Awich",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: A$AP Ferg",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/5wNHjkk2nmOsoP1dj5fFN2"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "777",
+      "url": "https://open.spotify.com/track/0UjHDsV44xnLDp6YWDcEPv"
+    },
+    {
+      "album": {
         "name": "850 (We On Top) [feat. Rich The Kid]",
         "url": "https://open.spotify.com/album/0Ow1LzDAS3hCPzGNK9TeOT"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 171655,
       "name": "8PM",
       "url": "https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet"
@@ -1918,7 +1936,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 187411,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
@@ -3408,7 +3426,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 210266,
       "name": "Blaming Jesus",
       "url": "https://open.spotify.com/track/2WjfwkmuaJ0f1vG2uwYE8s"
@@ -3982,6 +4000,24 @@
       "duration_ms": 136711,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw"
+    },
+    {
+      "album": {
+        "name": "Booga",
+        "url": "https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "Booga",
+      "url": "https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF"
     },
     {
       "album": {
@@ -4690,7 +4726,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 191078,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5Q5Ejr1O1FPgQ29QqY5LpG"
@@ -5356,7 +5392,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 158037,
       "name": "Chinatown Pt 2",
       "url": "https://open.spotify.com/track/4hI2Gj8zEoJTwP4mvwHe2E"
@@ -5636,6 +5672,24 @@
       "duration_ms": 135800,
       "name": "Cloud Surfing",
       "url": "https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT"
+    },
+    {
+      "album": {
+        "name": "Clue",
+        "url": "https://open.spotify.com/album/3ZRKAEYVWRKlPobxR8W8M7"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189593,
+      "name": "Clue",
+      "url": "https://open.spotify.com/track/1JWGW7yVtvtyGjtd8gOEzb"
     },
     {
       "album": {
@@ -6086,7 +6140,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 104415,
       "name": "DADE",
       "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
@@ -7024,7 +7078,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 218011,
       "name": "Don't Leave Too Soon",
       "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
@@ -8418,7 +8472,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 184954,
       "name": "FERG STRONG",
       "url": "https://open.spotify.com/track/5KZQhOFArnmWP0iqtqegaV"
@@ -8610,6 +8664,32 @@
       "duration_ms": 201360,
       "name": "Flip A Switch. (feat. Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
+    },
+    {
+      "album": {
+        "name": "FLIP PHONE SHORTY - STRICTLY FOR DA STREETZ VOL. 1",
+        "url": "https://open.spotify.com/album/0zg1LBiJQ2X8MHdaVqjKUw"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185319,
+      "name": "FLIP PHONE ANTHEM",
+      "url": "https://open.spotify.com/track/3vuHCqpCm8hOpxWxAahuck"
     },
     {
       "album": {
@@ -10692,6 +10772,28 @@
       "duration_ms": 164747,
       "name": "Hello Miss Johnson",
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
+    },
+    {
+      "album": {
+        "name": "Hello Revenge",
+        "url": "https://open.spotify.com/album/7p0bwadyv161k3YvYnJ5Eb"
+      },
+      "artists": [
+        {
+          "name": "NLE The Great",
+          "url": "https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249941,
+      "name": "Hello Revenge",
+      "url": "https://open.spotify.com/track/6ewqXnUFLxYfuUJPiWS2Bj"
     },
     {
       "album": {
@@ -15592,7 +15694,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 151386,
       "name": "Manic!",
       "url": "https://open.spotify.com/track/7BGlBIWZnbe7iCj2qzolA3"
@@ -15956,6 +16058,24 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "album": {
+        "name": "Middle of the Summer",
+        "url": "https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172330,
+      "name": "Middle of the Summer",
+      "url": "https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP"
     },
     {
       "album": {
@@ -16824,6 +16944,24 @@
       "duration_ms": 119910,
       "name": "MPH",
       "url": "https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9"
+    },
+    {
+      "album": {
+        "name": "From Me 2 U",
+        "url": "https://open.spotify.com/album/4SWWl5H8G1ZVx56WQV3yhY"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104605,
+      "name": "MR DND",
+      "url": "https://open.spotify.com/track/7KVkMVxVs3GqO7Vzy9hzjk"
     },
     {
       "album": {
@@ -17730,6 +17868,24 @@
       "duration_ms": 132048,
       "name": "No Condom",
       "url": "https://open.spotify.com/track/1PAjSpeJg2BJ0fJzBUsogA"
+    },
+    {
+      "album": {
+        "name": "No Counterfeit",
+        "url": "https://open.spotify.com/album/0NDZa19UsN9q1Fw6MNnqzZ"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115742,
+      "name": "No Counterfeit",
+      "url": "https://open.spotify.com/track/6w42Jrk5JOejaEWtVb2KZG"
     },
     {
       "album": {
@@ -20136,7 +20292,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 210309,
       "name": "Please Don\u2019t Go (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/7nsWoHHE91adsaBhomh5y2"
@@ -29276,7 +29432,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 184864,
       "name": "World Boss",
       "url": "https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b"
@@ -29972,6 +30128,24 @@
       "duration_ms": 253492,
       "name": "\u559c\u54c0",
       "url": "https://open.spotify.com/track/0LiN597XAlatsK7v6zsnAv"
+    },
+    {
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/41lYxB0nIApx4nWMCTJBlh"
+      },
+      "artists": [
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150010,
+      "name": "\u5b8c\u74a7\u3060",
+      "url": "https://open.spotify.com/track/6g8l6gJv0a8IKH6g8tjeQ1"
     },
     {
       "album": {

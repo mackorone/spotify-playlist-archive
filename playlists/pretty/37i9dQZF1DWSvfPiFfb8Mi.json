@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 692869,
+  "num_followers": 692901,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAtjTnyCH16UKAD4MG4tOYlesiX9",
+  "snapshot_id": "AAAAAHJTlcRt7PcOW+ds/5yRm2dCTUwp",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Bounce In Peace",
+        "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
+      },
+      "artists": [
+        {
+          "name": "KOLA",
+          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+        },
+        {
+          "name": "Fawna",
+          "url": "https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU"
+        }
+      ],
+      "duration_ms": 218454,
+      "name": "More Than It Seems",
+      "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
       },
@@ -1087,42 +1107,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Bounce In Peace",
-        "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
-      },
-      "artists": [
-        {
-          "name": "KOLA",
-          "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
-        },
-        {
-          "name": "Fawna",
-          "url": "https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU"
-        }
-      ],
-      "duration_ms": 218454,
-      "name": "More Than It Seems",
-      "url": "https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
         }
       ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1303,22 +1299,6 @@
       "duration_ms": 157906,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
-      },
-      "artists": [
-        {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
-        }
-      ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1343,18 +1323,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
       "artists": [
         {
-          "name": "Moment in Time",
-          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 140232,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1371,6 +1355,22 @@
       "duration_ms": 219385,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Emotion EP",
         "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
       },
@@ -1479,26 +1479,6 @@
       "duration_ms": 184918,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1519,6 +1499,26 @@
       "duration_ms": 166875,
       "name": "Promises",
       "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
-      },
-      "artists": [
-        {
-          "name": "Swoosh",
-          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
-        }
-      ],
-      "duration_ms": 179750,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Missing You (Michael Gray Remix)",
         "url": "https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 179037,
       "name": "Missing You - Michael Gray Remix",
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
+      },
+      "artists": [
+        {
+          "name": "Swoosh",
+          "url": "https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "ALL A DREAM",
-        "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
-      },
-      "artists": [
-        {
-          "name": "LOVE LANGUAGE",
-          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
-        },
-        {
-          "name": "LISP",
-          "url": "https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "ALL A DREAM",
-      "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -1899,22 +1879,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "SUBURBIA (after dark)",
-        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+        "name": "ALL A DREAM",
+        "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "LOVE LANGUAGE",
+          "url": "https://open.spotify.com/artist/1S6Yd5OflS0VBmlfxlSoTM"
         },
         {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+          "name": "LISP",
+          "url": "https://open.spotify.com/artist/6xA7T8KlOWbWzuOfsZZDYN"
         }
       ],
-      "duration_ms": 208200,
-      "name": "california",
-      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+      "duration_ms": 221053,
+      "name": "ALL A DREAM",
+      "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1935,6 +1915,26 @@
       "duration_ms": 189190,
       "name": "LOVER",
       "url": "https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "SUBURBIA (after dark)",
+        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "california",
+      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2075,6 +2075,26 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 222909,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "Sing It Back (feat. Dana Williams)",
         "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
@@ -2095,26 +2115,6 @@
       "duration_ms": 193706,
       "name": "Sing It Back (feat. Dana Williams)",
       "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 222909,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Swiss Sensation",
+        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 227214,
+      "name": "Swiss Sensation",
+      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "Deal With Love",
         "url": "https://open.spotify.com/album/0lWEcyqe1x63wdfzVpGgS8"
       },
@@ -2199,22 +2215,6 @@
       "duration_ms": 272000,
       "name": "Deal With Love",
       "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Swiss Sensation",
-        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 227214,
-      "name": "Swiss Sensation",
-      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2263,22 +2263,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "I Found Lovin' (Folamour Remix)",
-        "url": "https://open.spotify.com/album/0CHXeFQgoEU4ZTc5Bn10Mq"
+        "name": "Sidequests Chapter Three",
+        "url": "https://open.spotify.com/album/6O2duZegWCcnzUztIItHyz"
       },
       "artists": [
         {
-          "name": "Fatback Band",
-          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
         },
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 217823,
-      "name": "I Found Lovin' - Folamour Remix",
-      "url": "https://open.spotify.com/track/0tcmPdkjz6s0eOetGgSSWZ"
+      "duration_ms": 299461,
+      "name": "Know Less",
+      "url": "https://open.spotify.com/track/2qLyC6QhuIrNDtojE0w2Dg"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -2355,6 +2339,42 @@
       "duration_ms": 185400,
       "name": "Love In C Minor - Franc Moody Remix",
       "url": "https://open.spotify.com/track/3sfcZAIZW6CK035kWl0mBD"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "I Found Lovin' (Folamour Remix)",
+        "url": "https://open.spotify.com/album/0CHXeFQgoEU4ZTc5Bn10Mq"
+      },
+      "artists": [
+        {
+          "name": "Fatback Band",
+          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 217823,
+      "name": "I Found Lovin' - Folamour Remix",
+      "url": "https://open.spotify.com/track/0tcmPdkjz6s0eOetGgSSWZ"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2403,26 +2423,6 @@
       "duration_ms": 204318,
       "name": "One On One (Cerrone Remix)",
       "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Fighting Love",
-        "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
-      },
-      "artists": [
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        },
-        {
-          "name": "Mark Dedross",
-          "url": "https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Fighting Love",
-      "url": "https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5"
     }
   ],
   "unique_name": "Poolside Disco",

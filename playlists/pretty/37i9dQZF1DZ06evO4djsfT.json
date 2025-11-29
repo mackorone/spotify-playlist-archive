@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27860,
+  "num_followers": 27861,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABGAn0TRiBhaROUguTjoo3p",
+  "snapshot_id": "aSeUgAAAAACICtf6CtnktGGzlfAsSCRm",
   "tracks": [
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship in the Moshpit",
-        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Worship in the Moshpit",
-      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Undefeated",
-        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 254040,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Start Right Here (HGA Version)",
         "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 173575,
       "name": "Start Right Here (HGA Version)",
       "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Undefeated",
+        "url": "https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 254040,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc"
     }
   ],
   "unique_name": "This Is KB",

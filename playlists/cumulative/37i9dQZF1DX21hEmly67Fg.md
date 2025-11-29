@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-326 songs - 17 hr 48 min
+330 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [If You Don't Know Me by Now](https://open.spotify.com/track/0hniO7QvgBjKcWujdFGz4q) | [Petal & Thorn](https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM) | [If You Don't Know Me by Now](https://open.spotify.com/album/3GdJWgpR4iVwravtWoPlrU) | 2:51 | 2025-01-22 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/2br0u2rXPYBPl2LxghWaI5) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [If You Leave Me Now](https://open.spotify.com/album/2SOzSum0avhI6D4Gh4dtg1) | 2:44 | 2024-12-10 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 | 2025-02-20 |
+| [In My Life](https://open.spotify.com/track/3AuJFkpjHTuLPeLAfbHwH9) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [In My Life](https://open.spotify.com/album/71UEZJPkur2TfvZvilEjDL) | 2:43 | 2025-11-28 |  |
 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 | 2021-11-25 | 2025-04-26 |
 | [In the Backseat](https://open.spotify.com/track/3zGQHvq4qqRa77Mst3RF8f) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Arcade Fire's Funeral](https://open.spotify.com/album/1h9qdv1DW59qUFj4kNx3qY) | 5:31 | 2022-11-18 | 2022-11-26 |
 | [Intentions](https://open.spotify.com/track/4foUpkmdBE9IGKMgWvx3rD) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020](https://open.spotify.com/album/0F5JNuFJ9AcZnKdNRjWFeN) | 3:31 | 2022-11-18 | 2022-11-26 |
@@ -188,6 +189,7 @@
 | [Lovely](https://open.spotify.com/track/48nOUySVcMYFt4mQT1i4Tg) | [TwoPlusFour](https://open.spotify.com/artist/5E7YtMkMtwhfqEetlwiXQT) | [Lovely](https://open.spotify.com/album/7xnlemZnanmESpkrPmWfuC) | 3:04 | 2021-11-25 | 2025-02-20 |
 | [Mad World](https://open.spotify.com/track/5i4lA76ZEBQW1loZX82FXf) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Mad World](https://open.spotify.com/album/48GQzdBZgZEy5UKanRwHvi) | 3:17 | 2023-04-04 | 2025-04-26 |
 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 | 2021-11-25 | 2025-04-26 |
+| [Man I Need](https://open.spotify.com/track/6iNqBfDCNF2D1f3milOqY4) | [Dust off the Cobwebs](https://open.spotify.com/artist/240faRVORCCfCH7mC3qcJa) | [Man I Need](https://open.spotify.com/album/3eDOnV1wk7cpsNWmQDn2X9) | 2:43 | 2025-11-28 |  |
 | [Manchild \(Piano Cover\)](https://open.spotify.com/track/3O7REp5t5i2Tda8qqFt5e7) | [Cabin Nocturnes](https://open.spotify.com/artist/2Xo1T8cEKLH7OOG2lNC8ZJ) | [Manchild \(Piano Cover\)](https://open.spotify.com/album/3LRVCBJFXIzMQB6Tmjufgb) | 3:08 | 2025-08-18 |  |
 | [Maps](https://open.spotify.com/track/1WWgAxgMDRNrSi26x4weoR) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Songbirds: VSQ Celebrates the Women of Modern Rock](https://open.spotify.com/album/7msqnm8LfMD88A3dnKrYcu) | 3:26 | 2022-11-18 | 2022-11-26 |
 | [Merry Christmas](https://open.spotify.com/track/2Z5xXgTm80Q2hE6ulkRwiX) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [Merry Christmas](https://open.spotify.com/album/7IKvo8hshGA91Zk8BQqjJ7) | 2:46 | 2024-11-26 | 2025-01-08 |
@@ -231,6 +233,7 @@
 | [Roar](https://open.spotify.com/track/4bt7e9xRM28F0L7WcMMXtu) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [Roar](https://open.spotify.com/album/2UF1M1BPLZhqgPcnki1mLj) | 2:58 | 2025-03-14 |  |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-02-14 | 2025-04-26 |
 | [Royals](https://open.spotify.com/track/5cPxFYTRLgv9rHxaVZ67po) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 2](https://open.spotify.com/album/47UJihi0AVkgdfNvRNVUlF) | 3:23 | 2022-11-18 | 2022-11-26 |
+| [Ruin The Friendship](https://open.spotify.com/track/1dtxhTQxcFYIBe4dIJPl8q) | [A Chance To Dream](https://open.spotify.com/artist/4AcyyxYM1TvsUUxNS8bPqk) | [Ruin The Friendship](https://open.spotify.com/album/75IVkRwS965QfdrfDYgyn7) | 2:51 | 2025-11-28 |  |
 | [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 | 2023-05-09 |  |
 | [SAD!](https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 2:51 | 2022-11-18 | 2022-11-26 |
 | [Sailing](https://open.spotify.com/track/1rt2VVHzUfrYqD9HGY0jGg) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [Sailing](https://open.spotify.com/album/1gmD0abuhaunLrRRVMpFYY) | 2:18 | 2024-04-17 |  |
@@ -277,6 +280,7 @@
 | [Tears in Heaven](https://open.spotify.com/track/1diA0qxa31zuUw6e14P15n) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Tears in Heaven](https://open.spotify.com/album/6VfC5Ha40EKxopc0SJtsJy) | 3:13 | 2024-08-13 |  |
 | [That’s So True](https://open.spotify.com/track/71bMHnASbs51XgcvYZc2eW) | [Ned Regan](https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y) | [That’s So True](https://open.spotify.com/album/5laSIm0D87Jy7SLzQSMUrB) | 2:22 | 2025-04-15 |  |
 | [The A Team](https://open.spotify.com/track/69Q1L0hNIqfoxiKLpH0Mqc) | [Amber Tide](https://open.spotify.com/artist/0sBTbHqhQHaqKijHKgJUcC) | [The A Team](https://open.spotify.com/album/2iiZrN66jif43eBFSYspqf) | 2:38 | 2025-08-12 |  |
+| [The Fate of Ophelia](https://open.spotify.com/track/4ZgJWsndGw3FFNnW3zwhQw) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [The Fate of Ophelia](https://open.spotify.com/album/2oSLTEV29DeaGPvP2H4a48) | 3:35 | 2025-11-28 |  |
 | [The Rose](https://open.spotify.com/track/1BlvRT7JUtpNQUZHrVUPwJ) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Rose](https://open.spotify.com/album/3S58P2blfAWXqcRtxzkHm7) | 2:38 | 2024-03-04 |  |
 | [The Scientist](https://open.spotify.com/track/025vpSSyndhVZezl8rUF6L) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Brooklyn Sessions 8](https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq) | 4:55 | 2021-11-25 | 2025-04-26 |
 | [The Sound of Silence](https://open.spotify.com/track/0ckgm8yGyTYAo9WwtCXcpS) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [The Sound of Silence](https://open.spotify.com/album/763Ve9vd4kwmEAj0zGhuCC) | 3:10 | 2021-11-25 | 2022-01-06 |

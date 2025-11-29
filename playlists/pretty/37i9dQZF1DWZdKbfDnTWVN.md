@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=88g02L2xR7GJtLwkX6P7Lw"> Elsy Wameyo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,917 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,934 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [CRASH OUT](https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [](https://open.spotify.com/album/null) | 2:23 |
+| 1 | [CRASH OUT](https://open.spotify.com/track/5g0joA89W8BZMNNOeZQo57) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [WAMEYO](https://open.spotify.com/album/50PbsZcJA7h3IvcpTDVRTU) | 2:23 |
 | 2 | [TAI CHI](https://open.spotify.com/track/5dc28G1bMYFNGsSc1D5uA7) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [TAI CHI](https://open.spotify.com/album/74ObmRduVbQb7FYmFOcsIg) | 2:49 |
 | 3 | [Weyuat](https://open.spotify.com/track/0lQrV1lpPriQmwdwxPcQkg) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Weyuat](https://open.spotify.com/album/6LUXYt1QMVGt38H1fLWARr) | 3:21 |
 | 4 | [Glitter Freestyle](https://open.spotify.com/track/3OUVusVBJnwyPmiABkQole) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Glitter Freestyle](https://open.spotify.com/album/09rJonWYTHFC1Vb7cxkQoC) | 2:44 |

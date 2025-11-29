@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain](/playlists/plain/37i9dQZF1DX5mB2C8gBeUM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mB2C8gBeUM)
 
-### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
+### [Buckwild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
 > Country gone wild! You never know what you're gonna get\. Cover: Marshmello and Hudson Westbrook
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,769 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,680 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 99 | [Dear Alcohol \(feat\. Elle King\)](https://open.spotify.com/track/2JspXl1hD5EUfyBln7r0F6) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Dear Alcohol feat\. Elle King](https://open.spotify.com/album/23RUi91AHXz67vI3sgpgLS) | 3:08 |
 | 100 | [Backroad](https://open.spotify.com/track/1ZUCZo5YNf1VEfvrr4vTk4) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Backroad](https://open.spotify.com/album/0k9LG65CwVXehlFulZu34v) | 2:37 |
 
-Snapshot ID: `AAAAAD8CAw1TpxgONd4qZM4gEeurseyo`
+Snapshot ID: `AAAAABOsEIG5q1UNibN8vxqMGWSMPVYO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Songs you love with an indie spin on it\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,637 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,654 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 89 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
 | 90 | [What You Won't Do for Love](https://open.spotify.com/track/5Nr2cbWCipKDW3zPe63g7h) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [What You Won't Do for Love](https://open.spotify.com/album/2PaIjmeAXUAJNTkoOr7CWy) | 3:13 |
 | 91 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 92 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
-| 93 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 |
-| 94 | [Adam's Song \- triple j Like A Version](https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Adam's Song \(triple j Like A Version\)](https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX) | 4:16 |
+| 92 | [Heaven](https://open.spotify.com/track/3R0iA3AlPcpvfwYIoUTVRx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Heaven](https://open.spotify.com/album/3lve8evv61lFzAtZcdGZPk) | 4:17 |
+| 93 | [Adam's Song \- triple j Like A Version](https://open.spotify.com/track/6wAucih2u2ENLTZjIyJN2v) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9), [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Adam's Song \(triple j Like A Version\)](https://open.spotify.com/album/0iOMlmeL9Gwe7KmBfLuxLX) | 4:16 |
+| 94 | [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 |
 | 95 | [Making Breakfast](https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Making Breakfast](https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh) | 2:20 |
 | 96 | [Three Hours](https://open.spotify.com/track/7iGcDYlAdinPkG3zLrtZTX) | [John Parish](https://open.spotify.com/artist/1UAM4fJFTeyMZbhTVUKiXk), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Three Hours](https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT) | 4:32 |
 | 97 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
-| 98 | [Thank You for Sending Me an Angel](https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Thank You for Sending Me an Angel](https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9) | 3:08 |
-| 99 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
+| 98 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
+| 99 | [Thank You for Sending Me an Angel](https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Thank You for Sending Me an Angel](https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9) | 3:08 |
 | 100 | [Dreams](https://open.spotify.com/track/0tueLq12kgxw1s7Wd0WfIF) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Dreams](https://open.spotify.com/album/7zuBYf3lEDOOpvRmSn7lSW) | 3:54 |
 
 Snapshot ID: `AAAAACXQxQDWnsUT1xVumcubXokkAvrO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Harley
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,055 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,275 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 3 | [CHO CHO CHO](https://open.spotify.com/track/55nW9HWzF7xykwZDTQ6HBS) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my) | [CHO CHO CHO](https://open.spotify.com/album/6w7pCWQcmPXVI84c9RhBii) | 3:15 |
 | 4 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 5 | [BEBI](https://open.spotify.com/track/70klciBek95qMq7KiDX7zE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [BEBI](https://open.spotify.com/album/6xYI6GSAY1MbBqPy9Xi7oZ) | 2:15 |
-| 6 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [](https://open.spotify.com/album/null) | 2:56 |
+| 6 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |
 | 7 | [Sama Love](https://open.spotify.com/track/4KgN9W7ggYVWmg2inlVuu1) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN) | [Sama Love](https://open.spotify.com/album/5DI8jHVJnmdoxQptUC5PR1) | 2:39 |
-| 8 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [](https://open.spotify.com/album/null) | 2:58 |
+| 8 | [Lalala](https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 2:58 |
 | 9 | [PRESIDENTIAL](https://open.spotify.com/track/2GDrvSBtD1SfNBa39kmcl0) | [Dertay](https://open.spotify.com/artist/5xSXFYJ9xBDUBxF5VUKDZR), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [PRESIDENTIAL](https://open.spotify.com/album/6xDlBkGeWBtMWm2obCj44f) | 1:57 |
 | 10 | [Violence](https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Violence](https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB) | 2:36 |
 | 11 | [Écho](https://open.spotify.com/track/2N3AWTASz0UkGK5oDQfH6N) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC) | [Écho](https://open.spotify.com/album/0t4opInzUIstHzncqBV1xm) | 3:04 |

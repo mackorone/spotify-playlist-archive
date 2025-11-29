@@ -848,7 +848,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 215760,
       "name": "A Letter",
       "url": "https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH"
@@ -6160,7 +6160,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
@@ -6196,7 +6196,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 223301,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
@@ -14542,6 +14542,24 @@
       "duration_ms": 211330,
       "name": "HOME SWEET HOME (feat. TAEYANG, DAESUNG)",
       "url": "https://open.spotify.com/track/04jt3FIji2EJUhun0UrNqR"
+    },
+    {
+      "album": {
+        "name": "Play Ball",
+        "url": "https://open.spotify.com/album/3sPXGjwL3sZIlozHI7KhUr"
+      },
+      "artists": [
+        {
+          "name": "NOWZ",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "HomeRUN",
+      "url": "https://open.spotify.com/track/4iSlqDp8NdvTE3D8YEs751"
     },
     {
       "album": {
@@ -27466,7 +27484,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -35876,7 +35894,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"

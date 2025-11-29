@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-415 songs - 1 day 0 hr 42 min
+417 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-09-17 | 2023-12-14 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-21 | 2023-06-12 |
 | [Deep Down Low](https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Deep Down Low](https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP) | 4:55 | 2024-07-07 |  |
+| [Deeper](https://open.spotify.com/track/7D6SEmF2v2xlFUct2atTfe) | [OTK](https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG) | [Deeper](https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu) | 3:17 | 2025-11-28 |  |
 | [DESIRE96](https://open.spotify.com/track/1Isw0eYkTeBUP4uuqLNHZt) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DESIRE96](https://open.spotify.com/album/32qjzjfmDJX4lA6yAPR2fb) | 4:13 | 2023-04-16 | 2023-05-01 |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-05 | 2023-03-27 |
 | [Dimension](https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA) | [Survival Mode](https://open.spotify.com/artist/71ZV9O3HAnc2zBk1Pq3LwZ) | [Dimension](https://open.spotify.com/album/1FPIVz5o2Hg39u3Z1f9g2p) | 6:24 | 2024-01-14 | 2024-03-11 |
@@ -206,6 +207,7 @@
 | [I Entah](https://open.spotify.com/track/6RKtjKLTy2w6AXxzV42pSm) | [VLTRA \(IT\)](https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA) | [I Entah](https://open.spotify.com/album/2Bw9YNMw0u1uAWNR7RPZyP) | 2:32 | 2023-03-26 | 2023-04-10 |
 | [I Feel It Right](https://open.spotify.com/track/5Y5xn6cEjXtsba5ZvVLDs6) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [I Feel It Right](https://open.spotify.com/album/4rXiZ2mWYsuPuxy2dv4fD6) | 3:04 | 2023-04-30 | 2023-05-23 |
 | [I Wanna Rock](https://open.spotify.com/track/6HOqLBmMCQMPnyPZcqYAP2) | [Gabriele Toma](https://open.spotify.com/artist/3Eylw4P4DCGqXcQZ4b8Fon) | [I Wanna Rock EP](https://open.spotify.com/album/0hzTSt06DUwPQRgsDCuzqK) | 5:41 | 2023-06-11 | 2023-07-03 |
+| [I Want to be](https://open.spotify.com/track/4Xu7Jzud5lcgt0tWLbjpWe) | [Calpaina3](https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu), [Mauro Fiore](https://open.spotify.com/artist/4SP5dKzRPi8GhIhVWMcZEA) | [I Want to be](https://open.spotify.com/album/17lhDcl1Pixl7IbOjf6iN3) | 4:20 | 2025-11-28 |  |
 | [I'm Crazy](https://open.spotify.com/track/1Jhmughb25ns8f9DfWgl5d) | [DOUG!](https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS) | [I'm Crazy](https://open.spotify.com/album/1qQgSs2PUqB8r3hOPYtUd9) | 4:38 | 2023-02-12 | 2023-03-13 |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2023-11-05 | 2024-01-15 |
 | [In My Brain](https://open.spotify.com/track/75VaEHJpYnWtHj7CenYbf8) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [In My Brain](https://open.spotify.com/album/5fT2Hkzx9dhJCPsffatJDu) | 3:34 | 2023-03-05 | 2023-03-20 |

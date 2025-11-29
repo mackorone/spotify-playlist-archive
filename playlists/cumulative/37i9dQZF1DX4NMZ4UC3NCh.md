@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-162 songs - 9 hr 23 min
+165 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Huff n Puff](https://open.spotify.com/track/0XLguSTmlB2UJ3qztURBpU) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/56L226pRT1sHo2vgoJy5IB) | 3:01 | 2022-03-22 |  |
 | [Huff n Puff](https://open.spotify.com/track/1LNFbKyhjwOk7eeBUVqvo3) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red \- The 1st Album](https://open.spotify.com/album/6YL9J0E6PGtYzkhyMxnmXd) | 3:01 | 2022-03-22 | 2024-04-19 |
 | [I Just](https://open.spotify.com/track/7BuFMtIknd3ewai0zhKhqb) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 3:08 | 2022-03-22 |  |
+| [I'm Like You](https://open.spotify.com/track/6B4LmWoUuTnWYv5FkCkmky) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [BXXCH x RICH 2 \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/58rE7ZIrs0nix4BHZPUBo6) | 3:41 | 2025-11-28 |  |
 | [Ice Cream Cake](https://open.spotify.com/track/2oLLOxkJWJj9BbrsTc4Xql) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:11 | 2022-03-22 |  |
 | [Ice Cream Cake](https://open.spotify.com/track/5vCuawHQ8Poch1odz9JDpB) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Ice Cream Cake \- The 1st Mini Album](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) | 3:11 | 2022-03-22 | 2024-04-19 |
 | [Iced Coffee](https://open.spotify.com/track/2ciMW7c3kpno8ruu9RkBKg) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:18 | 2023-11-13 |  |
@@ -87,6 +88,7 @@
 | [Little Little](https://open.spotify.com/track/38HpS7Kf5Fgc9VomkvahML) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/01n9lwCLSigXsuY0AdFS9O) | 3:59 | 2022-03-22 |  |
 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 | 2022-03-22 |  |
 | [Love Arcade](https://open.spotify.com/track/10BVwlzgtLNDE7mE8frtmd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 2:56 | 2024-06-24 |  |
+| [Love Condition](https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Condition \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6) | 4:32 | 2025-11-28 |  |
 | [Love Is The Way](https://open.spotify.com/track/12okmCNziVZkDIcEOx0SD9) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:31 | 2022-03-22 |  |
 | [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 | 2025-08-19 |  |
 | [LP](https://open.spotify.com/track/7gs7h249FMYC3U02BimoD6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:27 | 2022-03-22 |  |
@@ -125,6 +127,7 @@
 | [Rookie](https://open.spotify.com/track/69xdFGM7SJkbDf77s0gJEl) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Rookie \- The 4th Mini Album](https://open.spotify.com/album/5Bg49LEfyoZzKpQsEwRCtI) | 3:17 | 2022-03-22 | 2024-04-19 |
 | [SAPPY](https://open.spotify.com/track/0yADs5FhpGm6KyTpCpsRYj) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [SAPPY](https://open.spotify.com/album/5VPEU3WbkAAWCTtqSR4Z3F) | 3:19 | 2022-03-22 |  |
 | [Sassy Me](https://open.spotify.com/track/1GpDAcUjhk3luk6ce8pOi1) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [RBB \- The 5th Mini Album](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) | 3:06 | 2022-03-22 |  |
+| [Say You Love Me](https://open.spotify.com/track/4cGVoziBUY3QM3386qNwE2) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/61k2pEHKJkWbPukgCjrm6P) | 4:12 | 2025-11-28 |  |
 | [Scenery](https://open.spotify.com/track/6soeHzqsg3Q2ugz21bnFR9) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:29 | 2023-11-13 |  |
 | [So Good](https://open.spotify.com/track/0W9HGC75wwxU4YweY045ln) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [RBB \- The 5th Mini Album](https://open.spotify.com/album/7rNIvLwIpB2mwOzk20iqIl) | 3:26 | 2022-03-22 |  |
 | [Somethin Kinda Crazy](https://open.spotify.com/track/10ATkuVoD72aCpLfwC5wiC) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:19 | 2022-03-22 |  |

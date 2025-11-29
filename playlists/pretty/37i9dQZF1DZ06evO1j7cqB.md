@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,247 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,250 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 49 | [Black Flags](https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Eight: Alloyed \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP) | 3:29 |
 | 50 | [On the Road](https://open.spotify.com/track/1ZvTNTwGDDQ3lZdFHGniSQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 5:06 |
 
-Snapshot ID: `aSZDAAAAAABCUhdoYThnMerj0z/g9wcn`
+Snapshot ID: `aSeUgAAAAAAtbaNDoi1vRf0uhHGECtxx`

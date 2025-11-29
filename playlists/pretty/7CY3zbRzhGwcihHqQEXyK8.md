@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 691 songs - 1 day 10 hr 53 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 704 songs - 1 day 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -699,5 +699,18 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 689 | ['Megalovania' For Orchestra](https://open.spotify.com/track/18Kyxj8WjzFonU3yodf3cD) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau), [Walt Ribeiro](https://open.spotify.com/artist/6Okl9534IVWQRRsJamiuJ7) | [Every Song!](https://open.spotify.com/album/0FovKTug6PIv2KoNQeeidp) | 4:59 |
 | 690 | [Megolovania remix](https://open.spotify.com/track/20d1MfIUze0AQuLmBEJitZ) | [Zilence](https://open.spotify.com/artist/01SbpW2cpxmNxMoyocVu9C) | [Blurryplace](https://open.spotify.com/album/4YNjW6S4KiGogs1netIbSh) | 2:48 |
 | 691 | [ORIGINAL VOCALOID SONG](https://open.spotify.com/track/3R2NLh2kn3tyIOwJxAE4Mo) | [ShortKing](https://open.spotify.com/artist/4NQzBMvrgy8WjjHEhr4CBd) | [ORIGINAL VOCALOID SONG](https://open.spotify.com/album/4jN66sN8Bro5qGodl5ldem) | 3:36 |
+| 692 | [Expectations \(with Learke\)](https://open.spotify.com/track/2GrXTxjRdrG6LURgtCcIYR) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 5:28 |
+| 693 | [Dreamscape \(with Learke\)](https://open.spotify.com/track/3LXRyp7WOD8t1xKFPDxApu) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 4:37 |
+| 694 | [STRINGSSYNTHBASSDRUMS \(with Learke\)](https://open.spotify.com/track/0fZGg3dF3s8mVhOTkGUzEz) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 4:22 |
+| 695 | [Descent//WorldOfMine \(with Learke\) \- 2019 Demo](https://open.spotify.com/track/5SMDPEr8XsHCTL1D6F9EX8) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 3:10 |
+| 696 | [Feelings//BlatantLoveSong \(with Learke\)](https://open.spotify.com/track/3BAlNKIGB66I85l8KQcmAZ) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 2:41 |
+| 697 | [All I Had \(with Learke\)](https://open.spotify.com/track/3ryzkO7IVdhLaEgxQSwelM) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 2:31 |
+| 698 | [Music Blxck \(with Learke\)](https://open.spotify.com/track/7IBF8Tf0MFbc97HGvSiAsp) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 3:42 |
+| 699 | [Pressure//MovedOnPt.II \(with Learke\)](https://open.spotify.com/track/7E9jdl1MNltUbQFmRINksc) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 4:49 |
+| 700 | [Balance & Pocket \(Speech Interlude\)](https://open.spotify.com/track/5DlDmK7YeQ6qX208w56hyZ) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 1:24 |
+| 701 | [Stay \(with Learke\)](https://open.spotify.com/track/4Jeo3ia5G194Lm7fnVgI0C) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 4:39 |
+| 702 | [Soundcloudrapper](https://open.spotify.com/track/5iMObLehEX3KmnMijdH7Jc) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 1:15 |
+| 703 | [Outro//VerbalThanks](https://open.spotify.com/track/2yZEy0LdENoWA19u55P3dS) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 5:26 |
+| 704 | [Stay](https://open.spotify.com/track/2hVY1zUxH7mBahyY1LWL2o) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Stay](https://open.spotify.com/album/2Ubm09uwb1KpAJboJZVlLC) | 4:39 |
 
-Snapshot ID: `AAABr0pVJIIcgGX/4BEJDYzKjunYmQmX`
+Snapshot ID: `AAABsbtHy0MBBt8Y7h+Nime31iqf8Z5U`

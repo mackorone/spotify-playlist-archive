@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,862 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,866 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 4 | [hader ik mig selv sammen med dig](https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [hader ik mig selv sammen med dig](https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR) | 2:18 |
 | 5 | [Hello My Old Lover](https://open.spotify.com/track/2ZMetkVW6HlEE5T0Paei2Z) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Hello My Old Lover](https://open.spotify.com/album/576OBHrTMTv0uNbSrCZQHp) | 3:09 |
 | 6 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 |
-| 7 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [](https://open.spotify.com/album/null) | 2:41 |
+| 7 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 8 | [FMT](https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:28 |
 | 9 | [what if home is somebody](https://open.spotify.com/track/5TUNKnsECRCtKUpdWscqvZ) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [what if home is somebody](https://open.spotify.com/album/3bcBT7yzxds1LsF2Juq700) | 3:19 |
 | 10 | [Nobody](https://open.spotify.com/track/6L8xTqmnkf5tdc2p5n9uO5) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Nobody](https://open.spotify.com/album/5XqNvypotKqhHuYHgnjWBa) | 2:58 |
 | 11 | [Blåregn](https://open.spotify.com/track/3CDYrDINLxRhjvvqbSaryC) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 3:07 |
-| 12 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [](https://open.spotify.com/album/null) | 3:52 |
+| 12 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
 | 13 | [fisk i havet](https://open.spotify.com/track/4Tb2FQOqTmsGHuOdN2hKDH) | [Rebekka Ruby](https://open.spotify.com/artist/3M6a4CWJoFU5vzWF2PRBlr) | [fisk i havet](https://open.spotify.com/album/46sdf3VHh7fN08af6blbI3) | 3:05 |
 | 14 | [Vi pumper hjertet op](https://open.spotify.com/track/62ZQfNv9W5HlIOYEjsrc33) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Vi pumper hjertet op](https://open.spotify.com/album/4F0Vp7gGV2GQMUfS1PqGaw) | 5:05 |
 | 15 | [Gjort Hvad Jeg Kan](https://open.spotify.com/track/7nKXclXnCjbZiXv2yo8twY) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gjort Hvad Jeg Kan](https://open.spotify.com/album/2RfVIgXe5IJNwh4yVlym7k) | 3:23 |

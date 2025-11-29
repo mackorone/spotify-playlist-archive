@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Foy Vance
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,843 likes - 135 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,825 likes - 135 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 134 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 |
 | 135 | [Country](https://open.spotify.com/track/4vYEOiAOlID8WQ3SWGiKBc) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Country](https://open.spotify.com/album/4Z4D92KlKggXkN7rauBRtO) | 2:03 |
 
-Snapshot ID: `AAAAACyW+KZ/znNKxFBe9ASmyt91C0qZ`
+Snapshot ID: `AAAAALvHVTrEJq6m2lA3dxFHCf3sAquw`

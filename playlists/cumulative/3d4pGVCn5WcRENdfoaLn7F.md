@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-89 songs - 5 hr 22 min
+90 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Mother of Time](https://open.spotify.com/track/2q0rnBYEAkjWnkKRXv2M7a) | [FourJN](https://open.spotify.com/artist/5JGuRETSauFw2ur3SlobHY) | [Mother of Time](https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86) | 5:02 | 2025-09-25 |  |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-20 |  |
 | [Movimento Barraco](https://open.spotify.com/track/6qAtUlwjZFrpUs8ITyTycQ) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF), [Carbono](https://open.spotify.com/artist/7pjey9YZRudRWPkwyM0L7B), [Helena](https://open.spotify.com/artist/68ykJPo7z4VMBaaLo3ENaE) | [Movimento Barraco](https://open.spotify.com/album/7r9tmeiUiNZ9kNVnegNrwk) | 3:17 | 2025-10-01 |  |
+| [My Energy Transformation](https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 6:21 | 2025-11-29 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-17 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-21 |  |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 |  |

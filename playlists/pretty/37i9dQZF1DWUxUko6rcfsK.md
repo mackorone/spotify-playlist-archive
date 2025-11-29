@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,160 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,143 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [WOLFMAN](https://open.spotify.com/track/6zAsAcqHvvjiEY67kGjhvb) | [Jan Verstraeten](https://open.spotify.com/artist/7upKfBWNUqe6pSUDxNQa2v) | [WOLFMAN](https://open.spotify.com/album/2a8NOG3o9Q7b0Fm2TFROEr) | 4:11 |
 | 60 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 |
 
-Snapshot ID: `AAAAAGuZ1mUPxVzRrH0Zdr+23wPpNtiK`
+Snapshot ID: `AAAAAGBMYDZhFDpyAjdM+sVgvixWYF8c`

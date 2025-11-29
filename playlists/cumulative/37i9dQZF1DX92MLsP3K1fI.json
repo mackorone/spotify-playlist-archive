@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Ana Torroja en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Daniela Spalla y Esteman en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -378,6 +378,24 @@
       "duration_ms": 146440,
       "name": "A Veces A Besos",
       "url": "https://open.spotify.com/track/586nNq2LbKBnjMvtFTrjWJ"
+    },
+    {
+      "album": {
+        "name": "Abr\u00e1zame",
+        "url": "https://open.spotify.com/album/2necl8JtJ9lUI3mXx1zv7L"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184654,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/3J8zlBElo97VLMiLfufyR8"
     },
     {
       "album": {
@@ -3967,6 +3985,24 @@
     },
     {
       "album": {
+        "name": "DISTANTE & tarde !!!",
+        "url": "https://open.spotify.com/album/2EYql05GEvhAARlphRH6xH"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Est\u00e1s DISTANTE",
+      "url": "https://open.spotify.com/track/6tYwbdJWWrHo1l7OrymbUS"
+    },
+    {
+      "album": {
         "name": "Exclusivos",
         "url": "https://open.spotify.com/album/0fh4TVwLVCFHpzlt777dpy"
       },
@@ -4978,7 +5014,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 150960,
       "name": "karma",
       "url": "https://open.spotify.com/track/2AHiQVyuaGHOERDPVlxWRT"
@@ -5312,7 +5348,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 174376,
       "name": "legacy",
       "url": "https://open.spotify.com/track/4Wslzp9UBqMpPFpoRcXsJf"
@@ -5454,7 +5490,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
@@ -7069,6 +7105,24 @@
     },
     {
       "album": {
+        "name": "No me veas as\u00ed",
+        "url": "https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168064,
+      "name": "No me veas as\u00ed",
+      "url": "https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -7376,7 +7430,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 174900,
       "name": "Ojal\u00e1",
       "url": "https://open.spotify.com/track/4OaYDTgruspO8wC9Oz2oEc"
@@ -8622,6 +8676,28 @@
       "duration_ms": 149093,
       "name": "Salida de Emergencia",
       "url": "https://open.spotify.com/track/1HBefn6OkhYL6CuK66bR4l"
+    },
+    {
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181909,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe"
     },
     {
       "album": {
@@ -10545,6 +10621,24 @@
     },
     {
       "album": {
+        "name": "un g que no siente",
+        "url": "https://open.spotify.com/album/7b9t3mIOXbdDz1i5tNWFBt"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162424,
+      "name": "un g que no siente",
+      "url": "https://open.spotify.com/track/1GukOqG5DazqjAZhhEBCNO"
+    },
+    {
+      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/235NJ0yplxfwmTPGCmjQjl"
       },
@@ -10945,6 +11039,24 @@
     },
     {
       "album": {
+        "name": "x lo que nunca fuimos",
+        "url": "https://open.spotify.com/album/6SaoGlc1vdPfqswCBYNBRQ"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161186,
+      "name": "x lo que nunca fuimos",
+      "url": "https://open.spotify.com/track/7JHvhamOKrBvrR1fNMxvSz"
+    },
+    {
+      "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
       },
@@ -11086,7 +11198,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 202714,
       "name": "\u00bfCu\u00e1ndo me toca a m\u00ed?",
       "url": "https://open.spotify.com/track/47QLfnp2Jk4J9DbKEoFXxV"
@@ -11122,7 +11234,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193342,
       "name": "\u00bfEs En Serio?",
       "url": "https://open.spotify.com/track/3r07z9A7JX3Hb6btVCPisu"

@@ -285,6 +285,32 @@
     },
     {
       "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7e0m9lz1AqHRAhDiJHQm8x"
+      },
+      "artists": [
+        {
+          "name": "Mykola Leontovych",
+          "url": "https://open.spotify.com/artist/7vdH45G4aZD0tIf3A74R7n"
+        },
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140493,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/60bVqEfzSfsUPTiuqdmLCR"
+    },
+    {
+      "album": {
         "name": "Beautiful Cello",
         "url": "https://open.spotify.com/album/0mUUsd64PlYJuGsuSfyawn"
       },
@@ -526,7 +552,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 179490,
       "name": "Fairytale of New York - Piano & Strings Version",
       "url": "https://open.spotify.com/track/3q0SyD4WcMzN1MvSYzJlm3"
@@ -1087,6 +1113,32 @@
     },
     {
       "album": {
+        "name": "In The Bleak Midwinter",
+        "url": "https://open.spotify.com/album/51pGZlMTBR9EeAn2CsR1KZ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        },
+        {
+          "name": "Rosie Bennet",
+          "url": "https://open.spotify.com/artist/0kiQ1OKhXM3wmO6IGpJM7E"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138440,
+      "name": "In The Bleak Midwinter",
+      "url": "https://open.spotify.com/track/3czlbEgQDVP39H5BXd7CPH"
+    },
+    {
+      "album": {
         "name": "In the Bleak Midwinter (Arr. for Piano by Martin Stadtfeld)",
         "url": "https://open.spotify.com/album/6ud4LYbVUC9gd8EvKGOrWT"
       },
@@ -1102,7 +1154,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 126986,
       "name": "In the Bleak Midwinter (Arr. for Piano by Martin Stadtfeld)",
       "url": "https://open.spotify.com/track/6dAWKg1egU4uBjLGj2EUL3"
@@ -1128,7 +1180,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 197253,
       "name": "In the Bleak Midwinter, H. 73, No. 1",
       "url": "https://open.spotify.com/track/1wrHwFpnwV4snllIwRMa1y"
@@ -1157,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "A Touch Of December",
+        "url": "https://open.spotify.com/album/3fclWgItqyFKFTuBfxjivJ"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Granneman",
+          "url": "https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155862,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/39iHvNIr3IToSb2wjsU8Ss"
+    },
+    {
+      "album": {
         "name": "Jingle Bells Reimagined",
         "url": "https://open.spotify.com/album/1ZhlvU4jWfrMGMaxcNDi80"
       },
@@ -1168,10 +1238,36 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 155682,
       "name": "Jingle Bells Reimagined",
       "url": "https://open.spotify.com/track/5HY2b7hBXZhOv3VNqoq22U"
+    },
+    {
+      "album": {
+        "name": "JOY - Chapter III (A Winter Meditation)",
+        "url": "https://open.spotify.com/album/3KV9lW1rSuPo63fHGnugi3"
+      },
+      "artists": [
+        {
+          "name": "Ralph Blane",
+          "url": "https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL"
+        },
+        {
+          "name": "Rosey Chan",
+          "url": "https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR"
+        },
+        {
+          "name": "The Sonic Orchestra",
+          "url": "https://open.spotify.com/artist/0aISNBByRLFmedVLCnnapu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1044000,
+      "name": "JOY - Chapter III (A Winter Meditation)",
+      "url": "https://open.spotify.com/track/07Ch6hInPOwVTLurYuwpcj"
     },
     {
       "album": {
@@ -1736,7 +1832,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 243040,
       "name": "Rosey Chan x The Listening Planet",
       "url": "https://open.spotify.com/track/3B6XD4wi46t80Cop4H6lEk"

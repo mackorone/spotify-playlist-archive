@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,876 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,941 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 36 | [I Still Believe](https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [I Still Believe](https://open.spotify.com/album/1qTrw1O98qVzSXZiGwv6ub) | 3:12 |
 | 37 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
 | 38 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
-| 39 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
-| 40 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
+| 39 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
+| 40 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
 | 41 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
 | 42 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
 | 43 | [Steady Love](https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz) | 3:10 |

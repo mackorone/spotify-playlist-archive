@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-80 songs - 5 hr 2 min
+81 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 | 2022-10-30 |  |
 | [Nada que perder](https://open.spotify.com/track/0Las5hgYDIoTaF20OMK4Pm) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [20 Aniversario](https://open.spotify.com/album/2Q93WRwzR0ssaXTylIXDO7) | 3:17 | 2025-02-05 | 2025-10-20 |
 | [Nada que perder](https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder](https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u) | 3:17 | 2024-02-03 | 2024-08-20 |
-| [Nada que perder \- DJ Nano Remix](https://open.spotify.com/track/1oi4usVhLy1KEH9XSolQ2g) | [DJ Nano](https://open.spotify.com/artist/3bxfcfxKQ7rbS93s7jZhiw), [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder \(DJ Nano Remix\)](https://open.spotify.com/album/0xkIQQu8j8ntHWgXxahg4y) | 3:19 | 2024-06-03 |  |
+| [Nada que perder \- DJ Nano Remix](https://open.spotify.com/track/1oi4usVhLy1KEH9XSolQ2g) | [DJ Nano](https://open.spotify.com/artist/3bxfcfxKQ7rbS93s7jZhiw), [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder \(DJ Nano Remix\)](https://open.spotify.com/album/0xkIQQu8j8ntHWgXxahg4y) | 3:19 | 2024-06-03 | 2025-11-29 |
+| [Nada que perder \- DJ Nano Remix](https://open.spotify.com/track/46bvw9omtZyEBzngNePoAg) | [DJ Nano](https://open.spotify.com/artist/3bxfcfxKQ7rbS93s7jZhiw), [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder \(DJ Nano Remix\)](https://open.spotify.com/album/6e9vl1OPyxnuKUo1Op1xYk) | 3:19 | 2025-11-29 |  |
 | [Nassau](https://open.spotify.com/track/3CLgtUfOIHnh7tGc4mez56) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:30 | 2022-10-26 |  |
 | [No aguanto a tu prima](https://open.spotify.com/track/2RlGxlLA26Je05MCjinvQX) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 2:40 | 2023-09-15 |  |
 | [No eres nadie](https://open.spotify.com/track/4wVTDF3hzYHSrEtPYP8oR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 4:07 | 2022-10-26 | 2022-10-31 |

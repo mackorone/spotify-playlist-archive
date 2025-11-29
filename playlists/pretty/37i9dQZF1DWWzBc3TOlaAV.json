@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 985385,
+  "num_followers": 985463,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Beggars Banquet (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 378146,
-      "name": "Sympathy For The Devil - 50th Anniversary Edition",
-      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
         "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Soft Parade",
-        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Green River (Expanded Edition)",
         "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193293,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/1Ay5MiilZj2ZGQLeTWVJ6o"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Soft Parade",
+        "url": "https://open.spotify.com/album/75bLu4Ung5QbMdJYxx7wTI"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4BVE5tIIpYabZcYCbephNW"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
         "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Crosby, Stills & Nash",
-        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 444053,
-      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 133200,
       "name": "Hello, I Love You",
       "url": "https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 444053,
+      "name": "Suite: Judy Blue Eyes - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Gold (International Version)",
-        "url": "https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH"
-      },
-      "artists": [
-        {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Gloria - Stereo Version",
-      "url": "https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 184880,
       "name": "The Sounds of Silence",
       "url": "https://open.spotify.com/track/39CGrUZUozjtjgAASzzB56"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Gold (International Version)",
+        "url": "https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH"
+      },
+      "artists": [
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Gloria - Stereo Version",
+      "url": "https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC"
     },
     {
       "added_at": "2024-07-05 23:26:53",

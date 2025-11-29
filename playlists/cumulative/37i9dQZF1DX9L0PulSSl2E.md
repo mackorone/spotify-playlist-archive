@@ -2,7 +2,7 @@
 
 ### [Chill Karlo](https://open.spotify.com/playlist/37i9dQZF1DX9L0PulSSl2E)
 
-> Sit back, thand rakho te Chill Karlo with Armaan & Arnaaz Gill
+> Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
 65 songs - 3 hr 5 min
 

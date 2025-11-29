@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: 宇多田ヒカル
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,298 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,402 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 11 | [Dot Dot \- IPC VIP MIX](https://open.spotify.com/track/07iHfixt7o93hwZFBldEzc) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Dot Dot \(IPC VIP MIX\)](https://open.spotify.com/album/5NkBLVP5zqWI3ueapHEXx4) | 3:27 |
 | 12 | [GITA!](https://open.spotify.com/track/4BxPj1OsxYkPanOpCma6Ap) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [GITA!](https://open.spotify.com/album/6nnfGs9qbg5Ikt7neBe6iE) | 3:34 |
 | 13 | [Music](https://open.spotify.com/track/0Zq56hN0fhA4dlR0BGGu77) | [play in stereo](https://open.spotify.com/artist/52pMoTflDmenysWghuvU5n) | [Music](https://open.spotify.com/album/6DJWbmhiO6oxxyfNZOaX7W) | 4:25 |
-| 14 | [EUROCLUB](https://open.spotify.com/track/21WVab48Yoo1gZNGf37ysm) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [](https://open.spotify.com/album/null) | 3:37 |
+| 14 | [EUROCLUB](https://open.spotify.com/track/21WVab48Yoo1gZNGf37ysm) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [EUROCLUB](https://open.spotify.com/album/3dErNe80z63631S7obJfB5) | 3:37 |
 | 15 | [Hands Up](https://open.spotify.com/track/03YgRfPfmhYmyBsO7Krmjm) | [Save Me The Trouble](https://open.spotify.com/artist/3qRE812oXiyzvUZyo7csj7), [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T) | [NU SKIN](https://open.spotify.com/album/4yCQ2Xlehh6toBa3v6RgbQ) | 4:31 |
 | 16 | [思惟 \- Albino Sound Remix](https://open.spotify.com/track/7mQcODCpsWaCOO4wnkZhBm) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [Ryu NAKASHIMA](https://open.spotify.com/artist/4C1YIkrF9cfQ4KdH0zeT9G), [Albino Sound](https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0) | [Keep in Touch \- Sounds of Summer 2025 Remixes](https://open.spotify.com/album/7r0adXqc55qEh7TQrZzkik) | 4:36 |
 | 17 | [wingbeatFreq](https://open.spotify.com/track/5sVzRYCEey1upsf9WnfqUM) | [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [Spira1oop](https://open.spotify.com/album/5vFrH1kauZ2tb0dKt81lDx) | 7:50 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 28 | [Out Of My Life](https://open.spotify.com/track/2AU7SNTxOQqaaih9RTyzBe) | [Daitto](https://open.spotify.com/artist/2Cr1yQSJ738W0CCg1AzI86) | [Out Of My Life](https://open.spotify.com/album/3oUu7fTBlGAqDN995obWfD) | 6:24 |
 | 29 | [In Love Again \- Vocal](https://open.spotify.com/track/5YMrcjheuWjngTyH6nmLsO) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [In Love Again \(Vocal\)](https://open.spotify.com/album/3PKmmAbjVAz6VVsPbpE4Af) | 3:23 |
 | 30 | [Fountain](https://open.spotify.com/track/7jCwHd3ooTVE05xlCwyXGS) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [Fountain](https://open.spotify.com/album/4XcVRbMVws0GlDr4bG2gUz) | 2:56 |
-| 31 | [XTC](https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [](https://open.spotify.com/album/null) | 2:37 |
+| 31 | [XTC](https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV) | [Melomaniac 003](https://open.spotify.com/album/5EzpGctzHsFSKTRUU1bvOD) | 2:37 |
 | 32 | [Bump That](https://open.spotify.com/track/5yUtKWNHogX0A6LdE7SgU0) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Bump That](https://open.spotify.com/album/6LS7YMSJZny3BoUTaNWAKt) | 3:59 |
 | 33 | [Feel The Beat](https://open.spotify.com/track/6AneqA6IsYEQ3wcEYXMHBp) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [PRESTi](https://open.spotify.com/artist/1zArjPPHYsIjI88IdAxPsc), [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [SELECTA](https://open.spotify.com/album/3w9BwqNfaGC2IBNwXpOEWc) | 3:24 |
 | 34 | [Onda](https://open.spotify.com/track/4tHMwlnLreWjSR3rPQ2Vsr) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Onda](https://open.spotify.com/album/4eQFrIKfA1yQxgCDq9OARX) | 5:55 |

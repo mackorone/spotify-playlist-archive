@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-795 songs - 1 day 15 hr 43 min
+796 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 | 2023-04-28 |
 | [Alone](https://open.spotify.com/track/1OZLLfRrvELLaTowXNsg30) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [SGAR](https://open.spotify.com/artist/3HhCTUgUQh6tLfQAqCTEmm) | [Alone](https://open.spotify.com/album/4ndufOeALEZHWH2LfvWFQ0) | 3:50 | 2024-02-08 | 2024-08-28 |
 | [Alone](https://open.spotify.com/track/4kvIwyqoAVaho3Ea7feClh) | [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Alone EP](https://open.spotify.com/album/3QS6cvgnMj7JuA0gB12Lq8) | 3:34 | 2022-05-19 | 2023-04-28 |
+| [Alone Tonight](https://open.spotify.com/track/48MPdfrY3sc1hmYp41cTJc) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc) | [Alone Tonight](https://open.spotify.com/album/3ave53sq5zjnw4d5EUUFfD) | 2:44 | 2025-11-28 |  |
 | [Along Your Way](https://open.spotify.com/track/2djlVRaQK1zPwUBYFoTOgl) | [Dust of Apollon](https://open.spotify.com/artist/6AEtbUZpqqqGtkOwRZxSRc), [Pala Chrome](https://open.spotify.com/artist/5PuyEeDaWxDEi7dKpMqIVh) | [Along Your Way](https://open.spotify.com/album/632FZyDyOX2WScV3RK5bWd) | 4:20 | 2024-04-04 | 2024-09-29 |
 | [Alright](https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright](https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh) | 3:14 | 2024-01-09 | 2024-12-09 |
 | [Alright \- Yvvan Back Remix](https://open.spotify.com/track/4Woo81y2nAfzg4nYMsOxdI) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Sync](https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Marky Style](https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme) | [Alright \(Yvvan Back Remix\)](https://open.spotify.com/album/4UsM0dQmN9McwIto28UhgN) | 2:47 | 2024-10-17 |  |

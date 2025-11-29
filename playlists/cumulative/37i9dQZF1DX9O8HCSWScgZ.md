@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-114 songs - 4 hr 21 min
+117 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Airy Dream](https://open.spotify.com/track/0EO2YsUyTRDvXgET97TEsF) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Airy Dream](https://open.spotify.com/album/1WlSFbBa2pcFYD6fuMe8l3) | 2:09 | 2024-10-18 |  |
 | [Amnesia](https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Amnesia](https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67) | 2:25 | 2024-10-18 |  |
 | [Anti Wave](https://open.spotify.com/track/28bRH9L22ZKrm6vo8QE9uI) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Anti Wave](https://open.spotify.com/album/59VRp76KnBFAvAMC1G59Kz) | 2:30 | 2024-10-18 | 2024-11-09 |
+| [At Night](https://open.spotify.com/track/3WjbjxOaLEtdti9V8Y30qC) | [Brø](https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [At Night](https://open.spotify.com/album/5bE0IQ8W5gOcxO5Ctv69zH) | 1:48 | 2025-11-28 |  |
 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2024-10-18 | 2025-11-21 |
 | [Autumn In New York](https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Autumn In New York](https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u) | 1:45 | 2024-10-18 | 2025-09-06 |
 | [Autumn Leaves](https://open.spotify.com/track/0TVNasZT7dOG7EJAxilDx1) | [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Autumn Leaves](https://open.spotify.com/album/1paX5WTymOVXSlyUD1Rq0b) | 2:03 | 2024-10-18 | 2024-10-25 |
@@ -26,13 +27,14 @@
 | [Cherry Orchards](https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv) | [Fuzzy Donut](https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY) | [Northern Lights](https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY) | 2:29 | 2024-10-18 |  |
 | [chime in](https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [chime in](https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca) | 2:14 | 2024-10-18 | 2025-11-08 |
 | [chuli](https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [chuli](https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0) | 2:04 | 2024-11-15 |  |
+| [cirrus](https://open.spotify.com/track/4GPggSBR3PNu6qTjDGNHLo) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [cirrus](https://open.spotify.com/album/71TDVgmpDHv7EjSEs4lvtc) | 2:05 | 2025-11-28 |  |
 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 | 2024-10-18 |  |
 | [dawn to dawn](https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [dawn to dawn](https://open.spotify.com/album/0BKPWdx8EYZxf81MCjot5C) | 2:31 | 2024-10-18 | 2025-09-26 |
 | [Days to Come](https://open.spotify.com/track/7CJ5MPvYa6Hcuz050BDW9F) | [Mr Argyle](https://open.spotify.com/artist/3uXwEhmJJ8hkRJS7nE07sw) | [Days to Come](https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW) | 2:27 | 2024-10-18 | 2025-09-14 |
 | [decorate](https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [decorate](https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt) | 2:25 | 2024-10-18 | 2025-10-17 |
 | [Deep Blue Dream](https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW) | [Curli Loxx](https://open.spotify.com/artist/72VXvG3lgyD6jsQyr6J05m) | [Deep Blue Dream](https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB) | 3:01 | 2024-10-18 | 2025-09-14 |
 | [Dippin' Toes](https://open.spotify.com/track/7ralH7l4bA0HBkABnmADuS) | [Hey Aura](https://open.spotify.com/artist/1LkPLzQZg2M4H0XUWDaclS) | [Dippin' Toes](https://open.spotify.com/album/5RuFLo0jP07yvfPfNBJrMu) | 1:42 | 2024-10-18 | 2024-10-25 |
-| [downstream memories](https://open.spotify.com/track/3bBIcw0sCrz0z3W0UEG29k) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [downstream memories](https://open.spotify.com/album/3AA5PeY5bEZKxYY60HsSek) | 2:32 | 2024-11-08 |  |
+| [downstream memories](https://open.spotify.com/track/3bBIcw0sCrz0z3W0UEG29k) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [downstream memories](https://open.spotify.com/album/3AA5PeY5bEZKxYY60HsSek) | 2:32 | 2024-11-08 | 2025-11-29 |
 | [Dream Drift](https://open.spotify.com/track/5yQXLsJZJBcQQV3mhuWDE4) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Dream Drift](https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi) | 2:04 | 2024-10-18 |  |
 | [Drizzle](https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Drizzle](https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh) | 2:04 | 2024-11-08 | 2025-09-26 |
 | [Eatme](https://open.spotify.com/track/6DnPJtIzURTDpvHts3tZaQ) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Eatme](https://open.spotify.com/album/48xcHcAqiNcaCdGlExb0jA) | 2:15 | 2024-10-18 | 2025-08-17 |
@@ -72,7 +74,7 @@
 | [Long Road Home](https://open.spotify.com/track/0AiFPymAPPa9wt5Lzw8GHM) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Long Road Home](https://open.spotify.com/album/6xJA1S3vUfAmujzyk8Ayx9) | 2:13 | 2024-10-18 |  |
 | [Lucid](https://open.spotify.com/track/2spoQnHvSANa0W6d567SjA) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Lucid](https://open.spotify.com/album/4fLLQYSeCv7meJmc0KnI09) | 2:41 | 2025-10-16 |  |
 | [machine](https://open.spotify.com/track/3O7bHygR4AijQolwOY2nng) | [aroramo](https://open.spotify.com/artist/0WyQmbs3hiSSWf79amKfbr) | [machine](https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz) | 2:08 | 2024-12-11 |  |
-| [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-10-18 |  |
+| [Make It](https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7) | [Berhanio](https://open.spotify.com/artist/3ZkP4NjIpKfyaTf2hTAmkW) | [Make It](https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj) | 1:58 | 2024-10-18 | 2025-11-29 |
 | [Maple Sunsets](https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Maple Sunsets](https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2) | 1:58 | 2024-10-18 |  |
 | [Marupe Blues](https://open.spotify.com/track/0LF6QrzIozQBkdR4OXECEm) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [Marupe Blues](https://open.spotify.com/album/0Tz0WZwkhyKxtvvXlssb32) | 2:12 | 2024-10-18 |  |
 | [Maze](https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Maze](https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW) | 2:12 | 2024-10-18 |  |
@@ -86,7 +88,7 @@
 | [Morning Dew](https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [Morning Dew](https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470) | 2:38 | 2024-11-29 |  |
 | [Natsumi](https://open.spotify.com/track/4GQ8CyrjkROX6hiM7q1d2H) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Natsumi](https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ) | 2:06 | 2024-10-18 |  |
 | [nightvision](https://open.spotify.com/track/574p3oZ9clAcRkM74jhj4d) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [nightvision](https://open.spotify.com/album/6F2olvguA8qhb9u3XJ7zP5) | 2:23 | 2024-10-18 | 2025-11-15 |
-| [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-10-18 |  |
+| [nothing to lose](https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [nothing to lose](https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm) | 2:32 | 2024-10-18 | 2025-11-29 |
 | [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 | 2024-10-18 | 2025-10-17 |
 | [Occasions](https://open.spotify.com/track/5Bf3tZzkgcnpqaGLKkInmV) | [cloudsonmymind](https://open.spotify.com/artist/2YS55Gaa9L2WvDtG3kYRy7) | [Occasions](https://open.spotify.com/album/4KADYqV6KjvdtxhY8MulEA) | 2:22 | 2024-10-18 |  |
 | [Ocean Ride](https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP) | [aunt](https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB) | [Ocean Ride](https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq) | 2:09 | 2024-10-18 |  |
@@ -97,6 +99,7 @@
 | [Paper Kites](https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Paper Kites](https://open.spotify.com/album/2aw3cgdHzSrknrSdyYqhHp) | 2:18 | 2024-10-18 | 2025-10-23 |
 | [plateau](https://open.spotify.com/track/0qi4Lk7uRGRSImdN33hgg7) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [plateau](https://open.spotify.com/album/6ydJwHuW8t3BN4hfgXPKl6) | 2:56 | 2024-10-18 | 2024-10-21 |
 | [rainfall](https://open.spotify.com/track/09pqU72mUtEf18YHWlnNkd) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [rainfall](https://open.spotify.com/album/3N3Q2QbcZdx7Oao0Cpzp5s) | 2:42 | 2024-11-15 | 2024-11-23 |
+| [Rainseat](https://open.spotify.com/track/7Aw4NIhyuW9hyF5WxtKN9m) | [Corridor](https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld) | [Rainseat](https://open.spotify.com/album/0L8V6DITyr1ZSLwpzeJwYz) | 2:05 | 2025-11-28 |  |
 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2025-09-06 |
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-18 |  |

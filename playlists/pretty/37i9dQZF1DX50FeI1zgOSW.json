@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Rudh",
-  "num_followers": 16500,
+  "num_followers": 16505,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFOUuOGLoYZcXzFk6x37aTIcmFz",
+  "snapshot_id": "AAAAAAOg8bvEquzLh01JnzfsxVJ3sQ8V",
   "tracks": [
     {
       "added_at": "2025-11-05 07:36:13",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/5n3yg2rW8wQNK44zPAymgp"
     },
     {
+      "added_at": "2025-11-28 06:00:41",
+      "album": {
+        "name": "Double Bubble",
+        "url": "https://open.spotify.com/album/4tuIRKX9w2wji8uR0mIWBF"
+      },
+      "artists": [
+        {
+          "name": "Pranavi",
+          "url": "https://open.spotify.com/artist/0lE6gkyfAXn202QIjEZOEc"
+        },
+        {
+          "name": "ATCHAYA",
+          "url": "https://open.spotify.com/artist/3fjQhYJFsBFd9FQgi2IrMj"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Double Bubble",
+      "url": "https://open.spotify.com/track/0mfftl4ZihQkOuqPRDGYBK"
+    },
+    {
       "added_at": "2025-11-17 09:19:53",
       "album": {
         "name": "Oh My Baby",
@@ -235,6 +255,26 @@
       "duration_ms": 239933,
       "name": "Rayilae",
       "url": "https://open.spotify.com/track/1r3Kuajxk9orS9Iz6lOyDQ"
+    },
+    {
+      "added_at": "2025-11-28 08:27:37",
+      "album": {
+        "name": "Kasakudhey Kadhal (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/0Uwia7HWjestD788TMGiZ6"
+      },
+      "artists": [
+        {
+          "name": "Ayudha ezhuthu",
+          "url": "https://open.spotify.com/artist/70Cilr5UYqtPrpl6isNatb"
+        },
+        {
+          "name": "Rahul Vishwa",
+          "url": "https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Kasakudhey Kadhal (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/6BLRIBxK7iydaBabKrAYHi"
     },
     {
       "added_at": "2025-11-07 04:30:49",
@@ -1161,30 +1201,6 @@
       "url": "https://open.spotify.com/track/4AgGxKhxwYk4k8sE2FcTuH"
     },
     {
-      "added_at": "2025-09-26 05:00:24",
-      "album": {
-        "name": "ZARA",
-        "url": "https://open.spotify.com/album/205Jpx2wRSumnJRr4uqaJb"
-      },
-      "artists": [
-        {
-          "name": "Kapa Chaitanya",
-          "url": "https://open.spotify.com/artist/0bxFXFHqxa9soCq3lwXEPk"
-        },
-        {
-          "name": "Sashank S",
-          "url": "https://open.spotify.com/artist/6iqetiOakduonjy2U8n4YB"
-        },
-        {
-          "name": "Dinesh Rajendran",
-          "url": "https://open.spotify.com/artist/2iug7kxvE5gghENPriuotP"
-        }
-      ],
-      "duration_ms": 223103,
-      "name": "ZARA",
-      "url": "https://open.spotify.com/track/2nNzswBXvsFM6K8yd7Hpe8"
-    },
-    {
       "added_at": "2025-09-22 12:57:10",
       "album": {
         "name": "Kadhal Idhu Thana (2.0)",
@@ -1623,30 +1639,6 @@
       "duration_ms": 215361,
       "name": "Nettotto",
       "url": "https://open.spotify.com/track/4gyJNevPPkX5ZHYyVLm9LV"
-    },
-    {
-      "added_at": "2025-07-03 08:50:59",
-      "album": {
-        "name": "En Nilav",
-        "url": "https://open.spotify.com/album/4OxD2nnqhV2p68eHISEamf"
-      },
-      "artists": [
-        {
-          "name": "Nidhin Jo Jacob",
-          "url": "https://open.spotify.com/artist/4MLMALTEsKnZaWnM0SbgUJ"
-        },
-        {
-          "name": "Sachin Warrier",
-          "url": "https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK"
-        },
-        {
-          "name": "Gayathri Suresh",
-          "url": "https://open.spotify.com/artist/17KMGAxvstqpaHy7JnxI51"
-        }
-      ],
-      "duration_ms": 204637,
-      "name": "En Nilav",
-      "url": "https://open.spotify.com/track/2SAehaZgtMkygse1UGrZWs"
     },
     {
       "added_at": "2025-06-25 09:04:32",

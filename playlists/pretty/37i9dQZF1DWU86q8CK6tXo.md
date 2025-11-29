@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Amber Mark
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,594 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,598 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 54 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 |
 | 55 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 56 | [Dent](https://open.spotify.com/track/1aPBk61BkA2efpwrSRBFMo) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Dent](https://open.spotify.com/album/08Qgfm6I8ATQE7Vp1Lf8EL) | 3:12 |
-| 57 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
-| 58 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
-| 59 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |
+| 57 | [why why why](https://open.spotify.com/track/2G0xJMt5vfPh3qG95HtiQF) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [why why why](https://open.spotify.com/album/1WPv7AqB9oxxwnNEiDaNBN) | 4:01 |
+| 58 | [Pretty Please](https://open.spotify.com/track/6c3VgJNIX3MKTJZ1J3v8aI) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [In A Perfect World](https://open.spotify.com/album/06KOOjka8sKlRnIM38Og8z) | 3:12 |
+| 59 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 60 | [Perfect Person \(feat\. coop\)](https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv) | [Perfect Person \(feat\. coop\)](https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ) | 2:10 |
 | 61 | [Poetic](https://open.spotify.com/track/7HWnZQeOWZjC3dvGv0d70b) | [The Band JAREN](https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX) | [Poetic](https://open.spotify.com/album/61SHJYAQxMDXr2eT0iJQL8) | 3:48 |
 | 62 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |

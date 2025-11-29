@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,812 likes - 39 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,827 likes - 39 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 9 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 |
 | 10 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 |
 | 11 | [Let Love Lead The Way](https://open.spotify.com/track/5EE1Uzg0JvtBhs6TRs33R0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:58 |
-| 12 | [Say You'll Be There \- 7” Radio Mix](https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:08 |
+| 12 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/4ll3zqElfObKDVSIitAIga) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/57lvVchSIRneTpEjwdlKdi) | 3:29 |
 | 13 | [Who Do You Think You Are](https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:00 |
 | 14 | [Too Much](https://open.spotify.com/track/1RQnYh2xw2BPpnzQFbO5r5) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:31 |
-| 15 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/4ll3zqElfObKDVSIitAIga) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/57lvVchSIRneTpEjwdlKdi) | 3:29 |
+| 15 | [Say You'll Be There \- 7” Radio Mix](https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:08 |
 | 16 | [Viva Forever \(Io ci saro\)](https://open.spotify.com/track/50Ss5LWYLbMl9kCFVschmh) | [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Pavarotti & Friends For The Children Of Liberia](https://open.spotify.com/album/4XnE9LHn91CESCT3kB5RGm) | 4:56 |
 | 17 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 |
 | 18 | [Never Give Up On The Good Times](https://open.spotify.com/track/6RQnRYot6B3TPZsMbbSJ20) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:30 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0dPrdS.md) - [plain]
 | 38 | [Sisters \(Are Doing It For Themselves\) \- Live From Wembley Stadium, UK / 1998](https://open.spotify.com/track/0y2Zg6IkB3YhuA7ygudELZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Goodbye](https://open.spotify.com/album/2lm2EzzckeiF3TJAZ9czOG) | 4:23 |
 | 39 | [Spice Chat 2 “Shall We Say ‘Goodbye’ Then?’](https://open.spotify.com/track/3BDGPPDaW1dwVjOoLO5uPl) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 0:48 |
 
-Snapshot ID: `aSZDAAAAAADNNaiDL8yl4KSaipJq0JFv`
+Snapshot ID: `aSeUgAAAAACEhmzxonJYoK9/HzA15niG`

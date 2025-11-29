@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Zeki Arkun
 
-437 songs - 21 hr 56 min
+439 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 | 2025-07-10 | 2025-09-26 |
 | [Duymuyor Beni](https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Duymuyor Beni](https://open.spotify.com/album/3asOVgkMchNY4aukd8f90a) | 2:39 | 2025-07-10 | 2025-08-26 |
 | [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 | 2024-07-18 | 2024-09-13 |
-| [Dön Bebeğim](https://open.spotify.com/track/3qQ44kTiP2KcAgzfd0j8Du) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Ümit Sayın](https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM) | [Dön Bebeğim](https://open.spotify.com/album/5SeciOVFnFDvwab6T81hbL) | 4:08 | 2025-08-28 |  |
+| [Dön Bebeğim](https://open.spotify.com/track/3qQ44kTiP2KcAgzfd0j8Du) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm), [Ümit Sayın](https://open.spotify.com/artist/04EJLUSUcz99lY4Vy0DYLM) | [Dön Bebeğim](https://open.spotify.com/album/5SeciOVFnFDvwab6T81hbL) | 4:08 | 2025-08-28 | 2025-11-29 |
 | [Dön Geri](https://open.spotify.com/track/4PQPUyhIjnw0QjTvqRVWWT) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Dön Geri](https://open.spotify.com/album/2MD0NhChyhyYmmvuIH6oWS) | 4:09 | 2024-06-27 | 2024-10-31 |
 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 | 2025-03-27 |  |
 | [Dönmüyor Giden](https://open.spotify.com/track/3UXzQ5XshA4IENsaPuo0iW) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Dönmüyor Giden](https://open.spotify.com/album/1jEswdNJeoTuzcTX1sNCLq) | 3:25 | 2025-05-22 |  |
@@ -170,6 +170,7 @@
 | [Giderken](https://open.spotify.com/track/6DcdNWiNPgFGVme662paXx) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Giderken](https://open.spotify.com/album/5QJFCk945XXSzrN9pLbnNa) | 3:17 | 2025-01-23 | 2025-02-07 |
 | [Giderken](https://open.spotify.com/track/0u9vscKsv0ILYhO9imXy2B) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Giderken](https://open.spotify.com/album/2a6ab7JIb4MXOmXxVvkux5) | 4:20 | 2025-08-15 | 2025-11-04 |
 | [Girdap](https://open.spotify.com/track/21S4rAoDEikVpfrxewfVnq) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Girdap](https://open.spotify.com/album/6dVplTK1BBrgvLjmjfCpJT) | 2:37 | 2024-06-27 | 2024-11-12 |
+| [Gönlün Arkada Kaldı](https://open.spotify.com/track/6jhyTPqRdjOCKKWDQnIlA0) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71), [ZEDİ](https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8) | [Gönlün Arkada Kaldı](https://open.spotify.com/album/4tennWdRd4Z34dvVfhYnSA) | 2:13 | 2025-11-27 |  |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2024-06-27 | 2025-07-18 |
 | [Görmeyeli](https://open.spotify.com/track/3kUWBHDjX87A7TcqlazzaB) | [Nazan Öncel](https://open.spotify.com/artist/4li4dx5mFgZlMVeHlARBHP) | [Görmeyeli](https://open.spotify.com/album/0Y1iRff0MBlxV8v8RdcFxL) | 3:00 | 2025-10-23 | 2025-11-06 |
 | [Gözlerin Silah](https://open.spotify.com/track/3g2CDmjkF0Jbn4a7znSH0F) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Gözlerin Silah](https://open.spotify.com/album/40vrmeBLOD6yG33ADnmumm) | 2:07 | 2024-12-05 | 2025-01-27 |
@@ -178,6 +179,7 @@
 | [Güle Güle Anlattım Seni](https://open.spotify.com/track/3cTwNe8huG0WSiwl3NhYsV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Güle Güle Anlattım Seni](https://open.spotify.com/album/5GtEpsNE9gDVi5pdWPwKtx) | 3:14 | 2024-09-12 | 2024-10-28 |
 | [Gülme Sevgilim](https://open.spotify.com/track/1tq2g22lv833CTgldH1Jv0) | [Gökhan Özen](https://open.spotify.com/artist/3QLMLmISoZnFxUdzSoT6JB) | [Gülme Sevgilim](https://open.spotify.com/album/2o4F9OlxwQq4OLWeSOSKYv) | 3:34 | 2025-07-31 | 2025-08-03 |
 | [Gülü Sevdim Dikeni Battı](https://open.spotify.com/track/2I72h0vAqdF0x3GSBs8t2N) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [MELODRAM](https://open.spotify.com/album/0zPAdLw028RRFlspv6SV8H) | 2:20 | 2024-06-27 | 2025-08-01 |
+| [Günler](https://open.spotify.com/track/63tlsNZKeUzfouDqVSRCCO) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Günler](https://open.spotify.com/album/5peLhHRRTQpuw6ZIuYobsy) | 2:51 | 2025-11-27 |  |
 | [HADİ YALLAH](https://open.spotify.com/track/7yX64IrU5m4gHlTB7Y5qy2) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [HADİ YALLAH](https://open.spotify.com/album/3ig7bx1DD6fyl9hgzFs8fC) | 2:47 | 2025-08-07 | 2025-11-20 |
 | [Hain](https://open.spotify.com/track/7ABENqYsfEzv1KHpnlV3Vj) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Hain](https://open.spotify.com/album/6QQvURc9aYL6RTOEfwF1KD) | 3:21 | 2024-06-27 | 2024-08-04 |
 | [HAİNSİN](https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [HAİNSİN](https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx) | 1:57 | 2025-06-26 |  |
@@ -185,7 +187,7 @@
 | [Hallederiz](https://open.spotify.com/track/1amWETYioLvJ8rBJ60XmD9) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hallederiz](https://open.spotify.com/album/1POH7nVd2kQVlq6tDj7lWQ) | 2:35 | 2024-09-12 | 2024-09-27 |
 | [Hançer](https://open.spotify.com/track/3czQaxqJhJeFiSg8cyDdYY) | [Rıza Tamer](https://open.spotify.com/artist/6QG6gseQYnxZfSoq42yINJ) | [Hançer](https://open.spotify.com/album/3eBFwB3r5XWaWMmfezQLFy) | 2:33 | 2025-07-31 | 2025-08-30 |
 | [Hasretinin Şerefine](https://open.spotify.com/track/6ckcM43PRxgbBqU9XJBEpM) | [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [Hasretinin Şerefine](https://open.spotify.com/album/3tOIb1zzOmA9SCh2C3aTnt) | 2:13 | 2025-10-23 |  |
-| [Hayat](https://open.spotify.com/track/3qTboWQnCNNMPCiB5joB3I) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Hayat](https://open.spotify.com/album/15Flt1aydh9h6SLtIPAabK) | 3:24 | 2025-09-25 |  |
+| [Hayat](https://open.spotify.com/track/3qTboWQnCNNMPCiB5joB3I) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Hayat](https://open.spotify.com/album/15Flt1aydh9h6SLtIPAabK) | 3:24 | 2025-09-25 | 2025-11-29 |
 | [Hayat Gelir Ağır Ağır](https://open.spotify.com/track/0uW1vxBFNOmNlHXgHx5CEe) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Hayat Gelir Ağır Ağır](https://open.spotify.com/album/5zJqF6htYIU7ViaskiTklG) | 2:38 | 2025-01-31 | 2025-03-06 |
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 | 2025-02-07 |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |

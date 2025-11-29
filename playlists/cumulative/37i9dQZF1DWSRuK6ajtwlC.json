@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Grupo Retro en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Los Rieleros del Norte en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Dejando Huella... El Final",
+        "url": "https://open.spotify.com/album/6aVJmHZtdMWZxj88L7oWJI"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227226,
+      "name": "Actos De Un Tonto",
+      "url": "https://open.spotify.com/track/6cJzRkCxgWikIKAsJCkoQL"
+    },
+    {
+      "album": {
         "name": "Act\u00faa Normal",
         "url": "https://open.spotify.com/album/5sNcJynltYOykGxvK3VWeU"
       },
@@ -186,6 +204,42 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "album": {
+        "name": "Ac\u00e1 Tambi\u00e9n Hace Aire",
+        "url": "https://open.spotify.com/album/0ta5G4m9XSq522Orx17pzY"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197148,
+      "name": "Ac\u00e1 Tambi\u00e9n Hace Aire",
+      "url": "https://open.spotify.com/track/1IsOkXNOApFqLwBc2CPelX"
+    },
+    {
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
     },
     {
       "album": {
@@ -749,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Maldito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5vZnkMXH16Uk4SYXtYn07f"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "Cambias O Me Pierdes",
+      "url": "https://open.spotify.com/track/1d9jP5F4QzEVVL7r88aXV1"
+    },
+    {
+      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn"
       },
@@ -1126,7 +1198,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 155210,
       "name": "Cositas",
       "url": "https://open.spotify.com/track/361jOt9kNWfgvudSHLITxE"
@@ -1162,7 +1234,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
+      "date_removed": null,
       "duration_ms": 142695,
       "name": "CUANDO PIENSO EN TI",
       "url": "https://open.spotify.com/track/5o5Mu6L1oTCAhyt1jeXjX7"
@@ -1407,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Las Vegas Nevada, Pt. 2 (En vivo)",
+        "url": "https://open.spotify.com/album/03m7CCDbbCrL2L06SIz5qv"
+      },
+      "artists": [
+        {
+          "name": "La Potencia De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2xotal8p4VxpscwCOgy354"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216864,
+      "name": "Dime Quien - En vivo",
+      "url": "https://open.spotify.com/track/681mzZP8i0TJSIdhD1dpUG"
+    },
+    {
+      "album": {
         "name": "Conquistando Tu Corazon",
         "url": "https://open.spotify.com/album/3nsgZwGfyP2XsDHf0y7BeR"
       },
@@ -1422,6 +1512,24 @@
       "duration_ms": 165107,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0htrqb7HRnPxXB7fWXDR5c"
+    },
+    {
+      "album": {
+        "name": "Do\u00f1a Juana",
+        "url": "https://open.spotify.com/album/6DurAAmduojuwozoW2CFMT"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Bravo de Marcelo Vega",
+          "url": "https://open.spotify.com/artist/7i04Ys4Akid01XQIOzQTQU"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192286,
+      "name": "Do\u00f1a Juana - Huapango",
+      "url": "https://open.spotify.com/track/7chXMhihh8QPthkDUOWmpQ"
     },
     {
       "album": {
@@ -1494,7 +1602,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 166343,
       "name": "El Adi\u00f3s",
       "url": "https://open.spotify.com/track/10pbScHlHAc2ztQHECUqGy"
@@ -1744,7 +1852,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 315106,
       "name": "El Son Del Tlacololero",
       "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
@@ -1874,7 +1982,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 175311,
       "name": "En Todos Los Idiomas",
       "url": "https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w"
@@ -2482,7 +2590,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 198687,
       "name": "La Guitarra de Lolo",
       "url": "https://open.spotify.com/track/13OHyNseYByEDHeRzO6sD2"
@@ -2594,7 +2702,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 232970,
       "name": "La Muchacha de los Ojos Tristes - Live",
       "url": "https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF"
@@ -2612,7 +2720,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 166314,
       "name": "La Novena Maravilla",
       "url": "https://open.spotify.com/track/2FCD94ziDenugcxQ3ROu3e"
@@ -3302,7 +3410,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 223968,
       "name": "Mu\u00f1eca De Ojos De Miel",
       "url": "https://open.spotify.com/track/5PbP28y4J2HUkvNkoiGA8z"
@@ -3386,6 +3494,24 @@
       "duration_ms": 172018,
       "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+    },
+    {
+      "album": {
+        "name": "Necesito Decirte",
+        "url": "https://open.spotify.com/album/2BKwFzzxiMOEbzckGX6aY8"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/7A2q0QaLWjnH3ufI4WFzM9"
     },
     {
       "album": {
@@ -3476,7 +3602,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 144981,
       "name": "No Hay Soluci\u00f3n",
       "url": "https://open.spotify.com/track/6bNBT3bdlv8lxrk8mAkrAG"
@@ -4200,7 +4326,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 212013,
       "name": "Quiero Ser (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/4JX70TTm4ZWDaCvS0jQcYC"
@@ -4348,7 +4474,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 172091,
       "name": "Selfie",
       "url": "https://open.spotify.com/track/0oBnWqf8EmbZv9q4Bo5OEk"
@@ -4420,7 +4546,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 182952,
       "name": "Si Te Vuelves A Enamorar",
       "url": "https://open.spotify.com/track/4smntOq9Ze0AI8fcx1hfn0"
@@ -4438,7 +4564,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 189792,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/0sMcEkGA1IzgGXhm9BjfI7"
@@ -4653,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "El Inicio",
+        "url": "https://open.spotify.com/album/4JIegSSZ6WBx5Fg3lCilx6"
+      },
+      "artists": [
+        {
+          "name": "Nueva Pradera",
+          "url": "https://open.spotify.com/artist/020AiDrZJgVabE3TCb0OX5"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210970,
+      "name": "Te Diran",
+      "url": "https://open.spotify.com/track/2JwUfti3BFcfbuag4Bt64s"
+    },
+    {
+      "album": {
         "name": "Te Esperaba",
         "url": "https://open.spotify.com/album/6SVr0PyanOVn49lTKdlwGd"
       },
@@ -4784,7 +4928,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 203853,
       "name": "Te Quiero Mucho",
       "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
@@ -4882,7 +5026,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 193060,
       "name": "Tenemos Algo Muy Bonito",
       "url": "https://open.spotify.com/track/38m7Kg7Vi3ai0f8auLsSJm"
@@ -4990,7 +5134,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 194952,
       "name": "Tu Forma de Ser",
       "url": "https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H"
@@ -5073,6 +5217,24 @@
     },
     {
       "album": {
+        "name": "Honky Tonk Tunes, Vol. 2",
+        "url": "https://open.spotify.com/album/6oONNMEpnk13JfLTixU7jO"
+      },
+      "artists": [
+        {
+          "name": "Petroleros Del Bravo",
+          "url": "https://open.spotify.com/artist/0SN6x6YIRqbchVQRuuDfUJ"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Un Enga\u0144o Mas",
+      "url": "https://open.spotify.com/track/0OJ0yj8VZG4SAXNWHtp9uJ"
+    },
+    {
+      "album": {
         "name": "Un Mujer\u00f3n",
         "url": "https://open.spotify.com/album/6ranPfsbYdUzOmArJcVYer"
       },
@@ -5135,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/69nxk5h7x7fGoj3eOSsUOt"
+      },
+      "artists": [
+        {
+          "name": "El Conjunto F\u00e9nix",
+          "url": "https://open.spotify.com/artist/60uOV99FbQydjSts3NJ012"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Vente Pa' C\u00e1",
+      "url": "https://open.spotify.com/track/4OTkoUy6tGhXLyOA8xHpu1"
+    },
+    {
+      "album": {
         "name": "Vete de Una Vez",
         "url": "https://open.spotify.com/album/2DjS0IvBE7rXCjGzVL1dvO"
       },
@@ -5146,7 +5326,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 188156,
       "name": "Vete de Una Vez",
       "url": "https://open.spotify.com/track/16bfA9balGcxcqKaPgnyjL"
@@ -5392,7 +5572,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 142048,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/5Dfy3shEvp2fNkJe5MQTI2"

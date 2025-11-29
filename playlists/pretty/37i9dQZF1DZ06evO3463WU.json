@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 157103,
+  "num_followers": 157123,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAABoZcgoXD3TCOoKyhPqrtRs",
+  "snapshot_id": "aSeUgAAAAADx/yfajgZ8r2HSWPQHm0hJ",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Fuerte Que Nunca",
         "url": "https://open.spotify.com/album/0KGj7OkeA9Rm6yZ0pVhZZL"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 157175,
       "name": "Nunca Cambies",
       "url": "https://open.spotify.com/track/2aZkwq6MoLBdSDcm8L09mP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/4ZMlISnhTmLaAbWIngyU8O"
     },
     {
       "added_at": null,
@@ -820,13 +820,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 200703,
-      "name": "Con El Alma Marchita",
-      "url": "https://open.spotify.com/track/3qhOgv0VL70qBsU9qZlRHm"
+      "duration_ms": 187050,
+      "name": "Cien Por Ciento Sincero",
+      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
     },
     {
       "added_at": null,
@@ -908,13 +908,13 @@
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         }
       ],
-      "duration_ms": 187050,
-      "name": "Cien Por Ciento Sincero",
-      "url": "https://open.spotify.com/track/5FvEasro5di9caSJDnLZpz"
+      "duration_ms": 200703,
+      "name": "Con El Alma Marchita",
+      "url": "https://open.spotify.com/track/3qhOgv0VL70qBsU9qZlRHm"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

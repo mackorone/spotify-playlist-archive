@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-[Matt Johnson](https://open.spotify.com/user/117687144) - 8,900 likes - 151 songs - 8 hr 5 min
+[Matt Johnson](https://open.spotify.com/user/117687144) - 8,899 likes - 151 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 14 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 |
 | 15 | [Miss You Like Crazy](https://open.spotify.com/track/6QD4kzyVdkvIbCa2yCi0lF) | [Dave Moffatt](https://open.spotify.com/artist/7qwDy02WdmGebMlToaDyoY) | [Miss You Like Crazy](https://open.spotify.com/album/2oSjdkNVIdyTzHyRq7DTMY) | 3:54 |
 | 16 | [For Once in My Life \- Acoustic](https://open.spotify.com/track/67KMSGyRuUiB66SfkXhBaC) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [For Once in My Life \(Acoustic\)](https://open.spotify.com/album/0HoMdL5BTmDdjMiYcaw2JS) | 3:09 |
-| 17 | [Baby I Love You](https://open.spotify.com/track/1tIRAawWBRIcOUqbu4pxt7) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Baby I Love You](https://open.spotify.com/album/3Y21Y9YDCryfDO6lhSmWRS) | 3:14 |
+| 17 | [Never Tear Us Apart](https://open.spotify.com/track/0nrgRYApN2iNRQ3FTZILer) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Never Tear Us Apart](https://open.spotify.com/album/3qjVJQkiIpG2jVKjzWRV3K) | 2:00 |
 | 18 | [In Too Deep \- Acoustic](https://open.spotify.com/track/6dhDsUbIB96e1UX8d0UKHW) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [Cloudsmiff](https://open.spotify.com/artist/0pXvuDolUqUJHNimEsgdM6) | [In Too Deep \(Acoustic\)](https://open.spotify.com/album/017Bceqexkn7Lrxd9ZEhM7) | 2:19 |
 | 19 | [Skinny Love](https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/2dpWqqBl9Faf0Bfo8q4F5u) | 3:21 |
 | 20 | [I Want It That Way \- Acoustic](https://open.spotify.com/track/6PLkxuAnQuGN2zcr56XfYu) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [I Want It That Way \(Acoustic\)](https://open.spotify.com/album/6FleVZQ8V2b3puB2WZgyFl) | 2:46 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/6yU1l4H28UbyNjgTX1ozHv.md) - [plain]
 | 150 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 151 | [Champagne Supernova \- Acoustic](https://open.spotify.com/track/4u4a98HYVpQjhF66sRNMZK) | [Blame Jones](https://open.spotify.com/artist/4FCvYJ06Q8c4AScPG501KY) | [Covers Vol\. 1 \(Acoustic\)](https://open.spotify.com/album/2iKra1NUEayECHIBkJ2sz1) | 2:43 |
 
-Snapshot ID: `AAAF/oOc9Omw465qY4Z3S6EiWWc2cB8x`
+Snapshot ID: `AAAGAIQySANmikZ5Rv9RgmnXwoFHdkzZ`

@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1407,
+  "num_followers": 1408,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADNSy4N82zN7KmlL1mxfcHc",
+  "snapshot_id": "aSeUgAAAAADMkPThyHoNP0pAKRjBapqp",
   "tracks": [
     {
       "added_at": null,
@@ -218,15 +218,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
     },
     {
       "added_at": null,
@@ -288,9 +284,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
@@ -350,11 +346,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,

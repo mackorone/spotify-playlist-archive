@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: ILLIT
 
-1,622 songs - 3 day 13 hr 55 min
+1,623 songs - 3 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,7 @@
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-10 | 2022-06-29 |
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2025-03-07 |
 | [High Horse](https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [High Horse](https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo) | 3:23 | 2025-03-04 | 2025-03-18 |
-| [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 |  |
+| [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 | 2025-11-29 |
 | [Higher](https://open.spotify.com/track/0uQfBXKmq6LEEpgSn42ZdU) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Higher](https://open.spotify.com/album/2eSoUNp5QhPryJ26vPJYbn) | 2:51 | 2025-07-30 | 2025-10-11 |
 | [Hit the Floor](https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Visionary Vision <Performante>](https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs) | 2:57 | 2024-10-23 | 2025-02-01 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-20 | 2022-09-05 |
@@ -1014,6 +1014,7 @@
 | [PERFORMER](https://open.spotify.com/track/2arrxX2BubTq86E4N067WY) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [VENI VIDI VICI](https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO) | 2:53 | 2023-10-27 | 2023-11-04 |
 | [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-17 | 2023-08-01 |
 | [Phantom](https://open.spotify.com/track/1jGfbcAuQepTZhvRT3Sy4s) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Phantom \- The 4th Mini Album](https://open.spotify.com/album/2CEDCFgac8o2GUAkXOmg1G) | 3:47 | 2022-12-27 | 2023-03-18 |
+| [Physics](https://open.spotify.com/track/5lvqkj6EMloJORon6Lr47j) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [Physics](https://open.spotify.com/album/4jUKwi940t0GJWWe0GQSd7) | 2:33 | 2025-11-28 |  |
 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 | 2024-09-06 | 2024-12-06 |
 | [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 | 2023-12-11 | 2024-01-26 |
 | [PINK CLOUD](https://open.spotify.com/track/5UhjW4sOyoi5vwYRj6l8C3) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [nrv](https://open.spotify.com/album/3dpGk03xqeTM8ZRb6NUg1g) | 3:10 | 2025-03-06 | 2025-04-21 |

@@ -4,7 +4,7 @@
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-52 songs - 2 hr 56 min
+53 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Confession](https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [Confession](https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8) | 4:32 | 2024-12-03 |  |
 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 | 2024-12-03 |  |
 | [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 | 2024-12-03 |  |
+| [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 | 2024-12-03 |  |
 | [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 | 2024-12-03 |  |
 | [Everything Burns](https://open.spotify.com/track/31ZtB3YufnF9zY7I1tAICk) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Everything Burns](https://open.spotify.com/album/5GQAmOOjnfq8PgAEm8jgCH) | 2:52 | 2024-12-03 |  |
 | [Faceshopping](https://open.spotify.com/track/2rN1ODOsaNfYu782rw36jR) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN) | 3:56 | 2024-12-03 |  |
@@ -53,7 +54,7 @@
 | [State of Blue](https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F) | [Vincent Jäger](https://open.spotify.com/artist/6p66kIGoRbQ6RMust2p3Ft) | [Freie Interpreten](https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu) | 3:49 | 2024-12-03 |  |
 | [The Heat](https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [The Heat](https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe) | 2:16 | 2024-12-03 |  |
 | [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 | 2024-12-03 |  |
-| [The Rodeo](https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [The Rodeo](https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv) | 3:04 | 2024-12-03 |  |
+| [The Rodeo](https://open.spotify.com/track/3Yx28qSrbZupaKw9pUBHfu) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [The Rodeo](https://open.spotify.com/album/3VPtca7a7ZIpDiAlP6WITv) | 3:04 | 2024-12-03 | 2025-11-29 |
 | [The Thing](https://open.spotify.com/track/41ugiY9z17eniXjCkeFPCj) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [The Thing](https://open.spotify.com/album/7jwHvXTWFpBTgAou7Ut4vL) | 3:16 | 2024-12-03 |  |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2024-12-03 |  |
 | [Time To Smile](https://open.spotify.com/track/1OWGvI17cxmFMilKKigme3) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Time To Smile](https://open.spotify.com/album/0H5TPfIplr5ZhkNsR3ujqX) | 2:58 | 2024-12-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,014 likes - 75 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,108 likes - 75 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 34 | [Slow Dreams](https://open.spotify.com/track/1mrILGidcTcj68OEmOQSy4) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [Slow Dreams](https://open.spotify.com/album/5uFnxrYzEXUlVGBA54psoX) | 2:04 |
 | 35 | [In my blue world](https://open.spotify.com/track/2YvRP8nDOlYxZ7HxQb7vve) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [dancing on clouds](https://open.spotify.com/album/5vIOEA0DcohoObJpkzkPIL) | 2:23 |
 | 36 | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/track/6yVSSd8L2UKvKuw15ZQYTt) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW) | 2:06 |
-| 37 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Astrid Fletcher](https://open.spotify.com/artist/3igWAsVVTd9O8R9KOMSY4K) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
+| 37 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Zack Allen](https://open.spotify.com/artist/66Lcw9CT6905ShD7NP1eNe) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
 | 38 | [Oh My Darling, Clementine](https://open.spotify.com/track/3NctLByx0t5oaDaElVHM2j) | [Paige Rosen](https://open.spotify.com/artist/5Tx246eTkaAi5ZzjBNyNmn) | [Oh My Darling, Clementine](https://open.spotify.com/album/5f3vdWw6khtrpGnYxjB3Hh) | 2:17 |
 | 39 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 |
 | 40 | [Moon, Sun, See Where You Are](https://open.spotify.com/track/2gQyfjfnYiXB1b3jG7Soem) | [Bennie Radcliff](https://open.spotify.com/artist/4Kkr4hETN5QeAeRxjvkZ5U) | [Moon, Sun, See Where You Are](https://open.spotify.com/album/20OQxcjYs4Yjr6am1FX1dk) | 2:05 |

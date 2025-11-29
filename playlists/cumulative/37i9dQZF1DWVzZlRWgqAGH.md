@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Dominique Fils\-Aimé and music for your soul.
+> Dominique Fils\-Aimé  and music for your soul.
 
-1,680 songs - 4 day 2 hr 33 min
+1,682 songs - 4 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 | 2020-07-31 | 2020-09-25 |
 | [By My Side](https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [A Penny For Your Thoughts](https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa) | 2:47 | 2024-09-06 | 2024-10-26 |
 | [C\-Side](https://open.spotify.com/track/6GvAM8oyVApQHGMgpBt8yl) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [C\-Side](https://open.spotify.com/album/76HLskcIOsNyVTdNV6k7aJ) | 4:43 | 2020-01-16 | 2020-03-20 |
-| [Cabin Feva](https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Cabin Feva](https://open.spotify.com/album/18ZMOxwR8uBaZc1n0X9uZx) | 2:48 | 2025-08-01 |  |
+| [Cabin Feva](https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Cabin Feva](https://open.spotify.com/album/18ZMOxwR8uBaZc1n0X9uZx) | 2:48 | 2025-08-01 | 2025-11-29 |
 | [Cactus Water](https://open.spotify.com/track/3HGXe6GnBCbwaOpMcbUd0U) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 3:23 | 2024-07-05 | 2025-02-01 |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-06-28 | 2024-07-06 |
 | [Caldera](https://open.spotify.com/track/5D46bBp3uBW53ZHuS04ERu) | [PS5](https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO) | [Echologia](https://open.spotify.com/album/7bIVzNE03KtbfwnSoqHZRX) | 4:07 | 2024-03-22 | 2024-05-04 |
@@ -267,7 +267,7 @@
 | [Care for Your Mother](https://open.spotify.com/track/0eX41bBBkZ8Pl6v1KStWmm) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Foreigner](https://open.spotify.com/album/6cd5Vc0UrVFjTARhdBWlm2) | 4:13 | 2020-03-13 | 2020-05-22 |
 | [career day](https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Ten Fold](https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3) | 2:19 | 2024-05-10 | 2024-06-22 |
 | [Careful](https://open.spotify.com/track/5KNq33xonNuXuzGyIBvhrs) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk), [RKZ](https://open.spotify.com/artist/0AMakHYrDCxR6EVvenRzlW) | [Careful](https://open.spotify.com/album/3SQQEUw8a9AR1Bt47ZO1Jg) | 2:11 | 2020-09-26 | 2020-10-23 |
-| [Carolina Honey](https://open.spotify.com/track/7frjJZJQYBkL8gbs3udaew) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Honey](https://open.spotify.com/album/5iq5NAPyvNDUB6gdJD6LSb) | 4:10 | 2025-06-13 |  |
+| [Carolina Honey](https://open.spotify.com/track/7frjJZJQYBkL8gbs3udaew) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Honey](https://open.spotify.com/album/5iq5NAPyvNDUB6gdJD6LSb) | 4:10 | 2025-06-13 | 2025-11-29 |
 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 | 2020-12-04 | 2022-04-16 |
 | [Carry Me Away](https://open.spotify.com/track/2ua2zMl11JGJuLyzkhLTxP) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [24 Hr Sports](https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC) | 2:23 | 2025-09-05 |  |
 | [Carry Me Home](https://open.spotify.com/track/3impbLGFvLfRkGrpJpBBX1) | [KOKOROKO](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Carry Me Home](https://open.spotify.com/album/7fwo6lN8RS0xkttftMRHA6) | 5:27 | 2020-03-20 | 2020-04-24 |
@@ -634,6 +634,7 @@
 | [Groove](https://open.spotify.com/track/1fFrOUxypyzX1aqfYo3PFZ) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU) | 2:57 | 2021-08-20 | 2022-10-16 |
 | [Groove](https://open.spotify.com/track/6xWUhj2AAHajZVR7cgFPYG) | [vsteeze](https://open.spotify.com/artist/0giuLyNE6DPql79i42Jpfl), [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5), [PF Elle](https://open.spotify.com/artist/71rYqm8AUyvuzUguU3yaBR) | [Groove](https://open.spotify.com/album/6afCdV55pGn89LiZkplhGY) | 2:57 | 2022-11-11 | 2023-02-28 |
 | [Grow \- A COLORS ENCORE](https://open.spotify.com/track/4NIIAwRjwayqGCk929daQh) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [Grow \- A COLORS ENCORE](https://open.spotify.com/album/0B2AOk5RVaUYGEgxwk8Z8k) | 3:27 | 2021-09-04 | 2022-04-21 |
+| [grow grow grow](https://open.spotify.com/track/0dTb3EQIYiHFVQNDaKkgxF) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t) | [grow grow grow](https://open.spotify.com/album/6NDspPoaZ98hOKEXY16YdK) | 4:44 | 2025-11-28 |  |
 | [Guest](https://open.spotify.com/track/1C70OhbdPDbagZ5bCgMC4g) | [Sofie](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Guest](https://open.spotify.com/album/7qX5w1HKnF8pXvBLWDwrIr) | 4:16 | 2020-06-29 | 2020-07-31 |
 | [Guide Over Us](https://open.spotify.com/track/3JqpaQxu2PmxdiwaSQhUhp) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Guide Over Us](https://open.spotify.com/album/4fIZdtwOg8bnT0fsYjyfUF) | 4:17 | 2025-02-28 | 2025-04-12 |
 | [Guilty Pleasures](https://open.spotify.com/track/09KeOvDkNfymrhNvnfTYAi) | [Wake the Wild](https://open.spotify.com/artist/3gi0dYfoSKUqGYRO9Ixhf9) | [Guilty Pleasures](https://open.spotify.com/album/1IVwoyObWNl60Zk2NLQ7QK) | 4:18 | 2020-10-27 | 2021-05-26 |
@@ -1620,6 +1621,7 @@
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2020-12-03 | 2023-06-25 |
 | [What I Like About You](https://open.spotify.com/track/7BQuXsi9qxPrirAnPF2wq4) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [What I Like About You](https://open.spotify.com/album/5CqT9IRN05wummc3zEqorc) | 3:51 | 2024-03-01 | 2024-07-06 |
 | [What If We Met](https://open.spotify.com/track/5aPtpl2s3lQdQWEnIPzNNJ) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [What If We Met](https://open.spotify.com/album/3fY7YY6B2LIUJ9fA7VZkzs) | 2:01 | 2020-06-29 | 2022-04-21 |
+| [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 | 2025-11-28 |  |
 | [What Kinda Music](https://open.spotify.com/track/4FQytrC7QjGy8mecYCnsuy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music](https://open.spotify.com/album/7rnlxqdiSjjvceJLVMMmmv) | 3:50 | 2020-04-10 | 2020-04-24 |
 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 | 2020-05-29 | 2020-06-29 |
 | [What She Wants](https://open.spotify.com/track/5fwYvJZ8hb7jJzKLtx2oR3) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Big Femme Energy, Vol\. 1 \(Deluxe\)](https://open.spotify.com/album/0S0JqdIOvyZE1NnEIQSGYF) | 3:23 | 2022-04-15 | 2022-04-21 |

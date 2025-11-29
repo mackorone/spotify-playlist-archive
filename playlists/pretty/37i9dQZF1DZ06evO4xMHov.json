@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63342,
+  "num_followers": 63343,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAA7VMFkxnWKC8J6fWlOrfV9",
+  "snapshot_id": "aSeUgAAAAAAzlyiCjkSivMsbtnt4PSMq",
   "tracks": [
     {
       "added_at": null,
@@ -635,30 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jireh",
-        "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Bruno Gra\u00e7a",
-          "url": "https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx"
-        },
-        {
-          "name": "Coral Black To Black",
-          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
-        }
-      ],
-      "duration_ms": 575587,
-      "name": "Jireh",
-      "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u00e7\u00e3o dos Redimidos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3erNcW7hi9cRVSBhZwR7vZ"
       },
@@ -691,6 +667,30 @@
       "duration_ms": 546346,
       "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
       "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jireh",
+        "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Bruno Gra\u00e7a",
+          "url": "https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
+        }
+      ],
+      "duration_ms": 575587,
+      "name": "Jireh",
+      "url": "https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica e Palavra (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Meu Universo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Em Casa (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5Kvc037mncJXV6K8xk244Y"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 392888,
       "name": "Jesus - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1HBBcfWy1lRQiezmcMXhCm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00fasica e Palavra (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Meu Universo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga"
     },
     {
       "added_at": null,

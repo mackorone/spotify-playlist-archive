@@ -2,9 +2,9 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Die\-On, Tel Kel, Souldia
+> Voici les hits du moment\. Photo: Aswell
 
-601 songs - 1 day 7 hr 29 min
+603 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 | 2022-07-09 | 2022-08-27 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2022-08-26 | 2024-03-02 |
 | [Camping](https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Camping](https://open.spotify.com/album/0TKxbWXUfFAdInNrf6WzrQ) | 3:24 | 2022-07-09 | 2024-03-09 |
-| [CANCELLED!](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:31 | 2025-10-31 |  |
+| [CANCELLED!](https://open.spotify.com/track/1appZ3c336FkPvCuywfmrs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:31 | 2025-10-31 | 2025-11-29 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-08-23 | 2025-02-15 |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-09-08 | 2024-06-08 |
 | [Cash Fly](https://open.spotify.com/track/2WbfgQZBWYy1tjH0LyMf2v) | [Lights058](https://open.spotify.com/artist/36MwzuH4MpuCab4p6wXSuq), [Playbe](https://open.spotify.com/artist/26rIuyFJ8XZDDEMjihm2BI) | [Cash Fly](https://open.spotify.com/album/1eIddmbx53Li3GWWe0YZ6a) | 2:53 | 2025-11-14 |  |
@@ -164,6 +164,7 @@
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-02-21 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-11 | 2025-09-19 |
+| [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/album/2L4olMUsbxenCeSKa5Yqhf) | 2:36 | 2025-11-28 |  |
 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 | 2025-02-21 |  |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2025-02-08 |
 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 | 2022-07-29 | 2022-12-17 |
@@ -203,7 +204,7 @@
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-04-11 | 2023-04-14 |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2022-07-30 | 2022-12-06 |
 | [Fake Friends](https://open.spotify.com/track/0fLtJ2vxAkjyRuERSu5rkx) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Billie du Page](https://open.spotify.com/album/0PyyoYubTwyIKo8m3v2hUX) | 3:00 | 2024-10-25 |  |
-| [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-06-23 |  |
+| [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 | 2025-06-23 | 2025-11-29 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-31 | 2024-03-30 |
 | [Father Figure](https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:32 | 2025-10-31 |  |
 | [Fausse note](https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Fausse note](https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm) | 2:36 | 2024-07-05 | 2024-07-13 |
@@ -306,6 +307,7 @@
 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 | 2023-11-10 | 2024-01-05 |
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2024-03-15 | 2025-05-24 |
 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 | 2023-08-04 | 2023-09-16 |
+| [Last Name](https://open.spotify.com/track/7fHldbxnhn9KhxvT9yaZZh) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Last Name](https://open.spotify.com/album/1tpSQrRlwWshSnANDCu8FO) | 3:10 | 2025-11-28 |  |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-17 | 2023-08-26 |
 | [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-09-08 | 2024-07-06 |
 | [Lay Your Light](https://open.spotify.com/track/3kCmzbZL8reWDvZC6NeRF5) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Lay Your Light](https://open.spotify.com/album/4huCKmPCm8AYNAriM7QWDE) | 2:53 | 2025-05-16 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Maria Rodés.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,164 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,216 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Malo](https://open.spotify.com/track/47jmflHshtToQFN4iLBK6T) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [](https://open.spotify.com/album/null) | 2:32 |
+| 1 | [Malo](https://open.spotify.com/track/47jmflHshtToQFN4iLBK6T) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Lo Que Me Pasa](https://open.spotify.com/album/42yV6DNDY5Cy2yDj9RG32F) | 2:32 |
 | 2 | [Tiempos Raros](https://open.spotify.com/track/5eCCQYtrIigh6FAboG6ac0) | [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [Tiempos Raros](https://open.spotify.com/album/4U4tZdAU3vwRRYEHiWvC0X) | 3:58 |
 | 3 | [Latemotiv](https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [El único ser sin talento](https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH) | 3:08 |
 | 4 | [muy buena suerte!](https://open.spotify.com/track/3svm7a4nFjzomdx3LPdUpI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [muy buena suerte!](https://open.spotify.com/album/57CGytyS2RkWvv18uxlLnI) | 3:16 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 20 | [Que Tapen El Sol](https://open.spotify.com/track/5Tg326RY8O4HKnLOtxmuHi) | [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn) | [Dame Más Tiempo](https://open.spotify.com/album/4QoSmUOjJEnfvvTnTsXiBl) | 3:13 |
 | 21 | [Solo Tú](https://open.spotify.com/track/0OO6GzKsFo2qm67dKcr376) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY), [Anouck The Band](https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag) | [Mi Amor, Mon Amour, Amore Mio](https://open.spotify.com/album/60N2QJ9IHDGhcxnjwgDajy) | 3:04 |
 | 22 | [SINGAPUR](https://open.spotify.com/track/6hGPhNuiUEjtUEkOxGDbss) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SINGAPUR](https://open.spotify.com/album/586rEprlnKrkeirPWmzfBM) | 1:36 |
-| 23 | [Que X Bien No Venga](https://open.spotify.com/track/4ggvW54DPjsVSkd8FqQY6i) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [](https://open.spotify.com/album/null) | 3:12 |
+| 23 | [Que X Bien No Venga](https://open.spotify.com/track/4ggvW54DPjsVSkd8FqQY6i) | [CURRO](https://open.spotify.com/artist/4XhT1FjFitmnu6N6UE38eH) | [Dios Dirá, Dios Proveerá](https://open.spotify.com/album/4ufxpTTu6rBLm7ZhKAXsgI) | 3:12 |
 | 24 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
 | 25 | [He soñado que tocaba en Triángulo de Amor Bizarro](https://open.spotify.com/track/413CQteE6gAiIg1XbwRArs) | [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [He soñado que tocaba en Triángulo de Amor Bizarro](https://open.spotify.com/album/3IsNvmHEnKDcgCCm07PgVk) | 4:27 |
 | 26 | [80 cerillas](https://open.spotify.com/track/2XRLIpEXlFGIPi3XzxxZNf) | [Ona Mafalda](https://open.spotify.com/artist/6HomUrLEVWcZjlXQTEjMyb) | [Reset](https://open.spotify.com/album/0YVmZnTxwPMfUFQ3LxEojk) | 2:37 |
-| 27 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [](https://open.spotify.com/album/null) | 2:21 |
+| 27 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
 | 28 | [Vecino Peligroso](https://open.spotify.com/track/2EQmrQGpEgzBQ3h1Qik5WD) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Vecino Peligroso](https://open.spotify.com/album/4tC3B1udK6INb4uawZNDim) | 3:39 |
 | 29 | [MADRE DE MIS HIJOS](https://open.spotify.com/track/1eMjtYompgiSwhtMHxl5UM) | [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [MADRE DE MIS HIJOS](https://open.spotify.com/album/0ekQycE0fxYcdvmSq6wfGW) | 3:07 |
 | 30 | [Ya No TK](https://open.spotify.com/track/6VjF5goiDLjpelRVglGAp3) | [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Ya No TK](https://open.spotify.com/album/76AAXMvZBispnIoU6nedN0) | 3:32 |

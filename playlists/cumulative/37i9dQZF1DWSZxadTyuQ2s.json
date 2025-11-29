@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-11",
-  "description": "The sound of Afrobeats echoing around the world. Cover:  Ludmilla \ud83c\udde7\ud83c\uddf7",
+  "description": "The sound of Afrobeats echoing around the world. Cover:  Ludmilla",
   "name": "Global Afrobeats",
   "tracks": [
     {
@@ -76,6 +76,28 @@
       "duration_ms": 135576,
       "name": "Awolowo",
       "url": "https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133743,
+      "name": "Baby (feat. Minz)",
+      "url": "https://open.spotify.com/track/6YQgFBhoO8y1GZUX8imNgL"
     },
     {
       "album": {
@@ -1014,7 +1036,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 177457,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48"
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 166250,
       "name": "mieux en mieux",
       "url": "https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ"
@@ -2082,6 +2104,28 @@
       "duration_ms": 142640,
       "name": "Zota (feat. Tayc)",
       "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
+    },
+    {
+      "album": {
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176975,
+      "name": "\u2060State Of My Heart",
+      "url": "https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s"

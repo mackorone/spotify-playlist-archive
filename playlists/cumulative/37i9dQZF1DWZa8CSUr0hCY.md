@@ -4,7 +4,7 @@
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-269 songs - 11 hr 52 min
+270 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 | 2020-10-20\* | 2022-08-31 |
 | [Backwards](https://open.spotify.com/track/5FdqPo0Wg2ybDQ7tLEURwz) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Hip Dozer, Vol\. 6](https://open.spotify.com/album/2UPZZagR1OvO6uuouU1qJ0) | 3:54 | 2022-04-28 | 2022-08-31 |
 | [BAGS](https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ) | [Seame](https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU) | [BAGS](https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52) | 2:21 | 2024-08-29 |  |
+| [Balcony Brunch](https://open.spotify.com/track/382zMwH9fiEFPIYdaAch9I) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Balcony Brunch](https://open.spotify.com/album/2OINrl8R6cffaS1LSeXoh7) | 2:03 | 2025-11-28 |  |
 | [Beach Flowers](https://open.spotify.com/track/4rfqbamBmNANSJagibCaal) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Beach Flowers](https://open.spotify.com/album/76CKcn5LDD09atNLtSwn4R) | 1:36 | 2022-08-30 |  |
 | [Bedroom Blues](https://open.spotify.com/track/4t3Z814iGT0URcS0ngMEFk) | [Chewsday](https://open.spotify.com/artist/2HGON9HbOgKaYL7F6IIYLU) | [Bedroom Blues](https://open.spotify.com/album/1LQtGwotUfxdGcvaUckfhx) | 2:07 | 2022-08-30 |  |
 | [before dawn](https://open.spotify.com/track/1M40Bxzt6dn8KO86DZYEme) | [Iddy P](https://open.spotify.com/artist/0JZwamLi5bDuUwYybNnFoF) | [before dawn](https://open.spotify.com/album/1sRhJcsZFbkn2e5x6GQN3E) | 3:12 | 2022-08-30 | 2023-12-22 |
@@ -69,7 +70,7 @@
 | [Dusk to Dawn](https://open.spotify.com/track/6WuZeRJ8RWPdNgtqLNqn4F) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Dusk to Dawn](https://open.spotify.com/album/5UBtUeQ9d4Vgf5qCZVw5fm) | 5:25 | 2022-04-28 | 2022-08-31 |
 | [Early Spring](https://open.spotify.com/track/5nMaFvH4APmJipUSAMYmUQ) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Early Spring](https://open.spotify.com/album/62IVBKLCnO60HfCkefrOEg) | 3:08 | 2022-04-28 | 2022-08-31 |
 | [Eclipse](https://open.spotify.com/track/5H1tKPVBdaVyt9dkmBlSDV) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Eclipse](https://open.spotify.com/album/4Clb3sOSCzx7LvSmm52jeB) | 2:27 | 2022-08-30 |  |
-| [Eggin](https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Eggin](https://open.spotify.com/album/7yHrYH37amcjPBuu2NxHwN) | 1:58 | 2022-08-30 |  |
+| [Eggin](https://open.spotify.com/track/3X1ESRtZOrGiB5r3gobKZA) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Eggin](https://open.spotify.com/album/7yHrYH37amcjPBuu2NxHwN) | 1:58 | 2022-08-30 | 2025-11-29 |
 | [Ekans](https://open.spotify.com/track/2PaFzDcgVZIHqN8XvV4azQ) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [KEEN: Soft Beats Vol\. 1](https://open.spotify.com/album/3VgJOpq6wEKsHtn2zb7LKi) | 2:20 | 2020-10-20\* | 2022-07-29 |
 | [Ekans](https://open.spotify.com/track/7etPnsz665GchBQlo9xoTs) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Beet Tape](https://open.spotify.com/album/4TSN6CGuxQKxsG8dFgBreC) | 2:21 | 2022-04-28 | 2022-08-31 |
 | [El Manaba](https://open.spotify.com/track/6MwN6feVdE1qMsl6RwlxyG) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Hip Dozer, Vol\. 3](https://open.spotify.com/album/0KoSsP5po1jU95aGj4g14j) | 2:16 | 2020-11-06 | 2022-08-31 |

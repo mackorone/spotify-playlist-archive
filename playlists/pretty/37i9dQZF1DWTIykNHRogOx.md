@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec ESTL
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,727 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,752 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 9 | [j'aime pas les goodbye](https://open.spotify.com/track/5MJaU2ZMX1Xlr5IwNupuGV) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [j'aime pas les goodbye](https://open.spotify.com/album/0z1GWEkjSAtYmgU6CdkdFs) | 2:03 |
 | 10 | [Fallait pas nous inviter](https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Fallait pas nous inviter](https://open.spotify.com/album/0A6uj8p3OaEdTQn5Uw68L0) | 3:07 |
 | 11 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
-| 12 | [Amor à mort](https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [](https://open.spotify.com/album/null) | 2:59 |
+| 12 | [Amor à mort](https://open.spotify.com/track/6K9CsKaZ17zb4oPdXeEz7W) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [\(Re\)commencement](https://open.spotify.com/album/66PFQJXeRUIBc9IiPYAKvg) | 2:59 |
 | 13 | [Regarder passer les trains](https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Regarder passer les trains](https://open.spotify.com/album/1j5ehAXMc9wjpDuUWneVpt) | 4:13 |
 | 14 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO) | 2:52 |
 | 15 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 |

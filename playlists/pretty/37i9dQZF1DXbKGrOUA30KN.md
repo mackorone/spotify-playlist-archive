@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: verifiziert
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,210 likes - 90 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,197 likes - 90 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [besser so](https://open.spotify.com/track/75a0tGKSqVuLZ8CBtkTHhC) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [besser so](https://open.spotify.com/album/7qV8IL3t34DiDgZ9CALFPP) | 2:53 |
 | 2 | [ich brauch dich.](https://open.spotify.com/track/1s4T9OQo5ffusLx3KEN1Sq) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [ich brauch dich.](https://open.spotify.com/album/0uH1HmKWnNiFsSmcoPCEkg) | 2:26 |
-| 3 | [Crashout gehen](https://open.spotify.com/track/5FSa7VpkTwOkWbRnK8es8G) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [](https://open.spotify.com/album/null) | 2:05 |
+| 3 | [Crashout gehen](https://open.spotify.com/track/5FSa7VpkTwOkWbRnK8es8G) | [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Von Herzen](https://open.spotify.com/album/196nLCRRbiCkhMgxOylMUU) | 2:05 |
 | 4 | [du tust gut](https://open.spotify.com/track/6o3SDKyhafgyblwMkZouHF) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [du tust gut](https://open.spotify.com/album/46c3AxzJUt0AGDA4fHHxvX) | 2:16 |
 | 5 | [Doktor Doktor](https://open.spotify.com/track/1P2CfJixPtgRQkBEgZl7Jq) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Doktor Doktor](https://open.spotify.com/album/0tMdfQhBku9acAvBGS3Ta6) | 2:20 |
 | 6 | [Mauern aus Granit](https://open.spotify.com/track/3BPns5Bo5yH8QLcpdWhLCT) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:33 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 23 | [Danke](https://open.spotify.com/track/0lpjEhFcFm3LteosHoql7s) | [Anne West](https://open.spotify.com/artist/7vnzT1IcZ6hjENfvQBeBQP), [Patwah](https://open.spotify.com/artist/5I6Hd0R3MaBEvxOtGkA6Jw) | [Danke](https://open.spotify.com/album/4SjGbewefiDtHhkUexQ1Md) | 3:00 |
 | 24 | [Alles nur für dich](https://open.spotify.com/track/0kk9ClYWK8rDwtfc5ORjNt) | [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Alles nur für dich](https://open.spotify.com/album/0pLLbgRgu0X5TPxpcqpiIS) | 2:11 |
 | 25 | [Geboren um zu leben](https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Geboren um zu leben](https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray) | 2:48 |
-| 26 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [](https://open.spotify.com/album/null) | 2:01 |
+| 26 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zeitraffer](https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq) | 2:01 |
 | 27 | [Scherben](https://open.spotify.com/track/4nlGk2Eg1rjXhU4wXcIO0Z) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [Scherben](https://open.spotify.com/album/1uKhs1Xn1h7iLDUdZ8D3D5) | 2:23 |
 | 28 | [Russisch Roulette](https://open.spotify.com/track/4dl2chQiBfJdYqRtSYtQjj) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Russisch Roulette](https://open.spotify.com/album/7f5CCT665VoRN0cqagPqJs) | 2:50 |
 | 29 | [Innenleben](https://open.spotify.com/track/1EsJ3gbfCc8cBng3HbQU0O) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [INNENLEBEN](https://open.spotify.com/album/1lusCOu3YELL3WLCyq17oM) | 2:23 |

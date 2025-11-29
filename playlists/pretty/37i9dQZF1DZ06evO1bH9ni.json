@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 346541,
+  "num_followers": 346616,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAACSNPGcNCTlh+N2ceD4h6bU",
+  "snapshot_id": "aSeUgAAAAABlqZWixZpxVzAKShBpShjT",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tronando Ligas",
+        "url": "https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "El Gerry Oficial",
+          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
+        }
+      ],
+      "duration_ms": 133205,
+      "name": "Tronando Ligas",
+      "url": "https://open.spotify.com/track/70fLGCLWTSyuI76dNhQboT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Llorar",
         "url": "https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 231839,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tronando Ligas",
-        "url": "https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "El Gerry Oficial",
-          "url": "https://open.spotify.com/artist/1HcpnkXa6w9PuTKwB1hduQ"
-        }
-      ],
-      "duration_ms": 133205,
-      "name": "Tronando Ligas",
-      "url": "https://open.spotify.com/track/70fLGCLWTSyuI76dNhQboT"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 159694,
-      "name": "Mis Ra\u00edces",
-      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Carnales Con Sax",
         "url": "https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 227554,
       "name": "El Estr\u00e9s",
       "url": "https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 159694,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D"
     },
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Federal de Caminos",
-        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
+        "name": "Cholos al Punto",
+        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
       "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 183756,
-      "name": "El Federal de Caminos",
-      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
+      "duration_ms": 159056,
+      "name": "Cholos al Punto",
+      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
     },
     {
       "added_at": null,
@@ -555,18 +551,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cholos al Punto",
-        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
+        "name": "El Federal de Caminos",
+        "url": "https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl"
       },
       "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 159056,
-      "name": "Cholos al Punto",
-      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
+      "duration_ms": 183756,
+      "name": "El Federal de Caminos",
+      "url": "https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Borracho",
+        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Estar\u00e9 Aqu\u00ed",
         "url": "https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b"
       },
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Borracho",
-        "url": "https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta"
+        "name": "El Troquero",
+        "url": "https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 168542,
-      "name": "Home Run",
-      "url": "https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC"
+      "duration_ms": 186124,
+      "name": "El Troquero",
+      "url": "https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 157107,
       "name": "El Mismo - En Vivo",
       "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Troquero",
-        "url": "https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 186124,
-      "name": "El Troquero",
-      "url": "https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7"
     },
     {
       "added_at": null,

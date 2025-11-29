@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Skinny, Papa e Nerissima in cover della playlist street italiana ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,108 likes - 54 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,143 likes - 54 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 37 | [NON METTERCI BECCO](https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:02 |
 | 38 | [UOMO CATTIVO \(feat\. Nabi\)](https://open.spotify.com/track/3nv625SWTqVVctz7AtecoY) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [PROGETTO X](https://open.spotify.com/album/7wnvQLGtbRN9Y4zpCVYxdX) | 3:16 |
 | 39 | [Larry Hoover](https://open.spotify.com/track/7eScENac9mVHxi7kts5pBH) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Larry Hoover](https://open.spotify.com/album/0h1lFD5K1MjHVPnEiUyTXK) | 2:35 |
-| 40 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 4:42 |
+| 40 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 |
 | 41 | [WHIGGA \(feat\. Guè\)](https://open.spotify.com/track/2eYc45COhMTgbyrLG4nHWO) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 2:42 |
 | 42 | [No Pinscher \(feat\. Nerissima Serpe, Papa V & Rhove\)](https://open.spotify.com/track/6qaIxiM2EFYaec3oBaRqwj) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Best](https://open.spotify.com/album/169sTK9nskG7EdmL78KR8y) | 2:38 |
 | 43 | [38 \(feat\. RRARI DAL TACCO, Artie 5ive\)](https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:44 |

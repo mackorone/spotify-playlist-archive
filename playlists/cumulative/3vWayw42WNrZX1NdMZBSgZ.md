@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Shakira, Rauw Alejandro  Shakira, and more!!! Cover:Trueno
 
-933 songs - 2 day 1 hr 38 min
+934 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Dame Un Chance \(La Cumbia Bélica\)](https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg) | 3:00 | 2023-03-29 | 2023-06-01 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3H0MZWoFs9THnbYbjFkeHn) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ETERNO](https://open.spotify.com/album/2QIiq3VZhg6GNB2JGdU7tm) | 2:40 | 2025-05-21 | 2025-11-22 |
 | [Dangerous](https://open.spotify.com/track/1B7Wxx58QV4xrCjxI4Uu3i) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:39 | 2022-02-10 | 2023-05-26 |
+| [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2025-11-28 |  |
 | [Darte un Beso](https://open.spotify.com/track/5t0utbhFAKXft3KS1votgM) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Peter Nieto](https://open.spotify.com/artist/3awr6bI2IAMghTMbzv4Pi6) | [Darte un Beso](https://open.spotify.com/album/2DQGvsdkyMxONRjpy7E3Iq) | 4:02 | 2023-05-26 | 2023-06-02 |
 | [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 | 2024-04-19 | 2025-09-12 |
 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-02-03 | 2023-05-26 |

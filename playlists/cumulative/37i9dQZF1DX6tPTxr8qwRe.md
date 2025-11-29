@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Mad Tsai on the cover
 
-1,022 songs - 1 day 23 hr 11 min
+1,025 songs - 1 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [CHOKE](https://open.spotify.com/track/79Su9VyzxvgDUwqcSATn8O) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [CHOKE](https://open.spotify.com/album/6F9PXpFXHnlLmhR2c0yReW) | 2:10 | 2024-10-25 | 2025-04-12 |
 | [Cinderella Snapped](https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Cinderella Snapped](https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n) | 2:53 | 2023-03-03 | 2023-09-04 |
 | [cinderella's dead](https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [cinderella's dead](https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS) | 2:00 | 2022-04-01 | 2022-09-17 |
+| [Claws](https://open.spotify.com/track/4lOAlq0GpCLH7VqlFOmCVJ) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Claws](https://open.spotify.com/album/0w7WFXa2rHkGhXcfyCFSlc) | 2:47 | 2025-11-28 |  |
 | [Cleveland](https://open.spotify.com/track/6ulsl4FHrnizQRUi4ra6yY) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Cleveland](https://open.spotify.com/album/4F1tKsIxoQMCUqzSXxtZVG) | 3:10 | 2023-10-20 | 2024-01-27 |
 | [CLINGY](https://open.spotify.com/track/5OxYShyvkoXuUqKIgdFzhL) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [CLINGY](https://open.spotify.com/album/32bSkiLlTyQILJTpMnjyrq) | 3:24 | 2025-05-02 | 2025-08-16 |
 | [Closer to the moon](https://open.spotify.com/track/2PBpKrVVmbnrV91i56zT1I) | [Anya Nami](https://open.spotify.com/artist/1A7NzAUPSwbUmfyGEmRM7h) | [Closer to the moon](https://open.spotify.com/album/2Akcv0BSbX9D1CjsaT0Ndl) | 3:59 | 2024-12-20 | 2025-05-03 |
@@ -477,7 +478,7 @@
 | [IDK Her](https://open.spotify.com/track/2qPrqTrbIldabTPUxJjEHJ) | [Lillian Hepler](https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I) | [IDK Her](https://open.spotify.com/album/10TQ4wvoqfXlpmJRSkNRMJ) | 2:13 | 2023-12-01 | 2024-03-30 |
 | [IDK How To Talk To Girls](https://open.spotify.com/track/0p3aRTHUnbMApaSnlHrRy1) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [IDK How To Talk To Girls](https://open.spotify.com/album/6AsWIrXIJHsprEatrjLdhR) | 2:40 | 2024-01-05 | 2024-06-29 |
 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 | 2023-10-06 | 2023-11-11 |
-| [if i can't feel you](https://open.spotify.com/track/39N6mOBiYgQ5iV7i0UJVVw) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [if i can't feel you](https://open.spotify.com/album/6Nl9898GB1LDTqyWWGW57D) | 2:28 | 2025-08-29 |  |
+| [if i can't feel you](https://open.spotify.com/track/39N6mOBiYgQ5iV7i0UJVVw) | [Lourdiz](https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an) | [if i can't feel you](https://open.spotify.com/album/6Nl9898GB1LDTqyWWGW57D) | 2:28 | 2025-08-29 | 2025-11-29 |
 | [if jesus saw what we did last night](https://open.spotify.com/track/4a65gfI09BeAqNaIcAgYmL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [if jesus saw what we did last night](https://open.spotify.com/album/6y8XFE6QYJidrA9I89pZRV) | 2:48 | 2025-02-21 | 2025-06-28 |
 | [if u wanna](https://open.spotify.com/track/6mEK3cHEpff9eFfdoWMzns) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [if u wanna](https://open.spotify.com/album/3WUiDmWbTdzTqHTzS0u0Q9) | 2:23 | 2022-01-14 | 2022-03-18 |
 | [If You’re Into That](https://open.spotify.com/track/4BkQq2ZQ5ziixtXfMS8Oab) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Roses](https://open.spotify.com/album/6SELPx1TMG3G328lQ9euY7) | 2:41 | 2025-10-17 |  |
@@ -622,6 +623,7 @@
 | [MOST WANTED MAN](https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [MOST WANTED MAN](https://open.spotify.com/album/4RjkqlSc7GqoqyOYqOtXOx) | 2:47 | 2024-09-06 | 2025-01-25 |
 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 | 2022-09-09 | 2023-02-04 |
 | [MOVE](https://open.spotify.com/track/5FPfUz8dqrJmZEA0hV2nwT) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [MOVE](https://open.spotify.com/album/5WE3dloLqYGlTZi3bmQLJm) | 5:02 | 2025-07-11 | 2025-10-05 |
+| [mR.mELoDramAtiC](https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 2:52 | 2025-11-28 |  |
 | [Muddy Feet \(feat\. Sia\)](https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:16 | 2023-03-10 | 2023-04-09 |
 | [MURDER MY FEELINGS](https://open.spotify.com/track/5ew8NaSZdrhpRfJaN8ni2A) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/0HQB2AgiDGDFkFgvSRYqAM) | 2:44 | 2023-09-15 | 2024-01-13 |
 | [MURDER MY FEELINGS](https://open.spotify.com/track/5zjOUGpiYeu1FgEDp0OPav) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [MURDER MY FEELINGS](https://open.spotify.com/album/5BmdCH0bW2traxlvxUhOib) | 2:44 | 2023-07-28 | 2023-09-16 |
@@ -827,7 +829,7 @@
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-08 | 2024-04-24 |
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
 | [spiderwebs](https://open.spotify.com/track/3zkguegMPvaPcmHaUzIeN2) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [spiderwebs](https://open.spotify.com/album/1fGjcMkLO4Yh7tNVaisrPh) | 2:39 | 2025-10-31 |  |
-| [spine](https://open.spotify.com/track/110UHz4b6xuwsAigLAg1DL) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [spine](https://open.spotify.com/album/3yyz6xJJuuB24PfoMKDbAZ) | 2:26 | 2025-08-22 |  |
+| [spine](https://open.spotify.com/track/110UHz4b6xuwsAigLAg1DL) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [spine](https://open.spotify.com/album/3yyz6xJJuuB24PfoMKDbAZ) | 2:26 | 2025-08-22 | 2025-11-29 |
 | [Spinning](https://open.spotify.com/track/0konGKeICsTN7QNanNxQ5O) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Spinning](https://open.spotify.com/album/7IwA96mZthwarmei8ZThJF) | 2:46 | 2024-08-02 | 2024-08-31 |
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 | 2024-06-15 |
 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 | 2024-04-27 |
@@ -916,6 +918,7 @@
 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 | 2024-07-26 | 2024-10-19 |
 | [Tough Luck](https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Tough Luck](https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD) | 2:43 | 2025-03-07 | 2025-06-14 |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-11-07 |  |
+| [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 | 2025-11-28 |  |
 | [Trinkets](https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Trinkets](https://open.spotify.com/album/3DUFUslq7V7bLbdhGkuU6g) | 1:56 | 2025-08-15 | 2025-10-05 |
 | [Trophy](https://open.spotify.com/track/0ocYQnByzoJWYyitslaBtm) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/0uETltJ5TYMOFOxIr46SsZ) | 2:40 | 2022-04-08 | 2022-08-20 |
 | [Trophy](https://open.spotify.com/track/5igLTHeeq84I50vFL4ZS2j) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Trophy](https://open.spotify.com/album/3DcH7VLRiXxiuWu91XjJy7) | 2:40 | 2022-04-08 | 2022-07-29 |

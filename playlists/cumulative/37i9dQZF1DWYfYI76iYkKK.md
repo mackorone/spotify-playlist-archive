@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-576 songs - 1 day 13 hr 41 min
+577 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [趕趕時間](https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [趕趕時間](https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q) | 3:39 | 2024-06-27 | 2024-07-29 |
 | [跟我來 \- Acoustic Version](https://open.spotify.com/track/6anxzdzGCEdYUnaA2T92eF) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [跟我來 \(Acoustic Version\)](https://open.spotify.com/album/6oOj4SXZ6dt5dn0BpoCC9z) | 3:38 | 2024-02-22 | 2024-03-01 |
 | [輕描淡寫](https://open.spotify.com/track/0QByQXCUMi94bFMNbuYBrW) | [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [輕描淡寫](https://open.spotify.com/album/4nxPnVF27HUvtCAsoCNhEd) | 3:30 | 2024-01-18 | 2024-01-26 |
+| [輕輕](https://open.spotify.com/track/6qFeppL9BN2frgOSlw9jpV) | [鄭伊晴 Tee Yi Qing](https://open.spotify.com/artist/3w8n4Q4a0KfzA4WJaz5z0b) | [輕輕](https://open.spotify.com/album/2qhftaHnkHK1k91dyBhY3h) | 3:25 | 2025-11-27 |  |
 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 | 2022-06-30 |  |
 | [轻轻\(《长风渡》影视剧主题曲\)](https://open.spotify.com/track/6tExCmPVJ7zc8PPwmz2b8p) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [轻轻\(《长风渡》影视剧主题曲\)](https://open.spotify.com/album/2ow2a2CTBCZpDQANUuMabi) | 4:16 | 2023-06-22 | 2023-09-26 |
 | [这世界那么多人 \- 电影《我要我们在一起》主题曲](https://open.spotify.com/track/0CIndp98sle6N5oubW92Jp) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [这世界那么多人 \(电影《我要我们在一起》主题曲\)](https://open.spotify.com/album/7loUfq99zoKzh5n2g68UkH) | 4:45 | 2022-12-08 | 2023-03-02 |

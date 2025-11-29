@@ -1,12 +1,12 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 256305,
+  "num_followers": 256301,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAAAYWgGDHt348Txau52pPNOp",
+  "snapshot_id": "aSeUgAAAAADSr6ga3kH2Q8R57mgLHF3T",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MASNA REMIX",
         "url": "https://open.spotify.com/album/1vfrfkUV2mKB8KPaOcdyaS"
       },
@@ -127,26 +147,6 @@
       "duration_ms": 248000,
       "name": "MASNA REMIX",
       "url": "https://open.spotify.com/track/6wDig9zSE2qpDbw1W3qqIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
     },
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 215248,
+      "name": "Uno los Dos",
+      "url": "https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 215248,
-      "name": "Uno los Dos",
-      "url": "https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H"
     },
     {
       "added_at": null,
@@ -539,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
       },
       "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6"
+      "duration_ms": 158040,
+      "name": "La cita",
+      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
     },
     {
       "added_at": null,
@@ -575,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
       "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
         {
           "name": "Emilia",
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 158040,
-      "name": "La cita",
-      "url": "https://open.spotify.com/track/7okjG9qhfXb7mE6HkvBMOK"
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salgo a Bailar",
         "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
       },
@@ -643,22 +627,6 @@
       "duration_ms": 157830,
       "name": "Salgo a Bailar",
       "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 143794,
-      "name": "beautiful \ud83d\udc84",
-      "url": "https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z"
     },
     {
       "added_at": null,
@@ -688,9 +656,25 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 130098,
-      "name": "Facts.mp3",
-      "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 143794,
+      "name": "beautiful \ud83d\udc84",
+      "url": "https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z"
     },
     {
       "added_at": null,
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "perfectas",
-        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 142361,
-      "name": "servidora \ud83d\udd76\ufe0f",
-      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vestido Rojo",
         "url": "https://open.spotify.com/album/0IVjdhsXZAeaBHaiZkkcMn"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 153868,
       "name": "Vestido Rojo",
       "url": "https://open.spotify.com/track/6kyllwQMZPwCgCJiJd0eWX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 130098,
+      "name": "Facts.mp3",
+      "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "perfectas",
+        "url": "https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 142361,
+      "name": "servidora \ud83d\udd76\ufe0f",
+      "url": "https://open.spotify.com/track/5PqINo0dGJTCyNXcBomwsb"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 169565,
-      "name": "cielo en la mente",
-      "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
+      "duration_ms": 166800,
+      "name": "latin girl",
+      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 166800,
-      "name": "latin girl",
-      "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
+      "duration_ms": 169565,
+      "name": "cielo en la mente",
+      "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
     },
     {
       "added_at": null,

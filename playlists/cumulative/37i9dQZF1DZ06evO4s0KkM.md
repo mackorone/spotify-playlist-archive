@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-151 songs - 8 hr 15 min
+152 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Cadillac, Cadillac \(feat\. Sammy Amara of Broilers\) \- Bonus Track](https://open.spotify.com/track/3BI2VcceUXegNQ9WCzc7J3) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Sammy Amara](https://open.spotify.com/artist/4RBEJH5AwRE4dQT2qBmi6p), [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:53 | 2023-01-15 | 2023-03-06 |
 | [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 | 2022-09-16 |  |
 | [Caught In A Jar](https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 | 2022-09-16 | 2023-07-22 |
-| [Chesterfields and Aftershave](https://open.spotify.com/track/3KNbuMWChxt7X9qO6jY2oC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 4:30 | 2025-07-06 |  |
+| [Chesterfields and Aftershave](https://open.spotify.com/track/1iL1Uu7Mxi2S8HD3dAXcEn) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 4:30 | 2025-11-29 |  |
+| [Chesterfields and Aftershave](https://open.spotify.com/track/3KNbuMWChxt7X9qO6jY2oC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 4:30 | 2025-07-06 | 2025-11-29 |
 | [Citizen C.I.A\. \(Live At Ryman Auditorium\)](https://open.spotify.com/track/32q1ILx2fzW64DqqKCPyOX) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Live At Ryman Auditorium](https://open.spotify.com/album/47D7JxsBmpXvkQdauxqQVA) | 2:42 | 2024-09-10 | 2024-09-22 |
 | [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 | 2025-01-19 | 2025-07-06 |
 | [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 | 2025-07-20 |  |
@@ -103,7 +104,7 @@
 | [Smash Shit Up](https://open.spotify.com/track/0l0K88tyy3NCYugh9nNQgV) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Edition\)](https://open.spotify.com/album/7izrrrhMXbgAk5OEECRTu8) | 3:47 | 2022-09-16 | 2023-02-03 |
 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 | 2023-02-02 |  |
 | [Sooner Kill 'Em First](https://open.spotify.com/track/4Wk5305BdZHpFaE0evPnPC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 3:16 | 2025-07-06 | 2025-08-07 |
-| [Sooner Kill 'Em First](https://open.spotify.com/track/5bZxgJ0gCXsiHBNZWUNlg9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:16 | 2025-11-16 |  |
+| [Sooner Kill 'Em First](https://open.spotify.com/track/5bZxgJ0gCXsiHBNZWUNlg9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:16 | 2025-11-16 | 2025-11-29 |
 | [Straight Edge \(I Liked You Better\) \- Bonus Track](https://open.spotify.com/track/3WwusnJi34pyNmJTkHGBEF) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:58 | 2025-11-12 | 2025-11-19 |
 | [Streetlights](https://open.spotify.com/track/6zgbMFVQAhByKEzWn8xZUi) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 4:12 | 2025-11-16 | 2025-11-27 |
 | [Sunshine Highway](https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 3:22 | 2023-06-01 |  |
@@ -157,7 +158,7 @@
 | [Who'll Stand With Us?](https://open.spotify.com/track/7l7rmR8robHgvvKxxdCgiy) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Who'll Stand With Us?](https://open.spotify.com/album/43HNaHn8x5EEiydIJFZtWs) | 3:51 | 2025-06-05 | 2025-08-04 |
 | [Worker's Song](https://open.spotify.com/track/6GHfiU4OrRvOVuC9yn8Txl) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:32 | 2022-09-16 |  |
 | [You'll Never Walk Alone](https://open.spotify.com/track/4DSNKOpbGJ891TB2sEIKH4) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz) | 3:22 | 2023-02-22 | 2025-11-10 |
-| [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 | 2022-09-16 | 2025-11-27 |
+| [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 | 2022-09-16 |  |
 | [Your Spirit's Alive](https://open.spotify.com/track/56IfZE4yzzv9GcqPoooI4k) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:20 | 2022-09-16 | 2023-06-01 |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

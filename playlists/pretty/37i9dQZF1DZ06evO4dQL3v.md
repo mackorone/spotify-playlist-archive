@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,404 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,405 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 34 | [Mi Destino Fue Quererte](https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 3:19 |
 | 35 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 |
 | 36 | [Ritmo Que Jala](https://open.spotify.com/track/6pSAatB6pkbqVqvfLkuQ8d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:04 |
-| 37 | [Oh Que Gusto de Volverte a Ver](https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:29 |
-| 38 | [Busca Tu Hueco](https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:56 |
-| 39 | [Me Rio de Miedo](https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 3:15 |
+| 37 | [Busca Tu Hueco](https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:56 |
+| 38 | [Me Rio de Miedo](https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 3:15 |
+| 39 | [Oh Que Gusto de Volverte a Ver](https://open.spotify.com/track/0zXRMVV7s4TUaJieLZjrXE) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:29 |
 | 40 | [Ya Llego la Banda Toro](https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:31 |
 | 41 | [No Voy a Llorar](https://open.spotify.com/track/6ysKjVlwaJgsVznDOskvo1) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:46 |
 | 42 | [Vive](https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 1](https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj) | 2:51 |
 | 43 | [El Moro de Cumpas \- Estilo Tierra Caliente](https://open.spotify.com/track/1PEAtxHS7kSOK9f9475956) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 3:10 |
-| 44 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 |
+| 44 | [A Mi Manera](https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 4:00 |
 | 45 | [Las Nieves de Enero](https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 2:48 |
-| 46 | [A Mi Manera](https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 4:00 |
+| 46 | [Te Sigo Amando](https://open.spotify.com/track/3hjU0dV58noafui2zYVnts) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:28 |
 | 47 | [La Tiznada](https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 3:15 |
 | 48 | [El Cotorro Enamorado \- Tecno Banda](https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Ando Que Me Lleva "Recordando los Exitos," Vol\. 4](https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj) | 2:58 |
 | 49 | [Carta Perdida \- Estilo Tierra Caliente](https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:17 |
 | 50 | [El Herradero](https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Hijo Desobediente "Recordando los Exitos", Vol\. 2](https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk) | 3:56 |
 
-Snapshot ID: `aSZDAAAAAADWxvije1xVmKMA+uR9L65t`
+Snapshot ID: `aSeUgAAAAACtbKcjT/FU4PQmM8XkpjSN`

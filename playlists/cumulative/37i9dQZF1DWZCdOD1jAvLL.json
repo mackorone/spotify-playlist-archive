@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Ride the bassline. Cover: TyriqueOrDie",
+  "description": "Ride the bassline. Cover: HNTR & Phantogram",
   "name": "Bangers",
   "tracks": [
     {
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 182068,
       "name": "Angel",
       "url": "https://open.spotify.com/track/5V00ZhzyrSKM6WSBn44gE3"
@@ -5260,6 +5260,28 @@
       "duration_ms": 242138,
       "name": "Energy (feat. Techno Tupac)",
       "url": "https://open.spotify.com/track/68C5lDtvEtOz5bfBfZsTEq"
+    },
+    {
+      "album": {
+        "name": "Contact",
+        "url": "https://open.spotify.com/album/06z3wshQtpYwZnDoVle3pw"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "Entwined (feat. Grimes)",
+      "url": "https://open.spotify.com/track/3plRcdquOfuCdNmYffVxRs"
     },
     {
       "album": {
@@ -14673,6 +14695,32 @@
     },
     {
       "album": {
+        "name": "Risk It All",
+        "url": "https://open.spotify.com/album/78tJCkE9ethJEJTKLhi4NT"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        },
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        },
+        {
+          "name": "JiLLi",
+          "url": "https://open.spotify.com/artist/0MCwtoXvVPYiEpr1A7Agr3"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235285,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/4FO0CV9ShbsEgpZQsbXJcz"
+    },
+    {
+      "album": {
         "name": "RIZZ",
         "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
       },
@@ -19160,7 +19208,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-29",
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

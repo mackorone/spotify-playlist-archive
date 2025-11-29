@@ -4,13 +4,14 @@
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-38 songs - 1 hr 39 min
+39 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16](https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [16](https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq) | 2:24 | 2025-11-20 |  |
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2025-11-20 |  |
-| [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 | 2025-11-20 |  |
+| [all of that](https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:09 | 2025-11-29 |  |
+| [all of that](https://open.spotify.com/track/2zh3kDlNQWTAUs9VAphQyc) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [all of that](https://open.spotify.com/album/2aKrKxXK1bOVyyrmx0vTfp) | 2:09 | 2025-11-20 | 2025-11-29 |
 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 | 2025-11-20 |  |
 | [BOTH](https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Sophie Gray](https://open.spotify.com/artist/7rWhuhHP5WNIhzek4JVVfS) | [BOTH](https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC) | 2:34 | 2025-11-20 |  |
 | [boys lie](https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO) | 2:25 | 2025-11-20 |  |
@@ -32,7 +33,7 @@
 | [not safe](https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [not safe](https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L) | 2:16 | 2025-11-20 |  |
 | [Passenger Princess](https://open.spotify.com/track/56pJsm6qjMRCQPwQR9HIix) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Passenger Princess](https://open.spotify.com/album/1mqysmiozjyWyu9UvkASn7) | 2:15 | 2025-11-20 | 2025-11-28 |
 | [Passenger Princess](https://open.spotify.com/track/6GAI8f3Kb4IfOPj28WXGUS) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:15 | 2025-11-28 |  |
-| [Posh](https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:33 | 2025-11-20 |  |
+| [Posh](https://open.spotify.com/track/5Tsks8nXhqyZLz0xvo9raf) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:33 | 2025-11-20 | 2025-11-29 |
 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2025-11-20 |  |
 | [Push N Pull](https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Push N Pull](https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV) | 2:42 | 2025-11-20 |  |
 | [say it back](https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:17 | 2025-11-20 |  |

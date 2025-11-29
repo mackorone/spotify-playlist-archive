@@ -3910,6 +3910,28 @@
     {
       "album": {
         "name": "Normal",
+        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        },
+        {
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131022,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
+    },
+    {
+      "album": {
+        "name": "Normal",
         "url": "https://open.spotify.com/album/0NfyRwPqxtCqpbxgMDBSuZ"
       },
       "artists": [

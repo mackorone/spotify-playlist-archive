@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Pabst
 
-1,760 songs - 4 day 5 hr 45 min
+1,760 songs - 4 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,6 +883,7 @@
 | [Lights Out](https://open.spotify.com/track/1pExLSWrXaDyDdLmznxm7u) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Lights Out](https://open.spotify.com/album/5LrQKwzxSxCXVIFr4XJ48F) | 2:53 | 2023-03-30 | 2023-04-07 |
 | [Like A God](https://open.spotify.com/track/5NODTp0NXGSM9ssC0GN1MG) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [Like A God](https://open.spotify.com/album/46GkL5mgpQuRIugNwo5W0R) | 4:14 | 2023-07-20 | 2023-07-28 |
 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 | 2024-05-02 | 2024-07-27 |
+| [Limbo No\. 5](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [This is normal now](https://open.spotify.com/album/1eJyq7c3KDDcPrsExBPK3I) | 3:09 | 2025-11-27 |  |
 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 | 2024-06-02 |  |
 | [Lion](https://open.spotify.com/track/3l4rzb2PtCxrOUzaD3RHEk) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Lion](https://open.spotify.com/album/4wtXR1Fy693m3qLoHhnT75) | 3:57 | 2023-11-23 | 2023-11-25 |
 | [Lion](https://open.spotify.com/track/50HYpx833n8I466f6n8nat) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Lion](https://open.spotify.com/album/3wgcQA1ECrAQBYjrVfYQJe) | 3:57 | 2023-11-23 | 2023-12-01 |
@@ -1572,7 +1573,6 @@
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-16 | 2024-02-16 |
 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 | 2023-06-30 | 2024-05-03 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-07-24 |  |
-| [Track 1](https://open.spotify.com/track/61gP8jIDYD4ZS6ZxgHUPWs) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [Trigger](https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Trigger](https://open.spotify.com/album/2HHt7F17eJjPHFppWdSb8C) | 2:55 | 2024-01-04 | 2024-02-23 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-03-16 | 2023-04-14 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-20 | 2025-06-20 |

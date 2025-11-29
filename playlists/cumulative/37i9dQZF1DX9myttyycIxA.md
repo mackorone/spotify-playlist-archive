@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Dry Cleaning
 
-1,784 songs - 4 day 6 hr 59 min
+1,787 songs - 4 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -782,6 +782,7 @@
 | [Hunned Bandz](https://open.spotify.com/track/0ukN7t37DYWM0ElNXjFZv3) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/6sZrEs794r6eCHwlJ02ZOD) | 2:48 | 2021-06-02 | 2022-04-29 |
 | [Hurt A Fly](https://open.spotify.com/track/4V43hnHvimIRaQRzqiPL3u) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Planet \(i\)](https://open.spotify.com/album/0iUqKe7f2DtXvBpOlVU5tN) | 3:04 | 2021-07-02 | 2022-04-27 |
 | [Hush](https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Hush](https://open.spotify.com/album/3eQ0X8bC4GexeleVPfdsXM) | 4:42 | 2022-10-28 | 2023-01-25 |
+| [hypotheticals](https://open.spotify.com/track/56LXvIYCFTWCAhIOTqpjHs) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [cowboy's gonna do it](https://open.spotify.com/album/2D0QmeeTE0C8Rtjzj6DmJp) | 3:36 | 2025-11-28 |  |
 | [I can do what I want](https://open.spotify.com/track/4ExoRP6SDTO8LvYIjUsyiK) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [I can do what I want](https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7) | 3:00 | 2025-03-07 | 2025-05-10 |
 | [I Do It For You](https://open.spotify.com/track/4bzdFCiqEGDBjshBNdAerM) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [I Do It For You](https://open.spotify.com/album/1vvsh2qWaz7Jo2OGigvcHH) | 3:33 | 2021-04-02 | 2022-04-16 |
 | [I Don't Care Anymore](https://open.spotify.com/track/1sCJKCB2D3HDeajRF4e0Pb) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [I Don't Care Anymore](https://open.spotify.com/album/08a5rDtR4l3XVJzuPuLUDn) | 4:50 | 2022-04-29 | 2022-05-10 |
@@ -862,6 +863,7 @@
 | [Indiesong](https://open.spotify.com/track/4EM4LPdfjwZ3WPpEjVeCx9) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Indiesong](https://open.spotify.com/album/4pKzAxlXMySMRtrgqIOGnn) | 2:33 | 2022-04-01 | 2022-05-19 |
 | [Infinity Inside a Shopping Cart](https://open.spotify.com/track/4Hd3QNdIvSbXcw0GBsDdQK) | [Attention Bird Utopia](https://open.spotify.com/artist/6WQmjqmXZdwjIb1Tpctt4o), [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8), [Eli Hirsch](https://open.spotify.com/artist/3TnGwgpdm4ySLrbjzd38OW) | [Infinity Inside a Shopping Cart](https://open.spotify.com/album/4Ecc1jEyNT4W4BlPyXJ9Cu) | 2:59 | 2025-02-28 | 2025-05-31 |
 | [Insomnia](https://open.spotify.com/track/7mk6mEioOkqfoCC8xUw720) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Insomnia](https://open.spotify.com/album/61OCdmC6ntHNsoSckGbAkF) | 4:52 | 2022-05-20 | 2022-10-01 |
+| [insomniac](https://open.spotify.com/track/3Xp2c6wgkYKSawJp6FyB8v) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [insomniac](https://open.spotify.com/album/3A1iTEkYhGLGUG0mZePZG8) | 1:39 | 2025-11-28 |  |
 | [insomniac](https://open.spotify.com/track/7ErCpZ3lV1Hb4VulM0yc6R) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/46B1KESuQU3KveXeKzMCPE) | 3:04 | 2022-08-05 | 2023-01-18 |
 | [Intermission](https://open.spotify.com/track/2kDZlHdW4bpfwDl3dGfVhE) | [Theo Moss](https://open.spotify.com/artist/0ETuekbiB4yJVpe2fAMiNP) | [Intermission](https://open.spotify.com/album/0btvxqyVwXuJdryIiy4LLO) | 2:52 | 2025-03-28 | 2025-06-07 |
 | [Intheskatepark](https://open.spotify.com/track/4zkAoqG7TwRxbCQpL0AZa0) | [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Intheskatepark](https://open.spotify.com/album/5ysjL1aGDCf3ODiF3le9Wh) | 2:25 | 2023-09-22 | 2023-10-14 |
@@ -1365,6 +1367,7 @@
 | [Sideways](https://open.spotify.com/track/3kF46KXHxqWvvgJWtZRmyx) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Sideways](https://open.spotify.com/album/6gDsJNf8oR4h87uZBl6cEr) | 2:51 | 2022-03-26 | 2022-07-16 |
 | [Signs](https://open.spotify.com/track/0ryNoC6c7pqVm1nAtuAgw5) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [Signs](https://open.spotify.com/album/55rpMuLkB9sMzYt60PPaUy) | 4:15 | 2025-05-09 | 2025-11-08 |
 | [Silence](https://open.spotify.com/track/28CFasFNhNUO83NvGJSbVl) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Silence](https://open.spotify.com/album/4jkUC2e2rZHE3it09y8RqN) | 3:43 | 2023-04-28 | 2023-06-16 |
+| [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 | 2025-11-28 |  |
 | [Since April](https://open.spotify.com/track/11hTGnist3szhkE1yWAcWk) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Since April](https://open.spotify.com/album/5Qr0ATirEQjY31oFkyvhsw) | 2:35 | 2025-03-07 | 2025-05-10 |
 | [Sink In](https://open.spotify.com/track/03AeH1771E7OLze7M3qJbR) | [Hello Mary](https://open.spotify.com/artist/6kgB8Ix1GHS4t8OWmsMDGn) | [Hello Mary](https://open.spotify.com/album/0Dhff2G19pJvrdOSPLgp4f) | 3:55 | 2023-06-15 | 2024-02-17 |
 | [Sink Or Swim](https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11) | [Neighbourhood Void](https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu) | [Sink Or Swim](https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal) | 2:47 | 2023-03-31 | 2023-06-16 |

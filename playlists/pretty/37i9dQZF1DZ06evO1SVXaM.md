@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 
 > This is Michael Jackson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,020,890 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,021,440 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 33 | [Stranger in Moscow](https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 5:44 |
 | 34 | [Give In to Me](https://open.spotify.com/track/1euDTbMNRPNfKd8zZz4zTT) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 5:29 |
 | 35 | [Ben \- Single Version](https://open.spotify.com/track/3vZMkLS1jP7NdNhzqGfUSW) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Ben](https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR) | 2:45 |
-| 36 | [Will You Be There \- Single Version](https://open.spotify.com/track/36O7qmyKLHpUY6WdWh8M5g) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:44 |
-| 37 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
+| 36 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
+| 37 | [Will You Be There \- Single Version](https://open.spotify.com/track/36O7qmyKLHpUY6WdWh8M5g) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:44 |
 | 38 | [In the Closet](https://open.spotify.com/track/5Fy40smNxk0j5OpFMtvfaU) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:32 |
 | 39 | [Ghosts](https://open.spotify.com/track/7s51HyYKRGWqkH1UWnApHh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [BLOOD ON THE DANCE FLOOR/ HIStory In The Mix](https://open.spotify.com/album/0RNsFWWdiz1rrdLI1pwbvJ) | 5:13 |
 | 40 | [Scream](https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 49 | [One Day In Your Life](https://open.spotify.com/track/77fMGCDb1e3KEd060YEpyS) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Forever Michael](https://open.spotify.com/album/3dZ91ooVpNEdukDWuNzbpZ) | 4:15 |
 | 50 | [Speed Demon \- 2012 Remaster](https://open.spotify.com/track/5SpHSOne318K5q7EBYndT6) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad \(Remastered\)](https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH) | 4:02 |
 
-Snapshot ID: `aSZDAAAAAAAp6CDalMI+ZwVUwDkjbJX2`
+Snapshot ID: `aSeUgAAAAACin52xY44g/a9sV16cmSAV`

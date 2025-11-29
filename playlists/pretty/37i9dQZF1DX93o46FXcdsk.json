@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 48877,
+  "num_followers": 48887,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Op Weg Naar Geluk",
-        "url": "https://open.spotify.com/album/08e5Pb6jMctjgqDckEgDOf"
-      },
-      "artists": [
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Als De Morgen Is Gekomen",
-      "url": "https://open.spotify.com/track/7HPkvsnyQqQ6PmpLk7D7IR"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Guus Meeuwis",
         "url": "https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 210173,
       "name": "Brabant",
       "url": "https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Op Weg Naar Geluk",
+        "url": "https://open.spotify.com/album/08e5Pb6jMctjgqDckEgDOf"
+      },
+      "artists": [
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Als De Morgen Is Gekomen",
+      "url": "https://open.spotify.com/track/7HPkvsnyQqQ6PmpLk7D7IR"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -223,18 +223,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Stream",
-        "url": "https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0"
+        "name": "Dicht bij jou",
+        "url": "https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe"
       },
       "artists": [
         {
-          "name": "Twarres",
-          "url": "https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF"
+          "name": "Frans Bauer",
+          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
         }
       ],
-      "duration_ms": 226466,
-      "name": "W\u00ear Bisto",
-      "url": "https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK"
+      "duration_ms": 198813,
+      "name": "Heb Je Even Voor Mij",
+      "url": "https://open.spotify.com/track/7B78M515588woNjQFBdGcJ"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -263,34 +263,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Dicht bij jou",
-        "url": "https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe"
+        "name": "Stream",
+        "url": "https://open.spotify.com/album/1zOfzvpzDYPTkquDEyDtj0"
       },
       "artists": [
         {
-          "name": "Frans Bauer",
-          "url": "https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW"
+          "name": "Twarres",
+          "url": "https://open.spotify.com/artist/15bqWZXpkyJCsuOfTjcHLF"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Heb Je Even Voor Mij",
-      "url": "https://open.spotify.com/track/7B78M515588woNjQFBdGcJ"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Het Beste Van Guus Meeuwis",
-        "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 232413,
-      "name": "Proosten",
-      "url": "https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf"
+      "duration_ms": 226466,
+      "name": "W\u00ear Bisto",
+      "url": "https://open.spotify.com/track/6FoayFn7vcZvScTZ67HuZK"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -307,6 +291,22 @@
       "duration_ms": 188413,
       "name": "Laura",
       "url": "https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Het Beste Van Guus Meeuwis",
+        "url": "https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 232413,
+      "name": "Proosten",
+      "url": "https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Vaag En Stil",
-        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Vaag En Stil",
-      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Stilte In De Storm",
         "url": "https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 196186,
       "name": "Stilte In De Storm",
       "url": "https://open.spotify.com/track/39ZTmjrBK4tM2tlohOpmkF"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Vaag En Stil",
+        "url": "https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Vaag En Stil",
+      "url": "https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -695,6 +695,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Saus",
+        "url": "https://open.spotify.com/album/2tw8rXiHgAyKZNm4j3XmxA"
+      },
+      "artists": [
+        {
+          "name": "Rowwen H\u00e8ze",
+          "url": "https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1"
+        }
+      ],
+      "duration_ms": 309160,
+      "name": "November",
+      "url": "https://open.spotify.com/track/7wRDVmQSzKN7wq1zYG3EJk"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Het Land Van",
         "url": "https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 262728,
       "name": "Het Land Van - Live",
       "url": "https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Saus",
-        "url": "https://open.spotify.com/album/2tw8rXiHgAyKZNm4j3XmxA"
-      },
-      "artists": [
-        {
-          "name": "Rowwen H\u00e8ze",
-          "url": "https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1"
-        }
-      ],
-      "duration_ms": 309160,
-      "name": "November",
-      "url": "https://open.spotify.com/track/7wRDVmQSzKN7wq1zYG3EJk"
     },
     {
       "added_at": "2020-02-10 14:27:21",

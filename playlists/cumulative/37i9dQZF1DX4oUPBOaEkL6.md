@@ -2,9 +2,9 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: ROSALÍA
+> The hottest Latin hits in the US! Cover: Peso Pluma, Tito Double P
 
-776 songs - 1 day 18 hr 17 min
+777 songs - 1 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE) | 3:21 | 2022-07-06 | 2022-09-21 |
 | [100xCiento](https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET) | [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [100xCiento](https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy) | 3:39 | 2024-05-10 | 2024-05-18 |
 | [111](https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [111](https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ) | 2:33 | 2025-03-07 | 2025-05-31 |
-| [11:11](https://open.spotify.com/track/7GOpb8E87DxMTS7JvJDMpU) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [11:11](https://open.spotify.com/album/5iBpXBEBA7548DsoMbgmQr) | 2:25 | 2025-11-21 |  |
+| [11:11](https://open.spotify.com/track/7GOpb8E87DxMTS7JvJDMpU) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [11:11](https://open.spotify.com/album/5iBpXBEBA7548DsoMbgmQr) | 2:25 | 2025-11-21 | 2025-11-29 |
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-02-11 | 2022-10-08 |
 | [2+2](https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [2+2](https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG) | 3:18 | 2025-08-15 |  |
 | [200 COPAS](https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:37 | 2022-05-11 | 2022-06-11 |
@@ -161,7 +161,7 @@
 | [Cosas Pendientes](https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cosas Pendientes](https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov) | 3:04 | 2024-12-06 | 2025-01-29 |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-01-20 | 2022-06-11 |
 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 | 2023-12-21 | 2024-03-23 |
-| [CRIPTONITA](https://open.spotify.com/track/3sWuSJYhVQTIMkTfgwPgVR) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [CRIPTONITA](https://open.spotify.com/album/5bh0lNWBwi2XlOyW39jZg1) | 3:28 | 2025-11-21 |  |
+| [CRIPTONITA](https://open.spotify.com/track/3sWuSJYhVQTIMkTfgwPgVR) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [CRIPTONITA](https://open.spotify.com/album/5bh0lNWBwi2XlOyW39jZg1) | 3:28 | 2025-11-21 | 2025-11-29 |
 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 | 2025-11-21 |  |
 | [Cuerpecito](https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Cuerpecito](https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad) | 3:15 | 2023-04-03 | 2023-05-20 |
 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 | 2025-09-26 |  |
@@ -174,6 +174,7 @@
 | [DALLAX](https://open.spotify.com/track/4cZiqNmLWLoAx67ENn53YG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DALLAX](https://open.spotify.com/album/2pQAHDH5MCC27Sn9cVKjpM) | 2:30 | 2025-04-04 | 2025-05-10 |
 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 | 2024-11-22 | 2024-12-21 |
 | [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2022-05-09 | 2022-09-21 |
+| [Dardos](https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Better Late Than Never](https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t) | 4:03 | 2025-11-28 |  |
 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 | 2024-10-18 | 2025-03-22 |
 | [DEJA VU](https://open.spotify.com/track/2BfkUFn2EbEKYOMkm90HuP) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [DEJA VU](https://open.spotify.com/album/2yLpZqlg8VRBHbcDGIeejI) | 2:58 | 2021-12-09 | 2022-04-14 |
 | [Dejame Dormir](https://open.spotify.com/track/1ylPYGLrhUEkKsaawdizaD) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Dejame Dormir](https://open.spotify.com/album/37NVXUpFk44riPjvqtFQlh) | 2:40 | 2025-11-21 |  |

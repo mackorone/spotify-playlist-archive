@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107609,
+  "num_followers": 107611,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADi6HhG+krn/U5sFkVAJnMa",
+  "snapshot_id": "aSeUgAAAAACb7kOn+he7GhQk/Hp/o7vg",
   "tracks": [
     {
       "added_at": null,
@@ -171,30 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
+        "name": "Met Heel Mijn Hart",
+        "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
       },
       "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Tino Martin",
-          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
-        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 152285,
-      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
-      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
+      "duration_ms": 290666,
+      "name": "Ik Leef M'n Eigen Leven",
+      "url": "https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo"
     },
     {
       "added_at": null,
@@ -231,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Met Heel Mijn Hart",
-        "url": "https://open.spotify.com/album/1O66zmJwQw98cKjVzdRAiD"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Ik Leef M'n Eigen Leven",
-      "url": "https://open.spotify.com/track/7qwNSHctECC8wPqFwUZsGo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -259,6 +231,34 @@
       "duration_ms": 216866,
       "name": "'t Rode Licht",
       "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+        "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Tino Martin",
+          "url": "https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 152285,
+      "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
+      "url": "https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Ik Hou Van Jou",
-        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
+        "name": "Jij En Ik",
+        "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Want Ik Hou Van Jou",
-      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
+      "duration_ms": 205426,
+      "name": "Donker Om Je Heen",
+      "url": "https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jij En Ik",
-        "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
+        "name": "Want Ik Hou Van Jou",
+        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 205426,
-      "name": "Donker Om Je Heen",
-      "url": "https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw"
+      "duration_ms": 227000,
+      "name": "Want Ik Hou Van Jou",
+      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
     },
     {
       "added_at": null,

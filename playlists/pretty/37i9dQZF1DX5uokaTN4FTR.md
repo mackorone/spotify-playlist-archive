@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 
 > The UK's biggest dance playlist! Cover: NOTION, Willow Kayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,538 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430,539 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uokaTN4FTR.md) - [plain]
 | 17 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 18 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
 | 19 | [Make Believe](https://open.spotify.com/track/5iH81hIpxAYJKrominvxST) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Make Believe](https://open.spotify.com/album/5rz0T4v8f8U8fdZeq93BhH) | 3:05 |
-| 20 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [](https://open.spotify.com/album/null) | 3:26 |
+| 20 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [Come Closer EP](https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz) | 3:26 |
 | 21 | [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 |
 | 22 | [Dior \(with Chrystal\)](https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [Dior \(with Chrystal\)](https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf) | 2:49 |
 | 23 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 |

@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 ### [R&B Right Now](https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW)
 
-> What's happening in r&b, right now – featuring Roy Woods.
+> What's happening in r&b, right now – featuring Tems.
 
 [Spotify](https://open.spotify.com/user/spotify) - 367,953 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Supposed To Be My Lover](https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Flower City Heartbreak](https://open.spotify.com/album/4r3eoK1hWHYrsiBJUkCCeB) | 2:30 |
-| 2 | [Love Me](https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof) | 4:33 |
-| 3 | [Break](https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Break](https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px) | 3:16 |
-| 4 | [Take Me Out This Club](https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:45 |
-| 5 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
-| 6 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
-| 7 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
-| 8 | [LOCKED IN](https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [LOCKED IN](https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1) | 2:11 |
-| 9 | [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 |
-| 10 | [Spin The Block](https://open.spotify.com/track/4xsbMmk4sWSsnlMMiuPwdp) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Spin The Block](https://open.spotify.com/album/63oVRW1UwC5I9Rbctswah9) | 2:41 |
-| 11 | [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 |
-| 12 | [Jury](https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties \(Deluxe Version\)](https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS) | 2:30 |
-| 13 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
-| 14 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |
-| 15 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
+| 1 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
+| 2 | [Supposed To Be My Lover](https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Flower City Heartbreak](https://open.spotify.com/album/4r3eoK1hWHYrsiBJUkCCeB) | 2:30 |
+| 3 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
+| 4 | [Love Me](https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Soft Spot](https://open.spotify.com/album/1q60X7MvRXKggMB3h2xJof) | 4:33 |
+| 5 | [Break](https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Break](https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px) | 3:16 |
+| 6 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
+| 7 | [Take Me Out This Club](https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:45 |
+| 8 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
+| 9 | [LOCKED IN](https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [LOCKED IN](https://open.spotify.com/album/7jTcuDWNDsIHAdvVtVntg1) | 2:11 |
+| 10 | [Baby Boy \(feat\. Kali Uchis\)](https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 3:07 |
+| 11 | [Spin The Block](https://open.spotify.com/track/4xsbMmk4sWSsnlMMiuPwdp) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Spin The Block](https://open.spotify.com/album/63oVRW1UwC5I9Rbctswah9) | 2:41 |
+| 12 | [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 |
+| 13 | [Jury](https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Cut Ties \(Deluxe Version\)](https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS) | 2:30 |
+| 14 | [Root of all Evil](https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ) | 4:25 |
+| 15 | [Limit](https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Limit](https://open.spotify.com/album/51p6qDj0rYyGuXy97ZeDau) | 2:45 |
 | 16 | [My Muse](https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:45 |
 | 17 | [POSSESSED](https://open.spotify.com/track/2vQvq4W6IFWqe3UN9iwn4W) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [MOOD CONTROL](https://open.spotify.com/album/1kWD76hBVHdACbWMNgwqRX) | 2:55 |
 | 18 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 74 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
 | 75 | [Gimme Dat \(feat\. Wizkid\)](https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Gimme Dat](https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V) | 3:45 |
 
-Snapshot ID: `AAAAAP4VQwleRvp5EFhiogkPi8f1S/tq`
+Snapshot ID: `AAAAAGnQHGtb16Z1MEh85l158bRiP6VO`

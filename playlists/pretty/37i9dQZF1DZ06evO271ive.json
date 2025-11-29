@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28616,
+  "num_followers": 28623,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADhKKa2WyScRh1aWrqe0Tiu",
+  "snapshot_id": "aSeUgAAAAADkoUCgfuEqjJ1HpFG/qc7o",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mami (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow Bow Bow (F My Baby Daddy Freestyle)",
         "url": "https://open.spotify.com/album/68hjCuAod6dhaeLvNnYS7l"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 81802,
       "name": "Bow Bow Bow - F My Baby Daddy Freestyle",
       "url": "https://open.spotify.com/track/6jxSWts4DsWiC8w48A1Yri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Mami (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3CiCLeSabMedcyDMIZ12ID"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "304",
-        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
-      },
-      "artists": [
-        {
-          "name": "E.K.E.",
-          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140769,
-      "name": "304",
-      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr Beat The Road",
         "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 194875,
       "name": "Come Here (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3djPfGkkCxWMP68yy2GulG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "304",
+        "url": "https://open.spotify.com/album/7jzfSVErVWElb4oq7UcnEH"
+      },
+      "artists": [
+        {
+          "name": "E.K.E.",
+          "url": "https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "304",
+      "url": "https://open.spotify.com/track/7fSDdazwuxvg30dLu9niYJ"
     },
     {
       "added_at": null,

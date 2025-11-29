@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4963545,
+  "num_followers": 4963667,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSZDAAAAAADZNCgKQbEF9zPU2pWDS2fo",
+  "snapshot_id": "aSeUgAAAAACeAhjoUZOzKPIAz+wA/M9B",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 173173,
-      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
-      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },
@@ -319,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Heaven (2011 Remaster)",
-        "url": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0"
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
       },
       "artists": [
         {
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 259213,
-      "name": "Too Much Love Will Kill You - Remastered 2011",
-      "url": "https://open.spotify.com/track/0W1uTK6I97CbjFKAVtRGfK"
+      "duration_ms": 173173,
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
       "duration_ms": 295333,
       "name": "Who Wants To Live Forever - Remastered 2011",
       "url": "https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Heaven (2011 Remaster)",
+        "url": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 259213,
+      "name": "Too Much Love Will Kill You - Remastered 2011",
+      "url": "https://open.spotify.com/track/0W1uTK6I97CbjFKAVtRGfK"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 246906,
-      "name": "Friends Will Be Friends - Remastered 2011",
-      "url": "https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits II (2011 Remaster)",
         "url": "https://open.spotify.com/album/6wlsUpq6NrapsweMIOKt0y"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 218320,
       "name": "Hammer To Fall - Remastered 2011",
       "url": "https://open.spotify.com/track/4zguEJ2UaLe4zbEIDWqiVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 246906,
+      "name": "Friends Will Be Friends - Remastered 2011",
+      "url": "https://open.spotify.com/track/3EGlnkJGcwz73rT0oE0X1X"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Wants To Live Forever (Stranger Things Remix)",
+        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Who Wants To Live Forever - Stranger Things Remix",
+      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Made In Heaven (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Wants To Live Forever (Stranger Things Remix)",
-        "url": "https://open.spotify.com/album/5lxXxTY1H76qpvuXjTQCA8"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 167103,
-      "name": "Who Wants To Live Forever - Stranger Things Remix",
-      "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen II (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Seven Seas Of Rhye - Remastered 2011",
-      "url": "https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (2011 Remaster)",
         "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 311026,
       "name": "One Vision - Remastered 2011",
       "url": "https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen II (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Seven Seas Of Rhye - Remastered 2011",
+      "url": "https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy"
     },
     {
       "added_at": null,
