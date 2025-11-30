@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 219331,
+  "num_followers": 219410,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 160000,
       "name": "Si Veo a Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mi Historia Entre Tus Dedos",
-        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
-      },
-      "artists": [
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 348339,
-      "name": "Mi Historia Entre Tus Dedos",
-      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 142000,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+      },
+      "artists": [
+        {
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
-      },
-      "artists": [
-        {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 214838,
       "name": "Dembow - Acoustic Version",
       "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mi Historia Entre Tus Dedos",
+        "url": "https://open.spotify.com/album/0sNyKcrJbxgd96dyN6wlIV"
+      },
+      "artists": [
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 348339,
+      "name": "Mi Historia Entre Tus Dedos",
+      "url": "https://open.spotify.com/track/4Zuez3lI8S1J0AbC8gG0Zx"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "(un poco + de) FE",
-        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Y C\u00f3mo Es \u00c9l?",
         "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 249088,
       "name": "Felices los 4 - Acoustic version",
       "url": "https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "(un poco + de) FE",
+        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Adoro",
-        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
-      },
-      "artists": [
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        }
-      ],
-      "duration_ms": 196292,
-      "name": "Adoro",
-      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "A Dios Le Pido",
         "url": "https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 159250,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Adoro",
+        "url": "https://open.spotify.com/album/7MLPNcVin60lWrssZhKuMV"
+      },
+      "artists": [
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        }
+      ],
+      "duration_ms": 196292,
+      "name": "Adoro",
+      "url": "https://open.spotify.com/track/1QrO86DNflLQ0Y958UtvT8"
     },
     {
       "added_at": "2022-02-18 06:00:00",

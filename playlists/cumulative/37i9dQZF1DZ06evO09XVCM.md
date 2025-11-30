@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 54 min
+76 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,13 +37,14 @@
 | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/track/1sCfYZLKuW5OJ5AZQxIgj8) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Iron Lion Zion \(feat\. Ziggy Marley & ChocQuibTown\)](https://open.spotify.com/album/2uKjJJ1dRu5ovo9PajxnPf) | 4:30 | 2024-02-01 |  |
 | [Life Is A Honeymoon](https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:04 | 2024-02-01 |  |
 | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Lift Our Spirits Raise Our Voice](https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ) | 3:56 | 2024-05-22 |  |
-| [Lighthouse](https://open.spotify.com/track/2q2u47Zn6pK7TDzz9ZEw4W) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 4:20 | 2025-11-24 |  |
+| [Lighthouse](https://open.spotify.com/track/2q2u47Zn6pK7TDzz9ZEw4W) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Fly Rasta](https://open.spotify.com/album/2OT4p3NBqb7zyvvQwA4EM8) | 4:20 | 2025-11-24 | 2025-11-30 |
 | [Looking](https://open.spotify.com/track/0P6g4X0sQlKCDp9mKSHsjl) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:21 | 2024-02-01 |  |
 | [Love](https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 3:10 | 2024-02-01 |  |
 | [Love for Love City \(with Ziggy Marley\)](https://open.spotify.com/track/6wrzvEu8Sk7sDf6W9ESVui) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Songs for the Saints](https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY) | 3:49 | 2024-02-01 |  |
 | [Love Is My Religion](https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:48 | 2024-02-01 |  |
 | [Love Is My Religion \(Live\)](https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Playing for Change \(Live\)](https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5) | 4:10 | 2024-02-01 |  |
 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 | 2024-02-01 |  |
+| [Make Some Music](https://open.spotify.com/track/6hI7r4AXANVQU8cGe1HOnq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 4:14 | 2025-11-30 |  |
 | [Melancholy Mood](https://open.spotify.com/track/7nY59uK9jauHVfeppS65Ho) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:30 | 2024-09-17 | 2024-09-25 |
 | [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 | 2024-03-09 |  |
 | [Mmmm Mmmm](https://open.spotify.com/track/1rVLXkHg9a2w6A8qGigwsN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 3:30 | 2024-02-01 | 2024-03-10 |

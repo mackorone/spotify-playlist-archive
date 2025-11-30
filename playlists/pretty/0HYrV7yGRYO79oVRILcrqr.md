@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,581 likes - 140 songs - 8 hr 39 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,586 likes - 144 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,5 +148,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 138 | [Búsqueda](https://open.spotify.com/track/3omNsXHqJL3sg5Rj3Swwgw) | [Galaxia Ventura](https://open.spotify.com/artist/7CLTzydEhFbCSNaNPzGgu5) | [Un cambio](https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e) | 3:05 |
 | 139 | [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 |
 | 140 | [Out Of My Head](https://open.spotify.com/track/5RNcdKmLjCdJYyltfkJkhv) | [Alex Tokarev](https://open.spotify.com/artist/5kYgsMU5N1w5IaBJyGisZs) | [Out Of My Head](https://open.spotify.com/album/3lsQEPVmrgV0r7pCYL62j5) | 2:45 |
+| 141 | [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 |
+| 142 | [Pink Mars](https://open.spotify.com/track/6ZqwVLomAVnI6sKukX2coy) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Pink Mars](https://open.spotify.com/album/7z1mPkBv180DxtOMmyWICw) | 3:44 |
+| 143 | [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 |
+| 144 | [Don't look back](https://open.spotify.com/track/3USP9tP0tX1jVue701swyK) | [Andrius](https://open.spotify.com/artist/2r4P3xB3mTIzuks1cnFOYS) | [The Dark Side Of The Tune](https://open.spotify.com/album/4JcCpQvnmSKs2LYE3ZzX5x) | 3:40 |
 
-Snapshot ID: `AAAKFgBQXAV0HY2pCGM3Md0nS4cjBUJW`
+Snapshot ID: `AAAKGsuixelzOn+GOFDIFoo9X5iq43Rg`

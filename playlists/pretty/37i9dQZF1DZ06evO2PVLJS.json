@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1107540,
+  "num_followers": 1107675,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAC1gcZHago94mt/m6OTxgpC",
+  "snapshot_id": "aSjmAAAAAADQwAdReQ3TH/orinyMn2XD",
   "tracks": [
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "La Ley de la Vida",
-      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 178440,
       "name": "Los Mandados",
       "url": "https://open.spotify.com/track/24XQ0HNHW40pmjKwdUb2zM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "La Ley de la Vida",
+      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69579,
+  "num_followers": 69580,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAD14VQDatxZHvf6oLzf6+kq",
+  "snapshot_id": "aSjmAAAAAACa1W/s883uADLv2WDyZy1C",
   "tracks": [
     {
       "added_at": null,
@@ -263,34 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUCATI (feat. Hades66)",
-        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 246290,
-      "name": "DUCATI (feat. Hades66)",
-      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasias (Remix) [feat. Farruko & Lunay]",
         "url": "https://open.spotify.com/album/2kcKdEULKToIB701VWtOPr"
       },
@@ -323,22 +295,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+        "name": "DUCATI (feat. Hades66)",
+        "url": "https://open.spotify.com/album/3p85cVmq4LXmVyVwjV8Ymt"
       },
       "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
         {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
         }
       ],
-      "duration_ms": 208000,
-      "name": "TODO O NADA",
-      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+      "duration_ms": 246290,
+      "name": "DUCATI (feat. Hades66)",
+      "url": "https://open.spotify.com/track/0wONQiSrMfVXJrhVqvC5lR"
     },
     {
       "added_at": null,
@@ -371,6 +351,26 @@
       "duration_ms": 330240,
       "name": "La Cama (Remix)",
       "url": "https://open.spotify.com/track/2tGENA8xef0wABdHvyXwv9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "TODO O NADA",
+      "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
     },
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 231765,
-      "name": "VUD\u00da",
-      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Boca (Remix)",
         "url": "https://open.spotify.com/album/5LiT3OZKgkgEeInFxUEObJ"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 188467,
       "name": "La Boca - Remix",
       "url": "https://open.spotify.com/track/2EEmzqzM70CybVspgM7YRT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 231765,
+      "name": "VUD\u00da",
+      "url": "https://open.spotify.com/track/24YLHalbl2ePQbEXiKqKcP"
     },
     {
       "added_at": null,
@@ -959,22 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 220465,
       "name": "Quiz\u00e1s",
       "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP"
     },
     {
       "added_at": null,
@@ -1131,6 +1131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Subconsciente",
+      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -1163,26 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi 2",
-        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Subconsciente",
-      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "ENERO",
-      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Te Vas Conmigo",
         "url": "https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 160000,
       "name": "Si Te Vas Conmigo",
       "url": "https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
     }
   ],
   "unique_name": "This Is Lunay",

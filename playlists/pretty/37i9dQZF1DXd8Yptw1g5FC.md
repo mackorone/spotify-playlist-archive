@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sıla ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,847 likes - 113 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,925 likes - 113 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 51 | [Kalbim Kanatsız Kuş Misali](https://open.spotify.com/track/5w50x6lEHyk1nsR0tnZZTx) | [Mesth](https://open.spotify.com/artist/7N2elFnG0m4hzoygPzyQQ2), [Sonnur](https://open.spotify.com/artist/5AIVt1sD7vNiR75VWtVryF) | [Kör Çöl Şarkıcısı](https://open.spotify.com/album/2HJMLv062PS5KzwuGyvJJv) | 3:51 |
 | 52 | [Doldum Taştım](https://open.spotify.com/track/62ZoErT1K3GPpAUhlN4Fmz) | [Nigar Muharrem](https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT) | [Doldum Taştım](https://open.spotify.com/album/0XXnhu7RzwuqGcL7f39JH9) | 2:58 |
 | 53 | [DÜNYA DÖNER](https://open.spotify.com/track/1ngxbdVIWJkH9t95IFO1V6) | [MEG](https://open.spotify.com/artist/1nYAWraDzyys1GsAfqzj7q), [seco](https://open.spotify.com/artist/6G4Kuk50ivifaF4TuH0WfQ) | [DÜNYA DÖNER](https://open.spotify.com/album/4FdagTiKN8hjUzxwsOIa8O) | 2:27 |
-| 54 | [TAK TAK](https://open.spotify.com/track/4KDumLf6jrXDJoCrvpHJJp) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP) | [TAK TAK](https://open.spotify.com/album/0fUDuuQDMahJH3rgUaT3vM) | 2:45 |
+| 54 | [TAK TAK](https://open.spotify.com/track/4KDumLf6jrXDJoCrvpHJJp) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP) | [TAK TAK](https://open.spotify.com/album/0fUDuuQDMahJH3rgUaT3vM) | 2:14 |
 | 55 | [Miles Away](https://open.spotify.com/track/4paPZYcTcMQmY6hX9JFfiC) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Miles Away](https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE) | 2:27 |
 | 56 | [NATURALE](https://open.spotify.com/track/5n6mk2P8N0azflfT6vtPFq) | [BAR BIA](https://open.spotify.com/artist/6tpQwZFjeQbKo0B2S7fZGg), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [NATURALE](https://open.spotify.com/album/7CIVsRvlVRmYg2mUgx0BNW) | 2:22 |
 | 57 | [SANA EMANET](https://open.spotify.com/track/4wfPmlw7ay8p0RP6U5uGgL) | [Murat Arda](https://open.spotify.com/artist/2dmsMYwKjEj0UUUnzsnKaQ) | [SANA EMANET](https://open.spotify.com/album/3zSzM35EiI45zyu5wksWhn) | 3:01 |
 | 58 | [Yine Sen](https://open.spotify.com/track/1CWE69X8Qt5K12Fhol8FvK) | [Tolga Kahraman](https://open.spotify.com/artist/2OEs7oqHFsQCCRFlf3OOME) | [25](https://open.spotify.com/album/0gB2DY7SjRFdwBlRnKkh4q) | 1:48 |
 | 59 | [AILE 2](https://open.spotify.com/track/3kVyKvGemr3hAGSwYvfKpu) | [Kuty](https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1) | [AILE 2](https://open.spotify.com/album/1USpERzkeh1ayT0UkcLElw) | 2:29 |
 | 60 | [Try To Love](https://open.spotify.com/track/78qVD9sN4z5xuBstCJ6RF2) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Try To Love](https://open.spotify.com/album/3WLIK6nwszwJ6GtVHnnnz5) | 2:23 |
-| 61 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
+| 61 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
 | 62 | [Little House](https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 2:30 |
 | 63 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
 | 64 | [SEN DE YALANSIN](https://open.spotify.com/track/4ZeIByhqyl7JRlszmuQHdq) | [Pois](https://open.spotify.com/artist/4L8MaBqZeGyW9ZP7QaH6r8) | [SEN DE YALANSIN](https://open.spotify.com/album/7bP2gNATn4j6nlncJmMMzH) | 2:54 |

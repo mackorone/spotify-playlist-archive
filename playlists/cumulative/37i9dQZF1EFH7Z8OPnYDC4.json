@@ -4691,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "The Nutcracker Suite (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6QHkNHDNvVkR3G8CDvF1Ug"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3pZvvT5nZbg3pjxKfDAv50"
+    },
+    {
+      "album": {
         "name": "The King And I (2000 London Cast Recording)",
         "url": "https://open.spotify.com/album/1LrDMY3CY39UC107XulUtE"
       },
@@ -5718,7 +5736,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 181000,
       "name": "South Pacific Overture",
       "url": "https://open.spotify.com/track/1qjQkToZIwvNjve8EG8u48"
@@ -7944,7 +7962,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"

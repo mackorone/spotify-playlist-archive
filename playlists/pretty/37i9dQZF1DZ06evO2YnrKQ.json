@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 24663,
+  "num_followers": 24673,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAixj3nPUp7OuE8+ClkxStT",
+  "snapshot_id": "aSjmAAAAAAC0uFFA5XlzboUjiKnjmx4D",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 284093,
       "name": "Sweet Dreams of Otherness",
       "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House of Strombo (LIVE in Toronto, ON 2019)",
+        "url": "https://open.spotify.com/album/3OvhTTx1sWdy6CS4Cj0xBt"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 327829,
+      "name": "Young Cardinals - LIVE in Toronto, ON 2019",
+      "url": "https://open.spotify.com/track/5JtcC1r4BCzCdxKo7ZXr9R"
     },
     {
       "added_at": null,
@@ -123,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Young Cardinals",
-      "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -151,22 +151,6 @@
       "duration_ms": 196826,
       "name": "No Transitory",
       "url": "https://open.spotify.com/track/3DVxs4Zojt5UzySQ5icF2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/1707YW8weHIje0KhkNogkg"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "To a Friend",
-      "url": "https://open.spotify.com/track/5I3zGzt9AKeNLBgjw25kDL"
     },
     {
       "added_at": null,
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Copies of Old Masters Vol. 1",
-        "url": "https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/1707YW8weHIje0KhkNogkg"
       },
       "artists": [
         {
@@ -196,9 +180,25 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 272070,
-      "name": "Neighbourhood Villain",
-      "url": "https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY"
+      "duration_ms": 196293,
+      "name": "To a Friend",
+      "url": "https://open.spotify.com/track/5I3zGzt9AKeNLBgjw25kDL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexisonfire",
+        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Pulmonary Archery",
+      "url": "https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexisonfire",
-        "url": "https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC"
+        "name": "Copies of Old Masters Vol. 1",
+        "url": "https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 202453,
-      "name": "Pulmonary Archery",
-      "url": "https://open.spotify.com/track/3OqHyWQTYL7qqni8eqbghB"
+      "duration_ms": 272070,
+      "name": "Neighbourhood Villain",
+      "url": "https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY"
     },
     {
       "added_at": null,

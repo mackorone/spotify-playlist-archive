@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 118823,
+  "num_followers": 118828,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAhDNBlQmL0oOO0G3hLa1W/",
+  "snapshot_id": "aSjmAAAAAADavxCgN1Fw5MzkFmLYjKE0",
   "tracks": [
     {
       "added_at": null,
@@ -214,11 +214,15 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 191466,
-      "name": "DON'T YOU LIE",
-      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
+      "duration_ms": 173253,
+      "name": "SAY MY GRACE (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
     },
     {
       "added_at": null,
@@ -290,35 +294,11 @@
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 173253,
-      "name": "SAY MY GRACE (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
-      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
+      "duration_ms": 191466,
+      "name": "DON'T YOU LIE",
+      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
     },
     {
       "added_at": null,
@@ -339,6 +319,26 @@
       "duration_ms": 205803,
       "name": "Clout (feat. Cardi B)",
       "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
+      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 88888,
-      "name": "FREE PICK",
-      "url": "https://open.spotify.com/track/4UUlVqWOcN68QgLd1GnWVp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 188333,
       "name": "WORTH IT (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 88888,
+      "name": "FREE PICK",
+      "url": "https://open.spotify.com/track/4UUlVqWOcN68QgLd1GnWVp"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 151181,
-      "name": "HAUNTED BY FAME",
-      "url": "https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swing My Way",
         "url": "https://open.spotify.com/album/48wyjtn53vHqRuQsusH04z"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 179933,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 151181,
+      "name": "HAUNTED BY FAME",
+      "url": "https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Style Rare (with Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (with Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 1",
         "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
       },
@@ -691,42 +711,6 @@
       "duration_ms": 145188,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Style Rare (with Gunna)",
-        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Style Rare (with Gunna)",
-      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 108936,
-      "name": "NO SWEAT",
-      "url": "https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy"
     },
     {
       "added_at": null,
@@ -771,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 108936,
+      "name": "NO SWEAT",
+      "url": "https://open.spotify.com/track/6f6A5411wNShdb21MzAFXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Grim Reaper: The Return",
         "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 200485,
+      "name": "Don't Lose Me",
+      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 205266,
       "name": "Danger (Spider) (Offset & JID)",
       "url": "https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 200485,
-      "name": "Don't Lose Me",
-      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "FASHION ICON",
-      "url": "https://open.spotify.com/track/5oqBHIOTqwXS9VPtEwFQ47"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FATHER OF 4",
         "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 244941,
       "name": "Legacy (feat. Travis Scott & 21 Savage)",
       "url": "https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "FASHION ICON",
+      "url": "https://open.spotify.com/track/5oqBHIOTqwXS9VPtEwFQ47"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "NoCap",
-          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "N.A.M.E (FT. NOCAP)",
-      "url": "https://open.spotify.com/track/357QfYSnF1ktaVDvhF1Q9y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 228431,
       "name": "Dubai Shit",
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "NoCap",
+          "url": "https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "N.A.M.E (FT. NOCAP)",
+      "url": "https://open.spotify.com/track/357QfYSnF1ktaVDvhF1Q9y"
     },
     {
       "added_at": null,

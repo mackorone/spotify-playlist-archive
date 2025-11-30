@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-528 songs - 1 day 18 hr 22 min
+529 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [D.I.S.](https://open.spotify.com/track/3az9Ir2Qd2JBHxT9wfGLoV) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [D.I.S.](https://open.spotify.com/album/3GKiNeF8efgPVOIijAeCZn) | 3:32 | 2025-11-10 |  |
 | [Deipkier](https://open.spotify.com/track/1XqNsMxAq5hHpr35djllcJ) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/3froV8878RfT1ClZYjyxBI) | 7:55 | 2021-10-06 | 2024-04-19 |
 | [Deipkier](https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf) | [Craven Faults](https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN) | [Erratics & Unconformities](https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V) | 7:55 | 2021-10-06 | 2025-06-10 |
-| [denon](https://open.spotify.com/track/0l2azF8wxLAcJIQq5ZwgAr) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV) | [denon](https://open.spotify.com/album/0EzTFUj1ERlNOhZFELTc8N) | 5:45 | 2025-09-19 |  |
+| [denon](https://open.spotify.com/track/0l2azF8wxLAcJIQq5ZwgAr) | [Deru](https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV) | [denon](https://open.spotify.com/album/0EzTFUj1ERlNOhZFELTc8N) | 5:45 | 2025-09-19 | 2025-11-30 |
 | [Derecho](https://open.spotify.com/track/1ex9tLfCgzOjV5rAU622nk) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Derecho](https://open.spotify.com/album/6dfr8bom2gZBPVaFMMxwzW) | 4:25 | 2024-08-14 | 2025-10-25 |
 | [Derrwut](https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB) | [Rogelio the IIIrd](https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve) | [Derrwut](https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7) | 2:41 | 2024-05-08 | 2025-09-20 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2025-07-17 |
@@ -430,6 +430,7 @@
 | [Tanto](https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Tanto](https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm) | 3:36 | 2022-01-13 | 2025-07-17 |
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/1zhaX3Hlb8Kfbhw5guWfHW) | 5:59 | 2021-10-06 | 2024-04-19 |
 | [Tar \- Jan Jelinek Remix](https://open.spotify.com/track/40p5kLXy8xuJ0UWAy67pb9) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Tar \(Jan Jelinek Remix\)](https://open.spotify.com/album/06GWd4BqT8WFdmwpU4mx9A) | 5:59 | 2021-10-06 | 2025-07-17 |
+| [TAREL](https://open.spotify.com/track/37DTvl9wVEXhJyjG6ZnXnd) | [KŌMA](https://open.spotify.com/artist/4J4aRxz650nbplT2bYAJHJ) | [TRYNA](https://open.spotify.com/album/0GuYwUpt4B8ujqQTbSZTlO) | 2:59 | 2025-11-29 |  |
 | [tdU\_du\_tdu\_tdu](https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK) | [onomatopoeia](https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq) | 4:29 | 2024-02-08 | 2025-09-06 |
 | [Temple](https://open.spotify.com/track/498ZDQka9kegPstbDGhpiu) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 3:30 | 2021-10-06 | 2025-07-17 |
 | [Tension](https://open.spotify.com/track/778hZhIUVg9QVvNBqs6SLT) | [Don Zilla](https://open.spotify.com/artist/28v8olmolos8vLLikFIWzh) | [Tension](https://open.spotify.com/album/3oAtVXftA2Tkwa5QCAXzfZ) | 3:48 | 2021-10-06 | 2022-07-23 |

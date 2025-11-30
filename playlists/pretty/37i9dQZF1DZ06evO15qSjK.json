@@ -1,12 +1,12 @@
 {
   "description": "This is Kidz Bop Kids. The essential tracks, all in one playlist.",
-  "num_followers": 174106,
+  "num_followers": 174110,
   "original_name": "This Is Kidz Bop Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADUXj+qz+AUAYbUkaSXjEqF",
+  "snapshot_id": "aSjmAAAAAABEjapcJMp3vAi/8inpqSi8",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 232245,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/5fy9MJv2mZ11FabsC5vv0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 151540,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2021",
-        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
+        "name": "KIDZ BOP 32",
+        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 179247,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
+      "duration_ms": 201937,
+      "name": "Cake By The Ocean",
+      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
     },
     {
       "added_at": null,
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 32",
-        "url": "https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50"
+        "name": "KIDZ BOP 2021",
+        "url": "https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf"
       },
       "artists": [
         {
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
         }
       ],
-      "duration_ms": 201937,
-      "name": "Cake By The Ocean",
-      "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
+      "duration_ms": 179247,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 151540,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIDZ BOP Halloween - 2025",
         "url": "https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 2022",
-        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Good 4 U",
-      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2023",
         "url": "https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 162954,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4H7g8si45lsEWcO6sBYzZp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 2022",
+        "url": "https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Good 4 U",
+      "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 50",
-        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 156090,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 37",
         "url": "https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 161573,
       "name": "Havana",
       "url": "https://open.spotify.com/track/1dnJkyBbi3gDPoT1IFYR9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 50",
+        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs"
     },
     {
       "added_at": null,

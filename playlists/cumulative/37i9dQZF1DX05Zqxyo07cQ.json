@@ -8938,6 +8938,24 @@
     {
       "album": {
         "name": "Moments",
+        "url": "https://open.spotify.com/album/4AexG0a3gfyojeCr9q0nte"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Hulenstadt",
+          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3bpTDWQZfVP0aR966sdktb"
+    },
+    {
+      "album": {
+        "name": "Moments",
         "url": "https://open.spotify.com/album/3v2iN5hsEJ2UlS2ECAtJbN"
       },
       "artists": [
@@ -10590,7 +10608,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 165092,
       "name": "Placid Meadow",
       "url": "https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ"
@@ -11695,6 +11713,24 @@
     },
     {
       "album": {
+        "name": "Saffron Dusk",
+        "url": "https://open.spotify.com/album/1ypuerc9q8lQ56KKyb02ht"
+      },
+      "artists": [
+        {
+          "name": "Monte Aria",
+          "url": "https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ"
+        }
+      ],
+      "date_added": "2025-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Saffron Dusk",
+      "url": "https://open.spotify.com/track/6knij9lTnyLerE4l1ljjkr"
+    },
+    {
+      "album": {
         "name": "Sagacity",
         "url": "https://open.spotify.com/album/5C38y3p4mUoSCaKunDAT2e"
       },
@@ -12246,7 +12282,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 188714,
       "name": "Silk Dreams",
       "url": "https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAosgmx/5N3uop1kJnKcL6Y",
+  "snapshot_id": "aSjmAAAAAABD/JGWjLWAo0FVErb2djPG",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE SINGLE LIFE",
-        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 134760,
-      "name": "BO$$ CHICK",
-      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All She Wanna Do",
         "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 134760,
+      "name": "BO$$ CHICK",
+      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 135884,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mardi Gras (Go Crazy) [PBM Version]",
         "url": "https://open.spotify.com/album/2LiuU8KvEVRTZ86GoFT4nz"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 174709,
       "name": "Mardi Gras (Go Crazy) - PBM Version",
       "url": "https://open.spotify.com/track/2abIvCHHsNecIV9HwdldsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/1I9aXVeJvp0iX70y5F011R"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 135884,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/64d2u8DTZfLhDJYdcyn7WI"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 171235,
-      "name": "Tip Toes (feat. Quavo)",
-      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "QUAVO HUNCHO",
         "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
       },
@@ -1011,8 +991,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+      "duration_ms": 49242,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
     }
   ],
   "unique_name": "This Is Saweetie",

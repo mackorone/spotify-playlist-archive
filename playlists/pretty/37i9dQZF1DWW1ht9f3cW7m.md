@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > peach is an indie pop playlist 🥤<br/>cover: Marti Perramon
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,558 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,557 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 | 45 | [Not That Bad](https://open.spotify.com/track/1LbRznfgudwSZrfSsXLbZ9) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Not That Bad](https://open.spotify.com/album/1mN2r4sHJcGGFGybBbM0Ze) | 2:52 |
 | 46 | [Beyond](https://open.spotify.com/track/5hpM0KveD4v4cTSz1PtVT9) | [goose princess](https://open.spotify.com/artist/6urenpCLwU9v0YEJuEwsvT) | [Beyond](https://open.spotify.com/album/08gXobTYYCfpW9dal8GuoF) | 3:08 |
 | 47 | [ALL I WANNA DO IS SCREAM I LOVE YOU](https://open.spotify.com/track/2aebp0uaeIpTtstoPmtyYE) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [HEATED!](https://open.spotify.com/album/1Ei5f3KtZShemJu7oUnCZl) | 3:34 |
-| 48 | [Babe III](https://open.spotify.com/track/6ISdEtUrn6yjMbL5gArVsP) | [TYGERMYLK](https://open.spotify.com/artist/2Mz1PQnanSTGMp5lYkNY94) | [Babe III](https://open.spotify.com/album/7yX3fIvBa6sG9LcpHQDEX9) | 3:09 |
+| 48 | [Babe III](https://open.spotify.com/track/6ISdEtUrn6yjMbL5gArVsP) | [Tygermylk](https://open.spotify.com/artist/2Mz1PQnanSTGMp5lYkNY94) | [Babe III](https://open.spotify.com/album/7yX3fIvBa6sG9LcpHQDEX9) | 3:09 |
 | 49 | [pool shark](https://open.spotify.com/track/7ar6uudphV7cVDTXqmvBvS) | [Jacob Daley](https://open.spotify.com/artist/1CglRdvM7squ8V8kjwpvy6) | [pool shark](https://open.spotify.com/album/6TRrPonpxMuTJAsg39itTV) | 3:25 |
 | 50 | [Bully](https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0CwKc5bjnFIXAccYdq6Wjp) | 3:33 |
 | 51 | [Are You Dreaming?](https://open.spotify.com/track/1MK0zITr3SZeOK8DvFUeQj) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Are You Dreaming?](https://open.spotify.com/album/34ymdPL7Qh0Om8fe4LI5N4) | 3:20 |

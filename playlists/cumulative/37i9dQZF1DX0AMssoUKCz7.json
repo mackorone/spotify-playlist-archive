@@ -4972,7 +4972,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 171428,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/63iSQ3Fd1qnKWlC7LIVP87"
@@ -9381,6 +9381,32 @@
     },
     {
       "album": {
+        "name": "Never Be Alone",
+        "url": "https://open.spotify.com/album/6txkQhn6sQct44Uc3LPZdy"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Mindblow",
+          "url": "https://open.spotify.com/artist/721X4xLFS5AiHb6GeuuKvF"
+        },
+        {
+          "name": "Zaga",
+          "url": "https://open.spotify.com/artist/5UX6ZbI8ssCFSTNaaQD1JK"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Never Be Alone",
+      "url": "https://open.spotify.com/track/0Kn1X518zDKy02CQoVP5c3"
+    },
+    {
+      "album": {
         "name": "Never Gonna Give You Up",
         "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
       },
@@ -11480,7 +11506,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 167946,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/2zIaJANgkbASOkw6yH58Wu"
@@ -14528,6 +14554,28 @@
       "duration_ms": 176190,
       "name": "Too Good To Lose - Sunset Edition",
       "url": "https://open.spotify.com/track/7qJ0fplEhE9Hjjrexg2QPS"
+    },
+    {
+      "album": {
+        "name": "Too Sweet",
+        "url": "https://open.spotify.com/album/2SPkdaGAzaDdftkh0EvyMJ"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "The Macarons Project",
+          "url": "https://open.spotify.com/artist/61VZakASLH5PweMQzF7R8r"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164196,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4Z3F8VnLHzcIRNDRRJmr8P"
     },
     {
       "album": {

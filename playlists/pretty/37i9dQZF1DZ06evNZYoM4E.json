@@ -1,13 +1,29 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107611,
+  "num_followers": 107614,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACb7kOn+he7GhQk/Hp/o7vg",
+  "snapshot_id": "aSjmAAAAAADA/xtvjclyzfw4ksJ3nENx",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kerstboom Zonder Piek",
+        "url": "https://open.spotify.com/album/6JOiCwUPUXKVnPMyPDFwVT"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "Kerstmis Voor Een Zwerver",
+      "url": "https://open.spotify.com/track/28HZeogH3brUS2m0Y2GF7t"
+    },
     {
       "added_at": null,
       "album": {
@@ -295,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liefde, Leven, Geven",
+        "url": "https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Bedankt Mijn Vriend",
+      "url": "https://open.spotify.com/track/2f8rXpUhlKYsK1zUnHeSJj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samen Met Dr\u00e9",
         "url": "https://open.spotify.com/album/5iwfn6LrS7wwhuMLn16io3"
       },
@@ -311,22 +343,6 @@
       "duration_ms": 241493,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liefde, Leven, Geven",
-        "url": "https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Bedankt Mijn Vriend",
-      "url": "https://open.spotify.com/track/2f8rXpUhlKYsK1zUnHeSJj"
     },
     {
       "added_at": null,
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Dat Ene Moment",
-      "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liefde, Leven, Geven",
         "url": "https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 251306,
       "name": "Als Je Alles Weet",
       "url": "https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Dat Ene Moment",
+      "url": "https://open.spotify.com/track/2KraLG62JBty0ccSnLjA0z"
     },
     {
       "added_at": null,
@@ -555,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry (Holland Zingt Hazes)",
-        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 220879,
-      "name": "Sorry - Holland Zingt Hazes",
-      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
+      "duration_ms": 199466,
+      "name": "Rotzooi? Je Zegt 'T Maar",
+      "url": "https://open.spotify.com/track/7b7UWhdR0WwW5fnp0vUkhZ"
     },
     {
       "added_at": null,
@@ -591,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jij Bent Alles",
-        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
+        "name": "Sorry (Holland Zingt Hazes)",
+        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
       "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 199466,
-      "name": "Rotzooi? Je Zegt 'T Maar",
-      "url": "https://open.spotify.com/track/7b7UWhdR0WwW5fnp0vUkhZ"
+      "duration_ms": 220879,
+      "name": "Sorry - Holland Zingt Hazes",
+      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 206866,
       "name": "Droomland - Live",
       "url": "https://open.spotify.com/track/5lqvbixZHS30HYud97yhF6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jij Bent Alles",
-        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Jij Denkt Maar Dat Je Alles Mag Van Mij",
-      "url": "https://open.spotify.com/track/1nfhJk2pQuGFCw4c1Tbqvq"
     }
   ],
   "unique_name": "This Is Andre Hazes",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Romeo Santos & Prince Royce
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,309 likes - 57 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,204 likes - 57 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [Cardio](https://open.spotify.com/track/35FPNzYRm2WpIt6rr1WZv6) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Un Verano en Caliyork](https://open.spotify.com/album/4F44LKbwcD0MlXkvYnYl0r) | 3:16 |
 | 19 | [TIEMPO OFF](https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [CUERPOS, Vol\. 1](https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV) | 3:46 |
 | 20 | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/track/1OzWR3TeXVCYw5OHgAHRo1) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [COMO DOS EXTRAÑOS \(feat\. Santiago Motorizado\)](https://open.spotify.com/album/0BtfSe5QLvZTlTrvcTO5Lc) | 2:52 |
-| 21 | [Octubre](https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Serenata en mi mayor para un amor y un atardecer](https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz) | 3:20 |
+| 21 | [Octubre](https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Serenata en Mi Mayor para un amor y un atardecer](https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz) | 3:20 |
 | 22 | [Loyal](https://open.spotify.com/track/5YVtFzNdgSOlryYtUMauM4) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [Loyal](https://open.spotify.com/album/1WMKhfD9Di0rZavPywlpGt) | 3:35 |
 | 23 | [Luna Dile](https://open.spotify.com/track/6ynnEaVI2A2qwa6gqqE2GE) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Luna Dile](https://open.spotify.com/album/1KPXKV399Yslp8DaiATyN8) | 2:53 |
 | 24 | [no tiene sentido \- 5020 RCRDS Sessions](https://open.spotify.com/track/4J9LIaVGaO3UUYF5K6DZxc) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO \(5020 RCRDS Sessions\)](https://open.spotify.com/album/5U5bjE68QqIQbArnGvditP) | 3:08 |

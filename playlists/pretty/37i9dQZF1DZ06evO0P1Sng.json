@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADJlsy+tW7eYOl7hTMwZDXM",
+  "snapshot_id": "aSjmAAAAAADfH10LmDvkPssF9CgN9CCH",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Todos Contra 1",
+      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu"
       },
@@ -535,22 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+        "name": "Afroculture",
+        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
       },
       "artists": [
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
         },
         {
-          "name": "Felixxx",
-          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 163298,
-      "name": "Todos Contra 1",
-      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
+      "duration_ms": 165630,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0Jf8KRqmVUTlYFpJHQahbP"
     },
     {
       "added_at": null,
@@ -575,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MC de Batalha",
-        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 188420,
-      "name": "MC de Batalha",
-      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dona de Mim (Novela)",
         "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
       },
@@ -615,6 +615,26 @@
       "duration_ms": 151737,
       "name": "Dona de Mim - Novela",
       "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MC de Batalha",
+        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 188420,
+      "name": "MC de Batalha",
+      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
     },
     {
       "added_at": null,
@@ -819,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ZyZy",
         "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
       },
@@ -835,22 +871,6 @@
       "duration_ms": 149833,
       "name": "ZyZy",
       "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -1007,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FZND DNV",
-        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "H4lfmeasures",
-          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "FZND DNV",
-      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Prepara",
         "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
       },
@@ -1051,6 +1047,30 @@
       "duration_ms": 182415,
       "name": "Se Prepara",
       "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FZND DNV",
+        "url": "https://open.spotify.com/album/3S3VnaT3xvdGP0srKVt8v5"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "FZND DNV",
+      "url": "https://open.spotify.com/track/5dGixeOdNWTMXvmIu64DRg"
     },
     {
       "added_at": null,
@@ -1279,30 +1299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azzy On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 141923,
-      "name": "Azzy On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poetisas No Topo",
         "url": "https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4"
       },
@@ -1343,6 +1339,30 @@
       "duration_ms": 693750,
       "name": "Poetisas No Topo",
       "url": "https://open.spotify.com/track/5kJ7otQOQrMC5CnkYGZaC9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azzy On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 141923,
+      "name": "Azzy On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
     },
     {
       "added_at": null,
@@ -1395,34 +1415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        },
-        {
-          "name": "Valey",
-          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
-        },
-        {
-          "name": "NERESZZ",
-          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
-        }
-      ],
-      "duration_ms": 150329,
-      "name": "Tipo Uma Dan\u00e7a",
-      "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -1455,8 +1447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "R\u00edmel",
-        "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
       },
       "artists": [
         {
@@ -1464,13 +1456,21 @@
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        },
+        {
+          "name": "Valey",
+          "url": "https://open.spotify.com/artist/5CJoSzfSFi2ddUQzwbVJQ9"
+        },
+        {
+          "name": "NERESZZ",
+          "url": "https://open.spotify.com/artist/0q3HhX2NqZo0or1zi7RAko"
         }
       ],
-      "duration_ms": 172363,
-      "name": "S\u00e3o Gon\u00e7alo",
-      "url": "https://open.spotify.com/track/1xXWehn4TUTstEXvkwh0Oq"
+      "duration_ms": 150329,
+      "name": "Tipo Uma Dan\u00e7a",
+      "url": "https://open.spotify.com/track/0ZaxU6AbRDT3TSRO5RhCDr"
     }
   ],
   "unique_name": "This Is Azzy",

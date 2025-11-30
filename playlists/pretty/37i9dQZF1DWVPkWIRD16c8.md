@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,941 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,002 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 27 | [God Is For Me](https://open.spotify.com/track/7Dzhw9i6H4oX89Iwqf3ziK) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [God Is For Me](https://open.spotify.com/album/6f8eCGU8Pf9rI0OTP6HTAU) | 2:44 |
 | 28 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 |
 | 29 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
-| 30 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 |
-| 31 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
+| 30 | [Nothin' Sweeter](https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Nothin' Sweeter](https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU) | 2:56 |
+| 31 | [Wherever I Go](https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Far Country](https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms) | 3:38 |
 | 32 | [Scared](https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Twenty Something](https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh) | 2:38 |
 | 33 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 34 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 40 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
 | 41 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
 | 42 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
-| 43 | [Steady Love](https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz) | 3:10 |
-| 44 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
+| 43 | [I'm So Blessed \- Aaron Cole Mix](https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I'm So Blessed \(Aaron Cole Mix\)](https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ) | 2:55 |
+| 44 | [Steady Love](https://open.spotify.com/track/1LAFeVyit0FoefJUt9PvgT) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/3qr0raAjkRZfT881l6a2uz) | 3:10 |
 | 45 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
 | 46 | [NEVER GOING BACK](https://open.spotify.com/track/7cBufOFCMzMgOJ0YdZRpWz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [NEVER GOING BACK](https://open.spotify.com/album/2j5Kbe1G5jQUcEMAhmytq9) | 2:32 |
 | 47 | [Antidote](https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Antidote](https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9) | 2:51 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 71 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |
 | 72 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
 | 73 | [SPIN BACK!](https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SPIN BACK!](https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq) | 2:02 |
-| 74 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
-| 75 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 |
+| 74 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 |
+| 75 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
 | 76 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |
 | 77 | [Reckless Love](https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Reckless Love](https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt) | 5:22 |
 | 78 | [Hindsight](https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Hindsight](https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q) | 3:18 |

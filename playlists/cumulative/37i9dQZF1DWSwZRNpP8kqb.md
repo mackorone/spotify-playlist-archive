@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-163 songs - 9 hr 36 min
+164 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2022-01-14 | 2022-07-29 |
 | [El Camión de Germán](https://open.spotify.com/track/1IfqQiw3sz9GgsoTrDDblL) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda) | [El Camión de Germán](https://open.spotify.com/album/2a3jI3n0xtX9Zktz4RX1Wb) | 5:27 | 2023-03-17 | 2024-04-26 |
 | [El Círculo](https://open.spotify.com/track/50x9Hu5ylmkhpOXnUsH33X) | [Georgina Hassan](https://open.spotify.com/artist/5mFd5W4knpaQflS9IsNnSZ), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Primera Luna](https://open.spotify.com/album/5TmC4Vf0Gsmoccfi4UQibs) | 3:25 | 2022-09-06 |  |
-| [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 | 2022-09-23 |  |
+| [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 | 2022-09-23 | 2025-11-30 |
 | [El Otro País](https://open.spotify.com/track/0YlsXdXjBWt9KDLJpjwfii) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [El Otro País](https://open.spotify.com/album/1XbuwOs0M0UTManSQD3dF1) | 4:26 | 2023-10-05 | 2025-02-16 |
 | [El Seclanteño](https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Rosa de los Vientos](https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy) | 4:46 | 2022-01-14 |  |
 | [El Surco](https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:04 | 2022-01-14 |  |
@@ -170,6 +170,7 @@
 | [Zamba del Laurel](https://open.spotify.com/track/2YywgUYPha9xvoCJo7b45d) | [Lorena Astudillo](https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y) | [El Cuchi de Camara](https://open.spotify.com/album/6qP16r1SaOUcpg8NlBTkAB) | 5:20 | 2022-01-14 |  |
 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 | 2022-01-14 |  |
 | [Zamba del Viento Libre](https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg) | [Felicitas Argüello](https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw), [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Zamba del Viento Libre](https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K) | 3:43 | 2022-09-23 | 2022-11-07 |
+| [Zamba del ángel](https://open.spotify.com/track/6Zeftf9CEAON1XMEzWZYRj) | [Mavi Díaz](https://open.spotify.com/artist/4vxmDBcHT1ibxYBYKirIaW) | [Baile en el cielo](https://open.spotify.com/album/6noUYgHrGt2GJW4n30Ecfu) | 4:21 | 2025-08-21 |  |
 | [Zamba Enamorada \(feat\. Liliana Herrero\)](https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2) | [Florencia Dávalos](https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq) | [Memoria de la Semilla](https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj) | 4:21 | 2022-01-14 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

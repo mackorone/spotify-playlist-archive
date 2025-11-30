@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,305 likes - 42 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,366 likes - 42 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 41 | [Go Tell It On The Mountain](https://open.spotify.com/track/6BUM0QcEos9oIxwhYyGLte) | [Stephanie Murere](https://open.spotify.com/artist/1E8h8SdoO4FQeoOkU6yaG6) | [Go Tell It On The Mountain](https://open.spotify.com/album/5agwXEO2uGYmw1yjcTUJlS) | 1:52 |
 | 42 | [Alle Jahre Wieder](https://open.spotify.com/track/3bpVrnAYK40WOSVXUC5nZc) | [Odette Weisz](https://open.spotify.com/artist/3uIIsttgIORjqRPNaT18b9) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:04 |
 
-Snapshot ID: `AAAAAAY6Ky2HWwMOOX/FvBTuOvxWzyBK`
+Snapshot ID: `AAAAAByD9teZSryXBo3jeet6LdqZTCnj`

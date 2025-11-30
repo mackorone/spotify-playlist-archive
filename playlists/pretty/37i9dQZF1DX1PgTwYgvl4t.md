@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM?si=Lz1l8CJQQ9O8usenEwIh5w>Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,592 likes - 100 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,702 likes - 100 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 6 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |
 | 7 | [Mercy \- Live](https://open.spotify.com/track/5j3fJAxQp4gQ53xOPRnzvA) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [The Expression](https://open.spotify.com/album/5LNEzS1eSEiVAAWIkd4Rk1) | 16:45 |
 | 8 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 |
-| 9 | [Carry Me \- Live Session](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me \(Live Session\)](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
+| 9 | [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
 | 10 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 |
 | 11 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 |
 | 12 | [Tare \(Live\)](https://open.spotify.com/track/4KtT8dN9QaCPNwxtJwhKmB) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Tare \(Live\)](https://open.spotify.com/album/1rlFzowjP2vHdilHAvSU7v) | 7:57 |

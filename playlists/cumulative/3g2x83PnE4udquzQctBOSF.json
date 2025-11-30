@@ -6827,6 +6827,24 @@
     },
     {
       "album": {
+        "name": "SOMEBODY HERE?",
+        "url": "https://open.spotify.com/album/3Bkcjr5mpF6mxqlJL3MDHu"
+      },
+      "artists": [
+        {
+          "name": "KODELEAN DJ",
+          "url": "https://open.spotify.com/artist/2CG8X1NKy4XkOxsUckIrWl"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150944,
+      "name": "SOMEBODY HERE?",
+      "url": "https://open.spotify.com/track/38PbBMCHd67hE9XQrHFwut"
+    },
+    {
+      "album": {
         "name": "Something In Your Eyes",
         "url": "https://open.spotify.com/album/5s4ZxE4IDV0TlOBwZNAPo1"
       },
@@ -7532,6 +7550,28 @@
       "duration_ms": 196615,
       "name": "To The Top - Edit",
       "url": "https://open.spotify.com/track/13qBKLDd37ghQ9OgzgsSbE"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/37dxdaeFZlRp05wLlI5hi1"
+      },
+      "artists": [
+        {
+          "name": "Genny-j",
+          "url": "https://open.spotify.com/artist/1c6NutZ2CtiknuNdnVeSdg"
+        },
+        {
+          "name": "Calpaina3",
+          "url": "https://open.spotify.com/artist/5BPHb7U1QTNPYKO68z7fIu"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244687,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1EULSjjAGwGU0cbZ0cl1JA"
     },
     {
       "album": {

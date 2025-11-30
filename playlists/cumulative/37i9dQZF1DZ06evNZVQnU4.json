@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "The Christmas Song",
+        "url": "https://open.spotify.com/album/1XihsRNijZ4GXrAHmQQv6n"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175338,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4WRb5qAPnvMbUIrnjLaggC"
+    },
+    {
+      "album": {
         "name": "Olivia Dean - Spotify Live Room",
         "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
       },

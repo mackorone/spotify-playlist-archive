@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Inkos'Yamagcokama
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,357 likes - 95 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,540 likes - 95 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Higgo",
-  "num_followers": 102475,
+  "num_followers": 102497,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHw2CdkDfOCD9NjdOZytRoNKLVIz",
+  "snapshot_id": "AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq",
   "tracks": [
     {
       "added_at": "2025-11-21 09:59:00",
@@ -659,22 +659,22 @@
     {
       "added_at": "2025-11-21 09:59:00",
       "album": {
-        "name": "XTZY",
-        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL"
       },
       "artists": [
         {
-          "name": "FULLCLIP",
-          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
         },
         {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
         }
       ],
-      "duration_ms": 167492,
-      "name": "XTZY",
-      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
+      "duration_ms": 149666,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
     },
     {
       "added_at": "2025-11-21 09:59:00",
@@ -695,22 +695,22 @@
     {
       "added_at": "2025-11-21 09:59:00",
       "album": {
-        "name": "EUPHORIA",
-        "url": "https://open.spotify.com/album/6VR8RfG0xsWxZHGFpb0PVL"
+        "name": "XTZY",
+        "url": "https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo"
       },
       "artists": [
         {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+          "name": "FULLCLIP",
+          "url": "https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9"
         },
         {
-          "name": "Charlotte Haining",
-          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
         }
       ],
-      "duration_ms": 149666,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
+      "duration_ms": 167492,
+      "name": "XTZY",
+      "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
     },
     {
       "added_at": "2025-11-21 09:59:00",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-11-21 09:59:00",
       "album": {
-        "name": "LOOK4MYLOVE",
-        "url": "https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        }
-      ],
-      "duration_ms": 220108,
-      "name": "LOOK4MYLOVE",
-      "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
-    },
-    {
-      "added_at": "2025-11-21 09:59:00",
-      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 150477,
       "name": "Move Your Body feat. Xpansions",
       "url": "https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA"
+    },
+    {
+      "added_at": "2025-11-21 09:59:00",
+      "album": {
+        "name": "LOOK4MYLOVE",
+        "url": "https://open.spotify.com/album/3aEwbI3IgFsljshX9Gk9ZD"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        }
+      ],
+      "duration_ms": 220108,
+      "name": "LOOK4MYLOVE",
+      "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
     },
     {
       "added_at": "2025-11-21 09:59:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-11-21 09:59:00",
       "album": {
-        "name": "ABC's",
-        "url": "https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        },
-        {
-          "name": "AntsLive",
-          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "ABC's",
-      "url": "https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj"
-    },
-    {
-      "added_at": "2025-11-21 09:59:00",
-      "album": {
         "name": "Feel Da Same",
         "url": "https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx"
       },
@@ -1287,6 +1267,62 @@
     {
       "added_at": "2025-11-21 09:59:00",
       "album": {
+        "name": "Pied Piper 2025",
+        "url": "https://open.spotify.com/album/0suNaacL8fdCVMk5fYr3V6"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        },
+        {
+          "name": "Ruff Sqwad",
+          "url": "https://open.spotify.com/artist/67POQUr9E4V8GpQxqQ5d8I"
+        },
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 136555,
+      "name": "Pied Piper 2025",
+      "url": "https://open.spotify.com/track/3bXiZRRB49MxBlDBXrJtiX"
+    },
+    {
+      "added_at": "2025-11-21 09:59:00",
+      "album": {
+        "name": "ABC's",
+        "url": "https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        },
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ABC's",
+      "url": "https://open.spotify.com/track/73P8YjW0PLirC8MygBp3hj"
+    },
+    {
+      "added_at": "2025-11-21 09:59:00",
+      "album": {
         "name": "King Steps",
         "url": "https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt"
       },
@@ -1303,22 +1339,6 @@
       "duration_ms": 181141,
       "name": "King Steps",
       "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
-    },
-    {
-      "added_at": "2025-11-21 09:59:00",
-      "album": {
-        "name": "All I Wanna Do",
-        "url": "https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH"
-      },
-      "artists": [
-        {
-          "name": "Skeptic",
-          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
-        }
-      ],
-      "duration_ms": 184326,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b"
     },
     {
       "added_at": "2025-11-21 09:59:00",

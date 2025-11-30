@@ -15620,12 +15620,12 @@
           "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
         },
         {
-          "name": "Mufasa",
-          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
         },
         {
-          "name": "Hypeman",
-          "url": "https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim"
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
         },
         {
           "name": "Dopamine",
@@ -15634,7 +15634,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -23682,7 +23682,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 184503,
       "name": "kanapoja lauluke",
       "url": "https://open.spotify.com/track/4zo6RIT37PhMRN4n2Z1k5b"
@@ -33022,10 +33022,32 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 235738,
       "name": "M\u00fcnt",
       "url": "https://open.spotify.com/track/5PCD15k3WBuDJSr7osSUbL"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la carte",
+        "url": "https://open.spotify.com/album/2q9Dl19vMGCwT6lUEPyMT5"
+      },
+      "artists": [
+        {
+          "name": "Liis Lemsalu",
+          "url": "https://open.spotify.com/artist/2rdUWyphqOltYR6zPaMPrU"
+        },
+        {
+          "name": "Lauri Saatpalu",
+          "url": "https://open.spotify.com/artist/0teZDGivRVrcIf28rs9xVw"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235738,
+      "name": "M\u00fcnt",
+      "url": "https://open.spotify.com/track/6UoVyn8YeCaHoYvigwqqaJ"
     },
     {
       "album": {
@@ -35646,7 +35668,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -40594,7 +40616,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 96000,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE"

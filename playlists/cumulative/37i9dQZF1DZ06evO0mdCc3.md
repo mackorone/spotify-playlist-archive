@@ -4,7 +4,7 @@
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 58 min
+68 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 | 2024-10-23 |  |
 | [Space Oddity](https://open.spotify.com/track/3b8GAeat6ar5nwroyO66X2) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [A Salute to the Thin White Duke \- the Songs of David Bowie](https://open.spotify.com/album/4CAbznuR6XcswZgJj0Dlj3) | 5:35 | 2024-10-23 | 2025-09-21 |
 | [Spit](https://open.spotify.com/track/6zd772F94reUnGHulNeEFm) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 2:22 | 2024-10-23 |  |
-| [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 | 2025-08-23 |  |
+| [Spit XXV](https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:45 | 2025-11-30 |  |
+| [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 | 2025-08-23 | 2025-11-30 |
 | [Suck](https://open.spotify.com/track/4UeVTOxOBUwUF8mjXD9EKc) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit](https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH) | 3:33 | 2024-10-23 |  |
 | [The Unforgiven \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [The Unforgiven \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0) | 5:52 | 2025-03-08 |  |
 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 | 2024-10-23 | 2025-10-19 |

@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 188306,
+  "num_followers": 188404,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
-      },
-      "artists": [
-        {
-          "name": "Greta Panettieri",
-          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
-        }
-      ],
-      "duration_ms": 368551,
-      "name": "Goodbye Stranger",
-      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3KJDc381jm06rWww5E45or"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 206004,
       "name": "Don't Need The Real Thing",
       "url": "https://open.spotify.com/track/2rNVuESpnqDyCni2tfw4st"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/1W5yRvByffHkApV5a1TtSM"
+      },
+      "artists": [
+        {
+          "name": "Greta Panettieri",
+          "url": "https://open.spotify.com/artist/7ttqjMzl0AobitVVBpX9pw"
+        }
+      ],
+      "duration_ms": 368551,
+      "name": "Goodbye Stranger",
+      "url": "https://open.spotify.com/track/65bvlsX5wqVzhRfQkV2i5w"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Her House (Single Edit) [Star of Spring]",
         "url": "https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 227645,
       "name": "Her House (Single Edit)",
       "url": "https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Humphrey and Me",
+        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
+      },
+      "artists": [
+        {
+          "name": "Claes Janson",
+          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
+        }
+      ],
+      "duration_ms": 267355,
+      "name": "Humphrey and me",
+      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "All About You",
         "url": "https://open.spotify.com/album/2v2NobYKPTp4h3rjMDPYFA"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 260852,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2fvF0PARRaYZcc2TguAekK"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Humphrey and Me",
-        "url": "https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL"
-      },
-      "artists": [
-        {
-          "name": "Claes Janson",
-          "url": "https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712"
-        }
-      ],
-      "duration_ms": 267355,
-      "name": "Humphrey and me",
-      "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "H I M",
-        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
+        "name": "A Happy Thought (feat. Stu Mindeman)",
+        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
       "artists": [
         {
-          "name": "Louis Amanti",
-          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Stu Mindeman",
+          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
         }
       ],
-      "duration_ms": 220728,
-      "name": "H I M",
-      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
+      "duration_ms": 226240,
+      "name": "A Happy Thought (feat. Stu Mindeman)",
+      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "A Happy Thought (feat. Stu Mindeman)",
-        "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
+        "name": "H I M",
+        "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
       },
       "artists": [
         {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Stu Mindeman",
-          "url": "https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0"
+          "name": "Louis Amanti",
+          "url": "https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu"
         }
       ],
-      "duration_ms": 226240,
-      "name": "A Happy Thought (feat. Stu Mindeman)",
-      "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
+      "duration_ms": 220728,
+      "name": "H I M",
+      "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
     },
     {
       "added_at": "2025-05-18 18:29:44",

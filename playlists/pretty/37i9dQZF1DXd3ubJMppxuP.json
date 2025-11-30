@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 84915,
+  "num_followers": 84929,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,26 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Hartslag (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE"
+      },
+      "artists": [
+        {
+          "name": "Steffany",
+          "url": "https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m"
+        },
+        {
+          "name": "Spearbreak",
+          "url": "https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE"
+        }
+      ],
+      "duration_ms": 185256,
+      "name": "Hartslag - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/3l1cFHb9k9skyeFklUHz38"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Rave, Rinse, Repeat",
         "url": "https://open.spotify.com/album/08eNBdSHZJ90KQXsKPOi81"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 171561,
       "name": "Rave, Rinse, Repeat",
       "url": "https://open.spotify.com/track/4Ace8alexaAj3QHwprUqQq"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
-        "name": "Hartslag (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/6YX6YttBgE4VQV88MEeCZE"
-      },
-      "artists": [
-        {
-          "name": "Steffany",
-          "url": "https://open.spotify.com/artist/4gNFEcwT0hldqyzHdl231m"
-        },
-        {
-          "name": "Spearbreak",
-          "url": "https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE"
-        }
-      ],
-      "duration_ms": 185256,
-      "name": "Hartslag - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/3l1cFHb9k9skyeFklUHz38"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -571,26 +571,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Amalia (Remix)",
-        "url": "https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        },
-        {
-          "name": "Opgeblazen",
-          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
-        }
-      ],
-      "duration_ms": 152829,
-      "name": "Amalia - Remix",
-      "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "Naar de Klote",
         "url": "https://open.spotify.com/album/2g7jh6kFGHmykld5fia8Oy"
       },
@@ -611,30 +591,22 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Vluchtstrook (Sound Rush Remix)",
-        "url": "https://open.spotify.com/album/1aYLG6jDu6GtEqWe3RnwcV"
+        "name": "Amalia (Remix)",
+        "url": "https://open.spotify.com/album/7zXl3exwnZRtt12HfOExgp"
       },
       "artists": [
         {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
         },
         {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Sigourney K",
-          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
-        },
-        {
-          "name": "Sound Rush",
-          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+          "name": "Opgeblazen",
+          "url": "https://open.spotify.com/artist/1wLKrslSkMPt0GjK2PFQng"
         }
       ],
-      "duration_ms": 178072,
-      "name": "Vluchtstrook - Sound Rush Remix",
-      "url": "https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K"
+      "duration_ms": 152829,
+      "name": "Amalia - Remix",
+      "url": "https://open.spotify.com/track/767nFqBNpxIrQaceT0SzK4"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -719,6 +691,34 @@
       "duration_ms": 192000,
       "name": "Links, Rechts",
       "url": "https://open.spotify.com/track/3oyGbOtE0jr8PMgteEjpZN"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Vluchtstrook (Sound Rush Remix)",
+        "url": "https://open.spotify.com/album/1aYLG6jDu6GtEqWe3RnwcV"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Sigourney K",
+          "url": "https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "duration_ms": 178072,
+      "name": "Vluchtstrook - Sound Rush Remix",
+      "url": "https://open.spotify.com/track/3EO5M4SVTz6XinImb0Q95K"
     },
     {
       "added_at": "2025-10-21 11:57:23",
@@ -963,38 +963,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Van God Los (Official 2025 Kamping Kitsch Club Anthem)",
-        "url": "https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL"
-      },
-      "artists": [
-        {
-          "name": "Jody Bernal",
-          "url": "https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa"
-        },
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "Kamping Kitsch Club Soundsystem",
-          "url": "https://open.spotify.com/artist/2DPRgxvMDx9oQNR25vUIIG"
-        },
-        {
-          "name": "Boerin Anna",
-          "url": "https://open.spotify.com/artist/35DH30n3qCSB631m0Ea9X8"
-        }
-      ],
-      "duration_ms": 165375,
-      "name": "Van God Los - Official 2025 Kamping Kitsch Club Anthem",
-      "url": "https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "Het Is Een Nacht (Total Loss Remix)",
         "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
       },
@@ -1035,6 +1003,38 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
+        "name": "Van God Los (Official 2025 Kamping Kitsch Club Anthem)",
+        "url": "https://open.spotify.com/album/3R3Ysl9LK5POTeXXgw0qQL"
+      },
+      "artists": [
+        {
+          "name": "Jody Bernal",
+          "url": "https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Kamping Kitsch Club Soundsystem",
+          "url": "https://open.spotify.com/artist/2DPRgxvMDx9oQNR25vUIIG"
+        },
+        {
+          "name": "Boerin Anna",
+          "url": "https://open.spotify.com/artist/35DH30n3qCSB631m0Ea9X8"
+        }
+      ],
+      "duration_ms": 165375,
+      "name": "Van God Los - Official 2025 Kamping Kitsch Club Anthem",
+      "url": "https://open.spotify.com/track/7Ij8PzPOoLGWcJfF8vF6cV"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
         "name": "Ze Komt Uit Amsterdam (LNY TNZ Remix)",
         "url": "https://open.spotify.com/album/1neUviFhzFQD1CtZRwsMKp"
       },
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Held In De Nacht (De Lievelings DJ's Van Je Zusje Remix)",
-        "url": "https://open.spotify.com/album/0sjumIBLVnWnItUD3c9dSi"
-      },
-      "artists": [
-        {
-          "name": "HockeyLoverz",
-          "url": "https://open.spotify.com/artist/0blXxSYseHGU0nJ2daxjCF"
-        },
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "De Lievelings DJ's Van Je Zusje",
-          "url": "https://open.spotify.com/artist/6miq9hCHtjQACUWx9FCi9D"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Held In De Nacht - De Lievelings DJ's Van Je Zusje Remix",
-      "url": "https://open.spotify.com/track/3dyhGdd2p4Jt2MtaXOKazA"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "Het Allerlaatste Rondje",
         "url": "https://open.spotify.com/album/0kXKzl1x7YIJ2qHCauPuIV"
       },
@@ -1099,6 +1075,26 @@
       "duration_ms": 162000,
       "name": "Het Allerlaatste Rondje",
       "url": "https://open.spotify.com/track/1tNFA1UmvXzGDfmXrbdOQH"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Allez Allez Allez (Original Mix)",
+        "url": "https://open.spotify.com/album/4YMwHhq4OIzESqEAQ1bNZ3"
+      },
+      "artists": [
+        {
+          "name": "Bass Chaserz",
+          "url": "https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS"
+        },
+        {
+          "name": "Buren Van De Brandweer",
+          "url": "https://open.spotify.com/artist/0478xZLaj8batwh7Ohh2nB"
+        }
+      ],
+      "duration_ms": 215612,
+      "name": "Allez Allez Allez - Original Mix",
+      "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
     }
   ],
   "unique_name": "Nederlandse Hardstyle",

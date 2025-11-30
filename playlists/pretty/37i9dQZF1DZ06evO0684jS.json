@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 892677,
+  "num_followers": 892670,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADkoB5ggH2PPjumsVAbifhT",
+  "snapshot_id": "aSjmAAAAAAA32drF909xEA1F3Rb5dDfe",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Moment 4 Life",
-      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday ... Roman Reloaded (Deluxe)",
         "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
       },
@@ -383,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion, Pain & Pleasure (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
       "artists": [
         {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 242013,
-      "name": "Bottoms Up (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO"
+      "duration_ms": 279306,
+      "name": "Moment 4 Life",
+      "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
       "added_at": null,
@@ -419,6 +399,26 @@
       "duration_ms": 222200,
       "name": "2012 (It Ain't The End)",
       "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion, Pain & Pleasure (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Bottoms Up (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO"
     },
     {
       "added_at": null,

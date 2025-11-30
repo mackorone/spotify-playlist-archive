@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1041550,
+  "num_followers": 1041565,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,18 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+      "duration_ms": 216752,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -467,18 +463,22 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 216752,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -1087,30 +1087,6 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "saman\u00e1",
-        "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 160575,
-      "name": "saman\u00e1",
-      "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
         "name": "Carteras Chinas",
         "url": "https://open.spotify.com/album/0ZCjHDJjqhUctbgH7HXzqe"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 187119,
       "name": "Carteras Chinas",
       "url": "https://open.spotify.com/track/40V77QgNlrEn4V03E13zxh"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "saman\u00e1",
+        "url": "https://open.spotify.com/album/1WlUsQsnYw5aANItfBxFRR"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 160575,
+      "name": "saman\u00e1",
+      "url": "https://open.spotify.com/track/3JkqRmM1gWmIZajzcz6lhW"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "Dej\u00e1ndolo Pasar",
-        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 179112,
-      "name": "Dej\u00e1ndolo Pasar",
-      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
         "name": "Fantasi",
         "url": "https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 158080,
       "name": "Fantasi",
       "url": "https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "Dej\u00e1ndolo Pasar",
+        "url": "https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 179112,
+      "name": "Dej\u00e1ndolo Pasar",
+      "url": "https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "SAN BLAS",
-        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "san blaS",
-      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
         "name": "PREGUNTAS A LAS 11:11",
         "url": "https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb"
       },
@@ -1671,22 +1655,34 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "voltaje",
-        "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
       },
       "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
         {
           "name": "Boza",
           "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 172363,
-      "name": "voltaje",
-      "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161867,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -1727,18 +1723,42 @@
     {
       "added_at": "2025-10-10 04:00:36",
       "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+        "name": "voltaje",
+        "url": "https://open.spotify.com/album/3fuDLusWAKkcWK9AkyvOt0"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 161867,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+      "duration_ms": 172363,
+      "name": "voltaje",
+      "url": "https://open.spotify.com/track/7jNIfTV83ZxdldW1cY8PXc"
+    },
+    {
+      "added_at": "2025-10-10 04:00:36",
+      "album": {
+        "name": "Acapulco (feat. Fede Vigevani)",
+        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        }
+      ],
+      "duration_ms": 211463,
+      "name": "Acapulco (feat. Fede Vigevani)",
+      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
     },
     {
       "added_at": "2025-10-10 04:00:36",
@@ -1787,26 +1807,6 @@
       "duration_ms": 156466,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
-    },
-    {
-      "added_at": "2025-10-10 04:00:36",
-      "album": {
-        "name": "Acapulco (feat. Fede Vigevani)",
-        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        }
-      ],
-      "duration_ms": 211463,
-      "name": "Acapulco (feat. Fede Vigevani)",
-      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
     },
     {
       "added_at": "2025-10-10 04:00:36",

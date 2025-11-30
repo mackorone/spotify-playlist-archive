@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 191 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099 likes - 191 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 190 | [24 Horas](https://open.spotify.com/track/0r10aAQk6Em9NEYhMXaNDZ) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:00 |
 | 191 | [Si Supieras](https://open.spotify.com/track/3MurCbg19jNpV3QVaMwxuS) | [El Verdadero](https://open.spotify.com/artist/47h0Mk4rvGqKNCDxIObxX7) | [Si Supieras](https://open.spotify.com/album/6U5RLfgFyfzs1uZa9KWRtr) | 4:27 |
 
-Snapshot ID: `AcC06AAAAADepsH8DJGP6JMTA3mAi4EH`
+Snapshot ID: `AcC6iAAAAAAveqEa1SMoFRxKty+ER17J`

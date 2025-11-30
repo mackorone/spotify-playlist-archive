@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Indie today, featuring Bebo Dumont.",
-  "num_followers": 168161,
+  "num_followers": 168160,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9ufNMioaSg5PCTNwf2nrT1COnl",
+  "snapshot_id": "AAAAAE3LKwW19ekiFcVtXU+6kYgxZIJT",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:35",
@@ -627,18 +627,22 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
-        "name": "El Ritmo",
-        "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
+        "name": "LUNA 18",
+        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
       "artists": [
         {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 308400,
-      "name": "El Ritmo",
-      "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
+      "duration_ms": 195928,
+      "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
+      "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
     },
     {
       "added_at": "2025-11-21 05:00:35",
@@ -663,22 +667,18 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
-        "name": "LUNA 18",
-        "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
+        "name": "El Ritmo",
+        "url": "https://open.spotify.com/album/3e0Im6f2QeMtz5ERCDynX3"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 195928,
-      "name": "no s\u00e9 de amor (feat. Leo Rizzi)",
-      "url": "https://open.spotify.com/track/6noc267JUC9heNPuOCCjW0"
+      "duration_ms": 308400,
+      "name": "El Ritmo",
+      "url": "https://open.spotify.com/track/13VigTJf6awaWDBVbpcNmw"
     },
     {
       "added_at": "2025-11-21 05:00:35",

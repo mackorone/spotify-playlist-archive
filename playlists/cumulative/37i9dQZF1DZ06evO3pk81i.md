@@ -4,7 +4,7 @@
 
 > This is Los Primos del Este\. The essential tracks, all in one playlist.
 
-81 songs - 4 hr 5 min
+82 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,8 +46,8 @@
 | [Labios Rojos \(Version Norteña\)](https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 4:10 | 2025-02-02 |  |
 | [Lo Bueno Y Lo Malo](https://open.spotify.com/track/3max574PT1q80JWMAGkdUY) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Lo Bueno Y Lo Malo](https://open.spotify.com/album/59RvfoVTOMJBng2ViEacq4) | 2:42 | 2024-11-25 |  |
 | [Loko](https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Loko](https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt) | 2:08 | 2024-08-08 |  |
-| [Mami](https://open.spotify.com/track/55t8gWMIShuAGtzcmomFvx) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:13 | 2025-11-29 |  |
-| [Mami](https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mami](https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R) | 3:13 | 2024-10-28 | 2025-11-29 |
+| [Mami](https://open.spotify.com/track/55t8gWMIShuAGtzcmomFvx) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:13 | 2025-11-29 | 2025-11-30 |
+| [Mami](https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mami](https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R) | 3:13 | 2024-10-28 |  |
 | [Marcándote](https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Marcándote](https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1) | 2:59 | 2024-08-08 | 2025-08-23 |
 | [Me Enamoras](https://open.spotify.com/track/0aJyCSIjXlDpY1feLIGsMg) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 2:44 | 2024-08-08 | 2025-03-01 |
 | [ME TIENES LOCO](https://open.spotify.com/track/5ceptXWvTbtHDW136LA1Oq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:24 | 2025-08-24 |  |
@@ -72,8 +72,9 @@
 | [Que Vas a Hacer \(Version Norteña\)](https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Vas a Hacer \(Version Norteña\)](https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz) | 2:54 | 2024-09-29 |  |
 | [Quiero Darte \(Version Norteña\)](https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Julio LV](https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S) | [Luna De Miel](https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq) | 3:29 | 2025-02-02 |  |
 | [Quiero Ser \(Version Norteña\)](https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Poesías](https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg) | 3:32 | 2024-08-08 |  |
+| [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/4KZuz2dF3U0oKugVuFUjWm) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Chill Navidad Vol\. 1](https://open.spotify.com/album/621ROPn0yiFE7qTqg4KFaT) | 2:26 | 2025-11-30 |  |
 | [SATIRO](https://open.spotify.com/track/00e7R21236OX75ACaT8HH0) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:13 | 2024-08-08 |  |
-| [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 | 2024-08-08 |  |
+| [Sin Mi Sufre](https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [Me Ama Sin Temor](https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9) | 3:38 | 2024-08-08 | 2025-11-30 |
 | [Solita Bailando](https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [PDE](https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT) | 2:56 | 2024-08-08 | 2025-08-24 |
 | [Soy Aquel](https://open.spotify.com/track/05ADejXF6OzAvOT32K7r7a) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Emociones](https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw) | 3:47 | 2024-08-08 | 2025-09-24 |
 | [Te Acordarás De Mí](https://open.spotify.com/track/7Jt0TPSVkYr8Asy4Cms1XR) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Te Acordarás De Mí](https://open.spotify.com/album/63wMKo4Y5yzOAG3ufCs9An) | 2:36 | 2024-08-08 |  |

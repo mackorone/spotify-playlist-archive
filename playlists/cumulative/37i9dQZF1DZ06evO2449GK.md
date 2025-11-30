@@ -4,7 +4,7 @@
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 55 min
+64 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [La Caza de Nariño](https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:41 | 2023-12-30 |  |
 | [La Esquina del Mariachi](https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Horizonte](https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ) | 5:16 | 2023-12-30 |  |
 | [La Eterna \(2.007\)](https://open.spotify.com/track/4OmOic8DVLpfaL9jXMzsyF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 5:29 | 2023-12-30 | 2024-10-27 |
+| [La Funa](https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Funa](https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI) | 3:30 | 2025-11-30 |  |
 | [La Noche](https://open.spotify.com/track/3BhO6RtlVfmtPE1xhVHLZ7) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep), [Ecks One](https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 4:40 | 2023-12-30 |  |
 | [La Paciencia](https://open.spotify.com/track/7BCeAI8nwZC9TEtDRQolcI) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 1:09 | 2024-12-01 | 2024-12-09 |
 | [La Revancha de los Timidos](https://open.spotify.com/track/44XNwAUXOV4A8BcX8p9cGj) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Jannyval](https://open.spotify.com/artist/3F14vlNUYXHRT40gJqNIi9) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:13 | 2023-12-30 | 2024-12-01 |

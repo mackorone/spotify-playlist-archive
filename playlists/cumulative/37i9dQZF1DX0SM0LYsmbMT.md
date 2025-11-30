@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,468 songs - 7 day 1 hr 54 min
+4,469 songs - 7 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [animus](https://open.spotify.com/track/4zCeyJN2sw21aIeVc5GeBG) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N), [Meister Eder](https://open.spotify.com/artist/3i3hJVjioa0cHsB2XzuDcT) | [animus](https://open.spotify.com/album/5guVLfQcPQPGZNllknbiLB) | 1:52 | 2020-03-13 | 2020-05-25 |
 | [ano sono \- Refeeld Remix](https://open.spotify.com/track/28q3epj0qi0bdAk8LKdaWV) | [bebe akari](https://open.spotify.com/artist/48DGtA3cy6aM33BGVt426b), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [ano sono \(Refeeld Remix\)](https://open.spotify.com/album/2dTLQXiIJE9J6HJRfcVouy) | 2:11 | 2023-11-23 | 2023-12-22 |
 | [Another Day](https://open.spotify.com/track/70l8pSeTTrp2MKJylCzMLw) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Another Day](https://open.spotify.com/album/5XY4SnLWrChaJqLP99yFJS) | 2:20 | 2022-06-16 | 2022-07-15 |
-| [Another One](https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Another One](https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF) | 2:00 | 2025-07-18 |  |
+| [Another One](https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Another One](https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF) | 2:00 | 2025-07-18 | 2025-11-30 |
 | [Anthracite](https://open.spotify.com/track/60E0ch0HXD1EEyGunEh1Rm) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [hyanne](https://open.spotify.com/artist/1f9nCqsgyst3hgupWnAfpn), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Anthracite](https://open.spotify.com/album/1FiKHHRVwzf5ghwHFQ3wtZ) | 2:44 | 2024-04-25 | 2024-05-10 |
 | [Antigua](https://open.spotify.com/track/2kiFU7iZzc87FOtUgybQ57) | [Flynn](https://open.spotify.com/artist/0kJ2SIy2AnpPecBkJBzbMs), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Antigua](https://open.spotify.com/album/2NgYjtiGBLWNpt39S4QPbx) | 1:55 | 2020-07-31 | 2021-03-24 |
 | [Antoine](https://open.spotify.com/track/0apk4pgE3s2CK0pRXPrbEV) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Antoine](https://open.spotify.com/album/2iNigLXhGUEzuz75zs1Qk4) | 1:56 | 2020-11-06 | 2021-05-07 |
@@ -4170,6 +4170,7 @@
 | [VHS Kid](https://open.spotify.com/track/2jztuYB0UgaxAD0N6az6fY) | [Bawer](https://open.spotify.com/artist/0hL2YMWhS1RHJxrPDyilMg) | [VHS Kid](https://open.spotify.com/album/2VJCNmzmcA0TESVqdR0gnK) | 1:58 | 2021-02-14 | 2021-03-06 |
 | [VIA](https://open.spotify.com/track/5H7yDezoxn10adF0rW2LLs) | [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv), [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v) | [VIA](https://open.spotify.com/album/1jsP9f8mQOCFo1mLTwEuAT) | 2:06 | 2021-04-09 | 2021-06-11 |
 | [viagem](https://open.spotify.com/track/3up03CSKzYQUCgVAwGWZDV) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [O Cavalo Vermelho](https://open.spotify.com/album/0K0Cgh1LHUe4Wm29WEdipr) | 1:37 | 2020-03-13 | 2020-05-25 |
+| [Vibe](https://open.spotify.com/track/2OkC0MUMo1ifsLtohDU7Xo) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Vibe](https://open.spotify.com/album/0IwKOoPp5yI03QxsSVGmfJ) | 1:33 | 2025-11-28 |  |
 | [Vibe I'm](https://open.spotify.com/track/07RlP8Rj6ihc4sT3wZu7yw) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Vibe I'm](https://open.spotify.com/album/6VQqZ9XqscI897TCLIv5n9) | 2:14 | 2024-01-15 | 2025-10-17 |
 | [Vibe Tribe](https://open.spotify.com/track/13ub3uDcsh7mqolvP2cTSc) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Vibe Central](https://open.spotify.com/album/2kUiNABc0dXtIuuf9kDQnA) | 4:29 | 2019-06-29 | 2019-10-25 |
 | [vibe with me](https://open.spotify.com/track/6iJaqvWa15ID6jihfVmcBs) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [vibe with me \- EP](https://open.spotify.com/album/7xSoFqE9fPKAyGBoUnPsAE) | 1:22 | 2019-07-30 | 2020-01-17 |

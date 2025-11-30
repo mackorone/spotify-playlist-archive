@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-51 songs - 3 hr 17 min
+52 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Stop Crying Your Heart Out](https://open.spotify.com/track/0SlpFHdk4UHBDzCEoXzy14) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/2EVWJRhbXWsSm7a6jdKv8O) | 5:03 | 2021-03-29 |  |
 | [Strangelove](https://open.spotify.com/track/6cKwFiMyBwqCMvHjC5mIXe) | [Positronic](https://open.spotify.com/artist/6rDrqNMSUbW114j0HBKK6t) | [Strangelove](https://open.spotify.com/album/2Q10PgEpeyBRDY642hYsuO) | 3:56 | 2025-11-07 | 2025-11-22 |
 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 | 2021-03-29 |  |
+| [Sunday Evening](https://open.spotify.com/track/6rudmQGuyCFqoYJgOnpxbw) | [kroonch](https://open.spotify.com/artist/3XwKaQzzykRkBs7rLY5avT) | [Sunday Evening](https://open.spotify.com/album/3Mxh22R5GYKdxkbqt0KXO8) | 2:22 | 2025-11-29 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 | 2021-03-29 |  |
 | [Teus Olhos, Meu Refúgio \- Pop Balada](https://open.spotify.com/track/4MUwRHicTU3bgH6i9zT10F) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Teus Olhos, Meu Refúgio \- Pop Balada](https://open.spotify.com/album/7dyB0mktazVU8ZnPAr27iK) | 4:07 | 2025-11-13 |  |
 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 | 2021-07-26 |  |

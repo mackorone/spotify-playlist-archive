@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 
 > Get your midweek right with these uplifting songs of praise and worship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,537 likes - 65 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,596 likes - 65 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4eoHSGpAXu.md) - [plain]
 | 64 | [Calm the Storm \(Live\)](https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [Calm the Storm \(Live\)](https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p) | 5:11 |
 | 65 | [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 |
 
-Snapshot ID: `AAAAAF4110u/b8hpDl6nhaOMVWqCT3Co`
+Snapshot ID: `AAAAAO89Wk4rBkvV2AvkJeYApeLeoynT`

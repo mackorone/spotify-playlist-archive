@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Des",
+        "url": "https://open.spotify.com/album/2ZKtJlLcDWTXQRxR7ztpv2"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bandook",
+          "url": "https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281904,
+      "name": "Des",
+      "url": "https://open.spotify.com/track/5bdwdRiEMfujLXPbLKFSrG"
+    },
+    {
+      "album": {
         "name": "Deva Deva (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/6zwucxlWusEUCZt6DeQJCu"
       },
@@ -6522,7 +6540,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 277292,
       "name": "Subah Subah",
       "url": "https://open.spotify.com/track/3kHDA43cBTx63KEZm7M8rq"

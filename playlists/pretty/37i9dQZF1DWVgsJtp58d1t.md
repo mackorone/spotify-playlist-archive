@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:2BPwxhCvvcb8xDl8GWIjbh">Odeal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,619 likes - 165 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,694 likes - 165 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

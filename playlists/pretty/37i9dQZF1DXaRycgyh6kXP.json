@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 276962,
+  "num_followers": 277055,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-11-07 04:00:22",
       "album": {
-        "name": "So Far South",
-        "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
-      },
-      "artists": [
-        {
-          "name": "Oscar Farrell",
-          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
-        }
-      ],
-      "duration_ms": 221848,
-      "name": "So Far South",
-      "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
-    },
-    {
-      "added_at": "2025-11-07 04:00:22",
-      "album": {
         "name": "Crooks & Lovers",
         "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 250338,
       "name": "Before I Move Off",
       "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
+    },
+    {
+      "added_at": "2025-11-07 04:00:22",
+      "album": {
+        "name": "So Far South",
+        "url": "https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj"
+      },
+      "artists": [
+        {
+          "name": "Oscar Farrell",
+          "url": "https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX"
+        }
+      ],
+      "duration_ms": 221848,
+      "name": "So Far South",
+      "url": "https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2"
     },
     {
       "added_at": "2025-11-07 04:00:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-11-07 04:00:22",
       "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
-      },
-      "artists": [
-        {
-          "name": "upsammy",
-          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Flutter",
-      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
-    },
-    {
-      "added_at": "2025-11-07 04:00:22",
-      "album": {
         "name": "FTLOG",
         "url": "https://open.spotify.com/album/5d73JRRxvRybm2a7rRt21l"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 247869,
       "name": "FTLOG",
       "url": "https://open.spotify.com/track/2KirxdpyaTzzgVEcnq1u1i"
+    },
+    {
+      "added_at": "2025-11-07 04:00:22",
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC"
+      },
+      "artists": [
+        {
+          "name": "upsammy",
+          "url": "https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Flutter",
+      "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
     },
     {
       "added_at": "2025-11-07 04:00:22",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-11-07 04:00:22",
       "album": {
-        "name": "Flowerdrum",
-        "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
-      },
-      "artists": [
-        {
-          "name": "Juno Mamba",
-          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
-        },
-        {
-          "name": "Rino",
-          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
-        }
-      ],
-      "duration_ms": 248015,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
-    },
-    {
-      "added_at": "2025-11-07 04:00:22",
-      "album": {
         "name": "Heart - EP",
         "url": "https://open.spotify.com/album/0mDHT3jOMRtAb3tsRJb8NP"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 181384,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/6WBhXzXyiwsDJ4y2yF3DOp"
+    },
+    {
+      "added_at": "2025-11-07 04:00:22",
+      "album": {
+        "name": "Flowerdrum",
+        "url": "https://open.spotify.com/album/2nTAmXD5n7KSDEWTpdtXCk"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        },
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "duration_ms": 248015,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4XE1zWdwAyTxmzOom1wM3h"
     },
     {
       "added_at": "2025-11-07 04:00:22",

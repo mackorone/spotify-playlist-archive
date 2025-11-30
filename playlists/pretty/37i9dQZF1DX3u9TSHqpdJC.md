@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music from new, independent artists\.  Cover: ili\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,953 likes - 125 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,962 likes - 125 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 124 | [Summer Dream](https://open.spotify.com/track/1DUkHsP2kRITwF9GZrKtl2) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c) | [Summer Dream](https://open.spotify.com/album/2EEDDPJG70fxFefFOWgmGa) | 2:55 |
 | 125 | [reminisce](https://open.spotify.com/track/1B7jjYYjRFUj0UbCNH0SNO) | [natalie jinju](https://open.spotify.com/artist/5LmCyf1gg9oramCa33bZSu) | [reminisce](https://open.spotify.com/album/6N0dlBS5B3fC5gIlg9RMkB) | 3:25 |
 
-Snapshot ID: `AAAAAPUTXunHOloFl3KWTcNXl30pKZZl`
+Snapshot ID: `AAAAAJ7a8FWgUqlMVijgldpXbA233SIL`

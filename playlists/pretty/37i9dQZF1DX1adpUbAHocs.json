@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 643530,
+  "num_followers": 643491,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Sometimes I Wish We Were An Eagle",
-        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 342746,
-      "name": "Rococo Zephyr",
-      "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Love Still Held Me Near",
         "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 323093,
       "name": "The Love Still Held Me Near",
       "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Sometimes I Wish We Were An Eagle",
+        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 342746,
+      "name": "Rococo Zephyr",
+      "url": "https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Better Angels",
+      "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Weather Balloons [Feat. Frances Cone]",
         "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Better Angels",
-      "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Speed, Sound, Lonely KV (ep)",
         "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 249320,
       "name": "Jara",
       "url": "https://open.spotify.com/track/6ttJq2kuufZBqkuowqMzhH"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Tight Knit",
-        "url": "https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC"
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
       },
       "artists": [
         {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
         }
       ],
-      "duration_ms": 318893,
-      "name": "Rolling Sea",
-      "url": "https://open.spotify.com/track/5BI2FOOcSqnrjsjZL29YuS"
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     }
   ],
   "unique_name": "Scenic Route",

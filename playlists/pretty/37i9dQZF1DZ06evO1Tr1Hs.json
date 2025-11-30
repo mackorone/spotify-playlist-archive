@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 43816,
+  "num_followers": 43833,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAEdfHnzmocH42KmIyFsFnF",
+  "snapshot_id": "aSjmAAAAAAArlEnJvhHFOONJ/qjIgjfV",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "margiela",
-        "url": "https://open.spotify.com/album/6lCILy46F44uFdrHCunZss"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 138165,
-      "name": "margiela",
-      "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "yes",
         "url": "https://open.spotify.com/album/7IKQ2LS9mqFhGMB1M0IJrt"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 174989,
       "name": "yes",
       "url": "https://open.spotify.com/track/0AsznzqG4tJ0qnrWBZHrJO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "margiela",
+        "url": "https://open.spotify.com/album/6lCILy46F44uFdrHCunZss"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 138165,
+      "name": "margiela",
+      "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homixide Lifestyle",
-        "url": "https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Stunt",
-      "url": "https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 165411,
       "name": "Delinquent (feat. Homixide Gang)",
       "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homixide Lifestyle",
+        "url": "https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp"
+      },
+      "artists": [
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Stunt",
+      "url": "https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi"
     },
     {
       "added_at": null,

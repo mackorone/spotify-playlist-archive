@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203588,
+  "num_followers": 203589,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACFDIxBeVmvaWRJl52hxYQU",
+  "snapshot_id": "aSjmAAAAAABrXSUFSSFQq901VTi/W3e+",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson The Collection",
-        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On The Road Again (Live)",
         "url": "https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 156173,
       "name": "On The Road Again - Live",
       "url": "https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Willie Nelson The Collection",
+        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 154360,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 185409,
-      "name": "Funny How Time Slips Away",
-      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 220976,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 185409,
+      "name": "Funny How Time Slips Away",
+      "url": "https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA"
     },
     {
       "added_at": null,

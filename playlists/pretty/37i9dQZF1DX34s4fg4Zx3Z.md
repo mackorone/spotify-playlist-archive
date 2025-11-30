@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: EREN
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,387 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,385 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 11 | [Sợ Một Ngày](https://open.spotify.com/track/2d19zcXfnKJKPAIjg7s5C6) | [NHA](https://open.spotify.com/artist/0y8J897IGMESNbBqCpHXH9) | [Sợ Một Ngày](https://open.spotify.com/album/4joCT0FnLZH3RnfToJHvyc) | 3:57 |
 | 12 | [Êm Đềm](https://open.spotify.com/track/7gjqPGeXT6zPc1wiGNZm2a) | [Zeon](https://open.spotify.com/artist/7JwHJCLrdKOC8NiUVWe7lP), [LuckyN](https://open.spotify.com/artist/37JEZZ4GLC7atPDWTUGtH9), [Don Raemo](https://open.spotify.com/artist/4M86uhyARnHypunU4dhRqG) | [Êm Đềm](https://open.spotify.com/album/46N20DmQbd7AgVJhhLg5tx) | 4:06 |
 | 13 | [Anh Không Thể](https://open.spotify.com/track/5CB9OvlTaH94qe1xBXgib7) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Anh Không Thể](https://open.spotify.com/album/4vcBnlYYtxxczweTf5hJHi) | 3:36 |
-| 14 | [QUAN TRỌNG KHÔNG?](https://open.spotify.com/track/6OQ6C8nhpfow7qJwQqhSMT) | [choi.](https://open.spotify.com/artist/47I1Dxm8QPTEBwUGxMfZ31) | [QUAN TRỌNG KHÔNG?](https://open.spotify.com/album/010fXdFsXv7jGE5pnYQSRE) | 3:13 |
+| 14 | [QUAN TRỌNG KHÔNG?](https://open.spotify.com/track/6OQ6C8nhpfow7qJwQqhSMT) | [CHOI.](https://open.spotify.com/artist/47I1Dxm8QPTEBwUGxMfZ31) | [QUAN TRỌNG KHÔNG?](https://open.spotify.com/album/010fXdFsXv7jGE5pnYQSRE) | 3:13 |
 | 15 | [Yêu cả hai](https://open.spotify.com/track/6AXCk9jmanK7sZuuMwqJ9u) | [ULTIMÍT](https://open.spotify.com/artist/672HBWiY6ZZ44TLWZtKwYa), [Keen](https://open.spotify.com/artist/50lH1JCWzaCDAF2uKjQInf) | [Yêu cả hai](https://open.spotify.com/album/6SxudnbUZIX2SLHCw7wccM) | 2:44 |
 | 16 | [NGHI NGỜ](https://open.spotify.com/track/3F3DF8a6x48t2qYAjgCEIO) | [Trúc](https://open.spotify.com/artist/6NhIqmbIYCMpWp7CWkV0uA) | [NGHI NGỜ](https://open.spotify.com/album/1jcWTCoCfntBDqsrAMeyw7) | 4:11 |
 | 17 | [Chán Ngấy](https://open.spotify.com/track/3ufw1v1MRts3vBRSxEAzba) | [Gia](https://open.spotify.com/artist/1G5uY0JRHw8ztI9zyU9xUh) | [Chán Ngấy](https://open.spotify.com/album/6VL9HB2hJ8wIdGnxd3lopc) | 3:24 |

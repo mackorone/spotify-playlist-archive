@@ -1,15 +1,31 @@
 {
   "description": "\u00a1Los 40 principales \u00e9xitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 \u00a1Busca m\u00e1s playlists en nuestro perfil y en la <a href=\"http://onelink.to/los40app\">app LOS40</a>!",
-  "num_followers": 153917,
+  "num_followers": 153926,
   "original_name": "Lista de LOS40 (Oficial) | \ud83c\uddea\ud83c\uddf8",
   "owner": {
     "name": "LOS40",
     "url": "https://open.spotify.com/user/los40_spain"
   },
-  "snapshot_id": "AAArOYZJYZ6KZOreRodecHmUppwLsQbN",
+  "snapshot_id": "AAArPeugHh4rSbl1wFK/mkGY7aSjHWjw",
   "tracks": [
     {
-      "added_at": "2025-11-22 13:00:30",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
@@ -45,39 +61,7 @@
       "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 110495,
-      "name": "TU VAS SIN (fav)",
-      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
@@ -93,7 +77,7 @@
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "blackout \ud83e\uddca",
         "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
@@ -149,23 +149,7 @@
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "La Jaur\u00eda",
         "url": "https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw"
@@ -185,7 +169,23 @@
       "url": "https://open.spotify.com/track/1VamVCJejLZh212lNhygVw"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
@@ -201,43 +201,7 @@
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "L\u00e1rgate",
-        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 180074,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "Ya Es Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 158983,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/61FyzJrqgRsOAqr7FB2Pz4"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
@@ -257,7 +221,59 @@
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "L\u00e1rgate",
+        "url": "https://open.spotify.com/album/4ae7YIU9iWRBCCV7I23Nit"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "duration_ms": 180074,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/6xMEkgHI4X3biKg9fQ45RI"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "Ya Es Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 158983,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/61FyzJrqgRsOAqr7FB2Pz4"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "No Lo S\u00e9 Ni Yo",
+        "url": "https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 180260,
+      "name": "\u00daltima Bala",
+      "url": "https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "Hiekka",
         "url": "https://open.spotify.com/album/7yLjEgbX8qIr4N1JDanGN0"
@@ -277,7 +293,23 @@
       "url": "https://open.spotify.com/track/6OCNg7QchXJMww1LHMjIzb"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "SE LO JURO MOR",
+        "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 170654,
+      "name": "SE LO JURO MOR",
+      "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "V\u00e1monos de aqu\u00ed",
         "url": "https://open.spotify.com/album/7cB57OAYP688kLE9Hor4lt"
@@ -297,23 +329,23 @@
       "url": "https://open.spotify.com/track/7DcOJdgDYMRDKpRY4OHWiB"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
-        "name": "No Lo S\u00e9 Ni Yo",
-        "url": "https://open.spotify.com/album/6tTg5qkO15q5uT9exNeyFy"
+        "name": "Llamas",
+        "url": "https://open.spotify.com/album/71EQqvEm2op4nG2XTM50hc"
       },
       "artists": [
         {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
         }
       ],
-      "duration_ms": 180260,
-      "name": "\u00daltima Bala",
-      "url": "https://open.spotify.com/track/5TnAz2CbcJqN7aAjRaM2Mv"
+      "duration_ms": 172346,
+      "name": "Llamas",
+      "url": "https://open.spotify.com/track/53aR7QyNadfeYBI8014KHd"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "SOLEAO",
         "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
@@ -333,39 +365,39 @@
       "url": "https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
-        "name": "SE LO JURO MOR",
-        "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
+        "name": "Veinticinco",
+        "url": "https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
         }
       ],
-      "duration_ms": 170654,
-      "name": "SE LO JURO MOR",
-      "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
+      "duration_ms": 164915,
+      "name": "Veinticinco",
+      "url": "https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "X TI",
         "url": "https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V"
@@ -385,103 +417,43 @@
       "url": "https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
-        "name": "Veinticinco",
-        "url": "https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh"
+        "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+        "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
       "artists": [
         {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 164915,
-      "name": "Veinticinco",
-      "url": "https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V"
+      "duration_ms": 151805,
+      "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
+      "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
-        "name": "Llamas",
-        "url": "https://open.spotify.com/album/71EQqvEm2op4nG2XTM50hc"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
       "artists": [
         {
-          "name": "Bombai",
-          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 172346,
-      "name": "Llamas",
-      "url": "https://open.spotify.com/track/53aR7QyNadfeYBI8014KHd"
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "NEXO 04. Tu cuerpo en braille",
-        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "NEXO 04. Tu cuerpo en braille",
-      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "6 DE FEBRERO",
         "url": "https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu"
@@ -497,7 +469,55 @@
       "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "NEXO 04. Tu cuerpo en braille",
+        "url": "https://open.spotify.com/album/3Cg5hWe6pcktHNM7BSqzEd"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "NEXO 04. Tu cuerpo en braille",
+      "url": "https://open.spotify.com/track/06qH2muOjme474WL3YKcBe"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
@@ -517,39 +537,7 @@
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "Conmigo no lloras",
-        "url": "https://open.spotify.com/album/2DsQL94YqBZRU5I7w93tl0"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        }
-      ],
-      "duration_ms": 202157,
-      "name": "Conmigo no lloras",
-      "url": "https://open.spotify.com/track/2AGGQ8sSLALwFtuY0VuQQ9"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "Fiesta En El Centro",
         "url": "https://open.spotify.com/album/78D7Zbm7bbdYd8pU1UfqZF"
@@ -565,7 +553,55 @@
       "url": "https://open.spotify.com/track/669RDcakvwPTTBFga67wqh"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "Conmigo no lloras",
+        "url": "https://open.spotify.com/album/2DsQL94YqBZRU5I7w93tl0"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "duration_ms": 202157,
+      "name": "Conmigo no lloras",
+      "url": "https://open.spotify.com/track/2AGGQ8sSLALwFtuY0VuQQ9"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "Azizam",
         "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
@@ -581,55 +617,7 @@
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "UN BESO A LA MITAD",
-        "url": "https://open.spotify.com/album/2SpVXgNVfZryttRU7IREqE"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 152083,
-      "name": "UN BESO A LA MITAD",
-      "url": "https://open.spotify.com/track/0sZqCs8qlLmKNpvP7AbETA"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "Si te vuelvo a llamar",
-        "url": "https://open.spotify.com/album/1ogdx4WsbRgWDBVM0tiR8q"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        }
-      ],
-      "duration_ms": 175754,
-      "name": "Si te vuelvo a llamar",
-      "url": "https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
-      "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "La Pelirroja",
         "url": "https://open.spotify.com/album/4DqYrcBKkblqWqbOpUWCK1"
@@ -645,27 +633,23 @@
       "url": "https://open.spotify.com/track/6Jz04ruR15iuwrUwW3usr9"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
-        "name": "BEIBI",
-        "url": "https://open.spotify.com/album/4Dputtd6KNwuVDooiFbHem"
+        "name": "Si te vuelvo a llamar",
+        "url": "https://open.spotify.com/album/1ogdx4WsbRgWDBVM0tiR8q"
       },
       "artists": [
         {
-          "name": "La Beba",
-          "url": "https://open.spotify.com/artist/3VrdQuBgabaPZXXuNBVWXJ"
-        },
-        {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 205790,
-      "name": "BEIBI",
-      "url": "https://open.spotify.com/track/1ygrKZCsm6TtJAFAk3gSjx"
+      "duration_ms": 175754,
+      "name": "Si te vuelvo a llamar",
+      "url": "https://open.spotify.com/track/2tdpP18jNRTREK255JpMo5"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -685,7 +669,43 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-11-15 15:29:58",
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "BEIBI",
+        "url": "https://open.spotify.com/album/4Dputtd6KNwuVDooiFbHem"
+      },
+      "artists": [
+        {
+          "name": "La Beba",
+          "url": "https://open.spotify.com/artist/3VrdQuBgabaPZXXuNBVWXJ"
+        },
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "duration_ms": 205790,
+      "name": "BEIBI",
+      "url": "https://open.spotify.com/track/1ygrKZCsm6TtJAFAk3gSjx"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
+      "album": {
+        "name": "UN BESO A LA MITAD",
+        "url": "https://open.spotify.com/album/2SpVXgNVfZryttRU7IREqE"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 152083,
+      "name": "UN BESO A LA MITAD",
+      "url": "https://open.spotify.com/track/0sZqCs8qlLmKNpvP7AbETA"
+    },
+    {
+      "added_at": "2025-11-29 13:06:16",
       "album": {
         "name": "BAI-LALA",
         "url": "https://open.spotify.com/album/72iBprQcMjpvvC7op8Zk68"
@@ -699,22 +719,6 @@
       "duration_ms": 153040,
       "name": "BAI-LALA",
       "url": "https://open.spotify.com/track/2uaKfM2eY5AsomhPWMh7lP"
-    },
-    {
-      "added_at": "2025-11-22 13:00:23",
-      "album": {
-        "name": "Stay (If You Wanna Dance)",
-        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "Stay (If You Wanna Dance)",
-      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     }
   ],
   "unique_name": "Lista de LOS40 (Oficial) | \ud83c\uddea\ud83c\uddf8",

@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "A Cowboy Song",
-        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
-      },
-      "artists": [
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "A Cowboy Song",
-      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "Triple Seven",
         "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/4vLA9tU4dvNvl3ssMTrMql"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "A Cowboy Song",
+        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
+      },
+      "artists": [
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "A Cowboy Song",
+      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -1291,18 +1291,22 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/3642b765vQWRQXzDyoPItp"
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 203370,
-      "name": "Entertainer",
-      "url": "https://open.spotify.com/track/2MTGcrlm3vnMdzlgS2eKe8"
+      "duration_ms": 204469,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN"
     }
   ],
   "unique_name": "Summer Rock ",

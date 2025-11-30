@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 136 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 192 likes - 136 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 75 | [Loco Por Perrearte](https://open.spotify.com/track/2KNeDbgymVCUJmP6PJQ4Bx) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Loco Por Perrearte](https://open.spotify.com/album/5dD5GnMkozTvrcsqD1T97a) | 3:14 |
 | 76 | [ME HIZO UN FAVOR](https://open.spotify.com/track/0bODyWeaMOm8tqlgFfx3E9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:36 |
 | 77 | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Abajo y Arriba \(with Juhn\)](https://open.spotify.com/album/6qTXCgKXlmxCP4a2ed1R71) | 2:48 |
-| 78 | [Sussy](https://open.spotify.com/track/6AsNccD5m8eqlwZOQ256tg) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Playground](https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH) | 3:14 |
-| 79 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 |
+| 78 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 |
+| 79 | [Sussy](https://open.spotify.com/track/6AsNccD5m8eqlwZOQ256tg) | [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Playground](https://open.spotify.com/album/2NkyVnADJzU6adJMdhrSsH) | 3:14 |
 | 80 | [0 Millas](https://open.spotify.com/track/4oNrM3k92pZat3Yrmhq6Bx) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 3:33 |
 | 81 | [Hacerte de To'](https://open.spotify.com/track/6DRWN9O6O9LcL2e3nczZfW) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Hacerte de To'](https://open.spotify.com/album/5RJ4FHboqOZEsNQQcPrk7s) | 2:29 |
 | 82 | [ayome:\(](https://open.spotify.com/track/0IuAORGq91sGW9JukxTwMc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:07 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 135 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 136 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcC1EAAAAAC8uwLIS1fi+0djRK4Xql1i`
+Snapshot ID: `AcC6sAAAAAAeh7LeDtSP0yvgyCLdvXoB`

@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 54 | [Sbagliata Ascendente Leone \- Original Soundtrack](https://open.spotify.com/track/5zkVCgfH3HzIyvWaxn23AB) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SBAGLIATA ASCENDENTE LEONE \(OFFICIAL SOUNDTRACK\)](https://open.spotify.com/album/6uLoe40GkV8FipaZ7Nx28P) | 3:26 |
 | 55 | [Metà mondo](https://open.spotify.com/track/5zZ0yzln50TFBzKl1YNckG) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [Metà mondo](https://open.spotify.com/album/6dJf5WCRsjpCX0pvDlLdZy) | 2:58 |
 | 56 | [Zero](https://open.spotify.com/track/6PlfN1EXFyXvh7D87Fe4hb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:21 |
-| 57 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 |
-| 58 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
+| 57 | [veramente](https://open.spotify.com/track/3fJ8h4lVHBrAD5VFFNLIdT) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [veramente](https://open.spotify.com/album/7jwTIx6Ngo8gbZImPfrXoG) | 3:21 |
+| 58 | [VITA LENTA](https://open.spotify.com/track/6iqB8oRV4rhzHv6iSVkeah) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 2:10 |
 | 59 | [ESTREMO](https://open.spotify.com/track/6Q7DveRtCfLSMSg4p6VL82) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [ESTREMO](https://open.spotify.com/album/7c05tr49abSfQZgJ0N3nDu) | 2:53 |
 | 60 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 |
 | 61 | [Odio Amore Chimico](https://open.spotify.com/track/02OZT1ygcgP9ZNc8AoUIiJ) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 3:40 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 81 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 82 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 
-Snapshot ID: `AcC06AAAAABt/VI+nwWzJnli7tcjKO2q`
+Snapshot ID: `AcC6iAAAAAACq2vxHmRTrcPfxiBMD9HW`

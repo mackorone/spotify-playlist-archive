@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Scarlet Pleasure, Freja Kirk, Ed Sheeran og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,527 likes - 81 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,529 likes - 81 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 67 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 |
 | 68 | [Inden du går](https://open.spotify.com/track/3nQLkLeDsxSfYir7u2z2mC) | [SVAEV](https://open.spotify.com/artist/0NPPGN5Lx9MpdX6177EfGz) | [Inden du går](https://open.spotify.com/album/3lf4tBAe8N3kOHo6MBCU7u) | 3:27 |
 | 69 | [Hello Revenge](https://open.spotify.com/track/6ewqXnUFLxYfuUJPiWS2Bj) | [NLE The Great](https://open.spotify.com/artist/7ou0y4rYjxrzfUunzazYeq), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Hello Revenge](https://open.spotify.com/album/7p0bwadyv161k3YvYnJ5Eb) | 4:09 |
-| 70 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
+| 70 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
 | 71 | [skittles](https://open.spotify.com/track/3JZMGkOGJZMGkvVl6cDPy4) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [In Order](https://open.spotify.com/album/6OyqqxLZGbqJUOkMvHtEbB) | 3:12 |
 | 72 | [Hvem Er Du](https://open.spotify.com/track/5EPhyeXIA0GjUQIZcR75PU) | [NLK](https://open.spotify.com/artist/4UpuQJMmkv1GzKRPf83kXF), [Signe Sophia](https://open.spotify.com/artist/71RehG57Zfz6ucA4ttu28L) | [Hvem Er Du](https://open.spotify.com/album/2UgNjUHwfrI6DlswGCKJpO) | 2:53 |
 | 73 | [⁠State Of My Heart](https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:56 |

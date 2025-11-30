@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,503 likes - 333 songs - 18 hr 18 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,500 likes - 333 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [give](https://open.spotify.com/track/7gMTKnvqhwsbeNTCeU9PSE) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [give](https://open.spotify.com/album/5Iehuuszx2sPThTgVSSpIx) | 2:31 |
-| 2 | [MONNNEY](https://open.spotify.com/track/5YkmpL7jasY1yA7m4vpZ02) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [MONNNEY](https://open.spotify.com/album/3z1oVJTWV0kJiSyUIPykiV) | 2:57 |
-| 3 | [Sugarcane](https://open.spotify.com/track/6EU8H0Nvnob3P99vWMT8vh) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 2:57 |
+| 1 | [MONNNEY](https://open.spotify.com/track/5YkmpL7jasY1yA7m4vpZ02) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [MONNNEY](https://open.spotify.com/album/3z1oVJTWV0kJiSyUIPykiV) | 2:57 |
+| 2 | [Sugarcane](https://open.spotify.com/track/6EU8H0Nvnob3P99vWMT8vh) | [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [Electric Hour](https://open.spotify.com/album/5glk52BEcA9c9RODElJkqF) | 2:57 |
+| 3 | [give](https://open.spotify.com/track/7gMTKnvqhwsbeNTCeU9PSE) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [give](https://open.spotify.com/album/5Iehuuszx2sPThTgVSSpIx) | 2:31 |
 | 4 | [Tourist Mind](https://open.spotify.com/track/2RZ3tN0E2186fFbTIvMrdX) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Tourist Mind](https://open.spotify.com/album/1lHW23rMLAkz0ffH0fGm0f) | 4:46 |
 | 5 | [Bndryl](https://open.spotify.com/track/5bFxOyG2dbPVfML4nj6Mfm) | [Barbara](https://open.spotify.com/artist/6hhmxPotJ2kCsQjUGPtH14) | [SO THIS IS LIVING](https://open.spotify.com/album/5toJYo1Ctxq7XRJfJJOj0w) | 3:34 |
 | 6 | [Window](https://open.spotify.com/track/3wY9bFMp0KHsYEe4zTVQ5H) | [DNCR](https://open.spotify.com/artist/5vtbcOgk8iFe6LF2paSK2u) | [Window](https://open.spotify.com/album/1KdHDGkg4tNd751hWsGfEh) | 2:59 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 332 | [Clouds](https://open.spotify.com/track/5GVRzOm8iXXmKN4F5x8V07) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [Four\-Team Dream Machine](https://open.spotify.com/album/4t625gTxm0WVfbX6D06HDj) | 1:35 |
 | 333 | [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 |
 
-Snapshot ID: `AAApnEFIemvap1qY64i98SHqvAwpT1mB`
+Snapshot ID: `AAApnSpGqhanSHT5NhJMOdNrz65WJP4D`

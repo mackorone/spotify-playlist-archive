@@ -4,7 +4,7 @@
 
 > it's always summer when Poolside is playing 🌞 all the best indie dance tracks of the moment
 
-2,107 songs - 5 day 8 hr 2 min
+2,108 songs - 5 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Born Again](https://open.spotify.com/track/60FJ7ElB1grZwVn81Y9x6c) | [Redsoul](https://open.spotify.com/artist/3SANFkwkrJuMkTwODZQTt8) | [Born Again](https://open.spotify.com/album/4hjC0D3OPw8owtT62LE9LK) | 6:43 | 2023-02-24 | 2023-03-04 |
 | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Borrowed Time \(feat\. Forest Claudette\)](https://open.spotify.com/album/576sDjTd5pNXrfFpT6TFi5) | 3:13 | 2023-12-08 | 2024-01-13 |
 | [BOY](https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd) | [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [BOY / if u wanna cry](https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie) | 3:03 | 2023-08-04 | 2023-09-09 |
-| [Boys will be boys](https://open.spotify.com/track/4yXfLgoh16XoKawaiyriAp) | [Lost Count](https://open.spotify.com/artist/4IhvHFb5Lbl54E4igYTy7b), [Monde](https://open.spotify.com/artist/2W7qynuWq1MsPtPNFugxQ1) | [Don’t Look Back](https://open.spotify.com/album/5F6DD8yEQrAZm17zZFbgu6) | 2:07 | 2025-08-01 |  |
+| [Boys will be boys](https://open.spotify.com/track/4yXfLgoh16XoKawaiyriAp) | [Lost Count](https://open.spotify.com/artist/4IhvHFb5Lbl54E4igYTy7b), [Monde](https://open.spotify.com/artist/2W7qynuWq1MsPtPNFugxQ1) | [Don’t Look Back](https://open.spotify.com/album/5F6DD8yEQrAZm17zZFbgu6) | 2:07 | 2025-08-01 | 2025-11-30 |
 | [Brain Pills](https://open.spotify.com/track/51BmnvazYmY5Tu3fJdFeSY) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Brain Pills](https://open.spotify.com/album/1CM1RQpEYTQjr5LGkGvgq4) | 3:10 | 2024-01-12 | 2024-02-17 |
 | [Break The Rules \(For You\)](https://open.spotify.com/track/3Jy9l9sVBBmo26WwM5mOaK) | [Soul Speech](https://open.spotify.com/artist/1EAcO01N3yXpUGqhCJjPiT), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [King No\-One](https://open.spotify.com/artist/6hWReUQlQwLTYlmZ1vltRB) | [Break The Rules \(For You\)](https://open.spotify.com/album/1jhUqAnO1K1aTKFIFfw8tH) | 3:07 | 2025-11-21 |  |
 | [BREAKTHROUGH](https://open.spotify.com/track/3bfn8rA63B8QbqJjES4s4M) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [Breakthrough](https://open.spotify.com/album/7vLtnkheg9udjZyXGYeZAx) | 2:58 | 2022-10-05 | 2022-11-19 |
@@ -1860,6 +1860,7 @@
 | [Thinking \('bout you, 'bout me\) \- dance edit](https://open.spotify.com/track/6UGj0fipu2SxUMqnH9Shp1) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Nicolas Losada](https://open.spotify.com/artist/0h3egG509i6XKJggeaRsyd) | [Thinking \('bout you, 'bout me\) \[dance edit\]](https://open.spotify.com/album/1cO50FyrJadA8wmaG5EQKM) | 3:30 | 2024-06-07 | 2024-09-21 |
 | [Thinking About You](https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [LORA](https://open.spotify.com/artist/3sJr6yhJiNvyTbgrNRDkr8) | [The Friends You Made Along The Way](https://open.spotify.com/album/1Sw2RWBcBOFIpWabO8Ftin) | 3:22 | 2023-06-16 | 2023-07-01 |
 | [This Can’t Be Everything](https://open.spotify.com/track/5kd5cFgaqMbe4AZcat1b7S) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw) | [This Can’t Be Everything](https://open.spotify.com/album/7LOFkHnqJwlKcOzACHsrpy) | 5:58 | 2022-05-13 | 2022-07-29 |
+| [This Is Not What We Came For](https://open.spotify.com/track/5ZtnjWfxZLY0ylQthkatYf) | [Jennifur](https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb) | [This Is Not What We Came For](https://open.spotify.com/album/3EKH9UJ2dx74aES8uOmbxz) | 3:25 | 2025-11-29 |  |
 | [This Little Love](https://open.spotify.com/track/7otEUWdo5ljrOBYcCMqFys) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [This Little Love](https://open.spotify.com/album/0TGCXWxkdguNjVFfmjN2ZZ) | 3:33 | 2024-02-23 | 2024-05-11 |
 | [This Place Is Ours](https://open.spotify.com/track/4m5fy1ZShRdL2XaDVk9J10) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [This Place Is Ours](https://open.spotify.com/album/0hgGeKvub7xJ12hPOfD9LE) | 3:34 | 2025-07-04 | 2025-08-30 |
 | [This Side of Paradise](https://open.spotify.com/track/5sGGv5YSLW0IujA91KeFHJ) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [This Side of Paradise](https://open.spotify.com/album/7cVPsIgt3a4VpZQADl6HmB) | 2:25 | 2025-07-18 | 2025-08-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20649,
+  "num_followers": 20650,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACikrK6vyQ06HMVE76pUUHh",
+  "snapshot_id": "aSjmAAAAAAB6DW27Llj9inpEVHeG57kW",
   "tracks": [
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 158638,
-      "name": "15 Shots",
-      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+      "duration_ms": 158638,
+      "name": "15 Shots",
+      "url": "https://open.spotify.com/track/53I7AM0JdcKspFjo29tHyW"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
       "duration_ms": 350563,
       "name": "Flava",
       "url": "https://open.spotify.com/track/1DjbjIdKPNUVRCpyIREMeT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legacy of Hits",
-        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 188010,
-      "name": "Reloaded",
-      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy of Hits",
+        "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "Reloaded",
+      "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Summer Sampler",
         "url": "https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK"
       },
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Season 2",
         "url": "https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz"
       },
@@ -747,34 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Heart Cold",
-      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
+        },
         {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+      "duration_ms": 222720,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
     },
     {
       "added_at": null,
@@ -795,6 +763,38 @@
       "duration_ms": 164622,
       "name": "Rich Homie Quando (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/5UAXYLeJ7XrdTe7u5eq2ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Heart Cold",
+      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
-      },
-      "artists": [
-        {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 148866,
-      "name": "This or That",
-      "url": "https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby On Baby",
         "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 192773,
       "name": "Celebrate (feat. Rich Homie Quan)",
       "url": "https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/1lOpFH3H5zuMpuXRGPCEGW"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "This or That",
+      "url": "https://open.spotify.com/track/1LUjANKJvZMnrITUExaKb8"
     },
     {
       "added_at": null,

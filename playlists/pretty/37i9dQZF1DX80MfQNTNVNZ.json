@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 212528,
+  "num_followers": 212543,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-11-11 06:18:15",
       "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 226166,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm"
+    },
+    {
+      "added_at": "2025-11-11 06:18:15",
+      "album": {
         "name": "Myself (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2025-11-11 06:18:15",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
       },
       "artists": [
         {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
         }
       ],
-      "duration_ms": 226166,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm"
+      "duration_ms": 141374,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
     },
     {
       "added_at": "2025-11-11 06:18:15",
@@ -879,22 +895,6 @@
     {
       "added_at": "2025-11-11 06:18:15",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 141374,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
-    },
-    {
-      "added_at": "2025-11-11 06:18:15",
-      "album": {
         "name": "The Loop",
         "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 206571,
       "name": "Trust",
       "url": "https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1"
-    },
-    {
-      "added_at": "2025-11-11 06:18:15",
-      "album": {
-        "name": "Lotus Glow",
-        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 192936,
-      "name": "FourSixty - Feat. Aaron Taylor",
-      "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
     },
     {
       "added_at": "2025-11-11 06:18:15",
@@ -951,6 +931,26 @@
       "duration_ms": 245200,
       "name": "All I Need (with Mahalia & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/164VgxTozx99XCinCB9ITR"
+    },
+    {
+      "added_at": "2025-11-11 06:18:15",
+      "album": {
+        "name": "Lotus Glow",
+        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 192936,
+      "name": "FourSixty - Feat. Aaron Taylor",
+      "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
     },
     {
       "added_at": "2025-11-11 06:18:15",

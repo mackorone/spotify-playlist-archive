@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-121 songs - 7 hr 20 min
+124 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [DANNATAMENTE IO](https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh) | [Occulta Sententia](https://open.spotify.com/artist/7FXDan2bxS8Bym5nYX59Jo) | [DANNATAMENTE IO](https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn) | 4:59 | 2025-11-09 |  |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-10-27 |  |
 | [Dead Man](https://open.spotify.com/track/4CRM17oR3bxMt5ofST1e9B) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 3:17 | 2025-11-11 |  |
+| [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-29 |  |
 | [Don't Ask Why](https://open.spotify.com/track/5UDr0x745fkPgpILhvNjLC) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Don't Ask Why & Maum Meditation](https://open.spotify.com/album/6mosG3jbAhh0CGnynBON2T) | 4:36 | 2025-11-21 |  |
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-11-22 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-09 |  |
@@ -66,6 +67,7 @@
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-10-27 | 2025-11-22 |
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-11-17 |  |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 |  |
+| [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 |  |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2025-11-21 |  |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2025-11-04 | 2025-11-22 |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 |  |
@@ -125,6 +127,7 @@
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-11-16 |  |
 | [what's your co\-star](https://open.spotify.com/track/69ttQ5ci1qNndmLxLkesFA) | [size eleven](https://open.spotify.com/artist/2xw4IuGVbXLY2v5LM2IMOq) | [what's your co\-star](https://open.spotify.com/album/6C7e35f5HqUfWJXcDAUoiJ) | 2:00 | 2025-11-06 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-11-26 |  |
+| [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-11-29 |  |
 | [With The Radio On](https://open.spotify.com/track/2D8Pe8G3mrE7sftHvvmQx9) | [Northfield](https://open.spotify.com/artist/51rLG6ENMAwu7WMcNHffyl) | [Lost and Found](https://open.spotify.com/album/1eBsLVrjcZHPSPMukzJkXV) | 3:39 | 2025-10-31 | 2025-11-22 |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-11-22 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-17 |  |

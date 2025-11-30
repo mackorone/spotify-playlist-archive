@@ -1,12 +1,12 @@
 {
   "description": "The best tracks of 2025. A prediction playlist created by us based on Obama&#x27;s taste in music. ",
-  "num_followers": 131655,
+  "num_followers": 131653,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA13lOMciC4deBm7rwoOjHNmQLgZQHi",
+  "snapshot_id": "AAA14HmTORGZaurSUtbdhNowIrKA7qPV",
   "tracks": [
     {
       "added_at": "2025-07-04 19:24:06",
@@ -415,6 +415,22 @@
       "duration_ms": 205301,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu"
+    },
+    {
+      "added_at": "2025-11-29 14:48:44",
+      "album": {
+        "name": "God is My Strength (Gabriella)",
+        "url": "https://open.spotify.com/album/1lyXfHF1UIHyvW640FKojp"
+      },
+      "artists": [
+        {
+          "name": "Gabby Poli",
+          "url": "https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq"
+        }
+      ],
+      "duration_ms": 229629,
+      "name": "God is My Strength (Gabriella)",
+      "url": "https://open.spotify.com/track/0n5xl1JZ7TEaCRJHu0wIO6"
     },
     {
       "added_at": "2025-11-28 13:53:48",
@@ -3151,38 +3167,6 @@
       "duration_ms": 120000,
       "name": "Lonely (Please Dont)",
       "url": "https://open.spotify.com/track/6OQSJaTlrdxpivFmcW3oXJ"
-    },
-    {
-      "added_at": "2025-11-18 23:27:40",
-      "album": {
-        "name": "Vibes and Wine",
-        "url": "https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD"
-      },
-      "artists": [
-        {
-          "name": "Jah Gordy",
-          "url": "https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "Vibes and Wine",
-      "url": "https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx"
-    },
-    {
-      "added_at": "2025-11-18 23:27:43",
-      "album": {
-        "name": "Faith (this world)",
-        "url": "https://open.spotify.com/album/6VTuCacLjfuu02ZAFsVNxA"
-      },
-      "artists": [
-        {
-          "name": "Dayo Time Music",
-          "url": "https://open.spotify.com/artist/2HIGfdpSGO2vDcEW50WkgW"
-        }
-      ],
-      "duration_ms": 273834,
-      "name": "Faith (this world)",
-      "url": "https://open.spotify.com/track/7gCkmOUCmSHQIS7R1giMy5"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93795,
+  "num_followers": 93800,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Lachryma",
-        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 276400,
-      "name": "Lachryma",
-      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Livet, d\u00f6den, skiten d\u00e4remellan",
         "url": "https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 178118,
       "name": "P\u00e5 M\u00e5ndag",
       "url": "https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Lachryma",
+        "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 276400,
+      "name": "Lachryma",
+      "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Enough Is Enough",
-        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Stronger Than",
         "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 188493,
       "name": "Stronger Than",
       "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Enough Is Enough",
+        "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/3rdky53UG5s1ORpeOTJ2fm"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+      "duration_ms": 242946,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/1ATQ3x83vDSmiSY8PvHrXJ"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -567,18 +551,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -599,6 +583,22 @@
       "duration_ms": 270875,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Vill du ha mig?",
-        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Vill du ha mig?",
-      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Jag \u00c4r",
         "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Satanized",
         "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 236794,
       "name": "Satanized",
       "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
+        "name": "L\u00e5nat",
+        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
+      },
+      "artists": [
+        {
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
+      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
         "name": "Andetag (Man m\u00e5ste leva nu)",
         "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 193124,
       "name": "Sjung Sjung",
       "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
-        "name": "L\u00e5nat",
-        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
-      },
-      "artists": [
-        {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
-      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Mjuk extas",
-        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
-      },
-      "artists": [
-        {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        }
-      ],
-      "duration_ms": 271875,
-      "name": "L\u00e4gg den h\u00e4r, bredvid min",
-      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Graven vid Gullmars",
         "url": "https://open.spotify.com/album/61o6zXe3il75qvCm39Y1o1"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 193114,
       "name": "The Spectrum of Love",
       "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Mjuk extas",
+        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
+      },
+      "artists": [
+        {
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        }
+      ],
+      "duration_ms": 271875,
+      "name": "L\u00e4gg den h\u00e4r, bredvid min",
+      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Goodwill",
-        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 316125,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
-    },
-    {
-      "added_at": "2025-11-27 23:00:23",
-      "album": {
         "name": "Sign on the Window",
         "url": "https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2025-11-27 23:00:23",
       "album": {
-        "name": "Henrys gitarr",
-        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+        "name": "Goodwill",
+        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
       },
       "artists": [
         {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
         }
       ],
-      "duration_ms": 173447,
-      "name": "Henrys gitarr",
-      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
+      "duration_ms": 316125,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
     },
     {
       "added_at": "2025-11-27 23:00:23",
@@ -1491,6 +1475,22 @@
       "duration_ms": 195113,
       "name": "Dansa i neon",
       "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
+    },
+    {
+      "added_at": "2025-11-27 23:00:23",
+      "album": {
+        "name": "Henrys gitarr",
+        "url": "https://open.spotify.com/album/1PxnAEmtU9k9i9wz2I6DUs"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        }
+      ],
+      "duration_ms": 173447,
+      "name": "Henrys gitarr",
+      "url": "https://open.spotify.com/track/1nRYLgOCslp2fUgZtC9ZCQ"
     },
     {
       "added_at": "2025-11-27 23:00:23",

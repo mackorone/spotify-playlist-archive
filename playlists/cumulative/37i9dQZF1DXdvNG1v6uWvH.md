@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Ed Sheeran, Central Cee, HubbaBubba og mörgum fleiri!
 
-8,902 songs - 19 day 22 hr 29 min
+8,904 songs - 19 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [4EVR](https://open.spotify.com/track/2A3eCsmsW5ztqItagBLCVP) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 3:15 | 2024-08-02 | 2024-08-09 |
 | [4Life](https://open.spotify.com/track/4LeniRFvwcdR2PSBfSuAxA) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [4Life](https://open.spotify.com/album/7jn2X2VAW52JXzShOYTkcJ) | 3:02 | 2025-09-05 | 2025-09-12 |
 | [4RUNNA](https://open.spotify.com/track/5kLCiVEIxFFASV0XWt65D2) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp) | [4RUNNA](https://open.spotify.com/album/1fpGtXWFaqxnu6Gr284kjx) | 3:51 | 2025-06-13 | 2025-06-17 |
+| [4yrs](https://open.spotify.com/track/7i1EKCMRCWLr5fmJW8cZFx) | [Brynjalisa](https://open.spotify.com/artist/1QSmLV9pFFfsGFClcz5j2I) | [4yrs](https://open.spotify.com/album/2QrGWv85h0Bru4SWHMJPJZ) | 2:30 | 2025-11-28 |  |
 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 | 2025-01-10 | 2025-01-17 |
 | [5 Notes From Paradise](https://open.spotify.com/track/4X7hxJwXTXjwevXymNuLih) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Crash & Smile in Dada Land \- August](https://open.spotify.com/album/459B1j7H2RAlKTwOYqp1FN) | 3:32 | 2024-08-16 | 2024-08-23 |
 | [5 Star \- feat\. Gunna](https://open.spotify.com/track/00H3q5D7iXFIms4VYbsMP0) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [5 Star \(feat\. Gunna\)](https://open.spotify.com/album/3aKFzOw4GGmEMJ5LbBSa8n) | 3:28 | 2025-03-28 | 2025-04-04 |
@@ -823,6 +824,7 @@
 | [Beside Of Me](https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Beside Of Me](https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL) | 3:27 | 2025-06-20 | 2025-06-27 |
 | [BESST](https://open.spotify.com/track/7v7wCE0hlTh22ONcz5qv0B) | [Danjel](https://open.spotify.com/artist/2DGamydCQov2VWEncYL4xB) | [Hafa Gaman](https://open.spotify.com/album/473OcAcyb6kMCprZPdgbQN) | 1:42 | 2025-04-04 | 2025-04-06 |
 | [Best Be Leaving](https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best Be Leaving](https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1) | 3:42 | 2025-03-07 | 2025-03-14 |
+| [BEST DAY EVER](https://open.spotify.com/track/6pRJdoCjlk55Q8J7lMLRUl) | [MONEY BADGER](https://open.spotify.com/artist/7jBKpAq42u8t7yiWAsC8kP) | [BEST DAY EVER](https://open.spotify.com/album/1BcAZeEscYFRWcCV6OdvOH) | 3:18 | 2025-11-28 |  |
 | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life \(BUNT\. Version\) \(feat\. Tom Odell\)](https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C) | 2:50 | 2025-07-04 | 2025-07-11 |
 | [Best For Me](https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 | 2025-06-06 | 2025-06-13 |
 | [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:36 | 2024-11-29 | 2024-12-06 |
@@ -1658,7 +1660,7 @@
 | [Cult Leader](https://open.spotify.com/track/594JFMh9jfj9k2ilbczn1m) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Cult Leader](https://open.spotify.com/album/3gaIdlvLWmj4le6rVc7b66) | 2:08 | 2024-12-13 | 2024-12-20 |
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-05-17 | 2024-05-24 |
 | [Culture](https://open.spotify.com/track/1tf1bJWmA54TDD3F0tdZy2) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Culture](https://open.spotify.com/album/0jqUzeynq0OFvfiRxidGfE) | 3:34 | 2025-05-30 | 2025-06-06 |
-| [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 | 2025-11-28 |  |
+| [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 | 2025-11-28 |  |
 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-24 | 2025-10-31 |
 | [CUPID'S GIRL](https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [CUPID'S GIRL](https://open.spotify.com/album/0pPd1jhwuVDqIVOiqYDMcB) | 3:28 | 2025-03-21 | 2025-03-28 |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-01-31 | 2025-02-07 |

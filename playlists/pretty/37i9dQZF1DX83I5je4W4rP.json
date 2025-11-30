@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1063151,
+  "num_followers": 1063075,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/42UOYP0oeF3Bb0DwSy1K4N"
-      },
-      "artists": [
-        {
-          "name": "Arise Roots",
-          "url": "https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH"
-        }
-      ],
-      "duration_ms": 304192,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Inner Love Energy",
         "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
       },
@@ -1295,22 +1279,18 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "All The Colors",
-        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/42UOYP0oeF3Bb0DwSy1K4N"
       },
       "artists": [
         {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "Arise Roots",
+          "url": "https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH"
         }
       ],
-      "duration_ms": 189094,
-      "name": "Free Your Mind (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
+      "duration_ms": 304192,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1331,6 +1311,26 @@
       "duration_ms": 220841,
       "name": "Press Remix",
       "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "All The Colors",
+        "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 189094,
+      "name": "Free Your Mind (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1803,30 +1803,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Easy (with G. Love & Brett Dennen)",
-        "url": "https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu"
-      },
-      "artists": [
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 211742,
-      "name": "Easy (with G. Love & Brett Dennen)",
-      "url": "https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Floating (with Iration & The Elovaters)",
         "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
       },
@@ -1847,6 +1823,30 @@
       "duration_ms": 181957,
       "name": "Floating (with Iration & The Elovaters)",
       "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Easy (with G. Love & Brett Dennen)",
+        "url": "https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu"
+      },
+      "artists": [
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 211742,
+      "name": "Easy (with G. Love & Brett Dennen)",
+      "url": "https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        }
+      ],
+      "duration_ms": 199971,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
         "name": "Rush Hour (with Bryce Vine)",
         "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
       },
@@ -1947,24 +1963,8 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Falling Down",
-        "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        }
-      ],
-      "duration_ms": 199971,
-      "name": "Falling Down",
-      "url": "https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "Corona and Lime",
-        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
+        "name": "Single for the Summer (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
       },
       "artists": [
         {
@@ -1972,17 +1972,13 @@
           "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         },
         {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Corona and Lime",
-      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
+      "duration_ms": 159490,
+      "name": "Single for the Summer (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2043,34 +2039,6 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/79OS6QQQShDXiSkOPXANos"
       },
@@ -2107,8 +2075,36 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Single for the Summer (with Bryce Vine)",
-        "url": "https://open.spotify.com/album/335Htm2TTZzCmRT1kNz2gr"
+        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Corona and Lime",
+        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
       },
       "artists": [
         {
@@ -2116,13 +2112,17 @@
           "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
         },
         {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
         }
       ],
-      "duration_ms": 159490,
-      "name": "Single for the Summer (with Bryce Vine)",
-      "url": "https://open.spotify.com/track/2sphXfRDZstuYuQF7eZuYC"
+      "duration_ms": 199600,
+      "name": "Corona and Lime",
+      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2283,26 +2283,18 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "Cali Sober (with Pepper)",
-        "url": "https://open.spotify.com/album/0elh7AGQFQuTi8idHt7TfV"
+        "name": "The Way I Feel",
+        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
       },
       "artists": [
         {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        },
-        {
-          "name": "Kaleo Wassman",
-          "url": "https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc"
-        },
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Katastro",
+          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
         }
       ],
-      "duration_ms": 210873,
-      "name": "Cali Sober (with Pepper)",
-      "url": "https://open.spotify.com/track/3hqLfzMGBk7XfbLv19g2lF"
+      "duration_ms": 157640,
+      "name": "The Way I Feel",
+      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2347,18 +2339,26 @@
     {
       "added_at": "2025-04-21 20:51:45",
       "album": {
-        "name": "The Way I Feel",
-        "url": "https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri"
+        "name": "Cali Sober (with Pepper)",
+        "url": "https://open.spotify.com/album/0elh7AGQFQuTi8idHt7TfV"
       },
       "artists": [
         {
-          "name": "Katastro",
-          "url": "https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5"
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        },
+        {
+          "name": "Kaleo Wassman",
+          "url": "https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 157640,
-      "name": "The Way I Feel",
-      "url": "https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5"
+      "duration_ms": 210873,
+      "name": "Cali Sober (with Pepper)",
+      "url": "https://open.spotify.com/track/3hqLfzMGBk7XfbLv19g2lF"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2375,26 +2375,6 @@
       "duration_ms": 174131,
       "name": "Never There",
       "url": "https://open.spotify.com/track/03qH3siU1DPNz0jOOkuK9C"
-    },
-    {
-      "added_at": "2025-04-21 20:51:45",
-      "album": {
-        "name": "Raise It (with Mihali)",
-        "url": "https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT"
-      },
-      "artists": [
-        {
-          "name": "Coyote Island",
-          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
-        },
-        {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "Raise It (with Mihali)",
-      "url": "https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc"
     },
     {
       "added_at": "2025-04-21 20:51:45",
@@ -2435,6 +2415,26 @@
       "duration_ms": 195746,
       "name": "In The LBC - Warren G Remix",
       "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
+    },
+    {
+      "added_at": "2025-04-21 20:51:45",
+      "album": {
+        "name": "Raise It (with Mihali)",
+        "url": "https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT"
+      },
+      "artists": [
+        {
+          "name": "Coyote Island",
+          "url": "https://open.spotify.com/artist/4kA2Nc7ABFmtulhoskS8Wz"
+        },
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        }
+      ],
+      "duration_ms": 166948,
+      "name": "Raise It (with Mihali)",
+      "url": "https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc"
     },
     {
       "added_at": "2025-04-21 20:51:45",

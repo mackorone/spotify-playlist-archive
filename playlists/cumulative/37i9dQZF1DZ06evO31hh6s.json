@@ -2071,6 +2071,24 @@
     },
     {
       "album": {
+        "name": "Powerful",
+        "url": "https://open.spotify.com/album/7v8HPizfZaODPkaE9kVaPG"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110026,
+      "name": "Powerful",
+      "url": "https://open.spotify.com/track/68Wzp5xb7394eYMoTahDbC"
+    },
+    {
+      "album": {
         "name": "Son of God",
         "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
       },
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 64128,
       "name": "Rap God",
       "url": "https://open.spotify.com/track/6bDCSfBOCbHgJq3Tv7RQjW"
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 268235,
       "name": "Stop Trying",
       "url": "https://open.spotify.com/track/4PTYv3IqqG71z78v7LT8NW"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 199760,
       "name": "The Last Outlaw",
       "url": "https://open.spotify.com/track/1R8XCN2fVWrQWOUYE8YIx0"
@@ -2774,6 +2792,28 @@
       "duration_ms": 174602,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/4IV4gSHLrVzTsMUaatmYZg"
+    },
+    {
+      "album": {
+        "name": "3rd Eye View",
+        "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Trauma (feat. Deuce Deuce)",
+      "url": "https://open.spotify.com/track/7twDBKyp3LT7pZI1b6RFNM"
     },
     {
       "album": {

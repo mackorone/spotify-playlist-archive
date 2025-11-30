@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,517 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,530 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 33 | [Throw 'Em Back](https://open.spotify.com/track/69luMy6Ka1N6Nh4f6nsBQB) | [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [This Crazy Life](https://open.spotify.com/album/2meixszn22Xa14OnXFonKf) | 3:21 |
 | 34 | [A Little Further North](https://open.spotify.com/track/77lErsyeAfTywgOud05g8E) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 3:38 |
 | 35 | [Where Country Is](https://open.spotify.com/track/0OUJQOvbcQx82CQk27Koly) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Where Country Is](https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR) | 3:52 |
-| 36 | [Bird On A Wire](https://open.spotify.com/track/0JeAfKpnBuiRVQdolUtRr7) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Double Happiness](https://open.spotify.com/album/3bU4pTLcfbfy3o61QcPDpn) | 4:28 |
+| 36 | [Down City Streets](https://open.spotify.com/track/4eY6lTOvMqWwy5IVk0A2lb) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 4:04 |
 | 37 | [Lights on the Hill](https://open.spotify.com/track/6bxrMOOJyjIAkbBcp5IPQh) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [The Great Country Songbook](https://open.spotify.com/album/4pGp5C1NMtCKCDsuVFpoan) | 3:12 |
-| 38 | [Down City Streets](https://open.spotify.com/track/4eY6lTOvMqWwy5IVk0A2lb) | [Archie Roach](https://open.spotify.com/artist/4LtYxILg8YPMwQjKnXb5kh) | [Charcoal Lane](https://open.spotify.com/album/2cB16btwYMf8hOu2BlFvLl) | 4:04 |
+| 38 | [Bird On A Wire](https://open.spotify.com/track/0JeAfKpnBuiRVQdolUtRr7) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Double Happiness](https://open.spotify.com/album/3bU4pTLcfbfy3o61QcPDpn) | 4:28 |
 | 39 | [Cowboy](https://open.spotify.com/track/6xvD3k8rlUZLnzr2GBVIK7) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Here We Go](https://open.spotify.com/album/5Zwpz8j2OBECUD2oYRHM3M) | 2:57 |
 | 40 | [Summer's Little Angel](https://open.spotify.com/track/674ehjvBVjg874WczRx5fl) | [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Steve Forde](https://open.spotify.com/album/46T0ATAu5Yy6SWTHVDf9lw) | 2:53 |
 | 41 | [Kick It Up](https://open.spotify.com/track/383rT09An76BfhXjO25xRM) | [The McClymonts](https://open.spotify.com/artist/3rQZpe0EHJWXItfc2OzzKf) | [Wrapped Up Good](https://open.spotify.com/album/2Uhka3g6kN8PghYYnxBjWt) | 3:00 |
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 66 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 |
 | 67 | [Highway Sky](https://open.spotify.com/track/4Pda5mOC2wOK2LnhgAm6Vr) | [Brooke McClymont & Adam Eckersley](https://open.spotify.com/artist/1L6measG8DBCJTw8OxZ8HC) | [Adam & Brooke](https://open.spotify.com/album/6jnnOv7dRx8nenDWoMfrC2) | 5:20 |
 | 68 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
-| 69 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
-| 70 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |
+| 69 | [Showing Off](https://open.spotify.com/track/2ftpWJhsGQ3kEMKXYd7KL2) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Coro Drive](https://open.spotify.com/album/1TMvAafJiN5nZJ8nYCJwPy) | 3:32 |
+| 70 | [A Woman Knows](https://open.spotify.com/track/11cErfQuLGZMX3qovKJPF7) | [Gina Jeffreys](https://open.spotify.com/artist/1kfw6RPH8k2cuQnZ1fqnzk) | [Walks Of Life](https://open.spotify.com/album/2fE3yJQw1AL11aP2CtRUZA) | 3:20 |
 | 71 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
-| 72 | [Cuttin' Up B&S Style](https://open.spotify.com/track/2BvMgmJfX93gDxhi3rxAwj) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Long Five Days](https://open.spotify.com/album/3Xn6NYkxkjdXhgHW0WoXH0) | 3:40 |
-| 73 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
+| 72 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
+| 73 | [Cuttin' Up B&S Style](https://open.spotify.com/track/2BvMgmJfX93gDxhi3rxAwj) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO) | [Long Five Days](https://open.spotify.com/album/3Xn6NYkxkjdXhgHW0WoXH0) | 3:40 |
 | 74 | [So Long So Long](https://open.spotify.com/track/5nGF0GD9p1lnKn8OdUNlUL) | [Darlinghurst](https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA) | [So Long So Long](https://open.spotify.com/album/0DrSVziCS5z1okRftdWpIh) | 3:00 |
 | 75 | [Home](https://open.spotify.com/track/0uVGDMlCO2I9UZQHr8GfHG) | [Mae Valley](https://open.spotify.com/artist/5vRoP692tghSyI7wFV0gLB) | [Mae Valley](https://open.spotify.com/album/1F2w7aXInM21WMXzy2dtrm) | 2:57 |
 | 76 | [Cigarettes & Whiskey](https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 3:38 |

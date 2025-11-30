@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 
 > This is Halestorm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,848 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,862 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3M0Wek.md) - [plain]
 | 43 | [Killing Ourselves to Live](https://open.spotify.com/track/44eIe8EuF5DCM50hgWLR3b) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 4:00 |
 | 44 | [Strange Girl](https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:42 |
 | 45 | [Heathens](https://open.spotify.com/track/27WReIpBz5x9DPiCoVus4T) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [ReAniMate 3.0: The CoVeRs eP](https://open.spotify.com/album/5WKmPd9CsLopbhYQMM4rxI) | 3:28 |
-| 46 | [Private Parts \(feat\. James Michael of Sixx: A.M.\)](https://open.spotify.com/track/404tBtHfLmr8eOvzZEmLC2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:59 |
+| 46 | [Bet U Wish U Had Me Back](https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:43 |
 | 47 | [Black Vultures](https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 4:10 |
-| 48 | [Bet U Wish U Had Me Back](https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Halestorm \(Deluxe\)](https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS) | 3:43 |
+| 48 | [Private Parts \(feat\. James Michael of Sixx: A.M.\)](https://open.spotify.com/track/404tBtHfLmr8eOvzZEmLC2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 3:59 |
 | 49 | [Out In the Rain](https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Who I Am](https://open.spotify.com/album/7hAIZs0bKgPMX8J10TBZiU) | 4:14 |
 | 50 | [Sick Individual](https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Into the Wild Life \(Deluxe\)](https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0) | 3:27 |
 
-Snapshot ID: `aSeUgAAAAABv1qlWbMj0ux7QYo/4xgym`
+Snapshot ID: `aSjmAAAAAABhWyZAAGPxxV2wbclXo4Lw`

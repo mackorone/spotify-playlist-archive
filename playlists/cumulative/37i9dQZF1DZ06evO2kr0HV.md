@@ -4,7 +4,7 @@
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-100 songs - 5 hr 48 min
+101 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Crème Brulée \- Bilingual Version](https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Crème Brulée \(Bilingual Version\)](https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h) | 2:59 | 2025-10-20 |  |
 | [De Otro Planeta](https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:10 | 2024-03-14 | 2025-08-31 |
 | [De Otro Planeta](https://open.spotify.com/track/15BmVmvT8ii39sqLZFbMtF) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 3:10 | 2023-03-19 | 2024-03-15 |
-| [Desconocidos](https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Desconocidos](https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC) | 3:15 | 2023-03-19 |  |
+| [Desconocidos](https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Desconocidos](https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC) | 3:15 | 2023-03-19 | 2025-11-30 |
 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 | 2023-04-13 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-05-07 | 2024-06-21 |
 | [DUALIDAD \- feat\. Esteman](https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DUALIDAD](https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl) | 3:21 | 2024-09-08 |  |
@@ -88,6 +88,7 @@
 | [Reina Leona](https://open.spotify.com/track/4fcZ0HZdaloV9ZSU3xPPD5) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:07 | 2025-07-30 |  |
 | [Robot](https://open.spotify.com/track/0x5PPEuQpHzfYT9lx6AL9s) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:17 | 2024-03-14 | 2024-06-25 |
 | [Robot](https://open.spotify.com/track/6C8AHwIbOzbQiy0aRBXfQ6) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 3:17 | 2024-01-30 | 2024-03-14 |
+| [Salvaje](https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Salvaje](https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8) | 3:01 | 2025-11-30 |  |
 | [Se Nos Perdió](https://open.spotify.com/track/64UtnXxfVtC0MjGt9wpJjs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 4:19 | 2023-03-19 | 2024-01-31 |
 | [Secreto](https://open.spotify.com/track/0BJxnZcGYv7ZQMBLdOUzmY) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:03 | 2024-05-12 |  |
 | [Si Tú Me Nombras](https://open.spotify.com/track/7MVXjuvdvYWSMhlIfOOdQQ) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 3:37 | 2024-05-13 | 2024-07-17 |

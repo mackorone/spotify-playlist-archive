@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,833 songs - 4 day 11 hr 31 min
+1,839 songs - 4 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Backroads](https://open.spotify.com/track/73uGEAHMqdsupTVmJlX9fl) | [B.J Salyer](https://open.spotify.com/artist/0bqxjfiDpMt6MIrF6A17vN) | [Backroads](https://open.spotify.com/album/6vpwCQnYL2ERD1IDY7tGxi) | 3:19 | 2025-11-06 |  |
 | [Backwards](https://open.spotify.com/track/4yjlLn64Pm9LwWUffWhd1P) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Backwards](https://open.spotify.com/album/2hMtwB5CvVyY0Xf3EAJNId) | 3:14 | 2025-05-18 |  |
 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 | 2025-04-02 |  |
+| [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 | 2025-11-29 |  |
 | [Bad Girls \- Acoustic](https://open.spotify.com/track/70pfFtMi1w5qkReFQAFRKD) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Bad Girls \(Acoustic\)](https://open.spotify.com/album/1qzZAwOL6eCaYSCro4sBKt) | 3:38 | 2024-11-11 |  |
 | [Bad Habits](https://open.spotify.com/track/5hGx9CAgmf2tyghsQ96RVH) | [TJ Rosenthal](https://open.spotify.com/artist/4S9D53DYaVrV7hwiubaS9s) | [Bad Habits](https://open.spotify.com/album/1htxpFSx2SHvp4Q45J4KxE) | 2:58 | 2024-11-12 |  |
 | [BAD TOOTH PASTE](https://open.spotify.com/track/2xezcfbn2zKG4XljApFozF) | [bergamots](https://open.spotify.com/artist/3DtgbqGZ6tqMaUugQSHgnb) | [BAD TOOTH PASTE](https://open.spotify.com/album/580T67YfRD5P6Es0cfIlcs) | 2:18 | 2025-02-17 |  |
@@ -445,6 +446,7 @@
 | [Elephant](https://open.spotify.com/track/7IArSy4R7SblfJUg5RfG1X) | [The Fallow Years](https://open.spotify.com/artist/1MhYLziziNyGAHYJHcUvth) | [Winter](https://open.spotify.com/album/0D01kR1XKrrt12sRNpKhpn) | 5:31 | 2024-04-29 |  |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2024-08-28 |  |
 | [Elsewhere Forever](https://open.spotify.com/track/4uGHOg0kxmKgALso98QJ11) | [Draumr](https://open.spotify.com/artist/2sdnhtPKM43ggzO4vvvUyi) | [Drawn\-Out Daydream](https://open.spotify.com/album/5DjMAXfrTr34bn3N9RH2Ka) | 3:19 | 2024-07-26 |  |
+| [Elsinore](https://open.spotify.com/track/1NoPirG77XN3zj7GlTCyzg) | [Local Kin](https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB) | [Elsinore](https://open.spotify.com/album/3Smz6yPk6zc59BoFeijJSY) | 3:25 | 2025-11-29 |  |
 | [Embrace the Good Times](https://open.spotify.com/track/1ebaMxDamO9Ga6BWxQ9znV) | [VERI DIAL](https://open.spotify.com/artist/0GRrzhDGEB0dNpkkuOfm1o) | [Embrace the Good Times](https://open.spotify.com/album/2FnXXmEmDOpBA9R6Yd9jLo) | 1:52 | 2025-05-29 |  |
 | [empty missing poster](https://open.spotify.com/track/0xQr2G72r5NNUrYiyAqkLQ) | [Anti Chirality](https://open.spotify.com/artist/5hVzOQmav7dCuujAflZtps) | [empty missing poster](https://open.spotify.com/album/2XrkgUgFC8PENOL7gj8ahz) | 4:33 | 2025-04-14 |  |
 | [Empty Pages](https://open.spotify.com/track/5UvRMJY724CByL4645uCxS) | [Next Week's Washing](https://open.spotify.com/artist/0WwcefSwyFVO3UwxjFHMS6) | [Empty Pages](https://open.spotify.com/album/6RrEnQsgmcfUDIVSxRAAlI) | 3:47 | 2025-09-04 |  |
@@ -647,7 +649,7 @@
 | [Here Its All over \(Wayward Lens Remix\)](https://open.spotify.com/track/4iHeONE5mcOMJYqeViD3r7) | [Rome in Reverse](https://open.spotify.com/artist/0un9O9ADCaIEERGvcZLoxM), [Wayward Lens](https://open.spotify.com/artist/11i0R5UkHluDyj6UroGAcw) | [Here Its All over \(Wayward Lens Remix\)](https://open.spotify.com/album/655WaRY5nJRfK0Es6glY4x) | 4:01 | 2024-11-18 |  |
 | [Hero Call](https://open.spotify.com/track/1djHUtfx366zQD3qSjNNSN) | [Jaclyn Reinhart](https://open.spotify.com/artist/0LvflTQSZIjU5YhiRbq9qY) | [Hero Call](https://open.spotify.com/album/76E6iQXTvlPIuSiCXmTXKK) | 3:32 | 2025-10-16 |  |
 | [Hey Honey Honey](https://open.spotify.com/track/3QhNazL2KzlxuboVqoCLeR) | [Hitstax](https://open.spotify.com/artist/4tgRQYMmjH3vhFYj5khUr5) | [Hey Honey Honey](https://open.spotify.com/album/4QT9HU1rN6fZFsRtQwVB9N) | 3:31 | 2025-10-14 |  |
-| [Hey, Respira](https://open.spotify.com/track/1iw68ClE3LlyjSxrLsy7ai) | [Agelo](https://open.spotify.com/artist/6kwFI7shgiFm2BHIi79BVR), [MORO](https://open.spotify.com/artist/5dQqonrm2NSVRWEZlRv1Xl) | [Hey, Respira](https://open.spotify.com/album/0Qwgqv467V8JOCR5uzqW8Z) | 2:52 | 2024-08-12 |  |
+| [Hey, Respira](https://open.spotify.com/track/1iw68ClE3LlyjSxrLsy7ai) | [Agélo](https://open.spotify.com/artist/6kwFI7shgiFm2BHIi79BVR), [MORO](https://open.spotify.com/artist/5dQqonrm2NSVRWEZlRv1Xl) | [Hey, Respira](https://open.spotify.com/album/0Qwgqv467V8JOCR5uzqW8Z) | 2:52 | 2024-08-12 |  |
 | [Hi\-De\-Ho](https://open.spotify.com/track/5P6mvyfmlUrpvKAiZnxLGF) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Hi\-De\-Ho](https://open.spotify.com/album/5172De2E44SsHzNU7mlAAd) | 4:50 | 2024-12-17 |  |
 | [Hidden Love](https://open.spotify.com/track/7vciUg7fRX7zR3aSl0AJDa) | [Dvashest'](https://open.spotify.com/artist/3wI1yOAEbDg7TufKBbXxBg) | [Hidden Love](https://open.spotify.com/album/47uEvP2cJ09X8hhvk0TRKX) | 3:48 | 2025-02-27 |  |
 | [Hide in the Shadows](https://open.spotify.com/track/6k8TG6UQy7xLgjJoEMgnRx) | [The Fine Vines](https://open.spotify.com/artist/3DnU6ml2tTwmyjUvuuY3DP) | [Hide in the Shadows](https://open.spotify.com/album/51fHqBV7QQtZ2PoiKZswIw) | 2:57 | 2025-07-08 |  |
@@ -822,6 +824,7 @@
 | [jester](https://open.spotify.com/track/0czLzptXOO935bvU3fo3Yj) | [Brandon Hawkins](https://open.spotify.com/artist/5hBELGzR8N3PvQGSDcuR71) | [jester](https://open.spotify.com/album/0Ae6q5NVm8lkhhpY9GYdWo) | 1:38 | 2025-02-18 |  |
 | [Joshua Davis](https://open.spotify.com/track/1bKLwKyKrK72J2Lyy9GhmO) | [The Irish Lassies](https://open.spotify.com/artist/0lUMz3jYXEKl0b8FHFV8ic) | [Joshua Davis](https://open.spotify.com/album/5NkP56WUvExZQoCUuXDamY) | 4:53 | 2025-07-29 |  |
 | [Joy](https://open.spotify.com/track/5eihoC4uwsZZHV0TtZgGXU) | [Hjörvar](https://open.spotify.com/artist/3mHZS0Enwpb4M0hNmLZOln) | [Joy](https://open.spotify.com/album/4tLbOHFqcRrouZznyr7V0v) | 3:37 | 2024-05-24 |  |
+| [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 | 2025-11-29 |  |
 | [João de Barro](https://open.spotify.com/track/7i1yvWBMnmdOXkEawDf8gT) | [Sheila Alvez](https://open.spotify.com/artist/11PfBcGjglPQc4T2s5yPVT) | [João de Barro](https://open.spotify.com/album/6Irsgt8cw93eazef1h673K) | 4:17 | 2025-11-06 |  |
 | [Julia](https://open.spotify.com/track/3eYQhWAWY4Ps37cDB6hHzb) | [Eddy Willemsen](https://open.spotify.com/artist/66l6yInrt4qUcvAICPaR7t) | [The New Girl on 51st Street](https://open.spotify.com/album/4IM48hD53FHpjM92WH1MeV) | 3:47 | 2025-02-17 |  |
 | [Juliet Rose](https://open.spotify.com/track/50yepyKxIn7Imzn3iAbUFe) | [Grace Campbell](https://open.spotify.com/artist/1IEXc8HD8yrjW2seDlUdqx) | [Bloom](https://open.spotify.com/album/3G5ZHHZ3HSYwWAHYrIokMx) | 2:35 | 2025-02-21 |  |
@@ -880,6 +883,7 @@
 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 | 2024-09-09 |  |
 | [Last King Of The Blues](https://open.spotify.com/track/3F7rtt1rSvBf040jjr38Rn) | [Afton Wolfe](https://open.spotify.com/artist/6QbygoFzNwQY5BuzSQFl79) | [Last King of the Blues](https://open.spotify.com/album/2aRbo4AyWiInbhNagf3hEF) | 5:30 | 2025-03-12 |  |
 | [Last Train](https://open.spotify.com/track/24EcgrUj09VcwoICjmycm0) | [Niko Albano](https://open.spotify.com/artist/0O3DeHtMP6v7Pd9aizUGB3) | [Passo Di Notte](https://open.spotify.com/album/5NfXsRCKRhsFj5m6yLxnzC) | 2:59 | 2025-07-08 |  |
+| [Lately](https://open.spotify.com/track/37ZYppwoFy8yg7cfacr4py) | [Riki Ann](https://open.spotify.com/artist/4MKz7DRpKA1LkLW3nzn5tT) | [Lately](https://open.spotify.com/album/7C8St6Ey1nifTekuDH4FJs) | 3:27 | 2025-11-29 |  |
 | [Laughter in Your Heart](https://open.spotify.com/track/2NXWht0ws2oa090EivuWYl) | [Gwyn English Nielsen](https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS) | [Laughter in Your Heart](https://open.spotify.com/album/7554KNHGEAXwaDd2xjJoOF) | 3:57 | 2025-08-05 |  |
 | [Lay Me Down](https://open.spotify.com/track/7wKU73KM8H6NFM9UNhY3xC) | [80 Proof Alice](https://open.spotify.com/artist/24EAOP7vc57PoKF2OVxhcV) | [From Nowhere](https://open.spotify.com/album/639JbVOhvGNwxYh1h0V39k) | 4:20 | 2025-08-04 |  |
 | [Le ninfee di Monet \- Féerie Version](https://open.spotify.com/track/4HEmmJAPKKTd7ryyhe4RwG) | [Marco Montagnini](https://open.spotify.com/artist/5HDWwv0sIBF0ZacxXlYpu7) | [Féerie](https://open.spotify.com/album/26y4uXUoE589VwGts3gef0) | 2:58 | 2024-11-11 |  |
@@ -1004,6 +1008,7 @@
 | [Miedo](https://open.spotify.com/track/0dKyXfU3qrhOA7x7TQfw7w) | [PNGO](https://open.spotify.com/artist/4zc5LBlfmSnEGnUBV2E27y) | [Miedo](https://open.spotify.com/album/74hSXpOW9edQ5VZ0igLniw) | 4:22 | 2025-03-04 |  |
 | [Mighty You Are](https://open.spotify.com/track/3elUMrIOZkKrTK5YobJapq) | [Camara](https://open.spotify.com/artist/1cpbbfxvLOTMAF35zZHVoU) | [Mighty You Are](https://open.spotify.com/album/5PMLqdc32MHg66d4EXdwKs) | 4:33 | 2025-03-06 |  |
 | [Milenios](https://open.spotify.com/track/4X06BoYGkitq2knbllZsS1) | [Paz Aguado](https://open.spotify.com/artist/2gcStVZEhytMWknRl11cPJ) | [Milenios](https://open.spotify.com/album/71r8Zn2vz2OsMLYvyHYzCi) | 3:53 | 2025-01-20 |  |
+| [Mirage](https://open.spotify.com/track/7jekjMWZ9b7CGQZ6r9Itw3) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [Mirage](https://open.spotify.com/album/58ulkgENTR5zT5TCvJJXu4) | 2:43 | 2025-11-29 |  |
 | [Miss you](https://open.spotify.com/track/2iOZyY6QNKmivaA09P7r7k) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Miss you](https://open.spotify.com/album/0NRBaZWZkEJ8uTOtc8XjBB) | 2:42 | 2025-05-23 |  |
 | [Missed Calls](https://open.spotify.com/track/3cS2V59Qbb1l6RVl4SNoZ8) | [Mellow](https://open.spotify.com/artist/5p821SHXHFzghN58FwgUhh), [Nika Chokheli](https://open.spotify.com/artist/4QRC5q5npalK85mIpdh5oB) | [Missed Calls](https://open.spotify.com/album/0kldJQn9AzJBdqz7Toft2t) | 4:19 | 2024-08-23 |  |
 | [Missed You](https://open.spotify.com/track/2AFoA8SCYIn0PvW0D06SlZ) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Missed You](https://open.spotify.com/album/36EHF4X7VfGCmRHwb19a9O) | 3:37 | 2024-04-16 |  |
@@ -1235,6 +1240,7 @@
 | [Race For Time](https://open.spotify.com/track/5J1td0PujQfvxEQh29wq7u) | [depthOblivious](https://open.spotify.com/artist/21o6YsaoKdb1Nwqj6jPbtk), [Milkywaygalaxi](https://open.spotify.com/artist/3aoEUgGAigTrTWzz7VZGMD), [blam3less](https://open.spotify.com/artist/5ESBjDwdjMgV98sPxieuKJ) | [Race For Time](https://open.spotify.com/album/3kc12dleY51geDt1G7iT4I) | 2:00 | 2025-01-22 |  |
 | [Radiant](https://open.spotify.com/track/5nuOVirLsIntQZl54DCT8P) | [Phillip Saint John](https://open.spotify.com/artist/217hbrhFlb7Vm8gt2DndjZ), [Neeki](https://open.spotify.com/artist/2T4RrtPHdT7pkhA9Em17AG) | [Radiant](https://open.spotify.com/album/0wNpvtEkOxn90XIo1fdfuF) | 2:40 | 2024-08-12 |  |
 | [Rage Stage](https://open.spotify.com/track/4c4xS0c9h3r48kg42GwR5u) | [Andrew Spice](https://open.spotify.com/artist/5ZnQOkwMsUYXfrnTNFtcgY) | [Rage Stage](https://open.spotify.com/album/4sfoWDliTptKocLacPrXaa) | 3:12 | 2025-06-10 |  |
+| [Rags](https://open.spotify.com/track/7Hrne3ahQxPYp8zMg5JVYE) | [Dylan White](https://open.spotify.com/artist/5lQm9MVQrvPtf0yRwcVW8i) | [Fronds](https://open.spotify.com/album/3zaWpgZmlmHCMAbfcwk4nO) | 5:07 | 2025-11-29 |  |
 | [Ragtime](https://open.spotify.com/track/08IAgIAaEAaehgKUXEHCv8) | [Klarck](https://open.spotify.com/artist/5NT7YYkRK2xQy2bk3ATwRs) | [Edge of Time](https://open.spotify.com/album/6CvsTFpm7Xerqyc0JNrifO) | 5:21 | 2025-04-16 |  |
 | [Rain Azure](https://open.spotify.com/track/007gJOhPIkEnk5KItwaLwP) | [Zen Horizon](https://open.spotify.com/artist/0rZqt9ZcJvkQJ0AMFyqqmM) | [Rain Azure](https://open.spotify.com/album/1CEX23HdHgQjxtjMveQTuo) | 3:18 | 2025-01-20 |  |
 | [Rain in Paradise](https://open.spotify.com/track/3lp0XVbd1Kg2sXqbmew8Xk) | [CRAZY PARTY](https://open.spotify.com/artist/4U96U4AZGFryQYnWo4BGup), [Derek Sherinian](https://open.spotify.com/artist/4ZCINPmMmZUh4H1qNqzIxq) | [Rain in Paradise](https://open.spotify.com/album/2EpQPwn9TasOBMPzaiAtnD) | 4:51 | 2025-01-07 |  |

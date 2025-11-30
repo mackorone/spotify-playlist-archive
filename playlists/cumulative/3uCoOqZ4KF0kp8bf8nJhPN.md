@@ -4,7 +4,7 @@
 
 > 
 
-292 songs - 11 hr 29 min
+293 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [YOU'RE TOO SLOW](https://open.spotify.com/track/5EloqweGioDEbqiGXTYWgE) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [YOU'RE TOO SLOW](https://open.spotify.com/album/1LY8hZmcDY1eC36qR5jAEz) | 1:56 | 2025-04-12 |  |
 | [young](https://open.spotify.com/track/1f0Ar8UYiDo3pI2AWhQRLw) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9) | [young](https://open.spotify.com/album/0YEId6xTxxIB0udIsCDSMs) | 2:31 | 2025-02-14 |  |
 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2025-02-26 |  |
+| [YUCK!](https://open.spotify.com/track/37nSkzg3bcTQz0bS3snV3e) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT!](https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg) | 1:34 | 2025-11-29 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/3cqVWI3s0TgcesZsyi42Xp) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [Биг Сити Лайф](https://open.spotify.com/album/4GIGtvvVL4PTa25xN6dnMP) | 2:08 | 2025-08-11 |  |
 | [Биг Сити Лайф](https://open.spotify.com/track/5ZmkKKcxj1H6jiFhq21eHI) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:08 | 2025-08-09 |  |
 | [Биография](https://open.spotify.com/track/5PkgICX1gpyCSOqNEXX99f) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:40 | 2025-08-15 |  |

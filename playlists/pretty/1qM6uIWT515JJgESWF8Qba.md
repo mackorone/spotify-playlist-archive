@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 236 likes - 65 songs - 3 hr 45 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 238 likes - 67 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 63 | [Control Z](https://open.spotify.com/track/2K819ghYZceYzCSKxACjCX) | [TREKHAAK.](https://open.spotify.com/artist/47EmVcbLry0jMkpqrirO2T) | [Burning The Horizon](https://open.spotify.com/album/2I1Eks5EGGvz6MRcQVWC6P) | 3:10 |
 | 64 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 |
 | 65 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 |
+| 66 | [Home](https://open.spotify.com/track/2ewAqvToFML0QngPp767r4) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 7:45 |
+| 67 | [Overthrown](https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 5:27 |
 
-Snapshot ID: `AAAAx42PciRK1NdgQ3U++tRLw0Sw0TTk`
+Snapshot ID: `AAAAyZTZnymod8gBEFha7MPbVvJ+IfIL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from These New South Whales, Ed Sheeran, Central Cee, Jordan Rakei, Jalen Ngonda, Drax Project + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,447 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,449 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

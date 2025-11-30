@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > Unwind and relax to the soft sound of jazz piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,275 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,313 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 21 | [Late Supper](https://open.spotify.com/track/7bg7LYbKyx7QurwgvVvaRV) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Late Supper](https://open.spotify.com/album/40P9mq2kbHM1Pc3LVOqq7o) | 3:05 |
 | 22 | [The last kiss](https://open.spotify.com/track/03jkyMuDhVI0nhpNxxvLgr) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [The last kiss](https://open.spotify.com/album/2KqrwvBUGKmKpJe7Z6uixJ) | 2:45 |
 | 23 | [Love of my life](https://open.spotify.com/track/0xGhtDxlN0wPry1XnFtdsx) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Love of my life](https://open.spotify.com/album/2rfixBbKpVxPXNUJTZMEeu) | 2:15 |
-| 24 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
-| 25 | [always you](https://open.spotify.com/track/6CiSQLqDIwgyJKLbYsKXwR) | [Niels Henningsen](https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x) | [always you](https://open.spotify.com/album/2vnxbOxcXicmqlAfXsV2x4) | 2:43 |
+| 24 | [always you](https://open.spotify.com/track/6CiSQLqDIwgyJKLbYsKXwR) | [Niels Henningsen](https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x) | [always you](https://open.spotify.com/album/2vnxbOxcXicmqlAfXsV2x4) | 2:43 |
+| 25 | [Too Close for Comfort](https://open.spotify.com/track/4MKNeTEzXe3jdLNZlf5oDG) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Too Close for Comfort](https://open.spotify.com/album/6SQKJbpX46rUn9gTtHgzyV) | 2:41 |
 | 26 | [Grindavik](https://open.spotify.com/track/6GWCFQA9xGMcwN5kkzPqXf) | [Haukur Ólafsson](https://open.spotify.com/artist/6FtBiuWcOOhvkGYHJ9N87w) | [Grindavik](https://open.spotify.com/album/2tShsuIGN8rKlEXTv46tnB) | 3:04 |
 | 27 | [Tales of the night breeze](https://open.spotify.com/track/6anvx91Qu1k2zNABNIYDOK) | [Ilse Fisher](https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt) | [Tales of the night breeze](https://open.spotify.com/album/1aonWpWS7U4VY1nZU0k9Ch) | 3:02 |
 | 28 | [Look at the Moon](https://open.spotify.com/track/50UZdAaPu71v0haQr2vLKg) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Look at the Moon](https://open.spotify.com/album/1yAUVbxGkA3JqvijlHPmtW) | 2:48 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 78 | [Fading Skies](https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Fading Skies](https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0) | 2:18 |
 | 79 | [Downtown](https://open.spotify.com/track/66wIHcEnTSehfU3sJRppV3) | [TS Eklund](https://open.spotify.com/artist/71cMIIvFN9dEqa8LQES3Kp) | [Downtown](https://open.spotify.com/album/7K2p7UfYJky7XTUq7aFX0B) | 2:36 |
 | 80 | [Another sunset](https://open.spotify.com/track/5O0WWwQUYGm1DEO9floJoB) | [Laura Romano](https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8) | [Another sunset](https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo) | 2:58 |
-| 81 | [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 |
-| 82 | [Time to Go Home](https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Time to Go Home](https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu) | 3:21 |
+| 81 | [Time to Go Home](https://open.spotify.com/track/7CygJxe6oFIuwdWw8eadq5) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Time to Go Home](https://open.spotify.com/album/0Bsg4sc3NLfWk0KJN4q8Tu) | 3:21 |
+| 82 | [Be Quiet](https://open.spotify.com/track/0z3HE3jSdHGCypxyUArO0p) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Be Quiet](https://open.spotify.com/album/45EfXaVn5S70mQOyQBae8M) | 2:50 |
 | 83 | [Let's Take a Chance](https://open.spotify.com/track/2ssY14WTj7YcA6RaZhItHc) | [Wiz Senega](https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP) | [Let's Take a Chance](https://open.spotify.com/album/4wZUH0xUUnZdvHonSugHCA) | 2:47 |
 | 84 | [I'm Safe with You](https://open.spotify.com/track/2GlF8jXAeJXy30Fz7xnHTY) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [I'm Safe with You](https://open.spotify.com/album/151qGQLppGbygpN7utgNj8) | 2:27 |
 | 85 | [Evening Stillness](https://open.spotify.com/track/5WEjTSODeUsYMsQVEHBs1E) | [John Bülow](https://open.spotify.com/artist/4OEyfZj87mjPEIZWQZITep) | [Evening Stillness](https://open.spotify.com/album/21ilrSeAMjosU30MpOoa0v) | 3:18 |

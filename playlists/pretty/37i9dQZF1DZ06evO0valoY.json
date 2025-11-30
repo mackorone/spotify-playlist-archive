@@ -1,12 +1,12 @@
 {
   "description": "This is Eslabon Armado. The essential tracks, all in one playlist.",
-  "num_followers": 213199,
+  "num_followers": 213202,
   "original_name": "This Is Eslabon Armado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAjiasznWp/+WqbHv22Bc3v",
+  "snapshot_id": "aSjmAAAAAACs1tJJQrimT+qdkQOHdUgF",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 143822,
       "name": "LA TROKA",
       "url": "https://open.spotify.com/track/0R23grfg7MaNE9TUpNNQUU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+        "name": "Lamento Boliviano",
+        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 230443,
-      "name": "Quien Es El?",
-      "url": "https://open.spotify.com/track/2JVHzNBq01Mf4pmSDagtPA"
+      "duration_ms": 212213,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamento Boliviano",
-        "url": "https://open.spotify.com/album/4LBe254NURiRmej6BSdQLn"
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 212213,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6nViFsaHhvPV6GLms1R0oe"
+      "duration_ms": 230443,
+      "name": "Quien Es El?",
+      "url": "https://open.spotify.com/track/2JVHzNBq01Mf4pmSDagtPA"
     },
     {
       "added_at": null,

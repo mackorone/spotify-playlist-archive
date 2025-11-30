@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 585488,
+  "num_followers": 585536,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABUEjijPohTdYQENXJ7WG3B",
+  "snapshot_id": "aSjmAAAAAAAa2XnirXSADLB1NbCkm4be",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 197020,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
-        "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 203564,
-      "name": "Ramblin' Round - Take 2",
-      "url": "https://open.spotify.com/track/519EkVJxIYpOQSOOk7uCQf"
     },
     {
       "added_at": null,
@@ -351,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
-        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 309364,
-      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
-      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
         "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
       },
@@ -399,6 +367,22 @@
       "duration_ms": 279906,
       "name": "My Back Pages - Live at Madison Square Garden, New York, NY - October 1992",
       "url": "https://open.spotify.com/track/0bIGNGUqgpB82sAksxonkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boots of Spanish Leather (The Times They Are A-Changin' Alternate Take, NYC, 1963)",
+        "url": "https://open.spotify.com/album/0axVTinrU5728DsrbN8qhH"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 309364,
+      "name": "Boots of Spanish Leather - The Times They Are A-Changin' Alternate Take, NYC, 1963",
+      "url": "https://open.spotify.com/track/71aYPdsgHtu0tgZrJMPqsF"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 278100,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Through The Open Window: The Bootleg Series Vol. 18 (Highlights)",
+        "url": "https://open.spotify.com/album/7KcszWpAtYB3YDEK88QFWf"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 203564,
+      "name": "Ramblin' Round - Take 2",
+      "url": "https://open.spotify.com/track/519EkVJxIYpOQSOOk7uCQf"
     },
     {
       "added_at": null,

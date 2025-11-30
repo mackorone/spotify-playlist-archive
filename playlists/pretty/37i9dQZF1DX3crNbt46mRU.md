@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Gigi Malua, Ed Sheeran,  Pronto, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,234 likes - 94 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,236 likes - 94 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 27 | [Toure](https://open.spotify.com/track/7kZ0PlIj3w9ddNFHLCv7fa) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [Toure](https://open.spotify.com/album/1r68wuu5ZHEbbg1bJKE17Z) | 2:32 |
 | 28 | [Sentire \(feat\. Angelina Mango\)](https://open.spotify.com/track/1hIwH3jEyXBgk8FflP3UNy) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Speriamo](https://open.spotify.com/album/5945EwcH66jMpVaJOI60Cj) | 3:20 |
 | 29 | [WEGEN DIR](https://open.spotify.com/track/6RmE4KcszM9FNtVXaDiGUp) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [AZRA](https://open.spotify.com/album/5ZMMzhKyImXgTtCMsJiFbp) | 3:42 |
-| 30 | [Track 9](https://open.spotify.com/track/6ta8RwisNabL2hCJnqdC8X) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [](https://open.spotify.com/album/null) | 0:00 |
+| 30 | [Mayumi's Interlude](https://open.spotify.com/track/6ta8RwisNabL2hCJnqdC8X) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [MAYUMI](https://open.spotify.com/artist/5Wx5ziV6Zc23qcJlurOJXZ) | [2000er Mixtape](https://open.spotify.com/album/4cMnjqjx4iBt2PTGRzfOVa) | 2:13 |
 | 31 | [Tornare a casa](https://open.spotify.com/track/4oX7pVZwmmLU6K6F1JvIGE) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Casa Paradiso](https://open.spotify.com/album/0T7QZBhRRVPiRCwkkDMEFF) | 3:56 |
 | 32 | [IN DA CLUB](https://open.spotify.com/track/7h6WeEefm8Ec2NmeFExYqQ) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [IN DA CLUB](https://open.spotify.com/album/5G7ekSQQ3JVcQMZ9CgoH4f) | 2:10 |
 | 33 | [Tik Tok](https://open.spotify.com/track/51Zwky5VCJRDxJBLun64OT) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [Tik Tok](https://open.spotify.com/album/1Aw8X5CsnOa9iwLekwj5Y0) | 2:08 |

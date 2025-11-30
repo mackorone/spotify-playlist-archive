@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,796 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,762 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [THROWIN SHAPES](https://open.spotify.com/track/3mhopbXYbHnBNTP4VpAvFy) | [teethin](https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg) | [THROWIN SHAPES](https://open.spotify.com/album/0CC78rgNhzUddEbVeX6efS) | 2:43 |
 | 80 | [JONNY](https://open.spotify.com/track/2E1KRn0TgPaGkZHNi1DRqT) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [JONNY](https://open.spotify.com/album/6PmkvXHv3spYHpRM4aoDqX) | 3:10 |
 
-Snapshot ID: `AAAAANOumBAbUqmHG5M/v+XuXxDPt7KD`
+Snapshot ID: `AAAAAEhOsLvqVc4tPikbWNiIQsmh6Cgu`

@@ -4,7 +4,7 @@
 
 > This is Andre Hazes\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 8 min
+52 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Ja Dat Ben Jij](https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Alleen Met Jou](https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL) | 3:37 | 2025-07-20 |  |
 | [Jij Bent Alles](https://open.spotify.com/track/6GbvTKd2CcWta7qezSzdOJ) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 4:47 | 2025-07-20 |  |
 | [Jij Bent Het Leven Voor Mij](https://open.spotify.com/track/1es7Ebp9ALgRNFAA8GU2dl) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY), [Willy Alberti](https://open.spotify.com/artist/4V3RSGZYyjAoaDrZqPmzUM) | [Zonder Zorgen](https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S) | 3:01 | 2025-07-20 |  |
-| [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1nfhJk2pQuGFCw4c1Tbqvq) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:33 | 2025-07-20 |  |
+| [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1nfhJk2pQuGFCw4c1Tbqvq) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Jij Bent Alles](https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH) | 3:33 | 2025-07-20 | 2025-11-30 |
+| [Kerstmis Voor Een Zwerver](https://open.spotify.com/track/28HZeogH3brUS2m0Y2GF7t) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kerstboom Zonder Piek](https://open.spotify.com/album/6JOiCwUPUXKVnPMyPDFwVT) | 3:21 | 2025-11-30 |  |
 | [Kleine Jongen](https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl) | 3:43 | 2025-07-20 |  |
 | [Leef Nu Maar Je Eigen Leven](https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Samen](https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin) | 3:54 | 2025-07-20 |  |
 | [Op De Hoek Van De Straat](https://open.spotify.com/track/2GHTuJQYBRkpUQkQ58060c) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Dit Is Wat Ik Wil](https://open.spotify.com/album/0bePor1BxmiRNOaGxSJiKN) | 3:08 | 2025-07-20 |  |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 240760,
       "name": "Ahora Tu - Remastered 2021",
       "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "UNA STORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205286,
+      "name": "Festa",
+      "url": "https://open.spotify.com/track/3hsvT6r5VxXbsLf5wwJdpK"
+    },
+    {
+      "album": {
         "name": "Estilolibre (Spanish Version)",
         "url": "https://open.spotify.com/album/5T0HgCj7T4adMFXKGHV5qf"
       },
@@ -656,10 +674,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 198320,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/4YaWx75feX1fdZdMP9TLDO"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198320,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 262338,
+  "num_followers": 262415,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 238762,
-      "name": "En Trance",
-      "url": "https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Salsa Legends",
         "url": "https://open.spotify.com/album/2QuOloo4ttkd4SxYzgu5nT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 358493,
       "name": "No Vale La Pena",
       "url": "https://open.spotify.com/track/1uqmUXgzSFlIf3ZzoSeWN7"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 238762,
+      "name": "En Trance",
+      "url": "https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -935,22 +935,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "30 Aniversario (Live)",
-        "url": "https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70"
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/49yBL8VWJ0AtHPfW6Gix6z"
       },
       "artists": [
         {
-          "name": "Raphy Leavitt y Su Orquesta La Selecta",
-          "url": "https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ"
-        },
-        {
-          "name": "Sammy Marrero",
-          "url": "https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr"
+          "name": "Tommy Olivencia",
+          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
         }
       ],
-      "duration_ms": 509080,
-      "name": "Somos El Son - Live",
-      "url": "https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h"
+      "duration_ms": 275453,
+      "name": "No Soy Autom\u00e1tico",
+      "url": "https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -971,18 +967,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/49yBL8VWJ0AtHPfW6Gix6z"
+        "name": "30 Aniversario (Live)",
+        "url": "https://open.spotify.com/album/4FHR7P1D6uhf148S04Yt70"
       },
       "artists": [
         {
-          "name": "Tommy Olivencia",
-          "url": "https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x"
+          "name": "Raphy Leavitt y Su Orquesta La Selecta",
+          "url": "https://open.spotify.com/artist/6NpIgOTS4wqVmCopi2A2AJ"
+        },
+        {
+          "name": "Sammy Marrero",
+          "url": "https://open.spotify.com/artist/3gNZBnULGKuvoTN0Vi1uJr"
         }
       ],
-      "duration_ms": 275453,
-      "name": "No Soy Autom\u00e1tico",
-      "url": "https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2"
+      "duration_ms": 509080,
+      "name": "Somos El Son - Live",
+      "url": "https://open.spotify.com/track/1ymo6FkA5gdi9SXI5xBp5h"
     },
     {
       "added_at": "2024-07-11 00:51:42",

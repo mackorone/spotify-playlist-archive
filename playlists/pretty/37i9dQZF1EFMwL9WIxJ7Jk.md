@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,398 likes - 103 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,396 likes - 103 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 72 | [Color of My Lips \(feat\. Busy Signal\)](https://open.spotify.com/track/6MrrKe8ewhFykqBz1QDB8q) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Me 4 U](https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL) | 3:10 |
 | 73 | [Sugar Daddy](https://open.spotify.com/track/44ROJAxh2jBDQpxgMMIiCC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:38 |
 | 74 | [Christmas Got Me Blue](https://open.spotify.com/track/29kJi1YtkZi4uyyDdvakib) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 3:33 |
-| 75 | [I Get It](https://open.spotify.com/track/6Uj10GHUgJ7D8QVwx9BpKI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:05 |
-| 76 | [Sleepin' On Me](https://open.spotify.com/track/26DJdIigEELxJHKS56ILCw) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 3:02 |
-| 77 | [Another Opinion](https://open.spotify.com/track/0uvlQUhGqx6NPzxkEhfAyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 |
-| 78 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
+| 75 | [Still Don't Care](https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Still Don't Care](https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw) | 2:49 |
+| 76 | [I Get It](https://open.spotify.com/track/6Uj10GHUgJ7D8QVwx9BpKI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:05 |
+| 77 | [Sleepin' On Me](https://open.spotify.com/track/26DJdIigEELxJHKS56ILCw) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 3:02 |
+| 78 | [Another Opinion](https://open.spotify.com/track/0uvlQUhGqx6NPzxkEhfAyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 |
 | 79 | [Forget How To Love](https://open.spotify.com/track/0bwJ9PbVbtbHXzGEEkvTmd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 3:18 |
 | 80 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
 | 81 | [Have You Now](https://open.spotify.com/track/63y6MYLjCpnUV4EVYawZA4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:46 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 87 | [Grow Up](https://open.spotify.com/track/3fj4Q3qjnZMD73xCwY5Y6T) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 2:56 |
 | 88 | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP) | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN) | 3:13 |
 | 89 | [You Don't Know Me](https://open.spotify.com/track/3xGTNPcwsvonkWUQV1Wsqu) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:30 |
-| 90 | [Roll the Dice](https://open.spotify.com/track/5GXW0eHPR3sYsXO0BBwdpn) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:31 |
-| 91 | [Crashing Out](https://open.spotify.com/track/4qvh8jKHTzeHF9dhFsBDlC) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:42 |
+| 90 | [Crashing Out](https://open.spotify.com/track/4qvh8jKHTzeHF9dhFsBDlC) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Confessions](https://open.spotify.com/album/5y1oiAL4x6fLWbnk34J4nw) | 2:42 |
+| 91 | [Roll the Dice](https://open.spotify.com/track/5GXW0eHPR3sYsXO0BBwdpn) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:31 |
 | 92 | [Bite Me](https://open.spotify.com/track/1dZ4GpOuNm6WnYDFYfEE34) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/4DPlu74QgqqvsNoI9zAPz0) | 2:51 |
 | 93 | [In the Sun](https://open.spotify.com/track/5SOFf6LgRlUutxhLd6MPya) | [Aya Katrine](https://open.spotify.com/artist/7sd7vz56moXFkk1sHSXTVB) | [In the Sun](https://open.spotify.com/album/0ohigH2Wj1SjBv5aEeg04t) | 3:12 |
 | 94 | [Powder](https://open.spotify.com/track/6vMyhlFtDt4Ilj8Xy35x25) | [JEM](https://open.spotify.com/artist/7DYWZumhYpDQ5lPhdWkTab) | [Love Trigger](https://open.spotify.com/album/1g6edxL2UctiNHHZlX8D7o) | 3:54 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 102 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 | 103 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Edovann](https://open.spotify.com/artist/6UB4cj61Qyr2uI6j12AmbC), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 
-Snapshot ID: `AcC1EAAAAAAuVXlepuHIwLdmi2wn6yb3`
+Snapshot ID: `AcC6sAAAAAB3r4WIdgGlmqAkZOSB18CE`

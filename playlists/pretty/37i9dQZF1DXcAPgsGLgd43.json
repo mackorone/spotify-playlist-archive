@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 103483,
+  "num_followers": 103542,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Bamboleo",
-        "url": "https://open.spotify.com/album/22idVlsqG98oknXXTtd6Sy"
+        "name": "Mi Casa",
+        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
       },
       "artists": [
         {
-          "name": "Sllash & Doppe",
-          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Nandi",
+          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
         }
       ],
-      "duration_ms": 200322,
-      "name": "Bamboleo",
-      "url": "https://open.spotify.com/track/460XCntyhpuFVDyPfDGPXn"
+      "duration_ms": 167397,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Mi Casa",
-        "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
+        "name": "Bamboleo",
+        "url": "https://open.spotify.com/album/22idVlsqG98oknXXTtd6Sy"
       },
       "artists": [
         {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Nandi",
-          "url": "https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH"
+          "name": "Sllash & Doppe",
+          "url": "https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj"
         }
       ],
-      "duration_ms": 167397,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+      "duration_ms": 200322,
+      "name": "Bamboleo",
+      "url": "https://open.spotify.com/track/460XCntyhpuFVDyPfDGPXn"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
         "name": "Viagem Ao Centro Do Eu (Coragem)",
         "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
@@ -1491,26 +1511,6 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
         "name": "Siente la Conexi\u00f3n",
         "url": "https://open.spotify.com/album/1FidVVYkjZfocPwCtx0qAw"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 165000,
       "name": "Siente la Conexi\u00f3n",
       "url": "https://open.spotify.com/track/0iI2lSnf0OZALakei4eCfj"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1811,30 +1811,6 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Piquete Cabron",
-        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Pensi\u00f3n",
-          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
-        },
-        {
-          "name": "Bray",
-          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Piquete Cabron",
-      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1855,6 +1831,30 @@
       "duration_ms": 165123,
       "name": "Rulay",
       "url": "https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
+        "name": "Piquete Cabron",
+        "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "Bray",
+          "url": "https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Piquete Cabron",
+      "url": "https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Sin Pero",
-        "url": "https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo"
-      },
-      "artists": [
-        {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Sin Pero",
-      "url": "https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR"
-    },
-    {
-      "added_at": "2025-11-28 20:16:47",
-      "album": {
         "name": "Carretero",
         "url": "https://open.spotify.com/album/5uNJJWose8r2Mebm3BuYDa"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 156000,
       "name": "Carretero",
       "url": "https://open.spotify.com/track/7h84kkGWk5WMo31VBnQZpx"
+    },
+    {
+      "added_at": "2025-11-28 20:16:47",
+      "album": {
+        "name": "Sin Pero",
+        "url": "https://open.spotify.com/album/08fzl82SQEQttAUCUhw5lo"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Sin Pero",
+      "url": "https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR"
     },
     {
       "added_at": "2025-11-28 20:16:47",
@@ -2011,26 +2011,22 @@
     {
       "added_at": "2025-11-28 20:16:47",
       "album": {
-        "name": "Noventa (with J Balvin) [Tony Romera Remix]",
-        "url": "https://open.spotify.com/album/47H6oGgrbPUsUviwtTYeo5"
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
       },
       "artists": [
         {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Allan Piziano",
+          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Noventa (with J Balvin) - Tony Romera Remix",
-      "url": "https://open.spotify.com/track/3RLVNDwFp3dVcdMnmhM8Kh"
+      "duration_ms": 199838,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     }
   ],
   "unique_name": "Latin House",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > as gêmeas com uma enxurrada de refs e quem tem dó é cavaco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,142 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,385 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 29 | [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 |
 | 30 | [Mate Ou Morra](https://open.spotify.com/track/1uvmo7t9n8bUG4teYI4Wjy) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [otrashy](https://open.spotify.com/artist/7z0MVnhMYi2JMaFlmkIICD), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:17 |
 | 31 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 |
-| 32 | [PERIGOSA](https://open.spotify.com/track/5abNpk1wgO3jPl2NNYuDJD) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Léo Kobayashi](https://open.spotify.com/artist/7FkOAfTSJpyVxb7YSgxFqr), [Petroceli](https://open.spotify.com/artist/0wKVGvwlZH6lKsx8csqhmf), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [PERIGOSA](https://open.spotify.com/album/1eE1x9nWoDgOuXDYsjLryn) | 2:24 |
-| 33 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
+| 32 | [Indomável](https://open.spotify.com/track/6J0ZXuSkhRME2HrcgnhUWJ) | [CRIOLA](https://open.spotify.com/artist/7eMtPbhMxkdp5XXD0eNu74), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Indomável](https://open.spotify.com/album/1SPuLKrxQjNmIfGIpNzPiA) | 1:52 |
+| 33 | [PERIGOSA](https://open.spotify.com/track/5abNpk1wgO3jPl2NNYuDJD) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [Léo Kobayashi](https://open.spotify.com/artist/7FkOAfTSJpyVxb7YSgxFqr), [Petroceli](https://open.spotify.com/artist/0wKVGvwlZH6lKsx8csqhmf), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [PERIGOSA](https://open.spotify.com/album/1eE1x9nWoDgOuXDYsjLryn) | 2:24 |
 | 34 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 |
 | 35 | [MARATONA](https://open.spotify.com/track/4oxdf2bMjwRznsD9qR3OS2) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d) | [MARATONA](https://open.spotify.com/album/3A98RRNj00NIeRUntXpLjs) | 3:22 |
 | 36 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |

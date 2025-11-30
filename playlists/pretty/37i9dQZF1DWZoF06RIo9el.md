@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de noviembre 2025\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,486 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,592 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Las Cosas Simples](https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Las Cosas Simples](https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW) | 3:37 |
 | 50 | [Toda una vida](https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Toda una vida](https://open.spotify.com/album/5ZoDaSrxspL5PHHyqWu0Xd) | 2:51 |
 
-Snapshot ID: `AAAAAFTgLCk7Q2I88dosA4uKRQh/Dbp1`
+Snapshot ID: `AAAAAKE9W3wqsISRnokDJ1LKdCR1wasv`

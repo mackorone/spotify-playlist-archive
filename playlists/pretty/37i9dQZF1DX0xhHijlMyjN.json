@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 329939,
+  "num_followers": 329911,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -207,26 +207,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 314760,
-      "name": "Hot Stuff",
-      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Nightflight to Venus",
         "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 261266,
       "name": "Rivers of Babylon",
       "url": "https://open.spotify.com/track/78His8pbKjbDQF7aX5asgv"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 314760,
+      "name": "Hot Stuff",
+      "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Moulin Rouge",
         "url": "https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 264893,
       "name": "Lady Marmalade - From \"Moulin Rouge\" Soundtrack",
       "url": "https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 495400,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Xapomel\u00f6n",
-        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
-      },
-      "artists": [
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 145506,
-      "name": "Mari Carmen",
-      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Como te d\u00e9 la gana",
         "url": "https://open.spotify.com/album/5pZyF7BqhusMyrBd8eOjy8"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 300026,
       "name": "Las cosas peque\u00f1itas - Mix",
       "url": "https://open.spotify.com/track/6ILh8Kypi5rnlOV8LzvVtj"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Xapomel\u00f6n",
+        "url": "https://open.spotify.com/album/5YGUW9OJPCoT3bUySE50X7"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 145506,
+      "name": "Mari Carmen",
+      "url": "https://open.spotify.com/track/4KOIPoWgg56YkP12E1aFoQ"
     },
     {
       "added_at": "2025-07-02 10:54:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,586 likes - 20 songs - 1 hr 17 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,588 likes - 24 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,5 +28,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 18 | [I Remember](https://open.spotify.com/track/0MwHIsIwUC2ts29Ss9292d) | [Scott Seskind](https://open.spotify.com/artist/1BROnwSE0J8usGGxcTGUi3) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:56 |
 | 19 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 |
 | 20 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 |
+| 21 | [The Only Way Out is Through](https://open.spotify.com/track/51txmuSJgeOo1B8x71i3k9) | [Vilde Tuv](https://open.spotify.com/artist/29qqFSoXdHRDxmlvkKielH) | [Truthbomb](https://open.spotify.com/album/0oyo57QSPiO0zz19lvECQl) | 4:17 |
+| 22 | [Chère chambre](https://open.spotify.com/track/67QdtBFncrV2RVth3q9VRC) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [The Faust Tapes](https://open.spotify.com/album/1OAEmy7XGbuOaZ85UXQELd) | 3:09 |
+| 23 | [Lowdown](https://open.spotify.com/track/5Bz1PAWnF1n1xQDpvwLYg8) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Scary World Theory](https://open.spotify.com/album/08FP6j08db3ZHH5vADaoZ6) | 3:56 |
+| 24 | [Teardrop](https://open.spotify.com/track/0LXPoOxdUEeeT870fl7onI) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:03 |
 
-Snapshot ID: `AAANcXV/Uahp9HqQTDFiEOT9twCbBq/D`
+Snapshot ID: `AAANdeQPDyy2QL2KzEbBLs28IvCHLXDO`

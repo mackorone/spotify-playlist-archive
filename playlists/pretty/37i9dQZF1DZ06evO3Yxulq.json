@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAvY27KcHQsB9r0c945zxYo",
+  "snapshot_id": "aSjmAAAAAADjyU7Wg2+4rY2gr1dCJzqH",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emanuel",
         "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 303373,
       "name": "Loco Amor - Spanish Version",
       "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
-      },
-      "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 309263,
       "name": "Hasta Poder Ver",
       "url": "https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        }
-      ],
-      "duration_ms": 467012,
-      "name": "Para M\u00ed Es Solo Cristo",
-      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
     },
     {
       "added_at": null,
@@ -903,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
         }
       ],
-      "duration_ms": 242427,
-      "name": "Tu Poder (Creo en Ti)",
-      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
+      "duration_ms": 467012,
+      "name": "Para M\u00ed Es Solo Cristo",
+      "url": "https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm"
     },
     {
       "added_at": null,

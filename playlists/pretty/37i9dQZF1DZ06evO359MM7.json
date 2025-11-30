@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 441925,
+  "num_followers": 441956,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAA/mxHxuCVL1Iaim1OwtP19",
+  "snapshot_id": "aSjmAAAAAAA/LF10pKLbGX6bshJ1C7nx",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "For The Night (feat. Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -259,30 +283,6 @@
       "duration_ms": 203881,
       "name": "Close Friends (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "For The Night (feat. Lil Baby & DaBaby)",
-      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Insecurities",
+        "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 127154,
+      "name": "Insecurities",
+      "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All On Me (feat. G Herbo)",
         "url": "https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 219767,
       "name": "All On Me (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Insecurities",
-        "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 127154,
-      "name": "Insecurities",
-      "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otha Boy",
+        "url": "https://open.spotify.com/album/32BULMBQ77A8q262LK2FGh"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 123075,
+      "name": "Otha Boy",
+      "url": "https://open.spotify.com/track/1kZFUzGd3Umla5wtz4G3u6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Realer",
         "url": "https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ"
       },
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otha Boy",
-        "url": "https://open.spotify.com/album/32BULMBQ77A8q262LK2FGh"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 123075,
-      "name": "Otha Boy",
-      "url": "https://open.spotify.com/track/1kZFUzGd3Umla5wtz4G3u6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 164753,
       "name": "U Played (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 183011,
-      "name": "Woah",
-      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 200470,
       "name": "In A Minute",
       "url": "https://open.spotify.com/track/31lopd32BkJBTSgYE16c5e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 183011,
+      "name": "Woah",
+      "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"
     },
     {
       "added_at": null,

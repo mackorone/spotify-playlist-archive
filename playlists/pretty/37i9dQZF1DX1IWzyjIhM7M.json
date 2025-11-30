@@ -315,6 +315,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 218588,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 178477,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 218588,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "only u",
-        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "only u",
-      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "DECLAN RICE",
         "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "only u",
+        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "only u",
+      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -687,22 +687,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Blue Voyage",
-        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
       },
       "artists": [
         {
-          "name": "SERAPHINE NOIR",
-          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
-        },
-        {
-          "name": "REIA",
-          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
+          "name": "Nicholas Cangiano",
+          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Blue Voyage",
-      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
+      "duration_ms": 228600,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -723,18 +719,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Falling Behind",
-        "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
+        "name": "Blue Voyage",
+        "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
       },
       "artists": [
         {
-          "name": "Nicholas Cangiano",
-          "url": "https://open.spotify.com/artist/7dwVih1QdpLWuZ0OeslLcg"
+          "name": "SERAPHINE NOIR",
+          "url": "https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I"
+        },
+        {
+          "name": "REIA",
+          "url": "https://open.spotify.com/artist/5usIAzHxodIcGgsgnYT4E6"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Falling Behind",
-      "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
+      "duration_ms": 254080,
+      "name": "Blue Voyage",
+      "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "My Mistake",
-        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
-      },
-      "artists": [
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 195757,
-      "name": "My Mistake",
-      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "I Keep My Feet on the Fragile Plane",
-        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 125199,
-      "name": "Making Sense Of",
-      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Westside",
         "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
       },
@@ -1159,6 +1127,38 @@
       "duration_ms": 221692,
       "name": "Don Lemon",
       "url": "https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "My Mistake",
+        "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
+      },
+      "artists": [
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 195757,
+      "name": "My Mistake",
+      "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "I Keep My Feet on the Fragile Plane",
+        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 125199,
+      "name": "Making Sense Of",
+      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
-      },
-      "artists": [
-        {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "After The Day Party",
-      "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 194430,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "After The Day Party",
+      "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
     },
     {
       "added_at": "2024-01-10 16:06:35",

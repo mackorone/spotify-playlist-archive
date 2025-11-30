@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,440 songs - 10 day 2 hr 41 min
+4,441 songs - 10 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,6 +587,7 @@
 | [Can You Feel It](https://open.spotify.com/track/5eYszrCWMzxjCeRzGC1Zkr) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Can You Feel It](https://open.spotify.com/album/7GyjbDCXRoBe7wyPeayM0f) | 2:20 | 2024-12-13 | 2024-12-20 |
 | [Can You Really Feel Me?](https://open.spotify.com/track/7IhXwDAjO9FYK6u2d0NTQg) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Can You Really Feel Me?](https://open.spotify.com/album/5zT1B2l5pxf6750f2Ss1Bl) | 2:19 | 2025-06-27 | 2025-07-05 |
 | [Can You Taste It](https://open.spotify.com/track/1RlBur6HuX3dIkNQDY8RN6) | [Henry Himself](https://open.spotify.com/artist/0YZmiBsdXDNlyLfWVh7Fb7), [Snrs](https://open.spotify.com/artist/61mK2JbF5F6tqgZOJMWloW) | [Can You Taste It](https://open.spotify.com/album/6GPApC833ggZGyZGxlMcgU) | 3:05 | 2025-11-21 |  |
+| [Can't Forget \- Original Mix](https://open.spotify.com/track/5YhilvcnHSjoiNLgQbPXhQ) | [Ambient Pino](https://open.spotify.com/artist/3o1LBEtbjtReb8JdpzMx6d) | [Can't Forget \(Original Mix\)](https://open.spotify.com/album/0gEDka4zQQOYEqxOk4uHzU) | 7:53 | 2025-11-29 |  |
 | [Can't Forget You](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Can't Forget You](https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC) | 2:36 | 2024-06-20 | 2024-06-29 |
 | [Can't Get Enough](https://open.spotify.com/track/39VvNNaai6tUTzoP0rfMgf) | [Alex Kunnari](https://open.spotify.com/artist/5t8dw8yCWNAezW6wP3ZOGh) | [Can't Get Enough](https://open.spotify.com/album/2LBO88yRLpwtOzvsAVtZPC) | 2:59 | 2025-03-28 | 2025-04-11 |
 | [Can't Give It Up](https://open.spotify.com/track/6QBDpja7iqSbiWUW3Uw3Ty) | [Ronski Speed](https://open.spotify.com/artist/3cOY6XMFQ12Q0D6Xif7BZh), [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Sun Decade](https://open.spotify.com/artist/06cCBNrUON8RpmCwLbDhAJ), [Shannon Hurley](https://open.spotify.com/artist/1hkq81ZuuA5gcNOjVOB7Z5) | [Can’t Give it Up](https://open.spotify.com/album/1OFJ3XvcjUtRI4oRjlNhiQ) | 3:23 | 2025-01-10 | 2025-01-18 |

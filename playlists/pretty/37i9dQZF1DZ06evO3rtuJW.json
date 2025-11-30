@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35216,
+  "num_followers": 35219,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABkxz255g3syvj1xNWS/qnJ",
+  "snapshot_id": "aSjmAAAAAADwK6xZ9Wn45fvoCXB+ptEO",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shiesty Season - Spring Deluxe",
+        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "No More Heroes",
+          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
+      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My City (FAST X Soundtrack)",
         "url": "https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shiesty Season - Spring Deluxe",
-        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "No More Heroes",
-          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
-      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 198485,
+      "name": "This N That (Bonus)",
+      "url": "https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Untreated Trauma",
         "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 168000,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 198485,
-      "name": "This N That (Bonus)",
-      "url": "https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG"
     },
     {
       "added_at": null,
@@ -731,18 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+      "duration_ms": 221815,
+      "name": "Cry No More",
+      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
     },
     {
       "added_at": null,
@@ -767,26 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 221815,
-      "name": "Cry No More",
-      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     },
     {
       "added_at": null,

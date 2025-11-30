@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,064 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,067 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 44 | [Make You Feel My Love \(Live at Hotel Cafe\)](https://open.spotify.com/track/16nQF9mLw4qMKnz9cJ2cpn) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 3:52 |
 | 45 | [The Man Who Can't Be Moved \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 4:55 |
 
-Snapshot ID: `AAAAABWj+KLDGNPYTR+3om2+cKndT3yU`
+Snapshot ID: `AAAAAF3c7qtWe+HiFXZt1CZg561i0DLT`

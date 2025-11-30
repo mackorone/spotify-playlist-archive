@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,318 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,427 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 83 | [Queen of Kings \- Da Tweekaz x Tungevaag Remix](https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Queen of Kings \(Da Tweekaz x Tungevaag Remix\)](https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF) | 2:25 |
 | 84 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
 | 85 | [Eternal Rave](https://open.spotify.com/track/6qA8tFC2wRG2Tl4yR6ZLjP) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk) | [Eternal Rave](https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv) | 2:01 |
-| 86 | [2004](https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2004](https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us) | 3:08 |
-| 87 | [Jump Jump Jump](https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Jump Jump Jump](https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq) | 2:39 |
+| 86 | [Jump Jump Jump](https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Jump Jump Jump](https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq) | 2:39 |
+| 87 | [2004](https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2004](https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us) | 3:08 |
 | 88 | [My Body \(feat\. Y&M\)](https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Y&M](https://open.spotify.com/artist/4kBQMGA0POEYcQHxWMaf7Q) | [My Body \(feat\. Y&M\)](https://open.spotify.com/album/4BsjnI1ksUfBQbOZXXL0PL) | 2:40 |
 | 89 | [SexyBack \- TechnoBack](https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf) | 2:26 |
 | 90 | [In My Mind](https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [In My Mind](https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R) | 3:29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 136474,
+  "num_followers": 136490,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACW1VlLdEvKHPD6gA3NmyoE",
+  "snapshot_id": "aSjmAAAAAAB4m/JYfdeu0NTBsawZ8oHQ",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart Of A Woman",
-        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Heart Of A Woman",
-      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -167,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -176,13 +176,13 @@
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 198429,
-      "name": "Robbed You (with Mariah the Scientist)",
-      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
+      "duration_ms": 148277,
+      "name": "Baby (with Chris Brown)",
+      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
     },
     {
       "added_at": null,
@@ -250,15 +250,11 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 148277,
-      "name": "Baby (with Chris Brown)",
-      "url": "https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho"
+      "duration_ms": 146015,
+      "name": "No",
+      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
     },
     {
       "added_at": null,
@@ -326,11 +322,15 @@
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 146015,
-      "name": "No",
-      "url": "https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid"
+      "duration_ms": 198429,
+      "name": "Robbed You (with Mariah the Scientist)",
+      "url": "https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS"
     },
     {
       "added_at": null,

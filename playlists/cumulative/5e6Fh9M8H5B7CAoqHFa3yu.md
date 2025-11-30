@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,613 songs - 4 day 2 hr 10 min
+1,616 songs - 4 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Hey](https://open.spotify.com/track/3fe3cpJqzeaQeobzG8J0Z4) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Hey](https://open.spotify.com/album/7enCG3ExFQxSWdRMtomgYU) | 1:53 | 2025-08-01 |  |
 | [High Intensity Interval Training \(HIIT 30\-10\)](https://open.spotify.com/track/0rZr3nDG3xN8rGii45ZA3n) | [THE COACH](https://open.spotify.com/artist/1TXrJpe4fvCaVpg3f1nbjW) | [HIIT FRENETICO](https://open.spotify.com/album/6qoJhjAStNrszMp7sN0Q9N) | 1:20 | 2024-03-08 |  |
 | [HIGH UP \(OOO\)](https://open.spotify.com/track/76wWaIkzG5xATRPMerHaEm) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 3:19 | 2025-09-08 |  |
+| [Higher \- Extended Mix](https://open.spotify.com/track/6WluYdZW0k2SIou9PQpiyA) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [fabric presents Floorplan \(Mixed\)](https://open.spotify.com/album/4IJvxq326rM5jBpivm59QX) | 4:25 | 2025-11-30 |  |
 | [Higher Ground](https://open.spotify.com/track/3qMpy6Kxo8ni4Xchfryo2L) | [Inner Echo](https://open.spotify.com/artist/7f3rlBBsePfkAZsGnIGgr8), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a) | [Higher Ground](https://open.spotify.com/album/0m5f3Wi6qKuatxOXAspLZ7) | 3:48 | 2025-08-30 |  |
 | [Higher Ground \- High Nebra Remix](https://open.spotify.com/track/4jNn5Ts947u0PTEnC8f4jC) | [Inner Echo](https://open.spotify.com/artist/7f3rlBBsePfkAZsGnIGgr8), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a), [High Nebra](https://open.spotify.com/artist/04zRLJwJg2gqpkKAdBArF8) | [Higher Ground](https://open.spotify.com/album/0m5f3Wi6qKuatxOXAspLZ7) | 3:58 | 2025-08-30 |  |
 | [Higher Ground \- Version](https://open.spotify.com/track/3sfWEyyFcTcHQd3KpwqveH) | [Inner Echo](https://open.spotify.com/artist/7f3rlBBsePfkAZsGnIGgr8), [Wends](https://open.spotify.com/artist/32VlnqGtNSLCYgYhAGl99a) | [Higher Ground](https://open.spotify.com/album/0m5f3Wi6qKuatxOXAspLZ7) | 4:29 | 2025-08-30 |  |
@@ -1207,6 +1208,7 @@
 | [Run & Jump](https://open.spotify.com/track/4ZFA6kB1yOC1q5Gj3YoAD5) | [Armin F.](https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm) | [Run & Jump](https://open.spotify.com/album/5TZ2COA1Fd1o4wpcJ1E5zn) | 3:34 | 2025-07-24 |  |
 | [Run Away Mountain Woman](https://open.spotify.com/track/0XbrSi909O8mPsiy92JpsQ) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 4:24 | 2025-09-24 |  |
 | [Running Dub](https://open.spotify.com/track/4KeTJEv3u5yuGpmcT8CV03) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:03 | 2024-03-25 |  |
+| [RWD](https://open.spotify.com/track/1qQGJVggMqG58YYsiGkxth) | [Kier](https://open.spotify.com/artist/0tcPqqUBSuCA9VENxwwyEl), [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [GAMMA](https://open.spotify.com/album/2UdAQuQVSJvv8LX5IRb4A2) | 2:17 | 2025-11-29 |  |
 | [sadness](https://open.spotify.com/track/43idZSK7YRlDUJ2smWs9Fv) | [Aleks Tunka](https://open.spotify.com/artist/5xd5y2Fsnw0WI2JLzvw9qr) | [sadness](https://open.spotify.com/album/5K367QZd5VSJkbAX048G3B) | 2:04 | 2025-10-03 |  |
 | [Salvation \- Discomix](https://open.spotify.com/track/3FyWacxQuhElUbHEeJJL85) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 5:34 | 2024-05-01 |  |
 | [Samajhne Doo](https://open.spotify.com/track/5i2vJJB1aFvWJ9Jo0QL1j1) | [ARYAN BHATNAGAR](https://open.spotify.com/artist/4953U4ZTklTgBuY2Lh9e7Q) | [Samajhne Doo](https://open.spotify.com/album/4Anowd1l0Rm9i5VWw9uTKK) | 2:30 | 2025-08-06 |  |
@@ -1441,6 +1443,7 @@
 | [Tomorrow](https://open.spotify.com/track/7fITm5BPEBFThb59785P5n) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:19 | 2025-05-22 |  |
 | [Tomorrow Belongs to the Dreamers](https://open.spotify.com/track/30O7modvTlt6e4bOvRZySE) | [Nik & Kat](https://open.spotify.com/artist/5RIdtHfccAeXNQJ42OtvYR) | [Tomorrow Belongs to the Dreamers](https://open.spotify.com/album/3ZEdJjMF9XVswuKhStTwRk) | 3:45 | 2025-05-06 |  |
 | [Too DRUNK at The Kickback](https://open.spotify.com/track/0CYCw3lz3URZTO0Q1RVEIw) | [Chris Mohead](https://open.spotify.com/artist/2x99P9SkKleI2muhh0VYFt), [Kwame](https://open.spotify.com/artist/6KEArOax7RqRZ5DMZavUVJ) | [The Kickback](https://open.spotify.com/album/4NUAtn8dhZODnlkdXKOA6y) | 2:36 | 2025-10-16 |  |
+| [Too Early At The Party](https://open.spotify.com/track/1fQuEEuJIfMfucOy1x7mME) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 3:45 | 2025-11-29 |  |
 | [Too Early At The Party \- Radio Edit](https://open.spotify.com/track/1rtzWl3byRofiN36Ofb6pf) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Too Early At The Party](https://open.spotify.com/album/5t7sVL0d17ika61TsKmah2) | 3:12 | 2025-06-24 |  |
 | [Took It Away](https://open.spotify.com/track/3Lao722sbXAOJWqa4RvApm) | [Francisco](https://open.spotify.com/artist/5KZGIm5858oZlUWlcCudw4) | [Opening Act](https://open.spotify.com/album/4Ex2HFQFx9JME2J8TyzRhN) | 3:38 | 2025-09-11 |  |
 | [Top 5](https://open.spotify.com/track/0OyiJVKXf6OrEN7bJNog8x) | [C.O.M Young Rico](https://open.spotify.com/artist/22Cj3ARtVVG9vSVRZCI8JF), [Keshia Kash](https://open.spotify.com/artist/2i7rcogwiihA8geNpSa5gb) | [Top 5](https://open.spotify.com/album/0RLeij35VtSeWpgajbcIyS) | 3:03 | 2025-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,128 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,164 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 13 | [Planet Caravan \- 2009 Remaster](https://open.spotify.com/track/4zgHtuasZkiZu1caZwxF5P) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:29 |
 | 14 | [Black Sabbath \- 2009 Remaster](https://open.spotify.com/track/6KmJMlyPp0rPR7LloToCaF) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 6:20 |
 | 15 | [Into the Void \- 2009 Remaster](https://open.spotify.com/track/09EQqFGUTJW6X4NksMPM0O) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 6:11 |
-| 16 | [Sabbra Cadabra \(2009 Remaster\)](https://open.spotify.com/track/1qdXodVqWyuzRKMDzAz1Xe) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:55 |
+| 16 | [Children of the Sea](https://open.spotify.com/track/7MDBR4dEvtOGNyOBKNmP8n) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 5:35 |
 | 17 | [Fairies Wear Boots \- 2009 Remaster](https://open.spotify.com/track/0p9dEwFFw14hWTvS9v5NLU) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 6:13 |
-| 18 | [Children of the Sea](https://open.spotify.com/track/7MDBR4dEvtOGNyOBKNmP8n) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Heaven & Hell](https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T) | 5:35 |
+| 18 | [Sabbra Cadabra \(2009 Remaster\)](https://open.spotify.com/track/1qdXodVqWyuzRKMDzAz1Xe) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabbath Bloody Sabbath](https://open.spotify.com/album/6tjx1ACkf4cYyFuhkyqz2A) | 5:55 |
 | 19 | [Orchid \- 2009 Remaster](https://open.spotify.com/track/42HN6p1xRxAn439UH1MJ6G) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality](https://open.spotify.com/album/24fNwoIq4NLDf4ARJYAFN9) | 1:31 |
 | 20 | [Evil Woman, Don't Play Your Games with Me \- 2009 Remaster](https://open.spotify.com/track/046x8yuXjJFPaaQI6Iyz9e) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath](https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ) | 3:20 |
 | 21 | [Electric Funeral \- 2009 Remaster](https://open.spotify.com/track/37gJgdjcyAIeeAeWzEIawU) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Don't Start \(Too Late\) \- 2009 Remaster](https://open.spotify.com/track/1Vb3gPjEpJ6eOPL7Mjs4Ka) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Sabotage](https://open.spotify.com/album/3VSOzRDe4dNrjcCYEeLz9b) | 0:49 |
 | 50 | [Falling Off the Edge of the World](https://open.spotify.com/track/0DM1udZOnmevrATzQRg6ss) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 5:03 |
 
-Snapshot ID: `aSeUgAAAAAAPojfucN7bJVD1BiZQDjzQ`
+Snapshot ID: `aSjmAAAAAAD9XfJTDIyjwDOEtci2xbna`

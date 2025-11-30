@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,535 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,546 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Is You Ready \- From "Mile 22"](https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Is You Ready \(From "Mile 22"\)](https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP) | 3:04 |
 | 50 | [Menace 2 \(Migos, Lil Yachty\)](https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:24 |
 
-Snapshot ID: `aSeUgAAAAADYYiQTCEpSstIGq7JOHtf8`
+Snapshot ID: `aSjmAAAAAAD6D3YK2gFhJE/RlZwnBtc6`

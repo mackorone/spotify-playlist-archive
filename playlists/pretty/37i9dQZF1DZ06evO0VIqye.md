@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 
 > This is Joan Jett & the Blackhearts\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,698 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,696 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 33 | [Roadrunner](https://open.spotify.com/track/14422jQTovCSyqhd1Q7StC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 3:33 |
 | 34 | [I Want You](https://open.spotify.com/track/1AKXEXuWv0g6XQSghcJtNO) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [First Sessions](https://open.spotify.com/album/72grmzVPqrB4FnWtmGNqS9) | 2:41 |
 | 35 | [I Hate Myself For Loving You](https://open.spotify.com/track/21LzZgjzDDOLPFJAPzC6Qb) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:07 |
-| 36 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
-| 37 | [Good Music](https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 5:45 |
-| 38 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 |
+| 36 | [You Don't Know What You've Got](https://open.spotify.com/track/3zGNujVVkUT07mGLgoT5an) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:43 |
+| 37 | [Science Fiction/Double Feature](https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Dr\. Demento Covered In Punk](https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3) | 3:54 |
+| 38 | [Good Music](https://open.spotify.com/track/1uizH33y71PDnU3vjTwWjL) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 5:45 |
 | 39 | [If You're Blue](https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Mindsets](https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO) | 3:15 |
-| 40 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
-| 41 | [Fun, Fun, Fun](https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 2:19 |
-| 42 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 |
+| 40 | [Wooly Bully](https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 2:20 |
+| 41 | [Let's Do It \- O.S.T.](https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Tank Girl Soundtrack](https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7) | 2:23 |
+| 42 | [Fun, Fun, Fun](https://open.spotify.com/track/2UVOE5RJFc3Pd9dMA9U6kv) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Good Music](https://open.spotify.com/album/0fWUawe7KzToS4ayZmofOE) | 2:19 |
 | 43 | [New Orleans](https://open.spotify.com/track/51ReZrIWONjt5fKxVcmjEi) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Glorious Results of a Misspent Youth \(Expanded Edition\)](https://open.spotify.com/album/75T1W71zi6uGCXQPwodRQd) | 2:53 |
 | 44 | [Ridin' With James Dean](https://open.spotify.com/track/5C9C1h2gF9bpVLUXAqWG7W) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:17 |
 | 45 | [Rebel, Rebel](https://open.spotify.com/track/7M73Fj5VKCn37at0myvTCn) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Music from the Original Motion Picture\)](https://open.spotify.com/album/46KKwNIi7LBEh5Nr5unCja) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VIqye.md) - [plain]
 | 49 | [Different](https://open.spotify.com/track/7z9pbrqVIennjBW8BfqYY2) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Unvarnished \(Expanded Edition\)](https://open.spotify.com/album/5zYm8Y47mCuyRHYsLk22sL) | 3:36 |
 | 50 | [Backlash](https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Greatest Hits](https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl) | 3:28 |
 
-Snapshot ID: `aSeUgAAAAACwmP/EojFtbXEdPx3H02Qg`
+Snapshot ID: `aSjmAAAAAACxjPi9eOvF40DK/EV/Bwr7`

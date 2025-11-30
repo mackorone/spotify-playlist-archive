@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,824 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,824 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 46 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
 | 47 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
 | 48 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 |
-| 49 | [Bad Bones](https://open.spotify.com/track/6hNaDPBmCwcANj9ZYwnSrl) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Bad Bones](https://open.spotify.com/album/2Mp0vOi797F1mAgaXdLcDy) | 3:23 |
+| 49 | [Influencer](https://open.spotify.com/track/7eW7cQ08YgsiizLnJ8wBF7) | [Shambolics](https://open.spotify.com/artist/5Zxk4WkmkKRjPyjmmCRAUR) | [Dreams, Schemes & Young Teams](https://open.spotify.com/album/179NnZHYVnYsM3R3XMmLsa) | 2:18 |
 | 50 | [If I Didn't Laugh](https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [If I Didn't Laugh](https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG) | 2:46 |
 
 Snapshot ID: `AAAAACoBRGzFC85sFikVKf363X04Dw3g`

@@ -4,7 +4,7 @@
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-182 songs - 18 hr 57 min
+183 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,8 +142,9 @@
 | [Rescue](https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 5:16 | 2023-03-17 | 2024-07-27 |
 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 | 2024-07-27 |  |
 | [Rest \(Interlude\)](https://open.spotify.com/track/1IYcZ692RWOq5Qb4BPuqAR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/0CLCgSt8wDFmoDpLLN09X2) | 1:29 | 2023-03-17 | 2023-05-06 |
+| [Send Me \(Live\)](https://open.spotify.com/track/5f9NBSHUJ85cpV1tfDDJM9) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 6:29 | 2025-11-30 |  |
 | [Show Me Your Face \(Spontaneous\) \[Live\]](https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 7:31 | 2024-03-31 | 2024-09-13 |
-| [Son Of Suffering \(Live\)](https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:59 | 2024-07-27 |  |
+| [Son Of Suffering \(Live\)](https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 7:59 | 2024-07-27 | 2025-11-30 |
 | [Son Of Suffering \- Live](https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:59 | 2023-04-09 | 2024-07-25 |
 | [Stand In Awe \(Spontaneous\) \[Live\]](https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 10:00 | 2024-03-26 | 2024-08-17 |
 | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj) | 3:41 | 2024-08-01 |  |

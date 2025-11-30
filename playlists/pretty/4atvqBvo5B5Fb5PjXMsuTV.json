@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 29 Nov 04:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Nov 23:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWcY+kKIKonk0x5Yw3bjsJq3ml5tYh",
+  "snapshot_id": "AAAWdR2BZmIgnCHJwKcbvFhNbJAoc6Mh",
   "tracks": [
+    {
+      "added_at": "2025-11-29 23:04:35",
+      "album": {
+        "name": "britney in 07",
+        "url": "https://open.spotify.com/album/5niKmHGHPcCIEMT6KDgK7W"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 185390,
+      "name": "britney in 07",
+      "url": "https://open.spotify.com/track/2asUFgWt0LtyxWf32JvMpD"
+    },
+    {
+      "added_at": "2025-11-29 14:04:06",
+      "album": {
+        "name": "Sad Generation",
+        "url": "https://open.spotify.com/album/2uRvaixaz6XJp0f3c2ZTEh"
+      },
+      "artists": [
+        {
+          "name": "Palaye Royale",
+          "url": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+        }
+      ],
+      "duration_ms": 152103,
+      "name": "Sad Generation",
+      "url": "https://open.spotify.com/track/7wR0zykN2dzYviTGcvV8BH"
+    },
     {
       "added_at": "2025-11-29 04:04:03",
       "album": {
@@ -43,6 +75,22 @@
       "duration_ms": 151632,
       "name": "YCDL",
       "url": "https://open.spotify.com/track/6aV4ryo9wMfgbWkfItsWZr"
+    },
+    {
+      "added_at": "2025-11-29 23:04:35",
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ"
+      },
+      "artists": [
+        {
+          "name": "JUNGWOO",
+          "url": "https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5"
     },
     {
       "added_at": "2025-11-28 09:04:16",
@@ -795,54 +843,6 @@
       "duration_ms": 283903,
       "name": "nohj.scus.na",
       "url": "https://open.spotify.com/track/62xNoIIs2J56rPLSFUHrWd"
-    },
-    {
-      "added_at": "2025-11-19 14:04:06",
-      "album": {
-        "name": "TEEN DREAM NIGIRI",
-        "url": "https://open.spotify.com/album/1NvXPAu1qgOddpZAfhQIUb"
-      },
-      "artists": [
-        {
-          "name": "bleood",
-          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
-        }
-      ],
-      "duration_ms": 130978,
-      "name": "TEEN DREAM NIGIRI",
-      "url": "https://open.spotify.com/track/2FzUDkkd7Tkkguw9vJBEic"
-    },
-    {
-      "added_at": "2025-11-23 04:03:53",
-      "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6qNRepMSmbxpQzW5d939Px"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/6o0jCyjCfxaFZOSSg9SHir"
-    },
-    {
-      "added_at": "2025-11-18 23:04:20",
-      "album": {
-        "name": "Searchlight",
-        "url": "https://open.spotify.com/album/4O3TIz80IlOC5Ya0PbfUlJ"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 215268,
-      "name": "Searchlight",
-      "url": "https://open.spotify.com/track/20fm2tV8FUuonX96Db1bGo"
     }
   ],
   "unique_name": "New Singles Now",

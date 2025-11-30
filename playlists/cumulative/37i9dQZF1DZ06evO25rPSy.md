@@ -4,7 +4,7 @@
 
 > This is Pedro Suárez\-Vértiz\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 10 min
+62 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Talk Show](https://open.spotify.com/track/20BHTy2hj3hw9130jIKvfH) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 5:54 | 2023-08-25 | 2025-11-28 |
 | [Talk Show](https://open.spotify.com/track/44eOyzLMYOFF7v3Uv9Hcc9) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/1pgtGXKPWB8gXENJQKkqBo) | 5:54 | 2025-11-28 |  |
 | [Te Siento de Sólo Pensar](https://open.spotify.com/track/2w1rwzelNTt9VKdh9tHGO5) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Póntelo en la Lengua](https://open.spotify.com/album/0MJmowf2LOm4U6TJmXHnW1) | 3:22 | 2023-08-25 |  |
-| [Tema del Adiós](https://open.spotify.com/track/26pzODqyLzJWS0VjMzufRE) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:11 | 2023-08-25 |  |
+| [Tema del Adiós](https://open.spotify.com/track/26pzODqyLzJWS0VjMzufRE) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:11 | 2023-08-25 | 2025-11-30 |
+| [Tema del Adiós](https://open.spotify.com/track/7Go67MY2x1fR8uf85gNazj) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/4ddmGtrSeN8sbx9sI56rFy) | 4:11 | 2025-11-30 |  |
 | [Tren Sexual](https://open.spotify.com/track/0SsAFYwrfjtX6Mn1bGTcDh) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Degeneracion Actual](https://open.spotify.com/album/6uvZ1iuFftQCFX3xuzbGJx) | 4:08 | 2023-08-25 |  |
 | [Túnel del Tiempo](https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 4:16 | 2023-08-25 | 2025-11-25 |
 | [Túnel del Tiempo](https://open.spotify.com/track/1znPffZgcfKikzMwcAPYWD) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 4:16 | 2025-11-26 |  |

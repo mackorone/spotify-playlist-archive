@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 88562,
+  "num_followers": 88583,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAD2CrjBaLkDfil9UfmEhwzY",
+  "snapshot_id": "aSjmAAAAAAAGzo4ch2ZxskWYrtF2kvSL",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Detector De Metal",
+        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Muriendo Lento (feat. Belinda)",
+      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentiras: La Serie (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
+      },
+      "artists": [
+        {
+          "name": "Mentiras: La Serie",
+          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        }
+      ],
+      "duration_ms": 147804,
+      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
+      "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resistir\u00e9",
         "url": "https://open.spotify.com/album/5xl9aTPziZye5Jy5fGsyPh"
       },
@@ -299,50 +343,6 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentiras: La Serie (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
-      },
-      "artists": [
-        {
-          "name": "Mentiras: La Serie",
-          "url": "https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        }
-      ],
-      "duration_ms": 147804,
-      "name": "El Me Minti\u00f3, Mentiras, Mentiras",
-      "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Detector De Metal",
-        "url": "https://open.spotify.com/album/3CZjT6RXkAJmmPZipcDg1N"
-      },
-      "artists": [
-        {
-          "name": "Moderatto",
-          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Muriendo Lento (feat. Belinda)",
-      "url": "https://open.spotify.com/track/2QFjBBDcrnEIqQcKSwZdv0"
     },
     {
       "added_at": null,
@@ -663,6 +663,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 208533,
+      "name": "Lo Siento (I'm Sorry)",
+      "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "M\u00edrame Feliz",
+      "url": "https://open.spotify.com/track/0Yw0ldA2xaqI5lNjP9TnK2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ay Haiti!",
         "url": "https://open.spotify.com/album/1Lf1a9gQPIuDOZqrbhzoGk"
       },
@@ -755,42 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "M\u00edrame Feliz",
-      "url": "https://open.spotify.com/track/0Yw0ldA2xaqI5lNjP9TnK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 208533,
-      "name": "Lo Siento (I'm Sorry)",
-      "url": "https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -815,26 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frijolero",
-        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
+        "name": "Utopia 2",
+        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
       "artists": [
         {
-          "name": "Somos Frijoleros",
-          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
-        },
-        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 213947,
-      "name": "Frijolero",
-      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
+      "duration_ms": 204666,
+      "name": "Ni Freud Ni Tu Mama",
+      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
     },
     {
       "added_at": null,
@@ -855,18 +847,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Utopia 2",
-        "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
+        "name": "Frijolero",
+        "url": "https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF"
       },
       "artists": [
         {
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+        },
+        {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 204666,
-      "name": "Ni Freud Ni Tu Mama",
-      "url": "https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf"
+      "duration_ms": 213947,
+      "name": "Frijolero",
+      "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
     },
     {
       "added_at": null,

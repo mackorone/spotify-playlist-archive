@@ -1,6 +1,6 @@
 {
   "description": "The best side! Cover: The Game",
-  "num_followers": 1000106,
+  "num_followers": 1000235,
   "original_name": "West Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-01-31 21:02:50",
       "album": {
-        "name": "Safe + Sound",
-        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
-      },
-      "artists": [
-        {
-          "name": "DJ Quik",
-          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
-        }
-      ],
-      "duration_ms": 352906,
-      "name": "Dollaz + Sense",
-      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
-    },
-    {
-      "added_at": "2025-01-31 21:02:50",
-      "album": {
         "name": "Music To Driveby",
         "url": "https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 219266,
       "name": "Hood Took Me Under",
       "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
+    },
+    {
+      "added_at": "2025-01-31 21:02:50",
+      "album": {
+        "name": "Safe + Sound",
+        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 352906,
+      "name": "Dollaz + Sense",
+      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
     },
     {
       "added_at": "2025-01-31 21:02:50",

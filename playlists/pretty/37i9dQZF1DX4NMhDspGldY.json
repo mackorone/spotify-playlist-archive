@@ -1,6 +1,6 @@
 {
   "description": "Leeds! Leeds! Leeds! Cover: VENUS GRRRLS",
-  "num_followers": 1175,
+  "num_followers": 1176,
   "original_name": "We Are Leeds",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-11-22 12:17:41",
       "album": {
+        "name": "Closer / Strangers",
+        "url": "https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 222682,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7"
+    },
+    {
+      "added_at": "2024-11-22 12:17:41",
+      "album": {
         "name": "It's all gd, dw",
         "url": "https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 139090,
       "name": "Tagliatelle",
       "url": "https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn"
-    },
-    {
-      "added_at": "2024-11-22 12:17:41",
-      "album": {
-        "name": "Closer / Strangers",
-        "url": "https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 222682,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7"
     },
     {
       "added_at": "2024-11-22 12:17:41",

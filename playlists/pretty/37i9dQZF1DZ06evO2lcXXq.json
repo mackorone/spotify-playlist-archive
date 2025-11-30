@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367564,
+  "num_followers": 367567,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACIB/lSkY1Dg68faIxq10JZ",
+  "snapshot_id": "aSjmAAAAAAA91IAcOF2xj/00wpVS37rk",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desperate",
         "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 210785,
       "name": "Desperate (with Lauren Daigle)",
       "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light of the World",
-        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Light of the World",
-      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
-        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
       },
       "artists": [
         {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 217693,
-      "name": "HARD LOVE (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
+      "duration_ms": 179853,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
     },
     {
       "added_at": null,
@@ -715,22 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Back Home",
-        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
+        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
+        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
       },
       "artists": [
         {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 179853,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+      "duration_ms": 217693,
+      "name": "HARD LOVE (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
     }
   ],
   "unique_name": "This Is Lauren Daigle",

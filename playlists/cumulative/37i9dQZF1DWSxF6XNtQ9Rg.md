@@ -2,14 +2,14 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Lazza
+> Solo hit rap da ascoltare in loop\. Cover: Salmo
 
 264 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-11-28 |  |
-| [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 | 2022-08-10 |  |
+| [10 RAGAZZE \(con ERNIA\)](https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:54 | 2022-08-10 | 2025-11-30 |
 | [100 MESSAGGI](https://open.spotify.com/track/2l4NKSQbBA3sV0nxpNjSkj) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/1QqHc2RPq59exIRKRolI1O) | 4:04 | 2025-07-02 |  |
 | [1984](https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Hellvisback](https://open.spotify.com/album/6o2ipzLDelm6yXU0v4ZOIK) | 4:09 | 2024-11-28 |  |
 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 | 2022-04-28 |  |
@@ -158,7 +158,7 @@
 | [Marymango \(feat\. thasup\)](https://open.spotify.com/track/1SaZa61ZCrlin08VOzj5Ma) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:24 | 2022-06-13 | 2022-06-15 |
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2023-01-17 |  |
 | [Miami Vice \(feat\. Sfera Ebbasta, Simba La Rue\)](https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:05 | 2025-11-20 |  |
-| [Milano Bachata](https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 2:47 | 2022-04-28 | 2025-11-21 |
+| [Milano Bachata](https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 2:47 | 2022-04-28 |  |
 | [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2025-07-02 |  |
 | [Minchia Boh!](https://open.spotify.com/track/01tlLbZ6izg3BVoA8SykPi) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Noi Siamo Il Club \(Reloaded Edition\)](https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8) | 3:29 | 2024-01-10 | 2024-01-12 |
 | [MIU MIU](https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c) | 2:27 | 2024-11-04 | 2025-01-22 |

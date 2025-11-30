@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 
 > A great night for cold beer and country music \- congratulations to all of the winners! Cover: Zach Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,770 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,042 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZfTXESa5KP.md) - [plain]
 | 45 | [Took A Walk \- from "The Long Walk"](https://open.spotify.com/track/6nKaT12DSliz1PcbVT1Rb4) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Took A Walk \(from "The Long Walk"\)](https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe) | 4:00 |
 | 46 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Stop Draggin' My Heart Around](https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34) | 4:18 |
 
-Snapshot ID: `AAAAAG54ukNgvxABPyNEOl892vipLJSC`
+Snapshot ID: `AAAAAM/N0jAaYBHHJoq5dblHoP71t5PS`

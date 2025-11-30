@@ -4,7 +4,7 @@
 
 > 
 
-1,230 songs - 2 day 15 hr 33 min
+1,232 songs - 2 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Cant Be Fr](https://open.spotify.com/track/0DKh7FWs9Pb3gRUnREVUKy) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Cant Be Fr](https://open.spotify.com/album/0gtTrk5kZZgmzEKiHUgGky) | 2:03 | 2022-12-01 | 2023-04-12 |
 | [Cant Get Caught](https://open.spotify.com/track/7JNB2il7cGawl3ELyMGeZG) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Cant Get Caught](https://open.spotify.com/album/6v0yzOHHpxWtBQTm6bTBOU) | 2:01 | 2023-01-11 | 2023-12-14 |
 | [Can’t stop it](https://open.spotify.com/track/1HqKqHh5iKQzz9LhQDlbgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:12 | 2022-09-10 | 2023-05-09 |
+| [Capillary](https://open.spotify.com/track/4XOXyktJSSyepObphQj8Ke) | [Human Bloom](https://open.spotify.com/artist/2bPgXWPfsRSVwpc0SAdgpu) | [Capillary](https://open.spotify.com/album/45WeVaKTDU6Bs9bTr6WcSr) | 3:30 | 2025-11-29 |  |
 | [Car Thief](https://open.spotify.com/track/6z6ug1DvIzTdel6vW8rHVu) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 3:39 | 2025-10-19 |  |
 | [Cartier Gucci Scarf \(feat\. Lil Duke\)](https://open.spotify.com/track/3TWSar7EBNWZVeEWqDSjpw) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:18 | 2023-08-21 | 2025-05-21 |
 | [Casting Spells](https://open.spotify.com/track/36zNdBSO3g5UotlC92uBV3) | [Danger Incorporated](https://open.spotify.com/artist/6bnlvICBjK7fuNSB1ohqS5) | [Danger Reality](https://open.spotify.com/album/0hTIM39qqjzTzG3sNDDcXM) | 2:19 | 2022-09-19 | 2023-04-12 |
@@ -816,6 +817,7 @@
 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 | 2023-10-03 | 2024-04-24 |
 | [Party Girlz](https://open.spotify.com/track/6LQvGtDpDMTnn3zWOBQzOx) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [2014](https://open.spotify.com/album/2tf3aF0klfrWgl9x60waZ6) | 2:12 | 2023-01-20 | 2023-04-12 |
 | [Pass It Pass It](https://open.spotify.com/track/7iitOVmSpBt9QDqnLM1oLf) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [R&G \(Rhythm & Gangsta\): The Masterpiece \[Explicit Version\]](https://open.spotify.com/album/34GxD8gBcVX4CkJRJP73Ph) | 4:32 | 2025-08-21 |  |
+| [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2025-11-29 |  |
 | [Patience \(feat\. Don Toliver\)](https://open.spotify.com/track/05grSYrVwYw58YMOdJceyz) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:22 | 2023-07-12 | 2023-12-14 |
 | [PC5](https://open.spotify.com/track/6i8v5yhol3QkMSnUJJvL8b) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:18 | 2025-08-06 |  |
 | [Peaceful Life](https://open.spotify.com/track/1oqcT3rKnuyGf7gcQU8IXx) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 4:06 | 2025-04-30 | 2025-05-21 |

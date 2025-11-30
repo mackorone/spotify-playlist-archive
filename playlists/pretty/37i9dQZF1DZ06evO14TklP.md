@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,226 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,241 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 12 | [8KG](https://open.spotify.com/track/4udduhNmtWkbdh5xP0hRJl) | [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [8KG](https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c) | 2:12 |
 | 13 | [Vale Do Silício](https://open.spotify.com/track/0RIbrYxa06ta7MAlYCIGrI) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 3:37 |
 | 14 | [Terapia](https://open.spotify.com/track/4Zf8s6LPf3H83hCjkAHgzY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 1:58 |
-| 15 | [SXO \- Irmãs de Pau Remix](https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [NTGMX](https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ) | 2:55 |
-| 16 | [Festa do Pijama](https://open.spotify.com/track/2FLPGzvxxcaQqaAxlbGGFh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:19 |
+| 15 | [Festa do Pijama](https://open.spotify.com/track/2FLPGzvxxcaQqaAxlbGGFh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:19 |
+| 16 | [SXO \- Irmãs de Pau Remix](https://open.spotify.com/track/4vr8YAo8u75p01nfqRdgJt) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [NTGMX](https://open.spotify.com/album/1PX0GHNvrbAHtOyfBSilVQ) | 2:55 |
 | 17 | [Não Lembro Da Minha Infância](https://open.spotify.com/track/7CuNThg1DPo5mde6vhUIKh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 1:52 |
 | 18 | [Hentai](https://open.spotify.com/track/6hgtuciqHAArNVTXuglAnh) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Terapia](https://open.spotify.com/album/1zg1GYwOxjqhzShls4wyv7) | 2:22 |
 | 19 | [Maserati](https://open.spotify.com/track/43cQmlREc5Fvt1f2Lo5RLz) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FÚRIA](https://open.spotify.com/album/3J5ykRCZav5xEqcZTkh7Sm) | 2:48 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 47 | [After](https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:12 |
 | 48 | [Lipstick](https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:30 |
 
-Snapshot ID: `aSeUgAAAAABeNOCyTy1k0Jv3Yd1KsNyF`
+Snapshot ID: `aSjmAAAAAAClRnKRKB1JPpFQWWWtKzef`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Dlala Thukzin, Babalwa M, Central Cee, KMAT and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,018 likes - 94 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,178 likes - 94 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 72 | [Mission](https://open.spotify.com/track/2o0sf6R8RzuII9RLo5VhY4) | [Keemlyf](https://open.spotify.com/artist/2K9EGm92249eyb0C4USm8U), [Mr.Tee](https://open.spotify.com/artist/5O6GdCB84gXDRSAe9pUXSw) | [Mission](https://open.spotify.com/album/2dezePyJs9bev7iqSfRWHd) | 2:33 |
 | 73 | [Shameless Devil](https://open.spotify.com/track/4ywXjNUMAqNTPhBbr4XC1B) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/51Ges1TwmyOb5ZTThiIjlA) | 3:00 |
 | 74 | [cliché \- Jonas Brothers remix](https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [cliché \(Jonas Brothers remix\)](https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn) | 2:56 |
-| 75 | [Vuli Ndlela](https://open.spotify.com/track/2hDZFRNnaBghc4JHPwMAUI) | [miro](https://open.spotify.com/artist/29ChB09D3CaAHHzZk9025r), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Vuli Ndlela](https://open.spotify.com/album/0SuzGskXBwl9BrHd9WUMFb) | 3:23 |
+| 75 | [Vuli Ndlela](https://open.spotify.com/track/2hDZFRNnaBghc4JHPwMAUI) | [MIRO](https://open.spotify.com/artist/5g1ur5g9ACTQ0BGZKioztO), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Vuli Ndlela](https://open.spotify.com/album/0SuzGskXBwl9BrHd9WUMFb) | 3:23 |
 | 76 | [It's Alright \- Blinky Vocal Edit](https://open.spotify.com/track/6oAHvthf48NhKbrbsMbbg0) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [Xola Toto](https://open.spotify.com/artist/0ugaz98aLRfeMl6SKhuD4c), [Cyke Sound](https://open.spotify.com/artist/4kg069RIoYlPwzGGS8JCJZ) | [It's Alright](https://open.spotify.com/album/5DbsxK3jMsdmHNZnS8SR4s) | 4:44 |
 | 77 | [Jazz Talks](https://open.spotify.com/track/6EbXPi3us6xPEsdubHZagt) | [Lowbass Djy](https://open.spotify.com/artist/21KhXtANqXDgtgCNdcZXhz), [Ndibo Ndibs](https://open.spotify.com/artist/0NiFfDud2e3b99NDDCLE3q) | [2 Souls \(The Prequel\)](https://open.spotify.com/album/3QbtYSWjImYAnFuPAvGxYx) | 4:57 |
 | 78 | [Sgubu](https://open.spotify.com/track/3yT7S3gkJFm6C9bRKDRzsr) | [Naleboy Young King](https://open.spotify.com/artist/3Ch9utlMQuu1Ngf8yOcGUY), [Shandesh](https://open.spotify.com/artist/5ZJCmUoFCgVzfXtralZ9Wy) | [Sgubu](https://open.spotify.com/album/7LBPAISVZhOUTo5BXUZQMZ) | 4:47 |

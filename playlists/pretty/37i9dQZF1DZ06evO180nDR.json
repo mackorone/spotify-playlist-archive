@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 64793,
+  "num_followers": 64925,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAiiteL0rAjXaDulomtz9sL",
+  "snapshot_id": "aSjmAAAAAADCIt9irmgVcztq/Kk7OCHA",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Hasta El D\u00eda De Hoy",
-      "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Amola",
         "url": "https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 174850,
       "name": "Me Amola",
       "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "Hasta El D\u00eda De Hoy",
+      "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
     },
     {
       "added_at": null,
@@ -563,22 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MIJA NO TE ASUSTES",
-        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
       "artists": [
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 161238,
-      "name": "PASAPORTES",
-      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
+      "duration_ms": 177815,
+      "name": "Puro MQueen",
+      "url": "https://open.spotify.com/track/1npx6ZSuv0KOIa8Pv7qCsu"
     },
     {
       "added_at": null,
@@ -623,22 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+        "name": "MIJA NO TE ASUSTES",
+        "url": "https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 177815,
-      "name": "Puro MQueen",
-      "url": "https://open.spotify.com/track/1npx6ZSuv0KOIa8Pv7qCsu"
+      "duration_ms": 161238,
+      "name": "PASAPORTES",
+      "url": "https://open.spotify.com/track/2Vq1rhWlKNEEGWTJrWOYmp"
     },
     {
       "added_at": null,

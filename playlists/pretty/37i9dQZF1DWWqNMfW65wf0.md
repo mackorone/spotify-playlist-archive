@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 
 > you are feeling sleepy, just go to sleep 💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,980 likes - 195 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,045 likes - 195 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNMfW65wf0.md) - [plain]
 | 103 | [Timeless Planetarium](https://open.spotify.com/track/3crKsR05ZGfYDpA48vwceh) | [Trip To Jupiter](https://open.spotify.com/artist/6l9ylPMaOkRtfo28aDYNpw) | [Timeless Planetarium](https://open.spotify.com/album/6KHy4spDSewu0ZYB1XT5TO) | 2:53 |
 | 104 | [Velvet Skies](https://open.spotify.com/track/6vUoRuZPSJyULHJbLCy3ih) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Velvet Skies](https://open.spotify.com/album/2bTs88QOvEA7m1uJwfAxJE) | 2:34 |
 | 105 | [Unconditionally](https://open.spotify.com/track/2ALToUxKHQurOK6Imp6QXh) | [Izzi Dunn](https://open.spotify.com/artist/3UZ6XGvkHtSbiVRfRF7eqz) | [The Hours After Midnight](https://open.spotify.com/album/4f6kFgxxnpt6UHzF6SZDHA) | 4:01 |
-| 106 | [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 |
+| 106 | [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/4BTCnn2sV6xW9MHSdMnKQl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 |
 | 107 | [Zephrylune Sleep](https://open.spotify.com/track/6bUGqJdc0lBu5I32jBax2b) | [Lim Erence](https://open.spotify.com/artist/4HyTyjRN85Z4FLStLhwJAe) | [Zephrylune Sleep](https://open.spotify.com/album/60qPxfFzpdtgtmmG3oBfbx) | 2:58 |
 | 108 | [Submerge](https://open.spotify.com/track/1oxqltzMnBZBuBmXOFz5IF) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Submerge](https://open.spotify.com/album/2bY0J5ekEMo5G5RpjzVE62) | 2:21 |
 | 109 | [Pausing](https://open.spotify.com/track/0pEePWF8FcLdOHnFjf29A2) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Pausing](https://open.spotify.com/album/4FauwXnGSO6M0ShtrrG28X) | 2:50 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2871,
+  "num_followers": 2870,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACFr0whFn8SiVWONZDT4iJk",
+  "snapshot_id": "aSjmAAAAAAADR/sfiXPQJUMtdxFUxRXO",
   "tracks": [
     {
       "added_at": null,
@@ -204,7 +204,7 @@
       "added_at": null,
       "album": {
         "name": "Lo Peor de Todo (Remasterizado)",
-        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+        "url": "https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl"
       },
       "artists": [
         {
@@ -214,7 +214,7 @@
       ],
       "duration_ms": 211894,
       "name": "A la Droga Dile No",
-      "url": "https://open.spotify.com/track/4jwJ4q8YpryDeoGaOhkwXo"
+      "url": "https://open.spotify.com/track/7n1tTMyv5Aqp3bwYOg0PEN"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Y Lloro",
+      "url": "https://open.spotify.com/track/2sK7V3dEOks0kZQ0u6qY8T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 219177,
       "name": "C\u00f3mo Te Va",
       "url": "https://open.spotify.com/track/2aaa3V2VnmUu3zCjCgLHYd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Y Lloro",
-      "url": "https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 184732,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00eda de Pesca",
         "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 165666,
       "name": "Nena Resc\u00e1tame",
       "url": "https://open.spotify.com/track/2Pd4CQbyrcXyONvUG412PK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 184732,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Est\u00e1 en la M\u00fasica",
+      "url": "https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 278186,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/7E2vSzLfTAbFkXilM5pwpD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 272133,
       "name": "Ni\u00f1os",
       "url": "https://open.spotify.com/track/3ZbEy885gVoMyywzvKFl31"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Est\u00e1 en la M\u00fasica",
-      "url": "https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 304586,
-      "name": "Si\u00e9nteme",
-      "url": "https://open.spotify.com/track/1Bxhj28H15EC7GDDooVU8M"
+      "duration_ms": 166426,
+      "name": "Te Extra\u00f1o Igual",
+      "url": "https://open.spotify.com/track/0zec2JiiYQKF6SaLyOCvCi"
     }
   ],
   "unique_name": "This Is Rio",

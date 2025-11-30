@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVI2W9Zpg4qS.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 472 likes - 20 songs - 58 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 20 songs - 58 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVI2W9Zpg4qS.md) - [plain]
 | 19 | [Ocean](https://open.spotify.com/track/3Tguah9qCyyk1cxpOIYsS9) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: FORWARD](https://open.spotify.com/album/1qOD7pel3w9en2JKQ3l6Ha) | 2:50 |
 | 20 | [Just Did It](https://open.spotify.com/track/6KXjuNhdfVc17QUvw12Sx6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 2:58 |
 
-Snapshot ID: `AAAAAPdrjX6Edc14M83fhmtkqWC4EYMd`
+Snapshot ID: `AAAAANYQ4JcQP55H6d/OrQUsQ2HLGoLs`

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "+971",
+        "url": "https://open.spotify.com/album/5lforRYyhZm0hYg5Uyl132"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201923,
+      "name": "+971",
+      "url": "https://open.spotify.com/track/4GJfmVzb1ji60wAbRPauz1"
+    },
+    {
+      "album": {
         "name": "JVLIVS III : Ad Finem",
         "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
       },
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 180923,
       "name": "APPELLE TA COPINE",
       "url": "https://open.spotify.com/track/1JyRpP8m5n45JGpMelt5Yk"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "BTRD",
       "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
@@ -8628,7 +8646,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -19028,7 +19046,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -21560,7 +21578,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -22778,6 +22796,28 @@
       "duration_ms": 233173,
       "name": "man at the garden",
       "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
+    },
+    {
+      "album": {
+        "name": "Man Down",
+        "url": "https://open.spotify.com/album/3E2aAebxO2g7U8svhw5JJa"
+      },
+      "artists": [
+        {
+          "name": "Leblanco",
+          "url": "https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Man Down",
+      "url": "https://open.spotify.com/track/4aBYk2fxRupiNjvvtOglRM"
     },
     {
       "album": {
@@ -24810,7 +24850,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -30180,7 +30220,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -31650,7 +31690,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/6zum0WbkyrPO7C548rhn8G"
@@ -38328,7 +38368,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 111764,
       "name": "VIANO",
       "url": "https://open.spotify.com/track/6OuhnnHBGG1tKWCpi8nOlM"
@@ -40080,7 +40120,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -41110,7 +41150,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 162041,
       "name": "ZOU BISOU",
       "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"

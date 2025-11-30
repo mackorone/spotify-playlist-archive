@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54094,
+  "num_followers": 54098,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
+        "name": "BEAU PAYSAGE",
+        "url": "https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT"
+      },
+      "artists": [
+        {
+          "name": "orbe",
+          "url": "https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J"
+        }
+      ],
+      "duration_ms": 348805,
+      "name": "BEAU PAYSAGE",
+      "url": "https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju"
+    },
+    {
+      "added_at": "2025-11-19 04:38:58",
+      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/4lu9rOm32Ieevp1INYmzNQ"
       },
@@ -195,18 +211,18 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
-        "name": "BEAU PAYSAGE",
-        "url": "https://open.spotify.com/album/6VY5RCojySCV3VJszgHKqT"
+        "name": "Chroma Velocity",
+        "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
       },
       "artists": [
         {
-          "name": "orbe",
-          "url": "https://open.spotify.com/artist/3saLukWUrUkKxIDmKlqc1J"
+          "name": "City Girl",
+          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
         }
       ],
-      "duration_ms": 348805,
-      "name": "BEAU PAYSAGE",
-      "url": "https://open.spotify.com/track/48R1vXBuwMk9RnA2jgt7ju"
+      "duration_ms": 158117,
+      "name": "Human Related Accident",
+      "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -227,22 +243,6 @@
       "duration_ms": 119230,
       "name": "Namikimichi",
       "url": "https://open.spotify.com/track/6QgKDOxmx5ZRLHHrjSoacw"
-    },
-    {
-      "added_at": "2025-11-19 04:38:58",
-      "album": {
-        "name": "Chroma Velocity",
-        "url": "https://open.spotify.com/album/2ywS0U93usdBb0nINkESoo"
-      },
-      "artists": [
-        {
-          "name": "City Girl",
-          "url": "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Human Related Accident",
-      "url": "https://open.spotify.com/track/5Jn9SSRNuGR5Iqae5C0Gd7"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 159009,
-      "name": "Stray Cat",
-      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
-    },
-    {
-      "added_at": "2025-11-19 04:38:58",
-      "album": {
         "name": "Somnolent Nova",
         "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 183157,
       "name": "Somnolent Nova",
       "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+    },
+    {
+      "added_at": "2025-11-19 04:38:58",
+      "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 159009,
+      "name": "Stray Cat",
+      "url": "https://open.spotify.com/track/29xNgitB4Ymeg8P6GSBPib"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
+      },
+      "artists": [
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 167543,
+      "name": "Walk (Interlude)",
+      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
+    },
+    {
+      "added_at": "2025-11-19 04:38:58",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
-    },
-    {
-      "added_at": "2025-11-19 04:38:58",
-      "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2"
-      },
-      "artists": [
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 167543,
-      "name": "Walk (Interlude)",
-      "url": "https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+    },
+    {
+      "added_at": "2025-11-19 04:38:58",
+      "album": {
         "name": "Touch the Sky",
         "url": "https://open.spotify.com/album/5BFRRkW0hn1Wijw4LJUmtD"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 55226,
       "name": "hakubo",
       "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
-    },
-    {
-      "added_at": "2025-11-19 04:38:58",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
-    },
-    {
-      "added_at": "2025-11-19 04:38:58",
-      "album": {
         "name": "tide sketch",
         "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 130908,
       "name": "tide sketch",
       "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
+    },
+    {
+      "added_at": "2025-11-19 04:38:58",
+      "album": {
+        "name": "Higashi no Sora",
+        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Higashi no Sora",
+      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
-        "name": "Higashi no Sora",
-        "url": "https://open.spotify.com/album/1vEPUz5nmloFecNO1425eh"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Higashi no Sora",
-      "url": "https://open.spotify.com/track/68G0eygRdslyW29oWuDt8O"
-    },
-    {
-      "added_at": "2025-11-19 04:38:58",
-      "album": {
         "name": "Blue Notes",
         "url": "https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 198369,
       "name": "Blue Notes",
       "url": "https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs"
+    },
+    {
+      "added_at": "2025-11-19 04:38:58",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
       },
       "artists": [
         {
-          "name": "Oowets",
-          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
         }
       ],
-      "duration_ms": 195164,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2025-11-19 04:38:58",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-11-19 04:38:58",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/0wbQoBc4b2zu8dCHnl9ou0"
       },
       "artists": [
         {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
+          "name": "Oowets",
+          "url": "https://open.spotify.com/artist/69Sz50VcHwDhkDqqYawJDo"
         }
       ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
+      "duration_ms": 195164,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/28tdrDdSAkaQdf0EP7UAX6"
     },
     {
       "added_at": "2025-11-19 04:38:58",

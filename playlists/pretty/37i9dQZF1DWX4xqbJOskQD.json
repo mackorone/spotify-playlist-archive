@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 2019,
+  "num_followers": 2020,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -213,6 +213,22 @@
       "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+      },
+      "artists": [
+        {
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
@@ -231,22 +247,6 @@
       "duration_ms": 191306,
       "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
-      },
-      "artists": [
-        {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2020-08-17 22:49:59",

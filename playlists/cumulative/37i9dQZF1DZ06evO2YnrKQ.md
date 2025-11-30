@@ -4,7 +4,7 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-75 songs - 5 hr 17 min
+76 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Where No One Knows](https://open.spotify.com/track/4KoJronH3cHIYDu7AYFQYV) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 3:11 | 2023-10-10 | 2024-07-21 |
 | [World Stops Turning](https://open.spotify.com/track/4LxurqXWbJhXHNwgRv4UV5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 8:16 | 2022-12-04 |  |
 | [You Burn First](https://open.spotify.com/track/35tsomku93trCDwRe1W9bx) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Death Letter](https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW) | 3:02 | 2024-09-30 | 2024-12-09 |
-| [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 | 2022-10-25 |  |
+| [Young Cardinals](https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:37 | 2022-10-25 | 2025-11-30 |
+| [Young Cardinals \- LIVE in Toronto, ON 2019](https://open.spotify.com/track/5JtcC1r4BCzCdxKo7ZXr9R) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [House of Strombo \(LIVE in Toronto, ON 2019\)](https://open.spotify.com/album/3OvhTTx1sWdy6CS4Cj0xBt) | 5:27 | 2025-11-30 |  |
 
 \*This playlist was first scraped on 2022-10-26. Prior content cannot be recovered.

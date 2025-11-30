@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 258175,
+  "num_followers": 258215,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAC0LEsDlH4ctdPkMPR6WXe/",
+  "snapshot_id": "aSjmAAAAAACBU8pbL49iEyl4ZFlPZkZR",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "duration_ms": 224938,
+      "name": "S\u00f3lo T\u00fa",
+      "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobre el Aire",
         "url": "https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/2Nuvc1lSGW3wRDhngRJ3S6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/2WVRIzfP6hreSpWyKxEeME"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        }
-      ],
-      "duration_ms": 224938,
-      "name": "S\u00f3lo T\u00fa",
-      "url": "https://open.spotify.com/track/0OpaOJ0gYjhnSgdEaSxHqY"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,425 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,430 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 38 | [Step Into The Arena](https://open.spotify.com/track/21BKhmiFvF3BRkx8wlcdka) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Step Into The Arena](https://open.spotify.com/album/4UMWfoCWxryks2BwW18Iec) | 3:46 |
 | 39 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
 | 40 | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC) | [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [POP KILLERS \(feat\. ralph\)](https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5) | 2:39 |
-| 41 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
-| 42 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 41 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
+| 42 | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/track/3NR2iPVXDninKefAV2uGpz) | [Shawn Wasabi](https://open.spotify.com/artist/1DLKitfb8fshL0DtCecRpY), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Trigger Warning \(feat\. Wolftyla & MIYACHI\)](https://open.spotify.com/album/3UapHPsXKIV6JEhpMwiAfH) | 2:31 |
 | 43 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 44 | [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 |
 | 45 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |

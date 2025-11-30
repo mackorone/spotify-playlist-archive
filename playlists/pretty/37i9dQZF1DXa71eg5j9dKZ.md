@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: KILIMAJARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,693 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,708 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 7 | [Talk of the Town](https://open.spotify.com/track/0Y2QAFRdkzrNAJDPJ5lATF) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Reggie](https://open.spotify.com/artist/0kJOr4qkmePXKFVm9OBK0X) | [Talk of the Town](https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU) | 3:13 |
 | 8 | [Milk](https://open.spotify.com/track/0pqghHQoDVBTcsImBKFmHy) | [Fold](https://open.spotify.com/artist/2BRIfQ1ys3QiaQTD3uIjf8), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Milk](https://open.spotify.com/album/68G2TuOcCbppcvHnltw6Ms) | 4:09 |
 | 9 | [U DO](https://open.spotify.com/track/6LTPzG9ONMja1bvY2yDYZt) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Mera Bhai](https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU) | [ASKING FOR A FRIEND](https://open.spotify.com/album/1mwn3eJUlBO1M2eNrQUBGz) | 4:00 |
-| 10 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
+| 10 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
 | 11 | [The Right](https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [The Right](https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE) | 3:54 |
 | 12 | [28 Eyes](https://open.spotify.com/track/6ZiLYTqYr7oT22hrwGzOVM) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [holybones](https://open.spotify.com/artist/5BrxhXnto2nqDoweFmBnJ0) | [28 Eyes](https://open.spotify.com/album/1803IIMVPWQpD4yc2UG0F0) | 3:46 |
 | 13 | [Undo \(Your Body\)](https://open.spotify.com/track/75hIYCHHwBSkO3rU03zEqt) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Undo \(Your Body\)](https://open.spotify.com/album/1sY3sU8mLAclY7PiBoAsph) | 6:17 |

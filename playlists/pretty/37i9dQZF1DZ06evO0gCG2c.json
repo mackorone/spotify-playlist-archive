@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 330605,
+  "num_followers": 330657,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAu7vCAer3K82Z6qFnwp0f0",
+  "snapshot_id": "aSjmAAAAAAD/+NPURB8ZpPwhXvbrGmuw",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Deluxe Edition",
-        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 238493,
-      "name": "Bananza (Belly Dancer)",
-      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 260866,
       "name": "Keep You Much Longer",
       "url": "https://open.spotify.com/track/6yDvLWVeAdIFTmEZYyqEQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "Bananza (Belly Dancer)",
+      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ghetto Story",
+        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Ghetto Story Chapter 3 (feat. Akon)",
+      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chop My Money",
         "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 272297,
       "name": "Chop My Money - Remix",
       "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghetto Story",
-        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Ghetto Story Chapter 3 (feat. Akon)",
-      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
     },
     {
       "added_at": null,

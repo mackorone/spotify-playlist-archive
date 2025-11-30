@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,782 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,812 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 8 | [Het Is Koud Zonder Jou](https://open.spotify.com/track/3K9DdzUlsLa1SynqM5XhLj) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [N Vriend](https://open.spotify.com/album/12SKNd3eWiv0LAqHGEmJwb) | 4:06 |
 | 9 | [Comment ça va](https://open.spotify.com/track/7evg9DnEL9xmlZmv7qZ6QK) | [The Shorts](https://open.spotify.com/artist/40MX6ONfpMJwrWdTajaRUf) | [Comment Ça Va](https://open.spotify.com/album/7e2V4dXoFunyYJvYsoNU09) | 3:29 |
 | 10 | [Vriendschap](https://open.spotify.com/track/13mvLR1T0GesAY3jhM9lAw) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Belgie](https://open.spotify.com/album/3FhvAa1JUA71NTX6AJBfpc) | 4:07 |
-| 11 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
+| 11 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
 | 12 | [Smoorverliefd](https://open.spotify.com/track/0OFLK8St1n4C9smb4s7CKX) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:17 |
-| 13 | [Annabel](https://open.spotify.com/track/41Wklq87430ovCkiHchbN2) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Annabel En Andere Grote Hits](https://open.spotify.com/album/5x0sWY505mKv9as3L2Caqf) | 3:32 |
+| 13 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
 | 14 | [O O Den Haag](https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N) | [Harry Klorkestein](https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B) | [Alles](https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq) | 4:01 |
 | 15 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
 | 16 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 21 | [Je Veux De L'Amour \- 1990 Remastered Version](https://open.spotify.com/track/1jRIZvUWAojRlMVyxo57VW) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Meisjes](https://open.spotify.com/album/2G5ENoqQU9fn3IHmOLo05e) | 4:35 |
 | 22 | [Is Dit Alles](https://open.spotify.com/track/4iUH4ksweue6iGqQUgSzhx) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doris Day en Andere Stukken](https://open.spotify.com/album/74D7apTRKmj8K2gIq4B5gK) | 5:23 |
 | 23 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
-| 24 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
-| 25 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
+| 24 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
+| 25 | [Stiekem Gedanst](https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx) | [Toontje Lager](https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai) | [Het Allerbeste Van Toontje Lager \(Top 20\)](https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf) | 3:37 |
 | 26 | [Mag Het Licht Uit](https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 4:19 |
 | 27 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |
 | 28 | [Adios Amor](https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:28 |

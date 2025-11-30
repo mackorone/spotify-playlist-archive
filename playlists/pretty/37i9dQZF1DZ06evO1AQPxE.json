@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 193792,
+  "num_followers": 193785,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADe5YSvnWK7Jd1cspvYZQeu",
+  "snapshot_id": "aSjmAAAAAADhJJQTqJfa0KYnJn595kYJ",
   "tracks": [
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 255058,
-      "name": "RIVER ROAD",
-      "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
+      "duration_ms": 140996,
+      "name": "GHOST",
+      "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 121708,
-      "name": "HEY BIG HEAD",
-      "url": "https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 121708,
+      "name": "HEY BIG HEAD",
+      "url": "https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 140996,
-      "name": "GHOST",
-      "url": "https://open.spotify.com/track/70whMGrt6rwbkPlXGNtTBw"
+      "duration_ms": 255058,
+      "name": "RIVER ROAD",
+      "url": "https://open.spotify.com/track/5YsP03BXEcu4PoJygpZsnW"
     },
     {
       "added_at": null,

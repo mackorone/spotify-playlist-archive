@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 692901,
+  "num_followers": 692942,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 191802,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Bounce In Peace",
         "url": "https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI"
       },
@@ -1083,26 +1063,38 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF"
       },
       "artists": [
         {
-          "name": "Tasty Or Not",
-          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         },
         {
-          "name": "Cees",
-          "url": "https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg"
-        },
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
+      "duration_ms": 191802,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1127,18 +1119,26 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4ktlIUlb1Y3K3RIG6l2V6m"
       },
       "artists": [
         {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+          "name": "Tasty Or Not",
+          "url": "https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad"
+        },
+        {
+          "name": "Cees",
+          "url": "https://open.spotify.com/artist/3Ukkyza3hizY5qHOU5Bttg"
+        },
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
         }
       ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
+      "duration_ms": 178000,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2FGXZznZ2xSBw4UkgX8ILo"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 219385,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1299,6 +1299,22 @@
       "duration_ms": 157906,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+      },
+      "artists": [
+        {
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+        }
+      ],
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1323,6 +1339,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
+      },
+      "artists": [
+        {
+          "name": "Moment in Time",
+          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
+        }
+      ],
+      "duration_ms": 140232,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -1339,38 +1371,6 @@
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/0aYtRgHasNFxuLEGCkCQPZ"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/1aMBPc1i3DJJkVcv7mbZwy"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/3RI0SpuwXeDZRoLERezb5O"
-      },
-      "artists": [
-        {
-          "name": "Moment in Time",
-          "url": "https://open.spotify.com/artist/0aVjuD3sYwi6b7b9dq39Mq"
-        }
-      ],
-      "duration_ms": 140232,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/64LvvzHnnNbPn47lUj9OOT"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "duration_ms": 226929,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "cinematic love",
         "url": "https://open.spotify.com/album/5C6TUoCrNGmGCGVLYEwJ94"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 243759,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
-        }
-      ],
-      "duration_ms": 226929,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
         "name": "SUBURBIA (after dark)",
         "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
       },
@@ -1939,18 +1955,18 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+        "name": "Silky, Buttery, Smooth",
+        "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
       },
       "artists": [
         {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
         }
       ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+      "duration_ms": 184801,
+      "name": "Silky, Buttery, Smooth",
+      "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -1971,22 +1987,6 @@
       "duration_ms": 212096,
       "name": "Nothing Is Forever",
       "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "Silky, Buttery, Smooth",
-        "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 184801,
-      "name": "Silky, Buttery, Smooth",
-      "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2059,18 +2059,26 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Backyard Galaxy",
-        "url": "https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL"
+        "name": "Sing It Back (feat. Dana Williams)",
+        "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Dana Williams",
+          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
+        },
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
         }
       ],
-      "duration_ms": 282051,
-      "name": "Backyard Galaxy",
-      "url": "https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H"
+      "duration_ms": 193706,
+      "name": "Sing It Back (feat. Dana Williams)",
+      "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2095,26 +2103,18 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "Sing It Back (feat. Dana Williams)",
-        "url": "https://open.spotify.com/album/6zAWHfeYvpUBY7hZ5TmnTp"
+        "name": "Backyard Galaxy",
+        "url": "https://open.spotify.com/album/6zLqGy5WHyDfSbalXD92gL"
       },
       "artists": [
         {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Dana Williams",
-          "url": "https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL"
-        },
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Sing It Back (feat. Dana Williams)",
-      "url": "https://open.spotify.com/track/6j8TmyhwPunLSpeNA4kVnI"
+      "duration_ms": 282051,
+      "name": "Backyard Galaxy",
+      "url": "https://open.spotify.com/track/6oGlxroOg1FFP7YJC5gU3H"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
         "name": "Love In C Minor (Franc Moody Remix)",
         "url": "https://open.spotify.com/album/4IKcf685Y9bcGgDYf80AaF"
       },
@@ -2343,38 +2323,22 @@
     {
       "added_at": "2025-11-21 05:00:27",
       "album": {
-        "name": "I Found Lovin' (Folamour Remix)",
-        "url": "https://open.spotify.com/album/0CHXeFQgoEU4ZTc5Bn10Mq"
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
       },
       "artists": [
         {
-          "name": "Fatback Band",
-          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         },
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
         }
       ],
-      "duration_ms": 217823,
-      "name": "I Found Lovin' - Folamour Remix",
-      "url": "https://open.spotify.com/track/0tcmPdkjz6s0eOetGgSSWZ"
-    },
-    {
-      "added_at": "2025-11-21 05:00:27",
-      "album": {
-        "name": "White Rose",
-        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
-      },
-      "artists": [
-        {
-          "name": "No Suits",
-          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
-        }
-      ],
-      "duration_ms": 147368,
-      "name": "White Rose",
-      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2025-11-21 05:00:27",
@@ -2399,6 +2363,42 @@
       "duration_ms": 172160,
       "name": "CAN'T GO HOME",
       "url": "https://open.spotify.com/track/6V2pTGbiI6Z87mpF0AiqGR"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "White Rose",
+        "url": "https://open.spotify.com/album/5IZgShZ0gaHvSvqJLR9uqa"
+      },
+      "artists": [
+        {
+          "name": "No Suits",
+          "url": "https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX"
+        }
+      ],
+      "duration_ms": 147368,
+      "name": "White Rose",
+      "url": "https://open.spotify.com/track/4fWLR5P3niHpI0w5W5eZjO"
+    },
+    {
+      "added_at": "2025-11-21 05:00:27",
+      "album": {
+        "name": "I Found Lovin' (Folamour Remix)",
+        "url": "https://open.spotify.com/album/0CHXeFQgoEU4ZTc5Bn10Mq"
+      },
+      "artists": [
+        {
+          "name": "Fatback Band",
+          "url": "https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 217823,
+      "name": "I Found Lovin' - Folamour Remix",
+      "url": "https://open.spotify.com/track/0tcmPdkjz6s0eOetGgSSWZ"
     },
     {
       "added_at": "2025-11-21 05:00:27",

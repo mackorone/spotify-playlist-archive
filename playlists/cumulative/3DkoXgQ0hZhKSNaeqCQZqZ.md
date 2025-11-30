@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-436 songs - 23 hr 5 min
+437 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [iPop](https://open.spotify.com/track/2N8s7lPPUSNfsi5ARpmJmC) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [iPop](https://open.spotify.com/album/0y62AVbc0vCZwEye11xE5P) | 2:55 | 2025-04-12 |  |
 | [Isn't Life Grand?](https://open.spotify.com/track/61wOkxKIdAJf6R167CHYnt) | [Far Below Perfect](https://open.spotify.com/artist/2AFyXKmMqK5wo0657AvyJw) | [I've Been To Hell Before...](https://open.spotify.com/album/3A9rfPhGC6RCgBTLGt7MgR) | 2:42 | 2024-10-21 |  |
 | [It's Not Over](https://open.spotify.com/track/1bDeWHt2U0kmrbzYESGBTb) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [It's Not Over](https://open.spotify.com/album/3Ou1ImPGFCZTuPlf7z0K7K) | 4:13 | 2024-02-18 |  |
+| [Jingle Bells, as Performed by the Pilford Squadron Seasonal Choral Group](https://open.spotify.com/track/6QuNhKTNlBTcLXwYbxz743) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 2:22 | 2025-11-29 |  |
 | [Joyful Bytes Remix \- Multi Fox Remix](https://open.spotify.com/track/4yIOiovEnQRhCO4i6cJd4L) | [Crazyjump15](https://open.spotify.com/artist/5U9kEd81S4XlSMR0Ielhip), [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Joyful Bytes Remix \(Multi Fox Remix\)](https://open.spotify.com/album/0AQqN7bjOCaBVYohR8dYhM) | 2:50 | 2025-02-22 |  |
 | [junk](https://open.spotify.com/track/0wHvcNpZpYHaBtGMBTwo0B) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [junk](https://open.spotify.com/album/0LDlUwMHU7FrhVpPFYAybu) | 2:11 | 2025-07-25 |  |
 | [Just a Little Better](https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 3:08 | 2023-09-25 | 2025-11-10 |

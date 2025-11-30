@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,058 songs - 5 day 0 hr 36 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,065 songs - 5 day 0 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -237,7 +237,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 227 | [Time](https://open.spotify.com/track/07TtpoJnmtCvpg0ntIYoO3) | [Tom Hewitt](https://open.spotify.com/artist/0soQhipC7HhYJYDkVSpGn0) | [Afterglow](https://open.spotify.com/album/6fnrazsr74ZmHS9lAQdO1c) | 4:32 |
 | 228 | [It Ain't True](https://open.spotify.com/track/4Q2jsJ0ljm0kIdvzCZVNg0) | [Matt Galli](https://open.spotify.com/artist/6ELFW1t7Wj4Hd7UZNdizAj) | [It Ain't True](https://open.spotify.com/album/6NgBLaOWobhYO0cQBCY4oq) | 3:55 |
 | 229 | [Sky Walk](https://open.spotify.com/track/4psXIfjKbe70StXQjPNT5x) | [OYAMANGA](https://open.spotify.com/artist/53UFmIUCPAKCfwUfF0PGdW) | [Light Music](https://open.spotify.com/album/0SyMsR4U0e1eEpo8OShttR) | 4:08 |
-| 230 | [Hey, Respira](https://open.spotify.com/track/1iw68ClE3LlyjSxrLsy7ai) | [Agelo](https://open.spotify.com/artist/6kwFI7shgiFm2BHIi79BVR), [MORO](https://open.spotify.com/artist/5dQqonrm2NSVRWEZlRv1Xl) | [Hey, Respira](https://open.spotify.com/album/0Qwgqv467V8JOCR5uzqW8Z) | 2:52 |
+| 230 | [Hey, Respira](https://open.spotify.com/track/1iw68ClE3LlyjSxrLsy7ai) | [Agélo](https://open.spotify.com/artist/6kwFI7shgiFm2BHIi79BVR), [MORO](https://open.spotify.com/artist/5dQqonrm2NSVRWEZlRv1Xl) | [Hey, Respira](https://open.spotify.com/album/0Qwgqv467V8JOCR5uzqW8Z) | 2:52 |
 | 231 | [Sa Iyo Mananalig](https://open.spotify.com/track/7JL197pXsSV7oiMga9G3kg) | [Chi.nupraise](https://open.spotify.com/artist/76y5Xc7isJMqQl3nrCcmhu) | [Sa Iyo Mananalig](https://open.spotify.com/album/0lSFGG12AdDG7u5ax0z6Gt) | 4:22 |
 | 232 | [Ponderosa Pines](https://open.spotify.com/track/7ukpj51Z1YbKTgKySZnEH5) | [Ryan Bieber](https://open.spotify.com/artist/5TEyc5npuIW553GHDty73B), [Good Steph](https://open.spotify.com/artist/1A9Z9XcgTgkCmXxUclDSmn) | [Ponderosa Pines](https://open.spotify.com/album/1JYbJHfdJ3QMTN7r8OyNFK) | 4:34 |
 | 233 | [Dúvida](https://open.spotify.com/track/0lGTcTTSir7veIzlgDcP3g) | [Allan Fontes](https://open.spotify.com/artist/1SoCnTztxzCxvqVuPwEamz) | [Dúvida](https://open.spotify.com/album/5YplRqAMsdUq49kaTf3msg) | 2:27 |
@@ -280,7 +280,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 270 | [Valentina](https://open.spotify.com/track/6jHLmpT5zTjTTCbiXnDhHo) | [Juan Mariño](https://open.spotify.com/artist/71VT7j6oDHDALy7IWObUVF), [Sharon Firma Paz](https://open.spotify.com/artist/3PpCKyP5z6w5Li6bTzm6Rk) | [La Rebelión de los Picaflores](https://open.spotify.com/album/1rC6WFz80f9J0mS4junb1h) | 3:53 |
 | 271 | [Sanguine Lines](https://open.spotify.com/track/6loJuk2zuJN38I9TaNcyv6) | [Mines](https://open.spotify.com/artist/1qwuQbIn7mbhX332OgHpF7) | [Sanguine Lines](https://open.spotify.com/album/3MOq6Y7S2cMq7dzyWJUDz9) | 9:51 |
 | 272 | [Fuori Di Qua](https://open.spotify.com/track/45CQFzA5gRYvY3rpw3QsX4) | [L'Orca, Pino & Giò](https://open.spotify.com/artist/56gHPAYzPERrPRMN95PQHG) | [Fuori Di Qua](https://open.spotify.com/album/6TldjaZCioHVgEwVz3RFL9) | 3:54 |
-| 273 | [Hey, Respira](https://open.spotify.com/track/1iw68ClE3LlyjSxrLsy7ai) | [Agelo](https://open.spotify.com/artist/6kwFI7shgiFm2BHIi79BVR), [MORO](https://open.spotify.com/artist/5dQqonrm2NSVRWEZlRv1Xl) | [Hey, Respira](https://open.spotify.com/album/0Qwgqv467V8JOCR5uzqW8Z) | 2:52 |
+| 273 | [Hey, Respira](https://open.spotify.com/track/1iw68ClE3LlyjSxrLsy7ai) | [Agélo](https://open.spotify.com/artist/6kwFI7shgiFm2BHIi79BVR), [MORO](https://open.spotify.com/artist/5dQqonrm2NSVRWEZlRv1Xl) | [Hey, Respira](https://open.spotify.com/album/0Qwgqv467V8JOCR5uzqW8Z) | 2:52 |
 | 274 | [Tenfooled](https://open.spotify.com/track/1s6fyDhYfokzY06m176C5G) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx) | [Pages](https://open.spotify.com/album/16pBO9qD1kPTITZs7YXC4t) | 3:46 |
 | 275 | [Patience](https://open.spotify.com/track/5YWfHZQS3OWx54R3XhCGx6) | [Haley Harkin](https://open.spotify.com/artist/4NVY9moD4gj1RJpVfWgz5S) | [To Heal Her Too](https://open.spotify.com/album/4CNIC9X7N4c337djWg6y1s) | 4:15 |
 | 276 | [Radiant](https://open.spotify.com/track/5nuOVirLsIntQZl54DCT8P) | [Phillip Saint John](https://open.spotify.com/artist/217hbrhFlb7Vm8gt2DndjZ), [Neeki](https://open.spotify.com/artist/2T4RrtPHdT7pkhA9Em17AG) | [Radiant](https://open.spotify.com/album/0wNpvtEkOxn90XIo1fdfuF) | 2:40 |
@@ -2066,5 +2066,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2056 | [To Win](https://open.spotify.com/track/2zMjal9dFnHUb7tN3tpvt1) | [Rusty Jaz Motorfunk](https://open.spotify.com/artist/1c5blDTt2OKHT2JR8ZT9hj) | [Talkshow](https://open.spotify.com/album/1LpcrxDEiqeMVX4clKbIBl) | 5:34 |
 | 2057 | [Cherry](https://open.spotify.com/track/7aaZEjesKQwVZxVzBa0ELd) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [A Dozen Years Ago, Dozen Songs\. J.J\. Cale Tribute](https://open.spotify.com/album/1TLHKnWvLSPZMAcXGxcyX9) | 2:28 |
 | 2058 | [Gleichsein \- Extended Version](https://open.spotify.com/track/1vnMCjKEUsQW7uuWMZPDlJ) | [Florian Döppert](https://open.spotify.com/artist/6XiAqQIEjUavVqcIc9UfJG), [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Gleichsein \(Extended Version\)](https://open.spotify.com/album/1dxD08b8jWCRwVr4rV7gZj) | 7:21 |
+| 2059 | [Mirage](https://open.spotify.com/track/7jekjMWZ9b7CGQZ6r9Itw3) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [Mirage](https://open.spotify.com/album/58ulkgENTR5zT5TCvJJXu4) | 2:43 |
+| 2060 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
+| 2061 | [Elsinore](https://open.spotify.com/track/1NoPirG77XN3zj7GlTCyzg) | [Local Kin](https://open.spotify.com/artist/3vq4Y0KYGSp3Yowdgw9YgB) | [Elsinore](https://open.spotify.com/album/3Smz6yPk6zc59BoFeijJSY) | 3:25 |
+| 2062 | [Rags](https://open.spotify.com/track/7Hrne3ahQxPYp8zMg5JVYE) | [Dylan White](https://open.spotify.com/artist/5lQm9MVQrvPtf0yRwcVW8i) | [Fronds](https://open.spotify.com/album/3zaWpgZmlmHCMAbfcwk4nO) | 5:07 |
+| 2063 | [Lately](https://open.spotify.com/track/37ZYppwoFy8yg7cfacr4py) | [Riki Ann](https://open.spotify.com/artist/4MKz7DRpKA1LkLW3nzn5tT) | [Lately](https://open.spotify.com/album/7C8St6Ey1nifTekuDH4FJs) | 3:27 |
+| 2064 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 |
+| 2065 | [Waiting for You \- Radio Edit](https://open.spotify.com/track/0nF0U2n8t52evziL2LdwHf) | [Ayoona Bay](https://open.spotify.com/artist/3w1N70ai2u9Vfrpc3bO4eq) | [Waiting for You \(Radio Edit\)](https://open.spotify.com/album/0ORBTVlls7sw1egY3Jwumd) | 3:20 |
 
-Snapshot ID: `AAAImCPRG0OwAXmIiz6bjLtTa8ir6BQ1`
+Snapshot ID: `AAAIn8aNfRprS/wwAJ/gaWOn7JbEJRde`

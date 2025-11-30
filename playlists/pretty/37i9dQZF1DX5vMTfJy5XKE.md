@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,676 likes - 194 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,988 likes - 194 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

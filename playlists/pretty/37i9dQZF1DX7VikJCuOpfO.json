@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: El Fastasma \ud83d\udcf8",
-  "num_followers": 366259,
+  "num_followers": 366264,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
+        "name": "Propiedad Privada",
+        "url": "https://open.spotify.com/album/6LI3UgPLYONEI2s5KUbpXs"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "duration_ms": 139609,
+      "name": "Propiedad Privada",
+      "url": "https://open.spotify.com/track/5EjWIhB3l20BEYRwDu7B3a"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
         "name": "Bailando De A Cart\u00f3n",
         "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
       },
@@ -711,30 +727,6 @@
       "duration_ms": 204850,
       "name": "Bailando De A Cart\u00f3n",
       "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
-        "name": "Los Laureles",
-        "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        }
-      ],
-      "duration_ms": 147521,
-      "name": "Los Laureles",
-      "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -771,18 +763,26 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Propiedad Privada",
-        "url": "https://open.spotify.com/album/6LI3UgPLYONEI2s5KUbpXs"
+        "name": "Los Laureles",
+        "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
       },
       "artists": [
         {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 139609,
-      "name": "Propiedad Privada",
-      "url": "https://open.spotify.com/track/5EjWIhB3l20BEYRwDu7B3a"
+      "duration_ms": 147521,
+      "name": "Los Laureles",
+      "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
+        "name": "Mi gran pa\u00eds",
+        "url": "https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5"
+      },
+      "artists": [
+        {
+          "name": "Jose Julian",
+          "url": "https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mi gran pa\u00eds",
+      "url": "https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
         "name": "Ning\u00fan Color Tiene Due\u00f1o",
         "url": "https://open.spotify.com/album/4ZvbRsterGIXqMCZ9Rhbcu"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 184000,
       "name": "No Pidas Perd\u00f3n",
       "url": "https://open.spotify.com/track/4T25QSWF3CemmblwbyZqkt"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
-        "name": "Mi gran pa\u00eds",
-        "url": "https://open.spotify.com/album/5M3AGrOkKXeu2ugmJwmRT5"
-      },
-      "artists": [
-        {
-          "name": "Jose Julian",
-          "url": "https://open.spotify.com/artist/7yEhORLep5egLYTnLcMd87"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Mi gran pa\u00eds",
-      "url": "https://open.spotify.com/track/7J40K4v7jUabVjheJF83v7"
     },
     {
       "added_at": "2025-11-21 16:19:48",

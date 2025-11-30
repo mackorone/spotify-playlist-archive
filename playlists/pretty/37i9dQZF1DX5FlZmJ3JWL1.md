@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,727 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,717 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 46 | [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 |
 | 47 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 48 | [Together](https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Together](https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi) | 2:31 |
-| 49 | [The Power Of Love](https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [The Power Of Love](https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ) | 2:19 |
-| 50 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 |
+| 49 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
+| 50 | [The Power Of Love](https://open.spotify.com/track/6XW6hJhSEqp9Jev6UbcLTk) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [The Power Of Love](https://open.spotify.com/album/6ubj7wuCUQ2GQ7qLN4vMtZ) | 2:19 |
 
 Snapshot ID: `AAAAAERTxUqi4swo+1O3tYAlMJREJl1z`

@@ -4,7 +4,7 @@
 
 > This is John Williams\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 12 min
+53 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Entry into the Great Hall and the Banquet](https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 3:42 | 2025-04-18 |  |
 | [Fawkes Is Reborn](https://open.spotify.com/track/5yh0phgrkE0qQeWJs3x3hf) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:19 | 2025-04-18 |  |
 | [Fawkes the Phoenix](https://open.spotify.com/track/1m4ZjbibTvvmYIJyXAIuxv) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 3:45 | 2025-04-18 |  |
+| [Finale \(from the motion picture, "Home Alone 2: Lost In New York\)](https://open.spotify.com/track/2SIuzuio78aB01RGY90d59) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone 2: Lost In New York \(Original Score\)](https://open.spotify.com/album/104xIjS9kSulivvCeIHWQS) | 3:55 | 2025-11-30 |  |
 | [Gilderoy Lockhart](https://open.spotify.com/track/4Fproek7uXgqMyUgCFJcWt) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack](https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0) | 2:05 | 2025-04-18 |  |
 | [Hagrid the Professor](https://open.spotify.com/track/45Ec9tNPuonApiArePn5al) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 1:59 | 2025-04-18 | 2025-07-12 |
 | [Harry's Wondrous World \- Extended Version](https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:21 | 2025-04-18 |  |

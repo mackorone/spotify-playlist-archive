@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-400 songs - 23 hr 24 min
+401 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 | 2023-11-08 | 2025-11-10 |
 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 | 2023-11-08 | 2024-04-19 |
 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2024-07-15 | 2025-11-10 |
+| [AMÁNDOTE](https://open.spotify.com/track/7EVthSAJmY0wjQPJourU0N) | [Refugee](https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2) | [ODISEA](https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP) | 3:23 | 2025-11-09 |  |
 | [Ando Pedo Y Ella Esta Aqui](https://open.spotify.com/track/2W3QTyPSI5Zg1a4Cm3UMvd) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [La Revancha Del Principe Charro](https://open.spotify.com/album/3IZaue2sfl2uX7qOYOx9gg) | 3:35 | 2023-06-16 | 2024-07-03 |
 | [Arrastrando La Cobija](https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 3:06 | 2025-06-17 | 2025-09-29 |
 | [Arturo Garza Trevino](https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pistoleros Famosos](https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI) | 2:49 | 2024-07-02 | 2025-11-10 |
@@ -179,7 +180,7 @@
 | [Hasta La Madre](https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Hasta La Madre](https://open.spotify.com/album/0eLaG1dlbjNnPX5nKDM1wR) | 2:38 | 2025-11-09 |  |
 | [Hasta la Miel Amarga](https://open.spotify.com/track/6xRMuq2bvsDZn3WSIcqK0p) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:36 | 2023-06-16 | 2025-11-10 |
 | [Hay Algo en ti](https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW) | [La Leyenda](https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn) | [Algo en ti](https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi) | 4:08 | 2025-06-17 | 2025-11-10 |
-| [Heartbreak](https://open.spotify.com/track/78MlxXcdUIYlYH5TNSjEut) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L) | [Heartbreak](https://open.spotify.com/album/5mS2VooMYaBTuxqm9siExC) | 3:23 | 2025-11-09 |  |
+| [Heartbreak](https://open.spotify.com/track/78MlxXcdUIYlYH5TNSjEut) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t), [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L) | [Heartbreak](https://open.spotify.com/album/5mS2VooMYaBTuxqm9siExC) | 3:23 | 2025-11-09 | 2025-11-30 |
 | [Hiereme](https://open.spotify.com/track/0VALO2mJCnpzv8OSHlMlSq) | [La Verbena Popular](https://open.spotify.com/artist/3Ht1isc7k5xuQuNvb2K6yI) | [El Tercer Viento Norestense](https://open.spotify.com/album/27YjX3Hnv6yGXgATY42GQp) | 4:01 | 2023-06-16 | 2024-04-19 |
 | [Indispensable](https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w) | [Alberto Y Roberto](https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8) | [Me Haces Falta](https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc) | 3:27 | 2025-11-09 |  |
 | [Inmortales Medley: Celoso / Dulcemente Enamorada / Cosas del Amor / Cómo Estás Tú \- En Vivo Desde Monterrey](https://open.spotify.com/track/3B8XAAB1j59uwrCfXntXcO) | [La Casetera](https://open.spotify.com/artist/41pw8Rr71ZIY5mpOXzviAM) | [En Vivo Desde Monterrey](https://open.spotify.com/album/2YqXC2fSYZflVMNs3OzI5F) | 6:05 | 2023-06-16 | 2024-07-03 |

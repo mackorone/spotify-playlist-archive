@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1567,
+  "num_followers": 1568,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACgdeaLHDMPk9KmtS5dyddW",
+  "snapshot_id": "aSjmAAAAAADiUPWZ3fGwilGg7N7GJPVM",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        },
-        {
-          "name": "David Attenborough",
-          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 155306,
-      "name": "This Is My Witness Statement",
-      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
+      "duration_ms": 77880,
+      "name": "You Stop My Heart",
+      "url": "https://open.spotify.com/track/4PPXEa0j144GyF23vT3GZj"
     },
     {
       "added_at": null,
@@ -278,11 +274,15 @@
         {
           "name": "Steven Price",
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        },
+        {
+          "name": "David Attenborough",
+          "url": "https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4"
         }
       ],
-      "duration_ms": 147160,
-      "name": "The Whole of Humanity",
-      "url": "https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7"
+      "duration_ms": 155306,
+      "name": "This Is My Witness Statement",
+      "url": "https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ"
     },
     {
       "added_at": null,
@@ -303,38 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 77880,
-      "name": "You Stop My Heart",
-      "url": "https://open.spotify.com/track/4PPXEa0j144GyF23vT3GZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Planet (Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 140386,
-      "name": "The Ocean Returns The Favour - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gravity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
@@ -351,6 +319,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Our Planet (Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Frozen Worlds - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/27WdJeDTbwA8Hrqzq9kiDP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 147160,
+      "name": "The Whole of Humanity",
+      "url": "https://open.spotify.com/track/701G9IaOwPcxA4mQgL7UJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fury (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
       },
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 110906,
-      "name": "Fury Drives Into Camp",
-      "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
+      "duration_ms": 219226,
+      "name": "Still In This Fight",
+      "url": "https://open.spotify.com/track/1OlsfairNYKwZfCEmi8NcB"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 206733,
-      "name": "Frozen Worlds - From \"Our Planet\"",
-      "url": "https://open.spotify.com/track/27WdJeDTbwA8Hrqzq9kiDP"
+      "duration_ms": 140386,
+      "name": "The Ocean Returns The Favour - From \"Our Planet\"",
+      "url": "https://open.spotify.com/track/30m0iV0x6N2XydxSE3kurk"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 289320,
-      "name": "We Took To The Skies",
-      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Assassin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 273720,
       "name": "Katrina",
       "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Aeronauts (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/56C4vWYQdngTpCxTEdRcFE"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 289320,
+      "name": "We Took To The Skies",
+      "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 141400,
-      "name": "A Different Set of Rules",
-      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+      "duration_ms": 111413,
+      "name": "The Shallow Seas",
+      "url": "https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 136013,
-      "name": "Target Acquired",
-      "url": "https://open.spotify.com/track/74LzP7YXGjtY1z04TPNnco"
+      "duration_ms": 232253,
+      "name": "This Game Is No Game",
+      "url": "https://open.spotify.com/track/52IJNg7DV4ezuiKSyKpxcg"
     },
     {
       "added_at": null,
@@ -651,6 +651,54 @@
       "duration_ms": 141386,
       "name": "Dear Mr. Killian",
       "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "Everything is Bathed in Sunlight",
+      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 141400,
+      "name": "A Different Set of Rules",
+      "url": "https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Running Man (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "They Can't Lie To Us If You Don't Watch",
+      "url": "https://open.spotify.com/track/4gV4AgcpaHyJHh6cE3jTC6"
     },
     {
       "added_at": null,
@@ -680,41 +728,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 111413,
-      "name": "The Shallow Seas",
-      "url": "https://open.spotify.com/track/1vjuL6knzg5Xhh3bdaUUJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Running Man (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/3POVf5rrFp35InUOY8IV4O"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "They Can't Lie To Us If You Don't Watch",
-      "url": "https://open.spotify.com/track/4gV4AgcpaHyJHh6cE3jTC6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolphin Reef (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 170253,
-      "name": "Echo Fires Up Another",
-      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+      "duration_ms": 152266,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "Everything is Bathed in Sunlight",
-      "url": "https://open.spotify.com/track/4akPA45cxrfqKBIn7yJIrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
       "artists": [
         {
@@ -776,9 +776,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 84733,
-      "name": "First Of Many",
-      "url": "https://open.spotify.com/track/2H36aVWSrzu2Zp8TJ63NpX"
+      "duration_ms": 170253,
+      "name": "Echo Fires Up Another",
+      "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Seers of the Sky",
+      "url": "https://open.spotify.com/track/4K4EEp5SkLMBjri9HScOqJ"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 229733,
       "name": "All at Sea",
       "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 152266,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/3OkttASbIVtH1A5SAXqgPe"
     }
   ],
   "unique_name": "This Is Steven Price",

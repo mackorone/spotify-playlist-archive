@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Minister GUC
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,268 likes - 104 songs - 15 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,331 likes - 104 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Omemma \- \(Live\)](https://open.spotify.com/track/7oWP17AUvTig60GCXuXeFl) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/0YUY2M4XWrK5xMFJ0HDS1H) | 6:34 |
-| 2 | [Carry Me \- Live Session](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me \(Live Session\)](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
+| 2 | [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
 | 3 | [E Ti Tobi to \(Live\)](https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [E Ti Tobi to \(Live\)](https://open.spotify.com/album/5mY52gjoMuJsiLybLRQR3J) | 13:46 |
 | 4 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 |
 | 5 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |

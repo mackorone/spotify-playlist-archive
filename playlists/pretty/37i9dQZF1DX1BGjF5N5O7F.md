@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > we'll always have summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,187 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,220 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 89 | [All of Me Wants All of You](https://open.spotify.com/track/4lyIHAc8sk6lm9iN5B8nmj) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:41 |
 | 90 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
 
-Snapshot ID: `AAAAAKJ2oB4g6hJcWqvxi3AgCKqr2v0T`
+Snapshot ID: `AAAAAEIi5GcyYPjTLHrAjy79ABkw0jZA`

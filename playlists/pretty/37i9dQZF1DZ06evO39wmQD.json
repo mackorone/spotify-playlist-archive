@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACsIG7KWn4X+J4Daysk/bHr",
+  "snapshot_id": "aSjmAAAAAAD7gSN+8BVpRLi2eXsFJR0i",
   "tracks": [
     {
       "added_at": null,
@@ -499,6 +499,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 175612,
+      "name": "Good Morning, Beautiful You",
+      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Glorious (Rise Cast Version)",
         "url": "https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 147952,
       "name": "Glorious - Rise Cast Version",
       "url": "https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "Good Morning, Beautiful You",
-      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
     },
     {
       "added_at": null,
@@ -579,30 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Guilty Ones (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        }
-      ],
-      "duration_ms": 211956,
-      "name": "The Guilty Ones - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -627,6 +603,30 @@
       "duration_ms": 181644,
       "name": "The Perfect Me (Finale)",
       "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Guilty Ones (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "duration_ms": 211956,
+      "name": "The Guilty Ones - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
     },
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Word Of Your Body (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "The Word Of Your Body - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 211013,
       "name": "Whispering - Rise Cast Version",
       "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
     },
     {
       "added_at": null,

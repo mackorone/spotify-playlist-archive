@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 
 > Editor's picks:  The best R&B songs of 2024\.  Cover: Muni Long, Bryson Tiller, and Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,743 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,742 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

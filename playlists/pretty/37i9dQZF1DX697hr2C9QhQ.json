@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 58463,
+  "num_followers": 58478,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Trains, Boats and Planes",
-        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
-      },
-      "artists": [
-        {
-          "name": "The Frank And Walters",
-          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
-        }
-      ],
-      "duration_ms": 189560,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "So Much For The City",
         "url": "https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 187320,
       "name": "Big Sur",
       "url": "https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Trains, Boats and Planes",
+        "url": "https://open.spotify.com/album/4NKM2cooUqnyICpeslOehd"
+      },
+      "artists": [
+        {
+          "name": "The Frank And Walters",
+          "url": "https://open.spotify.com/artist/0ZurKOkOcHpO44alHZJpyC"
+        }
+      ],
+      "duration_ms": 189560,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/7L0ZxkPAVVJ3i0M8Zx6jVT"
     },
     {
       "added_at": "2022-03-17 10:54:32",

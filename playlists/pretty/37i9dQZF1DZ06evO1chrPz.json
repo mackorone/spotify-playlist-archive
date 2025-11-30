@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 206465,
+  "num_followers": 206475,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAPEnTJphq+wUZG7QK9Phox",
+  "snapshot_id": "aSjmAAAAAAA+U4od8qaDKvrW63r1jBLz",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 415079,
+      "name": "Jesus We Love You",
+      "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 299365,
       "name": "King of My Heart (Live)",
       "url": "https://open.spotify.com/track/4XMy9Gv7Q7SWwIU4RdzdSG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 415079,
-      "name": "Jesus We Love You",
-      "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elohim (Live)",
-        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
+        "name": "You Make Me Brave (Live)",
+        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
       "artists": [
         {
@@ -680,13 +680,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Aubree Archibeck",
-          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
         }
       ],
-      "duration_ms": 447670,
-      "name": "Elohim - Live From Church",
-      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
+      "duration_ms": 366160,
+      "name": "You Make Me Brave (Live)",
+      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
     },
     {
       "added_at": null,
@@ -751,22 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Make Me Brave (Live)",
-        "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
+        "name": "Holy Hands (Live)",
+        "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
         },
         {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         }
       ],
-      "duration_ms": 366160,
-      "name": "You Make Me Brave (Live)",
-      "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+      "duration_ms": 434745,
+      "name": "Holy Hands - Live",
+      "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
     },
     {
       "added_at": null,
@@ -791,26 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Hands (Live)",
-        "url": "https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P"
+        "name": "Elohim (Live)",
+        "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
       },
       "artists": [
         {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        },
-        {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Aubree Archibeck",
+          "url": "https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t"
         }
       ],
-      "duration_ms": 434745,
-      "name": "Holy Hands - Live",
-      "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
+      "duration_ms": 447670,
+      "name": "Elohim - Live From Church",
+      "url": "https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6"
     },
     {
       "added_at": null,
@@ -1004,17 +1004,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         },
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
         }
       ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering (Live)",
-      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
+      "duration_ms": 389982,
+      "name": "Send Me (Live)",
+      "url": "https://open.spotify.com/track/5f9NBSHUJ85cpV1tfDDJM9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-311 songs - 17 hr 44 min
+312 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Stop at Nothing](https://open.spotify.com/track/5R3wv0N46GmsivDglesuHn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:30 | 2024-12-11 |  |
 | [Summer Sadness](https://open.spotify.com/track/4C75bptwmKumfNf655piPr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:29 | 2024-05-01 |  |
 | [Super Sad Generation](https://open.spotify.com/track/6uAGJqaLlsxezaQ4CDfi2G) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Super Sad Generation](https://open.spotify.com/album/1AuQrIqK3sAdNcsGtdNulg) | 2:46 | 2024-05-01 |  |
+| [Swan](https://open.spotify.com/track/5DyUNx3kgGOZv0f0MqBllI) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:11 | 2025-11-29 |  |
 | [Swank](https://open.spotify.com/track/0OMr7kjVgXAPz0Of16NU4c) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 2:45 | 2024-10-27 |  |
 | [Swank](https://open.spotify.com/track/7mnqXavrCT8qXpteGeF1uD) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Swank](https://open.spotify.com/album/0EujCC25rrW0jGOMNOxwLS) | 2:45 | 2024-10-23 | 2024-10-28 |
 | [Sweet Mary Jane](https://open.spotify.com/track/5XNLPRYoskTuyPOnpMpRSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [DITV](https://open.spotify.com/album/7mToPuaOfKRuzuutEsFiMC) | 4:49 | 2025-09-10 |  |

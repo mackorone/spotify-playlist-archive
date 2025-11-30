@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-877 songs - 1 day 18 hr 21 min
+879 songs - 1 day 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Mo Chroidhe](https://open.spotify.com/track/01yqm6MIIlCdOXCtrYJpRx) | [Mila Harper](https://open.spotify.com/artist/61XTODbHm8u4mMws36C1IG) | [Mo Chroidhe](https://open.spotify.com/album/4d0cCBHVGlmqCqqW3dffzg) | 3:02 | 2023-03-23 | 2024-03-21 |
 | [Molecular Cloud](https://open.spotify.com/track/42RwMJ0ZRV46CluZ5bTMWx) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Molecular Cloud](https://open.spotify.com/album/706oYf7alJV2G6rZbMblpN) | 3:15 | 2025-10-08 |  |
 | [Moment of Awareness](https://open.spotify.com/track/6zaiKqdrDS2xZuMY48k76k) | [Map Of My Mind](https://open.spotify.com/artist/4bHqIHNtic2x8l7hAv8mJT) | [Moment of Awareness](https://open.spotify.com/album/2IbgyoRJX0YMKAoSn8Yfso) | 3:13 | 2025-09-23 |  |
+| [Moments](https://open.spotify.com/track/3bpTDWQZfVP0aR966sdktb) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Moments](https://open.spotify.com/album/4AexG0a3gfyojeCr9q0nte) | 2:26 | 2025-11-12 |  |
 | [Moments](https://open.spotify.com/track/09gam7W4R7EnINv1m1j3Pi) | [Oliver Ólafsson](https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU) | [Moments](https://open.spotify.com/album/3v2iN5hsEJ2UlS2ECAtJbN) | 2:25 | 2025-03-27 | 2025-06-13 |
 | [Moments of Stillness](https://open.spotify.com/track/6m9JbPIC8saBo8pVm08x0j) | [Hector Warrens](https://open.spotify.com/artist/18djQbUQxMlklEPDlDif6B) | [Moments Of Stillness](https://open.spotify.com/album/4nikff5wMmknaIkoqtzQrz) | 3:02 | 2023-03-23 | 2024-02-09 |
 | [Momentum](https://open.spotify.com/track/5dyewd2qoO14myEIrjR9xr) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Momentum](https://open.spotify.com/album/46ydE0IFCcL8SAS0pPiR1q) | 2:38 | 2025-10-08 |  |
@@ -595,7 +596,7 @@
 | [Phenomena](https://open.spotify.com/track/6iP5Gok0mu3BExvKsVvZ46) | [South To Somewhere](https://open.spotify.com/artist/7KFsW7U7h7SSoMRdxFJmL2) | [Phenomena](https://open.spotify.com/album/7D9oHv8kKSnR2KZ7ZxXKZK) | 2:35 | 2025-02-14 |  |
 | [Places](https://open.spotify.com/track/3OoXbnBZiWY3RHhz31zKPj) | [Elysha Iman](https://open.spotify.com/artist/3YG9AoDdEIOygPtme6s1ZE) | [Places](https://open.spotify.com/album/6EmGsuDo6pV86aTIeeVK99) | 3:25 | 2023-03-23 | 2024-01-18 |
 | [Placid Echoes](https://open.spotify.com/track/7ybzymL0w0XYyJaBeqFSRy) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Placid Echoes](https://open.spotify.com/album/7qB2UagPGPPr2t7hTZQS58) | 2:36 | 2024-07-22 | 2025-03-26 |
-| [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 | 2024-08-30 |  |
+| [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 | 2024-08-30 | 2025-11-30 |
 | [Pondering](https://open.spotify.com/track/1BhS7zg5Xc8HvCqILpiDgq) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Pondering](https://open.spotify.com/album/7t9gbTOlSMndGUbLJqOYH6) | 2:55 | 2024-01-17 | 2024-10-15 |
 | [Predetermined](https://open.spotify.com/track/50ugrXieNRkklm9dVwOCEY) | [Luune](https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM) | [Predetermined](https://open.spotify.com/album/5gitXZTrajp0xyWUkojeTB) | 2:35 | 2025-06-17 |  |
 | [Presence](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Presence](https://open.spotify.com/album/37Izr0igRkZEUUto8T2OC6) | 2:55 | 2025-03-05 | 2025-06-26 |
@@ -657,6 +658,7 @@
 | [Rétrospective](https://open.spotify.com/track/5SpWWXLR52XCIw8J355D7t) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Rétrospective](https://open.spotify.com/album/7EjOLWwV9wGAlEole3PGWA) | 2:29 | 2023-03-23 | 2024-05-05 |
 | [Röd Himmel](https://open.spotify.com/track/76w0v1hDBWuijmwmvsGDQk) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Röd Himmel](https://open.spotify.com/album/2CEBJal9nnIAb9bNjaBhIP) | 3:26 | 2023-03-23 | 2024-03-21 |
 | [Sable Horizon](https://open.spotify.com/track/0xjkXpjEWTtGC0QvcVbDwr) | [Ethereon](https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq) | [Sable Horizon](https://open.spotify.com/album/1m5foIzzRHOMW6ZepBIbAG) | 3:08 | 2025-06-17 |  |
+| [Saffron Dusk](https://open.spotify.com/track/6knij9lTnyLerE4l1ljjkr) | [Monte Aria](https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ) | [Saffron Dusk](https://open.spotify.com/album/1ypuerc9q8lQ56KKyb02ht) | 2:47 | 2025-11-12 |  |
 | [Sagacity](https://open.spotify.com/track/4L57QX9LdhQyrJUn7VQq1H) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Sagacity](https://open.spotify.com/album/5C38y3p4mUoSCaKunDAT2e) | 3:05 | 2025-10-08 |  |
 | [Sapnis](https://open.spotify.com/track/0UmxO4xdWoH3hRUQwcqdqC) | [Pax Gene](https://open.spotify.com/artist/1IxEav5X3hEPqk0of4PY1I) | [Sapnis](https://open.spotify.com/album/4T8YxsVIllqkGfBz1RRUhW) | 3:37 | 2023-03-23 | 2024-03-21 |
 | [Sapphire](https://open.spotify.com/track/51Cpam4lnqxkLXtK269TrB) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Sapphire](https://open.spotify.com/album/4l0y18K5CgfM8DlyUU4rCp) | 3:26 | 2025-04-09 | 2025-06-26 |
@@ -687,7 +689,7 @@
 | [Silent Dreams](https://open.spotify.com/track/6d36syikVGb3zii0aINq15) | [Lo Cendrisse](https://open.spotify.com/artist/4owRJmjZDkUnN35Yxxsgtp) | [Silent Dreams](https://open.spotify.com/album/1by6DnIMMNX75JKbKglBgg) | 2:40 | 2025-07-01 |  |
 | [Silent Mind](https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Silent Mind](https://open.spotify.com/album/184Iu1UxOAYE4ZR9xdFJ9B) | 2:10 | 2023-03-23 | 2024-05-05 |
 | [Silent Reflection](https://open.spotify.com/track/7Ge0xUbxdOv0IvgqwO30Hj) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Silent Reflection](https://open.spotify.com/album/4eV8ERThfChcNsO2ua1MQn) | 2:41 | 2025-11-12 |  |
-| [Silk Dreams](https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Silk Dreams](https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK) | 3:08 | 2025-01-22 |  |
+| [Silk Dreams](https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Silk Dreams](https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK) | 3:08 | 2025-01-22 | 2025-11-30 |
 | [Silken Shades](https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Silken Shades](https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX) | 3:00 | 2024-05-20 | 2025-10-03 |
 | [Silver Lining](https://open.spotify.com/track/3Eb5LRtd8qIpq4CP5a3Pt7) | [Sleepy Jay](https://open.spotify.com/artist/4C0u713lpHyNuwztM1NZZY) | [Silver Lining](https://open.spotify.com/album/3Vi7QZP8evfJuHpsQFvQpE) | 3:06 | 2024-02-08 | 2025-02-18 |
 | [Simien](https://open.spotify.com/track/3tf0epgGh6Zbh2skKajYjw) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Simien](https://open.spotify.com/album/0vS0WdECffLMWHgYQEacuP) | 3:30 | 2023-03-23 | 2024-03-21 |

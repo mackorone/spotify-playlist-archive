@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! ©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,653 likes - 116 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,830 likes - 116 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 33 | [Breakdown](https://open.spotify.com/track/5AuvLA40Cx2hfcb5Ym8Yvb) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [ROAD TO NINJA \-NARUTO THE MOVIE\- Original Soundtrack](https://open.spotify.com/album/3zviDk7R29GSSv3aM4vdc5) | 2:25 |
 | 34 | [PRANA](https://open.spotify.com/track/31qWfrj81xe5ZQHWYsJD4V) | [Yoshida Brothers](https://open.spotify.com/artist/1C08PKH51P2fcJMrPOFRwI) | [PRANA](https://open.spotify.com/album/3WKZCCeF9wqoSwzJPKiHuL) | 3:52 |
 | 35 | [NARUTO and HINATA](https://open.spotify.com/track/4vsyMk2SSddFrUYzE1p5GG) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [THE LAST \-NARUTO THE MOVIE\- Original Soundtrack](https://open.spotify.com/album/1fOeHJSdl0HgsycE9N5I5U) | 4:02 |
-| 36 | [Wind](https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Akeboshi](https://open.spotify.com/album/6lTOmOSRAWvAwdv15KnMb8) | 3:40 |
+| 36 | [Wind](https://open.spotify.com/track/5BqKtuCFLfZyzfZOwlgW1f) | [Akeboshi](https://open.spotify.com/artist/7whUoQAv5bVu2Cv4ZmgTyw) | [Akeboshi](https://open.spotify.com/album/6lTOmOSRAWvAwdv15KnMb8) | 3:40 |
 | 37 | [紅炎](https://open.spotify.com/track/6CoN4On2hjgeeIUNYo6ZAA) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [NARUTO\-ナルト\- 疾風伝　オリジナル・サウンドトラック Ⅱ](https://open.spotify.com/album/1GoWJc6XFiHW1ewHcY1Xqm) | 2:30 |
 | 38 | [青のララバイ](https://open.spotify.com/track/5QlI96uVZdjPZaJzqsgqT0) | [Kuroneko Chelsea](https://open.spotify.com/artist/52a7qtJbAU8YBI6fXYuIOz) | [青のララバイ \(Special Edition\)](https://open.spotify.com/album/52Ftemr7r3GnZtLBdJFKVq) | 3:42 |
 | 39 | [ノーボーイ・ノークライ](https://open.spotify.com/track/4RlJCo2tVSYIjGortwth4i) | [STANCE PUNKS](https://open.spotify.com/artist/5Grq5bIeD9Vw6JyBiobSdA) | [ノーボーイ・ノークライ](https://open.spotify.com/album/47v8VJDCUKedjNAmYou2DW) | 3:34 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 47 | [スピード](https://open.spotify.com/track/5rAuNvszNJdX4SONZzVRgJ) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [スピード](https://open.spotify.com/album/1Fp0wrJPgDe3wHJunYiAt2) | 3:15 |
 | 48 | [そばにいるから](https://open.spotify.com/track/7h13ZBhtHPRHrlJv2ADa9Y) | [Amadori](https://open.spotify.com/artist/28KMnC9M7253QQlCevUhlQ) | [そばにいるから](https://open.spotify.com/album/7Md8OzzDfQNsT3i486oolU) | 3:47 |
 | 49 | [パレード](https://open.spotify.com/track/17CLgOZqX9GAjZvSHMAHDn) | [Chaba](https://open.spotify.com/artist/1u6OC7tz9YNmdsZ1AeX9m0) | [パレード](https://open.spotify.com/album/0PsoJQF9JB0RNgtVse0WBM) | 4:53 |
-| 50 | [Yellow Moon](https://open.spotify.com/track/0qmz5vEUmfwaO2Ema7VjE0) | [明星 <Akeboshi>](https://open.spotify.com/artist/5STm6pQxk2nHd7JVcQCBoa) | [Yellow Moon](https://open.spotify.com/album/4b8VI9iRWsbS06xYN0Rogb) | 5:11 |
+| 50 | [Yellow Moon](https://open.spotify.com/track/0qmz5vEUmfwaO2Ema7VjE0) | [Akeboshi](https://open.spotify.com/artist/7whUoQAv5bVu2Cv4ZmgTyw) | [Yellow Moon](https://open.spotify.com/album/4b8VI9iRWsbS06xYN0Rogb) | 5:11 |
 | 51 | [ピノキオ](https://open.spotify.com/track/7dDY3F4eAXs6Rp0olRzBN0) | [ORESKABAND](https://open.spotify.com/artist/56OQWVhAWYw1yRxD0R2HSR) | [WAO!!](https://open.spotify.com/album/0dyEtIksUU6PYFBsttExjk) | 2:19 |
 | 52 | [シナリオ](https://open.spotify.com/track/30F5PZwQcNr5CRU66pIzRb) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [シナリオ](https://open.spotify.com/album/0ZqlepXsFU3tQRjferu7Kx) | 3:18 |
 | 53 | [道標](https://open.spotify.com/track/5wWNIJ48TTYv0uLK9Rk5Yn) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [心景](https://open.spotify.com/album/2PT2sQZ4nzQ08RVCqei3xg) | 4:11 |

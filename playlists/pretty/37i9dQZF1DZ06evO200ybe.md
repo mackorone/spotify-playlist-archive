@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,661 likes - 45 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,676 likes - 45 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quiet Nights](https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Hubert Laws](https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv) | [Swimming by Moonlight \(New Music from the Documentary "Let's Get Lost"\)](https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B) | 6:17 |
 | 2 | [I Fall In Love Too Easily](https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:21 |
-| 3 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
-| 4 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
+| 3 | [The Touch Of Your Lips](https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 2:42 |
+| 4 | [How High The Moon](https://open.spotify.com/track/1qagJUT7uzS8eAkDJmO8QG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Keepnews Collection\)](https://open.spotify.com/album/1MlU3WEMLbxw9d4B08AptQ) | 3:38 |
 | 5 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 |
 | 6 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 |
 | 7 | [Autumn In New York](https://open.spotify.com/track/7oehX4YTJOAwGFaAW1yvcs) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Quartet Vol\. 2 \(Chet Baker in Paris Vol\. 2\)](https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu) | 7:07 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 44 | [Here's That Rainy Day](https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Larry Coryell](https://open.spotify.com/artist/25s8YpOLWqI2SgTlvapJyQ), [Buster Williams](https://open.spotify.com/artist/0pSoLnWrkv4lvm0CBl526G), [Tony Williams](https://open.spotify.com/artist/0rsOFTSrfAFwunJfGjgB9U) | [Quintet Sessions 1979](https://open.spotify.com/album/2589rTLkK1dIoC72z5cS1t) | 4:15 |
 | 45 | [Waltz For Susan](https://open.spotify.com/track/6JgXwEGxn21fhmMLrOXCLi) | [Wolfgang Lackerschmid](https://open.spotify.com/artist/3DK2TT2zcwr9AbWTfOHwxS), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Ballads For Two](https://open.spotify.com/album/1wXiZcjOj0oUX4rJqUiOQl) | 3:50 |
 
-Snapshot ID: `aSeUgAAAAADdQEf1QgB+sjc3Zhou9IED`
+Snapshot ID: `aSjmAAAAAAACzrAj1LxuKmoR8Wh6j7BG`

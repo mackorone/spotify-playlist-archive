@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1181486,
+  "num_followers": 1181648,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-11-03 15:23:27",
       "album": {
-        "name": "The Essential Glenn Miller",
-        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
-      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
-    },
-    {
-      "added_at": "2025-11-03 15:23:27",
-      "album": {
         "name": "The Big Band Era , Volume 1 - The Passing Of An Era",
         "url": "https://open.spotify.com/album/2XB8gzQ41ScpEhwY6vgdOH"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 187453,
       "name": "Rusty Dusty Blues",
       "url": "https://open.spotify.com/track/1ywNBYgKTyu9VpNGkeEbmG"
+    },
+    {
+      "added_at": "2025-11-03 15:23:27",
+      "album": {
+        "name": "The Essential Glenn Miller",
+        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
+      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
     },
     {
       "added_at": "2025-11-03 15:23:27",

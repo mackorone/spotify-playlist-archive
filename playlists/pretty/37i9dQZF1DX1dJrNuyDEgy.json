@@ -1,6 +1,6 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 220728,
+  "num_followers": 220727,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
+        "name": "Antonio Aguilar",
+        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195303,
+      "name": "Canci\u00f3n Mixteca",
+      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
         "name": "Veracruz Son y Huapango",
         "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 193453,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
-        "name": "Antonio Aguilar",
-        "url": "https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 195303,
-      "name": "Canci\u00f3n Mixteca",
-      "url": "https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Fiesta Mexicana\u201a Puro Mariachi",
-        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 179946,
-      "name": "Pelea De Gallos",
-      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
         "name": "Canto A Mi Tierra",
         "url": "https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 148793,
       "name": "Viva Mexico",
       "url": "https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
+        "name": "Fiesta Mexicana\u201a Puro Mariachi",
+        "url": "https://open.spotify.com/album/7bM47G8J24pQah2NMDmXFo"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Pelea De Gallos",
+      "url": "https://open.spotify.com/track/0KwhNYri6THMAYVpTBhOCj"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Aires de Mexico",
-        "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 148480,
-      "name": "La Cucaracha",
-      "url": "https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
         "name": "El Tilingo Lingo",
         "url": "https://open.spotify.com/album/2CI0buQUSqmtm4a5SccEaD"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 175972,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/1wuWRVyQmOMocqvdKkB2J1"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
+        "name": "Aires de Mexico",
+        "url": "https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 148480,
+      "name": "La Cucaracha",
+      "url": "https://open.spotify.com/track/4b0FVK3GdHI75vdUm8QrHV"
     },
     {
       "added_at": "2025-09-05 21:55:59",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-09-05 21:55:59",
       "album": {
-        "name": "Serie 20 Exitos",
-        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "El Carretero Se Va",
-      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
-    },
-    {
-      "added_at": "2025-09-05 21:55:59",
-      "album": {
         "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
         "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 216133,
       "name": "Colas",
       "url": "https://open.spotify.com/track/00ZarAVrDz8P9UxuLbdFTu"
+    },
+    {
+      "added_at": "2025-09-05 21:55:59",
+      "album": {
+        "name": "Serie 20 Exitos",
+        "url": "https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "El Carretero Se Va",
+      "url": "https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D"
     },
     {
       "added_at": "2025-09-05 21:55:59",

@@ -4,7 +4,7 @@
 
 > This is T.I BLAZE\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 25 min
+56 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Eko](https://open.spotify.com/track/34THJ2Fhw8dgLBCb1fMyvG) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:31 | 2025-07-12 |  |
 | [Escober](https://open.spotify.com/track/3aaLVwuDePlrT0XqiD7PuP) | [HypemanDJ Pablo](https://open.spotify.com/artist/2FJPVro7Soj4xbUAg7TXdo), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Escober](https://open.spotify.com/album/62c90vTEdCmzuxcKKqCFDK) | 3:03 | 2025-07-12 |  |
 | [Everyday](https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk) | [TMP Offisial](https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Everyday](https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG) | 3:10 | 2025-07-12 |  |
+| [Feel Free](https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:27 | 2025-11-30 |  |
 | [Gbedu](https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:47 | 2025-07-12 |  |
 | [Give Me No Stress \(GMNS\)](https://open.spotify.com/track/2Kzc2qnO9wKvMoDuSHkL5W) | [Jayfred](https://open.spotify.com/artist/1bnbgn11Ow9KZiL0AYiA9R), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Give Me No Stress 2.0](https://open.spotify.com/album/49VGlMgyFKCHuqexCt480e) | 2:50 | 2025-07-12 | 2025-07-24 |
 | [Good Life](https://open.spotify.com/track/0U41OjwzjJEiyTUgAMqn9Y) | [Marleykiddo](https://open.spotify.com/artist/09gRSQOoMvuN6nxM5B7LlK), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Good Life](https://open.spotify.com/album/0HxAGJYlpgABL4M0m8EqCK) | 2:52 | 2025-07-12 |  |
@@ -36,12 +37,14 @@
 | [Lock Up](https://open.spotify.com/track/4mMPMgxDded2eGZdwbRwET) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:14 | 2025-07-12 |  |
 | [Lonely Road](https://open.spotify.com/track/2aCskdq9N9RczrwEujAV13) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Lonely Road](https://open.spotify.com/album/4zldXsyHbRQL9nP17xiFom) | 2:37 | 2025-10-12 |  |
 | [Looku Looku](https://open.spotify.com/track/4A87TvnOZEL6GPapkVxQv5) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:07 | 2025-07-12 |  |
+| [Lose My Mind](https://open.spotify.com/track/7p0zRjSeJu091IdVihXMHt) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 2:30 | 2025-11-30 |  |
 | [Mario](https://open.spotify.com/track/5Ck0RUDWbZs5npuXRmjIKU) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur](https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum) | 2:14 | 2025-07-12 |  |
 | [Missing You](https://open.spotify.com/track/1KxYfIiCW0YlquoWzKxiLR) | [Dwillsharmony](https://open.spotify.com/artist/2YwDVfjkQC1aBQ9E7B5URm), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Brap Music](https://open.spotify.com/album/2lSAYhfgL4uzYGkna46tmy) | 2:21 | 2025-07-12 | 2025-10-17 |
 | [Motivate](https://open.spotify.com/track/5IlYtBboFCW7mGDhT3vsgM) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 2:41 | 2025-07-12 |  |
 | [My Brother](https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Shakur \(Deluxe\)](https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE) | 2:57 | 2025-07-12 |  |
 | [My Brother 2.0](https://open.spotify.com/track/7t1bcvtAYRt6izlGCqnyml) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [My Brother 2.0](https://open.spotify.com/album/2kGE9LC3H7HE1yszEBPMDI) | 2:53 | 2025-08-06 | 2025-09-01 |
 | [My Life](https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El Major](https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn) | 2:11 | 2025-07-12 |  |
+| [Nigga](https://open.spotify.com/track/0voiVxfuDYLdwVTmE4bErO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 3:05 | 2025-11-30 |  |
 | [Oba \(feat\. Barry Jhay\)](https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [The Fresh Prince Of Lagos](https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc) | 3:08 | 2025-07-12 |  |
 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 | 2025-07-12 |  |
 | [Overload \(Kala\)](https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Never Stop Vol\. 1](https://open.spotify.com/album/45fYE42AOHnBxsOFcKSoxw) | 2:29 | 2025-07-12 |  |

@@ -3319,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "MUSAFIR (Live)",
+        "url": "https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282739,
+      "name": "Faqeeran - Live",
+      "url": "https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL"
+    },
+    {
+      "album": {
         "name": "Farq hai",
         "url": "https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp"
       },
@@ -5492,6 +5510,24 @@
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
+    },
+    {
+      "album": {
+        "name": "Asim Ali",
+        "url": "https://open.spotify.com/album/1jwD9DRyItX9qyVSpTDB0Y"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Khabbay Sajjay",
+      "url": "https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S"
     },
     {
       "album": {
@@ -11892,7 +11928,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"

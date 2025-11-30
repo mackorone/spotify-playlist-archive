@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: lovehead
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,032 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,027 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [Erst wenn die Sterne](https://open.spotify.com/track/4eY0kOz83lO8PtQqtTn9SV) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:15 |
 | 11 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 |
 | 12 | [wet dreams](https://open.spotify.com/track/5KwATHeuUTsnpR5GytIZdL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [you ruined me but it was fun](https://open.spotify.com/album/4ntuB099TOzQe5TOHEYoCP) | 2:21 |
-| 13 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
-| 14 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 |
+| 13 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 |
+| 14 | [ausnahmsweise](https://open.spotify.com/track/3itv6ZboXuuklHkb5kHWVx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [ausnahmsweise](https://open.spotify.com/album/1SzOe7VovQFWisdh0AWfyJ) | 2:31 |
 | 15 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
 | 16 | [Wärst du mir nie passiert](https://open.spotify.com/track/5SZEk5aStVnpNZEL3UDkHq) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Wärst du mir nie passiert](https://open.spotify.com/album/37jDHjcvjIRX0sf5iVUBgO) | 3:52 |
 | 17 | [call me](https://open.spotify.com/track/3o5xs0n7mzfds8XIMpprzr) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [call me](https://open.spotify.com/album/3wgb5xHINzfClUvD4IMJWC) | 2:16 |
-| 18 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
-| 19 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 |
+| 18 | [Walking Dead](https://open.spotify.com/track/5HxM2jPKF3DqXiyCYdkOnm) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Leben überleben EP](https://open.spotify.com/album/3MRa3aTo1r7Igx07Hw5H0J) | 2:54 |
+| 19 | [denk drüber nach](https://open.spotify.com/track/4WFNFa8uTTM16IxAZmTgbf) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [denk drüber nach](https://open.spotify.com/album/6Ri7121jkz7cjowhiMQGxW) | 2:28 |
 | 20 | [OOTD](https://open.spotify.com/track/4U3edtNc6WtVLsjaWc6bZ6) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [OOTD](https://open.spotify.com/album/5uI3XadrVfI5iAPDMBnUdv) | 2:07 |
 | 21 | [Hasskick](https://open.spotify.com/track/5reeQyPMtsR5eE4guN82HH) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Hasskick](https://open.spotify.com/album/19ZRqRa32RP3dnKnOYuGdT) | 2:24 |
 | 22 | [rote ampeln](https://open.spotify.com/track/22HjXqGnKDZwsevlnsruJt) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [rote ampeln](https://open.spotify.com/album/44NjT6CFxO77HmbKZrs7VS) | 2:17 |

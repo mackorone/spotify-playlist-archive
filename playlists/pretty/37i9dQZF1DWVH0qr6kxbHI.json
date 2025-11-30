@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 103380,
+  "num_followers": 103406,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Marinero De Luces",
-        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 182826,
-      "name": "Marinero de Luces",
-      "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
         "name": "15 Exitos Originales Con Rocio Jurado",
         "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
       },
@@ -487,18 +471,18 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "Marinero De Luces",
+        "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+      "duration_ms": 182826,
+      "name": "Marinero de Luces",
+      "url": "https://open.spotify.com/track/24UBqV1xJwNUns7nJVIbDu"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -515,6 +499,22 @@
       "duration_ms": 252213,
       "name": "Beso a beso... dulcemente",
       "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -991,18 +991,22 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Mujeres de M\u00fasica",
-        "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
+        "name": "A Bola De Nieve",
+        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
       },
       "artists": [
         {
-          "name": "Sole Gimenez",
-          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 243386,
-      "name": "El Talism\u00e1n",
-      "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
+      "duration_ms": 262811,
+      "name": "Alma M\u00eda",
+      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -1031,22 +1035,18 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "A Bola De Nieve",
-        "url": "https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o"
+        "name": "Mujeres de M\u00fasica",
+        "url": "https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Sole Gimenez",
+          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
         }
       ],
-      "duration_ms": 262811,
-      "name": "Alma M\u00eda",
-      "url": "https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY"
+      "duration_ms": 243386,
+      "name": "El Talism\u00e1n",
+      "url": "https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv"
     },
     {
       "added_at": "2025-03-13 23:00:12",

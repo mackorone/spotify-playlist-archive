@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Crystal Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,683 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,980 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 38 | [Rhythm Is a Mystery \- Non\-Stop Edit](https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Universal](https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg) | 5:54 |
 | 39 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
 | 40 | [How Do I Let Go](https://open.spotify.com/track/78F73J161TlcsWC7JckBZi) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [K.T\. Brooks](https://open.spotify.com/artist/0bDOIlJ0JD5pIKym4tvSNq) | [How Do I Let Go](https://open.spotify.com/album/2ktBDrGM9pKbxODAcWocIb) | 3:22 |
-| 41 | [People Hold On \(feat\. Lisa Stansfield\) \- Radio Edit](https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:59 |
-| 42 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
+| 41 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
+| 42 | [People Hold On \(feat\. Lisa Stansfield\) \- Radio Edit](https://open.spotify.com/track/2otqG46XEXtJu5uqDUNEF7) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:59 |
 | 43 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
 | 44 | [Rich in Paradise \(Going Back to My Roots\) \- Vocal Remix](https://open.spotify.com/track/7aetPME2AVagb4pKlIVbHM) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Rich in Paradise \(Going Back to My Roots\)](https://open.spotify.com/album/4XTPgyDIA0ve6BUPAH03A8) | 5:51 |
 | 45 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:50 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 50 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 51 | [Do You Want Me Baby \- Original Club Mix](https://open.spotify.com/track/7bT6fPUWS7Aaa1yBzV0mc7) | [Cloud 9](https://open.spotify.com/artist/2VHfPcIjhqDGtynhFU3eSH) | [Do You Want Me Baby](https://open.spotify.com/album/1pUavhgKfSopQv4NmpyQGy) | 8:02 |
 | 52 | [Bar A Thym](https://open.spotify.com/track/44EI5kN4bHMLhC7lNjcnuK) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Bar A Thym](https://open.spotify.com/album/427uD7Rynht1g02trUY1Nr) | 3:08 |
-| 53 | [Doctorin' the House \(feat\. Yazz & The Plastic Population\)](https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Yazz & The Plastic Population](https://open.spotify.com/artist/1iGa7B3SPZFAOKiEzZWnbi) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:46 |
-| 54 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
+| 53 | [Weekend](https://open.spotify.com/track/4nSB2aHenBe3oRKTT9bGxr) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Greatest Hits](https://open.spotify.com/album/3TJa2fDH0LkAT2A6nZfzMW) | 5:42 |
+| 54 | [Doctorin' the House \(feat\. Yazz & The Plastic Population\)](https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND), [Yazz & The Plastic Population](https://open.spotify.com/artist/1iGa7B3SPZFAOKiEzZWnbi) | [People Hold On \- The Best Of Coldcut](https://open.spotify.com/album/50mjmyOsJDcz1rrzZmwVML) | 3:46 |
 | 55 | [Love Come Down \- Club Vocal Mix](https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69) | [Club Classics](https://open.spotify.com/album/7myZnxCkCwmL67BJ1X6U3m) | 8:36 |
 | 56 | [Let's Get Brutal \- Brutal House](https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo) | [Nitro Deluxe](https://open.spotify.com/artist/6KcNmchIyvo5TqzjfJtwYR) | [Let's Get Brutal](https://open.spotify.com/album/0EvnsXix5UTUJH8lXHAgdI) | 7:11 |
 | 57 | [Pick Up The Phone](https://open.spotify.com/track/2uvFIGn79RLOHP1MeXI1Tr) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 4:30 |

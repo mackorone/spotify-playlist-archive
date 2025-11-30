@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Sunday Evening",
+        "url": "https://open.spotify.com/album/3Mxh22R5GYKdxkbqt0KXO8"
+      },
+      "artists": [
+        {
+          "name": "kroonch",
+          "url": "https://open.spotify.com/artist/3XwKaQzzykRkBs7rLY5avT"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142532,
+      "name": "Sunday Evening",
+      "url": "https://open.spotify.com/track/6rudmQGuyCFqoYJgOnpxbw"
+    },
+    {
+      "album": {
         "name": "Wheatus",
         "url": "https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW"
       },

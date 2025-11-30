@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,801 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,815 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 27 | [Tão Linda](https://open.spotify.com/track/59WWulo1LM0njpIkcduCMn) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Casa 67](https://open.spotify.com/album/3pQuAFj4vMjHbLlBzectUV) | 2:27 |
 | 28 | [Malandramente](https://open.spotify.com/track/7DRP2VOMpy1rrk3iYFLCW9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Nandinho](https://open.spotify.com/artist/4962T3pz7AkQQaDNVBbEXf), [Nego Bam](https://open.spotify.com/artist/2XxoyHwf1qOWsJIq8y83cw) | [Malandramente](https://open.spotify.com/album/23TjtX6Ibz6fbK1pmLhPjC) | 2:51 |
 | 29 | [VAI MENINA](https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [VAI MENINA](https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY) | 2:02 |
-| 30 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
-| 31 | [Bum Bum Tam Tam](https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [Bum Bum Tam Tam](https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG) | 2:35 |
+| 30 | [Bum Bum Tam Tam](https://open.spotify.com/track/7KBfjlQ85Fqs2MCCvXSW0c) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Novo Império](https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu) | [Bum Bum Tam Tam](https://open.spotify.com/album/1UztRYkao2VfuSoSlbYVJG) | 2:35 |
+| 31 | [Bang](https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bang](https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK) | 3:10 |
 | 32 | [Toda Toda](https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3) | [Pikeno & Menor](https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV) | [Toda Toda](https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0) | 3:00 |
 | 33 | [Contatinho \- Ao Vivo](https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Contatinho \(Ao Vivo\)](https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA) | 2:53 |
 | 34 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 63 | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \- Ao Vivo](https://open.spotify.com/track/7vLG0D8ouHd4brF5TVJQya) | [Henrique & Diego](https://open.spotify.com/artist/1D6vAeVUcgMbSx80IA3Zun), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Malbec \(Part\. DENNIS\) \(feat\. DENNIS\) \[Ao Vivo\]](https://open.spotify.com/album/6Wd7qE3WGz6fZatTWZ1Zkj) | 3:33 |
 | 64 | [Litrão \- Ao Vivo Em Recife / 2020](https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [10 Anos Na Praia \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl) | 2:50 |
 | 65 | [Encaixa](https://open.spotify.com/track/6VXpxDMdPfMrFF8UmZRm87) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Encaixa](https://open.spotify.com/album/2aIFyJR1TbFuxBjRXt3UMA) | 2:49 |
-| 66 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
-| 67 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
-| 68 | [O Mundo Dá Voltas](https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas](https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o) | 2:56 |
+| 66 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
+| 67 | [O Mundo Dá Voltas](https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [O Mundo Dá Voltas](https://open.spotify.com/album/6vsf2KnzQqYCk3ZooylJ7o) | 2:56 |
+| 68 | [Bixinho](https://open.spotify.com/track/04RFAnuBZkyITGUNIbZHhb) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:25 |
 | 69 | [Festa no Apê \(Dragostea Din Tei\)](https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ) | [Latino](https://open.spotify.com/artist/06EMbW4WO6U4fGNnKjeuI5) | [Latino Apresenta as Aventuras de DJ L \- Festa no Apê](https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG) | 4:11 |
 | 70 | [Loka](https://open.spotify.com/track/4rMTRPQcWIcZAlKR8bygRY) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Duetos](https://open.spotify.com/album/7duv0ozDPdbrjVq38Hhw9x) | 3:35 |
 | 71 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |

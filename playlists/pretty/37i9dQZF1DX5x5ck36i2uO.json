@@ -1,6 +1,6 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Enjoy hip-hop music with a soft, luxurious jazz flavor.)",
-  "num_followers": 7630,
+  "num_followers": 7643,
   "original_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-10-22 06:19:58",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
-      },
-      "artists": [
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "WITHOUT ME",
-      "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"
-    },
-    {
-      "added_at": "2025-10-22 06:19:58",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": "2025-10-22 06:19:58",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
         }
       ],
-      "duration_ms": 182013,
-      "name": "Chingchingching (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+      "duration_ms": 173946,
+      "name": "WITHOUT ME",
+      "url": "https://open.spotify.com/track/0w9YTapeo8WSqMnUFRM6fO"
     },
     {
       "added_at": "2025-10-22 06:19:58",
@@ -551,6 +531,26 @@
       "duration_ms": 265898,
       "name": "Same Breed",
       "url": "https://open.spotify.com/track/2t6V3C2YW7GkrmN5lvUjmg"
+    },
+    {
+      "added_at": "2025-10-22 06:19:58",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Chingchingching (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
     },
     {
       "added_at": "2025-10-22 06:19:58",
@@ -847,38 +847,6 @@
     {
       "added_at": "2025-10-22 06:19:58",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
-    },
-    {
-      "added_at": "2025-10-22 06:19:58",
-      "album": {
-        "name": "Gwichanist",
-        "url": "https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7"
-      },
-      "artists": [
-        {
-          "name": "Park Kyung",
-          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Gwichanist",
-      "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
-    },
-    {
-      "added_at": "2025-10-22 06:19:58",
-      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 248896,
       "name": "today also (feat. Paloalto & The Quiett)",
       "url": "https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X"
+    },
+    {
+      "added_at": "2025-10-22 06:19:58",
+      "album": {
+        "name": "Gwichanist",
+        "url": "https://open.spotify.com/album/3r5Kq9OqzOjVZWkOY0GZD7"
+      },
+      "artists": [
+        {
+          "name": "Park Kyung",
+          "url": "https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Gwichanist",
+      "url": "https://open.spotify.com/track/15lMi1pGF3IsKBQMsHeyHw"
+    },
+    {
+      "added_at": "2025-10-22 06:19:58",
+      "album": {
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
     },
     {
       "added_at": "2025-10-22 06:19:58",
@@ -963,26 +963,18 @@
     {
       "added_at": "2025-10-22 06:19:58",
       "album": {
-        "name": "Summer Grooves",
-        "url": "https://open.spotify.com/album/5I13UDFjkrH0U9btBd4Mey"
+        "name": "natural high",
+        "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
       "artists": [
         {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        },
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        },
-        {
-          "name": "Ja Mezz",
-          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
         }
       ],
-      "duration_ms": 221112,
-      "name": "Price Tag (feat. Jessi, Ja Mezz)",
-      "url": "https://open.spotify.com/track/3bOJ2oxgtl5XikXtdGVxUv"
+      "duration_ms": 172225,
+      "name": "paris and tokyo",
+      "url": "https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM"
     }
   ],
   "unique_name": "\uc7ac\uc988-\ud799 \uce74\ud398 (Jazz-Hip Cafe)",

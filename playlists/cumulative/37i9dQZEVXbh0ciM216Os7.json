@@ -613,6 +613,28 @@
     },
     {
       "album": {
+        "name": "The Sword & The Soaring",
+        "url": "https://open.spotify.com/album/2wPVVuPpzNhCIZrH8Uwxq3"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175958,
+      "name": "24 Gospel",
+      "url": "https://open.spotify.com/track/2d16PkCqIaZIf31xPJ6qPK"
+    },
+    {
+      "album": {
         "name": "247365",
         "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
       },
@@ -8950,7 +8972,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 193635,
       "name": "California Games (feat. Earl Sweatshirt)",
       "url": "https://open.spotify.com/track/1xEqdMfvDPGcwFklsaC35w"
@@ -11448,7 +11470,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 174375,
       "name": "Come and Go",
       "url": "https://open.spotify.com/track/4bK7oS1X4zlvreEO3IbGFd"
@@ -12224,6 +12246,32 @@
       "duration_ms": 208114,
       "name": "CUPID'S GIRL",
       "url": "https://open.spotify.com/track/6J3iKDREvATgK5GHbc8SAE"
+    },
+    {
+      "album": {
+        "name": "Cups Up",
+        "url": "https://open.spotify.com/album/5t6NHOtIytcJEcWw4tzshK"
+      },
+      "artists": [
+        {
+          "name": "Eric Leo 108",
+          "url": "https://open.spotify.com/artist/1rZN0phOseB2V5JmKD7nuE"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lone Wolf",
+          "url": "https://open.spotify.com/artist/6aBdLuTm1yiQYxSrbqy6bG"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206942,
+      "name": "Cups Up",
+      "url": "https://open.spotify.com/track/6cER8RAH8B3BAD1VvaaCak"
     },
     {
       "album": {
@@ -16014,7 +16062,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 120000,
       "name": "Drop That Shit",
       "url": "https://open.spotify.com/track/2XtjdpFZ9ZovLAy2RJrv3r"
@@ -16856,7 +16904,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 146350,
       "name": "En catimini",
       "url": "https://open.spotify.com/track/7qIgvOXOBQI2sGJHakCfS4"
@@ -18564,7 +18612,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 177233,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6gXkK7zdUFcRjWmGwOfdBf"
@@ -37572,7 +37620,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 180520,
       "name": "Mistral gagnant",
       "url": "https://open.spotify.com/track/49NmdLm2SFNUqmDjrOqDkM"
@@ -38218,7 +38266,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 248455,
       "name": "Move In Silence",
       "url": "https://open.spotify.com/track/3il4y44v2aMLfp96IJg7qu"
@@ -45522,7 +45570,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 388853,
       "name": "Precursor",
       "url": "https://open.spotify.com/track/0M1UEWcNQLmuXfyvOvqyAN"
@@ -47086,7 +47134,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 212108,
       "name": "red moon",
       "url": "https://open.spotify.com/track/22ZQR1KpOHhy0GzqgTOIwQ"
@@ -48398,7 +48446,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 204003,
       "name": "Rooftop Shottas",
       "url": "https://open.spotify.com/track/5JB5bn1vu5b2MRehhI7HqK"
@@ -48818,6 +48866,28 @@
       "duration_ms": 216226,
       "name": "Rustin' In The Rain",
       "url": "https://open.spotify.com/track/7CYYZVnDYoUtNlSxNNz4P9"
+    },
+    {
+      "album": {
+        "name": "Upsetters",
+        "url": "https://open.spotify.com/album/4UWiXkJvG8oqaoAQFPFIQ1"
+      },
+      "artists": [
+        {
+          "name": "Bam Marley",
+          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Ryda",
+      "url": "https://open.spotify.com/track/0F7BwfqwpKdpfN1xMHZsNy"
     },
     {
       "album": {
@@ -52494,7 +52564,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 304059,
       "name": "Speedballin'",
       "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
@@ -57452,7 +57522,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
@@ -61660,7 +61730,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 209866,
       "name": "Upside Down (Candy Crush)",
       "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"

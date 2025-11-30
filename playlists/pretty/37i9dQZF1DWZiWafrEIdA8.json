@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13091,
+  "num_followers": 13097,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "OHAYO MY NIGHT",
-        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
-      },
-      "artists": [
-        {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        },
-        {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "OHAYO MY NIGHT",
-      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "OHAYO MY NIGHT",
+        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
+      },
+      "artists": [
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
+        },
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "OHAYO MY NIGHT",
+      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 242999,
-      "name": "Let's Not Love Each Other",
-      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "Bucket List",
         "url": "https://open.spotify.com/album/0lviZJTZcp60rZnT5vYdqB"
       },
@@ -403,6 +387,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 242999,
+      "name": "Let's Not Love Each Other",
+      "url": "https://open.spotify.com/track/6MPAgclYe1F9LSYXxOuoBC"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
         "name": "The Firstfruit - The 1st Album",
         "url": "https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s"
       },
@@ -419,22 +419,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
+        "name": "He's next to you, instead of me",
+        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
         },
         {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+          "name": "Kid Wine",
+          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
         }
       ],
-      "duration_ms": 165700,
-      "name": "Goodbye (Feat. Paul Blanco)",
-      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
+      "duration_ms": 172350,
+      "name": "He's next to you, instead of me",
+      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -459,22 +459,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "He's next to you, instead of me",
-        "url": "https://open.spotify.com/album/65frU52z7ggEmVQZyYz26n"
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr"
       },
       "artists": [
         {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         },
         {
-          "name": "Kid Wine",
-          "url": "https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb"
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
         }
       ],
-      "duration_ms": 172350,
-      "name": "He's next to you, instead of me",
-      "url": "https://open.spotify.com/track/25U5ea5BGlFK5318WduEzI"
+      "duration_ms": 165700,
+      "name": "Goodbye (Feat. Paul Blanco)",
+      "url": "https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -759,46 +759,6 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        },
-        {
-          "name": "\ucfe0\uae30 (Coogie)",
-          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Shawty (feat. Coogie)",
-      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
         "name": "Show Me The Money 9 Final",
         "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
       },
@@ -823,6 +783,46 @@
       "duration_ms": 247718,
       "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
       "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        },
+        {
+          "name": "\ucfe0\uae30 (Coogie)",
+          "url": "https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Shawty (feat. Coogie)",
+      "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -891,26 +891,26 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Rainy day",
-        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
       "artists": [
         {
-          "name": "PATEKO (\ud30c\ud14c\ucf54)",
-          "url": "https://open.spotify.com/artist/4ykNV9I9CWhbELAORYGBHj"
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         },
         {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 218250,
-      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
-      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -955,26 +955,46 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
         },
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "BE'O (\ube44\uc624)",
+          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
         }
       ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 199064,
+      "name": "Deep Sea (Feat. BE'O)",
+      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
+    },
+    {
+      "added_at": "2025-09-29 05:04:58",
+      "album": {
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+      },
+      "artists": [
+        {
+          "name": "PATEKO (\ud30c\ud14c\ucf54)",
+          "url": "https://open.spotify.com/artist/4ykNV9I9CWhbELAORYGBHj"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -995,26 +1015,6 @@
       "duration_ms": 190812,
       "name": "Action! (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3IW5rhsRBxstifAnjQyUI9"
-    },
-    {
-      "added_at": "2025-09-29 05:04:58",
-      "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "BE'O (\ube44\uc624)",
-          "url": "https://open.spotify.com/artist/3O1NgDGuy8jlhgGUPBZXQ0"
-        }
-      ],
-      "duration_ms": 199064,
-      "name": "Deep Sea (Feat. BE'O)",
-      "url": "https://open.spotify.com/track/1yaEsGauwkaJsu2RO0rFLg"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

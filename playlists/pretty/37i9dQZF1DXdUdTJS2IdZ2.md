@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Dominic Chin, Gail Belmonte, Kevin Brendan
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,118 likes - 91 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,117 likes - 91 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

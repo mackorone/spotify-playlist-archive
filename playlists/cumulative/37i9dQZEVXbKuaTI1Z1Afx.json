@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 198214,
       "name": "Ain't My Problem",
       "url": "https://open.spotify.com/track/7lhb3fFKswRpLMWR4zG4zK"
@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 1116933,
       "name": "Alice's Restaurant Massacree",
       "url": "https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml"
@@ -11222,10 +11222,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
+    },
+    {
+      "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/39lqXTGWSFVC9Qx0KEnKpD"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138657,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9"
     },
     {
       "album": {
@@ -14340,7 +14358,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -15534,6 +15552,40 @@
       "duration_ms": 173800,
       "name": "Classy Girl",
       "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Kimiko Glenn",
+          "url": "https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA"
+        },
+        {
+          "name": "Erika Henningsen",
+          "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67558,
+      "name": "Clean It Up!",
+      "url": "https://open.spotify.com/track/53CnanPxbhecUExO9EIinJ"
     },
     {
       "album": {
@@ -20926,6 +20978,44 @@
       "duration_ms": 97324,
       "name": "Don't You Forget",
       "url": "https://open.spotify.com/track/6XYSYV2avqhOl9BRexar7S"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Amir Talai",
+          "url": "https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107338,
+      "name": "Don't You Forget (Reprise)",
+      "url": "https://open.spotify.com/track/4GWl0BXvpoZL6B8e1f6Nn9"
     },
     {
       "album": {
@@ -33126,7 +33216,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 223759,
       "name": "heavens in ashes",
       "url": "https://open.spotify.com/track/3MNCLvaxxaJ5SbtYxxtrRd"
@@ -37240,7 +37330,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -77214,7 +77304,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 383066,
       "name": "Thank Goodness - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/0zdjVFe5tqhgJVXLkvA8FX"

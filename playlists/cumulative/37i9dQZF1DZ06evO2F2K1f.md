@@ -4,7 +4,7 @@
 
 > This is Alan Hawkshaw\. The essential tracks, all in one playlist.
 
-180 songs - 7 hr 59 min
+181 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Parisian Jazz](https://open.spotify.com/track/3DQZfDxqIGQhNWoVZLmuke) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Hawk's Hammond Lounge](https://open.spotify.com/album/4X9dIVJaDcGMQCJEUqLS7h) | 2:20 | 2024-04-19 | 2024-10-25 |
 | [Past Mysteries](https://open.spotify.com/track/2l45gjZ9Acxe9DG6MIW0YI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Mystery & Imagination](https://open.spotify.com/album/50VQPVat6a9TS8KBc6hTyl) | 2:13 | 2023-11-10 | 2023-12-14 |
 | [Piccadilly Night Ride](https://open.spotify.com/track/1zi8xWfni4JFoPbxp8dLKL) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Soul Organ Showcase](https://open.spotify.com/album/0igqSRlReNwphFAqsflrOZ) | 1:53 | 2022-05-29 | 2023-12-25 |
-| [Picture Book](https://open.spotify.com/track/2YmyZSrYMrDoYiftxppH12) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Piano \- Vol 1](https://open.spotify.com/album/7IUyjlpEGaMJvEyO5iMIVj) | 1:45 | 2025-11-27 |  |
+| [Picture Book](https://open.spotify.com/track/2YmyZSrYMrDoYiftxppH12) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Piano \- Vol 1](https://open.spotify.com/album/7IUyjlpEGaMJvEyO5iMIVj) | 1:45 | 2025-11-27 | 2025-11-30 |
 | [Power](https://open.spotify.com/track/3DCRPv4xrCiqKKdZqXAZzm) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Power](https://open.spotify.com/album/5yGxgTVRDLKGBbcz7Nzeet) | 2:50 | 2023-07-23 | 2023-08-09 |
 | [Powerboat](https://open.spotify.com/track/2T7So0EKMcfsIVlNsSV4TS) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/2LscdictQbjN7PTZZ2EjTO) | 1:31 | 2022-06-01 | 2022-10-22 |
 | [Powerboat](https://open.spotify.com/track/4rrNpVsELkya1KoOWorhOd) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Speed and Excitement](https://open.spotify.com/album/5rQHMZRMkdwgPwiznrkFTP) | 1:32 | 2022-10-21 | 2025-11-03 |
@@ -139,7 +139,7 @@
 | [Sand Yachting](https://open.spotify.com/track/63MuJGO2yjPZ583DolTJ7E) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [The Kpm 1000 Series \- Volume 2](https://open.spotify.com/album/4jJpvGq7HiXzNSNo7hm9lh) | 1:12 | 2023-07-14 | 2024-01-04 |
 | [Saturn Rings](https://open.spotify.com/track/77JPdHkaDLrXS1TrIieGnb) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Bruton BRI6: Frontiers of Science](https://open.spotify.com/album/69yhwzUOl8NMtkS4GatWat) | 4:02 | 2024-11-27 | 2025-11-10 |
 | [Scooter Girl](https://open.spotify.com/track/4bH1kAgbHVCtxhRFl98Q9L) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Friendly Faces](https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW) | 2:41 | 2022-10-12 | 2025-07-06 |
-| [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 |  |
+| [Senior Thump](https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:52 | 2022-05-29 | 2025-11-30 |
 | [Serengeti](https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Full Circle](https://open.spotify.com/album/21WmhUFUBlQ9txD3irSlAJ) | 4:02 | 2022-05-29 | 2025-08-15 |
 | [Sheer Elegance](https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Road Forward](https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp) | 3:37 | 2022-05-30 | 2023-07-07 |
 | [Ski Bird \(B\)](https://open.spotify.com/track/2UOzXaRrDnrfSeHSGaPQTq) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [New Blood](https://open.spotify.com/album/2BmJtmwBwF6VMFqYq0A7vn) | 1:43 | 2025-05-07 | 2025-05-17 |
@@ -186,7 +186,8 @@
 | [Warm Hearts](https://open.spotify.com/track/2pzAgXmj2nYGs012lGc5PP) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: Happy Rainbows](https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH) | 2:32 | 2024-01-02 | 2024-08-06 |
 | [Wave](https://open.spotify.com/track/2csqOHK4bCCxAJnSB2xeyS) | [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Dave Richmond](https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI) | [Misty Collage](https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD) | 3:20 | 2025-08-24 | 2025-10-17 |
 | [Weekend](https://open.spotify.com/track/40JxNRnTUrSsWqs2mRM4TS) | [Alan Parker](https://open.spotify.com/artist/0ZpOIHGVsM7vMZqPt4i214), [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Contemporary Contrasts](https://open.spotify.com/album/0MKFedbFML6oMKAt1KOAxv) | 2:26 | 2022-05-29 | 2022-10-06 |
-| [Where the Action Is](https://open.spotify.com/track/7h1wuuntA9VgK2lP7wI1UI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 2:17 | 2022-05-29 | 2025-10-07 |
+| [Where the Action Is](https://open.spotify.com/track/7h1wuuntA9VgK2lP7wI1UI) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 2:17 | 2022-05-29 |  |
 | [Work Out](https://open.spotify.com/track/0kf25bZM9C8ejuDlYpg3eT) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Kpm 1000 Series: The Big Beat](https://open.spotify.com/album/4KEAda0cN0G2cBoXHfd3uD) | 2:57 | 2022-05-29 | 2022-10-09 |
+| [You Can Feel It](https://open.spotify.com/track/5BSBwhs2SR4dzDOosFP91f) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T) | [Jingles](https://open.spotify.com/album/7ffA6LFEfV4ICI9LTP0dUF) | 0:34 | 2025-11-30 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

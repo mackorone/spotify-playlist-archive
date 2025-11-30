@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 21277,
+  "num_followers": 21272,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "Nobody Else But Me",
+        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "Cande y Paulo",
         "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 240080,
       "name": "Talking to Myself",
       "url": "https://open.spotify.com/track/7igFrxdpCKiipNBySbCEW5"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "Nobody Else But Me",
-        "url": "https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "The Complete Bill Evans On Verve",
-        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Dance Of Time",
         "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 230093,
       "name": "You\u2019re Getting To Be A Habit With Me",
       "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Complete Bill Evans On Verve",
+        "url": "https://open.spotify.com/album/5JcBkJPIWFx9jClWur21MU"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/41NyX03jK85HmFDpsn7prG"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Mrs. Cold",
-        "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 183766,
-      "name": "Mrs. Cold",
-      "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Essential Standards",
         "url": "https://open.spotify.com/album/0AvwcTbn5qkcniAQtQnkR7"
       },
@@ -471,18 +455,18 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+        "name": "Mrs. Cold",
+        "url": "https://open.spotify.com/album/1WhW0QimR7aDE0qoBhzCaz"
       },
       "artists": [
         {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 477973,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
+      "duration_ms": 183766,
+      "name": "Mrs. Cold",
+      "url": "https://open.spotify.com/track/2fZpBqtZeNpXxX5UiO0AVw"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -499,6 +483,22 @@
       "duration_ms": 214301,
       "name": "I'm In The Mood For Love - Take 3 / Alternate Take",
       "url": "https://open.spotify.com/track/7l5mzDFDI3DDtx0GUIdb68"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 477973,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "They Say It's Swing",
-        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
-      },
-      "artists": [
-        {
-          "name": "Clare Teal",
-          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
-        }
-      ],
-      "duration_ms": 249997,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Let's Face the Music",
         "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
+        "name": "They Say It's Swing",
+        "url": "https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+          "name": "Clare Teal",
+          "url": "https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK"
         }
       ],
-      "duration_ms": 190345,
-      "name": "Just A Little Lovin'",
-      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
+      "duration_ms": 249997,
+      "name": "They Say It's Spring",
+      "url": "https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -751,6 +735,22 @@
       "duration_ms": 256972,
       "name": "You Must Believe In Spring",
       "url": "https://open.spotify.com/track/0Dxk6UYxVDP89OKxFEGkse"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 190345,
+      "name": "Just A Little Lovin'",
+      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Avril au Portugal",
+      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Avril au Portugal",
-      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
-      },
-      "artists": [
-        {
-          "name": "Cyrille Aimee",
-          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
-        },
-        {
-          "name": "Michael Valeanu",
-          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
-        }
-      ],
-      "duration_ms": 310505,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv"
+      },
+      "artists": [
+        {
+          "name": "Cyrille Aimee",
+          "url": "https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM"
+        },
+        {
+          "name": "Michael Valeanu",
+          "url": "https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv"
+        }
+      ],
+      "duration_ms": 310505,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/1I2V94ah55zM9dsNDErzDg"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 179906,
-      "name": "I Can't Be Bothered Now",
-      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
         "name": "Caity Gyorgy Quartet",
         "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 347088,
       "name": "I've Never Been in Love Before",
       "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 179906,
+      "name": "I Can't Be Bothered Now",
+      "url": "https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX"
     },
     {
       "added_at": "2025-03-13 14:14:40",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-03-13 14:14:40",
       "album": {
+        "name": "No Bounds",
+        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 287680,
+      "name": "East of The Sun",
+      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
+    },
+    {
+      "added_at": "2025-03-13 14:14:40",
+      "album": {
         "name": "Because I Love You",
         "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 192726,
       "name": "Keep It in Your Dreams",
       "url": "https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD"
-    },
-    {
-      "added_at": "2025-03-13 14:14:40",
-      "album": {
-        "name": "No Bounds",
-        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 287680,
-      "name": "East of The Sun",
-      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
     },
     {
       "added_at": "2025-03-13 14:14:40",

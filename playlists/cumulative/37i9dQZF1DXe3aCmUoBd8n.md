@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: Bessan Ismail
 
-214 songs - 12 hr 18 min
+215 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Bi Saraha](https://open.spotify.com/track/2TkmosdPkJXcjhvMzscrYP) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Bi Saraha](https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E) | 3:19 | 2023-12-27 | 2025-08-08 |
 | [Bil Alb](https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Bil Alb](https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph) | 3:30 | 2022-05-04 | 2023-03-14 |
 | [Bkhounak](https://open.spotify.com/track/3OJavGar3xFkSaEyEZQG7O) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [Bkhounak](https://open.spotify.com/album/2vCxyxg3tr3H7IwLVizPn2) | 3:15 | 2023-01-05 | 2023-06-03 |
+| [BSATEK](https://open.spotify.com/track/62YU4h92VO9GUQd2HKTtvr) | [Al Walid Hallani](https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v) | [BSATEK](https://open.spotify.com/album/5oTYAJ3fwbQDeeY2yCQOig) | 2:45 | 2025-11-29 |  |
 | [Byekhtelif El Hadis](https://open.spotify.com/track/6cy3DFiCOxFPFvqJB4Yhqe) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Byekhtelif El Hadis](https://open.spotify.com/album/5rvsqtrHc5RUoa5MoIzpyf) | 3:13 | 2022-05-04 | 2022-07-17 |
 | [Caramella](https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Caramella](https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn) | 3:52 | 2023-05-19 | 2023-06-28 |
 | [Dawri Sar](https://open.spotify.com/track/7swi5ILNDVCNhW1ApDPLmD) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Dawri Sar](https://open.spotify.com/album/4XnQZAbNysFQyFlYSHEzw4) | 3:28 | 2022-05-04 | 2023-03-14 |
@@ -101,7 +102,7 @@
 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-03-11 | 2024-05-22 |
 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 | 2022-05-04 | 2023-03-14 |
 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 | 2022-06-20 | 2024-10-09 |
-| [Khedi El Ghamrat](https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Khedi El Ghamrat](https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW) | 4:13 | 2024-02-29 |  |
+| [Khedi El Ghamrat](https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Khedi El Ghamrat](https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW) | 4:13 | 2024-02-29 | 2025-11-30 |
 | [Kif Emelet Hek](https://open.spotify.com/track/7uhoDFQsiftPbBnFt43I3k) | [Bilal Derky](https://open.spotify.com/artist/7E3aW1jsT4X56lJObxhXKp) | [Kif Emelet Hek](https://open.spotify.com/album/3stx0xqIaGlFBK74Pg3FOZ) | 3:02 | 2025-10-08 |  |
 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 | 2025-07-14 |  |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-03-13 | 2025-03-20 |

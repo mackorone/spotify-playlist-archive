@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Zo\u00eb M\u00eb",
-  "num_followers": 37973,
+  "num_followers": 37975,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Si t'\u00e9tais l\u00e0",
-        "url": "https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN"
-      },
-      "artists": [
-        {
-          "name": "Vendredi sur Mer",
-          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Si t'\u00e9tais l\u00e0",
-      "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Unexplainable",
         "url": "https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 241888,
       "name": "Unexplainable",
       "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Si t'\u00e9tais l\u00e0",
+        "url": "https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Arthouse",
-        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 199246,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Superpower",
         "url": "https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Fire To The Sky",
-        "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
+        "name": "Arthouse",
+        "url": "https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 165206,
-      "name": "Fire To The Sky",
-      "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+      "duration_ms": 199246,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6UxvtR5RrvJSeEvgAj7nkD"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -583,6 +567,22 @@
       "duration_ms": 193271,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Fire To The Sky",
+        "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 165206,
+      "name": "Fire To The Sky",
+      "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
+        "name": "Hocus Pocus",
+        "url": "https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9"
+      },
+      "artists": [
+        {
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
+        }
+      ],
+      "duration_ms": 165012,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 329980,
       "name": "One Day Will Be All I Have",
       "url": "https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
-        "name": "Hocus Pocus",
-        "url": "https://open.spotify.com/album/2NuJzv8IX168RGNUb5xpX9"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 165012,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Casanova",
         "url": "https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c"
       },
@@ -799,18 +783,18 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
         }
       ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -835,22 +819,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Honeymoon In A Motel",
-        "url": "https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 170231,
-      "name": "Pity Party Princess",
-      "url": "https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Fontaine",
         "url": "https://open.spotify.com/album/0wYNIoGeymmGNHIuPBafWU"
       },
@@ -867,6 +835,22 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
         "name": "No Quiero Perderte",
         "url": "https://open.spotify.com/album/57HnrjBWppxIkQCYxRUk5b"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 211105,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/3LJDNWMVVP5i5qvWIvcuma"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Honeymoon In A Motel",
+        "url": "https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 170231,
+      "name": "Pity Party Princess",
+      "url": "https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "No Time to Cry",
         "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 182320,
       "name": "No Time to Cry",
       "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Sombrero",
-        "url": "https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 181900,
-      "name": "Sombrero",
-      "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/13D2CoRwXl97xpKUl7Ijh8"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 173848,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/34nhR5m1ASOnTdMAEMk8go"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Sombrero",
+        "url": "https://open.spotify.com/album/6fxag6Jsr29s01KXH2jcRi"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 181900,
+      "name": "Sombrero",
+      "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "New Her",
-        "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "New Her",
-      "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 180590,
       "name": "Chlorine",
       "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "New Her",
+        "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "New Her",
+      "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Da bist du",
-        "url": "https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 134750,
-      "name": "Da bist du",
-      "url": "https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Stories of the XXI",
         "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 175093,
       "name": "Call Me in L.A.",
       "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Da bist du",
+        "url": "https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 134750,
+      "name": "Da bist du",
+      "url": "https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Drama Baby",
-        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 177168,
-      "name": "Drama Baby",
-      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Time to Shine",
         "url": "https://open.spotify.com/album/479IBiAj7jR4ftHkwpUwHt"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 163338,
       "name": "Time to Shine",
       "url": "https://open.spotify.com/track/6D3HZbLX4Z6UFb7ljFG2U0"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Drama Baby",
+        "url": "https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 177168,
+      "name": "Drama Baby",
+      "url": "https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Looking for Connection",
-        "url": "https://open.spotify.com/album/0WwA5WZDDbgWascJZRU2JU"
-      },
-      "artists": [
-        {
-          "name": "Veronica Fusaro",
-          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
-        }
-      ],
-      "duration_ms": 257074,
-      "name": "If Not for You",
-      "url": "https://open.spotify.com/track/1jZTxmMtimtorM3QarvYfI"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 190652,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Looking for Connection",
+        "url": "https://open.spotify.com/album/0WwA5WZDDbgWascJZRU2JU"
+      },
+      "artists": [
+        {
+          "name": "Veronica Fusaro",
+          "url": "https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW"
+        }
+      ],
+      "duration_ms": 257074,
+      "name": "If Not for You",
+      "url": "https://open.spotify.com/track/1jZTxmMtimtorM3QarvYfI"
     },
     {
       "added_at": "2025-11-27 23:00:20",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-11-27 23:00:20",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-11-27 23:00:20",
-      "album": {
         "name": "i always remember all of my dreams",
         "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 184761,
       "name": "oxygen",
       "url": "https://open.spotify.com/track/2mi0tvl5H88Z7hVvQVA27T"
+    },
+    {
+      "added_at": "2025-11-27 23:00:20",
+      "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2025-11-27 23:00:20",

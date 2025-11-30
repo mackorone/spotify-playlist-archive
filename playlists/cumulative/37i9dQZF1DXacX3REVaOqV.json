@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 431640,
       "name": "Brand New",
       "url": "https://open.spotify.com/track/1CGLtrIUkbyzg8MSFdMOLR"
@@ -12390,6 +12390,28 @@
       "duration_ms": 224262,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
+    },
+    {
+      "album": {
+        "name": "Superfly",
+        "url": "https://open.spotify.com/album/6CkW2TPDtIJY47EAbbr3Dj"
+      },
+      "artists": [
+        {
+          "name": "Fresh Coast",
+          "url": "https://open.spotify.com/artist/6AiABQVLpWNCWDhBmYbRqG"
+        },
+        {
+          "name": "Invisto",
+          "url": "https://open.spotify.com/artist/3Y1LHDoDCy1pGDfEOQ8B5x"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143709,
+      "name": "Superfly",
+      "url": "https://open.spotify.com/track/5Ifo63oBY9jOjA6dw3jBme"
     },
     {
       "album": {

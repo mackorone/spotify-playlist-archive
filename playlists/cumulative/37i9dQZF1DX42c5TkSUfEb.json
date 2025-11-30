@@ -699,6 +699,24 @@
     },
     {
       "album": {
+        "name": "Arrietty",
+        "url": "https://open.spotify.com/album/6E61ly04XAD00u5lbU3e34"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "Arrietty",
+      "url": "https://open.spotify.com/track/1IEjXJiCVNMmLDk9g2GXXW"
+    },
+    {
+      "album": {
         "name": "As Long As You'll Stay",
         "url": "https://open.spotify.com/album/3fsPGrtlrEATa73CcQvqsu"
       },
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 264880,
       "name": "Il neige",
       "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
@@ -4516,6 +4534,24 @@
       "duration_ms": 150656,
       "name": "Lisbon",
       "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Little House",
+      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
     },
     {
       "album": {
@@ -6002,7 +6038,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 146079,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"

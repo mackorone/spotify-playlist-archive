@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "In der Weihnachtsb\u00e4ckerei (Arr. Schindler for Piano)",
+        "url": "https://open.spotify.com/album/0IQTNUlNp4bpMGq0lHUztr"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162668,
+      "name": "In der Weihnachtsb\u00e4ckerei (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/2Gu4Mbjja2oAGd39EccnOH"
+    },
+    {
+      "album": {
         "name": "Lang Lang at Royal Albert Hall",
         "url": "https://open.spotify.com/album/1SATY0ddfZt1ybNSeYBLp9"
       },
@@ -714,7 +736,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 239360,
       "name": "Lyric Pieces, Book 3, Op. 43: No. 6, To Spring",
       "url": "https://open.spotify.com/track/2C9IBLwFL8uyY5kpUXPQSM"

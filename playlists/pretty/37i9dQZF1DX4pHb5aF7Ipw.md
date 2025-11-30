@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Fateh
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,109 likes - 75 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,128 likes - 75 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Panga Paigeya](https://open.spotify.com/track/581ZnL4eHPqiMh78BpFRao) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Don't Forget To Call](https://open.spotify.com/album/4NDQwpAA6rB7Y6X3e8LMxm) | 2:33 |
 | 2 | [XTENDO](https://open.spotify.com/track/4KFFpFCL20q0hiNGYyALhG) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Hukam](https://open.spotify.com/artist/1V6b071RjchShsUMJP0hB3) | [XTENDO](https://open.spotify.com/album/0NnmHvA8ULruGXTIGti2zv) | 2:40 |
-| 3 | [Born Rich](https://open.spotify.com/track/4SVK2fbxX05UWEDCPmDLH0) | [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Kunwaar](https://open.spotify.com/artist/5u3uXwYMVGHnONB7CISJUQ) | [Born Rich](https://open.spotify.com/album/0sWmQpd6OrB3iw9rAgj4uc) | 2:35 |
+| 3 | [Born Rich](https://open.spotify.com/track/4SVK2fbxX05UWEDCPmDLH0) | [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Born Rich](https://open.spotify.com/album/0sWmQpd6OrB3iw9rAgj4uc) | 2:35 |
 | 4 | [Gangsta Loop](https://open.spotify.com/track/0tZST3lUzH3naaMwhPOcjS) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Genesis](https://open.spotify.com/album/6YHC60k9beomffsmaPNADw) | 3:09 |
 | 5 | [Simp](https://open.spotify.com/track/5cQQq43cBfIpoXOzVJPNTG) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Simp](https://open.spotify.com/album/7wCgk5j3GcGMkVheUEjqvM) | 2:31 |
 | 6 | [Ghanta](https://open.spotify.com/track/1lAIGz2LzFBMbXUGyJZTeF) | [Jind Dhillon](https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Happy Singh](https://open.spotify.com/artist/6fvSUKNxAmvtRJUjscMWeA) | [Ghanta](https://open.spotify.com/album/0JDIDdJeKCuvXPMd9xc2nc) | 3:11 |

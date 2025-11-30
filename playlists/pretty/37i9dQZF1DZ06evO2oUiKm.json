@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10840,
+  "num_followers": 10851,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAA9k6lGx+QlfmfKmvJ+y+qA",
+  "snapshot_id": "aSjmAAAAAADmIOgCMhh1rKdJk+D9axFk",
   "tracks": [
     {
       "added_at": null,
@@ -143,18 +143,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pinocchio (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
+        "name": "A Wicked Good Finale",
+        "url": "https://open.spotify.com/album/7cw1RA5QNAnGuPxcvbrOAQ"
       },
       "artists": [
         {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        },
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Wicked Movie Cast",
+          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
         }
       ],
-      "duration_ms": 117693,
-      "name": "When You Wish Upon A Star",
-      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
+      "duration_ms": 279628,
+      "name": "A Wicked Good Finale (feat. Ariana Grande & Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd"
     },
     {
       "added_at": null,
@@ -215,34 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Wicked Good Finale",
-        "url": "https://open.spotify.com/album/7cw1RA5QNAnGuPxcvbrOAQ"
+        "name": "Pinocchio (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL"
       },
       "artists": [
         {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        },
-        {
-          "name": "Stephen Schwartz",
-          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "Wicked Movie Cast",
-          "url": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
         }
       ],
-      "duration_ms": 279628,
-      "name": "A Wicked Good Finale (feat. Ariana Grande & Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd"
+      "duration_ms": 117693,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf"
     },
     {
       "added_at": null,
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
       "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -716,9 +720,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 43546,
-      "name": "Until You Saw Me - Interlude",
-      "url": "https://open.spotify.com/track/6yX11XqvshWi3Z2E8V24FO"
+      "duration_ms": 230088,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/6pY9lAonJTA77BApQBt7z1"
     },
     {
       "added_at": null,
@@ -739,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
       "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 230088,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/6pY9lAonJTA77BApQBt7z1"
+      "duration_ms": 269897,
+      "name": "You First",
+      "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"
     },
     {
       "added_at": null,

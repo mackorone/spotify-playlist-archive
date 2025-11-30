@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-68 songs - 3 hr 55 min
+70 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 |  |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-20 |  |
+| [Home](https://open.spotify.com/track/2ewAqvToFML0QngPp767r4) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 7:45 | 2025-11-29 |  |
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-10-10 |  |
 | [I'm A Shooter](https://open.spotify.com/track/6e20H9h5Sq5mJ3IHxsF1GW) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:26 | 2025-09-23 |  |
 | [Idun](https://open.spotify.com/track/10pE4RcZOqGPVXscREQOs7) | [Dingo](https://open.spotify.com/artist/6GOHIe6YuljpICrbzPtP7z) | [Idun](https://open.spotify.com/album/7y0Ek5WT2nIMo2MO17blCI) | 4:16 | 2025-11-04 |  |
@@ -55,6 +56,7 @@
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-10-23 |  |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 |  |
 | [Other Side of Me](https://open.spotify.com/track/7gehMNxHuuOZyMNBOmC0sr) | [Right Proper](https://open.spotify.com/artist/3j8FdInRYKiNq7Ox7TY375) | [Other Side of Me](https://open.spotify.com/album/2BY2GT3R0z0aTaSZuweNEd) | 3:23 | 2025-09-16 |  |
+| [Overthrown](https://open.spotify.com/track/4aGCFWNgI4vUq9y9XuoVQA) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 5:27 | 2025-11-29 |  |
 | [Parte de Mi Sangre](https://open.spotify.com/track/77Ksuuc2iN2SlK4vGmoeFj) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 3:25 | 2025-11-04 |  |
 | [Perché amo il mio lavoro](https://open.spotify.com/track/336aLiYmKlh1WfDVY1QJLF) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Un'estate all'inferno](https://open.spotify.com/album/72aYGJWx28UtvsP7sXaX42) | 2:41 | 2025-10-30 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 |  |

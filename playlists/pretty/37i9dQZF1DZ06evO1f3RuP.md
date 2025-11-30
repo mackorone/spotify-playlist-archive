@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 34 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 176 likes - 33 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 11 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
 | 12 | [say it back](https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories from new york](https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt) | 2:17 |
 | 13 | [boys lie](https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO) | 2:25 |
-| 14 | [SUGARCOAT](https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:01 |
+| 14 | [Gospel](https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:14 |
 | 15 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 |
 | 16 | [ur mine](https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:00 |
 | 17 | [Find A Way](https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:51 |
-| 18 | [Gospel](https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:14 |
+| 18 | [SUGARCOAT](https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:01 |
 | 19 | [think of drugs](https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [think of drugs](https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF) | 3:05 |
 | 20 | [into me](https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:22 |
 | 21 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 |
@@ -41,6 +41,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 31 | [Best I've Ever Had](https://open.spotify.com/track/3ZK98UUk9nbNbuiU5DqQdC) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Best I've Ever Had](https://open.spotify.com/album/0YR1CWri925UA7XvNzfzG4) | 2:54 |
 | 32 | [Spend It](https://open.spotify.com/track/1KlJZMMGrpXMVGYadMc3wF) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Spend It](https://open.spotify.com/album/3xMUGDB2h7dVP5vWZjDpjf) | 3:00 |
 | 33 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
-| 34 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 
-Snapshot ID: `aSeUgAAAAABLK51ObknD6zp+Aj7T8Gnv`
+Snapshot ID: `aSjmAAAAAABgIUYk264KWuetETBFVcJp`

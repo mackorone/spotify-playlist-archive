@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: TIGGER \(ทิกเกอร์\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,522 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,541 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 38 | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ) | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/album/5i4PoVoJFhLY6lcNxc9gDV) | 4:23 |
 | 39 | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/track/2O2KeSSPM08QzPXMVJWe4L) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [อยากแชร์เพลงรักทุกเพลงให้เธอ อยากแชร์เพลงรักให้เธอทุกวัน y\(our\) song](https://open.spotify.com/album/4NamkMWD2iNno2fyBqtEgz) | 3:39 |
 | 40 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/3d3g7HPFMX15civOSuEUra) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 |
-| 41 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
+| 41 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 |
 | 42 | [หยุดที่ U](https://open.spotify.com/track/3Iu7WBpjjFrAocTQfF1pnk) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [หยุดที่ U](https://open.spotify.com/album/0LB1tm3rSFcXarzXlSfgKp) | 3:24 |
 | 43 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 |
 | 44 | [Magic Car](https://open.spotify.com/track/40muIoHRlB87OMC0IAwQHD) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Magic Car](https://open.spotify.com/album/3TLundKEbuWiNoQWGOuInj) | 4:00 |

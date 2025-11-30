@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,456 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,469 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 35 | [Don't Give Up](https://open.spotify.com/track/6KQUZNUMApkQhBVjQokILL) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1O1GkJHNuflu3agdLE1r3N) | 5:21 |
 | 36 | [Raise Your Hands \- Radio Edit](https://open.spotify.com/track/7LdTalCN5cwD2XHTzuYufv) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands \(Radio Edit\)](https://open.spotify.com/album/4B0E4mJA0NB9kZ2mayW3eY) | 4:26 |
 | 37 | [Snake](https://open.spotify.com/track/2kFCLPMtn29QkjjoZOXCK5) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Snake](https://open.spotify.com/album/4PQXsVrs27wnKkdF7nswo6) | 5:11 |
-| 38 | [How We Party](https://open.spotify.com/track/0Zv45bSIvDc1d8iJlJvwc3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/5LUI1FG3ObfrJGMTUJBtvw) | 3:31 |
-| 39 | [WOW](https://open.spotify.com/track/4gxukDJiwApNEgVIh4pHgT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/4I2qcrUxk37AoJOMjiOCvu) | 2:28 |
+| 38 | [WOW](https://open.spotify.com/track/4gxukDJiwApNEgVIh4pHgT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/4I2qcrUxk37AoJOMjiOCvu) | 2:28 |
+| 39 | [How We Party](https://open.spotify.com/track/0Zv45bSIvDc1d8iJlJvwc3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/5LUI1FG3ObfrJGMTUJBtvw) | 3:31 |
 | 40 | [Forbidden Voices](https://open.spotify.com/track/2BF1X5nkYYSb0AUTRaGkDm) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Forbidden Voices](https://open.spotify.com/album/26oYqQO1MNxFLMfPttGRSS) | 3:50 |
 | 41 | [Tsunami \- Original Mix](https://open.spotify.com/track/5aMOyzlybtTICvD6XRGctm) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/2HKoPdm4Mm6m5qoaDQcOuk) | 3:56 |
 | 42 | [Retrograde](https://open.spotify.com/track/1TxOJErR8b3SsCDdiVkYsx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde](https://open.spotify.com/album/7ygmx5PY4EF86hkkXLazAf) | 4:11 |

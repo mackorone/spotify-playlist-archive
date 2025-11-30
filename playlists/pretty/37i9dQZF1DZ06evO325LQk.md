@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,829 likes - 39 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,829 likes - 39 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 32 | [Pony Whip](https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:11 |
 | 33 | [METAL](https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 3:20 |
 | 34 | [Drop Down](https://open.spotify.com/track/6BkXbUflsXYtvRQOzdH6Rx) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Kalifa](https://open.spotify.com/artist/0e53LR6d2xTKZz9om9ZGyO), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CCCLX](https://open.spotify.com/album/4Zj1rXFKSYBDDdYeMHK2eS) | 2:49 |
-| 35 | [Elegance \(feat\. Popstar\)](https://open.spotify.com/track/0MXKTGLRW2d1lOrGRHhS3m) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Popstar](https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:51 |
+| 35 | [Do You Wanna Be Alive? \(feat\. BIG SISTER\)](https://open.spotify.com/track/0VL6ayQDJbVFYrv3nA6FjU) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BIG SISTER](https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:10 |
 | 36 | [XTC Acid](https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:11 |
-| 37 | [Do You Wanna Be Alive? \(feat\. BIG SISTER\)](https://open.spotify.com/track/0VL6ayQDJbVFYrv3nA6FjU) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BIG SISTER](https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:10 |
+| 37 | [Gallop \(feat\. Evita Manji\)](https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Evita Manji](https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 1:57 |
 | 38 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 5:27 |
 | 39 | [Cold World](https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 4:25 |
 
-Snapshot ID: `aSeUgAAAAADjs4pHGNtJJfJs4n/RCy51`
+Snapshot ID: `aSjmAAAAAABGm5WwtwVzOJZmECkGvalD`

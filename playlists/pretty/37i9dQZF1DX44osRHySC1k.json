@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54247,
+  "num_followers": 54261,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Light of The Moon",
+        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
+      },
+      "artists": [
+        {
+          "name": "Naturally Recurring",
+          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
+        }
+      ],
+      "duration_ms": 249818,
+      "name": "Sunrise Glory",
+      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 139593,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3Rs7eZ7c0N5NwNvGBMD4Va"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Light of The Moon",
-        "url": "https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV"
-      },
-      "artists": [
-        {
-          "name": "Naturally Recurring",
-          "url": "https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF"
-        }
-      ],
-      "duration_ms": 249818,
-      "name": "Sunrise Glory",
-      "url": "https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -875,18 +875,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
-        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
       "artists": [
         {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
         }
       ],
-      "duration_ms": 319493,
-      "name": "Deep Theta 4 Hz",
-      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -907,18 +907,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
       },
       "artists": [
         {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
         }
       ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Anjali",
-        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
-      },
-      "artists": [
-        {
-          "name": "Michael Mandrell and Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Priya (Beloved)",
-      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "schemering",
         "url": "https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 124374,
       "name": "schemering",
       "url": "https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Anjali",
+        "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
+      },
+      "artists": [
+        {
+          "name": "Michael Mandrell and Benjy Wertheimer",
+          "url": "https://open.spotify.com/artist/0F6XbRSKV9dbY94XFhaAqD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Priya (Beloved)",
+      "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Broadchurch (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 263347,
+      "name": "Danny",
+      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "Calm Moments Piano Music",
         "url": "https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn"
       },
@@ -1163,34 +1179,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Broadchurch (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
       },
       "artists": [
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
         }
       ],
-      "duration_ms": 263347,
-      "name": "Danny",
-      "url": "https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
       },
       "artists": [
         {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
         }
       ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Voyager",
-        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Bubble",
-          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Heavenly Walk",
         "url": "https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 284513,
       "name": "Heavenly Walk",
       "url": "https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Voyager",
+        "url": "https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Bubble",
+          "url": "https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7"
     },
     {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Mandala Spirit",
-        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
-      },
-      "artists": [
-        {
-          "name": "Danyel Varda",
-          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
-        }
-      ],
-      "duration_ms": 219716,
-      "name": "Bloom Bliss",
-      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
-    },
-    {
       "added_at": "2024-06-11 05:54:30",
       "album": {
         "name": "Surrender",
@@ -1447,6 +1431,22 @@
       "duration_ms": 196999,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Mandala Spirit",
+        "url": "https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z"
+      },
+      "artists": [
+        {
+          "name": "Danyel Varda",
+          "url": "https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB"
+        }
+      ],
+      "duration_ms": 219716,
+      "name": "Bloom Bliss",
+      "url": "https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1545,38 +1545,6 @@
       "url": "https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7"
     },
     {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
-      },
-      "artists": [
-        {
-          "name": "T. Landley",
-          "url": "https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW"
-        }
-      ],
-      "duration_ms": 131605,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "New Romantic Classical Piano and Violin Duets",
-        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
-      },
-      "artists": [
-        {
-          "name": "Violin Music",
-          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
-        }
-      ],
-      "duration_ms": 272730,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
-    },
-    {
       "added_at": "2025-03-17 07:33:43",
       "album": {
         "name": "Nidra",
@@ -1595,6 +1563,38 @@
       "duration_ms": 540266,
       "name": "I Found Me",
       "url": "https://open.spotify.com/track/4Kq5Ot6UX0b1TRZ3w7k45I"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "New Romantic Classical Piano and Violin Duets",
+        "url": "https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax"
+      },
+      "artists": [
+        {
+          "name": "Violin Music",
+          "url": "https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt"
+        }
+      ],
+      "duration_ms": 272730,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e"
+      },
+      "artists": [
+        {
+          "name": "T. Landley",
+          "url": "https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW"
+        }
+      ],
+      "duration_ms": 131605,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1629,20 +1629,24 @@
       "url": "https://open.spotify.com/track/7FKH78Xarvn4T2LDPPPvoz"
     },
     {
-      "added_at": "2021-06-24 10:58:44",
+      "added_at": "2025-03-17 07:33:43",
       "album": {
-        "name": "Dim Lights",
-        "url": "https://open.spotify.com/album/4GEwg3xog5MPLtIkCXw5vK"
+        "name": "Nidra",
+        "url": "https://open.spotify.com/album/3GfnOD0tBkLPIhVqVyBXaS"
       },
       "artists": [
         {
-          "name": "Agnes Fredenberg",
-          "url": "https://open.spotify.com/artist/3M6T3Yxm4EK30GuKfyxH20"
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Lonnie Park",
+          "url": "https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N"
         }
       ],
-      "duration_ms": 92307,
-      "name": "Dim Lights",
-      "url": "https://open.spotify.com/track/2RBDkr6kokpZ4cTQy5efWm"
+      "duration_ms": 490263,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/61IRuGBTbIXT1yl2OtAUwu"
     }
   ],
   "unique_name": "Nidra",

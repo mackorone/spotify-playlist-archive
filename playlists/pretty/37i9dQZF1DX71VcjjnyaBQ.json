@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 434745,
+  "num_followers": 434760,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 373413,
+      "name": "Ruby My Dear",
+      "url": "https://open.spotify.com/track/46BCpYx2ERUE5Rjk9dB1qh"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
         "name": "Don't Ever Leave Me",
         "url": "https://open.spotify.com/album/71ic2jDgavFaDCR9dbDcEb"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 437853,
       "name": "Arise",
       "url": "https://open.spotify.com/track/0jCZ4paISCHdIwQxUaLa3L"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
-        "name": "Diamond In The Rough",
-        "url": "https://open.spotify.com/album/5hrMaqrOtNiHewGCItWPNf"
-      },
-      "artists": [
-        {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
-        }
-      ],
-      "duration_ms": 373413,
-      "name": "Ruby My Dear",
-      "url": "https://open.spotify.com/track/46BCpYx2ERUE5Rjk9dB1qh"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
         "name": "Jazz Lullaby",
         "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 189929,
       "name": "Frere Jacques",
       "url": "https://open.spotify.com/track/4SwwjgzWcTeCw1xT9VTP6D"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
+        "name": "When I Fell for You",
+        "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 322362,
+      "name": "When I Fell for You",
+      "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 332391,
       "name": "Jakob\u2019s Happy Song",
       "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
-        "name": "When I Fell for You",
-        "url": "https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 322362,
-      "name": "When I Fell for You",
-      "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
-        "name": "Parks Lope",
-        "url": "https://open.spotify.com/album/2nhIT2pL2ksz0enUCRYudn"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Parks Lope",
-      "url": "https://open.spotify.com/track/0SPP6x0Ss25Ulwfsj4cFrg"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
         "name": "The Velvet Blues",
         "url": "https://open.spotify.com/album/3Td7ptaHioLJ3THpiRvZ4l"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 276040,
       "name": "Somewhere over the Rainbow",
       "url": "https://open.spotify.com/track/6WaLMmbnmG1T2HWm5hwKOU"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
+        "name": "Parks Lope",
+        "url": "https://open.spotify.com/album/2nhIT2pL2ksz0enUCRYudn"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Parks Lope",
+      "url": "https://open.spotify.com/track/0SPP6x0Ss25Ulwfsj4cFrg"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Rising Sun",
+      "url": "https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 275200,
       "name": "Going Up",
       "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
-        "name": "Jazz Impressions Of Japan",
-        "url": "https://open.spotify.com/album/1Rb6B6oexFpWWfGoclK4bX"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 279893,
-      "name": "Rising Sun",
-      "url": "https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
         "name": "Mack the Knife",
         "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
       },
       "artists": [
         {
-          "name": "Richard Baratta",
-          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 397173,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -883,6 +867,22 @@
       "duration_ms": 223706,
       "name": "In This Moment",
       "url": "https://open.spotify.com/track/5ntssQtDHWUdKBYiQDQP5I"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
+      },
+      "artists": [
+        {
+          "name": "Richard Baratta",
+          "url": "https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X"
+        }
+      ],
+      "duration_ms": 397173,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
-        "name": "Voor Jou Yvonne",
-        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
-      },
-      "artists": [
-        {
-          "name": "Bill Weeds",
-          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
-        },
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 461190,
-      "name": "Voor Jou Yvonne",
-      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 371773,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
+        "name": "Voor Jou Yvonne",
+        "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
+      },
+      "artists": [
+        {
+          "name": "Bill Weeds",
+          "url": "https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 461190,
+      "name": "Voor Jou Yvonne",
+      "url": "https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6"
     },
     {
       "added_at": "2025-11-21 08:20:43",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
+        "name": "Late Again",
+        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 152228,
+      "name": "Asterism Waltz",
+      "url": "https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
         "name": "Smoke Rings",
         "url": "https://open.spotify.com/album/3cuyGBeGovNSkafVyR5V9Q"
       },
@@ -1351,6 +1367,22 @@
     {
       "added_at": "2025-11-21 08:20:43",
       "album": {
+        "name": "Take Ten",
+        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 366173,
+      "name": "Nancy",
+      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
+    },
+    {
+      "added_at": "2025-11-21 08:20:43",
+      "album": {
         "name": "Afternoon Conversations",
         "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
       },
@@ -1371,38 +1403,6 @@
       "duration_ms": 323296,
       "name": "Freddie Freeloader",
       "url": "https://open.spotify.com/track/1cMJXSb5eCpd4AU7zByvN5"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
-        "name": "Late Again",
-        "url": "https://open.spotify.com/album/6qU9OQbVjw7HwhMFRYLirB"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 152228,
-      "name": "Asterism Waltz",
-      "url": "https://open.spotify.com/track/2F3topzcPhqBePB7zEqU8H"
-    },
-    {
-      "added_at": "2025-11-21 08:20:43",
-      "album": {
-        "name": "Take Ten",
-        "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 366173,
-      "name": "Nancy",
-      "url": "https://open.spotify.com/track/4RbdHV0AcJa8pOPFI7jd2g"
     },
     {
       "added_at": "2025-11-21 08:20:43",

@@ -888,6 +888,24 @@
     {
       "album": {
         "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165022,
+      "name": "Spit XXV",
+      "url": "https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e"
+    },
+    {
+      "album": {
+        "name": "Spit XXV",
         "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
       },
       "artists": [
@@ -898,7 +916,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 165022,
       "name": "Spit XXV",
       "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"

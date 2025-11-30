@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Maldito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5vZnkMXH16Uk4SYXtYn07f"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "Cambias O Me Pierdes",
+      "url": "https://open.spotify.com/track/1d9jP5F4QzEVVL7r88aXV1"
+    },
+    {
+      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
@@ -776,7 +794,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 195794,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/5U3A4CgDBg6r6d0spYwOWU"

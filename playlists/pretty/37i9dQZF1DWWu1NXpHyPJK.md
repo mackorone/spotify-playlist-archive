@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,373 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,392 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 13 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
 | 14 | [Heal the World](https://open.spotify.com/track/7woW97CfcWaKtuC6W5BP2K) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:24 |
 | 15 | [It's All Coming Back to Me Now](https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 7:36 |
-| 16 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
-| 17 | [Kingston Town](https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:51 |
+| 16 | [Kingston Town](https://open.spotify.com/track/1YnVYHXoak0syv4xBRHQRb) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:51 |
+| 17 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 18 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
 | 19 | [Earth Song](https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 6:45 |
 | 20 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 60 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
 | 61 | [All 'Bout the Money](https://open.spotify.com/track/72qwRwnHNGCnn8sFlVOwr4) | [Meja](https://open.spotify.com/artist/4eYjWapog2qNOYRnqBvGXP) | [Seven Sisters](https://open.spotify.com/album/2jWNlpcgPn4BPKge3PIGx2) | 2:52 |
 | 62 | [Wonderfull Days \- Radio Edit](https://open.spotify.com/track/5RFvmMTrWWMkUxfhrnckOJ) | [Charly Lownoise & Mental Theo](https://open.spotify.com/artist/5GLFbwgiU1YyAoQD8C4nvC) | [The Best Of Charly Lownoise & Mental Theo](https://open.spotify.com/album/2VDYE3MgwJcX5csT8q4idL) | 3:51 |
-| 63 | [In Nije Dei \(Live\)](https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Niets te verliezen](https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8) | 4:58 |
-| 64 | [R U Kiddin' Me](https://open.spotify.com/track/3FD3gEw8o1Kb5OPBZr8rhy) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Urban Solitude](https://open.spotify.com/album/1r1ojSn9TwXWeYY481dTR1) | 3:20 |
+| 63 | [R U Kiddin' Me](https://open.spotify.com/track/3FD3gEw8o1Kb5OPBZr8rhy) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Urban Solitude](https://open.spotify.com/album/1r1ojSn9TwXWeYY481dTR1) | 3:20 |
+| 64 | [In Nije Dei \(Live\)](https://open.spotify.com/track/6ckD6hc0JylXs6xHuwKx3b) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Niets te verliezen](https://open.spotify.com/album/432zDZZ4qvY2MJxIYruxg8) | 4:58 |
 | 65 | [Show Me Heaven \- From "Days Of Thunder"](https://open.spotify.com/track/7vOhmiURT3Bv8iFeNxw7Oh) | [Maria McKee](https://open.spotify.com/artist/30GIF9g2UJ1ifn45kSMTFf) | [Ultimate Collection: Maria McKee](https://open.spotify.com/album/5x7nIDj7mL0iyWuDOsZBye) | 3:44 |
 | 66 | [Als Ze Er Niet Is](https://open.spotify.com/track/1IQLFJXaUNVkFI4QzMmrxe) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:31 |
 | 67 | [Going to the Run](https://open.spotify.com/track/4fL4pBXaN76ERHoGYoA01M) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Bloody Buccaneers](https://open.spotify.com/album/6232SATUJ2bUYwBLcczjan) | 3:53 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 89 | [Don't Look Back in Anger](https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory?](https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs) | 4:47 |
 | 90 | [We’re Going to Ibiza!](https://open.spotify.com/track/0b8PKDeFc2T5u9cRbLLv2r) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [Greatest Hits!](https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a) | 3:37 |
 | 91 | [Luv U More](https://open.spotify.com/track/4yW7EvENzT9PbPOJ3rCHzQ) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Super Dance Hits From The Nineties](https://open.spotify.com/album/2uyxV4sFOxo8Ool8FS5V5u) | 3:50 |
-| 92 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 |
-| 93 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
+| 92 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
+| 93 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 |
 | 94 | [Run To You](https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 3:52 |
 | 95 | [Would I Lie To You?](https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You](https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n) | 3:24 |
 | 96 | [Jesus He Knows Me](https://open.spotify.com/track/5WjHfw8Y5D947Qk5qw71YY) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Platinum Collection](https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs) | 4:17 |

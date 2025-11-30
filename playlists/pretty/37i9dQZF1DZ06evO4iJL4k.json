@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 316810,
+  "num_followers": 316845,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACoT5WVsyJMWOFP7d+55BPL",
+  "snapshot_id": "aSjmAAAAAAB9sXfe6XNlYhi25NLcJXe4",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "Fa\u00e7a Voc\u00ea Mesmo",
-      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melhor Vibe",
         "url": "https://open.spotify.com/album/4ZoSMD7wD1xMzq0iXlEach"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 227681,
+      "name": "Fa\u00e7a Voc\u00ea Mesmo",
+      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 174381,
       "name": "Me Deixe Leve",
       "url": "https://open.spotify.com/track/2FY5SkFDjOBqhtNg2ehtz2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 234252,
-      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
-      "url": "https://open.spotify.com/track/1yNXGRORl6egstWgugOTs8"
     },
     {
       "added_at": null,
@@ -715,34 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nume - Ep\u00edlogo",
-        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 228529,
-      "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
-      "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -767,6 +739,34 @@
       "duration_ms": 135384,
       "name": "A Meu Favor",
       "url": "https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nume - Ep\u00edlogo",
+        "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 228529,
+      "name": "Emo\u00e7\u00f5es - Vers\u00e3o Suja",
+      "url": "https://open.spotify.com/track/58EQwPY12eH9aisrgvQhGS"
     },
     {
       "added_at": null,
@@ -855,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrela do Rap",
-        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 472173,
       "name": "Poesia Ac\u00fastica #12 Pra Sempre",
       "url": "https://open.spotify.com/track/3aqqy9M11P6t0843xBzulv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrela do Rap",
+        "url": "https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5"
     },
     {
       "added_at": null,

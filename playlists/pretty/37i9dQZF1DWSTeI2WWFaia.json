@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1576735,
+  "num_followers": 1576677,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPMv91yRMoa0VIPiAn+jLvHq/h6",
+  "snapshot_id": "AAAAAHiBBKAEzMXGCsFz94rJt8qvC0j0",
   "tracks": [
     {
       "added_at": "2025-11-21 04:00:11",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
+        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 224639,
+      "name": "Die Together",
+      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
       },
@@ -719,18 +735,22 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
+        "name": "Muddy Waters Too",
+        "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         }
       ],
-      "duration_ms": 224639,
-      "name": "Die Together",
-      "url": "https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0"
+      "duration_ms": 198842,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -771,26 +791,6 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "Muddy Waters Too",
-        "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/3E7lljIMKcipr3i5LT4sOp"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 236759,
       "name": "SOS",
       "url": "https://open.spotify.com/track/48h1wMdyPIasyZ8thTVoQU"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
-        "name": "Against The World",
-        "url": "https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Against The World",
-      "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -843,26 +827,18 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "GOLDFISH",
-        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+        "name": "Against The World",
+        "url": "https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q"
       },
       "artists": [
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
         }
       ],
-      "duration_ms": 105836,
-      "name": "Mick & Cooley (feat. Conway The Machine)",
-      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
+      "duration_ms": 210000,
+      "name": "Against The World",
+      "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -895,6 +871,30 @@
       "duration_ms": 249600,
       "name": "The Louvre",
       "url": "https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "Mick & Cooley (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "Business Merger",
-        "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 217947,
-      "name": "Business Merger",
-      "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
         "name": "2014 Forest Hills Drive (10 Year Anniversary Edition)",
         "url": "https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8"
       },
@@ -995,22 +975,22 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+        "name": "Business Merger",
+        "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         },
         {
-          "name": "Rachel Robinson",
-          "url": "https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 251050,
-      "name": "Letters (feat. Rachel Robinson)",
-      "url": "https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb"
+      "duration_ms": 217947,
+      "name": "Business Merger",
+      "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -1035,6 +1015,26 @@
       "duration_ms": 198466,
       "name": "LLC",
       "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Rachel Robinson",
+          "url": "https://open.spotify.com/artist/2dFERzp3MC4j4iOT8iqmHw"
+        }
+      ],
+      "duration_ms": 251050,
+      "name": "Letters (feat. Rachel Robinson)",
+      "url": "https://open.spotify.com/track/0xg25m2SiZJkAXEXAcURNb"
     }
   ],
   "unique_name": "Spilled Ink",

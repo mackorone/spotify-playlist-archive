@@ -4,7 +4,7 @@
 
 > The best in house music
 
-707 songs - 1 day 22 hr 9 min
+708 songs - 1 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Boy \(feat\. JONES\)](https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Boy \(feat\. JONES\)](https://open.spotify.com/album/7psQd9JcAGWum1t1YOXlag) | 2:46 | 2024-01-11 | 2025-01-22 |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/26zt79lTciS4tfncBX1qPV) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM) | 2:21 | 2022-07-28 | 2023-07-15 |
 | [Boyz N Da Club \- Radio Edit](https://open.spotify.com/track/4wOIiaDB7h2Z5vxsV0xqaN) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Boyz N Da Club \(Radio Edit\)](https://open.spotify.com/album/56iQ6RzrYL6vI8JfIyOoiu) | 2:21 | 2022-04-14 | 2022-07-29 |
-| [Brand New](https://open.spotify.com/track/1CGLtrIUkbyzg8MSFdMOLR) | [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD), [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Brand New](https://open.spotify.com/album/5YSyuvABYVDMMJF2J1mlqk) | 7:11 | 2025-10-16 |  |
+| [Brand New](https://open.spotify.com/track/1CGLtrIUkbyzg8MSFdMOLR) | [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD), [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Brand New](https://open.spotify.com/album/5YSyuvABYVDMMJF2J1mlqk) | 7:11 | 2025-10-16 | 2025-11-30 |
 | [Brazilian Love Song \(Jengi Remix\)](https://open.spotify.com/track/1pAXNItTnpF2RcsFiPgwGc) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Brazilian Love Song \(Jengi Remix\)](https://open.spotify.com/album/21GGi7gu8ZBKDSMusMMAAv) | 4:21 | 2022-05-12 | 2023-08-17 |
 | [Brazilian Love Song \- Jengi Remix](https://open.spotify.com/track/2tnyg4zVfxjkKPgTBPBTiM) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Original Classic \(Deluxe\)](https://open.spotify.com/album/3GBPiIdlQgVpCPArj6XrFi) | 4:21 | 2024-02-29 | 2024-04-19 |
 | [Break of Dawn](https://open.spotify.com/track/4kDVpUSD89ekHthAEAoxaI) | [Bruut 99](https://open.spotify.com/artist/3UidWDUg2sJXEC082bnbHc) | [Break Of Dawn](https://open.spotify.com/album/1dUtenrYFrFy1VBjn2dvxM) | 2:52 | 2025-03-20 | 2025-06-21 |
@@ -594,6 +594,7 @@
 | [Sunrise \(Butch's Balearic Touch\)](https://open.spotify.com/track/2sKwP9sFf8b7hSjuOxjbOP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Sunrise \(Butch's Balearic Touch\)](https://open.spotify.com/album/2VJ3gHuFgxNTxNgjz88uRl) | 3:19 | 2025-08-14 |  |
 | [Sunset Jam](https://open.spotify.com/track/4P5PgzROl9jfv7mHTjS2MM) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Sunset Jam](https://open.spotify.com/album/70laYWlNtjTmkZjdZ4A3uM) | 4:41 | 2022-04-20 | 2024-03-21 |
 | [Sunshine](https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Calle EP](https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3) | 3:44 | 2022-04-14 | 2023-11-06 |
+| [Superfly](https://open.spotify.com/track/5Ifo63oBY9jOjA6dw3jBme) | [Fresh Coast](https://open.spotify.com/artist/6AiABQVLpWNCWDhBmYbRqG), [Invisto](https://open.spotify.com/artist/3Y1LHDoDCy1pGDfEOQ8B5x) | [Superfly](https://open.spotify.com/album/6CkW2TPDtIJY47EAbbr3Dj) | 2:23 | 2025-11-20 |  |
 | [Supposed To Do](https://open.spotify.com/track/53QOuE2ZA8b4DTfKE0Pljd) | [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l), [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Supposed To Do](https://open.spotify.com/album/3LI9sswfUvO0IvgT2D6E1B) | 2:48 | 2022-12-22 | 2024-05-13 |
 | [Sweat](https://open.spotify.com/track/3z12e1P8AJEJeFXcVeqrjT) | [Leyo](https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p) | [Circus EP](https://open.spotify.com/album/4ZlcX8nEMYUursOBLVzwXF) | 3:11 | 2025-04-17 |  |
 | [Sweet Love](https://open.spotify.com/track/5APDSxDfH84AqrpIGzDYgU) | [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Sweet Love](https://open.spotify.com/album/5L6hcxhOn0VfGB7eScOEej) | 4:09 | 2024-09-12 | 2025-09-05 |

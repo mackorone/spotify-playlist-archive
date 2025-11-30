@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 788 likes - 102 songs - 5 hr 48 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 800 likes - 104 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,5 +110,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 100 | [Coming Stars](https://open.spotify.com/track/7EsFMWgc1EVf6NUepID6gd) | [Tony Rocha](https://open.spotify.com/artist/5IAqjbY4kei33bE9LUX6Sm) | [Coming Stars](https://open.spotify.com/album/5nRfA7DrRB7FEYswNXIUMy) | 3:10 |
 | 101 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 |
 | 102 | [Not Supposed to Let You Know](https://open.spotify.com/track/7nOehwhib8wpPrvt4ZFF2f) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Not Supposed to Let You Know](https://open.spotify.com/album/3X5OMgdsTqKqo0ZZ4RO98k) | 3:41 |
+| 103 | [Do you tell](https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Do you tell](https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj) | 2:59 |
+| 104 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 |
 
-Snapshot ID: `AAACXu3PC12hshf8AYAdoFiDyau/0r/v`
+Snapshot ID: `AAACYNcjZ8rYCfiWQsAYVtqZkJNoeAGX`

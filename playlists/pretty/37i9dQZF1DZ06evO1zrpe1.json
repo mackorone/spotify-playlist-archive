@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACmaat9wuteNNYFjt4hI+kD",
+  "snapshot_id": "aSjmAAAAAAAhgO6UVf3aSjL90+SzJeOK",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
     },
     {
       "added_at": null,
@@ -423,6 +423,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentimientos de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "Sentimientos de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cigarra",
+        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 241726,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 172751,
+      "name": "Cuidado con El Perro",
+      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -452,15 +516,15 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+      "duration_ms": 254003,
+      "name": "Lo Que No Me Gusta",
+      "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4z1gM4gFNKpYSSA13ATbZx"
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
       },
       "artists": [
         {
@@ -468,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192818,
-      "name": "Sentimientos de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3XJadYsV0wGDjXB51gh6uY"
+      "duration_ms": 137120,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
     },
     {
       "added_at": null,
@@ -491,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cigarra",
-        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 241726,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 254003,
-      "name": "Lo Que No Me Gusta",
-      "url": "https://open.spotify.com/track/2XTJsfeUb2fDqaXoKoqjFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/7jcACbrK7WZcC0AnWxgjDa"
       },
@@ -535,38 +567,6 @@
       "duration_ms": 214954,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/1x53w4Ylh1c0RmNCrJWqIB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 172751,
-      "name": "Cuidado con El Perro",
-      "url": "https://open.spotify.com/track/3Qnco60FwhXUpGYzCWmbFt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/2DLeeM0Fd5ERYnfkm8YzxO"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 137120,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/51WdGGIKOxvlGZ7zIjxeGW"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 230230,
-      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
-      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+      "duration_ms": 186986,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
     },
     {
       "added_at": null,
@@ -716,25 +716,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 186986,
-      "name": "Le\u00f1a De Pirul",
-      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Donde Esta Tu Amor",
-        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 169429,
-      "name": "En Donde Esta Tu Amor",
-      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
+      "duration_ms": 230230,
+      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
+      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
       "duration_ms": 214801,
       "name": "Le\u00f1a de Pirul - En Vivo",
       "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Donde Esta Tu Amor",
+        "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 169429,
+      "name": "En Donde Esta Tu Amor",
+      "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
     },
     {
       "added_at": null,

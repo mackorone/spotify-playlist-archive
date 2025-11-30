@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 22 min
+61 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [Put It On God](https://open.spotify.com/track/631M9FKCXEdoBAgtCrrhbE) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:37 | 2025-07-15 |  |
 | [Rest](https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:45 | 2025-07-15 |  |
 | [Segunda Vida](https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv) | [Kingdom & Culture](https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Segunda Vida](https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD) | 2:37 | 2025-08-15 |  |
-| [Sound of Victory](https://open.spotify.com/track/2UaaxShFAXOYTVUD36skZP) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Bridges](https://open.spotify.com/album/1Zvcflfmrg0zSuSQENKr8y) | 3:32 | 2025-07-15 |  |
+| [Sound of Victory](https://open.spotify.com/track/2UaaxShFAXOYTVUD36skZP) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Bridges](https://open.spotify.com/album/1Zvcflfmrg0zSuSQENKr8y) | 3:32 | 2025-07-15 | 2025-11-30 |
 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-20 |  |
 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 | 2025-07-15 |  |
+| [Through It All](https://open.spotify.com/track/7HJ8vm2bMY49p8B9fOJbPU) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Through It All](https://open.spotify.com/album/05sDA2q36D4gvHLC2B23X6) | 8:23 | 2025-11-30 |  |
 | [Todo El Mundo](https://open.spotify.com/track/5qRaGwbMTlYbtvFE69k9F5) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Sound Of Heaven](https://open.spotify.com/album/71jLkGv1qbvhauU8KDfZc9) | 3:02 | 2025-09-26 | 2025-09-28 |
 | [Victory](https://open.spotify.com/track/2vsID3pEfy6oB0V9f4iCxn) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:22 | 2025-08-07 |  |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-07-15 |  |

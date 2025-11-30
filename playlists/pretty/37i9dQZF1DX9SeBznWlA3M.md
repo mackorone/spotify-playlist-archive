@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SeBznWlA3M.md) - [plain]
 
 > Los éxitos pop más escuchados de Argentina\. Foto: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,740 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,751 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

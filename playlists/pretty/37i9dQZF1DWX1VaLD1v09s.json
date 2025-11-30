@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 83118,
+  "num_followers": 83111,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Here I Am To Worship",
+        "url": "https://open.spotify.com/album/74ObUKF38uL86v2uAnSy1f"
+      },
+      "artists": [
+        {
+          "name": "Tim Hughes",
+          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "Here I Am To Worship",
+      "url": "https://open.spotify.com/track/0au5u99zsQ6yunHfywDX8a"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Purpose By Design",
         "url": "https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Here I Am To Worship",
-        "url": "https://open.spotify.com/album/74ObUKF38uL86v2uAnSy1f"
-      },
-      "artists": [
-        {
-          "name": "Tim Hughes",
-          "url": "https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "Here I Am To Worship",
-      "url": "https://open.spotify.com/track/0au5u99zsQ6yunHfywDX8a"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Good News (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Greatest Hymns, Vol. 2",
         "url": "https://open.spotify.com/album/1JmmM3kMCKzYbuBHphQMFP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 231866,
       "name": "Wonderful, Merciful Savior",
       "url": "https://open.spotify.com/track/1GfXRWcCxijFPbR5hYNh5q"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Be One (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "King Of The World",
+      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "He's Alive: Don Francisco Collection, Vol. 1",
         "url": "https://open.spotify.com/album/2Ax36W4f22Kr96sJnsnBtw"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 298706,
       "name": "He's Alive",
       "url": "https://open.spotify.com/track/3BHTusPUbP50JY0uzCUODT"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/71MC6JQBQ9JJsR75heLhzp"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1DzECx2H9rUGUPclh8OxAn"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2187,22 +2187,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "God You Are",
-        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
       "artists": [
         {
           "name": "We Are Messengers",
           "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 265286,
-      "name": "God You Are (feat. Josh Baldwin)",
-      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+      "duration_ms": 234748,
+      "name": "Come See (Glory Hallelujah)",
+      "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2275,18 +2271,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
       },
       "artists": [
         {
           "name": "We Are Messengers",
           "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 234748,
-      "name": "Come See (Glory Hallelujah)",
-      "url": "https://open.spotify.com/track/5rDxLru8HN7czVZrw7BzOt"
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
-        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "He Is Risen",
-      "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Surrounded",
         "url": "https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 209687,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/0VNaskMjoh3z2y9akAfodM"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
+        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
+      },
+      "artists": [
+        {
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "He Is Risen",
+      "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Everlasting God",
-        "url": "https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD"
-      },
-      "artists": [
-        {
-          "name": "Brenton Brown",
-          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
-        }
-      ],
-      "duration_ms": 285800,
-      "name": "Everlasting God",
-      "url": "https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -2499,18 +2483,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Beautiful Scandalous Night",
-        "url": "https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e"
+        "name": "Everlasting God",
+        "url": "https://open.spotify.com/album/740ShfwTNA7tb8fXRDlenD"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+          "name": "Brenton Brown",
+          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
         }
       ],
-      "duration_ms": 251895,
-      "name": "Beautiful Scandalous Night",
-      "url": "https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d"
+      "duration_ms": 285800,
+      "name": "Everlasting God",
+      "url": "https://open.spotify.com/track/3HpJPfFLXSiTBjYCi5medt"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2527,6 +2511,22 @@
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Beautiful Scandalous Night",
+        "url": "https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 251895,
+      "name": "Beautiful Scandalous Night",
+      "url": "https://open.spotify.com/track/4xq48EowmMmN5QNJZBJM0d"
     },
     {
       "added_at": "2025-04-17 21:35:44",

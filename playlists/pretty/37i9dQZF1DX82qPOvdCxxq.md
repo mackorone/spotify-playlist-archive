@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: James Bakian
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,555 likes - 112 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,563 likes - 112 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

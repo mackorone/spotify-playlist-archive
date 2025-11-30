@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 53011,
+  "num_followers": 53020,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADCYtx7UG2B09lmJUWB9Sw/",
+  "snapshot_id": "aSjmAAAAAAABFShrI9EJt5NYu3eZ9jdH",
   "tracks": [
     {
       "added_at": null,
@@ -395,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Portland, Maine (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
       },
       "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 192954,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
+      "duration_ms": 210915,
+      "name": "Portland, Maine (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
     },
     {
       "added_at": null,
@@ -443,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portland, Maine (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0Npi170tBzhAhyGnVpTWov"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 210915,
-      "name": "Portland, Maine (feat. Jordan Davis)",
-      "url": "https://open.spotify.com/track/6M8VA1HQWAP4wggoPZ5ota"
+      "duration_ms": 192954,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/0eTCwA8AO9RhTaDz9A9cMW"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 210687,
-      "name": "Leaving New Orleans",
-      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
+      "duration_ms": 223448,
+      "name": "Church In A Chevy",
+      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 223448,
-      "name": "Church In A Chevy",
-      "url": "https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF"
+      "duration_ms": 210687,
+      "name": "Leaving New Orleans",
+      "url": "https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 161553,
+      "name": "Ruin My Weekend",
+      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cool Anymore",
         "url": "https://open.spotify.com/album/4QPR4yoDxGzpSCZaK3lnFL"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 200415,
       "name": "Cool Anymore",
       "url": "https://open.spotify.com/track/4H1ScKTo6abUt8yTXDewct"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 161553,
-      "name": "Ruin My Weekend",
-      "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
     },
     {
       "added_at": null,

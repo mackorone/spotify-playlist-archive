@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/4O89o2tvx28SkMXe63rTUa"
+    },
+    {
+      "album": {
         "name": "WELL WELL",
         "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
       },
@@ -904,7 +922,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 262934,
       "name": "In From Japan",
       "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
@@ -1972,7 +1990,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 262727,
       "name": "Sunshine Over The Counter",
       "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"

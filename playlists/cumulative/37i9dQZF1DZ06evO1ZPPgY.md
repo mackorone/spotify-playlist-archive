@@ -4,7 +4,7 @@
 
 > This is Barry White\. The essential tracks, all in one playlist.
 
-94 songs - 7 hr 48 min
+95 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,9 @@
 | [I'm So Blue And You Are Too](https://open.spotify.com/track/1LeoYNCcoGdBDzdkXciscV) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 7:05 | 2021-04-06 | 2022-12-01 |
 | [I've Found Someone](https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:40 | 2023-10-10 |  |
 | [I've Found Someone](https://open.spotify.com/track/1mHCbApKGwPuD2n3rtCuwu) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The 20th Century Records Albums \(1973\-1979\)](https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi) | 5:52 | 2020-10-20\* | 2023-10-11 |
-| [I've Got So Much To Give](https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:10 | 2024-01-08 |  |
+| [I've Got So Much To Give](https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:10 | 2024-01-08 | 2025-11-30 |
 | [I've Got So Much To Give](https://open.spotify.com/track/4HtzL8uhKcQpzBI9LQqAcX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 5:16 | 2020-10-20\* | 2024-01-08 |
+| [I've Got So Much To Give](https://open.spotify.com/track/1p5jtupWpNUuHB9iUenTrx) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 8:17 | 2025-11-30 |  |
 | [I've Got the World to Hold Me Up](https://open.spotify.com/track/3DVBE9gdehucz81D8G0yQN) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Somewhere in the Past](https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw) | 3:01 | 2023-12-18 | 2024-07-24 |
 | [If You Know, Won't You Tell Me](https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Let The Music Play \(Expanded Edition\)](https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it) | 5:05 | 2021-05-31 |  |
 | [In Your Wildest Dreams \(feat\. Barry White\) \- Radio Edit](https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Wildest Dreams \(Expanded Version\)](https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN) | 3:48 | 2020-10-20\* |  |

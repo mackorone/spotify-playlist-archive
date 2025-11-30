@@ -357,6 +357,28 @@
     },
     {
       "album": {
+        "name": "El Fabi",
+        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "El Fabi",
+      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
+    },
+    {
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -764,7 +786,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 234922,
       "name": "Hoy Me Estoy Comiendo la Ciudad - En Vivo",
       "url": "https://open.spotify.com/track/1lZWOA1c0YzqUvvmBpcc1s"

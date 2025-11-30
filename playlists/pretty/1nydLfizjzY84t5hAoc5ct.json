@@ -6,55 +6,23 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AABpVPoGhqb6GGpWva/3dzRRjxKYtVEl",
+  "snapshot_id": "AABpWJh8fCsGGf/yuY1uuTMfQhGd39w9",
   "tracks": [
     {
-      "added_at": "2025-11-23 12:41:29",
+      "added_at": "2025-11-23 12:41:39",
       "album": {
-        "name": "Pesky Rain",
-        "url": "https://open.spotify.com/album/54yakR5tUjCAlLId0YzkDh"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e"
       },
       "artists": [
         {
-          "name": "Eleanor Hickey",
-          "url": "https://open.spotify.com/artist/1onYQ6zhMsmt5yRvgwO4Rw"
+          "name": "Barranquismo",
+          "url": "https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF"
         }
       ],
-      "duration_ms": 218082,
-      "name": "Pesky Rain",
-      "url": "https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U"
-    },
-    {
-      "added_at": "2025-11-23 12:41:25",
-      "album": {
-        "name": "Get My Good Side",
-        "url": "https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn"
-      },
-      "artists": [
-        {
-          "name": "Dear Heather",
-          "url": "https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB"
-        }
-      ],
-      "duration_ms": 235346,
-      "name": "Cowboy Blues",
-      "url": "https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS"
-    },
-    {
-      "added_at": "2025-11-23 12:41:33",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/4OOKDqmZpVdAv8fPGwHzMV"
-      },
-      "artists": [
-        {
-          "name": "The Suite",
-          "url": "https://open.spotify.com/artist/10TpQjTeNbKzhlms00tsK4"
-        }
-      ],
-      "duration_ms": 138376,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3"
+      "duration_ms": 172800,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF"
     },
     {
       "added_at": "2025-11-23 12:41:36",
@@ -73,20 +41,52 @@
       "url": "https://open.spotify.com/track/2gP83aXOSFQYTEIwWZ7tHT"
     },
     {
-      "added_at": "2025-11-23 12:41:39",
+      "added_at": "2025-11-23 12:41:25",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e"
+        "name": "Get My Good Side",
+        "url": "https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn"
       },
       "artists": [
         {
-          "name": "Barranquismo",
-          "url": "https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF"
+          "name": "Dear Heather",
+          "url": "https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF"
+      "duration_ms": 235346,
+      "name": "Cowboy Blues",
+      "url": "https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS"
+    },
+    {
+      "added_at": "2025-11-23 12:41:29",
+      "album": {
+        "name": "Pesky Rain",
+        "url": "https://open.spotify.com/album/54yakR5tUjCAlLId0YzkDh"
+      },
+      "artists": [
+        {
+          "name": "Eleanor Hickey",
+          "url": "https://open.spotify.com/artist/1onYQ6zhMsmt5yRvgwO4Rw"
+        }
+      ],
+      "duration_ms": 218082,
+      "name": "Pesky Rain",
+      "url": "https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U"
+    },
+    {
+      "added_at": "2025-11-23 12:41:33",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/4OOKDqmZpVdAv8fPGwHzMV"
+      },
+      "artists": [
+        {
+          "name": "The Suite",
+          "url": "https://open.spotify.com/artist/10TpQjTeNbKzhlms00tsK4"
+        }
+      ],
+      "duration_ms": 138376,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3"
     },
     {
       "added_at": "2025-11-23 12:42:36",

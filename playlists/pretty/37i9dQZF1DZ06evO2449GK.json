@@ -1,13 +1,29 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 61190,
+  "num_followers": 61199,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADymRLpnyZcpy8WWGjxlwRl",
+  "snapshot_id": "aSjmAAAAAAAEDQW98JnJv9prrsOwFLqy",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Funa",
+        "url": "https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "La Funa",
+      "url": "https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e"
+    },
     {
       "added_at": null,
       "album": {

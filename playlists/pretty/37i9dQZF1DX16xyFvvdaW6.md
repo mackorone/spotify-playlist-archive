@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,671 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,680 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 69 | [Congratulations](https://open.spotify.com/track/6ncAHtk4M9RkhwI8ytXBb7) | [revoestereo](https://open.spotify.com/artist/4mz7SgPW11L0nUw2JyRa0J) | [Congratulations](https://open.spotify.com/album/52EaguKRMaVbqMpvIyGmxQ) | 3:51 |
 | 70 | [Direccionados VIP Edit](https://open.spotify.com/track/1883GmR7KtX5TsKh04q99J) | [Alexis Peña](https://open.spotify.com/artist/3ipq6fbp9zjPgdJOSudAcb), [Alex Marquez Oficial](https://open.spotify.com/artist/0mWEEdgUmHziltREUUbcAt), [The Maestro](https://open.spotify.com/artist/3OeoIvKHe9piEdiqPgHX4S) | [Direccionados VIP Edit](https://open.spotify.com/album/2OuFZzmqhv9lEGKfAqS7Qn) | 2:38 |
 
-Snapshot ID: `AAAAAGV9KUjNC/hq285qTNvrN3vnrHxc`
+Snapshot ID: `AAAAAMwz0UGG5OrFxrQNP0gIn6lldfG7`

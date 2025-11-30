@@ -1,6 +1,6 @@
 {
   "description": "because you deserve it. ",
-  "num_followers": 107477,
+  "num_followers": 107474,
   "original_name": "duvet day",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 189053,
-      "name": "Tourniquet",
-      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Pushing It Down and Praying",
         "url": "https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 234076,
       "name": "Pushing It Down and Praying",
       "url": "https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 189053,
+      "name": "Tourniquet",
+      "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 81222,
+      "name": "I Could Be A Florist",
+      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 81222,
-      "name": "I Could Be A Florist",
-      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Notes from the Archive: Recordings 2011-2016",
-        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        },
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 382613,
-      "name": "New Song",
-      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Notes from the Archive: Recordings 2011-2016",
+        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        },
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 382613,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Equus Asinus",
-        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 291791,
-      "name": "I Come With Mud",
-      "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Among My Swan",
         "url": "https://open.spotify.com/album/4mhpbf7jYc0L1nBceoebIE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 297893,
       "name": "Flowers In December",
       "url": "https://open.spotify.com/track/0G6Ws8Gbdt0S7pZeuYmkmm"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Equus Asinus",
+        "url": "https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 291791,
+      "name": "I Come With Mud",
+      "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "Good At Falling",
-        "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 200304,
-      "name": "i saw you in a dream",
-      "url": "https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "Begin to Hope",
         "url": "https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 189506,
       "name": "Samson",
       "url": "https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "Good At Falling",
+        "url": "https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 200304,
+      "name": "i saw you in a dream",
+      "url": "https://open.spotify.com/track/0ltmioOsLQsL0OFgcPbdVi"
     },
     {
       "added_at": "2025-05-06 15:44:34",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-05-06 15:44:34",
       "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
-    },
-    {
-      "added_at": "2025-05-06 15:44:34",
-      "album": {
         "name": "A Carnival of Fears",
         "url": "https://open.spotify.com/album/06YsuIiMmeV7GzKNTxNy59"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 251184,
       "name": "Love in the Time of Socialism",
       "url": "https://open.spotify.com/track/0JuJ0M9ZaKDwXms3rUh1Hk"
+    },
+    {
+      "added_at": "2025-05-06 15:44:34",
+      "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2025-05-06 15:44:34",

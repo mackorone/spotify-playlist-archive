@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "La Funa",
+        "url": "https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210989,
+      "name": "La Funa",
+      "url": "https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e"
+    },
+    {
+      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
       },

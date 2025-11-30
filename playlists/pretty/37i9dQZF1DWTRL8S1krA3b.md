@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Lady A
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,391 likes - 68 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,509 likes - 68 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

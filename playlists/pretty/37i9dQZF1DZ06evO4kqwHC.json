@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1096021,
+  "num_followers": 1096074,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADmoe/4INlAZk5nh9M4aV+s",
+  "snapshot_id": "aSjmAAAAAAD3woNt6Wn2fyx6mwqkbgBs",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 83800,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+      "duration_ms": 310470,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 310470,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+      "duration_ms": 83800,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
       "duration_ms": 283469,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 293337,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Echoes, Silence, Patience & Grace",
-        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 293337,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 257433,
-      "name": "Shame Shame",
-      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
+      "duration_ms": 245666,
+      "name": "Alone + Easy Target",
+      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
     }
   ],
   "unique_name": "This Is Foo Fighters",

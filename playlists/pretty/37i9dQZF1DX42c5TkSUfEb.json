@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 801893,
+  "num_followers": 801946,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "A Wonderful Life (Epilogue)",
-        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193393,
-      "name": "When I Close My Eyes",
-      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 233552,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
+        "name": "A Wonderful Life (Epilogue)",
+        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 193393,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "Black Friday",
-        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 221510,
-      "name": "Black Friday",
-      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 191906,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
+        "name": "Black Friday",
+        "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 221510,
+      "name": "Black Friday",
+      "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
+        "name": "xx (Deluxe)",
+        "url": "https://open.spotify.com/album/10p4597ekqFOqMbttkxggC"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 211505,
+      "name": "Hot Like Fire - Bonus",
+      "url": "https://open.spotify.com/track/2hgLE7m6TzT1PyE41r1xbf"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "xx (Deluxe)",
-        "url": "https://open.spotify.com/album/10p4597ekqFOqMbttkxggC"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 211505,
-      "name": "Hot Like Fire - Bonus",
-      "url": "https://open.spotify.com/track/2hgLE7m6TzT1PyE41r1xbf"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Anyone Who Loves Me",
+      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
         "name": "Old Friend",
         "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 157491,
       "name": "Old Friend",
       "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/0uPtCKUHqWQiYkQDnwfSjZ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Anyone Who Loves Me",
-      "url": "https://open.spotify.com/track/3XEkkVPlcOzcq1y6EgDjBK"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
+        "name": "Little House",
+        "url": "https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Little House",
+      "url": "https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
         "name": "Enzo Enzo",
         "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
       },
@@ -1043,6 +1059,22 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
+        "name": "Toujours des fleurs",
+        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 281757,
+      "name": "Mon idole",
+      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
         "name": "Cure for Emptiness (with Bello)",
         "url": "https://open.spotify.com/album/2j8F3cpZhOkAKUQ1KOaohT"
       },
@@ -1063,18 +1095,18 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "Toujours des fleurs",
-        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+        "name": "H24",
+        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
       },
       "artists": [
         {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
         }
       ],
-      "duration_ms": 281757,
-      "name": "Mon idole",
-      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+      "duration_ms": 216939,
+      "name": "H24",
+      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -1091,22 +1123,6 @@
       "duration_ms": 225570,
       "name": "i don\u2019t want your garden",
       "url": "https://open.spotify.com/track/2ORyQ8UioorEylTcJkwaap"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
-        "name": "H24",
-        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 216939,
-      "name": "H24",
-      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -1299,6 +1315,22 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
+        "name": "Arrietty",
+        "url": "https://open.spotify.com/album/6E61ly04XAD00u5lbU3e34"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "duration_ms": 181538,
+      "name": "Arrietty",
+      "url": "https://open.spotify.com/track/1IEjXJiCVNMmLDk9g2GXXW"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1331,22 +1363,6 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "Lesbian Of The Year",
-        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 213824,
-      "name": "Lesbian Of The Year",
-      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1359,6 +1375,22 @@
       "duration_ms": 197136,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
+        "name": "Lesbian Of The Year",
+        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 213824,
+      "name": "Lesbian Of The Year",
+      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -1503,22 +1535,6 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "Shake Off the Rain",
-        "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 282831,
-      "name": "Shake Off the Rain",
-      "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
         "name": "Lisbon",
         "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
       },
@@ -1535,6 +1551,22 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
+        "name": "Sugar Clouds",
+        "url": "https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 268560,
+      "name": "Sugar Clouds",
+      "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
         "name": "Joli monde",
         "url": "https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6"
       },
@@ -1547,6 +1579,22 @@
       "duration_ms": 228066,
       "name": "Tableau",
       "url": "https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT"
+    },
+    {
+      "added_at": "2025-11-28 14:29:35",
+      "album": {
+        "name": "Shake Off the Rain",
+        "url": "https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 282831,
+      "name": "Shake Off the Rain",
+      "url": "https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -1583,22 +1631,6 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "Sugar Clouds",
-        "url": "https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Sugar Clouds",
-      "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
         "name": "Le temps passe etc.",
         "url": "https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g"
       },
@@ -1611,22 +1643,6 @@
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
-        "name": "Free as a Bird",
-        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
-      },
-      "artists": [
-        {
-          "name": "Soom T",
-          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Free as a Bird",
-      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
     },
     {
       "added_at": "2025-11-28 14:29:35",
@@ -1647,34 +1663,18 @@
     {
       "added_at": "2025-11-28 14:29:35",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+        "name": "Free as a Bird",
+        "url": "https://open.spotify.com/album/6PE1Bl4C9sqAQdlmm5DrB6"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Soom T",
+          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
         }
       ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2025-11-28 14:29:35",
-      "album": {
-        "name": "Les bruits de la ville",
-        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
-      },
-      "artists": [
-        {
-          "name": "Voyou",
-          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Il neige",
-      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
+      "duration_ms": 209120,
+      "name": "Free as a Bird",
+      "url": "https://open.spotify.com/track/07miJxopLxBnXuMGyOSLXv"
     }
   ],
   "unique_name": "Au calme",

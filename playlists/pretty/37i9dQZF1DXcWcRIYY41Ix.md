@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,787 likes - 104 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,800 likes - 104 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 103 | [Lo importante](https://open.spotify.com/track/729u7EPzdbC25AuJgwWoU3) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [Lo importante](https://open.spotify.com/album/7hxMe8wqXvtknPhCvWDcp7) | 4:13 |
 | 104 | [Pájaros negros](https://open.spotify.com/track/01JCLmwvcZpulwdEkhfJiT) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK), [Diana Erenas](https://open.spotify.com/artist/3wkP4g5mkgCYCSO15IGYfz), [María Muriel](https://open.spotify.com/artist/4IxesVWDjzk9cniuzV8Z49), [Rodrigo Ramírez](https://open.spotify.com/artist/4oGqbLMRZ49v33Zt939wlD) | [Pájaros negros](https://open.spotify.com/album/0I5z8r1nIclUC9diVNNZth) | 3:02 |
 
-Snapshot ID: `AAAAAFeGJm6ppQcyaXKEUCLRrxvbUJfW`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

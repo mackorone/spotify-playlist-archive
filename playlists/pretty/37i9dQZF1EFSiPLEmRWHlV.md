@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 66 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
 | 67 | [Need Somebody](https://open.spotify.com/track/11GpZntix44GCa1ELQREj8) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Simon Jnr](https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K) | [Vibe Creator](https://open.spotify.com/album/2R0ef8WJZD7XOIf6QXln98) | 2:52 |
 | 68 | [Sunshine](https://open.spotify.com/track/25GjBBEFd6RPsCAyMNHJci) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/45IukBzWx0VZBU9CrnhaEZ) | 3:38 |
-| 69 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
-| 70 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 |
+| 69 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 |
+| 70 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 71 | [Bang Bang \(feat\. Donna Missal\)](https://open.spotify.com/track/2nuQAULY22Sm8s4LsALj84) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:08 |
 | 72 | [Over & Over](https://open.spotify.com/track/5yxZgGzAoRUntxuqBeiX7a) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Over & Over](https://open.spotify.com/album/1SAh2fP7h6BYUlNtZvlTj0) | 3:34 |
 | 73 | [Shock](https://open.spotify.com/track/6cS8DvSGYojElW2XB3NNVM) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Shock](https://open.spotify.com/album/4IPN0EOPic8pdQRRaNYW3A) | 2:22 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 137 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 138 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AcC06AAAAABSTiqTvUUvFg2hMG9T0joJ`
+Snapshot ID: `AcC6iAAAAABzxyF2MDkCiCkcb5ntgzQ9`

@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78188,
+  "num_followers": 78184,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 195730,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Um Mar Pra Cada Um,",
         "url": "https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 215005,
       "name": "Rota",
       "url": "https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "BOGOT\u00c1",
-        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        }
-      ],
-      "duration_ms": 195730,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 198650,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "al romper la burbuja",
         "url": "https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "Cancionera",
         "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
@@ -683,30 +683,6 @@
       "duration_ms": 336005,
       "name": "Cancionera",
       "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "O Mundo D\u00e1 Voltas",
-        "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
-        }
-      ],
-      "duration_ms": 321115,
-      "name": "Praia do Futuro",
-      "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -743,6 +719,30 @@
       "duration_ms": 182711,
       "name": "Deixa Eu Gostar de Voc\u00ea",
       "url": "https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "O Mundo D\u00e1 Voltas",
+        "url": "https://open.spotify.com/album/4pzQgSjcmHASfBc1lnTFjp"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+        }
+      ],
+      "duration_ms": 321115,
+      "name": "Praia do Futuro",
+      "url": "https://open.spotify.com/track/0VT77POdacAUVrokavr1Jy"
     },
     {
       "added_at": "2025-09-17 15:00:09",

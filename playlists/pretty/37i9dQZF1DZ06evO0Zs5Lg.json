@@ -1,12 +1,12 @@
 {
   "description": "This is Prof. The essential tracks, all in one playlist.",
-  "num_followers": 23208,
+  "num_followers": 23215,
   "original_name": "This Is Prof",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABtIYpphQsXfwoERhnxl0p/",
+  "snapshot_id": "aSjmAAAAAAC9eFP3EGLzItnUOuQLKsRm",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powderhorn Suites",
-        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
+        "name": "Destiny (with Sauce Walka)",
+        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        },
+        {
+          "name": "Sauce Walka",
+          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 155146,
-      "name": "Dead Man Shuffle",
-      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
+      "duration_ms": 195412,
+      "name": "Destiny (with Sauce Walka)",
+      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
     },
     {
       "added_at": null,
@@ -183,22 +187,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destiny (with Sauce Walka)",
-        "url": "https://open.spotify.com/album/3LxE9fvAr1ugZXfPhrkHdD"
+        "name": "Powderhorn Suites",
+        "url": "https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC"
       },
       "artists": [
         {
           "name": "Prof",
           "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        },
-        {
-          "name": "Sauce Walka",
-          "url": "https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Destiny (with Sauce Walka)",
-      "url": "https://open.spotify.com/track/1jhoaWZ9Gi99zvMgSg4cKZ"
+      "duration_ms": 155146,
+      "name": "Dead Man Shuffle",
+      "url": "https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liability",
-        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
-      },
-      "artists": [
-        {
-          "name": "Prof",
-          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Standout",
-      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Headphone Concerto",
         "url": "https://open.spotify.com/album/5UbbNvHn4onGGOmD4rpkMT"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 232483,
       "name": "Penny Nickel Dime",
       "url": "https://open.spotify.com/track/30rmz7OJYaDnYrgxkzpsS1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liability",
+        "url": "https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr"
+      },
+      "artists": [
+        {
+          "name": "Prof",
+          "url": "https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Standout",
+      "url": "https://open.spotify.com/track/08rc36f68zr2bZlZXpsBcN"
     },
     {
       "added_at": null,

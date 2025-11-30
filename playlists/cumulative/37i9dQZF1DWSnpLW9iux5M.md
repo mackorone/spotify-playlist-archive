@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Jonathan McReynolds
 
-194 songs - 12 hr 43 min
+195 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/1AGyI7SdbBZo21G0obtQrH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 3:52 | 2021-12-24 | 2024-04-19 |
 | [Christmas Ain't Christmas \(Without The One You Love\)](https://open.spotify.com/track/7mzQgvrYsw1U1dGYUgCTHH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas Aretha](https://open.spotify.com/album/3JEvXjX2yApZaGLuXjBAc5) | 3:52 | 2021-12-24 | 2024-10-27 |
 | [Christmas Is](https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM) | [Babbie Mason](https://open.spotify.com/artist/50D6dchvbbHfDJJrPc31Lw) | [Comfort and Joy](https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1) | 3:50 | 2021-12-24 | 2025-11-17 |
-| [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 | 2021-12-24 |  |
+| [Christmas Joy](https://open.spotify.com/track/160XASc2EehpJy98jRemCI) | [Brandon Camphor & One Way](https://open.spotify.com/artist/4mLHthOzPH2UIygTENj5Bm) | [Christmas Joy](https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl) | 3:26 | 2021-12-24 | 2025-11-30 |
 | [Christmas Pick Me Up](https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu) | 3:59 | 2021-12-24 | 2024-11-18 |
 | [Christmas Pick Me Up](https://open.spotify.com/track/3q9CNgt5xOKVGyY8addRH4) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Christmas Pick Me Up](https://open.spotify.com/album/2dczDUKRUmferBnrzgkCtS) | 3:59 | 2023-12-15 | 2024-04-19 |
 | [Christmas Praise \- Live](https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live \(Deluxe Edition\)](https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8) | 2:17 | 2021-12-24 |  |
@@ -130,6 +130,7 @@
 | [No Christmas Without You](https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Presents The Family, No Christmas Without You](https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6) | 4:21 | 2021-12-24 |  |
 | [No Christmas Without You](https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 4:02 | 2021-12-24 | 2024-07-30 |
 | [Noel](https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7) | [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Christmas Best](https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR) | 2:40 | 2021-12-24 |  |
+| [Noel](https://open.spotify.com/track/4PY7KhebLuHlcmkGNYxuXm) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [Noel](https://open.spotify.com/album/2Rc3jAkZVa2lGFTfdwtiyk) | 2:14 | 2025-11-28 |  |
 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 6:58 | 2021-12-24 |  |
 | [O Come All Ye Faithful](https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Christmas](https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4) | 5:18 | 2021-12-24 |  |
 | [O Come O Come Emmanuel](https://open.spotify.com/track/2rMq0mJtZhgXwwn46qFGLK) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [One Wish / The Holiday Album](https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU) | 3:06 | 2021-12-24 | 2025-10-27 |

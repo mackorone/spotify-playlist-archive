@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44667,
+  "num_followers": 44675,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAAWOV0XGdcka08NFr9eNZxQ",
+  "snapshot_id": "aSjmAAAAAADc5xdpqER+tRnC6pmWoP13",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUCU",
+        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "TUCU",
+      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mu\u00f1equita Linda",
         "url": "https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3"
       },
@@ -307,26 +327,6 @@
       "duration_ms": 210524,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TUCU",
-        "url": "https://open.spotify.com/album/6gvcAokwMdqpUDuVVROtc8"
-      },
-      "artists": [
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "TUCU",
-      "url": "https://open.spotify.com/track/4P9Bnk2M9nmYdXuqoItRDA"
     },
     {
       "added_at": null,
@@ -375,30 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring It Back (feat. Max Styler)",
-        "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Bring It Back (feat. Max Styler)",
-      "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
       },
@@ -419,6 +395,30 @@
       "duration_ms": 174555,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring It Back (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Bring It Back (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tranki",
         "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 256000,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIV - Spotify Singles",
-        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
-      },
-      "artists": [
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165248,
-      "name": "LIV - Spotify Singles",
-      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
       "added_at": null,
@@ -955,26 +955,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 143359,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,
@@ -999,18 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
+      "duration_ms": 143359,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
     },
     {
       "added_at": null,

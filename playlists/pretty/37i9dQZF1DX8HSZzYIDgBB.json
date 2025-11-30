@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Maffio en portada.",
-  "num_followers": 39846,
+  "num_followers": 39851,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-11-14 06:00:11",
       "album": {
+        "name": "Aguas",
+        "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 184391,
+      "name": "Nunca Paran",
+      "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
+    },
+    {
+      "added_at": "2025-11-14 06:00:11",
+      "album": {
         "name": "Negro Santo",
         "url": "https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
-    },
-    {
-      "added_at": "2025-11-14 06:00:11",
-      "album": {
-        "name": "Aguas",
-        "url": "https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy"
-      },
-      "artists": [
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 184391,
-      "name": "Nunca Paran",
-      "url": "https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc"
     },
     {
       "added_at": "2025-11-14 06:00:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-11-14 06:00:11",
       "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
-    },
-    {
-      "added_at": "2025-11-14 06:00:11",
-      "album": {
         "name": "Poco a Poco (Remix)",
         "url": "https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 256947,
       "name": "Todo el D\u00eda en la Cama",
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
+    },
+    {
+      "added_at": "2025-11-14 06:00:11",
+      "album": {
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2025-11-14 06:00:11",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2025-11-14 06:00:11",
       "album": {
-        "name": "La Punta",
-        "url": "https://open.spotify.com/album/6vgWpAwr7V0XHMFZf4Mj1q"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 238937,
-      "name": "La Punta",
-      "url": "https://open.spotify.com/track/4DYgUjM43h7LsCOGkT9XYr"
-    },
-    {
-      "added_at": "2025-11-14 06:00:11",
-      "album": {
         "name": "Contra La Corriente",
         "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2025-11-14 06:00:11",
+      "album": {
+        "name": "La Punta",
+        "url": "https://open.spotify.com/album/6vgWpAwr7V0XHMFZf4Mj1q"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 238937,
+      "name": "La Punta",
+      "url": "https://open.spotify.com/track/4DYgUjM43h7LsCOGkT9XYr"
     },
     {
       "added_at": "2025-11-14 06:00:11",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2025-11-14 06:00:11",
       "album": {
-        "name": "El Juidero",
-        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
-      },
-      "artists": [
-        {
-          "name": "Rita Indiana",
-          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
-        },
-        {
-          "name": "Los Misterios",
-          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
-        }
-      ],
-      "duration_ms": 299533,
-      "name": "Bajito a selva",
-      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
-    },
-    {
-      "added_at": "2025-11-14 06:00:11",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2025-11-14 06:00:11",
+      "album": {
+        "name": "El Juidero",
+        "url": "https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj"
+      },
+      "artists": [
+        {
+          "name": "Rita Indiana",
+          "url": "https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp"
+        },
+        {
+          "name": "Los Misterios",
+          "url": "https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj"
+        }
+      ],
+      "duration_ms": 299533,
+      "name": "Bajito a selva",
+      "url": "https://open.spotify.com/track/4CTqfYYGAv8NQEkMyQmy3R"
     },
     {
       "added_at": "2025-11-14 06:00:11",

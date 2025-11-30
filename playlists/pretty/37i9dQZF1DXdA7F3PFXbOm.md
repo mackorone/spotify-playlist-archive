@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdA7F3PFXbOm.md) - [plain]
 
 > what colour are you feeling right now?
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,974 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,972 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

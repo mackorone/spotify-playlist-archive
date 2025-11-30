@@ -1,6 +1,6 @@
 {
   "description": "The best alternative songs of the decade. Cover: Vampire Weekend",
-  "num_followers": 906136,
+  "num_followers": 906171,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 254305,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Chaleur Humaine",
         "url": "https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 254305,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
     },
     {
       "added_at": "2022-09-29 15:30:40",

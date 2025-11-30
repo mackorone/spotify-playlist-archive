@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Coti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,735 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,742 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Octubre](https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Serenata en mi mayor para un amor y un atardecer](https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz) | 3:20 |
+| 1 | [Octubre](https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Serenata en Mi Mayor para un amor y un atardecer](https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz) | 3:20 |
 | 2 | [Solo tú y yo](https://open.spotify.com/track/6leHSBzlrhq5R0oH4OGW9b) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Solo tú y yo](https://open.spotify.com/album/4MhVq7AI0Do2h8682Sbarc) | 3:46 |
 | 3 | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/track/2bN4zr5UMnLhdByPFxMwl6) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Vulnerable \(feat\. Dani Fernández\)](https://open.spotify.com/album/6uipZskshJV6txPUJrTFu2) | 3:13 |
 | 4 | [Tirant lo Blanc](https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Tirant lo Blanc](https://open.spotify.com/album/4BnDmTrXNNHZtGPfu3PgxQ) | 3:55 |

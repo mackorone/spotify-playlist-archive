@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-810 songs - 1 day 23 hr 42 min
+814 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Chasing Blue](https://open.spotify.com/track/2g1kSvIoQGINyhjnzma7bT) | [Daniel DaVinchy](https://open.spotify.com/artist/4PMpQNVTHYseyuy8gq73iO) | [Chasing Blue](https://open.spotify.com/album/3O2ZeAfmunYwTz6F8C4KzV) | 3:25 | 2025-07-09 | 2025-09-11 |
 | [choke enough](https://open.spotify.com/track/6M1IuZ15hoH1y7o8Q85541) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/4ykxxM5kqPqPQcS9147ZQY) | 4:00 | 2024-11-26 | 2025-01-12 |
 | [Choke Throat](https://open.spotify.com/track/77DKMP47yasQNFfz1dadNA) | [GOON](https://open.spotify.com/artist/4NXLuWrShwLG44Had3qhw5) | [Choke Throat](https://open.spotify.com/album/6RqQubyNGzX6lsNfeFaiVn) | 2:02 | 2024-04-03 | 2024-05-16 |
+| [Chère chambre](https://open.spotify.com/track/67QdtBFncrV2RVth3q9VRC) | [Faust](https://open.spotify.com/artist/4yBBNmdvVaoPEnr2lt14q7) | [The Faust Tapes](https://open.spotify.com/album/1OAEmy7XGbuOaZ85UXQELd) | 3:09 | 2025-11-29 |  |
 | [Circlesz](https://open.spotify.com/track/31djYAZR2kl3HotgjFScEi) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [Circlesz](https://open.spotify.com/album/6gnIbhhnF3e7bT4VSvaTf4) | 2:21 | 2025-11-18 | 2025-11-26 |
 | [City Nights \- Remastered](https://open.spotify.com/track/3OGz14dnKpsDvBaoDgPuXK) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Secrets \(Remastered\)](https://open.spotify.com/album/1UDgMZLyvJgGYNCOqMEURq) | 2:33 | 2025-01-13 | 2025-03-02 |
 | [Clayboy](https://open.spotify.com/track/3BESrc7B6JJqt7hFNx2gmb) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Emo Regulation](https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk) | 2:35 | 2025-07-03 | 2025-09-11 |
@@ -435,6 +436,7 @@
 | [Love To Know](https://open.spotify.com/track/2eJW10wl70KQ7zLazlSEMW) | [Marine Girls](https://open.spotify.com/artist/06U3HB7kYW3D8AORt54Xp8) | [Lazy Ways/Beach Party](https://open.spotify.com/album/1mcPuNWDmqpSpm86qyHD8l) | 2:51 | 2025-10-23 | 2025-11-15 |
 | [Love You To Death](https://open.spotify.com/track/1n37LpBrr9CU9IJYotLMZO) | [Snowy Band](https://open.spotify.com/artist/0Ky0HZRpab9SW891Jb9gce) | [Audio Commentary](https://open.spotify.com/album/2XY6A8TMHbPaffK00b72BO) | 4:02 | 2025-11-19 |  |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |
+| [Lowdown](https://open.spotify.com/track/5Bz1PAWnF1n1xQDpvwLYg8) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [Scary World Theory](https://open.spotify.com/album/08FP6j08db3ZHH5vADaoZ6) | 3:56 | 2025-11-30 |  |
 | [Lucky Stars](https://open.spotify.com/track/7cJdD6acIkIxAMCEGimoO6) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [The Music Industry Is Poisonous](https://open.spotify.com/album/1Ramc5P9LF57iC0hIFU8Fm) | 2:07 | 2025-09-25 | 2025-11-15 |
 | [Lux Radio Theatre](https://open.spotify.com/track/7L6luimnBJ3SRfyf2Ua436) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Heaven Is a Junkyard](https://open.spotify.com/album/2ORI4KGuGYO14sxdwbmOBY) | 2:44 | 2024-02-13 | 2024-03-10 |
 | [M M M](https://open.spotify.com/track/3OEnErw6z4DGjfiWefhg75) | [Still House Plants](https://open.spotify.com/artist/1zvVxcYQEbn9D1tMG7960a) | [If I don't make it, I love u](https://open.spotify.com/album/1DG8mBYMlAQNC9pA21zWAH) | 5:46 | 2024-06-26 | 2024-07-12 |
@@ -683,6 +685,7 @@
 | [Taxi Driver](https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU) | [Bobby Benson & His Orchestra](https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 3:22 | 2025-08-20 | 2025-09-11 |
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 | 2024-07-12 |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
+| [Teardrop](https://open.spotify.com/track/0LXPoOxdUEeeT870fl7onI) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP), [KUKII](https://open.spotify.com/artist/6qOEFZyFqonqgBEZn5lkK7) | [Reestablishing Connection \[2020\]](https://open.spotify.com/album/31zWxMVZtTzjqIKYlx4YNB) | 2:03 | 2025-11-30 |  |
 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-15 | 2025-05-09 |
 | [That's Alright \- 2016 Remaster](https://open.spotify.com/track/01Ad3YljWv9gfMVYpn6cL7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 3:10 | 2025-09-13 | 2025-11-15 |
 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 | 2025-01-14 | 2025-03-02 |
@@ -709,6 +712,7 @@
 | [The Mystery At Ogwen's Farm](https://open.spotify.com/track/63biskPX3EbVQjQQHIrW5t) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 2:59 | 2025-01-25 | 2025-03-02 |
 | [The Night Belongs To You](https://open.spotify.com/track/3ePVhxW69qGToTbytD1YCh) | [Fabuleers](https://open.spotify.com/artist/1ZsohGiVBohlJYzHyp3vra) | [There's Got To Be A Girl: The Best Of Chase Records Vol\. 1](https://open.spotify.com/album/0kwiVCiVE01he2QXC0TyTO) | 2:13 | 2025-03-01 | 2025-05-09 |
 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 | 2024-06-24 | 2024-07-12 |
+| [The Only Way Out is Through](https://open.spotify.com/track/51txmuSJgeOo1B8x71i3k9) | [Vilde Tuv](https://open.spotify.com/artist/29qqFSoXdHRDxmlvkKielH) | [Truthbomb](https://open.spotify.com/album/0oyo57QSPiO0zz19lvECQl) | 4:17 | 2025-11-29 |  |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
 | [The Ruling Class](https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:35 | 2024-08-08 | 2024-09-08 |
 | [The Sailboat Song](https://open.spotify.com/track/5epBt5MByagXURhyKl2diz) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Stoned Soul Picnic](https://open.spotify.com/album/5prYrujbU18XFdkMkjnJGX) | 2:52 | 2025-08-24 | 2025-09-11 |

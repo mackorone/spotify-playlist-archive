@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,157 likes - 55 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,048 likes - 55 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 54 | [Last Time](https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Last Time](https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf) | 3:34 |
 | 55 | [Portal](https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Portal](https://open.spotify.com/album/5bERfb2BXDKSZuQcDmDwJR) | 2:23 |
 
-Snapshot ID: `AAAAAIDMSj+KuZ+mlf5SrYPrTamT7V3h`
+Snapshot ID: `AAAAAN32t8yATlZW6KPQwjB/vxXbeIzR`

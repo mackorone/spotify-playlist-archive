@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > A new world of alternative electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,956 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,946 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 40 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 |
 | 41 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 42 | [Birth4000](https://open.spotify.com/track/658gtQhSGDuPtIlpCSqNek) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Cascade](https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L) | 4:46 |
-| 43 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
-| 44 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
+| 43 | [Badder](https://open.spotify.com/track/6HnnU52OLpINwucbbiXy5v) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR) | [Badder](https://open.spotify.com/album/4xq8NcQXxBMezVM937XYHo) | 2:50 |
+| 44 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
 | 45 | [Night Moves](https://open.spotify.com/track/3txXtinyEJNYIifRyLK3z2) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Night Moves](https://open.spotify.com/album/6jsl3oV9zfqb7l7rpbQDki) | 3:21 |
 | 46 | [play it again](https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [play it again](https://open.spotify.com/album/0oCUvYwaTE0lfpVPH1T5t4) | 3:13 |
 | 47 | [You're Not a Popstar](https://open.spotify.com/track/1gQgCVN31mBVPemIEeSLTA) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [You're Not a Popstar](https://open.spotify.com/album/4rs98cVa5lL5pyBprgNQMW) | 3:44 |

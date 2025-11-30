@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 
 > De  winnaars: Frenna \(Song\), Roxy Dekker \(Pop\), Froukje \(Album\),  Eefje de Visser \(Nederlandstalig\), Yves Berendse \(Hollands\), KI/KI \(Dance\), Fresku \(Hiphop\), néomí \(Alternative\), Personal Trainer \(Rock\), Bnnyhunna \(Soul/R&B/Funk\), Elmer \(Nieuwkomer\) en De Jeugd Van Tegenwoordig \(Oeuvreprijs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,669 likes - 12 songs - 38 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 5,667 likes - 12 songs - 38 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,255 likes - 150 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,275 likes - 150 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 2 | [The Forest](https://open.spotify.com/track/262rHXdxQM3dj5Ju8uDSC3) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Jay Kelly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jWUOYVx3c4nejJmSsTB29) | 1:39 |
 | 3 | [When Do We Leave](https://open.spotify.com/track/3242u962EMReJzjWIpWttr) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Eternity \(Original Soundtrack\)](https://open.spotify.com/album/3hfLkK9uPSXMp01nU0Ypy7) | 3:44 |
 | 4 | [Blues \- Pluribus edit \(from "Pluribus"\)](https://open.spotify.com/track/3HfrJ2bQm6hZFNG8rV0t3j) | [Nina Becker](https://open.spotify.com/artist/4HNWCD51r0ZgOkQGuxMgJV), [Marcelo Callado](https://open.spotify.com/artist/5PPXLAl96nllrxUESPD64E) | [Blues \- Pluribus edit \(from "Pluribus"\)](https://open.spotify.com/album/70hkEO3bgXyOQECbZScesF) | 1:27 |
-| 5 | [The Troll Massacre](https://open.spotify.com/track/5RbnB8MoP9ukaF9W1YKCoX) | [Johannes Ringen](https://open.spotify.com/artist/7c16TShAemRcpdBNSfji0I), [Brita Sjöberg](https://open.spotify.com/artist/35KU3WPZcOMFQ4FBvPq1rv), [Tarjei Nysted](https://open.spotify.com/artist/2bMbARQPLWF7MMKZKIgvbF) | [Troll: 2 \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/78qQvwO2Jdln1plLYTyPaB) | 1:37 |
+| 5 | [The Troll Massacre](https://open.spotify.com/track/5RbnB8MoP9ukaF9W1YKCoX) | [Johannes Ringen](https://open.spotify.com/artist/7c16TShAemRcpdBNSfji0I), [Brita Sjöberg](https://open.spotify.com/artist/35KU3WPZcOMFQ4FBvPq1rv), [Tarjei Nysted](https://open.spotify.com/artist/2bMbARQPLWF7MMKZKIgvbF) | [Troll 2 \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/78qQvwO2Jdln1plLYTyPaB) | 1:37 |
 | 6 | [Jeder Neue Tag \- Epilog](https://open.spotify.com/track/4Hz80L0PW9q5ppF3YLkxIN) | [Martina Eisenreich](https://open.spotify.com/artist/4LYEOCTnfZxA9U0TuXwAfH), [Michael Kadelbach](https://open.spotify.com/artist/05B8ng9XjFvTBV3jZnf4EY) | [Turmschatten \(Original Series Soundtrack\)](https://open.spotify.com/album/0KIQ4xRDDeNZgThnzRcPdi) | 4:33 |
 | 7 | [For Good](https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 6:17 |
 | 8 | [Zootopia 2 Suite](https://open.spotify.com/track/3u3qU0rSB2lE1tqVowVMll) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 10:10 |

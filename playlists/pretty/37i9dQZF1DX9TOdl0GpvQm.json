@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 188077,
+  "num_followers": 188133,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Analog Noise",
-        "url": "https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e"
-      },
-      "artists": [
-        {
-          "name": "YG Hypnos",
-          "url": "https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Dust Collector",
-      "url": "https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Floating Into The Night",
         "url": "https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 321853,
       "name": "Falling",
       "url": "https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Analog Noise",
+        "url": "https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e"
+      },
+      "artists": [
+        {
+          "name": "YG Hypnos",
+          "url": "https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Dust Collector",
+      "url": "https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -755,38 +755,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Beetlejuice (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1iyLkKp8f8XZjOxDD2PEo9"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "The Incantation - From \"Beetlejuice\" Soundtrack",
-      "url": "https://open.spotify.com/track/4cfggoaW1qu7KVOZopdoAb"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Dark Island",
-        "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
-      },
-      "artists": [
-        {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Track Of The Cat",
-      "url": "https://open.spotify.com/track/26Z4ZAQqjy2B3d1WrTVbiL"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Ligeti : Project Vol.2 - Lontano, Atmosph\u00e8res, Apparitions, San Francisco Polyphony & Concert Rom\u00e2nesc",
         "url": "https://open.spotify.com/album/6u6xyeAYduVoORqSEb2y1Y"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 538800,
       "name": "Ligeti: Atmosph\u00e8res",
       "url": "https://open.spotify.com/track/3HVUDpc6RNoY4d1zF5F287"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Dark Island",
+        "url": "https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        }
+      ],
+      "duration_ms": 253160,
+      "name": "Track Of The Cat",
+      "url": "https://open.spotify.com/track/26Z4ZAQqjy2B3d1WrTVbiL"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Beetlejuice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iyLkKp8f8XZjOxDD2PEo9"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "The Incantation - From \"Beetlejuice\" Soundtrack",
+      "url": "https://open.spotify.com/track/4cfggoaW1qu7KVOZopdoAb"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Under the Skin",
-        "url": "https://open.spotify.com/album/1AwRkRCdw9qAKRtzwKUYcC"
-      },
-      "artists": [
-        {
-          "name": "Mica Levi",
-          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Creation",
-      "url": "https://open.spotify.com/track/4CKpAiTlrc5S7hDEQ2LXeg"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Draconian Poetry",
         "url": "https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 467280,
       "name": "Sealand - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/0F0mS09ruZO2zWaEbl6hGQ"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Under the Skin",
+        "url": "https://open.spotify.com/album/1AwRkRCdw9qAKRtzwKUYcC"
+      },
+      "artists": [
+        {
+          "name": "Mica Levi",
+          "url": "https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Creation",
+      "url": "https://open.spotify.com/track/4CKpAiTlrc5S7hDEQ2LXeg"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Recordings from the \u00c5land Islands",
+        "url": "https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        },
+        {
+          "name": "Marta Sofia Honer",
+          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Under the Midnight Sun",
+      "url": "https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Study Series 07: Autumnal Activities",
         "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 168126,
       "name": "November Sequence",
       "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Recordings from the \u00c5land Islands",
-        "url": "https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
-        },
-        {
-          "name": "Marta Sofia Honer",
-          "url": "https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Under the Midnight Sun",
-      "url": "https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Caso 63 (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya"
-      },
-      "artists": [
-        {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
-        }
-      ],
-      "duration_ms": 151248,
-      "name": "The Theme",
-      "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Caso 63 (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        }
+      ],
+      "duration_ms": 151248,
+      "name": "The Theme",
+      "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "S\u00e9ance at Hobs Lane",
-        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
-      },
-      "artists": [
-        {
-          "name": "Mount Vernon Arts Lab",
-          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "The Black Drop",
-      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Heat Ray: The Archimedes Project",
         "url": "https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ"
       },
@@ -1291,6 +1275,58 @@
       "duration_ms": 219427,
       "name": "Young Archimedes (feat. BBC National Orchestra Of Wales)",
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "S\u00e9ance at Hobs Lane",
+        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
+      },
+      "artists": [
+        {
+          "name": "Mount Vernon Arts Lab",
+          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "The Black Drop",
+      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Hypernormality",
+        "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
+      },
+      "artists": [
+        {
+          "name": "\u00d6",
+          "url": "https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y"
+        },
+        {
+          "name": "N\u00f6mak",
+          "url": "https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY"
+        }
+      ],
+      "duration_ms": 316693,
+      "name": "St Henri",
+      "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Dragon Wings and Wizard Tales",
+        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "Flight of the Raven",
+      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1327,22 +1363,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Dragon Wings and Wizard Tales",
-        "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
-      },
-      "artists": [
-        {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "Flight of the Raven",
-      "url": "https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY"
       },
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Hypernormality",
-        "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
-      },
-      "artists": [
-        {
-          "name": "\u00d6",
-          "url": "https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y"
-        },
-        {
-          "name": "N\u00f6mak",
-          "url": "https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "St Henri",
-      "url": "https://open.spotify.com/track/2Zu8GTKVR2iXR3ZJIbbky3"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Endless Echo",
         "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 241732,
-      "name": "The Gone Away",
-      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
         "url": "https://open.spotify.com/album/3y1AC3NQFIXIAmMYzkkl4x"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 256746,
       "name": "Angel Fossil \u5929\u4f7f\u5316\u77f3",
       "url": "https://open.spotify.com/track/166BtXtfNGtQf7REpNBBa6"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 241732,
+      "name": "The Gone Away",
+      "url": "https://open.spotify.com/track/5NDgIlcWR69yxix0SsI9jO"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Odio Bajo El Alma",
+        "url": "https://open.spotify.com/album/4E7XMWhx8XBNIwIzfm2TaJ"
+      },
+      "artists": [
+        {
+          "name": "Hocico",
+          "url": "https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE"
+        }
+      ],
+      "duration_ms": 373083,
+      "name": "Odio En El Alma",
+      "url": "https://open.spotify.com/track/3LK6ecWsEEDbYNJuli9XgE"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "The Silver Threshold",
         "url": "https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Odio Bajo El Alma",
-        "url": "https://open.spotify.com/album/4E7XMWhx8XBNIwIzfm2TaJ"
-      },
-      "artists": [
-        {
-          "name": "Hocico",
-          "url": "https://open.spotify.com/artist/5cilSDFcAQcLwh0dNqMhrE"
-        }
-      ],
-      "duration_ms": 373083,
-      "name": "Odio En El Alma",
-      "url": "https://open.spotify.com/track/3LK6ecWsEEDbYNJuli9XgE"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Galactic Sounds",
         "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "In Free Fall",
-        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Elektrik Karousel",
         "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
     }
   ],
   "unique_name": "hauntology",

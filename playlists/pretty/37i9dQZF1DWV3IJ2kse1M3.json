@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u70ba\u4f55\u653e\u68c4 \u70ba\u4f55\u61f7\u7591 \u5225\u592a\u5feb \u5c07\u6211\u63a8\u958b\u3002",
-  "num_followers": 852,
+  "num_followers": 864,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
-      },
-      "artists": [
-        {
-          "name": "Fan Yi Chen",
-          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
-        }
-      ],
-      "duration_ms": 288773,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 321629,
       "name": "\u80cc\u53db",
       "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u8303\u9038\u81e3\u7b2c\u4e00\u5f35\u500b\u4eba\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/1IPwkLDx0vXnCqYF4QtlMw"
+      },
+      "artists": [
+        {
+          "name": "Fan Yi Chen",
+          "url": "https://open.spotify.com/artist/2Z7qQ1slMaPjLOCXBqshct"
+        }
+      ],
+      "duration_ms": 288773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7BPtIXCBWvbl1HqEosWvmK"
     },
     {
       "added_at": "2025-02-03 08:01:17",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-02-03 08:01:17",
       "album": {
-        "name": "\u50cf\u9b5a",
-        "url": "https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v"
-      },
-      "artists": [
-        {
-          "name": "\u738b\u8cb3\u6d6a",
-          "url": "https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA"
-        }
-      ],
-      "duration_ms": 285271,
-      "name": "\u50cf\u9b5a",
-      "url": "https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S"
-    },
-    {
-      "added_at": "2025-02-03 08:01:17",
-      "album": {
         "name": "\u62b1\u4e00\u62b1",
         "url": "https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 266333,
       "name": "\u6211\u611b\u7684\u4eba",
       "url": "https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY"
+    },
+    {
+      "added_at": "2025-02-03 08:01:17",
+      "album": {
+        "name": "\u50cf\u9b5a",
+        "url": "https://open.spotify.com/album/6Bnxko0NpYp7NOUt3YIk6v"
+      },
+      "artists": [
+        {
+          "name": "\u738b\u8cb3\u6d6a",
+          "url": "https://open.spotify.com/artist/6jNRSV0cd0kL5Tfz6JPxZA"
+        }
+      ],
+      "duration_ms": 285271,
+      "name": "\u50cf\u9b5a",
+      "url": "https://open.spotify.com/track/1MRRjWwqBUyoD9dC11sZ4S"
     },
     {
       "added_at": "2025-02-03 08:01:17",

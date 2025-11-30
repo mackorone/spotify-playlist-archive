@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBHT4jrQJ7v.md) - [plain]
 
 > Classical music to help children and young minds focus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,887 likes - 96 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,989 likes - 96 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

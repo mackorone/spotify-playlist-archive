@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,765 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,796 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 37 | [Olokun](https://open.spotify.com/track/51fZwbPSydMuRctf4iJ2h6) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Olokun](https://open.spotify.com/album/2t7uNEbjwLwE6Nf74elCXf) | 3:31 |
 | 38 | [Tambor Azteca](https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [Obscure Tribal](https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z) | 2:48 |
 | 39 | [Dawn](https://open.spotify.com/track/5EqNeBnR3YtuFJwv4YKoWE) | [HAMAL](https://open.spotify.com/artist/3f36c30ZfChG7KA6MaBEI1) | [Dawn](https://open.spotify.com/album/0kXHJmCTIQlLzD74YUVbd6) | 3:29 |
-| 40 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
-| 41 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
+| 40 | [La Niña \(Alan Rosales & Manu Morales Tribal Remix\)](https://open.spotify.com/track/3nnM5ioawGAIuDnC29Yw3L) | [Meketrefe](https://open.spotify.com/artist/3QCqMFfVYxY5RDp5UCT874), [Priscila](https://open.spotify.com/artist/4Py7WrbyPY21zp4Q8dQDdj) | [La Niña \(Remixes\)](https://open.spotify.com/album/5w4iu4pMgvvqreV9Mov2fN) | 4:24 |
+| 41 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
 | 42 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
 | 43 | [Teneloa Kuikayotl](https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1), [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Teneloa Kuikayotl](https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W) | 2:54 |
 | 44 | [The Virus \- Alan Rosales Remix](https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [The Virus \(Alan Rosales Remix\)](https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA) | 4:31 |

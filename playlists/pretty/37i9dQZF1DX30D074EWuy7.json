@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33555,
+  "num_followers": 33559,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACls+ZprbeV0YZuKP0I/FWc6inVW",
+  "snapshot_id": "AAAAAPUT5MXhuEJ650Mly1zAVN7sOPOh",
   "tracks": [
     {
       "added_at": "2025-11-20 23:01:42",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "D'Improvviso",
-        "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
-      },
-      "artists": [
-        {
-          "name": "Rosalia De Souza",
-          "url": "https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "D'Improvviso",
-      "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Reality And Fantasy (Special Edition)",
         "url": "https://open.spotify.com/album/6zoX2yMQCCSCZaorNKgdsZ"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 214053,
       "name": "Follia D'Amore",
       "url": "https://open.spotify.com/track/5sFAmIIncDn9O1wcxQmAte"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "D'Improvviso",
+        "url": "https://open.spotify.com/album/5uMkplQohrSjoclLGmLpTe"
+      },
+      "artists": [
+        {
+          "name": "Rosalia De Souza",
+          "url": "https://open.spotify.com/artist/4UK7ZwlNiYWVFeATAQian1"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "D'Improvviso",
+      "url": "https://open.spotify.com/track/2aco8Ba7NUEtHYRHN3ZhYd"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -203,6 +203,42 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
+        "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
+        "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        }
+      ],
+      "duration_ms": 241318,
+      "name": "Howls",
+      "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "Libeccio",
+        "url": "https://open.spotify.com/album/4sbWa0jfROzDIDTpwwXEop"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Libeccio",
+      "url": "https://open.spotify.com/track/6MxupAMHRW2Ckhg47UGXuu"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
         "name": "Oltreoceano",
         "url": "https://open.spotify.com/album/7B2ff0wIuXsdwfWuebmfo5"
       },
@@ -231,42 +267,6 @@
       "duration_ms": 199639,
       "name": "Fine Di Un'Era",
       "url": "https://open.spotify.com/track/3pOpZ3BStCHuixCYipeFyF"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
-        "name": "Libeccio",
-        "url": "https://open.spotify.com/album/4sbWa0jfROzDIDTpwwXEop"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 213500,
-      "name": "Libeccio",
-      "url": "https://open.spotify.com/track/6MxupAMHRW2Ckhg47UGXuu"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
-        "name": "Afrobeat Makers, Vol. 3 (The Tony Allen Experiments)",
-        "url": "https://open.spotify.com/album/1GjbremREcqamlsdqM3gEI"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        }
-      ],
-      "duration_ms": 241318,
-      "name": "Howls",
-      "url": "https://open.spotify.com/track/0h51tz4qtVPvygXm291ceN"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "The Jazzness",
-        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
-      },
-      "artists": [
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        }
-      ],
-      "duration_ms": 248089,
-      "name": "Ripartire Da Zero 2025",
-      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Sogni",
         "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "Contenta tu",
-        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
+        "name": "The Jazzness",
+        "url": "https://open.spotify.com/album/6MZzEc8mkCHG7ugAbbI2oQ"
       },
       "artists": [
         {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
         }
       ],
-      "duration_ms": 275093,
-      "name": "Av\u00f2",
-      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
+      "duration_ms": 248089,
+      "name": "Ripartire Da Zero 2025",
+      "url": "https://open.spotify.com/track/2VP7ywy2ucmXx089g5Izgb"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -723,22 +707,18 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "Shades of Chet",
-        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
+        "name": "Contenta tu",
+        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
       },
       "artists": [
         {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
         }
       ],
-      "duration_ms": 457360,
-      "name": "You can't go home again",
-      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+      "duration_ms": 275093,
+      "name": "Av\u00f2",
+      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -759,6 +739,26 @@
       "duration_ms": 388854,
       "name": "Estate",
       "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "Shades of Chet",
+        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 457360,
+      "name": "You can't go home again",
+      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
+        "name": "Fidate Correnti",
+        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Vola lontano",
+      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
-        "name": "Fidate Correnti",
-        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Vola lontano",
-      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 244000,
       "name": "Long John Silver",
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "New Game Plus",
-        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
-      },
-      "artists": [
-        {
-          "name": "magikAAAAArp",
-          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "2 AM",
-      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Popoli del Mare",
         "url": "https://open.spotify.com/album/1g7UTKhytfHHaqU17J22e6"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 279709,
       "name": "Popoli del Mare",
       "url": "https://open.spotify.com/track/4oTX4W2AcuxSU1iPAeAasE"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "New Game Plus",
+        "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
+      },
+      "artists": [
+        {
+          "name": "magikAAAAArp",
+          "url": "https://open.spotify.com/artist/1pyovQJ1LBijAxUci0z8sq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "2 AM",
+      "url": "https://open.spotify.com/track/3vSCu1i40ARAivECYZfcV9"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "GAS",
-        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
-      },
-      "artists": [
-        {
-          "name": "Tare",
-          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
-        }
-      ],
-      "duration_ms": 180738,
-      "name": "Acqua alta",
-      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 278773,
       "name": "Musica e fumo (featuring Colle Der Fomento)",
       "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/7zzqn4dW49B9XEEdmO4Xfz"
+      },
+      "artists": [
+        {
+          "name": "Tare",
+          "url": "https://open.spotify.com/artist/4pY5WUGXSfiCUMFnb15oEB"
+        }
+      ],
+      "duration_ms": 180738,
+      "name": "Acqua alta",
+      "url": "https://open.spotify.com/track/5gpUzlhLYjc1x3yWfbv5nE"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 279570,
-      "name": "Bajone",
-      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "La Valle Dei Templi",
         "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 225875,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 279570,
+      "name": "Bajone",
+      "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-11-20 23:01:42",
       "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
         "name": "Dualism",
         "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
       },
@@ -1867,22 +1851,6 @@
       "duration_ms": 281466,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
-    },
-    {
-      "added_at": "2025-11-20 23:01:42",
-      "album": {
-        "name": "AMUN\u00cc",
-        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
-      },
-      "artists": [
-        {
-          "name": "sunremo",
-          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
-        }
-      ],
-      "duration_ms": 220969,
-      "name": "AMUN\u00cc",
-      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
     },
     {
       "added_at": "2025-11-20 23:01:42",
@@ -1907,6 +1875,38 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "AMUN\u00cc",
+        "url": "https://open.spotify.com/album/11Eg6yBh2LphTmiHJY0vwt"
+      },
+      "artists": [
+        {
+          "name": "sunremo",
+          "url": "https://open.spotify.com/artist/0PifXQiTMFvQVmZRu3Skk5"
+        }
+      ],
+      "duration_ms": 220969,
+      "name": "AMUN\u00cc",
+      "url": "https://open.spotify.com/track/3IbJzKw3LBlO0Gomvw4wqP"
+    },
+    {
+      "added_at": "2025-11-20 23:01:42",
+      "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-11-20 23:01:42",

@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-518 songs - 1 day 2 hr 9 min
+519 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [I Like Girls](https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [I Like Girls](https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3) | 2:37 | 2023-03-17 | 2023-04-15 |
 | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 | 2023-05-05 |
 | [i Wey 5000](https://open.spotify.com/track/1M5dFODSjNXQvi374tJt64) | [Uche B](https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v), [Frontback](https://open.spotify.com/artist/4uuYNKIR4DjaMJCerKYcCD), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [i Wey 5000](https://open.spotify.com/album/4XAUgTFVSRhZALLqYIXoNA) | 2:57 | 2023-04-20 | 2023-05-05 |
+| [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 | 2022-10-21 | 2024-06-15 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 | 2024-06-15 |
 | [In Da Car](https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [In Da Car](https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv) | 4:18 | 2022-08-05 | 2023-02-24 |
@@ -400,7 +401,7 @@
 | [Rara](https://open.spotify.com/track/7Ko1e2popoynx9jsU0wj6S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Omo Ologo](https://open.spotify.com/album/74BlJC2C7ifL7mgPCRFpKN) | 2:36 | 2023-04-27 | 2023-05-05 |
 | [Reconsider](https://open.spotify.com/track/6m2VMVhBbwiWdpOx3S2uks) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Big Klef](https://open.spotify.com/artist/4VZljMVEAhstVDTphJx2nT) | [Reconsider](https://open.spotify.com/album/4vdQCk3kk6k2AKpszDDfmw) | 2:46 | 2022-06-09 | 2022-07-29 |
 | [Red](https://open.spotify.com/track/2eMgsptakx869WHZ64Y2No) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Fire](https://open.spotify.com/album/7pQThPR8GmQWkzpvqIteNH) | 2:54 | 2022-06-23 | 2022-07-29 |
-| [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 | 2024-04-26 |  |
+| [Rodo](https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Rodo](https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ) | 2:23 | 2024-04-26 | 2025-11-30 |
 | [Ronaldo](https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ronaldo](https://open.spotify.com/album/60URysVADvw9jbvTJypX2N) | 2:49 | 2022-05-26 | 2024-06-15 |
 | [Royal Rumble](https://open.spotify.com/track/2If4yVXLFbGksTtbn260Se) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Royal Rumble](https://open.spotify.com/album/1UnGYefcAvZXmFSmOBNiFL) | 2:44 | 2022-07-22 | 2022-07-26 |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-19 | 2023-02-24 |

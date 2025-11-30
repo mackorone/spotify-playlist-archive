@@ -1386,7 +1386,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 170826,
       "name": "O Dia Mais Quente do Ano",
       "url": "https://open.spotify.com/track/4heODqOt9uK15OzVYgzIP7"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 163240,
       "name": "Ordem Natural",
       "url": "https://open.spotify.com/track/5JE1zOziDo4rOzAm0FC8FA"
@@ -1626,6 +1626,32 @@
       "duration_ms": 162684,
       "name": "PSLS",
       "url": "https://open.spotify.com/track/4wsfiMI70QpNwZoI8qWoIS"
+    },
+    {
+      "album": {
+        "name": "Vinhos & Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/1PBarGUYAMSwXOAouGVLDw"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Quero ser tua",
+      "url": "https://open.spotify.com/track/3Ttrqj3QfgzIslZ8RkICKI"
     },
     {
       "album": {
@@ -1818,7 +1844,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 272010,
       "name": "Resposta",
       "url": "https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og"
@@ -1914,7 +1940,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 193881,
       "name": "Se A Rua Fosse Minha",
       "url": "https://open.spotify.com/track/0u1dZJNZz7LYjbgbpqQGCa"
@@ -2114,7 +2140,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 313714,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/0o6VOSrJEiK1KqS7FXDtcK"

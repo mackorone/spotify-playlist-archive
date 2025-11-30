@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 163666,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
@@ -1166,6 +1166,24 @@
       "duration_ms": 236586,
       "name": "Snow Song",
       "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
+    },
+    {
+      "album": {
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
     },
     {
       "album": {

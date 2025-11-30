@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Tate McRae.
 
-1,846 songs - 3 day 20 hr 33 min
+1,847 songs - 3 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Better Man](https://open.spotify.com/track/66qpzP4O9D3ypnq72ZA7pz) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Better Man](https://open.spotify.com/album/1UyLr18KET3q6xPHJqr2nj) | 3:03 | 2025-09-25 | 2025-10-03 |
 | [Big Ben](https://open.spotify.com/track/0rfnaJDLYdIeQewa06THfh) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB), [Andrei](https://open.spotify.com/artist/0lIcMDl3l4xlsCCF3o4LWR) | [Kortepohjakosketus](https://open.spotify.com/album/3RiYGDzpRpPbNkKzxvYZJT) | 2:56 | 2025-05-22 | 2025-05-30 |
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-15 | 2024-11-22 |
+| [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-25 |  |
 | [Big Love](https://open.spotify.com/track/2NwhnLbGudUmHVNIUqZ3IM) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [Big Love](https://open.spotify.com/album/1XLeAVNFwtytHMwLW4gzhO) | 2:44 | 2024-11-15 | 2024-11-22 |
 | [BIMBO](https://open.spotify.com/track/3wQlBmVJmrKAlsaeaMnHvu) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [BIMBO](https://open.spotify.com/album/1C2gXcSkhQCQE0epXs4Uvu) | 3:08 | 2025-09-11 | 2025-09-19 |
 | [Bitterness](https://open.spotify.com/track/33S5R4m52NhtO8L0WALM8b) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Bitterness](https://open.spotify.com/album/3Z4tbdCzbTQopMRtgvElL7) | 2:41 | 2025-02-06 | 2025-02-14 |
@@ -1345,7 +1346,7 @@
 | [Sade](https://open.spotify.com/track/6RpZJbwt5kRLXPJNptoNpH) | [Sana](https://open.spotify.com/artist/4QofvyRFuC4c4XXrQhcmog) | [Sade](https://open.spotify.com/album/6ofClPG3oquc6jlRXwjOl4) | 2:55 | 2024-07-18 | 2024-08-08 |
 | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/track/1EriZcKZaXYskF6NRJ3YnI) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV), [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Sade tulee \(feat\. Jaakko Kulta\)](https://open.spotify.com/album/05aQBMQ5M5pTo0y4nldDzz) | 2:58 | 2025-04-17 | 2025-04-25 |
 | [Safe](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Safe](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 | 2025-01-23 | 2025-01-31 |
-| [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-18 |  |
+| [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-18 | 2025-11-30 |
 | [Safe Place](https://open.spotify.com/track/0N7ewrP0Ic48F6JXf3KD75) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [Safe Place](https://open.spotify.com/album/43YF5gRKgG7JtA5IzXOFmr) | 3:13 | 2025-08-28 | 2025-09-19 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-15 |
 | [Salaisuus](https://open.spotify.com/track/51bhmEISTEQ8lWGd9bitPf) | [exä](https://open.spotify.com/artist/2ovbVlhUNoL9A33fNyXrV5), [KANE](https://open.spotify.com/artist/7oU1fSjYzPVAJLBgNJulvF) | [Salaisuus](https://open.spotify.com/album/5Oohwc0bOpjvjihlC2IhBK) | 2:15 | 2025-02-27 | 2025-03-07 |

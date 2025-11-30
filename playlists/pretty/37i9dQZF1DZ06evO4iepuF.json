@@ -1,12 +1,12 @@
 {
   "description": "This is Kittydog. The essential tracks, all in one playlist.",
-  "num_followers": 704,
+  "num_followers": 703,
   "original_name": "This Is Kittydog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAATBh0C6ZgOL1WMAB8OLXxi",
+  "snapshot_id": "aSjmAAAAAADm68b6Yn/ooWmTZbVUXLy2",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ppl go blush",
+        "url": "https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 73395,
+      "name": "ppl go blush",
+      "url": "https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "b my wife!!!",
         "url": "https://open.spotify.com/album/3dguGYkOPcFGeJR5zcXXjm"
       },
@@ -143,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "plug me in",
-        "url": "https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 127246,
-      "name": "plug me in",
-      "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no inbetween",
         "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
       },
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIES",
-        "url": "https://open.spotify.com/album/6H2AwWRJKRixHw7wcUliAx"
+        "name": "plug me in",
+        "url": "https://open.spotify.com/album/66vy2eQCgPVxMWbf8XTZap"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 65901,
-      "name": "LIES",
-      "url": "https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp"
+      "duration_ms": 127246,
+      "name": "plug me in",
+      "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ppl go blush",
-        "url": "https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd"
+        "name": "LIES",
+        "url": "https://open.spotify.com/album/6H2AwWRJKRixHw7wcUliAx"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 73395,
-      "name": "ppl go blush",
-      "url": "https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY"
+      "duration_ms": 65901,
+      "name": "LIES",
+      "url": "https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 151500,
-      "name": "bumpin' tails",
-      "url": "https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt"
+      "duration_ms": 176000,
+      "name": "stagnant waters",
+      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
     },
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 176000,
-      "name": "stagnant waters",
-      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
+      "duration_ms": 151500,
+      "name": "bumpin' tails",
+      "url": "https://open.spotify.com/track/7aFzDaMpBbRqQYHymHJ8bt"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 94000,
-      "name": "w",
-      "url": "https://open.spotify.com/track/6qZglgzWHfGbyXODLz2x8l"
+      "duration_ms": 137299,
+      "name": "I NEED THAT",
+      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 137299,
-      "name": "I NEED THAT",
-      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
+      "duration_ms": 159000,
+      "name": "cursed2all4s",
+      "url": "https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 178262,
-      "name": "14",
-      "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "pastpresentfuture + instrumentals",
         "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 87418,
       "name": "feel like a folder",
       "url": "https://open.spotify.com/track/15jlJhtJB2vrgy2zUOobN0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/23UWRHbBgmhCztyn8fzjwc"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 178262,
+      "name": "14",
+      "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SO NUMB THAT SHE'S IN HELL!!!",
-        "url": "https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 171455,
-      "name": "so numb that she's in hell - 2025 Version",
-      "url": "https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i only got one",
         "url": "https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 70024,
       "name": "i only got one",
       "url": "https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SO NUMB THAT SHE'S IN HELL!!!",
+        "url": "https://open.spotify.com/album/5dzEMs2kYYU98AixEZwAky"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 171455,
+      "name": "so numb that she's in hell - 2025 Version",
+      "url": "https://open.spotify.com/track/4Fa74jnKpzzfjU9zeDT07P"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "crying in the club",
-        "url": "https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 123724,
-      "name": "crying in the club",
-      "url": "https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "deteriorating (Remastered)",
         "url": "https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 105531,
       "name": "deteriorating - Remastered",
       "url": "https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "crying in the club",
+        "url": "https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 123724,
+      "name": "crying in the club",
+      "url": "https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "kittydog music album",
-        "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 87719,
-      "name": "broken dream",
-      "url": "https://open.spotify.com/track/14qLjGDICy21a5xY9ED6bp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "break stuff",
         "url": "https://open.spotify.com/album/1iQn9UGhVpgNm2rh7ayJsS"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 104423,
       "name": "break stuff",
       "url": "https://open.spotify.com/track/0ll2Wkt2es0W8KCRkCa6Th"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dissociated fantasy",
+        "url": "https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 112124,
+      "name": "dissociated fantasy",
+      "url": "https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446572,
+  "num_followers": 446598,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADk5BynYAQ3QxQ1gEFYoZ69",
+  "snapshot_id": "aSjmAAAAAAAtZkE2AabBRofl+RbGc9lk",
   "tracks": [
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coronas Doradas",
-        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
-      },
-      "artists": [
-        {
-          "name": "Kanales",
-          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 167470,
-      "name": "Los Cuervos",
-      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -647,6 +627,42 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coronas Doradas",
+        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 167470,
+      "name": "Los Cuervos",
+      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Tiempo",
+        "url": "https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 114014,
+      "name": "Mi Tiempo",
+      "url": "https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt"
     },
     {
       "added_at": null,
@@ -683,22 +699,6 @@
       "duration_ms": 167338,
       "name": "El Mes de Mayo",
       "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Tiempo",
-        "url": "https://open.spotify.com/album/4ddYhPxSE6ucq6YMcpBTrA"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 114014,
-      "name": "Mi Tiempo",
-      "url": "https://open.spotify.com/track/2A1eiNAgxHeUAzOqAK3JBt"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 637113,
+  "num_followers": 637211,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -571,6 +571,30 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Unendlichkeit (Remix)",
+        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
+      },
+      "artists": [
+        {
+          "name": "MilleniumKid",
+          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        },
+        {
+          "name": "The Boy The G",
+          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+        }
+      ],
+      "duration_ms": 172764,
+      "name": "Unendlichkeit (Remix)",
+      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
       },
@@ -595,26 +619,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Unendlichkeit (Remix)",
-        "url": "https://open.spotify.com/album/0YbUsjOo1ElaU4MmKpzN9o"
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
       "artists": [
         {
-          "name": "MilleniumKid",
-          "url": "https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
         },
         {
-          "name": "JBS",
-          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
-        },
-        {
-          "name": "The Boy The G",
-          "url": "https://open.spotify.com/artist/0EG0El2Ozcdnw0xJA77DyO"
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
         }
       ],
-      "duration_ms": 172764,
-      "name": "Unendlichkeit (Remix)",
-      "url": "https://open.spotify.com/track/4oodd2Z1U6Xg5tWMiUb3DN"
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -671,26 +691,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Down Under (feat. Colin Hay)",
-        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
-      },
-      "artists": [
-        {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Colin Hay",
-          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Down Under (feat. Colin Hay)",
-      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1223,8 +1223,8 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+        "name": "GIFTMORD",
+        "url": "https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
         }
       ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+      "duration_ms": 168928,
+      "name": "GIFTMORD",
+      "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1383,8 +1383,8 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "BIKINI GRELL",
-        "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
       "artists": [
         {
@@ -1392,13 +1392,13 @@
           "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
         },
         {
-          "name": "Robbensohn",
-          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
         }
       ],
-      "duration_ms": 123635,
-      "name": "BIKINI GRELL",
-      "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1555,6 +1555,46 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "HERZBLATT (AUA AUA)",
+        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "HERZBLATT (AUA AUA)",
+      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "BIKINI GRELL",
+        "url": "https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Robbensohn",
+          "url": "https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf"
+        }
+      ],
+      "duration_ms": 123635,
+      "name": "BIKINI GRELL",
+      "url": "https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Abenteuerland",
         "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
       },
@@ -1575,46 +1615,6 @@
       "duration_ms": 179087,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "GIFTMORD",
-        "url": "https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 168928,
-      "name": "GIFTMORD",
-      "url": "https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "HERZBLATT (AUA AUA)",
-        "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "HERZBLATT (AUA AUA)",
-      "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Bad Girls",
+        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 121755,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "RAN AN DIE BULETTEN",
         "url": "https://open.spotify.com/album/43XAKMkGl05QLqTBtMMyMF"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 176858,
       "name": "RAN AN DIE BULETTEN",
       "url": "https://open.spotify.com/track/4iHgHwghOMGzqX9kZ0QgHY"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Bad Girls",
-        "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 121755,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/2h4zp76tI5Sbl3BNspNBuG"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Atlantis (Edit)",
-        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
-      },
-      "artists": [
-        {
-          "name": "Netherworld",
-          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Atlantis - Edit",
-      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Atlantis (Edit)",
+        "url": "https://open.spotify.com/album/4KZxR1aM8yKwlwYVgMvrJM"
+      },
+      "artists": [
+        {
+          "name": "Netherworld",
+          "url": "https://open.spotify.com/artist/79LaPRYSRh7JAnu3r1jYPF"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Atlantis - Edit",
+      "url": "https://open.spotify.com/track/4kPu9zuTvvBf8bE8Na53eg"
     },
     {
       "added_at": "2025-11-27 23:00:11",

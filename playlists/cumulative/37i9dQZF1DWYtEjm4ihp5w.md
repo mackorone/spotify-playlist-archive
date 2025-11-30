@@ -4,7 +4,7 @@
 
 > Cover: Inkonnu
 
-460 songs - 1 day 0 hr 8 min
+461 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [FACE TO FACE](https://open.spotify.com/track/67nsE7s6yfIg7o9HAdkq7H) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD](https://open.spotify.com/album/2OBXa64D1E29baFKKwJGOq) | 3:24 | 2025-04-17 | 2025-06-28 |
 | [Farabi](https://open.spotify.com/track/02o7lbyZIApp7NBkPdCaTc) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [Farabi](https://open.spotify.com/album/4eoDHeBPry2u5eGSs7Odor) | 3:09 | 2024-07-12 | 2024-07-23 |
 | [FASMA](https://open.spotify.com/track/7l2fdBuvtRt4tyWO8qtsR0) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [K°](https://open.spotify.com/album/29mZb79vD9uxVblI4Xh1hp) | 2:31 | 2025-05-22 | 2025-07-17 |
+| [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 | 2025-11-29 |  |
 | [Faux Départ](https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Faux Départ](https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM) | 2:45 | 2022-11-14 | 2023-06-23 |
 | [Fawda](https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Fawda](https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc) | 4:20 | 2024-01-05 | 2024-02-09 |
 | [Ferga3 l'flow](https://open.spotify.com/track/5x4XZE1oBOJRBUWz4Y0iml) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 2:39 | 2024-07-13 | 2024-09-20 |
@@ -191,7 +192,7 @@
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-11-14 | 2022-12-13 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-22 | 2024-03-01 |
 | [Iori 6](https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 6](https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU) | 5:09 | 2023-12-22 | 2024-06-21 |
-| [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 | 2025-01-04 |  |
+| [Iori 7](https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 7](https://open.spotify.com/album/2Ey9s66K9xVd6eqVyOMAVv) | 2:46 | 2025-01-04 | 2025-11-30 |
 | [JANAH 4](https://open.spotify.com/track/2zwvxiH8XBloPFw33Hj6wT) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 3:08 | 2023-12-28 | 2024-01-07 |
 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 | 2025-08-10 |  |
 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 | 2024-10-25 | 2024-11-18 |

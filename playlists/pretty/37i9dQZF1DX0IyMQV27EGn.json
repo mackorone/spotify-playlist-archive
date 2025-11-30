@@ -1,6 +1,6 @@
 {
   "description": "sultry and seductive feminine energy \ud83d\udd2a cover: Marilyn Monroe",
-  "num_followers": 1405591,
+  "num_followers": 1405925,
   "original_name": "Femme Fatale",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-08-15 15:05:01",
       "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 199681,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/5H3TCfiw0CQTX1XU7A9TXM"
+    },
+    {
+      "added_at": "2025-08-15 15:05:01",
+      "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
-    },
-    {
-      "added_at": "2025-08-15 15:05:01",
-      "album": {
-        "name": "Cry Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 199681,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/5H3TCfiw0CQTX1XU7A9TXM"
     },
     {
       "added_at": "2025-08-15 15:05:01",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-08-15 15:05:01",
       "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
-    },
-    {
-      "added_at": "2025-08-15 15:05:01",
-      "album": {
         "name": "Born To Die \u2013 Paradise Edition (Special Version)",
         "url": "https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 230533,
       "name": "National Anthem",
       "url": "https://open.spotify.com/track/2nvXyajLAAV9Iwy8K9EbUd"
+    },
+    {
+      "added_at": "2025-08-15 15:05:01",
+      "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
     },
     {
       "added_at": "2025-08-15 15:05:01",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-08-15 15:05:01",
       "album": {
-        "name": "Johanna",
-        "url": "https://open.spotify.com/album/7pF4a07flFvnyFUzZqn3Pv"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 155565,
-      "name": "Johanna",
-      "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
-    },
-    {
-      "added_at": "2025-08-15 15:05:01",
-      "album": {
         "name": "...baby one more time",
         "url": "https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 125333,
       "name": "...baby one more time",
       "url": "https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG"
+    },
+    {
+      "added_at": "2025-08-15 15:05:01",
+      "album": {
+        "name": "Johanna",
+        "url": "https://open.spotify.com/album/7pF4a07flFvnyFUzZqn3Pv"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 155565,
+      "name": "Johanna",
+      "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
     }
   ],
   "unique_name": "Femme Fatale",

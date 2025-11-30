@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Grupo Ajedrez
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,576 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,586 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 44 | [¿DONDE ESTA LO MALO?](https://open.spotify.com/track/0BvELBulkFYCqD49TxGGpH) | [Luis Carbajal](https://open.spotify.com/artist/1d3MgwnC9V0UmkxHJ5fTUK) | [¿DONDE ESTA LO MALO?](https://open.spotify.com/album/6wWcaSmLbTGEG99nvi9rbi) | 3:27 |
 | 45 | [4:40](https://open.spotify.com/track/5pASGbXvWmzvUdHLTtD6MO) | [Elias Fregoso](https://open.spotify.com/artist/0P1vpsGAym738etHvoTgG9) | [BÉLICØ$AĐ](https://open.spotify.com/album/367U8BvHJvmQWqhsTbrsy7) | 3:36 |
 
-Snapshot ID: `AAAAAINvM6mbzhU3qgLv5ROCrvcfQXC+`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

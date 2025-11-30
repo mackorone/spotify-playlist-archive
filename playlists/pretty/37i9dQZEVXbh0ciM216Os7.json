@@ -27,6 +27,30 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
+        "name": "Cups Up",
+        "url": "https://open.spotify.com/album/5t6NHOtIytcJEcWw4tzshK"
+      },
+      "artists": [
+        {
+          "name": "Eric Leo 108",
+          "url": "https://open.spotify.com/artist/1rZN0phOseB2V5JmKD7nuE"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Lone Wolf",
+          "url": "https://open.spotify.com/artist/6aBdLuTm1yiQYxSrbqy6bG"
+        }
+      ],
+      "duration_ms": 206942,
+      "name": "Cups Up",
+      "url": "https://open.spotify.com/track/6cER8RAH8B3BAD1VvaaCak"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
         "name": "G Code",
         "url": "https://open.spotify.com/album/5vEC2OuQtgnkSaQS5vh1a5"
       },
@@ -39,54 +63,6 @@
       "duration_ms": 125538,
       "name": "G Code",
       "url": "https://open.spotify.com/track/68sNi0LsMO2V0zgBGYuB4Z"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Yeast Talkin'",
-        "url": "https://open.spotify.com/album/4fpd5BYLQeUfGwNWlPqE5p"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Spank Nitti James",
-          "url": "https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "SCALE BACK",
-      "url": "https://open.spotify.com/track/0HM0aFsSWTxAhtAg55lyFq"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Defected presents Most Rated 2026 (DJ Mix)",
-        "url": "https://open.spotify.com/album/4uhix5GJ8kXFctJBAvbhMa"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Kiko Franco",
-          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
-        }
-      ],
-      "duration_ms": 257493,
-      "name": "Natural Blues - Mixed",
-      "url": "https://open.spotify.com/track/3BiGzgYwI5PX7McfoD8Bod"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -143,38 +119,50 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "The God Of Lying (feat. IDLES)",
-        "url": "https://open.spotify.com/album/7LZaMXfUwm5ECr6MUyd5ho"
+        "name": "Yeast Talkin'",
+        "url": "https://open.spotify.com/album/4fpd5BYLQeUfGwNWlPqE5p"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         },
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "Spank Nitti James",
+          "url": "https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         }
       ],
-      "duration_ms": 189021,
-      "name": "The God of Lying (feat. IDLES)",
-      "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
+      "duration_ms": 196800,
+      "name": "SCALE BACK",
+      "url": "https://open.spotify.com/track/0HM0aFsSWTxAhtAg55lyFq"
     },
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "Upside Down (Candy Crush)",
-        "url": "https://open.spotify.com/album/7r5mhyO9C2p6mvRRP8YDHf"
+        "name": "Defected presents Most Rated 2026 (DJ Mix)",
+        "url": "https://open.spotify.com/album/4uhix5GJ8kXFctJBAvbhMa"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Kiko Franco",
+          "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Upside Down (Candy Crush)",
-      "url": "https://open.spotify.com/track/1WCzVWXNgKiadQJiOhYGbL"
+      "duration_ms": 257493,
+      "name": "Natural Blues - Mixed",
+      "url": "https://open.spotify.com/track/3BiGzgYwI5PX7McfoD8Bod"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -191,42 +179,6 @@
       "duration_ms": 1525826,
       "name": "Shine On You Crazy Diamond - Pts. 1-9, New Stereo Mix",
       "url": "https://open.spotify.com/track/7Dw4ReVy2jfCQ9lzRoJ0yD"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Stankonia (25th Anniversary)",
-        "url": "https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 304059,
-      "name": "Speedballin'",
-      "url": "https://open.spotify.com/track/6JyWKkyjS2wazRaPuRPQFP"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Memory Of A Day (Deluxe)",
-        "url": "https://open.spotify.com/album/3czzeQCe16BPhd00oDCbGE"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        },
-        {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
-        }
-      ],
-      "duration_ms": 248455,
-      "name": "Move In Silence",
-      "url": "https://open.spotify.com/track/3il4y44v2aMLfp96IJg7qu"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -259,30 +211,6 @@
       "duration_ms": 167103,
       "name": "Who Wants To Live Forever - Stranger Things Remix",
       "url": "https://open.spotify.com/track/6PX4PvshYDB0ZFtdlnoywI"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
-      },
-      "artists": [
-        {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "California Games (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/1xEqdMfvDPGcwFklsaC35w"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -355,50 +283,6 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 208864,
-      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Come and Go",
-        "url": "https://open.spotify.com/album/7nYSaxLTD3FvUiy6eR78yX"
-      },
-      "artists": [
-        {
-          "name": "Kaelin Ellis",
-          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Come and Go",
-      "url": "https://open.spotify.com/track/4bK7oS1X4zlvreEO3IbGFd"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
         "name": "Okinawan Wuman",
         "url": "https://open.spotify.com/album/2qdNHigKoFUZtBlnXlYiwb"
       },
@@ -447,6 +331,46 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
+        "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 208864,
+      "name": "Salt Then Sour Then Sweet (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
+        "name": "The Sword & The Soaring",
+        "url": "https://open.spotify.com/album/2wPVVuPpzNhCIZrH8Uwxq3"
+      },
+      "artists": [
+        {
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 175958,
+      "name": "24 Gospel",
+      "url": "https://open.spotify.com/track/2d16PkCqIaZIf31xPJ6qPK"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
         "name": "the decoupling of the nuclear family",
         "url": "https://open.spotify.com/album/5dycwetorMNU2RgY2lVRVE"
       },
@@ -475,26 +399,6 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/2o6TZnbzeqEJBq54dv8ZGn"
-      },
-      "artists": [
-        {
-          "name": "Your Broken Hero",
-          "url": "https://open.spotify.com/artist/2DTdvOlm8xrGEKe9JsaLeD"
-        },
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 177233,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6gXkK7zdUFcRjWmGwOfdBf"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
@@ -511,46 +415,6 @@
       "duration_ms": 324776,
       "name": "1-800 Heartbreak (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/3YBCTIQjCO7rt0NCPjPnhl"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Midas",
-        "url": "https://open.spotify.com/album/7ewYfNRexvl3zorBnwsMZ4"
-      },
-      "artists": [
-        {
-          "name": "David Dallas",
-          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/6F4kLWOW0j2h4yiVXjAFSK"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
-        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 377862,
-      "name": "Quiet Nights",
-      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -647,42 +511,42 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "red moon",
-        "url": "https://open.spotify.com/album/3AGNHG6lqPZYphbRdSxBKA"
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/7ewYfNRexvl3zorBnwsMZ4"
       },
       "artists": [
         {
-          "name": "kwasi kao",
-          "url": "https://open.spotify.com/artist/3kmazY35qxH6ZwP2QXBzjg"
+          "name": "David Dallas",
+          "url": "https://open.spotify.com/artist/6ENAap6kOirsqATazyWBEP"
         },
         {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
         }
       ],
-      "duration_ms": 212108,
-      "name": "red moon",
-      "url": "https://open.spotify.com/track/22ZQR1KpOHhy0GzqgTOIwQ"
+      "duration_ms": 153750,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/6F4kLWOW0j2h4yiVXjAFSK"
     },
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "Destin\u00e9e",
-        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
+        "name": "Swimming by Moonlight (New Music from the Documentary \"Let's Get Lost\")",
+        "url": "https://open.spotify.com/album/6tAyJVt1Xrm2xDKsU8wB5B"
       },
       "artists": [
         {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
         }
       ],
-      "duration_ms": 187080,
-      "name": "Baby Boy (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
+      "duration_ms": 377862,
+      "name": "Quiet Nights",
+      "url": "https://open.spotify.com/track/50pCfgfoF77Wm3ruIsiCp5"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -707,30 +571,22 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "Nodega",
-        "url": "https://open.spotify.com/album/62BSz8pWCmSK1fxxEp9CoQ"
+        "name": "Destin\u00e9e",
+        "url": "https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p"
       },
       "artists": [
         {
-          "name": "Oh No",
-          "url": "https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         },
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Tristate",
-          "url": "https://open.spotify.com/artist/5bcgK9qwYin6TDNXiDIJFl"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 204003,
-      "name": "Rooftop Shottas",
-      "url": "https://open.spotify.com/track/5JB5bn1vu5b2MRehhI7HqK"
+      "duration_ms": 187080,
+      "name": "Baby Boy (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/0ecf1L8NLJBmhupwxnAXcP"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -811,22 +667,6 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "Elaenia (10 Year Anniversary)",
-        "url": "https://open.spotify.com/album/4y8CLxoV77gwzciPcNNEqr"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 388853,
-      "name": "Precursor",
-      "url": "https://open.spotify.com/track/0M1UEWcNQLmuXfyvOvqyAN"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
         "name": "Metaphysical Sherpa: Spiritual Alchemy",
         "url": "https://open.spotify.com/album/6yhgMeJtyBmDnSHHfbyQgQ"
       },
@@ -851,26 +691,22 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
-        "name": "En catimini",
-        "url": "https://open.spotify.com/album/5QC4Y9OWxPblcDK76gsX9u"
+        "name": "Mistral gagnant",
+        "url": "https://open.spotify.com/album/3yrWHD5VmREJ72K7hKsRg6"
       },
       "artists": [
         {
-          "name": "Jean-Luc Fonck",
-          "url": "https://open.spotify.com/artist/34RmECd3hupr0G8N7vpYSV"
+          "name": "Waxx",
+          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
         },
         {
           "name": "MC Solaar",
           "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        },
-        {
-          "name": "Sttellla",
-          "url": "https://open.spotify.com/artist/7eh36YiTKBxxhCChxbuN1j"
         }
       ],
-      "duration_ms": 146350,
-      "name": "En catimini",
-      "url": "https://open.spotify.com/track/7qIgvOXOBQI2sGJHakCfS4"
+      "duration_ms": 180520,
+      "name": "Mistral gagnant",
+      "url": "https://open.spotify.com/track/49NmdLm2SFNUqmDjrOqDkM"
     },
     {
       "added_at": "2025-11-28 05:00:00",
@@ -939,6 +775,26 @@
     {
       "added_at": "2025-11-28 05:00:00",
       "album": {
+        "name": "Upsetters",
+        "url": "https://open.spotify.com/album/4UWiXkJvG8oqaoAQFPFIQ1"
+      },
+      "artists": [
+        {
+          "name": "Bam Marley",
+          "url": "https://open.spotify.com/artist/7fXBLt1KPnFD1c1KBDDTB9"
+        },
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Ryda",
+      "url": "https://open.spotify.com/track/0F7BwfqwpKdpfN1xMHZsNy"
+    },
+    {
+      "added_at": "2025-11-28 05:00:00",
+      "album": {
         "name": "American Revolution, a Film by Ken Burns, Sarah Botstein, and David Schmidt. Music From the PBS Documentary",
         "url": "https://open.spotify.com/album/0L1yIypnICd53OzV0uxAAN"
       },
@@ -951,22 +807,6 @@
       "duration_ms": 191209,
       "name": "Les Sauvages",
       "url": "https://open.spotify.com/track/48AhUdhr7sneJ9WKy2WkP0"
-    },
-    {
-      "added_at": "2025-11-28 05:00:00",
-      "album": {
-        "name": "Drop That Shit",
-        "url": "https://open.spotify.com/album/0vuefANCkOG5aLx4MQVH0O"
-      },
-      "artists": [
-        {
-          "name": "K.M.D.",
-          "url": "https://open.spotify.com/artist/6SFDSKePVqJq9sXvuxskAE"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Drop That Shit",
-      "url": "https://open.spotify.com/track/2XtjdpFZ9ZovLAy2RJrv3r"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

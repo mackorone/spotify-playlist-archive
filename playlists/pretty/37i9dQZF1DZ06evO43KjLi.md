@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,665 likes - 48 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,669 likes - 48 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 21 | [Aqui Se Acaba Todo](https://open.spotify.com/track/61542EPiVTyYQw4SsOeXb5) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 3:25 |
 | 22 | [Besos De Tequila](https://open.spotify.com/track/7ijg1Hg4ZtpJIhjMn8bAK4) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 2:58 |
 | 23 | [Mil Horas \- En Vivo](https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:49 |
-| 24 | [Mi Reyna](https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:10 |
-| 25 | [Cuentas](https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cuentas](https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0) | 2:48 |
+| 24 | [Cuentas](https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag) | [Obzesion](https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cuentas](https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0) | 2:48 |
+| 25 | [Mi Reyna](https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:10 |
 | 26 | [En Tus Brazos](https://open.spotify.com/track/6lKbxSmm8KQ6tnkjBSGcDB) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 3](https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m) | 2:37 |
 | 27 | [Todos los Dias \- En Vivo](https://open.spotify.com/track/18REsWSePDsWv0X04omJqu) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 3:05 |
 | 28 | [Novela](https://open.spotify.com/track/5Apn8JMVmW1sWEsXLWoTdQ) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 2](https://open.spotify.com/album/50On6TIoLAj9Ljf1gBzi99) | 2:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43KjLi.md) - [plain]
 | 47 | [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 |
 | 48 | [Intro](https://open.spotify.com/track/453sDOvAWU4QVvGegD46du) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:32 |
 
-Snapshot ID: `aSeUgAAAAACfU6pxoFvyR6a/aeufJo0g`
+Snapshot ID: `aSjmAAAAAAARcKVZt21TA2/XfqChcsQO`

@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 98886,
+  "num_followers": 98913,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAACDOAcTzLgmt9jOghAhsTes",
+  "snapshot_id": "aSjmAAAAAAAzWxdD6ywxpAjD+VpdavU5",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/4ibxmEgdIWYAQjXl0ivFmW"
     },
     {
       "added_at": null,
@@ -659,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nwa Baby",
-        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
+        "name": "Pheelz Good",
+        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
       },
       "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 222327,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
     },
     {
       "added_at": null,
@@ -691,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pheelz Good",
-        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
+        "name": "Nwa Baby",
+        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
       "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
+      "duration_ms": 222327,
+      "name": "Nwa Baby",
+      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
     },
     {
       "added_at": null,
@@ -743,46 +743,6 @@
       "duration_ms": 187893,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Galorizzy",
-        "url": "https://open.spotify.com/album/4wiyTKvZUmiW5mTTjc7hzP"
-      },
-      "artists": [
-        {
-          "name": "Galorizzy",
-          "url": "https://open.spotify.com/artist/6S9TlkW0vuMPSukzSi2ekT"
-        },
-        {
-          "name": "Ecool",
-          "url": "https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
-        },
-        {
-          "name": "Scotts.M",
-          "url": "https://open.spotify.com/artist/5CbILdzsB80ETgCPcfGzVi"
-        },
-        {
-          "name": "Iphxne Dj",
-          "url": "https://open.spotify.com/artist/4EfQl4TQ42KtYG63xYRutj"
-        }
-      ],
-      "duration_ms": 253992,
-      "name": "Galorizzy",
-      "url": "https://open.spotify.com/track/7Ipc9fI8BbZnm2U2L5vz5x"
     },
     {
       "added_at": null,
@@ -959,30 +919,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "SABALI",
-        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+        "name": "Galorizzy",
+        "url": "https://open.spotify.com/album/4wiyTKvZUmiW5mTTjc7hzP"
       },
       "artists": [
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Galorizzy",
+          "url": "https://open.spotify.com/artist/6S9TlkW0vuMPSukzSi2ekT"
+        },
+        {
+          "name": "Ecool",
+          "url": "https://open.spotify.com/artist/6JR1ZXP9TnnNSPb1hgIYt2"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         },
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         },
         {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        },
+        {
+          "name": "Scotts.M",
+          "url": "https://open.spotify.com/artist/5CbILdzsB80ETgCPcfGzVi"
+        },
+        {
+          "name": "Iphxne Dj",
+          "url": "https://open.spotify.com/artist/4EfQl4TQ42KtYG63xYRutj"
         }
       ],
-      "duration_ms": 238526,
-      "name": "Perfect Situation",
-      "url": "https://open.spotify.com/track/5ilfhmLJ7qH081oAjiNovj"
+      "duration_ms": 253992,
+      "name": "Galorizzy",
+      "url": "https://open.spotify.com/track/7Ipc9fI8BbZnm2U2L5vz5x"
     },
     {
       "added_at": null,
@@ -1007,6 +979,34 @@
       "duration_ms": 146125,
       "name": "Para",
       "url": "https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SABALI",
+        "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        }
+      ],
+      "duration_ms": 238526,
+      "name": "Perfect Situation",
+      "url": "https://open.spotify.com/track/5ilfhmLJ7qH081oAjiNovj"
     }
   ],
   "unique_name": "This Is Davido",

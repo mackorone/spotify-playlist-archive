@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,084 likes - 142 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,086 likes - 142 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 141 | [Remember Her Name](https://open.spotify.com/track/6YMnz4CTX2NSg2JtXiSFJU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/2rAvDy2nHanof8iWkFUWKg) | 2:58 |
 | 142 | [Strong Stuff](https://open.spotify.com/track/23s3bRv964KvfEvaH3AxmF) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Strong Stuff](https://open.spotify.com/album/4JQepaQFm9y7VpYzfgID8j) | 2:57 |
 
-Snapshot ID: `AAAAAMof5d+w9khVjqDKcUJLn7vKLgKO`
+Snapshot ID: `AAAAAKCW+eA5X8nfFGEdue4VKIK1wEt1`

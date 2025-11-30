@@ -2,9 +2,9 @@
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Alcuni amori bruciano più di altri\. Cover: Emis Killa
+> Alcuni amori bruciano più di altri\. Cover: Lazza
 
-238 songs - 12 hr 8 min
+239 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Forte](https://open.spotify.com/track/4cC2oSrEm16ddPOCzvPjuY) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [For The Ladies Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/5sTaHxgOr2e9jKorZ5wq8L) | 3:27 | 2022-07-28 | 2023-04-17 |
 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 | 2022-05-03 |  |
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2022-05-03 |  |
-| [GANGSTA LOVE](https://open.spotify.com/track/39lWme9vIQaoq6OOofXhLR) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL) | 1:55 | 2025-03-18 |  |
+| [GANGSTA LOVE](https://open.spotify.com/track/39lWme9vIQaoq6OOofXhLR) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL) | 1:55 | 2025-03-18 | 2025-11-30 |
 | [Ghetto love \(feat\. Guè\)](https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 1:58 | 2024-01-25 | 2024-03-14 |
 | [Guerra Persa](https://open.spotify.com/track/5K2iD1Ch3a1FHMR3U1foFi) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:47 | 2024-06-20 | 2024-07-05 |
 | [Habibi](https://open.spotify.com/track/4RqqST6XJU7zJJkXKlP81d) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Habibi](https://open.spotify.com/album/1KDX75fwsL4wpLAjzqCpHH) | 3:06 | 2025-11-06 | 2025-11-21 |
@@ -174,6 +174,7 @@
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 | 2024-04-19 |
 | [Password](https://open.spotify.com/track/7wuCjupWPv5nQkH8KRFnil) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3ieJc57VdQ7aVLAKEazFMc) | 2:45 | 2022-07-28 | 2022-11-04 |
+| [PAZZA IDEA \(feat\. Achille Lauro\)](https://open.spotify.com/track/3dykyedkNzBu5VpfAFBCgp) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [FUNNY GAMES](https://open.spotify.com/album/4V8qhBg6rU8kd1THoGf2Pf) | 2:50 | 2025-11-27 |  |
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-05-03 | 2024-07-05 |
 | [PENTOTHAL](https://open.spotify.com/track/3WS0TcakSQfE0t1fFTQwDW) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:47 | 2024-12-13 |  |
 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 | 2024-08-29 | 2025-03-19 |

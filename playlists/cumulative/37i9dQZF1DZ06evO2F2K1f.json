@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 105866,
       "name": "Picture Book",
       "url": "https://open.spotify.com/track/2YmyZSrYMrDoYiftxppH12"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"
@@ -3564,7 +3564,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 137853,
       "name": "Where the Action Is",
       "url": "https://open.spotify.com/track/7h1wuuntA9VgK2lP7wI1UI"
@@ -3586,6 +3586,24 @@
       "duration_ms": 177333,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/0kf25bZM9C8ejuDlYpg3eT"
+    },
+    {
+      "album": {
+        "name": "Jingles",
+        "url": "https://open.spotify.com/album/7ffA6LFEfV4ICI9LTP0dUF"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34786,
+      "name": "You Can Feel It",
+      "url": "https://open.spotify.com/track/5BSBwhs2SR4dzDOosFP91f"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2F2K1f"

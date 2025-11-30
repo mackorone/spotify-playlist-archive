@@ -4,12 +4,12 @@
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-96 songs - 7 hr 36 min
+97 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Noiva](https://open.spotify.com/track/7AJOBNI8TXteMfbpuBnfC6) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 3:56 | 2025-03-21 |  |
-| [A Samaritana](https://open.spotify.com/track/60VUrbSUs7dx5ajGVWa6oM) | [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [A Fé](https://open.spotify.com/album/55YVmi4MyEpOvpXrCrE722) | 4:18 | 2025-10-18 |  |
+| [A Samaritana](https://open.spotify.com/track/60VUrbSUs7dx5ajGVWa6oM) | [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [A Fé](https://open.spotify.com/album/55YVmi4MyEpOvpXrCrE722) | 4:18 | 2025-10-18 | 2025-11-30 |
 | [A Samaritana](https://open.spotify.com/track/6qxBdvvCDU3mdBcxrMujkq) | [Sérgio Lopes](https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [A Fé](https://open.spotify.com/album/7mHPBFcGtHMW3O2MvSDDHW) | 4:18 | 2023-07-09 | 2023-12-30 |
 | [A Tua Glória Faz](https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Glória](https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ) | 4:39 | 2023-07-09 |  |
 | [Adorai, Adonai](https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:05 | 2023-07-09 |  |
@@ -24,6 +24,7 @@
 | [Cacos Pelo Chão](https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 4:05 | 2023-07-09 |  |
 | [Clama Ana](https://open.spotify.com/track/5iSGlSQwy7vcxHoGzXvbNo) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Milagre](https://open.spotify.com/album/6vicwHRbESYCvpVtqem1Ur) | 3:46 | 2025-03-24 | 2025-05-13 |
 | [Como Se Cura a Ferida](https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:33 | 2023-07-09 |  |
+| [Como se Cura a Ferida \(Como Se Cura Una Herida\) / Canal do Perdão / Tu Me Amas / Saindo do Casulo \- Ao Vivo](https://open.spotify.com/track/4OkkEaOPsPcmlRKsydoEm5) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [30 Anos no Brasil \(Ao Vivo\)](https://open.spotify.com/album/3jUyGPU73lq7Iu4GdKnaVh) | 4:36 | 2025-11-30 |  |
 | [Coração que Sangra](https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:23 | 2023-07-09 |  |
 | [Cura\-me](https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:10 | 2023-07-09 |  |
 | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu) | 5:12 | 2023-07-09 | 2025-01-20 |

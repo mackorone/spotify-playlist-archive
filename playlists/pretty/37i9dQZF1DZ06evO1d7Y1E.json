@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118278,
+  "num_followers": 118276,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADWNdae/QRpmhR5lXRZx+uf",
+  "snapshot_id": "aSjmAAAAAABMEt3JD5+gf/TVXaiGXiD+",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desabafo 2",
-        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Desabafo 2",
-      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desabafo 2",
+        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Desabafo 2",
+      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
     },
     {
       "added_at": null,
@@ -1347,30 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Metflix - Remix",
-      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fica \u00e0 Vontade",
         "url": "https://open.spotify.com/album/51aoXX99wzWxtURo5A5hpX"
       },
@@ -1403,26 +1379,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
       "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
         {
           "name": "Mc Poze do Rodo",
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "DJ Nemo NTR",
-          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 164210,
-      "name": "Talvez",
-      "url": "https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu"
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
     },
     {
       "added_at": null,
@@ -1451,6 +1427,54 @@
       "duration_ms": 142666,
       "name": "CPX Ta Tega",
       "url": "https://open.spotify.com/track/2HrjORyFBF3IFnXOAC3Rox"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Nemo NTR",
+          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3"
+      },
+      "artists": [
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 203649,
+      "name": "S\u00e1bio",
+      "url": "https://open.spotify.com/track/00VQDB5VeJ2JtYU0n1wZF0"
     },
     {
       "added_at": null,
@@ -1531,30 +1555,6 @@
       "duration_ms": 223689,
       "name": "Frio e Calculista",
       "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elixir",
-        "url": "https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3"
-      },
-      "artists": [
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 203649,
-      "name": "S\u00e1bio",
-      "url": "https://open.spotify.com/track/00VQDB5VeJ2JtYU0n1wZF0"
     },
     {
       "added_at": null,

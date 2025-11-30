@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Team Eternity Ghana
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,330 likes - 100 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,356 likes - 100 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 14 | [Mercy](https://open.spotify.com/track/0GGLko0dDd4dHAAAd5OKh4) | [TMP Music](https://open.spotify.com/artist/0FSWMqdRbmwGSlcOlquXgo), [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM) | [Mercy](https://open.spotify.com/album/7fJHbylsqKlbkrHGqKvtGV) | 3:04 |
 | 15 | [Keep Me On Fire](https://open.spotify.com/track/2jaQoetrOkmrsOOCw8kvWF) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Keep Me On Fire](https://open.spotify.com/album/6V2919uLk1CCirYgu53X2a) | 5:25 |
 | 16 | [Joy](https://open.spotify.com/track/71aXJUkCNSqw16oRGJerni) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Joy](https://open.spotify.com/album/7bPr9NFMAeBKcUXrNhM1nN) | 8:23 |
-| 17 | [Carry Me \- Live Session](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me \(Live Session\)](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
+| 17 | [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
 | 18 | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/album/6rqAYrPXgVDBMpgFSP9Iin) | 2:11 |
 | 19 | [All About You 2](https://open.spotify.com/track/6GSXWv6Fq8EnDEN0TEC99u) | [Chris Symbols](https://open.spotify.com/artist/4IEgoC1alcKqiZbrumAsSd), [Pastor Courage](https://open.spotify.com/artist/7iac5GdEwmlOS43NtDwJ7y) | [All About You 2](https://open.spotify.com/album/4w8UPtt5aSHAVUPwuwmjzF) | 3:37 |
 | 20 | [The Almighty](https://open.spotify.com/track/5PRqopObWN3ZF3hPfXrbpH) | [Taiwo Oshin](https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U) | [Wings of the wind](https://open.spotify.com/album/1AnB5QUtYJ29OAiaHcPT06) | 7:07 |

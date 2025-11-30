@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover:  Hazbin Hotel
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,487 likes - 82 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,550 likes - 82 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

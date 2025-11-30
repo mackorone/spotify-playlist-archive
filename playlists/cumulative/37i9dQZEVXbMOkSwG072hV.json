@@ -2259,6 +2259,40 @@
     },
     {
       "album": {
+        "name": "ABC DA PUTARIA",
+        "url": "https://open.spotify.com/album/7ESkxpbRefkzEJRw2kri8t"
+      },
+      "artists": [
+        {
+          "name": "CAE",
+          "url": "https://open.spotify.com/artist/2d8dvLwxR3APvLe0gcLaK0"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418285,
+      "name": "ABC DA PUTARIA",
+      "url": "https://open.spotify.com/track/2z7SOL4MMdLZEWJOLYJpCU"
+    },
+    {
+      "album": {
         "name": "NA",
         "url": "https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse"
       },
@@ -4390,7 +4424,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 166452,
       "name": "Amo Minha Favela (Ft. MC Meno K)",
       "url": "https://open.spotify.com/track/1IsSto1Xpu5JBGT6aDzdkZ"
@@ -13330,7 +13364,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 140017,
       "name": "Cana da Choque",
       "url": "https://open.spotify.com/track/6qY0pwZyb781h6h2OYcOQw"
@@ -20726,7 +20760,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
@@ -38214,7 +38248,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 258613,
       "name": "La Yugular",
       "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
@@ -44752,6 +44786,10 @@
         {
           "name": "DJ ML da Vila",
           "url": "https://open.spotify.com/artist/2CAx0x5JZkYLVbdwRnHel3"
+        },
+        {
+          "name": "Dj Tchouzen",
+          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
         }
       ],
       "date_added": "2025-11-27",
@@ -64689,6 +64727,24 @@
     },
     {
       "album": {
+        "name": "Images (Remastered 2025 with Bonus Tracks)",
+        "url": "https://open.spotify.com/album/7e9SCBEk82KGSnhAtkjNvE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245448,
+      "name": "Rebel In Me - Remastered 2025",
+      "url": "https://open.spotify.com/track/7bdTZGMiWH8f63S9Gj52bv"
+    },
+    {
+      "album": {
         "name": "Rebelde la Serie (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
       },
@@ -69682,7 +69738,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 73653,
       "name": "Set Japa Nk 2",
       "url": "https://open.spotify.com/track/2c9OILQQEz5aAXmi4Lh7E5"
@@ -71044,6 +71100,24 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "album": {
+        "name": "SO ESSENCIAL",
+        "url": "https://open.spotify.com/album/2CyGxaVkQC92G74QGjVm1M"
+      },
+      "artists": [
+        {
+          "name": "4KBATU",
+          "url": "https://open.spotify.com/artist/7toT5rOUXkAj7zSVTs5qK1"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "SO ESSENCIAL",
+      "url": "https://open.spotify.com/track/4Hzr5nmvlNItclwVsBzjrd"
     },
     {
       "album": {

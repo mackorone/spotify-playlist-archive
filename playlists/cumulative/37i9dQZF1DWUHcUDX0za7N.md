@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Zaylevelten
 
-676 songs - 1 day 7 hr 48 min
+677 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-20 | 2023-07-28 |
 | [Higher Consciousness](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [BIGBIRD & THA VIPER](https://open.spotify.com/album/06avYXeBI5Df4cvkeTfJmS) | 3:05 | 2025-09-19 | 2025-10-04 |
 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 | 2023-03-25 | 2023-07-28 |
-| [Highlife](https://open.spotify.com/track/4ztI4NZdFjWcBa1dW9whZz) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Highlife](https://open.spotify.com/album/4hX6r3IGbzJlpTO923YFZi) | 2:30 | 2025-10-03 |  |
+| [Highlife](https://open.spotify.com/track/4ztI4NZdFjWcBa1dW9whZz) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Highlife](https://open.spotify.com/album/4hX6r3IGbzJlpTO923YFZi) | 2:30 | 2025-10-03 | 2025-11-30 |
 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 | 2025-10-24 |  |
 | [Hit](https://open.spotify.com/track/12JtmBk0kNsk5GSECkOSPn) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko) | [Hit](https://open.spotify.com/album/41FcOVnvv8nkpG6X6uzqdT) | 2:12 | 2024-07-19 | 2024-08-02 |
 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 | 2022-07-21 | 2023-11-17 |
@@ -669,6 +669,7 @@
 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 | 2023-12-01 | 2024-07-19 |
 | [Wreck](https://open.spotify.com/track/3RmOALqGxSyg85NT5YBySr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Osapa London \- Deluxe](https://open.spotify.com/album/38SLubt4uf3dQJcLpRapoa) | 2:29 | 2023-12-08 | 2024-01-12 |
 | [Wrong Person \(with ODUMODUBLVCK\)](https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:43 | 2023-07-28 | 2024-07-19 |
+| [Wuse Tu](https://open.spotify.com/track/7ntMsrnoWAyqGBsNvNBEoo) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:27 | 2025-11-28 |  |
 | [Wàsérè](https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT) | [Shakez Baba](https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Wàsérè](https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE) | 2:36 | 2024-11-22 | 2025-02-15 |
 | [Yakubu](https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Yakubu](https://open.spotify.com/album/0jzWxlKJGSGcGPZb0AFdV8) | 3:09 | 2023-03-30 | 2023-09-12 |
 | [Yeh Yeh \(feat\. Rema, Ayra Starr & KDDO\)](https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [Yeh Yeh \(feat\. Rema, Ayra Starr & KDDO\)](https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7) | 3:27 | 2023-03-30 | 2023-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment au Maroc\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,494 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,460 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Zendaya](https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Zendaya](https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9) | 3:04 |
 | 50 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 |
 
-Snapshot ID: `AAAAAPNpkj63sHp8WwQ1EseLueBusXHe`
+Snapshot ID: `AAAAAAFrtZVllPVuDAwwDh1GSeKw8x6i`

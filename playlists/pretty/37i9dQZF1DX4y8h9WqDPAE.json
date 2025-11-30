@@ -1,12 +1,12 @@
 {
   "description": "Where R&B meets Hip-Hop, Pop, Afrobeats and everything in between !  Cover: Summer Walker",
-  "num_followers": 1723964,
+  "num_followers": 1723848,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGlKS/BP4VLb1r6J7tIQ6/fqeqHm",
+  "snapshot_id": "AAAAAO0HSe86e3AELkXX98o9lBZAVBtH",
   "tracks": [
     {
       "added_at": "2025-11-21 10:48:08",
@@ -1517,38 +1517,6 @@
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
-      "added_at": "2025-10-24 09:40:36",
-      "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 165599,
-      "name": "My Muse",
-      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
-    },
-    {
-      "added_at": "2025-05-16 04:09:36",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "american dream",
@@ -1567,6 +1535,22 @@
       "duration_ms": 207585,
       "name": "prove it",
       "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
+    },
+    {
+      "added_at": "2025-05-16 04:09:36",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1589,22 +1573,6 @@
       "url": "https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k"
     },
     {
-      "added_at": "2025-11-14 11:13:06",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Baby (Is it a Crime)",
@@ -1621,20 +1589,20 @@
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
+      "added_at": "2025-11-14 11:13:06",
       "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 153911,
-      "name": "Scorsese Baby Daddy",
-      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
+      "duration_ms": 208972,
+      "name": "FMT",
+      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": "2025-04-25 06:51:06",
@@ -1655,6 +1623,38 @@
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153911,
+      "name": "Scorsese Baby Daddy",
+      "url": "https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS"
+    },
+    {
+      "added_at": "2025-10-24 09:40:36",
+      "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 165599,
+      "name": "My Muse",
+      "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "added_at": "2025-09-19 05:34:59",
@@ -1833,22 +1833,6 @@
       "url": "https://open.spotify.com/track/6HjYE79OOCGEhkIRfXLqrz"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "TWENTIES",
-        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171955,
-      "name": "TWENTIES",
-      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
-    },
-    {
       "added_at": "2025-05-09 04:00:22",
       "album": {
         "name": "BLISS",
@@ -1863,6 +1847,22 @@
       "duration_ms": 160111,
       "name": "BLISS",
       "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
+    },
+    {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "TWENTIES",
+        "url": "https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171955,
+      "name": "TWENTIES",
+      "url": "https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2057,6 +2057,22 @@
       "url": "https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh"
     },
     {
+      "added_at": "2025-03-14 06:07:30",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 155563,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
       "added_at": "2025-10-03 04:48:40",
       "album": {
         "name": "Sincerely: P.S.",
@@ -2075,22 +2091,6 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": "2025-03-14 06:07:30",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 155563,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
     },
     {
       "added_at": "2025-11-14 11:13:06",
@@ -2173,26 +2173,6 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
-      "added_at": "2025-09-12 19:24:29",
-      "album": {
-        "name": "Cry about it! (feat. Ravyn Lenae)",
-        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 171507,
-      "name": "Cry about it! (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "A Jaguar's Dream",
@@ -2229,6 +2209,26 @@
       "url": "https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl"
     },
     {
+      "added_at": "2025-09-12 19:24:29",
+      "album": {
+        "name": "Cry about it! (feat. Ravyn Lenae)",
+        "url": "https://open.spotify.com/album/4gbcThRmONElpN3nvdqBWd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 171507,
+      "name": "Cry about it! (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
+    },
+    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "JAGUAR II",
@@ -2243,26 +2243,6 @@
       "duration_ms": 184258,
       "name": "On My Mama",
       "url": "https://open.spotify.com/track/7DswEZZthZ6piQpL25qGAM"
-    },
-    {
-      "added_at": "2025-09-19 05:34:59",
-      "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 207398,
-      "name": "Shower Tears (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2295,6 +2275,26 @@
       "duration_ms": 174288,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
+    },
+    {
+      "added_at": "2025-09-19 05:34:59",
+      "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 207398,
+      "name": "Shower Tears (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd"
     },
     {
       "added_at": "2025-09-06 03:04:45",
@@ -2421,22 +2421,6 @@
       "url": "https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4"
     },
     {
-      "added_at": "2025-10-17 05:35:16",
-      "album": {
-        "name": "SAN ANDREAS",
-        "url": "https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "SAN ANDREAS",
-      "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
-    },
-    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
@@ -2455,6 +2439,22 @@
       "duration_ms": 151520,
       "name": "One Call Away (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/0AzUYCZOm8BiUEKBoaRWW8"
+    },
+    {
+      "added_at": "2025-10-17 05:35:16",
+      "album": {
+        "name": "SAN ANDREAS",
+        "url": "https://open.spotify.com/album/5htB4IcovHtB6Rou0zMRUo"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "SAN ANDREAS",
+      "url": "https://open.spotify.com/track/1yUvWt1Tm5HsAQUKWDp8mv"
     },
     {
       "added_at": "2025-10-10 07:15:28",
@@ -2497,6 +2497,22 @@
       "url": "https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2"
     },
     {
+      "added_at": "2025-05-09 04:00:22",
+      "album": {
+        "name": "The Only Love We Know",
+        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237210,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+    },
+    {
       "added_at": "2025-03-14 06:07:30",
       "album": {
         "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
@@ -2521,20 +2537,20 @@
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
     },
     {
-      "added_at": "2025-05-09 04:00:22",
+      "added_at": "2025-03-14 06:07:30",
       "album": {
-        "name": "The Only Love We Know",
-        "url": "https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma"
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 237210,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn"
+      "duration_ms": 228560,
+      "name": "GLOCK",
+      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2557,20 +2573,20 @@
       "url": "https://open.spotify.com/track/3Ae97zTfGTtJzDfmCweNn8"
     },
     {
-      "added_at": "2025-03-14 06:07:30",
+      "added_at": "2025-11-21 10:48:08",
       "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 228560,
-      "name": "GLOCK",
-      "url": "https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy"
+      "duration_ms": 178846,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs"
     },
     {
       "added_at": "2025-03-14 06:07:30",
@@ -2591,22 +2607,6 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
-    },
-    {
-      "added_at": "2025-11-21 10:48:08",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/2hXLLTOWuaygcf7EaRiQEB"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 178846,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/4WKsZmIYlkcyqX5OuTmfTs"
     },
     {
       "added_at": "2025-03-14 06:07:30",

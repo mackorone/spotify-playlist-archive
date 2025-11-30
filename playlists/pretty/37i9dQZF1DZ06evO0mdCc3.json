@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 15692,
+  "num_followers": 15694,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAC6Y67CgTNvSJu9JePJYZig",
+  "snapshot_id": "aSjmAAAAAABJ60edcz4BR76B514STRma",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 177946,
-      "name": "Brackish XXV",
-      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
+      "duration_ms": 165022,
+      "name": "Spit XXV",
+      "url": "https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
+        "name": "Oracle",
+        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 165022,
-      "name": "Spit XXV",
-      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
+      "duration_ms": 278906,
+      "name": "Mouthful of Poison",
+      "url": "https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 186457,
-      "name": "Do You Think I'm a Whore? XXV",
-      "url": "https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI"
+      "duration_ms": 177946,
+      "name": "Brackish XXV",
+      "url": "https://open.spotify.com/track/0XvUNeGH7aokwNLWXVOTg7"
     },
     {
       "added_at": null,
@@ -164,9 +164,25 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 278906,
-      "name": "Mouthful of Poison",
-      "url": "https://open.spotify.com/track/1B7YFJQcwapUMtgy0kmcXY"
+      "duration_ms": 249733,
+      "name": "Run Like Hell",
+      "url": "https://open.spotify.com/track/5L0pmNhEK5HVh5YWiiNPuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 186457,
+      "name": "Do You Think I'm a Whore? XXV",
+      "url": "https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI"
     },
     {
       "added_at": null,
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 208671,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/0bIoBcvncyM8cBZ56ah9xL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
       },
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oracle",
-        "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Run Like Hell",
-      "url": "https://open.spotify.com/track/5L0pmNhEK5HVh5YWiiNPuw"
+      "duration_ms": 208671,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0bIoBcvncyM8cBZ56ah9xL"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 233034,
-      "name": "Eyes Wide Open",
-      "url": "https://open.spotify.com/track/5C34gPk3GDR8ZYJNVq4mld"
+      "duration_ms": 218386,
+      "name": "Into The Darkness",
+      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 218386,
-      "name": "Into The Darkness",
-      "url": "https://open.spotify.com/track/2ymrItKzFrLfw2Nn8lFP7n"
+      "duration_ms": 233034,
+      "name": "Eyes Wide Open",
+      "url": "https://open.spotify.com/track/5C34gPk3GDR8ZYJNVq4mld"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
+        "name": "In The Black",
+        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 222601,
-      "name": "I Still Wear This Crown",
-      "url": "https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE"
+      "duration_ms": 181226,
+      "name": "Cut Throat",
+      "url": "https://open.spotify.com/track/0uSCW9vv8Vo4kGlSfemJ80"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Black",
-        "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 181226,
-      "name": "Cut Throat",
-      "url": "https://open.spotify.com/track/0uSCW9vv8Vo4kGlSfemJ80"
+      "duration_ms": 222601,
+      "name": "I Still Wear This Crown",
+      "url": "https://open.spotify.com/track/4Wjb1WOfGXzQlgxMNvMkiE"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 128586,
       "name": "Loveless",
       "url": "https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 198185,
-      "name": "Vultures",
-      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 198185,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Until the End",
         "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 204004,
-      "name": "Funeral For Yesterday",
-      "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oracle",
         "url": "https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 134573,
       "name": "No Name",
       "url": "https://open.spotify.com/track/0pYBl7g2AJtXmVPgEk8KiA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 204004,
+      "name": "Funeral For Yesterday",
+      "url": "https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 191024,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 191024,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Black",
         "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Forgive And Forget",
-      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
+      "duration_ms": 197146,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 197146,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+      "duration_ms": 224160,
+      "name": "Forgive And Forget",
+      "url": "https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL"
     },
     {
       "added_at": null,

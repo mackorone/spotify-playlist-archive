@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,298 likes - 215 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,403 likes - 215 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 | 2 | [Estimate](https://open.spotify.com/track/7lm8gkHUvNKXmVX857S2KU) | [ispíritu](https://open.spotify.com/artist/0OVGamiaCriHwLRXWiorJA) | [Estimate](https://open.spotify.com/album/5OHNeLtXIg5umlCpCRJupX) | 2:46 |
 | 3 | [Argenteus](https://open.spotify.com/track/3DIHHlerF1iuu5oJDcXG5h) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Argenteus](https://open.spotify.com/album/0l3huQuLBA6cM1L6Ak74lT) | 2:58 |
 | 4 | [Insula](https://open.spotify.com/track/2pX6WF5BC7cQn9jGaZ2ip5) | [Echoes of Embers](https://open.spotify.com/artist/7MwzUYxIJX8T2qqwLBAlGH) | [Insula](https://open.spotify.com/album/4sv0yrS6SFjQD9qIlLidIr) | 2:55 |
-| 5 | [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 |
+| 5 | [Congenial](https://open.spotify.com/track/1CztkRlhwQLMeNIi7yMIo2) | [Sangenjaya](https://open.spotify.com/artist/4BTCnn2sV6xW9MHSdMnKQl) | [Congenial](https://open.spotify.com/album/4h368obuwJlxZQjhEVihKM) | 2:42 |
 | 6 | [Penumbral](https://open.spotify.com/track/2uKqjLDJLqjmKAL477zq3h) | [R Skye](https://open.spotify.com/artist/6NtkcQUV3GQgjiFx8tNOFI) | [Penumbral](https://open.spotify.com/album/1zEXfZdMFB220JZMlRKGjF) | 2:40 |
 | 7 | [Estrella Dormida](https://open.spotify.com/track/1ywKplKd99r5nkRF3BwycB) | [Evezen](https://open.spotify.com/artist/3QRgMXguML5DCWsaO3h1Yi) | [Estrella Dormida](https://open.spotify.com/album/1AbxaIu0rDbdmojFdnsc4c) | 2:43 |
 | 8 | [Opal Mirage](https://open.spotify.com/track/4uSFlgIdhWIe1zi6lfKcpQ) | [Rubicon Fray](https://open.spotify.com/artist/26I6Wv05zdcv6tt43ruf5Z) | [Opal Mirage](https://open.spotify.com/album/1m5g6dYfogaOgXBAENGdv5) | 3:08 |

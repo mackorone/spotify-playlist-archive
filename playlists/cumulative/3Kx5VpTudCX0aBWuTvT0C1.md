@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-100 songs - 5 hr 41 min
+102 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Correr](https://open.spotify.com/track/39jAEMhAqeRWdw2rDI8EBK) | [Danilo Pira](https://open.spotify.com/artist/7A4czDJpi2rhwdubWHp4X2) | [Correr](https://open.spotify.com/album/7w3lPNSFILQgJR8SQirOrj) | 3:14 | 2025-11-19 |  |
 | [Dagon](https://open.spotify.com/track/5qC4oCURIwpw7bqKct0mJF) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [Dagon](https://open.spotify.com/album/370JHxkbnxHhsBl9SlANGk) | 3:31 | 2025-11-03 |  |
 | [Dance Like Fire](https://open.spotify.com/track/0lD3Yvnwpl68HXdnK5USQY) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Dance Like Fire](https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC) | 3:42 | 2025-11-16 |  |
+| [Do you tell](https://open.spotify.com/track/4yZES25Ta3YswJ1xjbggBa) | [CEDER](https://open.spotify.com/artist/5HfSHQhmCDkY2MScEKXe3B) | [Do you tell](https://open.spotify.com/album/7FTkRYhJGYUKMNw5Tc0Yfj) | 2:59 | 2025-11-29 |  |
 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-05 |  |
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2025-11-06 |  |
 | [Envidia](https://open.spotify.com/track/6Zk07DRGksbUobWOL0y1Uq) | [Cande Gosso](https://open.spotify.com/artist/3aT6vyDWCI0ke5cQvCiRPs) | [Envidia](https://open.spotify.com/album/0XqtI3ZoY1LFMn1mHrC48D) | 3:52 | 2025-11-14 |  |
@@ -77,6 +78,7 @@
 | [Parted](https://open.spotify.com/track/20ZFPWqmQDEQB0zt48B92n) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 3:43 | 2025-11-01 |  |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-11-27 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 |  |
+| [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 | 2025-11-29 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 |  |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 |  |
 | [Slam Dunk](https://open.spotify.com/track/0asprWWnSSVaYhWvmRKDgb) | [Aishe](https://open.spotify.com/artist/6lXZYPpYrkt4jbBawRJ6qA) | [Slam Dunk](https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6) | 2:03 | 2025-11-12 |  |

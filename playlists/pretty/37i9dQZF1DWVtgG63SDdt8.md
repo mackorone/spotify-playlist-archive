@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Sondae
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,154 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,183 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 17 | [King Of Hope \- Live at Wildfires](https://open.spotify.com/track/1nObEDI5OB74JHBRkbH63a) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N) | [King of Hope \(Live at Wildfires\)](https://open.spotify.com/album/56gKiolg6Q7yrp0KXvkaGC) | 5:02 |
 | 18 | [SEE ME THROUGH \(RECOVERY\)](https://open.spotify.com/track/1LnkRZLQtjWBpbYtNdqBmb) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Surgery](https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg) | 4:19 |
 | 19 | [Joy](https://open.spotify.com/track/71aXJUkCNSqw16oRGJerni) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Joy](https://open.spotify.com/album/7bPr9NFMAeBKcUXrNhM1nN) | 8:23 |
-| 20 | [Carry Me \- Live Session](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me \(Live Session\)](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
+| 20 | [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
 | 21 | [Water Into Wine](https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk) | [Otejiri Imah](https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [Water into Wine](https://open.spotify.com/album/4JXFozDG3PEcRuRp0nlSKR) | 9:42 |
 | 22 | [I Worship Thee](https://open.spotify.com/track/157rQFFicnFTat3OhWjMFF) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Throwback: An Evening With John P\. Kee Pt\. 1](https://open.spotify.com/album/51QhYbC5Y4IJI1oTJ4dIJV) | 1:32 |
 | 23 | [Only God](https://open.spotify.com/track/5D6jYyeh4Ow7ITHzoYHcyD) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Only God](https://open.spotify.com/album/7FGoMhFcDIEQzC1Tz1BA71) | 3:30 |

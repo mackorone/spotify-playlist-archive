@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: V\u00edctor Manuel.",
-  "num_followers": 346553,
+  "num_followers": 346575,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCKmUb59s6rsqS26rfy0sbQRsJ+",
+  "snapshot_id": "AAAAAJJwKmfayfROghozrbsXod1I/IRo",
   "tracks": [
     {
       "added_at": "2025-11-20 23:00:42",
@@ -443,8 +443,8 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Esta Boca Es Mia",
-        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 239333,
-      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
-      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
+      "duration_ms": 303973,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Fisica Y Quimica",
-        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+        "name": "Esta Boca Es Mia",
+        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 303973,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+      "duration_ms": 239333,
+      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
+      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -855,18 +871,34 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
       "artists": [
         {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -891,34 +923,18 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -935,22 +951,6 @@
       "duration_ms": 206880,
       "name": "Solo Otra Vez - Alone Again",
       "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "Lunas Rotas: De casa a las ventas (Standard version)",
         "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
       },
@@ -1059,22 +1043,6 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1095,18 +1063,34 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Canciones De Amor Para Tiempos Dificiles",
-        "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Santa Lucia",
-      "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1123,6 +1107,22 @@
       "duration_ms": 100733,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/7KkE9CPv39UKKphAnRMsEs"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Canciones De Amor Para Tiempos Dificiles",
+        "url": "https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Santa Lucia",
+      "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
         "name": "Quererte",
         "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 181825,
       "name": "Quererte",
       "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
-        "name": "Romancero",
-        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
-      },
-      "artists": [
-        {
-          "name": "La Bien Querida",
-          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "De Momento Abril",
-      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
         "name": "Algo contigo",
         "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2025-11-20 23:00:42",
       "album": {
+        "name": "Romancero",
+        "url": "https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ"
+      },
+      "artists": [
+        {
+          "name": "La Bien Querida",
+          "url": "https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "De Momento Abril",
+      "url": "https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
         "name": "Auterretratos",
         "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
@@ -1643,58 +1643,6 @@
       "duration_ms": 172000,
       "name": "Pasaba por Aqui",
       "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        }
-      ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
-      },
-      "artists": [
-        {
-          "name": "Elefantes",
-          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
-        },
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
-      "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
-    },
-    {
-      "added_at": "2025-11-20 23:00:42",
-      "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "Mar\u00eda la portuguesa",
-      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     },
     {
       "added_at": "2025-11-20 23:00:42",
@@ -1719,6 +1667,58 @@
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0rU0glgG267Tm44RkfJawd"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        },
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Que yo no lo sab\u00eda (feat. Antonio Vega)",
+      "url": "https://open.spotify.com/track/0XlybA6F3v5XcHl6rqmNRw"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
+    },
+    {
+      "added_at": "2025-11-20 23:00:42",
+      "album": {
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Mar\u00eda la portuguesa",
+      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     },
     {
       "added_at": "2025-11-20 23:00:42",

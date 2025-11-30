@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Megan Moroney",
-  "num_followers": 143346,
+  "num_followers": 143347,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-11-21 05:00:38",
       "album": {
+        "name": "Still The One: Live From Vegas",
+        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Honey, I'm Home - Live",
+      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
+    },
+    {
+      "added_at": "2025-11-21 05:00:38",
+      "album": {
         "name": "Waylon Live (Expanded Edition)",
         "url": "https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2025-11-21 05:00:38",
       "album": {
-        "name": "Still The One: Live From Vegas",
-        "url": "https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC"
+        "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
+        "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Honey, I'm Home - Live",
-      "url": "https://open.spotify.com/track/2uqgbSHT2Vl4XwUfjTRou0"
+      "duration_ms": 347946,
+      "name": "Bleed On Paper - Live At The Pinnacle, Nashville, TN / May 24, 2025",
+      "url": "https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa"
     },
     {
       "added_at": "2025-11-21 05:00:38",
@@ -1455,22 +1471,6 @@
       "duration_ms": 374400,
       "name": "Stay A Little Longer - Live",
       "url": "https://open.spotify.com/track/7A6DbpS31a2JwE6ql6LVrY"
-    },
-    {
-      "added_at": "2025-11-21 05:00:38",
-      "album": {
-        "name": "Bleed On Paper (Live At The Pinnacle, Nashville, TN / May 24, 2025)",
-        "url": "https://open.spotify.com/album/7JsgQ1vqBoUrtcuSuZ5qFH"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 347946,
-      "name": "Bleed On Paper - Live At The Pinnacle, Nashville, TN / May 24, 2025",
-      "url": "https://open.spotify.com/track/3HthvlnNlEfKWnDdIttKQa"
     },
     {
       "added_at": "2025-11-21 05:00:38",

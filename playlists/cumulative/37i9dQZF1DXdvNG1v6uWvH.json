@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "4yrs",
+        "url": "https://open.spotify.com/album/2QrGWv85h0Bru4SWHMJPJZ"
+      },
+      "artists": [
+        {
+          "name": "Brynjalisa",
+          "url": "https://open.spotify.com/artist/1QSmLV9pFFfsGFClcz5j2I"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150092,
+      "name": "4yrs",
+      "url": "https://open.spotify.com/track/7i1EKCMRCWLr5fmJW8cZFx"
+    },
+    {
+      "album": {
         "name": "5 Dollar Pony Rides",
         "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
       },
@@ -16232,6 +16250,24 @@
       "duration_ms": 222042,
       "name": "Best Be Leaving",
       "url": "https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c"
+    },
+    {
+      "album": {
+        "name": "BEST DAY EVER",
+        "url": "https://open.spotify.com/album/1BcAZeEscYFRWcCV6OdvOH"
+      },
+      "artists": [
+        {
+          "name": "MONEY BADGER",
+          "url": "https://open.spotify.com/artist/7jBKpAq42u8t7yiWAsC8kP"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "BEST DAY EVER",
+      "url": "https://open.spotify.com/track/6pRJdoCjlk55Q8J7lMLRUl"
     },
     {
       "album": {
@@ -32896,6 +32932,10 @@
         {
           "name": "KILIMANJARO",
           "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        },
+        {
+          "name": "Brazy",
+          "url": "https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ"
         }
       ],
       "date_added": "2025-11-28",

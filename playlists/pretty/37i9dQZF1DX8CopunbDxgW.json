@@ -1,12 +1,12 @@
 {
   "description": "it's always summer when Poolside is playing \ud83c\udf1e all the best indie dance tracks of the moment",
-  "num_followers": 880433,
+  "num_followers": 880385,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPX8bpKzlh+WpuElvq26jFAMrEIb",
+  "snapshot_id": "AAAAADLkom4oCgz5xYJ/l4LYEZiAnP10",
   "tracks": [
     {
       "added_at": "2025-11-21 05:00:38",
@@ -303,6 +303,22 @@
       "duration_ms": 169785,
       "name": "LIGHTNING",
       "url": "https://open.spotify.com/track/4bfC62Pt3HZZggQlpEPUYS"
+    },
+    {
+      "added_at": "2025-11-29 18:00:18",
+      "album": {
+        "name": "This Is Not What We Came For",
+        "url": "https://open.spotify.com/album/3EKH9UJ2dx74aES8uOmbxz"
+      },
+      "artists": [
+        {
+          "name": "Jennifur",
+          "url": "https://open.spotify.com/artist/3IZ1UX4baD16tONZHqaQhb"
+        }
+      ],
+      "duration_ms": 205029,
+      "name": "This Is Not What We Came For",
+      "url": "https://open.spotify.com/track/5ZtnjWfxZLY0ylQthkatYf"
     },
     {
       "added_at": "2025-10-24 04:00:19",
@@ -1715,26 +1731,6 @@
       "duration_ms": 205000,
       "name": "Quiero Verte Bailar",
       "url": "https://open.spotify.com/track/3VFuA7YsxBKrSNxk9nT71j"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
-        "name": "Don\u2019t Look Back",
-        "url": "https://open.spotify.com/album/5F6DD8yEQrAZm17zZFbgu6"
-      },
-      "artists": [
-        {
-          "name": "Lost Count",
-          "url": "https://open.spotify.com/artist/4IhvHFb5Lbl54E4igYTy7b"
-        },
-        {
-          "name": "Monde",
-          "url": "https://open.spotify.com/artist/2W7qynuWq1MsPtPNFugxQ1"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Boys will be boys",
-      "url": "https://open.spotify.com/track/4yXfLgoh16XoKawaiyriAp"
     },
     {
       "added_at": "2025-04-22 14:47:55",

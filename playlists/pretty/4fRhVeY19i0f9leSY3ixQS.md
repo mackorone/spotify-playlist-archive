@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,054 likes - 244 songs - 13 hr 50 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,055 likes - 255 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,11 +246,22 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 236 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 |
 | 237 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 |
 | 238 | [Breaking Me](https://open.spotify.com/track/5cY9J2rpud610I2qTa3toF) | [December Daybreak](https://open.spotify.com/artist/6EKs2NrFlMNMuI9kNr4ky2) | [Breaking Me](https://open.spotify.com/album/5j1OiGLguSko1Gje70rx9D) | 4:05 |
-| 239 | [Piras](https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9) | [No Drop For Us](https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw) | [Antesis, Pt\. 2](https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0) | 2:58 |
-| 240 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 |
-| 241 | [Comma Comma Page Break](https://open.spotify.com/track/5Qhlvrhbm5IFTlMCTvrZKC) | [Wilson Getchell](https://open.spotify.com/artist/5vVgsLGU7Y7zwfVrZo2yN3) | [Comma Comma Page Break](https://open.spotify.com/album/3K4eaPSKy3sW1274r17bWH) | 5:50 |
-| 242 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 |
-| 243 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 |
-| 244 | [Never There](https://open.spotify.com/track/4l6VMALVzlUboAJy17CAqG) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Never There](https://open.spotify.com/album/4UotUytIl9YcpgNPlGHoTk) | 3:36 |
+| 239 | [My Love's on Fire](https://open.spotify.com/track/6vMWFWIgBAlPQeagClw0Ss) | [Slothy Toves](https://open.spotify.com/artist/3qtPhXbUx1XkBZVnY9vdxp) | [Lamp and Table](https://open.spotify.com/album/6prKFt1sVLA54zP2pnTI7p) | 3:00 |
+| 240 | [Piras](https://open.spotify.com/track/1zfvzrHSoyScG5H9tWhpY9) | [No Drop For Us](https://open.spotify.com/artist/4miQtink0mV5twP3iWXFlw) | [Antesis, Pt\. 2](https://open.spotify.com/album/2VsJwTv5rzrQ4jMAdlesz0) | 2:58 |
+| 241 | [Last Dance](https://open.spotify.com/track/7pCxiJ03tUx5u1ZkaUIsT0) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 3:17 |
+| 242 | [Comma Comma Page Break](https://open.spotify.com/track/5Qhlvrhbm5IFTlMCTvrZKC) | [Wilson Getchell](https://open.spotify.com/artist/5vVgsLGU7Y7zwfVrZo2yN3) | [Comma Comma Page Break](https://open.spotify.com/album/3K4eaPSKy3sW1274r17bWH) | 5:50 |
+| 243 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 |
+| 244 | [smth in the way](https://open.spotify.com/track/1L6QvSjhf3aE2yK8THNkkQ) | [Asira SW](https://open.spotify.com/artist/5OiJGU1KwhMVzEuU2cGYkA) | [smth in the way](https://open.spotify.com/album/1J3UYQudE2DUWk7omagt8z) | 4:10 |
+| 245 | [Never There](https://open.spotify.com/track/4l6VMALVzlUboAJy17CAqG) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Never There](https://open.spotify.com/album/4UotUytIl9YcpgNPlGHoTk) | 3:36 |
+| 246 | [Brand New Start](https://open.spotify.com/track/5kfuPGiwU7fcCtL8KaAc5c) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Behind Closed Doors](https://open.spotify.com/album/3Dw4iq9FbbPSrTz6RR0LHS) | 3:38 |
+| 247 | [You Are The Reason](https://open.spotify.com/track/12CZsFBNPo7cdvRPSJHF8A) | [Little South](https://open.spotify.com/artist/0smwu04kMlybxO205h4D8G) | [You Are The Reason](https://open.spotify.com/album/0ksEE6bWJTyTCDndLJQTNm) | 3:43 |
+| 248 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 |
+| 249 | [Born in the wrong time](https://open.spotify.com/track/4ACGqdpZ2mVlyYyinGaNfC) | [Herr Vorragend](https://open.spotify.com/artist/4Vykok0WCLucn90FdKHfkR) | [Born in the wrong time](https://open.spotify.com/album/5VMPdJyEL2vuEt5k8JgdTT) | 4:40 |
+| 250 | [On The Run](https://open.spotify.com/track/182G73eUtTppSaqS7X9Tv2) | [XXX Smut](https://open.spotify.com/artist/1eusvoPqnUbdL0nNgQ4hgv), [Todd Hogan](https://open.spotify.com/artist/11t6B3gdxHdRCS6kUHH7Mf) | [Fuck Milk Got Beer](https://open.spotify.com/album/4w00V58UjpWPN7WtByA5Ea) | 2:23 |
+| 251 | [Neon Skin](https://open.spotify.com/track/4XYpLO8ui8SiRiOHa4AFZ2) | [izakt](https://open.spotify.com/artist/2fF0zAC1HlJ7WobgTMYN0W) | [Blacked Out](https://open.spotify.com/album/0jGW29L6oF2qFPIBAuSvql) | 5:23 |
+| 252 | [We Should Form a Band](https://open.spotify.com/track/3r9hh8plFZKWymWRPswVXX) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [We Should Form a Band](https://open.spotify.com/album/5pe09p9PxEqzu7rDHgmflA) | 2:09 |
+| 253 | [Haunted](https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Haunted](https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd) | 3:37 |
+| 254 | [The Ones Who Drifted](https://open.spotify.com/track/5shpX3zlrOb9nZnWqX8xgY) | [Madness Men](https://open.spotify.com/artist/6vLj31hJ7SVEK1QaAOndpk) | [Madness Dimension, Pt\. One](https://open.spotify.com/album/6dhW2f9OGUrZEzBWU7RthA) | 4:43 |
+| 255 | [A Shot Away](https://open.spotify.com/track/5UlAyw1MOa574x1zAIwTwV) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [Cycles](https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y) | 3:34 |
 
-Snapshot ID: `AAAH0KTyiGIZvoRyOZnQkTwdudZy/KKB`
+Snapshot ID: `AAAH26PURuKC4kxp/CziGq6EMCFysp0c`

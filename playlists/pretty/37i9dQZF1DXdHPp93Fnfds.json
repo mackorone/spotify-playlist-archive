@@ -1,6 +1,6 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 138047,
+  "num_followers": 138041,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Hicimos Crecer un Bosque",
         "url": "https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 218039,
       "name": "El D\u00eda de las Flores",
       "url": "https://open.spotify.com/track/6IDE0OVT1hcMdf1bCqxxSp"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Todo vuelve al punto de partida",
         "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Me mudo de casa",
-        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 244636,
-      "name": "Me mudo de casa",
-      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Labio Inferior",
         "url": "https://open.spotify.com/album/2ctTtzG44MlNUIpwxag46M"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 171889,
       "name": "Labio Inferior",
       "url": "https://open.spotify.com/track/62jyvcXfpiZLHWMi0p8VJL"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Me mudo de casa",
+        "url": "https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 244636,
+      "name": "Me mudo de casa",
+      "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/3JNSehXjsxHsabENXLH9CO"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 311327,
       "name": "17",
       "url": "https://open.spotify.com/track/0lv7MF7EVnJe6g09LjeIjK"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Muy tarde",
-        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
-      },
-      "artists": [
-        {
-          "name": "INE",
-          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Muy tarde",
-      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Fuga",
         "url": "https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Mi Coraz\u00f3n y Yo",
-        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
+        "name": "Muy tarde",
+        "url": "https://open.spotify.com/album/73zkiZzHZxNkhiFSXBBs0X"
       },
       "artists": [
         {
-          "name": "Maria Campos",
-          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
         }
       ],
-      "duration_ms": 178665,
-      "name": "Mi Coraz\u00f3n y Yo",
-      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
+      "duration_ms": 195157,
+      "name": "Muy tarde",
+      "url": "https://open.spotify.com/track/5fL7LHsH2WoPHA5L7h3UAg"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -879,18 +863,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Fue un adi\u00f3s",
-        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+        "name": "Mi Coraz\u00f3n y Yo",
+        "url": "https://open.spotify.com/album/5oHGX0k38tSv22GZRqV4w5"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Maria Campos",
+          "url": "https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu"
         }
       ],
-      "duration_ms": 196554,
-      "name": "Fue un adi\u00f3s",
-      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
+      "duration_ms": 178665,
+      "name": "Mi Coraz\u00f3n y Yo",
+      "url": "https://open.spotify.com/track/1RoqUzkSySLPVZfGiTipMV"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -907,6 +891,22 @@
       "duration_ms": 206808,
       "name": "This is un volc\u00e1n",
       "url": "https://open.spotify.com/track/2Ey1hs6xJOar2ki7G7dPbO"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Fue un adi\u00f3s",
+        "url": "https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 196554,
+      "name": "Fue un adi\u00f3s",
+      "url": "https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "berlin U5",
-        "url": "https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX"
-      },
-      "artists": [
-        {
-          "name": "Zahara",
-          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
-        }
-      ],
-      "duration_ms": 219787,
-      "name": "berlin U5",
-      "url": "https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 200163,
       "name": "Te Miento - Al Piano",
       "url": "https://open.spotify.com/track/1cPyKHSbPoQ0RNOEwuaugN"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "berlin U5",
+        "url": "https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX"
+      },
+      "artists": [
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
+        }
+      ],
+      "duration_ms": 219787,
+      "name": "berlin U5",
+      "url": "https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "100PRE",
-        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
-      },
-      "artists": [
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 205511,
-      "name": "100PRE",
-      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "\u00faltimo y primero",
         "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179377,
       "name": "\u00faltimo y primero",
       "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "100PRE",
+        "url": "https://open.spotify.com/album/3dvSitqvQz0X57Mg6kOskS"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 205511,
+      "name": "100PRE",
+      "url": "https://open.spotify.com/track/0JOvn6YVeMDydH4iL3muOy"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Mito",
-        "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 234478,
-      "name": "Mito",
-      "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Running Up That Hill - Spotify Singles",
         "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 158934,
       "name": "ME FUI DE LA FIESTA",
       "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Mito",
+        "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 234478,
+      "name": "Mito",
+      "url": "https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "El Plan de mi A\u00f1o",
-        "url": "https://open.spotify.com/album/04lcjmDQ6qPlDzaU1NzUbT"
-      },
-      "artists": [
-        {
-          "name": "La Chica del Cumplea\u00f1os",
-          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "El Plan de mi A\u00f1o",
-      "url": "https://open.spotify.com/track/09fcJJWNuvLahpZupAuYOZ"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
         "name": "Al calor de un sol que acaba de morir",
         "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "El Plan de mi A\u00f1o",
+        "url": "https://open.spotify.com/album/04lcjmDQ6qPlDzaU1NzUbT"
+      },
+      "artists": [
+        {
+          "name": "La Chica del Cumplea\u00f1os",
+          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "El Plan de mi A\u00f1o",
+      "url": "https://open.spotify.com/track/09fcJJWNuvLahpZupAuYOZ"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Volver a Llorar",
         "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
       },
@@ -1255,6 +1255,42 @@
       "duration_ms": 160533,
       "name": "Volver a Llorar",
       "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Hoy Dej\u00e9 De Llorar",
+        "url": "https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D"
+      },
+      "artists": [
+        {
+          "name": "Sonia Z",
+          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
+        },
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Hoy Dej\u00e9 De Llorar",
+      "url": "https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
+        "name": "Un Amoroso Asunto",
+        "url": "https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY"
+      },
+      "artists": [
+        {
+          "name": "Doble Valentina",
+          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
+        }
+      ],
+      "duration_ms": 159168,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl"
     },
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1295,54 +1331,18 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
-        "name": "Hoy Dej\u00e9 De Llorar",
-        "url": "https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D"
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
       },
       "artists": [
         {
-          "name": "Sonia Z",
-          "url": "https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh"
-        },
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+          "name": "CATALINA SEGURA",
+          "url": "https://open.spotify.com/artist/1RR3N6kUpSOhx70lUdwUlx"
         }
       ],
-      "duration_ms": 151250,
-      "name": "Hoy Dej\u00e9 De Llorar",
-      "url": "https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "La Loba",
-        "url": "https://open.spotify.com/album/4WVN96JCMtso3Ov1yeOhpR"
-      },
-      "artists": [
-        {
-          "name": "La Chica",
-          "url": "https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4OWi0FuiCj3Yy178rGV9NB"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Un Amoroso Asunto",
-        "url": "https://open.spotify.com/album/1ewhvs017IYyp1587QIJVY"
-      },
-      "artists": [
-        {
-          "name": "Doble Valentina",
-          "url": "https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU"
-        }
-      ],
-      "duration_ms": 159168,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/6nGyCLgjbNvnvr17fDh0hl"
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     }
   ],
   "unique_name": "Mujeres del Indie",

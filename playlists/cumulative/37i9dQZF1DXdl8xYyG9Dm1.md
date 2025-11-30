@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover:  Kweku Smoke
 
-390 songs - 20 hr 12 min
+391 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 | 2023-01-27 | 2024-04-19 |
 | [Born To Win](https://open.spotify.com/track/0wau3pD9eDZQRBzg0J3LkE) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/0K1Kj60U6juaomxBtPoaS4) | 2:58 | 2022-09-16 | 2023-02-05 |
 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 | 2024-05-17 | 2025-05-27 |
-| [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 | 2024-01-26 |  |
+| [Breaking News](https://open.spotify.com/track/1VHi0TCyl8zcNiPVlXixnP) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Evil Twin](https://open.spotify.com/album/0WlGmF3vsB5mLoYdnvlMTo) | 2:32 | 2024-01-26 | 2025-11-30 |
 | [By Force](https://open.spotify.com/track/7eEY6xTOIbHgZpU4NS6gZP) | [8figurez](https://open.spotify.com/artist/3yJexXx23gh77vExWiL29J), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [By Force](https://open.spotify.com/album/1eW5AAkt2BYHu4NPEEOlkC) | 3:10 | 2023-01-27 | 2023-02-10 |
 | [CATALYST](https://open.spotify.com/track/3gaYFa4e3JswfToeYHtAKX) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:44 | 2022-05-19 | 2023-01-28 |
 | [Catalyst](https://open.spotify.com/track/0eYtxjlZfYQEsqCWzzptuO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:47 | 2022-05-19 | 2022-12-09 |
@@ -176,6 +176,7 @@
 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 | 2022-02-24 | 2024-07-27 |
 | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [HUSTLERS DREAM \(feat\. Jay Bahd & Kwaku DMC\)](https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ) | 3:15 | 2025-06-06 |  |
 | [I No Be God](https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [I No Be God](https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw) | 2:18 | 2025-03-21 |  |
+| [Idansk1 tw0](https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [then 1t g0t crazier](https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5) | 2:09 | 2025-11-28 |  |
 | [Impossible](https://open.spotify.com/track/6ILVxE20PUooTyoSK0mHat) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Aeph](https://open.spotify.com/artist/0lzSrFGE3CoEg8dtn1PS6i), [KoKo ](https://open.spotify.com/artist/1A4NyrcivdiIQ0INQm6ICx) | [Impossible](https://open.spotify.com/album/6OMZajVz7Gr0mv737s2CVK) | 2:58 | 2022-03-24 | 2022-04-22 |
 | [In My Head](https://open.spotify.com/track/6P8ePyea7qMtpepDXBNkIO) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Tujiangalie \- EP](https://open.spotify.com/album/0L6Djo1F3h7l0UPtLdwAJu) | 3:38 | 2023-04-20 | 2023-11-11 |
 | [Inaweza Haiwezi](https://open.spotify.com/track/6GbZgCtkDVQnuavXk6T3LG) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Inaweza Haiwezi](https://open.spotify.com/album/4XtK3cyU5InSf6792CqTjM) | 3:14 | 2022-11-04 | 2023-02-10 |

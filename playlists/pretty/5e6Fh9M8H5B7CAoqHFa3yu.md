@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 247 likes - 1,677 songs - 4 day 6 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 246 likes - 1,680 songs - 4 day 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1685,5 +1685,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1675 | [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 |
 | 1676 | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/track/5OJLmwa30Cnz756KKfGz01) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Raíz \(La Base Del Show\)](https://open.spotify.com/album/1yZszTyGMJLly1ulxpS8Wp) | 2:52 |
 | 1677 | [WONDERING](https://open.spotify.com/track/2zR1Gl1WnrAxRfUP5ECHVX) | [ELIYAR](https://open.spotify.com/artist/5WxWBGx3GAQhm6PaZZsuUD) | [WONDERING](https://open.spotify.com/album/4VnGSzzxH1ZyuBLWCsD35p) | 2:40 |
+| 1678 | [Too Early At The Party](https://open.spotify.com/track/1fQuEEuJIfMfucOy1x7mME) | [Amaury Laurent Bernier](https://open.spotify.com/artist/3W838tQ7KOuhu6lq0DbKvK) | [Polaroid Revolt](https://open.spotify.com/album/2VigbaNTOIGykpEppCAzz7) | 3:45 |
+| 1679 | [RWD](https://open.spotify.com/track/1qQGJVggMqG58YYsiGkxth) | [Kier](https://open.spotify.com/artist/0tcPqqUBSuCA9VENxwwyEl), [Cheatz](https://open.spotify.com/artist/4ZA66hsvIPVsSelQsobJ0B), [Skibovicz](https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX), [2latefor](https://open.spotify.com/artist/17gX3tD2iLMYlMGE3fXiq1) | [GAMMA](https://open.spotify.com/album/2UdAQuQVSJvv8LX5IRb4A2) | 2:17 |
+| 1680 | [Higher \- Extended Mix](https://open.spotify.com/track/6WluYdZW0k2SIou9PQpiyA) | [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [fabric presents Floorplan \(Mixed\)](https://open.spotify.com/album/4IJvxq326rM5jBpivm59QX) | 4:25 |
 
-Snapshot ID: `AAAHcX4MBXAFl45FuP4KVByT7d9khWqY`
+Snapshot ID: `AAAHdAF2NUU2Y/GUDlwiH6nI+DxzXYhu`

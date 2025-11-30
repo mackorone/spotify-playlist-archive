@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14525,
+  "num_followers": 14523,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADsUTWj//tw3pHiPteF6bKz",
+  "snapshot_id": "aSjmAAAAAAAx2AV//OdGaWsq8NW/MTr1",
   "tracks": [
     {
       "added_at": null,
@@ -227,34 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Itzhak Perlman",
-        "url": "https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU"
-      },
-      "artists": [
-        {
-          "name": "Ennio Morricone",
-          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Pittsburgh Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Love Theme (From \"Cinema Paradiso\")",
-      "url": "https://open.spotify.com/track/7BHX4FX2hfw14gnvcQVJPO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cinema Serenade",
         "url": "https://open.spotify.com/album/7fYlJ1HNLfs6JIvJCJ2rqq"
       },
@@ -279,6 +251,30 @@
       "duration_ms": 231160,
       "name": "Scent of a Woman: Tango (Por Una Cabeza)",
       "url": "https://open.spotify.com/track/3mGkPsZbHEBf8ZT1ExZnww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violin Encores: Perlman",
+        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Paganini: Sonata for Violin and Guitar in E Minor, Op. 3 No. 6 (Version for Violin and Piano)",
+      "url": "https://open.spotify.com/track/0OGRw2Ikkgszpe11t16mlC"
     },
     {
       "added_at": null,
@@ -331,26 +327,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violin Encores: Perlman",
-        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
+        "name": "The Essential Itzhak Perlman",
+        "url": "https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU"
       },
       "artists": [
         {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+          "name": "Ennio Morricone",
+          "url": "https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C"
         },
         {
           "name": "Itzhak Perlman",
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         },
         {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Pittsburgh Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/7oOCHAPJjD7IARb5hrzvw9"
         }
       ],
-      "duration_ms": 228373,
-      "name": "Paganini: Sonata for Violin and Guitar in E Minor, Op. 3 No. 6 (Version for Violin and Piano)",
-      "url": "https://open.spotify.com/track/0OGRw2Ikkgszpe11t16mlC"
+      "duration_ms": 197306,
+      "name": "Love Theme (From \"Cinema Paradiso\")",
+      "url": "https://open.spotify.com/track/7BHX4FX2hfw14gnvcQVJPO"
     },
     {
       "added_at": null,
@@ -383,17 +383,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Itzhak Perlman",
-        "url": "https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU"
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
       },
       "artists": [
         {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         },
         {
           "name": "Itzhak Perlman",
@@ -404,9 +400,9 @@
           "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 685346,
-      "name": "Romance in F Minor, Op. 11, B. 39",
-      "url": "https://open.spotify.com/track/2vHbfPTOuUObevOTkYpwGv"
+      "duration_ms": 352240,
+      "name": "I Could Have Done More",
+      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
     },
     {
       "added_at": null,
@@ -435,13 +431,17 @@
     {
       "added_at": null,
       "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+        "name": "The Essential Itzhak Perlman",
+        "url": "https://open.spotify.com/album/6WB0uSzP87B9k4Qr3uvGdU"
       },
       "artists": [
         {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
         },
         {
           "name": "Itzhak Perlman",
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
         }
       ],
-      "duration_ms": 352240,
-      "name": "I Could Have Done More",
-      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
+      "duration_ms": 685346,
+      "name": "Romance in F Minor, Op. 11, B. 39",
+      "url": "https://open.spotify.com/track/2vHbfPTOuUObevOTkYpwGv"
     },
     {
       "added_at": null,
@@ -963,30 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memoirs of a Geisha (Remastered)",
-        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Chiyo's Prayer",
-      "url": "https://open.spotify.com/track/0GVKpQYmaaFcm2plMqmRSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cinema Serenade II - \"The Golden Age\"",
         "url": "https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy"
       },
@@ -1039,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paganini: 24 Caprices",
-        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
-      },
-      "artists": [
-        {
-          "name": "Niccol\u00f2 Paganini",
-          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 144133,
-      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
-      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -1076,9 +1032,29 @@
           "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
         }
       ],
-      "duration_ms": 162773,
-      "name": "Going to School",
-      "url": "https://open.spotify.com/track/7DP0JcrmISMPEioK46hONz"
+      "duration_ms": 216626,
+      "name": "Chiyo's Prayer",
+      "url": "https://open.spotify.com/track/0GVKpQYmaaFcm2plMqmRSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paganini: 24 Caprices",
+        "url": "https://open.spotify.com/album/291YK9rIk7qelWtRbfQVUw"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Paganini: 24 Caprices, Op. 1: No. 10 in G Minor",
+      "url": "https://open.spotify.com/track/6TaNlxkOgkxrJ9AP9X9Spg"
     },
     {
       "added_at": null,
@@ -1131,6 +1107,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 162773,
+      "name": "Going to School",
+      "url": "https://open.spotify.com/track/7DP0JcrmISMPEioK46hONz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaldi: Le quattro stagioni",
         "url": "https://open.spotify.com/album/6C6a2lqcgoIHMtTpTAOT5z"
       },
@@ -1155,34 +1155,6 @@
       "duration_ms": 218693,
       "name": "The Four Seasons, Winter, Violin Concerto in F Minor, RV 297, Op. 8 No. 4: I. Allegro non molto",
       "url": "https://open.spotify.com/track/0nsFJ7idRy2Jpe6aW6XQYy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cinema Serenade II - \"The Golden Age\"",
-        "url": "https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy"
-      },
-      "artists": [
-        {
-          "name": "Herman Hupfeld",
-          "url": "https://open.spotify.com/artist/6ys8UConnvI1LUcjd9it0Z"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "As Time Goes By from \"Casablanca\" (1942)",
-      "url": "https://open.spotify.com/track/5JCMmD3ysCoxTD8c04iG5L"
     },
     {
       "added_at": null,
@@ -1231,6 +1203,34 @@
       "duration_ms": 298733,
       "name": "Yentl: Papa, Can You Hear Me?",
       "url": "https://open.spotify.com/track/6NqifdCpPVpkOX2soLxFXq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinema Serenade II - \"The Golden Age\"",
+        "url": "https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy"
+      },
+      "artists": [
+        {
+          "name": "Herman Hupfeld",
+          "url": "https://open.spotify.com/artist/6ys8UConnvI1LUcjd9it0Z"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "As Time Goes By from \"Casablanca\" (1942)",
+      "url": "https://open.spotify.com/track/5JCMmD3ysCoxTD8c04iG5L"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

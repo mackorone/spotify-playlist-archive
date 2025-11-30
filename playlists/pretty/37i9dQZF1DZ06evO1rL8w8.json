@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 232522,
+  "num_followers": 232568,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABusQrSbA0wMykMi9GFicKB",
+  "snapshot_id": "aSjmAAAAAAAOJR9M6AzKIL2DZ64gCoRA",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
-        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
+        "name": "Ser M\u00e1s Que Tu Amigo",
+        "url": "https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC"
       },
       "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 195509,
-      "name": "Eleodoro Elenes",
-      "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"
+      "duration_ms": 187441,
+      "name": "Ser M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ser M\u00e1s Que Tu Amigo",
-        "url": "https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC"
+        "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
+        "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
       },
       "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 187441,
-      "name": "Ser M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy"
+      "duration_ms": 195509,
+      "name": "Eleodoro Elenes",
+      "url": "https://open.spotify.com/track/2vvatFK9PsMEjpcolFXcGY"
     },
     {
       "added_at": null,

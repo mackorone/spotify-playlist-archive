@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 17843,
+  "num_followers": 17846,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADU/5ietWqL+x0iQn2pSKXM",
+  "snapshot_id": "aSjmAAAAAABsMmk3SjIjIu7R4qG1Pi37",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Drive On",
-      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
+      "duration_ms": 186933,
+      "name": "Skinny Dippin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 186933,
-      "name": "Skinny Dippin' - Remastered 2017",
-      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
+      "duration_ms": 171704,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/3dUBVVpng4p7RUKkIOo33g"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spirit of the Anzacs",
-        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "When the First Bombs Fell",
-      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spirit of the Anzacs",
+        "url": "https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "When the First Bombs Fell",
+      "url": "https://open.spotify.com/track/3oZGkQgQ97j6ZC696485x5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spirit of the Bush (Remastered 2017)",
         "url": "https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB"
       },
@@ -823,6 +823,26 @@
       "duration_ms": 220973,
       "name": "Mate - Remastered 2017",
       "url": "https://open.spotify.com/track/00h8toickuQNEFIhe7mjP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Missin' Slim",
+        "url": "https://open.spotify.com/album/1g34UBpOqfpUPNNWRz9Dna"
+      },
+      "artists": [
+        {
+          "name": "Colin Buchanan",
+          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
+        },
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Missin' Slim",
+      "url": "https://open.spotify.com/track/2QD0oudzMWHvHiIW9mCKh5"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
       "duration_ms": 254800,
       "name": "'Cause I'm Country - Remastered 2017",
       "url": "https://open.spotify.com/track/4k5I0M6pRoyY8113r5yMKW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Missin' Slim",
-        "url": "https://open.spotify.com/album/1g34UBpOqfpUPNNWRz9Dna"
-      },
-      "artists": [
-        {
-          "name": "Colin Buchanan",
-          "url": "https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T"
-        },
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Missin' Slim",
-      "url": "https://open.spotify.com/track/2QD0oudzMWHvHiIW9mCKh5"
     },
     {
       "added_at": null,

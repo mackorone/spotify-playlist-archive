@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZrYRP4IHLCX>Lil Peep</a>, <a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIYCXev8HHUjX>James Arthur</a>, <a href=spotify:playlist:37i9dQZF1EIXXLCzFVfkP2>J Balvin</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
@@ -11,54 +11,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIVE FOREVER",
-        "url": "https://open.spotify.com/album/4hiArqU343m8BUT0lymyLO"
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
       "artists": [
         {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 226597,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211477,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "rainy bear",
-          "url": "https://open.spotify.com/artist/080kPbQFzomkrfHW8U4XkZ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 85360,
-      "name": "nuts",
-      "url": "https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back from the Edge",
-        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 208864,
-      "name": "Train Wreck",
-      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -327,22 +327,6 @@
       "duration_ms": 198853,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5vjLSffimiIP26QG5WcN2K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
       "added_at": null,
@@ -447,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIDES",
+        "url": "https://open.spotify.com/album/38tTtymkTn9uwNPJJWLKZH"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 268946,
+      "name": "Ku Dengannya Kau Dengan Dia",
+      "url": "https://open.spotify.com/track/0VIXM6mZk93jCKa3Exud4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 291796,
+      "name": "i love you",
+      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -463,18 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SIDES",
-        "url": "https://open.spotify.com/album/38tTtymkTn9uwNPJJWLKZH"
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 268946,
-      "name": "Ku Dengannya Kau Dengan Dia",
-      "url": "https://open.spotify.com/track/0VIXM6mZk93jCKa3Exud4m"
+      "duration_ms": 208864,
+      "name": "Train Wreck",
+      "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 291796,
-      "name": "i love you",
-      "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tertawan Hati",
         "url": "https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo"
       },
@@ -723,6 +723,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guitar Songs",
+        "url": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 281380,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dunia Yang Indah",
+        "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
+      },
+      "artists": [
+        {
+          "name": "Seventeen",
+          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
+        }
+      ],
+      "duration_ms": 289280,
+      "name": "Tanpa Pesan Terakhir",
+      "url": "https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sick",
         "url": "https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs"
       },
@@ -751,22 +783,6 @@
       "duration_ms": 296800,
       "name": "Keras Kepala",
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dunia Yang Indah",
-        "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
-      },
-      "artists": [
-        {
-          "name": "Seventeen",
-          "url": "https://open.spotify.com/artist/5uUb3J6HqLhBWwzuh84LUZ"
-        }
-      ],
-      "duration_ms": 289280,
-      "name": "Tanpa Pesan Terakhir",
-      "url": "https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 295993,
       "name": "Bernafas Tanpamu",
       "url": "https://open.spotify.com/track/1imyB3ufkQTtOnD2PYUSuu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Wonderful Life (Epilogue)",
-        "url": "https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 193393,
-      "name": "When I Close My Eyes",
-      "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"
     }
   ],
   "unique_name": "Moody Mix",

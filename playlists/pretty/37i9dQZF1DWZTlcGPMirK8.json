@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72289,
+  "num_followers": 72295,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -639,18 +639,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reprisal",
-        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+        "name": "Take Me Over",
+        "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
       },
       "artists": [
         {
           "name": "Peking Duk",
           "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "SAFIA",
+          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
         }
       ],
-      "duration_ms": 226350,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+      "duration_ms": 208121,
+      "name": "Take Me Over",
+      "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -703,42 +707,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Ivy & The Big Apples",
-        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
-      },
-      "artists": [
-        {
-          "name": "Spiderbait",
-          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
-        }
-      ],
-      "duration_ms": 111293,
-      "name": "Calypso",
-      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Take Me Over",
-        "url": "https://open.spotify.com/album/2ovy2zlk2RjYQGkfEUb0qB"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "SAFIA",
-          "url": "https://open.spotify.com/artist/1y07gMlsfAdz2KOvZzyUTB"
-        }
-      ],
-      "duration_ms": 208121,
-      "name": "Take Me Over",
-      "url": "https://open.spotify.com/track/7edLcwmws3QnbJ8JUqyHhe"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Blue Planet Eyes",
         "url": "https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 214093,
       "name": "Is This How You Feel?",
       "url": "https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Reprisal",
+        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 226350,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Ivy & The Big Apples",
+        "url": "https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC"
+      },
+      "artists": [
+        {
+          "name": "Spiderbait",
+          "url": "https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo"
+        }
+      ],
+      "duration_ms": 111293,
+      "name": "Calypso",
+      "url": "https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 213333,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Thirty One",
-        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
-      },
-      "artists": [
-        {
-          "name": "Jarryd James",
-          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "5 Seconds Of Summer",
         "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 237247,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
     },
     {
       "added_at": "2024-08-05 06:00:58",

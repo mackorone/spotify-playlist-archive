@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,090 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,123 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 64 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:52 |
 | 65 | [Are You Gonna Be My Girl \- Acoustic](https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Are You Gonna Be My Girl](https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa) | 3:57 |
 | 66 | [Take On Me \- MTV Unplugged / Edit](https://open.spotify.com/track/6UyPTgKXxsFeQExGml9x21) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(MTV Unplugged / Edit\)](https://open.spotify.com/album/2sMYviwwmjpVasUAMRBwDY) | 3:42 |
-| 67 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju) | 4:04 |
-| 68 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
-| 69 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
-| 70 | [Every Time I Look At You \- Live](https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5) | 4:43 |
+| 67 | [Every Time I Look At You \- Live](https://open.spotify.com/track/33D1kuSjM8e8rwHrzGeSkm) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/28R1dlvV3yiNktmnnYflK5) | 4:43 |
+| 68 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju) | 4:04 |
+| 69 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
+| 70 | [Basket Case \- 4\-track demo](https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary 4\-Track Demos\)](https://open.spotify.com/album/4AFF6Md43PaWKv5lSMAysd) | 3:07 |
 | 71 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 |
 | 72 | [Pra Dizer Adeus \- Trio Acústico](https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Pra Dizer Adeus \(Trio Acústico\)](https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g) | 3:44 |
 | 73 | [City Of Angels \- Piano Version](https://open.spotify.com/track/4Vw5pJUM43NKq1A4h2Ipcn) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [City Of Angels \(Piano Version\)](https://open.spotify.com/album/3kguk7orqedmPpva1hUBG0) | 4:22 |

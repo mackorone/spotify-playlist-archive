@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 3Li¥en
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,456 likes - 102 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,463 likes - 102 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [MINT](https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [MINT](https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3) | 2:21 |
 | 99 | [MVP \(feat\. Watson\)](https://open.spotify.com/track/77wQJsasG7MdCYqbgyTPXF) | [Lil Ash 懺悔](https://open.spotify.com/artist/5HyNuT1PVK3iFwukNreo0L), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [WE ARE 破天荒](https://open.spotify.com/album/5co5trdYqLTqeLLvHMiwzb) | 2:27 |
 | 100 | [SHOPPO](https://open.spotify.com/track/03qaZc3ZS6EgP10XbzoNCW) | [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe) | [SHOPPO](https://open.spotify.com/album/74WEJex7fZF72ADuzD7DDS) | 2:20 |
-| 101 | [Easy](https://open.spotify.com/track/4QAj2kwTjqOaVe5IETiOQ6) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0), [Namani](https://open.spotify.com/artist/4moFso0ODStHo16XOuWY2Q) | [Easy](https://open.spotify.com/album/5PzCF3OPzjVNznjMyFChrZ) | 2:52 |
+| 101 | [Easy](https://open.spotify.com/track/4QAj2kwTjqOaVe5IETiOQ6) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0), [Namani](https://open.spotify.com/artist/6AVWyEvyKJJwQjDHU8Eqaj) | [Easy](https://open.spotify.com/album/5PzCF3OPzjVNznjMyFChrZ) | 2:52 |
 | 102 | [Allright](https://open.spotify.com/track/4L9H1KQ1Up7debjuULAzq9) | [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [Allright](https://open.spotify.com/album/3fWxLYSeWEJNX2E7xbKaM5) | 3:05 |
 
 Snapshot ID: `AAAAAJuur29W2IWn2Eefuab9SVepynie`

@@ -2615,6 +2615,24 @@
     },
     {
       "album": {
+        "name": "B4",
+        "url": "https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199663,
+      "name": "Fat L7al",
+      "url": "https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe"
+    },
+    {
+      "album": {
         "name": "Faux D\u00e9part",
         "url": "https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM"
       },
@@ -3598,7 +3616,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 166000,
       "name": "Iori 7",
       "url": "https://open.spotify.com/track/1n4iEYY1DI5QUJ9FvaDAMf"

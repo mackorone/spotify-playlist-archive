@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Aden Foyer, Kakkmaddafakka, Ed Sheeran og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,007 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,005 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 69 | [never let u go](https://open.spotify.com/track/0Tb4fg5oV93tbgL9xa1spL) | [Sigurd K](https://open.spotify.com/artist/0MBbzVTmbulTv2yS7qfznw), [miint](https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp) | [never let u go](https://open.spotify.com/album/1zmFCBEU2J1zSnmjLvAN7w) | 3:28 |
 | 70 | [Salmer](https://open.spotify.com/track/0NEDudxcHo9hyBKacsHrrs) | [Petter Beyer](https://open.spotify.com/artist/5IkhRwKXNgNYkkahNLVoQW), [Angelo Reira](https://open.spotify.com/artist/108MBqDoWGVHCyUNfOj47O) | [Salmer](https://open.spotify.com/album/68EP9gEGJ5IJ9AGZ4CanD6) | 4:11 |
 | 71 | [announcements](https://open.spotify.com/track/3t3hSIPu9jCZ3Qy9m5x8Dz) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [announcements](https://open.spotify.com/album/1iT03F2biHT5gNT9rCw7Fs) | 2:21 |
-| 72 | [alle gode ting er 3](https://open.spotify.com/track/0yk4UmEP1X1hcawo30dl2C) | [Cely](https://open.spotify.com/artist/6nO9wNLqmQMnIl3EPi0k6E) | [alle gode ting er 3](https://open.spotify.com/album/6pM8dfMOkncPAUCpDNAhaB) | 2:40 |
+| 72 | [alle gode ting er 3](https://open.spotify.com/track/0yk4UmEP1X1hcawo30dl2C) | [Cely](https://open.spotify.com/artist/6nO9wNLqmQMnIl3EPi0k6E), [Malik](https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL) | [alle gode ting er 3](https://open.spotify.com/album/6pM8dfMOkncPAUCpDNAhaB) | 2:40 |
 | 73 | [Don't Keep Me Waiting](https://open.spotify.com/track/7vqIvKH6dx0umbtksaGzoT) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [Don't Keep Me Waiting](https://open.spotify.com/album/5yQUxgim3jlLnjN79RrHuB) | 3:24 |
 | 74 | [Mr\. Get Any Girl](https://open.spotify.com/track/4pK8pBWr3awox7BAbYuypa) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Mr\. Get Any Girl](https://open.spotify.com/album/7xaM3iqfLTn1wYgDxwAVSR) | 2:37 |
 | 75 | [I've Got A Broken Heart](https://open.spotify.com/track/38ifZytnEYRRwRfEx60hgk) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [I've Got A Broken Heart](https://open.spotify.com/album/3DztGBFFRznexpmi3CjUt6) | 2:49 |

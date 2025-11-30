@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-705 songs - 1 day 6 hr 35 min
+706 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |
 | [Better Days](https://open.spotify.com/track/7qvzaQrCeW6gFBbEVexCTE) | [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Better Days](https://open.spotify.com/album/3JMhEsWX8025f5kbpwHsHW) | 2:10 | 2025-04-11 |  |
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2023-08-22 | 2025-04-12 |
-| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-03-03 |  |
+| [Beyond Horizon](https://open.spotify.com/track/31QxE7ZHANgxYRV8crMsP6) | [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Beyond Horizon](https://open.spotify.com/album/7sFhglt5Ep3jpiKHKburpp) | 2:05 | 2025-03-03 | 2025-11-30 |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 | 2024-09-30 |
 | [Bir](https://open.spotify.com/track/5Pjre4zDNOBQ64KGVfwyI8) | [Yeet Bey](https://open.spotify.com/artist/7smg87ALnKGB5slipYH42t), [Evre](https://open.spotify.com/artist/0NbJ7PTiD6BLuBqsrIRKRi), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Bir](https://open.spotify.com/album/3rkniVn3KmJtmixUJiiR5G) | 2:22 | 2025-10-03 | 2025-10-06 |
 | [Birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 | 2024-10-06 |  |
@@ -434,6 +434,7 @@
 | [Omen](https://open.spotify.com/track/4O7ViZUUnynCDeIS1yCcE2) | [RuiijiKun](https://open.spotify.com/artist/34Kex8JSfMcDFqILq2vX0x) | [Omen](https://open.spotify.com/album/0zQQuUOZGdU4XKC7GXpJlB) | 2:49 | 2024-10-11 |  |
 | [On The Low](https://open.spotify.com/track/45Txf1MF1O0WW8XFteDKyL) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [On The Low](https://open.spotify.com/album/5qh2keQJ3HSF7wBe458fy8) | 1:48 | 2025-09-12 |  |
 | [On The Rocks](https://open.spotify.com/track/24vuwWVdXOLweulimpx3av) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [On The Rocks](https://open.spotify.com/album/00k08uXfYutyiEq05OuDKp) | 2:22 | 2025-10-17 |  |
+| [On The Way](https://open.spotify.com/track/2M48GvUNFAP0xadZClXX9w) | [Gaslamp](https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE) | [On The Way](https://open.spotify.com/album/2vlSAvglzklRLAz29bPHdv) | 2:42 | 2025-11-28 |  |
 | [One For The Mountains](https://open.spotify.com/track/0Oei18fUZ0H7M217qXJTsl) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [One For The Mountains](https://open.spotify.com/album/3X9q4pDrhUZg4lg7t6GIqn) | 2:32 | 2025-09-12 | 2025-09-27 |
 | [One Love](https://open.spotify.com/track/4NDvTJslNHE4eV1ve5H47k) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [One Love](https://open.spotify.com/album/4AaszY1EfqmBwC9A4WFMCP) | 2:15 | 2025-09-12 |  |
 | [One Step Ahead](https://open.spotify.com/track/3JEEEyro5VLuwgz1gV7P0e) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Schematics](https://open.spotify.com/album/228bJhLYXUokuq7eYEQDnf) | 1:48 | 2025-01-10 |  |

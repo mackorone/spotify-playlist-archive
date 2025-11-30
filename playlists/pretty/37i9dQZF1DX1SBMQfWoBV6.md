@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 
 > Light electronic movements for study, focus and flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,051 likes - 101 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,117 likes - 101 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SBMQfWoBV6.md) - [plain]
 | 100 | [Night Hammer](https://open.spotify.com/track/661gdtPwxBK9pYp3nulHoS) | [Hidden Rivers](https://open.spotify.com/artist/3hnXe9Zah3sqkO0XzAzebp) | [Golden Age of Dereliction](https://open.spotify.com/album/29gXtFxpaHQZIC3Ab13Q5s) | 5:24 |
 | 101 | [Song for her](https://open.spotify.com/track/0ezGSiP56OzbGTjLQPYqSg) | [Nacho Sotomayor](https://open.spotify.com/artist/4uRLIC5uQs3CzTq7jEcrzJ) | [Time out](https://open.spotify.com/album/0p60DWfZ8j58uv5XeSZaZn) | 4:48 |
 
-Snapshot ID: `AAAAAN1NYSShd/bU/gcKceKJk29/PWJc`
+Snapshot ID: `AAAAALu++q9nHDX0QyzfJhA6MhZefZRI`

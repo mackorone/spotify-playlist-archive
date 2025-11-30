@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Amanda Bergman, Ed Sheeran och Otto Knows med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,822 likes - 101 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,812 likes - 101 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 54 | [Anyone Else](https://open.spotify.com/track/6S3HW9FrOgPBGHoxhjlM5d) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [Anyone Else](https://open.spotify.com/album/7bKL77s7GN3ji7S5O1w7Ue) | 4:13 |
 | 55 | [Breaking Up Is Hard To Do](https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Breaking Up Is Hard To Do](https://open.spotify.com/album/6jhOWJ2x7JfrO8b9CQ20CU) | 4:25 |
 | 56 | [never let u go](https://open.spotify.com/track/0Tb4fg5oV93tbgL9xa1spL) | [Sigurd K](https://open.spotify.com/artist/0MBbzVTmbulTv2yS7qfznw), [miint](https://open.spotify.com/artist/5PKRj9m1a4XoPSNDmT2oJp) | [never let u go](https://open.spotify.com/album/1zmFCBEU2J1zSnmjLvAN7w) | 3:28 |
-| 57 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
+| 57 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
 | 58 | [COLORS](https://open.spotify.com/track/45dmhJngghAsnQxYSW0YaU) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [COLORS](https://open.spotify.com/album/5hyRuLuzA6cP4Ltzb7CjEH) | 3:46 |
 | 59 | [KOD](https://open.spotify.com/track/490dfoKXBgfjw15bMdczWm) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [KOD](https://open.spotify.com/album/52WMmOq3xT0uu3zxiFUr0p) | 2:41 |
 | 60 | [DBF](https://open.spotify.com/track/052oUmwK9lJ1KclTCYo6IN) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [DBF](https://open.spotify.com/album/7nV1Z1HH4w81B2zw06hHem) | 1:45 |

@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 7 | [Collide \- Radio Edit](https://open.spotify.com/track/3bxtgzAeAZPdRtKoPL5GG2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Collide \(Radio Edit\)](https://open.spotify.com/album/3GZwrOSPZpRGFlweFm2x7U) | 3:59 |
 | 8 | [Clay](https://open.spotify.com/track/0BPxCIs9XRWkireH3WzMQE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:36 |
 | 9 | [Good to Me](https://open.spotify.com/track/0kELHMzyLThrJN1ZJetQDB) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [After Dark](https://open.spotify.com/album/5nY7Z4vvGxGsnPWaiTQa5y) | 3:01 |
-| 10 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 |
-| 11 | [More to Lose](https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:35 |
+| 10 | [More to Lose](https://open.spotify.com/track/28RGHzCKNZEAWquYbZl3EI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 4:35 |
+| 11 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 |
 | 12 | [Christmas C’mon](https://open.spotify.com/track/60fWsdGYfKDNkNitrk1DIW) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 3:49 |
 | 13 | [Hello](https://open.spotify.com/track/7jO1boY6qwRjeu0EBtvDuu) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:57 |
 | 14 | [Light The Sky](https://open.spotify.com/track/6C3Q9rs5FsafL2VHNCCRqJ) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 99 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 100 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `AcC06AAAAADDbTEnaK6Jg6WPEfRU1GH0`
+Snapshot ID: `AcC6iAAAAACNhl/U7a7bckC77Hkevhm1`

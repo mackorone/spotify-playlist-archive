@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 443318,
+  "num_followers": 443427,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1747,30 +1747,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "2004",
-        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "2004",
-      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Jump Jump Jump",
         "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
       },
@@ -1791,6 +1767,30 @@
       "duration_ms": 159473,
       "name": "Jump Jump Jump",
       "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "2004",
+      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
     },
     {
       "added_at": "2025-06-26 22:00:24",

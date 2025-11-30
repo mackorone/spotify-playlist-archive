@@ -8,11 +8,11 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pesky Rain](https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U) | [Eleanor Hickey](https://open.spotify.com/artist/1onYQ6zhMsmt5yRvgwO4Rw) | [Pesky Rain](https://open.spotify.com/album/54yakR5tUjCAlLId0YzkDh) | 3:38 |
-| 2 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 |
-| 3 | [The Best](https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3) | [The Suite](https://open.spotify.com/artist/10TpQjTeNbKzhlms00tsK4) | [The Best](https://open.spotify.com/album/4OOKDqmZpVdAv8fPGwHzMV) | 2:18 |
-| 4 | [Endings](https://open.spotify.com/track/2gP83aXOSFQYTEIwWZ7tHT) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 2:53 |
-| 5 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 |
+| 1 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 |
+| 2 | [Endings](https://open.spotify.com/track/2gP83aXOSFQYTEIwWZ7tHT) | [Foreign Mornings](https://open.spotify.com/artist/5FpTfySze01OqeGdYET9Jm) | [Beginnings and Endings](https://open.spotify.com/album/7ouFqeYiBHWwPBb34BvZci) | 2:53 |
+| 3 | [Cowboy Blues](https://open.spotify.com/track/33AEU6iQTRP4RKjDSOIoSS) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 3:55 |
+| 4 | [Pesky Rain](https://open.spotify.com/track/6Q8jc9MeB97JUFyASh5o8U) | [Eleanor Hickey](https://open.spotify.com/artist/1onYQ6zhMsmt5yRvgwO4Rw) | [Pesky Rain](https://open.spotify.com/album/54yakR5tUjCAlLId0YzkDh) | 3:38 |
+| 5 | [The Best](https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3) | [The Suite](https://open.spotify.com/artist/10TpQjTeNbKzhlms00tsK4) | [The Best](https://open.spotify.com/album/4OOKDqmZpVdAv8fPGwHzMV) | 2:18 |
 | 6 | [November](https://open.spotify.com/track/6saWWilud85AtEAxOhEYKj) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [November](https://open.spotify.com/album/0WSEMdQ7LyZFXiDP38dmKL) | 3:42 |
 | 7 | [Venom](https://open.spotify.com/track/0YyzrNZkNhvko89UdtqUpM) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx) | [Venom](https://open.spotify.com/album/5WdKAIw4iLl4Q6ogryV1ZS) | 3:39 |
 | 8 | [Blue\-Boy's Dreams](https://open.spotify.com/track/5rfd1i6hcL43i5kV4sg5fQ) | [Clay Rings](https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp) | [Blue\-Boy's Dreams](https://open.spotify.com/album/6UVsgNAwJAedkBhGXWvEFA) | 4:55 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 108 | [Better Believe It](https://open.spotify.com/track/1lqjPIXelaXfIrdBp7STJ2) | [Deltamanic](https://open.spotify.com/artist/38Z9P9syEIsPB70vvJ1otB) | [Better Believe It](https://open.spotify.com/album/0LPbVatZzqqPtCCCqiDz7p) | 3:51 |
 | 109 | [Half Life](https://open.spotify.com/track/2Y6or9DSLWcgZH4OjsIG4u) | [The Great Pleasure](https://open.spotify.com/artist/4rtT6yqwmkxRfG366YZjUU) | [Half Life](https://open.spotify.com/album/3JDd6ZWfo8AepAJVIFu92F) | 5:00 |
 
-Snapshot ID: `AABpVPoGhqb6GGpWva/3dzRRjxKYtVEl`
+Snapshot ID: `AABpWJh8fCsGGf/yuY1uuTMfQhGd39w9`

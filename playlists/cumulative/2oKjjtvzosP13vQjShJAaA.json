@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 168837,
       "name": "2003 Dipset Anthem",
       "url": "https://open.spotify.com/track/70fyK58RMQ0kGjQ55g39xB"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 191749,
       "name": "Anton Saefkow Park",
       "url": "https://open.spotify.com/track/1I596sYIkByUU3gONbzA9Y"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 130161,
       "name": "Er wurde vergraben",
       "url": "https://open.spotify.com/track/7uu9gynTXt3vZlClgtD2Ik"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 122266,
       "name": "From The Bottom",
       "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 189061,
       "name": "Get Yo Boy (with 21 Savage)",
       "url": "https://open.spotify.com/track/2mKsRrqHecZwd3s0IJUCQG"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 91216,
       "name": "Gladio",
       "url": "https://open.spotify.com/track/0A97dSag2IWaTkYI6KvIzX"
@@ -1386,6 +1386,28 @@
       "duration_ms": 140473,
       "name": "I <3 NRW",
       "url": "https://open.spotify.com/track/4HmcbZiStgg8EN3FLEie4o"
+    },
+    {
+      "album": {
+        "name": "Ich bin raus - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0cfD0rVcw4OEEtQE3wIfLV"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153280,
+      "name": "Ich bin raus - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ZdoPWiIJegSQoS1cpmU9c"
     },
     {
       "album": {
@@ -2068,7 +2090,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 120000,
       "name": "Marmor",
       "url": "https://open.spotify.com/track/1LsRgMIU7YK1UAnZwdM4wK"
@@ -2134,6 +2156,28 @@
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
+    },
+    {
+      "album": {
+        "name": "NaketanoXHollister",
+        "url": "https://open.spotify.com/album/4V2w0O0z8HI37v1P1SjqHF"
+      },
+      "artists": [
+        {
+          "name": "helmuth",
+          "url": "https://open.spotify.com/artist/4HIT0I8KzbTN5TuUcV60GG"
+        },
+        {
+          "name": "MiasZK",
+          "url": "https://open.spotify.com/artist/2uVoetcWpbtiYo9eVX6Deq"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108291,
+      "name": "NaketanoXHollister",
+      "url": "https://open.spotify.com/track/1RiKvteVR77tJgW885pSq3"
     },
     {
       "album": {
@@ -2382,7 +2426,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 118356,
       "name": "PEPPER",
       "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
@@ -2569,6 +2613,50 @@
     },
     {
       "album": {
+        "name": "Richtiger Mann",
+        "url": "https://open.spotify.com/album/2ddDbfyTzJ73kl4mwycO3A"
+      },
+      "artists": [
+        {
+          "name": "Drama Kuba",
+          "url": "https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG"
+        },
+        {
+          "name": "Lugatti",
+          "url": "https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg"
+        },
+        {
+          "name": "Traya",
+          "url": "https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185407,
+      "name": "Richtiger Mann",
+      "url": "https://open.spotify.com/track/3aI76v0H7RjbshQgalSdjo"
+    },
+    {
+      "album": {
+        "name": "Ruhrab",
+        "url": "https://open.spotify.com/album/3VltTcJEdmSPEs2SNXPctP"
+      },
+      "artists": [
+        {
+          "name": "257ers",
+          "url": "https://open.spotify.com/artist/6ihLfpY3cmdGyWEnItn30w"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145650,
+      "name": "Ruhrab",
+      "url": "https://open.spotify.com/track/67IluoLWfkGufa9i4AyGWv"
+    },
+    {
+      "album": {
         "name": "Cabin In The Sky",
         "url": "https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA"
       },
@@ -2584,7 +2672,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 210734,
       "name": "Run It Back!!",
       "url": "https://open.spotify.com/track/3YB9aijWreezTUgRzQhwrZ"
@@ -3009,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "LAAS MAN STANDING II",
+        "url": "https://open.spotify.com/album/7cfTtTDdSWq7JQQ6FopkKD"
+      },
+      "artists": [
+        {
+          "name": "LAAS",
+          "url": "https://open.spotify.com/artist/5ZDBkifba6O2TRqyzxGuoq"
+        },
+        {
+          "name": "Richard Milli",
+          "url": "https://open.spotify.com/artist/3wsQdjHPiS9qom68YR0o96"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234503,
+      "name": "TEUFELCHEN",
+      "url": "https://open.spotify.com/track/7x85BuJX7oEicedMh8FxNG"
+    },
+    {
+      "album": {
         "name": "I Heard It's A Mess There Too",
         "url": "https://open.spotify.com/album/0FUznat4Kw5r3i8trH7ds5"
       },
@@ -3020,7 +3130,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 242826,
       "name": "The Cut",
       "url": "https://open.spotify.com/track/44ACu7NPh5isbigVatBceV"
@@ -3067,6 +3177,28 @@
     },
     {
       "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211366,
+      "name": "Typewriter (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj"
+    },
+    {
+      "album": {
         "name": "u aint gotta chance",
         "url": "https://open.spotify.com/album/5YIUemQJKAUs78xxhtYWdq"
       },
@@ -3104,6 +3236,32 @@
       "duration_ms": 126496,
       "name": "Update",
       "url": "https://open.spotify.com/track/4Nhv3fj4sOya9pQ9qaUo9y"
+    },
+    {
+      "album": {
+        "name": "Vanilla sky",
+        "url": "https://open.spotify.com/album/18ZrXWtsCAvwIR6N6TRaD8"
+      },
+      "artists": [
+        {
+          "name": "PATINA RECORDS",
+          "url": "https://open.spotify.com/artist/5QOw8cB4JNLNK36M6X5KAh"
+        },
+        {
+          "name": "Isi I",
+          "url": "https://open.spotify.com/artist/79AhxtltVJRiqLpkfBNz5b"
+        },
+        {
+          "name": "Tarri.Ferrari",
+          "url": "https://open.spotify.com/artist/3h2NpDLCHg6xjOqQsEtehM"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "Vanilla sky",
+      "url": "https://open.spotify.com/track/4cO4A1e13iMsS0wfGp3Qo0"
     },
     {
       "album": {
@@ -3176,7 +3334,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 136564,
       "name": "Weinst du",
       "url": "https://open.spotify.com/track/2jkunFyVP3mJvfKMs2X5oQ"

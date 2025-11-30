@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37099,
+  "num_followers": 37100,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAADxm4Tk2nZp0os51nhOGRYZ",
+  "snapshot_id": "aSjmAAAAAACZddEFfuhP8BTGS2J6DpBa",
   "tracks": [
     {
       "added_at": null,
@@ -183,6 +183,26 @@
       "duration_ms": 385960,
       "name": "No! No! Se\u00f1or (with Brenda Fassie)",
       "url": "https://open.spotify.com/track/7eQy42EeaBFWuN1nnZk8mA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuli Ndlela",
+        "url": "https://open.spotify.com/album/0PoVjEm9WTgOXjlUE0wMrA"
+      },
+      "artists": [
+        {
+          "name": "MIRO",
+          "url": "https://open.spotify.com/artist/5g1ur5g9ACTQ0BGZKioztO"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Vuli Ndlela",
+      "url": "https://open.spotify.com/track/5I4rknDPn9lYRACi80RbbQ"
     },
     {
       "added_at": null,
@@ -515,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -543,6 +547,22 @@
       "duration_ms": 321253,
       "name": "Ponci Ponci (Pontjie Pontjie)",
       "url": "https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,
@@ -587,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -615,6 +619,22 @@
       "duration_ms": 355066,
       "name": "Ntsware - Ndibambe",
       "url": "https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG"
     },
     {
       "added_at": null,
@@ -807,26 +827,6 @@
       "duration_ms": 240640,
       "name": "Zola Budd",
       "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hamba Sathane",
-        "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        },
-        {
-          "name": "Pure Gold",
-          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Elakho Likhona (La Hao Le Teng)",
-      "url": "https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

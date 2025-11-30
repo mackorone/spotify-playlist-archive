@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164893,
+      "name": "Be a Hero",
+      "url": "https://open.spotify.com/track/7F7VfH62AAnegriuC8jG1j"
+    },
+    {
+      "album": {
         "name": "Believe - A Bridge to you - ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/42f32ey4GbC3OI1m3ZwPFn"
       },
@@ -342,7 +360,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 81666,
       "name": "From Me to You",
       "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
@@ -2582,7 +2600,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 190240,
       "name": "\u5f37\u304f\u306a\u308c",
       "url": "https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 141160,
       "name": "\u8105\u8feb(\u3057\u3093\u3089\u3044)",
       "url": "https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j"

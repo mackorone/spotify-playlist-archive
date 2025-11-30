@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,399 likes - 100 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,563 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 76 | [Attention Caller](https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Hyper Focus](https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am) | 3:23 |
 | 77 | [Deep Meditation](https://open.spotify.com/track/0vMGRC7yBCCt6MRgN79Wa0) | [Savasana](https://open.spotify.com/artist/071HcfBGJsWCrggabfaC5D) | [Mindfulness and Relaxation](https://open.spotify.com/album/2N2hHr7r3EYQ6UGxJtIHwU) | 2:09 |
 | 78 | [Inner Calmness](https://open.spotify.com/track/2TFig1plWWZlWuDSM639SK) | [Arijit Ghoshal](https://open.spotify.com/artist/0pEb6D4xs90JTZIYe8QT86) | [Relaxation and Meditation in Bollywood](https://open.spotify.com/album/3WHIiM2LNNdUsrY7mLyknm) | 6:46 |
-| 79 | [Beauty of Hope](https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV) | [José Ramos](https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz) | [Beauty of Hope](https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D) | 2:40 |
-| 80 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
+| 79 | [A River Flowing](https://open.spotify.com/track/42SZG3lV6JGK5ig1YUE3ms) | [Sambodhi Prem](https://open.spotify.com/artist/2OHwMvww7MChSFAdaQOXUP) | [Samadhi](https://open.spotify.com/album/1ht80lB2Nbc3SjpKOSIi91) | 5:48 |
+| 80 | [Beauty of Hope](https://open.spotify.com/track/2FEewP7EII83tgFLNp6BuV) | [José Ramos](https://open.spotify.com/artist/2vdWaHPPPyxF2y41Pv6xEz) | [Beauty of Hope](https://open.spotify.com/album/3auSnGJcfyEVYm8U60Ch7D) | 2:40 |
 | 81 | [Swasa](https://open.spotify.com/track/5W8G3QUUFXMhe1RpYR40ms) | [All For Soul](https://open.spotify.com/artist/5HdX7qBCsiTrzfHZdsW9kM), [Varun Rao](https://open.spotify.com/artist/2hybncPpUQFPqcSK3ePny9) | [Trinity](https://open.spotify.com/album/4ugL0TPWzwDwjDbFFtPCGo) | 5:30 |
 | 82 | [Savasana Yoga](https://open.spotify.com/track/30U8kxFDv8QL8fHKBoImSq) | [Kundalini Yoga Group](https://open.spotify.com/artist/4L2nirlX7Znfz3XXxapKoV) | [Surya Namaskar Yoga – Sun Salutation, Daily Hatha Yoga Positions for Flexibility, Inner Harmony, Self Realization, Restorative Exercises](https://open.spotify.com/album/35ttLwLhafRkRqUs3NdcKu) | 3:35 |
 | 83 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |

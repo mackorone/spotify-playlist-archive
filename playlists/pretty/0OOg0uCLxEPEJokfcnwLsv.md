@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 450 likes - 96 songs - 5 hr 49 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 452 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 94 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 |
 | 95 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 |
 | 96 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 |
+| 97 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 |
+| 98 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 |
+| 99 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 |
 
-Snapshot ID: `AAAD/i92sH2ErzNrmmISDsJQNUP6i/ju`
+Snapshot ID: `AAAEAdot1XSA8t0VAX0wZ/BgeU0rwPiD`

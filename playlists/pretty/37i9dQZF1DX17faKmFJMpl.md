@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,211 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,217 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 82 | [The Movement II](https://open.spotify.com/track/3ilwG9iYGH9HecRrT4LgYc) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 4:46 |
 | 83 | [Interlude \(feat\. Mad Clown\)](https://open.spotify.com/track/7pLOLSicKZhYp0OFXX1aiN) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 1:24 |
 | 84 | [공식](https://open.spotify.com/track/2mPFyCcfRj3Iil9DlpaL6p) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:14 |
-| 85 | [We Ain't Fuck Ed Up](https://open.spotify.com/track/2uVxOp8PkpuVQYEcVTEb6h) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 1:50 |
+| 85 | [개키워 \- 2010 New Version](https://open.spotify.com/track/6DFdngMMwXceco2zCFbDcT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [개키워](https://open.spotify.com/album/48lOer0PzEy0zOcSIZoBUH) | 4:21 |
 | 86 | [History In The Making \- 2021 Remaster](https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:42 |
 | 87 | [BAAAM](https://open.spotify.com/track/32raq5fE3JqPn7HqZ6rgsk) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [Luckynumbers](https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj) | 3:40 |
 | 88 | [뭐 \(feat\. Notorious Kid, Friz & Pumkin\)](https://open.spotify.com/track/3qgm6blx9hXtZZysC9Yrbm) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Notorious Kid](https://open.spotify.com/artist/34jRpqNgQ6oIRmWSRTYjbF), [Friz](https://open.spotify.com/artist/4PuEvEs294YAZWIbWojzDo), [Pumkin](https://open.spotify.com/artist/4Kk6ZkqWkDHVywRCtX20XD) | [Q Train \(Remaster\)](https://open.spotify.com/album/1Q2x9xDLgELzf08FiUwGoX) | 3:38 |
 | 89 | [Die Legend \(feat.Double K, DOK2\)](https://open.spotify.com/track/6xhSsoBa28s72GbpBi49qJ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Sky Is The Limit](https://open.spotify.com/album/7BfP9AvrYxSmxrXUpLxmMm) | 3:44 |
-| 90 | [개키워 \- 2010 New Version](https://open.spotify.com/track/6DFdngMMwXceco2zCFbDcT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [개키워](https://open.spotify.com/album/48lOer0PzEy0zOcSIZoBUH) | 4:21 |
+| 90 | [We Ain't Fuck Ed Up](https://open.spotify.com/track/2uVxOp8PkpuVQYEcVTEb6h) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [but I 드려](https://open.spotify.com/album/6Njcrw6Eg86sM7cDdX7xGO) | 1:50 |
 | 91 | [Drama \- 2021 Remaster](https://open.spotify.com/track/6bofFcTR5GBWTx8KszhDGB) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:59 |
 | 92 | [Three Dopeboyz](https://open.spotify.com/track/6TWlfF0NDu8fJoBIgZCr0w) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Luckynumbers](https://open.spotify.com/album/0N8zvUXI9292Lm0rqx8Sbj) | 4:14 |
 | 93 | [뿌리깊은 나무](https://open.spotify.com/track/2W7KlM3CkB65v2P5pBwkqh) | [Garion](https://open.spotify.com/artist/36SV3bDEXPh4BdEAkXIlFp) | [Garion 가리온](https://open.spotify.com/album/0NAGKYjre0MgNYdUtcBuDp) | 5:31 |

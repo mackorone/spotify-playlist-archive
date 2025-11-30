@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Tedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,222 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,234 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 68 | [Pretty Colours \(feat\. Huck Hastings\)](https://open.spotify.com/track/5x1NdooneyvjEM05lPvtT7) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Huck Hastings](https://open.spotify.com/artist/3jn7GGpScmJrhkKZd9gzsn) | [Better With Friends \- Vol\. 1](https://open.spotify.com/album/4NBPVo68ogvy6Vh48F4xRS) | 3:30 |
 | 69 | [Catching The Next Train](https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b) | [Beth McKenzie](https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq) | [Does This Make Me A Bitter Woman? \(Deluxe\)](https://open.spotify.com/album/67aB0zwPzsAreTkdTZjarY) | 2:12 |
 | 70 | [One Light Year](https://open.spotify.com/track/0euSxoNJdLNar1Mw9UUhex) | [claire my flair](https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ) | [One Light Year](https://open.spotify.com/album/4ezTMTgjgpN1h2NGtI7G6J) | 4:55 |
-| 71 | [The Deverills](https://open.spotify.com/track/6jd8CqKkzZ8CSJeWb8X9hb) | [TYGERMYLK](https://open.spotify.com/artist/2Mz1PQnanSTGMp5lYkNY94), [Laura Reznek](https://open.spotify.com/artist/04nT28h1eTiq4zIw7iOFSz) | [The Deverills](https://open.spotify.com/album/3chVglZql6GJQQoX71nWmI) | 4:16 |
+| 71 | [The Deverills](https://open.spotify.com/track/6jd8CqKkzZ8CSJeWb8X9hb) | [Tygermylk](https://open.spotify.com/artist/2Mz1PQnanSTGMp5lYkNY94), [Laura Reznek](https://open.spotify.com/artist/04nT28h1eTiq4zIw7iOFSz) | [The Deverills](https://open.spotify.com/album/3chVglZql6GJQQoX71nWmI) | 4:16 |
 | 72 | [HEARTLAND](https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND](https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh) | 4:04 |
 | 73 | [Bound2U](https://open.spotify.com/track/6bbPy1a4OcUYUL3xG421Yx) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Bound2U](https://open.spotify.com/album/75Jd6iGXO020tOtMXANkdY) | 2:56 |
 | 74 | [Handsome](https://open.spotify.com/track/2GIddrm2ihwIyNIXTbGL3B) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Handsome](https://open.spotify.com/album/75L3Tq36JRPGF4z86UhVUw) | 3:45 |

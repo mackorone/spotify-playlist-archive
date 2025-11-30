@@ -4,11 +4,12 @@
 
 > This is Black Alien\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 51 min
+65 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1972 \(Intro\)](https://open.spotify.com/track/3qh1kOwaAbSswJVgNlXaHP) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 1:07 | 2023-09-18 | 2025-08-07 |
+| [Al Pacino](https://open.spotify.com/track/0H0aeVyR03eklDoOX7wiWx) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Shawlin](https://open.spotify.com/artist/21ebZl1YQNDiLcWYhgecph), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [C.O.N.E \(Caminhando Onde Ninguém Enxerga\)](https://open.spotify.com/album/31ygMemgMdsW4I7HmxzoaG) | 3:12 | 2025-11-30 |  |
 | [Aniversário de Sobriedade](https://open.spotify.com/track/4XYnFH7w6ow89VnSPAN0oU) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 2:44 | 2025-11-27 |  |
 | [Aniversário de Sobriedade](https://open.spotify.com/track/786H6CRL3H5WNPnkqTfnNX) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:44 | 2023-09-18 | 2025-11-27 |
 | [Au Revoir](https://open.spotify.com/track/1eMNrjIj4yzV2YoJqARMOq) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/3EkoAOu4rkLf0VvZBNTVhH) | 3:27 | 2025-11-27 |  |

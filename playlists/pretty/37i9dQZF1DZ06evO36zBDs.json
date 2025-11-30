@@ -1,12 +1,12 @@
 {
   "description": "This is ClariS. The essential tracks, all in one playlist.",
-  "num_followers": 20139,
+  "num_followers": 20145,
   "original_name": "This Is ClariS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABr9cGqnbed0JR3QITFStfT",
+  "snapshot_id": "aSjmAAAAAACc9+Wmo8YCcRPygSnXw7QW",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Canvas",
-        "url": "https://open.spotify.com/album/7GS0RipKu1bMAMMul4Q9mY"
-      },
-      "artists": [
-        {
-          "name": "ClariS",
-          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        }
-      ],
-      "duration_ms": 227025,
-      "name": "Blue Canvas",
-      "url": "https://open.spotify.com/track/1tFRgAu3lDcldqS6Xx5WQj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fairy Castle(Deluxe Edition\uff09",
-        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+        "name": "Blue Canvas",
+        "url": "https://open.spotify.com/album/7GS0RipKu1bMAMMul4Q9mY"
       },
       "artists": [
         {
@@ -516,9 +500,29 @@
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
         }
       ],
-      "duration_ms": 313453,
-      "name": "\u3072\u3089\u3072\u3089\u3000\u3072\u3089\u3089",
-      "url": "https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv"
+      "duration_ms": 227025,
+      "name": "Blue Canvas",
+      "url": "https://open.spotify.com/track/1tFRgAu3lDcldqS6Xx5WQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fairy Castle(Deluxe Edition\uff09",
+        "url": "https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        },
+        {
+          "name": "GARNiDELiA",
+          "url": "https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "clever",
+      "url": "https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H"
     },
     {
       "added_at": null,
@@ -578,15 +582,11 @@
         {
           "name": "ClariS",
           "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
-        },
-        {
-          "name": "GARNiDELiA",
-          "url": "https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6"
         }
       ],
-      "duration_ms": 259906,
-      "name": "clever",
-      "url": "https://open.spotify.com/track/7qNnUhpCnFBjOM37bysD0H"
+      "duration_ms": 313453,
+      "name": "\u3072\u3089\u3072\u3089\u3000\u3072\u3089\u3089",
+      "url": "https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv"
     },
     {
       "added_at": null,

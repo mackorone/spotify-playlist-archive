@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,995 likes - 80 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,000 likes - 80 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 45 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 |
 | 46 | [Chipek](https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI) | [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Juan Carlos Montiel Rangel](https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2) | [De La Selva](https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li) | 4:00 |
 | 47 | [Donde Estas?](https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [Donde Estas?](https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j) | 2:04 |
-| 48 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 |
-| 49 | [Wait 4 Me](https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Wait 4 Me](https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf) | 1:56 |
-| 50 | [Frío](https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Frío](https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I) | 2:14 |
-| 51 | [Cempasuchil](https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 2:29 |
+| 48 | [Wait 4 Me](https://open.spotify.com/track/5ecWbl0CpnRafOwDL4DnHO) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Wait 4 Me](https://open.spotify.com/album/4NYbuxgVV6eVf8BMjg1Zzf) | 1:56 |
+| 49 | [Viendo el mundial con papá](https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Viendo el mundial con papá](https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW) | 2:09 |
+| 50 | [Cempasuchil](https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 2:29 |
+| 51 | [Frío](https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Frío](https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I) | 2:14 |
 | 52 | [soltarte \(instrumental\)](https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT) | [soltarte \(instrumental\)](https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9) | 2:56 |
 | 53 | [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 |
 | 54 | [Landscaper](https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Landscape Ride](https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA) | 2:27 |

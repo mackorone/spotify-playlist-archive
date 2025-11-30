@@ -193,6 +193,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5eHOg8lu6wWtw0AesvjvEC"
+      },
+      "artists": [
+        {
+          "name": "shayokee",
+          "url": "https://open.spotify.com/artist/0kMLW7oKYsEG05koMjRjxr"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77538,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0nqhYDXn5YS49hLwROZv5R"
+    },
+    {
+      "album": {
         "name": "Altercations",
         "url": "https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA"
       },
@@ -320,7 +338,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 192360,
       "name": "As If It's Your Last",
       "url": "https://open.spotify.com/track/2DhT2B5reB0rUQNzzoTtTH"
@@ -428,7 +446,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 178064,
       "name": "Back in love - Radio Edit",
       "url": "https://open.spotify.com/track/5KjJq33ZBdblaN4EPMJfCl"
@@ -468,7 +486,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 233777,
       "name": "Bad 4 Me",
       "url": "https://open.spotify.com/track/2AN9YbBUG6pQOTa4qVP7By"
@@ -586,7 +604,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 183799,
       "name": "Ben Unutuldum",
       "url": "https://open.spotify.com/track/1W7ePQYXrEWoKHol2lub7k"
@@ -856,7 +874,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 263759,
       "name": "Broken (Psalm 13)",
       "url": "https://open.spotify.com/track/6qSJZGM4tZaA6Wib4ci1Wq"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 185119,
       "name": "Fortress (Psalm 46)",
       "url": "https://open.spotify.com/track/4awzeNhX4Mq2q1ctbGdSx6"
@@ -2688,6 +2706,24 @@
       "duration_ms": 180416,
       "name": "Future Ghsts (Core)",
       "url": "https://open.spotify.com/track/0tp8m4z8eheQxgtPaD30Ek"
+    },
+    {
+      "album": {
+        "name": "Gates",
+        "url": "https://open.spotify.com/album/2bxORvnUCttkoXZiE6PyU8"
+      },
+      "artists": [
+        {
+          "name": "Pauliine",
+          "url": "https://open.spotify.com/artist/04N8cASmLnVsDET3sX4Pf9"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147483,
+      "name": "Gates",
+      "url": "https://open.spotify.com/track/3hl9sjsgtkLr7hb24eTt1G"
     },
     {
       "album": {
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 201360,
       "name": "Higher",
       "url": "https://open.spotify.com/track/64dYuxzSnuRTX25LX1aC2e"
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 144441,
       "name": "Higher Vibration",
       "url": "https://open.spotify.com/track/05aYqGC8NNxr4jiHbQXLG3"
@@ -3532,7 +3568,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 229285,
       "name": "In This Light",
       "url": "https://open.spotify.com/track/33RX6DlgVuk0T2SlCdNfWZ"
@@ -3568,7 +3604,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 165175,
       "name": "Intergalactic Romance",
       "url": "https://open.spotify.com/track/5xiUggFJ7oapXq8AiN9JW4"
@@ -3644,7 +3680,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 218443,
       "name": "Is This All?",
       "url": "https://open.spotify.com/track/40WHt75PDTsyT9bPsYIw3H"
@@ -3928,7 +3964,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 190440,
       "name": "let go again - Acoustic",
       "url": "https://open.spotify.com/track/62vO3nFcfF1780DtOgUgme"
@@ -4180,7 +4216,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 272080,
       "name": "Longing (Psalm 42)",
       "url": "https://open.spotify.com/track/0zq8DyDUDe03D0J6tCmmJp"
@@ -4758,7 +4794,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 225572,
       "name": "Mother",
       "url": "https://open.spotify.com/track/1UEDedcftmCpsIf6SD1yGX"
@@ -5206,7 +5242,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 175279,
       "name": "Not Over",
       "url": "https://open.spotify.com/track/0LY8zWbD2atqocYBzcdhuS"
@@ -5376,7 +5412,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 236444,
       "name": "Old Age",
       "url": "https://open.spotify.com/track/7mr020BsS8ucWUoyn1EqM3"
@@ -6050,7 +6086,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 154017,
       "name": "Relationship Killer",
       "url": "https://open.spotify.com/track/7HvUQyy0tYXwkON5JeFuDT"
@@ -6306,7 +6342,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 232226,
       "name": "Sat\u00e9n",
       "url": "https://open.spotify.com/track/3HOmciBEgB0HntdwvlgHoL"
@@ -6793,6 +6829,24 @@
     },
     {
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/0kDt3V6IBbZC6oNQcUu8lL"
+      },
+      "artists": [
+        {
+          "name": "Will Crawte",
+          "url": "https://open.spotify.com/artist/6TijEACRyTa4P5PJAUT62l"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189439,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/471Qi8dNtiUjuxcM7U1XCy"
+    },
+    {
+      "album": {
         "name": "Somewhere Unknown",
         "url": "https://open.spotify.com/album/7nGLkpkRmwx9g39hngKcR9"
       },
@@ -6894,7 +6948,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 106997,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0w4OXkc2PmACBEMP9EUmAY"
@@ -7054,6 +7108,24 @@
       "duration_ms": 148235,
       "name": "Summer",
       "url": "https://open.spotify.com/track/1c68zNuE2Y3A7OOwOHui01"
+    },
+    {
+      "album": {
+        "name": "Sun and the Silver Moon",
+        "url": "https://open.spotify.com/album/00zHOvVcT219EEcIGA43Kv"
+      },
+      "artists": [
+        {
+          "name": "Cam Pierce",
+          "url": "https://open.spotify.com/artist/6YLHrUVXpMquZetlXebWWR"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "Sun and the Silver Moon",
+      "url": "https://open.spotify.com/track/6d0vpvZL2xxvdqCmOz7kvU"
     },
     {
       "album": {
@@ -7738,7 +7810,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 268265,
       "name": "Tiktok Rythm",
       "url": "https://open.spotify.com/track/4BAA6UtOFadQqXuo2O8KkI"
@@ -8138,7 +8210,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 192714,
       "name": "Waist",
       "url": "https://open.spotify.com/track/6gWYJb9O9SPaAgrW8kZtCt"
@@ -8228,7 +8300,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 181752,
       "name": "Welcome To The Quiet",
       "url": "https://open.spotify.com/track/00z09bRtl3Rd8QwSPDfGcX"
@@ -8394,6 +8466,24 @@
       "duration_ms": 183358,
       "name": "While Im Here",
       "url": "https://open.spotify.com/track/7xEfnGNB560b8OEL6VCHj2"
+    },
+    {
+      "album": {
+        "name": "Whips & Champagne",
+        "url": "https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv"
+      },
+      "artists": [
+        {
+          "name": "St Oshun",
+          "url": "https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217758,
+      "name": "Whips & Champagne",
+      "url": "https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW"
     },
     {
       "album": {
@@ -8686,7 +8776,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 185519,
       "name": "You Messed Up",
       "url": "https://open.spotify.com/track/2qxbs5tHWeAQwBDOlcxxRj"
@@ -8704,7 +8794,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 208002,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0eeVeWfoy34vDgMxNeJeNR"
@@ -8740,7 +8830,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 185311,
       "name": "Your Final Seconds",
       "url": "https://open.spotify.com/track/3vMibAO0TwbJ8ojk5QHYa2"

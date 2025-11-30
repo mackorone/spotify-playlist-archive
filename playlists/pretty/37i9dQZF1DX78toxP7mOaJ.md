@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: bloodsports
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,980 likes - 153 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,992 likes - 153 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

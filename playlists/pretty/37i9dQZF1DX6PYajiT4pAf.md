@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Marta Santos, Romeo Santos & Prince Royce, Lucho RK x La Pantera, Walls & Dani Fernández, La La Love You y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,972 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,012 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 30 | [Confesarte](https://open.spotify.com/track/5htC6JNiTYedEhASRGaCYh) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Confesarte](https://open.spotify.com/album/1WTqtch9anx2RYZR9AqyJ7) | 3:12 |
 | 31 | [7 Dias](https://open.spotify.com/track/4399pdqfywDAeHJ2YKv4ja) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [7 Dias](https://open.spotify.com/album/1IAgMjZ6sm4k1W9Pcab4eR) | 2:42 |
 | 32 | [La codicia y capital de las fuerzas extranjeras](https://open.spotify.com/track/0n8YStBV1UtqtOjlg5tDqV) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [La Codicia y Capital de las Fuerzas Extranjeras](https://open.spotify.com/album/2SKRvD3REmM19sV17VeL9k) | 4:09 |
-| 33 | [Octubre](https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Serenata en mi mayor para un amor y un atardecer](https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz) | 3:20 |
+| 33 | [Octubre](https://open.spotify.com/track/4kLAZlFWkpbWhPPGoNThR0) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Serenata en Mi Mayor para un amor y un atardecer](https://open.spotify.com/album/2scCX7YJUmTF1ggmtm9sAz) | 3:20 |
 | 34 | [Cenizienta](https://open.spotify.com/track/6gCgV81Yoq9Iwt3GdEjVJg) | [Arce](https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Cenizienta](https://open.spotify.com/album/5k7BGC3YZRMQEwTXlb21k6) | 2:29 |
 | 35 | [El pollo que no nació de un huevo](https://open.spotify.com/track/2wjbkdKnE1hpNQQMnwHIZh) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [El pollo que no nació de un huevo](https://open.spotify.com/album/0MP2yH5zYuqMTTenLvbdQ5) | 2:24 |
 | 36 | [Oxidado](https://open.spotify.com/track/6oJtgQhNj9Zt6wiyfezujE) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Oxidado](https://open.spotify.com/album/3PCbMfMu6Agwj0FQOEPrtr) | 4:23 |

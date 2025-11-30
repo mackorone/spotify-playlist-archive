@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,384 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,397 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 45 | [冥想](https://open.spotify.com/track/7zpGF0mHjjs7r0CUmT1yhm) | [Ami Ozaki](https://open.spotify.com/artist/0BPn2k0BoBN6XceavMVCTj) | [SHADY（シェイディ）](https://open.spotify.com/album/5nmYJKydQYpjmgu1YCJkmn) | 4:08 |
 | 46 | [Gardenia](https://open.spotify.com/track/6mWffFIkSHEJaJNSSFlvMR) | [Kazuhiko Kato](https://open.spotify.com/artist/2lNBXVmLH56C2x0Nj4NSzC) | [ガーディニア](https://open.spotify.com/album/3DbzmSYvnSrbCwsdThZ9d9) | 4:29 |
 | 47 | [心のままに](https://open.spotify.com/track/5X0xhUWh5d1LltgEPnGl1I) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/2TAs79aEFZQpGxYwpF7yAo) | 3:49 |
-| 48 | [YOU GOT THE MUSIC](https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [THRILL\[Remaster\]](https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A) | 4:32 |
-| 49 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 48 | [ミスティー・レディー](https://open.spotify.com/track/1olfil66HveMe3Bt4iTW1J) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [Memorial Rain](https://open.spotify.com/album/3HlqiB8wBWjxaqNDqZv9oW) | 4:24 |
+| 49 | [YOU GOT THE MUSIC](https://open.spotify.com/track/4QUEaU4FicWIwmbTK6P1X5) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [THRILL\[Remaster\]](https://open.spotify.com/album/0XzepsIs71Hzyu2FPgvp7A) | 4:32 |
 | 50 | [サマープレイスサマーラヴ](https://open.spotify.com/track/09tmSzM2ugauLzrtJV2ueP) | [Yuko Kanai](https://open.spotify.com/artist/6VdzbVLd8ck1HPPpBBMvo0) | [invitation](https://open.spotify.com/album/2Vfm8k2ciRjGKpR8Q5T0Bb) | 4:37 |
 
 Snapshot ID: `AAAAAASjYTnlCF1sZCr4wY2jTOJlB52T`

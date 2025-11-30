@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12307,
+  "num_followers": 12308,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAAB+BAYF0JRS6AcTnvnTFoR+",
+  "snapshot_id": "aSjmAAAAAABHlJqDixWAWqyEV0oGeC1V",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 168691,
+      "name": "Stayed On You - Live In LA",
+      "url": "https://open.spotify.com/track/4o0NZqA1ZTWZv11LUuzCXN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 372760,
       "name": "Chasing Me Down (feat. Tye Tribbett)",
       "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 168691,
-      "name": "Stayed On You - Live In LA",
-      "url": "https://open.spotify.com/track/4o0NZqA1ZTWZv11LUuzCXN"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyhow",
-        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Anyhow",
-      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only On The Road (Live)",
         "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 130505,
       "name": "Every Time I Turn Around - Live In Houston",
       "url": "https://open.spotify.com/track/7k5oDEp4Zh78ygQ3EBAXJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyhow",
+        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Anyhow",
+      "url": "https://open.spotify.com/track/3hxVFmZe4KEwJUyfqE2YI1"
     },
     {
       "added_at": null,
@@ -651,6 +651,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only On The Road (Live)",
+        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 171062,
+      "name": "All Hail - Live In Dallas",
+      "url": "https://open.spotify.com/track/6s9vCBhhXtz6G9BRQ4YnVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 282786,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 50188,
+      "name": "There Is Nothing Like - Live",
+      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
       },
@@ -676,25 +724,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 171062,
-      "name": "All Hail - Live In Dallas",
-      "url": "https://open.spotify.com/track/6s9vCBhhXtz6G9BRQ4YnVa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 50188,
-      "name": "There Is Nothing Like - Live",
-      "url": "https://open.spotify.com/track/2KtrDA3iKRdjAPlIKKoO2z"
+      "duration_ms": 59780,
+      "name": "Look Up Prayer - Live In LA",
+      "url": "https://open.spotify.com/track/0mllTFhbyHRQaB5iRELvEw"
     },
     {
       "added_at": null,
@@ -708,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 282786,
-      "name": "Stand Out",
-      "url": "https://open.spotify.com/track/3gYH02L5BHwo7fAM7oiziR"
+      "duration_ms": 306920,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7"
     },
     {
       "added_at": null,
@@ -731,22 +763,6 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only On The Road (Live)",
-        "url": "https://open.spotify.com/album/2tt2PDL15TmmbQbiQJXTVe"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 59780,
-      "name": "Look Up Prayer - Live In LA",
-      "url": "https://open.spotify.com/track/0mllTFhbyHRQaB5iRELvEw"
     },
     {
       "added_at": null,
@@ -783,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 306920,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/19vgIcw6SOe7Ss7EuWzxM7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 307266,
       "name": "Still Have Joy - Live",
       "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand out",
+        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 336080,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 292813,
       "name": "Champion",
       "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stand out",
-        "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 336080,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1uR3lbQYM30WYKiA09cehY"
     },
     {
       "added_at": null,

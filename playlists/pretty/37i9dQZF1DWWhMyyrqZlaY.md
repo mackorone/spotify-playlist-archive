@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 > Los corridos más placosos que suenan en las calles\. Calle 24 y Chino Pacas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,699,729 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,700,004 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

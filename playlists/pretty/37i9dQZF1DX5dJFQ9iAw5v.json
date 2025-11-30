@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33538,
+  "num_followers": 33543,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -183,26 +183,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 276640,
       "name": "Viernes 3AM",
       "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Studio 2",
         "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 327520,
       "name": "Acu\u00e1tico",
       "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
       },
       "artists": [
         {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
         }
       ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -491,6 +475,22 @@
       "duration_ms": 140213,
       "name": "I'm Beginning to See the Light",
       "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/593aZvfhvWuTuAtHrlOhbs"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Danza",
         "url": "https://open.spotify.com/album/2lGO6cYn8Oo9ZvmRCv4aUN"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 280635,
       "name": "Pop",
       "url": "https://open.spotify.com/track/4c0rGPqFucB6I2OJS8XtpU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -639,18 +655,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
       },
       "artists": [
         {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
         }
       ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+      "duration_ms": 363993,
+      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
+      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -691,26 +711,6 @@
       "duration_ms": 237240,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-        "url": "https://open.spotify.com/album/1qyUjJd3avQ9BLHmFivRCW"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
-        }
-      ],
-      "duration_ms": 363993,
-      "name": "Flamenco Sketches (feat. Ni\u00f1o Josele)",
-      "url": "https://open.spotify.com/track/7BScDsrGLYkoTrh3LUpK0Y"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Brilliant Corners",
-        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 104195,
-      "name": "Brilliant Corners",
-      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Grabaciones In\u00e9ditas Vol. 1",
         "url": "https://open.spotify.com/album/2EieDkdmv8W4ECnhEDX3vA"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 254120,
       "name": "In a Middle Tone",
       "url": "https://open.spotify.com/track/3SL3tKWBLcR0jb9QDBSqPu"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 104195,
+      "name": "Brilliant Corners",
+      "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        }
-      ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Umbral de M\u00ed",
         "url": "https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 296653,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Enero",
+        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+      },
+      "artists": [
+        {
+          "name": "Commodore",
+          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
+        }
+      ],
+      "duration_ms": 412693,
+      "name": "Cero",
+      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Un Rezo",
         "url": "https://open.spotify.com/album/74E3AY31laalZd0YeWS8OE"
       },
@@ -1087,34 +1103,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Enero",
-        "url": "https://open.spotify.com/album/6zuBb3nDs2lQSjwfjQtu4b"
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
       "artists": [
         {
-          "name": "Commodore",
-          "url": "https://open.spotify.com/artist/0nc60bKoFvbBvw0CLDpbIN"
-        }
-      ],
-      "duration_ms": 412693,
-      "name": "Cero",
-      "url": "https://open.spotify.com/track/1mMzrMwcexRJe5PNMTJISZ"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
         {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
         }
       ],
-      "duration_ms": 403600,
-      "name": "Tour de Force",
-      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1139,22 +1143,34 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Algo Bueno - Something Good",
-        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
       },
       "artists": [
         {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
         }
       ],
-      "duration_ms": 572278,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
+      "duration_ms": 403600,
+      "name": "Tour de Force",
+      "url": "https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 405604,
+      "name": "La Novena",
+      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 405604,
-      "name": "La Novena",
-      "url": "https://open.spotify.com/track/0M8qsjYdr5qu2Z7TKGzTon"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "All the Things You Are",
         "url": "https://open.spotify.com/album/5Qaoy1qYVfnpwlLJHQ5tJB"
       },
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Cosa Panicosa",
+        "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
+      },
+      "artists": [
+        {
+          "name": "La Mujer Barbuda",
+          "url": "https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM"
+        }
+      ],
+      "duration_ms": 388265,
+      "name": "Cosa Panicosa",
+      "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Cosa Panicosa",
-        "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
+        "name": "Ausencias",
+        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
       "artists": [
         {
-          "name": "La Mujer Barbuda",
-          "url": "https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM"
+          "name": "Dino Saluzzi",
+          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
         }
       ],
-      "duration_ms": 388265,
-      "name": "Cosa Panicosa",
-      "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
+      "duration_ms": 298880,
+      "name": "Ausencias",
+      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Ausencias",
-        "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
       },
       "artists": [
         {
-          "name": "Dino Saluzzi",
-          "url": "https://open.spotify.com/artist/0XsuWf5f3kRzml20heorPz"
+          "name": "Hern\u00e1n Merlo",
+          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
         }
       ],
-      "duration_ms": 298880,
-      "name": "Ausencias",
-      "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+      "duration_ms": 342480,
+      "name": "Comrade Conrad",
+      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1307,18 +1323,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56Qlx9sxkd5BYwbTyVjiGs"
+        "name": "Sexto VI",
+        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
       },
       "artists": [
         {
-          "name": "Hern\u00e1n Merlo",
-          "url": "https://open.spotify.com/artist/3OEixa8KjmUUfUWNCbn60c"
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        },
+        {
+          "name": "Valentin Reiners",
+          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
         }
       ],
-      "duration_ms": 342480,
-      "name": "Comrade Conrad",
-      "url": "https://open.spotify.com/track/3Ln9JbUdOg9likPwczb55p"
+      "duration_ms": 193711,
+      "name": "Dos Verdades en Una Botella",
+      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1351,42 +1371,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Sexto VI",
-        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        },
-        {
-          "name": "Valentin Reiners",
-          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
-        }
-      ],
-      "duration_ms": 193711,
-      "name": "Dos Verdades en Una Botella",
-      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
-      },
-      "artists": [
-        {
-          "name": "Emi Gimenez",
-          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
-        }
-      ],
-      "duration_ms": 292572,
-      "name": "Creer en las Hojas",
-      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Algo Bueno - Something Good",
         "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 341695,
       "name": "Way You Look Tonight The",
       "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
+      },
+      "artists": [
+        {
+          "name": "Emi Gimenez",
+          "url": "https://open.spotify.com/artist/1EkFFmRwoIW1p0YAKHHImZ"
+        }
+      ],
+      "duration_ms": 292572,
+      "name": "Creer en las Hojas",
+      "url": "https://open.spotify.com/track/0Chc816otZHFCSuGo8kHcM"
     }
   ],
   "unique_name": "Jazz Argentino",

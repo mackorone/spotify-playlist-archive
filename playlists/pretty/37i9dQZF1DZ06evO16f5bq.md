@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,860 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,865 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 31 | [GOTHAM](https://open.spotify.com/track/415dld79DDW9drRA3luAqf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:50 |
 | 32 | [Saudade](https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Djay W](https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl) | [Ainda](https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS) | 3:27 |
 | 33 | [Vamo Marolar](https://open.spotify.com/track/0cvVetonbe66pOOPMtuSOC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [IRRASTREÁVEL](https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG) | 3:01 |
-| 34 | [Blindado por Deus](https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 3:26 |
-| 35 | [CAOS](https://open.spotify.com/track/04XCCgpMnd4QLitSXNBrfI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:40 |
+| 34 | [CAOS](https://open.spotify.com/track/04XCCgpMnd4QLitSXNBrfI) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 2:40 |
+| 35 | [Blindado por Deus](https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 3:26 |
 | 36 | [NA ONDA](https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [MUITA ONDA](https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4) | 2:30 |
 | 37 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
 | 38 | [EU TE AVISEI](https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [VOCÊ&EU](https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 3:18 |
 | 50 | [Anjo](https://open.spotify.com/track/1UQhXpOKXJeNu1HNolwbZy) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Confia: Sonho de Cria \- Trilha Sonora](https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf) | 2:50 |
 
-Snapshot ID: `aSeUgAAAAADCGu+BI7iSzZqDGyMYUTmO`
+Snapshot ID: `aSjmAAAAAAAKdAbo477BCRK3BsyQa9mp`

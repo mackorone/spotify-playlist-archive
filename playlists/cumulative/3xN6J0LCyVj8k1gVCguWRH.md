@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,475 songs - 12 day 17 hr 54 min
+5,476 songs - 12 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1501,7 +1501,7 @@
 | [Fading](https://open.spotify.com/track/47qhavyUKBH9N4iFKQVL5p) | [K\. Epps](https://open.spotify.com/artist/2ASZBoq95nqRoeOAUV7AGM) | [Fading](https://open.spotify.com/album/4IG6VAehaCCwF5WKFnm12B) | 3:31 | 2024-06-24 | 2024-07-05 |
 | [Fairy Tales](https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu) | [Josiah Hodson](https://open.spotify.com/artist/6WFyVuxvI3WYQ6jam9zMGK) | [Fairy Tales](https://open.spotify.com/album/0c4R8A62DfAD8d6VHboQdn) | 2:32 | 2022-10-14 | 2022-11-05 |
 | [Faith \(feat\. Laura White\)](https://open.spotify.com/track/33Npnk7v1tUD97QC1G4ax8) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Faith \(feat\. Laura White\)](https://open.spotify.com/album/5tCOWqPgjgCI6xKj6GkCRD) | 2:52 | 2021-06-19 | 2021-07-04 |
-| [Faith \(this world\)](https://open.spotify.com/track/7gCkmOUCmSHQIS7R1giMy5) | [Dayo Time Music](https://open.spotify.com/artist/2HIGfdpSGO2vDcEW50WkgW) | [Faith \(this world\)](https://open.spotify.com/album/6VTuCacLjfuu02ZAFsVNxA) | 4:33 | 2025-11-18 |  |
+| [Faith \(this world\)](https://open.spotify.com/track/7gCkmOUCmSHQIS7R1giMy5) | [Dayo Time Music](https://open.spotify.com/artist/2HIGfdpSGO2vDcEW50WkgW) | [Faith \(this world\)](https://open.spotify.com/album/6VTuCacLjfuu02ZAFsVNxA) | 4:33 | 2025-11-18 | 2025-11-30 |
 | [Faith, Wisdom, You](https://open.spotify.com/track/7fNUf2wmCM8uG75yQafYLA) | [Tyler Street](https://open.spotify.com/artist/02MiDVoTdh0qmnOHwaBE1v) | [Faith, Wisdom, You](https://open.spotify.com/album/6WaDh1zQhuPsbvNFtqDCih) | 3:26 | 2023-12-24 | 2024-01-01 |
 | [fake friends](https://open.spotify.com/track/00LyYWFek6Aunoo4ZDcIPO) | [Julia Kate](https://open.spotify.com/artist/1fIGYGeXGTQXAo1CuW7FaQ) | [fake friends](https://open.spotify.com/album/5x6CaYde9gncmDI5KpIKkQ) | 2:58 | 2025-03-23 | 2025-04-04 |
 | [fake friends](https://open.spotify.com/track/6Snj9UU7dHLyugF0uLnFyA) | [PACIFICA](https://open.spotify.com/artist/4ALMLb3wt9xULh1VFsxSZp), [Yomaez](https://open.spotify.com/artist/01X9SbuNcYoHHvUgalG2EB) | [fake friends](https://open.spotify.com/album/3r4tKOpKNCX6GD7FNXIzHS) | 2:30 | 2021-01-06 | 2021-01-21 |
@@ -1875,6 +1875,7 @@
 | [God Alone](https://open.spotify.com/track/4xzHR0uLauc5VTpXCcqrg0) | [Jude Chery](https://open.spotify.com/artist/1cmQMGIEHfxIo6CyzlnZ9F) | [God Alone](https://open.spotify.com/album/4Fvgd5pcvSsGbPzwHfUBHE) | 3:50 | 2024-09-13 | 2024-09-24 |
 | [God Bite](https://open.spotify.com/track/6PRkr8Z1mwcGShsQvZFGxF) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [God Bite](https://open.spotify.com/album/24B0BXWc6ThbbwmdMwefRV) | 2:45 | 2022-11-11 | 2022-12-03 |
 | [God Gave Me Feet For Dancing \- feat\. Yazmin Lacey](https://open.spotify.com/track/27gBxsxac6Y7ed7dLVIAjQ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:59 | 2024-12-21 | 2025-02-09 |
+| [God is My Strength \(Gabriella\)](https://open.spotify.com/track/0n5xl1JZ7TEaCRJHu0wIO6) | [Gabby Poli](https://open.spotify.com/artist/4gLuj01C8v07FzdFOkHPFq) | [God is My Strength \(Gabriella\)](https://open.spotify.com/album/1lyXfHF1UIHyvW640FKojp) | 3:49 | 2025-11-29 |  |
 | [Going Away](https://open.spotify.com/track/4hOg1VoQ9ij2QQKGCnzVVT) | [SEGG](https://open.spotify.com/artist/6LVzUrTVwDlZvmu0MANvi1) | [Going Away](https://open.spotify.com/album/59hFVEmjaCNGQJWXEgMewn) | 4:26 | 2025-06-26 | 2025-07-08 |
 | [Going Gone](https://open.spotify.com/track/6urszTKH70CCgyx4olwMeh) | [The Famillian](https://open.spotify.com/artist/0xxeA8tQmQtYpCe2IHmi2a), [Calixte](https://open.spotify.com/artist/5PYXKU2PUFplxNjbE3pYU5) | [Going Gone](https://open.spotify.com/album/0m8rvL27OIRlNnz45N7TYD) | 3:00 | 2021-12-24 | 2022-01-19 |
 | [Gold Coast](https://open.spotify.com/track/7oFuhAAM6OK0pdHkD4NsXB) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Gold Coast](https://open.spotify.com/album/352183p8jEPAkKCt4UPa1x) | 3:40 | 2024-12-21 | 2025-02-09 |
@@ -5048,7 +5049,7 @@
 | [Vibe Out](https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 4:57 | 2022-07-26 | 2024-04-30 |
 | [Vibe With You](https://open.spotify.com/track/6wgY6M6cjKvqOKiIWmakkL) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Vibe With You](https://open.spotify.com/album/4cvqVnm7AvQvfLwK2l6ILe) | 3:16 | 2020-02-29 | 2020-04-22 |
 | [Vibe'n \- Radio Edit](https://open.spotify.com/track/7Kgtf5oPYA3FvmOXVliu2t) | [Traemoon](https://open.spotify.com/artist/4HH10t47HH26fT3IZcZsIx), [Bassline \- Jay Jones](https://open.spotify.com/artist/7AluLhtxZuU8YdiwXvr6l2) | [Vibe'n \(Radio Edit\)](https://open.spotify.com/album/05dbPJTcZzd6gjx48X04E7) | 2:29 | 2022-05-13 | 2022-05-29 |
-| [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 | 2025-11-18 |  |
+| [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 | 2025-11-18 | 2025-11-30 |
 | [VIBEZ](https://open.spotify.com/track/1x1wzlqBumWtN8n4fxM6Ex) | [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [VIBEZ](https://open.spotify.com/album/2Rm6kOAHuEwFtD1ADN6lf6) | 2:19 | 2024-09-24 | 2024-10-06 |
 | [Vibin](https://open.spotify.com/track/4AZGwIhpFbdTzep3XKBWTU) | [Blizzi](https://open.spotify.com/artist/7GEJwwLI5WdMqvIi1Yrhxd), [Kazayah](https://open.spotify.com/artist/77GoP62XZ6Q2cb76gLsEJ4) | [Vibin](https://open.spotify.com/album/1FmA1ppPfIxLZEjG2KP6eR) | 2:31 | 2021-03-06 | 2021-03-24 |
 | [Vibin](https://open.spotify.com/track/16uTVvOkmvf53FHzxipdyH) | [Honey Made](https://open.spotify.com/artist/3RehHfN84w4V5v6aLKRW9j) | [Charge It to the Band Fund](https://open.spotify.com/album/2hFJzJYkgHWaopV1KKRrsb) | 4:01 | 2024-08-29 | 2024-09-10 |

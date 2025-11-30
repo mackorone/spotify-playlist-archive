@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 180333,
       "name": "CAM GIRL",
       "url": "https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y"
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196039,
+      "name": "Meu Defeito",
+      "url": "https://open.spotify.com/track/6bIfEba9GxPRhIdRmFz8zv"
+    },
+    {
+      "album": {
         "name": "Ningu\u00e9m Merece Amar Sozinho",
         "url": "https://open.spotify.com/album/4791KfaEDaxtKtv1kzxVh0"
       },
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 257821,
       "name": "Tudo Igual",
       "url": "https://open.spotify.com/track/4k98YJ8f66Z7FagvL42Qgv"

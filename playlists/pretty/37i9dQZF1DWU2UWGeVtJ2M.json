@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 168276,
+  "num_followers": 168283,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
         "name": "roundabout",
         "url": "https://open.spotify.com/album/72JOBJj1vbLdTg0B2XVjwT"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
+        "name": "Breath From Another",
+        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
+      },
+      "artists": [
+        {
+          "name": "Esthero",
+          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Superheroes",
+      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
         "name": "Diamond Miner",
         "url": "https://open.spotify.com/album/22tlBIBLJy9pmB9AnJILEE"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 231034,
       "name": "Diamond Miner",
       "url": "https://open.spotify.com/track/3dEG2MQ0Bdd7lOqyG3GLFI"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
-        "name": "Breath From Another",
-        "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
-      },
-      "artists": [
-        {
-          "name": "Esthero",
-          "url": "https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 290751,
-      "name": "8",
-      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
         "name": "Basement Grooves",
         "url": "https://open.spotify.com/album/17oUkIpNKzZMJiKckkUIf6"
       },
@@ -1175,6 +1143,38 @@
       "duration_ms": 195013,
       "name": "Gone 2 Long",
       "url": "https://open.spotify.com/track/0V6p1at8MSW6WEhSp5EzVG"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 290751,
+      "name": "8",
+      "url": "https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
+      },
+      "artists": [
+        {
+          "name": "Beauty's Confusion",
+          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
+        }
+      ],
+      "duration_ms": 294186,
+      "name": "Moments Like These",
+      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
+        "name": "Something to Feel",
+        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
       "artists": [
         {
-          "name": "Beauty's Confusion",
-          "url": "https://open.spotify.com/artist/4MxeVr8e4j2TOeq3cEEyBi"
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
         }
       ],
-      "duration_ms": 294186,
-      "name": "Moments Like These",
-      "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
+      "duration_ms": 213535,
+      "name": "Something to Feel",
+      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1259,22 +1275,6 @@
       "duration_ms": 171695,
       "name": "at least i look cool",
       "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
-        "name": "Something to Feel",
-        "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 213535,
-      "name": "Something to Feel",
-      "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
-        "name": "IT'S NOT THAT SERIOUS",
-        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 140950,
-      "name": "IT'S NOT THAT SERIOUS",
-      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 157910,
       "name": "Be On My Way (Full)",
       "url": "https://open.spotify.com/track/6kLEV4RF4HySkPmGeNOFT8"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
+        "name": "IT'S NOT THAT SERIOUS",
+        "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 140950,
+      "name": "IT'S NOT THAT SERIOUS",
+      "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
         "name": "Old Fashion Love",
         "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 209117,
       "name": "Old Fashion Love",
       "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2025-11-24 02:49:18",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-11-24 02:49:18",
       "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
-      },
-      "artists": [
-        {
-          "name": "Maria Somerville",
-          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
-    },
-    {
-      "added_at": "2025-11-24 02:49:18",
-      "album": {
         "name": "Everything I Didn\u2019t Say",
         "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 213133,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
+    },
+    {
+      "added_at": "2025-11-24 02:49:18",
+      "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
     },
     {
       "added_at": "2025-11-24 02:49:18",

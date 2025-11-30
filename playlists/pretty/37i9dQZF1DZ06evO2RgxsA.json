@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92638,
+  "num_followers": 92644,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABJTiHJrgiQzXde7GOssCt0",
+  "snapshot_id": "aSjmAAAAAADMamyQ5c2UNQU6MEl9A+Kv",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Idiots Are Taking Over",
-      "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
     },
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 189733,
-      "name": "The Separation of Church and Skate",
-      "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 112493,
-      "name": "All Outta Angst",
-      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
     },
     {
       "added_at": null,
@@ -247,6 +247,22 @@
       "duration_ms": 145466,
       "name": "Franco Un-American",
       "url": "https://open.spotify.com/track/1d6aWHZ6VTwZh9qQhsBmap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
     },
     {
       "added_at": null,
@@ -283,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 54600,
-      "name": "Monosyllabic Girl",
-      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punk In Drublic",
         "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 141200,
       "name": "Lori Meyers",
       "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
     },
     {
       "added_at": null,
@@ -351,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 80800,
-      "name": "It's My Job To Keep Punk Rock Elite",
-      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punk In Drublic",
         "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 78271,
       "name": "The Quass",
       "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Kids Of The K-Hole",
+      "url": "https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Kids Of The K-Hole",
-      "url": "https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coaster",
         "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 111960,
       "name": "The Quitter",
       "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 45960,
+      "name": "Murder The Government",
+      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 45960,
-      "name": "Murder The Government",
-      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 140333,
       "name": "Bottles To The Ground",
       "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Eat The Meek",
+      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
     },
     {
       "added_at": null,
@@ -543,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
       "artists": [
         {
@@ -552,9 +568,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Eat The Meek",
-      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
+      "duration_ms": 118000,
+      "name": "What's The Matter With Parents Today?",
+      "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Valuum",
-        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "What's The Matter With Parents Today?",
-      "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 145360,
       "name": "60%",
       "url": "https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "We Threw Gasoline.......",
-      "url": "https://open.spotify.com/track/6wcqe8MLykOTbm2tY8KMTe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pump Up The Valuum",
         "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "White Trash, Two Heebs and a Bean",
         "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 176706,
       "name": "She's Gone",
       "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 150288,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
+      "duration_ms": 150288,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
     },
     {
       "added_at": null,

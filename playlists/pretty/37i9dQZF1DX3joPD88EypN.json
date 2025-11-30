@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 91291,
+  "num_followers": 91341,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6teborg Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 333853,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Apr\u00e8s Un R\u00eave",
         "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 268565,
       "name": "Apr\u00e8s Un R\u00eave",
       "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/6lfmb6NR3EIsur6Ows8Fv5"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6teborg Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 333853,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/49gE79dovWDiYfKxgMEFjT"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -771,18 +771,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/3QQclg7ryOGX2BjlxeTAnu"
       },
       "artists": [
         {
           "name": "S\u00f8ren Bebe Trio",
           "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
         }
       ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
+      "duration_ms": 292936,
+      "name": "Elegy for an Angel",
+      "url": "https://open.spotify.com/track/0AyVDuy1RxHq8ZNJpWxeAa"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -863,22 +867,18 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/3QQclg7ryOGX2BjlxeTAnu"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
       },
       "artists": [
         {
           "name": "S\u00f8ren Bebe Trio",
           "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        },
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
         }
       ],
-      "duration_ms": 292936,
-      "name": "Elegy for an Angel",
-      "url": "https://open.spotify.com/track/0AyVDuy1RxHq8ZNJpWxeAa"
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -895,30 +895,6 @@
       "duration_ms": 346333,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6a5XgyiyTG5Ok7cZ1LMLGh"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Cinematic",
-        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
-      },
-      "artists": [
-        {
-          "name": "Arne Torvik Trio",
-          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
-        },
-        {
-          "name": "Bj\u00f8rnar Kaldefoss Tveite",
-          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
-        },
-        {
-          "name": "\u00d8ystein Aarnes Vik",
-          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
-        }
-      ],
-      "duration_ms": 487053,
-      "name": "Cinematic",
-      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -947,6 +923,30 @@
       "duration_ms": 360769,
       "name": "Oh, Jaco!",
       "url": "https://open.spotify.com/track/33FJyAQRTd8GKjku7DvYun"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Cinematic",
+        "url": "https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2"
+      },
+      "artists": [
+        {
+          "name": "Arne Torvik Trio",
+          "url": "https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ"
+        },
+        {
+          "name": "Bj\u00f8rnar Kaldefoss Tveite",
+          "url": "https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66"
+        },
+        {
+          "name": "\u00d8ystein Aarnes Vik",
+          "url": "https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u"
+        }
+      ],
+      "duration_ms": 487053,
+      "name": "Cinematic",
+      "url": "https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+      },
+      "artists": [
+        {
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "Few Words",
         "url": "https://open.spotify.com/album/768ILtCs2fcV8udYKtYvo8"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 101175,
       "name": "Few Words",
       "url": "https://open.spotify.com/track/3MXtKi9TTIk2Ae4BLpiehg"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
-      },
-      "artists": [
-        {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 71160,
-      "name": "Divining",
-      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Gefion",
         "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 270586,
       "name": "And They All Came Marching Out Of The Woods",
       "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2vsrbUajfq68KSTxKeSFqn"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 71160,
+      "name": "Divining",
+      "url": "https://open.spotify.com/track/4SBb0JU3bGQBVWra4nirwA"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Lycka till med musiken",
-        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
-      },
-      "artists": [
-        {
-          "name": "Agnas Bros",
-          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
-        }
-      ],
-      "duration_ms": 544093,
-      "name": "9",
-      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Bay Of Rainbows (Live At The Jazz Standard, New York / 2017)",
         "url": "https://open.spotify.com/album/7E6lXyBvHGKpw4zgQllpdU"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 240390,
       "name": "Iben",
       "url": "https://open.spotify.com/track/67HtBGSSyTGiwXN8oIenbt"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Lycka till med musiken",
+        "url": "https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL"
+      },
+      "artists": [
+        {
+          "name": "Agnas Bros",
+          "url": "https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp"
+        }
+      ],
+      "duration_ms": 544093,
+      "name": "9",
+      "url": "https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Imaginary Mountains",
-        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
-      },
-      "artists": [
-        {
-          "name": "Aki Rissanen",
-          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Iki Keklik",
-      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Kingdom of Coldness",
         "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 457853,
       "name": "Kingdom of Coldness",
       "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Imaginary Mountains",
+        "url": "https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7"
+      },
+      "artists": [
+        {
+          "name": "Aki Rissanen",
+          "url": "https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Iki Keklik",
+      "url": "https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4"
-      },
-      "artists": [
-        {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
-        }
-      ],
-      "duration_ms": 262963,
-      "name": "Green Model",
-      "url": "https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
         "name": "Wood Circles",
         "url": "https://open.spotify.com/album/1f7YSqegaAoWwI1B777WnP"
       },
@@ -1851,18 +1835,18 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
-        "name": "They Stumble, They Walk",
-        "url": "https://open.spotify.com/album/2TXnk46cVsBsbmbrdZ7dMy"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4"
       },
       "artists": [
         {
-          "name": "Julia H\u00fclsmann Quartet",
-          "url": "https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd"
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
         }
       ],
-      "duration_ms": 265342,
-      "name": "They Stumble, They Walk",
-      "url": "https://open.spotify.com/track/30eGGGgp1cvr9ykTOuoCl9"
+      "duration_ms": 262963,
+      "name": "Green Model",
+      "url": "https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1887,6 +1871,22 @@
     {
       "added_at": "2025-09-26 11:32:08",
       "album": {
+        "name": "They Stumble, They Walk",
+        "url": "https://open.spotify.com/album/2TXnk46cVsBsbmbrdZ7dMy"
+      },
+      "artists": [
+        {
+          "name": "Julia H\u00fclsmann Quartet",
+          "url": "https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd"
+        }
+      ],
+      "duration_ms": 265342,
+      "name": "They Stumble, They Walk",
+      "url": "https://open.spotify.com/track/30eGGGgp1cvr9ykTOuoCl9"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/0pQQ091wlhGXqGzpdV6aW7"
       },
@@ -1903,6 +1903,22 @@
       "duration_ms": 350720,
       "name": "Anten",
       "url": "https://open.spotify.com/track/1kTvRa6n1mCKUcyw9djisF"
+    },
+    {
+      "added_at": "2025-09-26 11:32:08",
+      "album": {
+        "name": "Space Is the Place",
+        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
+          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Space Is the Place",
+      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
     },
     {
       "added_at": "2025-09-26 11:32:08",
@@ -1927,22 +1943,6 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
-    },
-    {
-      "added_at": "2025-09-26 11:32:08",
-      "album": {
-        "name": "Space Is the Place",
-        "url": "https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl, Arild Andersen, Jon Christensen",
-          "url": "https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Space Is the Place",
-      "url": "https://open.spotify.com/track/2Vp1EnHodm8cYQkn54aqKD"
     },
     {
       "added_at": "2025-09-26 11:32:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,463 likes - 150 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,570 likes - 150 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 |
 | 150 | [Too Much Is Never Too Much](https://open.spotify.com/track/4fwvGZXHq2vYZUrO2TrESI) | [Gnarfunkel](https://open.spotify.com/artist/2mwAEuKKSnlOQouag2TUe5) | [Too Much Is Never Too Much](https://open.spotify.com/album/3bSxViAwIQ38614k0DYfPa) | 3:27 |
 
-Snapshot ID: `AAAAAA+yZfV775yPjD9Ny9UrMSKsz6b1`
+Snapshot ID: `AAAAAExrqyqXgtPgG71r7uFn8yK50gIg`

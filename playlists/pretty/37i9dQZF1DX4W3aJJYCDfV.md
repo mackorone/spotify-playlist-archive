@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran, Central Cee, Rachel Chinouriri and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,386 likes - 90 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,409 likes - 90 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 14 | [Blood Run Warm](https://open.spotify.com/track/0px9GCcaidXur2tRtlgzvH) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [PLAY!](https://open.spotify.com/album/2PmWuTXfKGX4Tx26VSdUQu) | 3:16 |
 | 15 | [The Man Comes Around](https://open.spotify.com/track/7gQtvYYJwLLypRFXJFx5KK) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [The Man Comes Around](https://open.spotify.com/album/3Dnjc7dbVYRoqy16L5yoE7) | 5:37 |
 | 16 | [Middle of the Summer](https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Middle of the Summer](https://open.spotify.com/album/45BtT1eeb8MUrrmCtnduS2) | 2:52 |
-| 17 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
+| 17 | [CULTURE CLUB](https://open.spotify.com/track/0yzAyPhnyGeiU950Z7y4Bx) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Brazy](https://open.spotify.com/artist/6APZ9vzbooRqkjEIO3gRiJ) | [KUSAMBILA \(First Phase\)](https://open.spotify.com/album/7HSRcFaPa0ggJ1w1pfS67C) | 3:35 |
 | 18 | [Upstairs](https://open.spotify.com/track/2NOqmL7HRSm4FwpwKMuRZL) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Upstairs](https://open.spotify.com/album/21GM9mt6zL9t2qcCkTIBk3) | 3:39 |
 | 19 | [Chanel Boy](https://open.spotify.com/track/5qoxoHoinybFBRdJ5LGyAA) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Chanel Boy](https://open.spotify.com/album/5Qewgozib9h3rk6lFnCsND) | 2:37 |
 | 20 | [Better On My Own](https://open.spotify.com/track/1dRiTUbseehXIvzipgdKLp) | [Abbie Piper](https://open.spotify.com/artist/3N9FuCdd029V1YTentbJTO) | [Better On My Own](https://open.spotify.com/album/0g79ybmFXUTYWwbApJ33TL) | 2:39 |

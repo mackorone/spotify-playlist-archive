@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover:  Joshua Baraka
 
-725 songs - 1 day 12 hr 53 min
+726 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 | 2024-11-15 | 2025-06-28 |
 | [Inside Out](https://open.spotify.com/track/0PfTXnYgX0G5FR1rHVVllo) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Inside Out](https://open.spotify.com/album/12uf1WH50KCGIMK3xO0Rzk) | 3:16 | 2023-05-26 | 2023-06-03 |
 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 | 2025-07-18 | 2025-08-01 |
+| [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Urban Chords](https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK) | [Intentions \(feat\. Urban Chords\)](https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW) | 2:29 | 2025-11-28 |  |
 | [Intentions \- A COLORS SHOW](https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Intentions \- A COLORS SHOW](https://open.spotify.com/album/66ruPBwsVjlLrWwmiOS5o9) | 1:48 | 2025-07-04 | 2025-07-18 |
 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 | 2023-07-13 | 2023-12-15 |
 | [It Is What It Is](https://open.spotify.com/track/1Gm3jwEy0cx0souTcRGEby) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [It Is What It Is](https://open.spotify.com/album/0iQ6qfTr8QTT2w05C7CmuV) | 2:54 | 2021-09-27 | 2022-03-04 |
@@ -585,7 +586,7 @@
 | [Routine Lover](https://open.spotify.com/track/42oH913TlKFC5LHNgZNrQk) | [Good Nation](https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Routine Lover](https://open.spotify.com/album/1WvNXlLpJ8G40axBVvicUj) | 2:48 | 2023-10-04 | 2023-11-09 |
 | [Ruin](https://open.spotify.com/track/3XloH0C8QYXgbYPmXlxf2x) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Ruin](https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG) | 3:01 | 2024-02-02 | 2025-03-14 |
 | [Rumours](https://open.spotify.com/track/7v3Yy6EoWxY76ee4uspxi2) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 3:05 | 2024-10-12 | 2025-02-20 |
-| [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-09 |  |
+| [Run Away \(OMALICHA\)](https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Run Away \(OMALICHA\)](https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh) | 2:56 | 2024-02-09 | 2025-11-30 |
 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 | 2022-10-21 | 2023-10-20 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 | 2023-03-10 |
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2021-09-27 | 2022-02-25 |

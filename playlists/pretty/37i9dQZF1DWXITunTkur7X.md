@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,074 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,081 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 17 | [Blijf Bij Mij](https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Blijf Bij Mij](https://open.spotify.com/album/57G2Wh7HyPSFw6gcV7DEvu) | 2:59 |
 | 18 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 |
 | 19 | [IJskoud](https://open.spotify.com/track/2zVNIG9cfMyFxt8XqJ64s4) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Diamant](https://open.spotify.com/album/0GWbu2w7YoVg5NO9BekOxu) | 3:30 |
-| 20 | [Dat Ik Je Mis](https://open.spotify.com/track/4aSPBYgQXGnU1HzoCwDMjG) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [En Hoe Het Dan Ook Weer Dag Wordt](https://open.spotify.com/album/5TNBqIavcqnggyzF1I50qh) | 4:16 |
-| 21 | [Als Het Avond Is](https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Als Het Avond Is](https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc) | 3:25 |
+| 20 | [Als Het Avond Is](https://open.spotify.com/track/3ciQQMSy1lKDqJbwU9l1LT) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Als Het Avond Is](https://open.spotify.com/album/5LlrRTvslzI8fo2WsRcRkc) | 3:25 |
+| 21 | [Dat Ik Je Mis](https://open.spotify.com/track/4aSPBYgQXGnU1HzoCwDMjG) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [En Hoe Het Dan Ook Weer Dag Wordt](https://open.spotify.com/album/5TNBqIavcqnggyzF1I50qh) | 4:16 |
 | 22 | [Moment](https://open.spotify.com/track/0J6sITdD8JMUBKaadJLV1U) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Moment](https://open.spotify.com/album/0yEIvi51Okj9K1mmssyfDf) | 3:01 |
 | 23 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
 | 24 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 30 | [Liefde In De Lucht](https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Joshua Nolet](https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV) | [Liefde In De Lucht](https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3) | 3:32 |
 | 31 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
 | 32 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
-| 33 | [Schouder Aan Schouder](https://open.spotify.com/track/3Zs8NVXn61nMzHwgUdnOw3) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Dromen Durven Delen](https://open.spotify.com/album/1nmOBRgGGHKFxRtkxurEiE) | 3:56 |
-| 34 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
+| 33 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
+| 34 | [Schouder Aan Schouder](https://open.spotify.com/track/3Zs8NVXn61nMzHwgUdnOw3) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Dromen Durven Delen](https://open.spotify.com/album/1nmOBRgGGHKFxRtkxurEiE) | 3:56 |
 | 35 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
 | 36 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
 | 37 | [Echte Vrienden](https://open.spotify.com/track/0VlvcLI6XKJv3RYhbSiasL) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [20 Jaar Hits](https://open.spotify.com/album/1qH3FX02vJtwDsXPjlXxko) | 3:08 |

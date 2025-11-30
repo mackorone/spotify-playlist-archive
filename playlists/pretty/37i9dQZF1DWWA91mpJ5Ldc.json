@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 137435,
+  "num_followers": 137451,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 223765,
-      "name": "Gr\u00e3o de Areia",
-      "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "\u00cdndia",
         "url": "https://open.spotify.com/album/62bhIEXWOgYms1Nf4aZGBa"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 191164,
       "name": "\u00cdndia",
       "url": "https://open.spotify.com/track/2xt5DJpvyf5BmUD9Q91LOc"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 223765,
+      "name": "Gr\u00e3o de Areia",
+      "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
         "name": "Areia Fina",
         "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 211200,
       "name": "Areia Fina",
       "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "Desastre Solar",
         "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
       },
@@ -603,6 +587,38 @@
       "duration_ms": 233666,
       "name": "Deixa Acontecer",
       "url": "https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Vem Doce",
+        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "duration_ms": 226720,
+      "name": "Vem Doce",
+      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -627,42 +643,6 @@
       "duration_ms": 170293,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
-        "name": "Vem Doce",
-        "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Vem Doce",
-      "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
-        "name": "Baile \u00e0 la Baiana",
-        "url": "https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Peu Meurray",
-          "url": "https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF"
-        }
-      ],
-      "duration_ms": 205315,
-      "name": "Gente Boa se Atrai",
-      "url": "https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -711,6 +691,26 @@
       "duration_ms": 199944,
       "name": "Brother, Father, Sister And Mother",
       "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Baile \u00e0 la Baiana",
+        "url": "https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Peu Meurray",
+          "url": "https://open.spotify.com/artist/1ZSrGXhyBWqWgOj6CTuYYF"
+        }
+      ],
+      "duration_ms": 205315,
+      "name": "Gente Boa se Atrai",
+      "url": "https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -867,18 +867,22 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+        "name": "Estragar a Amizade",
+        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
         }
       ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+      "duration_ms": 201937,
+      "name": "Estragar a Amizade",
+      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -899,22 +903,18 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Estragar a Amizade",
-        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
       },
       "artists": [
         {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 201937,
-      "name": "Estragar a Amizade",
-      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -959,38 +959,6 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Te Amo L\u00e1 Fora",
-        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
-      },
-      "artists": [
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 246346,
-      "name": "Decis\u00e3o de Te Amar",
-      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
-        "name": "Original Brasil",
-        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 197610,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
-    },
-    {
-      "added_at": "2025-11-25 18:54:11",
-      "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
       },
@@ -1003,6 +971,22 @@
       "duration_ms": 283137,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
+        "name": "Te Amo L\u00e1 Fora",
+        "url": "https://open.spotify.com/album/5o6MJpi6Y4fQwI8gmv0oZc"
+      },
+      "artists": [
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "Decis\u00e3o de Te Amar",
+      "url": "https://open.spotify.com/track/6iyBtf6dboO5YVYS3XUbVC"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+        "name": "Original Brasil",
+        "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+      "duration_ms": 197610,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/6FABZIPBzeYCIXfauW7tFx"
     },
     {
       "added_at": "2025-11-25 18:54:11",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "added_at": "2025-11-25 18:54:11",
+      "album": {
         "name": "Apesar de Voc\u00ea",
         "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
       },
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2025-11-25 18:54:11",
       "album": {
-        "name": "SAGRADO, Vol 2",
-        "url": "https://open.spotify.com/album/4eYk4cU1zx8awKfFBUoW1S"
+        "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
       },
       "artists": [
         {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        },
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
         }
       ],
-      "duration_ms": 222834,
-      "name": "Coisas do Amor (Me Chama)",
-      "url": "https://open.spotify.com/track/114PRV1kahG7WkUOF0hxlX"
+      "duration_ms": 212540,
+      "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
     }
   ],
   "unique_name": "Cozinhando em Casa",

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-186 songs - 11 hr 29 min
+190 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2025-11-05 |  |
 | [Cosmonauta](https://open.spotify.com/track/4ob1p85yFIpasJJOvYDzcM) | [Francisco Crespo](https://open.spotify.com/artist/3keaT0bkTmc7oERRDQPxkb) | [Cosmonauta](https://open.spotify.com/album/3wCsW7kVE8Q6wvJB0Jvfau) | 2:32 | 2025-11-05 |  |
 | [Country All Across This Land](https://open.spotify.com/track/59iFCv1jLN9r4V4educife) | [Cam Pierce](https://open.spotify.com/artist/6YLHrUVXpMquZetlXebWWR) | [The Horseshoe](https://open.spotify.com/album/71Pi2kd6ItAuwcaaEsj4ec) | 3:27 | 2025-09-01 |  |
+| [Coven's Flame](https://open.spotify.com/track/4TGeM6SOXg0XvJLzboYEfk) | [Z\-Cocoon](https://open.spotify.com/artist/04AOWpqtCLXZHtZ1ECOayN) | [Coven's Flame](https://open.spotify.com/album/7veP7vZZ18BeXjA63JeV0h) | 4:33 | 2025-11-29 |  |
 | [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 | 2025-09-28 |  |
 | [Crush!](https://open.spotify.com/track/41Lzk8mCq71gZPnbLiK81X) | [Marcus Dufray](https://open.spotify.com/artist/3N76PbL6PF7qP3BlH44Svq) | [Crush!](https://open.spotify.com/album/2yEKvtGlCDheDMXPRuAJTr) | 4:39 | 2025-11-09 |  |
 | [Curtain](https://open.spotify.com/track/4OQFLKyLqH6G1SUELSoIOJ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Bunker Day](https://open.spotify.com/album/4PYVvoC2NXpNvHJ8UQZkFW) | 2:14 | 2025-09-21 |  |
@@ -57,6 +58,7 @@
 | [Do You Remember?](https://open.spotify.com/track/2ir8kJN0GO8wUP90oU3LSJ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Do You Remember?](https://open.spotify.com/album/73GDhhUlcUhxlDUm6BqdLo) | 3:40 | 2025-10-04 |  |
 | [Don't Let Me Down Again](https://open.spotify.com/track/3O1JR1gUR8shtWDhxc5Bwc) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Ben Trexel Music Classic Rock Collection, Vol\. 1](https://open.spotify.com/album/3ndoROj3VUZ3hLUIBS2OqU) | 3:24 | 2025-10-20 | 2025-11-28 |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2025-11-08 |  |
+| [Don't look back](https://open.spotify.com/track/3USP9tP0tX1jVue701swyK) | [Andrius](https://open.spotify.com/artist/2r4P3xB3mTIzuks1cnFOYS) | [The Dark Side Of The Tune](https://open.spotify.com/album/4JcCpQvnmSKs2LYE3ZzX5x) | 3:40 | 2025-11-29 |  |
 | [Don't Talk About Love](https://open.spotify.com/track/3gB5MQDUABinyLxbh7JeSY) | [The Hornets](https://open.spotify.com/artist/5JShdg4GOmLzKfUluPsQBI) | [Don't Talk About Love](https://open.spotify.com/album/3Oowl3MI12XBhZV3GU7ryo) | 3:03 | 2025-10-17 | 2025-11-28 |
 | [Don't Tell Mary](https://open.spotify.com/track/05hAnLiPMxKUWrHADwEIQF) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Don't Tell Mary](https://open.spotify.com/album/754oFY4ZwA8fFXsPzvA67E) | 2:51 | 2025-11-22 |  |
 | [Día Uno](https://open.spotify.com/track/5VsgNggxi9TqdaTZdxGu5h) | [A New Addiction](https://open.spotify.com/artist/51K7A0J9GRIFQEYVsHtoNV) | [Día Uno](https://open.spotify.com/album/14xgFMCKwyOhnNKlnZHpwq) | 3:20 | 2025-10-09 | 2025-11-28 |
@@ -71,6 +73,7 @@
 | [Eres Lo Que Quiero](https://open.spotify.com/track/21SgAoUFH0EacYN57lW7mo) | [Rodeo Manhattan](https://open.spotify.com/artist/0mzIXt6mFvsaEHbKyoExUD) | [EQUINOCCIO](https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw) | 3:12 | 2025-09-26 |  |
 | [Especial](https://open.spotify.com/track/7loutfpfEG6vueLszoVZ7S) | [ZETA fvd](https://open.spotify.com/artist/0CbWaaBJmzKzenlZcLgUk5) | [Especial](https://open.spotify.com/album/2ckbNjxdwiDfmRetZf6bUN) | 3:56 | 2025-11-24 |  |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 |  |
+| [Faded Sun](https://open.spotify.com/track/4yoShDFZqFOsrXTdUzxpz6) | [OberTonic](https://open.spotify.com/artist/0D2hc3aCon3HUemLWIj2pR) | [Faded Sun](https://open.spotify.com/album/6Nj3qWQMCdy0Z9kNwhLiYq) | 3:05 | 2025-11-29 |  |
 | [Finding You](https://open.spotify.com/track/5jCpLxpsNUM2QU7sa5FuLO) | [Casey Bloom](https://open.spotify.com/artist/3Yp2AG1A20FQbUtNqed1rq) | [Casey Bloom \- EP](https://open.spotify.com/album/2lQ4xbUEr2B6EbIrBrd5MK) | 3:16 | 2025-11-25 |  |
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 |  |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 |  |
@@ -134,6 +137,7 @@
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 |  |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-09-29 |  |
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 |  |
+| [Pink Mars](https://open.spotify.com/track/6ZqwVLomAVnI6sKukX2coy) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Pink Mars](https://open.spotify.com/album/7z1mPkBv180DxtOMmyWICw) | 3:44 | 2025-11-29 |  |
 | [Por Debajo](https://open.spotify.com/track/0DTe6BsI9yodMWVcq6dnfG) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Por Debajo](https://open.spotify.com/album/047zkzrHJj829LNoXWd0jt) | 2:41 | 2025-10-21 | 2025-11-28 |
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-10-14 | 2025-11-28 |
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 175272,
+  "num_followers": 175280,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "De Plaza en Plaza",
-        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Mi Ni\u00f1a Mujer",
-      "url": "https://open.spotify.com/track/2g01YW6oOqqzUfb4iOsBNt"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Si Me Tomo una Cerveza",
         "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 182198,
       "name": "Si Me Tomo Una Cerveza",
       "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "De Plaza en Plaza",
+        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Mi Ni\u00f1a Mujer",
+      "url": "https://open.spotify.com/track/2g01YW6oOqqzUfb4iOsBNt"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 234626,
       "name": "M\u00e1rchate ahora",
       "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Con La Cumbia En La Sangre",
         "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
@@ -1339,22 +1323,18 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Para Que La Cu\u00f1a Apriete",
-        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        },
-        {
-          "name": "Grupo Kien? Los reyes del sabor",
-          "url": "https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 296680,
-      "name": "La Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1375,6 +1355,26 @@
       "duration_ms": 147037,
       "name": "Ahora Resulta",
       "url": "https://open.spotify.com/track/4Kn1qDeYfuL53YJTKq4vTA"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "Para Que La Cu\u00f1a Apriete",
+        "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        },
+        {
+          "name": "Grupo Kien? Los reyes del sabor",
+          "url": "https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy"
+        }
+      ],
+      "duration_ms": 296680,
+      "name": "La Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
         "name": "Fake Lover",
         "url": "https://open.spotify.com/album/3ZdtQrCBsZAspAizVKAmFz"
       },
@@ -1523,26 +1523,6 @@
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
-        "name": "OJITOS ROJOS",
-        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 221601,
-      "name": "OJITOS ROJOS",
-      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2025-07-14 16:04:01",
@@ -1579,22 +1559,6 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
-        "name": "Sigueme",
-        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
-    },
-    {
-      "added_at": "2025-07-14 16:04:01",
-      "album": {
         "name": "Boleto al Amor",
         "url": "https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX"
       },
@@ -1615,6 +1579,22 @@
     {
       "added_at": "2025-07-14 16:04:01",
       "album": {
+        "name": "Sigueme",
+        "url": "https://open.spotify.com/album/1gWllGhiiVZRYJ3OXqMrOw"
+      },
+      "artists": [
+        {
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/1OeKx8ya9DRQBWKJmlRFJp"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
         "name": "En Tu Cuarto",
         "url": "https://open.spotify.com/album/1gxuJDFiKPibw5TAZ9NXqJ"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 220266,
       "name": "Quiero Ser Libre",
       "url": "https://open.spotify.com/track/5IYYyNV4ly1IFNBFLQO6ge"
+    },
+    {
+      "added_at": "2025-07-14 16:04:01",
+      "album": {
+        "name": "OJITOS ROJOS",
+        "url": "https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 221601,
+      "name": "OJITOS ROJOS",
+      "url": "https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a"
     },
     {
       "added_at": "2025-07-14 16:04:01",

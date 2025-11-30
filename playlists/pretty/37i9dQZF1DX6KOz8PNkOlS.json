@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 578731,
+  "num_followers": 578820,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-28 06:00:05",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
-    },
-    {
-      "added_at": "2025-11-28 06:00:05",
-      "album": {
         "name": "Time to Melt",
         "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2025-11-28 06:00:05",
+      "album": {
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
     },
     {
       "added_at": "2025-11-28 06:00:05",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2025-11-28 06:00:05",
       "album": {
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
+    },
+    {
+      "added_at": "2025-11-28 06:00:05",
+      "album": {
         "name": "Sof\u00eda Vald\u00e9s",
         "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 434758,
       "name": "Pray for Me",
       "url": "https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f"
-    },
-    {
-      "added_at": "2025-11-28 06:00:05",
-      "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2025-11-28 06:00:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-28 06:00:05",
       "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
-      },
-      "artists": [
-        {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
-    },
-    {
-      "added_at": "2025-11-28 06:00:05",
-      "album": {
         "name": "Spotlight",
         "url": "https://open.spotify.com/album/54MjolrMY91tFXa2h1CB1u"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 252693,
       "name": "Spotlight - Single Edit",
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
+    },
+    {
+      "added_at": "2025-11-28 06:00:05",
+      "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2025-11-28 06:00:05",
@@ -1671,46 +1671,6 @@
     {
       "added_at": "2025-11-28 06:00:05",
       "album": {
-        "name": "Go Outside And Hug A Tree",
-        "url": "https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x"
-      },
-      "artists": [
-        {
-          "name": "Valeria Stoica",
-          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
-        }
-      ],
-      "duration_ms": 163596,
-      "name": "a love song",
-      "url": "https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1"
-    },
-    {
-      "added_at": "2025-11-28 06:00:05",
-      "album": {
-        "name": "Stream of Consciousness",
-        "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
-      },
-      "artists": [
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        },
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 162401,
-      "name": "Stream of Consciousness",
-      "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
-    },
-    {
-      "added_at": "2025-11-28 06:00:05",
-      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
       },
@@ -1727,6 +1687,38 @@
       "duration_ms": 198842,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
+    },
+    {
+      "added_at": "2025-11-28 06:00:05",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
+    },
+    {
+      "added_at": "2025-11-28 06:00:05",
+      "album": {
+        "name": "Go Outside And Hug A Tree",
+        "url": "https://open.spotify.com/album/4tHSGxuY5UcUE7UyHKJO0x"
+      },
+      "artists": [
+        {
+          "name": "Valeria Stoica",
+          "url": "https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR"
+        }
+      ],
+      "duration_ms": 163596,
+      "name": "a love song",
+      "url": "https://open.spotify.com/track/1RW2DgKf8EoTrgGKpK7Uc1"
     }
   ],
   "unique_name": "Soft Office",

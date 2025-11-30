@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-174 songs - 8 hr 19 min
+175 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Mozart: Sonata for Two Pianos in D Major, K\. 448: II\. Andante](https://open.spotify.com/track/1sZPu1TAhwrGSSxThC0ZQF) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Süher Pekinel](https://open.spotify.com/artist/7xtxBbk8W0htAOXceavYlH), [Güher Pekinel](https://open.spotify.com/artist/3rTiRLf29vqw1tGijDHqYB) | [Mozart: 6 Sonatas for Piano Duet & Sonata for 2 Pianos, K\. 488](https://open.spotify.com/album/7EMQ9izwD1Fnf48NdAxerw) | 10:06 | 2023-03-12 |  |
 | [My Piano Night](https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Blue Hour](https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx) | 4:45 | 2023-01-26 |  |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2023-01-26 |  |
+| [Mémorie d’amour](https://open.spotify.com/track/7rihrfv45QvlWXiQ6m3RZn) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB) | [Rêveries](https://open.spotify.com/album/1JwQ0z2Rj9WX5FSzS9Z90M) | 3:24 | 2023-03-12 |  |
 | [Next](https://open.spotify.com/track/3pnaiuAfeBJkcwYaEXkGGx) | [Emily Rubye](https://open.spotify.com/artist/1ra1CeoAhMOYZunkNRDvwp) | [Finding Rain](https://open.spotify.com/album/1ESiDXqip3u0Kfvc0ZXXFq) | 2:14 | 2023-01-26 | 2023-05-20 |
 | [Nightfall](https://open.spotify.com/track/2i84Ikz9GSlL02qdOQWf8e) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Nightfall](https://open.spotify.com/album/46WDYI69D4wO8wEkdxtjiB) | 2:44 | 2023-01-26 |  |
 | [Nocturnal Waltz](https://open.spotify.com/track/1cyZIM22N8kmBqdATPBmI7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Nocturnal Waltz](https://open.spotify.com/album/4WNTnQdoFo9GexkdBnAJus) | 2:08 | 2023-01-26 | 2024-04-19 |
@@ -132,7 +133,7 @@
 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 | 2023-03-12 |  |
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2023-01-26 | 2025-04-27 |
 | [Saying Things](https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI) | [Emanuel Fremont](https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc) | [Saying Things](https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9) | 2:03 | 2023-01-26 |  |
-| [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2023-01-26 |  |
+| [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 | 2023-01-26 | 2025-11-30 |
 | [Seven Days Walking / Day 7: Ascent](https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 7\)](https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp) | 5:24 | 2023-03-12 |  |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2023-01-26 | 2025-07-29 |
 | [Sintra](https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx) | [Algy Lacey](https://open.spotify.com/artist/4FOaoaFSozNtPQFy8O8t48) | [Sintra](https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04) | 3:24 | 2023-03-12 | 2025-11-03 |

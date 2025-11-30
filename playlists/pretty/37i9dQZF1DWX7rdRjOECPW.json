@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1593121,
+  "num_followers": 1592989,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
+        "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
+        "url": "https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C"
       },
       "artists": [
         {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 156463,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
+      "duration_ms": 170317,
+      "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
+      "url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -855,6 +859,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/4f7F3Kg3bB0aiWV3M97UBJ"
+      },
+      "artists": [
+        {
+          "name": "KAMRAD",
+          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
+        }
+      ],
+      "duration_ms": 156463,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/5ejTcCJOozPqRPMs9gW3pN"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Espresso Macchiato",
         "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
-        "url": "https://open.spotify.com/album/17RvvPlMKDeaDB4XIwkX4C"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 170317,
-      "name": "Best Day of My Life (BUNT. Version) (feat. Tom Odell)",
-      "url": "https://open.spotify.com/track/7A1QLN9c3uKeQdhp05o0jp"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 220838,
-      "name": "Assumptions",
-      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 220838,
+      "name": "Assumptions",
+      "url": "https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Helele",
-        "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
-      },
-      "artists": [
-        {
-          "name": "Noel Holler",
-          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 130298,
-      "name": "Helele",
-      "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "PRIDE",
         "url": "https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 158150,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Helele",
+        "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
+      },
+      "artists": [
+        {
+          "name": "Noel Holler",
+          "url": "https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 130298,
+      "name": "Helele",
+      "url": "https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU"
     },
     {
       "added_at": "2025-08-29 06:03:40",

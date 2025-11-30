@@ -4,7 +4,7 @@
 
 > With Yeat, Ken Carson, Autumn! and more
 
-50 songs - 1 hr 57 min
+52 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [AR\-15](https://open.spotify.com/track/0y81SHgKhCA9pwuOPQPG9z) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ) | [Bloody Bruddas](https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i) | 2:08 | 2025-11-29 |  |
 | [Been Off \(feat\. Yeat\)](https://open.spotify.com/track/1MTsf7pxtcAX2DVDVliJ2L) | [SeptembersRich](https://open.spotify.com/artist/2AXsnwUyL9eMUy3y0ly2si), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2high](https://open.spotify.com/album/2ILSr2xQkOORnjsZgUjcJ6) | 3:12 | 2025-11-29 |  |
 | [BIG 3](https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx), [Slimeto](https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4) | [BIG 3](https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu) | 2:02 | 2025-11-29 |  |
-| [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 |  |
+| [blood](https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf) | [lil2posh](https://open.spotify.com/artist/3h76PMHrHwdKLziJERRpAr) | [blood](https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM) | 2:18 | 2025-11-29 | 2025-11-30 |
 | [Blood On The Leaves \(Remix\)](https://open.spotify.com/track/1pxal7Zs5xxABW7Jf01RpL) | [1030Xhris](https://open.spotify.com/artist/7gfyemrwVrMbcKdxnjggaO), [yvngchris](https://open.spotify.com/artist/48jFxV79oOq1LYhYLtpVAV) | [Blood On The Leaves \(Remix\)](https://open.spotify.com/album/3bK84xF814GHAMKU2N1qH4) | 1:56 | 2025-11-29 |  |
 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 | 2025-11-29 |  |
 | [Chaser](https://open.spotify.com/track/36A5aim4D1Fo2vblwFssH9) | [Dayymein](https://open.spotify.com/artist/1AcrYxjl5ZAD7JABVwCERN) | [Chaser](https://open.spotify.com/album/50pOliJzSHi9CQz196Lyex) | 1:35 | 2025-11-29 |  |
@@ -26,6 +26,7 @@
 | [Full Of Them Drugs](https://open.spotify.com/track/1gGuQsf0rPBJEk05Rjhnn7) | [Screwly G](https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC) | [No Pain No Gain](https://open.spotify.com/album/0j4kcCJRc3pZgrApHgMlBt) | 3:10 | 2025-11-29 |  |
 | [GO](https://open.spotify.com/track/0L4J3hS3u7IQBtmA4w0Fuh) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [fivestarcrete](https://open.spotify.com/album/69R6d0gYngpEFplw3ticpl) | 2:32 | 2025-11-29 |  |
 | [Gotham](https://open.spotify.com/track/6UlMJm6W9ejt7WaSZgwN9N) | [Wavy](https://open.spotify.com/artist/2Cd5g6dhahk4tkc76TkiPm) | [Gotham](https://open.spotify.com/album/73HinW2N7BXiYzNfGy7yIm) | 2:33 | 2025-11-29 |  |
+| [Hatër](https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:32 | 2025-11-30 |  |
 | [Higher Than Yall \- feat\. KARRAHBOOO](https://open.spotify.com/track/5NpzNMgZJYcgDf7ay92fsw) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [IN MY GLORY](https://open.spotify.com/album/4RZllnrxIvTP1BKSa9SnOI) | 2:17 | 2025-11-29 |  |
 | [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 |  |
@@ -48,12 +49,13 @@
 | [Switchin Sides](https://open.spotify.com/track/0Qll2hFkRx6HDScTQwyxEM) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [HYPERNOVA.](https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og) | 2:29 | 2025-11-29 |  |
 | [SØB](https://open.spotify.com/track/4nGVDgCX2QWDaM7tbkRTOM) | [YhungBrazy](https://open.spotify.com/artist/2ltchQPvrP8I9FT0DfmUMf), [B4byTk](https://open.spotify.com/artist/0WYRmKLUKVSnkw15uMGzrm) | [EXPERIMENT II](https://open.spotify.com/album/6p0WzwLsrGQOuJrKF8i19J) | 2:48 | 2025-11-29 |  |
 | [Telephones](https://open.spotify.com/track/3rD9qqCHhKGUZqHeErKBf4) | [Curry B](https://open.spotify.com/artist/4gEmWKCVOfq7D3m4VibCs2) | [Telephones](https://open.spotify.com/album/7G6PCG8yjPJUvpp7jnoPZA) | 2:25 | 2025-11-29 |  |
+| [The Final Agenda](https://open.spotify.com/track/3M05L3jC4YpphpahJ9C3ps) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [The Final Agenda](https://open.spotify.com/album/3w5ew1faB4qurVIKGiBiW8) | 2:00 | 2025-11-30 |  |
 | [UP!](https://open.spotify.com/track/0wHDIhaF25Yddt2xyug75E) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [UP!](https://open.spotify.com/album/2LcFpUbAJL3yHNnuQJ6Sud) | 1:50 | 2025-11-29 |  |
 | [vetements jeans](https://open.spotify.com/track/3BQZLM6vMQWWZwMcx3kWeu) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [Denizlpsevv](https://open.spotify.com/artist/4pgSIfKXAJIobPChLgCBC2), [lznvrse](https://open.spotify.com/artist/7sVaqWeaXYCptHiY4fflgD) | [vetements jeans](https://open.spotify.com/album/0fVUcJ8RZDBxRFQqNR9qJ9) | 2:30 | 2025-11-29 |  |
 | [Voices In My Head](https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Voices In My Head](https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74) | 2:45 | 2025-11-29 |  |
 | [WAR 1](https://open.spotify.com/track/5PyjS9OsRJR0vEbFd7I6HA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/1n3e9mGQUpv1UXOxMre4My) | 2:33 | 2025-11-29 |  |
 | [Which 1 / Klueless](https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LORD](https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn) | 2:23 | 2025-11-29 |  |
-| [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 |  |
+| [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |
 | [Ya Ya](https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:18 | 2025-11-29 |  |
 | [Yale](https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM) | 1:46 | 2025-11-29 |  |
 | [you aint livin](https://open.spotify.com/track/38sNbOEGJ7enWMdB36U5Uw) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy), [xkt](https://open.spotify.com/artist/0HqPRbj8ohrUXHk25bmdIm), [khxznq](https://open.spotify.com/artist/1kuWGpWPlu9pGhLaA8TDnA) | [you aint livin](https://open.spotify.com/album/62JY04E0vjjM68GtdLqrzq) | 2:30 | 2025-11-29 |  |

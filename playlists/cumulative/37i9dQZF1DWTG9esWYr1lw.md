@@ -4,7 +4,7 @@
 
 > Celebrate Ramadan with these songs.
 
-59 songs - 3 hr 31 min
+60 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,9 +44,10 @@
 | [Ramadan Gannah](https://open.spotify.com/track/5e4yPEIj6zY8tAdEof5dDV) | [Osama Elhady](https://open.spotify.com/artist/6EjmT7yFpcA5ALiksWjiZm), [Omar Ghali](https://open.spotify.com/artist/116huztEYnFVQldfkkNtwB), [May Abdelaziz](https://open.spotify.com/artist/0ysUbgRgj8RpQQGn80ckzL) | [Ramadan Gannah](https://open.spotify.com/album/0pMr9lhGs2VemkQUfrty2P) | 1:38 | 2024-03-12 | 2024-04-19 |
 | [Ramadan Haretna](https://open.spotify.com/track/1A3Ky3wvcDlBMsVymuPCaq) | [Ahmed Khaled](https://open.spotify.com/artist/1UbrPSwusXyL3HM60PiiYZ) | [Ramadan Haretna](https://open.spotify.com/album/5zEQyPHa2a1hbTlSqNoWIr) | 3:27 | 2024-03-25 | 2025-01-29 |
 | [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 | 2024-03-12 |  |
+| [Ramadan Kareem](https://open.spotify.com/track/3nuHLgsBAfputkBxMzYNqa) | [Safia Ali](https://open.spotify.com/artist/2hbUUCwOHSSjEws8gNhN7N) | [Ramadan Kareem](https://open.spotify.com/album/6rZi9DL9UMx6IkgFvwvKA6) | 2:59 | 2025-02-28 |  |
 | [Ramadan Karim](https://open.spotify.com/track/6kC8PTMYaP5X3e5Zu0QyM0) | [Hakim](https://open.spotify.com/artist/5sTW6xhUuMh7cnDkg65P9p) | [Ramadan Karim](https://open.spotify.com/album/2dKT9YPw3ZBnw2Acglq70D) | 3:42 | 2024-03-12 | 2025-01-29 |
 | [Rmdan Gana](https://open.spotify.com/track/6jUCTPPX5VAEFaiQl75xel) | [Mohamed Abdel Mottaleb](https://open.spotify.com/artist/2nX9ORfbBVoEWXP7DonRGM) | [Rmdan Gana](https://open.spotify.com/album/4UJv2mZuwdolbIYrUsaqDL) | 9:46 | 2024-03-12 |  |
-| [Sebhet Ramadan](https://open.spotify.com/track/6jDdzsOWs4wreunHUnzGQe) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:40 | 2025-01-28 |  |
+| [Sebhet Ramadan](https://open.spotify.com/track/6jDdzsOWs4wreunHUnzGQe) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:40 | 2025-01-28 | 2025-11-30 |
 | [Shahr Ramadan](https://open.spotify.com/track/1eKfU40hKG21tJz0J8VgMW) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [El Ganna Fi Beyoutna](https://open.spotify.com/album/0wOv5sjQ2MM0rkgpX4qKFx) | 1:47 | 2024-03-12 | 2024-04-19 |
 | [Shan E Ramzan](https://open.spotify.com/track/0HgnvdAdcZJlpYAL7kkxUu) | [Danish & Dawar](https://open.spotify.com/artist/2KVv6lTptEbMVD6oOHCEaG) | [Shan E Ramzan](https://open.spotify.com/album/5WpEEY6Jk4exVxtY9RFdWl) | 4:10 | 2024-03-12 | 2025-02-02 |
 | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/track/4Yhx7H7UOXbwsyXwm8ASm7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sunnet El Hayah \(orange Ramadan 2020\)](https://open.spotify.com/album/6nEAMZsj8M7BPLVH8BBNAu) | 2:26 | 2024-03-12 |  |

@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Gigi Malua, Ed Sheeran,  Pronto, and more.
 
-20,486 songs - 42 day 10 hr 3 min
+20,486 songs - 42 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11547,6 +11547,7 @@
 | [Mayday](https://open.spotify.com/track/5E8kxgxJswnI9TBzISn1Zg) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Mayday](https://open.spotify.com/album/3Nzj9VBKatRVdE3Ac1L3pE) | 2:42 | 2024-12-12 | 2024-12-20 |
 | [Mayhem](https://open.spotify.com/track/2BHTcxcmb0av7DtQghjXzs) | [Nola Kin](https://open.spotify.com/artist/4rr8k0k3ZojhAxZuz1fJ9w) | [Mayhem](https://open.spotify.com/album/576b81RRcRCTurt3F95IQJ) | 4:28 | 2024-05-02 | 2024-05-10 |
 | [MAYNARD VIGNETTE \[Feat\. T.I., JID, Jacquees\]](https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [MAYNARD VIGNETTE \[Feat\. T.I., JID, and Jacquees\]](https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL) | 4:48 | 2023-09-07 | 2023-09-15 |
+| [Mayumi's Interlude](https://open.spotify.com/track/6ta8RwisNabL2hCJnqdC8X) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA), [MAYUMI](https://open.spotify.com/artist/5Wx5ziV6Zc23qcJlurOJXZ) | [2000er Mixtape](https://open.spotify.com/album/4cMnjqjx4iBt2PTGRzfOVa) | 2:13 | 2025-11-27 |  |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-10-06 | 2022-10-14 |
 | [MBIFE](https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO) | 3:49 | 2025-06-19 | 2025-06-27 |
 | [MDAA](https://open.spotify.com/track/4t6Rs1TNqlTvlUbIQTlnCT) | [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [MDAA](https://open.spotify.com/album/6bPgqXIWo9IydgOYaIeK6n) | 4:22 | 2024-10-10 | 2024-10-18 |
@@ -18117,7 +18118,6 @@
 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 | 2023-05-25 | 2023-06-02 |
 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 | 2022-11-03 | 2022-11-11 |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-30 | 2025-11-07 |
-| [Track 9](https://open.spotify.com/track/6ta8RwisNabL2hCJnqdC8X) | [DAWILL](https://open.spotify.com/artist/7oypIsVGKg4FIyuZM1AmeA) | [](https://open.spotify.com/album/null) | 0:00 | 2025-11-27 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Trackpants](https://open.spotify.com/track/42jivjDp82Ryxvz2OHWbaa) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [Welcome to the Endzone](https://open.spotify.com/album/4tnzrbEQ1eNNA401dlmCAh) | 2:20 | 2024-04-25 | 2024-05-03 |
 | [Tracksuit \(feat\. Bonez MC\)](https://open.spotify.com/track/2thijD7RBpT6rUwR9ogFAa) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Tracksuit \(feat\. Bonez MC\)](https://open.spotify.com/album/5fXkNE85RPtJTmkYOXuY7S) | 1:58 | 2022-11-10 | 2022-11-18 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 19973,
+  "num_followers": 19979,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
-        "name": "Episode 25",
-        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        }
-      ],
-      "duration_ms": 207026,
-      "name": "Farewell for now!",
-      "url": "https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
         "name": "K.A.R.D Project Vol.2 \"Don't Recall\"",
         "url": "https://open.spotify.com/album/4wTkdR3v9qFdRuCf2hpBZn"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 208666,
       "name": "Don't Recall",
       "url": "https://open.spotify.com/track/4b1sQpvL7QVgamRZ74F1oA"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
+        "name": "Episode 25",
+        "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 207026,
+      "name": "Farewell for now!",
+      "url": "https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH"
     },
     {
       "added_at": "2025-11-05 08:21:46",
@@ -634,11 +634,19 @@
         {
           "name": "DPR LIVE",
           "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+      "duration_ms": 203066,
+      "name": "Hula Hoops",
+      "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
     },
     {
       "added_at": "2025-11-05 08:21:46",
@@ -675,22 +683,6 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
-    },
-    {
-      "added_at": "2025-11-05 08:21:46",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -711,6 +703,22 @@
     {
       "added_at": "2025-11-05 08:21:46",
       "album": {
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
+    },
+    {
+      "added_at": "2025-11-05 08:21:46",
+      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -718,19 +726,11 @@
         {
           "name": "DPR LIVE",
           "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        },
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Hula Hoops",
-      "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
     },
     {
       "added_at": "2025-11-05 08:21:46",

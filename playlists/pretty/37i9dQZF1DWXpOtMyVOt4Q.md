@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,480 likes - 50 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,486 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 13 | [School Rooftop \- Slowed Down Version](https://open.spotify.com/track/6IaSUc4wx1rzo8lGs4KOot) | [Hisohkah](https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6), [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [School Rooftop \(Slowed Down Version\)](https://open.spotify.com/album/7irimAHIFr7vcR2IoJmOgZ) | 3:13 |
 | 14 | [numb](https://open.spotify.com/track/69pHMM7biztKZHCTnxnzFI) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [ambient vol 3](https://open.spotify.com/album/1SEsmp8PM5sHb4XUhUr0M7) | 1:41 |
 | 15 | [i could be the one \- Ambient](https://open.spotify.com/track/1EcReGfESece5aPkprId13) | [Inan](https://open.spotify.com/artist/4oI5YoRw5Brc56oaK0JYAG), [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM) | [i could be the one \(Ambient\)](https://open.spotify.com/album/04xShgHPjKfr6pxfKcVpGW) | 1:24 |
-| 16 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
-| 17 | [fading](https://open.spotify.com/track/3iNqSjrurD6LjMg973V8bx) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [fading](https://open.spotify.com/album/7caWk9V1eGdZfaXm9ZnKjk) | 1:41 |
+| 16 | [fading](https://open.spotify.com/track/3iNqSjrurD6LjMg973V8bx) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [fading](https://open.spotify.com/album/7caWk9V1eGdZfaXm9ZnKjk) | 1:41 |
+| 17 | [Island Bounce](https://open.spotify.com/track/1oxbRHkBMJCOSxt6WAL41F) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Island Bounce](https://open.spotify.com/album/0tC0zfmZKgr5MUDpA1m2yq) | 2:27 |
 | 18 | [Pulse](https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [Pulse](https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy) | 2:08 |
 | 19 | [this feeling](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling](https://open.spotify.com/album/4pxgrlu74Sk31RrGRH8FjL) | 1:34 |
 | 20 | [i was only temporary 2 u](https://open.spotify.com/track/1xyN0kSLjNWV1n9aSpia2m) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary 2 u](https://open.spotify.com/album/4hWU6zvJs0p0eUdUmjQHBj) | 1:36 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 44 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
 | 45 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 46 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
-| 47 | [lilac](https://open.spotify.com/track/2aIVnvIeWx5gkSi9DAezDF) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [lilac](https://open.spotify.com/album/5cluglvJrg5Sa1kpVzh0hK) | 2:02 |
-| 48 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
+| 47 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
+| 48 | [lilac](https://open.spotify.com/track/2aIVnvIeWx5gkSi9DAezDF) | [little blue](https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [lilac](https://open.spotify.com/album/5cluglvJrg5Sa1kpVzh0hK) | 2:02 |
 | 49 | [nightshift](https://open.spotify.com/track/1q3gj7XhHrwCcTst8I5XaJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [vertigo](https://open.spotify.com/album/5lnQqlfzuwhcX0ZcYsVbXg) | 1:46 |
 | 50 | [Future Gaze](https://open.spotify.com/track/3fNKFTgur8I1IqD62Y4B3M) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Future Gaze](https://open.spotify.com/album/1ghloy2krgdcTKvIStu6qf) | 2:26 |
 

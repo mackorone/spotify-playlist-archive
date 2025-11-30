@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-384 songs - 22 hr 24 min
+385 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Oba Ti De \(The King Has Come\)](https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH) | 2:30 | 2021-12-24 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2lsRx32D7fz6J8Gzao02ps) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Oh Holy Night](https://open.spotify.com/album/5LPZ4yyaHg0sNxZQv8ljPo) | 4:08 | 2023-12-15 |  |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 | 2023-11-04 |
-| [Oh Holy Night](https://open.spotify.com/track/3FjH18vLZnkwK8Bm6vMZrQ) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Oh Holy Night](https://open.spotify.com/album/3Hsx0Q8uYJMKxQ6mKxnayq) | 3:35 | 2024-12-08 |  |
+| [Oh Holy Night](https://open.spotify.com/track/3FjH18vLZnkwK8Bm6vMZrQ) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Oh Holy Night](https://open.spotify.com/album/3Hsx0Q8uYJMKxQ6mKxnayq) | 3:35 | 2024-12-08 | 2025-11-30 |
 | [Oh Sing For Joy](https://open.spotify.com/track/3dvE8w5uRaqgHtmgJmqut6) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Oh Sing For Joy](https://open.spotify.com/album/2eRxigMiJExZD2GywFVRx6) | 2:49 | 2024-11-29 |  |
 | [Oh What A Gift](https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Go Tell It](https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs) | 3:25 | 2024-10-27 |  |
 | [Oh, It’s Christmas!](https://open.spotify.com/track/4bCsqW97CsQAswDBuwGyzz) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:25 | 2021-12-24 |  |
@@ -375,6 +375,7 @@
 | [White Christmas](https://open.spotify.com/track/5pteOm3ioLG03qmNL1lZJn) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [All Heaven And Nature Sing](https://open.spotify.com/album/3yGqcUTfaxgJVcjAmn3FWQ) | 4:23 | 2021-12-24 | 2024-09-13 |
 | [White Christmas](https://open.spotify.com/track/1BtsXyRo4KHHhlJ3daoRXB) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [White Christmas](https://open.spotify.com/album/2M0e3x6XRFJClaE5qOL3lT) | 3:06 | 2021-12-24 | 2024-07-30 |
 | [White Christmas](https://open.spotify.com/track/785GHbJRiiQ1Guu8V8vgWf) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [The Spirit Of Christmas](https://open.spotify.com/album/11vKP9wxsaoQ0Ooosbute9) | 3:49 | 2021-12-24 |  |
+| [White Christmas](https://open.spotify.com/track/6T2E02qxoHNPlX0r3E9ZvE) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [White Christmas](https://open.spotify.com/album/04aGsBa97RVaDM1eZC7jiL) | 2:48 | 2025-11-28 |  |
 | [White Christmas](https://open.spotify.com/track/5j6eigKLRQgr3lP9sdsUsL) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [White Christmas](https://open.spotify.com/album/53UaQ99zUPZUbFOyqtrGii) | 4:13 | 2023-11-03 | 2024-07-30 |
 | [White Christmas \- 1947 Version](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2022-12-11 | 2023-11-23 |
 | [Who Would Imagine A King](https://open.spotify.com/track/6QvTNgKLJVBvKQTXcMxqMx) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Who Would Imagine A King](https://open.spotify.com/album/0GtTL5GRCNIoBA3PKQJXYo) | 2:58 | 2023-12-15 | 2024-07-30 |

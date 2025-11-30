@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-106 songs - 5 hr 25 min
+107 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [DE PLASTILINA](https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 3:29 | 2024-05-24 |  |
 | [DE PLASTILINA](https://open.spotify.com/track/6oA2XNlyXtGl0y49bdwIoI) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [DE PLASTILINA](https://open.spotify.com/album/0PoBB1ZYvloZYblyrAIWYa) | 3:29 | 2023-11-10 | 2024-05-24 |
 | [Demente](https://open.spotify.com/track/2ITfHO15LB2CFYKEhSS3dE) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Demente](https://open.spotify.com/album/0Co0kJYJLDW3Y7nG56jZLc) | 3:07 | 2023-11-10 | 2025-03-30 |
-| [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2023-11-10 |  |
+| [DISCOTEKA](https://open.spotify.com/track/6PSyxMi8vTq5m25Yh6Oc6J) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:54 | 2025-11-30 |  |
+| [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2023-11-10 | 2025-11-30 |
 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 | 2023-11-10 |  |
 | [EL CONDENAO](https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [EL CONDENAO](https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib) | 2:24 | 2024-01-13 | 2024-03-18 |
 | [EL CONDENAO](https://open.spotify.com/track/6Ve9LTqkZJqf9qj1S7sQ7q) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maka](https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:24 | 2024-03-17 |  |

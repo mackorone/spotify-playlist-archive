@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 381 songs - 22 hr 11 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 383 songs - 22 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -389,5 +389,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 379 | [Sweet Black Pussy](https://open.spotify.com/track/5Xc9nrpGF1UVtoMJg0c1Zn) | [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [Quik Is The Name](https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B) | 4:21 |
 | 380 | [Planet Out](https://open.spotify.com/track/3LYhKn0mORzxYVxG7AEb6s) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Planet Out](https://open.spotify.com/album/1BV3D7YkvdKchSLAeFF4i9) | 2:22 |
 | 381 | [I'm The Man](https://open.spotify.com/track/0lA40BOV8RfhBeyQSCeIqM) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [Lil' Dap](https://open.spotify.com/artist/4c6If3ZuEjpTDP0hvrlWC4), [Jeru The Damaja](https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ) | [Daily Operation](https://open.spotify.com/album/74DwNAuirHLDLVLrBQAnVg) | 4:04 |
+| 382 | [Capillary](https://open.spotify.com/track/4XOXyktJSSyepObphQj8Ke) | [Human Bloom](https://open.spotify.com/artist/2bPgXWPfsRSVwpc0SAdgpu) | [Capillary](https://open.spotify.com/album/45WeVaKTDU6Bs9bTr6WcSr) | 3:30 |
+| 383 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 |
 
-Snapshot ID: `AAAfRhHrJWUGq7szQzV/chIJ50tHNzHG`
+Snapshot ID: `AAAfSA7fOcKTLNeuOx5j1NrRTX3CxYJC`

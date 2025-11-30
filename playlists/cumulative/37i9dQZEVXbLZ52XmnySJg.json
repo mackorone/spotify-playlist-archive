@@ -1469,6 +1469,32 @@
     },
     {
       "album": {
+        "name": "Andaaz e Karam",
+        "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        },
+        {
+          "name": "ER",
+          "url": "https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437679,
+      "name": "Andaaz e Karam",
+      "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
+    },
+    {
+      "album": {
         "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
         "url": "https://open.spotify.com/album/7i3rOAK3iPA96QAekZeOrh"
       },
@@ -5750,7 +5776,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 182400,
       "name": "Dhundhala",
       "url": "https://open.spotify.com/track/5XseQZ9TGr06Rv1Ye6wCu0"
@@ -9294,7 +9320,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 322437,
       "name": "Humsafar (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/0OLTYqD8FpjkLsxJmdWmgi"
@@ -10932,7 +10958,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 236933,
       "name": "Jeene Laga Hoon",
       "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
@@ -11714,7 +11740,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 223459,
       "name": "Kabira",
       "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
@@ -15428,7 +15454,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States)",
       "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
@@ -19102,7 +19128,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 298771,
       "name": "Pehli Dafa",
       "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
@@ -19934,7 +19960,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 148666,
       "name": "Raat Ke Shikari",
       "url": "https://open.spotify.com/track/7oFrQLTu7Bi1xmTYLbBxHf"
@@ -20432,7 +20458,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
@@ -23794,7 +23820,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 299827,
       "name": "Tera Hone Laga Hoon",
       "url": "https://open.spotify.com/track/0dLbrlAVPPjpPqnYfmJsWk"
@@ -25330,7 +25356,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 341933,
       "name": "Tu Jaane Na",
       "url": "https://open.spotify.com/track/4iFPsNzNV7V9KJgcOX7TEO"
@@ -25532,7 +25558,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 261974,
       "name": "Tum Hi Ho",
       "url": "https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di"
@@ -27254,7 +27280,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
@@ -27840,7 +27866,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 303680,
       "name": "Zara Sa",
       "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"

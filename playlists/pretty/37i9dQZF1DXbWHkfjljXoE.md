@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Melodies of the movement\. Cover: Jimmy Cliff
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,589 likes - 67 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,606 likes - 67 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

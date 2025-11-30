@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Gaby Amarantos e mais mulheres incríveis no volume máximo! co\-curada por Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,682 likes - 46 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,685 likes - 46 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 42 | [Dollar Euro](https://open.spotify.com/track/3ejJ3fmMXk9V7vMXQtHwYN) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:53 |
 | 43 | [PÉROLAS](https://open.spotify.com/track/6EFSiocntAianAv1fbFRQN) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [PÉROLAS](https://open.spotify.com/album/2K4QpoVaFJ4Bmd3JxLDjo1) | 3:02 |
 | 44 | [Acesa](https://open.spotify.com/track/4p5iCqbJpcDeGw4BzQdZte) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb) | [Original Malokera](https://open.spotify.com/album/7DbMfDyobV6VHroeOMZjU8) | 3:09 |
-| 45 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
-| 46 | [tonteira](https://open.spotify.com/track/1GhoyYVzHWqgTeyxdWe3zR) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [DELÍRIOS](https://open.spotify.com/album/5zdy3MUjYs5tFsWCl5Vcg1) | 2:27 |
+| 45 | [tonteira](https://open.spotify.com/track/1GhoyYVzHWqgTeyxdWe3zR) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [DELÍRIOS](https://open.spotify.com/album/5zdy3MUjYs5tFsWCl5Vcg1) | 2:27 |
+| 46 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
 
 Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Celebrate Me Home",
+        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233558,
+      "name": "Celebrate Me Home",
+      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
+    },
+    {
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },

@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 155109,
       "name": "EsDeeKid Black Beatles",
       "url": "https://open.spotify.com/track/2NWIM96jHqnE59V8BXKGRL"
@@ -1752,7 +1752,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 153800,
       "name": "Miss Your Body",
       "url": "https://open.spotify.com/track/0IPBqw1WDfXfkzJgQaYOl9"
@@ -3738,6 +3738,24 @@
       "duration_ms": 190476,
       "name": "The Hand",
       "url": "https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns"
+    },
+    {
+      "album": {
+        "name": "The Harder They Come (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "The Harder They Come",
+      "url": "https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI"
     },
     {
       "album": {

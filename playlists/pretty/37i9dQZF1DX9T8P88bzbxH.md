@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Some nights aren’t meant to be streamed — this is one of them\. Cover: Passenger
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,197 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,189 likes - 20 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 19 | [Why Can't I Change](https://open.spotify.com/track/56U9Rvcb3qwRechN87yVwP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Why Can't I Change](https://open.spotify.com/album/43NlHOG0XuOBt07UcNTwyb) | 3:11 |
 | 20 | [Heart To Love](https://open.spotify.com/track/6tXjBoetvhsrvTJMupLGOf) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Heart To Love](https://open.spotify.com/album/4EJ6hoHjoeJzCd1NfqnYhV) | 3:17 |
 
-Snapshot ID: `AAAAAA6Mma4Ex/coyjKS2gBncL6bLNb2`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

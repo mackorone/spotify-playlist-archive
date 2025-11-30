@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1089215,
+  "num_followers": 1089277,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4ZmQvbyzljKnOcfC6ZOb3j"
+      },
+      "artists": [
+        {
+          "name": "TAKTST\u00d6RER",
+          "url": "https://open.spotify.com/artist/1ij6PT5l1KwrXPUY2nKLIa"
+        },
+        {
+          "name": "REDCHINAWAVE",
+          "url": "https://open.spotify.com/artist/48JtpOMQUGIFI0hQmGE4Lj"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2Kdn0lEqOL7wG64z5AZVjy"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
         "name": "Soul Survivor (feat. Ollie Wride)",
         "url": "https://open.spotify.com/album/5WOWb8G56KSeb6qFqIUJbR"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 358413,
       "name": "Getting Started",
       "url": "https://open.spotify.com/track/49oqW7nyd1MvKCbVgiwYGY"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/4ZmQvbyzljKnOcfC6ZOb3j"
-      },
-      "artists": [
-        {
-          "name": "TAKTST\u00d6RER",
-          "url": "https://open.spotify.com/artist/1ij6PT5l1KwrXPUY2nKLIa"
-        },
-        {
-          "name": "REDCHINAWAVE",
-          "url": "https://open.spotify.com/artist/48JtpOMQUGIFI0hQmGE4Lj"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/2Kdn0lEqOL7wG64z5AZVjy"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -883,22 +883,18 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "NOCTURNAL",
-        "url": "https://open.spotify.com/album/4EiiygcWETw9cQktdzQnUQ"
+        "name": "Selection 6",
+        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
       },
       "artists": [
         {
-          "name": "Owl Vision",
-          "url": "https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw"
-        },
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
         }
       ],
-      "duration_ms": 201282,
-      "name": "NOCTURNAL",
-      "url": "https://open.spotify.com/track/4nuZGGZFAo10NKnYLWVY3l"
+      "duration_ms": 229333,
+      "name": "Assembly Line",
+      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -923,18 +919,22 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "Selection 6",
-        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
+        "name": "NOCTURNAL",
+        "url": "https://open.spotify.com/album/4EiiygcWETw9cQktdzQnUQ"
       },
       "artists": [
         {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+          "name": "Owl Vision",
+          "url": "https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw"
+        },
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Assembly Line",
-      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
+      "duration_ms": 201282,
+      "name": "NOCTURNAL",
+      "url": "https://open.spotify.com/track/4nuZGGZFAo10NKnYLWVY3l"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "Teenage Dreams",
-        "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
-      },
-      "artists": [
-        {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
-        }
-      ],
-      "duration_ms": 208032,
-      "name": "Teenage Dreams",
-      "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
         "name": "Event Horizon",
         "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 247879,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
+        "name": "Teenage Dreams",
+        "url": "https://open.spotify.com/album/5kXBWACLETvBqSSAPJk66T"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "duration_ms": 208032,
+      "name": "Teenage Dreams",
+      "url": "https://open.spotify.com/track/5ieAZzAyXwaSnleRQgfz4z"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
+        "name": "Midnight Rush",
+        "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
       },
       "artists": [
         {
-          "name": "Ace Buchannon",
-          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
+          "name": "Midnight Fury",
+          "url": "https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
+      "duration_ms": 227478,
+      "name": "Midnight Rush",
+      "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
+      },
+      "artists": [
+        {
+          "name": "Ace Buchannon",
+          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
         "name": "Nostalgie",
         "url": "https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 255000,
       "name": "Nostalgie",
       "url": "https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
-        "name": "Midnight Rush",
-        "url": "https://open.spotify.com/album/2wATmdWSUWmfmPm1UxV72u"
-      },
-      "artists": [
-        {
-          "name": "Midnight Fury",
-          "url": "https://open.spotify.com/artist/7KtT9HksuZwyjNyarlG9CF"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "Midnight Rush",
-      "url": "https://open.spotify.com/track/3kJ3TGvlcGuTurW61yozSk"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -1611,38 +1611,6 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "Lullabye",
-        "url": "https://open.spotify.com/album/2OMmtZZdjI3CxBABLeNNwL"
-      },
-      "artists": [
-        {
-          "name": "Cozmoe",
-          "url": "https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Lullabye",
-      "url": "https://open.spotify.com/track/5kM9irKTHb7sYWbmxxK2Dq"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
-        "name": "Pressure Point",
-        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
-      },
-      "artists": [
-        {
-          "name": "Eagle Eyed Tiger",
-          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
-        }
-      ],
-      "duration_ms": 236216,
-      "name": "Tessellate",
-      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
         "name": "Lumen (Sightlok Remix)",
         "url": "https://open.spotify.com/album/2EISRLtAKdDq6HwGdDcdx5"
       },
@@ -1663,6 +1631,38 @@
       "duration_ms": 261707,
       "name": "Lumen - Sightlok Remix",
       "url": "https://open.spotify.com/track/2xDq5LHlqyrTAyo377caDv"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
+        "name": "Pressure Point",
+        "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
+      },
+      "artists": [
+        {
+          "name": "Eagle Eyed Tiger",
+          "url": "https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8"
+        }
+      ],
+      "duration_ms": 236216,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
+        "name": "Lullabye",
+        "url": "https://open.spotify.com/album/2OMmtZZdjI3CxBABLeNNwL"
+      },
+      "artists": [
+        {
+          "name": "Cozmoe",
+          "url": "https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Lullabye",
+      "url": "https://open.spotify.com/track/5kM9irKTHb7sYWbmxxK2Dq"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -2039,6 +2039,30 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
+        "name": "feel you",
+        "url": "https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou"
+      },
+      "artists": [
+        {
+          "name": "SHADXWBXRN",
+          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
+        },
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "leah julia",
+          "url": "https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D"
+        }
+      ],
+      "duration_ms": 118064,
+      "name": "feel you",
+      "url": "https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
         "name": "\u041d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443 \u0412\u0435\u0442\u0440\u0443",
         "url": "https://open.spotify.com/album/06bV1es0o3jgzdmpbA4RND"
       },
@@ -2071,30 +2095,6 @@
       "duration_ms": 208453,
       "name": "Sweet Gold (Ishi Rework)",
       "url": "https://open.spotify.com/track/7oMX85MldA1mO179d50SVQ"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
-        "name": "feel you",
-        "url": "https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou"
-      },
-      "artists": [
-        {
-          "name": "SHADXWBXRN",
-          "url": "https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx"
-        },
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "leah julia",
-          "url": "https://open.spotify.com/artist/2anFRwD3jRc3N8iTNaz41D"
-        }
-      ],
-      "duration_ms": 118064,
-      "name": "feel you",
-      "url": "https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "Sin",
-        "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
-      },
-      "artists": [
-        {
-          "name": "Idrissi",
-          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
-        }
-      ],
-      "duration_ms": 263076,
-      "name": "Sin",
-      "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 307747,
       "name": "Shame",
       "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
+        "name": "Sin",
+        "url": "https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT"
+      },
+      "artists": [
+        {
+          "name": "Idrissi",
+          "url": "https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF"
+        }
+      ],
+      "duration_ms": 263076,
+      "name": "Sin",
+      "url": "https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX"
     },
     {
       "added_at": "2025-10-03 04:01:02",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2025-10-03 04:01:02",
       "album": {
-        "name": "Remoteness",
-        "url": "https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF"
-      },
-      "artists": [
-        {
-          "name": "Donbor",
-          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
-        }
-      ],
-      "duration_ms": 344347,
-      "name": "Remoteness",
-      "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
-    },
-    {
-      "added_at": "2025-10-03 04:01:02",
-      "album": {
         "name": "Unknown Memories",
         "url": "https://open.spotify.com/album/7nFASYumUoZr10jLO1jald"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 357600,
       "name": "Intelli",
       "url": "https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K"
+    },
+    {
+      "added_at": "2025-10-03 04:01:02",
+      "album": {
+        "name": "Remoteness",
+        "url": "https://open.spotify.com/album/4e81Ii7x67nh2eqCkHPJZF"
+      },
+      "artists": [
+        {
+          "name": "Donbor",
+          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
+        }
+      ],
+      "duration_ms": 344347,
+      "name": "Remoteness",
+      "url": "https://open.spotify.com/track/5P2n0uDcFJdlWEXmT0JPgx"
     },
     {
       "added_at": "2025-10-03 04:01:02",

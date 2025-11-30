@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60139,
+  "num_followers": 60137,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Jammer Dan",
+        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 185137,
+      "name": "Jammer Dan",
+      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Blijven Slapen",
         "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 170991,
       "name": "Blijven Slapen",
       "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Jammer Dan",
-        "url": "https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 185137,
-      "name": "Jammer Dan",
-      "url": "https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Automatisch",
-        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 165768,
-      "name": "Automatisch",
-      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Goud",
         "url": "https://open.spotify.com/album/4BqgPdobyinht8gNWxcVE2"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 202943,
       "name": "Goud",
       "url": "https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Automatisch",
+        "url": "https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 165768,
+      "name": "Automatisch",
+      "url": "https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Waar Ga Je Heen",
         "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 179400,
       "name": "Waar Ga Je Heen",
       "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Doe Je Dansie",
+        "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
+      },
+      "artists": [
+        {
+          "name": "Jari Hellegers",
+          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Doe Je Dansie",
+      "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
       },
@@ -587,6 +603,22 @@
       "duration_ms": 167244,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Slapeloosheid",
+        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Slapeloosheid",
+      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -611,38 +643,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Doe Je Dansie",
-        "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
-      },
-      "artists": [
-        {
-          "name": "Jari Hellegers",
-          "url": "https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Doe Je Dansie",
-      "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Slapeloosheid",
-        "url": "https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Slapeloosheid",
-      "url": "https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "M\u00e1s M\u00e1s M\u00e1s",
         "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 154332,
       "name": "M\u00e1s M\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
-      },
-      "artists": [
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -711,6 +695,22 @@
       "duration_ms": 184671,
       "name": "Een Blik In Jouw Ogen",
       "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Zomernacht In Griekenland",
+        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "Zomernacht In Griekenland",
+      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Aan het strand van Porto Rico",
-        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 195249,
-      "name": "Aan het strand van Porto Rico",
-      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Honderd Keer",
         "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 196034,
       "name": "Honderd Keer",
       "url": "https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Aan het strand van Porto Rico",
+        "url": "https://open.spotify.com/album/22xxynlCMZmu9fe48Q4GQr"
+      },
+      "artists": [
+        {
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
+        }
+      ],
+      "duration_ms": 195249,
+      "name": "Aan het strand van Porto Rico",
+      "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Zij Wil Mij",
-        "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Zij Wil Mij",
-      "url": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "HJB",
         "url": "https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D"
       },
@@ -943,6 +927,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Zij Wil Mij",
+        "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Zij Wil Mij",
+      "url": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Kadootje",
         "url": "https://open.spotify.com/album/3wUAWcvGbOB5YEDDMW5ljy"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 143362,
       "name": "Kadootje",
       "url": "https://open.spotify.com/track/3lobrg5kdSljnSHKzCflxf"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 154003,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1015,22 +995,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Eenzame Nacht",
-        "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
-      },
-      "artists": [
-        {
-          "name": "Big2",
-          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
-        }
-      ],
-      "duration_ms": 160674,
-      "name": "Eenzame Nacht",
-      "url": "https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7"
       },
@@ -1047,6 +1011,42 @@
       "duration_ms": 198908,
       "name": "Rendez-Vous",
       "url": "https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 154003,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Eenzame Nacht",
+        "url": "https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "duration_ms": 160674,
+      "name": "Eenzame Nacht",
+      "url": "https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Kijk Ons Nou",
-        "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Metejoor",
-          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
-        }
-      ],
-      "duration_ms": 163709,
-      "name": "Kijk Ons Nou",
-      "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Sexy Lady",
         "url": "https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu"
       },
@@ -1131,6 +1111,26 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Kijk Ons Nou",
+        "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        }
+      ],
+      "duration_ms": 163709,
+      "name": "Kijk Ons Nou",
+      "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Nog Geen Si\u00ebsta",
         "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 159843,
       "name": "Nog Geen Si\u00ebsta",
       "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Un Chance",
-        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
-      },
-      "artists": [
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        }
-      ],
-      "duration_ms": 172385,
-      "name": "Un Chance",
-      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Un Chance",
+        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
+      },
+      "artists": [
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "duration_ms": 172385,
+      "name": "Un Chance",
+      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/5H5fc6WgOibuRqExv8sWf4"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "duration_ms": 185261,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Eiland",
         "url": "https://open.spotify.com/album/25DezsXXxdzEQolme5PAHV"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 126239,
       "name": "Eiland",
       "url": "https://open.spotify.com/track/6fTi4RA3zwCjmtcx2cUoCD"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "duration_ms": 185261,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
       "added_at": "2025-10-16 22:00:34",

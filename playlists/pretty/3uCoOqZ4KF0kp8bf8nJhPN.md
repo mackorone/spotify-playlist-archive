@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 
 > 
 
-[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 248 songs - 9 hr 55 min
+[Professor Poopypants](https://open.spotify.com/user/uct7ytv2q7a0toeusz1ilohli) - 1 like - 249 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,5 +256,6 @@ pretty - [cumulative](/playlists/cumulative/3uCoOqZ4KF0kp8bf8nJhPN.md) - [plain]
 | 246 | [Два пива](https://open.spotify.com/track/2ra5h8PS1nH3Bq4FFZ4yuu) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [молодой калуга](https://open.spotify.com/artist/0Tqo0PZewBqEA7VKODeWTF) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:57 |
 | 247 | [Дубчик](https://open.spotify.com/track/1uWUG6pioVivZHFDvgR90S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:03 |
 | 248 | [Freaks](https://open.spotify.com/track/0HUTL8i4y4MiGCPId7M7wb) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Buds](https://open.spotify.com/album/4cAEWgTGIU7kL1sgbivyGY) | 2:27 |
+| 249 | [YUCK!](https://open.spotify.com/track/37nSkzg3bcTQz0bS3snV3e) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [SWAGGOT!](https://open.spotify.com/album/4WJUXqDqrqXFmA2dDUasSg) | 1:34 |
 
-Snapshot ID: `AAAGJq4UgobMeHpfhGe71D5ZE+rh6XNT`
+Snapshot ID: `AAAGJ5l65Do3iwJaopXPDkUvFnTvcd6A`

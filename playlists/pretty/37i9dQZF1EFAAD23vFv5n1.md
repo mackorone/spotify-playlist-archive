@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 44 | [pupille](https://open.spotify.com/track/6MgC13CJNquIg6ptAhk6QF) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [IO NESSUNO](https://open.spotify.com/album/7qbzGRkW9CRRWGuOGA7Sq3) | 2:49 |
 | 45 | [Spacca](https://open.spotify.com/track/69rScwKrFucVdwIhViiAav) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 2:41 |
 | 46 | [RADIOHEAD](https://open.spotify.com/track/4kekbvyVtT0s584KFy8OVX) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [CALMOCOBRA](https://open.spotify.com/album/7898KzpDti7SFKSHi2Uy93) | 3:23 |
-| 47 | [Bollywood](https://open.spotify.com/track/3hfLzd5e6KUxzKu5pM5Q5a) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Manifesto](https://open.spotify.com/album/4YUfK0PiSPAYjJZst0Xd0t) | 3:03 |
-| 48 | [Mr\. Nobody](https://open.spotify.com/track/2nKAJsGygU8lWxd8VE6kjU) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 3:03 |
+| 47 | [Mr\. Nobody](https://open.spotify.com/track/2nKAJsGygU8lWxd8VE6kjU) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 3:03 |
+| 48 | [Bollywood](https://open.spotify.com/track/3hfLzd5e6KUxzKu5pM5Q5a) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Manifesto](https://open.spotify.com/album/4YUfK0PiSPAYjJZst0Xd0t) | 3:03 |
 | 49 | [Regole \(feat\. Carl Brave\)](https://open.spotify.com/track/4odsEF1NXdEeHMzAxcyFKc) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9), [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 3:03 |
 | 50 | [Give me love](https://open.spotify.com/track/7jsK3pWEdBwys6Jxnx0fUq) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 2:34 |
 | 51 | [E PENSIER MI](https://open.spotify.com/track/1v0mhr3VzTSpzHRylqXk4E) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 3:37 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 55 | [ok :/](https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt) | 2:52 |
 | 56 | [se mi pieghi non mi spezzi](https://open.spotify.com/track/5lIWKpRCBgYNgtnMAcXlvx) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO 2](https://open.spotify.com/album/09mCErmqw632szFpDPrvn0) | 2:49 |
 | 57 | [okok](https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 3:30 |
-| 58 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 |
-| 59 | [Solo un'idea](https://open.spotify.com/track/2IvX7FWI3rbMO0WL6o63Lx) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:37 |
+| 58 | [Solo un'idea](https://open.spotify.com/track/2IvX7FWI3rbMO0WL6o63Lx) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [INTERNET](https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz) | 3:37 |
+| 59 | [THE WORLD IS YOURS](https://open.spotify.com/track/4UaGQWKASSvNQZ2D1wRzel) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY) | [FEDE](https://open.spotify.com/album/5y2UTfhxtOcFE1v5S585kK) | 2:06 |
 | 60 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 |
 | 61 | [Gelatai](https://open.spotify.com/track/62rjhusM9EyTTtSk6l61wr) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 2:56 |
 | 62 | [Fossi come te](https://open.spotify.com/track/1FsO5N8jJ12vSq2LLhmTlv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 3:03 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 95 | [ok](https://open.spotify.com/track/5D9OWjK5p7eQyWPrr4jHlM) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 1:19 |
 | 96 | [Flights](https://open.spotify.com/track/3KKLnhraL4Dgdav4jDz3VY) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [projections on a human screen](https://open.spotify.com/album/6l6gC5OMQRjxPQFunLNRCP) | 3:07 |
 | 97 | [BUGIA](https://open.spotify.com/track/2LrD9eskzGNULjsdc4z8PG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 2:36 |
-| 98 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
-| 99 | [chissenefrega](https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA) | 2:33 |
+| 98 | [chissenefrega](https://open.spotify.com/track/3KD0W1cTkKp7L9obShsOSJ) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6qOC7izy6HXMCyGF9N29YA) | 2:33 |
+| 99 | [Fantasmi](https://open.spotify.com/track/6dY5LOFtTIwo54HeGclMxQ) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Fantasmi](https://open.spotify.com/album/6yQnrMHJtwV7AjRuWmHFeX) | 2:57 |
 | 100 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 |
 | 101 | [Come](https://open.spotify.com/track/7dQFTBVhEyJVfR60c8pt02) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Come](https://open.spotify.com/album/0TIFKEEBEyVDZGNcmxz40r) | 3:16 |
 | 102 | [Bambina](https://open.spotify.com/track/4jURDAhRGG8UkW1WTjSxkP) | [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Bambina](https://open.spotify.com/album/24DzoYmI9DkE8AqaQ593EP) | 2:59 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAD23vFv5n1.md) - [plain]
 | 158 | [Intro](https://open.spotify.com/track/6qyeQ7FdZXM44vqY2DWtv4) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 0:46 |
 | 159 | [Lo So](https://open.spotify.com/track/1bDgDSlaiBty5VenRsoSPP) | [Valentina](https://open.spotify.com/artist/7hgZDU5UtpRoaWEjfHsliw) | [Io So](https://open.spotify.com/album/57px9qcd6jgsymMSkJ0Rjx) | 3:39 |
 
-Snapshot ID: `AcC06AAAAACfINP+HMFhlOEUFkF97DGu`
+Snapshot ID: `AcC6iAAAAADh3zuqGBS4xTU3b+Kw38e9`

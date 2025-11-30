@@ -1,13 +1,29 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8842,
+  "num_followers": 8844,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSeUgAAAAABjFrTeUXwjMQFyu2g3GaQf",
+  "snapshot_id": "aSjmAAAAAABmTy2v5kEefFEAptWadaPV",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chill Navidad Vol. 1",
+        "url": "https://open.spotify.com/album/621ROPn0yiFE7qTqg4KFaT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 146454,
+      "name": "Santa Claus Lleg\u00f3 a la Ciudad",
+      "url": "https://open.spotify.com/track/4KZuz2dF3U0oKugVuFUjWm"
+    },
     {
       "added_at": null,
       "album": {
@@ -63,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R"
       },
       "artists": [
         {
@@ -74,7 +90,7 @@
       ],
       "duration_ms": 193843,
       "name": "Mami",
-      "url": "https://open.spotify.com/track/55t8gWMIShuAGtzcmomFvx"
+      "url": "https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb"
     },
     {
       "added_at": null,
@@ -167,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todita Me Encantas",
-        "url": "https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 137771,
-      "name": "Todita Me Encantas",
-      "url": "https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todita Me Encantas",
+        "url": "https://open.spotify.com/album/15qYJqe46DroUxj9Fa7b74"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 137771,
+      "name": "Todita Me Encantas",
+      "url": "https://open.spotify.com/track/7neeZNumEtyUe93ybWqr3N"
     },
     {
       "added_at": null,
@@ -311,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BACCARAT",
-        "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
-      },
-      "artists": [
-        {
-          "name": "Linea Personal",
-          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 157924,
-      "name": "BACCARAT",
-      "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loko",
         "url": "https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt"
       },
@@ -347,6 +343,26 @@
       "duration_ms": 128739,
       "name": "Loko",
       "url": "https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BACCARAT",
+        "url": "https://open.spotify.com/album/6wj2LMLRq13TAQHizN5PDG"
+      },
+      "artists": [
+        {
+          "name": "Linea Personal",
+          "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 157924,
+      "name": "BACCARAT",
+      "url": "https://open.spotify.com/track/4c3nS9PxDBRj7u9nLEYPpl"
     },
     {
       "added_at": null,
@@ -515,22 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vicio Mi Adicci\u00f3n",
-        "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
+        "name": "Me Ama Sin Temor",
+        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
       },
       "artists": [
         {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Grupo TMB",
+          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
         }
       ],
-      "duration_ms": 139685,
-      "name": "Mi Vicio Mi Adicci\u00f3n",
-      "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
+      "duration_ms": 203416,
+      "name": "Esto Avanza",
+      "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
     },
     {
       "added_at": null,
@@ -571,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Ama Sin Temor",
-        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
+        "name": "Mi Vicio Mi Adicci\u00f3n",
+        "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
         },
         {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 203416,
-      "name": "Esto Avanza",
-      "url": "https://open.spotify.com/track/252orSHU0AqE7TKvUaEWTh"
+      "duration_ms": 139685,
+      "name": "Mi Vicio Mi Adicci\u00f3n",
+      "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
     },
     {
       "added_at": null,
@@ -895,26 +911,6 @@
       "duration_ms": 200615,
       "name": "Una Rosa Blanca",
       "url": "https://open.spotify.com/track/1HWfuahHaDu2JAmqhpNMB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Ama Sin Temor",
-        "url": "https://open.spotify.com/album/6hLommr7Wr5zxefGelqMT9"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Grupo TMB",
-          "url": "https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Sin Mi Sufre",
-      "url": "https://open.spotify.com/track/3r9WCxHvUoyibVjLy3TJmL"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

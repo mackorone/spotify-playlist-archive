@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "BSATEK",
+        "url": "https://open.spotify.com/album/5oTYAJ3fwbQDeeY2yCQOig"
+      },
+      "artists": [
+        {
+          "name": "Al Walid Hallani",
+          "url": "https://open.spotify.com/artist/787IgWNnWqAWJ6UC9ENK8v"
+        }
+      ],
+      "date_added": "2025-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "BSATEK",
+      "url": "https://open.spotify.com/track/62YU4h92VO9GUQd2HKTtvr"
+    },
+    {
+      "album": {
         "name": "Byekhtelif El Hadis",
         "url": "https://open.spotify.com/album/5rvsqtrHc5RUoa5MoIzpyf"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-30",
       "duration_ms": 253124,
       "name": "Khedi El Ghamrat",
       "url": "https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9"

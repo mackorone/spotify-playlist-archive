@@ -4,11 +4,12 @@
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-108 songs - 6 hr 42 min
+111 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A la Droga Dile No](https://open.spotify.com/track/4jwJ4q8YpryDeoGaOhkwXo) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:31 | 2023-08-23 |  |
+| [A la Droga Dile No](https://open.spotify.com/track/4jwJ4q8YpryDeoGaOhkwXo) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:31 | 2023-08-23 | 2025-11-30 |
+| [A la Droga Dile No](https://open.spotify.com/track/7n1tTMyv5Aqp3bwYOg0PEN) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:31 | 2025-11-30 |  |
 | [Abandonado](https://open.spotify.com/track/4CylgVA9Bc2IBguAB86S8Z) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 3:28 | 2025-11-29 |  |
 | [Abandonado](https://open.spotify.com/track/5v8r5nnQuXUQL4qUTIAdrf) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 3:28 | 2023-08-23 | 2025-11-29 |
 | [Aguacero del Mal](https://open.spotify.com/track/2MeGAtJJbm6z9wT1GXJUXW) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F) | 3:47 | 2025-11-25 | 2025-11-28 |
@@ -92,9 +93,10 @@
 | [Si No](https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:59 | 2023-08-23 | 2025-11-27 |
 | [Sin Ti](https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 4:38 | 2023-08-23 | 2025-11-26 |
 | [Sin Ti](https://open.spotify.com/track/7E2vSzLfTAbFkXilM5pwpD) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:38 | 2025-11-27 |  |
-| [Siénteme](https://open.spotify.com/track/1Bxhj28H15EC7GDDooVU8M) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 5:04 | 2025-11-29 |  |
+| [Siénteme](https://open.spotify.com/track/1Bxhj28H15EC7GDDooVU8M) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 5:04 | 2025-11-29 | 2025-11-30 |
 | [Siénteme](https://open.spotify.com/track/1sHlR9KVDk35KBOLAx2tCO) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 5:04 | 2023-08-23 | 2024-12-25 |
 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 | 2024-12-26 |  |
+| [Te Extraño Igual](https://open.spotify.com/track/0zec2JiiYQKF6SaLyOCvCi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 2:46 | 2025-11-30 |  |
 | [Te Extraño Igual](https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 2:46 | 2023-09-09 | 2024-11-25 |
 | [Televidente](https://open.spotify.com/track/0nzVEX7ycl6THLtaOsQBxM) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:04 | 2023-08-23 | 2025-11-29 |
 | [Televidente](https://open.spotify.com/track/5y9vBsGD9XgtHRJkqQCUYr) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/1HT9jInLvJZu9Z21auNrtl) | 4:04 | 2025-11-29 |  |
@@ -112,7 +114,8 @@
 | [Vacío](https://open.spotify.com/track/3YrooSB4vVvAGoewSpPYMX) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:10 | 2025-11-27 |  |
 | [Ventana](https://open.spotify.com/track/2vEpXULPhUZDz4RhbmS6pL) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:38 | 2025-11-24 |  |
 | [Ventana](https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS) | 3:38 | 2023-08-23 | 2025-11-24 |
-| [Y Lloro](https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 3:44 | 2023-08-23 |  |
+| [Y Lloro](https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 3:44 | 2023-08-23 | 2025-11-30 |
+| [Y Lloro](https://open.spotify.com/track/2sK7V3dEOks0kZQ0u6qY8T) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 3:44 | 2025-11-30 |  |
 | [¡Vamos a Volver!](https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV) | 2:59 | 2023-08-23 | 2025-11-27 |
 | [¡Vamos a Volver!](https://open.spotify.com/track/3OIZe9MX0T7pt2Y16fqzVU) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [¡Vamos a Volver!](https://open.spotify.com/album/6EmqFtLENZxu7agXxrNw7e) | 2:59 | 2025-11-27 |  |
 | [Ángel Enamorado](https://open.spotify.com/track/0q8J417ceMA17xLXfrMoTr) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0) | 3:51 | 2025-11-26 | 2025-11-28 |

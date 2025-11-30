@@ -4,7 +4,7 @@
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-317 songs - 12 hr 13 min
+318 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Away with the Fairies](https://open.spotify.com/track/6Yp6bCLd4IWur1yL2Xirrk) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw) | [Away with the Fairies](https://open.spotify.com/album/1zfbxCBx19QGZoGsiivrcA) | 2:46 | 2022-04-15 | 2022-07-24 |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2022-04-15 | 2024-03-13 |
 | [Barry](https://open.spotify.com/track/1AkNp3Q3ygwZrTZ20TBuTw) | [falcxne](https://open.spotify.com/artist/5pHwJakVgh9gOqUEoT9ZYz) | [Timbits III \- Last Timbit of the Night](https://open.spotify.com/album/77DdAbZ2rKTZwCnD537QNt) | 3:44 | 2022-04-15 | 2022-07-19 |
-| [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 | 2022-04-15 |  |
+| [BEACH](https://open.spotify.com/track/1iN5j0yTid7A3VzEx8lwhe) | [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [CRAFT](https://open.spotify.com/album/3XHlFqpOeA7B0s8ZX7sX3a) | 2:46 | 2022-04-15 | 2025-11-30 |
 | [belas](https://open.spotify.com/track/4AiI4vY2SnkfGN6MbZpXtf) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/03rTwruRPImbzxnhEmO0wa) | 3:01 | 2022-04-15 | 2023-01-16 |
 | [belas](https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [ep seeds](https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf) | 3:01 | 2022-04-15 | 2024-03-13 |
 | [Birth](https://open.spotify.com/track/2IuahHLicmQfUD0JgZk5ME) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Birth](https://open.spotify.com/album/2SxPIjuvVoJiDM673eB7hU) | 2:39 | 2022-04-15 | 2025-09-10 |
@@ -130,6 +130,7 @@
 | [Istoria Mias Kalpikis Liras](https://open.spotify.com/track/56zxZc1luYs2HIXTkFGs05) | [Padma Purana](https://open.spotify.com/artist/2nebIURM77CcBY8Q5y187K) | [The Sketch](https://open.spotify.com/album/4YZ2pr5CNPPlX916nvUcnC) | 4:59 | 2022-04-15 | 2022-05-29 |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2022-04-15 |  |
 | [It's Time](https://open.spotify.com/track/0FQJcnHx67utr98s11Q2qX) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr) | [Time Brings Change](https://open.spotify.com/album/6u0d2H0Qs7aVdSp0bOGdG0) | 1:50 | 2024-03-12 |  |
+| [its not the time](https://open.spotify.com/track/68cwRG1sfkHrQQinU9Ibv9) | [Sarent](https://open.spotify.com/artist/0CdPrYbzWcdfC54xRFo28k) | [its not the time](https://open.spotify.com/album/0jp4ud99lCwQTBfHur3bXS) | 1:56 | 2024-03-12 |  |
 | [Jacaranda](https://open.spotify.com/track/6V8p59npenZZ2HaryaII9r) | [Lofi Coffee](https://open.spotify.com/artist/4lzccanVi9wOfGrXhRLlGY), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Jacaranda](https://open.spotify.com/album/11KVHT49O592ahjmQ0yjL4) | 2:47 | 2024-03-12 | 2025-08-27 |
 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 | 2022-04-15 |  |
 | [jocelyn](https://open.spotify.com/track/0piDIO7lJLc007jn2DqPcF) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [longing for you](https://open.spotify.com/album/66uBHTMoJVpedbTq7jyU2M) | 1:13 | 2022-04-15 | 2024-03-13 |

@@ -4,7 +4,7 @@
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-135 songs - 7 hr 40 min
+136 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Deja \(En Vivo\)](https://open.spotify.com/track/061ZBrJy7HX9bSQR0uw77g) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 3:34 | 2025-02-18 |  |
 | [Descuide](https://open.spotify.com/track/2XWHUrrYHOAorklNt3qLNi) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Descuide](https://open.spotify.com/album/7J8a7LO8Xx63MM6SkVg8BK) | 3:25 | 2024-10-13 |  |
 | [Descuide](https://open.spotify.com/track/7APmLuBrYJfp7pnXCYXR4v) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Descuide](https://open.spotify.com/album/28EXFZcrUDheYQcin98jmv) | 3:25 | 2023-08-08 | 2024-08-31 |
-| [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 | 2023-08-08 |  |
+| [Dile A Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/5QxL7Nv8J5gPqD6H0bKmAN) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yakifest Vol\. 4 \(En Vivo\)](https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD) | 3:46 | 2025-11-30 |  |
+| [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Dile a Tu Orgullo \(En Vivo\)](https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf) | 3:46 | 2023-08-08 | 2025-11-30 |
 | [DOMPERI](https://open.spotify.com/track/74ehWksBSyGTp7ytioyxf4) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [AXL](https://open.spotify.com/artist/5F1lZDYOxfcsSMEHF28hdH) | [DOMPERI](https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM) | 2:05 | 2024-06-23 | 2025-01-12 |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:45 | 2023-09-15 | 2025-11-17 |
 | [EL AMOR DE SU VIDA](https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Comienzo](https://open.spotify.com/album/6Zk9W9Ab3CnhttW5nBOUnY) | 2:45 | 2025-11-17 |  |
