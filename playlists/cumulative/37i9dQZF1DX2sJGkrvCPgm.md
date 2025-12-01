@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-498 songs - 1 day 7 hr 4 min
+499 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Make Good Your Christmas Day \(Renewed\)](https://open.spotify.com/track/4pTOhyPPEdoId614N81KFD) | [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6), [Annie Rose Nockels](https://open.spotify.com/artist/2FGdMWxr9jpNrjiCjp2778), [Elliana Nockels](https://open.spotify.com/artist/2vyl92aUXMc7Ll6oMka2tW) | [The Thrill of Hope Renewed](https://open.spotify.com/album/2IAtaheIjW5TzYHc4GtfkL) | 4:53 | 2021-12-24 | 2022-07-29 |
 | [Make Room](https://open.spotify.com/track/0lEWsFKKwItsH88Lv2QwB3) | [The Sing Team](https://open.spotify.com/artist/1laNwx3Sgr12cbdw3UTROn) | [The Last Christmas On Earth..\. Again!](https://open.spotify.com/album/0nMovNBGG59zb0XmniBhAF) | 4:16 | 2021-12-24 | 2022-07-27 |
 | [Make Room \(feat\. Matt Maher\)](https://open.spotify.com/track/2S7l1NX9bWLm0fgg8hhWYR) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [It's Finally Christmas \- EP](https://open.spotify.com/album/6yYrcNXcSslKmDkR2sfm6Q) | 4:26 | 2021-12-24 | 2024-08-02 |
+| [Manger In Me](https://open.spotify.com/track/36Rm7GJvHfd3jbNT4l8dlZ) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [Manger In Me](https://open.spotify.com/album/3AN2w2byEjjyblTYFxGEsT) | 3:41 | 2025-11-28 |  |
 | [Manger Throne](https://open.spotify.com/track/5mNCEaVEU2pA1ux6IZ8S5e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hallelujah! It's Christmas!](https://open.spotify.com/album/3MaCYkBn53nBUutcE18cCI) | 4:20 | 2024-12-08 |  |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:04 | 2022-11-26 | 2025-11-16 |
 | [Mary & Joseph](https://open.spotify.com/track/6Hg7qEygUthwiVVmbFh5kO) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Every December](https://open.spotify.com/album/6LxUBndkfp7428XpNOLyY4) | 4:04 | 2025-11-16 |  |
@@ -309,7 +310,7 @@
 | [Merry Everything, Happy Always](https://open.spotify.com/track/0CRbwCqkhetCZEEoX4USi3) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0) | [Merry Everything, Happy Always](https://open.spotify.com/album/5oK6KtXCuqwzTdO4k7SjFr) | 3:20 | 2025-10-26 |  |
 | [Messiah](https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Greatest Hits: The First Ten Years](https://open.spotify.com/album/2W1v9Xz8vVmsDsvkPj78jS) | 3:38 | 2021-12-24 |  |
 | [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 |  |
-| [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 |  |
+| [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 | 2025-12-01 |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 |  |
 | [Mistletoe Meltdown](https://open.spotify.com/track/6VYcqmoh8PqlsHQdvV4zAW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Irwin's Christmas Collection](https://open.spotify.com/album/317Rb3ssDv1clHRsHvEuYZ) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Mother to a Savior and King](https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Mother to a Savior and King](https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2) | 3:26 | 2024-11-29 |  |

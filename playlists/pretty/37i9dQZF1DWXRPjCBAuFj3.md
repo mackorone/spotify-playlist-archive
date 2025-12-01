@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Astro ha fatto cantare il forum 🎤 Brani virali e trend, rap e urban 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,821 likes - 98 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,853 likes - 98 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

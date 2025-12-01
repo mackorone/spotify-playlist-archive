@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Julia Vitória
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,713 likes - 48 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,733 likes - 48 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 47 | [Deus Vai Prover](https://open.spotify.com/track/0PZFqeFpIZEUYKru5RSko4) | [Isaque Marins](https://open.spotify.com/artist/6zbfUJ0PG8dHDjwHJEqE70) | [Deus Vai Prover](https://open.spotify.com/album/7lX6k7FEz0H7WGGYVQsrM3) | 4:05 |
 | 48 | [Batuque Santo](https://open.spotify.com/track/7ds3KaNekNwone71qAbGqn) | [Pr Aguinaldo Silva](https://open.spotify.com/artist/4TNF9YyE1nfDgVQ3TsciQ9) | [Batuque Santo](https://open.spotify.com/album/1nHBuEIwXeYzNxHnE29yDC) | 2:55 |
 
-Snapshot ID: `AAAAADEgtwiQDZWio4mZcNrk+LbTsKwJ`
+Snapshot ID: `AAAAAJfJ+mg7PSiq1fZzEnOyW4iiUti+`

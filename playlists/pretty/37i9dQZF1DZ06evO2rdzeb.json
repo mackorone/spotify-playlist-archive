@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 18007,
+  "num_followers": 18015,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAACDbAj7sXIWmLoKI0osFCXk",
+  "snapshot_id": "aSo3gAAAAAAa6Wefhjjnd5fU/zkfeMBM",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 148133,
+      "name": "what can you say",
+      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "b-sides",
         "url": "https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 188666,
       "name": "A Better Time to Meet",
       "url": "https://open.spotify.com/track/5qBdd2l8sQZe2270342ap7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 148133,
-      "name": "what can you say",
-      "url": "https://open.spotify.com/track/5DhfXSmIrTfcwOPJjGVFdv"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "cradle",
+      "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 206146,
       "name": "I Still Hear You",
       "url": "https://open.spotify.com/track/5axTmQJpmmKAPWUOBTJboB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "cradle",
-      "url": "https://open.spotify.com/track/197dwrbQhIhDTvtN6kGcvb"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live at Revolution Hall",
+        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 92827,
+      "name": "indiana & sneezing",
+      "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a-sides",
         "url": "https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 167640,
       "name": "Miss Misty",
       "url": "https://open.spotify.com/track/1zfxhBOhC0qFa5uIhw7P4s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Revolution Hall",
-        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 92827,
-      "name": "indiana & sneezing",
-      "url": "https://open.spotify.com/track/0c2QahAGwUgKgBdhS7WGcm"
     },
     {
       "added_at": null,
@@ -592,7 +592,7 @@
       "added_at": null,
       "album": {
         "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
       },
       "artists": [
         {
@@ -600,9 +600,25 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Hours Were the Birds",
-      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live at Revolution Hall",
+        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 268133,
+      "name": "little things - live",
+      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
       "duration_ms": 237066,
       "name": "Money",
       "url": "https://open.spotify.com/track/6uSLk87TiYs9uTqf23k0Sw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live at Revolution Hall",
-        "url": "https://open.spotify.com/album/75we1a6BxIFyoUrmW6fhdu"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 268133,
-      "name": "little things - live",
-      "url": "https://open.spotify.com/track/3D1HgplVqbguLDIPXBuDjj"
     },
     {
       "added_at": null,
@@ -664,7 +664,7 @@
       "added_at": null,
       "album": {
         "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
+      "duration_ms": 191000,
+      "name": "Hours Were the Birds",
+      "url": "https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j"
     },
     {
       "added_at": null,

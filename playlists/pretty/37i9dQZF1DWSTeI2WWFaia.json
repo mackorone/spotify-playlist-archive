@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Mick Jenkins",
-  "num_followers": 1576677,
+  "num_followers": 1576612,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
+        "name": "Muddy Waters Too",
+        "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi"
       },
@@ -735,42 +755,6 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "Muddy Waters Too",
-        "url": "https://open.spotify.com/album/5aahGTQnyEzNwR8Wy2lEpi"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Lalala",
-      "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
-        "name": "The Package",
-        "url": "https://open.spotify.com/album/5aqA250weVqDn8kmnk1MdD"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 193615,
-      "name": "The Package",
-      "url": "https://open.spotify.com/track/3xI6Rzk8MVtHuIXeM9TIPD"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
         "name": "GOLDFISH",
         "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 164713,
       "name": "Doing My Best",
       "url": "https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
+        "name": "The Package",
+        "url": "https://open.spotify.com/album/5aqA250weVqDn8kmnk1MdD"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 193615,
+      "name": "The Package",
+      "url": "https://open.spotify.com/track/3xI6Rzk8MVtHuIXeM9TIPD"
     },
     {
       "added_at": "2025-11-21 04:00:11",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-11-21 04:00:11",
       "album": {
-        "name": "Business Merger",
-        "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 217947,
-      "name": "Business Merger",
-      "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
-    },
-    {
-      "added_at": "2025-11-21 04:00:11",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 198466,
       "name": "LLC",
       "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
+    },
+    {
+      "added_at": "2025-11-21 04:00:11",
+      "album": {
+        "name": "Business Merger",
+        "url": "https://open.spotify.com/album/2GiNskl3pHoXqoy5sSKbbQ"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 217947,
+      "name": "Business Merger",
+      "url": "https://open.spotify.com/track/5B3I3LGIa6AYixY0JXLlk8"
     },
     {
       "added_at": "2025-11-21 04:00:11",

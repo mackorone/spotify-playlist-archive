@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Festivus Rocks!",
+        "url": "https://open.spotify.com/album/5elQ75PyN8McdSGT9WdtcK"
+      },
+      "artists": [
+        {
+          "name": "The Lollygags",
+          "url": "https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137990,
+      "name": "Festivus Rocks!",
+      "url": "https://open.spotify.com/track/4PW4OeLpaAVituvNzEH6J5"
+    },
+    {
+      "album": {
         "name": "The Steel II",
         "url": "https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd"
       },

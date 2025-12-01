@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,321 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,454 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,19 +32,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 22 | [Typewriter \(feat\. Kenny Mason\)](https://open.spotify.com/track/1p5i2fVazI6bUVmwWTJfaj) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Pilot](https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8) | 3:31 |
 | 23 | [A+](https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [A+](https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W) | 2:35 |
 | 24 | [On My Own](https://open.spotify.com/track/381ZchHz1RGQDMpa4joKTF) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [On My Own](https://open.spotify.com/album/6OL6ERT5xuNLdy79B611vQ) | 2:46 |
-| 25 | [Real Shit](https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Real Shit](https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn) | 2:39 |
-| 26 | [Passion \(feat\. BIG30\)](https://open.spotify.com/track/0GnBxRkTOMVe7FsRzReEzf) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [T.B.C](https://open.spotify.com/album/3YarlQeJ1TUb0Zdu76bOJV) | 3:43 |
-| 27 | [BACK IN THE MIX](https://open.spotify.com/track/1aYbEsnPtBurW3ZCLhAtbw) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 2:08 |
-| 28 | [BACK FROM THE DEAD](https://open.spotify.com/track/1w1IeOanBnBzqwOuXtI05p) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [BACK FROM THE DEAD](https://open.spotify.com/album/018mnNBFvZyxiKooIPTaNg) | 3:01 |
-| 29 | [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 |
-| 30 | [5 Minutes](https://open.spotify.com/track/20FS5AzppamC9rKwuYdILa) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [5 Minutes](https://open.spotify.com/album/6xj1iQq8uxX5dCWDq39IUu) | 2:06 |
-| 31 | [PIECES ON MY NECK\. FT\. 21 SAVAGE.](https://open.spotify.com/track/4TDYdPYPWOAEUpNoKhe706) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [ALREADY LEGEND.](https://open.spotify.com/album/7MbzkywCcPijCRW45bQUeo) | 4:00 |
-| 32 | [777](https://open.spotify.com/track/0UjHDsV44xnLDp6YWDcEPv) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [777](https://open.spotify.com/album/5wNHjkk2nmOsoP1dj5fFN2) | 3:04 |
-| 33 | [Leavin](https://open.spotify.com/track/7Lo6USa0PiDkwSL3SkohSi) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Leavin](https://open.spotify.com/album/3vz6TtkNMj2rdOIsJsTA3I) | 2:48 |
-| 34 | [Sprite On The Nightstand](https://open.spotify.com/track/3U2MdgJ47hhrhJbSKJ9sFO) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Sprite On The Nightstand](https://open.spotify.com/album/1gtN6HdHsSD8LQQ4pgSvaM) | 3:03 |
-| 35 | [The Story of Adam & Eve](https://open.spotify.com/track/2xMLzp9R3IrXs3BSv89x6N) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5) | [BLKBRD](https://open.spotify.com/album/7JFaI55xtXiJzNVRGbTpwp) | 4:31 |
-| 36 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
-| 37 | [Yopps](https://open.spotify.com/track/2CVTpLmGPBrEKVncvpYKwd) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Stikkz n Stonez](https://open.spotify.com/album/2YrlJEn5gJ1fKVuHTbyIB6) | 2:19 |
+| 25 | [Passion \(feat\. BIG30\)](https://open.spotify.com/track/0GnBxRkTOMVe7FsRzReEzf) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [T.B.C](https://open.spotify.com/album/3YarlQeJ1TUb0Zdu76bOJV) | 3:43 |
+| 26 | [BACK IN THE MIX](https://open.spotify.com/track/1aYbEsnPtBurW3ZCLhAtbw) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 2:08 |
+| 27 | [BACK FROM THE DEAD](https://open.spotify.com/track/1w1IeOanBnBzqwOuXtI05p) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [BACK FROM THE DEAD](https://open.spotify.com/album/018mnNBFvZyxiKooIPTaNg) | 3:01 |
+| 28 | [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 |
+| 29 | [5 Minutes](https://open.spotify.com/track/20FS5AzppamC9rKwuYdILa) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [5 Minutes](https://open.spotify.com/album/6xj1iQq8uxX5dCWDq39IUu) | 2:06 |
+| 30 | [PIECES ON MY NECK\. FT\. 21 SAVAGE.](https://open.spotify.com/track/4TDYdPYPWOAEUpNoKhe706) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [ALREADY LEGEND.](https://open.spotify.com/album/7MbzkywCcPijCRW45bQUeo) | 4:00 |
+| 31 | [777](https://open.spotify.com/track/0UjHDsV44xnLDp6YWDcEPv) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [777](https://open.spotify.com/album/5wNHjkk2nmOsoP1dj5fFN2) | 3:04 |
+| 32 | [Leavin](https://open.spotify.com/track/7Lo6USa0PiDkwSL3SkohSi) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Leavin](https://open.spotify.com/album/3vz6TtkNMj2rdOIsJsTA3I) | 2:48 |
+| 33 | [Sprite On The Nightstand](https://open.spotify.com/track/3U2MdgJ47hhrhJbSKJ9sFO) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Sprite On The Nightstand](https://open.spotify.com/album/1gtN6HdHsSD8LQQ4pgSvaM) | 3:03 |
+| 34 | [The Story of Adam & Eve](https://open.spotify.com/track/2xMLzp9R3IrXs3BSv89x6N) | [iAMLYRIC](https://open.spotify.com/artist/57tjtvBR1dB7aZQPKmV1Y5) | [BLKBRD](https://open.spotify.com/album/7JFaI55xtXiJzNVRGbTpwp) | 4:31 |
+| 35 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
+| 36 | [Yopps](https://open.spotify.com/track/2CVTpLmGPBrEKVncvpYKwd) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Stikkz n Stonez](https://open.spotify.com/album/2YrlJEn5gJ1fKVuHTbyIB6) | 2:19 |
+| 37 | [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 |
 | 38 | [Ight](https://open.spotify.com/track/55KwbKQL8xjTgpQQWADktJ) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Ight](https://open.spotify.com/album/3FWZAunLnqqSdJ982uYCcS) | 2:37 |
 | 39 | [Tsunami \(feat\. Future & Travis Scott\)](https://open.spotify.com/track/1AvZXYluV7hMnqCXZnWpBH) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Nomad](https://open.spotify.com/album/7j6mSOEPv6m0JOZXwFXymX) | 3:19 |
 | 40 | [IRDC](https://open.spotify.com/track/7JIgpHtU0fZOlnzL1JYDBv) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [IRDC](https://open.spotify.com/album/5R18debjLS1B8EpiIY5hu7) | 1:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [Check Please \(feat\. Lil Jairmy & MG Lil Bubba\)](https://open.spotify.com/track/7FoPnPOvJk2WsgPz9YPd3B) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [Check Please \(feat\. Lil Jairmy & MG Lil Bubba\)](https://open.spotify.com/album/1xVoXzCE71rSv8YrwPp1Xd) | 3:25 |
 | 100 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 |
 
-Snapshot ID: `AAAAAEgTuJw6afJo2d0zvyVdSPBAEsYE`
+Snapshot ID: `AAAAAE996XM1X3BWIPKqaFpN3fMu1fcU`

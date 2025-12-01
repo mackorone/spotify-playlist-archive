@@ -4,7 +4,7 @@
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-268 songs - 23 hr 13 min
+269 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Pode Dormir Tranquilo](https://open.spotify.com/track/3iw959smgKf8scwjRCRjgZ) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pode Dormir Tranquilo](https://open.spotify.com/album/0QCRShUgYQMgBeDVvBdPRj) | 4:48 | 2022-09-09 | 2024-08-17 |
 | [Poder da Adoração \- Ao Vivo](https://open.spotify.com/track/5ePUwilvbEoHaNlpuSi3P2) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Poder da Adoração \(Ao Vivo\)](https://open.spotify.com/album/3G1fEpSTuDrFITxPst8CB5) | 5:34 | 2024-11-29 |  |
 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 | 2022-09-09 | 2024-08-10 |
+| [Porta Aberta Por Deus \(Ao Vivo\)](https://open.spotify.com/track/4vtHOQxQAC6tAKXvqTtSCZ) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Porta Aberta Por Deus \(Ao Vivo\)](https://open.spotify.com/album/3iSb7sZnncjj6U66Jc2q9q) | 4:28 | 2025-11-30 |  |
 | [Porto Seguro \- Ao Vivo](https://open.spotify.com/track/4ph4whtySo49oD5BScMSdT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Porto Seguro \(Ao Vivo\)](https://open.spotify.com/album/1nrrM8gk1SiXeqWMUnMSnk) | 5:35 | 2023-06-02 | 2023-06-24 |
 | [Porção Dobrada \- Ao Vivo](https://open.spotify.com/track/2BXZdode9c7dhmULER8eeH) | [Nicole Souza](https://open.spotify.com/artist/6N4mA434gRvPgBHqMhLD0Z), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Porção Dobrada \(Ao Vivo\)](https://open.spotify.com/album/42hmHRaR9hJMqU1Jdl7NzK) | 5:23 | 2023-12-22 | 2024-04-20 |
 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 | 2023-09-08 |  |
@@ -221,7 +222,7 @@
 | [Recursos](https://open.spotify.com/track/0m1n3GsWSGMWTKS6m2AtTm) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j) | [Recursos](https://open.spotify.com/album/7mb788K0YryGvPkHTFWs2Z) | 5:46 | 2022-11-26 | 2023-03-04 |
 | [Respire Fundo](https://open.spotify.com/track/1tWh1QYyjOE1du04qRuM4n) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Respire Fundo](https://open.spotify.com/album/7LXBZsXpFrJVEzeLfMFYmW) | 5:04 | 2022-09-09 | 2022-11-26 |
 | [Santidade](https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH) | [Santidade](https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt) | 6:20 | 2023-02-03 | 2025-04-06 |
-| [Se Não Fosse a Tua Mão](https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse a Tua Mão](https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw) | 5:10 | 2023-10-06 |  |
+| [Se Não Fosse a Tua Mão](https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse a Tua Mão](https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw) | 5:10 | 2023-10-06 | 2025-12-01 |
 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 | 2023-02-03 |  |
 | [Senhor do Tempo](https://open.spotify.com/track/1kvm741326ae0jl9mnTyGq) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Senhor do Tempo](https://open.spotify.com/album/1001o6hTMbdx3xipS9NNfE) | 4:34 | 2022-10-28 | 2023-04-22 |
 | [Seu Nome é Maravilhoso](https://open.spotify.com/track/5JHUOK6T6dfbyuL0aWhsJG) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU) | [Seu Nome é Maravilhoso](https://open.spotify.com/album/5p5WRZBJEJcaiIkKVoxdRS) | 5:54 | 2024-06-28 | 2024-11-30 |

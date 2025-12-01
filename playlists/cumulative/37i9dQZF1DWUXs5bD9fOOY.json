@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Gifts For Me",
+        "url": "https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150209,
+      "name": "Gifts For Me",
+      "url": "https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B"
+    },
+    {
+      "album": {
         "name": "Giving In To Christmas",
         "url": "https://open.spotify.com/album/5dVrOJjgarBdpyZZ72MNMH"
       },
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 215369,
       "name": "Wonderland",
       "url": "https://open.spotify.com/track/5rVlWkobkBjexEFI4DunQs"
@@ -1956,7 +1974,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 220975,
       "name": "\u30e1\u30cb\u30fc\u30af\u30ea\u30b9\u30de\u30b9",
       "url": "https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2"

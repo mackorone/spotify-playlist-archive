@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Gigi Malua, Ed Sheeran,  Pronto, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,236 likes - 94 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,235 likes - 94 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

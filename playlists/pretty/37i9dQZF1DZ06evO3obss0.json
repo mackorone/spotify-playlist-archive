@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 152486,
+  "num_followers": 152669,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAAAjwFr0SEKQctp+D+71kq2H",
+  "snapshot_id": "aSo3gAAAAACB8dUp0BTryIUYk/mP+wT8",
   "tracks": [
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golden Boy",
+        "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
+      },
+      "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Check (with RAYE)",
+      "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BED (David Guetta Festival Mix)",
         "url": "https://open.spotify.com/album/25SO6nYRYrNwBngu5UwThd"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 235200,
       "name": "BED - David Guetta Festival Mix",
       "url": "https://open.spotify.com/track/7ft8GUKMIuFnH4lueyOTQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Boy",
-        "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
-      },
-      "artists": [
-        {
-          "name": "Kojo Funds",
-          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Check (with RAYE)",
-      "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
     },
     {
       "added_at": null,

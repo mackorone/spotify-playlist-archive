@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 154200,
+  "num_followers": 154215,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAAA2VtImmqC4EBRp+Ag7iV6y",
+  "snapshot_id": "aSo3gAAAAABFcgEPuMEaOKwU73ldJflj",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 223280,
-      "name": "Who Knew",
-      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
       },
@@ -811,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 223280,
+      "name": "Who Knew",
+      "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II: The Album",
         "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
       },
@@ -823,26 +823,6 @@
       "duration_ms": 210563,
       "name": "Love Me Like That (Champion Love)",
       "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Conspiracy",
-        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "One and Only (feat. Ella Mai)",
-      "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
     },
     {
       "added_at": null,
@@ -867,6 +847,26 @@
       "duration_ms": 183019,
       "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "One and Only (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
     },
     {
       "added_at": null,

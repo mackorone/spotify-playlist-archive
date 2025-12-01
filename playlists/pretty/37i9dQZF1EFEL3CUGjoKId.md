@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 74 | [You Are](https://open.spotify.com/track/62uiiYymnTL5Wdg1mteftv) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:35 |
 | 75 | [Lonely Without You](https://open.spotify.com/track/15Qk9LpIbGpA6f2mdm1218) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Crazy About the Blues](https://open.spotify.com/album/0S9mjaLKoH28jETRQnqTAz) | 5:15 |
 | 76 | [No Road is the Right Road](https://open.spotify.com/track/0lKqucToJeUDFl4GFFHnnk) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 2:51 |
-| 77 | [Bad Journey](https://open.spotify.com/track/7juqWYgrx078A71i0G8Ro0) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:29 |
-| 78 | [So Sincere](https://open.spotify.com/track/45Ina2dQ0oyxmGKsgytuna) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:39 |
+| 77 | [So Sincere](https://open.spotify.com/track/45Ina2dQ0oyxmGKsgytuna) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:39 |
+| 78 | [Bad Journey](https://open.spotify.com/track/7juqWYgrx078A71i0G8Ro0) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:29 |
 | 79 | [Anything Is Possible](https://open.spotify.com/track/0p8nBFrIyfWoczdWjKGQwc) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:15 |
 | 80 | [Liar](https://open.spotify.com/track/0FqXgAtf7GNLZTnJRxNezD) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:53 |
 | 81 | [Cue The Rain](https://open.spotify.com/track/3dO4sPGkX9NFlQw9NzpeZI) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Persona](https://open.spotify.com/album/0Rjo4NtlrmWNNoW9hX05N6) | 6:02 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEL3CUGjoKId.md) - [plain]
 | 86 | [Sweet Revenge](https://open.spotify.com/track/469gfzBdPNs6FfZ9SMEvlw) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 3:50 |
 | 87 | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/track/5wUSCnSTvyRXUJzpAaorhz) | [GTF](https://open.spotify.com/artist/6qa9mE0Y9cguezXeXWJBQ1) | [Wanna Be With You \(Everywhere\)](https://open.spotify.com/album/1tAkT1wiSxVsR2hgYcirAh) | 3:15 |
 
-Snapshot ID: `AcC6sAAAAADd+sD61XM1Z3qQ0iKaIGsF`
+Snapshot ID: `AcDAUAAAAABe1E6svsRgIQx8GLTuytqO`

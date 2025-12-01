@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 19035,
+  "num_followers": 19072,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "Darkside 2075",
-        "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
-      },
-      "artists": [
-        {
-          "name": "Coakira",
-          "url": "https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K"
-        },
-        {
-          "name": "monoqlom",
-          "url": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
-        }
-      ],
-      "duration_ms": 165999,
-      "name": "From The Darkside (monoqlom Remix)",
-      "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
-    },
-    {
-      "added_at": "2025-11-07 08:48:49",
-      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 163255,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu"
+    },
+    {
+      "added_at": "2025-11-07 08:48:49",
+      "album": {
+        "name": "Darkside 2075",
+        "url": "https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z"
+      },
+      "artists": [
+        {
+          "name": "Coakira",
+          "url": "https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K"
+        },
+        {
+          "name": "monoqlom",
+          "url": "https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg"
+        }
+      ],
+      "duration_ms": 165999,
+      "name": "From The Darkside (monoqlom Remix)",
+      "url": "https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m"
     },
     {
       "added_at": "2025-11-07 08:48:49",
@@ -915,22 +915,18 @@
     {
       "added_at": "2025-11-07 08:48:49",
       "album": {
-        "name": "Republica Cafe Gold (Compiled by Marco Fullone)",
-        "url": "https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy"
+        "name": "Dig And Edit",
+        "url": "https://open.spotify.com/album/6dlg67iT0UFkeCGlK7nsw2"
       },
       "artists": [
         {
-          "name": "Hideo Kobayashi",
-          "url": "https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM"
-        },
-        {
-          "name": "Christa",
-          "url": "https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp"
+          "name": "KZA (Force Of Nature)",
+          "url": "https://open.spotify.com/artist/59BQ7tm1rb3WDlkEIVRwAs"
         }
       ],
-      "duration_ms": 326999,
-      "name": "Beautiful Moment - Original Floor Mix",
-      "url": "https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe"
+      "duration_ms": 389480,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/7Ft2WruIDTob1A8X4WCT5V"
     }
   ],
   "unique_name": "Tokyo Club Beat",

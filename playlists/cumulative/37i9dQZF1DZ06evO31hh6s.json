@@ -165,6 +165,32 @@
     },
     {
       "album": {
+        "name": "Watch the Signs",
+        "url": "https://open.spotify.com/album/2s0i0w7Lnv63uxDMrOOMxd"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Deuce Deuce",
+          "url": "https://open.spotify.com/artist/076I9mh0LL6igSU0alHNzF"
+        },
+        {
+          "name": "Aktual",
+          "url": "https://open.spotify.com/artist/3w7mWtRkKH3dCzX4JuJfDD"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177965,
+      "name": "Anamosity (feat. Aktual)",
+      "url": "https://open.spotify.com/track/31CLsGI7SUISfJVl8Ep5Lo"
+    },
+    {
+      "album": {
         "name": "Eternal Legend",
         "url": "https://open.spotify.com/album/0HGHc3rDuEchbyP5t3UJNn"
       },
@@ -260,7 +286,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 213904,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/6x84cOoTHrCnO8RBfE9Bb4"
@@ -956,7 +982,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 152973,
       "name": "God Said It",
       "url": "https://open.spotify.com/track/35U2IpCtyStfdDINC57O5t"
@@ -1574,7 +1600,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 254453,
       "name": "Magic (feat. Young Noble & Tha Chill)",
       "url": "https://open.spotify.com/track/4UjPpiWFE2Pm0Hg54j4sk0"
@@ -2340,7 +2366,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 289163,
       "name": "Rolling 200 Deep XI",
       "url": "https://open.spotify.com/track/58n5t84X5mmRlzda7fZaOZ"
@@ -2410,7 +2436,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"

@@ -4,7 +4,7 @@
 
 > 
 
-60 songs - 4 hr 7 min
+61 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 | 2025-07-13 |  |
 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 | 2025-10-21 |  |
 | [How Liberty Dies](https://open.spotify.com/track/3JZw17iEok1bdXdmny1Tco) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [How Liberty Dies](https://open.spotify.com/album/6B8JOR5XGQ6X0PyQkqHWP4) | 2:13 | 2025-11-05 |  |
+| [I Am a Jedi](https://open.spotify.com/track/2U0sNA99tgmDUxDvnukqJT) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [I Am a Jedi](https://open.spotify.com/album/3T9U4Po9LYbShRBuEECFdL) | 2:15 | 2025-11-30 |  |
 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 | 2025-11-15 |  |
 | [I Won't Say \(I'm In Love\)](https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi) | [Susan Egan](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 2:20 | 2025-07-13 | 2025-10-23 |
 | [In a Crowd of Thousands](https://open.spotify.com/track/5cdvyKY2z1kySEnUKI0VuO) | [Derek Klena](https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw), [Christy Altomare](https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4) | [Anastasia \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4KR0G4TOElOb5JEgKeyrKI) | 3:45 | 2025-11-07 |  |

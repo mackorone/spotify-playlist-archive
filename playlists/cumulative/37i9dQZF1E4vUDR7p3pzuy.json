@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, JUST LIZZY, Julien-K and more",
+  "description": "With Synthetik Blonde, JUST LIZZY, Jamie Rust and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 240000,
       "name": "186,000 mi/s",
       "url": "https://open.spotify.com/track/2WQ3P7Nb4RfzEhroUeZRT3"
+    },
+    {
+      "album": {
+        "name": "A Cold Romance",
+        "url": "https://open.spotify.com/album/2TGRm1qif24b60yrKwk1wj"
+      },
+      "artists": [
+        {
+          "name": "Synthetik Blonde",
+          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "A Cold Romance",
+      "url": "https://open.spotify.com/track/05LwZIavFBbngDduQQV63X"
     },
     {
       "album": {
@@ -124,7 +142,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 224548,
       "name": "Baby Zombies",
       "url": "https://open.spotify.com/track/573LqqN083gPbd22Z09bIX"
@@ -324,7 +342,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "Cocoon - Redux",
       "url": "https://open.spotify.com/track/4fxBZYoB8NYG01fjZUvzVg"
@@ -378,7 +396,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 195029,
       "name": "Covet - Edit",
       "url": "https://open.spotify.com/track/5sKUeYGEoLOGZfbrc0yzO4"
@@ -400,6 +418,24 @@
       "duration_ms": 351780,
       "name": "Crosses",
       "url": "https://open.spotify.com/track/309AyKk5Ctat3UX0pcPqPz"
+    },
+    {
+      "album": {
+        "name": "DRK|MODE",
+        "url": "https://open.spotify.com/album/78e7a2tAgYu3niMwtbaQKl"
+      },
+      "artists": [
+        {
+          "name": "Julien-K",
+          "url": "https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277525,
+      "name": "Dark Eternal",
+      "url": "https://open.spotify.com/track/0us1anTW6u2BsrofUUpAeH"
     },
     {
       "album": {
@@ -494,7 +530,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 276000,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
@@ -552,7 +588,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 215111,
       "name": "Fake",
       "url": "https://open.spotify.com/track/2sG0oQlo5rCbssIEHHNBPs"
@@ -570,7 +606,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 142386,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/03mV5w1BnPaV37ZFgWZP5Z"
@@ -874,7 +910,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 202220,
       "name": "I Tried to Kill the Beat (But the Beat Is a Beast)",
       "url": "https://open.spotify.com/track/0JSNcK9nR8LmHlWLOVAtgF"
@@ -1184,7 +1220,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 246632,
       "name": "Not Under Your Spell",
       "url": "https://open.spotify.com/track/4xYAS7qluXyCLdsdY20h4z"
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 92121,
       "name": "Parasites",
       "url": "https://open.spotify.com/track/3e2p3gj7XbWLm08HrLHocj"
@@ -1289,6 +1325,32 @@
     },
     {
       "album": {
+        "name": "Protected",
+        "url": "https://open.spotify.com/album/0Oiz4dmQYETm9Og38kTP46"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        },
+        {
+          "name": "Sambla",
+          "url": "https://open.spotify.com/artist/0WiVOExnjQ2raFpz6O6gj0"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Protected",
+      "url": "https://open.spotify.com/track/0LsgbtfzDFsSC1bqPWjbNN"
+    },
+    {
+      "album": {
         "name": "Electronic Saviors: Industrial Music to Cure Cancer, Vol. 7 ReUnion",
         "url": "https://open.spotify.com/album/0Ljr0IB6gYI5tcoggCymGT"
       },
@@ -1300,7 +1362,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Queen of Codependency",
       "url": "https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO"
@@ -1358,7 +1420,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -1456,7 +1518,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 317173,
       "name": "Soul Crush - Signals MIX",
       "url": "https://open.spotify.com/track/5b1ErbWFbwvIo4fgOWyUL0"
@@ -1474,7 +1536,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 299866,
       "name": "Sprawling",
       "url": "https://open.spotify.com/track/5PK9hMSgbOqUg5wUr783mN"
@@ -1586,7 +1648,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 217683,
       "name": "The Wild Boys",
       "url": "https://open.spotify.com/track/2vqQry3F7l5vigdP1EZPab"
@@ -1684,6 +1746,28 @@
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
+    },
+    {
+      "album": {
+        "name": "Vamp (Freaky Mind Remix)",
+        "url": "https://open.spotify.com/album/1kNgjwygGLTOKSNuY9vqlt"
+      },
+      "artists": [
+        {
+          "name": "AGNIS",
+          "url": "https://open.spotify.com/artist/6uqMyyNvVciF3OYQgCWlRR"
+        },
+        {
+          "name": "Freaky Mind",
+          "url": "https://open.spotify.com/artist/6ODqwdkjyJBi5t0sOaIzA2"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "Vamp - Freaky Mind Remix",
+      "url": "https://open.spotify.com/track/3aaAXgfnrqMDged56UyFGA"
     },
     {
       "album": {

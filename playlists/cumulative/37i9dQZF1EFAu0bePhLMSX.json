@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "From The Archives",
+        "url": "https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199546,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/4iiDIUA8MMGsU0vYe3lv24"
+    },
+    {
+      "album": {
         "name": "Kinderfetenhits (Die Kinder Fetenhits)",
         "url": "https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5"
       },
@@ -3118,6 +3136,24 @@
       "duration_ms": 216453,
       "name": "Tension",
       "url": "https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI"
+    },
+    {
+      "album": {
+        "name": "From The Archives",
+        "url": "https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g"
+      },
+      "artists": [
+        {
+          "name": "Five",
+          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/1ZRcGc6x4HMkjCbXgXIduO"
     },
     {
       "album": {

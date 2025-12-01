@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-419 songs - 1 day 0 hr 56 min
+420 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Pain](https://open.spotify.com/track/5VJ6AseyaUpoMDiYazmw86) | [Artslaves](https://open.spotify.com/artist/7HKgNfBkWLzzhyc43jmMLk), [Leonardo Gonnelli](https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe) | [2 Pain EP](https://open.spotify.com/album/3vIvCo482ulFZa15p1QZoc) | 5:55 | 2023-12-10 | 2024-02-19 |
 | [4 The Trouble](https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [4 The Trouble](https://open.spotify.com/album/3RnlEPL13M1cxDGzS26U2h) | 2:08 | 2024-04-14 | 2024-07-08 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-10-13 |  |
+| [A Break Please](https://open.spotify.com/track/1x1RANRAMWeoSOei8Nty5Z) | [Ike TJ](https://open.spotify.com/artist/3DB5xKPkNiCoH8xopiagZ4) | [A Break Please](https://open.spotify.com/album/2ocYUio79D4fXRU0MUL7hM) | 3:44 | 2025-11-30 |  |
 | [Abra](https://open.spotify.com/track/4DB4uMofaOI0tejIe26XGI) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Abra](https://open.spotify.com/album/73QJDc0XOLeUvA0ZbpoaHH) | 2:35 | 2022-07-15 | 2023-07-01 |
 | [Acide](https://open.spotify.com/track/5OEKWNC6VYU1Hpc48YdgBj) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI) | [Acide](https://open.spotify.com/album/0UjOOxQqX2guMInZQUUIsh) | 2:39 | 2023-08-20 | 2023-09-26 |
 | [Afterparty](https://open.spotify.com/track/2LTenX3kElT3fN77CA4wMt) | [OMBRO](https://open.spotify.com/artist/651nuNscY3BP9sr0LFpPwo) | [Afterparty](https://open.spotify.com/album/409JzsQzbj6QxKu24FtSML) | 2:55 | 2023-04-30 | 2023-05-30 |

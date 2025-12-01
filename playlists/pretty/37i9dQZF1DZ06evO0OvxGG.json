@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8479,
+  "num_followers": 8487,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAACvxGnDNGH0x2IVxyjQOM7w",
+  "snapshot_id": "aSo3gAAAAACgjocf255fDyGABwd5P/K6",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 209245,
-      "name": "\u00d3PIO",
-      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face Card",
         "url": "https://open.spotify.com/album/5CIEM08attregcFPhVtxih"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 203076,
       "name": "Face Card",
       "url": "https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 209245,
+      "name": "\u00d3PIO",
+      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
     },
     {
       "added_at": null,
@@ -699,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
-        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
       },
       "artists": [
         {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 141742,
-      "name": "HISTERIA",
-      "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
+      "duration_ms": 195600,
+      "name": "Novinho",
+      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
     },
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+        "name": "DI\u00c1RIO DE UMA GAROTA SUBVERSIVA",
+        "url": "https://open.spotify.com/album/3Fzo07bEdiOfM1f3FX6XCF"
       },
       "artists": [
         {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Novinho",
-      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
+      "duration_ms": 141742,
+      "name": "HISTERIA",
+      "url": "https://open.spotify.com/track/4SWO4FtUOn5N34iyT4cr2M"
     },
     {
       "added_at": null,

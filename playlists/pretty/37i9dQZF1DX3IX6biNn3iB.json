@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2133,
+  "num_followers": 2134,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "DESDE MI HABITACI\u00d3N",
         "url": "https://open.spotify.com/album/3ZxjhNBeDioj81Ft175XPE"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 225537,
       "name": "TE XTRA\u00d1O (With Eslabon Armado)",
       "url": "https://open.spotify.com/track/4ySUM7Cv2sEnNhsmBF0vJd"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -587,38 +587,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "No S\u00e9 Vivir",
-        "url": "https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "No S\u00e9 Vivir",
-      "url": "https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3"
-      },
-      "artists": [
-        {
-          "name": "MKY",
-          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
       },
@@ -639,6 +607,22 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/4BOeoCV7qS3vl2YeKnlEN3"
+      },
+      "artists": [
+        {
+          "name": "MKY",
+          "url": "https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0vIyanxBlNR30IAqeROczo"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "No S\u00e9 Vivir",
+        "url": "https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Observation I: Metamorphosis",
-        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/7sNJboWlN4I88AFP8b68Zb"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "cuando t\u00fa me besas",
         "url": "https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 152148,
       "name": "cuando t\u00fa me besas",
       "url": "https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "Observation I: Metamorphosis",
+        "url": "https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/7sNJboWlN4I88AFP8b68Zb"
     },
     {
       "added_at": "2025-10-10 17:36:00",

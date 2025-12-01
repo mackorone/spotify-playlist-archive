@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 176032,
       "name": "31",
       "url": "https://open.spotify.com/track/1Gix5ydCHyeExbBvbmI7WH"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -7408,7 +7408,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 109714,
       "name": "Century",
       "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
@@ -8714,7 +8714,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 124081,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/0QrW8S5czS6QNz26y6Rie0"
@@ -9876,7 +9876,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 133670,
       "name": "Demo",
       "url": "https://open.spotify.com/track/4FRW1aDiN6Im16fHPA64ww"
@@ -11354,7 +11354,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 152727,
       "name": "Dostihy a s\u00e1zky",
       "url": "https://open.spotify.com/track/6RMzO3ElcQp5hzsbc9OWvl"
@@ -13506,7 +13506,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -15926,7 +15926,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 170526,
       "name": "Green Paradise",
       "url": "https://open.spotify.com/track/78Az3YXQZWgnDtcdd9BzWw"
@@ -17648,7 +17648,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -20033,6 +20033,28 @@
     },
     {
       "album": {
+        "name": "It In The Air Tonight (I can Feel It)",
+        "url": "https://open.spotify.com/album/3gFv6o9YCZtem67fieYUZ5"
+      },
+      "artists": [
+        {
+          "name": "Phil Phauler",
+          "url": "https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf"
+        },
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/5qwYY1UvyjIMg7H6VnHvc7"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166896,
+      "name": "It In The Air Tonight (I can Feel It)",
+      "url": "https://open.spotify.com/track/28opv09Iimof4ZYETTSTfo"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -20062,7 +20084,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -20132,7 +20154,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -21056,7 +21078,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -21644,7 +21666,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 267533,
       "name": "Ka\u017ed\u00fd de\u0148 bud\u00fa vraj Vianoce",
       "url": "https://open.spotify.com/track/6dlkr04x93THYt2Cklv91b"
@@ -23648,7 +23670,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -25508,7 +25530,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 97749,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/4qWcd7j667u9rYtAzI50Jt"
@@ -28890,7 +28912,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 183040,
       "name": "Najkraj\u0161ie Vianoce",
       "url": "https://open.spotify.com/track/6FNtYbye5zc3u15hex7H5V"
@@ -29596,7 +29618,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -33880,7 +33902,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 174117,
       "name": "Pist\u00e1cie (feat. Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
@@ -36008,7 +36030,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 303893,
       "name": "P\u016flno\u010dn\u00ed",
       "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
@@ -38168,7 +38190,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -39716,7 +39738,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -41490,7 +41512,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 208468,
       "name": "Stastne a vesele - Original Verzia",
       "url": "https://open.spotify.com/track/6DVTBu9IYryPTncQvOATKK"
@@ -45006,7 +45028,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 198387,
       "name": "TOKYO 3026",
       "url": "https://open.spotify.com/track/7e586BctajzKVBD4Qx2iRh"
@@ -46222,7 +46244,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 126956,
       "name": "UFO",
       "url": "https://open.spotify.com/track/6tppNUvxnjrEmacWzfmHKW"
@@ -46316,7 +46338,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -48584,7 +48606,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 120300,
       "name": "W!LD",
       "url": "https://open.spotify.com/track/2wxdaWPCQ71uewXjyfBUU0"
@@ -50516,7 +50538,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 125632,
       "name": "YOLO 4 EVER",
       "url": "https://open.spotify.com/track/6RIBDJEn8WqriEG9zigk0e"

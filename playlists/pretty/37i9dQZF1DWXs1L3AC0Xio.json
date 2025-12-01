@@ -1,6 +1,6 @@
 {
   "description": "lighters up.",
-  "num_followers": 801357,
+  "num_followers": 801430,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-06-26 02:18:14",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 229053,
+      "name": "Dying in LA",
+      "url": "https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN"
+    },
+    {
+      "added_at": "2024-06-26 02:18:14",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 255661,
       "name": "Dear Agony - Aurora Version",
       "url": "https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ"
-    },
-    {
-      "added_at": "2024-06-26 02:18:14",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 229053,
-      "name": "Dying in LA",
-      "url": "https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN"
     },
     {
       "added_at": "2024-06-26 02:18:14",

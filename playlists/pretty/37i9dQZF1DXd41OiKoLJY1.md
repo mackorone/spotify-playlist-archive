@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Sam Cruz Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,724 likes - 249 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,733 likes - 249 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

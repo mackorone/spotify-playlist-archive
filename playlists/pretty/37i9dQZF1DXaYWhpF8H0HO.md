@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Paul Partohap
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,505 likes - 124 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,509 likes - 124 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

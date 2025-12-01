@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1072864,
+  "num_followers": 1072855,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "A Million Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
-      },
-      "artists": [
-        {
-          "name": "Cheryl",
-          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
-        }
-      ],
-      "duration_ms": 207975,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 212446,
       "name": "Pretty Shining People",
       "url": "https://open.spotify.com/track/2JVwsN6viHjR9t5pCPQ4Br"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "A Million Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
+      },
+      "artists": [
+        {
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+        }
+      ],
+      "duration_ms": 207975,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0"
-      },
-      "artists": [
-        {
-          "name": "Texas",
-          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Inner Smile",
-      "url": "https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "The Essential Paul Simon (Standard Version)",
         "url": "https://open.spotify.com/album/3H7dMVS2PZHdr63Y7brNFE"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 276360,
       "name": "You Can Call Me Al",
       "url": "https://open.spotify.com/track/02yw9dohfEmcPWOzFJ30Bs"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Inner Smile",
+      "url": "https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP"
     }
   ],
   "unique_name": "Feel Good Friday",

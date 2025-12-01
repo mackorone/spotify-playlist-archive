@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0mIgXMvs5dMJ3KbOWp7yJp.md) - [plain]
 
 > the best in rock indie folk pop alternative
 
-[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,212 likes - 421 songs - 1 day 1 hr 54 min
+[Tactical Tunes](https://open.spotify.com/user/31zsinf2gmzxaz2hlu5jmeh5bzxe) - 1,211 likes - 421 songs - 1 day 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

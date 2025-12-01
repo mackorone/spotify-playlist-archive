@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: PA Sports, Kauta
 
-303 songs - 13 hr 43 min
+304 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Frieden](https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frieden](https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut) | 3:37 | 2025-03-03 |  |
 | [Frühling im Viertel 2.0 \(feat\. Kane\)](https://open.spotify.com/track/5jtca751346RjMOjNh4M0P) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Frühling im Viertel 2.0 \(feat\. Kane\)](https://open.spotify.com/album/0rZurbCu8FvjKe1tZRMlnx) | 2:40 | 2025-08-28 |  |
 | [FULL IN LOVE](https://open.spotify.com/track/1P8sXHNdNth4EMXDNk757U) | [PaulK](https://open.spotify.com/artist/721tVsXwxU1C96H1BQM5P6), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [FULL IN LOVE](https://open.spotify.com/album/0oZq7hPUvt8RU882s0Vvzt) | 3:30 | 2025-04-24 | 2025-09-15 |
+| [Für immer](https://open.spotify.com/track/3801V1ff6WknMMJAGmW1ON) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5) | [Für immer](https://open.spotify.com/album/6tPWvKqXiCNNQ8IZ17nXvO) | 2:32 | 2025-11-27 |  |
 | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/track/6uYJJG8O09FDGSX6FMz3rz) | [Nio](https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Für immer Zuhaus‘ \(feat\. Montez\)](https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6) | 2:24 | 2024-06-28 | 2024-09-21 |
 | [Gar nicht mal so glücklich \(feat\. Estikay\)](https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Estikay](https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6) | [PAUL](https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D) | 2:45 | 2024-06-28 | 2025-09-05 |
 | [Garten vorm Haus](https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Garten vorm Haus](https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn) | 1:54 | 2024-11-11 |  |
@@ -239,7 +240,7 @@
 | [Scherbenland](https://open.spotify.com/track/5GDTwl4kG9ChWUcXZY6TB9) | [RAPK](https://open.spotify.com/artist/7b4qgFeygnbXxcH3cvKl1D) | [Scherbenland](https://open.spotify.com/album/1osObReGJXfg65fHNcSgv1) | 2:27 | 2025-08-07 | 2025-09-22 |
 | [schwarze SUVs](https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [schwarze SUVs](https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2) | 2:49 | 2024-06-28 | 2024-12-19 |
 | [Schwarze Wolke](https://open.spotify.com/track/5Y1KFSz4b4b27mVwtAdnUV) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Schwarze Wolke](https://open.spotify.com/album/1WZAhXI5YWAjDonYilGnzy) | 2:57 | 2024-11-11 | 2025-01-16 |
-| [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 |  |
+| [Schwere Zeit](https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Schwere Zeit](https://open.spotify.com/album/0svFX9P5gBS7mggcJAjyJR) | 2:06 | 2025-04-17 | 2025-12-01 |
 | [Schön, dass du da warst](https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schön, dass du da warst](https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30) | 2:47 | 2025-07-17 |  |
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-09-18 |  |
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 | 2025-08-07 |

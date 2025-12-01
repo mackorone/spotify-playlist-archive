@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-07",
-  "description": "Lift our voices to Him.",
-  "name": "Papuri",
+  "description": "Celebrating Christmas with JESCOM's holiday favorites.",
+  "name": "Papuri with JESCOM",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 252481,
       "name": "5 Minutes",
       "url": "https://open.spotify.com/track/4zmXOHCMM8VOz4kmkL11wC"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 188224,
       "name": "Aba, Ginoong Maria",
       "url": "https://open.spotify.com/track/3ZgqW7zhz7dV55v9bB10kQ"
@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 207213,
       "name": "Aba, Ginoong Maria",
       "url": "https://open.spotify.com/track/0RlxVNpI84VZNs65mrBvtZ"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 364771,
       "name": "Aleluya Medley",
       "url": "https://open.spotify.com/track/7HviKT9EmziRs44X0FqZMx"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 231235,
       "name": "Aleluyang Pampaskuwa",
       "url": "https://open.spotify.com/track/346HkaxudMPFYNcmJThVhl"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 189570,
       "name": "All Our Love",
       "url": "https://open.spotify.com/track/37iz6D4pMpjcjqJCVkIBVr"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 115408,
       "name": "Alleluia",
       "url": "https://open.spotify.com/track/5eX487QWVebYm1Wv3TzqyZ"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 131200,
       "name": "Ama Namin",
       "url": "https://open.spotify.com/track/6SstAWN7LeRAH2lfAtSVZd"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 660225,
       "name": "Ang Diyos Ay Mabuti",
       "url": "https://open.spotify.com/track/3k6TZZVVK0Ov6fmDoZZQys"
@@ -568,10 +568,54 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 269833,
       "name": "Ang Tanging Alay Ko",
       "url": "https://open.spotify.com/track/6qADtStzPZknVfFlEzw0aI"
+    },
+    {
+      "album": {
+        "name": "Ang Tunay na Noche Buena",
+        "url": "https://open.spotify.com/album/3XjRzHHji7fMJoo7In3HjS"
+      },
+      "artists": [
+        {
+          "name": "Bukas Palad Music Ministry",
+          "url": "https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201206,
+      "name": "Ang Tunay na Noche Buena",
+      "url": "https://open.spotify.com/track/3Fbr4JVnJQ2LVqd8p6rNbM"
+    },
+    {
+      "album": {
+        "name": "Carol of the Bells (A Christmas A Cappella)",
+        "url": "https://open.spotify.com/album/1rFV1w2BvLWO6KLjlkyaJV"
+      },
+      "artists": [
+        {
+          "name": "Koro Ilustrado",
+          "url": "https://open.spotify.com/artist/68KrFgYZCQPqfOZkLDQuu5"
+        },
+        {
+          "name": "Michael Cruz",
+          "url": "https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d"
+        },
+        {
+          "name": "Raymond Leslie Diaz",
+          "url": "https://open.spotify.com/artist/39PvQ42hGGGJb0jgwSzXq6"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392046,
+      "name": "Angels We Have Heard on High",
+      "url": "https://open.spotify.com/track/7jlVZ8pzE6N2bEwj8hSGDI"
     },
     {
       "album": {
@@ -682,7 +726,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 147813,
       "name": "Anima Christi (Based on a 14th century prayer, author unknown, but attributed to Pope John XXII)",
       "url": "https://open.spotify.com/track/7ugjOxjIyZS9wsPhDbfsq0"
@@ -718,7 +762,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 288026,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/0BOedVTS0E2O9wSMGO2q1u"
@@ -736,7 +780,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 198186,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/5RpkqG5pG6F3twW89jZrVN"
@@ -808,7 +852,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 264516,
       "name": "Awit Ng Paghahangad",
       "url": "https://open.spotify.com/track/3rzNR6RTHfFouObQmMnBCz"
@@ -920,7 +964,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 245420,
       "name": "Awit Ng Paghahangad - Salmo 63",
       "url": "https://open.spotify.com/track/2ETQFhXo6j5jfNp9Febpg3"
@@ -938,7 +982,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 275336,
       "name": "Awit Ng Pagsuyo",
       "url": "https://open.spotify.com/track/4EnKfSOMjfJOk6QGNaoqvb"
@@ -992,7 +1036,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 165173,
       "name": "Balang Araw (1992)",
       "url": "https://open.spotify.com/track/3kJfHO5oREljrpEb2m6j63"
@@ -1032,7 +1076,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 247010,
       "name": "Bawat Pintig",
       "url": "https://open.spotify.com/track/4pEEbGmo4E3Xmwms7YvZ76"
@@ -1058,7 +1102,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 118235,
       "name": "Bawat Sandali",
       "url": "https://open.spotify.com/track/2PSSZYdcveyUjx0CUltzIv"
@@ -1098,7 +1142,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 165106,
       "name": "Bayan Umawit",
       "url": "https://open.spotify.com/track/6yVcENxnUTDK6JC5eG0s0A"
@@ -1116,10 +1160,32 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 144274,
       "name": "Be Joyful Mary",
       "url": "https://open.spotify.com/track/5y46vaKWtJlLW4AnYAz43T"
+    },
+    {
+      "album": {
+        "name": "Pasko Naming Hangad",
+        "url": "https://open.spotify.com/album/5FuMlGMAuH4kBiNLf4xs2E"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "Atoy Salazar",
+          "url": "https://open.spotify.com/artist/1GAsA9hkRear46hf95o4Qf"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312539,
+      "name": "Bisperas",
+      "url": "https://open.spotify.com/track/0CaSEeVX6vEwCdZx0BxldQ"
     },
     {
       "album": {
@@ -1163,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Carol of the Bells (A Christmas A Cappella)",
+        "url": "https://open.spotify.com/album/1rFV1w2BvLWO6KLjlkyaJV"
+      },
+      "artists": [
+        {
+          "name": "Koro Ilustrado",
+          "url": "https://open.spotify.com/artist/68KrFgYZCQPqfOZkLDQuu5"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134479,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/2hQttHdOxENj4byOTonD5f"
+    },
+    {
+      "album": {
         "name": "Children Of Grace",
         "url": "https://open.spotify.com/album/7DIJW1ndP6dwdwVTN6EaG3"
       },
@@ -1178,7 +1262,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 156307,
       "name": "Children Of Grace",
       "url": "https://open.spotify.com/track/6IKcP4pALKjFxI6jZnsFxm"
@@ -1232,10 +1316,32 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 183666,
       "name": "Christify",
       "url": "https://open.spotify.com/track/5KQX7zabc5RFoG7LzUqA3O"
+    },
+    {
+      "album": {
+        "name": "Christmas is Here (Nathan's Song)",
+        "url": "https://open.spotify.com/album/7cOHd9QXDbmk79mX7XC73s"
+      },
+      "artists": [
+        {
+          "name": "Erik Santos",
+          "url": "https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE"
+        },
+        {
+          "name": "Mater Dei Music Ministry",
+          "url": "https://open.spotify.com/artist/5aVhUvPCOxbIVbrsQ1xlb5"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212453,
+      "name": "Christmas is Here (Nathan's Song)",
+      "url": "https://open.spotify.com/track/0nVqK3MWBBctjrOhd5MegJ"
     },
     {
       "album": {
@@ -1323,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "Kampana",
+        "url": "https://open.spotify.com/album/29mWWvmW2Lem9yQktwqLvo"
+      },
+      "artists": [
+        {
+          "name": "Ateneo Chamber Singers",
+          "url": "https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223484,
+      "name": "Disyembre",
+      "url": "https://open.spotify.com/track/3z6M5qFKZhkwSGX3z95VyT"
+    },
+    {
+      "album": {
         "name": "Divine Heart of Jesus",
         "url": "https://open.spotify.com/album/03px9kg0ZteS5M7BazaRIm"
       },
@@ -1352,10 +1476,28 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 215571,
       "name": "Divine Heart of Jesus",
       "url": "https://open.spotify.com/track/3gJPKiLioTvIVdKpXBMZhe"
+    },
+    {
+      "album": {
+        "name": "Christmas Begins",
+        "url": "https://open.spotify.com/album/6YVtWPL3llNzdCECybMvSz"
+      },
+      "artists": [
+        {
+          "name": "Arman Ferrer",
+          "url": "https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239253,
+      "name": "Diwa ng Pasko",
+      "url": "https://open.spotify.com/track/47SQyFjpL6lpypavyMyp5A"
     },
     {
       "album": {
@@ -1396,7 +1538,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 236434,
       "name": "For One More Day",
       "url": "https://open.spotify.com/track/0fxHo2KfJtY09VwF6Si1xY"
@@ -1414,7 +1556,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 261839,
       "name": "Gandang Sinauna At Sariwa",
       "url": "https://open.spotify.com/track/2MhrCVOxI5hiDr3wSRPAbI"
@@ -1450,7 +1592,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 235586,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/1fWTCQs637bXM8Gmrsbvl1"
@@ -1490,7 +1632,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 156479,
       "name": "Give Thanks To Our God",
       "url": "https://open.spotify.com/track/1Es4CmFhhnLRu2kYEvFvkK"
@@ -1508,7 +1650,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 163461,
       "name": "Glory to God",
       "url": "https://open.spotify.com/track/4SAxylhotX2RvrCD43DAjs"
@@ -1526,7 +1668,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 346740,
       "name": "God is Here",
       "url": "https://open.spotify.com/track/2m93pCIN3yNzCjY2q2O6Hn"
@@ -1580,7 +1722,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 310037,
       "name": "Hesus Maghari Ka",
       "url": "https://open.spotify.com/track/3zZPxnlx87JIJGuqtiwpGO"
@@ -1616,7 +1758,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 245000,
       "name": "Hesus Na Aking Kapatid",
       "url": "https://open.spotify.com/track/6YR9YdDMbTyoNF1a9MCvCS"
@@ -1686,7 +1828,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 375514,
       "name": "Hesus Ng Aking Buhay",
       "url": "https://open.spotify.com/track/1kIPjl40UL71rJ7QeMdRpl"
@@ -1730,10 +1872,48 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 318406,
       "name": "His Name Is Jesus",
       "url": "https://open.spotify.com/track/7Lkdhug0spMoB2kOkPUfbj"
+    },
+    {
+      "album": {
+        "name": "Magalak!",
+        "url": "https://open.spotify.com/album/2aOklwBuPl8CBs8FLjX0Bj"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "Clare Royandoyan",
+          "url": "https://open.spotify.com/artist/01X740xaoqY2GYgNquVzaA"
+        },
+        {
+          "name": "Rona Baylon",
+          "url": "https://open.spotify.com/artist/1U5aEW0Jl0rKRLFSTxNHaY"
+        },
+        {
+          "name": "Cris Jose",
+          "url": "https://open.spotify.com/artist/37XjmFUaJSpZM9m8IOcY13"
+        },
+        {
+          "name": "Julius Zoilo Oliveros",
+          "url": "https://open.spotify.com/artist/3U41HAFx9DPAYSEw3EQLcl"
+        },
+        {
+          "name": "Toto Sorioso",
+          "url": "https://open.spotify.com/artist/3vFDvFtR8VKEITzDa2ddKe"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235936,
+      "name": "Hiwaga Ng Pasko",
+      "url": "https://open.spotify.com/track/6tekgXEm5Kzj8vFCIDDJM3"
     },
     {
       "album": {
@@ -1796,7 +1976,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 113053,
       "name": "Humayo't Iyahag - Choral Version",
       "url": "https://open.spotify.com/track/6PPKbTBcrVdqlZOyjnuAnZ"
@@ -1814,7 +1994,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 175829,
       "name": "I Beg to Fall in Love with Thee, My Lord - Acapella",
       "url": "https://open.spotify.com/track/2ZCR6yyZOLKV0RSllnIEhO"
@@ -1832,7 +2012,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 339963,
       "name": "I Can See The Light Now",
       "url": "https://open.spotify.com/track/4LtvLJErr70sS5aihvoHpn"
@@ -1854,7 +2034,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 199972,
       "name": "I Hear My Name",
       "url": "https://open.spotify.com/track/4dW9i6Wfq3LWlJBku5VnrS"
@@ -1960,7 +2140,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 288708,
       "name": "I Offer My Life",
       "url": "https://open.spotify.com/track/5is1k6W85wAeQA9jzBAgpo"
@@ -1978,7 +2158,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 197733,
       "name": "I Seek You for I Thirst",
       "url": "https://open.spotify.com/track/5XK5ZuDBuCE8lp5PLIjmjp"
@@ -2040,7 +2220,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 186120,
       "name": "I Will Sing Forever",
       "url": "https://open.spotify.com/track/61pt0Qnx6RKtnDEoUe04RG"
@@ -2132,10 +2312,54 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 302922,
       "name": "Ibulong Mo Lang sa Hangin",
       "url": "https://open.spotify.com/track/1f9ldGGDQYLivb3Ym2BlPW"
+    },
+    {
+      "album": {
+        "name": "Iisang Pasko",
+        "url": "https://open.spotify.com/album/7C5spQsjhJv8NciptM58sr"
+      },
+      "artists": [
+        {
+          "name": "Mike Shimamoto",
+          "url": "https://open.spotify.com/artist/2yTJ3XWvlALCeV2QqcYXwh"
+        },
+        {
+          "name": "Hero Mauricio",
+          "url": "https://open.spotify.com/artist/1HXyWkC167boNPFjxyHzS0"
+        },
+        {
+          "name": "Benneth Berroya",
+          "url": "https://open.spotify.com/artist/3kLoj0DIyGZLqErxylThQK"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248928,
+      "name": "Iisang Pasko",
+      "url": "https://open.spotify.com/track/5sApafiyCQJyTRPPRuXcQm"
+    },
+    {
+      "album": {
+        "name": "Ang Ating Pasko",
+        "url": "https://open.spotify.com/album/0T9Cu9b1kvQZ8Cg5XCuZxH"
+      },
+      "artists": [
+        {
+          "name": "Ateneo Chamber Singers",
+          "url": "https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "Ilang Tulog Pa Ba",
+      "url": "https://open.spotify.com/track/1rJZJcCwXSoFmGJwHu4KVF"
     },
     {
       "album": {
@@ -2198,7 +2422,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 215475,
       "name": "Inang Mahal",
       "url": "https://open.spotify.com/track/3HcwILImCGWeHaJlattVVF"
@@ -2234,10 +2458,32 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 155574,
       "name": "Isang Bansa",
       "url": "https://open.spotify.com/track/41zdY53nfHH1C3wClfalLf"
+    },
+    {
+      "album": {
+        "name": "Isinilang",
+        "url": "https://open.spotify.com/album/5AACI4F66OT60bgkf0hUCB"
+      },
+      "artists": [
+        {
+          "name": "Lighter Side Movement",
+          "url": "https://open.spotify.com/artist/3MDTunGQpG0hXFIqV6gVNR"
+        },
+        {
+          "name": "Luis Enriquez",
+          "url": "https://open.spotify.com/artist/6TLH6QFxBX6HzESkZI8TxL"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273073,
+      "name": "Isinilang",
+      "url": "https://open.spotify.com/track/052zEAzjGLD5d9InVxIoFO"
     },
     {
       "album": {
@@ -2278,7 +2524,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 153195,
       "name": "Ito Ang Diyakono",
       "url": "https://open.spotify.com/track/2CeSawqJvEPQfhAKlBR48W"
@@ -2322,7 +2568,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 209789,
       "name": "Jesus On The Cross",
       "url": "https://open.spotify.com/track/775Ooz8VOaLuGHzkP1j6nW"
@@ -2344,7 +2590,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 215455,
       "name": "Jesus, Thank You - Choir Version",
       "url": "https://open.spotify.com/track/5x5YkRNv1ofhXR48DxQmVB"
@@ -2362,7 +2608,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 229018,
       "name": "Jubilee Song",
       "url": "https://open.spotify.com/track/0IoYNLSbUFhvHEpIpQC82X"
@@ -2398,7 +2644,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 228311,
       "name": "Kaganapan Ko",
       "url": "https://open.spotify.com/track/4HKLPEvVEj4MkST85DgU7H"
@@ -2541,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "Kampana",
+        "url": "https://open.spotify.com/album/29mWWvmW2Lem9yQktwqLvo"
+      },
+      "artists": [
+        {
+          "name": "Mike Shimamoto",
+          "url": "https://open.spotify.com/artist/2yTJ3XWvlALCeV2QqcYXwh"
+        },
+        {
+          "name": "Hero Mauricio",
+          "url": "https://open.spotify.com/artist/1HXyWkC167boNPFjxyHzS0"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302130,
+      "name": "Kampana",
+      "url": "https://open.spotify.com/track/3z7jRxFTZ0ah7cC8354kyD"
+    },
+    {
+      "album": {
         "name": "Hangad Acapella! (A Celebration of Jesuit Music)",
         "url": "https://open.spotify.com/album/3rMPWIjyp7o2XgRLWw5tnF"
       },
@@ -2574,7 +2842,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 125280,
       "name": "Kordero Ng Diyos",
       "url": "https://open.spotify.com/track/1IZGbyiwD8rJAePNThX80e"
@@ -2636,7 +2904,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 128000,
       "name": "Kordero Ng Diyos",
       "url": "https://open.spotify.com/track/6rG5ovGxtYlkwOBGKj8LCe"
@@ -2665,6 +2933,44 @@
     },
     {
       "album": {
+        "name": "Carol of the Bells (A Christmas A Cappella)",
+        "url": "https://open.spotify.com/album/1rFV1w2BvLWO6KLjlkyaJV"
+      },
+      "artists": [
+        {
+          "name": "Koro Ilustrado",
+          "url": "https://open.spotify.com/artist/68KrFgYZCQPqfOZkLDQuu5"
+        },
+        {
+          "name": "Rubanne Paglinawan",
+          "url": "https://open.spotify.com/artist/08u8Cej6q3fL9rrMFj9FIo"
+        },
+        {
+          "name": "Adrianne Gonzaga",
+          "url": "https://open.spotify.com/artist/1gck4uzOWzSSFPwvzLS2uB"
+        },
+        {
+          "name": "Gat Magiliw Bati",
+          "url": "https://open.spotify.com/artist/5S5tXBCvTZukf1KanorKXH"
+        },
+        {
+          "name": "Michael Cruz",
+          "url": "https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d"
+        },
+        {
+          "name": "Ian Felipe",
+          "url": "https://open.spotify.com/artist/6fhbSA3WZ1VTOvfTYDwTbf"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211331,
+      "name": "Krismas Na",
+      "url": "https://open.spotify.com/track/26TMw20uzYNMaOt0E3PuE0"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0I2xUXhDGnbiM5lBLOz8Bv"
       },
@@ -2676,7 +2982,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 250353,
       "name": "Lead Me Lord",
       "url": "https://open.spotify.com/track/5yPyaLhxXR3k32CtF7aWT8"
@@ -2694,7 +3000,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 251356,
       "name": "Lead Me Lord",
       "url": "https://open.spotify.com/track/31Z8a8TVSOK5qMtkCfp05m"
@@ -2712,10 +3018,40 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 236904,
       "name": "Lead Me Lord",
       "url": "https://open.spotify.com/track/4dgbVC6F4toQWbqtxGUxY2"
+    },
+    {
+      "album": {
+        "name": "Behold the Child (Bukas Palad Sings the Christmas Story)",
+        "url": "https://open.spotify.com/album/3HbsZ3Is9FFcpfiR3hDjFk"
+      },
+      "artists": [
+        {
+          "name": "Bukas Palad Music Ministry",
+          "url": "https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI"
+        },
+        {
+          "name": "Jett Pangan",
+          "url": "https://open.spotify.com/artist/2KYbKsm7xps3Y9gDGU3qBA"
+        },
+        {
+          "name": "Carlo Santos",
+          "url": "https://open.spotify.com/artist/6RoYUu6OtzH2yMSkJJXZox"
+        },
+        {
+          "name": "Sherlyn de Guzman",
+          "url": "https://open.spotify.com/artist/12VV0SzvI5ugOxYEXQeMmY"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "Let Love Be Born Today",
+      "url": "https://open.spotify.com/track/0IC2J40Y6DsaY5SW8rUjx9"
     },
     {
       "album": {
@@ -2730,7 +3066,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 243425,
       "name": "Let Me The Bearer Of Your Love",
       "url": "https://open.spotify.com/track/1nE5BBrg9sICWlSaE3ddDJ"
@@ -2832,7 +3168,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 208833,
       "name": "Lord, Send Out Your Spirit (Psalm 104)",
       "url": "https://open.spotify.com/track/6E0RsM5FmKwvYl3Jrh0ZQG"
@@ -2850,7 +3186,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 256983,
       "name": "Maging Katulad Mo",
       "url": "https://open.spotify.com/track/2h6LeC15ynRwIKfg23RN3Z"
@@ -3050,7 +3386,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 318355,
       "name": "Magnificat Medley",
       "url": "https://open.spotify.com/track/44ghZPMUqvuDJYqZ45ViPn"
@@ -3112,7 +3448,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 315959,
       "name": "Mercy and Compassion",
       "url": "https://open.spotify.com/track/0Rso90siipxjbVbCagAfdp"
@@ -3148,7 +3484,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 116608,
       "name": "Nakita Ko Ang Tubig (Salin ng \"Vidi Aquam\" Aklat ng Pagmimisa sa Roma)",
       "url": "https://open.spotify.com/track/117zL2y3aPVfaNm7lZkOrF"
@@ -3170,7 +3506,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 345633,
       "name": "Nananabik",
       "url": "https://open.spotify.com/track/7k9NTyyjsP7TaIZTfzqpK9"
@@ -3192,7 +3528,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 282426,
       "name": "Narito Ako",
       "url": "https://open.spotify.com/track/0p5ERquOBFWKfuHLgwPuuY"
@@ -3236,7 +3572,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 228702,
       "name": "Ningas ng Pag-asa - ft. 92AD",
       "url": "https://open.spotify.com/track/3IkNBcZ3CxPAtD6G97QqVs"
@@ -3308,7 +3644,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 205373,
       "name": "O Hesus, Hilumin Mo",
       "url": "https://open.spotify.com/track/0SI2ST2bllue7kKezKtmXA"
@@ -3348,7 +3684,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 277500,
       "name": "On Eagles Wings",
       "url": "https://open.spotify.com/track/3UZaQ0UxGGEBhIcyYdnLCx"
@@ -3366,7 +3702,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 245059,
       "name": "On This Day",
       "url": "https://open.spotify.com/track/2noeXOVm0tS06UZRHzKbKe"
@@ -3392,7 +3728,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 174888,
       "name": "One More Gift",
       "url": "https://open.spotify.com/track/2its9Yqt9SSPhjXMOKVbNF"
@@ -3436,7 +3772,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 187946,
       "name": "One More Gift",
       "url": "https://open.spotify.com/track/1u9yCqNNttzuVHX04AG6MI"
@@ -3505,6 +3841,28 @@
     },
     {
       "album": {
+        "name": "Our Christmas Prayer",
+        "url": "https://open.spotify.com/album/4iOXIoil9YqH9ds6Yd9sBz"
+      },
+      "artists": [
+        {
+          "name": "Erik Santos",
+          "url": "https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE"
+        },
+        {
+          "name": "Mater Dei Music Ministry",
+          "url": "https://open.spotify.com/artist/5aVhUvPCOxbIVbrsQ1xlb5"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308870,
+      "name": "Our Christmas Prayer",
+      "url": "https://open.spotify.com/track/4rbDZk2IVnh13mZuZIYjHa"
+    },
+    {
+      "album": {
         "name": "Pag - Ibig Na Alay",
         "url": "https://open.spotify.com/album/380wzcRRULMN4HDrVFIJZ2"
       },
@@ -3538,7 +3896,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 254973,
       "name": "Pag-Ibig ko",
       "url": "https://open.spotify.com/track/3K51ltjhRAsl91CqJqtdnc"
@@ -3578,7 +3936,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 289916,
       "name": "Pag-Ibig Mo",
       "url": "https://open.spotify.com/track/3WMgiG1ggF6o94QpuB93ar"
@@ -3618,7 +3976,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 291493,
       "name": "PAGDULOG",
       "url": "https://open.spotify.com/track/3pOMnjZKrBA3lq3eY0yRAL"
@@ -3672,7 +4030,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 111760,
       "name": "Paghahandog Ng Sarili",
       "url": "https://open.spotify.com/track/3Q0FKgp5YA6K6IpS9EL7gN"
@@ -3708,10 +4066,28 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 279278,
       "name": "Pagkakaibigan",
       "url": "https://open.spotify.com/track/6socX6ghMZ1wlJcpgPa2Ah"
+    },
+    {
+      "album": {
+        "name": "Ang Ating Pasko",
+        "url": "https://open.spotify.com/album/0T9Cu9b1kvQZ8Cg5XCuZxH"
+      },
+      "artists": [
+        {
+          "name": "Ateneo Chamber Singers",
+          "url": "https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "Paglamig Ng Hangin",
+      "url": "https://open.spotify.com/track/0IxUhK5iH4HzKyXka76K4L"
     },
     {
       "album": {
@@ -3794,7 +4170,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 246035,
       "name": "Pananagutan (Jesuit Music Ministry Quarantune)",
       "url": "https://open.spotify.com/track/2loHq46TYPLTsrRoC7dPEL"
@@ -3866,7 +4242,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 57281,
       "name": "Panginoon, Kaawaan Mo Kami",
       "url": "https://open.spotify.com/track/2yoESeELT3oGRhWTPzDgzw"
@@ -3946,7 +4322,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 183131,
       "name": "Papuri Sa Espiritu",
       "url": "https://open.spotify.com/track/2Xj6rkXx8irFDVpjKd0GY3"
@@ -3997,6 +4373,100 @@
     },
     {
       "album": {
+        "name": "Pasko Na!",
+        "url": "https://open.spotify.com/album/5KKdX5OTVMjAEoiBwTeIuY"
+      },
+      "artists": [
+        {
+          "name": "Bukas Palad Music Ministry",
+          "url": "https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128306,
+      "name": "Pasko Na!",
+      "url": "https://open.spotify.com/track/73dcRJ9eVKG9nc78NsztjK"
+    },
+    {
+      "album": {
+        "name": "Carol of the Bells (A Christmas A Cappella)",
+        "url": "https://open.spotify.com/album/1rFV1w2BvLWO6KLjlkyaJV"
+      },
+      "artists": [
+        {
+          "name": "Koro Ilustrado",
+          "url": "https://open.spotify.com/artist/68KrFgYZCQPqfOZkLDQuu5"
+        },
+        {
+          "name": "Ian Felipe",
+          "url": "https://open.spotify.com/artist/6fhbSA3WZ1VTOvfTYDwTbf"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359550,
+      "name": "Pasko Na, Sinta ko",
+      "url": "https://open.spotify.com/track/0eyh81XE5HePNqHell73mJ"
+    },
+    {
+      "album": {
+        "name": "Pasko Na! Silver Anniversary Edition",
+        "url": "https://open.spotify.com/album/2MsiI2l6SZ2875S493MmPI"
+      },
+      "artists": [
+        {
+          "name": "Bukas Palad Music Ministry",
+          "url": "https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238186,
+      "name": "Pasko Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/6dMTA3ooeeRWOohc6DdNBA"
+    },
+    {
+      "album": {
+        "name": "Hangad Kong Pasko",
+        "url": "https://open.spotify.com/album/16Dxy4UeahL1ouQOqEDmsV"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508373,
+      "name": "Paskong Pinoy",
+      "url": "https://open.spotify.com/track/4VXPIDaFF7XEAmv3ztaAGm"
+    },
+    {
+      "album": {
+        "name": "Christmas Begins",
+        "url": "https://open.spotify.com/album/6YVtWPL3llNzdCECybMvSz"
+      },
+      "artists": [
+        {
+          "name": "Arman Ferrer",
+          "url": "https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331764,
+      "name": "Paskong Walang Hanggan",
+      "url": "https://open.spotify.com/track/4JhrY8tosbH9wtAfF7jLB2"
+    },
+    {
+      "album": {
         "name": "Payapang Daigdig",
         "url": "https://open.spotify.com/album/0OnqhdD6BORNVNzPd4Xn92"
       },
@@ -4008,7 +4478,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 219514,
       "name": "Payapang Daigdig",
       "url": "https://open.spotify.com/track/2im2gKadyth71GlRTAa97H"
@@ -4026,7 +4496,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 219514,
       "name": "Payapang Daigdig",
       "url": "https://open.spotify.com/track/3grc2EXNsG3hfliblB6UTb"
@@ -4044,7 +4514,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 377039,
       "name": "PINATAWAD ( Forgiven )",
       "url": "https://open.spotify.com/track/2vOruqswkGro2wGjCRD6qa"
@@ -4062,7 +4532,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 191092,
       "name": "Pintig ng Puso",
       "url": "https://open.spotify.com/track/4WR29G5CT8AqbNxlnuLL0u"
@@ -4160,7 +4630,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 223755,
       "name": "Praise the Lord Forever (Ps 34)",
       "url": "https://open.spotify.com/track/2Mx5KgBWknzoA93wz5XOoR"
@@ -4196,7 +4666,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 143986,
       "name": "Praise to the Lord, the Almighty",
       "url": "https://open.spotify.com/track/4YUE3cy1wcMtBNcuK9cDXI"
@@ -4214,7 +4684,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 148053,
       "name": "Prayer for Generosity",
       "url": "https://open.spotify.com/track/17RMRT2rQJveKclINdXi0y"
@@ -4232,7 +4702,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 151000,
       "name": "Prayer for Generosity",
       "url": "https://open.spotify.com/track/2mTopP2wmkw0T9bnIiyQg9"
@@ -4250,7 +4720,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 153890,
       "name": "Prayer for Generosity",
       "url": "https://open.spotify.com/track/0qh0TZ4N2LpFWCe7RX1B7X"
@@ -4330,7 +4800,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 164200,
       "name": "Psalm 105",
       "url": "https://open.spotify.com/track/3Lqbkwrs4poT9qBgUBfvHi"
@@ -4370,10 +4840,58 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 137546,
       "name": "Purihin ang Panginoon",
       "url": "https://open.spotify.com/track/32P4SZgDZSwSCLnQWq6xeq"
+    },
+    {
+      "album": {
+        "name": "A Wish for Christmas",
+        "url": "https://open.spotify.com/album/10MJGh7l8g1kuaQq5f33Qy"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "James Lim",
+          "url": "https://open.spotify.com/artist/6KAcliPPDlqyiRsj3nSvAI"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Raymond's Lullaby",
+      "url": "https://open.spotify.com/track/57X4YDsfn8deevMqoUOTdT"
+    },
+    {
+      "album": {
+        "name": "Magalak!",
+        "url": "https://open.spotify.com/album/2aOklwBuPl8CBs8FLjX0Bj"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "Francis Angeles",
+          "url": "https://open.spotify.com/artist/3FUfFPxHSb5nwDjk5ObBgd"
+        },
+        {
+          "name": "Noel Cruz",
+          "url": "https://open.spotify.com/artist/23ithUNLlsJo1XLqoqrmcs"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169130,
+      "name": "Rejoice! Born Is Our Savior",
+      "url": "https://open.spotify.com/track/7opZz6kTwVZWeUNUFbnD5M"
     },
     {
       "album": {
@@ -4428,7 +4946,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 146533,
       "name": "Sa Hapag Ng Panginoon",
       "url": "https://open.spotify.com/track/5lvhBwTDQYR2GBe1vdBJ3f"
@@ -4446,7 +4964,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-13",
+      "date_removed": null,
       "duration_ms": 348243,
       "name": "Sa Pasko Sasapit Din",
       "url": "https://open.spotify.com/track/5u40x4t7UUsUJ37sqAsXjL"
@@ -4482,7 +5000,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 221294,
       "name": "Sa'Yong Pangalan",
       "url": "https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO"
@@ -4544,7 +5062,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 281944,
       "name": "Santa Teresita Aking Gabay",
       "url": "https://open.spotify.com/track/76zkgkskxFLaJDhoZzd6wG"
@@ -4562,10 +5080,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 86173,
       "name": "Santo",
       "url": "https://open.spotify.com/track/3jtFxHV5SUbySkcC5z68na"
+    },
+    {
+      "album": {
+        "name": "Magalak!",
+        "url": "https://open.spotify.com/album/2aOklwBuPl8CBs8FLjX0Bj"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190971,
+      "name": "Sumilang Sa Buhay Namin",
+      "url": "https://open.spotify.com/track/24TDQZw5IPXg8xuBORIZ3g"
     },
     {
       "album": {
@@ -4580,7 +5116,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 176826,
       "name": "Take and Receive",
       "url": "https://open.spotify.com/track/2jSgbvSGuwWXZDBcwlETEG"
@@ -4602,7 +5138,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 162760,
       "name": "Take and Receive",
       "url": "https://open.spotify.com/track/1eikZaiZcz5h9vw6EnGpsx"
@@ -4664,7 +5200,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 238527,
       "name": "Tell the World of His Love",
       "url": "https://open.spotify.com/track/0JFuL8kYWWbFhUqsQ15YAh"
@@ -4704,7 +5240,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 319629,
       "name": "Tell the World of His Love - 25th Anniversary Edition",
       "url": "https://open.spotify.com/track/0DHAPMFS8mguinkaQ3XEc8"
@@ -4730,7 +5266,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 215866,
       "name": "Tell The World Of His Love - Christmas Version",
       "url": "https://open.spotify.com/track/2aOg8LkABAx24IzdJXfmx6"
@@ -4752,7 +5288,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 292182,
       "name": "The Hands That First Held Mary's Child",
       "url": "https://open.spotify.com/track/6vNKmEVcAzacuQGnP4dFci"
@@ -4774,7 +5310,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 292182,
       "name": "The Hands That First Held Mary's Child",
       "url": "https://open.spotify.com/track/7ngqOBViJsjMqbrDyzs2F4"
@@ -4792,7 +5328,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 273005,
       "name": "The Summons",
       "url": "https://open.spotify.com/track/2PId7TKSMAcFVM9Ovf1afz"
@@ -4817,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "Christmas Begins",
+        "url": "https://open.spotify.com/album/6YVtWPL3llNzdCECybMvSz"
+      },
+      "artists": [
+        {
+          "name": "Arman Ferrer",
+          "url": "https://open.spotify.com/artist/5YfGrMU4Es7wuGjgC9kuU7"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243091,
+      "name": "The Work of Christmas",
+      "url": "https://open.spotify.com/track/33GiJ7DxSjNCFJl7w0IrMg"
+    },
+    {
+      "album": {
         "name": "This Day, We Offer to You",
         "url": "https://open.spotify.com/album/5mnEWfcfNDI0p4uiR9Cra4"
       },
@@ -4832,7 +5386,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 103223,
       "name": "This Day, We Offer to You",
       "url": "https://open.spotify.com/track/1zcseFbuSTCvVAerWydLVh"
@@ -4854,7 +5408,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 299146,
       "name": "Tungo Sa'yo",
       "url": "https://open.spotify.com/track/2UodFaBIAVbTvvev04pth1"
@@ -4938,7 +5492,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 190000,
       "name": "T\u00e1ng\u00fb Kami",
       "url": "https://open.spotify.com/track/2F0FqaNYpn37TN2lsInETW"
@@ -4956,7 +5510,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 292533,
       "name": "Unang Alay",
       "url": "https://open.spotify.com/track/6gsiyA47dV100YY8dikVWA"
@@ -4974,7 +5528,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 295873,
       "name": "UNANG NAGMAHAL",
       "url": "https://open.spotify.com/track/3VIiWwTZ7XzJTdyFaRUIsr"
@@ -5010,10 +5564,32 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 292382,
       "name": "Walang Ibang Tahanan",
       "url": "https://open.spotify.com/track/7sunmx7KreKSQ7TMY0s5jx"
+    },
+    {
+      "album": {
+        "name": "Magalak!",
+        "url": "https://open.spotify.com/album/2aOklwBuPl8CBs8FLjX0Bj"
+      },
+      "artists": [
+        {
+          "name": "Hangad",
+          "url": "https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX"
+        },
+        {
+          "name": "Ryza Martinez",
+          "url": "https://open.spotify.com/artist/32HuW4Anxc8FZmIPhdpEEt"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135178,
+      "name": "When We Know It's Christmas",
+      "url": "https://open.spotify.com/track/1OZ3rQDcA2Ryf1JXUGv7xo"
     },
     {
       "album": {
@@ -5064,7 +5640,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 228561,
       "name": "You Are Mine",
       "url": "https://open.spotify.com/track/5XNAQY53nQ2WUZrtxZ1aKE"

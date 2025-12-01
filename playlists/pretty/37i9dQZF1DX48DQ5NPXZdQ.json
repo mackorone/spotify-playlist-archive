@@ -1,6 +1,6 @@
 {
   "description": "Su m\u00fasica, como ellos, es eterna. Jos\u00e9 Jos\u00e9 en portada.",
-  "num_followers": 69351,
+  "num_followers": 69368,
   "original_name": "Inmortales de la Canci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-07-05 02:05:16",
       "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 280743,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l"
+    },
+    {
+      "added_at": "2024-07-05 02:05:16",
+      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
-    },
-    {
-      "added_at": "2024-07-05 02:05:16",
-      "album": {
-        "name": "Nothing Compares 2 U",
-        "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 280743,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l"
     },
     {
       "added_at": "2024-07-05 02:05:16",

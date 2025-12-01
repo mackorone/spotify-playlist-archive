@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 301271,
+  "num_followers": 301352,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAAASfP5gsDouQP+jNCPAaX0g",
+  "snapshot_id": "aSo3gAAAAAABkI2MRosUfjHJ/usRSq40",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 302500,
-      "name": "Mal Ejemplo",
-      "url": "https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Danzando Con Demonios",
         "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 205007,
       "name": "Cuchillo en la Yugular",
       "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 302500,
+      "name": "Mal Ejemplo",
+      "url": "https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN"
     },
     {
       "added_at": null,

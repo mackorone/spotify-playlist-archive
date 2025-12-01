@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 205135,
       "name": "Aquarela",
       "url": "https://open.spotify.com/track/5y2kS20GQdDWwyTEa63GIf"
@@ -2532,6 +2532,28 @@
       "duration_ms": 397493,
       "name": "Preta Pretinha",
       "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+    },
+    {
+      "album": {
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        },
+        {
+          "name": "Sophie Charlotte",
+          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
     },
     {
       "album": {

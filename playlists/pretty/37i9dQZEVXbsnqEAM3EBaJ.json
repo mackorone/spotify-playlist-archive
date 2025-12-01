@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSkQMAAAAACE2QrCK+g8EPXED2eyo82l",
+  "snapshot_id": "aSkQMAAAAAC8ErcTZ/+MtC5l9ug76GsV",
   "tracks": [
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
+        "name": "Priv\u00e9 (Remasterizado 2025)",
+        "url": "https://open.spotify.com/album/00qj2giiDV2K0LUIJ9o64Y"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 179761,
+      "name": "La Mirada De Freud - Remasterizado 2025",
+      "url": "https://open.spotify.com/track/0BrZmCqeLLTz8mbOqPFqnS"
+    },
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
@@ -47,26 +63,6 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
-        "name": "DIFFERENT",
-        "url": "https://open.spotify.com/album/05wtK6ULJXpypJ9jGt6BGv"
-      },
-      "artists": [
-        {
-          "name": "NIGHTMARE",
-          "url": "https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR"
-        },
-        {
-          "name": "Coldnight",
-          "url": "https://open.spotify.com/artist/69KoHnLTFtUsU69LO3gVPI"
-        }
-      ],
-      "duration_ms": 117234,
-      "name": "sorry :(",
-      "url": "https://open.spotify.com/track/1ucWy5mopUuiCU4Gibjw8K"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
         "name": "Protect the Light (Hi wo Mamoru) [from \"SPY x FAMILY\"] [Spanish Version]",
         "url": "https://open.spotify.com/album/0FdHaVkrDNRMWBe5Bf4L33"
       },
@@ -79,22 +75,6 @@
       "duration_ms": 212585,
       "name": "Protect the Light (Hi wo Mamoru) [from \"SPY x FAMILY\"] - Spanish Version",
       "url": "https://open.spotify.com/track/70S5LMzmI1vLyYuhdBpkSA"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
-        "name": "Priv\u00e9 (Remasterizado 2025)",
-        "url": "https://open.spotify.com/album/00qj2giiDV2K0LUIJ9o64Y"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 179761,
-      "name": "La Mirada De Freud - Remasterizado 2025",
-      "url": "https://open.spotify.com/track/0BrZmCqeLLTz8mbOqPFqnS"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -112,9 +92,9 @@
           "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
         }
       ],
-      "duration_ms": 64690,
-      "name": "An Epoch",
-      "url": "https://open.spotify.com/track/0alZev3wWfiThW3crg7fzR"
+      "duration_ms": 63420,
+      "name": "Throne of the Azure",
+      "url": "https://open.spotify.com/track/51ockNCxAQixbkXkHsObyC"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -131,6 +111,26 @@
       "duration_ms": 216250,
       "name": "Ashes to the Sea - Orchestral Version",
       "url": "https://open.spotify.com/track/4zrSCz3oW8gDBO1foYHba3"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
+        "name": "DIFFERENT",
+        "url": "https://open.spotify.com/album/05wtK6ULJXpypJ9jGt6BGv"
+      },
+      "artists": [
+        {
+          "name": "NIGHTMARE",
+          "url": "https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR"
+        },
+        {
+          "name": "Coldnight",
+          "url": "https://open.spotify.com/artist/69KoHnLTFtUsU69LO3gVPI"
+        }
+      ],
+      "duration_ms": 117234,
+      "name": "sorry :(",
+      "url": "https://open.spotify.com/track/1ucWy5mopUuiCU4Gibjw8K"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -167,6 +167,30 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
+        "name": "Destiny (Remixes)",
+        "url": "https://open.spotify.com/album/1VcivT4MmZCylGiipYLcUd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        },
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Destiny - HILLS Remix",
+      "url": "https://open.spotify.com/track/4xBPAr5iLmeNK2NvOOP3JQ"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
         "name": "Gata Negra",
         "url": "https://open.spotify.com/album/2hPDHPhCeYj6jMJDMZWEby"
       },
@@ -195,30 +219,6 @@
       "duration_ms": 233239,
       "name": "Bomba de Humo",
       "url": "https://open.spotify.com/track/17R9UNXZceLZSYeolIJlMy"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
-        "name": "Destiny (Remixes)",
-        "url": "https://open.spotify.com/album/1VcivT4MmZCylGiipYLcUd"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        },
-        {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Destiny - HILLS Remix",
-      "url": "https://open.spotify.com/track/4xBPAr5iLmeNK2NvOOP3JQ"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
-        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
-        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 314071,
-      "name": "Last Legal Drug",
-      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/2R33Pd9eM5qDQTHO66LGJS"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 215200,
       "name": "Wild Woman",
       "url": "https://open.spotify.com/track/1XcZZwyoLwwF3dISFQe0h6"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
+        "name": "See You On The Other Side (20th Anniversary Edition - Remastered)",
+        "url": "https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 314071,
+      "name": "Last Legal Drug",
+      "url": "https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
-        "name": "Bold As Love",
-        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "Castles Made of Sand - Backwards Guitar",
-      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
         "name": "Black And Blue (2025 Mix)",
         "url": "https://open.spotify.com/album/0OxlgUq5MuHVLJrUC1GS9s"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 268500,
       "name": "Hand Of Fate - 2025 Mix",
       "url": "https://open.spotify.com/track/0yXYdsKVHXm92sDpL25VDV"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
+        "name": "Bold As Love",
+        "url": "https://open.spotify.com/album/3uuGTYv8R3P56TttseVu81"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "Castles Made of Sand - Backwards Guitar",
+      "url": "https://open.spotify.com/track/0swXgq4VdvjgFNpI7bQ5FA"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 216646,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
         "name": "If I Fall",
         "url": "https://open.spotify.com/album/2xwHb1mUYfkaHi4FeWT4lt"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
-        "name": "Journeyman: Deluxe Edition",
-        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 316413,
-      "name": "Higher Power - Bonus Track",
-      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -575,6 +559,22 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
+        "name": "Journeyman: Deluxe Edition",
+        "url": "https://open.spotify.com/album/3triHNgkqNq847Mh3yObWq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Higher Power - Bonus Track",
+      "url": "https://open.spotify.com/track/60K9R1x9cGRWQlLj08Mhrj"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
         "name": "Around The World In A Day (Deluxe Expanded Edition)",
         "url": "https://open.spotify.com/album/0BUD9C9CnIrrGtvJjoBbYQ"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 546871,
       "name": "Pop Life - Extended Version",
       "url": "https://open.spotify.com/track/1bIL0zAcvAFH6e0LWY1abW"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
-        "name": "Black Honey (Lofi)",
-        "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        },
-        {
-          "name": "Less Gravity",
-          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
-        }
-      ],
-      "duration_ms": 168374,
-      "name": "Black Honey (Lofi)",
-      "url": "https://open.spotify.com/track/5h3f49CfqkeoQ66SAont2y"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -639,6 +619,26 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
+        "name": "Black Honey (Lofi)",
+        "url": "https://open.spotify.com/album/3W7F7reoorxDg4wfPyeQ4I"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        },
+        {
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
+        }
+      ],
+      "duration_ms": 168374,
+      "name": "Black Honey (Lofi)",
+      "url": "https://open.spotify.com/track/5h3f49CfqkeoQ66SAont2y"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
         "name": "Power To The People (Home Jam)",
         "url": "https://open.spotify.com/album/4nB3cheT8SHTLRjCdHbiMS"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 56733,
-      "name": "Slippin\u2019 And Slidin\u2019",
-      "url": "https://open.spotify.com/track/3QDwApREg41d9lytBtW9iT"
+      "duration_ms": 141453,
+      "name": "It\u2019s Real",
+      "url": "https://open.spotify.com/track/7D7XItR3RePKvpMRE9spqo"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -667,42 +667,6 @@
       "duration_ms": 247268,
       "name": "Elizabeth Taylor - So Glamorous Cabaret Version",
       "url": "https://open.spotify.com/track/4UBWugj5D20ZveyzdGpqvD"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
-        "name": "Let The Music Play",
-        "url": "https://open.spotify.com/album/4uVdzfutRln6f7iDMys66B"
-      },
-      "artists": [
-        {
-          "name": "Carroll Thompson",
-          "url": "https://open.spotify.com/artist/1YN1OuUFRoFlnwR97pIRlJ"
-        },
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 404109,
-      "name": "Let The Music Play",
-      "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
-        "name": "Recollections",
-        "url": "https://open.spotify.com/album/69uCpLoN3IHze3a80Q2lZu"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 268182,
-      "name": "Holding Back The Years - Recollections 2025",
-      "url": "https://open.spotify.com/track/4zO8ComXNM1iWduQUwAm4F"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -799,6 +763,42 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
+        "name": "Recollections",
+        "url": "https://open.spotify.com/album/69uCpLoN3IHze3a80Q2lZu"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 268182,
+      "name": "Holding Back The Years - Recollections 2025",
+      "url": "https://open.spotify.com/track/4zO8ComXNM1iWduQUwAm4F"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/4uVdzfutRln6f7iDMys66B"
+      },
+      "artists": [
+        {
+          "name": "Carroll Thompson",
+          "url": "https://open.spotify.com/artist/1YN1OuUFRoFlnwR97pIRlJ"
+        },
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 404109,
+      "name": "Let The Music Play",
+      "url": "https://open.spotify.com/track/44i27x71O3m6QKnwSqtWnb"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
         "name": "Live In Berlin 1985 (Remastered 2025, Live)",
         "url": "https://open.spotify.com/album/1se6JuXLiTWIYNlh7J3y0y"
       },
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 280662,
-      "name": "Bour\u00e9e - Remastered 2025, Live",
-      "url": "https://open.spotify.com/track/4zOfewibngkmuGbAUDIAjc"
+      "duration_ms": 217064,
+      "name": "Living In The Past - Remastered 2025, Live",
+      "url": "https://open.spotify.com/track/0bqJr3fbc3heNaOcrE8aBt"
     },
     {
       "added_at": "2025-11-28 03:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-11-28 03:00:00",
       "album": {
-        "name": "Fairytale of New York",
-        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 194153,
-      "name": "Fairytale of New York",
-      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
-    },
-    {
-      "added_at": "2025-11-28 03:00:00",
-      "album": {
         "name": "Aquelarre",
         "url": "https://open.spotify.com/album/0BhTECS5bTMUmj1be3VEMG"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 370035,
       "name": "Aquelarre",
       "url": "https://open.spotify.com/track/0TsCXQbFXaWUNMMYZJIYMJ"
+    },
+    {
+      "added_at": "2025-11-28 03:00:00",
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/44Gg9JRxYqDkRGtU5X6yfw"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 194153,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/1d1SxjxGuw1ZdWdFXxIri7"
     },
     {
       "added_at": "2025-11-28 03:00:00",

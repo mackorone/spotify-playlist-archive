@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: FANKA
 
-660 songs - 1 day 8 hr 14 min
+661 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Guess I'm better now](https://open.spotify.com/track/7zOroQXfgAFFfcTHMxb2F4) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Guess I'm better now](https://open.spotify.com/album/5Xom3m37TfRClXVepHBzrK) | 3:45 | 2025-01-23 | 2025-02-07 |
 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-27 | 2025-07-18 |
 | [Głupi Lovesong](https://open.spotify.com/track/5cySYs07FKA5ZKWb3uzDRx) | [Julya](https://open.spotify.com/artist/3HLw79MyKKNt74t4hn3XgT) | [Głupi Lovesong](https://open.spotify.com/album/1EIKyJiAbP56pa14RorzQM) | 3:25 | 2025-02-06 | 2025-03-09 |
+| [Happy End](https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc) | [Aria Martelle](https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K) | [Happy End](https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa) | 2:26 | 2025-11-28 |  |
 | [Happy End](https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e) | [PHERO](https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM) | [Happy End](https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [Hej, nie mówiłam ci](https://open.spotify.com/track/2pbslxgbSgTxQ9iHRhclHj) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Hej, nie mówiłam ci](https://open.spotify.com/album/1XskKbAIvIzKoIWNzI1nwT) | 3:26 | 2025-01-30 | 2025-07-04 |
 | [hibernacja](https://open.spotify.com/track/22XLWNDIzzHxYgNgRcbbYg) | [Olivka Majewska](https://open.spotify.com/artist/69A8NLYP1sAI6MrBALFUSn) | [hibernacja](https://open.spotify.com/album/0y6NHNQH4IpchUC8p79ay5) | 2:54 | 2025-10-14 | 2025-11-05 |
@@ -488,7 +489,7 @@
 | [Safe Zone](https://open.spotify.com/track/7vU0fgnjfwRuAGDDNSmfGn) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Safe zone](https://open.spotify.com/album/00FCqeV2zeakDhDWTziDQG) | 3:02 | 2024-06-28 | 2024-08-02 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-03-13 | 2025-05-02 |
 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2024-11-07 | 2025-08-01 |
-| [sama ze sobą!](https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [sama ze sobą!](https://open.spotify.com/album/4hXKWDP9q7APH8diHyfGiR) | 1:57 | 2025-10-07 |  |
+| [sama ze sobą!](https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [sama ze sobą!](https://open.spotify.com/album/4hXKWDP9q7APH8diHyfGiR) | 1:57 | 2025-10-07 | 2025-12-01 |
 | [Sangria](https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu) | [MILI JACK](https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO) | [Sangria](https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03) | 2:40 | 2024-06-28 | 2024-10-05 |
 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 | 2024-08-30 | 2025-01-24 |
 | [Satelita](https://open.spotify.com/track/2hM6x0FnAA0lLONNf4JmQA) | [nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6) | [To nie było ciepłe lato :\(](https://open.spotify.com/album/6gOXOvZJlD7AzXne8Rbb7y) | 3:01 | 2025-11-18 |  |

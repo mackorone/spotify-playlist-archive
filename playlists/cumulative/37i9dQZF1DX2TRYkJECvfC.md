@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-655 songs - 2 day 5 hr 57 min
+656 songs - 2 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Gravity](https://open.spotify.com/track/1HCiKjfdSRGEDtyb1bXwRF) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0Yur9nH0TXKubnfNM5YAKS) | 3:57 | 2023-09-22 | 2024-04-19 |
 | [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 | 2024-08-17 |
 | [Gravity \(with Delhia De France\)](https://open.spotify.com/track/6mIce4eaRg6UOFHABNX2xL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Gravity / Daka](https://open.spotify.com/album/29QX0FyGAT6KSSPyzT8s1Q) | 5:29 | 2021-12-08 | 2024-07-13 |
+| [Half Fried](https://open.spotify.com/track/41h2Rhf4QZX4I6jlnSKkg5) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Half Fried](https://open.spotify.com/album/3aZgZuv38ykzKmGP0C4X6y) | 6:59 | 2025-11-21 |  |
 | [Have U](https://open.spotify.com/track/39x2AFARnc2ovMRtxw272B) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Have U](https://open.spotify.com/album/4WblkRJ8yUZ7OAG2Klyb9h) | 2:41 | 2023-12-15 |  |
 | [Hazy House Vol\. 2](https://open.spotify.com/track/6AW0jJcR32Qcp0FJ5w6BRv) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV) | [Hazy House Vol\. 2](https://open.spotify.com/album/5GjT3ssX2AB16z6K4LOJY8) | 5:31 | 2021-12-08 | 2022-07-28 |
 | [Heartbeats](https://open.spotify.com/track/4AwgEsYuFsdAYM8Tj6NxeE) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Heartbeats](https://open.spotify.com/album/3X1eYb650jexhiVxkNepW7) | 3:12 | 2023-09-22 | 2024-11-16 |
@@ -295,7 +296,7 @@
 | [Leko \- Session Victim Remix](https://open.spotify.com/track/18nGprzEucUO4FF768lLhe) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Leko Remixes](https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09) | 5:25 | 2021-12-08 | 2024-04-13 |
 | [Lençóis \(Love Me\) \- Notre Dame Remix](https://open.spotify.com/track/5eqCFsvNDpNqlRnaq7yYLw) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Lençóis \(Love Me\) \[Notre Dame Remix\]](https://open.spotify.com/album/1PcJTDyhWQ0zIvl5gbFPfZ) | 5:04 | 2023-09-01 | 2025-10-19 |
 | [Let Go](https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Let Go](https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK) | 4:08 | 2021-12-08 | 2023-01-06 |
-| [Let Me Be Water \(feat\. NATURE\)](https://open.spotify.com/track/6dnvVGk8QSrcqoRhJPCCfA) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Let Me Be Water \(feat\. NATURE\)](https://open.spotify.com/album/3yl2RfiTpVxBXAImM3Eb8k) | 2:13 | 2025-08-29 |  |
+| [Let Me Be Water \(feat\. NATURE\)](https://open.spotify.com/track/6dnvVGk8QSrcqoRhJPCCfA) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Let Me Be Water \(feat\. NATURE\)](https://open.spotify.com/album/3yl2RfiTpVxBXAImM3Eb8k) | 2:13 | 2025-08-29 | 2025-12-01 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-05 |  |
 | [Letzter](https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4) | [Edraw](https://open.spotify.com/artist/5GBLlXRHRfbIItI9WozeAG), [Keller Flavour](https://open.spotify.com/artist/1B4wdhAgnihovev7JTc8fJ) | [The Files](https://open.spotify.com/album/5r7cdO0ac5Rb8SvXgGAYIf) | 2:27 | 2021-12-08 | 2022-11-20 |
 | [Levitate](https://open.spotify.com/track/3pA6bEb7Y0lGeyysqDlzDm) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Levitate](https://open.spotify.com/album/7DnifJAeP8n2eMj1vG89Hs) | 3:26 | 2024-03-01 | 2024-04-19 |

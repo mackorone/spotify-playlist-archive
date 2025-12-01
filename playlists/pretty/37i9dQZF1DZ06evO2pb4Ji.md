@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,171 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,193 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 47 | [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1VcFPlHTGkUuKv7emjBNVp) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [What Have They Done To Us \(ft\. Sasha Alex Sloan\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/0g1gjMqa230nBKXvHvPPR3) | 3:20 |
 | 48 | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE) | 2:44 |
 | 49 | [Piercing Light](https://open.spotify.com/track/4kVME8P0uGX7TS6hYtrZ4A) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Warsongs](https://open.spotify.com/album/4y78CCwB5zEjxnEDi8a6lM) | 4:51 |
-| 50 | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [I Can't Hear It Now \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu) | 2:41 |
+| 50 | [Zaahen, the Unsundered](https://open.spotify.com/track/40Hsk65T7AycaUT5GYu0pB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Trials of Twilight \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/7mpX4l9M8bFRZOQb73qEbd) | 4:08 |
 
-Snapshot ID: `aSjmAAAAAABDSbzAT5SOvO2JvBjwEn7x`
+Snapshot ID: `aSo3gAAAAACwv89yvhSZIHfIgPYlNeXr`

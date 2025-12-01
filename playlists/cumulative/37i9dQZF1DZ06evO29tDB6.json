@@ -1294,6 +1294,32 @@
     {
       "album": {
         "name": "Se Va el Amor",
+        "url": "https://open.spotify.com/album/1W74hskTjh4mNfT6SfPxTL"
+      },
+      "artists": [
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224876,
+      "name": "Se Va el Amor",
+      "url": "https://open.spotify.com/track/2kyib6BcZkV606c3qMajFW"
+    },
+    {
+      "album": {
+        "name": "Se Va el Amor",
         "url": "https://open.spotify.com/album/39b4OTzmUcmjX0E6UeXWqf"
       },
       "artists": [
@@ -1312,7 +1338,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 224876,
       "name": "Se Va el Amor",
       "url": "https://open.spotify.com/track/6gOfmXusYcshTwe1YaxdG0"

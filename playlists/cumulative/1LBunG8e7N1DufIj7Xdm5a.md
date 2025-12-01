@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,615 songs - 7 day 23 hr 13 min
+3,616 songs - 7 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2065,6 +2065,7 @@
 | [My Name Is Wrong](https://open.spotify.com/track/3sc8zmMsKyH12OxSFB2CnN) | [The Electric Candles](https://open.spotify.com/artist/2s1hQZYQ9YeVg0VQSQbuoN) | [My Name Is Wrong](https://open.spotify.com/album/0LdxlXVWSBGDiWePhfEm7R) | 3:10 | 2025-08-29 |  |
 | [My Queen Has Lost Her Crown](https://open.spotify.com/track/02ucxqQjtgDVEHC2M5My8W) | [James King and the Lonewolves](https://open.spotify.com/artist/5IT5oeKyZRVX2d4Sz2FjY3) | [My Queen Has Lost Her Crown](https://open.spotify.com/album/2gKHTP0lyucakblTbDHVxJ) | 3:47 | 2025-11-04 |  |
 | [My silent breaks](https://open.spotify.com/track/7i2RkdC4z12C9XdVc1jFPL) | [Seelan](https://open.spotify.com/artist/0RtzTgvlDHaKl20tjfA7qs) | [My silent breaks](https://open.spotify.com/album/4jPr7bSjZJG95skjTAGtAi) | 3:32 | 2025-06-09 |  |
+| [My town](https://open.spotify.com/track/2lsTmZMHngRUOzoH39adM9) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [My town](https://open.spotify.com/album/5xVycOvz6sR8fpn4O4oaKO) | 5:08 | 2025-11-30 |  |
 | [My way](https://open.spotify.com/track/7oqR6TFQlUu9cckwitKo7U) | [Bleczzy](https://open.spotify.com/artist/3V8QLnG4DKXxh042fz7wZJ) | [My way](https://open.spotify.com/album/16pPeXaEqQOIFy8Hgh2ErJ) | 2:14 | 2025-06-04 |  |
 | [My world](https://open.spotify.com/track/1E6cj2wwvxYsdDarhPRRee) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [My World](https://open.spotify.com/album/5bnuWFTsZu4pHE3DYlSDAA) | 2:45 | 2025-03-10 |  |
 | [Mystery Steps](https://open.spotify.com/track/16CIR4WeVYaniceuYk5hra) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Electra Vortex](https://open.spotify.com/album/6chz9aZrb360hj7GVU9DUd) | 8:16 | 2025-06-04 |  |

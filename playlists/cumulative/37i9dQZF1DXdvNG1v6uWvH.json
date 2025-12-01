@@ -68963,6 +68963,24 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/57R851ZOke0DToz7WASlbS"
+      },
+      "artists": [
+        {
+          "name": "Gl\u00f3ey",
+          "url": "https://open.spotify.com/artist/5KdeAqVXbapQ0aOADOL9Cb"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271812,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4ms5x0JGk2dX7HzovblJQF"
+    },
+    {
+      "album": {
         "name": "Holy Flesh",
         "url": "https://open.spotify.com/album/6kOZWFnxe7Wz8XS45tGzd8"
       },
@@ -98890,7 +98908,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 181497,
       "name": "MA\u0141E KROCZKI",
       "url": "https://open.spotify.com/track/3L2IQjT8aLOBGhWzXIBLKV"

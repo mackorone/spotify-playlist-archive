@@ -1,6 +1,6 @@
 {
   "description": "Disco, acid and synths galore - all your favourite 80s dance hits!",
-  "num_followers": 289619,
+  "num_followers": 289647,
   "original_name": "80s Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -163,22 +163,6 @@
     {
       "added_at": "2024-03-18 17:19:47",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 457675,
-      "name": "Let's Dance - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
-    },
-    {
-      "added_at": "2024-03-18 17:19:47",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "added_at": "2024-03-18 17:19:47",
+      "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 457675,
+      "name": "Let's Dance - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
     },
     {
       "added_at": "2024-03-18 17:19:47",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-18 17:19:47",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5"
-      },
-      "artists": [
-        {
-          "name": "Gat Decor",
-          "url": "https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Passion - Naked Edit",
-      "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
-    },
-    {
-      "added_at": "2024-03-18 17:19:47",
-      "album": {
         "name": "Keep On Movin'",
         "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 361626,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/7upgDi9C0pQn9HZzGfksJq"
+    },
+    {
+      "added_at": "2024-03-18 17:19:47",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5"
+      },
+      "artists": [
+        {
+          "name": "Gat Decor",
+          "url": "https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Passion - Naked Edit",
+      "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
     },
     {
       "added_at": "2024-03-18 17:19:47",
@@ -823,18 +823,22 @@
     {
       "added_at": "2024-03-18 17:19:47",
       "album": {
-        "name": "Private Life: The Compass Point Sessions",
-        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
+        "name": "The Best Of Mantronix (1985 - 1999)",
+        "url": "https://open.spotify.com/album/20UnpDF1GFqUYHOPiLjWGK"
       },
       "artists": [
         {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+          "name": "Mantronix",
+          "url": "https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY"
+        },
+        {
+          "name": "Wondress",
+          "url": "https://open.spotify.com/artist/7KIhpjxlijX6ntQgj6rAmH"
         }
       ],
-      "duration_ms": 273293,
-      "name": "Pull Up To The Bumper",
-      "url": "https://open.spotify.com/track/72uS4v9EdiXZeascM5RTl7"
+      "duration_ms": 247000,
+      "name": "Got To Have Your Love - Radio Edit",
+      "url": "https://open.spotify.com/track/4qMkEKu8MVqEafFMrncGRa"
     }
   ],
   "unique_name": "80s Dance Hits",

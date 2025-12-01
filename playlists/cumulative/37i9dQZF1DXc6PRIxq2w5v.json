@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 213742,
       "name": "Erros",
       "url": "https://open.spotify.com/track/1UdDJYLbEEcQEBEXO9qpuY"
@@ -5712,6 +5712,28 @@
       "duration_ms": 186293,
       "name": "Me Faz Bem",
       "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+    },
+    {
+      "album": {
+        "name": "Me Guia Em Tua Luz",
+        "url": "https://open.spotify.com/album/1TMH2E7OoVT8GsWCgbosJE"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        },
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172239,
+      "name": "Me Guia Em Tua Luz",
+      "url": "https://open.spotify.com/track/5kkHPzZDXCVFBz1SlJurmW"
     },
     {
       "album": {

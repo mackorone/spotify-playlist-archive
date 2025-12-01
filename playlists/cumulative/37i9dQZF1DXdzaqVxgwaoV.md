@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-359 songs - 21 hr 54 min
+360 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Cayetano Baila](https://open.spotify.com/track/0uFdvE0zg08Hg2oKvcNeIf) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 2:49 | 2024-10-17 | 2025-11-17 |
 | [Ceniza Fria](https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Leyenda](https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF) | 4:01 | 2023-11-09 | 2024-04-19 |
 | [Ceniza Fría](https://open.spotify.com/track/3q15KHRykWDh4IzLuVj8sc) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Éxitos los Chiches Vallenatos](https://open.spotify.com/album/1KpRYCfdhi4dnnCNdGvdcU) | 4:01 | 2023-12-20 |  |
-| [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 | 2023-12-20 |  |
+| [Charanga Campesina](https://open.spotify.com/track/1tjFVXm886ZTNPFbF7oRZP) | [Calixto Ochoa](https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc) | [Homenaje a una Leyenda Viva, Vol\. 1](https://open.spotify.com/album/7BXMMoJdwto5cJrARGIZNX) | 2:38 | 2023-12-20 | 2025-12-01 |
 | [Charanga Campesina](https://open.spotify.com/track/4BA2lQbc6Vn4RJHgGA2L7s) | [Calixto Ochoa y Su Conjunto](https://open.spotify.com/artist/1kgaDKoI7QF74We1cb2MB3) | [Joyas Corraleras, Vol\. 2](https://open.spotify.com/album/6Zda4UxMAzImw72uSWkSfc) | 2:41 | 2025-09-09 | 2025-10-04 |
 | [Cinco Pa' las 12](https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Top Latino Navidad \(Remix \- Audio\)](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:59 | 2023-12-15 |  |
 | [Colombia Tierra Querida](https://open.spotify.com/track/3DwedX467tabb9zUzdqfcq) | [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [Serie Inmortales: Los Ritmos Costeños Favoritos del Maestro](https://open.spotify.com/album/1ZrungzeCwLOWIOfl1PXKu) | 2:38 | 2023-11-15 | 2024-04-19 |
@@ -111,6 +111,7 @@
 | [El Hijo Desobediente](https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancherísimo, Vol\. 2](https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U) | 3:15 | 2023-02-03 | 2024-09-02 |
 | [El Loco y La Luna](https://open.spotify.com/track/30SYpouR2GJJvtY3gjFz7V) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:51 | 2023-12-20 | 2024-04-19 |
 | [El Merecumbe](https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW), [La Billo's y Los Melodicos](https://open.spotify.com/artist/62okGmZQ0Yr2lQhBUL6h86) | [La Billo's y Los Melodicos de coleccion, vol.1](https://open.spotify.com/album/4oI9hX7GLmynB3iscdKhfY) | 2:37 | 2023-11-09 | 2023-11-18 |
+| [El Merecumbé](https://open.spotify.com/track/2qomU9CLOJrZVDjDrG1xPj) | [Victor Piñero](https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx) | [A Los 30 Años de Victor Piñero](https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G) | 2:35 | 2025-11-20 |  |
 | [El Mochuelo](https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 4:56 | 2023-11-09 | 2024-04-19 |
 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 | 2023-02-03 |  |
 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 | 2023-02-03 |  |

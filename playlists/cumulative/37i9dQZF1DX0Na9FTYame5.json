@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr immer",
+        "url": "https://open.spotify.com/album/6tPWvKqXiCNNQ8IZ17nXvO"
+      },
+      "artists": [
+        {
+          "name": "Disarstar",
+          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
+        }
+      ],
+      "date_added": "2025-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152908,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/3801V1ff6WknMMJAGmW1ON"
+    },
+    {
+      "album": {
         "name": "F\u00fcr immer Zuhaus\u2018 (feat. Montez)",
         "url": "https://open.spotify.com/album/369u6YDhMq2L6RPy4cP7v6"
       },
@@ -4646,7 +4664,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 126344,
       "name": "Schwere Zeit",
       "url": "https://open.spotify.com/track/5biAmerrRPKz6NyXcJu7JU"

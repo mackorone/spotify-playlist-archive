@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-1,335 songs - 2 day 13 hr 33 min
+1,336 songs - 2 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Blow My High](https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Focus More On Me \(Deluxe\)](https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg) | 2:29 | 2025-06-27 |  |
 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 | 2024-03-22 | 2024-08-31 |
 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \- Remix](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 | 2024-08-30 | 2024-09-14 |
+| [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 | 2025-11-30 |  |
 | [BOBA](https://open.spotify.com/track/6Ux9K9H5tTBypQKCmDOLqk) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [My Gift To You](https://open.spotify.com/album/1W0y4bejq95XTfTsj5vy2o) | 1:58 | 2024-04-26 | 2024-05-03 |
 | [Bobby Boucher](https://open.spotify.com/track/6Uj7SZ86TnzJtagZsXQ31V) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [RIP Human Art](https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf) | 3:15 | 2023-10-25 | 2023-11-01 |
 | [Body](https://open.spotify.com/track/66GdFBE7JJ0ASvCLyKn7HR) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Dark Songs To Drive To](https://open.spotify.com/album/7fc2sH5vRsDNXaIlWl9Cyn) | 2:33 | 2023-10-13 | 2024-02-10 |
@@ -673,7 +674,7 @@
 | [Let's Get It](https://open.spotify.com/track/1Lpl62qGlJaaojgGiJNVho) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [CircoLoco Records & NEZ Present CLR 002](https://open.spotify.com/album/2wAuDx3TtAOyhk0cGMjv5C) | 2:46 | 2022-03-11 | 2022-06-08 |
 | [Let's Get Money](https://open.spotify.com/track/0hpCqkNmZPuICMY2h0S3aB) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Let's Get Money](https://open.spotify.com/album/5xkMGkWkc8Ng0UAzEq6WUG) | 3:07 | 2022-06-07 | 2022-09-24 |
 | [Lick Back](https://open.spotify.com/track/4uP2usJkQXCTMqW7r2thMs) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What Happened To Forever?](https://open.spotify.com/album/0Nnd22G5iTtLUpd0TKYX52) | 1:16 | 2025-02-24 | 2025-03-08 |
-| [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 | 2025-10-17 |  |
+| [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 | 2025-10-17 | 2025-12-01 |
 | [Life of the Party](https://open.spotify.com/track/1cub6yoVokdIB7MAF8Brza) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Life of the Party](https://open.spotify.com/album/2o0XNHxZQoR4vMXLpOQjx2) | 2:51 | 2023-10-20 | 2024-02-03 |
 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 | 2022-08-05 | 2022-10-29 |
 | [Like It's 99](https://open.spotify.com/track/0H9DJEKl5tdaB3v97gtrGe) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E) | [Like It's 99](https://open.spotify.com/album/3ncKvA3x0qks1qEFxDIAx6) | 3:16 | 2023-08-18 | 2023-10-26 |

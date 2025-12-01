@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Hazy Eclipse",
+        "url": "https://open.spotify.com/album/5k087zBtFdjAW6X0AKPrKe"
+      },
+      "artists": [
+        {
+          "name": "Soothe My Soul",
+          "url": "https://open.spotify.com/artist/7C8p7eBuwDPhRuOFamOJ9T"
+        }
+      ],
+      "date_added": "2025-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187624,
+      "name": "Hazy Eclipse",
+      "url": "https://open.spotify.com/track/73LoTc3E0Pg2e9bq8REJyI"
+    },
+    {
+      "album": {
         "name": "Evening Soundscapes",
         "url": "https://open.spotify.com/album/0JPQTfhNspilaTkduVToOf"
       },
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 159750,
       "name": "Oracle Creek",
       "url": "https://open.spotify.com/track/356hg0A51cmxuMatMVWii0"

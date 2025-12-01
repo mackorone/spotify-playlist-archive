@@ -3610,6 +3610,24 @@
     {
       "album": {
         "name": "Happy End",
+        "url": "https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa"
+      },
+      "artists": [
+        {
+          "name": "Aria Martelle",
+          "url": "https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146068,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc"
+    },
+    {
+      "album": {
+        "name": "Happy End",
         "url": "https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr"
       },
       "artists": [
@@ -9248,7 +9266,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 117637,
       "name": "sama ze sob\u0105!",
       "url": "https://open.spotify.com/track/2ZFBhH8U98Y9T0YJoH81TQ"

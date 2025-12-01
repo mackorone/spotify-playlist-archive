@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,939 likes - 223 songs - 9 hr 35 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 101,955 likes - 230 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,5 +231,12 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 221 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 |
 | 222 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |
 | 223 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
+| 224 | [Don't Keep Me Waiting](https://open.spotify.com/track/7vqIvKH6dx0umbtksaGzoT) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [Don't Keep Me Waiting](https://open.spotify.com/album/5yQUxgim3jlLnjN79RrHuB) | 3:24 |
+| 225 | [LOCA LOCA](https://open.spotify.com/track/40BiHLp1GLzVwa48xbGQn3) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [LOCA LOCA](https://open.spotify.com/album/6BnAo5iGCpelJ1sYdHu5o5) | 2:06 |
+| 226 | [JANE](https://open.spotify.com/track/7c810a1Xmi36UHng53ewWZ) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [JANE](https://open.spotify.com/album/6siGLeQUQR7J2i9y3yLSZB) | 3:18 |
+| 227 | [Coastline](https://open.spotify.com/track/7Msp6y4kUqFjMNfnBxQty8) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Pherick](https://open.spotify.com/artist/261bs46BCFyBXzTUz9RPJe) | [Coastline](https://open.spotify.com/album/30dwOHMsQ1Lw2CHHiQufEj) | 2:06 |
+| 228 | [For The Best](https://open.spotify.com/track/1i3SQxYY9JvwRTNs9IsQjJ) | [Goldaine](https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg) | [For The Best](https://open.spotify.com/album/0rjEzRdVsSGfVFqgjwBQX7) | 2:51 |
+| 229 | [She's Heavenly](https://open.spotify.com/track/5xStP4JYvfZkMwcmCWaH9b) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [She's Heavenly](https://open.spotify.com/album/5tFwP3z4vUQ9FbY0Aoei1D) | 2:23 |
+| 230 | [The Sun](https://open.spotify.com/track/1kTI0ce1FUG0GzFqQ2lbS1) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Angie Robba](https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4) | [The Sun](https://open.spotify.com/album/3XU6AfM9oXQ4cxSq8f5J7m) | 2:18 |
 
-Snapshot ID: `AABOTlMX+HtxVvZBsEmhmIajbFK6yK36`
+Snapshot ID: `AABOVatvxdxbERuX9aApNGPOZYj8RKUW`

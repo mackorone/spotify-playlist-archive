@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpCsFZJADb7.md) - [plain]
 
 > Listen to stories from your friends on Sesame Street.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,130 likes - 39 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,141 likes - 39 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

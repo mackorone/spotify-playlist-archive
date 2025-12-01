@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 1823,
+  "num_followers": 1827,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-09-30 15:00:36",
       "album": {
+        "name": "ALL YOURS",
+        "url": "https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP"
+      },
+      "artists": [
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        }
+      ],
+      "duration_ms": 280833,
+      "name": "Anytime",
+      "url": "https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq"
+    },
+    {
+      "added_at": "2025-09-30 15:00:36",
+      "album": {
         "name": "KTST",
         "url": "https://open.spotify.com/album/18Nw6tolNXkQ8s9m4x7d4a"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 167482,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/26rDgXiR1lkieexQ2hkBXk"
-    },
-    {
-      "added_at": "2025-09-30 15:00:36",
-      "album": {
-        "name": "ALL YOURS",
-        "url": "https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP"
-      },
-      "artists": [
-        {
-          "name": "Crystal Kay",
-          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
-        }
-      ],
-      "duration_ms": 280833,
-      "name": "Anytime",
-      "url": "https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq"
     }
   ],
   "unique_name": "Kimono R&B",

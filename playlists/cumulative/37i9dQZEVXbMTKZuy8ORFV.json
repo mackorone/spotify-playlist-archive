@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "1313",
+        "url": "https://open.spotify.com/album/1zWZlasiNxxLSqRtjL48au"
+      },
+      "artists": [
+        {
+          "name": "Q_ARE",
+          "url": "https://open.spotify.com/artist/1tg6SNEx6wOz4muQiXLBwI"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141177,
+      "name": "1313",
+      "url": "https://open.spotify.com/track/1yRiznUykpaj2jR27sU8fD"
+    },
+    {
+      "album": {
         "name": "Mordisco",
         "url": "https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD"
       },
@@ -6820,7 +6838,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 228795,
       "name": "Chica Letal",
       "url": "https://open.spotify.com/track/1f1itnh8VuAQ8nAAt9Fy9e"
@@ -7822,10 +7840,28 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 78620,
       "name": "CONFESS YOUR LOVE FUNK",
       "url": "https://open.spotify.com/track/7BPNz9Ap1rFIX27umIQchp"
+    },
+    {
+      "album": {
+        "name": "Confess Your Love Funk",
+        "url": "https://open.spotify.com/album/4nefh4VlvYs241dj8rORNE"
+      },
+      "artists": [
+        {
+          "name": "SaJai",
+          "url": "https://open.spotify.com/artist/5jRNP1q4tfyGqBmHLs6oKx"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78854,
+      "name": "Confess Your Love Funk",
+      "url": "https://open.spotify.com/track/5kQbGGVTmVHUDjSdo3V0Np"
     },
     {
       "album": {
@@ -12970,7 +13006,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 128230,
       "name": "Facto tras Facto",
       "url": "https://open.spotify.com/track/3pXeSwZgE5kkHrb70AkkKd"
@@ -13358,7 +13394,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 182837,
       "name": "Fazer Macete",
       "url": "https://open.spotify.com/track/7opm9EyTP716ruaWXYrOdv"
@@ -16958,6 +16994,24 @@
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
+    },
+    {
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
       "album": {
@@ -22078,7 +22132,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 257239,
       "name": "Mi complemento",
       "url": "https://open.spotify.com/track/3JXP4ZUx1T4OdWDJDC3aKl"
@@ -22476,7 +22530,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 225439,
       "name": "Migajero",
       "url": "https://open.spotify.com/track/4cGjN10neA2qXPdJhcE4vF"
@@ -22876,7 +22930,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 452811,
       "name": "Mis Nostalgias - ReMiX",
       "url": "https://open.spotify.com/track/1k1vMMc97fbMB1VSJcGSXp"
@@ -28942,7 +28996,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 254333,
       "name": "Por Ese Hombre",
       "url": "https://open.spotify.com/track/4LLM1vflM6qCdFVsJPiq1p"
@@ -31500,7 +31554,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 162533,
       "name": "Sauvignon Blanc",
       "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"

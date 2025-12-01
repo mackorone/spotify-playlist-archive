@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 220443,
+  "num_followers": 220450,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-11-13 23:00:14",
       "album": {
-        "name": "Desert",
-        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
-      },
-      "artists": [
-        {
-          "name": "Ask Carol",
-          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
-        }
-      ],
-      "duration_ms": 331785,
-      "name": "Desert",
-      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
-    },
-    {
-      "added_at": "2025-11-13 23:00:14",
-      "album": {
         "name": "v\u00e1r",
         "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 231586,
       "name": "v\u00e1r",
       "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2025-11-13 23:00:14",
+      "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf"
+      },
+      "artists": [
+        {
+          "name": "Ask Carol",
+          "url": "https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR"
+        }
+      ],
+      "duration_ms": 331785,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
     },
     {
       "added_at": "2025-11-13 23:00:14",

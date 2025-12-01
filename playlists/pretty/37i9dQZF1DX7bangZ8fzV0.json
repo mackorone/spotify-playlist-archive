@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Chris Steyn",
-  "num_followers": 137969,
+  "num_followers": 138006,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
+        "name": "AVBOB Se Stoep",
+        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
+      },
+      "artists": [
+        {
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+        }
+      ],
+      "duration_ms": 208969,
+      "name": "AVBOB Se Stoep",
+      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+    },
+    {
+      "added_at": "2025-10-30 22:00:14",
+      "album": {
         "name": "NIE M\u00d4RE NIE NOU",
         "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 182880,
       "name": "Lui Voete",
       "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
-    },
-    {
-      "added_at": "2025-10-30 22:00:14",
-      "album": {
-        "name": "AVBOB Se Stoep",
-        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        }
-      ],
-      "duration_ms": 208969,
-      "name": "AVBOB Se Stoep",
-      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
     },
     {
       "added_at": "2025-10-30 22:00:14",
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2025-10-30 22:00:14",
       "album": {
-        "name": "Ek Verstaan",
-        "url": "https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI"
+        "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
+        "url": "https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw"
       },
       "artists": [
         {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+          "name": "Len Muller",
+          "url": "https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0"
         },
         {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+          "name": "ShokBasse",
+          "url": "https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj"
         }
       ],
-      "duration_ms": 164746,
-      "name": "Ek Verstaan",
-      "url": "https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA"
+      "duration_ms": 182927,
+      "name": "Soos 'n Engel Remix (Feat. Shokbasse)",
+      "url": "https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h"
     }
   ],
   "unique_name": "Afrikaanse Hits",

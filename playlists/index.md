@@ -4605,7 +4605,7 @@
 - [Pakka Hit Hai](/playlists/pretty/37i9dQZF1DX6TT2YOPM1n3.md)
 - [Palco POP](/playlists/pretty/37i9dQZF1DX7GWlXStIq5M.md)
 - [Palmera](/playlists/pretty/37i9dQZF1DX8k32Enx2PeV.md)
-- [Papuri](/playlists/pretty/37i9dQZF1DXb5DJuf8AOJO.md)
+- [Papuri with JESCOM](/playlists/pretty/37i9dQZF1DXb5DJuf8AOJO.md)
 - [Para Andar Agushto Papa](/playlists/pretty/37i9dQZF1DWT95n8rWIyjK.md)
 - [Para Enamorados](/playlists/pretty/37i9dQZF1DXa1S1d38suSz.md)
 - [Para ir rrrápido con R de Rap y Reggaetón](/playlists/pretty/37i9dQZF1DWXwsJebq0rKg.md)

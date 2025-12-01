@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-535 songs - 1 day 7 hr 45 min
+536 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 | 2025-11-28 |  |
 | [4900$](https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf) | [\(les\) méandres de la soif](https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ) | 2:33 | 2021-01-03\* | 2024-10-18 |
 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 | 2023-11-10 |  |
+| [A Brand New Color](https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV) | [Gaspard Eden](https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu) | [Crooked Lines](https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L) | 3:22 | 2025-11-28 |  |
 | [Abri](https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf), [Noémie Kaiser](https://open.spotify.com/artist/7lY8bTj95cRXHKOKGycelA) | [Abri](https://open.spotify.com/album/7puqUMfRuARh1o4xmelNuD) | 3:32 | 2025-10-17 |  |
 | [Acapulco](https://open.spotify.com/track/1I0rpCvX2MyCp3KRM2kp70) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq) | [Les rêves sont faits](https://open.spotify.com/album/05Ppnlutbe72LvBOawQxZJ) | 3:38 | 2021-01-03\* | 2021-01-30 |
 | [Acid Rain](https://open.spotify.com/track/2GlDzxxz0k9aUZdM7cGAJV) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m) | [Acid Rain](https://open.spotify.com/album/7n06K0Qu5z9cb7KMR7ufHF) | 3:35 | 2022-01-21 | 2022-07-29 |
@@ -119,7 +120,7 @@
 | [Eldorado \- Acoustique](https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Eldorado \(Acoustique\)](https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB) | 3:17 | 2025-11-07 |  |
 | [Elie](https://open.spotify.com/track/3UDwredvomtpZsvMO2WTJl) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Elie](https://open.spotify.com/album/2SMbJm3dfMEDotP3TC6uyE) | 3:06 | 2021-01-03\* | 2021-10-07 |
 | [Elle](https://open.spotify.com/track/74tfYbU9V6E73Kzf8KoxgE) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf), [David Bujold](https://open.spotify.com/artist/3erXqFbSNsihvzkRJSHZV7) | [L'éternel retour](https://open.spotify.com/album/0QdAA0cQPcVj2bM4kr7uNn) | 7:29 | 2021-01-16 | 2021-10-08 |
-| [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* |  |
+| [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* | 2025-12-01 |
 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 | 2024-08-24 |
 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* | 2025-10-18 |
 | [Encore et encore](https://open.spotify.com/track/4kQtxAuiMW992AmzaEparm) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Encore et encore](https://open.spotify.com/album/5hu4NysMSIE8CykyRcYEYs) | 4:20 | 2021-01-03\* | 2021-09-30 |

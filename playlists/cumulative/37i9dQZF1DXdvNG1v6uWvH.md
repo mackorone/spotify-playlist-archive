@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Ed Sheeran, Central Cee, HubbaBubba og mörgum fleiri!
 
-8,904 songs - 19 day 22 hr 35 min
+8,905 songs - 19 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3465,6 +3465,7 @@
 | [Hollywood](https://open.spotify.com/track/1jit8yRaXz50OZNINPxtym) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Hollywood b/w CD\-R](https://open.spotify.com/album/6o8LiEGxLTjMBt1PFxHp4U) | 3:05 | 2024-08-09 | 2024-08-16 |
 | [Holskefla](https://open.spotify.com/track/7MAk4PBUiX4AROwjSO6S3c) | [Múr](https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO) | [Holskefla](https://open.spotify.com/album/2sKOKwbo4Mpxj2NWsZDsPd) | 10:25 | 2024-11-15 | 2024-11-22 |
 | [Holur](https://open.spotify.com/track/7h0Eq6lNdt0sp0guJDmo95) | [Fjöll](https://open.spotify.com/artist/1Mco9bJge0QCnXYfXMAviY) | [Holur](https://open.spotify.com/album/50BCH9uPKzGUqJr3lyQxuM) | 6:35 | 2025-04-11 | 2025-04-18 |
+| [Holy](https://open.spotify.com/track/4ms5x0JGk2dX7HzovblJQF) | [Glóey](https://open.spotify.com/artist/5KdeAqVXbapQ0aOADOL9Cb) | [Holy](https://open.spotify.com/album/57R851ZOke0DToz7WASlbS) | 4:31 | 2025-11-28 |  |
 | [Holy Flesh](https://open.spotify.com/track/77BfXcLAg7Du7Z4plrhkaN) | [Grétar Ólafur](https://open.spotify.com/artist/60umQAzI1pvQ7g4zokVHT9) | [Holy Flesh](https://open.spotify.com/album/6kOZWFnxe7Wz8XS45tGzd8) | 3:26 | 2025-01-10 | 2025-01-11 |
 | [Holy Moly \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:21 | 2024-06-28 | 2024-07-05 |
 | [Holy Mountain](https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/6Yzu9wAkkxRUpEGyVpun81) | 2:29 | 2025-05-30 | 2025-06-06 |
@@ -4967,7 +4968,7 @@
 | [MAYHEM](https://open.spotify.com/track/5k7ZBC0OtY7WezS1ZnY1O3) | [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw), [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [MAYHEM](https://open.spotify.com/album/6tsPVTCmhiyDS5YOr4nQWM) | 3:03 | 2024-09-20 | 2024-09-27 |
 | [Maze of Fools](https://open.spotify.com/track/1fWUjjfJ23k1GNnQ57W8wb) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Maze of Fools](https://open.spotify.com/album/4s1ql4CtPsNSfGkF6kF2Ay) | 3:18 | 2024-11-22 | 2024-11-29 |
 | [mañana sé](https://open.spotify.com/track/7pRXIIW2oV7ezYzt8tBa5r) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [mañana sé](https://open.spotify.com/album/0uzjqBVgiKeBEWM2Dn8GT4) | 3:37 | 2024-11-29 | 2024-12-06 |
-| [MAŁE KROCZKI](https://open.spotify.com/track/3L2IQjT8aLOBGhWzXIBLKV) | [ĆVIARA](https://open.spotify.com/artist/55lrwhLOw6d71asOvUExHc) | [MAŁE KROCZKI](https://open.spotify.com/album/7wmgscBr4xo1n1UrGpEzzp) | 3:01 | 2025-11-28 |  |
+| [MAŁE KROCZKI](https://open.spotify.com/track/3L2IQjT8aLOBGhWzXIBLKV) | [ĆVIARA](https://open.spotify.com/artist/55lrwhLOw6d71asOvUExHc) | [MAŁE KROCZKI](https://open.spotify.com/album/7wmgscBr4xo1n1UrGpEzzp) | 3:01 | 2025-11-28 | 2025-12-01 |
 | [MC69](https://open.spotify.com/track/4kVkhcd1lfV6HwN54kyxdg) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Worldstar](https://open.spotify.com/album/3j2ug4jEwFlbkt3MPvqaxI) | 2:25 | 2025-10-31 | 2025-11-07 |
 | [Me & My Heart](https://open.spotify.com/track/32LwJ5Nc7vwLUk2SrzSZpE) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Me & My Heart](https://open.spotify.com/album/1xn0kcFDL0EYRlDOAFqW9n) | 2:40 | 2024-10-04 | 2024-10-11 |
 | [Me and You](https://open.spotify.com/track/4zeYDi5BpzV4o0Huw2S1DF) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Me and You](https://open.spotify.com/album/0AY191IMutEVOlyznO3ZL0) | 2:59 | 2025-08-22 | 2025-08-30 |

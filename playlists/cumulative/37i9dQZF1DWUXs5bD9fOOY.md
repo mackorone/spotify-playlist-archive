@@ -4,7 +4,7 @@
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-104 songs - 5 hr 39 min
+105 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Dynamite \(Holiday Remix\)](https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(Holiday Remix\)](https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd) | 3:33 | 2023-12-12 | 2024-04-19 |
 | [Dynamite \- Holiday Remix](https://open.spotify.com/track/6SM3TJaWkmT8Iq8l9J0BIS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(Holiday Remix\)](https://open.spotify.com/album/3HVNK5OxW9qfkySXjHWehH) | 3:33 | 2023-12-19 | 2024-12-25 |
 | [First Christmas](https://open.spotify.com/track/45jLrzxVvQgoMqVYNB2yPy) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [First Christmas](https://open.spotify.com/album/0vecA8H0SLCwM437ysSH5l) | 3:43 | 2023-12-12 | 2024-11-29 |
+| [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 | 2025-11-30 |  |
 | [Giving In To Christmas](https://open.spotify.com/track/1NEGBGByGFlLddxYCLpx4Z) | [Magne Furuholmen](https://open.spotify.com/artist/5fCrGWlcIIwdCf2TeCQZjc) | [Giving In To Christmas](https://open.spotify.com/album/5dVrOJjgarBdpyZZ72MNMH) | 3:37 | 2024-11-28 |  |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [The Harlem Community Choir](https://open.spotify.com/artist/0vneleczrRRNPF1vj0x0vy), [The Plastic Ono Band](https://open.spotify.com/artist/4m2kfAHEnK7Z7qLGxeWtro), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Power To The People \- The Hits](https://open.spotify.com/album/7mXg4fLJHmmnjAahH15Wsj) | 3:33 | 2023-12-19 |  |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2023-12-12 | 2024-04-19 |
@@ -103,14 +104,14 @@
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-12-12 |  |
 | [wishlist](https://open.spotify.com/track/48YdNMIfxIjEWj5P3zoYM1) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4v30MajYD1fpYT0klAt4px) | 3:23 | 2023-12-19 |  |
 | [wishlist](https://open.spotify.com/track/5A7c78ufMETDVBmFADFMJv) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [wishlist](https://open.spotify.com/album/4lR8d9biYRzivkjR2YNxN8) | 3:23 | 2023-12-12 | 2024-04-19 |
-| [Wonderland](https://open.spotify.com/track/5rVlWkobkBjexEFI4DunQs) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Wonderland](https://open.spotify.com/album/19l77oRyewdkvqIqt0vSoY) | 3:35 | 2024-12-24 |  |
+| [Wonderland](https://open.spotify.com/track/5rVlWkobkBjexEFI4DunQs) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Wonderland](https://open.spotify.com/album/19l77oRyewdkvqIqt0vSoY) | 3:35 | 2024-12-24 | 2025-12-01 |
 | [Woofin' and Meowin'](https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Woofin' and Meowin'](https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ) | 2:47 | 2023-12-12 | 2024-12-25 |
 | [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 | 2023-12-12 |  |
 | [Xmas](https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Xmas](https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0) | 3:22 | 2024-11-28 |  |
 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 | 2023-12-12 | 2024-12-25 |
 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2023-12-12 |  |
 | [クリスマス・イブ](https://open.spotify.com/track/2VBLRJdUl5XI29d3ys0Ys5) | [Chris Hart](https://open.spotify.com/artist/7HKv46ONX5fJFCSygtx9R0) | [Christmas Hearts](https://open.spotify.com/album/47lIymzDBc1DOnJKl1MCPz) | 3:57 | 2023-12-12 | 2024-12-25 |
-| [メニークリスマス](https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [メニークリスマス](https://open.spotify.com/album/2JxcZPrtt96n3zEhy5cVWQ) | 3:40 | 2024-12-24 |  |
+| [メニークリスマス](https://open.spotify.com/track/1bqiYm0YfM9dDtb8saM0m2) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [メニークリスマス](https://open.spotify.com/album/2JxcZPrtt96n3zEhy5cVWQ) | 3:40 | 2024-12-24 | 2025-12-01 |
 | [白い恋人達](https://open.spotify.com/track/5hFHG3UfvrOfhcV8anlU8g) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [TOP OF THE POPS](https://open.spotify.com/album/0Hi41ccpXRu4Httjo6O83v) | 4:40 | 2023-12-12 |  |
 
 \*This playlist was first scraped on 2023-12-14. Prior content cannot be recovered.

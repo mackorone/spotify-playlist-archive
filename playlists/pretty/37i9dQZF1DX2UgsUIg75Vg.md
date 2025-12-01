@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Odeal
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,367,860 likes - 250 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,367,879 likes - 250 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 249 | [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 |
 | 250 | [NARCISSIST?](https://open.spotify.com/track/1MwXXI0buiiwEsZ9d6RBZ9) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 4:39 |
 
-Snapshot ID: `AAAAAOLwElh8XnB1PiLLF4vpDErNqGXU`
+Snapshot ID: `AAAAAN3iWIVWskkgAsIleZzNNf91QDMm`

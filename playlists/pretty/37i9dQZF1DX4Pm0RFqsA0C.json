@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 8573,
+  "num_followers": 8576,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB"
-      },
-      "artists": [
-        {
-          "name": "Uhm Jung Hwa",
-          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/2wbJw0ROn1S11TVtjEa4IT"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Virginalness Bloom",
         "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 183413,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2wbJw0ROn1S11TVtjEa4IT"
     },
     {
       "added_at": "2024-04-04 20:06:12",

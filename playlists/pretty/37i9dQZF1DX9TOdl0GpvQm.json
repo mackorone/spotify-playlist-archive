@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 188133,
+  "num_followers": 188188,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAEog6LLZdUvWVE24lsr9ny4c4O1M",
   "tracks": [
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "UNDERTALE Soundtrack",
-        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 57818,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
-    },
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 158000,
       "name": "Kids",
       "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "UNDERTALE Soundtrack",
+        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        }
+      ],
+      "duration_ms": 57818,
+      "name": "Fallen Down",
+      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Analog Noise",
-        "url": "https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e"
-      },
-      "artists": [
-        {
-          "name": "YG Hypnos",
-          "url": "https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Dust Collector",
-      "url": "https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 219893,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Analog Noise",
+        "url": "https://open.spotify.com/album/2gkzN2Nmz38VK6piTyaA8e"
+      },
+      "artists": [
+        {
+          "name": "YG Hypnos",
+          "url": "https://open.spotify.com/artist/5WpYloOgi13TDNqlZLZ8sn"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Dust Collector",
+      "url": "https://open.spotify.com/track/3UNV3RoBorI6KvYS4B5D8l"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
-        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
-      },
-      "artists": [
-        {
-          "name": "Throbbing Gristle",
-          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Hamburger Lady - Remastered",
-      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 257467,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
+        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
+      },
+      "artists": [
+        {
+          "name": "Throbbing Gristle",
+          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Hamburger Lady - Remastered",
+      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 180373,
-      "name": "Saute-Mouton",
-      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Geleit ins Totenreich",
         "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 200493,
       "name": "Ivory Tower II",
       "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "Saute-Mouton",
+      "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Caso 63 (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya"
-      },
-      "artists": [
-        {
-          "name": "Mowat",
-          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
-        }
-      ],
-      "duration_ms": 151248,
-      "name": "The Theme",
-      "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Magda",
         "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 522000,
       "name": "Velluto",
       "url": "https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Caso 63 (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/53QQs5zdZMkrMShR5Qy1Ya"
+      },
+      "artists": [
+        {
+          "name": "Mowat",
+          "url": "https://open.spotify.com/artist/7vBqkoAdt6FtpwiqWLUVua"
+        }
+      ],
+      "duration_ms": 151248,
+      "name": "The Theme",
+      "url": "https://open.spotify.com/track/2k0lu8E5t7Ctia7c5IBKgo"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Ghosst(s)",
         "url": "https://open.spotify.com/album/7BpSu8aQ6QtM143oBKYALC"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 260004,
       "name": "Ghosst(s)",
       "url": "https://open.spotify.com/track/2iemI7C2z0T653GPT9ClLn"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "S\u00e9ance at Hobs Lane",
-        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
-      },
-      "artists": [
-        {
-          "name": "Mount Vernon Arts Lab",
-          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "The Black Drop",
-      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Hypernormality",
         "url": "https://open.spotify.com/album/5s2MU4pZMy6B3guYWxlLX5"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "S\u00e9ance at Hobs Lane",
+        "url": "https://open.spotify.com/album/50dd5Emb8udvftgSFCRwv6"
+      },
+      "artists": [
+        {
+          "name": "Mount Vernon Arts Lab",
+          "url": "https://open.spotify.com/artist/37aUQIcdo49KgggYxVKcQY"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "The Black Drop",
+      "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Dragon Wings and Wizard Tales",
         "url": "https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Twin Color (Extended Play No. 2)",
-        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
         }
       ],
-      "duration_ms": 370400,
-      "name": "Like Halloween, Pt. I",
-      "url": "https://open.spotify.com/track/0UhLqQMGKy8trlKSlU4o9J"
+      "duration_ms": 390573,
+      "name": "Claim It",
+      "url": "https://open.spotify.com/track/3uSjp9rT55R0WjPSfnoyT8"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY"
+        "name": "Twin Color (Extended Play No. 2)",
+        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
       },
       "artists": [
         {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 390573,
-      "name": "Claim It",
-      "url": "https://open.spotify.com/track/3uSjp9rT55R0WjPSfnoyT8"
+      "duration_ms": 370400,
+      "name": "Like Halloween, Pt. I",
+      "url": "https://open.spotify.com/track/0UhLqQMGKy8trlKSlU4o9J"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Ozone Scraper",
         "url": "https://open.spotify.com/album/5AUkiL7bPV1Hc6jGdYydrI"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 211299,
       "name": "Ozone Scraper",
       "url": "https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Mogadon Coffee Morning",
+      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Galactic Sounds",
-        "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
-      },
-      "artists": [
-        {
-          "name": "Retep Folo",
-          "url": "https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU"
-        }
-      ],
-      "duration_ms": 130582,
-      "name": "Galactic Pulse",
-      "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Elektrik Karousel",
         "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 144543,
       "name": "Kinky Korner Klub",
       "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Galactic Sounds",
+        "url": "https://open.spotify.com/album/2rp2et7vphJtxSniKKD85T"
+      },
+      "artists": [
+        {
+          "name": "Retep Folo",
+          "url": "https://open.spotify.com/artist/0b3JoBlAB8qvm40kPJe2yU"
+        }
+      ],
+      "duration_ms": 130582,
+      "name": "Galactic Pulse",
+      "url": "https://open.spotify.com/track/6tgs5jLx331P1rjGeSLoZV"
     },
     {
       "added_at": "2025-11-14 17:00:34",

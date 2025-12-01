@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 165461,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/6lawbWU1OmFMKXVccBfjxK"
@@ -7400,6 +7400,28 @@
       "duration_ms": 180145,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7kuYGMg1bWRI9qhAh1sAWq"
+    },
+    {
+      "album": {
+        "name": "Tranquila & calma",
+        "url": "https://open.spotify.com/album/5SiQ8k3NEpybLBG6SW0bRv"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a",
+          "url": "https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4"
+        },
+        {
+          "name": "Bruce Slim Beats",
+          "url": "https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148580,
+      "name": "tranquila & Calma",
+      "url": "https://open.spotify.com/track/4NC1JnWuLIo0Dfds2SQ674"
     },
     {
       "album": {

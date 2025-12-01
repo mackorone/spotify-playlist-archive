@@ -1,6 +1,6 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 119516,
+  "num_followers": 119572,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
@@ -607,8 +607,8 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+      "duration_ms": 224352,
+      "name": "Su Florcita",
+      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
         }
       ],
-      "duration_ms": 224352,
-      "name": "Su Florcita",
-      "url": "https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG"
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
+        "name": "Sin Remedio",
+        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
+      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
         "name": "Una Cerveza RMX",
         "url": "https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 181619,
       "name": "Una Cerveza RMX",
       "url": "https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
-        "name": "Sin Remedio",
-        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 299426,
-      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
-      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 202706,
       "name": "Gotitas",
       "url": "https://open.spotify.com/track/2hVciOpMaH3ZkXHUjn4mS6"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 356938,
-      "name": "La Santa Diabla",
-      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Te Mueve",
         "url": "https://open.spotify.com/album/4eRQmsu8YLnY629lHyDlda"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 210840,
       "name": "Caprichito",
       "url": "https://open.spotify.com/track/4vkG4TEwrAhCwclD7GXF1K"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 246920,
-      "name": "Y Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Compa\u00f1eros",
         "url": "https://open.spotify.com/album/54d0VDtGvhr7zgX2ouIo5T"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 245581,
       "name": "Compa\u00f1eros",
       "url": "https://open.spotify.com/track/5J9UqmTKnIGSz2EgI5wvyk"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Onda Nueva",
+        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+      },
+      "artists": [
+        {
+          "name": "Amerika'n Sound",
+          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+        }
+      ],
+      "duration_ms": 270826,
+      "name": "Una Copita M\u00e1s",
+      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Onda Nueva",
-        "url": "https://open.spotify.com/album/55KEMrdQ5yKqanjD9OyX3T"
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
       },
       "artists": [
         {
-          "name": "Amerika'n Sound",
-          "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
         }
       ],
-      "duration_ms": 270826,
-      "name": "Una Copita M\u00e1s",
-      "url": "https://open.spotify.com/track/1ak6zgnVOvIJD55he7nwzg"
+      "duration_ms": 246920,
+      "name": "Y Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2yEbq1d68QtkwkGFfDpMbr"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Afrorumba Chilenera",
-        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "Callejero",
-      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/2GBYmiFIKmUtmpe4mqdQg9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 175160,
       "name": "Nada que Ver",
       "url": "https://open.spotify.com/track/5IHJttldHzPyoUCi9ptfep"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Afrorumba Chilenera",
+        "url": "https://open.spotify.com/album/334OZeCYbDhSwj5mP9DD03"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 209173,
+      "name": "Callejero",
+      "url": "https://open.spotify.com/track/2ZzEsTTMNNVZ7x5mQ7O1xE"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "No Te Creas Tan Importante",
-        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Nectar",
-          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
-        }
-      ],
-      "duration_ms": 226882,
-      "name": "No Te Creas Tan Importante",
-      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "90 Retro Style",
         "url": "https://open.spotify.com/album/6V4MgFF7UgYIUEE5v2Gigr"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Makinita",
-        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
+        "name": "No Te Creas Tan Importante",
+        "url": "https://open.spotify.com/album/2jcXcf2sDbK3w6YsFhxhOj"
       },
       "artists": [
         {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+          "name": "Grupo Nectar",
+          "url": "https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep"
         }
       ],
-      "duration_ms": 223600,
-      "name": "Tengo Luquita",
-      "url": "https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk"
+      "duration_ms": 226882,
+      "name": "No Te Creas Tan Importante",
+      "url": "https://open.spotify.com/track/6EEDCnXpC745TnDPSeRjGl"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1463,8 +1447,24 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Nacidos para Triunfar",
-        "url": "https://open.spotify.com/album/2XTodyEDxodNijhokZFdDu"
+        "name": "La Makinita",
+        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Tengo Luquita",
+      "url": "https://open.spotify.com/track/3EYGVS7euI1GTiYkKBOSfk"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "Digan Lo Que Digan",
+        "url": "https://open.spotify.com/album/4FCdQWYqbvztVZEB7YVsGu"
       },
       "artists": [
         {
@@ -1472,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2"
         }
       ],
-      "duration_ms": 312266,
-      "name": "Hoja en Blanco - Vuela, Vuela",
-      "url": "https://open.spotify.com/track/3PtgZGSoe5NhELPi939r91"
+      "duration_ms": 174889,
+      "name": "Ritmo Sabroso",
+      "url": "https://open.spotify.com/track/6nwIqQv2JXDahVTXZitzXQ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Makinita",
-        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 284875,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/0p7JA2rxmDu7K4J2Wf7QPI"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 117950,
       "name": "Cumbia buena",
       "url": "https://open.spotify.com/track/6olrFuGY4UmIvc6Xh4B1Mn"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "La Makinita",
+        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 284875,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/6gUUERbRME9MKaAMIAa1I3"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "La Makinita",
-        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 226648,
-      "name": "La Makinita",
-      "url": "https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ"
-    },
-    {
-      "added_at": "2025-11-20 11:23:04",
-      "album": {
         "name": "Cumbia para Rato",
         "url": "https://open.spotify.com/album/7Jl4Q9zZJVhy3RKXtbR7ZZ"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 205331,
       "name": "Soltero",
       "url": "https://open.spotify.com/track/0TsxuYmpzm17gyWG0luJS1"
+    },
+    {
+      "added_at": "2025-11-20 11:23:04",
+      "album": {
+        "name": "La Makinita",
+        "url": "https://open.spotify.com/album/24xH6aou2of5sYqDhMjkZL"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 226648,
+      "name": "La Makinita",
+      "url": "https://open.spotify.com/track/02HQGyk9aGfleS1epTFtnJ"
     },
     {
       "added_at": "2025-11-20 11:23:04",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2025-11-20 11:23:04",
       "album": {
-        "name": "Eclipse Musical",
-        "url": "https://open.spotify.com/album/7pnhfzX9ANGbKBVyTVtvLz"
+        "name": "C\u00f3mo le Gusta",
+        "url": "https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd"
       },
       "artists": [
         {
-          "name": "Eclipse Musical",
-          "url": "https://open.spotify.com/artist/34CGGuUCKlrLtfKeq6viX9"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 286960,
-      "name": "Caprichosa",
-      "url": "https://open.spotify.com/track/68ECGlT3qgqTDzS2FcjVES"
+      "duration_ms": 190138,
+      "name": "C\u00f3mo le Gusta",
+      "url": "https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr"
     }
   ],
   "unique_name": "Cumbias para carretear",

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-252 songs - 14 hr 20 min
+260 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Breather](https://open.spotify.com/track/676IBfIXDIiidngkSKSJHY) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 0:42 | 2025-08-03 |  |
 | [British Fail](https://open.spotify.com/track/3XPjxkrqy9JqmRawof15B9) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 0:37 | 2025-08-03 |  |
 | [Broken But Okay](https://open.spotify.com/track/4pITpZtvVF30eU8VWfvQhK) | [Lost Vessels](https://open.spotify.com/artist/7AeupCew2jUeKC3wFOHyRz) | [Broken But Okay](https://open.spotify.com/album/3PS69d31sr6MWtQAuBSfeO) | 3:33 | 2025-11-13 |  |
+| [Broken to Pieces](https://open.spotify.com/track/4dpbweaATSdupQ7BT3gPPL) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Broken to Pieces](https://open.spotify.com/album/0W8dZh6tHbn9XfNu8Twaqs) | 3:06 | 2025-11-30 |  |
 | [Business As Usual \- Live](https://open.spotify.com/track/1Z0GICrIGjShS0pS0rPK6h) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:00 | 2025-11-08 |  |
 | [Buy My T\-Shirts](https://open.spotify.com/track/1Dans0sBCW3F7oxUbGHbXH) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc), [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Buy My T\-Shirts](https://open.spotify.com/album/60ZuOwqdV2W9DgOxvVG1VB) | 1:04 | 2025-08-03 |  |
 | [Can't Get You Out of My Head \- Audio Pulleys Remix](https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc), [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Can't Get You Out of My Head \(Audio Pulleys Remix\)](https://open.spotify.com/album/4QoRaGoXtHZueTqvhzOXQU) | 3:05 | 2025-08-03 |  |
@@ -56,7 +57,9 @@
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-11-10 |  |
 | [CYNICAL](https://open.spotify.com/track/1P3FaH2aQQcj6Yu2wuHOyM) | [almostmine](https://open.spotify.com/artist/6XaNTbBmtilnD6gYHQPcko) | [CYNICAL](https://open.spotify.com/album/7a8gBXlgmAt07U6sjM1gJS) | 2:43 | 2025-11-11 |  |
 | [D.O.C\. \(remaster\)](https://open.spotify.com/track/3nuCkHuNLB3HQrV6KpYLK8) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:36 | 2025-09-18 |  |
+| [dark haze](https://open.spotify.com/track/72H4KQmCvxUMO51re1lEPb) | [lunar celestia](https://open.spotify.com/artist/4HmcZK8JsIxzQZQnEOrFOb) | [dark haze](https://open.spotify.com/album/6LllUPvX8egR8bLWXS8kH3) | 2:52 | 2025-11-30 |  |
 | [Darkest Kiss](https://open.spotify.com/track/02hRANVmnHWYQDgM9eHeJY) | [KYNETIC](https://open.spotify.com/artist/0jJBBfh4EjAiLs2CsgMJuT) | [Darkest Kiss](https://open.spotify.com/album/4hckKYarI91XyKRb4i8Kiu) | 4:39 | 2025-11-13 |  |
+| [Deja De Decir Lo Que No Sientes](https://open.spotify.com/track/4mKcjRQulihMGHcwelFhr5) | [Glass Mirage](https://open.spotify.com/artist/0ADBjmnPmjHdgD8GEuv5an) | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/album/45Lmki6ohBTKbSTluiDByg) | 2:25 | 2025-11-30 |  |
 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 | 2025-11-17 |  |
 | [Desgraça Meritocrata](https://open.spotify.com/track/2toM8JC9BuVV2KWvNI3byX) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Lutar pela Paz](https://open.spotify.com/album/5ivEjlX5im8gx8jEKzyTyx) | 2:29 | 2025-11-15 |  |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-27 |  |
@@ -76,11 +79,13 @@
 | [Easy Tiger \- Live](https://open.spotify.com/track/2pczCxdV30ODAjDEsu8OTW) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [CAN'T STOP TALKING \(Live at The George Tavern\)](https://open.spotify.com/album/2pxj0W2BBXYFXiA3QePOJj) | 3:32 | 2025-11-08 |  |
 | [Echo Chambers](https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Echo Chambers](https://open.spotify.com/album/1UnXilvdjhrObk9GajzhCU) | 5:32 | 2025-08-03 |  |
 | [Echoes Of Nowhere](https://open.spotify.com/track/3SzGqxO8yV08UiST2L49ZY) | [Desert Lily](https://open.spotify.com/artist/4PhaxISQScCigU6Tt33Rdd) | [How Did We Get Here](https://open.spotify.com/album/1P5hKWwxb4NHb8X8PwChSp) | 3:16 | 2025-11-16 |  |
+| [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2025-11-30 |  |
 | [Elvira](https://open.spotify.com/track/13g6NsqL8uCVFX6lr3P24R) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:55 | 2025-09-16 |  |
 | [Emo Dancing](https://open.spotify.com/track/3Oaul3W1QAfjbTOY7P1lpf) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 3:15 | 2025-10-24 |  |
 | [Endless Scroll](https://open.spotify.com/track/6uoCUv7mMYnhsx1s4vyilB) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [PUNKT](https://open.spotify.com/album/1V4XzrUe8LagIAvmSupuoV) | 1:43 | 2025-08-03 |  |
 | [Eternal \(remaster\)](https://open.spotify.com/track/5dyhnr7rcAhlHOIkCvoECn) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:21 | 2025-09-18 |  |
 | [Face Pull](https://open.spotify.com/track/6ZI2pOkgpUPatCMwQZWj0o) | [No Object](https://open.spotify.com/artist/5XuAvWJlsVw4ZVO0lWRIAw) | [SUSTAIN](https://open.spotify.com/album/1ILFukl8E0NsgZjwjF750F) | 3:46 | 2025-11-13 |  |
+| [Faint](https://open.spotify.com/track/66vElSVmVuC9StxwlBrbYa) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Faint](https://open.spotify.com/album/7EeNUyO2Qcjm9cQYAtkiEb) | 3:27 | 2025-11-30 |  |
 | [Falling Standards](https://open.spotify.com/track/4OyewJNyf69I44f3W5iDCJ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:29 | 2025-08-03 |  |
 | [Fell In Love With a Girl](https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 1:50 | 2025-08-03 |  |
 | [Flam Rest](https://open.spotify.com/track/04JOLBR8LDgukIWfY2g2q7) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 3:19 | 2025-08-03 |  |
@@ -113,6 +118,7 @@
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-14 |  |
 | [III \. Crown of Salt and Flame](https://open.spotify.com/track/2dmF4qdYGlNTj7NqUOCWSW) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 4:12 | 2025-11-06 |  |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 |  |
+| [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 | 2025-11-30 |  |
 | [Intro](https://open.spotify.com/track/3y31Rv3XEaUipUJHXiojZ8) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:12 | 2025-08-03 |  |
 | [IV \. Ashes of the Rose](https://open.spotify.com/track/0nBc3rOfkaZ3jxin6nJasN) | [MER](https://open.spotify.com/artist/7CvljdGrUIw9LLpCelscEN) | [The Way of the Rose](https://open.spotify.com/album/3JexvhBHllJq5Yne04ebXD) | 5:09 | 2025-11-14 |  |
 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 | 2025-11-21 |  |
@@ -177,6 +183,7 @@
 | [Restless](https://open.spotify.com/track/2tXEqX2Jx7iunIzheetaYU) | [Grandma's Chandelier](https://open.spotify.com/artist/6dtP5fyPl76HScmIsqell7) | [Restless](https://open.spotify.com/album/6FHcXFlvN7EclypTMGlYLR) | 4:49 | 2025-11-21 |  |
 | [Revolve \(remaster\)](https://open.spotify.com/track/2MaNnKD4kbBjtKMXnuuBX3) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:21 | 2025-09-18 |  |
 | [Rise Again](https://open.spotify.com/track/4Dj36QPd18SfcObDNnCxiG) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:44 | 2025-11-23 |  |
+| [Robot Queen](https://open.spotify.com/track/6DU1xDLAij0eLMKSCAuFO6) | [The Marigolds](https://open.spotify.com/artist/2AoyszrXOqhXlnFbYW7JdD) | [Robot Queen](https://open.spotify.com/album/41oyEEMYRWnVlItzeEpH8o) | 4:33 | 2025-11-30 |  |
 | [rock nessa cena](https://open.spotify.com/track/4cNKZ7Sf423mO7Iia5SIiF) | [Paulo Victor](https://open.spotify.com/artist/6ewY1PZ1lpd5cU4rLnLVRw) | [nova composição](https://open.spotify.com/album/04ty09gz8t3KT6iexBxpBp) | 2:16 | 2025-11-10 |  |
 | [Ronnie Pickering](https://open.spotify.com/track/5WK28dUiE4hVWONb3YZLjh) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Ronnie Pickering](https://open.spotify.com/album/0EpO1TMt41BWDG7f4kvSh4) | 3:00 | 2025-08-03 |  |
 | [Routine Trap Escape](https://open.spotify.com/track/4J3RQVO16sV0LmicjSlwW7) | [NOOP](https://open.spotify.com/artist/1K5Cl2jMIES6pZtmSEnpDm) | [Escapism For The Masses](https://open.spotify.com/album/0Cu7CizxFbY6qdnqonHMV7) | 4:03 | 2025-11-21 |  |
@@ -259,6 +266,7 @@
 | [You're Not Alone](https://open.spotify.com/track/0eeVeWfoy34vDgMxNeJeNR) | [7 Seconds Later](https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N) | [You're Not Alone](https://open.spotify.com/album/5fAbzRhgwUL4lQnmG2ylE7) | 3:28 | 2025-10-30 |  |
 | [You're Not Alone](https://open.spotify.com/track/693FjxAhFeP2NYIEJBUNQX) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [Vampire Cover Party](https://open.spotify.com/album/4TIGIiJ37utsM5evw2mv5O) | 3:38 | 2025-11-12 |  |
 | [Your Web Of Lies](https://open.spotify.com/track/5oac3BCTHhfNKWKIzpxef8) | [Frallzone](https://open.spotify.com/artist/1WehD5r0hUWYOK6AK7nsHr) | [Your Web Of Lies](https://open.spotify.com/album/36DSRyHOuCSbIRf9dUpXsP) | 3:26 | 2025-11-03 |  |
+| [社畜 Shachiku](https://open.spotify.com/track/0N4EbvbxeRYTrfROmbGIPD) | [ASK I FALL](https://open.spotify.com/artist/4uMaST3Kqi6sKwECsMoTKp) | [社畜 Shachiku](https://open.spotify.com/album/51KVyM9mGolhRVVDnAzre9) | 3:38 | 2025-11-30 |  |
 | [裂缝 • The Rift](https://open.spotify.com/track/4SrLap7bK9tE8CbGsDgsEM) | [彭俐客](https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe) | [献给 AI 的思考 • Thoughts for AI](https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj) | 3:29 | 2025-10-27 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

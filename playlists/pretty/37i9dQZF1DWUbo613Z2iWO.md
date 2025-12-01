@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,598 likes - 200 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,613 likes - 200 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 199 | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Magic Gurl \(feat\. Lekan\)](https://open.spotify.com/album/0XkbSe7ojMuYEcjLOTVC2v) | 2:58 |
 | 200 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 
-Snapshot ID: `AAAAAANd7MCxchroDlJqdDAem2HAWPfR`
+Snapshot ID: `AAAAALnZCrh6jUPG2T9K8uO3iD5FC51r`

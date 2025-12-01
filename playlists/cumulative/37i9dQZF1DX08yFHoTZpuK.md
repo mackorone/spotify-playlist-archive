@@ -4,12 +4,12 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-57 songs - 4 hr 10 min
+58 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baiu mirage \- Risa Taniguchi Remix](https://open.spotify.com/track/2flDw7wtTynOUH4kSY5gfQ) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [TIMER](https://open.spotify.com/artist/2GxhgZGDysB1Q0l75SgViY), [SHIHAL](https://open.spotify.com/artist/4sYuxxYvMAQxfXpTNK0EZP), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Baiu mirage \(Risa Taniguchi Remix\)](https://open.spotify.com/album/6Fgpvb7eVxGrsxAekAgkzB) | 5:53 | 2025-11-07 |  |
-| [Beautiful Moment \- Original Floor Mix](https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Christa](https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp) | [Republica Cafe Gold \(Compiled by Marco Fullone\)](https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy) | 5:26 | 2025-10-24 |  |
+| [Beautiful Moment \- Original Floor Mix](https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Christa](https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp) | [Republica Cafe Gold \(Compiled by Marco Fullone\)](https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy) | 5:26 | 2025-10-24 | 2025-12-01 |
 | [Black](https://open.spotify.com/track/6HYpkwgHL0gGvGAzXl2FJg) | [Sakiko Osawa](https://open.spotify.com/artist/4dUOIMB1YA4ldMgcD4BQFT) | [Sakiko Osawa](https://open.spotify.com/album/31BWTJfGjBtH8Li6z5sltq) | 7:59 | 2025-10-24 |  |
 | [Clockwork Dub](https://open.spotify.com/track/13rcE5fNdeR8fL7Y7DwSaA) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Lost City Archives, Vol\. 4](https://open.spotify.com/album/6K44LrVGB7csp6698Bly9a) | 4:54 | 2025-10-24 |  |
 | [Combo](https://open.spotify.com/track/5FNEDonyKbKbnPgqLuS1Tl) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Combo](https://open.spotify.com/album/5eaHo9LLVecDGNJllbtD3v) | 2:46 | 2025-10-24 |  |
@@ -44,6 +44,7 @@
 | [Quiet Town of Tokyo](https://open.spotify.com/track/0kb67RaD8MDgyRNKgLJaFu) | [Shinichiro Yokota](https://open.spotify.com/artist/37CyZqs6qCIOn5nj7L04bV) | [Shinichiro Yokota Presents Do It Again and Again](https://open.spotify.com/album/6mZgfFzwF7kWToQgcUh9me) | 6:06 | 2025-10-24 |  |
 | [RESONATE](https://open.spotify.com/track/1mdRxbIa2bhGhx62PWxHK5) | [Surya Hearts](https://open.spotify.com/artist/5aCk9NvlEoOf1t18LKItin) | [RESONATE](https://open.spotify.com/album/2n6Qa6luOJMhzPIE30XmDR) | 2:55 | 2025-11-07 |  |
 | [Right Now](https://open.spotify.com/track/5mobDbNXNDmjAa0vfiAbB4) | [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo), [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Right Now](https://open.spotify.com/album/5ou0IPh4SoYYIY6WDaP4iP) | 4:00 | 2025-10-24 | 2025-11-11 |
+| [Routine](https://open.spotify.com/track/7Ft2WruIDTob1A8X4WCT5V) | [KZA \(Force Of Nature\)](https://open.spotify.com/artist/59BQ7tm1rb3WDlkEIVRwAs) | [Dig And Edit](https://open.spotify.com/album/6dlg67iT0UFkeCGlK7nsw2) | 6:29 | 2025-11-07 |  |
 | [Runaway](https://open.spotify.com/track/6zNBvp9OUE2fZuVxrpf8eq) | [kyo](https://open.spotify.com/artist/5XuszT4jnhlxZeWZbEPues), [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [SAVEDATA](https://open.spotify.com/album/62zULLXBqyEjHwKY60cmWE) | 5:50 | 2025-10-24 | 2025-11-13 |
 | [RYDEEN](https://open.spotify.com/track/248FNZNsD2V9zuWKnp4YJD) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [吉沢典夫](https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO) | [ソリッド・ステイト・サヴァイヴァー](https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU) | 4:26 | 2025-10-24 |  |
 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 | 2025-10-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Noviembre se aleja, el cielo esta gris 🎶 Julieta Venegas 🌹 en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,126 likes - 95 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,171 likes - 95 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

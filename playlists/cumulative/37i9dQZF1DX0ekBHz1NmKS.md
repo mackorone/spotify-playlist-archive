@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,063 songs - 4 day 11 hr 0 min
+2,064 songs - 4 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1035,7 +1035,7 @@
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
 | [Lean On](https://open.spotify.com/track/78ypW37aC7D2wdopIj5SHi) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [BACKYARD](https://open.spotify.com/album/2NKtdIm9jwON5zlOKn70L4) | 2:35 | 2022-10-27 | 2023-02-13 |
 | [Leave a Little Love Behind](https://open.spotify.com/track/4Nk8zZ9TEjBb4NHgPHNq6k) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Hello Cowboy](https://open.spotify.com/album/07xIxp1A0Lm6euiBdGTmf4) | 3:05 | 2024-09-05 | 2025-01-24 |
-| [Leave It Beautiful](https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Leave It Beautiful](https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK) | 3:20 | 2025-10-09 |  |
+| [Leave It Beautiful](https://open.spotify.com/track/1xFo6wFZNqV6oX8f8OiOw7) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Leave It Beautiful](https://open.spotify.com/album/3iYbmLmaqBxDYP9ojETBnK) | 3:20 | 2025-10-09 | 2025-12-01 |
 | [Leave Me Alone](https://open.spotify.com/track/4wJpnZTJ1WiEC8n9kUzlHT) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Among Heads](https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y) | 3:18 | 2022-04-01 | 2022-04-21 |
 | [Leave the Light On](https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu) | [Mattias Tell](https://open.spotify.com/artist/4ED8OpMu5pxWULUB3MpWj5) | [Leave the Light On](https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2) | 3:54 | 2024-08-29 | 2024-09-06 |
 | [Ledsen och apatisk](https://open.spotify.com/track/483gQNgiDKhlfXpRtdLUJ8) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Ledsen och apatisk](https://open.spotify.com/album/1R3iq6yTqEYKvY5w1DSIvg) | 3:24 | 2024-05-02 | 2024-05-10 |
@@ -1184,6 +1184,7 @@
 | [MILK](https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [MILK](https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM) | 3:30 | 2025-07-03 | 2025-09-05 |
 | [Milkshakes](https://open.spotify.com/track/785wupFFLVza0ZjEJaH5Xy) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Milkshakes](https://open.spotify.com/album/1r2Tn585ZGylZPRXe02moV) | 2:27 | 2024-09-12 | 2024-12-03 |
 | [Mimosa](https://open.spotify.com/track/00oneQN4fZEl3tbhiNMExE) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Mimosa](https://open.spotify.com/album/3RdhNTewFtkvWj5z2gxZpp) | 3:12 | 2025-05-08 | 2025-11-05 |
+| [Min bästa vän](https://open.spotify.com/track/5atucBC09Xcl4UAXDbR1l5) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Min bästa vän](https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj) | 2:14 | 2025-11-27 |  |
 | [MIN DROG](https://open.spotify.com/track/2BngrOStmPmRmpRRxmfU9m) | [Jeano](https://open.spotify.com/artist/3qzw8zce3NwedmWnD1vx8V) | [MIN DROG](https://open.spotify.com/album/2pzdyoyb0PpaX1b6L4AOrs) | 2:29 | 2024-08-08 | 2024-12-08 |
 | [Min död](https://open.spotify.com/track/7j1auwawNJAmRJN0Pa6cLU) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Min död](https://open.spotify.com/album/05eyKYwHi06cEZcAuK60Hx) | 2:30 | 2024-05-16 | 2024-06-14 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-26 |

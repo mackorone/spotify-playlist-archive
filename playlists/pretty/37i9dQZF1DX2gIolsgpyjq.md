@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Caesar Omaka
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,588 likes - 148 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,596 likes - 148 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

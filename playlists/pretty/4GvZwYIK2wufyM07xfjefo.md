@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4GvZwYIK2wufyM07xfjefo.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、お家でのんびり聴きたい癒し系ボカロ曲を選曲。毎週更新。
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 218 likes - 40 songs - 2 hr 28 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 217 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

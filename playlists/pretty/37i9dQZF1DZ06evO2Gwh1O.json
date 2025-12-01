@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAABepUuZKnCA2UIZ899W4CGl",
+  "snapshot_id": "aSo3gAAAAAAJ3P+hOqjdc/OEv3LMQyDV",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 220573,
-      "name": "The Diary",
-      "url": "https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO"
+      "duration_ms": 236800,
+      "name": "On a Wire",
+      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 236800,
-      "name": "On a Wire",
-      "url": "https://open.spotify.com/track/1Uxv6XbbcfwxZwUGdxwtWd"
+      "duration_ms": 206800,
+      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
+      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 206800,
-      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
-      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
+      "duration_ms": 220573,
+      "name": "The Diary",
+      "url": "https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juneau",
-        "url": "https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
-      "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetcar",
         "url": "https://open.spotify.com/album/5lKrUDYLVWkzPxeDs48x5o"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 169626,
       "name": "Lazarus (In the Wilderness)",
       "url": "https://open.spotify.com/track/0QKkv1YGBqWAw4VzjzC1X0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juneau",
+        "url": "https://open.spotify.com/album/7vmCr91Hlwofzj7tVZqg81"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Kiss And Makeup (All Bets Are Off) - Radio One Rock Show",
+      "url": "https://open.spotify.com/track/0kW8jLewouNxnXogAJAG7Q"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory and Humanity",
-        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Beneath the Burning Tree",
-      "url": "https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Young And Defenceless EP",
         "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 205733,
       "name": "Serpents in Solitude",
       "url": "https://open.spotify.com/track/2v79Ji3CqxYQ5NpgdGC7qh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Waterfront Dance Club",
+      "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memory and Humanity",
-        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Waterfront Dance Club",
-      "url": "https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Young And Defenceless EP",
         "url": "https://open.spotify.com/album/4xtPw47mQoYkayIXpT3d89"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Beneath the Burning Tree",
+      "url": "https://open.spotify.com/track/5wsw7wzq89oQLc6nzSXbEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 170720,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c"
+      "duration_ms": 210480,
+      "name": "Front Row Seats to the End of the World",
+      "url": "https://open.spotify.com/track/5ROKGTh0NHbnisRp4eLfVg"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 210480,
-      "name": "Front Row Seats to the End of the World",
-      "url": "https://open.spotify.com/track/5ROKGTh0NHbnisRp4eLfVg"
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
       "duration_ms": 178880,
       "name": "Constant Illuminations",
       "url": "https://open.spotify.com/track/5OIuoyX15mi2RWCiA6pzmG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "Old Hymns",
-      "url": "https://open.spotify.com/track/3fCwI1gG0zo3Qr6qB68A2Q"
     }
   ],
   "unique_name": "This Is Funeral For A Friend",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Barak
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,454 likes - 80 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 548,489 likes - 80 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [Río](https://open.spotify.com/track/1QvBmESl28z8439n6cswn2) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj) | [Río](https://open.spotify.com/album/0V28wd6xfLFiimg6gZh1PC) | 4:15 |
 | 80 | [Que Entre El Rey](https://open.spotify.com/track/2un2UVtPvcrC2QV7Y5N3dw) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Que Entre El Rey](https://open.spotify.com/album/2VZj1PjZzhJaJM9kM4CPV0) | 5:06 |
 
-Snapshot ID: `AAAAAINRjhsvwABaBku3HgW5kbLYvmhI`
+Snapshot ID: `AAAAAAbHY7eZLjT+FyexKpQhh544OugW`

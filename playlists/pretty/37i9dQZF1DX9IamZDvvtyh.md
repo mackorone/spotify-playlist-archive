@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 
 > 80s workout jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,626 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,661 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IamZDvvtyh.md) - [plain]
 | 3 | [Never Surrender](https://open.spotify.com/track/6pVu4C72ynA60xEZPWyCDL) | [Paul Hertzog](https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d) | [Kickboxer: The Deluxe Edition Soundtrack](https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4) | 4:38 |
 | 4 | [Scarface \(Push It To The Limit\)](https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE) | [Paul Engemann](https://open.spotify.com/artist/3Rfb8wuY9YHVntDXJqPW6r) | [Scarface \(Expanded Motion Picture Soundtrack\)](https://open.spotify.com/album/6ccQdoDqZsqWlflxEIg0F3) | 2:58 |
 | 5 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 |
-| 6 | [Hearts On Fire \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 |
+| 6 | [Hearts On Fire \- From the film, "Rocky IV"](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 |
 | 7 | [No Easy Way Out \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5bnMKUXkMfYVXW8FjvFTuV) | [Robert Tepper](https://open.spotify.com/artist/5T1bhiyED6hokaKTechcKI) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:22 |
 | 8 | [Turn Up The Radio](https://open.spotify.com/track/0kHQcbHlfUhpDh00G2460e) | [Autograph](https://open.spotify.com/artist/2koMWjvRRF0cOpJnjhdKx0) | [Turn Up The Radio](https://open.spotify.com/album/6bOsxiN76LA4AYNr0vRjH6) | 4:22 |
 | 9 | [Separate Ways \(Worlds Apart\)](https://open.spotify.com/track/4ECNtOnqzxutZkXP4TE3n3) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers](https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw) | 5:23 |

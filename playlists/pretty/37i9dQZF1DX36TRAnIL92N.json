@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 455366,
+  "num_followers": 455553,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,26 @@
     {
       "added_at": "2025-11-21 05:00:22",
       "album": {
+        "name": "See Me Coming",
+        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
+      },
+      "artists": [
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 256511,
+      "name": "See Me Coming",
+      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
+    },
+    {
+      "added_at": "2025-11-21 05:00:22",
+      "album": {
         "name": "Jump Dance Move Bounce",
         "url": "https://open.spotify.com/album/7uqDX4ot0zHwEAG4OpLjby"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 169950,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
-    },
-    {
-      "added_at": "2025-11-21 05:00:22",
-      "album": {
-        "name": "See Me Coming",
-        "url": "https://open.spotify.com/album/0AKiFtkKreaYXCJ5v1I5DY"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 256511,
-      "name": "See Me Coming",
-      "url": "https://open.spotify.com/track/2h7C1TrUOKCqI5DTM3XW3m"
     },
     {
       "added_at": "2025-11-21 05:00:22",

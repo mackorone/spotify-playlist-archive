@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1n5pqwZNgC76ns84jiFCCn.md) - [plain]
 
 > De Jaren 70 playlist met de grootste hits uit de jaren 70 en 70s \| jaren 70 hits \| muziek jaren 70 \| Met o.a\. David Bowie, Fleetwood Mac, Eagles en nog veel meer! Foto: David Bowie \| Jaren 70 hits \- Jaren 70
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 2,623 likes - 114 songs - 7 hr 26 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 2,622 likes - 114 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

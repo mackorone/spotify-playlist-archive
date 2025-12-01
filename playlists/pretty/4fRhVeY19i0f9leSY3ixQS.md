@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,055 likes - 255 songs - 14 hr 29 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,056 likes - 263 songs - 14 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,5 +263,13 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 253 | [Haunted](https://open.spotify.com/track/7zoHmY3t1BKRyRADFjiK3P) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Haunted](https://open.spotify.com/album/3OMhyOKxU8AxOMr6dOjJCd) | 3:37 |
 | 254 | [The Ones Who Drifted](https://open.spotify.com/track/5shpX3zlrOb9nZnWqX8xgY) | [Madness Men](https://open.spotify.com/artist/6vLj31hJ7SVEK1QaAOndpk) | [Madness Dimension, Pt\. One](https://open.spotify.com/album/6dhW2f9OGUrZEzBWU7RthA) | 4:43 |
 | 255 | [A Shot Away](https://open.spotify.com/track/5UlAyw1MOa574x1zAIwTwV) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [Cycles](https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y) | 3:34 |
+| 256 | [Faint](https://open.spotify.com/track/66vElSVmVuC9StxwlBrbYa) | [Basavriuk](https://open.spotify.com/artist/1jiZdw6LLdm28eMxFnDKSd) | [Faint](https://open.spotify.com/album/7EeNUyO2Qcjm9cQYAtkiEb) | 3:27 |
+| 257 | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/track/4mKcjRQulihMGHcwelFhr5) | [Glass Mirage](https://open.spotify.com/artist/0ADBjmnPmjHdgD8GEuv5an) | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/album/45Lmki6ohBTKbSTluiDByg) | 2:25 |
+| 258 | [Broken to Pieces](https://open.spotify.com/track/4dpbweaATSdupQ7BT3gPPL) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Broken to Pieces](https://open.spotify.com/album/0W8dZh6tHbn9XfNu8Twaqs) | 3:06 |
+| 259 | [Robot Queen](https://open.spotify.com/track/6DU1xDLAij0eLMKSCAuFO6) | [The Marigolds](https://open.spotify.com/artist/2AoyszrXOqhXlnFbYW7JdD) | [Robot Queen](https://open.spotify.com/album/41oyEEMYRWnVlItzeEpH8o) | 4:33 |
+| 260 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 |
+| 261 | [dark haze](https://open.spotify.com/track/72H4KQmCvxUMO51re1lEPb) | [lunar celestia](https://open.spotify.com/artist/4HmcZK8JsIxzQZQnEOrFOb) | [dark haze](https://open.spotify.com/album/6LllUPvX8egR8bLWXS8kH3) | 2:52 |
+| 262 | [Integration](https://open.spotify.com/track/3OJdvSdzZbYC1tXtalZaNW) | [Ape Bucket](https://open.spotify.com/artist/18wqhsjlZgcc68jrcsum08) | [Integration](https://open.spotify.com/album/4FaXkw9MRR791Q3weqGjj0) | 2:34 |
+| 263 | [社畜 Shachiku](https://open.spotify.com/track/0N4EbvbxeRYTrfROmbGIPD) | [ASK I FALL](https://open.spotify.com/artist/4uMaST3Kqi6sKwECsMoTKp) | [社畜 Shachiku](https://open.spotify.com/album/51KVyM9mGolhRVVDnAzre9) | 3:38 |
 
-Snapshot ID: `AAAH26PURuKC4kxp/CziGq6EMCFysp0c`
+Snapshot ID: `AAAH46aoLmOzKwJqDKA/98wKwDHMcvvb`

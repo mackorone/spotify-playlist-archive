@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 56th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show on Fri., Oct\. 10th at 7:30 & 10 pm ET on <a href="https://www.tbn.org/2025doveawards">TBN</a> & the TBN+ app\.  Cover \(Host\): <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,714 likes - 135 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,715 likes - 135 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

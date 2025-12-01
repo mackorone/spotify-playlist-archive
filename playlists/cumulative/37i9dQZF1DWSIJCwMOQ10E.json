@@ -2745,24 +2745,6 @@
     },
     {
       "album": {
-        "name": "Deja Que Te Cante",
-        "url": "https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 334840,
-      "name": "Mosaico Lo de La Chula",
-      "url": "https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K"
-    },
-    {
-      "album": {
         "name": "32 Grandes Exitos",
         "url": "https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA"
       },
@@ -2778,6 +2760,24 @@
       "duration_ms": 335120,
       "name": "Mosaico Lo de La Chula",
       "url": "https://open.spotify.com/track/7sVuK1lX6dLMr6e4mYpOeM"
+    },
+    {
+      "album": {
+        "name": "Deja Que Te Cante",
+        "url": "https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334840,
+      "name": "Mosaico Lo De La Chula (Tamarindo Seco, La Mata De Patilla, La Garrapata)",
+      "url": "https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K"
     },
     {
       "album": {

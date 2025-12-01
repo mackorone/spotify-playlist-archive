@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 64465,
+  "num_followers": 64537,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Deeper Experience Chant",
         "url": "https://open.spotify.com/album/1Tay2nbUOJnoshqUEoIbO8"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 564888,
       "name": "Deeper Experience Chant",
       "url": "https://open.spotify.com/track/7JJ1xN2a1s7EV7ujV3TQyE"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -211,38 +211,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Elohim Adonai",
-        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 227998,
-      "name": "Elohim Adonai",
-      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Jesus Christ is seen",
-        "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 183275,
-      "name": "Jesus Christ is seen",
-      "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Dide (Soundtracks from the movie ENOCH)",
         "url": "https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH"
       },
@@ -279,6 +247,54 @@
       "duration_ms": 432185,
       "name": "We Raise A Sound",
       "url": "https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Elohim Adonai",
+        "url": "https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 227998,
+      "name": "Elohim Adonai",
+      "url": "https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Jesus Christ is seen",
+        "url": "https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 183275,
+      "name": "Jesus Christ is seen",
+      "url": "https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "The Walk (Live)",
+        "url": "https://open.spotify.com/album/0aVJdALLq2Z3AsanxbvYyG"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 348473,
+      "name": "Holy Fire (Live)",
+      "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -359,22 +375,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "The Walk (Live)",
-        "url": "https://open.spotify.com/album/0aVJdALLq2Z3AsanxbvYyG"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 348473,
-      "name": "Holy Fire (Live)",
-      "url": "https://open.spotify.com/track/6UEIholh21jeDvwsNpZXGy"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Names of God",
         "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
@@ -384,13 +384,13 @@
           "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         },
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "MR M &REVELATION",
+          "url": "https://open.spotify.com/artist/31piuVFPQCLSAj0tmypT9a"
         }
       ],
-      "duration_ms": 601940,
-      "name": "Ruach Elohim",
-      "url": "https://open.spotify.com/track/4fATkvHKHCDjowOqX3I8er"
+      "duration_ms": 422802,
+      "name": "Ndum (My Life)",
+      "url": "https://open.spotify.com/track/4rjIjPrpDPIu2W8wwSB9Do"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -431,22 +431,6 @@
       "duration_ms": 675709,
       "name": "Oji Oku Eri Ajah",
       "url": "https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 444255,
-      "name": "Sound of Revival",
-      "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -503,22 +487,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 391036,
-      "name": "Draw",
-      "url": "https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Withholding Nothing",
         "url": "https://open.spotify.com/album/79pY0CI3DHjpjrM330xPNH"
       },
@@ -535,6 +503,38 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 444255,
+      "name": "Sound of Revival",
+      "url": "https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 391036,
+      "name": "Draw",
+      "url": "https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Names of God",
         "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
@@ -544,13 +544,29 @@
           "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         },
         {
-          "name": "MR M &REVELATION",
-          "url": "https://open.spotify.com/artist/31piuVFPQCLSAj0tmypT9a"
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
         }
       ],
-      "duration_ms": 422802,
-      "name": "Ndum (My Life)",
-      "url": "https://open.spotify.com/track/4rjIjPrpDPIu2W8wwSB9Do"
+      "duration_ms": 601940,
+      "name": "Ruach Elohim",
+      "url": "https://open.spotify.com/track/4fATkvHKHCDjowOqX3I8er"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Nekwa Mu",
+        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 162655,
+      "name": "Nekwa Mu",
+      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
       "added_at": "2025-10-17 00:01:26",
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Nekwa Mu",
-        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 162655,
-      "name": "Nekwa Mu",
-      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "To Yahweh's Delight",
         "url": "https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap"
       },
@@ -599,38 +599,6 @@
       "duration_ms": 631338,
       "name": "Captured My Heart",
       "url": "https://open.spotify.com/track/0mkiOUQl052rRacosA5fS4"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Take Over",
-        "url": "https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 835128,
-      "name": "Take Over",
-      "url": "https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Spiritual Surgery (Live Ministration)",
-        "url": "https://open.spotify.com/album/0zXMEOYyOgEijTIOqrXsjb"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 805303,
-      "name": "Spiritual Surgery (Live)",
-      "url": "https://open.spotify.com/track/3D7EubdyMf1i6p2Ts79Cjo"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -655,6 +623,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Take Over",
+        "url": "https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri"
+      },
+      "artists": [
+        {
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
+        }
+      ],
+      "duration_ms": 835128,
+      "name": "Take Over",
+      "url": "https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Chants of Ascension",
         "url": "https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV"
       },
@@ -667,6 +651,58 @@
       "duration_ms": 570070,
       "name": "Chants of Ascension",
       "url": "https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 428507,
+      "name": "Holy Ghost (Live)",
+      "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Spiritual Surgery (Live Ministration)",
+        "url": "https://open.spotify.com/album/0zXMEOYyOgEijTIOqrXsjb"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 805303,
+      "name": "Spiritual Surgery (Live)",
+      "url": "https://open.spotify.com/track/3D7EubdyMf1i6p2Ts79Cjo"
+    },
+    {
+      "added_at": "2025-02-14 00:01:09",
+      "album": {
+        "name": "Alignment Chant",
+        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 810956,
+      "name": "Alignment Chant - EP",
+      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -691,22 +727,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Eternity in View",
-        "url": "https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY"
-      },
-      "artists": [
-        {
-          "name": "1Spirit & Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
-        }
-      ],
-      "duration_ms": 214479,
-      "name": "Intensify",
-      "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "Strings of Glory (Prayer Chant)",
         "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
       },
@@ -723,42 +743,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
-      },
-      "artists": [
-        {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
-        },
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 428507,
-      "name": "Holy Ghost (Live)",
-      "url": "https://open.spotify.com/track/7jYjkK3fPO7j7GcX2v12bF"
-    },
-    {
-      "added_at": "2025-02-14 00:01:09",
-      "album": {
-        "name": "Alignment Chant",
-        "url": "https://open.spotify.com/album/1aDMbqtd24f2gedKY5D17e"
-      },
-      "artists": [
-        {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
-        }
-      ],
-      "duration_ms": 810956,
-      "name": "Alignment Chant - EP",
-      "url": "https://open.spotify.com/track/0t7faQrQwjAZYxQyODCj6z"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "In His Presence, Vol. 2",
         "url": "https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP"
       },
@@ -771,6 +755,26 @@
       "duration_ms": 527200,
       "name": "There Is a Place",
       "url": "https://open.spotify.com/track/1kYq99JJMTYdGDtsaG3ZPR"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -799,42 +803,18 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+        "name": "Eternity in View",
+        "url": "https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY"
       },
       "artists": [
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+          "name": "1Spirit & Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00"
         }
       ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Revival Flames",
-        "url": "https://open.spotify.com/album/3ouj0BXXkGizxWYTtcPK3y"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 271934,
-      "name": "Alagbada Ina (feat. Victoria Orenze)",
-      "url": "https://open.spotify.com/track/5nYZcBMWmElPweuzKs4ANs"
+      "duration_ms": 214479,
+      "name": "Intensify",
+      "url": "https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -899,6 +879,26 @@
       "duration_ms": 301141,
       "name": "Agbara Olorun po",
       "url": "https://open.spotify.com/track/6oxBpuu7Ac3xjtrZgvSfyy"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Revival Flames",
+        "url": "https://open.spotify.com/album/3ouj0BXXkGizxWYTtcPK3y"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 271934,
+      "name": "Alagbada Ina (feat. Victoria Orenze)",
+      "url": "https://open.spotify.com/track/5nYZcBMWmElPweuzKs4ANs"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "We Are Fire",
+        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        }
+      ],
+      "duration_ms": 329262,
+      "name": "Burning with the Holy Ghost",
+      "url": "https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Kadosh",
         "url": "https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 801576,
       "name": "Ghana Chant",
       "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "We Are Fire",
-        "url": "https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY"
-      },
-      "artists": [
-        {
-          "name": "Ty Bello",
-          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
-        }
-      ],
-      "duration_ms": 329262,
-      "name": "Burning with the Holy Ghost",
-      "url": "https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
-        "name": "Spirit Call (Prayer Charge)",
-        "url": "https://open.spotify.com/album/19Se7kZOuTASpZLV8o06dm"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "Spirit Call (Prayer Charge)",
-      "url": "https://open.spotify.com/track/1ZlNWHMvm95qd2Am25GZQo"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
         "name": "The Zamar Experience",
         "url": "https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 564250,
       "name": "Intense Spontaneous Worship",
       "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Spirit Call (Prayer Charge)",
+        "url": "https://open.spotify.com/album/19Se7kZOuTASpZLV8o06dm"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "Spirit Call (Prayer Charge)",
+      "url": "https://open.spotify.com/track/1ZlNWHMvm95qd2Am25GZQo"
     },
     {
       "added_at": "2024-09-20 00:01:00",

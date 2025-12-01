@@ -17635,6 +17635,36 @@
     },
     {
       "album": {
+        "name": "CONFESS YOUR LOVE FUNK",
+        "url": "https://open.spotify.com/album/4QzfFOYaEgjvHGXl3ftNAh"
+      },
+      "artists": [
+        {
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
+        },
+        {
+          "name": "ZMAJOR",
+          "url": "https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP"
+        },
+        {
+          "name": "zxnc",
+          "url": "https://open.spotify.com/artist/5rxkaSGyLjU9IMtHY91Hqk"
+        },
+        {
+          "name": "Emrld!",
+          "url": "https://open.spotify.com/artist/2zzveUXTGULrNxwNo0jrss"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78620,
+      "name": "CONFESS YOUR LOVE FUNK",
+      "url": "https://open.spotify.com/track/7BPNz9Ap1rFIX27umIQchp"
+    },
+    {
+      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
@@ -42504,7 +42534,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 274000,
       "name": "L'appuntamento",
       "url": "https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ"
@@ -65726,6 +65756,24 @@
     {
       "album": {
         "name": "Radio",
+        "url": "https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k"
+      },
+      "artists": [
+        {
+          "name": "Bershy",
+          "url": "https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx"
+    },
+    {
+      "album": {
+        "name": "Radio",
         "url": "https://open.spotify.com/album/31vE4XyMAWFJFF8JxbJ4FJ"
       },
       "artists": [
@@ -65736,7 +65784,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/7i6II9P0ZbZegC4nvMzGLz"

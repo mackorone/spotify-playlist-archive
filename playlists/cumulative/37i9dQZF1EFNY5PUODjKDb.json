@@ -542,6 +542,28 @@
     {
       "album": {
         "name": "Brahms: Piano works",
+        "url": "https://open.spotify.com/album/0msNHbrbxOUfkflOhvtBdX"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Peter Katin",
+          "url": "https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38906,
+      "name": "25 Variations & Fugue on a Theme by Handel, Op. 24: Variation 3 (Live)",
+      "url": "https://open.spotify.com/track/6qd0M4fNQwtNVI3dEOc8Ys"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano works",
         "url": "https://open.spotify.com/album/7nQNkknvujpqOgJ0oYIeVf"
       },
       "artists": [
@@ -13415,6 +13437,28 @@
     },
     {
       "album": {
+        "name": "Starlight Express",
+        "url": "https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Kayna Montecillo",
+          "url": "https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198013,
+      "name": "Make Up My Heart",
+      "url": "https://open.spotify.com/track/4j8eJRAXDdDKfcRQPFpcAO"
+    },
+    {
+      "album": {
         "name": "Music & Songs From \"Starlight Express\"",
         "url": "https://open.spotify.com/album/3vbZ5O5biMNAdrOU6J3SnK"
       },
@@ -13426,7 +13470,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 196133,
       "name": "Make Up My Heart",
       "url": "https://open.spotify.com/track/45ru4QZHjOoaZ03TLi61Kf"

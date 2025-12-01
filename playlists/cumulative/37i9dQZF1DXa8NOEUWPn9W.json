@@ -4215,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Caramelle",
+        "url": "https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Caramelle",
+      "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
+    },
+    {
+      "album": {
         "name": "Carnaval de Paris",
         "url": "https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3"
       },
@@ -7198,6 +7216,32 @@
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
+    },
+    {
+      "album": {
+        "name": "Edge of Desire (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/2STORLqbca4TPym8doxGZk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Malive",
+          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179996,
+      "name": "Edge of Desire - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/6w1z9aGsflx9cMHWl8d5eB"
     },
     {
       "album": {
@@ -26300,7 +26344,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 193989,
       "name": "Want U",
       "url": "https://open.spotify.com/track/0hW6yD1MgFpwonGgFf617D"
@@ -26388,7 +26432,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 182460,
       "name": "Waymo",
       "url": "https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf"

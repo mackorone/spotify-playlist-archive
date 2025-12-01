@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Aleman en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,098 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,125 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 103 | [ATIZALE](https://open.spotify.com/track/3OLDaypybBlk46CtasInNL) | [Refugee](https://open.spotify.com/artist/65GZg7V2p8KsgXcr72slTx) | [ATIZALE](https://open.spotify.com/album/0E6BnN3hk8Om51qM2vtmfv) | 2:24 |
 | 104 | [BSG1: Flow de los 2000's \(ft\. B.Smile\)](https://open.spotify.com/track/5audKLsqbxvpjzK3HOeJhq) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [B.Smile](https://open.spotify.com/artist/2UuSCvvWnSxWzj1BrjTRlo) | [BSG1: Flow de los 2000's \(ft\. B.Smile\)](https://open.spotify.com/album/0m8CBzKQR1vUokNQBFSpSE) | 2:12 |
 
-Snapshot ID: `AAAAAE2KsiIKlY7audBw18HPpJf3jOhn`
+Snapshot ID: `AAAAACjeQodbb3PaXejZ7KDmfRwsK5Lh`

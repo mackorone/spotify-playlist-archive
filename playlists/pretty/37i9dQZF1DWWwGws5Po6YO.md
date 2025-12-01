@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Malibu
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,828 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,878 likes - 100 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 63 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 64 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
 | 65 | [Passing By](https://open.spotify.com/track/1LjJhtaJdQJZ7jPHV94UpH) | [Jelena Ciric](https://open.spotify.com/artist/4o7faE2REjG6dtpfG0Xma2), [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs), [Cécile Lacharme](https://open.spotify.com/artist/5SUhDxwCbqdDO7noz0Ld3c), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Tramuntana Tapes I](https://open.spotify.com/album/4x0Ctds3wypaoiUsfG6SSh) | 5:33 |
-| 66 | [RELUCESCO I](https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX) | [Sarah Pagé](https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN) | [RELUCESCO I](https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg) | 6:59 |
+| 66 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 |
 | 67 | [The Boat](https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [The Boat](https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r) | 7:05 |
-| 68 | [Absolution](https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 2:24 |
+| 68 | [RELUCESCO I](https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX) | [Sarah Pagé](https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN) | [RELUCESCO I](https://open.spotify.com/album/1aTlHOpugpBr2K7IWTb2hg) | 6:59 |
 | 69 | [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 |
 | 70 | [Our Relativity](https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Desert Window](https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy) | 5:27 |
 | 71 | [L'Inno delle Oceanine alla Bellezza e alla Fortuna](https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:06 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 74 | [O, Dark Mother](https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [O, Dark Mother](https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6) | 5:31 |
 | 75 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
 | 76 | [Big Majestic](https://open.spotify.com/track/7ipNQUa48GOa6gDQiXbRry) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka) | [Big Majestic](https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq) | 4:50 |
-| 77 | [Amma](https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G) | [Chiara Dubey](https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH) | [CHANDANI](https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh) | 3:09 |
-| 78 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 77 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 78 | [Amma](https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G) | [Chiara Dubey](https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH) | [CHANDANI](https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh) | 3:09 |
 | 79 | [Lift Hands](https://open.spotify.com/track/5Yv6nOfN88vJqLR8X4enQ8) | [Veryan](https://open.spotify.com/artist/0VtrpLfJvEkqmDHUGBMhRk) | [One Universal Breath](https://open.spotify.com/album/47WEDEEZNLVuppL1bmHcvj) | 4:37 |
 | 80 | [Bandorai](https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [A Requiem](https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD) | 3:01 |
 | 81 | [Only Wish](https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2) | 5:44 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 91 | [let’s walk down to the swamp together](https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5) | [Okkyung Lee](https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ) | [let’s walk down to the swamp together](https://open.spotify.com/album/17clCx63LzpWSIhW08dikI) | 4:10 |
 | 92 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
 | 93 | [Keep Pulling Me In](https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X) | [Lucy Gooch](https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK) | [Keep Pulling Me In](https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ) | 6:12 |
-| 94 | [Frost](https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 7:40 |
-| 95 | [Air / Fire](https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 3:32 |
-| 96 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
+| 94 | [Air / Fire](https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 3:32 |
+| 95 | [Springtime in Croatia](https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Springtime in Croatia](https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C) | 4:02 |
+| 96 | [Frost](https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 7:40 |
 | 97 | [Marina\`s Song](https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Marina\`s Song](https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g) | 5:03 |
 | 98 | [A Woman Escapes Cue 4](https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works II](https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB) | 5:35 |
 | 99 | [Divining \(naming of the Lost\)](https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk) | [The Seven Fields Of Aphelion](https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ) | [Keep the Ocean Inside](https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2) | 4:51 |
-| 100 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
+| 100 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 |
 
 Snapshot ID: `AAAAAE8UzHOchwGqoueMiF4WT0eXK10/`

@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1074960,
+  "num_followers": 1075083,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Suicidal Tendencies",
-        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
-      },
-      "artists": [
-        {
-          "name": "Suicidal Tendencies",
-          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Institutionalized",
-      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 163240,
       "name": "I Fought the Law",
       "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Suicidal Tendencies",
+        "url": "https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Institutionalized",
+      "url": "https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "We The Kings",
+        "url": "https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX"
+      },
+      "artists": [
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 220133,
+      "name": "Check Yes Juliet",
+      "url": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Hard Times And Nursery Rhymes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 269026,
       "name": "What It Is To Burn - New Version",
       "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "We The Kings",
-        "url": "https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 220133,
-      "name": "Check Yes Juliet",
-      "url": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "White Light White Heat White Trash",
-        "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 238873,
-      "name": "I Was Wrong",
-      "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Party Animals",
         "url": "https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "White Light White Heat White Trash",
+        "url": "https://open.spotify.com/album/7GPvyPgZ8Nc4yqP4uPo3Rv"
+      },
+      "artists": [
+        {
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
+        }
+      ],
+      "duration_ms": 238873,
+      "name": "I Was Wrong",
+      "url": "https://open.spotify.com/track/1Lpmme6uCsPJIdcbR5aePx"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "ROCKNROLL MACHINE",
-        "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
-      },
-      "artists": [
-        {
-          "name": "Turbonegro",
-          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Hurry Up & Die",
-      "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 193146,
       "name": "Shoot the Moon",
       "url": "https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "ROCKNROLL MACHINE",
+        "url": "https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm"
+      },
+      "artists": [
+        {
+          "name": "Turbonegro",
+          "url": "https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Hurry Up & Die",
+      "url": "https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Never Gonna Die",
-      "url": "https://open.spotify.com/track/0vOFieMa3Awbz180AGTrz0"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Titles",
         "url": "https://open.spotify.com/album/4t1fwxHgEA522MOCujyzrq"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 183504,
       "name": "Two Notes Shy of an Octave",
       "url": "https://open.spotify.com/track/5YItelunJdgQncp9TOZiCH"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Morbid Stuff",
+        "url": "https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3"
+      },
+      "artists": [
+        {
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok"
     }
   ],
   "unique_name": "Skatepark Punks",

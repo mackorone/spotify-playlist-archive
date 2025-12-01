@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,998 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,050 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
 | 2 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 |
-| 3 | [NOW OR NEVER](https://open.spotify.com/track/3GGr8LqNNe0pntDKrwsqjh) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/2Smy8IE9CwdKgKgZjmodE4) | 2:03 |
-| 4 | [2 Crash Outs \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2sQGacYminlTtshdBM81sx) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:48 |
-| 5 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
-| 6 | [Proceed](https://open.spotify.com/track/0ma5mRIb5TWm0XxArzbpEd) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Proceed](https://open.spotify.com/album/6fD8n0MvgLHCa2w8cMYoyc) | 2:00 |
-| 7 | [OD CRASHIN](https://open.spotify.com/track/3LrsDFXueqCD3J53HfsLL6) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [HELL CAN'T SAVE YOU](https://open.spotify.com/album/5F10HRZliGco8ZtXZQCqPV) | 2:34 |
-| 8 | [Birds like Popeyes](https://open.spotify.com/track/5ajbOZ9tgMi2lMXeEYI7Bo) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [THE STREETS IS YOURS: THE RE\-UP](https://open.spotify.com/album/7o9dw65UljYGdHmL3MwOWs) | 2:16 |
-| 9 | [Big Boom](https://open.spotify.com/track/56ckbyugSv91m4SMQRfOjj) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Big Boom](https://open.spotify.com/album/6K3AGOM7k8j7b2TnxksTLy) | 3:01 |
-| 10 | [Life After Death](https://open.spotify.com/track/1ebbmrZS4I7SDg2qpJkMgr) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:11 |
+| 3 | [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 |
+| 4 | [NOW OR NEVER](https://open.spotify.com/track/3GGr8LqNNe0pntDKrwsqjh) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/2Smy8IE9CwdKgKgZjmodE4) | 2:03 |
+| 5 | [2 Crash Outs \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2sQGacYminlTtshdBM81sx) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [PLUTO WORLD](https://open.spotify.com/album/3d9v3PBkyKg3jNBMY3z6AL) | 2:48 |
+| 6 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
+| 7 | [Proceed](https://open.spotify.com/track/0ma5mRIb5TWm0XxArzbpEd) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Proceed](https://open.spotify.com/album/6fD8n0MvgLHCa2w8cMYoyc) | 2:00 |
+| 8 | [OD CRASHIN](https://open.spotify.com/track/3LrsDFXueqCD3J53HfsLL6) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L) | [HELL CAN'T SAVE YOU](https://open.spotify.com/album/5F10HRZliGco8ZtXZQCqPV) | 2:34 |
+| 9 | [Birds like Popeyes](https://open.spotify.com/track/5ajbOZ9tgMi2lMXeEYI7Bo) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [THE STREETS IS YOURS: THE RE\-UP](https://open.spotify.com/album/7o9dw65UljYGdHmL3MwOWs) | 2:16 |
+| 10 | [Big Boom](https://open.spotify.com/track/56ckbyugSv91m4SMQRfOjj) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Big Boom](https://open.spotify.com/album/6K3AGOM7k8j7b2TnxksTLy) | 3:01 |
 | 11 | [YOU READY?!](https://open.spotify.com/track/72qmdZgY95em4rT5nGZV3F) | [detahjae](https://open.spotify.com/artist/7hx5UNqYxEh0RnyWRExG7g), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Garrett Sparrow](https://open.spotify.com/artist/3DnMgnxJt61Y8bWHv2l9qs) | [FLARE](https://open.spotify.com/album/1VyI3EaxZmfc5k51GXBKnJ) | 3:07 |
 | 12 | [Trim](https://open.spotify.com/track/7rdHxPQimXkOcmUmsfGhxY) | [YUNG ALPO](https://open.spotify.com/artist/3bVzJ22xWylhbx0kUtefze) | [Trim](https://open.spotify.com/album/2oLtKEcuXiyWnsuHIUlNTF) | 2:37 |
 | 13 | [YUP AND I DO](https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [YUP AND I DO](https://open.spotify.com/album/7CgGavuS1DSvYXIbeqrq71) | 2:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 79 | [ACL](https://open.spotify.com/track/26hGieucfbYZBwHcq2G05S) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [No Excuses](https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE) | 3:44 |
 | 80 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 |
 
-Snapshot ID: `AAAAALpwJT/1SMsgKHwe4eQa4799j4LD`
+Snapshot ID: `AAAAAA+KG+nlnNwiE7w/MfVNVYeRR1+O`

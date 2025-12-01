@@ -2,7 +2,7 @@
 
 ### [Krautrock](https://open.spotify.com/playlist/37i9dQZF1DWT9KDEHFNVYD)
 
-> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. NEU! on cover.
+> Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
 375 songs - 1 day 11 hr 18 min
 
@@ -73,7 +73,7 @@
 | [Der Elektrolurch](https://open.spotify.com/track/600vQFlvCwLq7DO4nixHNq) | [Guru Guru](https://open.spotify.com/artist/7mjz8GxBSAJtRpzS9tSldf) | [Guru Guru](https://open.spotify.com/album/4Aop4AqDyNYWIaEKdkFATC) | 9:44 | 2024-04-09 | 2024-04-19 |
 | [Der Elektrolurch](https://open.spotify.com/track/7ELA9TEEHZo1isqffIQnX7) | [Guru Guru](https://open.spotify.com/artist/7mjz8GxBSAJtRpzS9tSldf) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:45 | 2024-04-09 |  |
 | [Destination Tokyo](https://open.spotify.com/track/60fIfwhVMDZN5Cw6LrYp1j) | [Nisennenmondai](https://open.spotify.com/artist/2CIYOUcrZaUOkhWxrInbdN) | [Destination Tokyo](https://open.spotify.com/album/0SnOj7TjuJiZqDaaeHbt6K) | 9:05 | 2021-07-30 | 2023-01-26 |
-| [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 | 2021-07-30 |  |
+| [Die lange Gerade](https://open.spotify.com/track/1yrbDZHMtkAi88vp7m5UXU) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 13:07 | 2021-07-30 | 2025-12-01 |
 | [Dino](https://open.spotify.com/track/3qjizcQvICDjYs2y5BMbu2) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/1DyOZUvrPBsCZ3vEZ1lXMq) | 3:29 | 2021-07-30 | 2022-07-29 |
 | [Dino](https://open.spotify.com/track/4msdGxw6WCALEE00oVOf3V) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW) | 3:31 | 2021-07-30 | 2023-04-29 |
 | [Dino](https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 3:31 | 2021-07-30 | 2024-04-19 |
@@ -150,7 +150,7 @@
 | [I'm Not Living in the Past Anymore](https://open.spotify.com/track/5yRejM7DqstYjNCtmGsiK1) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Interloper](https://open.spotify.com/album/0xUuUfioatY8J7dbskVOfs) | 4:07 | 2021-07-30 | 2024-03-31 |
 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 | 2021-07-30 |  |
 | [Ich geh den Weg mit dir](https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz) | [Musiccargo](https://open.spotify.com/artist/3PfsferIgZ7wACP0HcP329) | [Future Sounds Of Kraut Vol\. 1 \- compiled by Fred und Luna](https://open.spotify.com/album/1UDLKtbsdX65ZQVW5rPfx4) | 6:18 | 2024-04-09 |  |
-| [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 | 2021-07-30 | 2025-01-19 |
+| [If You Miss](https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw) | [Laika](https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR) | [Silver Apples of the Moon](https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR) | 5:19 | 2021-07-30 |  |
 | [Imperio](https://open.spotify.com/track/4H6DcYcjNs5GzfF8gHncke) | [A Group Called CoBrA](https://open.spotify.com/artist/4fNoH37udrtOfcMMXbnGjN) | [Imperio](https://open.spotify.com/album/4xSIqrDjct43Ts9y0p2Foj) | 3:39 | 2021-07-30 | 2023-01-26 |
 | [Infinity Plus One](https://open.spotify.com/track/704eXLJ2a1MNfzF0KHuSg0) | [Higamos Hogamos](https://open.spotify.com/artist/0DiNMXqFoSwz5NA8mre686) | [Higamos Hogamos](https://open.spotify.com/album/5hN3Bn8wBFJpTMusU0CWq7) | 2:57 | 2021-07-30 | 2023-01-26 |
 | [Interior People](https://open.spotify.com/track/3tj1cKu9SOnchX6twBKn30) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Butterfly 3000](https://open.spotify.com/album/2I0LPpmyvAwnXvCuBf3Pcy) | 5:15 | 2021-07-30 | 2025-11-23 |

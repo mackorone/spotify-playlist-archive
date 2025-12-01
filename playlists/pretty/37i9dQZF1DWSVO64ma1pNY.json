@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 300307,
+  "num_followers": 300315,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Ours Is Chrome",
-        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
-      },
-      "artists": [
-        {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        }
-      ],
-      "duration_ms": 244358,
-      "name": "Next To Nothing",
-      "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "hot girl bummer",
         "url": "https://open.spotify.com/album/1ZxDNQug6sZYBfZa8FckkT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 185769,
       "name": "hot girl bummer",
       "url": "https://open.spotify.com/track/1GIofMbTz83fXqNrEuf4bA"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Ours Is Chrome",
+        "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 244358,
+      "name": "Next To Nothing",
+      "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -739,26 +739,6 @@
       "duration_ms": 210493,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Believers Never Die - Greatest Hits",
-        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -811,6 +791,26 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Believers Never Die - Greatest Hits",
+        "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Life Support / Ms. Supernova",
         "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
       },
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Handwritten (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 207546,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Shot In The Dark",
         "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185131,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Handwritten (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 207546,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Moral Panic (The Complete Edition)",
-        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 180575,
-      "name": "Ce n'est Rien",
-      "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Money (Hope Ain\u2019t Gone)",
         "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 246139,
       "name": "Money (Hope Ain\u2019t Gone)",
       "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Moral Panic (The Complete Edition)",
+        "url": "https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 180575,
+      "name": "Ce n'est Rien",
+      "url": "https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
       },
       "artists": [
         {
-          "name": "Blanket",
-          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
         }
       ],
-      "duration_ms": 211046,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB"
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
     }
   ],
   "unique_name": "Anger Management",

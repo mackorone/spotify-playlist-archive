@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,653 likes - 187 songs - 11 hr 1 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,645 likes - 184 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,8 +192,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 182 | [Fragments](https://open.spotify.com/track/5MtFKgN0y2xhrPxqTRvSaq) | [Saint Sulpice](https://open.spotify.com/artist/3y5zh9y3262XjWRZxLLMBu) | [The Ides of March](https://open.spotify.com/album/2XrJJTibYl6JSrMd5IsLu7) | 3:44 |
 | 183 | [Fixin' Too](https://open.spotify.com/track/6sTmdvCm99X0hRQ9cWEOqZ) | [James Hollingsworth](https://open.spotify.com/artist/7wNAA6B6VDlkAuwSlgfLeV), [Molly Lovette](https://open.spotify.com/artist/173IW0WbY02WURT81tkEEr) | [Fixin' Too](https://open.spotify.com/album/74YSx5IzX11H1wA6m9Ugpm) | 3:37 |
 | 184 | [Bring Me a Flower](https://open.spotify.com/track/3XBex8T8fOGuiJR7rLnYwS) | [Baldy Crawlers](https://open.spotify.com/artist/55h3BL4HJGVYVRkQF9L3z1) | [Bring Me a Flower](https://open.spotify.com/album/5GZ4MhgpDyA2JoMjD0RzAQ) | 3:35 |
-| 185 | [Pressure](https://open.spotify.com/track/2kXyrBlOkLpmHIAZvSbay0) | [Dayjha](https://open.spotify.com/artist/2NHEFFWlJCW69XpDrmVxaS) | [Pressure](https://open.spotify.com/album/5fCtxVsZnqnXpbEecmDKhW) | 2:57 |
-| 186 | [Company](https://open.spotify.com/track/0cSMkNfzQEeYleiCvNedj9) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Space Isn't Such A Bad Place To Die](https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj) | 3:57 |
-| 187 | [Lonely \(Please Dont\)](https://open.spotify.com/track/6OQSJaTlrdxpivFmcW3oXJ) | [PerryAintReal](https://open.spotify.com/artist/0hqNdcZCxXPbXrG2oiouGA) | [Lonely \(Please Dont\)](https://open.spotify.com/album/6ZTMmsnQSexUOMlsacVhL1) | 2:00 |
 
-Snapshot ID: `AAA14HmTORGZaurSUtbdhNowIrKA7qPV`
+Snapshot ID: `AAA14d1seL22gJUlQR2l+R6aM+/BMZTp`

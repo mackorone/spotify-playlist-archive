@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Dazed (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2025-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277038,
+      "name": "Bloom (Remastered)",
+      "url": "https://open.spotify.com/track/1g299OyEF4WpiZ2DIq32u3"
+    },
+    {
+      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },

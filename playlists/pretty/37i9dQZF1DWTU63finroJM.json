@@ -1,6 +1,6 @@
 {
-  "description": "Meet the future of music around the world. Cover: LUKAS OSCAR",
-  "num_followers": 77721,
+  "description": "Meet the future of music around the world. Cover: BOYNEXTDOOR",
+  "num_followers": 77726,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-11-17 15:42:43",
       "album": {
-        "name": "AMAZIN",
-        "url": "https://open.spotify.com/album/7ySdeA8ikHprzQRWYoOZqA"
-      },
-      "artists": [
-        {
-          "name": "LUKAS OSCAR",
-          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
-        }
-      ],
-      "duration_ms": 160509,
-      "name": "AMAZIN",
-      "url": "https://open.spotify.com/track/04KZEpLfPcqFLFoNM0U3Fj"
-    },
-    {
-      "added_at": "2025-11-17 15:42:43",
-      "album": {
         "name": "Sam Sauvage",
         "url": "https://open.spotify.com/album/5nrW5auWrwjoEG9APtmNwr"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 217466,
       "name": "Les Gens Qui Dansent (j'adore)",
       "url": "https://open.spotify.com/track/43aO4DcoLrgH6NSImThTAZ"
+    },
+    {
+      "added_at": "2025-11-17 15:42:43",
+      "album": {
+        "name": "AMAZIN",
+        "url": "https://open.spotify.com/album/7ySdeA8ikHprzQRWYoOZqA"
+      },
+      "artists": [
+        {
+          "name": "LUKAS OSCAR",
+          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
+        }
+      ],
+      "duration_ms": 160509,
+      "name": "AMAZIN",
+      "url": "https://open.spotify.com/track/04KZEpLfPcqFLFoNM0U3Fj"
     },
     {
       "added_at": "2025-11-17 15:42:43",

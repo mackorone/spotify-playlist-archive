@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Haley Heynderickx & Max García Conover
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,388 likes - 170 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,465 likes - 170 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah, Wycleff Jean
 
-321 songs - 16 hr 33 min
+322 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Distant Lover Pt\. II](https://open.spotify.com/track/5ez2IWCbto4lXgpzo7FSIy) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Distant Lover Pt\. II](https://open.spotify.com/album/0IZh3n1VUArI0yJ2afCCWl) | 2:58 | 2025-05-13 | 2025-07-25 |
 | [Distante](https://open.spotify.com/track/3r0zI5rvz8v2XHI40UG2LV) | [Milly](https://open.spotify.com/artist/6TvlW0KQY1sJ8LnJdqE9T8), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Distante](https://open.spotify.com/album/4P057UfmWhYcJJzdAvqTp8) | 2:09 | 2023-09-29 | 2023-12-16 |
 | [DOCE VENENO](https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO) | [Nando Prada](https://open.spotify.com/artist/1i9oD8Yn0tTEKrDlguIVBQ) | [DOCE VENENO](https://open.spotify.com/album/51ZDiYnAQWEjMcBVtxJu3C) | 2:20 | 2024-03-22 | 2024-05-18 |
+| [Doce, Dengosa, Polida](https://open.spotify.com/track/00pQrAbEfRDCFbkCe9NsGM) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Tudo Que Eu Sinto Faz Barulho](https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5) | 3:25 | 2025-11-30 |  |
 | [Dona Do Mundo \(Púrpura Session\)](https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Púrpura Session](https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy) | 3:20 | 2025-08-22 |  |
 | [Dói Tanto](https://open.spotify.com/track/3q4BjZzm4VeYTjrfTrqR7j) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Dói Tanto](https://open.spotify.com/album/7FqoofEcHv9SsCLay8uF9s) | 2:38 | 2024-03-15 | 2024-03-30 |
 | [ele diz que me ama s2](https://open.spotify.com/track/0qBp10DuUxfu3VPVxeohwJ) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Bié](https://open.spotify.com/artist/73RAtZuq0QHqk1iNuwQz8m), [Perimnobeat](https://open.spotify.com/artist/0HjvwtyF0BvVY7jREOcgOG) | [ele diz que me ama s2](https://open.spotify.com/album/7d0qnsgDo4Ve7XaeK67U4P) | 4:01 | 2023-08-25 | 2023-09-02 |
@@ -150,7 +151,7 @@
 | [Lip Sync](https://open.spotify.com/track/4S5FEb6O4uMXWwZK02CeiQ) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Lip Sync](https://open.spotify.com/album/3GIKS2gCEjOdq3XfrHPLGh) | 2:47 | 2023-08-11 | 2023-09-16 |
 | [Localização](https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Localização](https://open.spotify.com/album/4nHJtZDehFW2uIFVLYMmDy) | 2:51 | 2025-03-21 | 2025-08-23 |
 | [Localização](https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [Localização](https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl) | 2:52 | 2022-11-18 | 2024-04-06 |
-| [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 | 2024-07-19 |  |
+| [Louco inconsequente](https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1) | [Kid Lovi](https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG) | [Louco inconsequente](https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J) | 3:18 | 2024-07-19 | 2025-12-01 |
 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-06-28 | 2024-08-17 |
 | [Ma Bae](https://open.spotify.com/track/12kikkqpvksw8aJPz3NNrJ) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN), [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [REAL PS](https://open.spotify.com/artist/6UsSaIItK9LmnCczyW2B8I) | [Ma Bae](https://open.spotify.com/album/1mkE3MYFQuzUBr09cCNlh2) | 3:31 | 2022-11-18 | 2023-01-21 |
 | [Madrugada](https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Madrugada](https://open.spotify.com/album/4zntUGntUiylFop68gZFiw) | 2:38 | 2022-12-02 | 2023-03-03 |

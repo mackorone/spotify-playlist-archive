@@ -23,6 +23,42 @@
     },
     {
       "album": {
+        "name": "All of my Hours",
+        "url": "https://open.spotify.com/album/1AT97gEgwF831B6rkIlYjL"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233026,
+      "name": "All of my Hours",
+      "url": "https://open.spotify.com/track/0kGMkB1AVVOQuht2I3xm21"
+    },
+    {
+      "album": {
+        "name": "Love Heist",
+        "url": "https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN"
+      },
+      "artists": [
+        {
+          "name": "Florence Jack",
+          "url": "https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Baby I've Got It",
+      "url": "https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5"
+    },
+    {
+      "album": {
         "name": "JADED",
         "url": "https://open.spotify.com/album/3bFIkrKtLvf8UqGnvuzKDB"
       },
@@ -38,6 +74,24 @@
       "duration_ms": 295509,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3Xa8IgwILvTWDkgukI8qJm"
+    },
+    {
+      "album": {
+        "name": "BAD TIMING",
+        "url": "https://open.spotify.com/album/7r30dGYPsyxlfsj3AECJ7z"
+      },
+      "artists": [
+        {
+          "name": "Ellijai",
+          "url": "https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229653,
+      "name": "BAD TIMING",
+      "url": "https://open.spotify.com/track/7IB8AI963aZxOfH4MZDM1L"
     },
     {
       "album": {
@@ -312,10 +366,28 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 170633,
       "name": "Do You Wanna Go Back?",
       "url": "https://open.spotify.com/track/4nl4aLWDMoUZQiaqqo9Bm5"
+    },
+    {
+      "album": {
+        "name": "Don't Fool Me Twice",
+        "url": "https://open.spotify.com/album/5IwL2KbW2ULwP8RyfZIMy9"
+      },
+      "artists": [
+        {
+          "name": "The Marches",
+          "url": "https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219664,
+      "name": "Don't Fool Me Twice",
+      "url": "https://open.spotify.com/track/0QYzIuOesT0hjgI0mOaLEt"
     },
     {
       "album": {
@@ -674,7 +746,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 203564,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/4KH2g8FgE17XnxRRJbVgEk"
@@ -696,7 +768,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 284764,
       "name": "Later, Later On",
       "url": "https://open.spotify.com/track/66HyqRxFxaqYkG2kvSmKPe"
@@ -714,7 +786,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 209066,
       "name": "Least Of All You",
       "url": "https://open.spotify.com/track/6XZGlzVQLGOs7UgJP3Bmv7"
@@ -793,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Manmade Fires",
+        "url": "https://open.spotify.com/album/2QgnmfUnFdjwegJYXaXLak"
+      },
+      "artists": [
+        {
+          "name": "BRSR",
+          "url": "https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337268,
+      "name": "Manmade Fires",
+      "url": "https://open.spotify.com/track/7flLFmCkey6fJopjMyz8rb"
+    },
+    {
+      "album": {
         "name": "JADED",
         "url": "https://open.spotify.com/album/3bFIkrKtLvf8UqGnvuzKDB"
       },
@@ -804,7 +894,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 167271,
       "name": "Medication",
       "url": "https://open.spotify.com/track/0FarLe4x0UGVXldetjteL4"
@@ -822,7 +912,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 278600,
       "name": "Melodrama",
       "url": "https://open.spotify.com/track/7IX9wj4hI9lv25rYC19UjZ"
@@ -876,7 +966,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 198466,
       "name": "Name for Yourself",
       "url": "https://open.spotify.com/track/6PzzFcYrjU2vhPQIM3fH3Z"
@@ -955,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Play with My Ego",
+        "url": "https://open.spotify.com/album/6UQmHByBb7otZ2nMK1tT8Y"
+      },
+      "artists": [
+        {
+          "name": "FAEDA",
+          "url": "https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188254,
+      "name": "Play with My Ego",
+      "url": "https://open.spotify.com/track/3G2VbE60uj5r1zFMOyqWYz"
+    },
+    {
+      "album": {
         "name": "Resolve",
         "url": "https://open.spotify.com/album/3OCIIDu3Yv1PfisV8LPHmL"
       },
@@ -966,7 +1074,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 277161,
       "name": "Resolve",
       "url": "https://open.spotify.com/track/3RpfSH6LHxSmobNd50FZo4"
@@ -1002,7 +1110,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 348026,
       "name": "Seaglass",
       "url": "https://open.spotify.com/track/1S6F2tbgUjz4cOEkEDkN3C"
@@ -1056,7 +1164,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 233818,
       "name": "Sisyphus",
       "url": "https://open.spotify.com/track/4j4acJGSIldTQkArPPnLeM"
@@ -1092,7 +1200,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 242093,
       "name": "Sorry! It Sank",
       "url": "https://open.spotify.com/track/4HWb3PCWyZ6GQKPOHtlCcA"
@@ -1110,7 +1218,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 199477,
       "name": "South Paw",
       "url": "https://open.spotify.com/track/6BpToRuux0FVQKcjJS6do7"
@@ -1146,7 +1254,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 192755,
       "name": "Swan",
       "url": "https://open.spotify.com/track/07UMhZBENkYwPDfQrn2s9t"
@@ -1200,7 +1308,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 138376,
       "name": "The Best",
       "url": "https://open.spotify.com/track/0oQza4EOTHoYatlRwNNBS3"
@@ -1236,7 +1344,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 127053,
       "name": "Too Wild To Last, Too Rare To Die",
       "url": "https://open.spotify.com/track/1DoOr5SQmYMisdMcUy0MtE"
@@ -1272,7 +1380,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "Unstable Mabel",
       "url": "https://open.spotify.com/track/24tdhaAqsJUcHCue6iApD8"
@@ -1326,7 +1434,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 246200,
       "name": "Where Did the Time Go",
       "url": "https://open.spotify.com/track/3hchiYBclZwtrQoch7Vvzt"

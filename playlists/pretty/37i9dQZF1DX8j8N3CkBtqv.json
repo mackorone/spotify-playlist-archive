@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring The Yellow Diary, Siddharth Pandit, Yawar Abdal and other exciting artists.\n",
-  "num_followers": 100086,
+  "num_followers": 100082,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -255,26 +255,6 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8"
-      },
-      "artists": [
-        {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
-        },
-        {
-          "name": "Vaibhav Pani",
-          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
-        }
-      ],
-      "duration_ms": 169646,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR"
-    },
-    {
-      "added_at": "2025-11-28 08:49:55",
-      "album": {
         "name": "Kaahe Mose",
         "url": "https://open.spotify.com/album/5A8RUsECb6rmFAFeMwZXVT"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 219097,
       "name": "Kaahe Mose",
       "url": "https://open.spotify.com/track/2kdLpMajZ2VoKEAv9nGsUz"
+    },
+    {
+      "added_at": "2025-11-28 08:49:55",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/53HV0iLl1zb4G9CKMZutv8"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        }
+      ],
+      "duration_ms": 169646,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1M8sf6fVgEgOY1vuEU0CoR"
     },
     {
       "added_at": "2025-11-28 08:49:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "Na Na Na",
-        "url": "https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4"
-      },
-      "artists": [
-        {
-          "name": "Zanai Bhosle",
-          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
-        }
-      ],
-      "duration_ms": 150576,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh"
-    },
-    {
-      "added_at": "2025-11-28 08:49:55",
-      "album": {
         "name": "Raazi",
         "url": "https://open.spotify.com/album/7glMnUmxLbZg5b8EalkypD"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 140476,
       "name": "Raazi",
       "url": "https://open.spotify.com/track/5j56OchW9dxfz70BIkRR6R"
+    },
+    {
+      "added_at": "2025-11-28 08:49:55",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/0QDUhXQiHlLxWQpRriyva4"
+      },
+      "artists": [
+        {
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        }
+      ],
+      "duration_ms": 150576,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/674Zkmjw3pxSBEyBTc7jHh"
     },
     {
       "added_at": "2025-11-28 08:49:55",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "No Deal",
-        "url": "https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF"
-      },
-      "artists": [
-        {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
-        }
-      ],
-      "duration_ms": 243427,
-      "name": "No Deal",
-      "url": "https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV"
-    },
-    {
-      "added_at": "2025-11-28 08:49:55",
-      "album": {
         "name": "Gustakh Dil",
         "url": "https://open.spotify.com/album/6gyWtT1mzXqFrURC7KjILt"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 184990,
       "name": "Gustakh Dil",
       "url": "https://open.spotify.com/track/02XrFnvCmBUZEY1MkfuGJ7"
+    },
+    {
+      "added_at": "2025-11-28 08:49:55",
+      "album": {
+        "name": "No Deal",
+        "url": "https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        }
+      ],
+      "duration_ms": 243427,
+      "name": "No Deal",
+      "url": "https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV"
     },
     {
       "added_at": "2025-11-28 08:49:55",
@@ -659,18 +659,22 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "Main Na Raha",
-        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
       },
       "artists": [
         {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
         }
       ],
-      "duration_ms": 272141,
-      "name": "Main Na Raha",
-      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+      "duration_ms": 153600,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
     },
     {
       "added_at": "2025-11-28 08:49:55",
@@ -691,6 +695,22 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
+        "name": "Main Na Raha",
+        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        }
+      ],
+      "duration_ms": 272141,
+      "name": "Main Na Raha",
+      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+    },
+    {
+      "added_at": "2025-11-28 08:49:55",
+      "album": {
         "name": "Intehaa",
         "url": "https://open.spotify.com/album/57hIHWSrlnbFJ7kOcPL6hG"
       },
@@ -707,22 +727,18 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
+        "name": "Na Gul Na Gulistan",
+        "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
       },
       "artists": [
         {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
         }
       ],
-      "duration_ms": 153600,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
+      "duration_ms": 295639,
+      "name": "Na Gul Na Gulistan",
+      "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
     },
     {
       "added_at": "2025-11-28 08:49:55",
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "Na Gul Na Gulistan",
-        "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
-      },
-      "artists": [
-        {
-          "name": "Parvaaz",
-          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
-        }
-      ],
-      "duration_ms": 295639,
-      "name": "Na Gul Na Gulistan",
-      "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
-    },
-    {
-      "added_at": "2025-11-28 08:49:55",
-      "album": {
         "name": "Pyaar Kaafi Nahi",
         "url": "https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok"
       },
@@ -827,6 +827,30 @@
       "duration_ms": 175360,
       "name": "Pyaar Kaafi Nahi",
       "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"
+    },
+    {
+      "added_at": "2025-11-28 08:49:55",
+      "album": {
+        "name": "Qareeb",
+        "url": "https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG"
+      },
+      "artists": [
+        {
+          "name": "Jayant Joshi",
+          "url": "https://open.spotify.com/artist/4feOH8EFdcvYwYfvkCTY5e"
+        },
+        {
+          "name": "Aastha Tiwari",
+          "url": "https://open.spotify.com/artist/5ttg9TylEAZumuaczAn2YS"
+        },
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        }
+      ],
+      "duration_ms": 195857,
+      "name": "Qareeb",
+      "url": "https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0"
     },
     {
       "added_at": "2025-11-28 08:49:55",
@@ -895,46 +919,22 @@
     {
       "added_at": "2025-11-28 08:49:55",
       "album": {
-        "name": "Qareeb",
-        "url": "https://open.spotify.com/album/67TmrfJ0pim4hq3kRIOznG"
+        "name": "Ghar Hai Kahan",
+        "url": "https://open.spotify.com/album/0qoctH0Lu6LPN0j00OsfV2"
       },
       "artists": [
         {
-          "name": "Jayant Joshi",
-          "url": "https://open.spotify.com/artist/4feOH8EFdcvYwYfvkCTY5e"
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
         },
         {
-          "name": "Aastha Tiwari",
-          "url": "https://open.spotify.com/artist/5ttg9TylEAZumuaczAn2YS"
-        },
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
         }
       ],
-      "duration_ms": 195857,
-      "name": "Qareeb",
-      "url": "https://open.spotify.com/track/35hwpi55PUyJFXjrodHPa0"
-    },
-    {
-      "added_at": "2025-11-28 08:49:55",
-      "album": {
-        "name": "Stay Vol. 1",
-        "url": "https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql"
-      },
-      "artists": [
-        {
-          "name": "Taaruk Raina",
-          "url": "https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe"
-        },
-        {
-          "name": "Charan",
-          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
-        }
-      ],
-      "duration_ms": 148218,
-      "name": "Ratiyaan",
-      "url": "https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz"
+      "duration_ms": 177287,
+      "name": "Ghar Hai Kahan",
+      "url": "https://open.spotify.com/track/3G1iu3gijK2lJoyH3O5LHj"
     }
   ],
   "unique_name": "Naya Indiestan",

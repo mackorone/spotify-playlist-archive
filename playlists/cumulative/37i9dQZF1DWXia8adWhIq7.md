@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-206 songs - 12 hr 24 min
+207 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Leão de Judá • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Leão de Judá • BRAVE Sessions \(Ao Vivo\)](https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF) | 4:06 | 2023-08-04 |  |
 | [Luz do Mundo](https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW) | 3:13 | 2023-04-15 | 2024-04-20 |
 | [Luz do Mundo](https://open.spotify.com/track/7srf8dPKNtroCHcUoer47G) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/3LoeSZMGFSQANRNBSuAJzL) | 3:13 | 2023-12-22 | 2024-04-19 |
+| [Lázaro](https://open.spotify.com/track/7AXlOtlLv7Ty5ZURrDUSgR) | [Jottapê](https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ) | [Lázaro](https://open.spotify.com/album/0FiYmAl3eNisdKUmK3qOea) | 4:25 | 2025-11-30 |  |
 | [Mais](https://open.spotify.com/track/779Ex6ZFFjTJs4EtTEGamv) | [Keven Be](https://open.spotify.com/artist/4O7qWGPD4cqXCma90NK0vk), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Mais](https://open.spotify.com/album/3eE7CHTzouV35tI3ndrjjO) | 3:33 | 2023-10-06 | 2023-10-21 |
 | [Manuscrito](https://open.spotify.com/track/2ramZL8iUXXFgSbgZZ3Tiu) | [JARDENYA](https://open.spotify.com/artist/7qpTv7VDYeg2EwHrDjln66) | [Manuscrito](https://open.spotify.com/album/4sQnOzkB97HBeG2AmYMGLB) | 3:43 | 2022-08-05 | 2023-04-22 |
 | [Me Alcançou \(Live Remix\)](https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k) | [Me Alcançou \(Live Remix\)](https://open.spotify.com/album/4YYTCbKB8jkzJfDCuvFBgj) | 5:08 | 2023-07-14 | 2023-09-02 |
@@ -122,7 +123,7 @@
 | [Melhor Lugar](https://open.spotify.com/track/0z2nfnbrtLP3DfuOvPH0vD) | [Get Worship](https://open.spotify.com/artist/5ZynjHkFMZINvXZm7DD4Yp), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Melhor Lugar](https://open.spotify.com/album/67lLOGcSwcIDCiuBIfSjnL) | 4:02 | 2023-02-25 | 2023-03-25 |
 | [meu lugar](https://open.spotify.com/track/7ipxdnPLb7NnkEqAjAAfJK) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [meu lugar](https://open.spotify.com/album/4q0wzcfAqJH6kgTPdz4Cfw) | 4:10 | 2022-08-05 | 2023-03-18 |
 | [Minha Cura \(The Healing\)](https://open.spotify.com/track/3YOfwYkQDKZDfVT8qCtAbK) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Minha Cura \(The Healing\)](https://open.spotify.com/album/424928PBVycQwfKKhk2oPj) | 3:49 | 2023-07-28 | 2023-09-16 |
-| [minha vida](https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [DJ HTSW](https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R) | [minha vida](https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY) | 2:15 | 2024-04-19 |  |
+| [minha vida](https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [DJ HTSW](https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R) | [minha vida](https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY) | 2:15 | 2024-04-19 | 2025-12-01 |
 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 | 2022-08-05 |  |
 | [Mude as Coisas do Meu Coração](https://open.spotify.com/track/504W6WBbmUgJK3lQwHLsHa) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Mude as Coisas do Meu Coração](https://open.spotify.com/album/2spTFjHH7vg9aNq1g8K0DA) | 2:45 | 2022-08-05 | 2023-10-07 |
 | [Na Paz](https://open.spotify.com/track/5N2s5dO33NZqwA6TE5b14I) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe) | [Na Paz](https://open.spotify.com/album/2gV7jI1G4hTJgUEB3ud2xS) | 3:01 | 2023-10-06 | 2023-10-21 |

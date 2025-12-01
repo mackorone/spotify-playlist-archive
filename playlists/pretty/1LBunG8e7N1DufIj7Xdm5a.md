@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 237 likes - 3,650 songs - 8 day 0 hr 57 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 236 likes - 3,651 songs - 8 day 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3658,5 +3658,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3648 | [When the Dust Settles](https://open.spotify.com/track/14UJ4wYdOJnsxehkPamTh2) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [When the Dust Settles](https://open.spotify.com/album/6XWmwSASV5UpKocQ9YZqn8) | 3:07 |
 | 3649 | [Clonazepam](https://open.spotify.com/track/4qggI8I4GdjeAFttyFLf0o) | [Adrian Quickus](https://open.spotify.com/artist/5VdLBmGaaSDMvAIcJmAcHf) | [Clonazepam](https://open.spotify.com/album/5E4cZn80csF6HwNtLVJeOU) | 2:35 |
 | 3650 | [Point Blank](https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Point Blank](https://open.spotify.com/album/4dERb041ujbOvXGUJurgez) | 3:07 |
+| 3651 | [My town](https://open.spotify.com/track/2lsTmZMHngRUOzoH39adM9) | [Sly Chic](https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs) | [My town](https://open.spotify.com/album/5xVycOvz6sR8fpn4O4oaKO) | 5:08 |
 
-Snapshot ID: `AAAGK0I/PvUBEsG59539xFF9PD2wn61i`
+Snapshot ID: `AAAGLHwyy5TfjrB/YcvlGF64ux4BV25K`

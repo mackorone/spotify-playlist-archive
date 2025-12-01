@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Noyz Narcos,  Shiva, Latrelle e Nerissima Serpe, 18k e d/rose, ayo ally e HOODINi e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,044 likes - 116 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,053 likes - 116 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 51 | [LEGITTIMO DUBBIO \(feat\. Ensi\)](https://open.spotify.com/track/2qdBcAaZKVSEjDgqnwBADM) | [Tibe](https://open.spotify.com/artist/1aOJlr1HlmFahHgLbIiRBX), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [LEGITTIMO DUBBIO \(feat\. Ensi\)](https://open.spotify.com/album/4pNfe0tAS78iU1Np55NqcZ) | 3:28 |
 | 52 | [STAR](https://open.spotify.com/track/6bMAMSimbq2cEnjmsOpRoU) | [XV](https://open.spotify.com/artist/6TI9h1wBsGfMHa2qzyhyHI) | [YOUNGSTAR DREAM, Vol\. 1](https://open.spotify.com/album/3zlIVvvE9TPkRYE3JQUEka) | 2:39 |
 | 53 | [L'ANSIA \(con ilyPier\) \-prod\. ilyPier](https://open.spotify.com/track/7mhdHLMeepYASKfxEKwuor) | [NOSE](https://open.spotify.com/artist/0NCFUDNB5UUGh0BgQsGYJC), [DAZZ](https://open.spotify.com/artist/2fn6LgA9TWh1rWL7Usr2bJ), [ilyPier](https://open.spotify.com/artist/6TIAcmu36UB56DaVDcckEe) | [L'ANSIA \(con ilyPier\) \-prod\. ilyPier](https://open.spotify.com/album/5uEirEhHYzqiipi3gCOUNM) | 3:13 |
-| 54 | [350](https://open.spotify.com/track/6Q9tr8L0FhZNTOUmO1lnzP) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk), [GF](https://open.spotify.com/artist/0l2fWb4OvY60iyb7IvPw7Y) | [350](https://open.spotify.com/album/2oYyrWjG1fk4cweW5tYyY1) | 3:00 |
+| 54 | [350](https://open.spotify.com/track/6Q9tr8L0FhZNTOUmO1lnzP) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk), [GF](https://open.spotify.com/artist/6MyEne1vpRxj3IurnSvTYn) | [350](https://open.spotify.com/album/2oYyrWjG1fk4cweW5tYyY1) | 3:00 |
 | 55 | [Supercar](https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Supercar](https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf) | 2:04 |
 | 56 | [Malattia \(feat\. Aira\)](https://open.spotify.com/track/2UwGUbHgi0a2qgNX5CBA0I) | [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z), [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Pezzi di Vetro](https://open.spotify.com/album/3HDQVKectGn995pkypt7tr) | 2:18 |
 | 57 | [Perdersi](https://open.spotify.com/track/3TLZe4PbXoTISRZpgWEpMX) | [Davìdd](https://open.spotify.com/artist/7JE6E2Z7l9DouV5CRmNfuu), [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [Perdersi](https://open.spotify.com/album/7LXaxcuY0jHmP4Ii8hj8E5) | 2:07 |

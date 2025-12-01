@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,496 likes - 100 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,969 likes - 100 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 99 | [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 |
 | 100 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 |
 
-Snapshot ID: `AAAAAJ0MUKrPNZoHH1knPabLl2efwJ0d`
+Snapshot ID: `AAAAAPTh5pUVwuJhEpg0atItFBYLHPR+`

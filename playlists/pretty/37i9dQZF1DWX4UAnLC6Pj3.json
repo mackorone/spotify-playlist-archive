@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga y Gera Demara \ud83d\udcf8",
-  "num_followers": 1284621,
+  "num_followers": 1284786,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
+        "name": "Las Cosas No Andan Bien",
+        "url": "https://open.spotify.com/album/0kZYcBqZGGID3wsY7oBZ89"
+      },
+      "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        }
+      ],
+      "duration_ms": 189839,
+      "name": "Las Cosas No Andan Bien",
+      "url": "https://open.spotify.com/track/5eZxmh9Vr0Bh4ydwBtFH0d"
+    },
+    {
+      "added_at": "2025-11-28 06:00:06",
+      "album": {
         "name": "N\u00famero Equivocado",
         "url": "https://open.spotify.com/album/2EJH8SGmyMJ1YsbMTX5csC"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 204365,
       "name": "N\u00famero Equivocado",
       "url": "https://open.spotify.com/track/5nqw4d2N3h6CqD5TkdZoLX"
-    },
-    {
-      "added_at": "2025-11-28 06:00:06",
-      "album": {
-        "name": "Las Cosas No Andan Bien",
-        "url": "https://open.spotify.com/album/0kZYcBqZGGID3wsY7oBZ89"
-      },
-      "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        }
-      ],
-      "duration_ms": 189839,
-      "name": "Las Cosas No Andan Bien",
-      "url": "https://open.spotify.com/track/5eZxmh9Vr0Bh4ydwBtFH0d"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Quiero Llevarte a Madrid",
-        "url": "https://open.spotify.com/album/4AcFrOOS2kLd979gC1dJJr"
+        "name": "Se Me Muri\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/0GUxYv5549gBn6eZnn8C5F"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 162410,
-      "name": "Quiero Llevarte a Madrid",
-      "url": "https://open.spotify.com/track/5VXbUOkC96eU8ko17tRZzf"
+      "duration_ms": 179657,
+      "name": "Se Me Muri\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/0deAHUwu0dSMbOHJbloNkR"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Se Me Muri\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/0GUxYv5549gBn6eZnn8C5F"
+        "name": "Quiero Llevarte a Madrid",
+        "url": "https://open.spotify.com/album/4AcFrOOS2kLd979gC1dJJr"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 179657,
-      "name": "Se Me Muri\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/0deAHUwu0dSMbOHJbloNkR"
+      "duration_ms": 162410,
+      "name": "Quiero Llevarte a Madrid",
+      "url": "https://open.spotify.com/track/5VXbUOkC96eU8ko17tRZzf"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Me cans\u00e9 de morir por tu amor",
-        "url": "https://open.spotify.com/album/5ltQPT6TIBNgNKjp3EBRqr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Delta Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
-        },
-        {
-          "name": "Banda Melon Melon",
-          "url": "https://open.spotify.com/artist/6Z9ZNNLz099vKp9Udr9GCY"
-        }
-      ],
-      "duration_ms": 229571,
-      "name": "Me cans\u00e9 de morir por tu amor",
-      "url": "https://open.spotify.com/track/0Es05RHPqGBJRJlcvG5CAi"
-    },
-    {
-      "added_at": "2025-11-28 06:00:06",
-      "album": {
         "name": "La Cuca",
         "url": "https://open.spotify.com/album/7G90dGVQT5axRxHM9zUN3p"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Antes y Ahora (35 Aniversario)",
-        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+        "name": "Me cans\u00e9 de morir por tu amor",
+        "url": "https://open.spotify.com/album/5ltQPT6TIBNgNKjp3EBRqr"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Grupo Delta Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3sHpO1q6h5hNmEhhXtR7ZG"
+        },
+        {
+          "name": "Banda Melon Melon",
+          "url": "https://open.spotify.com/artist/6Z9ZNNLz099vKp9Udr9GCY"
         }
       ],
-      "duration_ms": 158122,
-      "name": "Mi Persona Especial",
-      "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
+      "duration_ms": 229571,
+      "name": "Me cans\u00e9 de morir por tu amor",
+      "url": "https://open.spotify.com/track/0Es05RHPqGBJRJlcvG5CAi"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Me Toc\u00f3 Perder",
-        "url": "https://open.spotify.com/album/6TeZsimOWmBTL2zK6tFYUr"
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
       },
       "artists": [
         {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 178840,
-      "name": "Me Toc\u00f3 Perder",
-      "url": "https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD"
+      "duration_ms": 158122,
+      "name": "Mi Persona Especial",
+      "url": "https://open.spotify.com/track/4wVGAlmWqnXxzvAMsCZhM3"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/7EWCw5uwGEqLN1SbaGusS4"
+        "name": "Me Toc\u00f3 Perder",
+        "url": "https://open.spotify.com/album/6TeZsimOWmBTL2zK6tFYUr"
       },
       "artists": [
         {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
         }
       ],
-      "duration_ms": 134464,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/4ltsuSbqqiF5TK6bKIt1vw"
+      "duration_ms": 178840,
+      "name": "Me Toc\u00f3 Perder",
+      "url": "https://open.spotify.com/track/78l0L3supCGgyrVDOz3CsD"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Antes y Ahora (35 Aniversario)",
-        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/7EWCw5uwGEqLN1SbaGusS4"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
         }
       ],
-      "duration_ms": 203096,
-      "name": "Como La Palma De Mi Mano",
-      "url": "https://open.spotify.com/track/5hAdvuDvNXJtPinXBIT4nc"
+      "duration_ms": 134464,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/4ltsuSbqqiF5TK6bKIt1vw"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Puros Corridos Y Rancheras (Remasterizado 2008)",
-        "url": "https://open.spotify.com/album/1oHwvurB0EcgSe5IRrTZ7e"
+        "name": "Antes y Ahora (35 Aniversario)",
+        "url": "https://open.spotify.com/album/6zk3Bh0lz6QIzSqyfatd0L"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 156447,
-      "name": "Fuera De La Ley - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/5ANGlTdnraBLt2NV5sDfI4"
+      "duration_ms": 203096,
+      "name": "Como La Palma De Mi Mano",
+      "url": "https://open.spotify.com/track/5hAdvuDvNXJtPinXBIT4nc"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
+        "name": "Puros Corridos Y Rancheras (Remasterizado 2008)",
+        "url": "https://open.spotify.com/album/1oHwvurB0EcgSe5IRrTZ7e"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 156447,
+      "name": "Fuera De La Ley - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/5ANGlTdnraBLt2NV5sDfI4"
+    },
+    {
+      "added_at": "2025-11-28 06:00:06",
+      "album": {
         "name": "30 Aniversario Vol. 2",
         "url": "https://open.spotify.com/album/08rpf0i7V6JJ5zRMIGXeZd"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Sones Adictivos (En Vivo)",
-        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 148599,
-      "name": "La Cuichi - En Vivo",
-      "url": "https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf"
-    },
-    {
-      "added_at": "2025-11-28 06:00:06",
-      "album": {
         "name": "Las Dos Me Hacen Falta",
         "url": "https://open.spotify.com/album/7mQV3GdqYKsaNJHEVbB2Uf"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Puras Pa Pistear Volumen 1",
-        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+        "name": "Sones Adictivos (En Vivo)",
+        "url": "https://open.spotify.com/album/2ABPIhwQPrVIL8oamSwuS4"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 177096,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
+      "duration_ms": 148599,
+      "name": "La Cuichi - En Vivo",
+      "url": "https://open.spotify.com/track/5kuTaAtUzmq8LeG3UlaSbf"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1519,6 +1503,22 @@
       "duration_ms": 164935,
       "name": "Me Dicen El Coyote",
       "url": "https://open.spotify.com/track/0UnLTePmBze3fSGvHYYEdO"
+    },
+    {
+      "added_at": "2025-11-28 06:00:06",
+      "album": {
+        "name": "Puras Pa Pistear Volumen 1",
+        "url": "https://open.spotify.com/album/3fuUgFZDApi0xywZ5hOgqk"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 177096,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/7sm9ulj2YtnaBcMZ8tfni2"
     },
     {
       "added_at": "2025-11-28 06:00:06",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-11-28 06:00:06",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 218863,
-      "name": "Tu Lo Decidiste",
-      "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
-    },
-    {
-      "added_at": "2025-11-28 06:00:06",
-      "album": {
         "name": "Porque Volvi Contigo",
         "url": "https://open.spotify.com/album/2CNJxQuUEj6vAgR98Rf0ml"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 228000,
       "name": "Porque Volvi Contigo",
       "url": "https://open.spotify.com/track/7ELbs0WvQ3AJL6Xj6SpShI"
+    },
+    {
+      "added_at": "2025-11-28 06:00:06",
+      "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/3hqXLmjhAIJOojsVXrM1MB"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 218863,
+      "name": "Tu Lo Decidiste",
+      "url": "https://open.spotify.com/track/1u4n7l7pzmrSSS5UgcxBap"
     },
     {
       "added_at": "2025-11-28 06:00:06",

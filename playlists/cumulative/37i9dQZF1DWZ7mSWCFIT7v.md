@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-529 songs - 1 day 18 hr 25 min
+531 songs - 1 day 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 | 2022-08-03 | 2025-07-17 |
 | [a glow on a floe](https://open.spotify.com/track/0apC5AXN8EVJ5myftbOttg) | [Bass Clef](https://open.spotify.com/artist/3nj3DBK6cC8x61KsPAwUSW) | [Magnetic Chapters](https://open.spotify.com/album/1jScVqGMWGKASFKLQOubUh) | 4:15 | 2021-10-06 | 2025-07-17 |
 | [A Hundred Times](https://open.spotify.com/track/0B3epCGYUvT4ytMgZslPcb) | [Shore](https://open.spotify.com/artist/4F7AimqAwebM3gQzyp1LnY) | [A Hundred Times](https://open.spotify.com/album/30ma5WMOit0O0KqL9svkfw) | 5:56 | 2021-10-06 | 2025-07-17 |
+| [A Tune for Us](https://open.spotify.com/track/41Y0ch6R3jzpJOZv6nhf9Z) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:53 | 2025-11-30 |  |
 | [A YEAR OF PEOPLE BEYOND YOUR BACK](https://open.spotify.com/track/7FcpasXxRkVpddfGXCx81E) | [Aye\-aye](https://open.spotify.com/artist/6LkJOynfxc55br2dUZeoKX) | [Everything Popular is Wrong](https://open.spotify.com/album/726ej6023HAKhPAnVrUIal) | 5:07 | 2021-10-06 | 2025-07-17 |
 | [A.H\. 210724](https://open.spotify.com/track/7LdaqDg8vbUyUaL2sDjV4c) | [pi\-c](https://open.spotify.com/artist/3ME6Xrst3i91iKU61wcjZo) | [A.H\. 210724](https://open.spotify.com/album/2aDRCvx9t40Lpc7n9twT1y) | 5:04 | 2025-09-19 | 2025-11-15 |
 | [A2](https://open.spotify.com/track/3ZvpVD9Ksyw3DXw5dMGBsg) | [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Järnnätter](https://open.spotify.com/album/1Z7zJp7hTa04uPoQZzyTlX) | 11:27 | 2022-08-31 | 2025-07-10 |
@@ -104,7 +105,7 @@
 | [CHIAROSCURO](https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD) | 7:56 | 2021-10-06 | 2022-07-27 |
 | [Chopstick!](https://open.spotify.com/track/0xNoo5JDET2lxOqGNApa1N) | [Isolée](https://open.spotify.com/artist/6FfTOJJ5iO4tRG80MG5Ovj) | [Chopstick!](https://open.spotify.com/album/3fMSFJgA8A76UvZ1pVZ0w5) | 6:11 | 2025-04-11 | 2025-09-27 |
 | [CHROMA 009 KR36](https://open.spotify.com/track/4aKUZRIOUMo1NIYiF6GC9n) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 009](https://open.spotify.com/album/1xcQTBrYUlKpTj73BQGQKx) | 4:48 | 2025-04-18 | 2025-10-25 |
-| [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 | 2025-06-06 |  |
+| [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 | 2025-06-06 | 2025-12-01 |
 | [CHROMA 011 A.L.O.E II](https://open.spotify.com/track/61gCDJBdaNXE4sy9Xl2lvl) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [B.D.B](https://open.spotify.com/artist/6sXF3naVGIqO5axr7EVgPi), [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [CHROMA 000](https://open.spotify.com/album/0m1epiCLYT58W9XZdGgLK4) | 5:42 | 2025-11-14 |  |
 | [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-15 | 2025-07-17 |
 | [Chéri \- Instrumental](https://open.spotify.com/track/3oBIxCgN5rcjO3WaIiFu0r) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:25 | 2023-04-15 | 2024-04-19 |
@@ -179,7 +180,7 @@
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 | 2023-05-13 |
 | [Fena](https://open.spotify.com/track/6aO8Nz4Q4sY0LFoF19woBM) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena](https://open.spotify.com/album/7dyMd5Q323re0dsPrbMldv) | 4:44 | 2025-06-13 |  |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2025-06-07 |
-| [Fi](https://open.spotify.com/track/65oqnwkByGPqrSghuq3cEw) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Fi ⋰ Sol](https://open.spotify.com/album/0P0ugNHZL6uEpEiP1o1p4Y) | 2:22 | 2025-07-30 |  |
+| [Fi](https://open.spotify.com/track/65oqnwkByGPqrSghuq3cEw) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Fi ⋰ Sol](https://open.spotify.com/album/0P0ugNHZL6uEpEiP1o1p4Y) | 2:22 | 2025-07-30 | 2025-12-01 |
 | [Fibre Axis](https://open.spotify.com/track/7oi0tg1vbaS8AtgpXBGfwV) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Cross Passage](https://open.spotify.com/album/62oPpbxnbmg0fi0TUAoUAP) | 6:18 | 2025-11-03 |  |
 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 | 2024-10-25 | 2025-08-12 |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
@@ -504,6 +505,7 @@
 | [Was Du Suchst](https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Was Du Suchst](https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc) | 7:30 | 2023-03-03 | 2025-07-26 |
 | [Waterways](https://open.spotify.com/track/0cn24Uv7Za2OJ9kAcmrwqA) | [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [A Rhythm Protects One](https://open.spotify.com/album/66anS96MISnHJV4K5H2y7M) | 8:25 | 2025-11-03 |  |
 | [wavebeats \- dub](https://open.spotify.com/track/3OkRcIPK4wQwyHKShEncvp) | [Musicentrydelete](https://open.spotify.com/artist/1LM4iUWXAb1ZocvlVOAR7i) | [Selfless](https://open.spotify.com/album/5zZleQTvgmrr10C0KxhUMD) | 5:34 | 2025-11-28 |  |
+| [Waxcap](https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Under Tangled Silence](https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea) | 5:10 | 2025-11-30 |  |
 | [We Are All We Have](https://open.spotify.com/track/0NJHoc8onewG1Pr4mDJdwn) | [Anodyne](https://open.spotify.com/artist/46HAZTDJXaXL5dS9D5Jlwp) | [Decayed](https://open.spotify.com/album/18AMIcRykPQMNwQaBeca0a) | 6:24 | 2021-10-06 | 2022-07-27 |
 | [Weather the Storm](https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/7j30PlQmG0gZod9ptHZdAm) | 4:36 | 2021-10-06 | 2024-04-19 |
 | [Weather the Storm](https://open.spotify.com/track/7tukLYFGfh5osYc8uoqOmk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/671j83cAr05uMnsERPGycZ) | 4:36 | 2021-10-06 | 2025-07-17 |

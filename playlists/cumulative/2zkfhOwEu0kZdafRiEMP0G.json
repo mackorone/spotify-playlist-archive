@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "I Am a Jedi",
+        "url": "https://open.spotify.com/album/3T9U4Po9LYbShRBuEECFdL"
+      },
+      "artists": [
+        {
+          "name": "Royish Good Looks",
+          "url": "https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "I Am a Jedi",
+      "url": "https://open.spotify.com/track/2U0sNA99tgmDUxDvnukqJT"
+    },
+    {
+      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },

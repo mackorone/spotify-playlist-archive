@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém do que se veste, é vc farmando aura\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,523 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,532 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 39 | [Você Sabe](https://open.spotify.com/track/5Xpj8Z85aR3IjAnC4QAauT) | [Kempa](https://open.spotify.com/artist/200idtjWvqtkeXPyqqdFbP), [eutazz](https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [Você Sabe](https://open.spotify.com/album/6JNMwaZ8TLYfRrEJQWsDzO) | 2:17 |
 | 40 | [Ciclo](https://open.spotify.com/track/5k7JkpDlo6o9HJ1i8Wj8Mn) | [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq) | [Ciclo](https://open.spotify.com/album/2Pg63mnbvo0XuEbwA5YbkK) | 1:55 |
 | 41 | [Uen Uen Uen](https://open.spotify.com/track/6KugUjPZU5ppLRumh4P3eC) | [Suiky](https://open.spotify.com/artist/3nDW2GZ3lX2zuT5aYentM6) | [Uen Uen Uen](https://open.spotify.com/album/3lOWqe9C98T0ItSVRVwUTv) | 3:28 |
-| 42 | [Skinny Jeans](https://open.spotify.com/track/6cb2O0EEeuIpXmUCLuFdL5) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Skinny Jeans](https://open.spotify.com/album/4pM0wzgerByvzaHKXlZgD6) | 1:58 |
-| 43 | [Porque não](https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [S3X!](https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG) | [Porque não](https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq) | 2:45 |
+| 42 | [Porque não](https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi) | [Buh](https://open.spotify.com/artist/3hxPH3tigGzZbPmYbYo12v), [S3X!](https://open.spotify.com/artist/2eg0Srr8X5TQlSIozcIxlG) | [Porque não](https://open.spotify.com/album/6SPu9BsezTBeQQHjdanFxq) | 2:45 |
+| 43 | [Skinny Jeans](https://open.spotify.com/track/6cb2O0EEeuIpXmUCLuFdL5) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [C4rlinhxs](https://open.spotify.com/artist/2d7vU3M4WY23wRN1nAqEwp), [Erick Di](https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS) | [Skinny Jeans](https://open.spotify.com/album/4pM0wzgerByvzaHKXlZgD6) | 1:58 |
 | 44 | [Mr\. Lupa Freestyle](https://open.spotify.com/track/0QdnEAQtqSUgvc3yIvsxfg) | [Oklin](https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A), [Prod\. 2t'](https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN) | [Mr\. Lupa Freestyle](https://open.spotify.com/album/69GPAtxzk4v0YXLfB8urkM) | 2:27 |
 | 45 | [Ruas Frias](https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Ruas Frias](https://open.spotify.com/album/12UMQAWVys24LITebtbIdY) | 3:33 |
 | 46 | [Moncler](https://open.spotify.com/track/5qxLT4qC7xkWttnBYgT4xL) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5) | [ELA É RIO](https://open.spotify.com/album/5jkeTUtKTpSgM7B5XRK9U1) | 3:21 |

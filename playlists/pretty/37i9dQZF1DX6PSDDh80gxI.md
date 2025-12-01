@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Non volevamo far festa ma ci serviva un pretesto… per festeggiare i 10 anni di Mainstream 🫒
+> Non volevamo far festa ma ci serviva un pretesto… <a href="https://www.instagram.com/p/DRrWQNJDGWz/?img\_index=1">per festeggiare i 10 anni di Mainstream</a> 🫒
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,355 likes - 82 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,540 likes - 82 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 81 | [Un giorno triste \(feat\. Gemitaiz\)](https://open.spotify.com/track/1ADf9yY4ATx5Sg64SeGMlW) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Speriamo](https://open.spotify.com/album/08rZN9vymIRuu4RWqdGYT3) | 2:43 |
 | 82 | [OCCHIAIE](https://open.spotify.com/track/1raoPjIsysUxxINP4QB2ZA) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [OCCHIAIE](https://open.spotify.com/album/46IQNcVUpKaKW25X6CL5fN) | 2:53 |
 
-Snapshot ID: `AAAAAG2VD6Bz5Tl52Vzgsa2yvbwFzSgS`
+Snapshot ID: `AAAAAMcTjThv7OHBlV1P1ie2wwXEPpz3`

@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 165721,
+  "num_followers": 165735,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAADUuRfDxMinVn6vdxfa+PNB",
+  "snapshot_id": "aSo3gAAAAABpibcd6ZgMJP8cRF+AlnRP",
   "tracks": [
     {
       "added_at": null,
@@ -518,47 +518,11 @@
         {
           "name": "Outkast",
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 152413,
-      "name": "Dracula's Wedding (feat. Kelis)",
-      "url": "https://open.spotify.com/track/2EFHXO4zJRitZLpE1ztsWO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 289163,
-      "name": "Return of the \"G\"",
-      "url": "https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Spaghetti Junction",
-      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+      "duration_ms": 236720,
+      "name": "GhettoMusick",
+      "url": "https://open.spotify.com/track/1zb9cdsTMrEEL2Ut8rmTb6"
     },
     {
       "added_at": null,
@@ -579,6 +543,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Spaghetti Junction",
+      "url": "https://open.spotify.com/track/1ZosUXeZM3qlTWdL1uTrhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 289163,
+      "name": "Return of the \"G\"",
+      "url": "https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Can't Wait featuring Outkast",
         "url": "https://open.spotify.com/album/4roCYuHEKOHiiheXi8sKiT"
       },
@@ -595,6 +591,42 @@
       "duration_ms": 272546,
       "name": "I Can't Wait",
       "url": "https://open.spotify.com/track/23XFjkEHUpVh3fmcNJFkaR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Hootie Hoo",
+      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Humble Mumble (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
     },
     {
       "added_at": null,
@@ -623,42 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Humble Mumble (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Hootie Hoo",
-      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gangsta Grillz The Album",
         "url": "https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec"
       },
@@ -679,6 +675,22 @@
       "duration_ms": 297280,
       "name": "The Art of Storytellin, Pt. 4 (feat. Outkast & Marsha Ambrosius)",
       "url": "https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Southernplayalisticadillacmuzik",
+        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 338933,
+      "name": "Ain't No Thang",
+      "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
     },
     {
       "added_at": null,
@@ -723,22 +735,6 @@
       "duration_ms": 200971,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Southernplayalisticadillacmuzik",
-        "url": "https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "Ain't No Thang",
-      "url": "https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE"
     },
     {
       "added_at": null,

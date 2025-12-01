@@ -4,7 +4,7 @@
 
 > Brand new music from These New South Whales, Ed Sheeran, Central Cee, Jordan Rakei, Jalen Ngonda, Drax Project + more
 
-11,156 songs - 25 day 6 hr 50 min
+11,157 songs - 25 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [2AM Massive](https://open.spotify.com/track/3KDy3CGmtaRNsSRF8rhe5a) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Give Us Shelter](https://open.spotify.com/album/6hund1FhXxKGf8Zei5mK0n) | 4:37 | 2025-11-13 | 2025-11-21 |
 | [2CLOSE](https://open.spotify.com/track/20eG1ZJHGE0q4nLCJq2Y58) | [jnr.](https://open.spotify.com/artist/5qXDmi36IOhCnPLnoXRLrj) | [2CLOSE](https://open.spotify.com/album/46q9Ug9fmNBYywzIU7aE3Y) | 2:55 | 2024-06-20 | 2024-06-28 |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-11-07 | 2024-11-15 |
+| [2Factor](https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Blue Disco](https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t) | 3:46 | 2025-12-01 |  |
 | [2good](https://open.spotify.com/track/1Pvl3qpCb2UzGwNLHpQ0MU) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [2good](https://open.spotify.com/album/3RTiRcNDXcKfjDbD5xFZNw) | 3:33 | 2023-06-29 | 2023-07-07 |
 | [2HII](https://open.spotify.com/track/4zj41U06wJ0Q4F6HKQTP2l) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Masiwei](https://open.spotify.com/artist/0fyaEHmSmZs2YWMgbruITA), [Spence Lee](https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa) | [2HII](https://open.spotify.com/album/2sYRcSfLpSpC5CCNNnlwtz) | 2:37 | 2024-12-12 | 2024-12-20 |
 | [2MANYTIMES](https://open.spotify.com/track/3rVgFAXFJnmpki9sVgRFfn) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [2MANYTIMES](https://open.spotify.com/album/5v0whhzr6ryjzu2Ds5V5Cc) | 3:25 | 2023-11-30 | 2023-12-08 |
@@ -1722,7 +1723,7 @@
 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 | 2025-04-24 | 2025-05-02 |
 | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/track/54XLaoN02yA172fUlhsXKW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Stafford Brothers](https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0), [G4BBA](https://open.spotify.com/artist/1P4pmBbuQwsKKV39MfzGVd) | [Cascabel \(feat\. Alé Kumá, G4bba\)](https://open.spotify.com/album/5QA1TPQekOSmmz2W6nF76m) | 2:31 | 2023-07-20 | 2023-07-28 |
 | [Caserio](https://open.spotify.com/track/5mFPPKfPrFOuArc4ePJEyG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Caserio](https://open.spotify.com/album/4NDSlhOifFUl2MNv3D9dYy) | 3:09 | 2024-03-07 | 2024-03-15 |
-| [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-11-27 |  |
+| [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/track/4SjfsqsR3TIR3SO7kcTlFX) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Cash Flow \(feat\. Wizkid\)](https://open.spotify.com/album/5KAL8vFHHE5cbRZaPfDx8F) | 2:54 | 2025-11-27 | 2025-12-01 |
 | [Cashed Out \- feat\. Larry June](https://open.spotify.com/track/1qUyn3s2q7ltOZ5HntTT8K) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Kush + Orange Juice 2](https://open.spotify.com/album/5hCMGdoEu229fjWGMWFnbJ) | 3:43 | 2025-04-17 | 2025-04-25 |
 | [Casino](https://open.spotify.com/track/1XjLh9k8todOmzc62myULu) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [Casino](https://open.spotify.com/album/1ybKkTn22vEjU5NKVQU00R) | 3:03 | 2024-07-11 | 2024-07-19 |
 | [Casino](https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Casino](https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f) | 2:38 | 2025-03-27 | 2025-04-04 |

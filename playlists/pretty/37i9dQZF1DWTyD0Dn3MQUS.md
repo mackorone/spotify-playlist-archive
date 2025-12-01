@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyD0Dn3MQUS.md) - [plain]
 
 > Enjoy the  NCT 127 4TH TOUR \[NEO CITY – THE MOMENTUM\] LIVE SET including the voices of them on stage! \(NCT 127의 무대 멘트와 목소리가 포함된 \[NEO CITY – THE MOMENTUM\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,971 likes - 35 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,970 likes - 35 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

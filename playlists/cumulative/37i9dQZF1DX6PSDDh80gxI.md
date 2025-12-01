@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Non volevamo far festa ma ci serviva un pretesto… per festeggiare i 10 anni di Mainstream 🫒
+> Non volevamo far festa ma ci serviva un pretesto… <a href="https://www.instagram.com/p/DRrWQNJDGWz/?img\_index=1">per festeggiare i 10 anni di Mainstream</a> 🫒
 
 420 songs - 22 hr 28 min
 

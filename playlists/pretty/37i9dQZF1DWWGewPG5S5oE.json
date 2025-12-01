@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u6765\u6d77",
-  "num_followers": 47569,
+  "num_followers": 47595,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
+    },
+    {
+      "added_at": "2025-11-18 15:33:53",
+      "album": {
         "name": "\u30e6\u30fc\u30c8\u30d4\u30a2",
         "url": "https://open.spotify.com/album/0G3c1t1jWSNVJ6y1eZEIoz"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "Zatto",
-        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
-      },
-      "artists": [
-        {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
-        }
-      ],
-      "duration_ms": 367966,
-      "name": "Zatto",
-      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
-    },
-    {
-      "added_at": "2025-11-18 15:33:53",
-      "album": {
         "name": "In Black",
         "url": "https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq"
       },
@@ -447,18 +447,22 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+        "name": "New World feat.ELAIZA",
+        "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
       },
       "artists": [
         {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        },
+        {
+          "name": "ELAIZA",
+          "url": "https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka"
         }
       ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+      "duration_ms": 228966,
+      "name": "New World feat.ELAIZA",
+      "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
     },
     {
       "added_at": "2025-11-18 15:33:53",
@@ -483,22 +487,18 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "New World feat.ELAIZA",
-        "url": "https://open.spotify.com/album/3bUMoQ0Cceo8MJp04N76wU"
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        },
-        {
-          "name": "ELAIZA",
-          "url": "https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka"
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 228966,
-      "name": "New World feat.ELAIZA",
-      "url": "https://open.spotify.com/track/2SH3irAb48lnPA4zzxtTwX"
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-11-18 15:33:53",
@@ -591,42 +591,6 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "Tristeza",
-        "url": "https://open.spotify.com/album/0Z6NW1supXgAT0wP5jdSOs"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 173476,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/1jz3MnXdpmDTPgmyLO93Nf"
-    },
-    {
-      "added_at": "2025-11-18 15:33:53",
-      "album": {
-        "name": "\u5076\u7136\u306e\u4e00\u81f4",
-        "url": "https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        },
-        {
-          "name": "Ai Higuchi",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
-        }
-      ],
-      "duration_ms": 251445,
-      "name": "\u5076\u7136\u306e\u4e00\u81f4",
-      "url": "https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1"
-    },
-    {
-      "added_at": "2025-11-18 15:33:53",
-      "album": {
         "name": "BLUE GIANT (\u300eBLUE GIANT\u300f\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3088\u308a)",
         "url": "https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3"
       },
@@ -651,6 +615,42 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
+        "name": "\u5076\u7136\u306e\u4e00\u81f4",
+        "url": "https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        },
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "duration_ms": 251445,
+      "name": "\u5076\u7136\u306e\u4e00\u81f4",
+      "url": "https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1"
+    },
+    {
+      "added_at": "2025-11-18 15:33:53",
+      "album": {
+        "name": "Tristeza",
+        "url": "https://open.spotify.com/album/0Z6NW1supXgAT0wP5jdSOs"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 173476,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/1jz3MnXdpmDTPgmyLO93Nf"
+    },
+    {
+      "added_at": "2025-11-18 15:33:53",
+      "album": {
         "name": "CROSSING",
         "url": "https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "ACIDMAN Tribute Works",
-        "url": "https://open.spotify.com/album/4diPPj0QAQdizJvdJaXWJu"
-      },
-      "artists": [
-        {
-          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
-          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
-        }
-      ],
-      "duration_ms": 342600,
-      "name": "at",
-      "url": "https://open.spotify.com/track/6i8bbUfrvEHXu1ODPMEeBS"
-    },
-    {
-      "added_at": "2025-11-18 15:33:53",
-      "album": {
         "name": "Ryo Fukui Trio at the Slowboat 2004",
         "url": "https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 775840,
       "name": "Eclypso",
       "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
+    },
+    {
+      "added_at": "2025-11-18 15:33:53",
+      "album": {
+        "name": "ACIDMAN Tribute Works",
+        "url": "https://open.spotify.com/album/4diPPj0QAQdizJvdJaXWJu"
+      },
+      "artists": [
+        {
+          "name": "SOIL & \u201cPIMP\u201d SESSIONS",
+          "url": "https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF"
+        }
+      ],
+      "duration_ms": 342600,
+      "name": "at",
+      "url": "https://open.spotify.com/track/6i8bbUfrvEHXu1ODPMEeBS"
     },
     {
       "added_at": "2025-11-18 15:33:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "Best 2005 \u2013 2025",
-        "url": "https://open.spotify.com/album/0vgiRFKdzaISJqjLRH0mX6"
-      },
-      "artists": [
-        {
-          "name": "Chihiro Yamanaka",
-          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "You Are Too Beautiful",
-      "url": "https://open.spotify.com/track/3rXJBcYCpV5hSE72oCkBKJ"
-    },
-    {
-      "added_at": "2025-11-18 15:33:53",
-      "album": {
         "name": "Answer to Remember II",
         "url": "https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 221813,
       "name": "KIMOCHIS",
       "url": "https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy"
+    },
+    {
+      "added_at": "2025-11-18 15:33:53",
+      "album": {
+        "name": "Best 2005 \u2013 2025",
+        "url": "https://open.spotify.com/album/0vgiRFKdzaISJqjLRH0mX6"
+      },
+      "artists": [
+        {
+          "name": "Chihiro Yamanaka",
+          "url": "https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/3rXJBcYCpV5hSE72oCkBKJ"
     },
     {
       "added_at": "2025-11-18 15:33:53",
@@ -927,38 +927,18 @@
     {
       "added_at": "2025-11-18 15:33:53",
       "album": {
-        "name": "STEPS OF THE BLUE",
-        "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
+        "name": "Landed on the Moon",
+        "url": "https://open.spotify.com/album/77VLkt74v9MQlxa3i83ZJC"
       },
       "artists": [
         {
-          "name": "\u677e\u4e95 \u79c0\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ"
-        },
-        {
-          "name": "\u4e2d\u5ddd\u82f1\u4e8c\u90ce",
-          "url": "https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q"
-        },
-        {
-          "name": "\u4e2d\u6797\u4fca\u4e5f",
-          "url": "https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc"
-        },
-        {
-          "name": "Makoto Ozone",
-          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
-        },
-        {
-          "name": "Shimpei Ogawa",
-          "url": "https://open.spotify.com/artist/7aR7TrCNI1EFSZy758Bp7W"
-        },
-        {
-          "name": "\u5c0f\u7530\u6850\u548c\u5bdb",
-          "url": "https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE"
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
         }
       ],
-      "duration_ms": 342146,
-      "name": "STEPS OF THE BLUE",
-      "url": "https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne"
+      "duration_ms": 286026,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/1SGuM7OqpvyU4F5vIUEfTU"
     }
   ],
   "unique_name": "Modern Jazz Japan",

@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 153698,
       "name": "Aff im Kopf",
       "url": "https://open.spotify.com/track/21nuXb9yhcyA91gRVVBpfI"
@@ -13600,6 +13600,24 @@
     {
       "album": {
         "name": "Erlk\u00f6nig",
+        "url": "https://open.spotify.com/album/2oOCAU1IiH2RfC1SFsAtsM"
+      },
+      "artists": [
+        {
+          "name": "Delicx",
+          "url": "https://open.spotify.com/artist/2m8YGwbAMcrk2LIHPF5OMK"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156618,
+      "name": "Erlk\u00f6nig",
+      "url": "https://open.spotify.com/track/6GroSwrVG3y2erAVKakcDK"
+    },
+    {
+      "album": {
+        "name": "Erlk\u00f6nig",
         "url": "https://open.spotify.com/album/5WrnpH7tboArNoVfqKFk0N"
       },
       "artists": [
@@ -13610,7 +13628,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 156529,
       "name": "Erlk\u00f6nig",
       "url": "https://open.spotify.com/track/3TyNmDkPI3KOcVaS2COsVj"
@@ -21169,6 +21187,24 @@
     },
     {
       "album": {
+        "name": "I Believe I Rise",
+        "url": "https://open.spotify.com/album/3pwF6nSdjygYGbZamFcTYl"
+      },
+      "artists": [
+        {
+          "name": "DJSource",
+          "url": "https://open.spotify.com/artist/7s5jADIx9KUXAbYYOf9mjX"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138158,
+      "name": "I Believe I Rise",
+      "url": "https://open.spotify.com/track/59zeXiQgNYdPSxcjKwqmpM"
+    },
+    {
+      "album": {
         "name": "I Can't Fit In",
         "url": "https://open.spotify.com/album/3sQoZT3jqG4ub4YrzcY9aa"
       },
@@ -24734,7 +24770,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 168959,
       "name": "Kribbeln im Bauch",
       "url": "https://open.spotify.com/track/5g4SU2Q5JhqjWCDQ23X2Go"
@@ -27914,7 +27950,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -31762,7 +31798,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 133984,
       "name": "Nacht Voll Schatten",
       "url": "https://open.spotify.com/track/0362oY8NzSnRrvbEMHOBEp"
@@ -32326,7 +32362,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 89745,
       "name": "NO BATID\u00c3O",
       "url": "https://open.spotify.com/track/7vg9noSnFEyPfwLiaCW4vi"
@@ -42972,7 +43008,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 185172,
       "name": "TANZNEID",
       "url": "https://open.spotify.com/track/5IeePsTYSdFvadsHY0npqF"
@@ -44688,7 +44724,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -44706,7 +44742,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
@@ -50716,6 +50752,28 @@
       "duration_ms": 246946,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF"
+    },
+    {
+      "album": {
+        "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 25495,
+  "num_followers": 25494,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-11-06 05:21:26",
       "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac"
+      },
+      "artists": [
+        {
+          "name": "KWACA",
+          "url": "https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
+    },
+    {
+      "added_at": "2025-11-06 05:21:26",
+      "album": {
         "name": "The Dreamest",
         "url": "https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 217026,
       "name": "summer youth",
       "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
-    },
-    {
-      "added_at": "2025-11-06 05:21:26",
-      "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac"
-      },
-      "artists": [
-        {
-          "name": "KWACA",
-          "url": "https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
     },
     {
       "added_at": "2025-11-06 05:21:26",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-11-06 05:21:26",
       "album": {
-        "name": "A Heart Wandering All Night",
-        "url": "https://open.spotify.com/album/4xKdwXeZSNVBHtozxMokX2"
+        "name": "My Girlfriend is the Man (Original Soundtrack) Part.3",
+        "url": "https://open.spotify.com/album/6BkbFcvAIq9yNeZHBmhN27"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "Seo Ja Yeong",
+          "url": "https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN"
         }
       ],
-      "duration_ms": 255431,
-      "name": "A Heart Wandering All Night",
-      "url": "https://open.spotify.com/track/7F8KqqBxoTOIB6YUmMnF1E"
+      "duration_ms": 170320,
+      "name": "Days of Youth",
+      "url": "https://open.spotify.com/track/5t1pYN3ZcIOKMXdhDRRacd"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",

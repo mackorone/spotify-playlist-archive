@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1335804,
+  "num_followers": 1335735,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
     },
     {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "Apothecary (Pt. 1)",
-        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
-      },
-      "artists": [
-        {
-          "name": "Lusaint",
-          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
-        }
-      ],
-      "duration_ms": 152124,
-      "name": "Lie To Yourself",
-      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
-    },
-    {
       "added_at": "2025-08-06 11:57:20",
       "album": {
         "name": "Let's Try Love",
@@ -967,6 +951,22 @@
       "duration_ms": 139493,
       "name": "Let's Try Love",
       "url": "https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Apothecary (Pt. 1)",
+        "url": "https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "duration_ms": 152124,
+      "name": "Lie To Yourself",
+      "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "What A Devastating Turn of Events",
         "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 217237,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/5Br4bQG5MwYZTKpFfiw4no"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "All Is Well",
-        "url": "https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka"
+        "name": "Little Miss Sunshine",
+        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
       },
       "artists": [
         {
-          "name": "Babygirl",
-          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
+          "name": "Charlie Noordewier",
+          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
         }
       ],
-      "duration_ms": 195311,
-      "name": "All Is Well",
-      "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
+      "duration_ms": 315245,
+      "name": "Little Miss Sunshine",
+      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/3fvSbGLtvLXfClvz8UTwka"
       },
       "artists": [
         {
-          "name": "Charlie Noordewier",
-          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+          "name": "Babygirl",
+          "url": "https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T"
         }
       ],
-      "duration_ms": 315245,
-      "name": "Little Miss Sunshine",
-      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
+      "duration_ms": 195311,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/5FmWkwmh6jLUd91DVeVwub"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "collarbone",
-        "url": "https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP"
-      },
-      "artists": [
-        {
-          "name": "Orlando",
-          "url": "https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "collarbone",
-      "url": "https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Sweet Nothings",
         "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 173000,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "collarbone",
+        "url": "https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP"
+      },
+      "artists": [
+        {
+          "name": "Orlando",
+          "url": "https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "collarbone",
+      "url": "https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G"
     },
     {
       "added_at": "2025-08-06 11:57:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Isabel LaRosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,303,469 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,303,391 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 99 | [Disturbing](https://open.spotify.com/track/1w4c503rCezi0O5pwgDKd7) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Disturbing](https://open.spotify.com/album/0RRU6iJcBVOYwPuCxpr8OE) | 2:55 |
 | 100 | [Dancing With Tears In My Eyes](https://open.spotify.com/track/1lWtt6T1RiLUrUnGCp2Yci) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Dancing With Tears In My Eyes](https://open.spotify.com/album/13NqvU3DpeV1biX8vnFma8) | 3:38 |
 
-Snapshot ID: `AAAAAOuRXiICqtsfkyoMNKuEEvhK+BTM`
+Snapshot ID: `AAAAAKX38s/prAw3ZewbEWpEqsZBWHYc`

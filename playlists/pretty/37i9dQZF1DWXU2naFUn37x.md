@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Skinny, Papa e Nerissima in cover della playlist street italiana ❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,145 likes - 54 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,147 likes - 54 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

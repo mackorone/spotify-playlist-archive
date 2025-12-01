@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: De Zweefclub",
-  "num_followers": 11001,
+  "num_followers": 10999,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,26 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "Frok en Stien",
+        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "duration_ms": 182301,
+      "name": "Misschien",
+      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Vlijmscherp",
         "url": "https://open.spotify.com/album/1RTQqQrsiaNvJdCdTMBfhb"
       },
@@ -207,6 +227,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "Praat Te Veel",
+        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
+      },
+      "artists": [
+        {
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Praat Te Veel",
+      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Frok en Stien",
         "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
       },
@@ -220,25 +256,9 @@
           "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
         }
       ],
-      "duration_ms": 182301,
-      "name": "Misschien",
-      "url": "https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "Praat Te Veel",
-        "url": "https://open.spotify.com/album/5fcW10KqULqNexBgtsehXY"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Praat Te Veel",
-      "url": "https://open.spotify.com/track/1U5e0L9t9393QN0FrzPa6h"
+      "duration_ms": 149767,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -279,22 +299,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Normaal Toen",
-        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 194454,
-      "name": "Normaal Toen",
-      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Aerobics",
         "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
       },
@@ -307,6 +311,22 @@
       "duration_ms": 167901,
       "name": "Aerobics",
       "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -347,22 +367,18 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Boterham",
-        "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
+        "name": "Rondjes",
+        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
       },
       "artists": [
         {
-          "name": "Gotu Jim",
-          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
-        },
-        {
-          "name": "Faberyayo",
-          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
+          "name": "jet van der steen",
+          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
         }
       ],
-      "duration_ms": 127562,
-      "name": "Boterham",
-      "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
+      "duration_ms": 190541,
+      "name": "Rondjes",
+      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -383,42 +399,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Frok en Stien",
-        "url": "https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ"
-      },
-      "artists": [
-        {
-          "name": "Froukje",
-          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
-        },
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        }
-      ],
-      "duration_ms": 149767,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/7BG9Fh8c3swsY2auGk0Q9E"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "Rondjes",
-        "url": "https://open.spotify.com/album/0AOklMhFa8PHsfrdqzvLDk"
-      },
-      "artists": [
-        {
-          "name": "jet van der steen",
-          "url": "https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo"
-        }
-      ],
-      "duration_ms": 190541,
-      "name": "Rondjes",
-      "url": "https://open.spotify.com/track/6cQWHhI9gJ44kZG0vNofsZ"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/0BPYqDbkthauNmfpno89pn"
       },
@@ -435,34 +415,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "God Los",
-        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+        "name": "Boterham",
+        "url": "https://open.spotify.com/album/2gs4DAtbdobe6Zc0WEYXoO"
       },
       "artists": [
         {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "God Los",
-      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "Toen kwam jij",
-        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
-      },
-      "artists": [
+          "name": "Gotu Jim",
+          "url": "https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ"
+        },
         {
-          "name": "Lucky Fonz III",
-          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+          "name": "Faberyayo",
+          "url": "https://open.spotify.com/artist/3tSNYodPp4woMbWy6XZQG0"
         }
       ],
-      "duration_ms": 254935,
-      "name": "Toen kwam jij",
-      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
+      "duration_ms": 127562,
+      "name": "Boterham",
+      "url": "https://open.spotify.com/track/43jTtqGXC9Haqr1CsCQ6et"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -503,6 +471,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "God Los",
+        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "God Los",
+      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Bidden In De Moshpit",
         "url": "https://open.spotify.com/album/4JtRnHZ4Kk3DEYsUPNXEQx"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 187704,
       "name": "Bidden In De Moshpit",
       "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "Toen kwam jij",
+        "url": "https://open.spotify.com/album/5Q3aWVbxIB5xWybBklr0HQ"
+      },
+      "artists": [
+        {
+          "name": "Lucky Fonz III",
+          "url": "https://open.spotify.com/artist/7A6JmzQ1VLKqqLQGlBc1Hm"
+        }
+      ],
+      "duration_ms": 254935,
+      "name": "Toen kwam jij",
+      "url": "https://open.spotify.com/track/3b7ZWOmR2AnOGl06qqE41N"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
+        "name": "Spijt Is Iets Voor Later",
+        "url": "https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "duration_ms": 189880,
+      "name": "Spijt Is Iets Voor Later",
+      "url": "https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
         "name": "Leonie",
         "url": "https://open.spotify.com/album/3lkGd1lTZMQXRbmH4FFGhS"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Spijt Is Iets Voor Later",
-        "url": "https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 189880,
-      "name": "Spijt Is Iets Voor Later",
-      "url": "https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
         "name": "v2.025",
         "url": "https://open.spotify.com/album/1UVFHFPXrnPXiLR7bOTiFZ"
       },
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Waarom Ik Zo Ben",
-        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
+        "name": "Doe Het Voor Het Geld",
+        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
       },
       "artists": [
         {
-          "name": "Merle",
-          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
         }
       ],
-      "duration_ms": 120833,
-      "name": "Waarom Ik Zo Ben",
-      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
+      "duration_ms": 190059,
+      "name": "Doe Het Voor Het Geld",
+      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -751,34 +751,18 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Doe Het Voor Het Geld",
-        "url": "https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5"
+        "name": "Waarom Ik Zo Ben",
+        "url": "https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud"
       },
       "artists": [
         {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+          "name": "Merle",
+          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
         }
       ],
-      "duration_ms": 190059,
-      "name": "Doe Het Voor Het Geld",
-      "url": "https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P"
-    },
-    {
-      "added_at": "2025-11-08 08:13:51",
-      "album": {
-        "name": "De Helft Van Het Verhaal",
-        "url": "https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4"
-      },
-      "artists": [
-        {
-          "name": "Droom Dit",
-          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
-        }
-      ],
-      "duration_ms": 244625,
-      "name": "Jochie",
-      "url": "https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY"
+      "duration_ms": 120833,
+      "name": "Waarom Ik Zo Ben",
+      "url": "https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -795,6 +779,22 @@
       "duration_ms": 166663,
       "name": "WijTwee",
       "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
+    },
+    {
+      "added_at": "2025-11-08 08:13:51",
+      "album": {
+        "name": "De Helft Van Het Verhaal",
+        "url": "https://open.spotify.com/album/5uNnNkVHmIGDsBUbP2CyC4"
+      },
+      "artists": [
+        {
+          "name": "Droom Dit",
+          "url": "https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs"
+        }
+      ],
+      "duration_ms": 244625,
+      "name": "Jochie",
+      "url": "https://open.spotify.com/track/5tNpYAk3ZYwStWmTgwmiuY"
     },
     {
       "added_at": "2025-11-08 08:13:51",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-11-08 08:13:51",
       "album": {
-        "name": "Haast",
-        "url": "https://open.spotify.com/album/0Wpczjdd5uj5Vckejcnd9f"
+        "name": "Opgeruimd Staat Netjes",
+        "url": "https://open.spotify.com/album/09UQgYfuVfFjBffG0Fx49I"
       },
       "artists": [
         {
-          "name": "Merle",
-          "url": "https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0"
+          "name": "Babs",
+          "url": "https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M"
         }
       ],
-      "duration_ms": 180594,
-      "name": "Haast",
-      "url": "https://open.spotify.com/track/1S89uc20DN0LjVxy8TYzEO"
+      "duration_ms": 182769,
+      "name": "Opgeruimd Staat Netjes",
+      "url": "https://open.spotify.com/track/6TNGnPsH8yxgPKQ8U4LeBV"
     }
   ],
   "unique_name": "indie.nl",

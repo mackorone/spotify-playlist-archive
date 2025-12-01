@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,863 likes - 120 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,870 likes - 120 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 119 | [堤防](https://open.spotify.com/track/5DPFPkq8JmAmeGdefTfVqi) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [暮夜徐行](https://open.spotify.com/album/0ijkqmoHUFvMd8K4uY81Mo) | 5:37 |
 | 120 | [大人的快樂](https://open.spotify.com/track/6YoPW9BzF3a0jQYfUXbs6L) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [大人的快樂](https://open.spotify.com/album/2iRIMFkcVNfBzJ2P6FcObs) | 3:58 |
 
-Snapshot ID: `AAAAAJEQNzuT/rOZKJY2EH2y2u2LoZ0E`
+Snapshot ID: `AAAAALzrYv4xjpyzihPB+7EtYI0HaEKm`

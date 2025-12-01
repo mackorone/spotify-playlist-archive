@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo e Lele Blade, Le Scimmie, in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,287 likes - 75 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,284 likes - 75 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 55 | [Anno Fantastico \(feat\. Shiva, Tony Boy\)](https://open.spotify.com/track/4PBn4zkgReSPmM41RYijJM) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Anno Fantastico \(feat\. Shiva, Tony Boy\)](https://open.spotify.com/album/6rIpx3OnZ7Jt0HW22Abx0Y) | 3:05 |
 | 56 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 |
 | 57 | [SMITH 'N' WESSON](https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:20 |
-| 58 | [350](https://open.spotify.com/track/6Q9tr8L0FhZNTOUmO1lnzP) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk), [GF](https://open.spotify.com/artist/0l2fWb4OvY60iyb7IvPw7Y) | [350](https://open.spotify.com/album/2oYyrWjG1fk4cweW5tYyY1) | 3:00 |
+| 58 | [350](https://open.spotify.com/track/6Q9tr8L0FhZNTOUmO1lnzP) | [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ), [Babywyne](https://open.spotify.com/artist/55hqNIuyJgDQhJrW5NSfVk), [GF](https://open.spotify.com/artist/6MyEne1vpRxj3IurnSvTYn) | [350](https://open.spotify.com/album/2oYyrWjG1fk4cweW5tYyY1) | 3:00 |
 | 59 | [Quanno me ne so juto](https://open.spotify.com/track/0Hi6vdLz9l1yBDHg3CPaCL) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Vita bona](https://open.spotify.com/album/0dzCyDqy3dTwfYkNflwTXL) | 4:19 |
 | 60 | [E FORT CHE FORT](https://open.spotify.com/track/0gjleHdL9Q5XpEsYargTsH) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [E FORT CHE FORT](https://open.spotify.com/album/1pCb4h7jlkB9ehLUhsGcOg) | 2:31 |
 | 61 | [PSG](https://open.spotify.com/track/50sLmAcDOEkiMeTbZnDTLl) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [PSG](https://open.spotify.com/album/2VTHXl42e8utykEVef79Uk) | 2:34 |

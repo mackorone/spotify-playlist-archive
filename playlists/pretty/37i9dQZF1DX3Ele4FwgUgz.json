@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"Nijigasaki High School Idol Club\". \u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\n",
-  "num_followers": 18642,
+  "num_followers": 18641,
   "original_name": "Love Live! Nijigasaki High School Idol Club",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-07-21 16:15:15",
       "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
-      },
-      "artists": [
-        {
-          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
-          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
-    },
-    {
-      "added_at": "2025-07-21 16:15:15",
-      "album": {
         "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
         "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 252280,
       "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
       "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
+    },
+    {
+      "added_at": "2025-07-21 16:15:15",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
     },
     {
       "added_at": "2025-07-21 16:15:15",

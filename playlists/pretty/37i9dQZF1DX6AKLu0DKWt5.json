@@ -395,26 +395,6 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Monsters: The Lyle and Erik Menendez Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newman",
-          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
-        },
-        {
-          "name": "Julia Newman",
-          "url": "https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll"
-        }
-      ],
-      "duration_ms": 207753,
-      "name": "Hum",
-      "url": "https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
         "name": "Te Maldigo (From \"Queer\")",
         "url": "https://open.spotify.com/album/2qywS1ipzGFTn1rrFEj923"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 173013,
       "name": "Te Maldigo (From \"Queer\")",
       "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
+        "name": "Monsters: The Lyle and Erik Menendez Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        },
+        {
+          "name": "Julia Newman",
+          "url": "https://open.spotify.com/artist/1vtV3L1qFm3hrZq5cGm0ll"
+        }
+      ],
+      "duration_ms": 207753,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/4XlfoFIWcr4LaSdox2D8X1"
     },
     {
       "added_at": "2024-12-20 14:00:08",

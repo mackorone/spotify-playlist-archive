@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 3468,
+  "num_followers": 3469,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASf0ZHqY0ZjeDm8kHY1oOUhLr2p",
+  "snapshot_id": "AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY",
   "tracks": [
     {
       "added_at": "2025-11-20 17:00:08",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "FOR\u00caT",
+        "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
+      },
+      "artists": [
+        {
+          "name": "White Corbeau",
+          "url": "https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Lib\u00e8re",
+      "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Un chant d'amour",
         "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 163200,
       "name": "TIP TOP",
       "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "FOR\u00caT",
-        "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
-      },
-      "artists": [
-        {
-          "name": "White Corbeau",
-          "url": "https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Lib\u00e8re",
-      "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "HALLELUJAH",
-        "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
-      },
-      "artists": [
-        {
-          "name": "ARTICLE15",
-          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
-        }
-      ],
-      "duration_ms": 222272,
-      "name": "HALLELUJAH",
-      "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Lisusu te",
         "url": "https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 234000,
       "name": "Lisusu te",
       "url": "https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "HALLELUJAH",
+        "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
+      },
+      "artists": [
+        {
+          "name": "ARTICLE15",
+          "url": "https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx"
+        }
+      ],
+      "duration_ms": 222272,
+      "name": "HALLELUJAH",
+      "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
     },
     {
       "added_at": "2025-11-20 17:00:08",

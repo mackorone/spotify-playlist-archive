@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16008,
+  "num_followers": 16006,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aSjmAAAAAADPlyrPA36vuhmdEH2T1I+O",
+  "snapshot_id": "aSo3gAAAAACDyvIGhw3ZLtoiuqFqpgGf",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Waiting On The Rain",
+      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 238666,
       "name": "Wana",
       "url": "https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Waiting On The Rain",
-      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
     },
     {
       "added_at": null,
@@ -815,42 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Petals",
-        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 214767,
-      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
-      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -875,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
       "artists": [
         {
@@ -884,9 +848,29 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 215423,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/1FZcMIsN76Fo1X0j4GHiWv"
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rose Petals",
+        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 214767,
+      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
+      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
     },
     {
       "added_at": null,
@@ -947,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 215423,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1FZcMIsN76Fo1X0j4GHiWv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Audio",
         "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
@@ -983,18 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/4ox48Ht5G3Au7TTs13irYE"
       },
       "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 223393,
-      "name": "Love's Close Around",
-      "url": "https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA"
+      "duration_ms": 205254,
+      "name": "Just You & Me",
+      "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
     }
   ],
   "unique_name": "This Is J Boog",

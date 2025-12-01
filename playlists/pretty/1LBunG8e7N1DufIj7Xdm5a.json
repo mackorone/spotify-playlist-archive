@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 237,
+  "num_followers": 236,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGK0I/PvUBEsG59539xFF9PD2wn61i",
+  "snapshot_id": "AAAGLHwyy5TfjrB/YcvlGF64ux4BV25K",
   "tracks": [
     {
       "added_at": "2025-11-28 15:41:12",
@@ -59559,6 +59559,22 @@
       "duration_ms": 187312,
       "name": "Point Blank",
       "url": "https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR"
+    },
+    {
+      "added_at": "2025-11-30 09:51:31",
+      "album": {
+        "name": "My town",
+        "url": "https://open.spotify.com/album/5xVycOvz6sR8fpn4O4oaKO"
+      },
+      "artists": [
+        {
+          "name": "Sly Chic",
+          "url": "https://open.spotify.com/artist/6qyCwtkYGE0XzZKd2eIrcs"
+        }
+      ],
+      "duration_ms": 308769,
+      "name": "My town",
+      "url": "https://open.spotify.com/track/2lsTmZMHngRUOzoH39adM9"
     }
   ],
   "unique_name": "playlist spotify free",

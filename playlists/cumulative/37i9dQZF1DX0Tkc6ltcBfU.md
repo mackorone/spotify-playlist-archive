@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Lil Baby
 
-2,422 songs - 4 day 17 hr 19 min
+2,423 songs - 4 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \(Remix\)](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 | 2024-09-13 | 2024-11-23 |
 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 | 2023-09-23 |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 | 2024-06-22 |
+| [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 | 2025-11-30 |  |
 | [Bobby Boucher](https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Bobby Boucher](https://open.spotify.com/album/3TtnKqZZIMXNIGYV9RLii7) | 3:15 | 2023-08-04 | 2023-08-19 |
 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 | 2025-06-20 | 2025-07-26 |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-21 | 2022-11-12 |
@@ -1765,7 +1766,7 @@
 | [Real Drip](https://open.spotify.com/track/3fwIVLw8KgouF6hZbAtVTq) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Real Drip](https://open.spotify.com/album/22pQewW5HSrRxfIf3cNUr7) | 3:08 | 2023-11-03 | 2023-11-25 |
 | [Real One \(feat\. Rich The Kid\)](https://open.spotify.com/track/5iltqBmJh9uCPKtLjdRZya) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Real One \(feat\. Rich The Kid\)](https://open.spotify.com/album/32EmBtxeF2ORdRHTcmljWN) | 2:46 | 2024-03-08 | 2024-04-06 |
 | [REAL RED](https://open.spotify.com/track/1CfBrk9GNuJOr7eCPHtRii) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd) | [REAL RED](https://open.spotify.com/album/6XElQE2JiCMUmBth2YFaS7) | 2:19 | 2025-04-11 | 2025-04-19 |
-| [Real Shit](https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Real Shit](https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn) | 2:39 | 2025-11-21 |  |
+| [Real Shit](https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Real Shit](https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn) | 2:39 | 2025-11-21 | 2025-12-01 |
 | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/track/6o6bAX7PmgPsEgaxzTndrP) | [Dee Watkins](https://open.spotify.com/artist/5cNn5kF2qKIOtBQJ2z4FM3), [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB) | [Realer and Realer \(feat\. Jackboy\)](https://open.spotify.com/album/6Gca3Qwq656lFFcFaomaTg) | 3:37 | 2022-03-04 | 2022-04-23 |
 | [Reap](https://open.spotify.com/track/0O1LguvYnYjHXNf5Bz1L5F) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Meet The Reap](https://open.spotify.com/album/5XVDMCHpVCu2wsPErKXDDj) | 1:42 | 2024-09-13 | 2025-02-01 |
 | [Rear View \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/1yyxNlDxQoznmaACLwbbmK) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Rear View \(feat\. Mariah The Scientist\)](https://open.spotify.com/album/45TRP3FDfdT6zr1WCtCCRX) | 2:30 | 2023-04-14 | 2023-04-29 |

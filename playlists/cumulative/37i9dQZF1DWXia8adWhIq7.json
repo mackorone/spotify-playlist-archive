@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "L\u00e1zaro",
+        "url": "https://open.spotify.com/album/0FiYmAl3eNisdKUmK3qOea"
+      },
+      "artists": [
+        {
+          "name": "Jottap\u00ea",
+          "url": "https://open.spotify.com/artist/1ii6Ijm1XCGzkn5rkVJXmQ"
+        }
+      ],
+      "date_added": "2025-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265769,
+      "name": "L\u00e1zaro",
+      "url": "https://open.spotify.com/track/7AXlOtlLv7Ty5ZURrDUSgR"
+    },
+    {
+      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/3eE7CHTzouV35tI3ndrjjO"
       },
@@ -2380,7 +2398,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-01",
       "duration_ms": 135230,
       "name": "minha vida",
       "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"

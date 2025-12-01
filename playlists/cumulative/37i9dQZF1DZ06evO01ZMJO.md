@@ -4,7 +4,7 @@
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 59 min
+57 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,8 +19,9 @@
 | [Engelbewaarder \(Outsiders Remix\)](https://open.spotify.com/track/4L4FR9VSIk6ndxDHw228kK) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder \(Outsiders Remix\)](https://open.spotify.com/album/3mmyyKKsIy1qHjMughg7lA) | 3:26 | 2025-07-20 |  |
 | [Face Down Ass Up](https://open.spotify.com/track/2vVvDu8S6c4Xxp2Q6GdvgA) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [DJ Isaac](https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq) | [Face Down Ass Up](https://open.spotify.com/album/27pGe63pMU9Ak5inmdgTME) | 2:30 | 2025-11-30 |  |
 | [Falling In Love](https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Falling In Love](https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf) | 3:01 | 2025-07-20 |  |
+| [Flitsmeister](https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Jebroer 4 Life](https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9) | 2:16 | 2025-12-01 |  |
 | [Flitsmeister](https://open.spotify.com/track/4Y7tzYw5EMJONPYzbtvtqp) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Jebroer 4 Life](https://open.spotify.com/album/1QpDBsLPy4pazlvEb5pUtt) | 2:16 | 2025-07-20 | 2025-11-07 |
-| [Flitsmeister](https://open.spotify.com/track/5Jge7TWCxstcZNfGIRSevt) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Flitsmeister](https://open.spotify.com/album/6oVwizQaFIHHVVykUYsdpj) | 2:16 | 2025-11-07 |  |
+| [Flitsmeister](https://open.spotify.com/track/5Jge7TWCxstcZNfGIRSevt) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Flitsmeister](https://open.spotify.com/album/6oVwizQaFIHHVVykUYsdpj) | 2:16 | 2025-11-07 | 2025-12-01 |
 | [Free \(feat\. Starsplash\)](https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Starsplash](https://open.spotify.com/artist/36QdWK7j3cN0UIPyrB6TIz) | [Free \(feat\. Starsplash\)](https://open.spotify.com/album/3g4YQYRWn89pIIAGhRIqNf) | 2:30 | 2025-07-20 |  |
 | [Gekkenhuis](https://open.spotify.com/track/50YtDweB0gTi03ym25nF9J) | [Jebroer](https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Gekkenhuis](https://open.spotify.com/album/3T4uVJnsaLcmXYSwIRuIl3) | 3:15 | 2025-07-20 | 2025-08-19 |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2025-07-20 |  |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-60 songs - 7 hr 2 min
+61 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [The Fields Are Ready](https://open.spotify.com/track/0nvTazbNK3MzfTRrGcHAf8) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/1rd7BiHfgEdK11EVbuZszm) | 5:10 | 2024-06-13 | 2025-02-28 |
 | [The Fields Are Ready](https://open.spotify.com/track/0zy9NI36IhHEG1pyAla2Ed) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I) | [a beautiful ending, a blessed beginning](https://open.spotify.com/album/2pmRUtYaB8fHdZEjIA3X15) | 5:10 | 2025-02-27 |  |
 | [The Kind of God You Are](https://open.spotify.com/track/6Ia1eFYLxJxXMlS36WCdFr) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6SCImSTo63Wk8Apr8IC9ku) | 3:38 | 2024-06-13 |  |
-| [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 | 2024-06-13 |  |
+| [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 | 2024-06-13 | 2025-12-01 |
+| [We Crown You \- Live](https://open.spotify.com/track/2IenS9sp0L7x8I5xfoqFJ2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/0NQTSnidSELYwevINO3coM) | 7:29 | 2025-11-30 |  |
 | [We Say Yes](https://open.spotify.com/track/41Fkr5t1sCWtgfXiRI525y) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/7fgEWRYDoWFpRvkV0JPWcI) | 6:24 | 2024-06-13 | 2025-02-16 |
 | [We Say Yes](https://open.spotify.com/track/6OWD4D56Xnpa91Uu0tCIX6) | [Tito & Jessica Tosado](https://open.spotify.com/artist/09H2m7JYzvkXyvyaItqE6p) | [Victorious](https://open.spotify.com/album/6LlVIVnpne75qIbHCAcrpz) | 6:24 | 2025-02-15 | 2025-04-12 |
 | [Yes Again](https://open.spotify.com/track/2l6bRgJWeWbt3uNDPCRGdk) | [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Testament](https://open.spotify.com/album/5IKHrXR0XVGtkKgtaNvPks) | 5:58 | 2024-09-15 | 2025-02-16 |

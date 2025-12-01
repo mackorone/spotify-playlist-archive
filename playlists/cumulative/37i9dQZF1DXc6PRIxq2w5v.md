@@ -4,7 +4,7 @@
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-503 songs - 1 day 1 hr 55 min
+504 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Encontrei em Você](https://open.spotify.com/track/5l9BoXPTWOv5O9L9gqRyqI) | [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [O Peter](https://open.spotify.com/artist/7fRgJdfGkaPPoG8zvIZ87K), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Encontrei em Você](https://open.spotify.com/album/636J2mxV7b6w1HzsiW0BIo) | 2:52 | 2025-07-19 |  |
 | [Entre a Cruz e a Espada](https://open.spotify.com/track/1oIWb7BQVHOQooiQScZUL8) | [Kalebe Pacheco](https://open.spotify.com/artist/4O9AEp24Ozw6pNe89Cl2vZ), [Kolli](https://open.spotify.com/artist/6TdB9Tq21brBwYzP6GxlaV) | [Entre a Cruz e a Espada](https://open.spotify.com/album/0qH63y4wZrzdD1MVF1SuyN) | 2:47 | 2022-03-22 | 2022-03-26 |
 | [Envia\-me a Mim](https://open.spotify.com/track/0yI2l2ipKCZZIgs2mJ10oU) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Envia\-me a Mim](https://open.spotify.com/album/234bj7YrLcH6llCan0IRmp) | 2:52 | 2023-06-02 | 2023-06-17 |
-| [Erros](https://open.spotify.com/track/1UdDJYLbEEcQEBEXO9qpuY) | [ALAHAC](https://open.spotify.com/artist/1oPfb394XrTFAaiXdAvJbz), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Ele Vem](https://open.spotify.com/album/4CQuYFl92BFBcAKATBnxxi) | 3:33 | 2025-09-12 |  |
+| [Erros](https://open.spotify.com/track/1UdDJYLbEEcQEBEXO9qpuY) | [ALAHAC](https://open.spotify.com/artist/1oPfb394XrTFAaiXdAvJbz), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [Ele Vem](https://open.spotify.com/album/4CQuYFl92BFBcAKATBnxxi) | 3:33 | 2025-09-12 | 2025-12-01 |
 | [Es o Meu Refúgio](https://open.spotify.com/track/5KATaqcejGz2LIlQskSZEZ) | [Lil Boas](https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL) | [Es o Meu Refúgio](https://open.spotify.com/album/27AyPTY8JJxFSRfo2nO0G2) | 2:34 | 2023-11-03 | 2023-12-23 |
 | [Escola do Crime](https://open.spotify.com/track/3E9gQR89YBL51q3o0jqnR3) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Escola do Crime](https://open.spotify.com/album/0CR7CEwmTwYJcXs7svuPQ7) | 2:20 | 2022-09-02 | 2022-10-01 |
 | [Escolhas](https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Dima](https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Escolhas](https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V) | 3:20 | 2024-08-23 |  |
@@ -265,6 +265,7 @@
 | [Mclaren](https://open.spotify.com/track/6RWE0OWD52VIiWMZmSIdie) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Mclaren](https://open.spotify.com/album/6U592VFq5obsMaoih8OC8U) | 2:38 | 2024-05-31 | 2024-07-06 |
 | [Me Deixou Forte](https://open.spotify.com/track/0LdLcXxSnWUJ1AQX1KPQ70) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Me Deixou Forte](https://open.spotify.com/album/3mBjCMB5t6X6FU6K1sm5Va) | 2:44 | 2024-04-19 |  |
 | [Me Faz Bem](https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE) | [Deus&Marco](https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k) | [Me Faz Bem](https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4) | 3:06 | 2023-05-12 |  |
+| [Me Guia Em Tua Luz](https://open.spotify.com/track/5kkHPzZDXCVFBz1SlJurmW) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Me Guia Em Tua Luz](https://open.spotify.com/album/1TMH2E7OoVT8GsWCgbosJE) | 2:52 | 2025-11-30 |  |
 | [Me Leva](https://open.spotify.com/track/5x5pQsHg5Gv42ueRrYvAK6) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP) | [Me Leva](https://open.spotify.com/album/626lo15ONMAnnmDINVOoCN) | 2:33 | 2022-04-08 | 2023-03-04 |
 | [Me Perdoe Pai](https://open.spotify.com/track/31kZJ0vwsWsBULl64IIQsF) | [Thiagão](https://open.spotify.com/artist/4fcCRuk90UtfkJmTkGxmgw) | [Me Perdoe Pai](https://open.spotify.com/album/0vh3sNiT2QRwK6qzq9bD3R) | 4:22 | 2023-09-08 | 2023-10-07 |
 | [Me Sustenta](https://open.spotify.com/track/7yDpnr91TkMNfFEVZdynrT) | [WC12](https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe) | [Me Sustenta](https://open.spotify.com/album/2qbFnuqecW7tGr1cRdFpT1) | 2:32 | 2023-09-01 | 2023-09-09 |
